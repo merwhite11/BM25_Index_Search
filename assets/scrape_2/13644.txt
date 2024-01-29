@@ -1,0 +1,6 @@
+How do star densities work?
+
+If we take a look at stars more massive than the Sun, their densities vary a lot. UY Scuti is an extremely low-density star that's only 8.5x more massive than the Sun, but is 1000-2000x its size. r136a1, on the other hand, is 256x more massive than the Sun, but is only 30x its size. Neither of them are main-sequence. 
+The Sun has a lower mass than both of them, yet it's also smaller than both of them.
+It doesn't seem like mass makes a big difference. Both reach hydrostatic equilibrium at completely different sizes. r136a1 has a much stronger gravitational pull than UY Scuti, but it should also have much more radiation pressure, right?
+So how can we determine the density of a star? Is there a formula?

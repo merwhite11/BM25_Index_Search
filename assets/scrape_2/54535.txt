@@ -1,0 +1,3 @@
+Reference point for the directions
+
+Are directions [North, South, West, East] derived from Earth's rotation around its axis? What makes north north and the south south? Is it arbitrary or is there some specific reference point?

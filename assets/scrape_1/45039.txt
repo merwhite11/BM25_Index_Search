@@ -1,0 +1,6 @@
+How to resolve the Moon's observed angular velocity with that given by Kepler's Third Law
+
+According to the sidereal period of the Moon's orbit around the Earth of 27.32166 earth days of 86400 seconds we get an angular velocity of $\frac{2\pi}{27.32166×86400} = 2.6617×10^{-6}$.  (NASA's factsheet has the Moon's sidereal period at 655.728 hrs.)
+If we use the NASA factsheet figures for the Earth mass of $5.9724×10^{24}$ kg, the Moon mass of $7.346×10^{22}$ kg, the semimajor axis of 384,400,000 m, and using a figure for 'Big G' of $6.6743×10^{-11}$, then we get an angular velocity of $2.6654×10^{-6}$.  Kepler's angular velocity implies that the combined mass of the Earth and the Moon are too high.
+Assuming that the figures are all accurate to the last significant figure, as stated, then there are possible errors of 0.0015% in Big G, 0.0017% in the Earth mass, 0.014% in the Moon mass, and probably as small as 0.0003% in the semimajor axis, but the error in omega is 0.139%.
+How to reconcile ... what have I missed ?  Or is it something to do with a time-weighted average separation that is somewhat closer to 385,000,000 m ?

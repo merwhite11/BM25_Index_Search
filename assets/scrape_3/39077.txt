@@ -1,0 +1,11 @@
+How was the mass of Venus determined?
+
+The mass of Venus seems rather complicated to determine to me:
+
+Venus doesn't have any satellites, so you can't just apply Kepler's third law (like you would with Jupiter or Saturn for instance) to determine its mass.
+The gravitational tug of Venus on the Sun is very small compared to that of other Jupiter or Saturn, so it seems like it would be difficult to extract what part of the Sun's proper motion is caused by Venus.
+There are few asteroids with orbits close to that of Venus, so not many objects who might have their trajectory modified by Venus.
+
+Knowing Venus' radius, and assuming it has the same density as the Earth, you can get a pretty close estimate of its mass (85% of Earth's mass with this assumption, when the actual value is 82%). But that's a pretty strong assumption (the density of Earth and Venus only happen to be close by chance) and a rather unsatisfactory "guesstimate".
+Nowdays, there are a few probes that have flown by Venus, so by looking at their trajectory, you can infer what Venus' gravitational field looks like. But those fly-bys are pretty recent. Did we know about Venus' mass before those fly-bys?
+How was the mass of Venus measured for the first time?

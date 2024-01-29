@@ -1,0 +1,11 @@
+Wavelength and radial velocity
+
+What is the relation between the wavelength and the radial velocity? I have a data: wavelength and intensity and I would like to plot intensity with respect to radial velocity - similarly as in the picture (source)
+
+EDIT
+I have a file of alpha H with 2 columns - wavelength (in angstrom) and intensity (normalized for 1) and I would like to plot intensity with respect to radial velocity. I use in gnuplot:
+c = 299792458
+lambda_0 = 6562.817*10**(-10)
+plot 'file.asc' using (c*($1*10**(-10)-lambda_0)/lambda_0):2
+
+Why I get the wrong range on the x-axis?

@@ -1,0 +1,30 @@
+Problems with FITS headers
+
+I'm working with some NEOWISE images that seem to have incomplete header tags. I've been advised by the SAO (because I'm using DS9 to view them) that I have
+"a partial PC matrix defined, yet it does not conform to the FITS WCS standard. With a combo of CDELT and PC keywords, the CDELT keywords hold the scaling factor, the PC keywords, the rotation matrix, which should be normalized. If you want the rotation matrix to also contain the scale factor, use CD keywords".
+Here's one of the headers I need to fix:
+SIMPLE  =                    T / conforms to FITS standard                      
+BITPIX  =                  -32 / array data type                                
+NAXIS   =                    2 / number of array dimensions                     
+NAXIS1  =                 1459                                                  
+NAXIS2  =                  903                                                  
+WCSAXES =                    2 / Number of coordinate axes                      
+CRPIX1  =                729.5 / Reference pixel for axis 1                     
+CRPIX2  =                451.5 / Reference pixel for axis 2                     
+PC1_1   =     -0.0333333333333 / Coordinate transformation matrix element       
+PC2_2   =      0.0333333333333 / Coordinate transformation matrix element       
+CDELT1  =                   1. / [deg] Coordinate increment at reference point  
+CDELT2  =                   1. / [deg] Coordinate increment at reference point  
+CUNIT1  = 'deg     '           / Units of coordinate increment and value        
+CUNIT2  = 'deg     '           / Units of coordinate increment and value        
+CTYPE1  = 'GLON-AIT'           / Projection for axis1                           
+CTYPE2  = 'GLAT-AIT'           / Projection for axis1                           
+CRVAL1  =                   0. / [deg] Coordinate value at reference point      
+CRVAL2  =                   0. / [deg] Coordinate value at reference point      
+LONPOLE =                   0. / [deg] Native longitude of celestial pole       
+LATPOLE =                  90. / [deg] Native latitude of celestial pole        
+RADESYS = 'ICRS    '           / Equatorial coordinate system                   
+BAND    = 'W1      '           / Wise Band                                      
+END
+
+I've already managed to fix a couple of the invalid tags, but apart from these minor edits, this is unaltered from the file that my research supervisor gave me. The FITS standard here gives descriptions of each of the tags, but I'm not sure how to implement the SAO's advice. Can anyone help me fix the tags?

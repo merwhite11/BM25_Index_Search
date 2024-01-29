@@ -1,0 +1,11 @@
+How is the maximum density in a circumstellar disk determined?
+
+I'm working with some equations to model the evolution of a circumstellar disk. One of the equations is
+$$\rho(r)=Ce^{-\frac{(r-r_{peak})^2}{2 \sigma ^2}}$$
+where $\rho$ is density, $r$ is the distance from the center, $C$ is a constant, $\sigma$ is one standard deviation, and $r_{peak}$ is the radius at which the density is at a maximum.
+If the function was of the form
+$$\rho(r)=Ce^{f(r)}$$
+where $f(r)$ is a function of $r$, I could find the maximum easily by finding
+$$\rho'(r)=Cf'(r)e^{f(r)}=0$$
+and solving for $r$. However, this appears to be impossible in the current case because $\rho(r)_{peak}$ is already in the equation, at $r_{peak}$.
+How is $r_{peak}$ determined in a given scenario? Is it determined experimentally?

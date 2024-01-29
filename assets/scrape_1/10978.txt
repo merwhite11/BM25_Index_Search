@@ -1,0 +1,14 @@
+Is the Universe really expanding at an increasing rate?
+
+Here's what I just read from Wikipedia's page on the Hubble Space Telescope:
+
+While Hubble helped to refine estimates of the age of the universe, it also cast doubt on theories about its future. Astronomers from the High-z Supernova Search Team and the Supernova Cosmology Project used ground-based telescopes and HST to observe distant supernovae and uncovered evidence that, far from decelerating under the influence of gravity, the expansion of the universe may in fact be accelerating. The cause of this acceleration remains poorly understood; the most common cause attributed is dark energy.
+
+I don't take this at face value because we should expect more distant objects to have higher observed speeds and therefore higher observed red-shifts. Here's why.
+
+Let's start with a model where the Universe expanded very fast early on, but has been slowing down ever since due to gravity, as one would normally expect.
+Remember that, the farther away a cosmic object is, the farther back in the past we are observing it. An object 1,000 light years away, if it's light is reaching us now, is being observed in its state that existed 1,000 years ago. We are effectively looking through a time machine.
+So if we observe a more distant object, we're observing an older state of that object. Therefore, we are observing it at a time when the Universe was expanding faster than it is now, so it has higher red-shifts.
+
+And isn't that what we observe today? The more distant the galaxy, the higher its red-shift? This is not inconsistent with a "normal" model where the expansion is slowing down due to gravity.
+What am I missing? Why are scientists trying to explain such things with weird dark matter and dark energy that otherwise have never been detected or found evidence of and aren't needed for any other model, and in fact get in the way of our models of physics and quantum dynamics?

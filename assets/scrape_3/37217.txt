@@ -1,0 +1,6 @@
+Binary Star Initial Speed
+
+I am writing a 2D simulation for binary stars orbiting each other. Currently, the initial position of the stars are on opposite sides of the screen with the left star having a velocity up the page and the right star having an equivalent velocity down the page.
+The question I have is there a formula for calculating what that initial speed should be so that the stars remain in a stable orbit? Optimally, the formula would take into account the mass of the stars (which are equivalent), the distance apart, and G.
+My apologies if this question would be better directed elsewhere or if I overlooked the answer in my own research.
+Thank you for your help.

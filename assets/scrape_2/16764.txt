@@ -1,0 +1,4 @@
+What is the most asymmetric known planet?
+
+Planets are more or less spherical, can you tell which one is the most asymmetric? Do they figure out such a property from an eccentric behaviour, or what?
+I have a simple technical question: an asymmetric body gets a torque in a gravitational field, is the rotational energy/acceleration to be subtracted from the regular energy/acceleration? In other words: does an asymmetric planet get less radial acceleration than a perfect spherical one?

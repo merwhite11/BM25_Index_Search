@@ -1,0 +1,18 @@
+Why are most discovered exoplanets heavier than Earth?
+
+Looking at all discovered exoplanets (4393 exoplanets), I found than only 17 of them (less than one percent!) have masses less or equal to Earth's mass. Why so?
+
+Is it because it is very difficult to discover an exoplanet of a low mass?
+Is it because of the mass distribution, so that Earth-mass planets are very rare?
+Is it because of the some other physical limitations?
+
+According to Wikipedia:
+
+The minimum mass/size required for an extrasolar object to be considered a planet should be the same as that used in our Solar System.
+
+From another article:
+
+A dwarf planet, by definition, is not massive enough to have gravitationally cleared its neighbouring region of planetesimals: it is not known quite how large a planet must be before it can effectively clear its neighbourhood, but one tenth of the Earth's mass is certainly sufficient.
+
+So, where are all these planets that are lighter than Earth? Personally, I suspect that it's very difficult to detect these (relatively) low-mass planets. If so, are there any theoretical limitations that prevent formation of low-mass planets?
+Note 1: most of the planets (around 70%) from the mentioned catalog do not have masses (i.e. there's no estimate for the mass of a planet). Most of the rest have $\sin i$ mass estimates. That might be one of the reasons.

@@ -1,0 +1,4 @@
+Why is there a difference between the cosmic event horizon and the age of the universe?
+
+According to wiki the cosmic event horizon is 5 Gpc but the age of the universe is about 13,7 billion years. Usually light from far galaxys needed at most 13,7 billion years to reach the earth so the event horizon should be the same. But in wiki the event horizon is 5*3,2billionly=16 billion ly. So is this difference just a matter of rounding or old data or is there something else what causes the differences?
+https://en.wikipedia.org/wiki/Cosmological_horizon#Event_horizon

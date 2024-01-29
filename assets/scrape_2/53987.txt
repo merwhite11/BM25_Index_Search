@@ -1,0 +1,5 @@
+How to plot star map using galactic coordinates and MS Excel graphs?
+
+For some time, I have tried to draw a star map for my story. Primarily for myself to understand the relative positions of stars, plot interstellar travels, and find home (and colony) stars of alien civilisations. I'm using MS Excel for this, gathering data from Atlas of the Universe, Wikipedia and other sources, and I also use Wolfram Alpha for many calculations. I even wrote a formula to convert galactic coordinates into cartesian, following the advice I got here.
+The problem I keep encountering is that none of the graphs I try adequately display these data. Even xy-scatter with cartesian coordinates with maximum sample size doesn't look like fitting to reality (until now, I have made two graphs, with x and y, and with x and z coordinates, working on a graph with y and z). I can't find a graph that would display galactic longitude and distance like on a compass, which would be ideal.
+Any advice on how to solve this issue?

@@ -1,0 +1,8 @@
+Metric to estimate measuring accuracy
+
+I need help/suggestions on which metric/approach to use.
+I am trying to estimate pointing precision by measuring the offset of the experimentally measured values from the real, theoretical values, with multiple measurements but on different quantities although from the same source.
+It means I have a list of deviations of exp measured values from the theoretical values. Pretty messy explanation, I know, I will try to explain it in an example.
+Specifically, I have a picture of a night sky, and I am measuring offset(angular distance) from the star in the image(experimentally measured value) and its position in the star catalog(theoretical value). And I am doing it for every star in the image. So, if I have 100 stars in the image, I have 100 calculated deviations(angular distances) of the measured values from the real values. With that, I am trying to estimate pointing precision on the random point in the image, regardless if there is a star or not. I could take the average value of all (100) separations.
+Or maybe the standard deviation of that separations? Mean of Rayleigh distribution?
+What would be an appropriate metric to use? Could someone redirect me to a similar problem, if there is such? Or some material to read?

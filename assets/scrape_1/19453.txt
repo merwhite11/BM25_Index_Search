@@ -1,0 +1,12 @@
+How to discover Neptune from the Uranus orbit (by computer simulation)
+
+I would like to demonstrate the existence of another planet (Neptune) by studying the discrepancy between the observation of the Uranus orbit and the mathematical prediction, this work was made from Le Verrier and I would like to understand his method.
+I have read the Chapter 2, "The Discovery of Neptune (1845-1846)," in the biography Le Verrier -- Magnificent and Detestable Astronomer,
+but it is too much in-depth and I did not understand very well his work.
+I am studying the three-body problem (Sun, Uranus, Neptune) via Matlab and the two body problem (Sun, Uranus) taking the initial condition from here:
+http://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html
+I have tried this method:
+I put Uranus in the Perihelion with the Max. orbital velocity and I calculate the semi-major axis, and it is more accurate than the one obtained from putting Uranus and Neptune in the Perihelion with their respective Max. orbital velocity.
+Here a cool pic made with Matlab:
+
+Can anybody help me? what I have to do and with what data I have to compare my prediction? Even a simple link could be helpful.

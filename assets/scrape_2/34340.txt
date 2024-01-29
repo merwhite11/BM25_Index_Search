@@ -1,0 +1,8 @@
+Are the stars distributed in uniform distribution, on the celestial dome, with respect to brightness?
+
+Has there ever been a statistical analysis of the distribution of stars in the sky (on the surface of the celestial dome), by brightness? I want to know if they are uniformly distributed.
+For example, all stars with Apparent Magnitude from 1.0 to 2.0. Are these uniformly distributed? Then all stars from 2.0 to 3.0, etc.
+EDIT: To avoid bias for the Milky Way, there should be some cutoff magnitude. I don't know exactly what's the best cutoff, but I would guess somewhere around 4.0 to 5.0 apparent magnitude. If the cutoff is 4.0, then that gives us 3 tiers to look at (1 to 2, 2 to 3, 3 to 4). Are each of those tiers uniformly distributed?
+Btw, the "obvious" distribution of theta from 0 to 2pi and phi from 0 to pi will NOT produce a uniform distribution. That will produce clustering near the poles. Wolfram Alpha explains it.)
+I did google around for this. The results are all about star clusters or binaries, not the actual starfield of the night sky, or sometimes about how to program a random set of stars on the sphere.
+That's not what I want. I'm looking for a statistical analysis on our own starfield. Has it ever been done before? What were the results?

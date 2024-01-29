@@ -1,0 +1,5 @@
+Angular momentum in planetary disk formation
+
+Reading about the formation of planetary disks, one of the major problems, it seems like, is the evacuation of angular momentum. Aparently planets can't form with the amount o angular momentum the system has in its early stages. I think I understand where that excess comes from, the collapse of the nebula onto itself and provoking a spin. Then there are many hypothesis on how it's evacuated, which are mostly pretty logical.
+Now my question, as a beginner in the study of physics, is this: Why does the angular momentum even need to be evacuated? If the angular momentum is too big, why can't planets still form? Does this have something to do with too much kinetic energy in the system?
+Thank you!

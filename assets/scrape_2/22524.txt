@@ -1,0 +1,13 @@
+Question about finding energy density of a fermionic-bosonic gas
+
+We know that energy density is given by this formula:
+$$u = \frac{1}{V}\int_0^\infty\epsilon_pf(\epsilon_p) g_s V/h^3 4\pi p^2 dp$$
+Where $\epsilon_p=pc$ for relativistic particles. also $f(\epsilon_p)= \frac{1}{\exp((\epsilon_p -\mu)/kT) \pm1}$ where minus is for bosons and plus is for fermions.
+Now if we evaluate this for photons which have $\mu =0$ we get
+$u = aT^4$ where $ a= 4 \sigma /c$ is radiation constant.
+If electrons and positrons are in equilibrium with photons (so $\mu = 0$ and $g_s =2$) We will get $u=(7/8) a T^4$
+equilibrium equation:
+$\gamma + \gamma \iff e^+ + e^-$ 
+Now think we have electron+ positron + three types of neutrinos + three types of anti neutrinos which are at all in equilibrium with photons. $g_s=1$ for neutrinos and anti neutrinos. now how can we get an equation for energy density? what we must use for $g_s$?
+I am also not sure about $u = (7/8) aT^4$, Is it the energy density of electrons or positrons (so the total energy density is $2u$) or energy of both of them is in this equation?
+Note: All of the particles are relativistic. These question conditions is for early universe.

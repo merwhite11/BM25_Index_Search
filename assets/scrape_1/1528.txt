@@ -1,0 +1,4 @@
+How to measure distances to stars by means of spectroscopic parallaxes?
+
+How to measure distances to stars by means of spectroscopic parallaxes on practice?
+What is the accuracy of measuring distances using this method compared with distances based on HIPPARCOS trigonometric parallaxes? My sample of objects consists of A-B type stars.

@@ -1,0 +1,7 @@
+How do you estimate the error on the height/width of a Gaussian?
+
+I'm trying to fit Gaussians to several lines in a spectrum that I have. Some of them overlap with one another, causing the fitting program that I'm using to not be able to give reasonable estimates for the errors on the measurements. For example, sometimes it will give the width of the spectral line to be 0.5 GHz but give the uncertainty at 1,000 GHz.
+To fix this, I've been doing manual estimates on the ones that it can't get. I read that you can estimate the error on the peak of the Gaussian with:
+Peak Error = (1/2)*(Width / Signal To Noise Ratio)
+but I can't find anything for the height or width. Are there similar ways to estimate the uncertainty on these measurements?
+Thank you.

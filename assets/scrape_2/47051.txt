@@ -1,0 +1,9 @@
+Why is the Nancy Grace Roman Space Telescope's field of view shaped like a PacMan "ghost"?
+
+The Curious Droid YouTube video NASA's Mega Hubble - The Roman Space Telescope illustrates the shape of the telescope's field of view and the outline has a smile or frown shape. For whatever reason it reminds me of a PacMan "ghost".
+Why does the field of view have this curved shape, I'd naively expect it to be rectangular. Is there some off-axis aberration correction magic going on? Something to do with its adaptive optics system?
+
+
+From WFIRST Update; Jeffrey Kruk, WFIRST Project Scientist  (Archived)
+
+Screenshot from Google Doodle pacman10-i note: it starts playing as soon as you click, adjust your device volume first, then enjoy!

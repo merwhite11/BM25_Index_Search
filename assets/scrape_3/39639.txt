@@ -1,0 +1,3 @@
+By how much does Haumea's fast rotation affect its surface gravity?
+
+The equation for surface gravity is $\frac{GM}{r^2}$ but I'm not sure how to include the effects from its rotation.

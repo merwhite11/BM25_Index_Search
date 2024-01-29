@@ -1,0 +1,6 @@
+How to find the resolution of a spectrum?
+
+I have been tasked to find the spectral resolution of some synthetic spectra (wavelength in Angstroms vs. flux) of different stars and degrade them to the resolution of observed spectra. But I am not sure how to find the resolution of a given spectrum?
+I tried calculating the values for $\dfrac{\lambda}{\Delta\lambda}$ and averaging them, but it is giving me a value that is a lot larger than I expected.
+Edit:
+I have added a part of an observed spectrum below. I have calculated the dLambda value and the value $\frac{\lambda}{\Delta\lambda}$ (named Resolution here). The resolution should be around 30000 (taken using VLT UVES) but I am getting a value that is 10 times larger.

@@ -1,0 +1,3 @@
+What is the infrared self-luminosity value of Jupiter and Saturn?
+
+I'm looking for these data to apply them to the Kelvin-Helmholtz mechanism but I can't find the values. Or at least if there is an order of magnitude compared to the solar luminosity.

@@ -1,0 +1,14 @@
+Is all of the data from the same program that found the Wow!-signal analyzed?
+
+I just read on Wikipedia that...
+
+By 1977, Ehman was working at the SETI project as a volunteer; his job involved analyzing by hand large amounts of data processed by an IBM 1130 computer and recorded on line printer paper. 
+
+Emphasis mine.
+From what I understand, the program had been running for four years before this happened, (1973–1995), and considering the amount of data that must have been generated and how bad humans are at doing boring repetitive tasks, it seems to me that the risk is very high that a similar event was overlooked. Here is a small example of the type of printouts he was looking at:
+
+You can easily imagine a stream of 5IJSI in one of the 50 columns looking the same as 21121 to a tired human operator.
+So I have two related questions:
+
+Was manual human inspection the only analysis done on the data during the seventies, or did he just do it out of interest? Was the program set up to alert on any "suspicious" signals, for example anything above a certain threshold for at least two samples?
+Is all data digitally preserved? I assume that by the eighties, everything became trivial to store, but I'm not so sure everything was stored in the seventies when they just started. If the data is preserved, has further automated analysis been done on the data set before and after the Wow!-event to rule out anything similar?

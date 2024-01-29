@@ -1,0 +1,5 @@
+Why can there be several seconds of lag between a binary neutron star merger and the emission of gamma rays from the same area?
+
+Answers to: Gravitational waves and gamma ray burst: how were the error bars determined for this speed of gravity calculation? Was $H_0$ used? go into substantial detail explaining this determination. These have been helpful, which encouraged me to try to read the linked paper again. However, based on comments and the paper itself, I see that assigning limits to what sounds to me to be an emission lag of several seconds between the end of the merger and a subsequent gamma ray emission from the same general object/area had to be at least considered and included in some way.
+Here I'd like to ask only about this lag. While I'd also like to know what produces the time-lagged gamma ray emission I'm not sure a priori if that is a different question and/or if it's been answered already.
+Question: Why can there be several seconds of lag between a binary neutron star merger and the emission of gamma rays from the same region?

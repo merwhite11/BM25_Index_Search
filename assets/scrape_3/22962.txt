@@ -1,0 +1,3 @@
+Why is NEOWISE used for galactic observation?
+
+I've been studying images from the WISE and NEOWISE missions. WISE used infrared cameras to survey the entire sky. When its primary mission ended in 2010, it was repurposed to look for Near-Earth Objects (described here). What changes to the spacecraft and software were needed in order to change its mission profile? Does it use the same cameras and instruments now as it did when performing a whole-sky survey? My thinking is that a whole-sky survey requires different equipment than a survey to look for small, fast-moving (compared to the stars) asteroids.

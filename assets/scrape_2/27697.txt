@@ -1,0 +1,18 @@
+Low mass cut-off for the Dharma Planet Survey's detection of habitable planets around 40 Eridani A?
+
+News of the discovery of a potentially habitable planet around the star 40 Eridani A (about 16 light-years away) is interesting for reasons including a 1991 letter described below in Sky & Telescope's recent article Super-Earth Discovered in (Fictional) Vulcan System, part of which is shown below.
+Question: Is there any way to estimate a low mass cut-off for the Dharma survey for this particular star? Could there also be a 1 or 2 Earth mass planet there as well, within a habitable zone, as-yet undetected? Or does data there exclude this possibility?
+The paper about the recent discovery: https://arxiv.org/abs/1807.07098
+
+Almost three decades ago, Gene Roddenberry (producer of the Star Trek universe) wrote a letter to Sky & Telescope, along with Harvard-Smithsonian Center for Astrophysics astronomers Sallie Baliunas, Robert Donahue, and George Nassiopoulos. In their Letter to the Editor, they argued that 40 Eridani A — an orange-ish star 16 light-years away — would make the ideal home for Vulcan, the home planet of Science Officer Mr. Spock.
+Now, a new discovery puts a little more science into that science fiction assertion.
+A Long-ago Letter
+In the July 1991 issue, the three astronomers and one movie-maker made the case for what star should be considered Vulcan's home:
+
+The star around which Vulcan orbits was never identified in the original series or in any of the feature films based on it and so has never been officially established. But two candidates have been suggested in related literature.
+
+Two Star Trek books named the star 40 Eridani A as Vulcan's sun, while another publication named Epsilon Eridani instead. However, Roddenberry and the astronomers made an argument for 40 Eridani A:
+
+We prefer the identification of 40 Eridani as Vulcan's Sun because of what we have learned about both stars at Mount Wilson. . . . The HK [Project] observations suggest that 40 Eridani is 4 billion years old, about the same age as the Sun. In contrast Epsilon Eridani is barely 1 billion years old.
+
+Based on the history of life on Earth, life on any planet around Epsilon Eridani would not have had time to evolve beyond the level of bacteria. On the other hand, an intelligent civilization could have evolved over the aeons on a planet circling 40 Eridani. So the latter is the more likely Vulcan sun. . . . Presumably Vulcan orbits the primary star, an orange main-sequence dwarf of spectral type K1. . . . Two companion stars — a 9th magnitude white dwarf and an 11th magnitude red dwarf — orbit each other about 400 astronomical units from the primary. They would gleam brilliantly in the Vulcan sky.

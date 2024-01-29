@@ -1,0 +1,4 @@
+Calculate eclipse days and duration of satellite
+
+If a satellite is revolving in a GEO orbit, then what will be the eclipse duration for it? How to calculate when the satellite will enter the dark side of the Earth? 
+Any formula or online tool would be appreciated.

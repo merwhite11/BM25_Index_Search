@@ -1,0 +1,8 @@
+How Does Earth Move In Relation To The Stars
+
+In my simulation, I have stars scattered around Earth, all stars are the same distance from the center of the Earth and positioned based on their right ascension and declination like so:
+
+I am wondering how the movement of Earth can be simulated based on the current time when running the simulation.
+I am using the hyg v3 database which can be found here. I think that this dataset has the data necessary to find out the motion of stars, but I may be wrong.
+Also, due to the structure of this simulation, with almost 120,000 stars, it is much more efficient to rotate/move the Earth rather than move all of the stars.
+How can I show the stars visible over a location at a certain time by simulating the motion of the stars by rotating Earth?

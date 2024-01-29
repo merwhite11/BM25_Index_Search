@@ -1,0 +1,3 @@
+Why do stars rotate slower than they're expected to?
+
+Due to conservation of angular momentum, I thought most stars would be spinning extremely fast because they have a relatively small diameter. However, it turns out that this is not true and most stars actually spin "slow"? Why is this the case?

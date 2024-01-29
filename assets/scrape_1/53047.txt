@@ -1,0 +1,33 @@
+Size of the whole universe if it were spherical
+
+Suppose the universe is spherical and its density ratio is
+$\Omega \leq 1.00125$
+$\Omega = 1.00125$ is approximately the maximum possible value of the density ratio according to the Planck Mission measurements.
+$H_0=67.6$ (km/s)/Mpc
+$c=300000$ km/s
+With these values, according to the Friedmann equations, the minimum radius of the whole universe ($\Omega = 1.00125$) would be:
+$$R=\dfrac{c}{H_0 \sqrt{\Omega -1}}$$
+$R=409.5$ Gly
+And the diameter $D = 809$ Gly
+We know that the radius of the observable universe (particle horizon PH) is $PH=46$ Gly, therefore
+$R / PH = 9.1$
+The ratio of volumes between the whole universe and the observable universe will be the cube of the radii ratio
+$V / V_o = 9.1^3=753$
+However, today I was surprised when I read Ethan Siegel's article entitled: Ask Ethan: How Large Is The Entire, Unobservable Universe? where he says:
+"Observations from the Sloan Digital Sky Survey and the Planck satellite are where we get the best data. They tell us that if the Universe does curve back in on itself and close, the part we can see is so indistinguishable from "uncurved" that it must be at least 250 times the radius of the observable part.
+This means the unobservable Universe, assuming there's no topological weirdness, must be at least 23 trillion light years in diameter, and contain a volume of space that's over 15 million times as large as the volume we can observe".
+How did he make that calculation and why is there such a difference with the figures I calculated above?
+My theory: Let's assume that Ethan used the same values for his calculation as we did above.
+$\Omega = 1.00125$
+$H_0=67.6$ (km/s)/Mpc
+$c=300000$ km/s
+$PH = 46$ Gly
+But in doing the operations, would Ethan have made a mistake and forgotten the square root?
+$R=\dfrac{c}{H_0 ( \Omega -1 )}$ ??
+Without the square root, the following results are obtained:
+$R = 11585$ Gly
+$R/PH = 252$ ~ 250 times
+$Diameter = 2R = 23162 \ Gly$ ~ 23 trillion light-years
+$V / Vo = 250^3$ ~ 15 million
+What do you think?
+Regards

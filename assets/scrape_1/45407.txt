@@ -1,0 +1,14 @@
+How to calculate mean line of sight velocity of stars after rotation of galaxy?
+
+I am trying to calculate the mean line of sight velocity from a simulation snapshot of a galaxy after the galaxy is inclined by a certain angle, theta. I am coding it in python.
+What I have done so far:
+I have extracted the [x,y,z] and [v_x,v_y,v_z] coordinates (x,y,z components of velocity coordinates) of the stars in the galaxy. There are many stars so there are many coordinates[[x1,y1,z1]...[xn,yn,zn]] and [[v_x1,v_y1,v_z1]...[v_xn,v_yn,v_zn]] etc. I have rotated the galaxy about the x-axis by an angle theta using the 3D rotation matrix.
+This rotates z and y coordinates and not x. When our line of sight is either along z-axis or along y-axis then rotating in this manner along the x-axis will lead to an inclined image of the galaxy. At least this is how I am defining inclination. Feel free to suggest if you have any other alternative definitions of inclination.
+Now, I can calculate my rotated x,y,z coordinates and they give different shapes of my galaxy, depending on my line of sight. eg. if my line of sight is z-axis, the galaxy is face-on when theta=0 and elliptical if I take theta=45 degrees.
+My questions are:
+
+do the velocity coordinates transform the same way as my spatial coordinates? That is, after rotation will my v_x, v_y and v_z  be transformed using the 3D rotation matrix I mentioned before?
+After rotation, if my line of sight is the z-axis, then how should I calculate the projection of the velocities along the z-axis? (Let's call the velocity coordinates after rotation v_xr, v_yr, v_zr to avoid any confusion. So, we will be getting rotated velocity coordinates as [[v_xr1,v_yr1,v_zr1],....[v_xrn,v_yrn,v_zrn]]) Should I just be taking the v_zr, v_xr and v_yr and dot product them with the z-axis: [0,0,1]? Then all we are left with are the v_zr. To get the mean I just take average of all v_zr.
+
+I feel like this is not all there is to it and I might be missing something or is this the final answer?...is there a different way to calculate the projection of the velocities along the line of sight? Do I have to take into account rotating frame of reference vs inertial frame or would that be redundant? If you also have any literature relevant to this that you think I might find useful please do share.
+Thanks so much in advance.

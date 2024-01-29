@@ -1,0 +1,14 @@
+Wilson effect: How "deep" are sunspots?
+
+I recently learned about the Wilson effect of the Sun's atmosphere. The 2009 Saas Fee Advanced Course 39 states:
+
+Near the solar limb, the umbra [the circular dark region of a sunspot] and the centre-side penumbra [the lighter border of the sunspot] disappear. We see $400-800{\rm km}$ deeper into sunspots than in the photosphere.
+
+
+Then, there is a publication entitled The sunspot—shallow or deep? by Solov’ev and Kirichek from 2014 which says in the abstract:
+
+Two sunspot models are compared-shallow and deep. According to the former, a sunspot, as a region occupied by a strong regular field and comparatively cold plasma, penetrates into the solar convection zone to a shallow depth of about 4 Mm. [...]
+
+Furthermore, there is a PhD thesis by Benjamin Beeck from 2015 which shows e.g. the following graph:
+
+In other words, I have values between $400 \ldots 7300 {\rm km}=7.3 {\rm Mm}$ for the depths of a sunspot which confuses me slightly - I would appreciate if somebody could explain me the rather large range of depths. One the one hand, I am interested in the depth of the umbra measured from the penumbra (if it can be seen as flat), and on the other hand I also would like to know the distance from the penumbra to the end of the (visible) photosphere, everything ideally with errorbars.

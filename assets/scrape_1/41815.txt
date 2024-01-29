@@ -1,0 +1,7 @@
+Is there a term for "path of the Sun at a given point of the Earth"
+
+I want to buy a house and I'm asking myself what quantity of daylight the various sides of the house receive.
+I know the house is roughly oriented in the east-west direction.
+But I'd like to know the exact apparent path of the Sun around the house depending on seasons, with (ideally) the elevation angle of the Sun.
+Is there a technical term for "the apparent path of the sun at a given point of the Earth, at a given time of the year"?
+Also, is there an online tool that allows one to visualize this path on a map?

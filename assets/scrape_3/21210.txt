@@ -1,0 +1,6 @@
+Does the Abell 1689 supercluster have angular momentum?
+
+The Abell 1689 is a large group of galaxies, containing a lot of elliptical galaxies :
+https://en.wikipedia.org/wiki/Abell_1689
+Usually, an elliptical galaxy don't have large angular momentum around its center of mass (spin angular momentum, if you prefer).
+My question is about the galactic group, globally as a whole.  Does it have angular momentum around its center of mass, or should it be negligible ?

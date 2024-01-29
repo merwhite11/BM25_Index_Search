@@ -1,0 +1,6 @@
+Binary pairings that haven't been discovered yet?
+
+Question: Are there any kinds of binary pairings that haven't been discovered yet? Any that are particularly significant, or that might shed some light on binary stellar evolution or theories of capture processes, that are sought, but so far no examples have been found or at least suspected?
+By "pairing" I mean a binary object where each is a type of star or a black hole.
+Stars can be anything from brown dwarfs to neutron stars. Black holes should be very roughly comparable to stars in size. (I'm not asking about a star in orbit around a supermassive black hole in the center of a galaxy)
+For example, recent observations of gravitational wave events have suggested a pair of black holes merging, and a pair of neutron stars merging.

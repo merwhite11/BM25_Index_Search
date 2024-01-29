@@ -1,0 +1,7 @@
+Get a table of Moon phase angle per day
+
+Where can I get a table with the Moon phase angle for each day ?
+It's available  here for a given day, but I would have to input each day of a year to get a full table. 
+=== NEW EDIT : 2019-09-18 ===
+Actually, I'm preparing a calendar of lunar phase with corresponding Moon photo for each day and for a whole year. For this, I downloaded a set of images here from Jay Tanner's website. The name of these images correspond to the phase degree, but when I associate these images with the data from JPL HORIZONS suggested by @Mike G, it doesn't match what I see in the Sky.
+How can I associate a set of photo of Moon phases to each day of a given period of time (for instance, the current year) ?

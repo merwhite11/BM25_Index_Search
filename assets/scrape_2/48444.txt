@@ -1,0 +1,3 @@
+What is the relation between Kelvin-Helmholtz timescale and free-fall timescale?
+
+What is the actual difference between these two timescales? Both of these timescales define the time for collapse when there is only gravity. Also, what does it mean by saying Kelvin-Helmholtz timescale is smaller than free-fall timescale for high-mass protstars? When are these timescales important in star formation/evolution ?

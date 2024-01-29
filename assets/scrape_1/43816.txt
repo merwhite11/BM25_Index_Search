@@ -1,0 +1,42 @@
+Cosmic variance - Fourier Transform - a few precisions
+
+I have posted initially on physics exchange but none answer, so I try my chance here (I am going to delete the physics exchange one) :
+I cite an original report of a colleague :
+
+If we are interested in power spectrum, we want to estimate the
+variance of the amplitude of the modes $\mathrm{k}$ of our Fourier
+decomposition. If one observes the whole observable Universe and we
+do the Fourier transformation we get a cube whose center is the mode
+$ |\vec{k}| = 0$ which corresponds to the mean value of the observed
+field.
+This mode has only one pixel. How do we measure the variance of the
+process at $ |\vec{k}| = 0 $? We can not.
+In fact we can but the value of doesn't mean anything because the
+error is infinite. In other words, we have an intrinsic (statistical)
+error which depends on the number of achievements to which we have
+access.
+one will be able to consider spheres of sizes $ dk $ between $ [k: k +
+> dk] $ which will contain a number of pixels $ N_ {k} = V_ {k}/(dk)^{3}$ where $ V_{k} = 4 \pi k^{2} dk $ is the volume of the sphere
+and $ (dk)^{3} $ is the volume of a pixel in our Fourier transform
+cube.
+So one can estimate how many values one can use to calculate our
+power spectrum for each value of $ k $. The greater the $ k $, the
+greater the number of accessible values and therefore the statistical
+error decreases. The power spectrum is a variance estimator so the
+statistical error is basically a relative error:
+$ \dfrac{\sigma (P(k))}{P(k)} = \sqrt{\dfrac{2}{N_{k}
+> -1}}_{\text{with}} N_{k} \approx 4\pi \left (\dfrac{k}{dk}\right)^{2} $
+So we can see that for the case $|\vec{k}| = 0$ we have an infinite error because $N_{k} = 1$
+
+
+I can't manage to proove that the statistical error is formulated like :
+
+$\dfrac{\sigma (P (k))}{P(k)} = \sqrt{\dfrac {2}{N_{k} -1}}_{\text{with}} N_{k} \approx 4\pi \left(\dfrac{k}{dk}\right)^{2}$
+and why it is considered like a relative error ?
+
+Which are the conditions to assimilate a statistical error (standard deviation) to a relative error ($\dfrac{\Delta x}{x}$) ?
+
+How to prove that $N_{k} = 1$ in the case $|\vec{k}| = 0$ ?
+
+
+Any help is welcome.

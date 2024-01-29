@@ -1,0 +1,4 @@
+Probability of planets in binary star systems?
+
+There is much fiction on binary stars with planets, for whatever reason, and this keeps supporting the popular impression that those systems are frequent. Indeed,  the methods for identifying exoplanets and binary stars are somewhat the same. Are there actual observations of a binary star system with at least another planet (habitable or not)?
+I know that binary star systems are rather frequent, and I am wondering whether there is any hard-science based statistics on how probable it is that systems of two or more stars have planets? As non-expert, I have the impression that not all configurations of binary star systems seem to be in favor of planets, see e.g. Roche lobe.

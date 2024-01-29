@@ -1,0 +1,24 @@
+Total number density of galaxies and problematic expression in practise
+
+This post comes from physics exchange forum, I have transfered it here, maybe I will be luckier since I have not received answers on the other forum.
+Here is the issue :
+I am asked to give the formal expression of the total number density of galaxies and explain why is this expression problematic in practice.
+From what I saw from my research and into my lectures, I have found the follwing relation which gives the number of galaxies $N$ with magnitude $(m < M)$ (number counts) :
+$\text{log}\,N(m<M)\,\propto\,0.6 M + \text{constant}\quad(1)$
+$N(m<M)\,\propto\,\text{exp}(0.6 M)\,\text{exp(constant)}\quad(2)$
+I don't know what the teacher wants to highlight, i.e by saying that the formal expression of the total number density of galaxies is problematic in practice, given that I even haven't the kind of expression or equation which gives the estimation of galaxy density.
+1) Concerning this distribution to use, do you advise me to use a distribution as a function of magnitude, mass or a distribution as function of luminosity (like Schechter) ?
+2) I have seen on web the HMF (Halo Mass function) but it seems to be about the dark matter halos : can we count one dark matter halo per galaxy ?
+3) But the problem is here is that a dark matter halo is more massive than the galaxy hosted in this halo : how can we deal with this ? 
+If someone could help me, this would be kind.
+PS: I have also to explain why the estimation of galaxies density is difficult and problematic.
+4) What are the issues when we want to estimate density of galaxies ?
+Concerning the distribution as a function of luminosity, I have found the Schechter luminosity function :
+$$N(L)\ \mathrm {d} L=\phi^{*}\left({\frac{L}{L^{*}}}\right)^{\alpha}\mathrm {e}^{-L/L^{*}}{\frac{\mathrm {d} L}{L^{*}}}$$
+UPDATE 1: my apologies, $m$ and $M$ represent apparent magnitude and not masses. 
+But the questions remain about the counting of galaxies and the computation of total density at large scale.
+In practise, what are the major problems when we want to estimate this density ?
+UPDATE 2: people here not really motivated by this bounty ... feel free to ask for precisions about this post .
+For the moment, I am faced to know at which scale I can compute a mean density : have I got to take into account this scale since it seems to have a dependance between density and volume considered, doesn't it ?
+Is there a general formula to express this dependance ?
+Regards

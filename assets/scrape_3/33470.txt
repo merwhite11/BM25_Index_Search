@@ -1,0 +1,9 @@
+How much infrared radiation is emitted by a bow shock?
+
+Has the amount of energy being emitted from R Hydrae's bow shock been studied?
+
+If so, is there any information how much infrared radiation is emitted in any means of measurement? 
+If the infrared energy from the Sun, measured 1 AU from the Sun being approximately 680 watts per meter square, how would the infrared energy of the bow shock compare at the same distance measured in the same units?
+Thanks to AtmosphericPrisonEscape for pointing me in the right direction.  I found this table from the DETECTION OF A FAR-INFRARED BOW SHOCK NEBULA AROUND R HYA: THE FIRST MIRIAD RESULTS.
+
+with the CSEs being the circumstellar envelopes.  Does this mean the CSE (bow shock?) is about 57% (19.7 compared to 33.9) the flux of the star at the 70 microns (mosaic) band?

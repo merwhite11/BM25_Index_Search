@@ -1,0 +1,9 @@
+How can the observable universe shrink in a Big Rip?
+
+As far as I know, the Big Rip occurs when the scale factor reaches infinity in a finite time. This will only happen in a universe dominated by phantom energy (i.e. a universe with an equation of state of $< -1$). However, according to Wikipedia,
+
+A universe dominated by phantom energy is an accelerating universe, expanding at an ever-increasing rate. However, this implies that the size of the observable universe is continually shrinking; the distance to the edge of the observable universe which is moving away at the speed of light from any point moves ever closer. When the size of the observable universe becomes smaller than any particular structure, no interaction by any of the fundamental forces can occur between the most remote parts of the structure. When these interactions become impossible, the structure is "ripped apart".
+
+On Wikipedia, there is a "[why]" tag, indicating that this wasn't explained very well.
+This raises two questions. In a universe dominated by phantom energy, why would the observable universe not continue growing and approaching the cosmic event horizon? After all, its comoving distance is just $\int_0^t \frac{\mathrm{d}t}{a(t)}$, so shouldn't it just monotonically increase?
+More confusingly, Wikipedia implied that the Big Rip occurs when the observable universe's radius becomes incredibly small and the fundamental forces can no longer hold any structure together, rather than when the scale factor reaches infinity. Am I right in assuming these are separate events, or do they occur at the same time?

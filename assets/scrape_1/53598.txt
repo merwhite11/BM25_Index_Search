@@ -1,0 +1,7 @@
+What is the correct way to represent the Parallax angle?
+
+I was recently reading about the parallax effect and hence had a doubt about the parallax angle.
+A lot of places mention the parallax angle as (θ1 + θ2)/2 while in some places it is just mentioned as (θ1 + θ2).
+NOTE: Here θ1 and θ2 are the two angles between the two points of observation and some reference point like a extremely distant star.
+Now, I wanted to know that which of the above mentioned formulas is correct for the parallax angle and what is reason behind its correctness. I also want to ask that what does the parallax angle actually represent/tell? Is it simply just the angle between the line of sights to a particular object like a star when viewed from two points or something else?
+Also, when we use the parallax angle to calculate the distance to the star using parallax angle as (θ1 + θ2)/2then the distance to the star comes from the sun to the star {by using trigonometry} and when we calculate using the parallax angle as (θ1 + θ2) then the distance to the star comes from the earth to the star {by using the formula: D = b/θ}. So now which one of these is giving the correct distance?

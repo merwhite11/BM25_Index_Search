@@ -1,0 +1,7 @@
+Is it possible that absolute magnitude for two stars is equal for some wavelength?
+
+The title explains the questions. I don't find any problem with it. As If the two stars A and B do have equal absolute magnitude for some wavelength $\lambda_0$ then
+$$M_A=M_B$$
+$$-5(\log d_A-1)+m_A=-5(\log d_B-1)+m_B$$
+$$m_A-m_B=5\log\left(\frac{d_A}{d_B}\right)$$
+I don't find any problem with this. But I'm not sure if this is true. Can any help me with this?

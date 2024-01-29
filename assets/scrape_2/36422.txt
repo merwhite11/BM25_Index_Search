@@ -1,0 +1,8 @@
+If Saturn's rings cannot coalesce into a moon because of tidal forces, then how are shepherd moons able to exist?
+
+From Wikipedia:
+
+In celestial mechanics, the Roche limit, also called Roche radius, is the distance within which a celestial body, held together only by its own force of gravity, will disintegrate due to a second celestial body's tidal forces exceeding the first body's gravitational self-attraction.
+Inside the Roche limit, orbiting material disperses and forms rings, whereas outside the limit material tends to coalesce.
+
+However if tidal forces are strong enough to prevent the rings from coalescing, then how are shepherd moons such as Pan and Daphnis able to exist without being disintegrated by Saturn's tidal forces despite literally orbiting within the rings themselves?

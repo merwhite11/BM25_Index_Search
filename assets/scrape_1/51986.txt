@@ -1,0 +1,5 @@
+Can a tidally locked planet sustain a magnetic field
+
+The vast majority of stars in the Galaxy, and probably the universe, are red dwarfs. The habitable zones of these stars are very close to the stars themselves, often within what would be Mercury’s orbit in our solar system. Because of this, such planets would most likely be tidally locked, but this presents a problem.
+To retain an earth-like atmosphere, any habitable planet orbiting a red dwarf would need a strong magnetic field. However, to the best of my knowledge, a body’s magnetic field is induced by rotation. So even if the core of this planet is kept liquid by tidal heating, without rotation it still won’t induce a magnetosphere.
+Can a tidally-locked, habitable planet still sustain a magnetic field?

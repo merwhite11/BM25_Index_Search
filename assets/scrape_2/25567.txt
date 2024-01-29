@@ -1,0 +1,19 @@
+Effect of the obliquity of the ecliptic / tilt of the Earth on the equation of time
+
+In attempting to answer the question “why aren’t changes in sunset and sunrise times symmetrical  around the solstices ?” I’ve got stuck on being able to explain the effect of the obliquity of the ecliptic.
+I understand the general idea of the equation of time and how the difference in clock time and solar time answer my original question, but I’m struggling to grasp how the tilt of the Earth contributes to the equation of time.
+I’m trying to visualise the effect, and assuming it is to do with the point at which the sun is highest in the sky not being in the middle of sunset and sunrise (except at solsitces and equinoxes?). So, is this correct? Is there any good way of trying to visualise it ?
+I’m a bit confused by the wikipedia entry
+https://en.wikipedia.org/wiki/Equation_of_time#Obliquity_of_the_ecliptic saying
+
+“If this effect operated alone, then days would be up to 24 hours and 20.3 seconds long (measured solar noon to solar noon) near the
+solstices, and as much as 20.3 seconds shorter than 24 hours near
+the equinoxes”
+“the inclination of the ecliptic results in the contribution of a sine wave variation with an amplitude of 9.87 minutes and a period
+of a half year to the equation of time. The zero points of this sine
+wave are reached at the equinoxes and solstices”.
+Is point 1 correct ?
+
+Also found these links helpful to some extent, but haven’t fully explained it for me.
+https://web.archive.org/web/20150910174438/http://www.rmg.co.uk/explore/astronomy-and-time/time-facts/the-equation-of-time
+http://totaleclipse.eu/Astronomy/EOT.html

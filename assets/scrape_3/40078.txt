@@ -1,0 +1,5 @@
+Where can I find galaxy spectra (in the form of FITS files)?
+
+I know there's SDSS and I tried searching for the spectra through the navigate and explore tool under CAS as well as by using RA/Dec coordinates under SAS, but every single time it comes out with 0 results, not part of the database or out of the SDSS threshold.
+Moreover, I do not know where I could cross-reference to get the SDSS object id based on other common identifiers (such as NGC) in order to refine my search since I have been solely using RA/Dec coord. as of now.
+Any kind of help on how to look for (interactive) spectra would be greatly appreciated. I wanted to use this to calculate the recessional velocities (and rotational velocities by observing H-alpha emission) of different galaxies.

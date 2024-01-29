@@ -1,0 +1,4 @@
+Parts of the Universe Shows Fewer Named Stars
+
+I'm becoming interested in the currently identified stars in the universe. There is a wide swath where much fewer named stars are shown. Why is this?
+The image below is a mollweide projection of the universe, with the earth at its center. It shows about 230,000 named stars located at their right ascension/declination points.

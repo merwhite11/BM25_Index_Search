@@ -1,0 +1,10 @@
+Secular parallax calculation in Binney and Merrifield
+
+I am now reading Galactic Astronomy (1998) by Binney and Merrifield. In this book at p. 44 there is this formula for calculating proper motion vector:
+$$\boldsymbol\mu_i = \frac{(\mathbf u_i \times\hat{\mathbf x}_i)\times\hat{\mathbf x}_i}{x_i},$$
+where $\mathbf u_i$ is stellar heliocentric velocity, $x_i$ is stellar distance and $\hat{\mathbf x}_i$ is stellar unit position-vector. When using this formula, I found that the proper motion has direction opposite to the stellar velocity (because of two multiplication with position-vector). Wouldn't it be intuitive that the motion has the same direction as the velocity? Did I miss something?
+Also, using this illustration:
+
+component of proper motion vector that is parallel to great circle connecting stellar position-vector $\hat{\mathbf x}_i$ and solar velocity vector $\hat{\mathbf v}_\odot$ could be found by,
+$$\mu_{\parallel i} = \frac{\boldsymbol \mu_i \cdot \hat{\mathbf v}_\odot}{\sin{\psi_i}}.$$
+I do not see why this is the case. Could someone please give me some hints?

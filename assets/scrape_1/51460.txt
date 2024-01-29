@@ -1,0 +1,8 @@
+Why does the altitude-azimuth mount have a blind spot near zenith?
+
+I understand the subject mathematically. Azimuth of the celestrial object under track changes a finite 180 degrees instead of a infinitesimal amount as the body passes zenith. This would require infinite rotational speed from the telescope, which is impossible.
+But what I need is really a physical and intuitive picture. I just don't understand why the telescope can't simply 'flip over' around the horizontal axis. And how would the telescope actually move to keep track of the object?
+I've been searching for a educational illustration or animation, but the best result google offers is this Youtube video 
+
+ and this picture from Wikipedia. They both illustrate the concept of alt mount nicely, but leave me no clue for the concept of blind spot. I've been staring at them for 20 minutes, trying and failing to mentally picture the process.
+Any help would be appreciated, especially if one with an illustration. Thanks!

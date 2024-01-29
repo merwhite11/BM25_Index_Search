@@ -1,0 +1,23 @@
+A Sky Map of Gravity - what would it look like?
+
+PREAMBLE
+Sky Maps exist which show the distribution and intensity of electromagnetic radiation received on Earth at various wavelengths.  An obvious form is a map of the stars (Star Chart). 
+Maps have also been made for the distribution/intensity of Cosmic Microwave Background Radiation and "to visualize the X-ray Universe".
+I find it interesting to consider the appearance of a Sky Map which showed the variation in intensity of the Gravitational Attraction Force (as currently experienced on Earth) attributable to masses lying in different directions (looking radially outwards from the Earth).
+Essentially (if we start with a Newtonian Model) this would be a map which indicated the magnitude of the sum of "mass/distance_squared" for all the masses falling inside each particular pixel of the map.  This then raises the questions of cosmological nature e.g. "how far do gravitational influences extend away from the Earth", along the lines of Olbers Paradox and "how was matter distributed through the Universe through time" - see The Cosmological Principle.
+QUESTION
+To bring this into the form of a question that can be answered succinctly, my question is: "What would a SkyMap of Radial Gravitational Force, looking outwards from Earth, look like (excluding that due to masses in the Solar System and Milky Way galaxy)."
+APPENDIX
+Calculation of Average Background Gravitational Force from Visible Universe
+(Assuming, for simplicity, a static, spherical, universe of uniformly-distributed ordinary matter with Newtonian gravity and a test mass at the centre of the universe).
+$\rho$ Average density of visible matter  $=3*10^{-28} Kg/m^{3}$
+$R$ Radius of visible universe   $=1.7*10^{26} m$
+Note:- values of $\rho$ and $R$ are obtained from here.
+$G$ Universal Gravitational Constant  $=6.673*10^{-11} Nm^{2}Kg^{-2}$
+$f$ Fraction of sky represented by $3.6 * 3.6$ degree rectangular pixel $=1/(50*100)$ $= 0.0002$.
+The formula for Force per unit mass $F_m$ is obtained by integrating (over the interval $0,R$) the incremental force per unit mass $F_i/m = G.M_i/R_i^2)$.
+Here $M_i$ is the incremental mass contained within the incremental volume $V_i$ of the spherical shell of radius $R_i=R_{i-1}+\text{d}R$ and given by $M_i = \rho.V_i \approx \rho.4\pi.R_i^2.\text{d}R$.
+Thus the total force/unit mass is given by:-
+$$ F_m = G\int_0^R \frac{\rho.4\pi.R_i^2}{R_i^2}\text{d}R  = 4\pi G \rho R $$.
+And so the force per unit target mass per pixel is given by:- 
+$$F_{m,f} =4\pi G\rho R f  = 0.86*10^{-14} NKg^{-1}.$$

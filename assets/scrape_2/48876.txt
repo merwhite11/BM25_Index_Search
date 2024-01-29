@@ -1,0 +1,9 @@
+How to get phase-folded data (-0.5,0.5)?
+
+How to get phase-folded data (-0.5,0.5)? For phase-folded value to the interval (0,1), I use:
+$$ \phi = \frac{H_{JD}-T_0}{P} \mod 1$$
+$\phi$ is phase
+HJD is time
+T0 is the reference time
+P is the period
+T0 should correspond to $\phi$ = 0

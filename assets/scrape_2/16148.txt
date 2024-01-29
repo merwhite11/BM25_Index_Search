@@ -1,0 +1,5 @@
+What are the possible solutions to the Red Supergiant problem?
+
+I have recently come across this so called "Red Supergiant problem" in the literature, a phrase that was coined by Stephen Smartt in 2009 in reference to why red supergiants with masses ∼16-30M⊙ have not been identified as progenitors of Type IIP supernovae.
+As I understand it astronomers have observed red supergiants with masses between 8-25M⊙ but only those below ∼16M⊙ have been proven to have undergone a Type IIP supernovae. With the minimum mass required to produce a Wolf-Rayet star at least 25-30M⊙ these red supergiants arent massive enough to be evolving into WR stars either.
+There could be systematic errors with the models or calculations and it is well known that calculating the mass of a supernova progenitor post-eruption can be quite a difficult task, but assuming these calculations are correct it leaves a big hole in our understanding of stellar evolution. So my question is, what can explain this gap?

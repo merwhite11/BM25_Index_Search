@@ -1,0 +1,10 @@
+What implications does younger volcanism have on the Moon's thermal evolution?
+
+In the paper Evidence for basaltic volcanism on the Moon within the past 100 million years (Braden et al. 2014), suggest that features such as Ina (image below) represent a far more recent age of volcanism (relatively speaking, around 100 million years).  
+
+Image source: NASA Science News, where they have a different non-volcanic theory.  However, this question is not about whether the features are volcanic or not.
+From the Braden et al. article abstract:
+
+The morphology of the features is also consistent with small basaltic eruptions that occurred significantly after the established cessation of lunar mare basaltic volcanism. Such late-stage eruptions suggest a long decline of lunar volcanism and constrain models of the Moon’s thermal evolution.
+
+Assuming the latest models indicate volcanism as recent as within the 100 million years ago, what are the implications for lunar thermal history of younger volcanism?

@@ -1,0 +1,11 @@
+Why are the Pillars of Creation pillar-shaped?
+
+The Pillars of Creation have a strong directional sense. They are referred to as "pillars" and another question asks how "tall" they are. Naively, it looks as if there is a source of "smoke" near the tips of the pillars, and the smoke is being blown by a wind. News explanations and Wikipedia explain that the pillars are formed by UV light from hot stars eroding clouds of molecular hydrogen, which suggests that the "smoke" is actually a void, but it still looks as if the void is being extended by the flow of a wind past the relevant stars.
+But I have no confidence that this is right, and the Wikipedia article is not very clear. Popular media explanations also don't seem to address the geometry.
+I see several possibilities:
+
+The gas is still relative to most of the nearby stars, and a small number of hot stars are moving through that system, causing the pillars.
+The hot stars are not in rapid motion relative to nearby stars, but the gas is flowing relative to that population.
+The shape has nothing to do with relative flows.
+
+What's the explanation? A pointer to a good article for the knowledgeable lay person would be helpful too.

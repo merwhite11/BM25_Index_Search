@@ -1,0 +1,8 @@
+What is the time/size/rigidity ratio for a space object to become mostly round?
+
+In the answer here multiple comets are identified that do not form a single round body.  
+A drop of water will form a round shape in the time it takes to free fall a couple of feet.  
+All of the moons and planets in our solar system are essentially round.
+Based on observable data, I assume that there is a relationship between the size, rigidity and the passage of time; that will result in all objects subject to only their own gravitational influences (Given: no body is ever truly uninfluenced by others) becoming spherically shaped (round).  Any object that is in microgravity and not round, therefore must be either very rigid and/or very newly formed.  
+What is the ratio or formula for calculating any one factor when the other two are known?   
+Note There would be other factors as well, speed of rotation, elasticity and energy of areas moving in opposition.  But I think these (and others?) would be minor compared to the other three.

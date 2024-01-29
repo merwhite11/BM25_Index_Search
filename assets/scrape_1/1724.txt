@@ -1,0 +1,6 @@
+What are the masses of the two stars (given the information provided)?
+
+If anyone would at least be willing to point me in the direction of finding the answer, or help me solve it I'd appreciate it. I don't know how to go about this, and need to know how to solve this on my own (plus I need the answer for a homework assignment, but just an answer isn't gonna help).
+Question:
+The spectral lines of two stars in a particular eclipsing binary system shift back and forth with a period of 10 months. The lines of both stars shift by equal amounts, and the amount of the Doppler shift indicates that each star has an orbital speed of $~8.0\cdot 10^4~ \mbox{m}/\mbox{s}.$ 
+What are the masses of the two stars? Assume that each of the two stars traces a circular orbit around their center of mass.

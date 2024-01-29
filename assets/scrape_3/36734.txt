@@ -1,0 +1,5 @@
+Can the electromagnetic counterpart of a gravitational be seen by 'small' telescopes?
+
+As follow-up question for my previous question I'm thinking about the search for the electromagnetic (EM) counterpart of a gravitational wave (GW). Is it possible to search for those events with 'normal' telescope, the ones (professional) amateur astronomers have? What I mean with a (professional) amateur astronomer is: a telescope with an aperture of 10" or more (remote) and the ability to do long exposures.
+Is that equipment capable of detecting the EM counterpart of a gravitational wave (in theory)? Thanks in advance!
+EDIT: I'm not sure if there is an EM counterpart in the visible light at all. Is this the case? Can such an event, that triggers a detectable GW, been seen in the visible light (by extension: with 'amateur' telescopes as stated above)?

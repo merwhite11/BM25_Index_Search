@@ -1,0 +1,3 @@
+What is the concentration of molecular oxygen in the Martian atmosphere?
+
+In the early 1970's and prior to the Viking landers, T. Owen measured the oxygen in the Martian atmosphere at 0.3%, I believe by doppler shift methodology through the Earth's atmosphere (wow).  During entry, the Viking spacecraft reported 1.3%.  I've heard (but not confirmed) that the MOXIE experiment used 1.3% in its modeling.  Are there more recent measurements, perhaps spectral from nearby spacecraft?  The source of O2 includes photolysis of CO2 (2CO2>2CO+O2), and the amount might provide some information on the sources and sinks in the Martian environment.

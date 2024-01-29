@@ -1,0 +1,12 @@
+Energetics of Titans Tholin haze
+
+So, I've googled and wiki'd on this, but no clue, so I turn my question to the community:
+Given Titan's nice orange haze that is supposedly composed of Tholins and strangely coincides with its stratosphere (taken from wikipedia)
+
+I got to think whether the haze takes the role of clouds on earth when it comes to energetics. From this a bunch of questions arose:
+
+Do we know whether the haze is responsible for heat trapping and thus, the formation of a stratosphere on Titan?
+What about radiation transport modelling with those particles, is this successful?
+Also I'd be interested in what we know about the stability of Tholins. Could they survive harsh irradiation that atmospheres on Hot Jupiters do encounter?
+
+I would like to be able to make a statement such as "Dust" or "Haze-controlled" energetics for the stratosphere of Titan, if this is so. It would be nice if you helped to clear this up.

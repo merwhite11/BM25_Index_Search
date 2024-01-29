@@ -1,0 +1,3 @@
+Do secondary stars in binary systems affect how the habitable zone is calculated or they can be calculated separately?
+
+I was taking a look at this tool to calculate habitable zones: Calculation of habitable zones which is pretty simple: you need to input Teff in Kelvins and Stellar Luminosity in solar units. Then I was wondering if this calculation is affected when you have binary systems and the tool just doesn't work anymore, or each habitable zone can be calculated separately. Do the effects of both stars add up and alter the calculation?

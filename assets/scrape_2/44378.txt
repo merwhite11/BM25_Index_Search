@@ -1,0 +1,8 @@
+How did pressure evolve in the (early) universe?
+
+I am trying to derive how the cosmological pressure $p(t)$ evolved over time in the universe, especially in the radiation and matter dominated epochs. There are some very nice explanations how $H(t)$ evolved with time here and here and I am looking for a similar explanation for $p$ as derivation from the Friedmann equations. I will also need some clarifications, e.g. is $p$ purely a result of the radiation or does also have a contribution by the matter?
+In the case of the radiation dominated epoch I guess I could simplify the second Friedman Equation
+$$\frac{2R\ddot{R} + \dot{R}^2 + k}{R^2} - \Lambda = -8\pi p$$
+by claiming $p\gg \Lambda$ and $p\gg k$ to
+$$- \frac{1}{8\pi}\left (\frac{2 \ddot{R}}{R} + H^2 \right)=p$$
+but I am not sure if I can then simplify more. And what assumptions could I use for in matter dominated epoch about the $p$? Or would it only make sense to set $p \approx 0$ in the matter dominated epoch? Thanks for your ideas about expressing the evolution of $p$!

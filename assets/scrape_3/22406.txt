@@ -1,0 +1,3 @@
+Estimating the Rate at which Moon is Moving Away from the Earth
+
+Here it has been discussed why the moon is moving away from earth at a rate of 1.5 inches per year. Is there any way we can estimate the value (e.g, 1.5 inches per year) mathematically?

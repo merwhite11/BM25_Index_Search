@@ -1,0 +1,4 @@
+What's the influence of a tilted orbital plane, when observing an exoplanet transit?
+
+I made an illustration to explain what i mean : If we assume we have two similar planet/star systems (similars in size/mass/period..) but tilted differently relative to us.
+How can we predict that differences in dimming measurements (time & intensity) are caused by the tilting of orbital plane? (and not by the diameter of the exoplanet)

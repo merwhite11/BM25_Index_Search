@@ -1,0 +1,44 @@
+Demonstration of scales for the two components (transverse and perpendicular) of Baryonic Acoustic Oscillations (BAO)
+
+I transfer here a post that has not had any answer pn physics exchange, so I am going to delete this latter. Maybe I will have more luckiness here.
+In an astrophysics context about BAO (Baryonic Acoustic Oscillation), it is written on the following paper BAO paper :
+"BAO are much smaller in amplitude than the CMB acoustic peaks, and are washed out on small scales. BAO in the observed galaxy power spectrum have the characteristic scale determined by the comoving sound horizon at recombination, which is precisely measured by the CMB anisotropy data $[12] .$ In principle, the BAO scale can be extracted from data both in the transverse direction $\left(s_{\perp}\right),$ and along the line-of-sight $\left(s_{\|}\right)$, i.e radial. Comparing the observed BAO scales with the expected values gives the angular diameter distance $D_{A}(z)=r(z) /(1+z)(\text { where } r(z)$ is the comoving distance $)$ in the transverse direction, and the Hubble parameter $H(z)$ in the radial direction:
+\begin{aligned}
+s_{\perp} & \propto \frac{s}{D_{A}(z)}\quad(1) \\
+s_{\|} & \propto s H(z)\quad(2)
+\end{aligned}
+]
+Seo & Eisenstein (2007) (11] (henceforth SE07) provided simple fitting formulae for forecasting the accuracies of $s / D_{A}(z)$ and $s H(z)$ from future galaxy redshift surveys. In this paper, we will clarify the assumptions made in BAO forecasts, and investigate their implications. We will discuss the method in Sec.2, present results on BAO forecasts in Sec.3, and summarize in Sec.4."
+Concerning my question, I don't understand the justification/origin of the 2 equations in $(1)$.
+i.e :
+$$
+\begin{aligned}
+s_{\perp} & \propto \frac{s}{D_{A}(z)}\quad(1) \\
+s_{\|} & \propto s H(z)\quad(2)
+\end{aligned}
+$$
+Indeed, assuming we have just a pure transverse component $s_{\perp}$ :
+then, the angular under which it is observed is :
+$\theta \simeq \tan(\theta) = \dfrac{s_{\perp}}{D_{A}(z)}\quad(3)$
+with $D_{A}(z)$ the angular diameter distance, i.e the physical distance of "objects" at given redshift ( I think from the paper that it is equal $D_{A}(z)=r(z) /(1+z)(\text { where } r(z)$ is the comoving distance).
+By the way, with this notation, $r(z)$ comoving distance is actually the cosmological horizon, i.e $r(z=1100) \approx 44\,\text{Gyr}$, isn't it ?
+But back to equations $(1)$ and $(2)$.
+So for a pure transverse component, I have a first element of answer for $(1)$ but not totally since I don't know how to make the link between $\theta$ and $s$ BAO scale.
+And Moreover, what about the equation $(2)$ :
+how to get it ? It makes think to the Hubble-Lemaître law of expansion but $s_{\|}$ is a distance and not a velocity. ok, there is a $\propto$ relation but I would like to  know where this relation comes from.
+If someone could help me to proove these 2 relations $(1)$ and $(2)$. Naively, I would have thought that $s_{\|} = s_{\perp}$ if Universe is homogenous but this is not the case actually and I don't understand why ?
+UPDATE 1: From this paper BAO scales , I am expecting inverted formulas for $eq(1)$ and $eq(2)$. Indeed, here an image from this given paper illustrating the 2 quantities :
+
+So, compared to what is shown in $eq(1)$ and $eq(2)$, I would rather say that :
+$$
+\begin{aligned}
+d_{A}(z)& =\frac{s_{\perp}}{\Delta\theta}\quad(3) \\
+s_{\|} & = \Delta z \frac{c}{H(z)}\quad(4)
+\end{aligned}
+$$
+From $eq(3)$, we could infer for $s_{\perp}$ :
+$$s_{\perp} = d_{A}(z)\,\Delta\theta\quad(5)$$
+So, as conclusion, how to make the link between (1),(2) definitions and ((4),(5)) : I don't grasp very well the parameter s :
+Can we write that $$s^2=s_{\perp}^2+s_{\|}^2$$ ?
+If this is the case, how to conclude to be consistent between the 2 papers ?
+Any help is welcome.

@@ -1,0 +1,8 @@
+Flux vs. Velocity representation of spectra?
+
+I'm looking for a basic explanation of the flux vs. velocity representation of a spectrum and how it's obtained from the regular flux vs. wavelength representation. A good example of this is in Arav et al 2001 (see here, Fig. 2 and 3).
+
+More specific questions I can ask are:
+• How do you convert between wavelength and velocity in these figures (i.e. what phenomenon are we using to make the conversion & what's the equation)?
+• What thing has the velocity in question/what does the velocity represent? For example, is it the astrophysical object moving in this direction?
+... But any further elaboration is much appreciated. As much as I've seen these (I'm trying to brush up, it's been a while since I've done astro stuff), I can't find any explanation for this; perhaps I don't know the right jargon, but yeah it's difficult to find a simple answer. Thanks in advance for the help.

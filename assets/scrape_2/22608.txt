@@ -1,0 +1,5 @@
+Distance from W(West) to vernal equinox
+
+I am pretty new to astronomy and the project I am currently working on requires some knowledge of equatorial coordinate system.
+As long as I have been researching this question, I understood that vernal equinox is the origin of this system. At this moment I am stuck with task of finding distance on celestial sphere between west(on horizon) and vernal equinox.
+So, how do you count this distance?

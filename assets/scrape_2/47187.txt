@@ -1,0 +1,4 @@
+balmer alpha , beta line intensity
+
+In different temperature environments, the intensity of the Balmer lines is determined by the Saha equation and the Boltzmann equation.
+What I'm curious about is as follows. How can we measure the intensity of alpha and beta lines at the same temperature?

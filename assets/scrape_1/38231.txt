@@ -1,0 +1,6 @@
+How significantly does the intensity of a meteor shower diminish after the peak?
+
+Every August 12 I take the family to the desert to enjoy the Perseid meteor shower. This year there will be an especially bright moon rising before 1:00, which is when the shower really peaks. Last year especially was a disappointment as the moon did not set until 2 or 3 in the morning, and there was little to see until it did, so I don't want to disappoint the family two years in a row.
+If I wait a day or two (depending on scheduling conflicts), so that the moon might rise later and be a bit less full, how much would that be expected to reduce the intensity of the meteor shower? I've found this paper discussing meteor shower activity profiles, but nothing that I could apply to this year's Perseid shower. This question also seemed relevant, but it does not contain the detail need to determine if waiting a day or two would significantly reduce the visible activity.
+Is meteor activity significantly reduced a day or two after the peak, for purposes of recreational observation by experienced observers?
+I understand that nobody can predict (space) weather. But the Perseid shower typically persists for two weeks after the peak. Is that a linear drop off? Exponential? Does the shower typically loose 5% of its intensity in two days, or 50%, or 95%?

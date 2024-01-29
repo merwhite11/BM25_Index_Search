@@ -1,0 +1,6 @@
+calculate the absolute and apparent magnitude for a binary star system
+
+I'm used to use this formula to find the apparent magnitude of a star
+$$m_1 - m_2 = -2.5 log(\frac{f_1}{f_2})$$
+If both star are at the same distance from us and their luminosity is the same, does it means that $f_1/f_2 = 1 ?$
+Knowing the magnitudes of the system, is there a way to find the magnitude of each star?

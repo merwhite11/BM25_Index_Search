@@ -1,0 +1,62 @@
+Math for calculating the terrestrial longitude directly under the sun with time
+
+I'm trying to calculate the longitude on the earth where it's noon at some time. (That is, the longitude which is coplanar with the plane defined by the sun and the earth's axis.)
+Here is my python code:
+from math import sin, cos, tan, atan, pi
+def sun_longitude(when):
+    """Given time in ms since 1/1/1970, return the longitude the sun is over at that moment"""
+    # https://en.wikipedia.org/wiki/Position_of_the_Sun
+    jdn = 2440587.5 + when / (1000.0 * 3600 * 24)
+    n = jdn - 2451545.0 # 1/1/2000
+    L = (280.460 + 0.9856474 * n) % 360.0
+    g = (357.528 + 0.9856004 * n) % 360.0
+    degtorad = 2.0 * pi / 360.0
+    lambda_ = L + 1.915 * sin(g * degtorad) + 0.020 * sin(2 * g * degtorad)
+
+    # https://en.wikipedia.org/wiki/Axial_tilt#Short_term
+    T = n / (365 * 100.0) # julian centuries from 2000
+    # ε = 23° 26′ 21.406″ − 46.836769″ T − 0.0001831″ T2
+    epsilon = 23.4392794 - 0.780612817 * T - 5.0861e-8 * T * T;
+    alpha = atan(cos(epsilon * degtorad) * tan(lambda_ * degtorad)) / degtorad
+
+    # https://en.wikipedia.org/wiki/Sidereal_time
+    # https://en.wikipedia.org/wiki/Hour_angle
+    GMST = (18.697374558 + 24.06570982441908 * n) % 24.0
+    print "jdn = {jdn}, n = {n}, L = {L}, g = {g}, lambda_ = {lambda_}, T = {T}, epsilon = {epsilon}, alpha = {alpha}, GMST = {GMST}".format(**locals())
+    LHA = GMST * 360/24 + alpha;
+
+    return LHA
+
+from datetime import datetime
+def sun_long_from_str(whenstr):
+    when = datetime.strptime(whenstr, "%Y-%m-%d %H:%M")
+    secs = (when - datetime(1970, 1, 1)).total_seconds()
+    return sun_longitude(secs * 1000.0)
+
+I'm aware that I'm not correcting for the correct quandrant in figuring alpha, but I have errors elsewhere; for example, for noon GMT Jan 1, 2000, I'm getting 279° rather than close to 0, which is what I'd expect.
+This isn't giving me correct answers, and I'm at a bit of a loss for how to debug it. Can anyone find my mistakes or point me to some reasonable sample code or worked-through example for this?
+Because, once I get the algorithm right, I'll be reimplementing for an embedded device, I can't just use an implementing package, and I haven't found a library which is straightforward enough for me to understand how I can implement this specific question.
+Thanks for a couple of error corrections. Now, when I run it, I get the following for these examples:
+2000-01-01 12:00:
+  jdn = 2451545.0, n = 0.0, L = 280.46, g = 357.528, lambda_ = 280.375680197, T = 0.0, epsilon = 23.4392794, alpha = -78.7141369122, GMST = 18.697374558
+  result: 201.74648145775257
+
+2000-03-20 07:35:
+  jdn = 2451623.81597, n = 78.815972222, L = 358.144758099, g = 75.2090537484, lambda_ = 360.006175505, T = 0.00215934170471, epsilon = 23.4375937902, alpha = 0.00566598789588, GMST = 19.4596915825
+  291.9010397253072
+
+As you can see, the first query (noon on Jan 1, 2000) now has a correct Julian day number. At noon GMT, I would expect the sun to be above a longitude near 0, so 201 is incorrect.
+The second query is the time of the spring equinox in 2000, which I expected to result in zeroing out the sidereal part of the calculation, but it does not.
+I attempted to consult the NASA HORIZONS web interface for ephemerides for the sun on 1/1/2000 at noon GMT, for both "Geocentric" and Greenwich locations, but I don't know how to evaluate the result and compare it to my work above.
+Geocentric:
+ Date__(UT)__HR:MN     R.A._(ICRF/J2000.0)_DEC  APmag  S-brt            delta      deldot    S-O-T /r    S-T-O
+**************************************************************************************************************
+ 2000-Jan-01 12:00     18 45 09.36 -23 01 59.7 -26.78 -10.59 0.98332762653520  -0.0127281   0.0000 /?   0.0000
+
+Greenwich:
+ Date__(UT)__HR:MN     R.A._(ICRF/J2000.0)_DEC  APmag  S-brt            delta      deldot    S-O-T /r    S-T-O
+**************************************************************************************************************
+ 2000-Jan-01 12:00 *m  18 45 09.36 -23 02 08.3 -26.78 -10.59 0.98331613178086  -0.0166655   0.0000 /?   0.0000
+
+Thanks again for any help you can provide.
+[Edited to correct Julian day calculation and use of degrees vs. radians for alpha and to add examples]

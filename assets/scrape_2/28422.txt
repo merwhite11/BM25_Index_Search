@@ -1,0 +1,3 @@
+what is the net effect of nodal and apsidal lunar precession?
+
+In apsidal lunar precession, the moon's elliptic major axis precesses eastward and completes one revolution eastward in 8.85 years.  Because the orbit is inclined relative to the ecliptic, basic geometry dictates that the ascending and descending nodes must also rotate about the ecliptic at the same rate (all else constant.)  But then there's nodal precession, rotating the nodes in the opposite (west) direction, one revolution every 18.6 years.  So what is the net effect of these two precessions on the positions of the nodes? Subtract the two?

@@ -1,0 +1,11 @@
+Is Earth's Surface "In orbit"?
+
+I'm having trouble understanding relative angular/tangential speeds at increasing altitudes above Earth's surface. In particular, I find this comparison of tangential velocities on Wikipedia very confusing. According to it, the tangential speed of Earth's surface (465.1 m/s) is different from the tangential speed required to "orbit" at Earth's surface (7.9 km/s). Why are these different values? My understanding of the Earth was always that material on and within the Earth is orbiting the center of the Earth just like satellties do. Time for multiple questions in one post...
+
+Is material on Earth's surface not in free fall around Earth's center?
+How are geostationary orbits even a thing? Seems like the only orbit that could be geostationary would be standing on the Earth's surface.
+What changes as you orbit further above the Earth's surface? Does your angular speed increase or decrease? Does your tangential speed increase or decrease?
+Is magma near the center of the Earth not rotating faster than material in the crust, like in an accretion disk?
+Can two objects be orbiting (circularly) at the same altitude but with different tangential speeds?
+
+Thanks in advance!

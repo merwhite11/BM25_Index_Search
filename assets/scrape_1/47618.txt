@@ -1,0 +1,3 @@
+Are there galaxy clusters or dark matter halos in the void?
+
+The void usually refers to the region of the Universe where the overdensity $\delta(x)$ is less than zero. What I'm curious about is whether there are virialized objects, like galaxy clusters or dark matter halos, living in such an underdense environment.

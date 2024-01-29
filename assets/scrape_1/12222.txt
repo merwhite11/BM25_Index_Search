@@ -1,0 +1,6 @@
+Annual path polar chart for a star
+
+I've often come across sun path charts like this (Wikimedia Commons) that show the position of the sun at any point of the year, at any time of day, for a specific location (or a set of locations), on an azimuth-elevation polar plot:
+
+I'd like to get the exact same chart (or data, to create my own chart) for any given star, such as Aldebaran or Sirius, for a given point on Earth.
+I'm looking into Stellarium scripting, as well as the HYG stellar database (I am not familiar with the mathematics of right ascension and declination, or how to convert this to azimuth-elevation like in the example). Is this a very unusual data product to ask for?

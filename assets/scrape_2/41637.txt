@@ -1,0 +1,12 @@
+Elongated Moon crater statistics?
+
+Many craters on Moon have circular shape as a result of the explosion upon impact. I got interested in oblong craters created by impacts striking the surface at a very low angle. Is there any statistics on the number of elongated craters on the Moon available?
+An article on an Oval Crater captured by the Lunar Reconnaissance Orbiter states:
+
+Non-circular (oval or elliptical) impact craters can form when the impacting bolide trajectory to the surface is <15° from horizontal or when the bolide impacts a sloped region on the (or some combination of both factors).
+
+How well-studied is that threshold impact angle? Is there a phase transition from no explosion if below 15°, to explosion if impact angle is steeper?
+References
+
+Are all impact craters circular?
+Lunar and Planetary Institute: Shaping the Planets: Impact Cratering

@@ -1,0 +1,3 @@
+help needed with inactivated option for wcs in SAO Image DS9
+
+Another trouble in SAOImae DS9: with the Rotation Measure catalogue I have just downloaded: “Rotation measure image of the sky (Taylor+2009)”, even if I have set up the WCS to galactic before the catalogue loadind, I obtain the table file with another WCS (and the option to chane WCSto another one is inactivated); then I can not obtain from it the galactic longitude and altitude needed for my report..

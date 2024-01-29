@@ -1,0 +1,16 @@
+Why does the eclipse in this video look annular?
+
+In this article about the AS870 flight that flew through the umbra of the March 8-9 2016 solar eclipse, there is a link to a YouTube video showing the eclipse recored by a handheld camera in the cabin. 
+Of course this is personal video and not recorded for analysis, but the images - especially during the zoomed part - remind me of an annular eclipse, rather than a total eclipse. Below are some screenshots - the weak Fresnel reflections in the cabin window act a bit like attenuators (ND filters) and give less saturated, though distorted views. Basically they all look like donuts.
+My first thinking was that if it was a total eclipse on the ground, it couldn't be annular at 35,000 feet closer to the moon. But thinking and looking again, the sun is near the horizon, and the plane at about 150 West longitude is not necessarily closer to the sun than observers on the ground were in Indonesia circa 120 East.
+My question is - is that just corona, or is the plane farther away enough from the moon at this time and location to make the eclipse annular? 
+It may be helpful to read about hybrid eclipses.
+note: I'm looking for a quantitative answer, not an opinion.
+There is another version of the video on YouTube with more views, but the narrative doesn't hold a candle to double rainbow guy original and musical version.
+
+
+Here is a screenshot of a typical AS870 flight from flightradar24.com, pretty much between 152 and 158 degrees west.
+
+This is from the second link in the top line - the Alaska Airlines blog entry for the flight.
+
+How an eclipse could possibly appear annular from a plane over one place on the planet while appearing total on the ground at another place on the planet 5,000 kilometers away (note, these occur at different times - the shadow is moving relative to earth and the earth is rotating):

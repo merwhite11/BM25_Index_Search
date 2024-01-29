@@ -1,0 +1,4 @@
+Why does moon's highest altitude change during the year
+
+I came across a question in which moon's highest altitude had to be calculated as seen from a certain latitude, also the month and the hour and the constellation in which moon would be in had to be calculated......
+I could not understand why or how would moons path change during the year

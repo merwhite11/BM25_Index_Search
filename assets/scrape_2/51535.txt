@@ -1,0 +1,21 @@
+A silicate asteroid hits the Moon at 35 km/s. What portion of the ejecta generated reaches lunar escape velocity?
+
+Background:
+Below is a graph from John D. O'Keefe's and Thomas J. Ahrens's Impact and Explosion Crater Ejecta, Fragment Size, and Velocity. Said graph models the amount of ejecta produced by silicate and ice impactors impacting at 5 kilometers per second. The red box, which I added, contains 4 symbols; from left to right, they and the lines beneath them represent the escape velocities of:
+
+An asteroid (Ceres is used as the model here)
+The Moon
+Mars
+The Earth
+
+The vertical axis is a logarithmic scale representing the fraction of ejecta traveling at a certain speed relative to the total mass of all the ejecta. The horizontal axis is a logarithmic scale representing various escape velocities.
+
+This chart suggests that between 0.001% (1 * (10^-5)) and 0.0001% (1 * (10^-6)) of the ejecta produced by silicate impactors hitting the Moon at 5 km/s travels quickly enough to escape the Moon's gravity (lunar escape velocity is represented by the 2nd vertical line from the left). My guess, after using my screenshot measurement tool to measure it, with this scale as a reference, is ~0.00043% (4.3 * (10^-6)); this guess is quite precise but likely inaccurate.
+According to the Meteorite Impact Ejecta: Dependence of Mass and Energy Lost on Planetary Escape Velocity, by the same authors, relatively slow iron impactors hitting bodies with escape velocities greater than 1 km/s produce relatively less ejecta per unit of energy the impact releases in comparison to relatively faster iron impactors. The same is true in the case of anorthosite (i.e. relatively rocky and not as metallic) impactors, for which the escape velocity value is 200 m/s rather than 1 km/s.
+While there are only two data points to work off of here (iron impactors and anorthosite impactors), this suggests a trend in which faster-moving impactors are more "efficient" at converting their kinetic energy into ejecta velocity. This also makes sense intuitively.
+Faster-moving impactors release more energy than slower-moving impactors of the same mass, resulting in more powerful shockwaves within the pool of molten material formed by large impact events. More powerful shockwaves rebound faster and more violently (think the little upwards spike produced by a drop of water splashing into a cup); the faster the shockwave, the greater the "spike", meaning faster ejecta, a greater quantity of ejecta, or both.
+On top of that, the greater energy released by faster-moving impactors will vaporize more rock and soil around their impact point. As per Meteorite Impact Ejecta: Dependence of Mass and Energy Lost on Planetary Escape Velocity, such vapors are trapped in the transient cavity, and, later on in the crater-forming process, "expand and excavate the overlying planetary surface material" (in other words, they blast outwards and take the now-fragmented stuff above with them at various velocities).
+Assuming faster impactors turn more of their energy into ejecta energy, it stands to reason that the velocity of ejecta increases as the velocity of the impactor producing it increases, and therefore that a version of the graph above made for 35 kilometer-per-second impact velocities would have a less steep slope, representing a greater portion of the ejecta moving at high speeds (or, rather, pieces of ejecta moving at more similar speeds to one another).
+Question:
+I'd like to extrapolate the above graph to find the portion of the ejecta escaping the Moon's gravity due to a silicate impactor hitting the Moon at 35 kilometers per second. Does anyone have educated guesses/heuristics/etc. that could let me make a reasonably informed guess/Fermi estimate regarding velocity distribution of ejecta (or, for that matter, a formula or outright answer)?
+For the purposes of this question, let's say it's a fairly big one: 433 Eros, at (6.687 * (10^15)) kg. While it's no 2 Pallas or 4 Vesta, it's certainly not a piddly little 99942 Apophis or 25143 Itokawa, either.

@@ -1,0 +1,16 @@
+Kardashev Scale, A Slight Modification
+
+The Kardashev Civilization Scale
+
+Type I: Uses 100% of the energy of the planet.
+Type II: Uses 100% of the energy of the star.
+Type III: Uses 100% of the energy of the galaxy
+
+As you can see, the scale is quantitative (obviously, duh). Civilizations are categorized based on what portion (%) of the available energy it consumes.
+Carl Sagan (requiescat in pace) modded the scale, allowing finer distinctions to be made ... the scale becomes continuous, instead discrete.
+Anyhow, I was wondering if we could also consider what looks to me like (quasi)qualitative aspects of the Kardashev scale. For instance, let's look at the set of energy sources on a planet, {fossil fuel, wind, water, geothermal, etc.}. We could then say that, since we do tap into all categories of energy sources available on the planet AND the sun's energy as well, although this is nowhere close to a 100%, human civ is (quasi-qualitatively) a Type II civilization.
+Is this a legit proposal to put forward? Falls flat on its face, because such a classification has $0$ utility and/or could actually backfire on us?
+Side quest: I treated the classes of energy sources as qualities (nonquantifiable) e.g. like bananas, watermelons, etc. Is this kosher ... so to speak?
+EDIT 1 START
+It looks like I want to know how we might become a (quasi)qualitative Type III civ? Can't we extract and use even 1% of our galaxy's energy? That would do it. Can, for example, starlight be harvested? More seems possible.
+EDIT 1 END

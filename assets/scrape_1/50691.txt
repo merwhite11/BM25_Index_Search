@@ -1,0 +1,4 @@
+Optimal exposure time for photography with unmotorized telescope
+
+Since celestial objects move along the sky, taking long exposure shots with an unmotorized telescope will show a straight or slightly curved line of light instead of the still object (star trail).
+Motorized scopes don't have this problem because they can be set to follow the rotation of the earth or objects in the sky. Unmotorized scopes can't do this, so long exposures are not practical. What is the optimal exposure time for photography with an unmotorized telescope?

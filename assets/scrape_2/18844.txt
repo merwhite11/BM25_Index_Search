@@ -1,0 +1,5 @@
+The deduction of the Hill Sphere formula
+
+This question may be a little lazy, but can anybody give me a proof of the Hill sphere formula? Acording to wikipedia, the formula for the radius, $r$, is
+$$r\approx a(1-e)\left(\frac{m}{3M}\right)^{1/3}$$
+where a body of mass $m$ is orbiting a much more massive body of mass $M$ with a semi-major axis $a$ and eccentricty $e$.

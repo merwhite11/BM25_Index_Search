@@ -1,0 +1,3 @@
+Is there a limit to how many objects can orbit eachother in a chain?
+
+I was wondering if there is a theoretical limit to how long a chain of orbiting objects can be, for instance you can orbit the moon which orbits the earth which orbits the sun which orbits the galaxy, i was wondering how long that chain could theoretically be.

@@ -1,0 +1,18 @@
+Unusual amount of white dwarfs in star clusters in my analysis
+
+I'm trying to plot H-R Diagrams of open clusters using data from Gaia DR3. My workflow is something like this:
+
+Plot apparent magnitude vs log(distance) in pc. An overdensity would indicate the presence of a cluster around that distance.
+
+Filter out stars near this overdensity and generate a histogram against distance.
+
+Fit the histogram to the gaussian and apply a  $3\sigma$ cut to pick stars likely in the cluster.
+
+
+
+The corresponding HR Diagram looks like this:
+
+I have plotted HR Diagrams for many other clusters too:
+
+The horizontal branch of stars( in the diagram, not the one that follows the red giant phase) is so pronounced, it worries me since the open clusters are not very old to contain so many white dwarfs(for example, when I plotted the HR Diagram of Omega Centauri, the stars were mostly in the red giant region, and Omega Centauri is definitely older than these). Note that the Wishing Well Cluster doesn't even have a distinctive main sequence. I have tried playing with the ADQL Queries I used, but either I don't see a distinct Gaussian, or I face the issue described above. 
+What could have gone wrong? Is there a more efficient way to pick out the stars? Any help would be appreciated. (Let me know if representative codes are required at any point).

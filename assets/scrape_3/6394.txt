@@ -1,0 +1,3 @@
+Free neutrons and stellar nucleosynthesis
+
+Both the R-process and the S-process of stellar nucleosynthesis rely on absorbing 1 (S) or more (R) neutrons. Where do they come from? I thought there are no free neutrons in stars. (Also the half-life of a free neutron is only 15 minutes, so the source has to be inside the star)

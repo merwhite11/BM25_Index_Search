@@ -1,0 +1,11 @@
+Is Jupiter a dwarf planet?
+
+I know the question seems silly, but as far as I've understood, is this the definition of a dwarf planet:
+
+circling around a star, and not being a star itself
+having a round shape (otherwise every comet or asteroid could be a (dwarf) planet)
+not being able to clear its own orbit (otherwise it's a planet)
+
+If we have a look at Jupiter, then we can easily confirm the two first points, but the third one is an issue: in Jupiter's orbit there are two sets of asteroids, called the Trojans, which are located, together with Jupiter, in some kind of regular triangle, turning around the sun. Following the laws of Kepler, Jupiter and the Trojans have the same speed, so Jupiter can't catch them and although Jupiter's gravity is very strong, it does not stretch to the other side of the sun, which means, following the definition, that Jupiter is a dwarf planet.
+I know, Pluto is called a dwarf planet because of the many objects in its orbit, and Pluto's gravity is so small that it can't get rid of those objects. Nevertheless in a scientific you can't use vague wordt like "vicinity", "close", ..., so you can't say Pluto is a dwarf while Jupiter isn't because of the vicinity of the mentioned objects (being "too close").
+Do I have a point here or am I missing one? :-)

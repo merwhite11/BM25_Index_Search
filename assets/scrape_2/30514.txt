@@ -1,0 +1,4 @@
+Can anyone one show how speeds greater than c cause a paradox on a space time diagram?
+
+So according to Relativity, time moves at different rates for different observers, and distant observers will actually disagree on the order of events.  Now from what I gather this gets sorted out for objects with relative speeds less than c, but would ultimately cause a paradox for anything moving faster because it would time travel.  However, I don't really see how.  On a spacetime diagram light always moves at a 45° angle, or at least some angle between 0° and 90°, and the only way I see anything effecting the past is if something moves at an angle greater than 90°.
+So can someone please give a visual representation that explains the issue?

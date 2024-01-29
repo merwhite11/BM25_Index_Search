@@ -1,0 +1,4 @@
+Question about mass growth rate for individual planetesimals
+
+In one stage of classic accretion, the mass growth rate with time (dm/dt) for individual planetesimals is proportional to $m^{2/3}$ and in another stage it is proportional to $m^{4/3}$.
+My question is why are the exponents different? Which stage is a runaway and which stage comes first?

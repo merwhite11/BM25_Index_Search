@@ -1,0 +1,10 @@
+Intergalactic Lyman-alpha absorption for high redshift quasars (Gunn-Peterson effect)
+
+This is a follow up to a recent question on SE asking about the apparent suppression of radiation shortward of the (red-shifted) Ly-$\alpha$ line of a quasar at redshift $z=6.53$.
+
+The general explanation for this is the Gunn-Peterson effect according to which beyond a certain redshift the universe has not re-ionized yet and thus the hydrogen is neutral throughout and can absorb the Ly-$\alpha$ line at any redshift and not just at redshifts corresponding to the localized clouds of neutral hydrogen (which result in the Ly-$\alpha$ forest (note that the spectra have been scaled back to the quasar reference in that reference)).
+Now according to cosmological models it is thought that re-ionization has been completed at a redshift $z=6$, so only quasars with a redshift larger than this show complete absorption of the Ly-$\alpha$ line at wavelengths smaller than its peak wavelength ($9156 \mathring{A}$ in this case). However, if we take for instance the wavelength of $7000 \mathring{A}$ here, hydrogen absorbing locally at $1216 \mathring{A}$ (the Ly-$\alpha$ rest wavelength) must have been at a redshift
+$$z_a(7000 \mathring{A})=\frac{7000}{1216} -1 = 4.76$$
+($z_a$ should indicate that this is the (wavelength specific) redshift of the Ly-$\alpha$ absorbing hydrogen gas located between us and the quasar , not the redshift of the quasar (which has a fixed value of 6.53 in this case). )
+This value of $z_a$ is way beyond the point where re-ionization is thought to have occurred, so hydrogen should not be completely neutral, and thus some of the quasar emission should still reach us at this wavelength. Yet the spectrum shows effectively zero intensity at this and even smaller wavelengths.
+How can this paradox be resolved? Did I make some mistake here in my argument?

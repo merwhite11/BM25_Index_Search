@@ -1,0 +1,9 @@
+Were there any gravitational wave coincidences between KAGRA and VIRGO and/or LIGO?
+
+KAGRA the Kamioka Gravitational Wave Detector and formerly the Large Scale Cryogenic Gravitational Wave Telescope (LCGT)
+
+...became operational on 25 February 2020, when it began data collection. It is Asia's first gravitational wave observatory, the first in the world built underground, and the first whose detector uses cryogenic mirrors. The design calls for an operational sensitivity equal to, or greater than, LIGO and Virgo. KAGRA is located in the Kamioka Observatory in Gifu Prefecture, Japan. The observatory specializes in the detection of neutrino, dark matter and gravitational waves, and possesses other important instruments, including Super Kamiokande, XMASS and NEWAGE.
+The collaboration of LIGO, Virgo and KAGRA plans to start the next observation run (O4) in mid-December, 2022 (KAGRA ended its latest observation run on 21 April 2020; that was also the first observation run for KAGRA)
+
+There can be a coincidence in time even in the absence of a collaboration, so I'd like to ask:
+Question: Were there any gravitational wave coincidences between KAGRA and VIRGO and/or LIGO?

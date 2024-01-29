@@ -1,0 +1,3 @@
+How does glass affect taking solar spectra?
+
+In this case I'm using a CCD camera mounted telescope pointed at the clouds to take solar spectra and was wondering how the telescope being pointed at the clouds through a double gazing (two layer) glass window would affect the spectra, if at all?

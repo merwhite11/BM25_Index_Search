@@ -1,0 +1,14 @@
+Mathamatica vs Sympy and Astropy to solve basic astronomy problems: solving linear equations and unit conversion
+
+I realize this may be slightly off topic, but I also believe this is probably the best way to get an answer to my question:
+What is the best combination of software packages / programming languages to solve basic astronomy questions, such as applying Kepler's laws, calculating radial velocities (i.e. basic linear algebra) etc in a scalable way?
+Essentially what I need is
+
+Equation solver (Mathematica or Astropy combined with Sympy?)
+Unit conversion (Mathematica and Astropy)
+
+I'd like to hear some opinions what combination of tools people are using to perform basic astronomy calculations such as the above example, where unit-conversion and solving linear equations appear to be the most common tasks.
+As an example problem:
+How would I solve for a variable in kepler's third law after assigning values to all other variables?
+a^3/P^2 = G * (Ms + Mp) / 4 * pi^2
+It seems simple in Mathematica doing Solve[a^3/P^2 == (G (Ms + Mp))/(4 \[Pi]^2), P]]. Is there any equivalent in python that can solve and at the same time handle units?

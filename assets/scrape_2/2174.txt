@@ -1,0 +1,8 @@
+The formation of absorption lines in solar spectrum
+
+It is said that absorption lines originate from regions higher in the photosphere where the gas is cooler. 
+The gas should be absorbing photons, then re-emitting them... absorb, re-emit, absorb, re-emit...
+My question is where are the photons produced by re-emission? Why are there absorption lines? 
+Although photons could be scattered, photons at other places could be scattered to our line our sight. Surely the total number of photons does not drop the further out you go? So while photons originally headed in the direction of an observer are possibly absorbed and re-emitted in a direction away from the observer, surely this will be made up for by a photon being emitted from another location in the direction of the observer? Otherwise wouldn't there be a location somewhere else where a bunch of extra scattered photons can be observed? 
+If we integrate all the photons at the lower surface of the photosphere A and integrated all the photons at the upper surface of the chromosphere C, surely there are the same number of photons? Otherwise, where have they gone? Where is the lost energy?
+Are there less photons emitted from the surface C because some have been emitted back down into the Sun? But that has to reach an equilibrium, or there would be a cascading increase in the number of photons inside the sun.

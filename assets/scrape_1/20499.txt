@@ -1,0 +1,4 @@
+Is it possible to achieve a stable "selenostationary" orbit around the Moon?
+
+Is there a stable geostationary orbit around the Moon?
+My feeling is, that the orbit would collide with Earth, because of the Moon's slow rotation.

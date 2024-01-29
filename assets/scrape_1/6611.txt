@@ -1,0 +1,5 @@
+Is it possible that only one hemisphere of a planet has an atmosphere?
+
+Suppose there is a tidally locked planet orbiting a star. The planet's surface consists of a global ocean, that is, liquid water. At the inner hemisphere the temperature is so high that the water is constantly boiling, creating the atmosphere of water vapor. But the vapor does not reach the dark side of the planet, and precipitates around the terminator line. The further side has no atmosphere and an icy surface.
+Is this setup possible? Can it be such thing that one side of a planet has liquid (and boiling) water surface while the other side has no atmosphere?
+Is it possible at all that a part of an ocean was boiling while the other one was icy?

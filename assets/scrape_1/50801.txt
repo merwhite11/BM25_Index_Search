@@ -1,0 +1,9 @@
+Time of comet at perihelion query
+
+In Practical Astronomy With Your Calculator Or Spreadsheet by Duffett-Smith and Zwart, the authors write (in relation to calculating cometary positions):
+
+The longitude of the comet is not usually specified at a particular
+epoch. Rather, the epoch is given when the comet is at perihelion, the
+point of its closest approach to the Sun.
+
+Why is this? Is time of perihelion easier to measure than longitude at a particular epoch?

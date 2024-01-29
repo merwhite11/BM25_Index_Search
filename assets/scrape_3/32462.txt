@@ -1,0 +1,6 @@
+periodic inclination change circumbinary planet
+
+I am studying circumbinary planets and I made a python model to calculate certain properties of the orbits, and when I calculate the inclination I get a sine wave. 
+I do not see a way to predict the shape of the curve in advance, despite it being a rather simple curve. Furthermore, when I plot the eccentricity of the orbit the frequencies of the curves do not align.
+Would anyone know why it oscillates at this rate and amplitude?
+And a side question, would anyone know some literature on the subject of circumbinary planets?

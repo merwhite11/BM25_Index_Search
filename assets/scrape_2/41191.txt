@@ -1,0 +1,5 @@
+Determining observer's position based on azimuth and elevation of observed object
+
+It is possible to generate Ephemeris through the web-interface of JPL's Horizon system based on observer's location. Unfortunately I don't know the formula that is used to do that with a high precision but I'd like to reverse this action.
+
+Having Azimuth and Elevation of The Moon at a certain date and time, I'd like to know the observer's location. Where do I even start?

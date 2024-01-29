@@ -1,0 +1,7 @@
+Beamsize in radio/microwave observations
+
+In radio/microwave observations, I understand the beamsize is the response of the telescope to a point source - effectively, the telescope's resolution.
+Now, the Planck satellite (par exemple) combines different frequency channels in a variance-weighted map. These different channels in general will have different sensitivities, and different beamsizes. 
+Suppose you coadd two (or any number really) of these channels. What will be the effective resolution of the resulting map?
+For instance, suppose we take channel 1 with a 5 arcminute beamsize (FWHM), and channel 2 with a 12 arcminute beamsize (and let's suppose they have the same sensitivity). 
+What will be the resolution of the inverse-variance weighted map? How will this change if the sensitivities differ?

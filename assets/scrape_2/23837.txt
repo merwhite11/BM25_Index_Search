@@ -1,0 +1,3 @@
+Why do telescopes use hexagonal mirror pieces instead of pie slice shaped ones?
+
+Some new large telescopes in the near future, on Earth and in space, will use multiple mirrors. The individual mirror pieces will be hexagonal in shape. I wonder why this shape is prefered over the circle sector shape (like pie slices). I would think that corners and joints between mirrors cause practical problems. And a circle sector slice has half as many corners and two rather than three or six neighboring pieces, and shorter interfacing edges with neighboring pieces overall. So shy is the hexagonal shape prefered?

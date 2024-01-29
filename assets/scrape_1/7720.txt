@@ -1,0 +1,4 @@
+Diameter of any galaxy
+
+I've been trying to figure out how to find the diameter in kpc of any galaxy given that one knows the distance to it in Mpc (d) and also the angular diameter/size (A) in arcsec. I had a formula before to find the diameter of a planet: $D=\frac{2\pi dA}{360degrees}$ but this is only if the celestial object is round. Then I asked my friend who gave me another formula $D=d*10^6 *sin (\frac{A}{3600})$
+My question is, is the second formula the correct one if I want to find the diameter of any galaxy no matter what shape it is or is there another one which I do not know of?

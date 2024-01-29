@@ -1,0 +1,6 @@
+Where's the Prime Meridian of celestial coordinates
+
+...or what's the 'direction of vernal equinox'?
+For both Ecliptic and Equatorial coordinate system, the Wikipedia article gives "Primary direction (0° longitude)" - "Vernal Equinox", linking to article on the event of the Equinox which never mentions any directions associated with it.
+I guess the direction will be associated with the axis connecting the Sun and Earth during vernal equinox, but which direction of the line? Outward, with the meridian running opposite of the Sun, or inward, the meridian crossing the Sun at vernal equinox? Or maybe my guess is entirely wrong?
+Generally, how would one go about converting celestial (ecliptic or equatorial) latitude to Earth latitude or vice versa - e.g. finding where on Earth an object of given celestial coordinates is in zenith at given time? The linked article has several formulas of converting between various celestial coordinate systems but either no conversion to Earth coordinates or I failed to understand some of the conversions.

@@ -1,0 +1,6 @@
+What are Euclidean-normalized differential source counts?
+
+I would like to know what the Euclidean-normalized and differential source counts mean in "Euclidean-normalized differential source counts".
+It would be great to hear a) a clear definition and b) an explanation on university student level.
+The term is used in many papers. For instance, in the abstract of Grant et al. 2010:
+The DRAO Planck Deep Fields: The Polarization Properties of Radio Galaxies at 1.4 GHz

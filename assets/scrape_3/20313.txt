@@ -1,0 +1,5 @@
+Error associated with Sersic Profile calculations?
+
+I am working on a Bayesian analysis project for class using data I gathered some data from NASA's Sloan Atlas (http://www.nsatlas.org/). One of the variables I am dealing with is the Sérsic Index (calculated by http://iopscience.iop.org/article/10.1088/0004-6256/142/1/31/pdf).
+I am wondering if there is some error associated with this value.  I hope to model each galaxies Sersic index as a gaussian, but I can´t wrap my head around what to write as the error.
+Thanks for your time!

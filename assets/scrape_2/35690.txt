@@ -1,0 +1,6 @@
+Python controllable amateur astrophotography cameras?
+
+I would like to read further about any successes that amateur astrophotographers (or professionals) have had with USB CCD cameras that are controlled by Python scripts. I'd like to script the setting of exposure time, triggering of exposures, downloading and processing of images.
+Ideally this would be computer platform-agnostic.
+I've recently asked Python interface for DMK 23U274 USB camera for astrophotography but the more I read about that the more I think that it's going to be tough running that particular camera from a Python script.
+Where can I read further about this being done, or at least what solutions are known to exist?

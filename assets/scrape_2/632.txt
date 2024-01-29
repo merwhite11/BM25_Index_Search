@@ -1,0 +1,30 @@
+Determining effect of small variable force on planetary perihelion precession
+
+Is there an analytical technique for determining the effect of a small variable transverse acceleration upon the rate of aspides precession (strictly not a precession but rotation of the line of aspides) of a planet orbitting around the Sun in a 2D plane according to Newtonian gravity law?  
+I have modelled such effects in a reiterative computer model and would like to verify those measurements.  
+The transverse acceleration formula is 
+
+$$At = (K/c^2)*Vr*Vt * Ar.$$
+
+Where:-
+
+c is speed of light, 
+K is a constant of magnitude between 0 and +/-3, such that $K/(c^2) << 1$. 
+Ar is the acceleration of the planet towards the Sun due to Newtonian gravitational influence of the Sun, ($Ar = GM/r^2$).
+Vr is radial component of planet velocity relative to the Sun (+ = motion away from the Sun)
+Vt is transverse  component of planet velocity relative to the Sun (+ = direction of planet forward motion along its orbital path). Vectorially Vt = V - Vr where V is the total instantaneous velocity vector of the planet relative to the Sun. 
+Assume planet mass is small relative to the Sun
+No other bodies are in the system
+All motions and accelerations are confined to the two-dimensional plane of the orbit.
+
+UPDATE
+The reason why this is interesting to me is that a value of K = +3 in my computer model produces anomalous (Non-Newtonian) periapse rotation rate values very close within about 1% of those predicted by General Relativity and within a few percent of those observed by astronomers (Le Verrier, updated by Newcomb).
+Formula (Einstein, 1915) for GR-derived periapse rotation (radians per orbit)
+from http://en.wikipedia.org/wiki/Apsidal_precession
+$$
+\boldsymbol{\omega}=24.\pi^3.a^2.T^{-2}.c^{-2}.(1-e^2)^{-1}
+$$
+UPDATE 4
+I have accepted Walter's answer.  Not only did he answer the original question (Is there a technique...?) but also his analysis produces a formula which not only confirms the computer-simulated effects of the transverse acceleration formula (for K = 3) but which also (unexpectedly to me) is essentially equivalent to the Einstein 1915 formula.
+from Walter's Summary (in Walter's answer below):-
+: (from first order peturbation analysis) semi-major axis and eccentricity are unchanged, but the direction of periapse rotates in the plane of the orbit at rate $$ \omega=\Omega \frac{v_c^2}{c^2} \frac{K}{1-e^2}, $$ where $\Omega$ is the orbital frequency and $v_c=\Omega a$ with $a$ the semi-major axis. Note that (for $K=3$) this agrees with the general relativity (GR) precession rate at order $v_c^2/c^2$ (given by Einstein 1915).

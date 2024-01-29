@@ -1,0 +1,17 @@
+Are there any estimates of the Roche Limit for 152830 Dinkinesh?
+
+The Lucy spacecraft recently flew past the asteroid 152830 Dinkinesh on its way through the asteroid belt and photos show that Dinkinesh has a moon consisting of a contact binary.
+
+(Image is Public Domain: en.wikipedia.org/wiki/152830_Dinkinesh#/media/File:Dinkinesh-family-portrait-2.png)
+From Wikipedia:
+
+The Roche limit, also called Roche radius, is the distance from a
+celestial body within which a second celestial body, held together
+only by its own force of gravity, will disintegrate because the first
+body's tidal forces exceed the second body's self-gravitation.
+Inside the Roche limit, orbiting material disperses and forms rings,
+whereas outside the limit, material tends to coalesce. The Roche
+radius depends on the radius of the first body and on the ratio of the
+bodies' densities.
+
+The estimated diameter of Dinkinesh is 790 metres but I haven't seen any estimates of the orbital distance of the moon, or of the densities of these bodies.  Given that the fly-by is so recent, and the moon hasn't even been named yet, are there any estimates of the Roche Limit of Dinkinesh?

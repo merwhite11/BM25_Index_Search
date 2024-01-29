@@ -1,0 +1,14 @@
+Why do CME's "zig-zag" on their way to Earth?
+
+This answer to When a coronal mass ejection (CME) hits a spacecraft, from which direction will the particles come? states:
+
+A single CME will impact a spacecraft from only one direction, but that direction might not be directly from the sun because a CME may zigzag en route.
+
+Looking at that link, the cause of the zig-zagging is still unclear to me
+
+One of the first things they noticed was how CMEs trying to go "up"—out of the plane of the solar system and away from the planets—are turned back down again. Gallagher confesses that they had to "crack the books" and spend some time at the white board to fully understand the phenomenon. In the end, the explanation was simple:
+
+The sun's global magnetic field, which is shaped like a bar magnet, guides the wayward CMEs back toward the sun's equator. When the clouds reach low latitudes, they get caught up in the solar wind and head out toward the planets—"like a cork bobbing along a river," says Gallagher.
+Once a CME is embedded in the solar wind, it can experience significant acceleration. "This is a result of aerodynamic drag," says Byrne. "If the wind is blowing fast enough, it drags the CME along with it—something we actually observed in the STEREO data."
+
+Question: I can't find an explanation here that I can sink my teeth into. Is it possible to explain in a more scientific way? What is the restoring force that would bring a wayward CM back towards the plane exactly? Is the zig-zagging only in the out-of-plane direction?

@@ -1,0 +1,5 @@
+Is there any ephemeris generator that gives you accurate distances between Earth and other bodies?
+
+I've tried JPL's HORIZONS ephemeris generator and while it gives accurate celestial coordinates for an object it doesn't give the geocentric distance.
+JPL's Solar System Simulator gives the distance to an object at a certain time however only down to a few digits.
+Is there an accurate tool that generates exact (meaning down to the meter) geocentric distances between Earth and another Solar System body over increments of time?

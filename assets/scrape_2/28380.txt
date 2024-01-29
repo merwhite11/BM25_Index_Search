@@ -1,0 +1,5 @@
+Questions on dark matter observations in galaxy clusters
+
+For cluster of galaxies we can observe velocity distributions and so we can deduce mass from multiwavelength observations. I suppose total mass of the cluster could be deduced by observing velocities of galaxies and applying virial theorem. Is it be done using general relativity or just with classical mechanics ?
+An other way could be whith looking at gravitational lensing it causes on far galaxies. 
+Are these two methods giving same results ?

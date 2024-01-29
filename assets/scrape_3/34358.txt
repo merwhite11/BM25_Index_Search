@@ -1,0 +1,5 @@
+What is the typical chemical composition of the most common asteroid types?
+
+I'm trying to make a semi-scientific accurate game where you can find/mine asteroids. I want the composition of asteroids, and how common they are to be correct. Or at least as close to correct as possible.
+Therefore I'm trying to come up with percentages of how common certain types of asteroids are, and what elements are typically present in those asteroids. Of all my research so far I found which elements are found in which asteroids, but never any statistics.
+And of course, I understand we don't know much about Asteroids in the first place. Perhaps the data we have is not comprehensive enough to come up with any statistics, in that case, what statistics should I go with?

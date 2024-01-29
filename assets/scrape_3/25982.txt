@@ -1,0 +1,3 @@
+Does the Hubble constant depend on redshift?
+
+I know there are lot of questions on the Hubble constant already, but I am curious to know if it changes with redshift? If at current redshift, $z=0$, we know its value to be 0.7, will it be different at higher redshift ($z=0.1$)? If so, is there any relationship with redshift?

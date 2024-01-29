@@ -1,0 +1,3 @@
+Necessary steps to calculate photon's path by using null geodesic equation
+
+Can anyone please give me an explanation on how to calculate photon's path by using the null geodesic equation? N.B. I know all of the non-zero values of Christoffel symbols.

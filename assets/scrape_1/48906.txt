@@ -1,0 +1,19 @@
+Radial velocity stability to spectrum shift calculation
+
+I am engineer new to Astronomy and am trying to understand spec of an spectrograph (RV stability = 2m/s). There is a note in document saying "RV shift of 2 m/s is equivalent to a shift of the spectrum on the detector of about 30 nm". The measurement range is 380nm-850nm.
+My understanding so far is as follow: Stars moving away/towards earth causes shift in known spectrum lines towards red or blue depending on direction of movement. The magnitude of shift can be derived from Doppler effect as:
+$\Delta_\lambda = \lambda_0 \frac{V_r}{c}$
+where $\Delta_\lambda$ is the shift in wavelength, $\lambda_0$ is the rest wavelength, and $V_r$ is the radial velocity
+or $V_r = c\frac{\Delta_\lambda }{\lambda_{0}}$
+RV stability would be difference between radial velocity of consecutive measurements.
+Taking an example here:
+$V_{r1} = \frac{\Delta\lambda_1 c}{\lambda_0}$
+$V_{r2} = \frac{\Delta\lambda_2 c}{\lambda_0}$
+where $V_{r1}$ and $V_{r2}$ are the two radial measurements, and $\Delta\lambda_1$ and $\Delta\lambda_2$ are the two wavelength shifts.
+$\Delta V_{r} = \frac{(\Delta\lambda_1 - \Delta\lambda_2 )*c}{\lambda_0}$
+where $\Delta V_{r} $ is Radial velocity stability between measurements.
+$\Delta_s  = \frac{\Delta V_r \lambda_0}{c}$
+Where $\Delta_s$ is $\Delta\lambda_1- \Delta\lambda_2$ = shift on ccd due to measurement
+Plugging numbers from note.
+Shift of spectrum on detector  = $\frac{2 \cdot 380nm}{3\cdot 10^8} \neq  30nm$
+I am definitely doing something wrong but do not know what exactly.

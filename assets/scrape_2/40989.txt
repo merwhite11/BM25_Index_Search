@@ -1,0 +1,11 @@
+Moment of inertia factor of Venus and Pluto
+
+Wikipedia's Moment of inertia factor begins:
+
+In planetary sciences, the moment of inertia factor or normalized polar moment of inertia is a dimensionless quantity that characterizes the radial distribution of mass inside a planet or satellite. Since a moment of inertia must have dimensions of mass times length squared, the moment of inertia factor is the coefficient that multiplies these.
+
+The article lists values for 18 solar-system bodies including the Ceres and many moons.
+But Venus and Pluto are conspicuously absent from this table.
+What are the RI factor values for Venus and Pluto? Is there any source of reasonable calculation done for these two?
+C/MR2
+According to this note on the page Venus has a range of 0.327–0.342. Pluto is not mentioned anywhere.

@@ -1,0 +1,3 @@
+How to calculate 2-10keV Flux or Luminosity by Power Law from 0.2-12keV with known $\Gamma = 1.7$
+
+I have $0.2-12$keV flux observations, distance observations and $\Gamma =1.7$. I want to apply power law to calculate 2-10keV flux. How can i do that?

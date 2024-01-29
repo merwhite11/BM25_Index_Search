@@ -1,0 +1,4 @@
+Can you compute the solar day?
+
+For a given planet, if you know the sidereal rotation period and the sidereal revolution period, can you compute the length of one solar day?
+For instance, for Earth, if you know one rotation is roughly 23h56m and one year is 365.25 days, can you recover that one solar day is 24 hours?

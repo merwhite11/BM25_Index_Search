@@ -1,0 +1,3 @@
+Astrophotography: Is there a rule to the color mapping?
+
+As I understand it most astrophotography is colored using filters and multiple exposures. I would assume that blue filters would be used for higher frequency emissions and red filters for lower frequency emissions, as it at least keeps the "order" of information intact. But besides that, is there any rule or hints to go by when looking at colored astrophotography and deducing the depicted wavelengths? Because a fairly common problem would be, I assume, when something is only visible in either infrared or ultraviolet. How would I differentiate that? Do I just have to know what emission bands certain phenomena are visible in?

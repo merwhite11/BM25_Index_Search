@@ -1,0 +1,67 @@
+Issue translating World Coordinate system to cartesian coordinate
+
+I have two fits images from the WFC3 that I am trying to combine with a C# program.  When I try to combine multiple images I don't think the values I am getting for my x/y coordinates (calculated from Right Ascension/Declination) are correct.  I am expecting a final image that is about the same width as the two images combined, but it turns out to be about the same width and about twice the height.  I know the final image should be about double the width of a single image because I manually combined the images in photoshop and the final image was about twice as wide as either of the two original images.  
+NOTE:  when I say "image" they are fits images, so they are just a bunch of single values in a file, so to combine them I create a new file and initialize the correct number of single values (width * height) to zero, and then fill in the values from the images I am using to combine.  They are not jpg or tif or png.
+I am using the following formula to change from world coordinate system to cartesian:
+formula is (since distance is the same for everything):
+x = cos(dec) * cos(ra)
+y = cos(dec) * sin(ra)
+I get the right ascension and declination from the header in the fits file.
+For the final image dimensions, I calculate the distance between x1 and x2 and create a new image that is 1/2 image 1 width + distance + 1/2 image 2 width.  For the final height I do a similar calculation with y and image heights.
+The images do also have a rotational component, but I am ignoring that as both images share the same rotation.  This could be part of my problem.
+public const double PixelsPerArcSecond = .039; // per WFC3 spec from Nasa
+
+public static ImageDataModel Combine(List<ImageDataModel> inputImages)
+{
+    //  Right ascension is CRVAL1
+    //  Declination is CRVAL2
+
+    //  formula is (since distance is the same for everything):
+    //     x = cos(dec) * cos(ra)
+    //     y = cos(dec) * sin(ra)
+
+    ImageDataModel returnImage = new ImageDataModel();
+    ImageDataModel bm = inputImages[0];
+
+    double x1, y1, x2, y2;
+
+    x1 = Math.Cos(bm.CRVAL2) * Math.Cos(bm.CRVAL1);
+    y1 = Math.Cos(bm.CRVAL2) * Math.Sin(bm.CRVAL1);
+
+    int mult = 4; // todo: set this based off of the bitpix of the incoming images.
+
+    for (int i = 1; i < inputImages.Count; i++)
+    {
+        ImageDataModel cm = inputImages[i];
+
+        x2 = Math.Cos(cm.CRVAL2) * Math.Cos(cm.CRVAL1);
+        y2 = Math.Cos(cm.CRVAL2) * Math.Sin(cm.CRVAL1);
+
+        double dx = x1 - x2;
+        double dy = y1 - y2;
+
+        int distX = (int)((dx * 3600) / PixelsPerArcSecond);
+        int distY = (int)((dy * 3600) / PixelsPerArcSecond);
+
+        // This is what I expect to be wider than tall, but the converse is true.
+        int w = Math.Abs(distX) + (bm.ImageWidth / 2) + (cm.ImageWidth / 2);
+        int h = Math.Abs(distY) + (bm.ImageHeight / 2) + (cm.ImageHeight / 2);
+        // This is where the two images are combined into the final image.
+        ImageDataModel imd = CombineTwoImages(bm, cm, i, w, h, mult);
+        bm = imd;
+    }
+
+    return returnImage;
+}
+
+I am expecting an image that turns out like this:
+http://wierdling.net/stack-overflow-images/ManuallyCombined.png
+But getting this:
+http://wierdling.net/stack-overflow-images/CombinedTest.png
+The stats for the first image are: Width = 4139, Height = 4535, RA = 350.1584456860353 (CRVAL1), DEC = 61.16155335032816 (CRVAL2), ORIENTAT = -125
+The stats for the second image are:Width = 4139, Height = 4535, RA = 350.1159150008405 (CRVAL1), DEC = 61.19543100394401 (CRVAL2), ORIENTAT = -125
+The final expected width is close to 7733 with a height near 4773.
+The final actual width is 4284, and the height is 7662.
+Does anyone have any insight into what I am doing wrong?
+The full source code for the program can be downloaded from https://bitbucket.org/wierdling/fitscombiner/src/master/ 
+It currently only works with WFC3 data, and the program is very much a work in progress.

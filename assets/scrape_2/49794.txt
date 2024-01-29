@@ -1,0 +1,8 @@
+Why is the probability dP of finding an object (e.g. galaxy) in an infinitesmal volume dV equal to \overline{n}dV?
+
+As pointed out by many cosmology lectures, such as Eq. (63) of Cosmology II-8 Structure Formation, and Eq. (3.1) of A Detailed Look at Estimators for the Two-Point Correlation Function, the probability of finding an
+object in an infinitesimal volume is
+$$
+dP=\overline{n}dV,
+$$
+where $\overline{n}$ is the mean number density. In my opinion, $\overline{n}dV$ is just the number of objects in $dV$ and can be greater than one. However, the probability should be less or equal to one. I don't understand why $\overline{n}dV$ is the probability of finding an object in the volume.

@@ -1,0 +1,19 @@
+Why doesn't the IAU definition of "Planet" disqualify Mercury and Venus as planets?
+
+Here's the IAU definition of a planet (source):
+
+A celestial body that (a) is in orbit around the Sun, (b) has
+sufficient mass for its self-gravity to overcome rigid body forces so
+that it assumes a hydrostatic equilibrium (nearly round) shape, and
+(c) has cleared the neighbourhood around its orbit. (p. 1)
+
+Part b) is the sticking point. What qualifies whether something is assuming hydrostatic equilibrium? M. Burša gives the criterion in his 1984 "Secular Love Numbers and Hydrostatic Equilibrium of Planets":
+
+(screenshot source). On the next page, Burša tabulates the k_s Love numbers for the major bodies:
+
+Importantly, note the values of k_s = 237 and 293 for Mercury and Venus respectively. Burša concludes:
+
+The secular Love numbers k_s computed (Table II) demonstrate that the actual state of Venus,  Mercury and of the Moon is far from hydrostatic equilibrium.
+
+The oblateness of these bodies is incompatible with their rotation rates under pure hydrostatic equilibrium.
+Please correct me if I have this wrong. It appears that the IAU definition of a planet excludes Mercury and Venus due to the hydrostatic equilibrium requirement, and that this has been clear since 1984.

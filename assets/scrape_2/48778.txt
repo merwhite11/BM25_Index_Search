@@ -1,0 +1,6 @@
+Reasons for extremely high number density of galaxies at low redshift
+
+I am currently analyzing the SDSS data especially in the extremely low redshift area, in order to measure the cosmological statistics. What I mean by extremely low is z<0.1. One peculiarity that I noticed was a sharp peak of number density in about z~0.02, z~0.08.
+I reckon that it may be due to the CFA2 great wall, and am quite curious of whether this could possibly bias the mean number density of galaxies(or matter) as a function of redshift. Is there a reason for such massive peak of number density? Would it be plausible to measure the cosmological statistics within the low redshift regime? Thank you in advance.
+Edit:
+I added the plot so as to clarify my question. I have used the raw data of NYU-VAGC/LSS catalog (Blanton et al, 2005), without making user-defined luminosity/color cuts.

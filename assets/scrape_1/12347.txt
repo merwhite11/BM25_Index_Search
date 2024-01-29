@@ -1,0 +1,41 @@
+I can't find Rigel on Tycho 2 catalogue
+
+I'm trying to develop a planetarium using Tycho 2 catalogue.
+To read it I use the WCSTools. But I have a problem.
+On Wikipedia I have found that Rigel star has RA: 05h 14min 32,3s and Dec: -08º 12’ 06’’. I have translate them to decimal degrees (78.6375, -8.2017). I've used that to find it on Tycho 2 catalogue (file catalog.dat) but I can't find it.
+To search into the catalogue I have used the function TY2READ from ty2read.c file.
+And this is how I search the star:
+void ReadTy2Catalog()
+{
+    double raCenter = 84.5;
+    double decCenter = -1.2;
+    double raDistance = 10.;
+    double decDistance = 10.;
+
+    int nMaxStars = 20000;
+
+    char* filePath = "D:\\Fuentes\\Repos\\Planetarium\\StarsCataloguesLib\\Resources\\";
+    Ty2Read read;
+
+    read.Read(
+        filePath,
+        TYCHO2,         /* Catalog code from wcscat.h */
+        raCenter,       /* Search center J2000 right ascension in degrees */
+        decCenter,      /* Search center J2000 declination in degrees */
+        raDistance,     /* Search half width in right ascension in degrees */
+        decDistance,    /* Search half-width in declination in degrees */
+        0,              /* Limiting separation in degrees (ignore if 0) */
+        0,              /* Inner edge of annulus in degrees (ignore if 0) */
+        1,              /* 1 to sort stars by distance from center */
+        WCS_J2000,      /* Search coordinate system */
+        2000.0,         /* Search coordinate equinox */
+        0.0,            /* Proper motion epoch (0.0 for no proper motion) */
+        -20.0,          /* Limiting magnitudes (none if equal) */
+        30.0,           /* Limiting magnitudes (none if equal) */
+        1,              /* Magnitude by which to sort (1 or 2) */
+        nMaxStars,      /* Maximum number of stars to be returned */
+        1);             /* Verbose*/
+}
+
+I have checked all the stars returned and none has Rigel's RA and DEC.
+What am I doing wrong?

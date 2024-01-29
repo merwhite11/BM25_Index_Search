@@ -1,0 +1,6 @@
+RSS feed for notable astronomical phenomena?
+
+For a long time I have been searching for a weekly RSS feed similar to the German-speaking astronews.com which features a few astronomical phenomena one could observe with amateur equipment, and a few highlights of recent professional observations.
+Using search engines, you find dozens of sites like this, but they usually overlap, or are very pop-science, or are missing the recent observations. In practice, I am having too many newsletters and feeds to screen through, so maybe somebody else already has the same issue, and could help out.
+I am looking for low-traffic RSS newsfeed from creditable sources which compiles a few forecasted observation tips (e.g. for central Europe) and selected new top-notch observations from major telescopes of any wavelength, e.g. Hubble or ESO.
+In case that rings a bell: I am thinking about something similar to the two pages which appeared monthly in the former German science magazine Kosmos (see e.g. German wiki entry), I will try to find a picture to illustrate it.

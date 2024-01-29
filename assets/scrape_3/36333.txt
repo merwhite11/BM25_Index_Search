@@ -1,0 +1,5 @@
+What is the role of the mesh on which dipole elements of the MWA antennas are placed?
+
+I was reading about the radio telescope - Murchison Widefield Array (MWA) situated in Western Australia. Antennas of this telescope are quite unique and different from the usual dish radio telescope. In MWA a four by four regular grid of dual-polarisation dipole elements are arranged on a 4m x 4m steel mesh.
+So, I was wondering why these dipole elements would have been mounted over the mesh? On searching over internet I found out that this mesh is called a counterpoise (though I am not sure if I am correct). I read more about it and I partially understand that the mesh and ground (Earth) act as two plates of a capacitor but I didn't get why it was done and what was the use of it? In this image mesh can be seen on which dipole are mounted - Image courtesy: SKA
+ Source  click for full size

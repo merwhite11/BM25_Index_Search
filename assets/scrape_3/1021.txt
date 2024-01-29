@@ -1,0 +1,3 @@
+Climate modeling of exoplanets
+
+These notes from an exoplanet talk discuss modeling the climate of exoplanets. How would we do that with our current technology? Would data be primarily gathered by spectrum analysis?

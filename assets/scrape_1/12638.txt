@@ -1,0 +1,3 @@
+What would the cost be of visiting an asteroid?
+
+I'm trying to think through what the cost would be of an unmanned mission to a nearby asteroid.  To me it seems like the high-level costs would be the fixed cost of the "spaceship" itself (including any scientific or mining equipment required to carry out the mission), the cost of getting into orbit which would depend on the ship mass, and the fuel to get there and return (which would be a function of fuel cost, ship mass, how fast you want to get there, and the mass of anything collected at the asteroid site that would be returned).  Is there anywhere that this is discussed or has anyone thought this through further?

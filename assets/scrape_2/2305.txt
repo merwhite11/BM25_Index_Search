@@ -1,0 +1,6 @@
+Hamiltonian of general three body problem
+
+i try to extend my analysis from planar restricted three body problem to the general one. 
+Is there anyone that can help me to find out the Hamiltonian for this prolem in cartesian coordinates? 
+I need the hamiltonian of 3D case somethink like eq.(1) in this article or in this one paper again eq.1 . Because my symplectic integrator can be used only if I have the fixed cartesian coordinates.
+Thanks

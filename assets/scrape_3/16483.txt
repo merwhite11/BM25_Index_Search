@@ -1,0 +1,5 @@
+Has the velocity of photons coming from black holes already been measured?
+
+Has the velocity of photons, which are coming from black holes, already been measured? I am not aware of such measurements.
+The reason for the question is the following: If space-time near black holes has some extra dimensions, than photons created in this higher dimensional space-time might have non-zero components of the wave-vector in these extra dimensions. On the earth however we see just our 3 or 4 components of the wave-vector, so we might see just the projection of the original wave-vector onto our (3,1)-dimensional space-time. In this case the velocity of the photons might be less than the standard velocity of light.
+I have in mind a special model of our universe. I believe, that our universe is the horizon of a (4,2)-dimensional space-time. On this horizon (which is our universe) we do not see the extra dimensions, however, they should be visible near black holes. So, in this model, black holes are the windows into the extra dimensions.

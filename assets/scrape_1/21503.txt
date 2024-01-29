@@ -1,0 +1,16 @@
+calculating lunar phases
+
+Given a date, I'd like to return the lunar phase.
+Jean Meeus's Astronomical Algorithms book and the many packages like PyEphem that make use its algorithms provide ways to calculate when a primary phase (New, First Quarter, Full, and Last Quarter).  The secondary phases (Waxing Crescent, First Quarter, Waxing Gibbous, Waning Gibbous, and Waning Crescent) can be easily calculated as falling in between the primary ones.
+The percent illuminated the moon (or any other body between the observer and the Sun) can also be calculated for a given point in time. 
+We can also calculate the subsolar point.
+What isn't clear is how long the primary phases should be considered to be in play.  How are labels generally determined for these phases?
+The next new moon occurs 2017/7/23 09:45:34 UTC.  When should it no longer be considered new but waxing crescent?  
+
+When it is 1.0% illuminated? 
+When the subsolar point moves 5 degrees west of 180E?  10 degrees?
+At 2017/7/24 00:00:01 local time?
+At 2017/7/24 00:00:01 UTC?
+
+I'm inclined to use the last.  The moon is "new" for the entire UTC day 0.0% illumination falls on.  The following day it is waxing crescent and remains so until the day the first quarter falls.
+Anyone know of a standard here or rule of thumb?

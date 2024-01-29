@@ -1,0 +1,3 @@
+Relation between inner and outer eccentricities in a hierarchical triple star system
+
+According to Table 3 of Sterzik & Tokovinin (2002), the inner eccentricity of a triple star system (i.e. the eccentricity of the inner binary) is, most of the times (70%), larger than the outer star eccentricity. This seems counterintuitive, since I've always thought the outer eccentricity was usually larger than the inner one. Any reason for this? Or is this data wrong?

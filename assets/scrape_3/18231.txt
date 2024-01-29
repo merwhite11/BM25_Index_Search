@@ -1,0 +1,3 @@
+What does the coordinate of time really mean?
+
+The meaning of the $t$ which appears in space-time intervals or metrics in general relativity. I concluded that $t$ was just a mathematical thing which allows us to label the "space-time manifold" and only proper time τ had a physical meaning too. On Wikipedia I also found that the coordinate time is not a time that could be measured by a clock located at the place that nominally defines the reference frame. What does it really mean?

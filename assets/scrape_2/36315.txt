@@ -1,0 +1,3 @@
+Tools for simulation of theoretical astronomical problems?
+
+I tried looking around for open source tools that would allow me to run simulations and build on top of the code with my own need(mainly mathematical simulations, but 3D visuals would be a bonus.), unfortunately I haven't really found many open source projects, so I think maybe this tools are somehow available on websites like NASA or other Foundations for astronomical research. Where would one go to find the actual professional software for astronomy research and simulations ?

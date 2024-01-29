@@ -1,0 +1,7 @@
+Galactic orbits and distance between stars
+
+In the context of whether or not nearby stars were created from the same nebula, this answer states:
+
+imagine two stars with very similar orbits, one with a period of 200 million years and the other with a period of 210 million years. If they start off right next to each other, then after 2 billion years, the first star has made 10 complete orbits, while the second has made about 9.5 -- meaning it will now be on the other side of the galaxy from the first star.
+
+How close would the two stars have originally been to have such different orbital periods?

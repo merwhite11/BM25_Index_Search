@@ -1,0 +1,4 @@
+Dataset containing list of known globular clusters
+
+Does anybody know if there is an existing dataset that consists of all known star clusters, their name, and their apparent dimensions or similar? Is it possible to make a query to, or download all SIMBAD objects that are of type "globular cluster"?
+Thanks

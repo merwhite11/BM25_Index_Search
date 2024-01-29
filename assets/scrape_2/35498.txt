@@ -1,0 +1,12 @@
+Which kinds of astronomical observations most need to avoid the Moon being up?
+
+This comment to Did nobody in the Astronomy community think 12,000 new satellites in LEO might be a problem? links to Phys.org's New ESO study evaluates impact of satellite constellations on astronomical observations which includes ESO's Areas of the sky most affected by satellite constellations shown below.
+It's a fisheye lens view (FOV wider than 180 degrees)looking straight up.
+In Earth Science SE I've asked What causes this arc in the night sky where the background is brighter on one side than the other? but here I'd just like to ask about the effect of sky brightness associated with the Moon on observational astronomy.
+Question: Which kinds of astronomical observations most need to avoid the Moon being up? Are some observations relatively insensitive to the Moon being in the sky but not necessarily nearby and others negatively impacted or impossible because of it?
+
+
+This annotated image shows the night sky at ESO's Paranal Observatory around twilight, about 90 minutes before sunrise. The blue lines mark degrees of elevation above the horizon.
+A new ESO study looking into the impact of satellite constellations on astronomical observations shows that up to about 100 satellites could be bright enough to be visible with the naked eye during twilight hours (magnitude 5–6 or brighter). The vast majority of these, their locations marked with small green circles in the image, would be low in the sky, below about 30 degrees elevation, and/or would be rather faint. Only a few satellites, their locations marked in red, would be above 30 degrees of the horizon — the part of the sky where most astronomical observations take place — and be relatively bright (magnitude of about 3–4). For comparison, Polaris, the North Star, has a magnitude of 2, which is 2.5 times brighter than an object of magnitude 3.
+The number of visible satellites plummets towards the middle of the night when more satellites fall into the shadow of the Earth, represented by the dark area on the left of the image. Satellites within the Earth's shadow are invisible.
+Crediti: ESO/Y. Beletsky/L. Calçada

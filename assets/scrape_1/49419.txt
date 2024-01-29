@@ -1,0 +1,5 @@
+Why is the CMB's redshift so high?
+
+It is pretty well-established that the CMB was originally emitted around 380,000 years after the Big Bang, at a redshift of ~1100.
+The most distant known object is HD1, the light from which was emitted 330,000,000 years after the Big Bang, at a redshift of only around 13.
+Why has the redshift decreased by so much in only a few hundred million years? As far as I'm aware, the universe's rate of expansion has undergone only relatively minor changes since the inflationary epoch, so why has the CMB been stretched so much?

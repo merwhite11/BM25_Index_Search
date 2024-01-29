@@ -1,0 +1,7 @@
+How to use spectral profiles to determine luminosity class?
+
+I know the luminosity classes are: Ia-0 ( Hypergiants ), Ia ( bright supergiants ), ... , VII ( white dwarf ).
+I also have learned that you can use the presence of absorption lines ( ie. use spectral profiles ) to determine which spectral type a star belongs to: presence of helium lines imply O-type, and Hydrogen lines in A-type, getting fainter as the star gets cooler, etc.
+I was told that one can use spectral profiles to determine luminosity class ( Ia-0, Ia, Ib, ... ), that the width of the spectral lines indicate the luminosity class: Ia stars have sharp lines, and V stars have broad lines...  How about Ib, II, III, IV, VI, VII?
+I mean... how can I distinguish between Ib and II?  Given examples of Ia lines and V lines, you can tell whether an additional line is broader or sharper, but then guess that this additional line is Ib, II, III, or IV?
+Is there a more concrete method of determining luminosity class from spectral profiles?

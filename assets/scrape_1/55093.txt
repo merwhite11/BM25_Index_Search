@@ -1,0 +1,3 @@
+Why does the sun appear on the screen behind an eyepiece when doing solar projection?
+
+I've seen Youtube videos explaining how to "safely" observe the sun by projecting an image of the sun onto a piece of cardboard behind the eyepiece of a refracting telescope or binoculars. However, I don't understand how that works: The image created by the eyepiece is a virtual image that is typically brought into focus on the retina through the lens of the eye. If we omit the lens in the eye, there should be no image that can be projected. But in the videos it seem to work. Why is that?

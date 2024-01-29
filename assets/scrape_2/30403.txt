@@ -1,0 +1,4 @@
+Why is the ring of light around the M87 black hole bigger than the photon sphere?
+
+Today we know that a black hole represents a region of space where the gravitational forces are very intense, this consequence of a concentration of matter in a very small region of space. On April 10 of this year, scientists from the EHT project (event Horizont Telescope) presented to the world the image that I believe everyone has seen. The first image of a black hole in the galaxy M87. We know that what we are really seeing is the "shadow" of the black hole.
+But the "photon sphere", where light can orbit a black hole, is actually at $1.5R_s$, (Schwarzschild radius), whereas the observed ring is a factor of 2 wider than this. Why we not see a ring of light at the radius of the photon sphere?

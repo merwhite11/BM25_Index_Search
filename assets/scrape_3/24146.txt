@@ -1,0 +1,10 @@
+How would tidal effects behave in this setup: An icy moon orbiting a gas giant, as the gas giant orbits a red dwarf?
+
+Let me know if this is more appropriate for worldbuilding. 
+Essentially, I'd like to know how tidal effects would behave in these circumstances (if it's even stable):
+An icy moon orbiting a gas giant, with the gas giant orbiting a red dwarf. 
+Here is a detail that may manipulate the answer:
+
+I want the moon (if possible) to live in the red dwarf's habitable zone. It's okay if it periodically leaves the habitable zone, so long as it returns. 
+
+I just need to know where tidal locking occurs (if at all), and how the moon receives most of it's heat (through internal heating like tidal forces or though external heating via the red dwarf).

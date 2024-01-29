@@ -1,0 +1,5 @@
+Could iron rain upset tidally locked WASP76b?
+
+The Jupiter mass planet WASP76b orbits its 1.5*Sunmass star at 0.03AU and is tidally locked. The day side heats to 2400C which vaporizes metals, including iron observed in its atmosphere. The balmy night side is only 1500C causing ferocious winds which carry the iron vapor from hot to cool side. There it condenses, falling as rain. 
+
+Could this redistribution of mass change how the planet faces its star, and what could make that happen? For example, if the winds blew only one direction (I don't know why this would occur) might that act as a small spin that tidal locking forces might try to neutralize?

@@ -1,0 +1,3 @@
+Local atmospheric pressure and surface gravity in Jezero crater?
+
+The Jezero crater on Mars is the target location of the American Mars 2020 mission. I can't find any good values on the local air pressure and gravity, though the elevation is around what is considered the mean sea level so I suppose the atmospheric pressure is average, around 0.006 atm (0.088 psi). The Ingenuity helicopter reportedly was tested at that pressure. Does anyone know the exact local pressure at Jezero crater's bottom and the local surface gravity? Thank you.

@@ -1,0 +1,15 @@
+How do we get -0.4 mJy/beam in the the 1.28 GHz MeerKAT Galactic Center Mosaic?
+
+Dr. Becky's Feb. 11, 2022 video Move over JWST! 5 new telescopes to get excited for makes a quick mention of this image produced by the Meerkat array and published in Heywood et al. 2022 The 1.28 GHz MeerKAT Galactic Center Mosaic (also arXiv).
+The caption of the mosaic begins:
+
+Figure 1. The full MeerKAT total intensity mosaic, covering 6.5 square degrees of the Galactic center region at an angular resolution of 4". This is a linear mosaic formed from the 20 pointings described in Section 2, the centers of which are showning the figure as “+” markers. The image has dual color schemes, with a linear greyscale covering the faint end, and the heat map covering the bright end with a square-root stretch function. Pixel scales for the two colormaps are inset...
+
+I noticed that the "linear greyscale covering the faint end" is centered on zero, and ranges from -0.4 to +0.4 mJy/beam.
+Question: How do we get -0.4 mJy/beam? What does negative power mean in this context?
+related:
+
+Why levels of radio contours maps are given in mJy/beam and what does it mean?
+
+
+Screenshot from the arXiv preprint:

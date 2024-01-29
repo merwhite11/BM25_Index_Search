@@ -1,0 +1,7 @@
+Shouldn't all moon orbits be inherently unstable?
+
+A hypothetical simulation starts with a planet called Earth in a perfectly circular orbit around a star called Sol. There is also a moon called Luna in a perfectly circular orbit around Earth.
+Question:
+Can Luna's orbit remain perfectly circular or does it become elliptical over time? At what point does it become stable? Never?
+Thinking:
+The distance between Sol and Luna is not constant, it fluctuates as Luna orbits Earth. Therefore the pull sunward also fluctuates. Shouldn't this cause all moon orbits to eventually deteriorate into longer and longer elliptical orbits until they collide with the planet they orbit?

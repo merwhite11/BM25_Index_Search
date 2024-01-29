@@ -1,0 +1,12 @@
+What is an "Off Rowland-circle Telescope"? Are there "On Rowland-circle Telescope" as well?
+
+The NASA Goddard news item NASA to Demonstrate New Star-Watching Technology with Thousands of Tiny Shutters says:
+
+The technology, called the Next-Generation Microshutter Array (NGMSA), will fly for the first time on the Far-ultraviolet Off Rowland-circle Telescope for Imaging and Spectroscopy, or FORTIS, mission on October 27. The array includes 8,125 tiny shutters, each about the width of a human hair, that open and close as needed to focus on specific celestial objects.
+
+Question: What is an "Off Rowland-circle Telescope"? Are there "On Rowland-circle Telescope" as well?
+
+And speaking of microshutters:
+
+How will microshutter arrays be used in the James Webb and future space telescopes?
+How were "microshutters" or other multiplexed or multi-object techniques first used in Astronomical spectroscopy?

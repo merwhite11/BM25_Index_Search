@@ -1,0 +1,5 @@
+What will be the temperature on Earth when Sun finishes its main sequence?
+
+We know that presently Sun is 4.5 billion years into its main sequence. It has another 5 billion years before it enters the Red Giant phase. We also know that Sun's luminosity increases by 10% every billion years during the main sequence. I am interested in finding the temperature rise as we approach the end of main sequence. I got two different values for temperature on Earth. 
+Wikipedia entry says that temperature on Earth would be 422 k in 2.8 billion years. However, if we use the formula for effective temperature as discussed in this answer 
+https://earthscience.stackexchange.com/a/4274/15299 and L = 1.8 then, the temperature on Earth would be 330K. Also in this book, the author does the same calculations on page 255.

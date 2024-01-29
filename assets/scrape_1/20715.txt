@@ -1,0 +1,4 @@
+Is there a maximum temperature a planet can have?
+
+This may sound a little bit confusing, but I will try to explain. (I have done research on this topic already) 
+I have looked at the temperatures of planets and I was wondering, is there a point where a planet is at perigee and it's temperature cannot reach any higher? Let's just say the planet is tidally locked, and is currently at perigee. Would the planet be at a point where it's temperature can no longer be increased at the current distance from its star?

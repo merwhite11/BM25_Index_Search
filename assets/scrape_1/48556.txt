@@ -1,0 +1,3 @@
+Is the STEREO-A and STEREO-B imagery publicly available?
+
+The latest image on the [NASA STEREO image page] is from December, and I assume STEREO-A and -B have collected data since. Can this data be found online?

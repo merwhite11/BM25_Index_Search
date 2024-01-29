@@ -1,0 +1,3 @@
+Is there any synthetic spectrum software for neutron star?
+
+Is there any software that can calculate the emergent spectrum of a neutron star photosphere, for Teff is about 1e7K, density is above 1e21-1e22 cm^-3 ? Output line wavelength is about 0-100A is enough. Can calculate Fe and heavier metal isotope like Ni. Since the dense and temperature is high, many softwares seem do not suitable.

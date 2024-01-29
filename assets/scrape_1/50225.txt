@@ -1,0 +1,4 @@
+Fourier analysis of exoplanet transit to determine the number of planets in the system
+
+Although I think that this can be done by simply looking at the transit graph, I was wondering if a Fourier transform of a transit (basically transforming transit depth/amplitude vs time graph to transit depth/amplitude vs frequency graph) can be used to determine the number of planets in a system. I suppose the different “peaks” could indicate different exoplanets. Does this make sense and is it possible?
+Also, I don’t know much about Fourier transforms (although I am willing to learn about it). I thought of doing my IB Maths AA HL internal assessment on this topic. Would this be possible?

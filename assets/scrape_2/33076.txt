@@ -1,0 +1,17 @@
+Assuming no light pollution, was "2C. 1406" ever visible to the naked eye?
+
+Joseph Needham, in his Science and Civilisation in China Vol. III, claimed that there was an ancient record of a nova about three thousand years ago. As a result of private correspondences with a "Dr A. Beer" (maybe Arthur Beer?), Needham stated in his book that
+
+This supernova position ["position" being "next to Antares"] agrees closely with the radio-star 2C. 1406.
+
+Assuming that "2C. 1406" refers to an item in the Second Cambridge Catalogue of Radio Sources, the data given for this item (original document here) is
+
+
+Acknowledging that the Second Catalogue has various problems, my questions are:
+
+Is "2C. 1406" (still) considered to be "IC 4606" (which, I suppose, refers to this nebula from the SIMBAD Astronomical Database)?
+If so, was "IC 4606" ever visible to the human eye?
+If not, what do the coordinates given for "2C. 1406" currently refer to (if anything), and was this ever visible to the naked eye? Or is this not really a radio source, but an error that was fixed by later Catalogues?
+
+
+Note, the interpretation of the supposed nova record is extremely controversial, so I wouldn't be surprised if the text didn't refer to any kind of astronomical observation at all.

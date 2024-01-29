@@ -1,0 +1,6 @@
+What is the formula to predict lunar and solar eclipses accurately?
+
+A number of ancient civilizations had devised methods to predict exact dates and times of such eclipses, marking them as important events.
+Hence I assume the predictions were based on calculations, which should be quite easy to do now.
+So what is the exact formula to predict the exact date and time(this is optional, but desirable) of lunar and solar eclipses?
+Also how to calculate if the solar eclipse will be visible from a particular location or not?

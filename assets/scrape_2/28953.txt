@@ -1,0 +1,4 @@
+How to convert a function of keplerian elements to a function of equinoctial elements?
+
+I need to convert the Keplerian orbital elements to the equinoctial elements and then use the converted elements"equinoctial" in the function "d" below. To do this, first, I converted the Keplerian elements to equinoctial elements (a,h,k,p,q,lamda)  using the formula in the attached picture, BUT I need to know what is the equinoctial elements that correspond to each of e,i,w,omega so that I can replace each keplerian elements in the function "d" with the equinoctial element.
+d= Sin[omega]* Cos[w]2 +[w] + Cos[omega] Cos[i] Sin[w - Omega]

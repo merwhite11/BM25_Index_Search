@@ -1,0 +1,4 @@
+Can a star emit a larger fraction of its total light in the visual range than the Sun does
+
+If one sets both the bolometric and visual luminosity of the Sun to 1 (and use a linear scale), can a star then have a higher visual than bolometric luminosity?
+It makes sense that this will not be the case for most stars, as smaller stars will tend to radiate more of their energy as infrared, while larger go more into the ultraviolet. That is, this is inherently linked to what wavelengths the human eye has evolved sensitivity for. But are there exceptions? If there are, I would think they have parameters very close to the sun.

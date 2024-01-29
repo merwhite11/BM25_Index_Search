@@ -1,0 +1,4 @@
+Alignment of Semi-Major Axis of Orbits
+
+So I'd like to ask whether the semi-major axis of planetary orbits are aligned? Logically, they shouldn't be, but many websites act as if they are. If they're not aligned, what's the angle between the reference xy axis and the semi-major axis of the orbits of planets?
+Thanks!

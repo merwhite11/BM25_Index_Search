@@ -1,0 +1,4 @@
+How much mass does an object in space need to keep a human on its surface?
+
+Assume there were a roughly spherical object in space like a meteorite or a comet. 
+If I weighed 80kg on Earth, how much mass would be required for an object in space so that I could stay on its surface without "flying away?" It's not necessary have the same gravity as Earth, but I am wondering what minimal mass the object would require for it to have meaningful gravity for someone to remain on the surface.

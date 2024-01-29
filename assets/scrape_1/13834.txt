@@ -1,0 +1,30 @@
+Earth Versus Catastrophic Meteor
+
+How evasive is the Earth to Catastrophic Meteors?
+Google says the Earth is approximately 92.96 million miles from the Sun. It also says the suns radius is 432,474 miles.
+Therefore, it is 93,392,474 miles from the Earth to the center of the Sun:
+92,960,000 + 432,474 = 93,392,474 miles
+
+I've heard the Earth's orbit is elliptical, but to keep things simple, let's just say the orbit is a perfect circle. Therefore the radius of this circle is 93,392,474 miles. This would mean the diameter of our orbit would be 186,784,948 miles:
+93,392,474 x 2 = 186,784,948 miles
+
+The circumference of a circle is π x the diameter of a circle. Therefore, the number of miles in Earth's orbit would be about 586,504,736.72 miles:
+3.14 x 186,784,948 = 586,504,736.72 miles
+
+So, the Earth travels about 586,504,736.72 miles in one year. Since there are 365 days in year, that would mean that Earth travels about 1,606,862 miles in one day.
+586,504,736.72 ÷ 365 = 1,606,862.292383562
+
+That would mean the Earth travels about 66,953 miles per hour:
+1,606,862.292383562 ÷ 24 = 66952.595515982
+
+And this would mean the Earth travels about 1,116 miles per minute:
+66952.595515982 ÷ 60 = 1115.876591933
+
+Lastly, this would mean the Earth travel about 18.6 miles per second:
+1115.876591933 ÷ 60 = 18.597943199
+
+Google says the diameter of the Earth is 7,917.5 miles. So, as fast as the Earth is traveling, a catastrophic meteor has about a 7 minute window to hit target Earth.
+7917.5 ÷ 18.597943199 = 425.719119329 seconds
+425.719119329 ÷ 60 = 7.095318655 minutes
+
+What are the odds of a catastrophic meteor hitting the Earth? Or, maybe a better question: What are the odds of the Catastrophic Earth hitting a poor meteor!?

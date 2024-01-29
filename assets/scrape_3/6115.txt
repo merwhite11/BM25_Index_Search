@@ -1,0 +1,3 @@
+Electron Degeneracy Pressure and the Pauli Exclusion Principle
+
+I have read that what keeps white dwarfs from gravitational collapse is electron degeneracy pressure. How does this pressure prevent further collapse, and how is it related to the Pauli Exclusion Principle?

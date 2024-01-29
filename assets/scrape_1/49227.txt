@@ -1,0 +1,8 @@
+Angle to the line of sight
+
+I don't understand this angle used in galaxy clustering. There is the line of sight and this angle to the line of sight which is not clear to me. Here is a transcript of a description from 1705.05442:
+
+Defining a sphere around a given LOS, equal volume elements are defined by the cosine of the angle to the LOS, $\mu$. Thus, in real, non-evolving, space, information is divided evenly in bins of $\mu$.
+
+I can't understand the visual idea, this angle is with respect to what coordinate?
+I assume the LOS distance is the comoving distance to the object.

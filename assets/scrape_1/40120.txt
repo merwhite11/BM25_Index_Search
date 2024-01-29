@@ -1,0 +1,4 @@
+Is it possible to filter radio-waves using another radio telescope?
+
+When making an observation using a radio telescope, is it possible to filter out noise coming out from a known source by using another telescope that will focus on that noise source?
+By filtering, I mean processing the observation on a computer and calculating the filtered image using the second telescope source. Assume that both of the telescopes are connected and can easily sync on time and location and exchange other information.

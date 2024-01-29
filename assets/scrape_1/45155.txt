@@ -1,0 +1,15 @@
+Question about calculating the ratio of volumes of two components of an eclipsing binary star
+
+I'm trying to solve this task:
+
+At the maximum, the eclipsing binary star has a brightness of 6^m, and at a minimum of 8^m. Considering the eclipse to be central and the companion to be dark, find the ratio of the volumes of the components of this pair.
+
+This probably has something to do with this formula but I'm not sure:
+
+
+E = L/S = L/4πr2
+
+
+Edit:
+I've understood that I can find the radius ratio of the star and it's component and then find the volume ratio. I've started calculating but got weird result. I have a square root with a negative value inside.
+Could you please help me find mistake? Thanks for any help.

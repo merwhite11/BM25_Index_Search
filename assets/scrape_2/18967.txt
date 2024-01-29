@@ -1,0 +1,10 @@
+white-dwarf merge in binaries
+
+Two white dwarfs with a total mass $>1.4\:M_{\odot}$ merge. It may trigger a type Ia SN explosion.
+How about the three cases below?
+
+Two low mass WDs merge, total mass $<1.4\:M_{\odot}$.
+A low mass WD + a low mass neutron star, total mass $<2\:M_{\odot}$ but $>1.4\:M_{\odot}$.
+A low mass WD + a neutron star, total mass $>2\:M_{\odot}$.
+
+If any of the above can result in a SN, have we observed this kind of SN?

@@ -1,0 +1,4 @@
+Why circularization of an orbit has longer time scale than tidal locking?
+
+I'm trying to understand the basic physics of orbital evolution. I know that in a two-body system (a planet orbiting a sun for example), eccentric orbits become circular, and the spin of the planet becomes tidally locked (like the Earth-moon system).
+However, I don't understand why the timescales of these two processes are different (as stated for example in Storch & Lai (2013)), and if there's a simple way to quantify the timescale of circularization (kind of back of the envelope calculation, like the one for tidal locking found here)?

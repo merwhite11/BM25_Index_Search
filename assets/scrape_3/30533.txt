@@ -1,0 +1,11 @@
+Why was helium hydride (HeH+) the universe's first molecule?
+
+The abstract of the new Nature paper Astrophysical detection of the helium hydride ion HeH+ tell us that infrared spectroscopy from SOFIA detected
+
+...rotational ground-state transition of HeH+ at a wavelength of 149.1 micrometres in the planetary nebula NGC 7027.
+
+It also says:
+
+In this metal-free and low-density environment, neutral helium atoms formed the Universe’s first molecular bond in the helium hydride ion HeH+ through radiative association with protons. As recombination progressed, the destruction of HeH+ created a path to the formation of molecular hydrogen.
+
+Question: Why was helium hydride (HeH+) the universe's first molecule? Why was it the hydrogen helium cation rather than the dihydrogen cation?

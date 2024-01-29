@@ -1,0 +1,3 @@
+Relation between molecular cloud mass and galactic mass
+
+Would it be true to assume that the mass of a galaxy is approximately the mass of all molecular clouds detected within it, let's say, through CO observations and then converted to H$_2$?

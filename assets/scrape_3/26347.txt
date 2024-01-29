@@ -1,0 +1,7 @@
+Given sunrise, noon, sunset, longitude and latitude can I calculate the "hight" or "ascension" of the sun?
+
+I'm trying to make a simple app for my own use to be able to check which of my favorit restaurants have outdoor seating sun and for how long etc.
+Given the data in the title (sunrise, noon, sunset, longitude and latitude) I can draw a path where the sun should be at any given time, but I want to display the hight as well.
+I live in sweden where the sun changes "hight angle" (sorry I don't know the exact term for it) which make the angle relevant when deciding on seatings amongst high buildings.
+My end goal is to be able to use google maps 3D data to actually cast shadows on the map in a realistic way!
+I have no Idea if I'm in the right place but I figure I'll give it a shot :)

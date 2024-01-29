@@ -1,0 +1,8 @@
+How do I determine the Luminosity with a half-life decay?
+
+I know there is a proportionality between the luminosity and $\frac{dN}{dt}$, but I am not sure why they are proportional and why there is a need for an initial mass to compute the luminosity if the half-life equation is:
+$N(t) = N_{0} \cdot (\frac{1}{2})^{t/t_{half-life}^{1/2}}$
+and how does this apply to supernovae?
+I tried to use Cobalt decay to help me understand, but I do not see how to progress from:
+
+$\frac{dN}{dt} = \frac{N_{0}}{N(t)} \cdot (\frac{1}{2})^{t/t_{half-life}^{1/2}}$

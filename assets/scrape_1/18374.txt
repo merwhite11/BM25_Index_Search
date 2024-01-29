@@ -1,0 +1,16 @@
+Why does Gaia use only calcium NIR lines for stellar radial velocity measurements?
+
+I was reading this overview article about the Gaia spacecraft and I saw the following statement:
+
+These spectra provide radial velocity information that are used to study the kinematic and dynamic evolution of the Milky Way. Radial velocities are derived from three isolated Calcium lines at 849.8, 854.2 and 855.2nm. Other lines in the 847 to 874nm range can provide data on star composition, surface gravity, and metal abundance.
+
+note: as pointed out in the comments below, the third line is at 866.2nm, not 855.2nm - this is suggested to be a typo - the '855' number also shows up on this ESA page.
+The high resolution spectroscopy only seems to operate between 847 and 874nm, and "three isolated Calcium lines" are used to measure radial velocity.
+Do all stars have enough calcium in their atmosphere to produce strong enough features to measure the radial velocity so accurately? I had thought that there are some stellar populations have very little besides hydrogen and helium in their atmosphere.
+Are these always emission lines or absorption lines, or will there be some stars with one and some of the other? What fraction of stars simply won't have significant amounts of calcium?
+
+above: Gaia's Radial Velocity Spectrometer from here, credit: ESA.
+
+above: Gaia's Imaging system, including mirrors 4, 5 and 6, prisms, diffraction gratings, and CCD array, from here, credit: EADS Astrium.
+
+above: Gaia's Optical Module, including Radial Velocity spectrometer (gratings) and a focal field corrector, from here, credit: SAS Astrium.

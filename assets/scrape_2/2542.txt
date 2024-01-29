@@ -1,0 +1,3 @@
+Calculating Angular Distance
+
+Given the horizontal coordinates of two objects in the sky, how does one go about calculating the angular separation between them?

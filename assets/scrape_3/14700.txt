@@ -1,0 +1,46 @@
+Plot an AltAz grid over a square grid of RADec points
+
+first post here.  As I'm new, StackExchange won't let create or use the wcsaxes tag.  wcsaxes looks like the most appropriate tool for the job, but astropy is closely related.
+I think the title says it all, but I'll give a little more detail.  I have a bunch of sources in (RA, Dec) and want to plot them in the simplest possible projection (i.e. square, but if this is not possible we can make allowances).  I want to see the geometry of the Earth over my region of interest, mostly to identify the Earth's magnetic field lines.
+The following code gets me close, but I get this error:
+AttributeError: 'NoneType' object has no attribute 'to_geodetic'
+
+If I change "altaz" to "galactic", I get a Galactic coordinates grid over the points, which is what I want, but obviously in the wrong coordinate frame.
+#!/usr/bin/env python2
+
+import numpy as np
+from astropy.wcs import WCS
+from astropy.time import Time
+import matplotlib.pyplot as plt
+
+
+# time = Time(2606629, format="jd", location=("116.670810d", "-26.756528d")).iso
+w = WCS(naxis=2)
+w.wcs.ctype = ["RA---MER", "DEC--MER"]
+# w.wcs.dateavg = time
+
+ra_min = 0
+ra_max = 15
+dec_min = -45
+dec_max = -15
+N = 1000
+
+sim_ra  = np.random.uniform(ra_min, ra_max, size=N)
+sim_dec = np.random.uniform(dec_min, dec_max, size=N)
+
+fig = plt.figure()
+ax = fig.add_axes([0.1, 0.1, 0.9, 0.9], projection=w)
+overlay = ax.get_coords_overlay('altaz')
+
+overlay[0].set_ticks(color='white')
+overlay[1].set_ticks(color='white')
+overlay[0].set_axislabel('Longitude')
+overlay[1].set_axislabel('Latitude')
+overlay.grid(color='black', linestyle='solid', alpha=0.5)
+
+plt.scatter(sim_ra, sim_dec)
+plt.xlabel('RA')
+plt.ylabel('Dec')
+plt.show()
+
+I played a little with trying to get the observation time into the WCS header (note that the actual time is artificial, but should work regardless), without success.  Any ideas?

@@ -1,0 +1,12 @@
+Are these parallel lines I'm seeing in this image a real pattern on the Moon?
+
+In this question I mention the GIF in EarthSky.org's Moon Phases update Lengths of lunar months in 2017. After watching it a while, I've noticed a pattern of parallel nearly vertical lines on the Moon image that's used to generate this simulation. I've shown it below. However, if I look at the moon image in Wikipedia, which is much larger, higher resolution, and has perhaps higher contrast, I don't see it.
+It could be there, but less noticable due to the enhanced level of detail i the large image, but I am wondering - is it real, or not. If not, how did it get into this image?
+
+above: Animation used in EarthSky.org.
+
+above: Frame 29 from the GIF Animation used in EarthSky.org.
+
+above: A casual analysis of the cropped ROI. The traces are color: top, middle, and bottom third, column averages, black: entire column average. Short vertical lines are drawn by hand to try to point out the pattern that I'm seeing.
+
+above: "Full Moon photograph taken 10-22-2010 from Madison, Alabama, USA. Photographed with a Celestron 9.25 Schmidt-Cassegrain telescope..." from here.

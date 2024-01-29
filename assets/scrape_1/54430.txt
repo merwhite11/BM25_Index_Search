@@ -1,0 +1,4 @@
+How to compute Date and time to next Ascension / Descension of the Moon
+
+Is there an easy way to calculate the next date and time for Ascension / Descension of the Moon?
+I work with swift language but a mock code will be ok for me.

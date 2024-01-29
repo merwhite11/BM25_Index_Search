@@ -1,0 +1,10 @@
+Difference in the baryon acoustic oscillation measurements
+
+I understand from this Wikipedia page about baryon acoustic oscillations (BAOs). I can also see that BAO measurements were first detected using luminous red galaxy samples. 
+Now, many papers use galaxy clusters to measure the BAO signal. What is the advantage/difference between using galaxy samples and galaxy cluster samples to measure the BAO?
+EDIT:
+Here are some of the papers using galaxy clusters for BAO detection. 
+
+Estrada et al. 2008
+Hong et al. 2012
+Veropalumbo et al. 2014

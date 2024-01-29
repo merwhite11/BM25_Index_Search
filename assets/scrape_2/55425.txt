@@ -1,0 +1,19 @@
+Flux from the Sun on the Earth using the Stefan-Boltzmann law
+
+What is wrong with this computation, plase? I am getting the result of 4291.65 W m^{-2} instead of 1361 W m^{-2}. Thank you very much
+import numpy as np
+
+R_S = 6.957e8  # m
+au = 149597870700 # m
+sigma_SB = 5.670374419e-8 # W m-2 K-4
+
+# Sun parameters
+R = 1 * R_S
+d = 1 * au
+T = 5777.2  # K
+
+
+Earth_factor = R**2 * np.pi / d**2
+
+E = sigma_SB * T**4 * Earth_factor
+print('SB', E)

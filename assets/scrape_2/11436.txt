@@ -1,0 +1,9 @@
+Orbiting and landing on non-sperical objects
+
+If we orbit a non-spherical asteroid or moon at a sufficient distance I believe that we can consider it to be a point mass. Therefore we can take up a conventional orbit.
+Assuming our lander craft is of insignificant mass compared with the body we wish to orbit and land on, how do we cope when we get near to the surface?
+Presumably an orbit will become more and more chaotic the nearer we get. As we try to land, unless we somehow synchronise with the body's rotation things will be equally tricky.
+What implications did this have for Rosetta's Philae and what implications will it have for much larger and maybe more irregular bodies?
+Is there some rule-of-thumb method to get an approximate answer or do spacecraft simply have to make minute by minute adjustments?
+Note
+I understand mathematics to a reasonable level but really I'm more interested in the practicalities of such landings. To what extent can they be pre-calculated and to what extent must they be adjusted on the fly.

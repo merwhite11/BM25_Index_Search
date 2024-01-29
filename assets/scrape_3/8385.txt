@@ -1,0 +1,3 @@
+How can I make Stellarium match the magnitude of stars visible in London, UK?
+
+Can someone recommend some Stellarium settings to mimic the amount of light pollution, and magnitude of stars that should be visible on a clear night in London, UK?

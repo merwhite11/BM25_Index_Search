@@ -1,0 +1,5 @@
+Have any more "white dwarf pulsars" been discovered or searched for?
+
+Back in 2016, Marsh et al. reported that the binary system AR Scorpii exhibits complex radio signals similar to those observed from traditional pulsars. In particular, pulsed synchrotron emission appears to be produced by interactions between the magnetospheres of a white dwarf and a red dwarf, powered in part by the spin-down of the white dwarf. The system has been dubbed the first "white dwarf pulsar" based on the signals.
+The system is thought to be similar to, if not an extreme case of, intermediate polars; we know of a number of these systems. Therefore, I'm wondering: Have there been any concerted searches for other intermediate polars exhibiting this pulsed emission, and if so, have any candidates been discovered (possibly serendipitously)?
+This is partly belatedly in honor of February's focus tag.

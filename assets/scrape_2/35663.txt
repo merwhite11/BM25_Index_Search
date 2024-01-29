@@ -1,0 +1,22 @@
+Right Ascension to Zodiac House
+
+At the moment (01-04-2020 09:36) the Moon is situated in Gemini:
+"The Moon is currently in the constellation of Gemini. The current Right Ascension is 06h 37m 56s and the Declination is +23° 42' 09”." theskylive.com, 2020.
+If there are 12 houses (zodiac) and Right Ascension is in a 24hr format how is the moon calculated to be in Gemini?
+The calculation i'm using has it in Cancer. This is obviously a mistake but here's how i'm getting it:
+
+Aries 0h 0m 0s
+Taurus 1h 51m 39s
+Gemini 3h 51m 16s; <- (Moon is  actually in Gemini)
+Cancer 6h 0m 0s; <- (here's where ive got the    moon at 06h 37m 56s)
+Leo 8h 8m 44s;
+Virgo 10h 8m 21s;
+Libra 12h 0m 0s;
+Scorpio 13h 51m 39s;
+Sagittarius 15h 51m 16s;
+Capricorn 18h 0m 0s;
+Aquarius 20h 8m 44s;   
+Pisces 22h 8m 21s.
+
+(Courtesy of https://astronomy.stackexchange.com/a/27488)
+How have I misunderstood right ascension and how would I derive Gemini from RA 06h 37m 56s?

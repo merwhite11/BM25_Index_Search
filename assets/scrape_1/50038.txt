@@ -1,0 +1,3 @@
+Calculating the "Turnaround Point," where expansion dominates over gravity
+
+I'm trying to understand the point where the expansion of space dominates over gravity, but I'm coming up empty handed when searching the internet. Specifically, I'm trying to find the math for it. I'm wondering if there might be some sort of Hill sphere-like thing surrounding galaxies or clusters, inside which gravity keeps things together and there is no effect, or very little effect, from the expansion of space. Does anyone know where I can find the math for this or whether there is even such a point in space?

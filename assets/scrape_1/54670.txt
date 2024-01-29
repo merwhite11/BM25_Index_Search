@@ -1,0 +1,3 @@
+How to test accuracy of DE441?
+
+I want to write about processing DE441 data for Moon and Sun and include a section about the validation and accuracy testing of the algorithm. Is there a website where I can retrieve documentation for eclipse observations, such as when an eclipse starts and ends? Additionally, are there any algorithms more accurate than DE441?

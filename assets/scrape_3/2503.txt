@@ -1,0 +1,15 @@
+Pulsation Modes of Cepheids
+
+There are various modes of Cepheids like
+
+single modes: 
+   fundamental (F), 
+   first overtone (1O), and likewise.
+
+And then we have 
+
+double modes: F/1O, 1O/2O etc.
+triple modes: 1O/2O/3O etc.
+
+What are these modes actually? What do they mean and which frequencies do they correspond to?
+Stellar pulsations are caused by expansions and contractions in the outer layers as a star seeks to maintain equilibrium. What kind of equilibrium is being referred to here?

@@ -1,0 +1,27 @@
+Horizontal to Equatorial Conversion - Code
+
+Following this tutorial I have been able to convert from Equatorial to Horizontal Coordinates and am now searching for a way to do the reverse.
+I understand this kind of question has been asked and answered using mathematics, but I have been unsuccessful in implementing the provided algorithm in code. Below is my C Sharp code for Equatorial -> Horizontal conversion, which I'm looking to reverse.
+public static HorizontalCoords EquatorialToHorizontal(EquitorialCoords equatorialCoords, GeographicCoords geographicCoords, double localSiderealTime)
+{
+
+    double ha = (localSiderealTime - equatorialCoords.rightAscention) * hours2deg;
+
+    double x_sid = Cos_d(ha) * Cos_d(equatorialCoords.declination);
+    double y_sid = Sin_d(ha) * Cos_d(equatorialCoords.declination);
+    double z_sid = Sin_d(equatorialCoords.declination);
+
+    double x_hor = x_sid * Sin_d(geographicCoords.latitude) - z_sid * Cos_d(geographicCoords.latitude);
+    double y_hor = y_sid;
+    double z_hor = x_sid * Cos_d(geographicCoords.latitude) + z_sid * Sin_d(geographicCoords.latitude);
+
+    double az = Atan2_d(y_hor, x_hor) + 180;
+    double alt = Atan2_d(z_hor, Sqrt(x_hor * x_hor + y_hor * y_hor));
+
+    return new HorizontalCoords(alt, az);
+}
+
+public static EquatorialCoords HorizontalToEquatorial(HorizontalCoords horizontalCoords, GeographicCoords geographicCoords, double localSiderealTime)
+{          
+  //*hmmmmmm what goes here..
+}

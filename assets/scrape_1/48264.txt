@@ -1,0 +1,7 @@
+For how many solar system bodies do recent JPL Development Ephemerides include libration?
+
+Since the Earth and the Moon are so gravitationally and tidally engaged and the laser ranging data so precise, the JPL Development Ephemerides are based on extensive modeling of the Earth-Moon system including some complicated models of how their internal structures behave.
+For purely kinematic effects, we can estimate libration of any tidally locked Moon relative to its planet from their positions in space and a vector for the Moon's axis, which might have an ephemeris of its own, or at least precession rate written somewhere.
+But I'd like to ask:
+Question: For how many solar system bodies do recent JPL Development Ephemerides include libration?
+For the purposes of my question, I think that this would be interpolated data in the ephemeris that exists explicitly for the attitude or orientation of a rigid body Moon, not something that could be derived from positions and other parameters as mentioned above.

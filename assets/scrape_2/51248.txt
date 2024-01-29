@@ -1,0 +1,3 @@
+From TEME to RA DEC
+
+I am using the SGP4 python package to get the coordinates of satellites at a given epoch. The algorithm computes the positions (X, Y, Z) in the True Equator Mean Equinox coordinate frame (TEME). From that, I would like to find the corresponding RA DEC coordinates at the given epoch. I thought this was just a change of frame from Cartesian to spherical coordinates, with RA = arctan(Y/X) and DEC = arcsin(Z/R). However, it does not seem to be the case at all. Looking at Stellarium, which give both TEME and RA/DEC coordinates for satellites, I have no idea how to get from one to the other. Is it complicated?

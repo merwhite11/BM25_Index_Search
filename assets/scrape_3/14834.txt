@@ -1,0 +1,6 @@
+How many stars are there in a Globular Cluster of 10^5 solar masses?
+
+I was wondering whether there is an easy way to approximate the number of stars in a Globular Cluster (GC) with 10^5 solar masses. 
+Can one, for instance just assume the GC is made of sun-like stars and therefore has 10^5 stars? 
+Or is this too simple? 
+Thank you for your answers!

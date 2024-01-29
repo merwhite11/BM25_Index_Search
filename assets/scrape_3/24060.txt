@@ -1,0 +1,5 @@
+If I look beyond (about same region, higher redshift) a galaxy, will I see its progenitors?
+
+Is there a range of redhsift dz, such that if I look at z+dz from a massive object at redshift z, I will see its progenitors?
+(in a LCDM scenario of halo assembling, with smaller halos evolving towards larger ones across the cosmic time)
+I am looking for a detailed explanation of this (maybe naif) question.

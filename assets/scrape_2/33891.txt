@@ -1,0 +1,5 @@
+Force exerted by space debris on satellites
+
+Hypothetically, if space debris were to collide with the currently orbiting satellites, how much force would they exert, and how much damage would they make?
+Will the satellites be able to withstand that much force, especially if they don't have Whipple shields?
+Since space debris travel at tremendous velocities, I am guessing the force is pretty large too. How do you calculate the force? Is it a simple $\rm{F=m \cdot a}$ calculation?

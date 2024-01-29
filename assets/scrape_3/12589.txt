@@ -1,0 +1,6 @@
+Is the mechanism of solar flares on red dwarfs and brown dwarfs the same as that on the Sun?
+
+The Sun has solar flares that are caused when there is a magnetic reconnection in the Sun's atmosphere, causing a loop of magnetic field to be ejected at high energy, along with a large number of protons, giving a intense burst of radiation.
+Other stars - notably some red dwarfs - have much more intense flares than the Sun does. Is the mechanism the same in these stars as in the Sun, and in larger stars? What causes the flares in red dwarfs, and even brown dwarfs? Why do less powerful stars have more powerful flares?
+Jupiter also has a magnetic field, and it's magnetosphere is composed of plasmas. Why aren't "Jovian Flares" seen?
+Related: How do large solar flares compare to flares on other stars?

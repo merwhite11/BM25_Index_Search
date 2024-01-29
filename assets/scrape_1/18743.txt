@@ -1,0 +1,6 @@
+Fingers of God effect for galaxy clusters
+
+Galaxies that reside in galaxy clusters are know to have peculiar velocities that cause the Fingers of God effect. 
+But what about galaxy clusters themselves? 
+Do they also have peculiar velocites by interacting with other galaxy clusters? 
+If so, are they high enough to be taken into account or low enough to be ignored?

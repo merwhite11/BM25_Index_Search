@@ -1,0 +1,8 @@
+Seasonal effect based on Earth position
+
+I know that Earth rotates around the Sun in an oval route:
+
+And I know the seasons happen, because the axis of the Earth is not vertical. I think it is 23 degree slope.
+How come the distance from the sun when the earth at the closest point to the Sun has no effect and if it has effect what is it?
+I can see that when it is summer on the northern hemisphere it is winter in the southern and vise versa.
+Shouldn't be it is hotter time for both sides when earth is closest to sun and colder when it is furthest?

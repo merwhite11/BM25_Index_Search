@@ -1,0 +1,10 @@
+Planck epoch and time dilation
+
+I guess this question can be broken down into three consecutive parts:
+
+Does general relativity apply during the Planck Epoch?
+If yes, does the gravitational time dilation prediction apply during the Planck Epoch before the fundamental forces are separated?
+If yes, albeit without matter, would the mass energy equivalent packed into such a compact universe severely dilate time, such that to an observer from a later stage of the universe, the epoch would appear to last forever, and therefore (huge conjecture here) making the universe effectively infinitely old and without a beginning?
+
+Edit: if I may, I would like to relax the assumptions and reformulate the question to help extrapolate the hypothesis in the original question as a possible scenario:
+Suppose we place a clock in the very early universe after the Planck epoch at a point where general relativity applies and the universe is still dense and smooth enough for gravitational time dilation to occur uniformly at a universal scale relative to a later stage of the universe. The universe rapidly expands then expansion slows, allowing a later observer to receive the signal transmitted by this clock during the denser state (let’s make the signals transmitted via gravitational waves, or a hypothetical type of radiation to which the early universe is transparent, since the early universe is likely opaque to electromagnetic radiation at that point in time). Relative to an identical clock adjacent to the observer, does the earlier clock appear to tick slowlier? If so, is it reasonable to conjecture by extrapolation that the earlier the universe being observed by a present observer, the slowlier time appears to pass, coming to a halt at gravitational singularity, thereby stretching the backward playback time of information received from beginning of the universe infinitely long, giving the appearance that the universe is infinitely old? This extrapolation, of course, is contingent upon a similar mechanism of time dilation during the Planck Epoch, GR or not.

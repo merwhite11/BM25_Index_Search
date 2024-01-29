@@ -1,0 +1,3 @@
+How do we determine a redshift error?
+
+I am struggling to calculate the redshift error of a galaxy. I was able to determine the redshifts of the absorption and emission lines from the galaxy's spectrum and then took the average of the redshift of the lines to determine the (overall) redshift of the galaxy. I know "error" is associated with the true and measured values but I don't know the true value of the redshift of the galaxy. Is there an explicit formula or something that I can use to calculate the redshift error of the galaxy without reference to the true redshift of the galaxy? All I know are the emitted and observed wavelengths of the emission and absorption lines of the galaxy spectrum.

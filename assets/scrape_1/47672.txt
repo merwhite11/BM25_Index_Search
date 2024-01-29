@@ -1,0 +1,4 @@
+How to calculate the goldilocks zones of brown dwarf stars? Do any encroach on the stars' Roche limit?
+
+Ignoring tidal heating and such, how can one calculate the habitable orbital ranges for  M, L, T, and Y spectral class stars?
+The reason I ask is that I'm also curious if any of these zones encroach on their respective Roche limits.

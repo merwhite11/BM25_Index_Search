@@ -1,0 +1,6 @@
+How would one estimate the rotation period of a star from its spectrum?
+
+
+The figure is shown; the measurements were taken on two consecutive observing nights. The Ordinate is the flux normalized to continuum and the abscissa is the wavelength scale. You can see the "bumps" indicated by the arrows referring to some Starspot as the spot moves on the profile; assuming a single time-stable position-stable spot.
+The "bumps" slightly shifts, as indicated by the arrows in the top line profile compared to the bottom profile, as the spot "moves across" the surface as the star as it rotates; i'm just not sure how to get an estimate of the rotational period from this? Given just the wavelength for the abscissa.
+Figure reference : Gray, D. (2005). The Observation and Analysis of Stellar Photospheres (3rd ed.), page 498. Cambridge: Cambridge University Press. doi:10.1017/CBO9781316036570

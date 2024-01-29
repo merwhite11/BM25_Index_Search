@@ -1,0 +1,11 @@
+How can the Sun block an X-ray telescope from observing a QPO galaxy "for several years"?
+
+Phys.org's Black hole's heart still beating  says:
+
+X-ray satellite observations spotted the repeated beat after its signal had been blocked by our Sun for a number of years.
+
+and links to the Open Access PNAS paper (Jin, Done and Ward 2020) Reobserving the NLS1 galaxy RE J1034+396 – I. The long-term, recurrent X-ray QPO with a high significance. (also arXiv)
+I can't imagine any kind of satellite orbit (Lagrange-point associated, Earth orbit, Heliocentric) for which the direction of the Sun would prevent a suitable orientation "for a number of years" assuming that number is greater than 0.5.
+Why was this so?
+
+related in arXiv: Re-observing the NLS1 Galaxy RE J1034+396. I. the Long-term, Recurrent X-ray QPO with a High Significance

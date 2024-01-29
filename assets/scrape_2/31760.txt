@@ -1,0 +1,7 @@
+How would one figure out the rate of axial precession of a planet?
+
+I want to start with the fact that I am by no means an astronomer, or even a hobbyist in the field. I am attempting to build a fantasy world which still reflects accepted physical laws.
+My problem comes from the fact that I have no idea how to go about figuring out the period of axial precession for a fantasy earth-like planet. For the Earth, I believe the period is roughly ~26,000 years. I've spent a few days trying to find resources, but in  all honesty I can't wrap my head around half of the equations I've seen presented.
+How would I go about doing this calculation for a given planet, and which of its properties would I have to specify in order to do this calculation?
+Edit Important? Details:
+My Earthlike planet has a mass 1.2597x the mass of our earth, and two fairly large moons (actually, one of them may be large enough to classify it as a binary planet but I'm not sure).

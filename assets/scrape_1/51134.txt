@@ -1,0 +1,6 @@
+Farthest distance two objects are "gravitationally bounded", considering expansion of the Universe
+
+The narrative is: "on greater scales the expansion of the Universe dominates, but on smaller scales gravitationally bounded objects still stay bounded". But how small is meant by "smaller scales"?
+Galaxy superclusters are the biggest gravitationally connected objects in the recent (low z) Universe. How big (for given mass $M$) can they be before the expansion tears them apart?
+For spherical mass $M$ and current epoch (and current value of expansion parameter $\Lambda$) - how far the closest unbounded object be?
+Can a graph be built for "unbounding" distance as a function of $M$?

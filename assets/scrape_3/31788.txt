@@ -1,0 +1,4 @@
+A quantitive estimate of the size above which celestial bodies must be near-spherical
+
+Asteroids and smaller celestial objects tend to be odd-shaped, whereas planets are always spherical (or slightly oblate due to their spin). The reason obviously is that for sufficiently large masses/sizes the gravitational force overwhelms any resistance of even rocky materials to maintain a shape other than a sphere (which minimises the gravitational energy).
+The characteristic scale at which this transition occurs depends on the material and is different for ice and rock as mentioned in this answer (to a related question) which also links this useful Wikipedia article. I wonder whether this limit can be estimated from simple physics (involving material constants for ice/rock).

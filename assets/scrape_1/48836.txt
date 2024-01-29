@@ -1,0 +1,7 @@
+Why does the alignment evaluation image from JWST look like this?
+
+NASA has just released a telescope alignment evaluation image from JWST for the star HD 84406 2MASS J17554042+6551277. It looks like this:
+
+Higher resolution at Wikipedia
+To my untrained eye, the star looks like it would look when viewed from a mirror that has a small smudge at the center. There are multiple lines at 45 degree originating from the star (and also couple of fainter ones at left-center and bottom-center of image).
+Is this because of the brightness of the star (it is "only" 258 about 2000 light years away)? Or are there some image post-processing steps that have not been applied to the image? Would the star look the same, if, for example, Hubble Space Telescope photographed it?

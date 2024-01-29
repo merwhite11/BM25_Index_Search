@@ -1,0 +1,5 @@
+Is there a timekeeping word for the orbit of a moon?
+
+For a planet, we can colloquially refer to its period of rotation as a "day" and its period of revolution around its parent star as a "year." Some worlds have unique terms, such as Martian days being referred to as "sols", but the principle is the same: one word for rotation around its axis, another for revolutions around the star.
+Is there an equivalent word for the period of a moon's revolution around a planet? On Earth it roughly lines up with a "month," but multi-moon planets would have different periods for each moon. 
+If I was in charge of timekeeping for a mission to Europa or Ganymede, what term would I use to refer to the period of time it takes for the moon to complete one orbit of Jupiter?

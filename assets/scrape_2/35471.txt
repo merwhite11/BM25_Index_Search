@@ -1,0 +1,6 @@
+Why are asteroids with zero orbital inclination rare?
+
+This is a plot of orbital inclination ($i_p$) vs. semi-major axis ($a_p$) of 96944 asteroids in the Main Belt, done by Piotr Deuar.
+
+Some structure can be seen in this diagram; clumps are asteroidal families and vertical empty spaces are Kirkwood gaps due to mean-motion resonances with the planets (mosly Jupiter).
+Recently I've noticed that there are fewer points towards the ecliptic in the first $\small{\frac 1 2}$ degree of orbital inclination. Is this due to some selection bias? or Is it because of some kind of resonance that eliminates asteroids with orbital inclinations too close to zero?

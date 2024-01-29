@@ -1,0 +1,7 @@
+Why does lithium fuse at lower temperatures than hydrogen?
+
+This is a basic question, but it's been bugging me. In the Wikipedia article for lithium burning, it states that:
+
+Stars, which by definition must achieve the high temperature (2.5 × 10^6 K) necessary for fusing hydrogen, rapidly deplete their lithium. This occurs by a collision of lithium-7 and a proton producing two helium-4 nuclei. The temperature necessary for this reaction is just below the temperature necessary for hydrogen fusion.
+
+I would imagine that with lithium having more protons, it would have a stronger Coulomb repulsion and require higher temperatures to fuse with hydrogen. Now, this article is pretty sketchy since it cites no sources, and I would normally dismiss this. But according to here, lithium burning occurs in protostars, before hydrogen fusion even takes place. How could lithium fuse with hydrogen at temperatures that low?

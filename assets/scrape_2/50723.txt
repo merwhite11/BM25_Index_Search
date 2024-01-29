@@ -1,0 +1,3 @@
+Are there two mean Suns?
+
+Are there two mean Suns? In the book I'm reading, the authors appear to refer to a mean Sun on the ecliptic moving in a circular orbit with constant angular velocity and with the same orbital period as the true Sun. This mean Sun is used to calculate the position of the Sun in its apparent orbit around the Earth. And then they refer to another (?) mean Sun on the celestial equator, again moving with constant angular velocity. This mean Sun is used to define mean solar time. I'm confused.

@@ -1,0 +1,4 @@
+Is a perfectly circular orbit possible?
+
+Let's assume that there is a perfectly spherical planet and there is a moon which is also perfectly spherical. Let's assume that there is no atmospheric drag and no other gravitational pull. If the moon is put in a perfectly circular orbit around the planet somehow, would the moon eventually "fall" towards the planet and form an elliptical orbit or would it continue to follow the perfectly circular orbit?
+Edit: What i actually wanted to ask is that would the gravity of the planet cause the moon to "fall" towards the planet or would the gravity allow the moon to continue its orbit without bending its path any further towards the planet. I know that no planet can be a true sphere or a cube due to the shapes of the particles.

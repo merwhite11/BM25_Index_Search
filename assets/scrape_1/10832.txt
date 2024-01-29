@@ -1,0 +1,41 @@
+How to deal with shifting CCD bias (zero exposure) levels?
+
+The median values of the bias frames coming from our teaching telescope shift up or down with each capture. For example:
+import glob, numpy as np, astropy.io.fits as fio, matplotlib.pyplot as plt
+
+data = np.zeros((10,255,765), dtype=np.int)
+for i, f in enumerate(glob.glob('bias_*.fit')):
+    data[i,:,:] = fio.getdata(f)
+
+print(np.median(data, axis=(1,2)))
+
+[ 106.  106.  108.  108.  110.  108.  105.  106.  107.  107.]
+Now, during data reduction we average combine our bias frames. We also reject outliers (either minmax or sigmaclip). But if some of our frames are "shifted" higher than others, wouldn't this skew the averaging (and especially the outlier rejection) so that we might be introducing more noise during averaging?
+To give you an idea of the nature of this fluctuation, I did a quick analysis: read 10 bias frames, then iterated through them, subtracting each frame from the median combination of all other frames. This gives me something like "noise frames", showing only how much each frame deviates from the median of the rest. Below is the code and the distributions of two of these noise frames.
+noiseframes = np.zeros((10,255,765), dtype=np.int)
+otherframes = np.ones(10, dtype=np.bool) # just a mask
+for i in xrange(10):
+    otherframes[:] = True
+    otherframes[i] = False # exclude current frame from mask
+    median_of_others = np.median(data[otherframes,:,:], axis=0)
+    noiseframes[i,:,:] = data[i,:,:] - median_of_others
+
+def plotdist(i):
+    frame = noiseframes[i].flatten()
+    x = np.arange(np.min(frame),np.max(frame)+1)
+    y = np.bincount(frame-np.min(frame))
+    plt.step(x, y, label=str(np.median(data[i,:,:])))
+
+plotdist(4)
+plotdist(3)
+plt.xlabel('Difference from median [ADU]')
+plt.legend()
+plt.show()
+
+
+All of the noise frames have near-perfect gaussian distributions with pretty much constant FWHM, it's just the central value that shifts around with each frame.
+This leads me to a couple of conclusions: firstly, this shift truely is a shift in median value and not just a result of something like cosmic rays; secondly, the fluctuation is an additive effect and so not due to a change in gain due to a difference in voltage or something like that.
+I also could not find any correlation with temperature or time since last readout, both of which I suspected for a moment.
+Perhaps it's slight changes in readout time?
+I couldn't find any mention of this kind of artefact in my own course notes. It's also not mentioned anywhere online that I can find.
+Can any of you help me to a) identify the possible sources of such a fluctuation and/or b) provide a proven strategy for dealing with this during data reduction?

@@ -1,0 +1,8 @@
+Do integer multiples occur in astronomy data?
+
+I'm a statistics student, currently working on "quantum inference", which is the statistical problem of inference in the quantum model:
+$y_i = \alpha + \beta x_i + \epsilon_i$
+which is similar to a simple linear model, except instead of $x_i$ being a known constant, it is instead a random integer. The prototypical example is von Mises's analysis of atomic weights in 1918, trying to assess the significance of the observation that they tended to be integer multiples of the mass of hydrogen. For more information on the subject see DG Kendall's overview.
+I am not sure if I should continue working on this problem because the applications are so few, mostly in archaeology, where weights or lengths are often integer multiples of an ancient unit of measure. However, it occurred to me that there may be applications in astronomy.
+For example, perhaps the brightness of a spot has been measured, and the spot could represent any number of objects which are not distinguishable at the present resolution. This could be a problem of quantum inference... but only if if were for some reason known a priori that all objects had to have the same brightness.
+So, while that specific scenario might be implausible, is there some problem in astronomy data analysis that involves quantum inference in this sense? In other words, are there ever cases where a histogram of the data shows multiple, equally spaced modes?

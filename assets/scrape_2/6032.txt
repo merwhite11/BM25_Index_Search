@@ -1,0 +1,9 @@
+Why does this twilight sky flat field have a grid of dark pixels?
+
+The image below is a small region of a twilight flat field. A grid of darker pixels with 728x36 cell dimensions can be seen.
+
+The camera used was the SBIG STL-6303 according to the FIT headers, which uses a Kodak KAF-6303E CCD according to the online data sheet.
+The CCD dimensions, these cell dimensions, and all the binning options are all perfectly divisible, so I'm assuming this artifact is due to the structure of the CCD.
+I plotted the mean pixel value of each row to make sure this wasn't an artifact from the image viewing software. The plot clearly shows a drop every 36 pixels.
+So, I'm hoping for some confirmation: is this decreased sensitivity due to the structure of the CCD?
+If so, what about the CCD structure actually causes this?

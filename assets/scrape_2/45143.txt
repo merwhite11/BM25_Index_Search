@@ -1,0 +1,21 @@
+starting from SSP spectra to evaluate galaxy spectrum and observed mag
+
+
+I know that the galaxy spectrum, namely the flux per unit wavelength versus the wavelength, is the sum of the Simple Stellar Population (SSP) spectra at a fixed redshift (e.g. similar to eq. 1 in Bruzual&Charlot 2003, but at fixed time). Then, integrating the spectrum of the galaxy in a certain filter band, I obtain the (observed,with the k-correction) magnitude.
+Now I am wondering if the following operations to evaluate the galaxy spectrum and then the observed galaxy magnitude are equivalent or not:
+METHOD (1):
+I have N SSP forming my galaxy at fixed redshift. I perform the first and second operations N time, for each SSP:
+
+convolving the SSP spectrum with a chosen filter and integrating it in the filter wavelength band (following e.g. Blanton+03, but beware that my fluxes are k-corrected, or redshifted) and obtain the observed AB magnitude mag_i
+from the observed AB magnitude, I compute the integrated flux in microJansky: flux(uJy)_i = pow(10,(29-(mag_i+48.6)/2.5).
+
+Now I want the total integrated flux (integrated flux of the galaxy):
+I sum up the fluxes computed in the previous passage (coming from the observed AB mag of each SSP) flux_tot = sum(flux_i)
+From the total flux, I re-compute the observed mag  mag_tot=2.5*(29-np.log10(flux_tot))-48.6.
+
+METHOD (2)\
+
+I firstly sum up the spectra of the SSP all together, obtaining the galaxy flux per unit wavelength versus the wavelength
+I convolve it with the filter, I integrate it in the wavelength band and obtain the observed AB mag mag_gal.
+
+In principle, the mag_tot of the first method and the mag_gal of the second method should be the same, right?

@@ -1,0 +1,5 @@
+What was the largest telescope ever fitted with an eyepiece
+
+Serious modern telescopes use CCDs to capture the results. This makes it convenient to process or display the results halfway around the world. However, there is something visceral about looking through an eyepiece and seeing the results live.
+My telescopic experience has been with smaller (<=8") devices in not-great-seeing conditions, and I've generally found the results dim and fuzzy. I've imagined what it would be like to look through an eyepiece on a serious telescope, showing a nebula bright and clear. Imagine stereo eyepieces on the Large Binocular Telescope!
+Hence my question: what is the largest aperture telescope that was ever fitted with an eyepiece so that someone could look through it in real-time? This should include situations where a normally-digital telescope was temporarily fitted with an eyepiece.

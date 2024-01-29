@@ -1,0 +1,4 @@
+Central temperature and pressure for constant density vs linear density model of stars
+
+I just derived the pressure and temperature profile for a linear density model of a star. If I compare the profiles of pressure and temperature for a constant density model of stars, I see that the linear density model central pressure is higher, but the central temperature is lower.
+What is the physical reason behind this?

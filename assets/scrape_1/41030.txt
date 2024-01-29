@@ -1,0 +1,6 @@
+Constellation a celestial body is in
+
+Given its right ascension and declination, find out the constellation a celestial body is in.
+Does anyone know of an algorithm (C#, js) for that?
+It would read the constellation boundaries (e.g. constellations.bounds.json, at https://github.com/ofrohn/d3-celestial/tree/master/data) and figure the constellation out.
+Thanks in advance!

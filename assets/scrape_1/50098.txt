@@ -1,0 +1,8 @@
+Question about Cowell's method
+
+According to Wikipedia:
+“ ... for $n$ mutually interacting bodies, Newtonian forces on body $i$ from the other bodies $j$ are” given by the summation equation$$\ddot{\mathbf{r}}_{i}=\sum_{j=1,j\neq i}^{n}\frac{Gm_{j}\left(\mathbf{r}_{j}-\mathbf{r}_{i}\right)}{r_{ij}^{3}},$$
+“with all vectors being referred to the barycenter of the system.”
+The summed over accelerations denoted by the right side of this equation do not appear to take into account gravitational forces between the $j$ other bodies? In other words, all the accelerations are functions of $\mathbf{r}_{i}$, the position vector of the body acted on by the $j$ other bodies. Is that interpretation correct?
+EDIT
+So if, for example, I wanted to calculate the Earth's acceleration due to the effect of the Sun and Jupiter, I would use the equation three times. Once with $i$ representing Earth to find the Earth's acceleration; once with $i$ representing the Sun to find the Sun's acceleration; and once with $i$ representing Jupiter to find Jupiter's acceleration. If I knew the initial position and velocity of the three bodies I could then numerically integrate these three equations to find positions and velocities after a certain time. Is that right?

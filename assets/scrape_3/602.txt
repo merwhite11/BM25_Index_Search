@@ -1,0 +1,6 @@
+How can an amateur astronomer verify the position of near Earth objects?
+
+Sometimes, hobby-astronomers use rather professional means to observe the big voids of space. Every now and then (think in months, not days) even I can locate an NEO (near Earth object).
+Now, I'm assuming governments and institutions worldwide track such NEOs, have the best options to observe them, and most probably accumulated more data than we could wish for.
+For hobby-astronomers who spot an NEO, it could be of interest to verify the location of the spotted NEO, and maybe even learn more about a specific NEO from additional data like name, type, path, direction, speed, first observed, etc.
+Is there any publicly available, NEO-related database out there? Or is there a specific institution a hobby-astronomer can/should turn to to be able to learn more about individual NEOs?

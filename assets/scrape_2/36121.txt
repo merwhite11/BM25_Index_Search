@@ -1,0 +1,15 @@
+What kind of triangle is formed by three unequal masses in a circular restricted three body orbit?
+
+This answer to Are the orbits of all triple star systems at least technically unstable? mentions:
+
+There are known solutions to the gravitational three body problem that can be shown to be stable. Lagrange found a three body solution for general masses where all three orbit the common center of mass in an equilateral triangular formation. Gascheau proved in 1843 that this solution is stable if the component masses satisfy
+$$ \frac{m_1 m_2+ m_1 m_3 + m_2 m_3}{(m_1+m_2+m_3)^2} < 1/27$$
+
+When the smallest mass approaches zero the three masses are at the vertices of an equilateral triangle. In a realistic solar system this means Trojan asteroids are generally found in orbits of massive planets like Jupiter about 60 degrees ahead-of and behind it.
+But if the smallest mass is large but the inequality above is still satisfied, what can we say about the triangle formed by the three bodies in a circular restricted three-body problem orbit?
+Is it still known to be an equilateral triangle, but they spin around a point which is not the center of the triangle, but is weighted toward the heavier object?
+
+If so, can this be shown by citing a math-based reference or shown here mathematically or computationally?
+If not, is there an expression for two angles of the triangle as a function of to mass ratios?
+
+ Source click for full size

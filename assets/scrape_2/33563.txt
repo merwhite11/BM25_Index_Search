@@ -1,0 +1,10 @@
+Can expansion of space blueshift galaxies with respect to one another?
+
+Suppose we have two galaxies in an otherwise devoid space, and suppose the galaxies are gravitating. Suddenly, dark energy kicks in, and accelerated expansion of space begins ...
+
+(1D force diagram. Ruddy rectangles represent the two galaxies, violet ellipses represent dark energy.)
+Because the galaxies are gravitating, dark energy between them expands space less, while "behind" the galaxies, where their mutual gravities don't overlap as much, dark energy exhibits a greater effect. The arrows above the galaxies compare force vectors. The black arrows are forces of gravitational attraction, the violet arrows are forces of expansion. Eyeballing the vectors' sum for each respective galaxy, it seems that the galaxies get an extra kick of acceleration from the regions of greater expansion behind them.
+If we play the movie in our heads with these assumptions: the galaxies start off by accelerating toward one another under their own mutual gravitational attraction (each observes a blueshift), then dark energy kicks in and the galaxies accelerate with more energy than can be accounted for by acceleration due to their own gravities alone (blueshift observed much greater than it should be).
+
+I have always read and heard of redshifted galaxies, not blueshifted ones (well, not so much, anyway), so something must be wrong here.
+Question: Can the expansion of the universe drive two galaxies together like this? Does the net effect of expansion behind and between the galaxies cancel out, resulting in no greater acceleration? Have I got this all wrong?

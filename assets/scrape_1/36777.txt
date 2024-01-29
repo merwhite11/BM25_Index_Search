@@ -1,0 +1,5 @@
+Why do we use the value 206265 in the small angle formula?
+
+Let $d$ be the distance, $D$ is the linear size, and $x$ the angular size.
+In the formula $$D = \frac{dx}{206 265}$$
+what does this number mean?

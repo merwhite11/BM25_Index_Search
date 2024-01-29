@@ -1,0 +1,12 @@
+Is the SOI a spherical region or a oblate-spheroid-shaped region?
+
+The Wikipedia article on Sphere of influence states that:
+
+"A sphere of influence (SOI) in astrodynamics and astronomy is the
+  oblate-spheroid-shaped region around a celestial body where the
+  primary gravitational influence on an orbiting object is that body."
+  (Emphasis added.)
+
+It then gives an expression for the radius of the sphere of influence. 
+Is the SOI a spherical region or a oblate-spheroid-shaped region? 
+If it is an oblate-spheroid-shaped region, then why?

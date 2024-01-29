@@ -1,0 +1,4 @@
+Has the Kepler data been examined for light curves due to phase changes of non-transitting hot Jupiters and other?
+
+I found this article http://www.epj-conferences.org/articles/epjconf/pdf/2011/01/epjconf_ohp2010_03005.pdf from 2011 announcing that two dozen secondary eclipses of "hot Jupters" have been seen in Kepler data. I even think I have seen a light curve showing phase changes of a transiting planet. This makes me think that there should be evidence in the Kepler data for non-transiting planets since the amplitude of the light curve due to planetary phase changes shouldn't be much different from that of a secondary eclipse as long as there is a fairly high inclination (say over 60 degrees).
+Is anybody aware of such an examination of the data?

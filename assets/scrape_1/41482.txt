@@ -1,0 +1,5 @@
+How to find the local azimuth of the highest point of the ecliptic
+
+I would like to use pyephem or skyfield1 to find the degree of the local horizon (starting from South = 0°) at which is located the highest point of the ecliptic.
+Note that I am not trying to find the culmination of a planet. It could well be that, when looking South, there is no planet on the ecliptic by that time/latitude, but there will still be a highest point of the ecliptic. Can anyone help?
+1Skyfield is preferred over PyEphem for new projects for several reasons

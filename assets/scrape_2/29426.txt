@@ -1,0 +1,22 @@
+Ensemble average VS spatial average for a cosmological density field
+
+I'm studying statistical properties of a cosmological density field and I have some doubts; in the following quote and pictures you can see what my problem is:
+
+A fundamental limitation arises in cosmology – because there is only one universe to observe, i.e. there is only one realization of the stochastic process that generates the fluctuations whose consequences we observe. Therefore we cannot measure ensemble averages
+  or expectation values, as we would in a repeatable laboratory experiment. What we can do when observing a fluctuation on a given scale $\lambda$ is to average over many distinct regions of size $\sim\lambda$. An ergodic-type hypothesis allows us to replace the ensemble average by a spatial average over these regions. (see pag 307 from Relativistic cosmology-George F.R. Ellis, R. Maartens, M.A.H MacCallum; Cambridge University Press (2012))
+
+So here we talk about an average over many distinct regions of the Universe (someone call them "fair sample" of the Universe if I understood correctly) and an ensemble average is replaced by a spatial average over these regionS. Thus I should average the field over region 1, region 2 and so on and I would get many mean values of the field.
+But in this presentation things seem different:
+
+
+Here instead we talk about an average over an ensemble replaced by a spatial average over one realization of the random field (one of the possible  universes I imagine). In this case I have only one realization: our Universe, so I should average my field spatially over the entire Universe. And what about the regions mentioned above?
+I'm confused and I would appreciate an explanation.
+Thanks.
+Addendum
+So theoretically if i wanted to get the average of a stochastic field or of a function, we say $\delta(\vec x)$ or $f[\delta(\vec x)]$, in a point $\vec x_1$ I should do the average over the ensemble of all the universes using (see slide): $\int{\delta}\cal P(\delta) d\delta$ (it is obviously impossible because we have only one Universe). I have imagined this thing thinking about a stack of planes representing the different universes of the ensemble and drawing the point $\vec x_1$ in each plane. Now i can take the value of $\delta(\vec x_1)$ in the first universe, in the second, and so on and finally make the average of these values; if I repeat this procedure for all the points I'll get the average of $\delta (\vec x)$, i.e. $\langle\delta\rangle$ over the ensemble of the universes. Ok it's fine...but it is not possible because I have only one Universe, so I have to appeal to Ergodic Hypothesis (really a spatial version of the Ergodic Hypothesis).
+
+An ergodic-type hypothesis allows us to replace the ensemble average by a spatial average over these regions
+
+It seems that I have to divide the Universe in regions (we can imagine squares for simplicity in two dimensions, I thought the Universe like a chessboard) and I can replace the ensemble averege with a spatial average over any single region. Any square of the chessboard is a fair sample of the Universe, so I have many squares that can "reproduce" the Universe (I divided my sky in many regions and I can consider these squares like the realisations of the "Universe experiment", the outcomes of the experiment). Thus I can do:
+$$\langle\delta\rangle=\frac{1}{\sum_i V_i}\sum_i \langle\delta\rangle_{V_i}$$
+where $\langle\delta\rangle_{V_i}=\int_{V_i}\delta(\vec x) d\vec x^3$.

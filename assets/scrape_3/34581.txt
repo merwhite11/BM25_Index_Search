@@ -1,0 +1,4 @@
+Why do the upper-atmosphere clouds of Venus appear to have that V shape?
+
+IF I understand correctly, the atmosphere moves in the same direction as the rotational spin, but about 60 times faster. It is driven from the hot side of Venus to the cold side (the difference being great due to the planet's slow rotation allowing time for it to heat up and cool down). Is my understanding correct?
+But why does the visible flow in the cloud tops describe a sideways V shape, with the flow appearing to move diagonally from the equator toward the poles? Is that also because the equator is hotter than the poles, driving the flow in that hotter-to-colder direction?

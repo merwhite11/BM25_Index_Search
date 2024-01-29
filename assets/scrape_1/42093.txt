@@ -1,0 +1,5 @@
+How to determine when Sun/Moon is aligned to two location on Earth's surface?
+
+I would like to make a photo to Moon/Sun when it is very low on horizon, so if I make the shot far away from an object on Earth surface, it appears as big as the Sun.
+But how can I calculate the right moment? Any site or app? Could NASA Horizons help? I made a GUI for it, but don't know if any quantity I can query could give me the information  I need:
+http://win98.altervista.org/space/exploration/NHUGUI.html

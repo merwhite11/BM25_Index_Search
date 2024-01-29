@@ -1,0 +1,6 @@
+How many GAIA Data Release 2 files are there?
+
+I am using this index page to download GDR2 data files.
+http://cdn.gea.esac.esa.int/Gaia/gdr2/gaia_source/csv/
+But it keeps giving a different number of links. Sometimes it shows 16,000 files, sometimes 31,000 and the max I have seen is 61,237. What is the correct number I should download? GAIA GDR2 documentation does not list the total number of files available.
+Interestingly, if the index lists less than 60k files, it still has the closing /html tag so it would appear I have a complete index file, but the contents are not complete.

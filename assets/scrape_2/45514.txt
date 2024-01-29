@@ -1,0 +1,6 @@
+Why is it safe to assume that K = 3/2kT in a self-gravitating gas
+
+I encountered a question:
+"Find the ratio of Kinetic Energy and Total Energy of a star, made out of a monoatomic ideal gas, You may not consider density to be uniform. Kinetic energy is the associated KE of gas particles w.r.t to Temperature. You may assume uniform temperature."
+The solution is fine until they use $K_E = {3\over 2}k_BT$ per the monoatomic gas particle. Isn't this $K_E$ associated with Kinetic Gas Theory which neglects all attractive forces. But we have to calculate the self-energy of this star, which certainly arises due to gravitational interactions between these particles and is certainly not neglectable.
+Is it a valid assumption that $K_E = {3\over 2}k_BT$?

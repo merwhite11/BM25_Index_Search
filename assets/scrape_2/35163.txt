@@ -1,0 +1,3 @@
+Henyey method for interior parts of the star
+
+Does there exist a code that implements Henyey method for interior parts of the star?

@@ -1,0 +1,13 @@
+Solar wind, Earth wind and planetary winds?
+
+In February 2021, a new form of "electrified gas breeze" was announced, see blog by Tony Phillips entitled A New Form of Space Weather: Earth Wind which might a possible explanation for traces of water on the moon:
+
+“Earth wind” comes from the axes of our planet. Every day, 24/7, fountains of gas shoot into space from the poles. The leakage is tiny compared to Earth’s total atmosphere, but it is enough to fill the magnetosphere with a riot of rapidly blowing charged particles. Ingredients include ionized hydrogen, helium, oxygen and nitrogen.
+Once a month, the Moon gets hit by a blast of Earth wind. It happens around the time of the full Moon when Earth’s magnetic tail points like a shotgun toward the lunar disk.
+
+I suspect, that all planets with atmospheres should display this kind of planetary winds (even without having a strong magnetic field), but I am sure it was never termed Venus wind or Jupiter wind since that naturally refers to processes within the atmosphere of the repsective planet. Does anybody know (publications) on the topic of gas jets errupting from solar planets with atmosphere? What order of magnitude would such a particle flow have for Venus or Jupiter?
+References
+
+H. Z. Wang et al.: Earth Wind as a Possible Exogenous Source of Lunar Surface Hydration 2021 ApJL 907 L32
+Why did Venus not lose its atmosphere without a magnetic field?
+Why has Venus's atmosphere not been stripped away by solar wind?

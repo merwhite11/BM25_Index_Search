@@ -1,0 +1,3 @@
+Longest and Shortest day of the year in all planets
+
+Can we trace the longest and shortest day of the year in other planets of Solar system similar to earth planet i.e. Mars, Saturn, Venus, Jupiter, Mercury, Neptune, Uranus?

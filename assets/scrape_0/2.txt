@@ -1,0 +1,4 @@
+How are the compositional components of exoplanet atmospheres differentiated?
+
+How are exoplanetary atmosphere compositional spectra distinguished from those of the parent star(s), from the composition of the planetary surface or any other factor?  Is it actually possible to determine the atmospheric composition precisely using this method?
+Are there any specific examples of such an analysis having been performed on an exoplanet?

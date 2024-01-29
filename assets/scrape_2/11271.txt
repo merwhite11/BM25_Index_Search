@@ -1,0 +1,10 @@
+Historical astronomical lunar tables
+
+I hope this is the right place to ask this question, and I apologise if not.
+I've come across a date written in an old book, but it is written using what seems to be a lunar/zodiac system.
+Below is a picture of the date (ignore the text above it):
+
+I'm trying to work out what this date would have been in our modern calendar, but I can't seem to find any tables or almanacs that go back that far.
+Are there any publicly available tables that do go back to 1587? If not, how exactly could I go about calculating the answer for myself? I am a mathematician, so a bit of wacky maths should be within my capabilities.
+This is the answer I'm probably expecting from this site: some kind of program/algorithm/formula to be able to work out on what date the moon would have been in Taurus in
+If not, any ideas as to where best for me to ask/look next?

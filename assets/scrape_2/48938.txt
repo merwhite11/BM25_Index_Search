@@ -1,0 +1,5 @@
+Why isn't Spring equinox on 1st of April?
+
+AFAIK the summer and and winter solstices are based on longest day and longest night doesn't fall on 1st of Jan and July 1st because we consider the day to begin and end when the middle of the sun is over the horizon but when it stars to rise and after if has completely set.
+But the spring equinox is, "defined as the time when the plane of Earth's equator passes through the geometric center of the Sun's disk.". (from wikipedia).
+So how come it doesn't fall middle of the year, 365/4 = 91 days into the year. 1st April?

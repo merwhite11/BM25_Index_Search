@@ -1,0 +1,4 @@
+Why can't neutron stars ignite and explode?
+
+Beyond the Chandrasekhar limit, white dwarfs become extremely hot. As a result, previously unfusable carbon can become fusable, causing nuclear reactions. This leads to a thermal runaway and ultimately a type Ia supernova.
+However, this doesn't seem to happen in neutron stars. They can keep gaining mass until they become black holes. After a certain point, shouldn't the immense temperatures cause a thermal runaway like in white dwarfs, leading to their explosion?

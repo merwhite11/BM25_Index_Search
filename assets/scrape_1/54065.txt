@@ -1,0 +1,17 @@
+Are dust-dust collisions necessary to explain Kordylewski clouds at Earth-Moon L4/5? Aren't the cross-sections, number density timescales too small?
+
+The recent question Can dark matter accumulate at Lagrange points? mentions Kordylewski clouds and that article begins:
+
+Kordylewski clouds are large concentrations of dust that exist at the L4 and L5 Lagrangian points of the Earth–Moon system.1,2,3 They were first reported by Polish astronomer Kazimierz Kordylewski in the 1960s, and confirmed to exist by the Royal Astronomical Society in October 2018.1,2,3
+
+1AAAS's Eureka Alert October 26, 2018: Earth's dust cloud satellites confirmed
+2Slíz-Balogh, Judit; Barta, András; Horváth, Gábor (11 November 2018). "Celestial mechanics and polarization optics of the Kordylewski dust cloud in the Earth–Moon Lagrange point L5 – I. Three-dimensional celestial mechanical modelling of dust cloud formation". Monthly Notices of the Royal Astronomical Society. 480 (4): 5550–5559. and https://arxiv.org/abs/1910.07466.
+3Slíz-Balogh, Judit; Barta, András; Horváth, Gábor (1 January 2019). "Celestial mechanics and polarization optics of the Kordylewski dust cloud in the Earth–Moon Lagrange point L5 – Part II. Imaging polarimetric observation: new evidence for the existence of Kordylewski dust cloud". Monthly Notices of the Royal Astronomical Society. 482 (1): 762–770. and https://arxiv.org/abs/1910.07471.
+
+Discussion in comments on the previous question's page relate to the notion that for a buildup of material, items, particles or whatnots to occur at Earth-Moon Lagrange points, these things should have some kind of non-conservative or dissipative interaction - in other words be able to lose energy so they can "fall in" to Lagrange point-associated orbits and stay there for a while.
+As I understand it, since $1/r^2$ forces (e.g. gravitational, electrostatic) are conservative maybe something that dissipates energy (e.g. inelastic collisions converting some kinetic energy to thermal energy) might do the trick.
+If this is all true (and I'm not saying it is) then I wonder:
+Question: Are dust-dust collisions necessary to explain Kordylewski Clouds at Earth-Moon L4/5? Aren't the cross-sections too small to be significant considering the low number density of dust particles and short timescales involved?
+Perturbations in the Earth-Moon Lagrange point system are strong - the Moon's orbit is significantly elliptical (non CR3BP) and the Sun's gravitational perturbation will also be significant. And of course for dust at 1 AU pressure from sunlight and electrostatic effects related to the solar wind may be important.
+I'm having a hard time believing that it's dust-dust collisions that are the driving force behind the formation of the Kordylewski clouds, so I'm asking to be "straightened out" on my thinking here.
+note: My current thinking is that collisions DO contribute to the accumulation of Trojan asteroids associated with the Sun-Jupiter L4/5 points. In this case all of the perturbing effects to dust with Earth-Moon L4/5 "accumulations" would not apply. Whether I'm right or wrong about that, the Trojans might be a good place to start before moving on to our local, dusty Kordylewski clouds.

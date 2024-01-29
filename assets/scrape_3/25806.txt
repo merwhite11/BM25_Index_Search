@@ -1,0 +1,7 @@
+Why does the Earth's orbital eccentricity oscillate with a period of about 100,000 years?
+
+This answer says:
+
+Earth's orbital eccentricity varies over time from being nearly circular (low eccentricity of 0.0034) and mildly elliptical (high eccentricity of 0.058). It takes roughly 100,000 years for Earth to undergo a full cycle.
+
+Why does the Earth's orbital eccentricity oscillate with a period of about 100,000 years? What would be the simplest set of conditions and/or fewest body system that would lead to this particular type of periodic variation in eccentricity?

@@ -1,0 +1,3 @@
+Relation between intensity of Sun and the light that is emitted from surface of sun
+
+please correct me if I am mistaken, I was in the middle of a thought process. We take a unit area dA of sun,, which is emitting light directly to our line of sight. But there are also numerous other unit areas throughout sun's surface whose light does not reach our eyes directly. Then why do we still see the sun with same intensity?

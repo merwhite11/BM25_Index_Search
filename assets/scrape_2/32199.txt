@@ -1,0 +1,11 @@
+How is it determined that the X-ray and radio intensity come from a magnetic field bridge between two clusters of galaxies?
+
+Gizmodo's Astronomers Spot Mysterious, 10-Million-Light-Year-Long Magnetic Field Connecting Two Galaxy Clusters shows the image below, and Space.com's A Weird 'Radio Bridge' 10 Million-Light Years Long Links Colliding Galaxy Clusters discusses it as well.
+They both link to the new paper in Science A radio ridge connecting two galaxy clusters in a filament of the cosmic web (also arXiv).
+What I've gathered so far is that seen between two known and characterized clusters of galaxies, there is a region with some excess continuum radio power at 140 MHz and some excess continuum X-ray power.
+Neither of these are spectral features so their distances can't be associated with the galactic clusters by doppler shift.
+Question: How do they know that the X-ray and Radio continuum are both really coming from the space between these two clusters of galaxies, and not in front of or behind it?
+"bonus points" how does Planck's "y parameter" figure in to this mix?
+
+“A radio ridge connecting two galaxy clusters in a filament of the cosmic web”, F. Govoni et al. 2019, Science. Optical: DSS and Pan STAARS (insets) — Red, X-rays: XMM-Newton — Yellow, y-parameter: Planck satellite — Blue, radio 140 MHz: LOFAR. Image credits: M. Murgia - INAF
+The two galactic clusters and the intervening radio ridge. Image: DSS and Pan-STARRS1 (Optical), XMM-Newton (X-rays) PLANCK Satellite (y paramter), F. Govoni, M. Murgia, INAF

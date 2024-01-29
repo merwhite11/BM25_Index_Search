@@ -1,0 +1,4 @@
+Recommend a radio calibration target for amateur radio telescope
+
+I have a small antenna and radio system that can receive frequencies between 1MHz and 1GHz.  The system has a discone antenna. I plan to do some aperture synthesis based on the daily rotation of the Earth that will allow me to resolve a lune with a width of about one degree.
+What objects and specific frequencies should I observe to test to see if the system and algorithm is functioning properly?

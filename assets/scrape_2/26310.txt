@@ -1,0 +1,8 @@
+Gaia Gbp - Grp: why does it get larger as star gets redder?
+
+As an enthusiastic amateur scientist, I'm plowing my way through a cool Gaia DR2-based paper, "An Empirical Measurement of the Initial-Final Mass Relation with Gaia White Dwarfs". I'm doing all right, but have hit a roadblock: understanding the meaning of the stellar color value GBP - GRP.
+GBP is the blue photometry value, and GRP is the red photometry value, so GBP - GRP is the difference between the two, giving a number broadly encoding the star's color. Here's a graph from the paper that uses this value:
+
+It's a graph of white dwarf ("WD") color versus absolute magnitude. On the left, the absolute magnitude MG increases (downwards) as the star grows dimmer, and across the bottom the color GBP - GRP increases (rightwards) as the star grows redder. Hence the slope of the curve; as a WD cools, it gets smoothly dimmer and redder.
+But wait! as a star gets redder, the the "blue" brightness should become relatively smaller than the "red" brightness, right? So, the GBP - GRP value should get smaller and smaller, right? But that's the opposite of what this graph (and other graphs in the paper) apparently shows.
+Should GBP - GRP get larger as a star cools and gets redder? Where am I confused? (I'm assuming the professionals aren't all confused...)

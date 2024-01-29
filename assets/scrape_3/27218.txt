@@ -1,0 +1,3 @@
+What distance is considered 'close' for the 9th nearest neighbor of a galaxy?
+
+I am currently working on determining the nth nearest neighbors of a large survey of galaxies. I am not an astronomer by trade, so I am unsure of interpreting some of my results. I have discovered for the sample of galaxies their 9th nearest neighbor distances. It turns out the mode of this distribution by far is between 2mpc and 3mpc. Since I am unsure of the scale of these implications I would prefer if a well versed astrophysicist can tell me if the distance to the 9th nearest neighbor galaxy of 2-3mpc would be considered densely clustered. These galaxies are at intermediate redshift.

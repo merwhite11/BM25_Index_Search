@@ -1,0 +1,11 @@
+Black spot in Mars' sky
+
+There is a sequence of three raw images by Mars Curiosity Rover taken during Sol 3066 (22/03/2022, roughly) that show the same features of Mars' landscape and sky. They are separated by 38 seconds' difference each. This is the first one. This is the last one. Interestingly, the middle one shows a black, oval spot in the low sky, that is not present in the other two:
+
+Just in case some one think I have some obscure intentions, I state I am not an UFO fan, conspiracy theory fan, or anything like that. This is a genuine question.
+So, what do you think that might be? Could well be camera noise, or perhaps a satellite (there are a few orbiting Mars), or just some storm debris (there are quite a lot of storms in Mars). Any guesses?
+
+Here's a section blown up so that every pixel produced by the JPGEG is now 5x5 pixels simply to make it easier to see the artifact:
+
+
+Update: Ok, it seems there are lots of similar images. For instance, an image from more recent Sol (3067) also shows a black spot in the sky. An image a bit earlier shows a white spot (from comment below). Here there is what it looks like a meteorite with a trail.

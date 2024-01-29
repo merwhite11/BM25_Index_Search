@@ -1,0 +1,5 @@
+Equivalence of minor epicycle and eccentric
+
+In epicycle-deferent astronomy, adding a second ”minor” epicycle to account for observational discrepancies is observationally equivalent to shifting the deferent into a so-called eccentric, or a circle with a center not at the Earth (see e.g. DeWitt 2010, Worldviews, p. 120, and the illustrations I’ve borrowed from that chapter), as was pointed out already by Hipparchus. Ptolemy famously chose the eccentric approach for the Almagest. I’m trying to wrap my head around how to geometrically prove the equivalence.
+
+More precisely, the idea I am after is that the addition of a second epicycle to the original epicycloid (compounded only of a deferent and a major epicycle) is supposed to have the same effect upon the movement as projected unto the outer circle of fixed stars by a line of sight from Earth as just shifting the original epicycloid by a distance equal to the diameter of the minor epicycle. I think it’s the earliest proof of an ”empirical equivalence” of two hypotheses.

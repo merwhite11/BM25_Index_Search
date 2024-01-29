@@ -1,0 +1,9 @@
+Is oxygen an alpha element?
+
+Type II (core-collapse) supernovae occur shortly after star formation and enrich a galaxy with $\alpha$ elements such as O, C, NE, Mg, Ca and Si. On the other hand, Type Ia supernovae occur on a more delayed timescale and produce mostly Fe and heavier elements and negligible amounts of $\alpha$ elements. There is great interest in constraining the [$\alpha$/Fe] ratio of galaxies since that tells you something about the rate at which stars formed in the galaxy as a function of cosmic age.
+I have usually seen studies rely on measuring abundances of Mg, Si and Ca relative to Fe, but not oxygen. For reference, the Wikipedia page for the alpha process says
+
+As for oxygen, some authors consider it an alpha element, while others do not. Oxygen is surely an alpha element in low-metallicity Population II stars stars. It is produced in Type II supernovas and its enhancement is well correlated with an enhancement of other alpha process elements.
+
+Why would oxygen not be an $\alpha$ element in high-metallicity environments even though it is produced by Type II supernovae?
+Do studies prefer [Mg/Fe], [Ca/Fe] and [Si/Fe] as a proxy for [$\alpha$/Fe] instead of [O/Fe] for an astrophysical reason, or just because the spectral features of Mg, Ca and Si are easier to measure than O?

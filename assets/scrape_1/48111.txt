@@ -1,0 +1,11 @@
+How to estimate the temperature of an interplanetary dust grain?
+
+I'm trying to solve this task:
+
+Estimate the equilibrium temperature of an interplanetary spherical dust grain if it is located at a distance of 3 AU. from the Sun, and the substance of the dust particle reflects 30% of the incident radiation.
+
+I think that this formula is the right one, but I am not sure:
+$$T=(1 - A)^{1/4} T_{star} \left(\frac{r_{star}}{2 d} \right)^{1/2} $$
+where $d$ is the distance from the Sun to the grain. This is the same as the last equation in Wikipedia's Planetary equilibrium temperature; Calculation for extrasolar planets where $A$ is the planet's bond albedo.
+According to the formula the temperature of the dust is about 145.6 K.
+Is it the right formula to use? If not then how should I calculate the temperature?

@@ -1,0 +1,23 @@
+What is the "hypothesized lower mass gap" between 2.5 and 5 solar masses?
+
+Searching here for "mass gap" yields nothing yet. Penn State's Black hole or neutron star? LIGO-Virgo scientists find mystery object in 'mass gap' begins:
+
+When the most massive stars die, they collapse under their own gravity and leave behind black holes; when stars that are a bit less massive than this die, they explode and leave behind dense, dead remnants of stars called neutron stars. For decades, astronomers have been puzzled by a gap in mass that lies between neutron stars and black holes: the heaviest known neutron star is no more than 2.5 times the mass of our sun, or 2.5 solar masses, and the lightest known black hole is about 5 solar masses. The question remained: Does anything lie in this so-called mass gap?
+
+and later says:
+
+"This is going to change how scientists talk about neutron stars and black holes," said co-author Patrick Brady, a professor at the University of Wisconsin, Milwaukee, and the LIGO Scientific Collaboration spokesperson. "The mass gap may in fact not exist at all but may have been due to limitations in observational capabilities. Time and more observations will tell."
+
+The paper is the 23-June-2020 ApJ Letter GW190814: Gravitational Waves from the Coalescence of a 23 Solar Mass Black Hole with a 2.6 Solar Mass Compact Object which says:
+
+GW190814's secondary mass lies in the hypothesized lower mass gap of 2.5–5 M⊙ (Bailyn et al. 1998; Özel et al. 2010; Farr et al. 2011; Özel et al. 2012) between known NSs and BHs.
+
+Question: I'm curious about the use of the word "hypothesized" here. Is said hypothesis that there is  a mass gap at all (versus there not being a mass gap) or is it that the should be a mass gap? In other words, is the observed lower† mass gap strictly an observation, or is it something that at least some predict should be there?
+†there's another mass gap starting at about 45 M⊙ related to the upper limit of stellar-mass black holes
+
+In the popular press for example, Forbes published Is LIGO About To Destroy The Theory Of A 'Mass Gap' Between Neutron Stars And Black Holes? but the word "theory" does not appear anywhere else in the article, so I assume there are no such theories.
+However it does contain a really interesting statement:
+
+The most recent microlensing studies take advantage of data from the ESA's Gaia mission, and find no evidence at all for this purported mass gap. Instead, they have uncovered a number of interesting microlensing candidates with exactly the masses you'd need to fill in this so-called gap.
+
+Interesting that we go from "The Theory of a Mass Gap" in the beginning, to "this so-called gap" at the end.

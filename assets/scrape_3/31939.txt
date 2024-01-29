@@ -1,0 +1,8 @@
+Question on dec 2013 answer to"How to measure the altitude and azimuth of a star?"
+
+I am looking at your response to the above question.  You stated:
+
+For Northern Hemisphere, a star that is crossing the North local meridian (that is, between the Zenith and the North Horizon) the latitude is 90−alt=dec−lat
+For Northern Hemisphere, a star that is crossing the South local meridian (that is, between the Zenith and the South Horizon) the latitude is 90−alt=lat−dec.
+
+I am simply not seeing this when I looked at image for the culimination of X in : http://star-www.st-and.ac.uk/~fv/webnotes/chapter4.htm" ???

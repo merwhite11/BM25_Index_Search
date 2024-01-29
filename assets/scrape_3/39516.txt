@@ -1,0 +1,40 @@
+Clarifications about distances in cosmology
+
+I would like to get clarifications about some usual notions of distances in cosmology.
+
+First, is the comoving distance the current distance of objects whose light has been reached by us now, i.e. with regards to cosmic time? Or, is it the same with redshift dependent? If yes, this comoving distance is simply the angular diameter distance, isn't it?
+
+Is the angular diameter distance, $D_A$, the distance from an observer to an object which is starting to emit, such that the light is reaching us now?
+
+Is the comoving distance transverse of an object is the size of object in 2D plane?
+From the following link (distances in cosmology), it is written:
+
+5) Comoving distance (transverse)
+The comoving distance between two events at the same redshift or distance but separated on the sky by some angle $\delta \theta$ is $D_{\mathrm{M}} \delta \theta$ and the transverse comoving distance $D_{\mathrm{M}}$ (so-denoted for a reason explained below) is simply related to the line-of-sight comoving distance $D_{\mathrm{C}}$:
+$$
+D_{\mathrm{M}}=\left\{\begin{array}{ll}
+D_{\mathrm{H}} \frac{1}{\sqrt{\Omega_{k}}} \sinh \left[\sqrt{\Omega_{k}} D_{\mathrm{C}} / D_{\mathrm{H}}\right] & \text { for } \Omega_{k}>0 \\
+D_{\mathrm{C}} & \text { for } \Omega_{k}=0 \\
+D_{\mathrm{H}} \frac{1}{\sqrt{\left|\Omega_{k}\right|}} \sin \left[\sqrt{\left|\Omega_{k}\right|} D_{\mathrm{C}} / D_{\mathrm{H}}\right] & \text { for } \Omega_{k}<0
+\end{array}\right.
+$$
+with $D_H=\dfrac{c}{H_0}$
+
+
+
+
+6) Angular diameter distance
+The angular diameter distance $D_{\mathrm{A}}$ is defined as the ratio of an object's physical transverse size to its angular size (in radians). It is used to convert angular separations in telescope images into proper separations at the source. It is famous for not increasing indefinitely as $z \rightarrow \infty ;$ it turns over at $z \sim 1$ and thereafter more distant objects actually appear larger in angular size. Angular diameter distance is related to the transverse comoving distance by
+$$
+D_{\mathrm{A}}=\frac{D_{\mathrm{M}}}{1+z}
+$$
+
+
+
+Question 1) In the part 1) they define the comoving distance by:
+$$D_{\mathrm{C}}=D_{\mathrm{H}} \int_{0}^{z} \frac{d z^{\prime}}{E\left(z^{\prime}\right)}$$
+But this is not the physical distance. Indeed, we need to multiply $D_{\mathrm{C}}$ by $R(t=0)=R_0$ to get the physical distance between us and the object, don't we?
+Question 2) I don't understand in the text above why they say that "but separated on the sky by some angle $\delta\theta$ is $D_M\delta\theta$ and the transverse comoving distance $D_M$ is simply related to the line-of-sight comoving distance $D_{\mathrm{C}}$.
+Should it be rather the current size of object is equal to $D_C\,\delta\theta$, i.e. the comoving distance multiplied by the $\delta\theta$ ?, like we do in trigonometry for computing a portion $\delta\theta$ of circle perimeter.
+Question 3) Concerning the angular diameter distance, why could we rather take the ratio $\frac{\text{cosmological horizon}}{1+z}$ instead of the ratio $\dfrac{D_{\mathrm{M}}}{1+z}$? Indeed, angular diameter distance is the distance at z given between the observer and the object emitting.
+I confuse comoving distance transverse and angular diameter distance as well as comoving distance (coordinates or physical distance with the factor $R(t)$?)

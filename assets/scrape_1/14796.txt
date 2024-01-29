@@ -1,0 +1,28 @@
+Calculating Orbital Period
+
+I was using this formula to calculate the orbital period of a satellite in days: 
+
+$T = \sqrt{(4\times \pi^2)\times \frac{R^3}{GM_{center}}}$
+
+Where R^3 is the radius of the orbit, or distance of the semi-major axis, G is the gravitational universal constant, and M-center is the mass of the object being orbited. 
+I'm attempting to calculate the orbital period for a planet that has a diameter of $5,124$ kilometers, or $\frac{804,500,000}{157}$ meters, and a mass of $5.526\times 10^{13}$ Kilograms. 
+The star, which substitutes M-center, has a mass of 3.978*10^30 Kilograms. The length of the semi-major axis is $2.3AU$, or $3.44\times 10^{11}$ meters.
+When substituted, I get:
+
+$T = \sqrt{\frac{(4\times \pi^2)\times(3.44\times 10^{11})^3}{(6.674\times 10^{-11})\times(3.978\times 10^{30})}}$
+
+I simplified this too: 
+
+$T = \sqrt{\frac{(1.607094708736\times 10^{33})}{(6.674\times 10^{-11})\times (5.5616^{13})}}$
+
+Which further simplifies too:
+
+T = sqrt(1.607094708736*10^33)/(2.656092*10^20)
+
+Something definitely seems wrong at this point. But, this comes out to:
+
+$T = \sqrt{(6.0505988073304689747192491826337340724643574093066053\times 10^{12})}$ 
+$T = 2.459796\times 10^{6}$
+
+I find it hard to believe that it takes a planet that long to orbit around a star that is only 2.3AU away from it. Obviously, I am doing something very wrong, but I simply do not know where. 
+Somewhere, I am missing something.

@@ -1,0 +1,6 @@
+How can I calculate the apparent position of stars as seen from a location on Earth at a specific time?
+
+I'd like to be able to generate star maps using Python, similar to what is done at YourSky. I believe this is possible with Astropy and the details provided in this question. I can import stars from Hipparcos and use this tutorial to map stars using a Mollweide projection.
+What calculations are needed to adjust for location on earth and time of year? Is the Mollweide projection the appropriate projection to use, or would something else be better?
+
+Also related: Correct units to use while plotting mollweide projection of sky chart with RA and Dec values, matplotlib

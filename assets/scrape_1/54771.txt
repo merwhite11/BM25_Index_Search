@@ -1,0 +1,15 @@
+On the Radiation Field of large Gas Giants
+
+I am woring on creating a fictional star system, and I need to find an answer to a question to find an accurate way to depict this.
+I am aware that Gas Giants create a dangerous field of radiation around themselves that would be harmful to anyone within a certain radius. I now my moon has to be within the Hill Sphere, which sets a solid outer boundary. But my question is, how would I find how far away my moon should be in order to properly maintain an atmosphere and be habitable, not being effected by the radiation to a harmful degree.
+I don't need an exact number given, I moreso just need help finding out how I would calcualte the required distance to be able to remain safe. If any sort of formula or way to calculate it exists at all. But it would also be helpful and appreciated if you would do more help to find the numbers as well.
+My parametres currently are around 5.9441197891 Jupiter Masses and 1.81 Jupiter Radii -1. (Please tell me if this isn't reasonable). How would I be able to find how far a moon would have to be in order to be habitable, have a atmosphere, and not be basked in deadly radiation.
+Your help is much appreciated.
+
+I found these numbers by just choosing a radius of 1.81, and
+finding what mass it would have to be to have the same density as
+Jupiter. And found it was ~5.9441197891. This is likely wrong as
+density of larger gas giants likely changes. Although it could also
+be reasonable as, looking at lists, density seems to have a very
+large range. It also likely would be different as it is closer to
+the star than Class I gas giants.

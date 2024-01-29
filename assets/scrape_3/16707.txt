@@ -1,0 +1,16 @@
+What is the origin of the dust near the sun?
+
+note: Solar Probe+ is now officially Parker Solar Probe
+
+In How can the Parker Solar Probe survive passing within 4 million miles of the sun's surface? I asked about the Solar Probe Plus mission. Reading a 2008 report I saw that there is an elevated exposure to high velocity dust near the sun. I understand the high velocity, anything in orbit that close will be moving fast, but I don't understand why there is dust there.
+Simply put - wouldn't the gravity pull it in or the solar wind blow it away?
+What is the origin of the refractory carbon and silicates? Is this orbiting leftover material from the formation of the solar system, or is it falling in from farther out, or is it left-over carbon and silicon that fell into the early forming sun and is now being blown back out?
+
+4.3.5 Micrometeoroid and Dust. Solar Probe+ will encounter dust particles ranging in diameter from submicron up to several hundred microns and consisting of highly refractory carbon and silicate species with a typical bulk density of ~2.5 g/cm2. The particles will be traveling at relative speeds as high as 350 km/s. To define the shielding requirements for Solar Probe+, a dust model was developed based primarily on the work of Mann et al. (2004). The model employs the following assumptions...
+
+
+above: screen shot from SolarProbePlus2008
+
+above: screen shot from NASA's Solar Probe Plus Fact Sheet
+
+above: illustration of NASA's Solar Probe Plus from http://solarprobe.jhuapl.edu/spacecraft/ Sun is up - to state the obvious!

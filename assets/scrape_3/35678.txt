@@ -1,0 +1,14 @@
+Python interface for DMK 23U274 USB camera for astrophotography
+
+I have access to a monochrome USB camera (DMK 23U274, The Imaging Source) and I'd like to record focal plane images from a small telescope with a python script that would control it by setting exposure times and triggering image captures.
+Ideally I would like to be able to do this running on a Windows or MacOS laptop or a Raspberry Pi running Raspbian Linux but I don't know if that would require three different sets of special software in the middle (dll's or whatever).
+Are there any platform-agnostic ways of doing this via USB? If not, are there Python solutions for amateur astronomers that can run on one or two of these platforms at least?
+
+The only thing that I have found is this, but it specific to Windows and it seems to be an unfinished Python wrapper with unresolved memory leak issues: 
+
+https://github.com/TheImagingSource/IC-Imaging-Control-Samples/tree/master/Python
+https://github.com/TheImagingSource/IC-Imaging-Control-Samples/issues/7
+
+update: I've also found the following "Python wrapper for the IC Imaging Control SDK from The Imaging Source (TIS)" which "only works on Windows due to wrapping a DLL" so my hope for a platform-agnostic Python package is waning.
+
+https://github.com/morefigs/py-ic-imaging-control

@@ -1,0 +1,5 @@
+Pulsars: How do astronomers measure minute changes in period (~picoseconds per year)?
+
+I've been to some talks that mention how stable the period of a millisecond pulsar is over long periods of time. Recently, it was mentioned that astronomers have calculated the change in period over time to be less than 10^-12 seconds per year for several pulsars. No one I've talked to seems to know any details of this calculation.
+How do we calculate such small differences in period? How much data must be collected and what are the exposure times for imaging such rapid phenomena?
+A source/paper would be excellent. I apologize that I don't have a citation for the 10^-12s figure, but the lack of citation is mostly my reason for posting this question.

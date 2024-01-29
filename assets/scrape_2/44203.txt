@@ -1,0 +1,4 @@
+If the spacetime singularity at a black hole's event horizon is an artificial one then how can it be real?
+
+If the metric belonging to the spacetime of a black hole is expressed as the Schwarzschild metric, it turns out that there is a coordinate singularity at the event horizon. If we use an alternative metric (for example one of these) then the expression of spacetime is regular. How can this be if time stops at the event horizon only in Schwarzschild coordinates?
+One thing I don't fully understand either is why the volume of a black hole, when calculated in the Schwarzschild metric, is zero, while it's non-zero when calculated in another coordinate system. How can this be?

@@ -1,0 +1,8 @@
+How to show the image of the fits file what I want to see among several fits file in astrodrizzle
+
+Before running astrodrizzle(a library that can align the fits file images), I runned "tweakreg" to update fits header.
+I used the bullet cluster data(ACS/WFC's five filters and 42 exposures), In tweakreg, forty-two "sci1" extensions is matched the reference file, but five "sci2" extension is not matched with the reference file.
+I know this fact from "*fit.match" file.
+But I want to see the file that are not matched with the reference file by using checking the result of astrodrizzle.
+But I don't know how to mark the specific exposure that I want to see.
+i.e., How to draw this exposure only as another color?

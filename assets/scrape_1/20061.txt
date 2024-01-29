@@ -1,0 +1,3 @@
+Can some stars not emit any energy in the visible spectrum?
+
+Stars convert mass into energy. Even converting the slightest mass into energy is immense because the speed of light is so great and $E = mc^2$. This means that stars have to emit large amounts of energy. So can they emit so much energy in a form of electromagnetic radiation that is not visible light? Resulting in a star that cannot be detected using our senses(+ a telescope). If so what problems could this star pose?

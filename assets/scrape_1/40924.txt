@@ -1,0 +1,23 @@
+Earth and moon gravitational ratios and proportionalities
+
+This question is for an astronomy class of mine. I don't believe the question is particularly difficult, but rather I'm having trouble understanding what it wants me to do. We haven't covered ratios and proportionalities and as a result I'm very lost. Here's the question:
+
+The gravitational acceleration due to a planet or moon tells you how “heavy” you feel when you stand on the planet or moon.  Gravitational acceleration is proportional to the mass and radius of the planet or moon in the following way:
+$g\propto \frac{M}{R^2}$
+
+Start by writing two proportionalities, one for the Earth, one for the Moon. Use the following variables:
+
+
+$M_{E}$ : mass of Earth
+$M_{M}$ : mass of Moon
+$R_{E}$ : radius of Earth
+$R_{M}$ : radius of Moon
+$g_{E}$ : gravitational acceleration of the Earth
+$g_{M}$ : gravitational acceleration of the Moon
+
+
+Following the example under the ratio section, divide the two proportionalities to form a ratio, i.e., the ratio between the gravitational acceleration of Earth and the gravitational acceleration of the Moon. In other words, find the following in equation form:
+$$\frac{g_{E}}{g_{M}}$$
+
+
+This isn't from a lack of effort. I'm just not entirely sure how to write or divide a proportionality.

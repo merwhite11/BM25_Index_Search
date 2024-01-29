@@ -1,0 +1,31 @@
+why are my Sha and Declination calculations not the same as the answers from the Nautical Almanac?
+
+from skyfield.api import Star, load
+from skyfield.data import hipparcos
+import math
+
+with load.open(hipparcos.URL) as f:
+    df = hipparcos.load_dataframe(f)
+
+achernar_star=Star.from_dataframe(df.loc[7588])
+planets = load('de421.bsp')
+earth = planets['earth']
+ts = load.timescale()
+t = ts.now()
+astrometric = earth.at(t).observe(achernar_star)
+ra, dec, distance = astrometric.radec()
+f = float(ra._degrees)
+f1= float(dec.degrees)
+print('achernar')
+print('Sha',360-round(f,2))
+print('Dec', round(f1,2))
+print('')
+
+achernar
+Sha 335.57
+Dec -57.24
+
+From Nautical Almanac
+achernar
+Sha 335.36
+Dec -57.13

@@ -1,0 +1,4 @@
+What is the relationship between the focal length and f number of a telescope compared to a guide scope?
+
+How do you determine the optimal length of a guide scope for a given imaging telescope?
+I imagine it would have to take into consideration the pixel size of the guide scope, but would the aperture matter as well?

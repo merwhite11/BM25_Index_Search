@@ -1,0 +1,4 @@
+How does radio bandwidth restrict the choice and use of science payload on interplanetary probes?
+
+I asked a question here about returning to Earth a physical memory capsule along with soil samples, as a complement to radio operations as today. This might return a much larger amount of data compared with radio today, but of course only at the end of the mission.
+How useful would it be for a sample return mission like Mars2020 or Hayabusa2, to be able to return much more data? Would the choice of instruments change to allow for higher sampling rates, higher resolution, more filters et cetera? Is Big Data science instruments from an interplanetary mission even a possibility, or is today's bandwidth good enough for any conceivable payload?

@@ -1,0 +1,18 @@
+Understanding the Julian Date equation in detail
+
+I am trying to figure out the Julian date equation by myself. Unfortunately, there are not many resources I could find which explains in depth. Moreover, there are several variations of the same equation which I have realised after trying my luck with ChatGPT. Here is the first variation.
+JD = d - 32075+ (1461*(y+4800+b/4) + 367*(m-2-b/12)/12 - 3*(y+4900+b)/400
+
+Where d = day, y = year, m = month,
+b= m-14/12
+
+Variation 2:
+JD= d + (153m + 2)/5 + 365y + y/4 - y/100 + y/400 - 32045
+
+Where
+y = year + 4800 - a
+m = month + 12a - 3
+a = (14 - month)/12
+
+I understood what 153m+2/5 is trying to achieve (total average days upto a given month I suppose) but I don't get how it is derived. Is it not 152m/5 instead? Like 30m + (2/5m for additional days), but why is it (30m + 2/5m + m/5 + 2/5) days? And why the adjustment to march as the first month which can be seen in m = month + 12m - 3? Is the Julian date not supposed to be from Jan 1st 12:00 TT of 4800 BCE?
+Can someone please help me with the derivation of these two equations (emphasis on equation 2) and elaborate what each component correspondents to get clarity?

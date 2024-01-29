@@ -1,0 +1,3 @@
+Why is [O III] a good density probe in interstellar medium?
+
+According to Draine in his book "Physics of the interstellar and intergalactic medium" (page 210/211) and Caltech [O III] line ratio's (amongst others) are a good density probe, but I cannot really understand why that is the case. Can someone explain me how this works? It doesn't have to be numerical or with detailed formulas, just the idea what is going on.

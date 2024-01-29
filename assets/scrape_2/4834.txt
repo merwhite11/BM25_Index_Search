@@ -1,0 +1,4 @@
+How did Kepler determine the orbital period of Mars?
+
+As I understand it, Kepler used the orbital period of Mars, along with observational data of Mars' and the sun's position in the sky to derive the orbits of Earth and Mars.  (As described, here: https://faculty.uca.edu/njaustin/PHYS1401/Laboratory/kepler.pdf)
+But how did he determine the orbital period of Mars without already knowing the orbit of the Earth?

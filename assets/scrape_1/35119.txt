@@ -1,0 +1,6 @@
+How to understand the meaning of this International Occultation Timing Association (IOTA) lunar occultation of Mars map?
+
+Earthsky.org's Watch Mars disappear behind the moon on February 18 as well as Moon occults Mars morning of February 18 include the image below and credit it to The International Occultation Timing Association or IOTA.
+But I can't understand the meanings of the various colored lines on the map. There's the big blue droopy infinity sign, and attaching to both ends an upward-facing hyperbola with three colored segments.
+I went to https://occultations.org/observing/occultation-predictions/ and clicked the Lunar Occultations link, but it only returns error 404 file not found.
+Is it possible for someone to explain the meanings of these lines?

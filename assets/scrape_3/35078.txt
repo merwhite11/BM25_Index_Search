@@ -1,0 +1,7 @@
+Is it plausible to use other stars for the proposed FOCAL mission instead of the Sun?
+
+For some time, the far-reaching and speculative idea of using the Sun as a gravitational lens has been floating around. See this and this. This would require sending a spacecraft about ~550 AU of a distance away from Earth, so the idea is not currently realistic.
+But I am wondering, is there any plausibility to using other stars (like the Alpha Centauri stars)? 
+Is there there enough parallax for this to be useful? How far away must a satellite go to be able to manipulate parallax to its advantage? Are there any shortcomings to this idea that make the FOCAL proposition superior? And of course, are there any shortcomings to both propositions?
+I can imagine there's not much freedom in where the so-called lens can be used, but maybe the limited field of view can still be useful if the satellite could roam the solar system?
+I'm curious if anyone can give useful feedback or calculations.

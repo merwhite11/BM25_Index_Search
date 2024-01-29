@@ -1,0 +1,30 @@
+On gravitational wave radiation and arrangement of galaxies post- big bang
+
+Orbits of planets and stars decay due to gravitational wave radiation. An elliptical orbit would become more circular with time. This is especially observed well in binary systems.
+Taking the example of binaries, we can compute the rate of change of eccentricity of the orbit and the rate of change of the semi-major axis as a function of time. If we consider a highly elliptic orbit of a binary, with eccentricity, $\epsilon\rightarrow{1}$, we can prove that with time the orbit would eventually become a circular one, as follows:
+
+The power emitted by gravitational waves is given by:
+  $$P_{GW}= \frac{c^5}{G}\left(\frac{GM}{c^5l}\right)^5$$
+  Very compact binaries will lose energy rapidly by GW radiation.
+  If we assume that the two bodies making up the binary lie in the $x-y$ plane and their orbits are circular ($\epsilon=0$), then only non-vanishing components of quadrupole tensors are:
+  $$\boxed{Q_{xx}=-Q_{yy}=\frac{1}{2}(\mu)a^{2}\cos2\Omega t}$$ and 
+  $$\boxed{Q_{xy}=Q_{ya}=\frac{1}{2}(\mu)a^{2}\sin2\Omega t}$$
+  Where $\Omega$ is the orbital velocity, $\mu=\dfrac{m_{1}m_{2}}{m}$ is the reduced mass and where $m=m_{1}+m_{2}$
+  The luminosity of the system can be deduced as:
+  $$L^{GM}=\frac{32}{5}\frac{G}{c^5}\mu^2 a^4\Omega^6=\frac{32}{5}\frac{G^4}{c^5}\frac{M^3 \mu^2}{a^5}$$
+  The latter part is obtained from Kepler third law: $\Omega^2=\frac{GM}{a^3}$
+  As the gravitating system loses energy by emitting radiation, the distance between the 2 bodies shrinks at a rate:
+  $$\boxed{\frac{da}{dt}=\frac{64}{5}\frac{G^{3}M\mu}{c^5 a^3}}$$
+  The binary would hence colase at a time :
+  $$\tau=\frac{5}{256}\frac{c^5}{G^3}\frac{a_{0}^4}{\mu M^4}$$
+By applying a similar treatment to elliptical orbits , the following can be computed:
+  $$\left<\frac{da}{dt}\right>=-\frac{64}{5}\frac{G^{3}m_{1}m_{2}(m_{1}+m_{2})}{c^{5}a^{4}(1-e^{2})^{\frac{7}{2}}}\left(1+\frac{73e^2}{24}+\frac{37e^4}{96}\right)$$
+$$\left<\frac{de}{dt}\right>=-\frac{304}{15}\frac{G^{3}m_{1}m_{2}(m_{1}+m_{2})}{c^{5}a^{4}(1-e^{2})^{\frac{5}{2}}}\left(1+\frac{121e^2}{304}\right)$$
+Solving this system of ODE's ultimately results in the equation:
+$$T(a_{0},e_{0})=\frac{12(c_{0}^4)}{19\gamma}\int_{0}^{e_0}{\frac{e^{29/19}[1+(121/304)e^2]^{1181/2299}}{(1-e^2)^{3/2}}}de\tag1$$
+  Where $$\gamma=\frac{64G^3}{5c^5}m_{1}m_{2}(m_{1}+m_{2})$$
+  Upon solving this one can find the time taken for the orbit to decay into a circle from an ellipse due to gravitational wave radiation.
+
+A similar treatment can be done for the orbital decay of the planets of our solar system. Now my question is if we apply time reversal symmetry, the orbits become more and more elliptical and eventually tend to become a straight line(an elliptical orbit with $\epsilon\rightarrow{1}$) with a chunk of mass(moving in the straight line) from which all the planets and the Sun  of our solar system arose. Now the Milky Way "orbits" the Local Group, which in turn "orbits" the Virgo Supercluster.
+Beyond that, the expansion of the universe starts to dominate over gravitation.
+So reversing time to a space after the Big Bang, there must have been many galaxies and solar systems that were forming; so according to the above result the mass chunks from which galaxies, stars and planets arose must have had a highly elliptic orbits. Thus, the spread of matter in space must have been along approximate lines(which were orbits for the massive mass chunk a that formed them). This moves towards a linear arrangement of galaxies, contrary to what is observed. Can anyone please resolve my doubt. Any help is appreciated.

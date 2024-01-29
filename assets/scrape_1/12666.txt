@@ -1,0 +1,33 @@
+Calculation of hour angle
+
+I need to determine Right Ascension and Declination from Azimuth and Altitude, working in C#. The problem is that the formula for calculating hour angle, for some reason, doesn't work. Here's the code:
+        az = az * DEG_TO_RAD;
+        alt = alt * DEG_TO_RAD;
+
+        lati = latitude * DEG_TO_RAD;
+
+        // Julian day
+        JD = CalculateJDN(year, month, day, h, m, s);
+
+        // Greenwich mean sidereal time
+        GMST = CalculateGMST(JD);
+
+        LST = GMST + longitude / 15;
+
+        dec = Math.Asin((Math.Sin(lati) * Math.Sin(alt)) + (Math.Cos(lati) * Math.Cos(alt) * Math.Cos(az)));
+
+        ha = Math.Atan2(Math.Sin(az), (Math.Cos(az) * Math.Sin(lati) + Math.Tan(alt) * Math.Cos(lati))); 
+
+        ha = ha * RAD_TO_DEGREE / 15;
+        dec = dec * RAD_TO_DEGREE;
+
+        ra = LST - ha;
+
+        // Input data for Mintaka (delta Ori):
+        // az = 47.5, alt = -35.3 on 13:57 UTC, 1 Dec 2015
+        // latitude = 43.897, longitude = 20.344
+        // Required output: dec = -0.19, ra = 5.5
+        // Given output: 
+        // dec = -0.19, ra = 17.5, ha = 2.5
+
+Az and alt are given in degrees, so they are first converted into radians. Functions for calculating Julian day number and GMST are correct, since I've already tested them. Formula for declination is good, but for some reasons formula for hour angle (ha) doesn't work. I don't know where's the error.

@@ -1,0 +1,4 @@
+Is the Bondi Radius the Same as the Schwarzschild radius?
+
+$$2MG/c^2$$ 
+This is the expression for both, but some authors use one name and it has confused me. Is there any distinction?

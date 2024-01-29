@@ -1,0 +1,16 @@
+What online tools are available to investigate and classify solar eruptions?
+
+I was just casually browsing when I came across a link about at recent solar flare. So I went to investigate at SpaceWeather. There it was stated:
+
+Looking further down the page it seem to say that there is only a 5% chance for being an X-flare.
+
+With other words, quite unlikely, while using a somewhat obtuse language of "if current trends continue...could be...".
+So my question is:
+(a) How are these flares tracked after they've been detected?
+(b) What other detector mechanisms do we have (if any) along the way, to detect the progress of such CME's?
+(Preferably before they arrive here.)
+
+Possibly related questions:
+
+how accurate are the predictions for coronal mass ejections-(location, timing and magnitude)?
+What are the main differences between solar flares and coronal mass ejections?

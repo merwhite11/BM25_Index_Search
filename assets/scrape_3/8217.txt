@@ -1,0 +1,6 @@
+Why are stars so far apart?
+
+So, this is mere musing, but it seems that stars are quite extremely far apart. I tried to determine the mean distance between nearest neighbors for stars (in just our galaxy) but I'm not sure what it is, though a first approximations I would guess that the mean is around 5 ly with some 0.5 standard deviation or so!
+However, assuming I didn't screw up, the distance between two sun-massed objects required to generate 1,000N of force between them is an incredible 54.3 million ly. [Edit] If you change that to 1 billion Newtons, the distance is one galactic radius -- 54000~ ly!
+I'm probably mis-estimating how much even 1kN of force would effect solar trajectories over time, but I still can't help but feel that our solar neighbors are very far away given the spheres of interaction that I would expect.
+Any insights?

@@ -1,0 +1,5 @@
+Definition of the light that is projected by a celestial body/luminary
+
+I'm creating an application which will simulate the light created by sun or moon on a 3d topographic map of Earth. Something like this:
+
+Is there a word or definition for this light/light projection?

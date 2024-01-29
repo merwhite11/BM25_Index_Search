@@ -1,0 +1,5 @@
+What prevents consequent eclipses?
+
+I know there are a number of parameters that determine the occurrence of a solar or lunar eclipse. The number should be 18; 6 degrees of freedom for 3 rigid bodies. But can't figure out why eclipses are not repeated.
+When we have a night with a full moon, the next night we again have a close-to-full moon, so it can be considered a distribution over several days. What prevents the same happening for eclipses? Is it possible to have two semi-eclipses in two consecutive days? If not, why does such a big difference occur over just a day?
+Thanks,

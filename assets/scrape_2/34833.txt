@@ -1,0 +1,9 @@
+The mass of Subdwarf B progenitors in the main sequence
+
+Note: By "progenitor", I mean "the star as it was when it was still main sequence". Please correct me if I've got the terminology wrong.
+Most B-type subdwarfs have mass roughly half that of the Sun. Prior to becoming blue-white subdwarfs, they went through the red giant phase, so their main sequence masses would have been between $0.3$ and $8M_{\odot}$. Since they went on to fuse helium, we can raise that lower bound to $0.5 M_{\odot}$. Since helium fusion in these stars begins with a "helium flash", then they would be $< 2M_{\odot}$ during the main sequence.
+Is anything more known about the masses of main-sequence stars that can become B-type subdwarfs? The narrow range of masses observed for the subdwarfs derives from the narrow range of viable core masses. However, the papers I have read indicate that the progenitor stars may have masses in a much wider range than that of their cores. So the $0.5M_{\odot} \leq M \leq 2M_{\odot}$ range given above may be the tightest-known bounds for the mass of such a star, but if anyone is able to provide a reliable source for tighter bounds, I would be very interested.
+Source for the $0.5M_{\odot}$ lower bound:
+Laughlin, G., Bodenheimer, P., & Adams, F. C. (1997). The end of the main sequence. The Astrophysical Journal, 482(1), 420.
+Source for the $2M_{\odot}$ upper bound:
+Harpaz, A. (1993). Stellar evolution. AK Peters/CRC Press.

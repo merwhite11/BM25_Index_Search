@@ -1,0 +1,12 @@
+Do the E and B modes of the CMB polarization have anything to do with electric and magnetic fields?
+
+As explained in this article, as the CMB is created from a vaiable (matter?) density $\kappa$ its gradient $\nabla \kappa = \vec{u}$ can be separated into a gradient and curl part, called the $E$ and $B$ modes
+$$
+\nabla^2 \kappa^E = \nabla \cdot \vec{u} 
+$$
+and 
+$$
+\nabla^2 \kappa^B = \nabla \times \vec{u}
+$$
+Thinking about electromagnetism, these definitions look slightly (but not exactly) familiar, if the vector $\vec{u}$ would take the role of the electromagnetic potential $\vec{A}$.
+Is the similarity to the terminology of electromagnetism just a coincidence, or do these $E$ and $B$ modes have indeed something to do with electric and magnetic fields ?

@@ -1,0 +1,5 @@
+What would solar calculations look like in another system?
+
+When you are determining things (area, luminosity, radius etc) in a star, there are certain things that involve our suns characteristics like solar mass and solar radii. Say I were in another system- what would have to change? Could I just substitute all values that come from our sun with the star in that system?
+Lets say Mirach (Beta Andromedae) was our host star. What would the values involving our suns characteristics change to?
+If it isn't possible with our current technology, or isn't required to measure stars accurately from another system- let me know.

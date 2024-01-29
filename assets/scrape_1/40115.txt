@@ -1,0 +1,96 @@
+"LinAlgError: SVD did not converge in Linear Least Squares" with eleanor.py
+
+I'm doing some tests with eleanor module (i'm a novice). I'm using the example code written on eleanor.py website
+from IPython.display import Image
+import warnings
+warnings.filterwarnings('ignore')
+
+import eleanor
+import numpy as np
+import matplotlib.pyplot as plt
+from astropy.coordinates import SkyCoord
+
+eleanor.Update(sector=1)
+
+star=eleanor.Source(tic=38846515, sector=1)
+print ('-------------------------------------')
+print ('-------------------------------------')
+print ('-------------------------------------')
+print ('')
+print ('')
+print ('Found TIC {0} (Gaia {1}), with TESS magnitude {2}, RA {3}, and Dec {4}'
+.format(star.tic, star.gaia, star.tess_mag, star.coords[0], star.coords[1]))
+
+data = eleanor.TargetData(star, height=15, width=15, bkg_size=30, do_psf=True, do_pca=True, regressors='corner')
+
+plt.figure(figsize=(15,5))
+
+q = data.quality == 0
+
+plt.plot(data.time[q], data.raw_flux[q]/np.nanmedian(data.raw_flux[q])+0.06, 'k')
+plt.plot(data.time[q], data.corr_flux[q]/np.nanmedian(data.corr_flux[q]) + 0.03, 'r')
+plt.plot(data.time[q], data.pca_flux[q]/np.nanmedian(data.pca_flux[q]), 'g')
+plt.plot(data.time[q], data.psf_flux[q]/np.nanmedian(data.psf_flux[q]) - 0.02, 'b')
+plt.ylabel('Normalized Flux')
+plt.xlabel('Time [BJD - 2457000]')
+plt.title('WASP-100')
+plt.show()
+
+After running the program, it find the star with its magnitude and coordinates, but appears this error:
+LinAlgError Traceback (most recent call last)
+c:\Users\gabri\OneDrive - Università degli Studi di Padova\Desktop\eleanor prova.py in
+23
+24
+---> 25 data = eleanor.TargetData(star, height=15, width=15, bkg_size=30, do_psf=True, do_pca=True, regressors='corner')
+26
+27 plt.figure(figsize=(15,5))
+
+C:\Python36\lib\site-packages\eleanor\targetdata.py in init(self, source, height, width, save_postcard, do_pca, do_psf, bkg_size, aperture_mode, cal_cadences, try_load, regressors, language)
+227 self.create_apertures(self.tpf.shape[1], self.tpf.shape[2])
+228
+--> 229 self.get_lightcurve()
+230
+231 if do_pca == True:
+
+C:\Python36\lib\site-packages\eleanor\targetdata.py in get_lightcurve(self, aperture)
+623 norm = np.nansum(self.all_apertures[a], axis=1)
+624 all_corr_lc_pc_sub[a] = self.corrected_flux(flux=all_raw_lc_pc_sub[a]/np.nanmedian(all_raw_lc_pc_sub[a]),
+--> 625 bkg=self.flux_bkg[:, None] * norm)
+626 all_corr_lc_tpf_sub[a]= self.corrected_flux(flux=all_raw_lc_tpf_sub[a]/np.nanmedian(all_raw_lc_tpf_sub[a]),
+627 bkg=self.tpf_flux_bkg[:, None] * norm)
+
+C:\Python36\lib\site-packages\eleanor\targetdata.py in corrected_flux(self, flux, skip, modes, pca, bkg, regressors)
+1235 f = np.arange(0, brk, 1); s = np.arange(brk, len(self.time), 1)
+1236
+-> 1237 lc_pred = calc_corr(f, cx, cy, skip)
+1238 corr_f = flux[f]-lc_pred + med
+1239
+
+C:\Python36\lib\site-packages\eleanor\targetdata.py in calc_corr(mask, cx, cy, skip)
+1175 # temp_lc = lightcurve.LightCurve(t, flux).flatten()
+1176 tmp_flux = np.copy(flux[np.isfinite(flux)], order="C")
+-> 1177 tmp_flux[:] /= savgol_filter(tmp_flux, 101, 2)
+1178 SC = sigma_clip(tmp_flux, sigma_upper=3.5, sigma_lower=3.5)
+1179
+
+C:\Python36\lib\site-packages\scipy\signal_savitzky_golay.py in savgol_filter(x, window_length, polyorder, deriv, delta, axis, mode, cval)
+333 x = x.astype(np.float64)
+334
+--> 335 coeffs = savgol_coeffs(window_length, polyorder, deriv=deriv, delta=delta)
+336
+337 if mode == "interp":
+
+C:\Python36\lib\site-packages\scipy\signal_savitzky_golay.py in savgol_coeffs(window_length, polyorder, deriv, delta, pos, use)
+135
+136 # Find the least-squares solution of A*c = y
+--> 137 coeffs, _, _, _ = lstsq(A, y)
+138
+139 return coeffs
+
+C:\Python36\lib\site-packages\scipy\linalg\basic.py in lstsq(a, b, cond, overwrite_a, overwrite_b, check_finite, lapack_driver)
+
+LinAlgError: SVD did not converge in Linear Least Squares
+
+I tried to find solutions, like installing numpy and scipy from conda, but they did not solve the problem. Anyone know how to deal with it?
+EDIT:
+I solve the issue by creating a conda environment, but if I run the program with py IDLE it crashes anyway.

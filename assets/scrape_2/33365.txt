@@ -1,0 +1,4 @@
+How to model and subtract nebular emission lines from stellar spectrum
+
+I have optical stellar spectra from a star forming region with spatially varying nebular background.
+I want to subtract the nebular lines from the stellar spectra (which are varying in intensity from spectrum to spectrum because of the varying background).  How can I model and subtract individual nebular lines from a stellar spectrum?  Are there any known tools for this?  Any help or suggestions would be highly appreciated.

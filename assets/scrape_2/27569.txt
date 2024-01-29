@@ -1,0 +1,7 @@
+What irradiance does the Moon receive during a total lunar eclipse?
+
+As we know, the total solar irradiance normally received by the Moon is about 1361 $W/m^2$ (the same as the top of the Earth's atmosphere). Of course, this changes during lunar eclipses, but the Moon doesn't go completely dark even during total eclipses (it's usually just a dim red). It still receives light through the Earth's atmosphere. My question is how much?
+I've tried googling this, but all the search terms I could think of just gave me a bunch of unrelated astrology results. Surely people have measured this.
+The worst case irradiance for any part of the Moon during a total eclipse is fine for my purposes, but I wouldn't mind a paper with an intensity curve over time if there are any.
+Edit:
+This is not a duplicate of "Red Moon a Characteristic of all Total Lunar Eclipses?" That question is asking if all lunar eclipses are red and/or if the amount of redness varies. I'm asking how much light hits the Moon (per second per area) during a total lunar eclipse. Furthermore, none of the answers there even mention irradiance.

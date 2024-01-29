@@ -1,0 +1,5 @@
+Centre (projected) of a galaxy cluster
+
+A galaxy cluster consists of somewhere around a few tens to several hundred galaxies. 
+To measure the position of a galaxy cluster, i.e. it's RA and DEC, do astronomers always assume it to be its Brightest Cluster Galaxy BCG's position?
+It has been shown by Johnston et al. 2007 that BCGs are not always found in the centre of a cluster/halo. If so, does the assumption of taking the position of a BCG to be the position of the galaxy cluster still hold true?

@@ -1,0 +1,4 @@
+Why are the moons of Neptune sorted by diameter?
+
+The five moons closest to Neptune are sorted by increasing size. Naiad < Thalassa < Despina < Galatea < Larissa. The trend continues with Proteus and Triton, only interrupted by Hippocamp, which is smaller than the closer moons.
+Is this ordering due to pure chance? Is there a reason why moons closer to Neptune should be smaller? Is it possibly an observational bias?

@@ -1,0 +1,8 @@
+how are the celestial objects measured?
+
+So I am guessing that chemical composition of the starts is measured using the spectrum analysis of waves emitted by them. But what if the spectrum is super packed by different wave lengths?
+How do we calculate the weight of the object?
+How do we calculate the size?
+How do we calculate the distance and speed of the object?
+How are we sure that light traveling towards Earth is not emitted by some other object behind the subject?
+I can imagine that error margin in those calculations is super high as the distances and values are also super large.

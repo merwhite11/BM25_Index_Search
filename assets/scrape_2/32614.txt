@@ -1,0 +1,4 @@
+Could an Applegate-like mechanism operate in AM CVn systems?
+
+One of the controversies surrounding the detection of exoplanets around post-common envelope binaries is the possibility that the orbital period variations observed might be the result of the Applegate mechanism as opposed to reflex motion from an orbiting planet.
+Would these concerns also apply to AM CVn systems or other close white dwarf+white dwarf binaries? The Applegate mechanism itself is explained in terms of the activity cycle of the main sequence component of a cataclysmic variable, could a similar mechanism operate or would the changes in the quadrupole moment of the star be too small to produce observable effects?

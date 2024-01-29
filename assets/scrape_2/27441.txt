@@ -1,0 +1,6 @@
+How does an eclipse differ from an occultation?
+
+A comment in response to this question suggests that an eclipse differs from an occultation in that the former casts a shadow while the latter doesn't. 
+This isn't particularly satisfactory since blocking the light from one object with a second will always cast a shadow even if it's not visible to the human eye.
+Similarly, an annular eclipse of the sun by the moon could be referred to as a transit.
+Is there a more rigorous definition of these three terms that distinguishes an eclipse from an occultation or a transit?

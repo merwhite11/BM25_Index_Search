@@ -1,0 +1,7 @@
+Compute rotation angle of fits image
+
+I have a fits image and the header has the keys PC1_1, PC1_2, PC2_1, PC2_2. I want to compute the angle by which my image is rotated so that North will be up. I use the formula below:
+angle = np.degrees(np.arctan2(PC1_2, PC1_1)) .
+The answer I get is 156.0 deg however when I load the image on DS9 I get the following direction.
+
+Does this mean that the angle is measure from the negative x-axis and so I should use angle_true = 180 - angle or am I using a wrong formula?

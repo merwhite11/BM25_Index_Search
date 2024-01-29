@@ -1,0 +1,10 @@
+How is phase defined in a binary orbit with eccentricity?
+
+Are orbital phases of the black spot in the figure measured from some angle or time/period?
+Usually, how is phase=0 defined? It is relative to the line of apses perhaps with phase=0 at periastron?
+Any of the anomalies below is defined as orbital phase? Please specify reference papers or books.
+E: eccentric anomaly
+M: mean anomaly
+u: true anomaly
+
+Source

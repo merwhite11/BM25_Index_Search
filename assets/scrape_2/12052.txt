@@ -1,0 +1,19 @@
+From Mean Moon to True Moon in an old procedural calendar
+
+This is a follow-up to How to interpret this old degree notation?
+It is about an old calendar system which generates a luni-solar calendar with a procedural method, using a handful of calculations and some constants derived from astronomical observations.
+This method originates from ancient India. Today it is used in Thailand to determine public holidays and observance days (uposatha days) for Buddhist monks, which fall on New- and Full Moon days.
+Actually it's a neat system that had allowed village "astronomers / astrologers" construct a calendar with a method they could memorize by rote learning, without astronomical tools to make precise measurements. It is dreadfully underdocumented, and I've been collating the method and it's practices in Calculating the Uposatha Moondays.
+Most useful have been the actual formulas in Rules for Interpolation in the Thai Calendar by J.C. Eade, it is just some basic arithmetic, but following his notation is a puzzle in itself.
+Effectively I'm trying to implement these formulas (see image below), in a golang package.
+With the earlier help, I arrived at step 13 (Mean Moon). Hooray :)
+Step 14. and 15. is a puzzle again.
+Step 14.
+How would you interpret this? "(1780 + 80) * 3 on base 808, and add 2"
+Step 15.
+Eade has (8; 11 : 7) - (6; 27 : 12) = (1; 3 : 55), but that doesn't work.
+That specific substr. gives me (1; 13 : 55), which could be a typo in the paper, but that value doesn't carry things forward either.
+Things straighten up at step 16., 17., 18., which would produce the paper's results, to get there I faked the values for step 14. and 15, to work at least in the example case given in the paper.
+In suriya.go
+this business is happening in:
+func (suDay *SuriyaDay) Init(ce_year int, lunar_year_day int)

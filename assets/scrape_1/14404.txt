@@ -1,0 +1,4 @@
+How the watches are showing perfect time?
+
+The actual time for one day is 23hrs, 56mins, 4.1secs right? Then how can the clocks and watches can show perfect time? 
+I mean, if I observe the sun rise at 6:00am this day, tomorrow I should observe it before 6:00 or I can say at 5:56 approximately as our measuring devices follow 12+12 i.e., 24hr day. But in practice again it will be 6:00am when the sun rises. How it is possible?

@@ -1,0 +1,4 @@
+What exactly is the "paradox" in Olber's Paradox?
+
+To the extent of my understanding, Olber’s paradox states that if the universe was static and homogeneous, we should see a star at every point in the night sky and therefore the night sky should be equally as bright as day.
+However, since the night sky is dark and non-uniform, it can be said that the universe is not static and not homogeneous. However, if this was already known, what exactly is the “paradox”? Why isn’t it called Olber’s Observation or something else?

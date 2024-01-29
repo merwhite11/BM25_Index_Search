@@ -1,0 +1,4 @@
+Daytime length and sunrise / set cardinal directions
+
+Let me illustrate the question with an example.  On Feb 2nd 2022, the sun rises in Los Angeles at cardinal direction 110 and sets in direction 250 (according to timedate website).  This means that the sun has to travel 250 - 110 = 140 degrees through the sky.  Translated in time, this yields 140 / 15 = 9h 20min.  But the real daytime length is actually 10h 35min (according to timedate website).
+My question is: how to reconciliate the discrepancy between my estimated daytime length based entirely on sunrise/set cardinal directions and the real one?

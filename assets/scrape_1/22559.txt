@@ -1,0 +1,4 @@
+What will be the impacts on the planets' orbits from Gliese 710?
+
+In 1.5 million years, the star Gliese 710 is expected to pass through the Oort cloud. Now obviously this will shower the inner solar system with comets, but the Wikipedia page doesn't say anything about the star's impact on the orbits of the planets.
+Will the star not throw the Earth and other planets into highly elliptical orbits, destroying all life? Or, simply, do we not know because this would involve solving the 11-body problem?

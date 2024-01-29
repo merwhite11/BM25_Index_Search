@@ -1,0 +1,21 @@
+Sloan Digital Sky Survey (SDSS) HDU `or_mask` - what does it mean exactly?
+
+I'm looking at the Sloan Digital Sky Survey data. I'm primarily using the flux data, from the documentation I see the first extend (HDU 1) has flux, loglam, ivar, and_mask, or_mask, etc.
+There's been a lot of confusion here about what the or_mask is doing exactly, and the documentation hasn't been extremely clear.
+My understanding so far is that the or_mask tells me when a particular pixel was flagged in one of many ways possible. I've understood from various random sources that this means the pixel is "bad" somehow. I haven't yet figured out how to know exactly "why" it is bad, my working assumption is that the possibilities are numerous, that there are many fields that have flags that might answer that question.
+My primary question: Is every flux value with a non-zero or_mask inherently untrustworthy?
+About 80% of pixels have a non-zero or_mask value, particularly on the bluer end of the spectrum.
+Or is the or_mask telling me more broadly that there's a flag somewhere, not necessarily even with the flux data, that I might want to consider?
+HDU 1 (extname COADD): Coadded Spectrum from spPlate
+
+Binary table with columns:
+                        Required  Columns 
+Name      Type      Comment
+flux      float32   coadded calibrated flux [10-17 ergs/s/cm2/Å]
+loglam    float32   log10(wavelength [Å])
+ivar      float32   inverse variance of flux
+and_mask  int32     AND mask
+or_mask   int32     OR mask
+wdisp     float32   wavelength dispersion in pixel=dloglam units
+sky       float32   subtracted sky flux [10-17 ergs/s/cm2/Å]
+model     float32   pipeline best model fit used for classification and redshift

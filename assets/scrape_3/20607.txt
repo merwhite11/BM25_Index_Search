@@ -1,0 +1,5 @@
+What is "superficial gravity"
+
+I have seen the term superficial gravity used and it seems to be equivalent to surface gravity
+seen, e.g., here http://arxiv.org/pdf/1701.02295
+Is there any difference between superficial and surface gravity? When should one be using one or the other?

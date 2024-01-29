@@ -1,0 +1,3 @@
+Who first used two lambdas to typeset the wavelengths of a spectra line doublet?
+
+Also what is the accepted or most common way to typeset the wavelengths of a doublet? e.g. lambdalambda-3727,3729 with or without a hyphen? and without the Angstrom symbol?

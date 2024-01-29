@@ -1,0 +1,7 @@
+What is the unit of the correlation function between logarithmically rebinned galaxy spectrum and stellar template spectrum?
+
+Assume I have a logarithmically rebinned galactic spectrum $G(x)$ and a stellar template spectrum $S(x)$, where $x = \ln{\lambda}$. When $[\lambda] = 1 Å$, then $[x] = 1 Np/Å$. The fourier transformed galaxy spectrum is $\tilde{G}(\kappa)$, then $[\kappa]= 1/(Np/Å)$.
+Now the correlation function between galaxy and spectra is defined as:
+$K_{S, G}(z)= \int dx G(x+z)S(x)$, so the unit of $z$ should be $[z] = [x]= 1 Np/Å $?
+Since the rebinning on a logarithmic wavelength scale introduces an easy conversion from measured wavelength shifts to velocity shifts: $\Delta x = \Delta \lambda/\lambda=\Delta v/c$. So the way $K_{S,G}(z)$ is defined above it measures shifts in wavelengths between the spectra. For my analysis, I needed a velocity axis, so I plotted my correlation function on a velocity axis (which would be wrong to label with Np/Å), at the same time I just wonder how to do this consistently in the mathematical formalism. One would have to do something like $\bar{K}_{S,G}(v) \equiv K_{S,G}(v/c)$ ?
+And then one would need a different variable in fourier space: $\tilde{\bar{K}}_{S, G}(\bar{\kappa})$, where $\bar{\kappa} = 1 s/km$, when $[v] =1 km/s$ ?

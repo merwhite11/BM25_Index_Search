@@ -1,0 +1,18 @@
+Need help in writing a query using ADQL (Astronomical Data Query Language)
+
+I am trying to query Gaia archive to get the medium quality sample as mentioned in Reico-Blanco et al. (2022) Gaia Data Release 3: Chemical cartography of the Milky Way. The idea is to query the flags_gspspec string where every letter represents one flag. The criteria for selecting the medium quality flag is as follows,
+
+The first 13 characters are taken into consideration.
+The last 4 characters must always be 0.
+The seventh character could be one of one of (0,1,2,3).
+The remaining eight flags must be either 0 or 1.
+
+The problem gets even more complicated when we look at the allowed values for the flags,
+
+The seventh character could take one of the values from (0,1,2,3,4,5,9).
+All the other characters could take one of the values from (0,1,2,9).
+
+I tried writing a Regular expression to match the type and it failed because ADQL does not support Regex. The only option that I could think of is to write a list of all possible combinations and include them in the LIKE clause. The problem is I am getting 1024 such combination from elementary combinatorics and its not practical to write down all the possible combinations.
+If there is anybody out there who has worked on a similar problem before, please let me know. I would like to discuss this further.
+PS: I do not know whether this is the right forum to post this since the query is more related to a database query and less of an astronomical question. Incase, this is not the right place, please redirect me to the right forum.
+Thank you in advance.

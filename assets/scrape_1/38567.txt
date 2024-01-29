@@ -1,0 +1,4 @@
+How can I calculate the right ascension of an observer on Earth's surface in the TEME frame with python.skyfield?
+
+I would like to calculate the right ascension of a point on earth as specified above with the Skyfield Python library, and I can not figure out how to do this.
+I know that calculating the geocentric position of the respective Topos object at a specific time  results in a Geocentric object that has an attribute .radec; however I am not confident that this delivers the right ascension in the TEME (Earth centered inertial frame.

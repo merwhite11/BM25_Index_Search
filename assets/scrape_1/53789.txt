@@ -1,0 +1,5 @@
+References to learn about algorithms/mathematics related to building planetarium / astronomy software?
+
+I'm a beginner in astronomy with a background in engineering and mathematics. I'm interested in learning how to build astronomy software to model the position and movement of planets and stars, brightness, etc. So, not so much astrophysics or cosmology but .. not even sure what this is called .. celestial mechanics?
+Some of the software I'm familiar with are Stellarium and Gaia Sky.
+What are some good references to materials/books that speak to such knowledge that I can get started with? What are some databases I can get my hands on for the data required?

@@ -1,0 +1,6 @@
+color of stars and temperature
+
+I recently got questioned on why stars are the color they are. I know the color of a star depends on its surface temperature where hotter stars produce more light towards the blue side of the spectrum and cooler stars towards the red.
+My question, or I should say the question of the other person, is that why is this the case? If a cold and a hot star are both producing light/energy by nuclear fusion (hydrogen into helium) then why is one redder and one bluer?
+My thought is that the energy of the star excites the surface material (the plasma) which produces light through the emission "line" of the material. Where the color depends on the electron and their orbital changes. Because the hotter star produces more energy overall, this means that more energy is available for the surface plasma to cause their electrons to jump to and fall from higher orbits.
+Does this make sense? I don't want to pass on incorrect information.

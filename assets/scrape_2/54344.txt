@@ -1,0 +1,5 @@
+Concerning a binary system of stars/planets/black holes could one of them be ejected before eventually merging or colliding?
+
+I was having a discussion with an undergraduate student of physics about binaries and their interactions with external celestial bodies (which could cause the ejection of one of the members in the binary).
+He told me that you don't even need a third body, was one of the members of the binary can kick the other to high speeds. He mentioned Mass Transfer Instability as one mechanism, but I am not sure how does this work.
+Are there any other mechanisms where one of the members of the binary can expel the other from the system at high speeds? Are there any mechanisms where any celestial body that is part of a binary (planets, stars, black holes...) can eject the other member of the system at very high speeds?

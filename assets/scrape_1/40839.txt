@@ -1,0 +1,3 @@
+Exactly how long does it take for the exposed core of a star to cool from its starting temperature (several billion K) to ~50,000 K?
+
+OK, I didn't know how I should word this question. But the basic point is that most white dwarfs that we have classified fall in temperature ranges from ~50,000 K to 6000 K. However, at the end of a low-mass star's life, the core temperatures reach billions or maybe even trillions of Kelvin. So when the star dies and sheds its outer layers, exposing the core, exactly how long does it take for the core to cool down to the "standard white dwarf temperature?"

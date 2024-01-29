@@ -1,0 +1,4 @@
+Could pulsar navigation replace GPS
+
+as a follow-up to my previous question I found out that the Voyager Golden record uses a star map of pulsars to precisely show where our solar system is...
+Is it possible/feasible to base a navigation system on pulsars in order to replace GPS?

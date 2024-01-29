@@ -1,0 +1,9 @@
+Sky surface brightness vs magnitude limit visibility
+
+I am wondering how we can calculate the magnitude limit of the celestial object, which could be visible at the given sky surface brightness conditions.
+We already know that Venus and Jupiter are visible in the daylight. Occasionally also Mars too. I've read, that the magnitude visibility threshold is about -2 Mag for a full day. It changes, and as the Sun goes closer to the horizon it causes the light to diminish in the thick atmosphere. I found information, that the Arcturus star (-0,04Mag) was once visible even 24 minutes before sunset!
+If, for example, we consider the civil twilight. Is there a chance of seeing the objects with a magnitude of +3 or even +4?
+A good example can be the 12P/Pons-Brooks comet, which will pass the perihelion on late April 2024. Its maximum brightness is estimated to be about +4.1Mag, but its proximity to the Sun probably excludes it from good visual observation.
+I am aware, that these assumptions will be completely different for the naked-eye approaches than for observations made through binoculars or telescopes.
+I am rather interested in naked-eye observations, but I would be really happy to know the source, which would include some comparisons/tables regarding this.
+Does anyone know the article/book or presentation, which would cover my question?

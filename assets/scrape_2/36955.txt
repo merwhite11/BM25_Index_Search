@@ -1,0 +1,6 @@
+Astronomical data convertion from Jy/pixel to MJy/sr?
+
+I'm in the middle of collecting infrared data of various wavelengths. My problem is the following: SPIRE data (250µm) are in MJy/sr and PACS data (100µm) are in Jy/pixel. I would like to combine these data, but I'm a bit lost with these units... So I would have several questions:
+
+How can we switch from Jy/pixel to MJy/sr?
+Is "Jy/beam" equivalent to "Jy/deg^2" or "Jy/sr"?

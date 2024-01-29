@@ -1,0 +1,18 @@
+Converting FITS (NuSTAR) coordinates to WCS
+
+I'm trying to convert some pixel coordinates I have into WCS coordinates, ideally into a WCS region for use in some further analysis.
+So far I've been able to load and parse a NuSTAR FITS file, do some analysis to make my selections and get the pixel coordinates for the image. For example, after my analysis I would end up having selected a rectangle of x values from pixels 480 to 518, and y values from 478 to 516.
+After that I tried to use the astropy WCS module to convert them, but it doesn't seem to find the required data in the header to actually do the conversion and just says that pixel 480 gives coordinate 480. That or I'm just doing something wrong.
+So I looked through the FITS header myself, found that some keys (TCRPX, TCRVL, TCDLT) give the reference pixel, reference pixel degree coordinate and pixel axis scale values.
+But now I'm really stuck since what I need to get is a region file like those produced by ds9, in the format of:
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(19:58:21.593,+35:11:57.46,10")
+
+To then run this through the nuproducts tool.
+TL;DR: Does anybody know how to convert the NuSTAR FITS physical pixel coordinates to FK5 coordinates?
+
+EDIT: Wrote some code to extract the coordinates. It converts the pixel to degree fine, but converting the FK5 $\alpha$ angle to sexagesimal doesn't work correctly for... some reason.
+
+EDIT2: Everything works now, here's a notebook where I run through it all in case anybody runs into a similar problem. I go through extracting the right-ascension and declination in degrees from the pixel coordinates given by the FITS file, then converting these degrees to sexagesimal (h:m:s) angles. From my tests it seems to work quite well, results are a tad off  due to what I assume are some floating point arithmetic errors.

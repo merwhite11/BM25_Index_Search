@@ -1,0 +1,10 @@
+How thick is the cosmic microwave background, including the part we cannot see within the observable universe?
+
+What I want to know is how thick the observable universe is from the point of the cosmic microwave background and beyond.
+It appears the thickness of the cosmic microwave background itself (the part we can see) is above 100,000 light years, per the following article:
+http://scienceblogs.com/startswithabang/2013/06/19/5-facts-you-probably-dont-know-about-the-cosmic-microwave-background/
+However, I want to know the thickness of that, plus what lies beyond that we cannot see, another way of looking at it would be the distance between the surface of last scattering (cosmic microwave background end) to the beginning (e.g. Big Bang).
+According to the following article, it appears that this time from the beginning to the surface of last scattering is about 300,000 years:
+https://ned.ipac.caltech.edu/level5/Glossary/Essay_lss.html
+That would imply that the thickness should be about 300,000 light years, but that doesn't take inflation into account. 
+What is the thickness (in the observable universe) between the beginning (e.g. Big Bang) to the surface of last scattering (Cosmic Microwave Background), including inflation?

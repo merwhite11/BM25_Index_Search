@@ -1,0 +1,3 @@
+How do you tell if a variable star is periodic or not by its light curve?
+
+I have light curves for a particular star. I'm able to construct a periodogram of the stars' light curve, a plot of the power of the light curve vs. the signal's period. For a nonperiodic but irregular signal, I'd still expect to see some peaks and valleys on the periodogram just because of random noise. How could I distinguish the non-periodic stars from periodic signals given their light curves and/or periodograms?

@@ -1,0 +1,12 @@
+Which three telescopes are these atop a mountain in Hawaii as seen on CNN? Is this webcam view available to the public?
+
+CNN's new video Alaska reached temperatures warmer than California in December includes file footage from a webcam from the top of a mountain in Hawaii showing three observatories.
+Annotation at the top says
+
+CFHT/December 3, Waimea, Hawaii
+
+and embedded digital data at the bottom says
+
+Catwalk PTZ: (plus date and time)
+
+Question: Is it possible to identify which three telescopes these are? Is this webcam view available to the public?

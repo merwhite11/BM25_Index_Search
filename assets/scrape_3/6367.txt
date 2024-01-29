@@ -1,0 +1,11 @@
+Tools for creating a multiwavelength view of the sky
+
+Not sure that this is the correct place to ask this question, but here goes.
+I am trying to find tools to accumulate image data (preferably in FITS format) on a given (RA, Dec)-coordinate of sky. Right now there are several image services that offer cutouts, for example:
+
+irsa.ipac.caltech.edu holds data from Spitzer, Planck, WMAP, IRAS, WISE
+hla.stsci.edu holds Hubble Space Telescope data
+skyserver.sdss.org/dr7/en/tools/chart/list.asp holds SDSS data
+etc.
+
+I wonder if anyone has written any code for accumulating these images given an argument of RA and Dec? Or if they can point me in the right direction of tools that they know exist? Any help would be appreciated.

@@ -1,0 +1,27 @@
+Pendulum clock correction
+
+I'm trying to solve this task:
+
+The pendulum clock was transported from the Earth's equator to Antarctica (in the vicinity of the southern geopole) for scientific experiments. Estimate the pendulum clock correction over the Earth's day in Antarctica (at a temperature of $t = −90 ° C$) if these clocks are calibrated at the equator (at a temperature of $t = + 50 ° C$). The coefficient of thermal expansion of the pendulum substance is $α_h$ = $2,4 · 10^−5$ $deg^−1$. The original verified length of the pendulum is $ℓ_0$ = 300 mm. How much should the length of the pendulum be changed so that the correction of the hours per day is no more than 10 seconds?
+
+I think I have almost solved the task, but at the very last moment a have my variable being gone... Here is the solution:
+Formulas to use: $L_t=L_0 × (1+α*t)$, $T=2π×√(l/g)$
+We should find $L_0$ first:
+$L_0=L_{+50}/(1 + 2,4 × 10^{-5} × 50)=0,3/(1+0,0012)=0,29964 (m)$
+Then $L_{-90}$:
+$L_{-90}=L_0×(1+2,4×10^{-5}×(-90))=0,29964×(1-0,00216)=0,29964×0,99784=0,29899 (m)$
+Periods:
+$T_{+50}=2π × √(L_{+50}/g)=2 × 3,142 × √(0,3/9,81)=1,0989 (sec)$
+$T_{-90}=2π × √(L_{-90}/g)=2 × 3,142 × √(0,29899/9,81)=1,09706 (sec)$
+$∆T=T_{+50}-T_{-90}$
+After that we should find the number of complete fluctuations per day:
+$N=(24 × 60 × 60)/T_{-90} =86400/1,09706=78755,9477$
+So the correction should be:
+$x=N × ∆T=78755,9477 × (1,0989-1,09706)=144,91 (sec)$
+Now we need it need to be less than 10 secs:
+$N × ∆T<10$
+Here just transformations:
+$\frac{86400}{(2π × √(L_{-90}/g))}×(2π× √(L_{+50}/g)-2π× √(L_{-90}/g))<10$
+
+
+And so the $L_{+50}$ just disappears! I must have made a mistake somewhere. Could somebody help?

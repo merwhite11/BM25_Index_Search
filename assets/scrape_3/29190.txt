@@ -1,0 +1,3 @@
+How fast would an object at cruising altitude(around 10,600 m) need to travel to stay on the opposite side of the Earth to the Moon?
+
+I am trying to figure out how fast an object will have to travel (at a height around 10,600 m) to never be in the presence of the moon. Meaning the object will always be on the opposite side of the moon to the Earth.

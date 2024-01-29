@@ -1,0 +1,26 @@
+Poisson noise for a squared contrast of density - expression of variance equal to $1/n^2$
+
+
+I manage to compute the Poisson noise of a density field like this :
+
+If I take $N$ the density of galaxies and compute the Shot noise with a Poisson distribution, I get :
+$\langle N^2\rangle - \langle N\rangle^2 = \langle N\rangle$ so :
+$\langle N^2\rangle = \langle N\rangle + \langle N\rangle^2$
+Let's take the variable : $X=\dfrac{N}{\langle N\rangle}-1$
+So, I get $\langle X\rangle=0$.
+Then : $\langle X^2\rangle = \left\langle\left (\dfrac{N}{\langle N\rangle}-1\right )^2\right\rangle=\dfrac{\langle N^2\rangle}{\langle N\rangle^2}-2+1 = \dfrac{\langle N^2\rangle}{\langle N\rangle^{2}}-1$
+Finally, I get : $\sigma_x^2 = \langle X^2\rangle=\dfrac{1}{\langle N\rangle}+1-1$
+$$\Rightarrow\quad \sigma_x^2=\dfrac{1}{\langle N\rangle}$$
+
+Now, I would like to do the same kind of calculation with variable  $Y=\left(\left(\dfrac{N}{\langle N\rangle}\right)-1\right)^2$, and conclude normally that :
+
+$$\sigma_y^2 = \dfrac{1}{\langle N\rangle^2}\quad(1)$$
+But following the same reasoning with $N$ following the Poisson distribution, I can't manage to get this expression $(1)$.
+UPDATE : i think that I have the proof :
+$$\langle X^4\rangle = \Bigg\langle\bigg(\dfrac{N}{\langle N\rangle}-1\bigg)^2\,\bigg(\dfrac{N}{\langle N\rangle}-1\bigg)^2\Bigg\rangle$$
+$$=\dfrac{\langle N^2\rangle^2}{\langle N\rangle^4}-2\dfrac{\langle N^2\rangle}{\langle N\rangle^2}+1$$
+I) with $\langle N^2\rangle = \langle N\rangle + \langle N\rangle^2$
+II) and squared :
+$$\langle N^2\rangle^2 = \langle N\rangle^2 + 2\langle N\rangle^3 + \langle N\rangle^4$$
+We conclude :
+$$\langle X^4\rangle=\dfrac{1}{\langle N\rangle^2}+\dfrac{2}{\langle N\rangle} +1 - \dfrac{2}{\langle N\rangle} -2 + 1 = \dfrac{1}{\langle N\rangle^2}$$

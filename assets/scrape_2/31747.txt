@@ -1,0 +1,11 @@
+How can GAIA's accuracy for position, parallax, and annual proper motion for a given star be the same number?
+
+Per Wikipedia's Gaia (spacecraft); Objectives:
+
+
+Determine the position, parallax, and annual proper motion of 1 billion stars with an accuracy of about 20 microarcseconds (µas) at 15 mag, and 200 µas at 20 mag.
+
+
+As @RobJeffries painstakingly points out to us in comments below this answer when we talk about parallax as a unit, it is referenced to a baseline of 1 AU. It doesn't refer to the actual cyclic motion seen in the sky due to the orbital motion of whatever is moving around the Sun at its own particular distance.
+But the accuracy of both "position" and "annual proper motion" have nothing to do with 1 AU and are measures of positional accuracy of the telescope and how its astrometric data is analyzed.
+How can all three of these accuracies simultaneously be 20 µas for 15 magnitude stars?

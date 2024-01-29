@@ -1,0 +1,6 @@
+What are the problems that need to be taken in consideration when trying to find planetary position by using jpl ephemerides?
+
+I'm currently trying to determine the position of the sun and the moon from jpl ephemeris DE200 which is referred to the dynamical equator and equinox of 2000 and uses tdb time. I am using the j2000  system ECI.The things that trouble me are the following:
+1.Is the moon position given with respect to Earth or with respect to the barycenter? Also when we find the sun position by using the earth-moon barycenter position and lunar coordinate , will the sun position be with respect to Earth?
+2.If I'm using UTC time  , how exactly to obtain the TDB or TAi, since it's oscillating?( After that I want to obtain the JD for TDB)
+3.If I'm using  J2000 ECI coordinate system , do I need to take in acount the effect of nutation and precession? And how to do that?

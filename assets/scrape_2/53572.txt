@@ -1,0 +1,8 @@
+What positional accuracy (ie, arc seconds) is necessary to view Saturn, Uranus, beyond?
+
+My son and I are building an azimuth/elevation controller to point the telescope at planets using servos and a microcontroller. Assuming that our device is calibrated (that is, we tell our device to point at a specific RA/Dec and points in the right direction):
+How accurate must positioning be (in arcseconds?) to point directly at a planet like Uranus and have it show up in the eyepiece? In case it matters, we are using a Celestron 70EQ with our own az/el hardware.)
+(Perhaps another way to ask is this: if we have an outer planet in view, how many arc seconds need to pass before the object leaves the telescope's view?)
+We are both new to astronomy, so our terminology or understanding could be off a bit, correct me where necessary.
+Ultimately the motivation for this question is because we are considering the Astronomy Engine C library which guarantees within ±1 arcminute and want to know if that is high enough resolution to get the planet in view of the eyepiece.
+Thanks!

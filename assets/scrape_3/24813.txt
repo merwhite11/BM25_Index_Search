@@ -1,0 +1,7 @@
+Telescope and its construction
+
+I want to build a reflecting telescope in my home. I've attached a drawing of my plan that contains some explanations of what I understand so far, and highlights the parts of the design for which I have questions.
+What type of mirror should i use, parabolic or spherical, and what are the factors considered when making that decision? 
+Does the glass used to make the mirror affect the incoming light rays? What about the secondary mirror in the middle of the tube?
+Are there other things to consider that would help for higher magnification? 
+Some telescopes have a glass window at the front where light enters the tube, why is that? Would I need to add it here?

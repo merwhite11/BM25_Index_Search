@@ -1,0 +1,4 @@
+How did Eratosthenes know that the sun is far away?
+
+The famous measurements and calculations done by Eratosthenes around 300 BC are very widely known. He concluded correctly that the circumference of the Earth is about $252\,000$ times the length of an athletic stadium.
+But what Eratosthenes did would make no sense if the Sun were (for example) only $6000$ miles from the Earth. How did he know it was much farther away than that?

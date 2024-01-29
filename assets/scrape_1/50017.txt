@@ -1,0 +1,5 @@
+Confused about the derivation of the x co-ord of the focus in the Lambert solution?
+
+I'm looking into how the Lambert solution works but there's one bit I'm stuck on. From Wikipedia's Lambert's problem; Solution for an assumed elliptic transfer orbit (starting at Eq. 11):
+
+I don't understand how we can draw the conclusion that $x_0$ is proportional to $r_m$ let alone this value. Any explanation would be appreciated.

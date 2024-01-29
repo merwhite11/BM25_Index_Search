@@ -1,0 +1,6 @@
+Is there molecular hydrogen in the Sun's atmosphere? If so, how much, and how was that first determined and measured?
+
+I don't have a license to practice chemistry, but I'll convert Wikipedia's bond dissociation energy of 435.7 kJ/mol to eV by dividing it by $C / N_A$ where $C$ is 1 Coulomb and $N_A$ is Avogadro's number, and I get about 4.5 eV which is pretty big.
+Dividing that by the Boltzmann constant $k_B$ gives about 52,000 Kelvin, which is simultaneously hot compared to the Sun's photosphere's temperature of about ~5,800 Kelvin, and not hot compared to the Sun's corona temperature of roughly 5,000,000 Kelvin.
+This suggest to me that since the Sun is mostly hydrogen, it makes sense to ask
+Question: Is there molecular hydrogen in the Sun's atmosphere? If so, how much, and how was that first determined and measured?

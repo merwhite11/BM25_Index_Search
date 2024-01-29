@@ -1,0 +1,3 @@
+What would the apparent size of the four stars in the Capella system be from the L1 point between the first pair?
+
+Capella is a system with four stars in two binary pairs (source: Wikipedia). If an observer were located at the L1 LaGrange point between the larger pair, how many degrees of the sky would each of the stars - both the first and second pairs - occupy?

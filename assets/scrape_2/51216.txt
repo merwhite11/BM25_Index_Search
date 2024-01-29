@@ -1,0 +1,6 @@
+What determines how accurate a particular method is at finding the period between Lomb-Scargle and String Length Minimization?
+
+I've been using the Lomb-Scargle and String Length Minimization methods to find the periods of various astronomical objects with unevenly spaced data. I wanted to see if I could find any patterns between the two that could determine why a particular method was more accurate in one case but not another.
+Unfortunately, I'm not having much luck. In pretty much every case, String Length is always more accurate. In only one case did the Lomb-Scargle and String Length find the exact same period.
+There don't seem to be any patterns between the number of data points or the time between observations. I've looked at different objects including different variable stars, and asteroids. etc. I did notice that String-Length was able to find the actual period for objects that have two minima and two maxima (like asteroids and eclipsing binaries), but the period found by the Lomb-Scargle had to be doubled.
+What determines how accurate each of these methods is? So far, I don't how I could ever recommend somebody uses Lomb-Scargle when it's much less accurate in comparison to String Length Minimization in 99% of cases.

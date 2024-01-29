@@ -1,0 +1,6 @@
+How exactly can the hypothetical conformal invariance of the CMB spectrum be established by analyzing tensor modes?
+
+In the introduction of this paper at the top of p11, it is mentioned that a hypothetical enhancement of the scale invariance of the CMB spectrum to conformal invariance could potentially be established by analyzing the higher n-point functions of the tensor modes.
+First of all, why are the tensor modes needed for this? Does conformal invariance not appear in the scalar modes?
+How does this work exactly (mathematically), how does conformal invariance (not just scale invariance...!) manifest itself in the n-point functions of the tensor modes?
+Has this already been looked at or will it be done for the tensor modes in the BICEP2 data for example?

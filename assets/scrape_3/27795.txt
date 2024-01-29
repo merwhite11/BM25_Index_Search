@@ -1,0 +1,8 @@
+Exoplanet radius density relation according to NASA exoplanet archive
+
+I downloaded the info from NASA exoplanet archive at: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=compositepars
+I named the file "NASA.Composite.Planet.Data.csv". I had to edit the file to remove the header which was preventing the program below from running. (I put the header at the top of the program below)
+I then plotted it with Matplotlib using this python (anaconda) program: https://planet.wikia.com/wiki/User:Granpa/Python_program
+I got this:
+
+Can anyone explain what I am seeing?

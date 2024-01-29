@@ -1,0 +1,3 @@
+Distance to Sun at Perihilion and Aphelion at max and min Eccentricity
+
+Title says it all. I'm putting together a presentation on Milankovitch Cycles, and I would like to bring up the difference in distance to the sun (km) at aphelion and perihelion when the earths orbit is at maximum and minimum eccentricity. The numbers I've found are that the maximum eccentricity of Earth's orbit is 0.0679, and the minimum is 0.000055.

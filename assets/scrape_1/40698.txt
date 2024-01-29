@@ -1,0 +1,4 @@
+Why do the solar system planets go rock-gas-ice instead of rock-ice-gas when moving away from the sun?
+
+The sun and the solar wind seem to do a good job of fractionating lighter materials to the outer solar system and leaving heavier materials in the inner solar system. So we end up with rocky/metallic planets in the inner solar system and the gas giants and ice giants in the outer solar system.
+But why are the gas giants (Jupiter and Saturn composed mainly of Hydrogen and Helium - the lightest materials) closer to the sun than the ice giants (Uranus and Neptune composed of water, ammonia, methane, etc.)?

@@ -1,0 +1,57 @@
+How to draw an orbit from Orbital Elements using Transform3DGroup
+
+I am trying to draw an orbit using the Transform3DGroup class in the C# .NET framework. I have orbital elements a, e, i, RAAN, ArgPer, trueAnom. The algorithm that spits these out for me also gives me x y z coordinates in ECI. For some reason, when I try to use Transform3DGroup to do my rotations in order to basically draw out where the satellite is supposed to go in ECI (using the orbit elements I gave above) my result is not matching up with the ECI coordinates that the original algorithm is spitting out.
+That original algorithm is my truth data. But I don't want to use those coordinates, I want to draw the orbit myself with the Keplarian elements using Transform3DGroup.
+Here is my code:
+
+public Point3D calculatePosition(double trueAnomaly)
+{
+    double angle = trueAnomaly;
+    double a = semiMajorAxis;
+    double e = eccentricity;
+    double b = (a * (1 - e * e)) / (1 + e * Math.Cos(angle));
+    double SA = Math.Sin(angle);
+    double X = b * CA;//(CA * CR + SA * CI * SR); 
+    double Y = b * SA; //(CA * SR + SA * CI);
+    double Z = 0; //b * SA * SI;
+    Point3D p = new Point3D(X, Y, Z);//new Point3D(Math.Cos(angle) * b, 
+    Math.Sin(angle) * b, 0);
+    return p;
+}
+public void orient2OrbitalElements(double _time)
+{
+
+
+    orbitNorm = new Vector3D(0, 0, 1);
+    positionPoint = calculatePosition(trueAnomaly);//Position of Orbiter
+    Transform3DGroup tg = new Transform3DGroup();
+    tg.Children.Add(new TranslateTransform3D(positionVec));//Translates to Orbit Position (relative to Parent)
+    tg.Children.Add(new RotateTransform3D(new AxisAngleRotation3D(new Vector3D(1, 0, 0), inclinationDeg)));//Rotates Orbit to the set Inclination
+    tg.Children.Add(new RotateTransform3D(new AxisAngleRotation3D(new Vector3D(0, 0, 1), RAAN)));//Rotates Orbiter's model RAAN
+    orbitNorm = tgNoTranslation(tg).Transform(orbitNorm);
+    tg.Children.Add(new RotateTransform3D(new AxisAngleRotation3D(orbitNorm, argOfPerigee)));//Rotates Orbiter's model to the Arg of Perigee
+    Transform = tg;
+    if (HasEphem)
+    {
+        Console.WriteLine(ObjectName + ": " + Transform.Value.OffsetX + ", " + Transform.Value.OffsetY + ", " + Transform.Value.OffsetZ);
+        Console.WriteLine(ObjectName + ": " + cartesElems.xPos[ephemIndex] + ", " + cartesElems.yPos[ephemIndex] + ", " + cartesElems.zPos[ephemIndex]);
+    }
+}
+public Transform3DGroup tgNoTranslation(Transform3DGroup tgWithTranslations)
+{
+    Transform3DGroup tempTg = tgWithTranslations.Clone();
+    tempTg.Children.RemoveAt(0);
+    return tempTg;
+}
+
+Basically I calculate an x,y position on the orbital plane w.r.t the Earth position using the basic eccentricity, semi-major axis, true anomaly formula as you'll see. Then I put the resulting coordinates into my Transform3DGroup as a TranslateTransform3D. This is the first object I put in. 
+Then I perform the rotations:
+ --- a rotation is added for the inclination, rotating the position Vec about 
+     the unit x axis (1,0,0)
+ --- a rotation for the RAAN, about the unit z-axis(0,0,1)
+ --- then I create the orbit normal from that and perform a argPer rotation 
+     about that new axis
+My understanding of how Transform3DGroup works is that it will apply the first one, then the second, and so on. Which means that the positionVec (which is just x, y coordinates in the reference frame of the 2d orbital plane) gets performed, then the rotations will all be performed as a rotation matrix on was is left after what was done before it. 
+Am I performing the argPer rotation incorrectly? RAAN or inc? Perhaps there is a more exact way to calculate my position in my orbital plane or a particular order of operations I must adhere to? 
+The more I think about it, the more I keep arriving at the thought that everything seems to be very simple if I use the Transform3DGroup and that I should be doing it right at this point, yet the ECI results don't line up.
+But lo and behold, the Transform.Value.OffsetX/Y/Z does want to come close to agreeing with the truth data. Perhaps Transform.Value.Offset is not the X,Y,Z as I am thinking of it?

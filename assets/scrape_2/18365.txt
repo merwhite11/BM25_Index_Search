@@ -1,0 +1,5 @@
+How to explain that Polaris is a circumpolar star in the sky of any North America city?
+
+Circumpolar star definition: the stars that remain perpetually above horizon.
+My explanation: Latitude affects the constellation we see and Polaris(the North star) has altitude of approximately 89.4 degree. For example, in Miami(25 degree latitude) the Polaris is 90-25=65 degree above horizon. This means that for any city above equator, people are able to see the Polaris.
+My explanation is verbose and probably incorrect. Could someone provide a valid one?

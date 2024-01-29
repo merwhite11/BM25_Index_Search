@@ -1,0 +1,19 @@
+Predicting Temperature Variation on Planets with High Eccentricity or Long Diurnal Periods
+
+Whew! That title was a mouth-full, but accurate I hope. What I'm trying to figure out is a model for calculating the approximate temperature variation for a generally earth-like planet (similar atmosphere, large oceans, etc.) under two concurrent conditions:
+
+High Eccentricity: 0.1, 0.2, 0.3 etc.  
+Long Diurnal Periods: 72 hours - 960 hours (the later could reflect a planet in a 2:1 orbital resonance around a M Star). 
+
+(Assume Obliquity = 0 so as to simplify things)
+I know conditions like the mass of the atmosphere and the size of the oceans play a key role in the retention and redistribution of heat. However I've been unable to locate any research papers or explicit models that would help. It's relatively straightforward to calculate real temperature (effective temperature modified for greenhouse effect) for both periapsis and apoapsis, however I've had no luck in finding resources for figuring out how much of this temperature variation would be mitigated by retention and redistribution. Same with long nights and long days. 
+If a specific example would help, let's consider a planet with the following characteristics:
+
+30-day orbit
+15-day (720 hour) rotation (2:1 orbital resonance)
+30-day solar day (sunrise to sunrise)
+0 obliquity
+0.25 eccentricity
+Earth-like in other respects
+
+Calculations or even simply links to applicable research papers would be immensely helpful. Thanks!

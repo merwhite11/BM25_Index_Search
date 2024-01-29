@@ -1,0 +1,6 @@
+Photometric redshift - empirical methods (machine learning)
+
+I am currently learning about estimation of photometric redshifts with machine learning methods (or empirical methods in general).
+These methods use the knowledge about the photometry and the spectroscopic redshift of many galaxies in order to infer a mapping between the photometry and the redshift. Then, based on this mapping, redshifts can be estimated for the photometry of other galaxies.
+I've read that for empirical methods it is crucial that the training data (i.e. the data from which the mapping of the photometry to the redshift is inferred) represents the galaxies for which estimated redshifts are desired in the future. I understand that this is crucial, but in what sense does the training data represent a certain distribution and in what sense are other galaxies represented or not represented by this training data? How do I know if a galaxy is well represented by the training data so that I can estimate a redshift for the galaxy?
+Would the galaxy have to be from the same region? Does it have to have the same mass? What are the factors to look at, if I want to know whether a galaxy is from the same distribution/is well represented by the training data?

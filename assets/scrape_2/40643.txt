@@ -1,0 +1,5 @@
+How many generations of stars can be formed in the Stelliferous Era?
+
+As in general case, stars are formed from nebula which in some case itself is the result of a supernova.
+Also stars need hydrogen to become a star (to do nuclear fusion), but stars consume hydrogen in their lifecycle. Thus, less and less hydrogen is left for the future generation and more heavy elements take that place.
+How many generation of stars can be formed until there is no more enough hydrogen left to create new stars?

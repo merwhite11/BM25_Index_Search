@@ -1,0 +1,7 @@
+How do I modify redshifts to gain corrected line of sight velocities?
+
+I'm currently trying to collect the data to run an N-body simulation for 11 of the galaxies in the Local Group where proper motions are known, however I don't understand how to get the required line of sight velocities for the simulation.
+I have redshift data from NED for the required galaxies, however by judging what sources tell me, this won't be the required information for the simulation due to our motion around the Milky way's galactic centre.
+For example, one source has given the NED redshift as 229 km/s for Carina Dwarf, but the corrected line of sight velocity is 14.3 km/s.
+Does anybody know how to convert these redshifts into the desired corrected versions?
+Thanks!!

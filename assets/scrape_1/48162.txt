@@ -1,0 +1,10 @@
+What's the Right Ascension & Declination of Galactic Left & Galactic Right?
+
+For the purpose of being able to align my model to the galactic plane, I want to know the directions of the galactic center, anti-center, north, south, left & right.
+This gives me the answer for center, anti-center, north & south... but not left & right. I presume astronomy doesn't even have a concept for galactic left & right, so my definition / what I'm interested in is: if galactic north is above your head, and you're facing the galactic center, which way is left?
+I need that number but in terms of right ascension hour,minute,second (+ declination) as it's how my code works.
+But I haven't figured out the math. I think the Galactic Left's Right Ascension will be an average of the North & Anti-Center. For Declination, I don't know... 90deg - their average declination? But RA of 21h,18m,30s & D of 61h,57m,54s is not giving me the correct answer. (I'll know I got it when Left has the exact same distance between center, anti-center, north & south - which I have code to check).
+
+I know this probably sounds like I'm trying to get someone to do my math/astronomy homework, but I promise it's not - I'm not even in school. I'm making my own 3D model of our local interstellar neighborhood and, prior to starting this personal project, I'm new to Right Ascension & Declination.
+
+To clarify, I'm not asking you for a math lesson on how to do this: if you just have the answer I would like to have it, but if you want to teach it I suppose it would be good to learn!

@@ -1,0 +1,3 @@
+Is Diffraction of light observed in gravitational lensing/microlensing?
+
+As far as I understand the wave-optics effects,such e.g.diffraction at a caustic, are hardly observable in the gravitational lensing. Are there any observations where the diffraction paterns of the visible light have been seen? If not visible, which wavelength?

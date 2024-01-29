@@ -1,0 +1,5 @@
+How does time dilation from a large body fall off?
+
+A magnetic fields generally fall off as 1 / r^3 rather than 1 / r^2 for gravity.
+How does time dilation fall off from a large body?
+Where would the gravity and magnetic field line be in this chart provided from comments?

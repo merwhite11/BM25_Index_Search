@@ -1,0 +1,8 @@
+Estimating the radius of a non-transiting exoplanet
+
+I need to know the timescale of tidal locking of a non-transiting exoplanet. For that, I need to know (or at least have some constraint of) its radius (Gladman et  al. 1996):
+$$T_{lock} = k \frac{a^6}{G  M_{star} R_{planet}^2 Q},$$
+where
+$T_{lock}$ is the timescale for tidal locking, $k$ is a constant that depends on the properties of the planet and the star, $a$ is the semi-major axis of the planet's orbit, $G$ is the gravitational constant, $M_{star}$ is the mass of the host star, $R_{planet}$ is the radius of the planet and
+$Q$ is the tidal quality factor, which represents the efficiency of energy dissipation within the planet.
+How can I estimate the radius of a given exoplanet?

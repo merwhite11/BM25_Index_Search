@@ -1,0 +1,19 @@
+How to Calculate Planetary Equilibrium Temperature in Binary systems
+
+I'm working on a program that generates the basics stats of a terrestrial planets in binary star systems. I'm not the best at this kind of math, so I'm having trouble calculating the planetary equilibrium temperature.  
+The formula I'm currently referencing was posted in a thread from almost 4 years ago: How to calculate the expected surface temperature of a planet.
+
+It seems reasonably accurate since (if memory serves me) using it yields a good answer for Earth and Mars. However this is for a system with one radiating body not a system with two radiating bodies (binary stars). 
+My instinct is to treat the two stars as one big star and add the wattage $(w/m^2)$ the planet receives from the various stars. So total watts = watts star 1 + watts star 2. That seems reasonable to me, at least for the purposes of calculating planetary temperatures.
+I've already done work to calculate the watts received by the planets from the various sources. I've used this equation, subbing in values for both stars.
+$$
+F(L/S^2)
+$$
+
+L = Luminosity (in fraction of Solar), stars 1 & 2 (respectively): 0.0159 & 0.7758
+S = Semimajor Axis (in AU), stars 1 & 2 (respectively): 0.1228 & 3.6000
+F = Earth Mean Solar Flux $(w/m^2)$ 1362
+
+So the above calculation yields a Mean Solar Flux for the example planet of $1344w/m^2$ from Star 1 and $92w/m^2$ from Star 2. Adding those together I get a mean global wattage of $1436w/m^2$. 
+However, I'm unsure how to modify the original equation to utilize the above calculate solar flux (ideally without having to reference the original luminosity and semimajor axis variables). What is the correct way to alter the formula? 
+Any help would be very much appreciated!

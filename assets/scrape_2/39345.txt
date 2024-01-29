@@ -1,0 +1,4 @@
+What methodology should be used to choose the correct model for origin of QPOs in X-ray astronomy?
+
+In X-ray astronomy, quasi periodic oscillations (QPOs) are routinely shown by black hole and neutron star X-ray binary systems in their X-ray flux. Despite being strong and easily measurable signals, their physical origin is yet unknown. Several theories has been proposed, in particular for the low frequency (LF) QPOs, ranging from well-developed theories that have been confronted with data to ideas briefly described in a few papers. However, none of the theories are confirmed to be the proven mechanism of QPOs.
+How would the astrophysical community decide which is the correct theory? And also, which theories probably gives the correct mechanism of QPOs?

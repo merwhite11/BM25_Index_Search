@@ -1,0 +1,5 @@
+Using SDSS data / finding a catalog
+
+I am looking for a catalog of low redshift galaxies (preferably SDSS) with information on line fluxes and stellar mass. My Google searches keep pointing me to work by the Portsmouth group, so I downloaded some of the fits files listed at the bottom of the page, but there are no line fluxes in those files, even though they seem to suggest that the line fluxes are being made available... I was just wondering if what I'm looking for is publicly available and if I'm looking in the right place? Their page links to a table that lists all the key words I would like to use, but I'm not sure how to obtain the data.
+In one of the files I downloaded (portsmouth_emlinekin_full-26.fits) there's a column called BPT, which lists the BPT classification (Seyfert, LINER, Star forming...), so I was expecting to also find the "building blocks" ([OIII], [NII], [SII], [OII], Halpha and Hbeta line fluxes) of the BPT diagram. Is it usually necessary to contact the authors for stuff like this?
+Would be very grateful to learn about using publicly available survey data from a more experienced scientist :)

@@ -1,0 +1,4 @@
+Converting ångström spectral dimension to galaxy speed (km/s)
+
+I have a spectral cube (in FITS format) whose spectral dimension is in ångströms. The sampling along the spectral dimension is 0.28A (CDELT=0.28). The observation in the cube is Ha emission of a galaxy at redshift 0.1. 
+How can I convert the sampling to km/s?

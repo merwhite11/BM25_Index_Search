@@ -1,0 +1,6 @@
+How much do collimation and viewing conditions affect magnification and viewing?
+
+Before I start this post, I'd first like to make clear that this account is an alternate of   my SovereignInquiry account--at the moment, accessing this account is much more convenient, so if things I write here sound very similar to things mentioned by that account, it is no accident.
+As I mentioned in this post, I have an AWB 130 Newtonian tabletop telescope with a 650mm focal length and a 130mm aperture. I described all my issues in the post. I also found this Q&A, which seems to suggest that I should be seeing quite a lot of detail, even including Saturn's rings. I live in a city classified as a class 7 on the Bortle Scale, which measures light pollution (1 being the most pristine and 9 being the most polluted).
+In addition to light pollution, viewing can be affected by haze and air turbulence in the atmosphere and collimation.
+But in what ways and how significantly do these factors affect viewing?

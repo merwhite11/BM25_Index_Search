@@ -1,0 +1,5 @@
+How would I define mass in a space
+
+I always heard that mass is a measure of inertia during my school days. Is this  applicable to bodies which are in space ? Suppose there is space craft in a space; how would I define mass ?
+I read some article and consulted with my teachers; they said mass is similar to conservation of momentum but I do not know how. And then he said mass is independent of frame it is constant, whereas I see momentum is itself a frame dependent quantity and velocity is frame dependent. I am confused how I would actually define a mass in space, what is the correct definition for a mass ? 
+I am high school boy, I will be thankful if anybody answer my question.

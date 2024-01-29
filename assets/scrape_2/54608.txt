@@ -1,0 +1,6 @@
+How to plot object on the map correctly
+
+I am wondering how is it possible to plot the celestial object on the map I have attached if I only know following data:
+
+16h 41m 41,24s
+36° 27′ 35,5″

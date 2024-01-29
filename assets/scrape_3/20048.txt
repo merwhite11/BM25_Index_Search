@@ -1,0 +1,6 @@
+Observing Comet 45P - reliable sources of position data
+
+Yesterday night I have tried find comet 45P, that should be still easily visible with my equipment at hand, however I was unable to find it.
+I used data provided by this website.
+Today I've checked the website's data against the Minor Planets Center's data loaded into Stellarium (the program) and found the predicted positions of the comet to differ by more than 7°. That is totally unacceptable when trying to find the comet with a FOV of a few tens of arcminutes (the finder presumably is too light-weak).
+So does anybody know a definite, reliable source for the position data of 45P? I'm gonna try again today anyway with the positions provided by Stellarium, but it might be good to have another alternative.

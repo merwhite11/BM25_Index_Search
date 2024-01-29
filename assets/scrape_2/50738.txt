@@ -1,0 +1,10 @@
+Why did they decide to hit Dimorphos in the retrograde direction rather than prograde; was it a "coin-toss" or were there implications for observing?
+
+CNN Space and Defense Correspondent Kristin Fisher does a really good job of summarizing the current state of the Double Asteroid Redirection Test early observational results for general public consumption. See video and screenshot below.
+The diagram shows that the impact was retrograde - in the direction opposite that of Dimorphos' orbital motion around 65803 Didymos.
+At first I thought "Of course, maximize relative velocity." Hitting it when it was on the other side of its orbit would pack a smaller punch since it would be moving away, but then I found that its orbital velocity was only about 1.2 meters per second. Compared to the impact velocity of about 6,600 meters per second this is very small and so this would not likely be an overwhelming factor.
+While the public is informed of the challenges to making the impact happen, the observation challenges are great as well! One aspect is to establish the new period and thus the momentum transferred, but another aspect is to characterize the impact and release of debris, as this recoil mass and its speed is an important part of understanding the kinematics and thus effectiveness for this technique for (potentially) future objects.
+So I'd like to ask:
+Question: Why did they decide to hit Dimorphos in the retrograde direction rather than prograde; was it a "coin-toss" or were there implications for observing?
+
+Screenshot from the CNN October 13, 2022 NASA mission successfully changed the motion of an asteroid

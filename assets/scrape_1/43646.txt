@@ -1,0 +1,35 @@
+Wrong planet orbit
+
+I would like to calculate Mercury's orbit in Mathematica. My initial conditions, in AU and AU/year, are:
+x = (-3.610096904077567*10^-1); y = (-2.285553971112067*10^-1); z = (-8.467301297840119*10^-2);
+
+vx = (9.95457152429289*10^-3*365.25); vy = (-1.918192442772782*10^-2*365.25); vz =(-1.127871068908956*10^-2*365.25);
+
+I express M,G,c in Msun,AU,years:
+M := 1;
+G := 4 \Pi^2;
+c := 63197.7909261;
+
+If I solve Newton equations, everything works and I obtain the correct orbit. But If I try with relativistic eqns:
+sol = NDSolve[{(
+c^2 r[\[Tau]] (-c^2 + G M r[\[Tau]]) Derivative[1][r][\[Tau]]^2 + 
+ G M (c^2 - 2 G M r[\[Tau]])^2 Derivative[1][t][\[Tau]]^2)/(
+c^2 - 2 G M r[\[Tau]]) == 
+c^2 r[\[Tau]]^2 (r^\[Prime]\[Prime])[\[Tau]],  Sin[\[Theta][\[Tau]]] (2 Cos[\[Theta][\[Tau]]] Derivative[
+     1][\[Theta]][\[Tau]] Derivative[1][\[Phi]][\[Tau]] + 
+   Sin[\[Theta][\[Tau]]] (\[Phi]^\[Prime]\[Prime])[\[Tau]]) == 0,Cos[\[Theta][\[Tau]]] Sin[\[Theta][\[Tau]]] Derivative[
+  1][\[Phi]][\[Tau]]^2 == (\[Theta]^\[Prime]\[Prime])[\[Tau]], 2 G M Derivative[1][r][\[Tau]] Derivative[1][
+  t][\[Tau]] == (c^2 - 2 G M r[\[Tau]]) (
+  t^\[Prime]\[Prime])[\[Tau]], r[0] == 0.4355859102907327`, r'[0] == 1.46359, \[Phi][0] == -2.5771894914147078`, \[Phi]'[0] == 
+18.406053400410222`, \[Theta][0] == 
+1.766430630766984`, \[Theta]'[0] == 8.975543771872271`,  t[0] == 0.00000000, t'[0] == 0.0003188110212866474`}, {r, \[Phi], \[Theta], t}, {\[Tau], 0, 1}]
+
+where initial conditions are converted from cartesian to spherical, I don't obtain the right orbit:
+\[Phi]s[tt_] = \[Phi][tt] /. sol[[1]] /. tt -> \[Tau]
+rs[tt_] = r[tt] /. sol[[1]] /. tt -> \[Tau]
+\[Theta]s[tt_] = \[Theta][tt] /. sol[[1]] /. tt -> \[Tau]
+
+ParametricPlot[{(rs[tt]*Sin[\[Theta]s[tt]]*Cos[\[Phi]s[tt]]),    (rs[tt]*
+Sin[\[Theta]s[tt]]*Sin[\[Phi]s[tt]])}, {\[Tau], 0, 1}]
+
+I don't understand If there is something wrong with the initial conditions, because I used Newton equations with the same procedure and units and everything worked.

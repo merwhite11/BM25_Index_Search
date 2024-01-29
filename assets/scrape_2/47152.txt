@@ -1,0 +1,26 @@
+How 3’ minute arc error in the Sun altitude might amount to 7’ minute arc displacement in Sun's longitude?
+
+In reading "The Error in Kepler's Acronychal Data for Mars" by Curtis Wilson 1969 (unfortunately , this is not an open article), we read the following paragraph:
+
+How did it come about that Tycho’s solar theory was so inaccurate,
+yielding errors over 7’? The main source of error is Tycho’s assumption
+of 3’ as the horizontal parallax of the sun, which implies a parallax of
+2’30” at an altitude of 34”5’, the noonday altitude of the sun at Uraniburg at the time of the equinoxes; the correct value would be 7”. An
+additional source is Tycho’s table of refractions, which gives 45“ at an
+altitude of 34”5’, some 40” too small, Now the altitudes of the sun at
+or near the time of the equinoxes were the data most strongly determining the eccentricity, since the sun was then about a quadrant’s distance
+from aphelion. Tycho’s two errors cause him to add 1’45” to the
+apparent altitude to obtain the true altitude, whereas about 1’18”
+should be subtracted. The total difference of 3’ between Tycho’s value
+and the sun’s true altitude implies a displacement of the sun in longitude by over 7‘.
+
+I don't see how 3’ in altitude amount to 7‘ in longitude (in the ecliptic coordinate system I'm convinced is meant here; or I miss something). I would rather say that 3’ mistake in altitude results in  3’ in longitude at max - and usually even less. From what I was able to see this derivation of 7‘ in the article is not explained elsewhere in the paper.
+Edit:
+re-reading the paper, I think it is necessary to add more context, as I'm afraid the 7‘ is not computed but only given. In the article it is said that in the model of the Sun that Tycho Brahe developed the eccentricity is too high [Which is indeed true - about X2], and this results in 7‘ discrepancy between the real location of the Sun and the model-location; this +7‘ in the early spring and -7‘ in the fall.
+
+But solar theories prior to the late 17th century erred in
+giving the sun's (or earth's) orbit an exaggerated eccentricity. In the case
+of the Tychonic theory that Kepler used, this has the effect of putting
+the earth about 7' ahead of its true position at the beginning of spring.
+
+I'm still lost as how a 3min error in altitude measurement can produce so an erroneous model. Well, there is the option of the model itself that was wrong: namely an eccentric with equant as center versus the real model of ellipse. But I have reason to believe this is not enough.

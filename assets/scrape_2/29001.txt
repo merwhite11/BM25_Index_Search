@@ -1,0 +1,7 @@
+Is Earth's true anomaly roughly 1 degree currently?
+
+I wrote software which uses GMT real time to calculate Earth's mean, eccentric, and true anomaly. I encountered a bug where after reaching 360 degrees, instead of flipping back to zero, it subtracts from 360.
+So I checked Wolfram Alpha with search for Earth's true anomaly, just to see if we had passed through 0 degrees triggering the bug. As of a few days ago Wolfram and I were in agreement, approaching 360 degrees. But now Wolfram reads 179 degrees approx. I remember passing 180 in July or August.
+So it appears Wolfram is also experiencing an error. To double check, true anomaly is the angle between Earth and perihelion side of major axis. We know Earth reaches its closest point to the Sun in the northern hemisphere winter, January roughly. And aphelion in summer months.
+Additionally the j2000 epoch I uses 358 degrees roughly, putting the perihelion or closest approach right around early january roughly. 
+Thus I can only conclude Wolfram is in error as well?

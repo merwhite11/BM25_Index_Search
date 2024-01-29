@@ -1,0 +1,14 @@
+What are the main ways that pulsar "glitches" are noticed and documented? Do they have to be caught in the act of glitching to be catalogued?
+
+This answer to Is there any well-populated list or database of pulsar "glitches"? mentions two large databases; (Jodrell Bank and ATNF's pulsar catalog) but neither question nor answer defines what is or isn't considered a glitch proper nor touches on how they are detected.
+Question(s):
+
+What are the main ways that pulsar "glitches" are noticed and documented? Is it always radio telescope observations or are X-ray pulsars included and measured via periodic X-ray emission? Or even optical pulsing?
+Do they have to be caught in the act of glitching to be catalogued, or for example is it enough to note that there's been a change in phase and/or frequency at some point between two periods of measurement?
+
+
+Related to optical pulsing:
+
+How bright is the Crab Pulsar's 30 Hz modulation in visible light? What color is it?
+https://hsm.stackexchange.com/q/11298/3869
+Who first reported the Crab pulsar's pulsing but was dismissed by an astronomer? (HSM SE)

@@ -1,0 +1,21 @@
+SDSS ImgCutout webservice returns black image for dr12
+
+The SDSS (Sloan Digital Sky Survey) ImgCutout webservice should return jpeg images for a given field that is defined by the parameters. The service can be tested here: http://skyservice.pha.jhu.edu/DR12/ImgCutout/ImgCutout.asmx?op=GetJpeg
+A simple (and working) get query is given here:
+http://skyservice.pha.jhu.edu/DR12/ImgCutout/getjpeg.aspx?ra=132.749&dec=11.656&scale=0.79224%20%20%20&width=400&height=400&opt=
+If you enter the same information (the parameters) in the form of the first link and click on invoke you will get a black image only. You can test the base64 encoded result here: http://www.askapache.com/online-tools/base64-image-converter/
+Description of how to reproduce my findings:
+
+Go to http://skyservice.pha.jhu.edu/DR12/ImgCutout/ImgCutout.asmx?op=GetJpeg
+Fill parameter 'ra_' with '132.749'
+Fill parameter 'dec_' with '11.656'
+Fill parameter 'scale_' with '0.79224'
+Fill parameter 'width_' with '400'
+Fill parameter 'height_' with '400'
+Press 'Invoke' button
+Convert the content in the <base64Binary> tag from base64 to a jpeg
+
+Following this steps I always get a black image.
+Now the question:
+Do I require an additional parameter (non empty string) for either imgtype_ or imageField_ in order to not get the correct image? What are this parameters good for anyway?
+(Is there a better place this question? It would be nice if there was a tag for SDSS)

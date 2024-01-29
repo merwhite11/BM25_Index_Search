@@ -1,0 +1,6 @@
+Objects entering or leaving the observable universe
+
+Have there been any observations of objects entering or leaving the observable universe?
+When looking at the physical limit of observing something like this I will to assume that the "object" would be an galaxy. I think it would be a good assumption to choose the size of such an galaxy, $G$, to be in the order of $10^{5}$ light years and the radius of the observable universe, $OU$, is $46 \times 10^{9}$ light years. Using the limit of angular resolution and the fact that the current biggest telescope has a diameter of 22.8 meters, then the longest wave length which would still yield would be about $40 \mu m$. When reversing the redshift, assuming this would be around $z=9$, then the longest emitted wave length which would be detected would be $4 \mu m$.
+So observing such an event would technically be possible, however relative to the astronomical timescale we have only been able to observe with such a high resolution for a very short time, so the probability will not be very high.
+And if such an event would be observed, would such an object suddenly appear/disappear. It will take along time for an entire galaxy due it size, so this would translate to more of a fade. Or will something else happen?

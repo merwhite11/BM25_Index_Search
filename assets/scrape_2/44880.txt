@@ -1,0 +1,3 @@
+How to determine temperatures for a binary system?
+
+How to make a guess for temperatures of an eclipsing binary from light curves measured in UBVR filters of the Johnson system? I assume that differences of indexes U, B, V will be necessary, right? Thank you

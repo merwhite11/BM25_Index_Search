@@ -1,0 +1,7 @@
+Magneto tail effect on the other planet in a binary planet system
+
+Let's say there are 2 earth sized planets orbiting each other around 750,000km apart and at a distance of roughly 1.2 AU from a sunlike star with a mass of 1.105 solar masses. Since they are binary, they would most likely be on the stellar plane and therefore should eclipse eachother regularly. 
+Both planets have their own rotation and their own magnetosphere similar to Earth's. 
+As one planet orbits in between the second planet and the star, the Magneto tail would pass over the second planet. 
+Question: What would this do to the other planet?
+Would the second planet handle this the same as it would the regular stellar wind? Would it blow concentrated radiation at the second world ?

@@ -1,0 +1,3 @@
+What are the differences between different types of flux density in radio astronomy?
+
+I am new to radio astronomy and have started to analyze some radio observational data of pulsars recently. I am wondering about the differences between "peak flux density", "integrated flux density", " mean flux density", and "pulse flux density" of pulsars in radio.

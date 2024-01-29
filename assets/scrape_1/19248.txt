@@ -1,0 +1,6 @@
+Is the moon "perfectly" tidally locked and, if not, how long would it take us to observe it's rotation?
+
+I have a general understanding of how and why a body in space can be tidally locked to it's planet or sun and I'm aware that our moon is in such a state.
+My question is, if our moon once had a rotation, has it slowed down to a point where across the course of our normal lifetimes we can't observe it's spin but across the span of hundreds, if not thousands, of years we could observe its current rotation?  In other words, if it has a rotation and if I looked at the moon today and jumped into the future, how far would I have to go to see a noticeable difference?  
+If the question is to relative then I'll ask it like this-- at the moons current rate of rotational speed and deceleration, how long would it take for the moon to rotate, say, 15 degrees on it's current axis?  I assume this would be enough to make the moon look "different" to the naked eye so I'll go with that concrete figure.
+...or is the moon in either a state of near-equilibrium or is it "wobbling" due to other forces outside the gravitational pull of the earth (e.g. pull of the sun, asteroid bombardment, comets passing by, etc.) having minor effects on its rotational state and thus making it's rotation inconsistent and unobservable?

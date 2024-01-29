@@ -1,0 +1,5 @@
+Why is it hard to reconcile Gaia DR2 with the HIP data set
+
+I'm trying to get a database of about 20 million of the brightest stars in the sky for a project I'm working on, and I want to reconcile it with the Hipparcos data set.  Currently, I'm only using the HIP dataset for everything, especially the constellations, additionally, as far as I understand, the DR2 data set doesn't have the brightest stars. 
+My confusion is that for many stars, there is an easy one-to-one correlation, i.e. at 104.304832, 57.563355, I see a magnitude 4.613 star.  This star appears in the HIP dataset as a 6.150 magnitude star.  Roughly the same parallax.  But, if I look at 102.733851, 57.649038, at the 7.44 magnitude star, I see nothing at all in the HIP dataset. 
+Honestly, most of the stars I'm trying to correlate between the two data sets do not appear.  Is RA/DEC defined differently between the two data sets?  Are they intended to be used as concatenated data sets?  I'd really like to use DR2 to refine the parallax mappings from the HIP data set because for my project estimated distance is so critical.

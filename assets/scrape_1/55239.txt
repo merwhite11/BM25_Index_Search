@@ -1,0 +1,8 @@
+Does the escape velocity formula take into account how a gravitationally bound object's distance to its primary increases before coming back down?
+
+Confusing title, I know. Imagine a perfect, homogenous sphere with an exact radius of $1,000 \text{km}$ and an exact mass of $8 \times 10^{15} \text{kg} $.
+If you use the formula for escape velocity $v_e = \sqrt{\frac{2GM}{r}}$ and plug in the numbers, you get $v_e = 1.033386 \text{m/s}$, which is just a tiny bit over $1 \text{m/s}$.
+When a human jumps on Earth, they reach a certain maximum height before coming back down. So while someone would theoretically feel less gravitational attraction to the Earth when they're at the maximum height of the jump, the difference is so comically low that it's not worth taking into account.
+The same thing applies to smaller bodies like Mars, Pluto, and Ceres. In each of these worlds the maximum height of a jump would increase, but even then it would still be too small for it to be taken into account.
+But when it comes to very small bodies, like the one I described, someone jumping at an exact velocity of $1 \text{m/s}$ (that's only marginally lower than the escape velocity) would reach gigantic heights before theoretically coming back down. And the gravitational acceleration felt at the maximum height would be drastically lower than the one felt at the surface of the body.
+So, my question is: Does the formula for escape velocity $v_e = \sqrt{\frac{2GM}{r}}$ take into account how an object's distance increases from its primary when it's traveling at speeds very near escape velocity? Or, in other words, would someone jumping at a velocity just $1 \text{cm/s}$ less than $v_e$ eventually come back down, all other forces outside this 2-body system ignored?

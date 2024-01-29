@@ -1,0 +1,4 @@
+Radius to which all hydrogen-burning stars are known?
+
+For the purposes of this question, I wish to consider active, hydrogen-burning stars, not deuterium-burning brown dwarfs,  or stellar remnants like black holes or neutron stars. (Though including those would be interesting questions in and of themselves)
+What is the upper limit of distance that we can say, "To a high degree of certainty, every star that exists within this sphere centered on the Solar System, has been discovered?"

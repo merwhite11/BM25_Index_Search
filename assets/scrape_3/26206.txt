@@ -1,0 +1,5 @@
+Measurement uncertainty of the computed center of gravity from pixel image
+
+Establishing the position of celestial bodies (stars, and other objects) is based on imaging technology. Depending on the resolution of the imaging sensor used, an object is identified by a group of neighboring (bright) pixels. These pixels surround the center of gravity of the detected celestial body.
+In image processing, the central position of a round object (a sphere) is generally determined by computing the center of gravity of the pixels surrounding the detected object. The weights are the intensities of the pixels in the vicinity of the brightest (central) pixel.
+My question: how is the variance of this center-of-gravity estimate being calculated, within astronomy?

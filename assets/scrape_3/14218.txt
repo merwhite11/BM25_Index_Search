@@ -1,0 +1,10 @@
+State vectors of "interesting" multiple stars
+
+I'd like to show a demonstration of Runge Kutta integration of real systems using examples of interesting multiple stars, where "interesting" means you can see through a small telescope that they are at least double. I've selected three:
+
+Gamma Andromedae (Almach)
+Alpha Geminorum (Castor)
+Zeta Ursae Majoris (Mizar and Alcor)
+
+How can I find a state vector (set of relative positions and velocities) - or something similar - for these multiple star systems? An open access link (for everyone) would be great, but a journal reference is fine as well if that's what it takes.
+Of course the periods are long and there will be uncertainty - I'd just like to use whatever is known and available, for this demonstration.

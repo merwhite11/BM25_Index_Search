@@ -1,0 +1,4 @@
+Radio telescope targeting
+
+How do you target a radio telescope on the precise object you wish to observe? You can point it in the general direction but how do you get the information from the exact point in the sky that you are investigating?
+This seems self evident with an optical telescope but not with a radio telescope.

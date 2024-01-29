@@ -1,0 +1,11 @@
+Understanding the constant 6.697374558 when finding GMST
+
+I'm trying to understand the constant 6.697374558 mentioned in this question:
+
+The Astronomical Almanac gives an expression for approximate mean
+sidereal time, in hours:
+$$\mathit{GMST}=6.697374558+0.06570982441908D_{0}+1.00273790935H+0.000026T^{2}$$
+
+I've googled 6.697374558 and found it described here as:
+“6.697374558 was the Greenwich hour angle of the Sun at Epoch 2000”.
+However, when I input the Sun's RA (18h 45.1m) at 12pm 1 January 2000 into an online RA to hour angle calculator (for the Greenwich meridian) I get 23h 56m 44.55s. Any idea what I'm doing wrong? I'm new to all this, so apologies if I've made any basic errors.

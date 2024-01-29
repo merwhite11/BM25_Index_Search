@@ -1,0 +1,4 @@
+What are the differences between TESS and PLATO exoplanet telescopes?
+
+Within a year now it has been decided to launch TESS in 2017 and PLATO in 2024, space telecopes of NASA and ESA. They seem to have very similar science goals, both searching for transiting Earth sized planets in the HZ of the brighest (nearest) stars across all or most of the sky. 
+Are these missions as overlapping as they seem on first sight, or are there important complementarities? Is it perhaps the intention for PLATO to continue the observations of the planets discovered by TESS in order to get a longer time series?

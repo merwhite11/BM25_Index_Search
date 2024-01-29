@@ -1,0 +1,4 @@
+Calculating date of heliacal rising of well know stars using javascript
+
+I am pretty new to astronomy, and would like to find a way to calculate the date of the heliacal rising of well know stars form a given location using javascript, so that the dates can be rendered in a table on  a web page.
+Are there any existing javascript libraries that will allow me to do this? And if so how would I go about using said library to achieve my objective?

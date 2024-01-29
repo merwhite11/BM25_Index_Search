@@ -1,0 +1,9 @@
+Why Does Moon Evection formula use the mean position instead of the true position?
+
+Reading Wikipedia on the Moon Evection, and was somewhat surprised to find there that the formulas to express the evection are using the Moon's Mean position (mean anomaly) instead of its True position:
+
+Evection causes the Moon's ecliptic longitude to vary by approximately ± 1.274° (degrees), with a period of about 31.8 days. The evection in longitude is given by the expression ${\displaystyle +4586.45''\sin(2D-\ell )}$, where ${\displaystyle D}$ is the mean angular distance of the Moon from the Sun (its elongation), and ${\displaystyle \ell }$  is the mean angular distance of the Moon from its perigee (mean anomaly).
+
+I find it strange as it seems to suggest the physical forces work according the the Mean position. If we take, for the sake of the example, the Moon Mean anomaly of 90° (for the sake of the example, lets assume the true anomaly would be at this place 92°), and let the angular distance of the Sun from the Mean Moon to be 45°. Then, according to the formula we should have no evection.
+But, if we consider the same position according to the True position, the angular distance would be 47° and the True anomaly 92° - hence the evection is not really vanishes (since 47*2 ≠ 92).
+How those results reconcilable? and why, at the first place, use the Mean motion to describe the eviction instead of the true motion?

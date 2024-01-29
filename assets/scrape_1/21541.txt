@@ -1,0 +1,5 @@
+Reference frames in relativity?
+
+I've recently been introduced to relativistic celestial Reference Systems (RS) such as the Geocentric Celestial Reference System (GCRS) and Barycentric Celestial Reference Systems (BCRS). So, for example we use GCRS to model near-Earth satellites or use BCRS to model probes far into our solar system. I understand the need for such RS i.e. to be in compliance with the theory of relativity - no favoured coordinate systems, limitation of the speed of propagation of information etc.
+However, what are some layman definitions of advantages of such systems to really send the message home? 
+I notice that when describing $n$-body dynamics in our solar system for example, Barycentric coordinate time is used instead of proper time. This blows my mind!

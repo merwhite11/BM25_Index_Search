@@ -1,0 +1,8 @@
+Why didn't Johannes Kepler use data about more planets?
+
+In Astronomia Nova (1609) Johannes Kepler used observations of Mars in order to refute circular orbits. Throughout Astronomia Nova he hardly even mentions other celestial objects than Mars, Earth and the Sun (and the Moon in a different context). Were there any astronomical reasons for him not to continue, or even beginning, his investigation by using data about other planets?
+Tycho Brahe had collected corresponding data about the other planets too, right? 20 years of data is enough for Saturn to make 2/3 of its period. Jupiter and Saturn have almost twice as frequent oppositions as does Mars. And Mercury has twice the eccentricity and its much shorter period should help getting data about its upsides when it is best seen.
+
+Would it have helped him to use several planets during the process as he describes it in Astronomia Nova?
+Was it simply the calculation capacity which limited him from dragging several planets into it?
+Or could he somehow conclude that it is enough to solve for Mars, to know that his physical conclusions of interests are valid for all planets?

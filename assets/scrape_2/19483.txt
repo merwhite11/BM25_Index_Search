@@ -1,0 +1,5 @@
+How to track asteroids or NEOs?
+
+Fast-moving objects near our earth have different paths in the sky. They are different with stars far away. 
+For telescopes, when we do not know an object's orbit, catching up with its orbit and not losing it is a problem ? How to figure out a new object's orbit parameters quickly before we lose it? For an old object with an irregular orbit, can a telescope track it? 
+The typical speed in the asteroid belt may be smaller than 1"/min? But there may be faster objects. Then the paths are not so simple and regular.

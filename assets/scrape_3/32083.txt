@@ -1,0 +1,16 @@
+How was the astrometry of the famous 1919 solar eclipse confirmation of General Relativity calibrated and verified?
+
+The new New York Times article The Eclipse That Made Einstein Famous describes several events and discussions on the hundred year anniversary of the the 1919 solar eclipse and verification of the deflection of light by the Sun as predicted by General Relativity. The roles of Albert Einstein, Arthur Eddington, and others are discussed in the article, the play performed at the Royal Astronomical Society in London, in the Nature Physics article A hundred years of the first experimental test of general relativity and the book No Shadow of a Doubt; The 1919 Eclipse That Confirmed Einstein's Theory of Relativity by Daniel Kennefick.
+The instruments used for the measurement are shown in the illustration and photograph below.
+My question is about the astrometric technique used, and the calibration and verification.
+The instruments are long and laying on their sides, viewing the eclipse and the stars near the Sun by reflection in coelostats (mirrors in front of telescopes, moved by clockwork mechanisms).
+I can imagine several sources of instrumental and experimental errors due to variations in field distortion and magnification, presumably the measurement was done by comparing the eclipse images with similar images taken by the same instruments of the same field of stars in the same position in the field of view a few months later, at night, in the dark, in order to show that the tiny deflections were not due to variation from one instrument to another.
+Is that actually how it was done? Was the experimental set-up left in-place between day and night measurements, or was it packed up and moved?
+Was the flatness of the coelostat mirrors independently confirmed somehow?
+
+Images from the new New York Times article The Eclipse That Made Einstein Famous
+
+
+Einstein’s theory suggested that starlight would bend near a massive body like the sun.CreditChronicle/Alamy
+In Sobral, Brazil, two coelostats with movable mirrors were used to direct images of the eclipsed sun into a pair of horizontal telescopes.
+Credit Royal Observatory, Greenwich/Science Museum Group

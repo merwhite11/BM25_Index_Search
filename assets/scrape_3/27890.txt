@@ -1,0 +1,3 @@
+Coma cluster of galaxies
+
+According to wikipedia (https://en.wikipedia.org/wiki/Coma_Cluster), Coma cluster contains over 1000 galaxies. Is there any upto date catalogue of these galaxies with the following given parameters (Ra, Dec, z, magnitude, position angle, major diameter, minor diameter).

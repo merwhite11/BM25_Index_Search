@@ -1,0 +1,5 @@
+Could entropy be reversed eventually in the far future?
+
+In the far future there will be most likely a point where a maximal state of entropy will be reached in the universe and after the last black hole evaporates there could be no more structures and no more work could be done.
+According to the Poincaré recurrence theorem for a closed universe there could be a reversal of entropy in long-term periods. However in a flat universe with an accelerated expansion it is not so clear that this theorem holds.
+However, are there any other mechanisms through which entropy could be ever reversed eventually after reaching heat death? Perhaps something related with quantum fluctuations?

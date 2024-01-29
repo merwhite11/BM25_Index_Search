@@ -1,0 +1,4 @@
+What 1° x 1° region is the optically darkest patch in the sky?
+
+What 1° x 1° region of the night sky has the lowest flux of light?
+(considering the typical visual/luminance filter range, approximations using other filters/bands are acceptable, but should be in the optical)

@@ -1,0 +1,4 @@
+Source of mirror reflectivity data
+
+I am trying to find a source of mirror reflectivity versus wavelength for the typical protected overcoat Aluminum mirrors used in astronomy. I need this to cover the whole visible range (300-1200nm) and ideally machine-readable. I've only been able to find part coverage of the wavelength range or single spot measurements at a specific wavelength. 
+The best I've managed is this page at Edmund Optics which has (small) plots but no table or downloadable file.

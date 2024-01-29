@@ -1,0 +1,23 @@
+How to calculate moon overhead and underfoot time?
+
+For hunting purposes, some hunters follow the moon phases to hunt accordingly. To give some context, here's some links:
+
+Lunar cycle's effects on hunting: https://www.acurite.com/blog/weather-stations-with-moon-phase-for-hunting-fishing
+Solunar theory: https://en.wikipedia.org/wiki/Solunar_theory
+
+I would like to know how to calculate the time when the moon is directly overhead in the sky (moon overhead) and when the moon is directly underfoot in the opposite side of the earth's sky (moon underfoot). Those are the information that I have:
+
+Moon rise time
+Moon set time
+Moon phase (first, full, last, new)
+
+Those information come from AccuWeather API: https://apidev.accuweather.com/developers/astronomyAPIGuide#MoonPhasesRange. There are some other APIs that give the moon phase in degree format or between 0 and 1 but we chose AccuWeather. 
+I tried to calculate this with only the moon rise and set time. I thought that simply calculating halfway between rise and set time will suffice. However, I didn't always get the same results as the moon overhead and underfoot in this website: http://www.solunarforecast.com/solunarcalendar.aspx
+Is there a formula to get the time of moon overhead and underfoot with the information that I have?
+UPDATE
+I used the definition
+
+when the moon is directly overhead in the sky
+
+because that is what I found from my research. However, it's seems the correct definition is when the moon is at highest point in the sky.
+Also, since it's for hunting purposes, I don't need the time to be accurate to the minute (but that could be nice).

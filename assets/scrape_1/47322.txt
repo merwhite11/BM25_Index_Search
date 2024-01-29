@@ -1,0 +1,65 @@
+What happened to the predicted geomagnetic storm on 2021-10-31?
+
+There was widespread media coverage in advance of of a predicted G3 storm on 2021-10-31 due to a CME. For instance, https://www.npr.org/2021/10/30/1050810514/northern-lights-halloween-2021:
+
+A solar flare erupted on Thursday morning and is expected to reach Earth on Saturday. NOAA's Space Weather prediction center in Boulder, Colo., announced the possibility of increased visibility of the lights on Thursday when it issued a G3 geomagnetic storm watch for the weekend.
+
+However, this storm never materialized.
+The prediction from SWPC directly was as follows (available at ftp://ftp.swpc.noaa.gov/pub/forecasts/three_day/10310030three_day_forecast.txt):
+:Product: 10310030three_day_forecast.txt
+:Issued: 2021 Oct 31 0030 UTC
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+#
+A. NOAA Geomagnetic Activity Observation and Forecast
+
+The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Oct 31-Nov 02 2021 is 7 (NOAA Scale
+G3).
+
+NOAA Kp index breakdown Oct 31-Nov 02 2021
+
+            Oct 31     Nov 01     Nov 02
+00-03UT        5 (G1)     4          3
+03-06UT        5 (G1)     5 (G1)     3
+06-09UT        6 (G2)     4          2
+09-12UT        7 (G3)     3          2
+12-15UT        6 (G2)     3          1
+15-18UT        5 (G1)     2          1
+18-21UT        5 (G1)     2          1
+21-00UT        4          3          2
+
+Rationale: G1-G3 (Minor-Strong) geomagnetic storm conditions are likely
+on 31 Oct due to the anticipated arrival of a CME from 28 Oct. G1
+(Minor) storming is likely on 01 Nov as conditions persist.
+
+B. NOAA Solar Radiation Activity Observation and Forecast
+
+Solar radiation, as observed by NOAA GOES-16 over the past 24 hours, was
+above S-scale storm level thresholds.
+
+Solar Radiation Storm Forecast for Oct 31-Nov 02 2021
+
+              Oct 31  Nov 01  Nov 02
+S1 or greater   99%      5%      5%
+
+Rationale: S1 (Minor) solar radiation storm  conditions are expected to
+persist on 31 Oct.
+
+C. NOAA Radio Blackout Activity and Forecast
+
+No radio blackouts were observed over the past 24 hours.
+
+Radio Blackout Forecast for Oct 31-Nov 02 2021
+
+              Oct 31        Nov 01        Nov 02
+R1-R2           35%           35%           35%
+R3 or greater    5%            5%            5%
+
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+on 31 Oct - 02 Nov due to the flare potential of Regions 2887 and 2891.
+
+The actual levels over time are shown in this picture, taken from NOAA as well:
+
+
+My question is, what happened? Did the CME miss the Earth? Or is there another explanation for the large difference between the prediction and reality?

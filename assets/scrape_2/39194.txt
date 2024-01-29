@@ -1,0 +1,8 @@
+The Jupiter Effect Book
+
+This evening I have been thinking about the anxiety caused in 1982 by predictions in John Gribbin and Stephen Plagemann 1974 book The Jupiter Effect.
+I was a teenager in 1982. The planets aligning somewhat together on one side of the Sun did not cause any problems on Earth.
+I am curious to know how frequently the same 5 planetary positions recur, say Mercury in Aries, Venus in Scorpio etc., when we restrict ourselves to the 5 naked eye planets.  (By the way, I do not believe in astrology; I am just trying to find the date of an ancient text that quotes planetary positions).
+Say, if the orbital periods of Mercury, Venus, Mars, Jupiter and Saturn are 1/4, 2/3, 2, 12 and 30 years, then the least common multiple (LCM) is 60 years.  So, the same planetary positions will repeat every 60 years.  Is my logic correct, though my orbital periods are not exact?  I know very well that the 5 visible planets do not have the resonant orbital periods that I have mentioned above, so I am sure that the same planetary positions do not recur every 60 years.  If I used the correct orbital periods, will I get the correct answer to my question, whatever the correct answer may be?  The above Wikipedia article says that the 1982-type planetary alignment occured in 1128 AD. One of the article's references says that all planets more or less line up behind each other on the same sector of the sky once every 500 years.
+Thus, my real question is: Is there a simple method to calculate (without using astronomy software) how frequently the same combination of planetary positions recur?
+The method does not have to be too accurate.

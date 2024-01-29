@@ -1,0 +1,12 @@
+An image for the unified model of AGN
+
+In a paper I'm writing, I've referenced an image I got from the NASA site at https://fermi.gsfc.nasa.gov/science/eteu/agn/ regarding the Unified Model of AGN. I captioned it
+The AGN unified model, showing the BLR and NLR, as well as different types
+based on the observational angle. Credit: Fermi and NASA: 
+https://fermi.gsfc.nasa.gov/science/eteu/agn/
+
+but my supervisor said that I should use proper referencing (I see that the image seems to be derived from this paper). The image from the NASA site is much clearer and easier to understand, and I'd much rather use it for clarity's sake.
+What's the proper way to reference an image like this, which is derived from a paper?
+Maybe I should just use the original image?
+Or does anyone know of a better quality one from another paper, similar to the one from the NASA site?
+EDIT: I should mention that this is a follow-up question to one I posted here.

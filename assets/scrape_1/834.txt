@@ -1,0 +1,6 @@
+Changes to Earth's orbit
+
+Any time a spacecraft comes in close proximity to a planet and if the spacecraft has the right angle then it is able to use the planet's velocity to move itself further into space.
+According to Newton's 3rd law: every action has an equal reaction.
+In this case when the spacecraft uses for example the Earth's gravity to speed up, Earth will move towards the spacecraft. Earth's orbital change will be very small because the spacecraft's mass is small compared to Earth's mass but what if a big asteroid comes in close proximity or what if we use Earth's gravity to catapult our spacecrafts and keep doing it for an extended period of time.
+What could happen in this case? Could that have a dramatic impact to Earth's orbit?

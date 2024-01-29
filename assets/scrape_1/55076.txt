@@ -1,0 +1,7 @@
+How bright would an object need to be in order to block out stars at night?
+
+I am wondering just how bright a star or other object would have to be before it starts blocking out the night sky. I'm looking for an answer in apparent magnitude.
+I'll note the Full Moon gets to magnitude -12.74 but doesn't come close to causing a blue sky like you see right before dawn.
+The Sun has magnitude -26.74.
+I also tried to gather info from other planets. Wikipedia has an article on extraterrestrial skies. There is an article on the martian sky too and I noticed the martian day has an illuminated sky with no stars, but unfortunately this is not relevant to me because I'm only considering the Earth's atmosphere. Mars' atmosphere is too different.
+I also noticed this question and answer. It's really great info, but still missing a few key numbers needed to use the equations. For example, what is the sky's luminance (in mag/arcmin^2) when the sun is directly overhead, when the sun is at x angle, and ideally for any magnitude object at any angle.

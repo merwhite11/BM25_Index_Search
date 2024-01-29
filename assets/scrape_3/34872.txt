@@ -1,0 +1,31 @@
+How do radio astronomers avoid having their receivers burned out by ground-imaging radar from satellites?
+
+After about 34:00 in the 9th press conference of AAS 235, radio astronomer and NRAO's spectrum manager Harvey Liszt talks about Radio Astronomy in a New Era of Radio Communication and says:
+
+This is a new development that we’re going to have to come to grips with. There is a band allocated between 9.2 and 10.4 GHz (this is roughly an order of magnitude lower than you saw for CloutSat) and these are being developed commercially now, and if you look on the right you’ll see ICEYE. ICEYE’s slogan is “Every square meter, Every hour”.
+A synthetic aperture radar like this, if pointed at a radio telescope when the telescope is pointed in its direction will burn out the radio astronomy receiver.
+As a matter of fact, some of these radars are so strong that even the ground scatter (the albedo of the ground is about 10%) and even the backscatter from radar will burn out a radio astronomy receiver.
+
+From The BBC's SpaceX Starlink mega-constellation: 'Limited time' to fix brightness issue
+
+One of the radar constellation companies named by Dr Liszt as posing a potential problem is Finland's Iceye.
+The firm's CEO, Rafal Modrzewski, said his team took its responsibilities seriously, and that it continued to investigate any potential risks Iceye's technology might pose to the global space community, both in orbit and on the ground.
+"Most importantly in this topic, Iceye complies with international regulation regarding our allocated bands," he told BBC News.
+"Mitigating any potential or perceived risks to sensors on ground can additionally be done proactively by tracking applicable SAR satellite orbits to avoid clashes with instrumentation, and in the case of Iceye, by also working with us if there are any remaining concerns."
+
+See also the the discussion of the impact on radio astronomy in The BBC's Capella Space radar company chases persistent vision
+
+At the recent American Astronomical Society meeting in Hawaii, Dr Harvey Liszt from the US National Radio Astronomy Observatory raised the concern that powerful radar pulses from orbit could damage the radio receivers that scientists employ in their ground observatories.
+(Capella's CEO) Payam Banazadeh told me Capella was taking this matter very seriously and was keen to co-ordinate his company's activities with the AAS.
+"We have also been in contact with Dr Liszt and are actively working to safeguard their mission when operating our SAR constellation.
+"Whether it is observing Earth or deep space, Capella believes in exploration and scientific discovery. We also believe in and support protecting the mission of the radio astronomy community."
+
+
+
+Question: How do radio astronomers avoid having their receivers burned out by ground-imaging radar from satellites?
+
+Do they keep track of known satellites and "avert their eyes" by steering dishes away from expected trajectories?
+Is this planned during a scheduling phase or during an observation?
+Would this kind of interruption and movement be detrimental to the quality of data for a long observation?
+
+Video: AAS 235 Press Conference: Astronomy Confronts Satellite Constellations

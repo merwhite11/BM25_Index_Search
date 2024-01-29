@@ -1,0 +1,6 @@
+How long do hot X-ray sources last?
+
+Some X-ray sources in nebulae are caused by hot materials in the millions of degrees that formed in supernovae. What's the cooling rate of this stuff? How long does it stay this hot?
+If we would take our solar system for example, the time from the formation of the nebula (by a supernova?) until it was cool enough to form solid planet was only a few million years. That's very quick, for instance relative to the age of the Earth. How ephemeral are these X-ray sources? I would expect them to not last as long as IR sources.
+Is there an order of magnitude for the lifetime of the emission? Does it take millions of years? Tens of millions? Tens of thousands of years?
+A comment suggests it doesn't really cool down, but diffuse to the interstellar medium. How long does it take for it to diffuse until there isn't a clear X-ray source?

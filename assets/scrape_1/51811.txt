@@ -1,0 +1,13 @@
+Stellar classification spectral lines: chemical abundance vs temperature
+
+I'm an amateur who watched the Cosmos episode on Cecilia Payne's contributions to stellar classification, which I liked. I've been going down a rabbit hole on this and and I have a question for clarification.
+In the episode it says (unless I'm misunderstanding) that prior to her PhD thesis, astronomers thought that stars' spectral lines were due to their elemental composition, but that she showed that they were instead due to the ionization state of elements in the stars, which is ultimately due to temperature.
+I'm a bit confused though because if you look at the Wikipedia article on stellar classification it says,
+
+Each line indicates a particular chemical element or molecule, with
+the line strength indicating the abundance of that element. The
+strengths of the different spectral lines vary mainly due to the
+temperature of the photosphere, although in some cases there are true
+abundance differences.
+
+To me, it seems like those two sentences contradict each other. The first seems to say that the line placements are due to the type of element and the line strength is due to its abundance. However the second sentence then says that the line strength is due to temperature (which Payne has connected to ionization state). How can this apparent contradiction be resolved? Are there some lines that we might attribute to chemical type/abundance and others that we might attribute to ionization state/temperature?

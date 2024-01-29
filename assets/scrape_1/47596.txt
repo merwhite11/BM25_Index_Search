@@ -1,0 +1,6 @@
+How to choose numeric precision when creating a file with STILTS?
+
+I am using the STILTS command-line tools, popular in astronomical data processing, to merge many (~330k) .fits astronomic tables into 1 large table. I am doing this with the STILTS command in the terminal
+stilts tcat in=@filenames.txt out=table_stilts.fits icmd='keepcols "FLUX LOGLAM"'
+
+Since the number of tables I am trying to merge is so large saving space on disk is very important and I would like to limit the precision of the columns FLUX and LOGLAM from above to 4 decimal points. It seems that STILTS has no explicit command for that, but maybe it accepts some terminal command for that, that you can share with me? In case it matters my OS is Ubuntu 20.01. Thanks for suggestions and comments!

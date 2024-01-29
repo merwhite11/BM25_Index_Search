@@ -1,0 +1,13 @@
+Is it "nonsense to even talk about" objects outside the observable universe not having gravitational influence on us? (finite speed of gravity)
+
+In this supplemental answer to Is the zero gravity experienced in ISS the “artificial” kind? in Space Exploration SE I said:
+
+
+Gravity moves at the speed of light so nothing outside out observable universe pulls on us.
+
+
+After a series of comments below it this was said:
+
+There are endless discussions all over the net about it. Usually they ask: if the earth was attracted to the retarded location of the sun it would it not slow down very quickly? And the answer is yet it would, but the scalar potential is instantaneous, see here https://math.ucr.edu/home/baez/physics/Relativity/GR/grav_speed.html About objects outside the observable universe, it is nonsense to even talk about it: thats not the way GR works.
+
+Question: Focusing on the last sentence; is it really "nonsense to even talk about" objects currently outside the observable universe but may become visible in the future not having any gravitational influence on us because gravity travels at the speed of light, or is this a useful concept even if perhaps an inexact expression when GR is embraced?

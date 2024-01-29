@@ -1,0 +1,4 @@
+Are there real uses of abstract algebra in astrophysics?
+
+It is known that a physicist must have, at least in general, a good level in mathematics in order to research and understand other people's works. Linear algebra is a good example, as ODEs and calculus.
+I suppose that some astrophysicists have deep knowledge of abstract mathematics and there are some applications of it (for example, I've been told that there is a connection between topology and cosmology). I wondered if there are some field in Astrophysics in which abstract algebra (i.e. fields, rings, category theory...) has been applied.

@@ -1,0 +1,4 @@
+At what point are orbital resonances no longer "ordered" but "chaotic?"
+
+Orbital resonances are typically in small valued integer ratios, like 2:1, 3:2, or 4:7. However, there are some resonances whose ratios have large reduced values, including the 73:69 Naiad:Thalassa resonance. So I am wondering, at what point is a resonance "no longer" one?
+By that I mean when the ratios have such large terms (but nearly exact) that it is no longer considered a resonance (for example 581:137), or will this just be reduced to a simpler but less accurate resonance (from 581:137 to 17:4 with an inaccuracy of 0.01)?

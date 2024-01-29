@@ -1,0 +1,5 @@
+How can I reconcile the JWST journey time of thirty days to Lagrange L2 with simple orbital mechanics?
+
+I am an electrical engineer and not an astrophysicist so excuse my simple question.
+NASA says that the journey time for the JWST to L2 will be about thirty days. However assuming the orbit dynamics can be computed using a simple two-body case then the period of any elliptical orbit enclosing a distance of approximately one and a half million kilometres is about seventy-six days. This gives a one-way journey time to L2 from Earth of about thirty-eight days.
+If all single orbits enclosing that distance must have the same period how is NASA achieving it in only thirty days? Is this where multiple orbits come into play or is the difference due to the problem being more complicated than a two-body one and the Sun and rotating frames have to be accounted for, or perhaps both?

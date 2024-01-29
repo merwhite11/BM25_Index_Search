@@ -1,0 +1,15 @@
+Find constellation over Earth coordinates on a specific date-time
+
+I would like some help in finding the exact constellations, or some sort of visualization of the stars over an specific location an time. The idea is to find out the closest star or group of stars on the vertical of that position in that exact moment.
+I'm also aware than "vertical" can have some different interpretations, but a nice approximation should be good enough.
+I'm not an expert in physics nor astronomy, but I think providing the coordinates and the date/time should be enough for an approximation.
+According to google maps, the coordinates are:
+39.467062 -0.377381
+No idea what format that is, I'm familiarized with degree/minutes/seconds but I don't know exactly how to translate those. The time would be: 
+
+March 25, 2015, 09:40 (Spain)
+
+, which would be 08:40 in UTC, correct me if I'm wrong.
+Any help would be appreciated, if you can't provide a direct answer, at least point me to some website form or program (Linux preferably) I can use to find this out.
+In case someone is wandering, this involves a girl and a tattoo, so please bear in mind this is something I'm going to be carrying for the rest of my life :)
+Thanks!

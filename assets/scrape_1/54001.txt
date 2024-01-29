@@ -1,0 +1,5 @@
+How do I calculate the positions of an artificial satellite for a decade?
+
+We are trying to solve what I think should be a simple question: suppose there is a satellite that is launched into a certain orbit, where will it be as a function of time? Let's say we know that it is in a circular orbit with radius R, and the orbital parameters at time T=T0. Now we want to calculate it's position as a function of time for many years - say a decade.
+We looked at multiple options like PyEphem and SkyField, but they cannot propagate orbits for such long durations. Using TLEs is worse: it works for just a few weeks, not more.
+I understand that there are complex interactions with the atmosphere that are very hard to model and propagate, but we don't care about them. We are okay with any approximations. Any pointers to any codes that do this? We could write our own, but I am hoping solutions exist already!

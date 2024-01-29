@@ -1,0 +1,7 @@
+What happened to the reemitted photons during recombination?
+
+To my understanding, the Cosmic Microwave Background Radiation (CMBR) is light released during the recombination epoch where the formation of neutral hydrogen atoms allowed for a sudden drop in the universe's free electron density, hence allowing for light to travel long distances undisturbed by Compton scattering for the first time. This light has been travelling throughout the transparent universe since recombination, and after redshifting, is exactly the CMBR we observe.
+The source of the photons in the first place, as far as I know, is thermal radiation of the particles in the universe during the time of recombination. This is caused by the microscopic oscillations of matter particles, and should produce a continuous blackbody spectrum consistent with Planck's Law. Indeed, this is what we observe the CMBR to be like.
+However, during recombination of hydrogen atoms (and I guess the heavier elements too), photons were emitted as atoms which formed in excited state quickly transitioned to the more energetically favourable ground state. I would have expected that this would contribute emission lines corresponding especially to the spectral lines of hydrogen. This is not what we observe and the CMBR almost perfectly follows an ideal blackbody curve.
+
+Q. What happened to these photons reemitted by hydrogen during recombination?

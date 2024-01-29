@@ -1,0 +1,6 @@
+When did "resilvering" large telescope mirrors actually refer to aluminization, and why was it necessary?
+
+This answer nicely summarizes the general picture of historical use of silver for mid to large size telescope mirrors, and the shift to aluminum once good quality vacuum pumps and chambers suitable for this process were available. A freshly evaporated, atomically clean aluminum surface will can sometimes violently react with oxygen, so this has to be done under high vacuum, and vented carefully with inert gas first.
+When did the term "resilvering" generally start to actually refer to aluminum coating, and not silver? Was that actually the case by the 1960's or 1970's? 
+From what I remember, evaporated aluminum will form a protective oxide layer ("native oxide") of the order of 10A thick within seconds or minutes that is self limiting - no further oxygen can penetrate this layer. 
+If this is so, why was re-silvering actually necessary? The cost, risk, and downtime associated with removing the primary and other mirrors every few years sounds like something you wouldn't do unless absolutely necessary.

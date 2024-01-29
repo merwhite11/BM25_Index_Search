@@ -1,0 +1,3 @@
+By convention, when observing an exoplanet, is the observer's line of sight (on Earth) perpendicular to the plane of sky?
+
+This is just a quick question. In this picture of the orbit of an exoplanet, is the observer's line of sight perpendicular to the plane of reference, which is in the +z direction on the diagram? In the case when the inclination equals to $90^{\circ}$, it is ideal for us to measure the radial velocity. Is that right?

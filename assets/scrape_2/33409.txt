@@ -1,0 +1,4 @@
+How to convert $K_S$ magnitude to $M_K$
+
+My question is how do I convert a magnitude $K_S$, from a system like 2MASS, to $M_K$, and what are the differences. A use of this $M_K$ can be seen on Delfosse et al. (2000) in the $\log(M/M\odot) - M_K$ can be found. In the end I want to be able to use a $K_S$, and other possible parameters to derive the mass of the star.
+Delfosse et al. (2000) - Delfosse, X., Forveille, T., Ségransan, D., et al. 2000, A&A, 364, 217

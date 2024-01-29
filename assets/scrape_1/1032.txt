@@ -1,0 +1,20 @@
+What is the maximum transmission distance of the radio signal in the outer space which could still be understood?
+
+I’ll put this question in a form of a physics problem:
+Transmitter at a point A sends a signal to a receiver at a point B. What is the longest distance in light years from points A to B for which receiver can still understand the signal?
+Given:
+
+Signal type: electromagnetic wave.
+Signal frequency: frequency for which signal fades the least - probably radio.
+Signal form:
+
+Variant 1: beam of highest concentration possible.
+Variant 2: full sphere.
+
+Transmitter power: power of the most powerful transmitter known to be built in the Earth.
+Receiver: sensitivity of the most sensitive receiver known to be built in the Earth.
+Transmission medium: interstellar space.
+Understanding of a signal:
+
+Variant A: Can detect that the signal is not a noise.
+Variant B: Can decode the information in the signal.

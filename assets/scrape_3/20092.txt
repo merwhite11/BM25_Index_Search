@@ -1,0 +1,8 @@
+Determine sun azimuth and elevation for shading a window throughout the year
+
+I was wondering how I could get the sun's azimuth and elevation values to shade a particular window with a roller shutter.
+At first I thought azimuth is good enough; of course, it wasn't, as I found out in practice.
+While there are calculators to find a and e for a specific location at a certain date, I lack the maths to figure out when the sun will hit a western window.
+The window faces 270 deg, I know how far the eaves stick out, and the top and bottom edges of the window (and of course location).
+I get the idea the maths will be complicated... however, (it won't matter much) as I want to program this into a controller to operate the shutter.
+Any hints appreciated.

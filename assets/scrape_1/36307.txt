@@ -1,0 +1,3 @@
+Is gravitational wave frequency always equal to double the orbital frequency?
+
+If the binary does not evolve into merger stage (i.e.: it is still a steady binary), does the gravitational wave frequency have to be 2*orbital frequency? Could the frequency be, for instance, 2/3*orbital frequency and steady, rather than a chirp? And if not, could the frequency 2/3*orbital frequency be the result of interactions with other waves of this binary? The frequency range is about several milihertz, low frequency.

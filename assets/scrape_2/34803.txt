@@ -1,0 +1,9 @@
+how to plot sky map like www.nakedeyeplanet.com with dates tags with planetary motion path
+
+I am curious how to plot planetary motion star chart with date tags like on www.nakedeyeplanets.com by Martin J. Powell. 
+Is there any way to generate images similar like that. What software should be used MATLAB or what. 
+Also should have following features:
+ - constellation boundaries 
+ - non-overlapping naming of star,constellation
+ - different color for planet path for each year
+Example, click for full size:

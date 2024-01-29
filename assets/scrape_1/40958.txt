@@ -1,0 +1,4 @@
+How reliable is it to use globular cluster lumniosity function as a distance indicator?
+
+I have seen many research suggesting that GCLF can be used as a secondary distance indicator for extragalactic objects. However, this method seems to be only reliable when the GCs in use come from say, a single galaxy, and it can be used as a secondary distance indicator for the home galaxy.
+My question right now is that I have large all sky survey data with extracted potential GCs candidates ranging from 1 to 20 Mpc. These can be considered as "rogue" GCs that do not necessarily belong to any galaxy. Can the GCLF be used to obtain at least some very crude estimates of the distance of individual GC? What I mean by that is we will obtain some probability distribution of the distance through GCLF and how reliable is the distance information provided by the previously obtained distribution? Thank you!

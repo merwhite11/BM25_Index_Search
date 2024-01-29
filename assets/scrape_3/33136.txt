@@ -1,0 +1,5 @@
+Maxwell stress contribution to $\nabla \cdot \mathbf{P}$ in the Navier-Stokes equation for fluid in stars
+
+I was reading through the following extract outlining how the Maxwell stress contributes to the $\nabla \cdot \mathbf{P}$ term of the Navier-Stokes equation for fluids in a star. Here $\mathbf{P}$ is a general symmetric stress tensor. 
+
+I am struggling to see how the estimate $\vert \nabla\cdot \mathbf{P}\vert/\rho \approx 3\times 10^{-3}$ ms$^{-2}$ was derived using the information given in the passage. Can someone please provide a quick derivation of this result?

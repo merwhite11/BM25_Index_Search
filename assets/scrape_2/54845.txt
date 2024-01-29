@@ -1,0 +1,8 @@
+Formation of spacecraft instrumentation
+
+List of spacecraft instruments are selected to meet a mission's science goals.
+
+Let's take New Horizons as an example and study the composition of Pluto's atmosphere, the shape and geological structures of the surface, and the particles interacting with the atmosphere From here.
+
+In this case, we will need: several types of spectrometers, a radiometer, photo and video cameras, a particle recorder and a soil sample collector.
+When the list of what we need is ready, what do we do next? Do we “go, select and buy” ready-made devices with suitable characteristics or design/develop/create the necessary tools from scratch? And is it possible for the device to be used in a situation that was not previously foreseen (for example, when it is necessary to study CMB, but there are no direct instruments for this on board)?

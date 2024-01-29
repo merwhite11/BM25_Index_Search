@@ -1,0 +1,6 @@
+What is a 'square' Kelvin degree? μ$K^2$? In terms of the cosmic microwave background's (CMB's) temperature fluctuations?
+
+From what I have read and seen, the minute temperature fluctuations in the CMB are measured in microKelvin, or μK.
+However, many charts and graphs show μK2, or 'microKelvin-squared'.
+Do they simply mean 'square degrees', as in the 41,252.96° in a sphere?
+An example is seen in this WMAP power spectrum:

@@ -1,0 +1,3 @@
+In 2016, the summer solstice will coincide with a full moon. How often does this happen?
+
+I found that the solstices work on a 400 year cycle based on this. I can't find anything similar for the lunar cycle. Is there a formula I can use to calculate the date of the full moon?

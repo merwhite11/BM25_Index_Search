@@ -1,0 +1,16 @@
+Software to convert RA and DEC into ALT and AZ
+
+I have implemented the formulas to convert AR and Dec into altitude and Azimuth in C++ following the book Practical Astronomy with your Calculator or Spreadsheet 4th Edition.
+In the book there is an example to check if I have do it fine. This example works perfectly but I want to check if my formulas are correct.
+I have use this page to check it but I get different minutes values in both altitude and azimuth values.
+I have checked on that page that I get the same LST value, but ALT and AZ have different values. This data I have tested:
+Altitude: -15° 27' 40"
+Azimuth:  273° 12' 34"
+
+This is the data get it from that page:
+
+Do you know if there is another web page or program to check if the result of my formulas are correct?
+UPDATE:
+I have tried to get Azimuth and Altitude using a date in year 2000 in web page and my program and this is the result (you can find my program's result at the bottom of the image):
+
+Is this the same problem like the previous one (I'm not taking account for precession)?

@@ -1,0 +1,8 @@
+What is the probability of having a solar eclipse on a planet?
+
+If we go by our planets 5/8 of our planets have solar eclipses.
+What is the probability of a planet having a solar eclipse based off other simulations?
+Is there a more accurate way to calculate the probability of a solar eclipse than taking the averages of our current planets statistics?  Related: What is the formula to predict lunar and solar eclipses accurately?
+(4/79+7/62+12/27+6/6+0)/5
+
+32.15%

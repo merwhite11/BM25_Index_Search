@@ -1,0 +1,10 @@
+Do moons of rocky oblate planets migrate to low inclination over time? If so, does the time it takes depend on the Moon's size?
+
+Discussions elsewhere suggest that this happens and that smaller moons would tend to low inclination with respect to the planet's equator faster than larger ones.
+For example, Mars' small moons are inclined only by 1° or so while Earth's moon's inclination varies between 23-5° and 23+5° with an 18.6 year period.
+But this is not a good example because the origin and history of these moons is very different.
+Question: So if we had two Earths around two Suns at 1 AU each, and each had a rocky moon like our own inclined at say 10° with respect to the Earth's oblate equator at the same distances except that one moon was big and one was small:
+
+Would they migrate to low inclination over time?
+If so, does the time it takes depend on the Moon's size?
+If so, which would tend to migrate to low inclination faster?

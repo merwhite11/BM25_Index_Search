@@ -1,0 +1,8 @@
+What is the physics of a gas mass subject to gravity in space?
+
+There are many formulas for atmospheric pressure on earth, but how does gas behave in free space?
+I am thinking about why stars form. I am guessing that the gas density will influence pressure, as well as gravitational force. So both factors must determine if a given gas mass in a given volume in space will collapse into a star.
+So a more well defined question would be: what is the relation between mass and volume in space (let's think about hydrogen only) so that this mass will collapse into a star (or at least forms a spherical body)?
+A second question is: given a mass and volume so that the gas collapses into a spherical body, what is the pressure vs. distance from the center of the sphere?
+Quite interesting I think!
+Any ideas?

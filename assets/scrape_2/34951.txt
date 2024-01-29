@@ -1,0 +1,58 @@
+Can the gravitational potential in a spiral galaxy be positive?
+
+Thinking about this question I wanted to start with a rough model of the average gravitational potential of the Milky way. I ran across D. P. Cox and G. C. Gomez 2002 Analytical Expressions for Spiral Arm Gravitational Potential and Density which I think I can understand at least enough to script it. They started with an analytical density distribution and approximated its potential with an analytical form, later they solved for the exact density which generates it, but I am not using that.
+I calculated the first example discussed in Section 4 and at least at first glance it seems to agree with their figures. At large distances the potential tends to zero which is good, but the modulation is both positive and negative! This is true both from my script and in their figures.
+Without a repulsive force, I don't think the potential can be positive. What am I missing?
+Note 1: I've plotted for $z=0$
+Note 2: I'm using kg meters and seconds for units, so the plotted potential is in m^2/s^2.
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+def PHI(r, phi, z):
+    term_1 = -4 * pi * G * H * rho_0
+    term_2 = np.exp(-(r-r_0)/Rs)
+    gamma  = N * (phi - phi_0 - np.log(r/r_0)/np.tan(alpha))
+    K      = n * N / (r * np.sin(alpha))
+    KH     = K * H
+    beta   = KH * (1 + 0.4*KH)
+    D      = (1 + KH + 0.3*KH**2) / (1 + 0.3*KH)
+    term_3 = ((C/(K*D)) * np.cos(n*gamma)) * (np.cosh(K*z/beta))**-beta # sech is just 1/cosh
+
+    return term_1 * term_2 * (term_3.sum(axis=0)) # sum over n
+
+G      = 6.67430E-11 # m^3 / kg s^2
+parsec = 3.0857E+16 # meters
+mH     = 1.007825 * 1.660539E-27 # kg
+pi     = np.pi
+
+N     = 2                        # number of arms
+alpha = 15 * pi/180.          # pitch angle
+Rs    = 7000 * parsec            # radial dropoff
+rho_0 = 1E+06 * (14./11) * mH    # midplane arm density 
+r_0   = 8000 * parsec            # at fiducial radius
+H     = 180 * parsec             # scale height of perturbation
+
+C = np.array([8/(3*pi), 0.5, 8/(15*pi)])[:, None, None]
+n = np.array([1, 2, 3])[:, None, None]
+
+# plot it
+hw = 30000 * parsec
+x = np.linspace(-hw, hw, 200)
+X, Y = np.meshgrid(x, x)
+r = np.sqrt(X**2 + Y**2)
+phi = np.arctan2(Y, X)
+z = 0.
+
+phi_0 = 0.
+
+potential = PHI(r, phi, z)
+
+if True:
+    plt.figure()
+    plt.imshow(potential)
+    plt.colorbar()
+    plt.gca().axes.xaxis.set_ticklabels([])
+    plt.gca().axes.yaxis.set_ticklabels([])
+    plt.title('+/- 30 kpc')
+    plt.show()

@@ -1,0 +1,6 @@
+Why is solar corona in visible light filamentary?
+
+There is a video on YouTube (unfortunately in Czech) where Miloslav Druckmüller talks about structure of the solar corona in visible light. He explains that the filaments, clearly visible on his photographs, delineate magnetic field lines - the light coming from photosphere is scattered by free electrons which move along magnetic field lines.
+
+What I don't understand (and he doesn't explain) how this explains the filamentary structure.
+Why is the scattered light visible only along some field lines and not in between them?

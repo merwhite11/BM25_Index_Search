@@ -1,0 +1,4 @@
+Why can't I use automatic photometry on IRIS?
+
+I'm trying to do photometry on my stacked images of the night sky, but when I use the program IRIS and try to do automatic photometry, it always says it's a wrong image number and in every example of photometry the numbers have only 3 digits while my numbers are always 4 digits.
+I've selected 3 objects that have the coordinates (360,3377) (591,2197) and (746,3437). The input generic name is the name of the folder with the pictures (FITS). I've also selected the aperture photometry option with the radius 8, 12 and 20. The coordinates VX and VY are both 0. The boxes "no matching" and "magnitude output" are selected. When I try to process it the program tells me "incorrect image number".

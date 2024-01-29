@@ -1,0 +1,4 @@
+What is the probability of seeing a neutron star as a pulsar?
+
+Pulsars are neutron stars that emit a beam of electromagnetic radiation that is not aligned with its rotation axis. If the Earth passes through that beam of radiation, we see a pulsar. Pulsars are only observable if the beam crosses the observer's line of sight. Otherwise, we can only see a regular neutron star. 
+For a pulsar with random orientations, what is the probability of seeing its beam from Earth? Out of 100 pulsars, how many will have a beam that crosses the Earth?

@@ -1,0 +1,7 @@
+Why does the Solar Wind consist of charged particles?
+
+The Wikipedia article on Solar Wind gives the following explanation:
+
+The solar wind is a stream of charged particles released from the upper atmosphere of the Sun, called the corona. This plasma mostly consists of electrons, protons and alpha particles with kinetic energy between 0.5 and 10 keV.
+
+If the solar wind consists of both electrons and protons, why don't they combine and give Hydrogen or any other elements? Then, why would Solar Wind be charged? Is that because of the high kinetic energy of the ejected particles? If yes, let us consider a proton and an electon. They must be of almost the same energy if so there will be no relative kinetic energy, so I think they must combine in the same way as if they were at rest or in motion at small velocities.

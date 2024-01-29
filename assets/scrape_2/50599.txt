@@ -1,0 +1,3 @@
+How to find a direction given the sunset
+
+If one is situated at 50° latitude (meaning north hemisphere) and looks at sunset in the evening, by how many degrees you need to turn leftwards to find the meridian that goes through the point you are situated ? How about if you are situated at the north pole? I would like to look at this at some (any) time point of the year. I had troubles figuring out. I will appreciate your help. Thanks.

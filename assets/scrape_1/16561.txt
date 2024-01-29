@@ -1,0 +1,5 @@
+Can one calculate the size (i.e. the radius) of our universe?
+
+If one can estimate the mass of our universe, might one also calculate its ultimate size, (after it fully expands), based on the Schwarzschild formula for the radius of a black hole? Please note that this simple formula 
+$$R=\frac{2GM}{c^2}$$ 
+informs us that larger black holes are less dense. So, if it turns out that our universe is in fact a gigantic black hole, then one would expect it to be extremely low-density!

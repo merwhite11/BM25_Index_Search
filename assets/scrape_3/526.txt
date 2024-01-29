@@ -1,0 +1,3 @@
+What is the Neupert Effect?
+
+This effect is frequently discussed in the context of solar time series. In particular, it a relationship between soft x-ray (thermal emission) and hard x-ray (nonthermal emission) from the Sun.

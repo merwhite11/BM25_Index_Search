@@ -1,0 +1,3 @@
+.mt file convert to .fits/.ascii/.dat
+
+How to convert .mt file with a spectrum to a more convenient format, please? I am able to display that in fv: Fits Viewer, but I am lost in converting. Thank you

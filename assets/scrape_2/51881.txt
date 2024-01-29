@@ -1,0 +1,7 @@
+How does one estimate the mass of a galaxy using the Balmer break region?
+
+I am currently reading the recent astrophysical paper "A population of red massive galaxies ~600Myr after the Big Bang'.
+In the first paragraph/abstract it mentions, "It has been difficult to find massive galaxies at even earlier times, as the Balmer break region, which is needed for accurate mass estimates, is redshifted to wavelengths beyond 2.5 micrometers".
+As I am only just starting out developing my knowledge of galaxies etc. I was wondering if someone could detail how the Balmer break region is used to determine galaxy mass estimates (and perhaps the dependence on redshift i.e. what redshifts is this technique most feasible and why and also how using near-infrared data plays a role in this).
+I've tried to look into this and, correct me if I am wrong, but the Balmer break region is somewhat analogous to the Lyman break technique however, I can only find how this technique is used to measure the redshift of a galaxy via spectroscopy. I can't seem to find the relation or link to how we obtain a mass estimate from this.
+I would greatly appreciate any insight into this.

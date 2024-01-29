@@ -1,0 +1,6 @@
+Can astronomical radio sources be used as a verifiable randomness beacon?
+
+A randomness beacon is a source of random data that is broadcast to multiple parties. Users listening to the beacon receive the same sequence of random strings and no one can predict the values in advance. This is a construct that has many applications in cryptography and distributed communications. Such random sequences have been generated using atmospheric noise, quantum measurements, and financial data (*).
+Using astronomical radio sources (such as meteor bursts, solar noise, planetary observations, CMBR, etc.), is it possible for multiple independent observers spread around the globe, using relatively inexpensive equipment, to detect the same unpredictable cosmic signals, and agree on the time and properties of those signals (to within some margin of error)?
+If this were feasible, you could create a publicly-verifiable randomness beacon that didn't require trusting a central authority to generate the sequence in an unbiased way. Instead, observers can certify the random values independently using their own local measurements.
+(*) usenix dot org /legacy/events/evtwote10/tech/full_papers/Clark.pdf

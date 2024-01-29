@@ -1,0 +1,3 @@
+Magnitude difference between companion in binary from mass difference in binaries
+
+Is there any hypothesis on how to estimate the difference between visual magnitudes of binary components based on their masses? Thank you

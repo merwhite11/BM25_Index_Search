@@ -1,0 +1,5 @@
+Is there any way to find out what sky surveys are *currently active?*
+
+I've asked a question about active sky surveys that might intercept a 2% of 4π patch of sky in the next six months and potentially record this dim (+22 to +26 magnitude) object.
+I've added a bounty with about one more day on the grace period, the only thing helpful was a comment that suggested I ask for a "database of surveys".
+Are there any pages that list at least major active surveys? That would be a start at least.

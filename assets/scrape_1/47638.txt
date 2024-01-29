@@ -1,0 +1,5 @@
+Orbital mean motion expression derivation
+
+I'm reading an article about tidal forces, and the expression for the mean motion is given by:
+$$ n = \sqrt{ \frac{G(M + M^*)}{a^3}}$$
+Where $G$ is the gravitational constant, $M$ is the mass of the primary body, $M^*$ is the mass of the perturbing body, and $a$ is the semi-major axis. I know that Kepler laws were used to derive this equation, but I'm not sure exactly how and what are the underlying assumptions

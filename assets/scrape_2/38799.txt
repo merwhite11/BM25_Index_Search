@@ -1,0 +1,4 @@
+Must time pass more slowly, relative to our inertial reference frame, inside galaxies that are currently located at half way to the Hubble Horizon?
+
+Trying to understand simultaneity of events and time-dilation on a Universe scale, I would like to know must time pass more slowly, right now, relative to our current inertial reference frame, inside galaxies that are currently located at say "half way" to the Hubble Horizon because such galaxies are moving at around .5c? In this case no acceleration was experienced to generate the speed difference, just space expansion.
+I can't see how it could not be true, (I think the Lorentz transformation still hold) but I think if it is true it leads to problems.

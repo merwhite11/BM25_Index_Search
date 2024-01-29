@@ -1,0 +1,6 @@
+Why don't we find planetoids at L4/L5?
+
+We find small objects (asteroids and dust) in the stable Lagrange points (L4 and L5), but AFAIK no moons (by which I mean a mass that accreted into a body, as opposed to debris that has been captured but lacks sufficient gravity to accrete into a spherical body).  Is there something that prevents such a critical accretion-level mass from accumulating at L4 or L5?
+(I understand that L4 and L5 are stable only for mass small relative to the two objects they orbit.  But I assume that, for example, our gas giants could tow moons at L4/L5 with masses on the order of their conventional moons.)
+Edit: From the comments (What is the difference between a trojan asteroid and a "moon?") I see that my underlying question was lost in the definition of "moon."  What I meant when I said "moon" was "an object with sufficient mass for its self-gravity to overcome rigid body forces so that it assumes a hydrostatic equilibrium."  Maybe this is properly termed a "planetoid?"  (I have substituted that term in the title.)
+The reason I thought a planetoid at a Lagrange point would be called a "moon" is because its orbit is created by a planet significantly more massive than it.  But if the definition of "moon" requires that the object's orbit encircles its planet then I have (again) misused the term.

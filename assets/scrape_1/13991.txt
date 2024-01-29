@@ -1,0 +1,4 @@
+Fortran Fits writer/reader
+
+I recently inherited some Fortran 77 code that calls the IMFORT interface to write data out to an imh and pix files. I could not get this to compile on a modern compiler and it is not supported. So I decided to set off on writing a Fits writer in Fortran. I was able to make one but is ugly and does not properly handle the end card. I tried googling for a Fortran Fits writer but came up empty. Is there a library for astronomical Frotran codes that contains Fits writer exist out there.
+The code may be better suited for stack overflow, but this is specialized to astronomy since no other science seems to use fits, so I figured I would be better off starting here.

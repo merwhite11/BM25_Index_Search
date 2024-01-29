@@ -1,0 +1,5 @@
+R.A. and DEC. for Constellation area vertices
+
+I'm developing a planetarium software and I need the R.A. and DEC that represents every constellation area in the sky. I think I only need R.A. and DEC for each vertex.
+Where can I find it?
+I'm searching on Internet and I can't find it. Maybe because I'm not doing the right search.

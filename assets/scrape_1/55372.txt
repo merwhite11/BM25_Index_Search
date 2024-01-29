@@ -1,0 +1,7 @@
+Could double planets in red dwarfs water-habitable zones be stable?
+
+Red dwarfs are so dim that planets in the water habitable zone end up tidally locked to their star. Locking may good for habitability: among other advantages, no axial tilt means less swings of temperature.
+But humans live on Earth and naturally assume that tidal locking is bad. One solution is to posit a double planet: lock Earth 1.0 to Earth 2.0 instead of the star. This creates a stable if unusual day-night cycle.
+Make the day/month at least a few hours to avoid the planets tearing each other apart. But at most ~1/10 of the year to keep the star from destabilizing the orbit. This is generally possible, but for very dim stars such as Trappist it may be a tight squeeze.
+However, the star's tide still steals just as much angular momentum from the planets' rotation. The planets, maintaining the tidal lock with each other, replenish their angular momentum from their mutual orbit causing it to shrink. This actually speeds up their rotation.
+A double planet provides a much larger pool of angular momentum than a single planet. However, it is not infinite. Over 4.5 billion Earth years, would a double planet in a red dwarf habitable zone catastrophically merge? "Red dwarfs" cover a wide range, so is there an approximate "cutoff" brightness below which double planets at the Earth-insolation distance merge within 4.5 billion years?

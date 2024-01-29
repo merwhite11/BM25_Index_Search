@@ -1,0 +1,4 @@
+Is there a minimum distance between two black holes in a binary system beneath which it can't be observed as a binary?
+
+Suppose two black holes are observable by means of their lensing effect.
+If these holes are orbiting around each other, then is there a minimum distance from each other to be still observable as separate black holes? Has this distance to do with the background of stars, the image of which they deform by lensing? Is there a minimum distance at all?

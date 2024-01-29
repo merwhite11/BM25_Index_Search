@@ -1,0 +1,5 @@
+Does anyone know about the ring diagram technique and Helioseismic and Magnetic Imager pipeline?
+
+I'm working on the ring diagram technique and pipeline for the Solar Dynamics Observatory's Helioseismic and Magnetic Imager or HMI, but I didn't find much about the details about how it works or how to obtain the data.
+I know that all starts with measuring Dopplergrams and then doing something call Postel's projection, then the apodization, then the 3D Fourier transform to obtain the 3D power spectra where there are 2 forms of adjust to each ring separately (FITSC and FITSF, both done by the HMI's pipeline).
+I need more details about how all this process is done, does anyone know? Or could indicate me some references?

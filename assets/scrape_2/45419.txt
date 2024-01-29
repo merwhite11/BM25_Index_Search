@@ -1,0 +1,18 @@
+How was a rock on the surface of asteroid 101955 Bennu first observed from Earth (Benben Saxum)?
+
+Spaceref's NASA's "Tour of Asteroid Bennu" Selected for Prestigious Computer Graphics Film Festival says:
+
+It's hard to imagine what the surface of asteroid Bennu might look like - it's shortest distance from Earth still 250,000 miles away - but the video "Tour of Asteroid Bennu" brings us on a journey to see this landscape up close.
+On August 9 and 11, 2021, the video produced at NASA's Goddard Space Flight Center in Greenbelt, Maryland, will be featured in the SIGGRAPH Computer Animation Festival Electronic Theater - a high honor for those in the graphic visualization field.
+
+While the graphics are fantastic and the "tour of Bennu's rocks" is illuminating, the narration is... well... mostly serial mythology factoidisms.
+Nonetheless the serial factoids about various rocks on Bennu make it worth a listen.
+
+In the creation stories of ancient Egypt, the universe began as a formless, endless expanse of water. From this primordial sea arose the primordial mound: Benben.
+It was upon this rock that the god Atum settled, in the form of the Bennu bird, and sent forth the call that shaped creation.
+The story of Benben hearkens to the mounds of fertile silt that once emerged from the receding floodwaters of the Nile, and it provides a fitting namesake for the tallest boulder on Bennu.
+Protruding by over seventy feet, Benben Saxum is so tall that it was first detected from Earth. Now, we can appreciate this monumental feature in detail using data from OSIRIS-REx.
+
+Question: How was a rock Benben Saxum on the surface of asteroid 101955 Bennu first observed from Earth? What instrument and observational technique was used in this rock detection?
+
+IAU Gazetteer of Planetary Nomenclature: Benben Saxum

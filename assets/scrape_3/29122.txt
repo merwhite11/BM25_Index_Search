@@ -1,0 +1,3 @@
+If light has no mass, why is it affected by gravity?
+
+Light doesn’t accelerate in a gravitational field, which things with mass would do, because light has a universally constant velocity. Why is that exception?

@@ -1,0 +1,4 @@
+Why use a large separate starshade instead of an occulting disk?
+
+The New Worlds Mission proposal has a large occulter on a different spacecraft from the space telescope to block glare from a star to reveal its planets. What is its advantage compared to a disk on an arm such as on the Solar and Heliospheric Observatory (SOHO)?
+I can understand that on Earth, a coronagraph suffers from atmospheric scattering, but why would it matter in space?

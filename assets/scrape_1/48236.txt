@@ -1,0 +1,5 @@
+What is an actual value for the Eddington pulsation constant?
+
+What numerical value does the pulsation constant $Q$ take in the formula that Eddington derived for variable stars:
+$$P\sqrt{\rho} = Q,$$
+where $\rho$ — average star density, $P$ — period?

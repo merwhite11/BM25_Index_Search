@@ -1,0 +1,4 @@
+Getting (variable) apparent magnitude of Algol
+
+I've heard that in ancient Egypt they had a calendar to determine the lucky and less lucky days, which alternated approximately every 2.8 days. According to researchers, this may have been related to the periodicity of Algol's brightness. I'd like to experiment with this a bit (I'm trying to develop a certain AI model). But I have no idea how to get the data.
+Can you please advise me how to get the apparent magnitude data of Algol for a specific point in time? I have a large database of events that happened in 2021-2023 (more specifically sport matches, their scores, coordinates of the stadiums and very exact timing of all game events such as goal kicks). I'd like to connect these data with the apparent magnitude of Algol for the given moment and let AI decide if there is some connection.

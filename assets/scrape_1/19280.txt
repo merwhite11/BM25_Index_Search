@@ -1,0 +1,5 @@
+Estimating inner and outer boundaries of habitable zone for Sun
+
+What would the inner and outer boundaries of the “habitable zone” be for planets with an albedo that differs from that of the Earth?
+For example a planet with an albedo of 0.07 or 0.90 (the values for Mercury and Venus, respectively). 
+I want to compare these values to the distances in AU's of the rocky inner planets.

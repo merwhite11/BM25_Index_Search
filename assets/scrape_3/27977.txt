@@ -1,0 +1,4 @@
+Can I sense a bright star pointing an eight foot antenna towards it?
+
+If I connect an eight foot Yagi or other comparable sized antenna to my oscilloscope and point the antenna at a bright star will I see a voltage on my oscilloscope?
+I am not interested in turning the voltage into an image just wondering if I would see a voltage increase when it is on a bright star. I’d like to know your thoughts before I take the time to build the antenna. I’m thinking about in the 25cm range. I’ve heard that’s an active area. My oscilloscope will read down to about 20 millivolts.

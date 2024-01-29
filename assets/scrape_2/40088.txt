@@ -1,0 +1,5 @@
+Why does a right-handed circular polarized wave get lagged when going through ionized plasma?
+
+I have a question related to Faraday rotation. In Abigail Polin's Faraday rotation video I have seen that a linearly polarized wave can be decomposed in a left-handed circular wave and a right-handed circular wave and that when passing through ionized-magnetized plasma one of them gets lagged due to a difference on their refraction index.
+Moreover, the video shows that the wave that gets lagged most is the right-hand circularly polarized.
+Why is not the left-hand circularly polarized? What is the mathematical difference between their refraction indices?

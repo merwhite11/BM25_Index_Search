@@ -1,0 +1,3 @@
+Any package to construct a good segmentation map?
+
+Does anyone know of any package to construct a detailed segmentation map for a given image? So far, I used the SExtractor code. However, I am simulating very faint sources and, sometimes, they are near bright galaxies. So, it becomes really hard to construct a proper segmentation map. Moreover, I should lower the threshold to increase the percentage of the detected faint sources and it implies a lot of spurious detections, which I want to minimise.

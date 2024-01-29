@@ -1,0 +1,5 @@
+creating asteroid light curves and analysing them
+
+I came across the video Tutorial: Creating a Lightcurve of a Minor Planet linked below by Tycho Tracker, which itself is a software to build an asteroid light curve from raw images and analyse it to obtain period, etc. Having noticed that this is only available on Windows, I'm wondering whether there is something similar for MacOS or Unix systems.
+Does some open-source code exists to perform similar analysis in the small-body community or everyone has their own pipeline basically? If there were some python-based scripts to do similar work, I'd be grateful if someone could point me there.
+Thank you in advance!

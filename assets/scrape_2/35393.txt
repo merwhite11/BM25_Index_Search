@@ -1,0 +1,14 @@
+What is considered "contact" for contact binary white dwarfs, and roughly how long can they stay that way before merging?
+
+The question Why do they think that WDJ0551+4135 is “snowman shaped” i.e. a contact binary? has also raised the question of what a contact binary is or isn't, and how hard it might be to see one if it is, so let's explore this separately and then hopefully establish some usage guidance for the contact-binaries tag. 
+Questions:
+
+What's considered "contact" in contact binary white dwarfs? Photosphere contact perhaps? 
+roughly speaking, how long can pairs like this stay in contact before merging? Millenia? Minutes? If the time is very short that means they are much harder to observe in a state of contact.
+
+"bonus points:" Are there any contact binaries we can see by eye or with binoculars or a small telescope? (wouldn't have to be white dwarfs) Could we see one vary in brightness and/or color as the pair rotates?
+
+From the BBC article cited in the linked question:
+
+
+Artwork: The object may be two so-called 'white dwarves' merging into a smaller denser star

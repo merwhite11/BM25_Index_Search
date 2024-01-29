@@ -1,0 +1,5 @@
+Finding luminosity of a star with magnitude
+
+I'm working on my assessment for Physics in the IB, and I'm planning to investigate stars in spiral galaxies and determine their ages. For this I'm going to use data from the SDSS (Sloan digital sky survey http://skyserver.sdss.org/dr13/en/tools/chart/navi.aspx). 
+I need to get the luminosity of a star from the absolute bolometric magnitude. However the SDSS only gives magnitude in 5 values, u g r i and z. I've tried to understand what to do with these and what they mean but I can't figure it out. 
+How would I get one number the absolute bolometric magnitude from 5 different values, and what do they mean?

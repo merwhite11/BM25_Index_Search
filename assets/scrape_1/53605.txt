@@ -1,0 +1,4 @@
+Is it possible to have satellites (natural or not) orbit the same celestial object in different directions ? (clockwise, counterclockwise)
+
+Is it possible to have satellites (natural or not) orbit the same celestial object in different directions, or is the orbital direction dependent on the celestial object's spin?
+Also, is the direction of spin of a celestial object dependent on how it orbits a bigger celestial object?

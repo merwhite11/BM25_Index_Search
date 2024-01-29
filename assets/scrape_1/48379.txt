@@ -1,0 +1,10 @@
+What is a Keplerian shear
+
+I was reading an article on Gas Giants and how some form close to their host star.
+One line in the article says:
+
+A region of the proto-planetary disk will be susceptible to gravitational
+instability if the free-fall time due to self gravity is sufficiently rapid
+to overcome Keplerian shear.
+
+I tried to find a wiki on what Keplerian sheer was, not much luck. Does it go by another name, or can some one explain what it is ? Saw a paper that mentioned it about ergodic theory (no idea what that theory is) it's way above my knowledge to get a general idea of what it is from the paper.

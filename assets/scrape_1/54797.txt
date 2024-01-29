@@ -1,0 +1,16 @@
+Orion stars distance from Earth
+
+For a textbook I'm creating a figure depicting the distances of Orion constellation's stars  from Earth.
+However i wasn't able to found an Official Scientific catalog of most recent stars distance measurement and when looking on non-scientific websites (including Wikipedia) i found distances that varies most of the time from 50% to 300%............
+Do someone know where i can found an official scientific catalog (database) with the latest measurements. Or confirm the following distances below:
+
+Bellatrix 244.6 ly
+Meissa 1,109 ly
+Betelgeuse 500-600 ly
+Mintaka 1,240 ly
+Alnilam 2,000 ly
+Alnitak 1,262 ly
+Saiph 650 ly
+Rigel 864.3 ly
+
+Thanks for your help

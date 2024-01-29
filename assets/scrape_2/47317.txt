@@ -1,0 +1,9 @@
+Is the closest planet to another planet always the innermost planet?
+
+In our Solar system Mercury is not only the closest planet to Earth on average but also, for the same reason, the closest planet on average to all other planets (Jupiter, Neptune, etc...).
+Does that always apply for any planetary system? For instance, in a binary system, is the planet closest to a given circumbinary planet always the innermost planet of one of the two stars? (or can it be the outermost planet, or even another circumbinary planet?)
+From Venus is not Earth’s closest neighbor:
+
+Calculations and simulations confirm that on average, Mercury is the nearest planet to Earth—and to every other planet in the solar system.
+
+But this only applies to our solar system's planets, I'm interested in a broader generalization.

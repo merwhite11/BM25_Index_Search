@@ -1,0 +1,11 @@
+'Very High Noon' - Sun directly overhead
+
+Twice a year the sun is at a certain angle south (or north) of the equator between The Tropic of Cancer and The Tropic of Capricorn.
+At that time the sun will be exactly overhead for people at the latitude (and longitude).
+Is there a table or - better - a model that takes 
+Latitude (and Year) as input
+and responds with
+Date, Time, and Longitude as output.?
+-The 'closest' 'midday' (solar time) (before or after) will be the closest people at that latitude - round the world - will come to experience the sun 'directly' overhead.
+You could call it 'Very High Noon'.
+vj

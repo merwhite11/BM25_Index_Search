@@ -1,0 +1,13 @@
+Does a photon need to have EXACTLY the right energy to be absorbed by a gas molecule?
+
+From an answer to this question, https://physics.stackexchange.com/questions/281660/how-does-an-electron-absorb-or-emit-light,
+
+Absorption of a photon will occur only when the quantum energy of the photon precisely matches the energy gap between the initial and
+final states of the system. (the atom or a molecule as a whole)
+i.e., by the absorption of a photon, the system could access to some
+higher permissible quantum mechanical energy state. If there is no
+pair of energy states such that the photon energy can elevate the
+system from the lower to the upper energy state, then the matter will
+be transparent to that radiation.
+
+Given that the photon's energy is proportional to the photon's electromagnetic frequency, and that the frequency is subject to tiny Doppler shifts due to differences in velocity between the emitting and absorbing molecules, how can a photon have precisely the same energy as the exact quantum state change for a gas molecule?  Does the photon energy only have to be very close to the quantum state change for a molecule to absorb it?  If so, what happens to the extra(or lesser) energy absorbed by the molecule? Does this margin contribute to the width of observed absorption spectra in radio astronomy?

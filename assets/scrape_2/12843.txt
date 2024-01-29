@@ -1,0 +1,5 @@
+Can dark matter decrease the Jeans length?
+
+I am wondering if there are any models of interstellar cloud collapse out there which take dark matter into account. 
+If dark matter has local perturbations or density fluctuations, then that may be a large enough effect to cause collapse of an interstellar cloud. This might increase the mass and density of a cloud enough to overcome the kinetic energy of hydrogen atoms leading to collapse.
+Are there dark matter density variations at the scale of interstellar clouds?

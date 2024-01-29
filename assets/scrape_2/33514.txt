@@ -1,0 +1,4 @@
+How fast are we moving relative to the CMB?
+
+The cosmic microwave background radiation should provide kind of a global reference frame, because you can determine your speed relative to it using the redshift.
+Is it known how fast we are moving in relation to the CMB? If you subtract the various orbital motions (Earth around the Sun, Sun around the Galaxy), are we standing still in the expanding universe, or traveling in a certain direction?

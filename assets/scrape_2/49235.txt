@@ -1,0 +1,276 @@
+Nbody problem solving on python with Leapfrog
+
+I am relatively new to astronomical programming and I am trying to code a simulation of the solar system as simplified as possible on python. To do so, I am using numpy in order to have one array containing in each row the x,y,z coordinates of position of each celestial body. So if N=5 bodies, the positions matrix will be sized (5,3). The initial positions and velocities of the bodies are uploading with the Spiceypy library (SPICE ephemeris). Then, I'm integrating using the leapfrog method. However, my code seems to run well until I plot the resulting positions: I keep on obtaining straight lines instead of elliptical orbits...
+
+I am definitely doing something wrong, but I don't know what. Do you know what I am missing here? I suspect the problem is in the leapfrog integration.
+Thank you for any kind of help you can provide!
+Here is my code:
+    # -*- coding: utf-8 -*-
+"""
+Created on Tue Apr 26 12:35:05 2022
+
+@author: Marwa Kadhem
+"""
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+import spiceypy as spice
+
+
+spice.tkvrsn('TOOLKIT')
+spice.furnsh('de440.bsp')
+spice.furnsh('p10-a.bsp')
+spice.furnsh('naif0012.tls')
+
+
+
+def Ephemeris(body):
+    
+    #-------------------------------------------------------------------------
+    # INPUT
+    # body : name of the body (type string)
+    #-------------------------------------------------------------------------
+    # OUPUT
+    # (pos,vel) : a tuple where index 0 is x,y,z of position (np array) and 
+    #             index 1 is x,y,z of velocity (np array) of the body obtained 
+    #             at time ref_time from NASA SPICE files
+    #-------------------------------------------------------------------------
+    
+    ref_time = spice.spiceypy.str2et('2022 May 01 00:00:00.0000')
+    
+    pos_list = spice.spiceypy.spkezr(body,ref_time,'J2000','NONE','SUN')[0][0:3]
+    pos_matrix = np.array([ [pos_list[0], pos_list[1],pos_list[2]] ])
+    
+    vel_list = spice.spiceypy.spkezr(body,ref_time,'J2000','NONE','SUN')[0][3:6]
+    vel_matrix = np.array([ [vel_list[0], vel_list[1],vel_list[2]] ])
+    
+    return (pos_matrix,vel_matrix)
+
+
+def NbodyProblem(pos, mass, G):
+    
+    #-----------------------------------------------------------------
+    # INPUT
+    # pos  : positions matrix size (N,3) 
+    #        where each row i corresponds to the x,y,z coordinate of 
+    #        one celestial body of the Solar System.
+    # mass : masses matrix  (1,N)
+    #        each row is the mass (kg) of one celestial body of the
+    #        Solar System.
+    # G    : Newton's Gravitational constant
+    #-----------------------------------------------------------------
+    # OUTPUT
+    # acc  : accelerations matrix (N,3)
+    #        where each row i corresponds to the ax,ay,az  
+    #        accelerations of one celestial body of the Solar System.
+    #-----------------------------------------------------------------
+    
+    x = [row[0] for row in pos] # x element of position matrix
+    y = [row[1] for row in pos] # y element of position matrix
+    z = [row[2] for row in pos] # x element of position matrix
+    acc = np.empty((0,3)) 
+    
+    for j in range (0,len(x)):
+        ax=0
+        ay=0
+        az=0
+        
+        for i in range (0,len(x)):
+            if (i!=j):
+                dx = x[i]-x[j]
+                dy = y[i]-y[j]
+                dz = z[i]-z[j]
+                norm = np.sqrt(dx**2+dy**2+dz**2)
+                ax -= (G*mass[i]*dx)/norm**3
+                ay -= (G*mass[i]*dy)/norm**3
+                az -= (G*mass[i]*dz)/norm**3
+                
+        a = np.array([ax,ay,az])
+        acc = np.append(acc,[a],axis=0)
+        
+    return acc
+
+
+def leapfrog(pos0, vel0, mass, dt):
+    
+    #-----------------------------------------------------------------
+    # INPUT
+    # pos0 : initial positions matrix size (N,3). 
+    # vel0 : initial velocities matrix size (N,3).
+    # mass : masses matrix (1,N).
+    # time : time of the simulation ranging from start time (t_start)
+    #        to end time (t_end).
+    # dt   : timestep.
+    #-----------------------------------------------------------------
+    # OUTPUT
+    # pos_register : dictionnary of all positions matrix size (N,3)
+    #                found by leapfrog or Stormer-Verlet integration 
+    #                method at each time of the simulation.
+    #-----------------------------------------------------------------
+    
+    global G
+    global t_start
+    global t_end
+    
+    pos_register = {}
+    
+    pos = pos0
+    vel = vel0
+    acc = NbodyProblem(pos,mass,G)
+    
+    for t in np.arange(t_start, t_end, dt): # kick-drift-kick version
+
+        vel = vel + acc * dt * 0.5       # kick
+        pos = pos + vel * dt             # drift
+        
+        acc = NbodyProblem(pos,mass,G)   # update acceleration
+        vel = vel + acc * dt * 0.5       # kick
+        
+        pos_register[t] = pos            # save in the register
+        
+    return pos_register
+
+
+
+
+        
+def Coordinates(register, body_id):
+    
+    #----------------------------------------------------------------
+    # INPUT
+    # register : Dictionary containing all the positions matrix 
+    #            at all time t of the simulation.
+    # body_id : identification number of the body, which corresponds 
+    #           to the row number in the positions matrix. 
+    #----------------------------------------------------------------
+    # OUTPUT
+    # (Lx,Ly,Lz) : 3 lists containig respectively all x, y and z
+    #              values of the desired body (id_body).
+    #----------------------------------------------------------------
+    
+    global t_start
+    global t_end
+    global dt
+    
+    Lx = []
+    Ly = []
+    Lz = []
+    for t in np.arange(t_start, t_end, dt):
+        matrix = register[t]
+        Lx.append(matrix[body_id,0])
+        Ly.append(matrix[body_id,1])
+        Lz.append(matrix[body_id,2])
+        
+    return (Lx,Ly,Lz)    
+#=======================================================================================================
+#                                           Simulation parameters
+#=======================================================================================================
+
+N = 5                                                               # number of celestial bodies
+
+t_start = spice.spiceypy.str2et('2022 May 01 00:00:00.0000')        # start time of the simulation
+
+t_end = spice.spiceypy.str2et('2050 May 01 00:00:00.0000')          # end time of simulation
+
+dt = 24*3600                                                           # timestep
+
+G = 6.67430e-11*1e-9                                                    # Newton's Gravitational Constant
+
+num_ts = int(np.ceil(t_end/dt))                                     # number of timesteps
+
+#=======================================================================================================
+
+
+# EPHEMERIS 2022 May 01 00:00:00.0000
+
+# Sun
+sun_id = 0
+pos_sun = Ephemeris('SUN')[0]
+vel_sun = Ephemeris('SUN')[1]
+m_sun = 1.989e30
+
+
+# Mercury 
+mercury_id = 1
+pos_mercury = Ephemeris('MERCURY')[0]
+vel_mercury = Ephemeris('MERCURY')[1]
+m_mercury = 0.330e24
+
+
+# Mars
+mars_id = 2
+pos_mars = Ephemeris('MARS BARYCENTER')[0]  
+vel_mars = Ephemeris('MARS BARYCENTER')[1]   
+m_mars = 0.642e24
+
+
+# Earth
+earth_id = 3
+pos_earth = Ephemeris('EARTH')[0]  
+vel_earth = Ephemeris('EARTH')[1]  
+m_earth = 5.97e24
+
+# Venus
+venus_id = 4
+pos_venus = Ephemeris('VENUS')[0]    
+vel_venus = Ephemeris('VENUS')[1]  
+m_venus = 4.87e24
+
+
+# Initial conditions mass, positions and velocities with ephemeris
+
+M = np.array([m_sun,m_mercury,m_mars,m_earth,m_venus])
+
+P = np.concatenate((pos_sun,pos_mercury,pos_mars,pos_earth,pos_venus),axis=0)
+
+V = np.concatenate((vel_sun,vel_mercury,vel_mars,vel_earth,vel_venus),axis=0)
+
+V -= np.mean(np.dot(M,V),0)/np.mean(M)
+
+
+# Integration using the leapfrog integration (Störmer-Verlet method)
+
+reg = leapfrog(P,V,M,dt)
+print(reg)
+
+# Generating lists containing x,y,z position values of each bodies
+Lx_sun = Coordinates(reg,0)[0]
+Ly_sun = Coordinates(reg,0)[1]
+Lz_sun = Coordinates(reg,0)[2]
+print(Lx_sun)
+
+Lx_mercury = Coordinates(reg,1)[0]
+Ly_mercury = Coordinates(reg,1)[1]
+Lz_mercury = Coordinates(reg,1)[2]
+
+Lx_mars = Coordinates(reg,2)[0]
+Ly_mars = Coordinates(reg,2)[1]
+Lz_mars = Coordinates(reg,2)[2]
+
+Lx_earth = Coordinates(reg,3)[0]
+Ly_earth = Coordinates(reg,3)[1]
+Lz_earth = Coordinates(reg,3)[2]
+
+Lx_venus = Coordinates(reg,4)[0]
+Ly_venus = Coordinates(reg,4)[1]
+Lz_venus = Coordinates(reg,4)[2]
+
+
+# Ploting the results using Matplotlib
+
+fig = plt.figure("Solar System simulation - Marwa Kadhem")
+
+ax = fig.add_subplot(111, projection='3d')
+ax.set_axis_off()
+fig.set_facecolor('black')
+ax.set_facecolor('black') 
+
+ax.scatter(0,0,0, s=100, c="yellow",label='Sun')
+ax.plot(Lx_mercury,Ly_mercury,Lz_mercury, label='Mercury')
+ax.plot(Lx_mars,Ly_mars,Lz_mars, label='Mars')
+ax.plot(Lx_earth,Ly_earth,Lz_earth, label='Earth')
+ax.plot(Lx_venus,Ly_venus,Lz_venus, label='Venus')
+ax.legend()
+
+plt.show()

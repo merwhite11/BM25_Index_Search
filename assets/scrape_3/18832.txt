@@ -1,0 +1,8 @@
+Mathematically calculate if a Planet is in Retrograde
+
+I am trying to find out if a planet is in an apparent retrograde motion with respect to the earth at any given point in time. Given the time in Julian days.
+I already have the geocentric and heliocentric coordinates and velocities of the planet using the JPL ephemeris, but not sure of what mathematical formula to use to identify the retrograde motion.
+I read this article "https://physics.stackexchange.com/questions/249493/mathematically-calculate-if-a-planet-is-in-retrograde" which had a similar question but I am not sure of:
+
+Is the answer correct as it has not been marked as correct?
+How to represent earth in the XY plane only when it has XYZ planes and why do we even need to do that? Can't we just use the heliocentric equatorial plane which I think is the same as the one used by NASA JPL ephemeris.

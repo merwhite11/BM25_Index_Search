@@ -1,0 +1,5 @@
+Telescope focal point and inversion
+
+When looking at a diagram of the optical path through a newtonian reflector, the lines always cross before the eyepiece. I understand that the eyepiece is used to focus this diverging light cone so that your eye can observe an image. 
+If you use a camera in "prime focus" i.e. Without an eyepiece to rectify this diverging light cone, it can discern an image anyway? Would this mean that the focus adjustment (distance from the focal point) merely determines the size of the image on the sensor? Or is there still a point where the image is in focus? 
+How do we ensure that this occurs while the light cone is still smaller than the sensor? Or is the whole image always varied in focus across the cone, just that the depth of field allows all of it to be in focus enough for a good image?

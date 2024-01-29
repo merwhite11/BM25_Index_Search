@@ -1,0 +1,13 @@
+Why does the solar analemma have a strange shape on Jupiter?
+
+I'm trying to look at what the solar analemma looks like from different planets, using Stellarium. To plot the analemma, I go into the ephemeris tab of the astronomical calculations window. From there, I show the position of the Sun every few solar days.
+From Earth, the analemma is a well-known "figure 8". From Mars, it's a sort of teardrop shape, because the orbit of Mars is much more elliptical.
+
+From Jupiter, the analemma seems to draw a bunch of rings.
+
+Why does the analemma from Jupiter have this strange shape?
+
+Edit:
+Per @User123's answer, I was using the Earth solar day rather than Jupiter's solar day to plot the position of the Sun. So I re-did the experiment with a time step of 99.258 hours (= 10 Jupiter days) over the course of 12 Earth years (a bit more than 1 Jupiter year). Here is the result.
+
+Why is the Sun drawing a bunch of circles in the sky rather than a single circle ?

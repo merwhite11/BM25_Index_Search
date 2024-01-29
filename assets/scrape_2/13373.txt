@@ -1,0 +1,16 @@
+What good evidence exists for the 9th planet as spoken of by Caltech?
+
+I'm sure Caltech has answered this in some way, but I think it's a good question have on this site.
+What good evidence exists for the 9th planet as spoken of by Caltech?
+As I see it, Caltech has apparently looked at the orbital parameters of many Trans-Neptunian-Objects (TNOs) and noticed that the lines between their perihilion and aphelion (I don't know what the technical term might be) all run more or less in the same direction. This is evidence that some large body has gravitationally "synced" these planets over millions of years.
+Except that alone isn't good evidence. Here are two stats first:
+
+Known TNOs: about 1,750 according to the Minor Planet Center's list.
+
+Estimated existing Kuiper-Belt Objects: 120,000+ according to Britannica. (That number is only estimating objects of 100-km diameter or more, but that's fine for our purposes.) Note: 120,000 is only for KBOs. There are other TNO sets such as the oort cloud (and the scattered disc if you define it separately), so I expect the number to be much much bigger than 120,000.
+
+
+Given that we've only measured about 1% or less of TNO orbits, how can we be sure we have a good random sample to say that a massive body must have aligned these orbits? In other words, all the other orbits might be randomly distributed, which would be compelling evidence that some giant body is not "syncing" orbits or else way more than 1% of them would be "synced".
+If I recall my statistics class correctly, 1% is not good enough for a random sample. The border-line good enough area starts at 3%, but there's still a catch: It has to be a random sample. There are still observation-bias questions here because obviously we've only mostly discovered the "nearby" TNOs, because they are easier to discover when they're "nearby". That certainly would not be a random sample even if we had 3% of them.
+TLDR: There are at least 100,000 distant objects, of which less than 1% of them have some kind of aligned orbit as far as we know today. Is this actually good evidence that something has aligned them?
+EDIT: Another analogy that might help. You have a bag of 100 marbles. You reach in and pull out 5 from the top of the bag (notice I didn't say any random 5!). They turn out to be 4 red ones and 1 black one. Is this actually good evidence that about 80% of the whole bag is red?

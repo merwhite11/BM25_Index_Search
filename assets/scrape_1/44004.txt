@@ -1,0 +1,8 @@
+Directionality of solar flares
+
+I have read a number of articles about Coronal Mass Ejections (CME) and solar flares and I’m trying to establish how directional the radiation from them is.
+I am aware that radiation from these solar events does not travel directly outward from the direction of the sun but follows magnetic lines of force and may be subject to eddies and other other effects that modify the direction of travel.
+So my question is: What does the graph of average radiation intensity v radial distribution look like for a point in deep space (radiation intensity v degrees bearing from the line of maximum intensity) for a passing solar flare or CME? For the purpose of this question, deep Space is the region between the orbits of Venus and Mars
+Edit
+For the purposes of this question "radiation" refers to particulate radiation such as electrons, heavy nuclei and especially protons originating from the Sun during a solar flare or CME (peak flux in Watts per square metre).
+In case that an exact answer is not available an approximate answer would be acceptable.

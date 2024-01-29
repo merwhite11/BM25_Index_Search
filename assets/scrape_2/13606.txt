@@ -1,0 +1,5 @@
+Existence of gravitons?
+
+For a lot of my uninformed life, I have doubted the existence of gravitons or even that gravity is an actual "force" (like electromagnetism). This is because my vision of general relativity was that mass curves space such that objects are still traveling in a "straight line" when being acted upon by "gravity", so that no "force" is needed. I know now that this is a naive view, but I'm not 100% sure why. I was thinking the other day that just the fact that gravity follows an inverse square law implies that it is a force carried by particles (falling off in flux intensity due to the geometry of 3D space). 
+My question would be: Does the fact that gravity follows an inverse square law naturally fall out of general relativity equations or is it an assumption used when developing the equations?
+And, just now, I had the thought that other forces may curve space also (just in higher dimensions).

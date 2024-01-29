@@ -1,0 +1,3 @@
+How long would it take for a planet captured by a red dwarf to become tidally-locked if it started out rotating retrograde?
+
+So say for the sake of argument that we have a red dwarf orbiting a G of K-class star. An Earth-sized planet forms, maybe at one of the dwarf star's Lagrange points to its primary, and eventually becomes captured by the red dwarf. If the planet rotates opposite to the direction of orbit, would it be able to stay like that, or would it eventually slow down and become tidally-locked to the red dwarf?

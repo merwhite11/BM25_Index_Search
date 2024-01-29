@@ -1,0 +1,12 @@
+Sky photography through compositing images in software?
+
+I've read about and seen some rather sophisticated rigs for night sky photography that allow for ultra-long-exposure photos by counteracting the rotation of the sky by rotating the camera with it. The problem is mechanics for such rigs is rather complex, expensive and not entirely within reach of an amateur.
+I was considering a different approach: 
+
+Set the camera on a firm tripod or whatever, leaving it motionlessly.
+Use intervalometer in the camera firmware to take multiple photos of moderately long exposure, short enough that the stars don't blur into lines.
+Save each as RAW so that the trace amounts of light captured in each of them don't get lost.
+Either using more bright stars as markers, or even calculating the misalignment of the photos basing on movement of the sky and lens geometry composite the images in software, to obtain good images of the night sky.
+
+Obviously I wouldn't get very far with high zoom images, as the field of vision would shift away long before I'd get enough light in for a good photo, but obtaining a photo of a fair section of the sky from a relatively wide angle lens should be doable. 
+Is such approach used or even viable? Is there such software "out there" already or would I need to write my own from scratch?

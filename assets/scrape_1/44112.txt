@@ -1,0 +1,8 @@
+Apparent Magnitude of First quarter Moon
+
+Given
+Apparent magnitude of moon is -12.5.
+Distance of moon and earth is 384400 km.
+Diameter of Moon is 31 arcmin.
+Phase of moon is 0.5.
+Find the apparent magnitude of first quarter moon.

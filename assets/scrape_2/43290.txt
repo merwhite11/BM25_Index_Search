@@ -1,0 +1,5 @@
+Is there any correlation between the Cosmic Microwave Background (CMB) and the distribution of distant galaxies?
+
+The Cosmic Microwave Background (CMB) is remarkably isotropic but does exhibit a distinct dipolar Doppler shift and also much smaller but measurable fluctuations in intensity and polarization.  Presumably some of these fluctuations should carry over into the subsequent formation of early galaxies and other structures.  To what extent is this expected and to what extent has this been observed?  
+The CMB Doppler shift is attributed to our local velocity with respect to the early universe. Is this Doppler-shift equally observed with respect to distant galaxies and diffuse starlight?  
+More particularly, is any of the fine structure in the CMB represented in the distribution or properties of the most ancient objects that can be observed optically (infrared)?

@@ -1,0 +1,12 @@
+How do JWST and Hubble compare in detecting small bodies in the solar system that are a) white, b) black, c) Arrokoth-like, d) Voyager-like?
+
+Assume the object is small, spherical, and illuminated only by the Sun, and has some apparent motion. The object is either: 
+a) white - reflecting 100% perfectly diffusely (assume low temperature) 
+b) black - absorbing 100% and in uniform thermal equilibrium re-radiating infrared  
+c) Arrokoth-like - having a similar albedo spectrum (reddish) and temperature (?).    (Is it possible/likely that JWST could find a new target for New Horizons to visit?) 
+d) Voyager-like - having ~5 kW of RTGs at ~570 K ($\lambda_{max} = 5 \mu m$). 
+(At what distance could JSWT still see Voyager?) 
+[Edit responding to @astrosnapper] 
+It may be a rather artificial question, but assume we know closely where to look, e.g. the object is known to be in the field of view.
+I'm adding a quick back-of-the-envelope calculation that answers the last question (JWST & Voyager): 
+Sun's apparent bolometric magnitude is −26.832 corresponding to 3.0128×10^28 Watts of power. Voyager with 5 kW would have an apparent magnitude of  −26.832 - 2.5log10(5000/(3.0128×10^28)) = 35.1 at 1 AU.  JWST has a limiting magnitude of 34, So Voyager RTGs are not quite visible to JWST at 1 AU and obviously totally invisible at 155 AU :-(

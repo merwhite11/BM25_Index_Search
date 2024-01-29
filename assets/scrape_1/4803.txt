@@ -1,0 +1,4 @@
+Do star systems stripped from galaxies have different expected behavior?
+
+Another way of stating this question: Does the fact that a star system (or comparable concentrated mass) exists in a galaxy affect its long-term evolution, in terms of expansion, contraction, nebulation, etc.?
+This question was inspired by a view of the "Umbrella Galaxy" where previous interactions have torn streams of stars far from the galactic disk.

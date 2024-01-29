@@ -1,0 +1,15 @@
+How does gradual crossing over of the Roche limit transform a planet or moon?
+
+Some cartoon simulations (an example) of an object (assume here a large moon with Earth-like density) which crosses the Roche limit of a much more massive giant planet, illustrate a circle suddenly disintegrating and forming a ring. But such a process occurs gradually over geological time scales. I doubt that there would be a single bad day when the whole moon disintegrates (as in -Oh, there Mt. Everest broke off and flew away!)
+Wouldn't the tidal tugging cause volcanism and gradually melt the moon as its (somewhat eccentric) orbit spirals inwards across the limit during millions of years?
+How would the melting moon deform? Would it really assume an oval shape, elongated towards the primary planet? Since the near side wants to orbit faster than the far side, wouldn't that cause the moon to spin at an accelerated rate, even if it initially was tidally locked? Would the melting, deforming and spinning save it from disintegrating further to within the Roche limit?
+Some examples of Roche limit crossings I know of:
+
+Comet Shoemaker-Levy 9 may have broken up suddenly because it had
+such a high velocity relative to Jupiter.
+Phobos will cross its Roche limit to Mars in ~50 million years. It
+will hardly be a sudden process. I suppose its very low density and
+mass won't allow any volcanism and melting, though.
+KOI1843.03, an exoplanet candidate with a density of ~7 g/cm³,
+is already inside the Roche limits for its less dense compounds which
+it has shed (as I interpret it).

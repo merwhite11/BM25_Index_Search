@@ -1,0 +1,5 @@
+Kepler's Law, focal points - Heliocentric or Barycentric?
+
+It is known that all the mass in the Solar system moves around the Barycenter.
+For the two focal points in Kepler's law; is the first focal point $F_1$ a Heliocenter? Or is it actually a Barycenter?
+If the $F_1$ is a Heliocenter, then, can the same exact ellipse and eccentricity of orbit be maintained by adjusting the second focal point $F_2$ and taking Barycenter as $F_1$ instead of Heliocenter?

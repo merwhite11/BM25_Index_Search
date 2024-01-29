@@ -1,0 +1,7 @@
+Comparing different magnitudes. Is this statement correct?
+
+I have two methods which allow for a detection of a signal that is at most of magnitude x. If method 2 can detect signal that are half a magnitude larger, i.e. fainter, let's say x.5 mag, is it correct to say that method 2 can detect signals that are about 60% fainter than what method 1 can detect?
+Is the 60% correct? I got this number by converting the magnitudes $m_i$ to flux $f_i$, i.e.
+$$100^{(m_1-m_2)/2.5}=\frac{f_2}{f_1}\approx 0.40$$
+$$\Rightarrow f_2=0.40 f_1\sim 40\% f_1$$
+Thus, $f_2$ is about $40\% f_1$ which means about $60\%$ fainter. I have never worked with magnitudes before, so is this a valid statement?

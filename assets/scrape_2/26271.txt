@@ -1,0 +1,5 @@
+Locating a star cluster on a Hertzsprung-Russell diagram with other color index
+
+Recently I took pictures of the NGC 884 cluster in the B and I bands and selected some 30-what stars from them. I've reduced the data to a colour-magnitude diagram (absolute magnitude in the I band $M_I$ vs. (B-I) colour index). I am now asked to designate where the stars I've selected from this cluster are located on the Hertzsprung-Russell diagram and the approximate age of the stars.
+My problem is the following: any HR diagram that I can find is either expressed in effective temperature instead of colour index, or is in the colour index (B-V). Also I can only seem to find empirical formulas for the effective temperature that use the (B-V) colour index, not the (B-I) one.
+Does anyone know where to find an HR diagram that uses the (B-I) colour index?

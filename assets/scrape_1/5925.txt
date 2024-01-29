@@ -1,0 +1,6 @@
+Are ascending node of sun, the point of intersection of prime meridian and equator and center of earth all collinear?
+
+I did a bit of googling but couldn't find the exact answer, so are the following 3 points collinear or not ?
+1_center of earth
+2_ascending(or descending) node of sun
+3_point of intersection of prime meridian and equator(point of zero longitude on equator).

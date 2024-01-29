@@ -1,0 +1,4 @@
+GPU-based astronomical software for MacOS/AMD/OpenCL environment
+
+I notice that most astronomical software that uses GPUs to accelerate computation makes use of Nvidia's CUDA toolkit. Are there established software packages that, instead, can be used on a modern Mac with an AMD GPU and the OpenCL GPGPU environment?
+I'm specifically looking for transient detection and pulsar search tools (radio astronomy). Bonus points if they are open source.

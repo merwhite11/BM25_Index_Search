@@ -1,0 +1,3 @@
+Corkscrew-like stable two-body system
+
+I recently created a celestial body simulation in python for one of my classes. While playing around with different values I obtained a weird two-body stable system.. For context, these bodies are only moving on the X-Y plane and have no velocity in the Z direction. They seem to rotate around each other while also moving upwards. On the right a figure of their y-position over time can be seen and on the left the x and y positions. Is this just a weird case of an elliptical orbit or something completely different?

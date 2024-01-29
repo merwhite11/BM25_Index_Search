@@ -1,0 +1,5 @@
+Open access table of visible stars with magnitude, coordinates, and possibly color?
+
+I'm looking for a link to a table of visible stars that is open and available to everyone. It should have magnitude, RA, dec, and possibly some indication of color. This will be used to produce somewhat realistic night skies as a backdrop for showing the motion of the planets in the sky.
+I'm not so interested in names, constellations, etc. These are of course useful to know and possibly to plot, but what I'm primarily after is the information necessary to illustrate star position, brightness, and some color information.
+edit: to reiterate, "...table of visible stars that is open and available to eveyone." I'm assuming that in 2016 the visible stars are not behind a paywall, am I wrong? Approx RA, dec, mag - are these available for open access and usage?

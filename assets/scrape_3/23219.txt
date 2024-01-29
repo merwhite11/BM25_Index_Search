@@ -1,0 +1,8 @@
+Circular velocity in axisymmetrici potential
+
+If a matter distribution is spherically symmetric, the circular velocity is straightforwardly related to the mass via:
+$v_{circ} = \sqrt{GM/r}$
+In an axisymmetric potential, on the other hand hand, we have
+$v_{circ}(R) = \sqrt{R\frac{d\Phi}{dR}}\neq \sqrt{GM/r}$
+with $\Phi$ the gravitational potential.
+What I don't quite understand is the following: the potential of the Milky Way is not spherical. How is the measured velocity then reliably related to a mass?

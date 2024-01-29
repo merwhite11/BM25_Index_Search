@@ -1,0 +1,24 @@
+Do falling bodies ever slow down?
+
+I've had some discussions recently about black holes, and the issue of infalling bodies taking forever to reach the event horizon. That's essentially what Einstein said in his 1939 paper on a stationary system with spherical symmetry consisting of many gravitating masses. He said "it is easy to show that both light rays and material particles take an infinitely long time (measured in “coordinate time”) in order to reach the point r = μ/2 when originating from a point r > μ/2”.
+Now, I'm a big fan of Einstein. But there seems to be two issues with this:
+
+One is that Einstein concluded that black holes cannot form, but we
+have good evidence that there are black holes out there. The obvious
+example is Sagittarius A*. That's where's there’s something
+with a mass 4.28 million times the Sun, with a diameter of less than
+44 million kilometres, and we can't see it. Surely it's just got to be a black hole.   
+The other issue is that falling bodies don't slow down. Imagine you
+drop a body at elevation A and it falls down to elevation B. The
+"force" of gravity relates to the first derivative of gravitational
+potential. Hence the bigger the difference in gravitational time
+dilation between elevations A and B, the faster the body falls past
+B. Then if you drop a body at elevation B it falls down to elevation
+C. Again the bigger the difference in gravitational time dilation
+between elevations B and C, the faster the body falls past C. In a
+typical gravitational field the force of gravity at B is greater than
+at A. Hence as the body descends, the acceleration increases as well as the falling speed.
+
+Imagine a gedanken spaceship from which we've suspended a cable. We have clocks at different elevations, so we can measure the gravitational time dilation at each elevation. We can also release test bodies at each elevation and record the  clock readings as they fall past other elevations:
+ 
+At the end of the experiment we can reel in the cable and upload the recorded measurements to ascertain how our test bodies behaved. My understanding is that we will always find that time dilation always increases as we descend, that the falling body always accelerate downwards, and that both the acceleration and the falling speed always increases as the body descends. Is this correct? Or do falling bodies somehow stop accelerating? And do falling bodies ever slow down?

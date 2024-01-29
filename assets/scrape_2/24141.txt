@@ -1,0 +1,12 @@
+Star map - finding stars
+
+Assume you are given a star map that doesn't have the name of the stars on it. You know the latitude, longitude of the observer and the local time (year, month, day, local time). How could I proceed to find the stars, planets?
+
+Notes: This requirement is given by a problem with the photo shown above. You cannot go outside, nor use other resources. 
+The stellar map represents the sky of a city ($44^\circ 26'$ N, $26^\circ 06'$ E, local time 00:47, date 04.03.2016).
+
+Mark on the map the cardinal points
+Identify on the map the planets from the solar system
+Identify Polaris
+Identy the circumpolarity zone. Identify at least 2 constellations outside the zone
+Find the galactic equator and the ecliptic

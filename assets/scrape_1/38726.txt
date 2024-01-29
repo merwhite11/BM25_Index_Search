@@ -1,0 +1,10 @@
+GW190521 black hole merger total mass calculation and missing mass, how does this happen?
+
+I have just read an article about that black hole merge event (it's in Italian):
+
+Sette miliardi di anni fa, due mostri si unirono
+
+What made me curious is that the article tell that a 66 solar mass black hole merge with a 85 solar mass black hole to form a 142 solar mass black hole.
+If the datas are correct, that suggests to me that during a merge event, matter inside a black hole is ejected (66+85=151).
+Is that (mass ejection) possible? I have always thought that escape form the inside of a black hole is impossible.
+I suppose it is somewhat possible if we think about Hawking radiation, but due my amateur knowledge level I have not been able to dig into this very much.

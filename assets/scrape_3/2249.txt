@@ -1,0 +1,5 @@
+How are the speed, distance and time of India's MOM and USA's Maven Mars missions calculated?
+
+How do the scientists calculate the correct time to launch the Mars mission so that the satellite travel time is less? How they are synchronizing the speed of satellite with respect to earth and mars ?
+Refer this link for more understanding: 
+Animation of MOM and Maven launch

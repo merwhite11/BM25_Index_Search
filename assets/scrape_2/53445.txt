@@ -1,0 +1,12 @@
+Convert image from Jy/sr to Jy/pix
+
+I want to convert the units of an image from Jy/sr (Janskys per steradian) to Jy/pix and I know the pixel scale in arcsec. The way I do this, in python, is the following:
+from astropy import units
+
+pixel_scale = 0.05 # NOTE: in arcsec
+
+conversion_factor = 1.0 / (units.steradian.to(units.arcsec**2.0) / pixel_scale**2.0)
+
+image_in_Jy_per_pix = image_in_Jy_per_sr * conversion_factor
+
+Is this correct?

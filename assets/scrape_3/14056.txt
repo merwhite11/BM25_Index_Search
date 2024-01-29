@@ -1,0 +1,5 @@
+Why do we need the "mean" in mean free path?
+
+I was introduced to mean free path in my astro physics class, 
+and the professor posts a question for us to ponder: "Why do we need the "mean" in mean free path?"
+This further makes me to wonder what is the mean free path for, and how is it used?

@@ -1,0 +1,17 @@
+Expresion of comoving distance
+
+I have a simple question :
+How to prove the following relation :
+
+The comoving distance to an object at redshift $z$ can be computed as
+
+$$r(z)=\dfrac{c}{H_{0}} \int_{0}^{z} \dfrac{\mathrm{d} z}{E(z)}$$
+from the relation :
+$$r(t)=\int_{0}^{t} \dfrac{c\mathrm{d} t}{R(t)}$$
+I tried to use with the definition : $1+z= \dfrac{R_{0}}{R(t)}$ but I can't conclude.
+Any help is welcome.
+UPDATE 1 : @Tosic's demonstration seems to be correct. But the factor $R_{0}$ is not disappearing. Indeed, If I do :
+$$\dfrac{\text{d}(1+z)}{\text{d}t} = \dfrac{\text{d}z}{\text{d}t} = -\dfrac{H(t)}{R(t)}\,R_{0}$$
+which implies :
+$$\int_{0}^{z} \dfrac{c\text{d}z}{H(z)} = \int_{0}^{t}c\text{d}t\dfrac{R_{0}}{R(t)} = R_{0} \int_{0}^{t}\dfrac{c\text{d}t}{R(t)}$$
+How to get rid of the factor $R_{0}$ ? Since if I multiply the comoving coordinate $r(t)$ by $R_{0}$, I get the cosmological horizon (the limit of observable universe if I integrate up to $z=1100$), don't I ?

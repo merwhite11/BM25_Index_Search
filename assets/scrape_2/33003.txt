@@ -1,0 +1,5 @@
+Planets positions (azimuth, altitude) API
+
+I'm looking for a simple API that will allow me to get positions of planets and the moon for a given date, location and time.
+Does anyone know an API like that?
+Any suggestions or alternatives would be appreciated.

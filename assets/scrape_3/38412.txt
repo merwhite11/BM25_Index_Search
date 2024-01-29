@@ -1,0 +1,5 @@
+Determine spectral type of star from its properties
+
+How can I determine spectral type of star, if I know all its another properties? For Example, Rigel A has spectral type B8Ia.
+Rigel has temperature 12 500 K. According to Harvard spectral classification, spectral class of this star is B (10 000-30 000 K) and subclass is 8 (12 000-14 000 K), so B8.
+Are there any exact boundaries for Yerkes spectral classification as well? How can I tell if a star is super giant (I), bright giant (II) or giant (III)? And then, how can I tell if it is bright (a), normal (ab) or faint (b)?

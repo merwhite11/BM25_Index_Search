@@ -1,0 +1,11 @@
+Dark Matter Density Parameter Variation
+
+The definition of the dark energy density parameter is $$\Omega_{\Lambda} = \frac{\epsilon_{\Lambda}}{\epsilon_c}$$
+where $\epsilon$ is the energy density, $\Lambda$ subscripts represents dark energy and the $c$ subscript represents the critical density.
+I have encountered both
+
+$\epsilon_{\Lambda} = \mathrm{const.}$ and
+$\Omega_{\Lambda} = \mathrm{const.}$ with respect to $z$,
+
+but it seems like those statements would be contradictory because $$\epsilon_c = \frac{3H^2c^2}{8 \pi G}$$
+where $H$ depends on $z$. Which of 1 or 2 is correct?

@@ -1,0 +1,19 @@
+What does a narrow-band "point spread function" look like for long exposures from the VLT's large interferometric aperture?
+
+In interferometric radio astronomy UV plots are the first step in understanding what a point spread function (PSF) will look like for a given location in the sky observed over a period of time. The larger the number of dishes used, the better the choice of locations for each dish (pseudo-random spiral-like ground patterns) and the longer the observation (making longer arcs in the UV plane) all help to reduce the size of the PSF and reduce any bright secondary spots within it.
+
+Math behind a uv plot in interferometry?
+In astronomical interferometry, what values do the points in the uv-plane have?
+
+Bits of a discussion in comments below the currently unanswered question Are they really sure this isn't an Airy disk? How was that ruled out? goes something like:
+
+I think part of the answer is that interferometric point-spread functions generally do not look like the PSF of single-aperture telescopes, with a circular, symmetric Airy disk.
+
+and
+
+where the image is built up over several nights from several different sets of three1 "holes" rather than interfere them all at once, (they move the telescopes around in between) and I don't know know how they synthesize that to get one image.
+
+Question: So I'm now wondering, with the VLT's large but sparse interferometric aperture (there are only four primary telescopes though I think there are some secondary (auxiliary) telescopes that feed into the interferometry as well): What does a "point spread function" look like for long exposures?
+
+1should be four2 I think, plus those auxiliary telescopes
+2No, three was right for that image, hat tip to astrosnapper

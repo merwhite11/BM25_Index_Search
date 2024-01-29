@@ -1,0 +1,4 @@
+Strong orange line in wood fire spectrum?
+
+I just built a DIY spectroscope using a CD and after making some tests, I noticed a really strong emission line located in the orange-yellowish zone of the fire spectrum (specifically, burning wood).
+I think that the strong line could be actually sodium, but wouldn't that mean that wood contains a lot of sodium in order to see such a strong emission line?

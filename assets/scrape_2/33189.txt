@@ -1,0 +1,8 @@
+What is wrong with this measurement of the synodic period of Mercury?
+
+I'm measuring the synodic period of Mercury using Stellarium. When measuring the synodic period one needs to choose a reference point to start the measurement, and I choose the point when Mercury is on top of the Sun. This is the start date:
+
+And this is the end date:
+
+Inputting these two dates into a calculator gives a synodic period of 104 days. However, as one can see from Stellarium's data, Mercury's synodic period is actually 115.88 days. This measurement is off by more than 10 days.
+Why is there such a large difference? It's not large in the absolute sense, but it seems well above the error margins. For example if instead I shift the start date to 9 April 2021, Mercury is discernibly not between us and the Sun.

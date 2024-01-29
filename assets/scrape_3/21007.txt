@@ -1,0 +1,4 @@
+How moon north/south nodes can be calculated
+
+If the planetary geocentric position of the moon is known (say, longitude 
+"254°31'35"") is it possible to calculate such position for north/south (ascending/descending) moon nodes? Or what else needs to be known?

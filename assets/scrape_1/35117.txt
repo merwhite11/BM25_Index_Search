@@ -1,0 +1,5 @@
+Why does the Sun track out a seemingly sinusoidal path on the celestial sphere?
+
+The question arose because I wanted to understand the path of the ecliptic after reading about it here: https://johnlucey.webspace.durham.ac.uk/users/solar-year/
+
+Is the sinusoidal path due to Earth’s axial tilt? Or is it related to mapping the path on a 2D pane? Is there a way to visualise this to aid understanding?

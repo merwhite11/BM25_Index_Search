@@ -1,0 +1,4 @@
+How well have we mapped our local neighborhood of stars?
+
+Do we have a reasonable idea of how well we've mapped our local neighborhood of stars? That is, about what fraction we know about vs. what fraction are unseen (too dim, too much dust, not enough observing time, etc.).
+Something like, "We're almost certain to have found all stars out to __ pc, we expect to have found > 90% [or whatever percentage is convenient] out to __ pc, we think we've found only -% in the Milky Way" would be perfect, especially with a reference. If I could have just one distance my current interest is ~2000 pc but I'll take whatever can be found. (Clearly we have at least fair coverage of ~60 pc to map the Local Bubble.)

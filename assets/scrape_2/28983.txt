@@ -1,0 +1,3 @@
+What are the aberrations of an SCT? And how can they be eliminated?
+
+The Schmidt-Cassegrain telescope is amazing! It is compact, suitable for astrophotography ,and it requires little to no collimation. However, the SCT has some inherent optical issues. What are they? What are their causes? and how can they be eliminated?

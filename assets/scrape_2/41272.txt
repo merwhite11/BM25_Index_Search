@@ -1,0 +1,16 @@
+What is the mean distance of M53 Nucleus' stars ? (and other Globular Clusters)
+
+Background: This Instagram post (from astronomypicturesdaily) tells that:
+
+If our Sun were part of this star cluster, the night sky would glow like a jewel box of bright stars.
+
+I opened this question because I've always wondered how days and nights would look like if we were part of a Globular Cluster.
+I looked on Simbad and found this article named "Globular cluster number density profiles using Gaia DR2" (de Boer et al., 2019) on which number density radial profiles are derived from several clusters using DR2 data.
+
+I guess, as a first approach, that this would depend on wether we're part of the "central region" of the Globular Cluster or, instead, closer to the boundaries. Anyways, in the first case (only because I think it's more interesting) I'd like to share some questions:
+
+What would be the mean distance between M53's stars over a certain region? How should it be computed?
+Under the assumption of being inside such a system, What would be the expected distance between us (Solar System) and neighbor stars?
+Considering brightness of this stars, how would night and day sky would really look?
+Is there any known exoplanet system that lies inside a Globular Cluster?
+Do you think that the same question can be applied to Elliptical Galaxies?

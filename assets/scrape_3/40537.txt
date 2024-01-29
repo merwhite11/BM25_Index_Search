@@ -1,0 +1,5 @@
+How is the polar angle of a pulsar beam determined?
+
+I just read the question "What is a typical polar angle of a pulsar beam?" and I was surprised that it had an answer. I thought there was little real information besides the timing of the pulses, and it seems like any given timing could be consistent with a beam with any cone angle.
+As I think about it, if you know the angular width of the beam as it leaves the pulsar, then you could infer something from the relative durations of the pulse and the time between pulses. Is that it? Or is it something else?
+Note: I misunderstood the first question to be asking about $\alpha$ in the notation of the accepted answer, but they were really asking about $\rho$, the angular radius of the "lighthouse beam". It is easier for me to understand how that could be estimated.

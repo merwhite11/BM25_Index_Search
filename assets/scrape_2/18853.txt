@@ -1,0 +1,5 @@
+Are there upper or lower mass limits for black holes?
+
+Natarajan & Treister (2008) describes a practical upper limit for black hole masses at $\sim 10^{10} M_\odot$. This is all due to the black hole's interactions with nearby matter.
+However, is there a theoretical upper mass limit for black holes in general relativity? More specifically, do any solutions make note of this? Would this depend on whether the black hole described is eternal or time-variant, static or spinning, charged or uncharged, etc.?
+Similarly, do any metrics make note of lower mass limits? Would it be possible for a black hole with the mass of an electron to exist (at any point in time, putting aside Hawking radiation)?

@@ -1,0 +1,7 @@
+Are astronomical studies with no "proprietary period" for data organized differently than studies with "proprietary period"?"
+
+Let's assume you are a group of astronomers that proposed an observation by a telescope.
+The observation has been conducted, so you have got the data you wanted. But the data has no proprietary period. So everybody can access it by the internet.
+If there are potential discoveries in the data, you would like to maximize the chance that your group will be the first to find them. It's you who proposed the observation. It would be a pity if others were reported the finding ahead of you.
+I can guess the data analysis will be more intensive compared to the case when there would have proprietary period when only you can access it. Also you may use new improved pipelines for data analysis which you do not make available for others.
+These are my guesses. But in reality - do studies differ much for open astronomical data compared to proprietary data?

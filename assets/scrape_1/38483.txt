@@ -1,0 +1,3 @@
+Searching dataset for Constellation detection
+
+I need to develop an Machine Learning (ML) model for predicting constellation seen in a picture taken from a mobile. This I need to develop from scratch. Firstly, I need help finding a database which can provide me images of stars with constellations labelled in it. Those can be from a ground based telescope or from a camera. This is going to be a multi-labelled problem. Even after spending hours of searching I can't find a good dataset. I want a dataset with several images (preferably a few 100), each labelled with the constellation seen in them. Then I am planning to refine them and use TensorFlow for prediction. I am a grade 12 student and still new to ML, so I really need your help.

@@ -1,0 +1,5 @@
+The RA and Dec of lunar poles
+
+The moon faces the earth with one fixed side. However there is a small vibration. 
+So I am not sure the south and north poles of the moon is fixed. Even if they are fixed points on the moon, the pole axis should point at different locations in the sky.
+What are the general positions of the two points in equatorial coordinate system of our earth?

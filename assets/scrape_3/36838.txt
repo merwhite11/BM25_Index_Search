@@ -1,0 +1,3 @@
+When graphing radial velocity measurements, whats the relationship between days and the orbital phase
+
+I graphed the radial velocity measurements for various planets, however, I am able to calculate the RV and the phase but whats the translation between phase and days. I want it to be days vs RV.

@@ -1,0 +1,20 @@
+Catching up with Hubble domain galaxy at constant acceleration: is it possible? If yes, what time will it be when I arrive?
+
+An elf gave me a magic spaceship for Christmas: it can maintain a thrust of $\alpha = 10\ \mathrm{N/kg}$ indefinitely. Otherwise, I'm still constrained by physics. I plan to set out on a journey into space at constant acceleration in a straight line from Earth.
+Far away galaxies recede from Earth at a velocity $v$ proportional to their distance $x$ (Hubble's law):
+$$v=Hx,$$
+where $H$ is the Hubble parameter, currently about 67.8 (km/s)/Mpc.
+Question 1: While I accelerate, can I eventually match velocity with a galaxy at the same distance from Earth as myself? So I could effectively catch up to a galaxy by cutting down the thrust at the right moment and thus get in orbit around a planet without braking too hard?
+I have been able to make a naïve calculation based on special relativity as follows, but as some comments suggest, an actual answer should also include a discussion of general relativistic effects, especially where they cannot be neglected.
+Here is my naïve calculation: when I start my journey, I first crawl slowly out of Earth's gravity well for a short time, maybe for a day or so, by which I reach a domain where gravity is small compared to my thrust. I'm then in a domain governed by special relativity, where my distance from Earth is governed by hyperbolic motion
+$$x=\frac{c^2}{\alpha}\left(\cosh\frac{\alpha\tau}{c}-1\right),$$
+where $\tau$ is the proper time as measured on my spaceship (in particular, $x$ and $\tau$ are measured in different frames of reference).
+After one year of travel, I'm a bit over half a light-year away from Earth, and the Sun is still the closest star in the sky. After ten years, I'm about 17000 ly away, with the disk of the milky way behind me. After 17-18 years, I'm roughly 10 Mpc out, where Hubble's law starts becoming valid. My velocity relative to Earth is
+$$v=c\tanh\frac{\alpha\tau}{c}.$$
+Plugging $x$ and $v$ into Hubble's law above yields
+$$\tanh\frac{\alpha\tau}{c}=\frac{Hc}{\alpha}\left(\cosh\frac{\alpha\tau}{c}-1\right).$$
+For large values of $\alpha\tau/c$, $\tanh\approx 1$ and $\cosh\approx\exp/2$. With the elf's choice of $\alpha$, a large value would be $\tau\gg 1\ \mathrm{year}$. We need to assume $\tau > 17\ \mathrm{a}$ anyway, and solving for $\tau$ yields
+$$\tau\approx\frac{c}{\alpha}\ln\left(2+\frac{2\alpha}{Hc}\right)\approx 42\ \mathrm{years}.$$
+The possible problem I see with this calculation is that while on the spaceship, only 42 years pass, a much longer time will have passed on Earth, possibly leading to changes in the Universe/Hubble parameter to break the calculation.
+Now, if it is possible to find a nearby galaxy at velocity zero relative to the spaceship after half a human lifetime, I could find myself a nice Earth-like planet and chat with the folks there.
+Question 2: What time would it be on the planet? I don't mean teatime, but more like, what would their answer be if I asked, how long since the Big Bang? Would it be similar to the answer I'd get on Earth (13.7 Ga)? After all, I travelled for only 42 years without changing direction, experiencing Earth-like acceleration all the way.

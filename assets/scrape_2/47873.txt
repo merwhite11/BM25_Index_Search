@@ -1,0 +1,4 @@
+Would lightning on planets with noble gas rich atmospheres cause a glow similar to an electric discharge lamp?
+
+I've read about how noble gases in gas tubes emit varying colors of light when electricity is passed through them
+For a planet with noble gas rich atmospheres (say >20%), would a lightning strike cause the local area around the strike to glow brightly in the color corresponding to that of the specific noble gas?

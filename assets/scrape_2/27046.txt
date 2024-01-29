@@ -1,0 +1,12 @@
+Ephemeris data mismatch between Nasa Horizonz and Astro.com
+
+I have tried to compare the Ephemeris data from Nasa's Horizons with ephemeris 
+tables from astro.com. And they do not match. Example:
+Date: 22th of July 2018. Body: Mars. Time 00:00 UT
+Horizons: 309 degrees (Ephemeris type=Observer)
+Astro.com: 305 degrees (http://www.astro.com/swisseph/ae/2000/ae_2018.pdf)
+But some bodies are matching. Like Mercury and Saturn. 
+Am I doing something wrong?
+Sources:
+Nasa Horizons: https://ssd.jpl.nasa.gov/horizons.cgi#top
+Astro.com: http://www.astro.com/swisseph/swepha_e.htm

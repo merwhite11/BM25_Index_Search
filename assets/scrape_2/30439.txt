@@ -1,0 +1,20 @@
+How does the Large Binocular Telescope resolve so well in both orthogonal directions simultaneously?
+
+The Forbes article Ask Ethan: How Does Very-Long-Baseline Interferometry Allow Us To Image A Black Hole? includes an example of optical interferometry from the Large Binocular Telescope, shown below.
+
+The occultation of Jupiter's moon, Io, with its erupting volcanoes Loki and Pele, as occulted by Europa, which is invisible in this infrared image. The Large Binocular Telescope was able to do this owing to the technique of interferometry. Credit: LBTO
+
+
+related: When will the next series of mutual eclipses of Jupiter's moons begin?
+
+The LBTO consists of only two telescopes 8.4 m (330 inch) wide mirrors, with centres 14.4 m apart, so I would expect to see higher resolution in one direction than the other.
+However in this GIF the resolution seems to be the same in both directions. While I see high spatial frequency ringing in the horizontal direction, I don't see any difference in resolution. 
+Since the event is so fast (probably minutes or seconds) there is no chance that the natural rotation of the baseline during the course of a night could have helped.
+So I'd like to ask How does the Large Binocular Telescope resolve so well in both orthogonal directions simultaneously?
+
+
+Open image in new window for full size:
+
+Source 
+
+The LBTI (green structure in the center of the frame) between the two 8.4m mirrors of the LBT.  High resolution image Credit: LBTO - Enrico Sacchetti

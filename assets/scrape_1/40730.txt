@@ -1,0 +1,7 @@
+Why doesn't star size distribution conform to space rock size distribution?
+
+The number of space rocks is exponentially related to the size of the rocks. There are more small space rocks than big ones. Stars are most commonly the size of the sun, big and smaller stars are rare, and giant stars are the rarest. Stars that are 0.5 solar masses should also be very bright and visible, but they are less numerous, when they should be more frequent than the sun.
+What about planets? There should be many unaccompanied planets wandering in the darkness of space, without a star, and they should be a lot more common than stars themselves, becaues of the size distribution of space rocks and stars should be roughly parallel.
+What am I missing?
+graph of star size distribtion.
+graph of space rock size distribution.

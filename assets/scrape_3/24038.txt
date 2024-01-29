@@ -1,0 +1,6 @@
+Is there a complete edition of the Cambridge Catalogue of Radio Sources (esp. 3C) available digitally?
+
+In radio astronomy, many common objects are refered to by their designation from the 3rd Cambridge Catalogue of Radio Sources, e.g. 3C 353. 
+For hobbyist purposes, I would like to create a catalogue for Cartes du Ciel that shows the location of the 3C objects. However, the catalogue exists in three versions, 3C from 1959 being the original, and 3CR (1962) and 3CRR (1983) updating the original. 
+Later surveys at different frequency bands used similar designations, e.g. 4C, 5C and so on.
+Looking at the databases linked above, however, it seems that both only list the updates to the original catalogue (e.g. 3C 353 is listed in neither of them). Is there a digitized, comprehensive catalogue of all 3C objects? Or, even better, is there an archive where I could combine entries from several C surveys based on, say, 21cm flux?

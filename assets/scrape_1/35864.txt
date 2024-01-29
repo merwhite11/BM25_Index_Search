@@ -1,0 +1,7 @@
+How to make a star chart from entries in a Bright Star Catalogue?
+
+I know very little in astronomy, but I want to use the data in a Bright Star Catalogue to create star map projections for a specific time and place. 
+For example one line is
+{ "Dec": "-33° 31′ 46″", "HR": "13", "K": "4850", "RA": "00h 08m 03.5s", "V": "5.68" },
+
+How would I convert this to an $x, y$ point on a printed star chart that could be used for viewing the sky at a specific time and place?

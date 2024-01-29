@@ -1,0 +1,29 @@
+Calculating the Diameter of Jupiter through Image
+
+I was trying to calculate the diameter of Jupiter from a picture I took of it. Here's the information I was able to get that I needed to calculate the diameter:
+
+Focal Length of Telescope: 1.2 m
+Multiplier for Barlow Lens: 2x
+Camera CCD (Sensor) dimensions: 14.8 x 22.2 (mm)
+
+I found the diameter to be 135 pixels in my image. Here's what I did:
+\begin{align}
+f_e &= \text{Focal Length $\cdot$ Barlow Multiplier}\\
+ &= 1.2 \cdot 2\\
+ &= 2.4
+\end{align}
+Then, to calculate the field of view:
+$$\text{Field of View} = \frac{\text{Sensor Size}}{f_e} \cdot \frac{180}{\pi}$$
+Where the sensor size is the length in millimetres of the size of the camera CCD (I used the horizontal axis, or the longer side, to get the 135 pixels, meaning that I'd use 22.2 mm), and the second fraction is there solely to convert radians into degrees. Substituting my values, I got:
+\begin{align}
+\text{Field of View} &= \frac{0.0222}{2.4} \cdot \frac{180}{\pi}\\
+&= 0.53^\circ 
+\end{align}
+As my entire image is 4271.8 pixels wide, and I know the angular field of view, I used ratios to get the field of view of the 135-pixelled Jupiter to be $\theta = 0.017^\circ$.
+Then, using basic trigonometry, I was able to calculate the radius of jupiter:
+$$\tan \left(\frac{\theta}{2}\right) = \frac{\text{Radius of Jupiter}}{\text{Distance to Jupiter}}$$
+The photo was taken on March 22, 2016 - Wolfram Alpha gives 667.6 million as the distance to Jupiter on that day:
+$$\tan \left(\frac{0.017^\circ}{2}\right) = \frac{\text{Radius of Jupiter}}{667.6 \cdot 10^6}$$
+$$\therefore \text{Radius of Jupiter} = 97\ 577\ \mathrm{km}$$
+Googling the radius of Jupiter gives $69\ 911\ \mathrm{km}$ as the result. Is there any reason why my value is so significantly off? Anything wrong with my procedure, anything I'm missing? I was not able to to upload this image I took as the file size was too large, however, the image does not lack clarity and I am completely stumped as to why my result is off by such a significant amount. 
+Any help will be greatly appreciated, thanks in advance.

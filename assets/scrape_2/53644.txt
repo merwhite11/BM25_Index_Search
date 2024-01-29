@@ -1,0 +1,87 @@
+Photometry in SExtractor vs Python
+
+I wanted to find stars in the dwarf Spheroidal (dSph) galaxy. I performed photometry using SExtractor and in Python using DaoStarFinder and other astropy packages. However, while extracting the magnitudes, the Python-based magnitudes were a lot different from the SExtractor-based magnitudes (using MAG_BEST command). Here is my python code.
+from astropy import wcs
+from astropy import units as u
+hdulist = fits.open('ccd0.fits')
+data = hdulist[0].data
+
+# Load the WCS information from the FITS header
+image_wcs = WCS(hdulist[0].header)
+
+
+pixelscale = np.mean(wcs.utils.proj_plane_pixel_scales(image_wcs) * u.degree).to('arcsec')
+
+# Find the sources using DaoFinder
+
+from photutils import DAOStarFinder
+fwhm=1.5 / float(pixelscale/u.arcsec)
+sigma_detection = 5.0
+daofind = DAOStarFinder(fwhm=fwhm, threshold=sigma_detection*std)    
+sources = daofind(hdulist[0].data - median)    
+#print(sources)
+
+
+# adding ra and dec to the columns list of the sources table
+from astropy.wcs import WCS
+
+x = np.array(sources['xcentroid'])
+y = np.array(sources['ycentroid'])
+
+# Convert the x and y pixel positions to RA and Dec coordinates
+sky = image_wcs.pixel_to_world(x, y)
+ra, dec = sky.ra.to(u.deg), sky.dec.to(u.deg)
+
+# Add the RA and Dec columns to the table
+sources['RA'] = ra
+sources['Dec'] = dec
+
+
+''' remove the outer found detections (xsize and ysize are added because there are black bad pixels around the edges, 
+13 added instead of 12.5=radius to avoid the detected sources circular apertures)'''
+
+xsize = 63+13
+ysize = 69+13
+hxsize = (xsize - 1) / 2
+hysize = (ysize - 1) / 2
+x = sources['xcentroid'] 
+y = sources['ycentroid'] 
+mask = ((x > hxsize) & (x < (data.shape[1] -1 - hxsize)) &
+        (y > hysize) & (y < (data.shape[0] -1 - hysize))) 
+
+from astropy.table import Table
+sources_new = Table()
+sources_new['x'] = x[mask]  
+sources_new['y'] = y[mask] 
+
+# masked/final detected sources
+x = sources_new['x'] 
+y = sources_new['y'] 
+
+# Define the radius of the circles
+radius = 12.5
+
+# Create the circular apertures around the detected stars (after removing outliers)
+positions = np.transpose([x, y])
+apertures = CircularAperture(positions, r=radius)
+
+# Plot the image with the circular apertures
+plt.style.use(astropy_mpl_style)
+fig, ax = plt.subplots()
+norm = simple_norm(data, 'power',power=7.0, percent=99.0)
+plt.imshow(data, norm=norm, origin='lower', cmap='inferno')
+apertures.plot(color='white', lw=1, alpha=1)
+plt.grid('off')
+plt.show()
+
+#add the masked sources to a new table
+
+from astropy.table import Table
+params_table = Table(names=('ra', 'dec', 'mag'), dtype=('float','float','float'))
+
+#Loop over the mask values and add the i-th value and its index to the table
+for i, value in enumerate(mask):
+    if value:
+        params_table.add_row((sources['RA'][i], sources['Dec'][i], sources['mag'][i]))
+
+The magnitudes here range from 0 to -8, whereas the SExtractor-based magnitude ranges from -8 to-17. Why is there a such discrepancy?

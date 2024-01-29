@@ -1,0 +1,3 @@
+Why is $H_\delta$ prominent in type A stars?
+
+I understand factually that H$\delta$ lines are most prominent in type A stars and less so in more extreme types of stars on the H-R diagram. However I was wondering the reason for why they are not prominent in more extreme type stars such as type O or type F. For type F stars I believe (this may not be correct) none of the hydrogen is in the 4th excited state (or very few are) so there aren't many H$\delta$ balmer lines. However I am very unsure of why the EW H$\delta$ is low in type O stars. Can someone please explain this, Thanks!

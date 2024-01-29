@@ -1,0 +1,4 @@
+How are the gaps filled in images captured by CCD arrays?
+
+Large telescopes don't use a single CCD; they use arrays of them. Since CCDs can't be seamlessly joined, this means that every captured image must have gaps. But, the resulting images almost never have gaps when they are presented to the public.
+How are these gaps filled? Does the telescope capture a number of overlapping images and then merge the results? Wouldn't this result in differing exposure levels for differing areas of the image, which, even though it could be compensated for in the processing, would give different noise characteristics to the different areas?

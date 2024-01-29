@@ -1,0 +1,4 @@
+How much mass does the Sun gain from the Poynting-Robertson effect?
+
+I understand that the Poynting–Robertson effect describes solar radiation induced drag on certain sized dust particles causes them to lose orbital angular momentum and eventually fall into the Sun.
+But how much mass per year is actually added to the Sun from effect?

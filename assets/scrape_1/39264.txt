@@ -1,0 +1,6 @@
+Why doesn't Earth's leading tidal bulge cause the Moon to start spinning in the opposite direction than its original spin?
+
+Please refer to the image below:
+
+My question is, why doesn't Earth's leading tidal bulge (encircled in the green circle 1) pull on the moon's tidal bulge (encircled in green circle 2), leading to a force $F_{1,2}$, and consequently a torque on the Moon's tidal bulge, leading it to start spinning as shown in the image. This spinning direction would be opposite of the original direction of the Moon's spin, which got retarded and eventually stopped due to tidal interactions over billions of years.
+Please note: I know that Earth's tidal bulge causes the Moon as a whole to increase its velocity which is causing the Moon to be drifted away from the Earth, but that is not what my question is.

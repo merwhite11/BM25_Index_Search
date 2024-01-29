@@ -1,0 +1,3 @@
+Distance and orbital period for terrestrial binary planets
+
+This article, http://phys.org/news/2014-12-binary-terrestrial-planets.html, suggests binary planets could orbit each other at a distance of only three planet radii. For two earth-like planets, that is approximately 12,000 miles. Does this distance seem accurate? How long would it take for these planets to orbit their barycenter?

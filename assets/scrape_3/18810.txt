@@ -1,0 +1,4 @@
+How do supernova explosions reconcile with light speed constraints?
+
+I have learned about the various types of supernovae, and both Types Ib and II involve the extremely rapid compaction or explosion of a star's core.
+How does the "information" that (respectively) the Chandrasekhar limit or the degeneracy pressure have been reached propagate through the star with enough speed (yet below $c$) that the resulting collapse remains symmetric and happens in a very short time?

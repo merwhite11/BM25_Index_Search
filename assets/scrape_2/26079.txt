@@ -1,0 +1,28 @@
+Which kernel does HORIZONS get the Geometric Albedo from?
+
+I am new to using SPICE and the SPICE Toolkit.  My goal is to extract body radius, albedo, and distance from the sun of a number of solar system objects.  The tools provided by NAIF are great and I have been able to get the information items I need from HORIZONS.  I would like to use mice and the right selection of kernels to construct a table of body information.  I am unable to locate the geometric albedo.  It must be in there somewhere since HORIZONS reports it in its body summary (example below).  Please point me to which kernel(s) the information in the example is extracted from.
+Horizons> 500
+*******************************************************************************
+JPL/HORIZONS                500 Selinur (1903 LA)          2018-Apr-26 15:32:09
+Rec #:     500 (+COV) Soln.date: 2018-Apr-05_11:16:59   # obs: 1803 (1903-2018)
+ 
+IAU76/J2000 helio. ecliptic osc. elements (au, days, deg., period=Julian yrs): 
+ 
+  EPOCH=  2455485.5 ! 2010-Oct-16.00 (TDB)         Residual RMS= .28963        
+   EC= .1453222754778464   QR= 2.232822954662918   TP= 2455876.0720004463      
+   OM= 290.0072894804399   W=  75.13840817439457   IN= 9.764544808931515       
+   A= 2.612473556522465    MA= 268.8351702646443   ADIST= 2.992124158382012    
+   PER= 4.22266            N= .233413627           ANGMOM= .02750885           
+   DAN= 2.46541            DDN= 2.65631            L= 4.9371039                
+   B= 9.434865500000001    MOID= 1.25316           TP= 2011-Nov-10.5720004463  
+ 
+Asteroid physical parameters (km, seconds, rotational period in hours):        
+   GM= n.a.                RAD= 20.414             ROTPER= 8.0111              
+   H= 9.3                  G= .150                 B-V= n.a.                   
+                           ALBEDO= .202            STYP= n.a.                  
+ 
+ASTEROID comments: 
+1: soln ref.= JPL#41, OCC=0
+2: source=ORB
+*******************************************************************************
+ Select ... [A]pproaches, [E]phemeris, [F]tp,[M]ail,[R]edisplay, [S]PK,?,<cr>:

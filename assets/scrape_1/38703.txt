@@ -1,0 +1,6 @@
+How to find the mass of a planet not knowing the gravitational constant?
+
+So I found this problem, I know the gravity of earth $g_0$, I found the orbital speed of one satellite using this equation $\frac{GM_em_s}{(R_e+h)^2}=m_sa$
+($M_e$ is the mass of earth, $m_s$ is the mass of the satellite, $R_e$ is the radius of earth, $h$ is the height of the satellite)
+and by taking $h=0$ I found the gravity of earth $\frac{GM_e}{R_e^2}=g_0$ so I found $GM_e=R_e^2g_0$ and then I found the orbital speed $v=R_e\sqrt{\frac{g_0}{R_e+h}}$ and then I calculated kepler's third law. but the last questions says deduce the mass of the earth $M_e$, How can I do this by not knowing the gravitational constant?
+I'm sorry for bad english, and thanks a lot

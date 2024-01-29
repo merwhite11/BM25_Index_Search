@@ -1,0 +1,6 @@
+What should be the declination of a star to be marginally circumpolar given the latitude & height from ground?
+
+If I'm given the latitude, I can easily find the declination by using
+declination = 90 - latitude.
+I can also find the angle of dip from the height but should I add or subtract it from the declination I found?
+Also I have to consider atmospheric refraction but I don't know how.

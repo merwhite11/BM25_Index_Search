@@ -1,0 +1,10 @@
+Is it possible to revive the Mars geodynamo?
+
+I’ve done a bit of reading and have found multiple theories suggesting how the Mars geodynamo stopped fully working.
+This site suggests that one possibility could be volcanic activity ejecting water and other necessary elements from the mantle significantly slowed the natural convection process.
+Where as this site says that it also could have been massive asteroids colliding with the surface, heating the planet up to temperatures that would disrupt convection. 
+No one is quite certain what happened, all that is known is Mars doesn’t have much of a magnetic field at this point.
+Today I saw that there’s an idea to create an artificial field that’ll act in place of a geodynamo’s naturally generated one.
+My main concern for this is that the units creating the artificial field could be destroyed and the entire planet would become unstable afterwards.
+It would seem if the magnetic field is supported by the planet itself, it would offer a higher degree of stability and less involvement for humans in the long run. 
+What’s the possibility for ‘restarting’ the Mars geodynamo or perhaps ramping it up enough to support a strong enough field? And if so, how would we be able to do it?

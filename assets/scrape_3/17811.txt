@@ -1,0 +1,11 @@
+Why is the "green" comet C/2014 Q2 (Lovejoy) red in this picture?
+
+In this nice NYTimes 'survey article' "Our Vast Solar System
+and Its Many Explorers" there is a NEOWISE image of Comet C/2014 Q2 (Lovejoy). See here also.
+The NASA description of the image says:
+
+The red color is caused by the strong signal in the NEOWISE 4.6-micron wavelength detector, owing to a combination of gas and dust in the comet's coma.
+
+So I understand that this is a false color image, and the image at 4.6-micron is overlaid using red. So I should really ask: why is Comet C/2014 Q2 (Lovejoy) (and probably many) comet actually bright at 4.6 microns "...owing to a combination of gas and dust in the comet's coma." Is the gas fluorescing and the dust scattering? Or is this thermal radiation from the dust? The explanation in quotes doesn't really explain why "the red color is caused by the strong signal (around) 4.6-micron wavelength (is) owing to a combination of gas and dust in the comet's coma."
+
+below: The more familiar green glow of this (and many) comet from here.

@@ -1,0 +1,5 @@
+What are practical considerations for backyard radio-astronomy detection of black holes?
+
+Evidently, direct observation of a black hole for an amateur astronomer, such as described for what professionals do in the question "How are black holes found?" would be nigh on impossible, so the observations would be based on their effects of the surrounding matter (specifically, accretion disks and jets) and more likely detecting the radiation signals.  
+Given that the locations of many black holes are known, what practical considerations would a backyard radio-astronomer need to consider to attempt to do detect black holes?
+Amateur radio-astronomy detection of pulsars and gamma ray bursts are discussed practically in Introduction to Radio Astronomy (Society of Radio Astronomers), this question is to see what practical considerations would be needed to extend those techniques to detecting black holes.

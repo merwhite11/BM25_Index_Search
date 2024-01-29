@@ -1,0 +1,10 @@
+How to scale down solar system data to simulatable values
+
+Okay, I am seriously ashamed for asking this especialy when I geniualy study on physics but there is something that bugs me with the simulation I am working on.
+I am re-creating the solar system in an n-body simulation that i programmed before. And I've a problem with scaling down the solar data. So even if I use kg and km for the metric units, the values are far bigger than the variables can hold in programming. Also as some of you know, bigger the value is, bigger the floating point error it makes. (error noise in data) Also it makes it slower to process.
+I decided to scale down the data with a reference point, and for that, I took the earth's radius as 1 unit. And scaled down every other distance and radius according to it. (So a unit is 6371 km just to be clear)
+But I am not sure whether if I should scale down the mass or not. My common sense says that I should scale down the mass so density of each body should remain same. So I took the density, and calculated a new mass value for each body, with the new scaled down radius.
+But I am somehow couldn't conviced myself about If it's true or not. So here I am, asking to you :) Should I also scale down the mass?
+PS.1: I used using $F = GMm/r^2$ equation for the calculactions as usual. (Iterating it through each body pairs)
+If there are other programmers like me interested in making a simulation like this, how did you accomplish this data size problem? Are there any better solutions than scaling down the values?
+PS. I have created an excel file that does the scale conversion. So I am sharing  the sheet in OneDrive. (http://1drv.ms/1NIekGo) If you can check my calculations and values, that I'd also be really helpful to me. Thanks for any help.

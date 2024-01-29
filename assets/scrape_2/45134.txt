@@ -1,0 +1,5 @@
+How is the H II 'region' directly detectable? By Compton or Thomson free-particle scattering? At what wavelengths?
+
+The Wikipedia page on H II regions says that they are 'indirectly' detectable by the detection of doubly-ionized oxygen atoms mixed in.... (I am presuming atoms, not diatomic molecules...)
+But are free protons and electrons easily detectable?  At what wavelengths or frequencies?  Would they be all over the map due to not having defined energy levels, like atoms and molecules?
+Also, if astronomers can detect free electrons more easily than protons (I am making an assumption here) do they assume that wherever there are electrons, there are protons?  And vice versa?

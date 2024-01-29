@@ -1,0 +1,7 @@
+What resolution would earth-moon telescope achieve?
+
+Event horizon achieved earth-size telescope by using  seperate telescopes around the world to interpolate an image of a black hole at resolution of 60 arcmicroseconds.
+What resolution could we get if we built radio telescopes on the moon and used earth-moon orbit to interpolate an image? What could we see with it?
+What if we used earth-moon-mars telescope?
+Would it make sense to go even bigger?
+This is all assuming we would have possibilities to build local telescopes like ones on earth in future.

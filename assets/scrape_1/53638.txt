@@ -1,0 +1,7 @@
+Visibility of solar flaring region from Jupiter
+
+I numerically calculated the following numbers.
+The geocentric longitude of the Sun on 25 November 1999 at 00:00 UT was 243.52 degrees (numerically calculated with an error of 1 degree).
+On this date (25 November 1999), from sunspot number 8771, an M2.0 class of flare started occurring at 18:59 hours and ended at 19:29 hours. This sunspot was located at S15W40.
+On this date (25 November 1999), the ecliptic longitude of Jupiter was 32.92 degrees and its geocentric longitude was 26.20 degrees (numerically calculated with an error of 1 degree).
+Help me to understand the geometry of the alignment of the location of the sunspot 8771 w.r.t. the position of Jupiter. Would the solar flares from the flaring region be visible from Jupiter?

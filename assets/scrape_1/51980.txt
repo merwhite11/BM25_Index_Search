@@ -1,0 +1,4 @@
+How to get the name of an asteroid if I have it's RA - dec position at a particular time?
+
+I have the RA - Dec position of a potential asteroid and the time at which it was taken. Is it possible to use this information to get more information about this asteroid, like its name, orbital details etc?
+I know Minor Planet Centre databases can help to get the ephemeris of an asteroid using its name. But is the reverse possible?

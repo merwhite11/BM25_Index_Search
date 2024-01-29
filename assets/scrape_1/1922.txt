@@ -1,0 +1,3 @@
+How do I calculate the velocity dispersion of a galaxy given an integral field spectrograph?
+
+I couldn't find on the web how to get the velocity dispersion and velocity maps of galaxies from the 3D data cube that I get from the integral field spectrograph.

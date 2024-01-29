@@ -1,0 +1,3 @@
+How to find integrated radio flux for the 21-cm line due to HI content in a dwarf galaxy?
+
+Suppose I have a rough estimate of HI gas content (in solar mass units) in a local dwarf galaxy located at a distance say d parsec (at some RA and Dec co-ordinates) with a half-light radius r and I am assuming a velocity width of 10-20 km/s. Now equipped with this info I need to figure out how much would be the approx integrated radio flux on earth. Any idea how to get it (or what other information I'll need)?

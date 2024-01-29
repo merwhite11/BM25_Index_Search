@@ -1,0 +1,7 @@
+Is there a way to calculate the mass of of a stellar remnant given the initial mass of the star?
+
+Assume there is a star in a completely empty region of space, away from any outside influence.
+Is there a way to calculate the mass of a resulting stellar remnant, a white dwarf, neutron star, or black hole(variations is accuracy are completely fine) that will result after a star dies, only given the star's mass around the time in which will die? (like an equation or something)
+And, is there a way to calculate the resulting remnant's mass only given the star's initial mass during its formation?
+It would be appreciated if one were to provide a concrete method or graph for determining such.
+Thanks in advance!

@@ -1,0 +1,11 @@
+How will Starlink affect observational astronomy?
+
+I have recently found that people around the world have been posting observations of a line of moving objects in the sky which is very likely to be a part of Starlink satellite constellation, such that there is even a meta question here about them: Do we need a notice about billionaire space ventures?.
+In 2019, 19 Starlink satellites interrupted the observation of an observatory in Chile by showing up in the DECam exposure. By far, 122 satellites have been deployed, but spacex plans to launch more than 12000 satellite to complete its satellite constellation.
+There have also been a few specific questions about constellations of satellites and astronomical instruments here and they reference Starlink.
+However, the following question has not yet been asked point-blank: How Will Starlink Affect Observational Astronomy? Is there any citable research or science-based speculation as to the extent that Starlink will influence observational astronomy? Is it possible to address it here now?
+According to Did nobody in the Astronomy community think 12,000 new satellites in LEO might be a problem? SpaceX chief operating officer Gwynne Shotwell has said
+
+“No one thought of this... We didn’t think of it. The astronomy community didn’t think of it.”
+
+Now that some time has passed and people have definitely thought of it, is the likely impact on observational astronomy better understood?

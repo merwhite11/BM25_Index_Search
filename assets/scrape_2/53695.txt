@@ -1,0 +1,70 @@
+Calculation of average FWHM by PSF fitting of all the detected stars in the fits image
+
+I need to calculate the FWHM of all the stars detected via the DaoStarFinder package/any other package by performing PSF fitting in Python. Here is the code for my detection.
+hdulist = fits.open('F:/TRGB project/2214868p/ccd39.fits')
+data = hdulist[0].data
+
+# Load the WCS information from the FITS header
+image_wcs = WCS(hdulist[0].header)
+
+
+pixelscale = np.mean(wcs.utils.proj_plane_pixel_scales(image_wcs) * u.degree).to('arcsec')
+
+# Find the sources using DaoFinder
+
+from photutils import DAOStarFinder
+from astropy.stats import sigma_clipped_stats
+
+mean, median, std = sigma_clipped_stats(data, sigma=3.0, maxiters=5)    
+ 
+fwhm=1.5 / float(pixelscale/u.arcsec)
+sigma_detection = 5.0
+daofind = DAOStarFinder(fwhm=fwhm, threshold=sigma_detection*std)    
+sources = daofind(hdulist[0].data - median) 
+
+Now I need to calculate the FWHM of the stars, take their average, and then use this value as a parameter in SExtractor to distinguish between stars and galaxies. How do I calculate the FWHM of the stars by using PSF fitting method? Here is what I tried by selecting a particular star.
+# Median bkg subtracted image
+bkg_subtracted_image = data - median
+
+flux_counts = []
+pixel_distance = []
+
+x_cen = int(source['x'])
+y_cen = int(source['y'])
+
+# Pixels around detection loop
+analysis_radius = 50
+for x in range(x_cen - analysis_radius, x_cen + analysis_radius):
+    for y in range(y_cen - analysis_radius, y_cen + analysis_radius):
+        flux_counts.append(((bkg_subtracted_image[y][x]) / source['peak']))
+        pixel_distance.append(np.linalg.norm((source['x'] - x, source['y'] - y)))
+
+from astropy.modeling import models, fitting
+
+model = 'moffat'
+
+if model == 'gaussian':
+    # Fit the data using a Gaussian
+    fwhm_best_guess = 1.5
+    model_init = models.Gaussian1D(amplitude=1.0, mean=0, stddev=fwhm_best_guess)
+elif model == 'moffat':
+    # Fit the data using a Moffat
+    model_init = models.Moffat1D(amplitude=1.0, x_0=0, gamma=2., alpha=3.5)
+else:
+    raise Exception("Unknown model type: %s. Must be gaussian or moffat." % model)
+
+fitter = fitting.SimplexLSQFitter()
+fitted_model = fitter(model_init, pixel_distance, flux_counts)
+
+
+# FHWM conversion
+if model == 'gaussian':
+    iFWHM = 2.355 * fitted_model.stddev * pixelscale.value
+elif model == 'moffat':
+    iFWHM = fitted_model.gamma * 2 * np.sqrt(2 ** (1. / fitted_model.alpha) - 1) * pixelscale.value
+else:
+    raise Exception("Unknown model type: %s. Must be gaussian or moffat." % model)
+
+print ("FWHM estimated: ", iFWHM)
+
+I also need to display the PSF-fitted star.

@@ -1,0 +1,24 @@
+Combined mass of binary stars
+
+This is Question 17 from USAAAO Practice Round 2015. The answer is D. It would be best if someone can detail out the workings.
+
+In a nearby star system, two stars are seen to orbit each other every
+  8 years. At their closest, the stars are 2” apart. At their furthest,
+  they are 18” apart. If a parallax of 0.5” is observed for the star
+  system, what is its combined mass in solar masses? Assume an
+  inclination of 90 degrees. 
+
+a. 0.5
+b. 1
+c. 2
+d. 4
+e. 8
+
+
+What I got so far:
+
+Distance to system: 2pc (6.171e16 m)
+Minimum separation: 5.98e11 m
+Maximum separation: 5.38e12 m
+Relative semimajor axis: 2.99e12 m (20AU)
+Combined mass: 125 solar masses

@@ -1,0 +1,4 @@
+Is the sound horizon 500 thousand light years or 500 million light years?
+
+At 06:30 in the nice video Sound Waves from the Beginning of Time
+about the baryon acoustic oscillations (BAO), the speaker says the sound horizon is about $500$ thousand light-years. But, according to the figure to his right, the bump (peak) of the baryon overdensity (mass) indicates that before recombination, the position where the sound reaches is $150$ Mpc, which equals $500$ million light-years rather than $500$ thousand light-years. Was that a slip of the tongue of the speaker?

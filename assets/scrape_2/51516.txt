@@ -1,0 +1,11 @@
+What is a place to find raw numbers of sunspots from the past, as counted daily by sun observer?
+
+What is a place to find raw numbers of sunspots from the past, as counted by sun observers ?
+I have already visited 100+ of websites (NOAA, NASA, ESA, Japanese Institute ..)
+and what is offered is calculated number of sunspots, Wolf number or modified Wolf number, still called sunspot number or raw number of spots.
+I can get raw number of spots, as counted by observer from Royal Observatory Brussels, read from hand-made sketches, but one by one, not offered as a database txt or cms file.
+I write short conference paper and get historic raw sunspot number counts from bulletines by Rudolf Wolf and others, as old as of the 1850 year.
+It's ok, if you count sunspots and save your daily count to a file.
+But today, counted numbers of sunspots by an individual observer, have been replaced by calculated sunspot indexes, called International Sunspot Number,  Estimated Sunspot Number, Wolf number.
+I am sure, raw number of sunspots, as counted daily by an abserver, is saved and database is available somewhere on the internet, but I tried hard,  contacted many space weather scientists, researchers, contacted NASA, NOAA, ESA and still no success.
+thank you

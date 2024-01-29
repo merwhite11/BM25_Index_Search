@@ -1,0 +1,7 @@
+What do "star noise" and "sky noise" refer to for TESS (Transiting Exoplanet Survey Satellite)?
+
+The eoPortal article for TESS (Transiting Exoplanet Survey Satellite) gives a fairly in-depth summary of the space telescope design and planned operation. Some further background information on its observation mode and orbit can be found in the video linked below.
+Based on the caption (also shown below), I'm guessing that "star noise" is possibly related to shot noise; the counting statistics of the incoming photons or perhaps the photoelectrons thereby produced, and "sky noise" is the cumulative effect of all the other actual light present in the spatially binned area of a given star, including Zodiacal light within the solar system as well as all other sources.
+If so, and even if not, I don't really understand the units of $\sigma$ as parts per million per square-root hours, and why sky noise would vary as $I^{-1}$ while star noise expressed in these units varies as $I^{-1/2}$, where $I$ is the intensity of the light from a given star.
+below: Figure 12: Top: Expected 1σ photometric precision as a function of stellar apparent magnitude in the IC band. Contributions are from photon-counting noise from the target star and background (zodiacal light and unresolved stars), detector read noise (10 e-), and an assumed 60 ppm of incorrigible noise on hourly timescales. Bottom: The number of pixels in the photometric aperture that optimizes the signal-to-noise ratio (image credit: TESS Team)
+Excellent background on TESS: https://youtu.be/mpViVEO-ymc

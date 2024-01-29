@@ -1,0 +1,14 @@
+Is it possible to create Stellarium custom landscape for a small section of horizon?
+
+I would like to create the landscape for Stellarium, which won't include 360degree panorama, but will be restricted i.e. to 30, 50 degrees, and so on. Preferably even a few degrees in order to make my panorama more detailed. I would like to have some very detailed view (with zoom) instead of the standard 360degree overall as usual.
+I tried to attach some images with size i.e. 36000x4000Px (covering the horizon only) but they didn't work at all. Later I read that the absolute maximum image size for custom Stellarium landscape is 4096x4096px only.
+https://sourceforge.net/p/stellarium/discussion/278769/thread/dd83babc/
+I couldn't find anywhere the information about the answer to this question. Everywhere they ay, that the 360-degree panorama is mandatory...
+https://astrocamera.net/notebook/Stellarium/index.htm
+By seeking the Stellarium user guides I just found something interesting for the landscape.ini file
+    texturefov = 210
+
+With hope, that my panorama will be 210 degrees instead of 360. Unfortunately, it didn't work.
+I am asking then - is it possible to have the custom landscape panoramic views in Stellarium other than 360 degrees?
+If yes, could you give me some hints on where to find the instruction or what to attach to my landscape.ini file?
+If not, could you explain me why?

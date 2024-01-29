@@ -1,0 +1,7 @@
+Right ascension and sidereal time difference
+
+I've read quite a few articles about this and watched visualisations but I still struggle to get a mental map of how this works
+I understand that on March 21/22 RA 0 is on my meridian at local noon. Ignoring the sunlight, say there is a star also on that meridian at noon, in a month (April 21st) I understand that solar and sidereal time will have a difference of about two hours - does this mean the star will now be about 30 degrees west of the noon meridian?
+Also I read that sidereal time means celestial objects are always appearing in the same place in the sky but the sidereal times can be different? I think my main confusion is how sidereal and RA relate.
+To summarise I'm looking for more explanation regarding the two hour rule per month. Everything makes sense on the date of the vernal equinox but on say April 21st why is Sirius appearing two hours earlier? I know it's going to be obvious when it hits me :D
+Thanks

@@ -1,0 +1,4 @@
+Interpretation of Hubble constant in SI units
+
+The standard interpretation of Hubble constant $\approx 70~\text{km/s/Mpc}$ means that each mega-parsec of distance adds $70~\text{km/s}$ to a galaxy recession velocity from us (or to a space expansion rate ). But when expressing Hubble constant in SI units directly one gets about $2.27 \times 10^{−18} ~\text{Hz}$ frequency. What does this SI unit version interpretation of the Hubble constant mean? I'm not satisfied with the Wikipedia explanation about expansion rate within 1 exa-second, because exa-second is not strictly an SI unit.
+We know that the oscillation period is $T=1/f$, so substituting the Hubble constant $H_0$ would give $\approx 13.9~\text{billion years}$, something close to the age of the Universe. Based on that, does it mean that if the Universe had an oscillating (expansion-contraction) periodic life-time model, then the Hubble SI constant would be the universe oscillation frequency?

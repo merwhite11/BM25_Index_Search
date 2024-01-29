@@ -1,0 +1,6 @@
+Has celestial navigation been materially impacted by the imperfect nature of celestial reference frames over time?
+
+In this video on inertial reference frames, it is mentioned that the stars are humanity's best inertial reference frame: the earth experiences a subtle acceleration relative to the sun due to the earth's own orbit and rotation; therefore the earth is only roughly an inertial frame. But, the stars are relatively fixed, they say.
+However, the stars in galaxies move relative to each other--I assume many with some sort of rotational velocity and therefore acceleration--and galaxies themselves are all slowly moving away from one another, perhaps even with centrifugal acceleration of their own.
+Has this acceleration been great enough that humanity has needed to update navigational tools that rely on the assumption that stars are an inertial reference frame?
+Is it possible that every observable object in the universe is in fact accelerating relative to an unobservable reference frame?

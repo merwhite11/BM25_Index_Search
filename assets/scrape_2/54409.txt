@@ -1,0 +1,5 @@
+How to turn find velocity dispersion from radial velocity
+
+
+In the above given picture Vi is the velocity of the i-th galaxy in the cluster while Vm is the mean velocity of a galaxy in the cluster. and V i,r is the radial velocity of the i-th galaxy and V m,r is the mean radial velocity. How does converting mean velocity to mean radial velocity introduce a coefficient of 3.
+Image source IOAA 2019 question 13.

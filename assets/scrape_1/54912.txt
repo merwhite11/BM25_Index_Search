@@ -1,0 +1,12 @@
+North Node cross longitude?
+
+It appears that that swetest can tell the exact longitude as long as you give it the date and time
+./swetest -pt -b17.11.2023 -ut22:43
+date (dmy) 17.11.2023 greg.   22:43:00 UT        version 2.10.03
+UT:  2460266.446527778     delta t: 69.109781 sec
+TT:  2460266.447327659
+Epsilon (t/m)     23°26'18.3245   23°26'10.2223
+Nutation          -0° 0' 7.8330    0° 0' 8.1021
+true Node         24°29'59.7465    0° 0' 0.0000    0.002502442   -0° 3'35.2933
+
+Now my question is can one get the time and date for the nodes if it gives the longitude  lets say 24.5 same as the one in the swetest example .. can we calculate using swisseph, kind a like how solcross does  or mooncross ?  I only need a little hint on how to do it .. thank u <3

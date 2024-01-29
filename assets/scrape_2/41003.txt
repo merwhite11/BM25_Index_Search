@@ -1,0 +1,19 @@
+Can the "haze" of a mirror telescope be quantified?
+
+When reading Why was StDr56 discovered only now? and its answers and comments, I realized that refractor telescopes, and in particular the Dragonfly Telephoto Array are a great tool to find nebula and other faint objects. The proud parents at the Dunlap Institute summarize their technique nicely:
+
+Dragonfly images a galaxy through multiple lenses simultaneously—akin to a dragonfly’s compound eye—enabling further removal of unwanted light. The result is an image in which extremely faint galaxy structure is visible.
+
+Why are Earth-bound mirror telescopes not able to see such objects? To use uhoh's words:
+
+[T]he back story there is that refractors were better suited than reflectors because nano-roughness of silvered mirrors produces a faint haze of scattered starlight that competes with natural skyglow to "fog" exposures and hide objects with low surface brightness.
+
+This finally brings me to my question: How can this haze originating from the mirror telescope itself (and not from atmospheric effects) be quantified? Why does the nano-roughness of a mirror disturbes the image more than optical abberation of the lenses in a refractor telescope? Is it really only the nano-roughness? Or is it maybe also the support of the secondary mirror which is responsible for the "spikes" in pictures of stars?
+References
+
+Deciding optical factors between a refractive and reflective space telescope optics as a function of aperture? (visible light)
+What are the benefits of a large refracting telescope?
+Deciding optical factors between a refractive and reflective space telescope optics as a function of aperture? (visible light)
+Shany Danieli et al. The Dragonfly Wide Field Survey. I. Telescope, Survey Design and Data Characterization
+Deborah M. Lokhorst et al. Wide-field ultra-narrow-bandpass imaging with the Dragonfly Telephoto Array
+Roberto Abraham et al. Future Prospects: Deep Imaging of Galaxy Outskirts using Telescopes Large and Small

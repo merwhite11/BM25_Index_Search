@@ -1,0 +1,28 @@
+What exactly causes "color twinkling" and why does it seem that any color might be furthest refracted for a moment?
+
+In this answer to Betelgeuse appears in a rainbow of colors through a Newtonian telescope I link to a video of a bright star imaged at perhaps video rate (I think) through a telescope. In addition to the saturated central white spot the edges show twinkling (i.e. scintillation or astronomical seeing effects) which shows up in the color camera and unknown amount of color "correction" or chroma boost as lots of vibrant colors at the edges of the image. Red, blue, green, yellow, orange, violet, etc.
+The underlying phenomenon is refraction through turbulent and variable density air primarily at scales scales of centimeters to tens of centimeters.
+Like all transparent dielectrics1 air has chromatic dispersion with the index of refraction slightly increasing monotonically from red to blue, so naively I would assume that the edges of these images would all be slightly bluish because whatever refraction is happening to cause rays to deviate that far, it would be strongest for the shortest visible wavelengths.
+In fact for the average effects of refraction when observing far from the zenith some observatories use a variable dispersion prism apparatus to cancel atmospheric dispersion:
+
+When are wedge prisms used to correct chromatic effects of atmospheric refraction? (atmospheric dispersion)
+
+And yet in these images all the colors of the rainbow end up at the extrema at different moments, as if dispersion weren't monotonic.
+Before we challenge the chroma settings on the video, recall that the reason I posted this answer was to explain why bright stars seen through a particularly large amount of turbulence (say low to the horizon over a desert (natural or urban) after sunset after a scorching day) will definitely twinkle in color.
+Question: What exactly causes "color twinkling" and why does it seem that any color might be furthest refracted for a moment?
+1 I'm not familiar with any transparent dielectrics where the real index of refraction does not monotonically increase from red to blue, but I'd be happy to find out if there is such a thing!
+
+From The generalized Sellmeier equation for air (also here):
+
+
+Fig. 5 The refractive index calculated as a function of the wavelength using (blue solid line) the standard Sellmeier equation for N2 (a), O2 (b), Ar (c), and [Eq. (2)] for air (d) and (pink dashed line) Eq. (5) including only the terms with r = 12, 13, 14, 15 with parameters as specified in Table 1 for (a) N N2 = 2.688 @BULLET 10 19 cm −3 , (b) N O2 = 2.504 @BULLET 10 19 cm −3 , (c) N Ar = 2.879 @BULLET 10 19 cm −3 , and (d) the standard gas content of atmospheric air with parameters as specified in Fig. 1.
+
+
+Fig. 1 The refractive index (a-d) and the group-velocity dispersion (e-h) calculated as functions of the wavelength using the full model of air refractivity based on Eq. (1) including the HITRAN-database manifold of atomic and molecular transitions (blue line) and Eq. (5) including M = 15 terms with parameters as specified in Table 1 (pink line): (a,e) visible and near-IR, (b,f) near-IR, (c,g) mid-IR, and (d,h) mid-IR and LWIR ranges. Absorption spectrum of air is shown by grey shading. Atmospheric air is modeled as a mixture of molecular and atomic gases with densities N N2 = 1.987 • 10 19 cm −3 , N O2 = 5.3291 • 10 18 cm −3 , N Ar = 2.3763 • 10 17 cm −3 , N H2O = 7.0733 • 10 16 cm −3 (10% humidity), and N CO2 = 9.4136 • 10 15 cm −3. The temperature is 296 K, n0 = 1.000273.
+
+
+Screenshot from the YouTube video "Stars through a telescope 1" linked below:
+ 
+
+
+cued at 12:23 watch for about 30 seconds to see the color scintillations.

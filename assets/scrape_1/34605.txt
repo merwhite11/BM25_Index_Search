@@ -1,0 +1,116 @@
+Plotting Astronomical Data Using Python
+
+I have been trying to create a graph which shows the distances between the stars and the earth, yet I could not obtain the desired graph as seen below (click to zoom in):
+
+My graph:
+
+As @uhoh suggested, I overlaid one graph on top of the other.
+
+I apologize for posting this confusing graph
+The combined graph denotes that the positions of the curves in my graph totally differ from those in the expected graph.
+I followed this guide to calculate the position functions of the stars.
+My Question: Did I made any mistakes that resulted in the anomalies?
+Thanks in advance.
+Annotations for the Code:
+
+Name - Name of the star
+RA - Right Ascension in degrees, ICRS coord. (J2000)
+Dec - Declination in degrees, ICRS coord. (J2000)
+pm_mRA - Proper motion in right ascension, in miliarcseconds per year
+pm_mdec - Proper motion in declination, in miliarcseconds per year
+vr - radial velocity in kilometers per second, a positive value means that the star is moving away from us
+mparallax - parallax of the star in miliarcseconds
+d - distance between the star and the earth
+
+My Code:
+def parseTextFile(file_name, delimiter=",", header=0):
+    """ Parse a text file to a list. The file contents are delimited and have a header. """
+
+    with open(file_name) as f:
+
+        # Skip the header
+        for i in range(header):
+            next(f)
+
+
+        data = []
+
+        # Parse file contents
+        for line in f:
+
+            # Remove the newline char
+            line = line.replace('\n', '').replace('\r', '')
+
+            # Split the line by the delimiter
+            line = line.split(delimiter)
+
+            # Strip whitespaces from individual entries in the line
+            for i, entry in enumerate(line):
+                line[i] = entry.strip()
+
+            # Add the contents of the line to the data list
+            data.append(line)
+
+        return data
+
+
+
+fig = plt.figure()
+ax = fig.add_subplot() 
+
+#time span    
+time = np.arange(-60000,100000,10)  
+count = 1
+
+xdic = {}
+ydic = {}
+zdic = {}
+
+#multiple lines of data
+for star in parseTextFile(file_name, header=1):
+
+    name = str(star[0])
+    RA = float(star[1])
+    Dec = float(star[2])
+    pm_mRA = float(star[3])
+    pm_mDec = float(star[4])
+    vr = float(star[5])
+    mparallax = float(star[6])
+
+    pm_RA = pm_mRA * 0.001
+    pm_Dec = pm_mDec * 0.001
+    d = 1 / (mparallax * 0.001)
+
+    #Transverse velocities
+    vta = pm_RA * d * 4.740
+    vtd = pm_Dec * d * 4.740
+
+    #Linear velocities
+    vx = vr * np.cos(Dec) * np.cos(RA) - vta * np.sin(RA) - vtd * np.sin(Dec) * np.cos(RA) 
+    vy = vr * np.cos(Dec) * np.sin(RA) + vta * np.cos(RA) - vtd * np.sin(Dec) * np.sin(RA)
+    vz = vr * np.sin(Dec) + vtd * np.cos(Dec)
+
+    #unit conversion from km/s to pc/year
+    vx_pcyr = vx / 977780
+    vy_pcyr = vy / 977780
+    vz_pcyr = vz / 977780
+
+    #initial positions
+    xi = d * np.cos(Dec) * np.cos(RA)
+    yi = d * np.cos(Dec) * np.sin(RA)
+    zi = d * np.sin(Dec)
+
+    #position functions
+    x = xi + vx_pcyr * time
+    y = yi + vy_pcyr * time
+    z = zi + vz_pcyr * time
+
+    distance = np.sqrt(x ** 2 + y ** 2 + z ** 2)
+
+    ax.plot(time,distance,label=name)
+
+
+ax.set_xlabel('Time (Year)')
+ax.set_ylabel('Distance (pc)')
+ax.legend()
+plt.show()

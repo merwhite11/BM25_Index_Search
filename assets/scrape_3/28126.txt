@@ -1,0 +1,9 @@
+Why does the precession of the earth affect other planets?
+
+In the Wikipedia article on numerical integration of planetary motion it states:
+
+...the flattening of the Earth causes precession, which causes the
+  axial tilt to change, which affects the long-term movements of all
+  planets.
+
+Why would precession affect the motion of the other planets?

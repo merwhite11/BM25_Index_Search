@@ -1,0 +1,7 @@
+Stars as nozzles; how important is thermodynamics and the de Laval nozzle equation for understanding the speed of the solar wind vs distance?
+
+Seeing What determines the speed of a star's solar wind? I'm having flashbacks from undergraduate days where the professor started their lecture on solar wind by writing something that they called the de Laval nozzle equation on the board.
+I don't now remember which equation it was, but I have a hunch it might have been related to mass flow per unit area and it was certainly more complicated than $1/r^2$.
+That certainly shows up in google searches but so far none of the answers there mention it, and instead of discussing expansion/rarefaction mostly just use $k_B T$.
+So I'd like to ask:
+Question: Can stars be thought of as nozzles? How important is thermodynamics and the de Laval nozzle equation for understanding the speed of the solar wind vs distance?

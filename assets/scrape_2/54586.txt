@@ -1,0 +1,3 @@
+How can I better align stamps from Hubble images?
+
+I am trying to do difference imaging with Hubble ACS/WFC images and have been using TweakReg to align images and cutout stamps. The problem is that residuals haven't been great and I'm looking for ways to improve alignments. X and Y RMS stands at around 0.4 pix each. Is there a python module I can use to further align the cutout stamps?

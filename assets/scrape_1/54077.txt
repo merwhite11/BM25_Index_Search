@@ -1,0 +1,8 @@
+Demonstration- formula for angle between horizon and ecliptic
+
+The most precise and quite intuitive formula I could find online is here: https://www.celestialprogramming.com/snippets/angleBetweenEclipticAndHorizon.html
+
+$$\cos I = \cos ϵ \sin ϕ − \sin ϵ \cos ϕ \sin θ$$
+ϵ is the obliquity of the ecliptic (e.g. 23.4°), ϕ is latitude, θ is the Local Sidereal Time.
+
+Even though it makes sense that it depends on the sidereal time, latitude and inclination angle, I can't find a demonstration for this formula, so I'm wondering how can I demonstrate this formula?

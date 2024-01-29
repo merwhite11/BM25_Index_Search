@@ -1,0 +1,5 @@
+Frequency coverage for first spectral channel of .fits cube?
+
+A .fits cube has 3 dimensions, where the 1st axis is RA, 2nd axis is Declination and 3rd axis is frequency.
+My question is rather simple, but causing pain none-the-less. Given a .fits cube, what is the frequency range (in Hz) of the first channel?
+For example, if CRPIX3=1, CRVAL3=1E8 and CDELT3=0.5E8, does the first frequency channel cover 1E8 Hz to 1.5E8 Hz or 0.75E8 to 1.25E8 Hz?

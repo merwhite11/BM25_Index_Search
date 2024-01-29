@@ -1,0 +1,11 @@
+Is it possible to have a trinary star system with a planet that orbits their barycenter?
+
+I am trying to model a 3-star system with a planet. The three stars have the same mass. I have gotten the stars (Yellow, Pink, Blue) into a stable orbit. However, I am wondering if a "free-floating" planet can exist in this system. By "free-floating," I mean a planet that does not orbit any star; it orbits the barycenter.
+Currently, I only know of metastable orbits that work for a while, but then the planet crashes into a star or gets ejected. Here are my setups:
+
+
+Is there such a system that satisfies these conditions? If yes, is there a real-life example that astronomers know of?
+
+There are 3 stars of the same mass.
+There is a planet that orbits the barycenter of these three masses.
+The planet is orbiting in a "Hot Jupiter" setup (the planet orbits close to the barycenter)

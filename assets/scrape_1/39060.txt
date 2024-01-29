@@ -1,0 +1,4 @@
+Radio loud AGN restarting as Radio Quiet AGN?
+
+Is it possible for a Radio-loud object (eg., an FRI galaxy) to evolve into a Radio-quiet (eg., a Seyfert) source?
+Also, can this happen via AGN restart? That is, have there been instances where the active nuclei in a Radio-loud object switches off, and then restarts as a weaker Radio-quiet source?

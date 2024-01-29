@@ -1,0 +1,19 @@
+Calculating and mapping the best visibility of celestial occurrence
+
+Recently I found a fantastic website in-the-sky.org, from here we can simply pick up any astronomical event and check its visibility in any part of the Globe.
+For occultations, for example, we have very nice maps like this below:
+
+There are a lot of conjunctions, occultations, eclipses, and so on described fairly in detail. I think it's the best website so far for people making Astro calendars.
+The problem is, that if I checked some conjunction i.e. Mercury with Mars on August 19, 2021  I spent quite a lot of time checking which located around the Globe is the best for watching this event. I took into consideration the solar depression, not lower than 6 degrees (end of civil twilight), and an altitude of these 2 bodies above the horizon (not lower than 3 degrees due to atmospheric extinction). Finally, my hand-sketched maps are looking like this:
+
+plotted in the Day & Night Map at timeanddate.com
+
+sketch plotted in Google Maps
+
+Circumstances checked with stellarium-web.org
+So basically is quite a lot of work by checking which location is the most appropriate to watch the moment of conjunction ideally (I mean the moment of biggest approach these 2 planets, which lasts maybe...30mins or so). Concluding I would like to ask about the possibility of auto calculate stuff like this. If for example, I would put in one column the min solar depression, in another column the min altitude of these planets, some tool would bring me the map as presented above?
+Is it possible i.e. with Python or other (I am only basic with soft)?
+Or do you know web services, which do the calculation such as this for you?
+I fund some query here:
+How to calculate conjunctions of 2 planets
+but it applies to calculate the dates and geometrical circumstances of the conjunctions. I would like to have something in the map as presented above.

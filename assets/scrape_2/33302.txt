@@ -1,0 +1,7 @@
+Perihelion dates and parameters
+
+I have to find the perihelion and aphelion data for the 20th century for Earth. I found this table http://www.astropixels.com/ephemeris/perap2001.html, but no such table for the past century. 
+I think it can be found using JPL Horizons web interface, but can not use the code (the boundaries of the task I was given) and do not want to check 36000+ entries by eye to find maximums and minimums: this is not the general way to solve the problem. 
+I believe that there is some relationship between  Keplerian elements and perihelion (argument of periapsis or mean anomally) but after checking the file from JPL Horizons I could not find any such relationship. Therefore, I have two questions:
+1) Is there an archive with the dates of peryhelion and aphelion in the past?
+2) What is the relationship between Keplerian elements and the perihelion (of course, if such exists)? Unfortunately, I was not able to find it from the picture on https://en.wikipedia.org/wiki/Orbital_elements. More precisely, is it true that argument of periapsis or mean anomally is equal to 0 at the perihelion?

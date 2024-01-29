@@ -1,0 +1,8 @@
+How did this artefact end up in the SIMBAD sky map?
+
+
+I was randomly looking through the SIMBAD sky map when I came across this artefact. It looks like the projection of a telescopes secondary mirror mount to me but I am wondering how that would end up in the map.
+Other positions where I found similar artifacts are here and here.
+(The blue disk has an apparent radius of around 50 arcmin.)
+update: my suspicion about the nature of the artifact is confirmed in this answer to What have I encountered here?
+Still the question remains; how did such an artifact end up in the SIMBAD sky map?

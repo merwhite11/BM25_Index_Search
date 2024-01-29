@@ -1,0 +1,4 @@
+Examples of absorption lines for main sequence stars
+
+Where might I find a detailed table or figure containing the absorption lines and their corresponding wavelengths for each type of main sequence star? 
+I'm trying to get the chemical abundance of some elements on a G0V spectrum but I don't know which lines I'm looking at.

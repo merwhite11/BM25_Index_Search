@@ -1,0 +1,4 @@
+Why do we have so few neutrinos to study?
+
+According to Wikipedia most neutrinos passing through the Earth emanate from the Sun. About 65 billion (6.5^10) solar neutrinos per second pass through every square centimeter perpendicular to the direction of the Sun in the region of the Earth.
+However the IceCube Neutrino Observatory or other neutrino detectors only detect a few neutrinos every year. Why?

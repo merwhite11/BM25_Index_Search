@@ -1,0 +1,3 @@
+Challenge with a Transit Method Curve
+
+My assignment is to identify how many planets are in this curve and what the orbital period is. I'm just confused on the way it looks, as most curves I've seen up to this date are more smooth and connected in appearance

@@ -1,0 +1,22 @@
+What bright satellite did I see pass near the Tiangong space station on the morning of 2/15?
+
+What bright satellite or other spacecraft did I see pass near the Tiangong space station on the morning of 2/15?
+(I've ruled out the International Space Station, as that was in view a few minutes earlier.)
+Location-- Wichita KS
+Time-- around 6:32:30 Central Standard Time, +/- 30 seconds.  (That would be 12:32:30 GMT)
+Date -- 2/15/2023
+Location in sky where the object passed near the Tiangong space station-- my recollection is that it was close to Vindemiatrix, though it might have been closer to Auva/ Delta Virginis.  These are major stars in the constellation Virgo.
+Rough coordinates of this portion of Virgo at this time are (from Stellarium Web):
+Ra/Dec
+13h 03m18.3s   +07°22'02.6"
+Az/Alt
+240°36'25.8"   +42°39'20.6"
+Description of path of unknown satellite-- trajectory was mostly south to north, with some east to west component.  It passed slightly in front of the Tiangong space station near the described location, and I was able to keep it in view till it was quite low in the NNW or N, about the same time that the Tiangong space station was nearing the eastern horizon.  No flashing or other marked changes in brightness were observed.
+Apparent brightness-- about the same as the Tiangong space station.
+All observations were naked-eye, as the dawn was starting to brighten the sky.
+I've tried to answer this using Stellarium Web (https://stellarium-web.org/), but the only thing showing with a somewhat similar trajectory is Starlink 3162, and its apparent magnitude for that time is only showing as +3.89, while the Tiangong space station is showing a magnitude of -1.94 for that time, so that would seem to be ruled out.  Plus, that satellite's path passed just behind the Tiangong space station, but I'm pretty sure I'm recalling correctly when I say the unknown satellite passed just ahead of it.
+A few follow-up questions--
+
+Statistically speaking, is a bright object not shown on Stellarium Web most likely to be a secret military satellite?  Or just a new satellite that hasn't yet been added to the site yet?  Or spacecraft or spacecraft component (discarded booster rocket etc) that is not actually a satellite in a long-term orbit?
+
+If the object I saw can be identified, how close did it actually pass to the Tiangong space station?  What was the altitude of each object at the closest point of approach?  What was the horizontal distance between the two objects at the closest point of approach?

@@ -1,0 +1,10 @@
+Calculating the time a star is at my local meridian based on its right ascension
+
+I've been watching an astronomy course on YouTube and I'm struggling to calculate stars' positions based on their right ascension.
+What I'm trying to achieve: Calculate when a star (Sirius in this example) will be exactly on my local meridian.
+What I know: The star's right ascension and the "noon" time (=when the sun will be exactly on my local meridian).
+Let's assume we are on March 21st: According to https://stellarium-web.org/ The sun will be on my meridian at 12:10. Sirius's right ascension is 6h46m, which means Sirius should be at the meridian 6h46m later which is 18:56. According to Stellarium Sirius will indeed be at the meridian at 18:52 (I suppose that 4 minute difference is because the sun is already 4 minute behind due to Earth rotation).
+But when I try to do the same calculation for today (Feb 10th) I get a 20 minute error.
+The "noon" on Feb 10th where I live is at 12:18. We add Sirius' right ascension to get 19:04. But this time we also have to take into account the fact that we are 41 days away from March 21st. Each day the sun falls behind by ~4 minutes, so that's 2h44m. If we add that to 19:04 we get 21:48. So that's the time Sirius should be at my local meridian on this particular day. But Stellarium shows that Sirius will actually be at the meridian at 21:26. So there's 22 minutes error in my calculations for some reason.
+I think the root of the error is the 2h44m that I calculated for the sun's position. According to Stellarium the sun's right ascension on that day is 21h38m. Meaning it is 2h22m behind not 2h44m. And that's why I get that 22 minutes error. But I don't understand how it can be 2h22m because Feb/10 is 41 days away from March/21. That means 41x4 = 164 minutes = 2h44m.
+What am I missing here?

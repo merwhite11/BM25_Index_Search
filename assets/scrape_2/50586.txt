@@ -1,0 +1,4 @@
+software library that calculates earth/moon/sun/planets positions based on the geocentric model
+
+is there any software library that calculates earth/moon/sun/planets positions based on the geocentric model?
+if that exists, why is the heliocentric model the most popular?

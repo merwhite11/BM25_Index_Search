@@ -1,0 +1,8 @@
+Radiometer Equation for Flux Density
+
+In Duncan and Lorimer's Handbook of Pulsar Astronomy, the equation for the flux density using a radio telescope is given as (for a top-hat function):
+$$S=\frac{\beta\,\mathrm{SNR}\, T_{sys}}{G\sqrt{n_{p}\Delta f\,T}}\sqrt{\frac{W_{eq}}{P-W_{eq}}}$$
+Here, $\beta$ is a correction factor, $\mathrm{SNR}$ is the signal-to-noise ratio, $T_{sys}$ is the system temperature, $G$ is the telescope gain, $n_{p}$ is the number of polarizations, $\Delta f$ is the observing bandwidth, $T$ is the integration time, $W$ is the equivalent width of the pulse, and $P$ is the period of the pulse.
+How does one go from this to the so-called "modified radiometer equation" that is often used (often for an arbitrarily shaped pulse):
+$$S=\frac{\beta\,A\, T_{sys}}{G\,N_{bin}\,\sigma_{off}\sqrt{n_{p}\Delta f\,t_{obs}}}$$,
+where $A$ is the area under the pulse, $N_{bin}$ is the total number of phase bins in the profile, $\sigma_{off}$ is the RMS of the noise in the pulsar time series, and $t_{obs}$ is the total integration time of each phase bin.

@@ -1,0 +1,86 @@
+Can a habitable planet orbit in a L4 or L5 Trojan position?
+
+Can a Planet Massive enough to be Habitable have a stable orbit in the L4 or L5 Trojan position?
+This is a simple question with maybe complex answers.  In fact, I have found three separate answers, so I don't know if any of them are correct.
+I mean habitable not, repeat not, habitable for life based on liquid water, let alone habitable for hypothetical exotic biochemistry lifeforms.  I mean by habitable a smaller subset of habitable, habitable for human beings and for lifeforms with similar requirements.
+As far as I know the only discussion of what type of planet would be habitable for members of Homo Sapiens is Stephen H. Dole Habitable Planets for Man, 1964, 2007. 
+The minimum mass for a habitable planet would be the minimum mass necessary to have an escape velocity high enough relative to the average velocity of air particles to retain an atmosphere for billions of years.
+On page 54 Dole calculated the minimum size of a planet that could retain a breathable atmosphere for billions of years as 0.195 Earth's mass, with of 0.63 of Earth's radius and a surface gravity of 0.49 g. But Dole believed such a planet would be unable to produce an atmosphere dense enough to be breathable.
+
+...To prevent atomic oxygen from escaping from the upper layers of its atmosphere, the planet's escape velocity must be of the order of five times the root-mean-square velocity of the oxygen atoms in the atmosphere. This is shown in figure 12 (see page 37)...then the escape velocity of the smallest planet capable of retaining atomic oxygen may be as low as 6.25 kilometers per second (5 X 1.25). Going back to figure 9, this may be seen to correspond to a planet having a mass of 0.195 Earth mass, a radius of 0.63 Earth radius, and a surface gravity of 0.49 g. Under the above assumptions, such a planet could theoretically hold an oxygen-rich atmosphere, but it would probably be much too small to produce one, as will be seen below.
+
+Dole calculated via various lines of reasoning two figures for the minimum mass necessary to produce a breathable atmosphere, 0.253 Earth mass, which he believed too low, and 0.57 Earth Mass, which he believed too high:
+With 0.25 being too low, and 0.57 being too high, the appropriate value of mass for the smallest habitable planet must lie between those figures, somewhere in the vicinity of 0.4 Earth mass.
+
+...This corresponds to a planet having a radius of 0.78 Earth radius and a surface gravity of 0.68 g.
+
+So if an astronomical body needs to have an oxygen rich atmosphere that humans or similar beings could breath and survive in to be habitable, it should be at least as massive as Dole's 0.4 Earth mass. Or if one disagrees with Dole's reasoning, one might think that the minimum possible mass for a habitable exomoon might be somewhere between 0.253 and 0.57 Earth mass. Possibly someone might believe the minimum possible mass would be the minimum possible mass to retain oxygen n the atmosphere, which Dole calculated at 0.195 Earth mass.
+However, the minimum mass for habitability may be between 0.85 and 1.00 times the mas of Earth according to the Wikipedia article about Planetary Habitability:
+
+0.3 Earth masses has been offered as a rough dividing line for habitable planets.[48] However, a 2008 study by the Harvard-Smithsonian Center for Astrophysics suggests that the dividing line may be higher. Earth may in fact lie on the lower boundary of habitability: if it were any smaller, plate tectonics would be impossible. Venus, which has 85% of Earth's mass, shows no signs of tectonic activity. Conversely, "super-Earths", terrestrial planets with higher masses than Earth, would have higher levels of plate tectonics and thus be firmly placed in the habitable range.[49]
+
+"Earth: A Borderline Planet for Life?". Harvard-Smithsonian Center for Astrophysics. 2008. Retrieved 4 June 2008.
+On page 53 Dole said that a surface gravity of about 1.5 g seemed like the maximum that humans would tolerate, and that corresponded to a planet with a mass of 2.35 Earth masses, a radius of 1.25 Earth radii, and an escape velocity of 15.3 kilometers per second.
+A slightly smaller maximum mass is mentioned in:
+Heller, René; Rory Barnes (2012). "Exomoon habitability constrained by illumination and tidal heating". Astrobiology. 13 (1): 18–46.
+On page 20 they mention an upper mass limit for habitable exomoons that would presumably also hold for habitable exoplanets.
+
+An upper
+  mass limit is given by the fact that increasing mass leads to
+  high pressures in the planet’s interior, which will increase the
+  mantle viscosity and depress heat transfer throughout the
+  mantle as well as in the core. Above a critical mass, the dynamo is strongly suppressed and becomes too weak to
+  generate a magnetic field or sustain plate tectonics. This
+  maximum mass can be placed around 2M4 (Gaidos et al.,
+  2010; Noack and Breuer, 2011; Stamenkovic´ et al., 2011).
+  Summing up these conditions, we expect approximately
+  Earth-mass moons to be habitable, and these objects could be
+  detectable with the newly started Hunt for Exomoons with
+  Kepler (HEK) project (Kipping et al., 2012)
+
+Their sources are:
+Gaidos, E., Conrad, C.P., Manga, M., and Hernlund, J. (2010)
+Thermodynamics limits on magnetodynamos in rocky exoplanets. Astrophys J 718:596–609.
+Noack, L. and Breuer, D. (2011) Plate tectonics on Earth-like
+planets [EPSC-DPS2011-890]. In EPSC-DPS Joint Meeting 2011,
+European Planetary Science Congress and Division for Planetary Sciences of the American Astronomical Society.
+Stamenkovic´, V., Breuer, D., and Spohn, T. (2011) Thermal and
+transport properties of mantle rock at high pressure: applications to super-Earths. Icarus 216:572–596.
+So the lower mass limit for a habitable astronomical body should be 0.195 Earth mass, 0.4 Earth mass, between 0.253 and 0.57 Earth mass, or even about 1.00 earth mass, and the upper mass limit should be 2 Earth masses or 2.35 Earth masses.
+In a Trojan orbital system there would be three or more bodies, which could be called the primary that the others orbited, the secondary that orbits the primary and has L4 and L5 Trojan positions, and one or more tertiaries orbiting in the L4 or L5 positions.
+And for the tertiaries to be habitable worlds they would have to have masses in the indicated mass range.
+First answer for the possible mass ranges:
+Most planets in our solar system have one or more asteroids orbiting in Trojan positions.  The smallest mass ratio between a planet and a Trojan asteroid is between Jupiter and Hektor, and it is very large. Two moons of Saturn have smaller moons in Trojan positions.   As nearly as I can calculate, Dione, a moon of Saturn, is as few as about 36,000 times as massive as its L4 Trojan Helene.  That is the smallest mass ratio between secondary and tertiary in any Trojan system that I can find.
+Therefore, i know that a secondary body can be a few as 36,000 times as massive as the tertiary body in a Trojan system.
+So if the tertiary has a mass of 0.195 Earth mass, the secondary can have as little as 7,020 Earth masses; if the Tertiary has a mass between 0.253 and 0.57 Earth masses the secondary can have a mass as low as 9,108 to 20,520 Earth masses; if the tertiary has 0.4 Earth mass the secondary can have as little as 14,400 Earth masses; if the tertiary has 1 Earth mass the secondary can have a mass as low as 36,000 Earth masses; if the tertiary has 2 Earth masses the secondary can have a mass as low as 72,000 Earth masses; if the tertiary has a mass of 2.35 Earth masses the secondary can have a mass as low as 84,600 Earth masses.
+The planet Jupiter has a mass of 317.8 Earth masses.  the theoretical limit between a giant planet and brown dwarf is about 13 Jupiter masses, or about  4,131.4 Earth masses.  The theoretical limit between a brown dwarf and a star is about 75 to 80 Jupiter masses, or about 23,835 to 25,424 Earth masses.
+The mass of the Sun is given as 332,946 times the mass of Earth.
+It has been calculated that the maximum possible mass for a star should be about 150 times the mass of the Sun, or about 49,941,900 times the mass of the Earth.
+So with a ratio of 36,00 between the secondary body and the habitable tertiary body, the secondary body would have to have at least the mass of a brown dwarf or a low mass star.
+But how massive would the primary body have to be relative to the secondary body?
+The maximum mass of a star should be about 150 times the mass of the Sun or about 49,941,900 times the mass of the Earth.  If the secondary body has to be within the range of 7,020 to 84,600 times the mass of Earth, or even more massive, the primary body, which can be no more than 49,941,900 times the mass of Earth, can be no more than about 590.329 to 7,053.9406 times the mas of the secondary body, and possibly a lot less if the secondary body is more massive than its minimum possible mass.
+Second answer for the possible mass ranges:
+However, it is possible that the mass ratio between the secondary and the tertiary bodies can be less than 36,000 according to the Wikipedia article Trojan__(Celestial_Body):
+
+As a rule of thumb, the system is likely to be long-lived if m1 > 100m2 > 10,000m3 (in which m1, m2, and m3 are the masses of the star, planet, and trojan).
+
+So if the mass ratio between the secondary and the tertiary can be as low as 10,000 times:
+If the tertiary has a mass of 0.195 Earth mass, the secondary can have as little as 1,950 Earth masses; if the Tertiary has a mass between 0.253 and 0.57 Earth masses the secondary can have a mass as low as 2,530 to 5,700 Earth masses; if the tertiary has 0.4 Earth mass the secondary can have as little as 4,000 Earth masses; if the tertiary has 1 Earth mass the secondary can have a mass as low as 10,000 Earth masses; if the tertiary has 2 Earth masses the secondary can have a mass as low as 20,000 Earth masses; if the tertiary has a mass of 2.35 Earth masses the secondary can have a mass as low as 23,500 Earth masses.
+But according to that rule of thumb, the primary would have to be at least 100 times as massive as the secondary, or at least 1,000,000 times as massive as the tertiary. So:
+If the tertiary has a mass of 0.195 Earth mass, the primary can have as little as 195,000 Earth masses; if the Tertiary has a mass between 0.253 and 0.57 Earth masses the primary can have a mass as low as 253,000 to 570,000 Earth masses; if the tertiary has 0.4 Earth mass the primary can have as little as 400,000 Earth masses; if the tertiary has 1 Earth mass the primary can have a mass as low as 1,000,000 Earth masses; if the tertiary has 2 Earth masses the primary can have a mass as low as 2,000,000 Earth masses; if the tertiary has a mass of 2.35 Earth masses the primary can have a mass as low as 2,350,000 Earth masses.
+And those are masses within the range of stellar masses.
+But on page 68 of Habitable Planets for Man Dole concluded that:
+
+The only stars that conform with the requirement of stability for at least 3 billion years are main sequence stars having amass of less than about 1.4 solar masses - spectral types F2 and smaller...
+
+1.4 solar masses is equivalent to 466,124.4 times the mass of Earth.  So according to that rule of thumb the maximum mass of the habitable Trojan, the tertiary body, would be no more than 0.4661244 times the mass of Earth, making a habitable Trojan planet the very rare result of a star near the upper limit of mass and a planet near the lower limit of mass for habitability.
+Third answer about the possible mass limits:
+According to the giant impact hypothesis, a small planet, named Theia, collided with Earth about 4.5 billion years ago, and the debris from the impact formed the Moon.  The Wikipedia article "Giant Impact Hypothesis Possible Origin of Tehia says:
+
+In 2004, Princeton University mathematician Edward Belbruno and astrophysicist J. Richard Gott III proposed that Theia coalesced at the L4 or L5 Lagrangian point relative to Earth (in about the same orbit and about 60° ahead or behind),[49][50] similar to a trojan asteroid.[4] Two-dimensional computer models suggest that the stability of Theia's proposed trojan orbit would have been affected when its growing mass exceeded a threshold of approximately 10% of the Earth's mass (the mass of Mars).[49] In this scenario, gravitational perturbations by planetesimals caused Theia to depart from its stable Lagrangian location, and subsequent interactions with proto-Earth led to a collision between the two bodies.[49]
+
+So the orbit of the gradually growing planet Theia would have been stable for millions of years, possibly tens of millions or even over a hundred million years, before leaving the Lagrangian point and eventually impacting the Earth.  Thus Theia could apparently have remained in stable orbit while growing to many times 0.0001 the mass of Earth, perhaps about a thousand times 0.0001 the mass of Earth.
+So if the secondary could be a little as 10 times the mass of the tertiary, the tertiary could have between 0.195 and 2.35 times the mass of earth and the secondary could have a mass as little as 1.95 to 23.5 time the mass of Earth, making it a super Earth or a giant planet.
+Conclusion:
+Therefore, I am rather uncertain whether there is a mathematical limit to the relative masses of the primary, secondary, and tertiary bodies in a Trojan orbit stable over geological time, and if so what that limit is.
+Is there a definite answer whether a habitable planet could exist in an L4 or L5 Trojan orbit?

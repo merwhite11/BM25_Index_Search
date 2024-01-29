@@ -1,0 +1,12 @@
+How to slice WCS in a FITS file?
+
+I have three WCS axes in a FITS image. I want to slice the axes and use only the first one. Note that though there are three axes, the WCS is superimposable. So there is no worry about a shift in WCS due to my selection of a particular axis.
+I am attaching the description of WCS axes as well.
+Number of WCS axes: 3
+CTYPE : 'RA---TAN'  'DEC--TAN'  ''  
+CRVAL : 181.6023  63.6321  0.0  
+CRPIX : 128.5  128.5  0.0  
+CD1_1 CD1_2 CD1_3  : -0.000138888888888889  0.0  0.0  
+CD2_1 CD2_2 CD2_3  : 0.0  0.000138888888888889  0.0  
+CD3_1 CD3_2 CD3_3  : 0.0  0.0  1.0  
+NAXIS : 256  256  3

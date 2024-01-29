@@ -1,0 +1,10 @@
+Help converting ECI to RA DEC
+
+Using the library OrbitTools I can input a TLE and get back ECI coordinates. I want to find the RA DEC though, so I use 
+right_ascension = atan(y / x) * 180.0 / PI;
+
+declination = acos(z/ sqrt(x* x + y * y + z * z)) * 180.0 / PI;
+
+I figure there is likely some constant I need to add (PI/2, PI, etc.) but comparing the calculated RA to that in the TLE, there is no constant that would fix it. 
+I also noticed x,y,z can be very low (on the order of ~100 km in some cases) which would suggest its measured from earth's surface, so I would need to add the earth's radius to x,y,z, but this also doesn't fix my problem. 
+Alternatively, I tried using the built in look angle function from OrbitTools, assuming that (0,0,0) (latitude, longitude, height) would be equivalent to RA DEC but... its not. Thanks!

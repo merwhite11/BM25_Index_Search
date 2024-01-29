@@ -1,0 +1,3 @@
+Could you use luminosity changes over time to calculate distance?
+
+More specifically: if you know your movement relative to a body, could you use the inverse square law to calculate distance? Since if you are distance $D$ away and you move $d$, $\Delta L \propto (D-d)^2-D^2=2dD-d^2$, I'm assuming you should be able to calculate D linearly.

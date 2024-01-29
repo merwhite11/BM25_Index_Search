@@ -1,0 +1,5 @@
+What Right Ascension and Declinations are observable by a telescope from a particular location?
+
+I'm new to Observational Astronomy, and I just started observations with a telescope and read about RA and Declination(celestial co-ordinates). Although I think I understood the concept, I'm confused about what RA/Dec is visible from the location at present(Summer Sky).
+From what I have understood, since I'm in Sendai, Japan(~38.26N, 140.86E), the +38 degree declination is at my zenith at midnight. So almost -30 Declination will be at my horizion. That should mean that I can see stars from -30 Declination to 90 Declination at my location. Is that correct?
+What about RA though, what range of RAs will it be possible to view while its dark(2000 hours to 0300 hours)

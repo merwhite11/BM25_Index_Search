@@ -1,0 +1,4 @@
+Response function of LIGO
+
+"Laser Interferometer Gravitational-wave Observatory" (LIGO) is a marvel of precise engineering and the world's largest gravitational wave observatory. LIGO, which consists of two massive laser interferometers separated by 3000 kilometers, uses the physical characteristics of light and space to detect and explain the sources of gravitational waves (GW).  https://www.ligo.caltech.edu/page/what-is-ligo
+1. What is mean by response or transfer function and what is LIGO  detector's response function? (Mathematical Explanation will be preferred)

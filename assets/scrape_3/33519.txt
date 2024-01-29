@@ -1,0 +1,5 @@
+Can we calculate the orbit of exoplanets?
+
+I'm not an astronomer, but the question came up and I'm interested if we are able (or how accurate we are able) to calculate the orbital parameters of an exoplanet. Since the transit method must yield some properties of its orbit, we must know some of it. I also found some information here regarding the measurement of the orbital plane (Can we know the orbital planes of extraterrestrial planetary bodies?).
+But do we have a clear picture of its orbit? Like we have of the planets in our system?
+Could we, for example, tell if the planet was born in this system or has been caught by it at some point (giving it a different orbit I suppose)?

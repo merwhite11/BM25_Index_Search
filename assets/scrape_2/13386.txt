@@ -1,0 +1,13 @@
+Oldest Reference to Astronomical Seeing
+
+I'm writing a paper on astronomical seeing. Sir Isaac Newton identified both the phenomenon and origin of astronomical seeing in his Opticks. He writes:
+
+If the Theory of making Telescopes could at
+length be fully brought into Practice, yet there would
+be certain Bounds beyond which Telescopes could
+not perform. For the Air through which we look
+upon the Stars, is in a perpetual Tremor; as may be
+seen by the tremulous Motion of Shadows cast from
+high Towers, and by the twinkling of the fix'd Stars.
+
+is anyone aware of any older reference from Gilbert, Galileo, Harvey, Ptolemy, Copernicus or Kepler?

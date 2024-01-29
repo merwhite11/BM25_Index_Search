@@ -1,0 +1,4 @@
+What is the sharpest stellar number density variation known?
+
+In the solar neighborhood the stellar number density is about 0.14 stars per cubic parsec. This changes with a length scale of 220-450 pc as we move up or below the Milky Way disc, and 2.6 kpc radially. There are clearly local variations due to open and globular clusters, spiral arms etc. that happen over shorter length scales. But what is the sharpest stellar density gradient?
+The question is somewhat ill-defined since density becomes ill-defined over distances short compared to stellar-distances ($\sim \rho(x)^{-1/3}$). If one considers star locations as driven by a inhomogeneous Poisson process with local density $\rho(x)$, we might want to find where $\rho'(x)/\rho(x)$ is highest.

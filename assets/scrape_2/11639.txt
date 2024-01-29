@@ -1,0 +1,15 @@
+IAU Dwarf planet definition Point 2.b - is not a satellite
+
+I am a bit confused with point 2.d of the IAU's resolution on dwarf planets.
+
+(2) A "dwarf planet" is a celestial body that
+(a) is in orbit around the Sun
+(b) has sufficient mass for its self-gravity to overcome rigid body forces so that it assumes a hydrostatic equilibrium (nearly round) shape
+(c) has not cleared the neighbourhood around its orbit
+(d) is not a satellite.
+
+http://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf
+I notice that a lot of websites exclude this point all together? Some of
+them even rather combine it with point 2.a ? Like over here
+Feels a bit redundant, since orbits the sun implies not orbiting a planet?
+Or am I missing something here?

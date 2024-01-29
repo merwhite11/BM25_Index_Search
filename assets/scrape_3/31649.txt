@@ -1,0 +1,14 @@
+Have caged molecules ever been observed in space?
+
+astrosnapper@'s thorough answer to the question What is precipitable water vapor in millimeter-wave radioastronomy and how is it measured? links to the paper Observing Conditions for Submillimeter Astronomy which discusses spectral windows of atmospheric transmission in the 100 ~ 1500 GHz range. These windows are "delineated" or limited by strong absorption lines of molecular water vapor in the atmosphere. 
+Figure 2 is shown below. The caption reads
+
+Fig. 2. Energy levels of the lowest rotational states of water with transitions labeled by the frequency in GHz. The lines at 557, 752, 988, 1113, and 1229 GHz delineate the principal submillimeter windows.
+
+and displays ortho- and para- water separately.
+Curious to find out what those were, I went to Martin Chapin's (also here) site Water Structure and Science which discusses the physics of ortho- and para- water, and describes experiments on single water molecules trapped and isolated in C60 fullerene "cages" (Endohedral fullerenes): 
+
+ortho-Water and para-Water
+
+Question: Have caged molecules ever been observed in space?
+These could be trapped in fullerenes (which I believe have been observed) or otherwise.

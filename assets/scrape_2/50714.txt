@@ -1,0 +1,3 @@
+Mark 6 VLBI Recorder 32Gpbs, 2 bit sampling
+
+I was reading the paper about the first M87 EHT Results, part 3 (link to article PDF), where the data processing pipeline is explained. The recording system used was a Mark 6 recorder with 32Gbps and 2 bit sampling. Why is the quantization so coarse? I think I am missing something since the measurements have a very large dynamic range. Can anyone explain what this 2 bit sampling means?

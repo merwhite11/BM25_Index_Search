@@ -1,0 +1,7 @@
+Apparent size of M31
+
+I am trying to understand something I read on wikipedia about M31.
+Wikipedia says that M31 appears more than six times as wide as the full Moon.
+But I remember that when I watched it naked eye it seamed a lot smaller, even considering that I was able to see only the central region. For this reason I also used the software Stellarium to check it and setting the same magnification for the two objects (see pictures), the wikipedia information still seems wrong ... or most likely I am wrong!
+Where is that I fail? 
+"At an apparent magnitude of 3.4, the Andromeda Galaxy is one of the brightest Messier objects,[15] making it visible to the naked eye on moonless nights even when viewed from areas with moderate light pollution. Although it appears more than six times as wide as the full Moon when photographed through a larger telescope, only the brighter central region is visible to the naked eye or when viewed using binoculars or a small telescope"

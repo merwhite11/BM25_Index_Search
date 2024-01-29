@@ -1,0 +1,28 @@
+How to calculate distance from object to point on celestial sphere
+
+I'd like to calculate the distance (in arcsec) from the object nearest to ra='08h55m10s' dec='-7d14m42s' to that point on the celestial sphere. 
+I am actually having trouble identifying the object. I have python code to run a cone search: 
+from astropy.coordinates import SkyCoord
+from astroquery.irsa import Irsa
+import astropy.units as u
+
+loc = SkyCoord('08h55m10s',' -7d14m42s','icrs')
+table = Irsa.query_region(coordinates=loc,catalog="wise_allsky_4band_p3as_psd", radius= 1 * u.arcminute)
+print(table)
+
+This prints:
+designation        ra     dec   ...       angle         id
+                  deg     deg   ...        deg            
+------------------- ------- ------- ... ------------------ ---
+J085507.72-071428.4 133.782  -7.241 ... 291.84348499999999   0
+J085511.22-071522.2 133.797  -7.256 ... 155.64652000000001   1
+J085508.65-071354.0 133.786  -7.232 ... 337.39116000000001   2
+J085509.94-071534.8 133.791  -7.260 ... 180.87171799999999   3
+J085511.28-071528.1 133.797  -7.258 ... 157.48249000000001   4
+J085509.47-071502.9 133.789  -7.251 ...         200.548395   5
+J085513.60-071440.0 133.807  -7.244 ... 87.949470000000005   6
+J085510.83-071442.5 133.795  -7.245 ... 92.439341999999996   7
+J085511.39-071427.5 133.797  -7.241 ...          55.110833   8
+J085513.30-071420.4 133.805  -7.239 ... 66.332006000000007   9
+
+And this is where I am stumped. Which of these objects is nearest to the point? (I assume it must be the object in the zero index). And why? And how can I calculate the distance from the object to that point on the celestial sphere?

@@ -1,0 +1,4 @@
+Dispersion of Radio waves
+
+I am unable to interpret this graph. What is the time on the x-axis? Due to dispersion why is pulse spreading across frequency rather than time if dispersion causes the delay? And how is that top graph for flux obtained?
+Image source: Lorimer et al. 2007, now also known as FRB 010724

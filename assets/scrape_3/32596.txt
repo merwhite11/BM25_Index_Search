@@ -1,0 +1,5 @@
+How to identify component of velocity of a star from its red shift?
+
+When a telescope observes a distant star, all it sees is the light being emitted by the star. Observing the wavelength of this light, we determine the velocity of the star. If the wavelength is red-shifted (longer) then the star is moving away from us, and if the wavelength is blue-shifted (shorter) then the star is moving towards us.
+But how do we know that the wavelength that we see is not the red shifted wavelength but the original wavelength emitted by the star? Do we already know what wavelength of light the star is supposed to emit (if yes, how?)
+Also, using this method we should be able to identify only the radial component of velocity. Because the tangential component of velocity of the star would have no effect on the wavelength that we observe? So how do we determine the actual velocity (including the proper direction) of the star?

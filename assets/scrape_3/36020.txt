@@ -1,0 +1,37 @@
+Why don’t supergiants at least start to fuse nickel into even heavier elements before going supernova?
+
+The last primary fusion process to take place in extremely massive stars is silicon burning, where the 28Si produced by oxygen burning is exothermically fused with alpha particle after alpha particle after alpha particle, all the way up to 56Ni:1
+(1) 28Si + 4He → 32S
+(2) 32S + 4He → 36Ar
+(3) 36Ar + 4He → 40Ca
+(4) 40Ca + 4He → 44Ti
+(5) 44Ti + 4He → 48Cr
+(6) 48Cr + 4He → 52Fe
+(7) 52Fe + 4He → 56Ni
+And there the process stops, instead of continuing on with:
+(8) 56Ni + 4He → 60Zn
+(9) 60Zn + 4He → 64Ge
+...
+The 56Ni, instead of fusing further, accumulates in an inert core at the centre of the star.  Once the growing ball of nickel reaches 1.4 solar masses, it suddenly and catastrophically collapses at approximately one-quarter of the speed of light, causing the entire rest of the star to collapse in on itself; the nickel core is compressed into a neutron star,2 while much of the rest of the star is explosively fused into 56Ni3 and other, lighter reaction products (the latter mostly from the star's outer layers) and blasted into interstellar space.4
+The usual explanation as to why fusion doesn’t continue on with reactions 8 and 9 and so forth is that it isn’t possible to release any more energy through further fusion; going any further would be endothermic, and consume energy.
+But!
+
+The core of a supergiant (or, even better, a hypergiant) is the most extreme inferno to ever exist in the universe for more than a few seconds at a time, with temperatures well into the gigakelvins, and inferno is the endothermic reaction’s paradise; it doesn’t matter if you consume lots of energy when there’s a vast excess of same just lying around, and the equilibrium point for an endothermic reaction shifts more and more towards the products of the reaction the hotter you go (thanks, le Chatelier!).
+Reaction 8 (the fusion of 56Ni and 4He to 60Zn), at least, is actually exothermic!  The energy-consuming step comes earlier - essentially the only significant source of 4He in the core of a massive, highly-evolved star is from the photodisintegration of heavy nuclei, a highly endothermic process.  But a) see point 1, b) if a violent collision with another star or a very large planet mixes 4He from the star’s outer layers (and, for that matter, from the colliding star/planet) into the star’s core, a large supply of helium becomes available essentially for free and this constraint is removed; there should then be nothing standing in the way of this helium fusing with 56Ni via reaction 89 and releasing even more energy, and c) in a stellar core this hot, heavy nuclei are going to be photodisintegrating anyway, and it’s not like the alphas generated thereby can consciously choose to only participate in reactions that release enough energy to make up for the energy consumed by photodisintegration!
+
+So why don’t we see at least some production of alpha-process nuclides beyond 56Ni10 in the cores of extremely-massive, extremely-evolved stars (and to a much greater degree in those of such stars as have been severely abused by violent collisions)?
+
+Not a duplicate of this question; that one asks whether it does, while this one asks why it doesn't to more than a tiny degree.
+
+1: Gamma rays omitted for brevity.
+2: Unless the star is sufficiently massive that its final collapse crushes the core even further, and the star winks out of existence with nary a whimper.
+3: Some of this nickel is transformed into even heavier elements by capturing some of the enormous neutron flux produced deep in the collapsing star, but this is a drop in the star’s pocket change compared to the amount that (initially)4 stays nickel.
+4: As 56Ni is unstable, it then rapidly decays, powering the supernova’s afterglow:
+(10) 56Ni → 56Co + e+ + v
+(11) 56Co → 56Fe5 + e+ + v
+5: As 56Fe is stable, reaction 11 is why the universe has so friggin’ much iron.6
+6: Well, so friggin’ much compared to what one would expect from the cosmic abundances of the other (relatively) heavy elements; the universe as a whole is still overwhelmingly hydrogen (and a little helium).7
+7: Well, the universe’s normal matter is overwhelmingly hydrogen (and a little helium); the vast majority of the universe’s matter is actually dark matter (we think).8
+8: Which itself makes up only a small fraction of the universe’s mass, being overshadowed by that of the universe’s dark energy, but I digress.
+9: And then going on via reaction 9 and beyond, but I don’t know whether these reactions (on their own, with no photodisintegration penalty) are exothermic or not.
+10: Any such production would have to be detected through their decay products, as 60Zn and beyond are much more unstable and shorter-lived than even 56Ni.

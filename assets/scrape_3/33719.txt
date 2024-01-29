@@ -1,0 +1,10 @@
+Why do J2000 coordinates change with time in Stellarium?
+
+I'm new to the field so I'm sure this is a basic misunderstanding.
+As I currently understand it, J2000 equatorial coordinates describe the position of objects by referencing a specific point in time (12:00 Jan 1st 2000) to account for the effect of the precessional cycle in the reference point for RA. Presumably this means that the same object measured on different dates should still have the same J2000 coordinates?
+In Stellarium, if I look at the RA/Dec (J2000) of a star on one date, then compare to the previous year the J2000 coordinates don't match:
+
+
+I also notice that if I set the current date/time to 12:00 1/1/2000 the RA/Dec (J2000) and RA/Dec (on date) values are different when I would have expected them to be the same:
+
+Where am I going wrong here?

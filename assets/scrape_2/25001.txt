@@ -1,0 +1,4 @@
+How would one calculate the synodic period of the Earth and an elliptical orbit?
+
+For example, when would someone with a telescope be able to see Starman and his Roadster (when will the Tesla roadster's elliptical orbit cross ours again, and how would that be calculated?) 
+For two circular orbits, I understand this is given by $$\frac{1}{S} = \frac{1}{T_2} - \frac{1}{T_1} $$ .

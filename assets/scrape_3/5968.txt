@@ -1,0 +1,6 @@
+How did the reionization epoch make the universe "transparent"?
+
+I've been reading about the reionization epoch of the universe, and it isn't entirely clear to me.  
+As I understand it, very shortly after the big bang the universe was ionized, with the electrons stripped from the protons of hydrogen. The way that it's described is that the universe was "opaque" (since it was filled with ionized gas). Then the universe cooled enough for neutral hydrogen to form again, and the universe became "transparent". When the first stars and galaxies began to form they reionized the universe.  
+What I don't understand is that in illustrations of this reionization, during the reionization epoch, it seems that the universe isn't transparent, but filled with unionized IGM (neutral hydrogen). Then the ionizing radiation from the newly formed stars ionizes the medium and ... these bubbles of ionized regions grow and merge until the entire universe is ionized again (and is therefore transparent).   
+Have I misunderstood when the universe is transparent? Or the definition of transparent? Would it be accurate to say that the present day universe is completely ionized? (Does this just mean that most matter is in the form of stars which can be considered ionized? Since it doesn't really seem immediately evident in everyday life that "everything is ionized")

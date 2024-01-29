@@ -1,0 +1,5 @@
+Flickering and noise
+
+I'm working with flickering measures from some stars. So, I take differential magnitudes, make a histogram and fit their standard deviation. My measure of flickering is the FWHM (full width at half maximum).
+But I don't know how to analyze the noise. A full goal would be to measure the standard deviation of noise and discount this to FWHM. An acceptable goal would be to show that  FWHM is due mainly to signal and not to noise.
+I'm following A comparative study of the strength of flickering in cataclysmic variables by Albert Bruch, but I'm not studying CVs.

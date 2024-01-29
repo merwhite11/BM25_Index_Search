@@ -1,0 +1,6 @@
+Mimimum stellar mass and minimum temperature that triggers hydrogen burning
+
+We can derive the minimum mass of a star in the main sequence using the minimum temperature $T_C$ that triggers hydrogen burning in the core. Then using the stellar structure equations we can derive how the temperature in the core of a generic star is related to its mass and obtain:
+$$ T_{core} \propto M^{\frac{4}{7}} \iff  \frac{T_{core}}{T_{core,\odot}} = \left(\frac{M}{M_{\odot}}\right)^{\frac{4}{7}} $$
+If we insert the minimum core temperature for fusion we'll get an approximation for the minimum solar mass, but how can I predict $T^{minimum}_{core}$?
+In many book I see that they use $10^{6}$K, but why?

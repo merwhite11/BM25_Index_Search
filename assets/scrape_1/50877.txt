@@ -1,0 +1,3 @@
+Deviations of conservation laws in the context of cosmological evolution?
+
+If energy is "not conserved" in General Relativity (or at least, it is difficult to define it) in the context of an accelerating expanding spacetime (like it happens in our Universe), are there any observations of deviations from the strict laws of conservation in the evolution and formation of large scale structures (like clusters or superclusters of galaxies for instance)?

@@ -1,0 +1,6 @@
+Why is the cloud around Eta Carinae shaped the way it is?
+
+According to (german) wikipedia, Eta Carinae has a cloud shaped like two cones with the points at the poles of the star as well as a disk around the equator. These matter clouds are mostly or only condensed stellar wind from Eta Carinae.
+In my understanding, to create the dual-cone chape, the stellar wind provding the matter originates at the poles and this gives the dual cone shape (Ok?).
+Why the poles? Stellar wind would, I guess, be mostly stellar matter so hot it reaches escape velocity, further pushed by the radiation. This should be isotropic. I can only guess that maybe Eta Carina has a magnetic field shaped similarly to earth with a north and south pole, nearer the equator the stellar wind is perpendicular to the field lines so the flightpaths of the charged particles are bent back inward. Near the poles the flightpaths and field lines are mostly paralell, so the magnetic field does not really act on the stellar wind. I included this guesswork on my part so you know where to start.
+ETA: Turns out my guessing about stellar wind was wrong or mostly wrong, the cloud appears to be mostly shaped by eruptions in recentish history. But the question why they are shaped that way still stands.

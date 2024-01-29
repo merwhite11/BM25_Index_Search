@@ -1,0 +1,24 @@
+Are there any ready-made machine-learning datasets of photometric data that are easy to use?
+
+Disclaimer: I have a Machine Learning/Computer Vision background, not Astrophysics, so please be a bit patient with me. If you feel like this question is too far out there it would be great if you could direct me to meta or some bulletin board/mailing list that you think is a better fit. :)
+Important: I am talking about "datasets" in a machine learning / computer vision manner. I do not mean "the entirety of SDSS data" but rather a common set of inputs and (for supervised learning) associated outputs for a specific problem.
+I have been looking for a while now to tinker with some problems in Astronomy/Astrophysics and I keep finding the same kind of advice when it comes to datasets:
+Go to SDSS/GalaxyZoo, they provide downloads for their data.
+Now, while that is true, none of these datasets are anywhere near as accessible as datasets in Computer Vision. "Over here" a dataset is mostly a bunch of (huge) tar files with jpeg images and some .mat or .csv for annotations. The process of getting started is pretty straigth-forward: unzip, load annotations into memory, start sciencing (or usually, applying wild heuristics). Obviously I simplify slightly, but you get the idea.
+Now, to stay with the example of GalaxyZoo, the object coordinates, annotations and computed features are conveniently presented as a csv, fits or voTable file. But to get the actual visual data (if I understand this correctly) I have to, for each annotated galaxy...
+
+determine a bunch of .fits urls from the coordinates in the annotations (one per band and galaxy) and download them (~12MB/file)
+download the containing "tiles" from the SDSS servers (in each of the bands I'd like to work with)
+extract the patch containing the galaxies (with the aptly named sExtractor)
+possibly apply some non-trivial corrections/transforms to the image patch
+
+I tried following along this procedure with a semi-randomly chosen paper from arXiv for which there is code available here and without wanting to make any statement about said paper/code, this process is not comparable to the simple workflow I described above, and I would probably download some TB of data, were I to use the entire dataset, of which only a tiny fraction would actually be useful.
+The resulting dataset only occupies a few GB of space, and has a very simple nature: ca 50000 images, with associated labels -1 or 1, for stars or galaxies. The data preparation pipeline, while one might also want to optimize it for this task, has next to nothing to do with the "real" work being done in the paper, and so having the reader go through those steps makes little sense to me.
+So my questions are:
+
+Did I understand the workflow correctly? Maybe I'm just following the wrong kind of paper, or I really just overlooked a big red "Download Here!" button? Otherwise:
+Did anyone go through these steps and make the resulting dataset available? Or are there good reasons not to do so? From the size of the sExtractor manual I gather that the choice of parameters in this processing step might significantly influence the outcome of any downstream method. So...
+Are there any sane/agreed-upon default settings for the preprocessing pipeline? While for any given method, applying extra "magic" in the preprocessing might make sense, having a default set of parameters would make dataset creation and a bunch of other things much easier, no?
+
+I am sorry if this is a naive newcomer question. And for the long post. :P
+As a meta, I would add tags "dataset" and "programming" or some such, but I lack the reputation.

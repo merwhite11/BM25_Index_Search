@@ -1,0 +1,4 @@
+Accretion disks - why are they disk-shaped, rather than spherical?
+
+So, the theory (briefly) about accretion disks is that stuff falling into the black hole will most likely not fall straight into it but will miss it and go into orbit, perhaps for a long time, perhaps for a short time, before finally falling in.  That makes sense.
+But, why disks?  Wouldn't the matter falling into the BH be coming from all directions, and thus fall into orbits in all planes around the BH, not just one?  Or, is it that once there's a hint of "plane preference" in the debris, this will tend to be self-reinforcing, and anything subsequently falling into orbit around the BH will hit something in the disk, and so end up (perhaps after many collisions) being swept around in the disk as well?

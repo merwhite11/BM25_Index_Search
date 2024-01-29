@@ -1,0 +1,25 @@
+DIY tracking motor - gear mating
+
+I have a Skywatcher 130/900 and I found that if I do an accurate polar alignment I'll need only one motor to track a celestial body, so I decided to build my motor. Right now I'm facing a problem with the mating of the spur gear that drive the worm gear
+
+Using a caliper I found that the gear has the outer diameter of 50mm, and a tooth is 1mm in height, so the reference diameter is 49mm; the gear has 140 teeth, and so the module (reference_diameter / n_of_teeth) is 0.35.
+After this I used Solidworks to model a spur gear that could match it, and printed this
+
+When I tried to check the mating, I found this
+
+The teeth seems right, but they're too short and can't mate.
+I used a caliper and counted the teeth to obtain the gear specs, and I think is kinda stupid as approach, but I could not think of something better to mate my gear. Is there a better approach to this?
+Then, the idea was to try and remove the gear (removing the screw) and replace it with a 3d printed gear, but it does not seems to work (and I think it could break the telescope mount). Did someone try to do it?
+Searching online I found that (obviously) there are some tracking motors and another question came to my mind: how can they mate the gear? Is there some kind of standard? Does it mean that every telescope's mount has some kind of standard gear? If yes, where can I found them?
+EDIT: That's the situation: on the right there is the spur gear that I'm trying to mate (or eventually remove, if possible) and in the center there is the worm gear that move the telescope on the RA
+
+EDIT2: Here's the project of an involute gear with Solidworks. (I followed this tutorial) but as you can see, the teeth overlap.
+
+
+As a reminder, I have the following parameters
+
+Pitch diameter (PD): 49mm (caliper measurement)
+Number of teeth (Z): 140
+Module (PD/Z): 0.35
+
+Am I doing something wrong (or am I missing something)?

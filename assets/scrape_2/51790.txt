@@ -1,0 +1,4 @@
+After a Type Ia supernova explosion, what becomes of the degenerate matter?
+
+A white dwarf below 1.44 solar mass in a binary system may accrete mass from its companion. If its core reaches the temperature for carbon fusion during this process, the white dwarf may reignite in a runaway fusion. The runaway fusion could release sufficient energy to unbind the white dwarf in a type Ia supernova. An earlier answer mentioned that the star is completely destroyed in a type Ia supernova.
+Since the degenerate matter in the core of the white dwarf is the result of the gravitational compression, what becomes of the degenerate matter once the white dwarf is unbound?

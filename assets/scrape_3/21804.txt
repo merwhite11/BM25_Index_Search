@@ -1,0 +1,8 @@
+What does a black dwarf look like?
+
+A black dwarf is a hypothetical object that is the end result of the cooling of a white dwarf. None yet exist, because there hasn't been enough time in the age of the universe for them to cool down sufficiently. The oldest known white dwarfs are at ~3800 K and would glow orange. It will take many billions of years before any are cool enough (~750 K I believe) to not emit light visible to the naked eye.
+So, what would a black dwarf look like? I'm assuming it is illuminated by some other source of light such as a star. 
+The question could be rephrased: What is the visible absorption (and emission) spectrum of electron degenerate matter?
+This is my attempt at an answer: Probably not black. A lot would depend on whether electron-degenerate matter behaves as metallic or dielectric, based on its band-structure. My guess would be metallic, considering the electrons are dissociated from their parent nuclei in electron-degenerate matter.
+Because the surface gravity of a black dwarf would be so strong, I'd expect the surface to be very smooth and relatively free of Lambertian scattering. 
+From these two features, I'd make a tentative prediction that a black dwarf would appear as a mirror-like sphere.

@@ -1,0 +1,5 @@
+How much does the equivalent width of a line change by the introduction of 5% scattered light?
+
+How much does the equivalent width of a line change by the introduction of 5% scattered light? We know the equivalent width is defined as $W = \int_{-\infty}^{\infty} \bigg(\frac{1-F_{\nu}}{F_c}\bigg) \, d\nu$; where $F_{\nu}$ represents the flux in the line and $F_c$ represents the flux in the continuum.
+The measured equivalent width is $W_m = \int_{-\lambda_o}^{\lambda_o} \frac{I(\lambda)*(F_c - F_\nu)}{D_c} \, d\nu$ in which $\lambda_o$ is the spectral range over which the profile can be traced, $I(\lambda)$ is the instrumental profile, and $D_c$ is the apparent continuum.
+If we choose $\lambda$ to be 0 at the center of the line, and the range spans 200 Angstroms, then does the equivalent width of the line change by $200 A \cdot 0.05$ = 10 A? So is the equivalent width of a line changed depend on our range? I.e. width of a line of 140 Angstroms with 5% scattered light would alter it by 0.7 A. Am I correct?

@@ -1,0 +1,11 @@
+What does "synchrotron emission from relativistic electrons in equipartition with a ∼1.5 mG magnetic field" mean?
+
+I've heard of the equipartition theorem in the context of thermodynamics.
+But I don't understand how either "synchrotron emission" or "relativistic electrons" can be in "equipartition with a ∼1.5 mG magnetic field".
+Does it mean that the energy density stored in the magnetic field is equal to (or is equilibrated with) the energy density of the relativistic electrons and/or the synchrotron radiation that they produce?
+The phrase is from a block quote in this extensive & thorough answer to Nature and mechanism of the short-term variability in radio strength of Sgr A*? citing F. Yusef-Zadeh (2017) ALMA and VLA observations of emission from the environment of Sgr A*
+I see "energy density" half-way through the paragraph below, so I think I may be on the right track, but this is over my head:
+
+4 DISCUSSION
+4.1 Low Extinction Millimeter Halo
+[...]The millimeter halo is coincident with the X-ray emission around Sgr A*, which is dominated by bremsstrahlung arising from a medium with ne∼150 cm−3 and T∼3×107 K. The bremsstrahlung contribution at 230 GHz, about 0.2 µJy, is negligible. Thermal continuum from dust can also be ruled out because of the halo’s extinction deficit of 0.5 magnitudes at H-band relative to its surroundings. The millimeter emission could, however, be produced by synchrotron emission from relativistic electrons in equipartition with a ∼ 1.5 mG magnetic field. The energy density of each of these components would then be ∼ 10% of the thermal energy density of the hot gas, so this is plausible. The luminosity in the mm is $4 \pi d^2 \nu S_{\nu}$ ∼1.4×1033 erg s−1, comparable to the X-ray luminosity, LX ∼1×1033 erg s−1, implying that synchrotron cooling is marginally the dominant cooling mechanism for the gas. The synchrotron cooling time is ∼1000 yr, cf. the hot gas cooling time ∼105 yr, so this requires electron acceleration on this time scale.

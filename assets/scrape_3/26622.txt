@@ -1,0 +1,7 @@
+When a star reaches the red giant phase, why does it become more opaque?
+
+Please refer to this answer from Quora:
+
+... a star will become a red giant before it begins burning helium. In fact, it will bloat into a red giant while still burning hydrogen in a shell on the surface of the helium core. Shell burning, however, does release more energy than core-burning, but even that alone wouldn’t cause the star to become a red giant, since it could just shine brighter. The real culprit is the combination of the higher energy production rate AND that the star has a higher opacity at that stage in life. This produces an energy crisis where the energy cannot escape radiatively fast enough, and convection would have to be supersonic to rebalance the star. Since supersonic convection is highly disfavored (i.e. impossible), the star greatly expands to the point that the energy flux at the burning shell matches the energy flux at the now much larger surface again.
+
+This is one of the best explanations I've found for how stars transition to red giants. However, the section I've bolded is confusing to me: why would the star become more opaque, and what causes that to occur?

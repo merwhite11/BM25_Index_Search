@@ -1,0 +1,23 @@
+Solar Azimuth angle Derivation
+
+I tried posting this on math stack exchange to no avail so I thought maybe it's more relevant here :
+I know a similar question has been posted here before but no links to any mathematical derivations given on the following post. I was not able to access the citations on the wiki page either.
+How do I calculate the sun's azimuth based on zenith, hour angle, declination, and latitude?
+I was recently trying to derive the position of the Sun in the sky given the latitude, time of year and time of day.
+I used the following definitions:
+$\phi :$ I used this to denote the angle of latitude, as per convention
+$t:$ I used this to denote the angle of the year completed since Summer solstice
+$\theta:$ I used this to denote the angle of the day completed since solar noon
+$\Omega:$ I used this to denote the solar zenith angle.
+$\Gamma:$ I used this to denote the azimuth of the Sun clockwise from due North
+$k:$ I used this to denote the angle of 66.56 degrees between the Earth's axis and plane of revolution
+$\lambda:$  I used this to denote the angle between the Earth's axis and the vector in the direction of the sun, this is complementary to the more commonly used declination angle $\delta$
+My goal was to get a function $f(\phi, t, k,\theta)=\Omega,\Gamma$
+I was able (with some help) to derive the following formulae:
+$\cos(\lambda)= \cos(t)*\cos(k)$
+$\cos(\Omega)=\cos(\lambda)*\sin(\phi)+\cos(\phi)*\sin(\lambda)*\cos(\theta)$
+However, I was not able to then derive the formula given on the following Wikipedia page for $\Gamma=f(\theta,\lambda,\Omega)$ which I have transcribed into my variables below:
+https://en.wikipedia.org/wiki/Solar_azimuth_angle
+$\sin(\Gamma)=-\dfrac{(\sin(\theta)*\sin(\lambda))}{\sin(\Omega)}$
+I think in order to derive this I need to convert to a local co-ordinate system with due North along the y-axis, due East along the x-axis and zenith along the z-axis.
+Can someone help me to proceed?

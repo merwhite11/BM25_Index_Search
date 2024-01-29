@@ -1,0 +1,12 @@
+Orbital terminology for satellites relative to one another
+
+Basic question, but I'm trying to describe a planetary system and coming up short on vocabulary. Do either of the following exist?:
+
+A word for the closest pass between two satellites orbiting the
+same body. "Periapsis" does not seem to be appropriate as it
+describes a specific point in a single body's orbit. Either a
+specific word for this phenomenon or a general word for the closest
+pass between any two bodies would be welcomed.
+
+A word for the period between these events, adjacent to the concept
+of lunation.

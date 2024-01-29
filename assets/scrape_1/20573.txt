@@ -1,0 +1,6 @@
+Problem about finding distance with magnitude given
+
+A star in Pleiades cluster has apparent magnitude of +12 ($m_{star} = +12$) determine it's distance from the sun? (We know the Sun properties such apparent and absolute magnitudes, distance from earth, luminosity, brightness (energy flux) and others but nothing is given about the other star expect that apparent magnitude).
+My problem is that we don't have luminosity of the star. We can say:
+$m_{sun} - m_{star} = -2.5 * \log_{10}{\frac{b_{sun}} {b_{star}}} \Rightarrow 10^{(-26.8 - 12)/(-2.5)} \approx 3.31131 * 10^{15} = \frac{b_{sun}} {b_{star}} \approx \frac{1370 Wm^-2}{L_{star} / (4  \pi  d^2)} $
+As we can see, we don't have luminosity of the star. Can this question be solved with this information?

@@ -1,0 +1,5 @@
+A double star consists of two stars of equal brightness at equal distance from the Earth. What is the apparent magnitude of the combined object?
+
+The magnitude of each star in the V-band is mV= 8.34. If these stars are so close together that they appear as one object, what is the apparent magnitude of the combined object?
+I just want someone to point me in a general direction of how to approach this problem. The magnitude is logarithmic so it won't be double when combined. Or at least that is what I think. How do I apply the formula
+$$m=-2.75 \log_{10} F + C$$

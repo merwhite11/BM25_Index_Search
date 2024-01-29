@@ -1,0 +1,4 @@
+How many pixels could an image of Proxima b taken by James Webb have?
+
+I know it's very difficult for the James Webb Space Telescope to image the exoplanet Proxima b without an external coronograph (I have been told by NASA scientists that they don't know yet whether they will be able to do so), but I wonder how it is possible to mathemetically calculate: 1. Whether it could theoretically image the planet (even if it takes very long exposures); and 2. How many pixels the image would have?
+I assume it might as little as just 1 pixel, but I would like to know how to calculate it in order to get an aproximation for the number of pixels.

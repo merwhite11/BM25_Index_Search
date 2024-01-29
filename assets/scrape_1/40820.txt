@@ -1,0 +1,17 @@
+Are there any planetary ring system other than "Phoebe ring" not aligned to the equatorial plane?
+
+Continuation of: Is it possible for planetary rings to be perpendicular (or near perpendicular) to the planet's orbit around the host star?
+
+The answers discussed about Uranian ring system and how it changes its faces every half of its orbit wrt the Sun (called ring plane crossing). One of the commenters asked: "Is it possible for planetary rings to be perpendicular to their planet's axial tilt?" to which @ProfRob replied:
+
+the answer is that if the rings are produced by the breakup of a
+captured satellite, then yes they can be. If the rings are formed at
+the same time as the planet, then no they can't. Some of Saturn's
+rings are out of the equatorial plane.
+
+I assumed, he is talking about Phoebe ring which is tilted 27 degrees from Saturn's equatorial plane (and other rings). The other answers also shared the explanation that since it is a result of micrometeorite impact of a former satellite that broke, it followed whatever the orbit that satellite had. OTOH, if the ring was formed together with the planetary system, then the ring should be exactly on the equatorial plane.
+I was wondering if there are any ring system other than Phoebe ring system not aligned to the equatorial plane and that it formed as a result of micrometeorite impact?
+Related:
+
+Do planetary rings have geometric bounds?
+Why do planetary all rings seem to be on the equatorial plane?

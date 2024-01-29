@@ -1,0 +1,7 @@
+Guess inclination angle from radial velocity measurements
+
+I came upon this question where the situation is I have radial velocity measurements of a star with two circular orbiting exoplanets and the question is how to find out if the inclination angles of the planets are close to 90°.
+From what I understood this question could be resolved using a transit method. 
+But I don't see how inclination angle can be guessed through radial velocity measurements when they are close to 90°. What difference does it make on radial velocities ?
+Update:
+I think that the misunderstanding mentioned in the answers was really relevant, indeed in the scope of this problem an inclination of 90° the three points (Star, Exoplanet, observer) are aligned. Which means that a transit can be observed.

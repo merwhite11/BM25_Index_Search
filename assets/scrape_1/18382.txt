@@ -1,0 +1,3 @@
+Ellipticals supported by random motions
+
+As opposed to spiral galaxies, which are rotationally supported, elliptical galaxies are said to be supported by random motions of their stars. I don't really have an intuitive understanding of this. How do random motions prevent a collapse?

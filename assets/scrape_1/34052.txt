@@ -1,0 +1,11 @@
+What is the "radiation sound speed" inside an accretion column?
+
+I was trying to read "A New Two-fluid Radiation-hydrodynamical Model for X-Ray Pulsar Accretion Columns" and its follow-up paper both by West et al. and came across a quantity called "radiation sound speed", $a_r$.
+It is defined as 
+$$
+a_{r}^{2}=\frac{\gamma_{r} P_{r}}{\rho},
+$$
+where $\gamma_{r}$ is the ratio of
+specific heats for the radiation field, whatever that is supposed to mean, $P_{r}$ is the radiation pressure and $\rho$ the mass density. 
+My question now is: How can the radiation field have specific heats and a speed of sound?
+I always though only compressible fluids, gases, etc.  can have that.

@@ -1,0 +1,12 @@
+Moon's libration from Mathematica data
+
+Wolfram Mathematica provides "TransitTime" option (for the Moon in particular).
+Knowing this time moment, you can get the position of the moon at upper culmination
+(for example, for each day of the year).
+So I got the following plot:
+
+and the question arose:
+
+Is it real picture of Moon's librations?
+Or it may be inaccuracy in Mathematica data?
+Or it consequence of incorrect "experiment" (equation of time was not taken into account etc)

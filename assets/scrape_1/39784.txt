@@ -1,0 +1,4 @@
+Missing line in solar spectrum
+
+Referring to this answer to What's the rationale behind the false colours in solar observation photographs? which includes the table from Wikipedia's Fraunhofer lines:
+In the Table of wavelengths there is an e designated Hg line of 546.07 nm which DOES NOT appear in the picture of the Fraunhofer spectrum, any explanation? Also there are about a dozen lines in the spectrum which are not tabulated and not identified at all.

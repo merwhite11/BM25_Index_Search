@@ -1,0 +1,4 @@
+How did Hipparchus measure the length of the tropical year?
+
+My understanding is that he counted the number of days between every other equinox. The first year he would have counted 365 days, but after 4 years the tally would have reached 1461 days. Dividing this by 4 he would have had an average length of 365.25 days per year. Using records from older Babylonian and Greek astronomers he would have been able to achieve a higher accuracy. Am I on the right track?
+Bonus question: how did he measure the lengths of the seasons?

@@ -1,0 +1,4 @@
+What exactly are "H30α and He30α images"? (ALMA)
+
+I ran across this paper's title η Carinae: high angular resolution continuum, H30α and He30α ALMA images (arXiv) and see that the body of the paper also mentions "H40α, H30α and H29α".
+What notation is this, in which contexts is it used, and what exactly to the numbers and greek letters denote? (I'm assuming that H and He are elements).

@@ -1,0 +1,7 @@
+How do we know that black holes are spinning?
+
+How is it possible to know if a black hole is spinning or not?
+If a planet is spinning, you can see it clearly but you can't really see a black hole.
+Next thing would be that matter interacts with adjacent matter and we could see in which direction the matter surrounding the BH spins (like if you spin a ball on water, the water around would spin too in the same direction) but matter can't interact from inside the event horizon to the outside, so matter right at the event horizon would just be interacting with gravity (like the BH has no friction).
+Now gravity. I would think that you could measure the differences in gravity if a large object is not perfectly uniform but I think a BH has the same gravitation pull on all sides.
+What am I missing here? How can one even detect or determine by observation that a black hole is spinning, or better yet, measure how fast?

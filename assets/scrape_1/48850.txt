@@ -1,0 +1,11 @@
+Total scattered flux and polarization for a ring of dust particles close to a star
+
+I have an important problem and maybe some of you can help me with the following question:
+I have a mathematical expression for the total scattered flux in Jansky and the total linear polarized flux (also in Jansky) for one dust particle that is around 0.1 astronomical units away from the star. How can I extend this equation to a circle of 360 particles so I get a ring around the star, where each dust particle is located at one degree around the star?
+The equation for the total scattered flux is:
+$F_{\text{sca}}=L_{*}(\lambda)\cdot\pi\cdot Q_{\text{sca}}(a)\cdot \frac{\pi\cdot a^2}{4\cdot \pi \cdot r^2}\cdot \frac{S_{11}}{d^2 \cdot \frac{4\cdot \pi^2\cdot C_{\text{sca}}}{\lambda^2} }$
+The equation for the total scattered linear polarized flux is:
+$F_{\text{polarized}}=L_{*}(\lambda)\cdot\pi\cdot Q_{\text{sca}}(a)\cdot \frac{\pi\cdot a^2}{4\cdot \pi \cdot r^2}\cdot \frac{S_{12}}{d^2 \cdot \frac{4\cdot \pi^2\cdot C_{\text{sca}}}{\lambda^2} }$
+With $L_{*}(\lambda)$ as the luminosity of the star, $Q_{\text{sca}}$ is the scattering efficiency, $C_{\text{sca}}$ is the scattering cross section , $a$ is the radius of the dust particle, $r$ is the distance from the dust to the star, $d$ is the distance from the star to the observer, $\lambda$ is the corresponding wavelength of the star and $S_{11}$ and $S_{12}$ are Müller Matrix elements for the corresponding scattering process.
+I have all this parameters for a single dust grain and now my question is how to extend these equations on a ring of 360 dust particles around the star.
+Best wishes, Lyapunov

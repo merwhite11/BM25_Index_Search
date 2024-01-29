@@ -1,0 +1,4 @@
+Is it possible to take the same images in HST palette as the optic telescope but with radio telescope?
+
+Is it possible to detect signal from SII, H$\alpha$, OIII using radio telescope and make the similar images as optic telescope? If no, can we use the different elements to take signal?
+What minimal reflector radius do I need to have to do it? Can I use reflector from satellite TV?

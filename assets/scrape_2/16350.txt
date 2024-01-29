@@ -1,0 +1,6 @@
+Unable to achieve focus
+
+I feel like this is going to be a duplicate of this question, Astrophotography - Unable to achieve focus with current setup.
+However, the suggestions to go to a straight adapter doesn't apply in my case. I have a Canon Rebel XT, with a 2" 48mm adapter https://www.amazon.com/gp/product/B00T3P5ABC/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1, on my Orion XT10 dob, http://www.telescope.com/Telescopes/Dobsonian-Telescopes/IntelliScope-Dobsonians/Orion-SkyQuest-XT10i-IntelliScope-Dobsonian-Telescope/pc/1/c/12/sc/27/p/102013.uts.
+When I attach the adapter to the camera and focus on a planet or star, I can't achieve focus. My focus adjuster on the scope can't get close enough. It's as if the camera is just out of range of the focuser.
+I'm not sure what the issue is and would love to hear some suggestions. I'm just a noob getting started and have a lot to learn so I apologize at all the beginner questions here.

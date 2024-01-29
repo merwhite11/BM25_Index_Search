@@ -1,0 +1,4 @@
+Does the spin rate of a black hole correspond to a physical feature?
+
+If the mass and orbital period for two neutron stars is known before collapse to a black hole and the rate of spin is known after collapse, 100 revolutions per second for instance, that will correlate mathmatically to a specific radius.
+Does this radius correlate to a physical feature of the black hole such as a surface? Does this radius fall between the radius of the physical substance and the Schwarzschild radius? Is it the largest, intermediate, or the smallest of these?

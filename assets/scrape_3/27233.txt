@@ -1,0 +1,17 @@
+Currently proposed ways to distinguish between a really big planet and a really small star
+
+The Next Big Future article Rogue Exoplanet 12.7 times bigger than Jupiter is 20 light years away
+
+Astronomers using the National Science Foundation’s Karl G. Jansky Very Large Array (VLA) have made the first radio-telescope detection of a planetary-mass object beyond our Solar System. They found a rogue planet 12.7 times the mass of Jupiter twenty light years from earth.
+It is at the boundary of Jovian objects and Brown dwarf stars.
+[...]
+Last year, an independent team of scientists discovered that SIMP J01365663+0933473 was part of a very young group of stars. Its young age meant that it was in fact so much less massive that it could be a free-floating planet — only 12.7 times more massive than Jupiter, with a radius 1.22 times that of Jupiter. At 200 million years old and 20 light-years from Earth, the object has a surface temperature of about 825 degrees Celsius, or more than 1500 degrees Fahrenheit. By comparison, the Sun’s surface temperature is about 5,500 degrees Celsius.
+The difference between a gas giant planet and a brown dwarf remains hotly debated among astronomers, but one rule of thumb that astronomers use is the mass below which deuterium fusion ceases, known as the “deuterium-burning limit”, around 13 Jupiter masses.
+
+In the spirit of
+
+Do astronomers generally agree that the distinction between comets and astroids is not so clear?
+Is this object an asteroid or comet, and how can it produce so many tails?
+
+and the relatively recent reclassification of Pluto as a dwarf planet and not a planet proper, I'd like to ask what are the ways that have are currently proposed and given consideration to distinguish between a really big planet and a really small star?
+Is the "rule of thumb" proposed in the block quote the leading contender or are there other definitions that receive a similar amount of support

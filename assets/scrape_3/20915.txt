@@ -1,0 +1,3 @@
+Why does higher surface gravity broaden spectral lines?
+
+It's always made intuitive sense to me that a higher surface gravity leads to broader spectral lines from a star, but yesterday I realized that I don't have a physical explanation for why this is so.  Why is this so?

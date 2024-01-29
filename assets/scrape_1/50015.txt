@@ -1,0 +1,4 @@
+How has the rate of photon arrival from stars been estimated and then confirmed?
+
+My understanding is that we can estimate the total energy emitted over a star’s entire spectrum and from that and the star’s measured spectrum estimate how many photons of a given wavelength we should receive at a given instrument per second.
+My question is: How has this been estimated and then measured to validate the estimation method? Are there specific papers or texts that lay out a widely agreed-upon method?

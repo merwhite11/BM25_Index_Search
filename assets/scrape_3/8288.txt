@@ -1,0 +1,4 @@
+What is the orbit of Earth around the Sun?
+
+According to wikipedia and other sources, a planet and a star always move in a circular orbit around the common center of mass of the both bodies, in case  of Earth and sun, this center of mass lies inside the sun. Therefore, Earth should orbit the sun in a circular orbit. So, my question is, why does the Earth orbits the sun in an Elliptical orbit?  
+And, if it does, and one focus is the sun, then what is the other focus?

@@ -1,0 +1,7 @@
+In the case of heat death of our universe, would proton decay overtake the singularity decay due to Hawking radiation?
+
+According to GUT (The Grand Unified Theory), the half life of protons is 1.67×10^34 years if the standard model is incorrect and the time black holes take to evaporate due to hawking radiation is more than Googol years (for stellar mass black holes it is more than 10^67 years to evaporate, this figures refers to higher mass black holes like supermassive and ultramassive), so shouldn't the protons fade first? and if so would the protons in the singularity, decay leaving only other subatomic particles in the singularity like quarks or it would not effect the singularity at all because the laws of physics and CPT symettry does not apply inside the event horizon?
+I mean that if the proton decay is faster than the singularity decay, proton decay would already occur, so what would happen to the singularity?
+I know that only quantum gravity can give us the ultimate answer, but still are there any estimates by other theories.
+(Sorry, This was a Astrophysics question so I did not know to put it into Astronomy SE or Physics SE)
+Thanks!

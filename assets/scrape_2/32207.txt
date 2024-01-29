@@ -1,0 +1,7 @@
+Plot SuperWasp Lightcurves
+
+I am trying to plot superwasp lightcurves in python from the fits files, using TMID and FLUX2, getting this:
+
+There is a way to transform the information so I can plot the lightcurves with the kepler format, a example from kepler is something like this:
+
+Any help is useful.

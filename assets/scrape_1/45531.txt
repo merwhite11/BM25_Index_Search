@@ -1,0 +1,4 @@
+Solving the inverse problem - inspection
+
+After solving the inverse problem*, how to investigate whether the solution is unique or not? When I check theoretical values and published values during the convergence and search for the lowest value for chi-squared, is it sufficient?
+*The task when the observed data is given (radial velocity, light curves for an eclipsing binary), and someone needs to determine the set of parameters for which the model yields the best match of the observed curves.

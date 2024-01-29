@@ -1,0 +1,61 @@
+How do I plot galactic coordinates using matplotlib and astropy in python?
+
+I want to make a projection of millisecond pulsars on the galactic plane, much like this one from Sala et al. 2004: 
+
+I have tried several methods, and have not gotten anywhere. This is my current code, along with what it is producing:
+import math as m
+import numpy as np
+import csv
+import matplotlib.pyplot as plt
+import pandas as pd
+import astropy.coordinates as coord
+import astropy.units as u
+from astropy.io import ascii
+from astropy.coordinates import SkyCoord
+
+data = pd.read_csv('galacticwperiod.csv')
+
+xarr = np.array(data.iloc[:,0])
+yarr = np.array(data.iloc[:,1])
+eq = SkyCoord(xarr[:], yarr[:], unit=u.deg)
+gal = eq.galactic
+
+#print(xarr)
+#xarr = np.array(df.iloc[:,0])
+#yarr = np.array(df.iloc[:,1])
+#zarr = np.array(df.iloc[:,2])
+
+#ra = coord.Angle(xarr[:], unit=u.hour)
+#ra.degree
+#ra = ra.wrap_at(180*u.degree)
+#dec = coord.Angle(yarr[:], unit=u.deg)
+#print(ra)
+
+plt.figure(figsize=(6,5))
+fig = plt.figure()
+ax = fig.add_subplot(111, projection="aitoff")
+plt.plot(gal.l.wrap_at(180*u.deg), gal.b.wrap_at(180*u.deg), linestyle='None')
+ax.scatter(gal.l, gal.b, linestyle='None')
+
+
+#ax.set_facecolor('xkcd:battleship grey')
+#fig.patch.set_facecolor('white')
+#ax.tick_params(axis='both', which='major', labelsize=10)
+#ax.grid(color='b', linestyle='solid')
+fig.show()
+#plt.savefig('millisecondcoloraitoff.png', dpi=600)
+
+
+Here are a few lines of the input file 'galacticwperiod.csv':
+Gl,Gb
+111.383,-54.849
+305.898,-44.888
+305.913,-44.877
+
+This is the image it produces:
+
+I am almost certain this is wrong because they are not distributed along the galactic plane, which they should be. The data I am using is from the ATNF Pulsar Catalog. 
+These are the sites I have already looked at, for reference:
+https://stackoverflow.com/questions/33105898/astropy-matplotlib-and-plot-galactic-coordinates
+https://astropy4scipy2014.readthedocs.io/_static/notebooks/06_Celestial_Coordinates_solutions.html
+Any help with this would be greatly appreciated.

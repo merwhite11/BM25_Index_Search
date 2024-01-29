@@ -1,0 +1,3 @@
+Do I need ENVI if I want to just learn IDL?
+
+I am trying to gain experience in IDL in order to do basic image data reduction techniques like stacking and aperture photometry, so I decided to purchase an IDL license, however, the license is linked with ENVI but I am not sure what that is? I know IDL is very popular in the astronomy community, but is ENVI needed?

@@ -1,0 +1,6 @@
+If Betelgeuse dimmed because of dust, what became of the dust?
+
+This question started as a clarification request of a question from Glorfindel, answered at least in part by James K, and I realized it would probably be best as a stand-alone question.
+The most popular theory behind the recent dimming of Betelgeuse invokes a dust cloud formed from ejected surface gasses which then reduced the amount of light able to reach us.  My question is, what would be the fate of such a dust cloud?  I can think of two possibilities.  The first is that it has sufficient velocity to simply escape the system.  Moving in essentially a line from the star would produce a predictable decline in the dimming effect, one would suppose.  Is this the case?
+The second possibility is that the dust cloud orbits the system but disperses such that its effect on Betelgeuse' magnitude seen from Earth is negligible.  It seems like this would also be something we could model fairly well.  Clearly there is not a large blob of dust regularly reproducing the dimming event, so far as I am aware, which is why I considered dispersion.
+Of course, there may be other possibilities.  Articles found online are plentiful for the dust cloud causing the dimming, but I haven't been able to find out what would have happened to the dust itself.

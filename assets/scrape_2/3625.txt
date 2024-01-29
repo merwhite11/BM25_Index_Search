@@ -1,0 +1,5 @@
+Average amount of annual daylight at any place on earth
+
+If this is the wrong group please direct me to the correct one.
+It seems intuitively obvious that the amount of daylight per annum should be the same for any latitude on earth. For example, 12 hours per day at the equator. The poles have daylight for half the year and darkness for the other half (crudely).
+Is there any way to get an answer to this apparently simple question - is the annual amount of daylight the same at any point on earth?

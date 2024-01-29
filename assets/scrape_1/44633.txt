@@ -1,0 +1,8 @@
+How does speckle imaging fit in to 21st century high resolution imaging from ground based observatories?
+
+Phys.org's Astronomers uncover evidence that there could be many more Earth-sized planets than previously thought references Speckle Observations of TESS Exoplanet Host Stars. II. Stellar Companions at 1-1000 AU and Implications for Small Planet Detection who's abstract begins:
+
+We present high angular resolution imaging observations of 517 host stars of TESS exoplanet candidates using the ‘Alopeke and Zorro speckle cameras at Gemini North and South. The sample consists mainly of bright F, G, K stars at distances of less than 500 pc. Our speckle observations span angular resolutions of ∼20 mas out to 1.2 arcsec, yielding spatial resolutions of <10 to 500 AU for most stars, and our contrast limits can detect companion stars 5−9 magnitudes fainter than the primary at optical wavelengths.
+
+I remember the excitement about Speckle Imaging in the early 1980's but didn't realize that it was still an actively used technique 40 years later.
+Question: How does speckle imaging fit in to 21st century high resolution imaging from ground based observatories? Is it what you do when you can't get time on an adaptive-optics equipped instrument, or need to image at shorter wavelengths than that technique works for? Did they drag these out of a closet for this observation campaign or is this still an actively used technique in the 2020's?

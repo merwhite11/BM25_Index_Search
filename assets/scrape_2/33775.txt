@@ -1,0 +1,4 @@
+How to convert from FELO-HEL to Km/s?
+
+I am using DS9 to calculate the rotational velocity of a galaxy. I have 21cm cube and  I used DS9 to plot this graph 
+I do not understand what is FELO-HEL! and I want to convert the units from FELO-HEL to Km/s?

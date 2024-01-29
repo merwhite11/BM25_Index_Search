@@ -1,0 +1,14 @@
+Do circa 1 THz radio telescope front end amplifiers actually down convert before amplifying? At what frequency does amplification become untenable?
+
+A discussion of how astronomers view where "radio" ends and "infrared" begins under What does the celestial sphere look like in thermal IR? led me to wonder just how high of a frequency is currently electronically amplified in radio telescopes before it is instead down-converted via some local oscillator and mixer.
+Just for example ALMA has ten different frequency bands listed at ESO's ALMA Receiver Bands.
+The table says that the lowest two bands (35–50 and 65–90 GHz) use High-electron-mobility transistor receiver technology, while the top eight use "SIS".
+The top band (Band 10) is listed as 0.3–0.4 mm or 787–950 GHz with a Noise Temperature Specification of 344 Kelvin.
+But I don't know how to find out for each of these bands how the front ends work; whether they amplify or mix and down-convert first. So I'd like to ask:
+Question: Do circa 1 THz radio telescope front end amplifiers actually down convert before amplifying? At what frequency does amplification become untenable for radio astronomy applications?
+Related and possibly helpful:
+
+Highest frequency that's been imaged by a radio telescope?
+Has optical interferometry been done at radio frequency using heterodyning with a laser in a nonlinear material? (yes!)
+How does ALMA produce stable, mutually coherent ~THz local oscillators for all of their dishes?
+Is there any work underway to push the long baseline capabilities of the Event Horizon Telescope to sub-millimeter wavelengths?

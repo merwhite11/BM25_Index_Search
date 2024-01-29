@@ -1,0 +1,9 @@
+BLC1 and Proxima Centauri's activity
+
+From Wikipedia BLC1:
+
+A paper by other astronomers released 10 days before the news report about BLC1 reports the detection of "a bright, long-duration optical flare, accompanied by a series of intense, coherent radio bursts" from Proxima Centauri also in April and May 2019. Their finding has not been put in direct relation to the BLC1 signal by scientists or media outlets as of January 2021 but implies that planets around Proxima Centauri and other red dwarfs are likely to be rather uninhabitable for humans and other currently known organisms.
+
+BLC1 the candidate SETI radio signal was observed on April 29, 2019, during the period when Proxima Centauri was active violently. These stellar flares and radio bursts are unlikely to generate narrow-band signals themselves. But is it possible that these events trigger some other processes that can create narrow-band signals like BLC1?
+Related paper:
+A Flare–Type IV Burst Event from Proxima Centauri and Implications for Space Weather

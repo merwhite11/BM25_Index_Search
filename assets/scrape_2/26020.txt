@@ -1,0 +1,16 @@
+Correct relation between metallicity (z) and iron content ([Fe/H])
+
+The Wikipedia entry on Metallicity states that:
+
+$\log_{10}\left(\frac{Z/X}{Z_\mathrm{sun}/X_\mathrm{sun}}\right) = [\mathrm{M}/\mathrm{H}]$
+where $[M/H]$ is the star's total metal abundance (i.e. all elements heavier than helium) defined as a more general expression than the one for [Fe/H]:
+$[\mathrm{M}/\mathrm{H}] = \log_{10}{\left(\frac{N_{\mathrm{M}}}{N_{\mathrm{H}}}\right)_\mathrm{star}} - \log_{10}{\left(\frac{N_{\mathrm{M}}}{N_{\mathrm{H}}}\right)_\mathrm{sun}}$
+The iron abundance and the total metal abundance are often assumed to be related through a constant A as [citation needed]:
+$[\mathrm{M}/\mathrm{H}] = A\times[\mathrm{Fe}/\mathrm{H}]$
+where $A$ assumes values between 0.9 and 1. Using the formulas presented above, the relation between $Z$ and [Fe/H] can finally be written as:
+$\log_{10}\left(\frac{Z/X}{Z_\mathrm{sun}/X_\mathrm{sun}}\right) = A\times[\mathrm{Fe}/\mathrm{H}]$
+
+This all sounds reasonable, but I have two questions:
+
+Where does the $[\mathrm{M}/\mathrm{H}] = A\times[\mathrm{Fe}/\mathrm{H}]$ relation come from? I could not find a proper source.
+This article actually says (see Eq 9) that the general relation is $\log_{10}\left(\frac{Z/X}{Z_\mathrm{sun}/X_\mathrm{sun}}\right) = [\mathrm{Fe}/\mathrm{H}]$ i.e., they seem to equate [M/H] with [Fe/H]. I assume that it is because the aforementioned A parameter is between 0.9 and 1, but again that leaves me with the need for a proper source to state that.

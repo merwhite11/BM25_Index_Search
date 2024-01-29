@@ -1,0 +1,3 @@
+In terms of results, how similar is a bunch of telescopes across the globe to an Earth-sized telescope?
+
+The Event Horizon Telescope emulates an Earth-sized telescope by syncing a bunch of radio telescopes across the planet to do take pictures with a small enough angular resolution to take pictures of a black hole. Would the angular resolution, or perhaps just general performance, of an Earth-sized telescope be appreciably higher than this?

@@ -1,0 +1,22 @@
+Retrieving input effective radius from Sérsic profile
+
+I'm playing around with Sérsic profiles, and would like to retrieve the effective (half-light) radius that I put in by integration of the profile. I'm not managing to, so perhaps someone can help me out.
+I create the profile using astropy:
+from astropy.modeling.functional_models import Sersic1D
+from scipy.integrate import simps
+Sersic = Sersic1D(amplitude=1,r_eff=1,n=1)
+
+I can then make a light profile:
+x = np.arange(1000)
+I = Sersic(x)
+
+Then we can perform an integral over this I(r):
+integral = [simps(I[0:i],x[0:i]) for i in np.arange(len(I)-1)+1]
+
+From which one would finally find the radius at which the enclosed flux is half that of the total:
+from scipy.interpolate import interp1d
+
+f_int = interp1d(integral,np.arange(len(I)-1)+1)
+print 'Half radius: ', f_int(integral[-1]/2.)
+
+However, this does not give me the desired result -- the input radius of 1. Why not? Is this a conceptual error or a numerical one - or both?

@@ -1,0 +1,4 @@
+Maximum and minimum gas giant & ice giant densities
+
+I'm working on a star system generator for a game; I'd like its results to be plausible but they needn't be super-realistic. I've got the orbital distances and masses of each body in the system, and now want to render them, so I need to determine the radius of each body.
+For gas giant and ice giant planets, what's the relationship between mass and density? What are the minimum and maximum densities expected?

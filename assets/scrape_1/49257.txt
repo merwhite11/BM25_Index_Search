@@ -1,0 +1,4 @@
+Dates of Passage of Neptune at Aphelion and Perihelion
+
+I'm working with a group of colleagues on a Solar System simulator. We need two items of data that are missing to us:
+the nearest dates of passage of Neptune at Aphelion and Perihelion.

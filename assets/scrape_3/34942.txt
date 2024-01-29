@@ -1,0 +1,5 @@
+How could one use the transit of Mercury to try and find the Astronomical Unit?
+
+I am trying to use the transit of Mercury to estimate the distance between the Earth and the Sun, or 1 AU. 
+I know that I need to observe mercury from two antipodes, but I do not understand any of the underlying math behind this, or how to derive the astronomical unit from this.
+Any help is appreciated!

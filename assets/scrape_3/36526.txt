@@ -1,0 +1,7 @@
+Keplerian Elements for the Moon and Earth around their Barycenter
+
+So I'm looking to replicate the inner Solar System to a decent degree of accuracy. So far I've been utilizing the Keplerian Elements and Equations for the planets, as shown here. There is one issue with this though:
+For the Earth and Moon, I only get the path of the Barycenter. This is great, but it means that the next thing I need is the Earth's and Moon's Keplerian Elements relative to their Barycenter. Now I can get the starting element values from JPL HORIZONS or the JPL Planetary Satellite Mean Orbital Parameters. However, I get a bit stuck on what the best way to evolve these values over time is. 
+I'm thinking that maybe the answer lies in utilizing the Longitude Rate (n) in the JPL Planetary Satellite Mean Orbital Parameters for approximate motion.
+Does anyone have any solid resources I could utilize to determine a good solution to this problem (i.e. books/links)?
+Also, just so I know, does a question like this actually belong here? Or is it more appropriate for Space Exploration?

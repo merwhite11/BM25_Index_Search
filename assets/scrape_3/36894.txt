@@ -1,0 +1,6 @@
+Can the paper narrowing Solar System's barycentre to within 100m help find Planet Nine?
+
+I've just read this recent news article, Astronomers Have Located The Centre of The Solar System to Within 100 Metres, reporting on a paper[1] that claims narrowing the Solar System barycentre to within 100 meters, just outside the sun, and I wonder, could this result help prove or disprove the hypothesis of a massive Planet Nine as proposed by Batygin and Brown[2] in 2016?
+I imagine that any unknown mass concentration would change the barycentre and generate a error, and if we could measure this error, it should be possible to pinpoint the position of said mass concentration. Can we just use probe tracking data from the Voyagers or Pioneers to see if their hyperbolic trajectories match the barycentre reported in the paper, for example?
+[1]. Vallisneri, M., et al. “Modeling the Uncertainties of Solar System Ephemerides for Robust Gravitational-wave Searches with Pulsar-timing Arrays”. The Astrophysical Journal, vol. 893, no 2, abril de 2020, p. 112. DOI.org (Crossref), doi:10.3847/1538-4357/ab7b67.
+[2]. Batygin, Konstantin, e Michael E. Brown. “Evidence for a Distant Giant Planet in the Solar System”. The Astronomical Journal, vol. 151, no 2, janeiro de 2016, p. 22. arXiv.org, doi:10.3847/0004-6256/151/2/22.

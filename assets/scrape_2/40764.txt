@@ -1,0 +1,5 @@
+How to obtain a luminosity from an SED
+
+I have a spectral energy distribution (flux densities measured at several frequencies), and have fitted a 'greybody' model to these points.
+I am confused about how I use this information to determine the luminosity of my source.
+I think the integral of my fitted function gives me the total flux, but how is this related to the source's luminosity?

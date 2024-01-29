@@ -1,0 +1,3 @@
+What is the bulk Lorentz factor?
+
+When we are talking about relativistic motions, say from a relativistic jet, what is meant by the term "bulk Lorentz factor", and the bulk speed, $\beta$?

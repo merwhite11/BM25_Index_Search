@@ -1,0 +1,14 @@
+Semi-major axis, vs aphelion, vs mean orbital distance?
+
+The website Swinburne University of Technology (AU) gives the definition of semi-major axis as:
+
+...half of the longest diameter of an ellipse.
+
+This website give the definition of semi-major axis as:
+
+Half of the major axis is called the semi-major axis, and the semi-major axis is also the average sun-planet distance.
+
+But the average sun-planet distance should be the average of the semi-major and semi-minor axes. I've also seen the mean orbital distance described as the semi-major axis in many other places, not just the one cited, so that seems to be a fairly consistent definition, too. But both seem to be inconsistent; how could it be both?
+And it also seems to be that the semi-major axis ought to be the same as the aphelion distance, and the semi-minor axis ought to be the same perihelion.
+Obviously, the confusion must be mine, but I'm not sure where I'm getting things wrong.
+Edit: It occurred to me shortly after posting this and shutting down my computer for the day that (as I'm sure 90% of this SE community knows) the semi-major and semi-minor axes are measured to the center of the ellipse, whereas the aphelion and perihelion are measured to the Sun. I think I'm starting to understand how the semi-major axis can be both the mean orbital radius with respect to the sun and the largest distance from the center of the ellipse.

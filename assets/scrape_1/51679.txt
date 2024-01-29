@@ -1,0 +1,7 @@
+Feasibility of detecting earth-like exoplanets with amateur telescopes
+
+An approximation of the dimming of exoplanet transits can be obtained by dividing the areas of the disks of the exoplanet and star by each other.
+Taking the radii of Jupiter and our sun results in an area ratio of (69,911 km)^2 / (696,340 km)^2 = 0.0101, so a brightness change in the 1%-5% range most exoplanets detected by the transit method are in.
+This is possible to observe even with amateur telescopes, but Earth-like planets seem to be much more difficult:
+Earth's ratio to the sun, having an area only a tenth of Jupiter (6,371 km), is 0.0000837, or roughly 1/12000, approximately 100 times smaller.
+Assuming one uses a 16-bit camera, if the exposure time is optimized to be just below saturation, this would amount to a 5-6 count difference - which seems incredibly small, but perhaps possible to reliably detect/confirm with statistical methods?

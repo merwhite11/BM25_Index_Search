@@ -1,0 +1,24 @@
+Calculation of Julian day is off for negative dates
+
+I bought the book Astronomical Algorithms by Jean Meuss and I am reading it in order to build a small library I will use for another project.
+I made a program in Rust to calculate the JD given a date see here, this program uses the following formula from the book:
+Given Y as year, M as month and D as day;
+
+if M > 2 Y and M are unchanged
+if M == 1 or 2 replace Y with Y-1 and M with M+12
+
+If the date is from a Gregorian calendar then:
+
+calculate A = INT(Y/100) and B = 2 - A + INT(A/4)
+
+else
+
+B = 0
+
+So JD = INT(365.25*(Y+4716)) + INT(30.6001*(M+1)) + D + B - 1524.5
+The program seems to work correctly for positive dates (see tests) but whenever the date is a negative one the result is wrong; for example JD for -4712 January 1.5 return 37 instead of 0 or JD for -1000 July 12.5 return 1356010 instead of 1356001
+I made the calculation also on paper and the program confirms what I get on paper, what is wrong with the formula?
+[EDIT]
+I reworked my gist using the source code of libnova, the code now works all the time, but I am still confused on why
+new gist -> https://gist.github.com/MattBlack85/c2030dc56c97f5f7fd06dd27a97413bb
+rust playground -> https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=98e513a4fa196d9e6eccbf6b83509cc2

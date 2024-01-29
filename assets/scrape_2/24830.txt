@@ -1,0 +1,4 @@
+Temperature of Earth if tidal locked with the Sun?
+
+Assume the Earth somehow stopped spinning once every ~24 hours, and instead started rotating at ~365 days per rotation, so it effectively would end up being tidal locked with the Sun.  In this scenario, the same side of the Earth would always be facing the Sun, and the opposite side of the Earth would always be in darkness.  Disregard all sorts of cataclysmic events that would transpire if something like this happened.  
+I think it would be safe to assume that life as we know it would quickly cease to exist except on the very edges of the day/night, but what would the approximate temperature stabilize at both on the point on the Earth directly facing the Sun, and a point on the surface of the Earth exactly away from the Sun?

@@ -1,0 +1,8 @@
+Triangular Asterism Trigonometry between Alnitak, Saiph, and Sirius?
+
+I am using the SIMBAD database for Alnitak, Saiph, and Sirius:
+Alnitak ; FK5 coord. (J2000): RA = 05 40 45.527 DEC = -01 56 33.26; 
+Saiph   ; FK5 coord. (J2000): RA = 05 47 45.389 DEC = -09 40 10.58; 
+Sirius  ; FK5 coord. (J2000): RA = 06 45 08.917 DEC = -16 42 58.02; 
+
+What is the trigonometric relationship in degrees (length of sides and inclusive angles to four decimal places) between these three stars when they are used to form a triangular aterism?

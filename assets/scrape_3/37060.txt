@@ -1,0 +1,7 @@
+Can tidal locking increase rotational kinetic energy? Where does the energy come from then?
+
+I was thinking about the explanation for how the Moon gets tidally locked with the Earth. We are working in the non-rotating reference frame of the Earth, and assume it is inertial (to an approximate degree). I was looking at the explanation given in this link (see 2nd and 3rd paragraphs).
+Because tidal forces of gravitation cause bulges of the moon (in the direction of the Earth-Moon axis), any rotation of the Moon that does not match the orbit of the Moon around Earth will lead to a torque on the Moon, causing the rotation period to gradually become closer to the orbital period.
+If the Moon rotates too fast, the usual explanation tell us that the rotational kinetic energy dissipates into heat via tidal friction. This makes complete sense. However, there seems to be an obvious follow-up question to this: What if the rotation of the Moon is too little? Where does the energy come from?
+I can see how rotational kinetic energy of the Moon is dissipated into heat by tidal forces, but I don't understand where the energy comes from in the case where the Moon is rotating too slowly (from the point-of-view of Earth non-rotating reference frame). Is tidal friction the right terminology here?
+If there are any answers, are there any calculations to support them?

@@ -1,0 +1,7 @@
+Kepler and the Sun position
+
+When Kepler went to Tycho Brahe, he learned that Tycho Brahe was using the mean position of the sun to note down the position of Mars. Well, Kepler needed to convert these datas of Brahe to do his own calculations for the orbit of Mars.
+In this link, the difference between the real and mean position is shown.
+http://www.keplersdiscovery.com/MeanSun.html
+http://www.keplersdiscovery.com/CorrectedTable.html
+But how did Kepler calculate the real position of the Sun? I don't get it. And due to my first language is not English it might be possible that I didn't understand some important aspects of the given links.

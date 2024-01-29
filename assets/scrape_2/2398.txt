@@ -1,0 +1,9 @@
+Is the Moon only 60x60 pixels?
+
+In doing research on vision, I have learned that "20/20" vision corresponds to a visual acuity of being able to resolve details 1 arcminute in size, that most people have around 20/15 vision, and that due to the limits of physiology basically nobody has vision better than 20/10 vision. This is an upper limit of resolving details about 0.5 arcminutes in size.
+According to Wikipedia the Moon is around 30 arcminutes wide when seen by the naked eye.
+Put these together, and it seems to say that when looking at the moon with the naked eye nobody can see more details than would be visible in a 60×60 image of the Moon
+
+and that the average person can't see any more details than in a 40×40 version
+
+Those seem so small on my monitor. Can that really be all the detail that I can see on the Moon with the naked eye?

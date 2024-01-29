@@ -1,0 +1,30 @@
+Good textbooks for a descriptive astronomy course
+
+Brief tale of woe
+My department at a small public university in the US has decided to begin offering a descriptive astronomy general education course for the first time in a couple of decades and we have no institutional memory of how it was done before nor anyone on staff who's taught such a beast.
+And I've been tapped to teach it.
+Requirements
+It's to be a one-semester course with three hours a week of classroom instruction and a three hour lab scheduled late enough that we'll have some dark sky early in the semester and more as the year goes on (schedule has it in Fall Semester). Expected enrollment in the neighborhood of 20 to 30. I won't have a teaching assistant unless I can rope a physics major into doing it somehow (we're an all undergrad department).
+As a "general education" course mine will mostly attract students majoring in non-science subjects, biological science or human science. The students will have had enough math to know (in principle) how to isolate any variable in, say, the law of universal gravitation but many won't remember at first and some will resist; many will have chosen this class in an effort to avoid 'hard' classes like our gen ed chemistry, physics, or geology courses.
+I'm looking of a textbook that touches on things like
+
+Observational coordinate systems, familiarization with the night sky (constellations, I suppose), finding things
+The Earth moon system, phases, eclipses, maybe even tides
+Kepler's laws
+The planets, moons and other bits and pieces in the solar system
+The sun in particular and stars in general; including the birth, evolution and death of stars in a low math way
+Some observational stuff; parallax, standard candles, HR diagram ...
+A unit or integrated material on the planetary missions would be nice
+Larger scale structure of the universe; a cosmology unit wouldn't be out of place; how much dark matter (or worse dark energy) can actually be done?
+A unit on extra-solar planet hunting would be nice.
+A unit on other wavelengths?
+What else goes into a course like this?
+
+Please include some detail on what is good about suggested texts and how well it matches with the course I've got to teach. What does it offer that's special?
+Random detail
+At this point we own a 8" scope (reflector) with a axial mount and motor drive but no automated pointing and two pairs of decent binoculars (I can probably buy more binoculars, but additional scopes are probably out of budget for this). 
+It's been about 20 years since I pointed a scope up with my own hands, and my only "real" astronomical experience was doing some programming for a CCD backed 14" remote-operated scope in the early 90s (we even managed to track a MACHO light curve and agree with the big boys, woo hoo science!).
+The department head thinks that every gen. ed. course in our department should cover the scientific method and some thermodynamics which I think we can fit in.
+I sincerely intend to include at least one field trip out to dark sky to just look up with adapted eyes. It's been too long...
+
+The only question I could find on meta suggested that a sufficiently focused recommendation question would be accepted. If this is a no go, perhaps I'll pop into chat at some point.

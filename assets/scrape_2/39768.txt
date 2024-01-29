@@ -1,0 +1,16 @@
+What are the pros and cons of angular cross-correlation in real space and harmonic space?
+
+In observational cosmology people often measure and model cross-correlations between different tracer maps. There are generally two ways to measure cross-correlations:
+
+in real space (two-point function):
+
+$$
+\xi^{uv}(\theta) \equiv \left\langle  u(\boldsymbol{\theta'}) v(\boldsymbol{\theta'}+\boldsymbol{\theta}) \right\rangle_{\boldsymbol{\theta}'}
+$$
+
+in harmonic space (angular power spectrum)
+
+$$
+\xi^{uv}(\theta)=\int d \ell \frac{\ell}{2 \pi} C_{\ell}^{uv} J_{0}(\ell \theta)
+$$
+I'm wondering in the sense of measurements, modelling, systematics, etc, what are the pros and cons of these two methods?

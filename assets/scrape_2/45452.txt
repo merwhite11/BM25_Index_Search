@@ -1,0 +1,18 @@
+Orbiting around a common barycenter in Kurzgesagt video: "The Largest Black Hole in the Universe"
+
+Observation
+This video by In a Nutshell visualises the V723 Mon orbiting a smaller and heavier object/black hole named Unicorn. However, the animation shows Unicorn and V723 both orbiting some common orbital centre at approximately the same angular velocity (rad/s).
+
+Doubt
+However, intuitively I would expect the Unicorn (or V723 Mon for that matter) to be at the other side of the orbital centre of the two bodies, as visualised in this animation:
+https://u.osu.edu/tharinduj/files/2021/04/ASAS-SN-Black-Hole-1.mp4
+Hypothesis
+Explanations could perhaps be that:
+
+both Unicorn and V723 Mon both orbit a larger body, which is at the centre of the Kurzgesagt animation.
+There is an object that influences the orbit of Unicorn even more than V723 Mon causing the barycenter of Unicorn and that other object to be at the actual centre showed in the Kurzgesagt video.
+
+Yet those seem unlikely, and especially given the other animation I found of Unicorn and V723 Mon, it seems like the In A Nutshell video simply has a slightly inaccurate visualisation.
+Question
+Hence, I would like to ask:
+Is the relative position w.r.t. the implied orbital centre of the two bodies in the In A Nutshell animation an accurate representation (or would it be improved by visualising Unicorn (or V723 Mon) on the other side of the implied orbital centre)?

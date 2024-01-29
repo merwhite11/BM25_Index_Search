@@ -1,0 +1,11 @@
+How did the authors determine both the spatial size of gas cloud HCN-0.009-0.044 and its central mass at the same time?
+
+Phys.org's Hiding black hole found says:
+
+A research team led by Shunya Takekawa at the National Astronomical Observatory of Japan noticed HCN-0.009-0.044, a gas cloud moving strangely near the center of the galaxy 25,000 light-years away from Earth in the constellation Sagittarius. They used ALMA (Atacama Large Millimeter/submillimeter Array) to perform high-resolution observations of the cloud and found that it is swirling around a massive invisible object.
+Takekawa says, "Detailed kinematic analyses revealed that an enormous mass, 30,000 times that of the sun, was concentrated in a region much smaller than our solar system. This and the lack of any observed object at that location strongly suggests an intermediate-mass black hole. By analyzing other anomalous clouds, we hope to expose other quiet black holes."
+Tomoharu Oka, a professor at Keio University and coleader of the team, adds, "It is significant that this intermediate mass black hole was found only 20 light-years from the supermassive black hole at the galactic center. In the future, it will fall into the supermassive black hole, much like gas is currently falling into it. This supports the merger model of black hole growth."
+These results were published as Takekawa et al. "Indication of Another Intermediate-mass Black Hole in the Galactic Center" in The Astrophysical Journal Letters on January 20, 2019.
+
+The paper Indication of Another Intermediate-mass Black Hole in the Galactic Center (open access) is pretty hard to read as it details the careful analysis of ALMA data reduction and analysis.
+Question: How did the authors determine both the spatial size of gas cloud HCN-0.009-0.044 and the mass of the central object at the same time?

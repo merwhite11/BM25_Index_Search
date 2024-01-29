@@ -1,0 +1,8 @@
+Why did it take so long for SN1987A to reach peak brightness?
+
+
+The light from SN1987A first reached us on  February 23, 1987, and its brightness peaked in mid May, almost 3 months later.
+However, every source that I can find states that it normally only takes a few weeks for Supernovae to reach their peak brightness.
+Here, it states that "Supernovae of both types reach maximum optical brightness 2 to 3 weeks after their explosions." And here  it states that "A typical supernova reaches its maximum brightness about 20 days after explosion."
+Finally here is a graph from Wikipedia of what typical Supernova light curves look like.
+What's the reason for this discrepancy?

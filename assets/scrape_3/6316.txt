@@ -1,0 +1,11 @@
+Sedna, VP113 and the likelihood of the PX/Tyche/Thelistos hypotheses
+
+Crosslisted question from https://physics.stackexchange.com/questions/131876/sedna-vp113-and-the-likelihood-of-the-px-tyche-thelistos-hypotheses
+The recent discoveries in exoplanetary science (specially those findings of planets orbiting far far away from its parent star/stars) raise questions about how much we know about the (true, AIU definition) number of planets in our solar system.
+Question: does the discovery of VP113 and Sedna increase the odds of some kind of planetary object in the edge of the known solar system (Oort's cloud)? How could we find it if it is very cold and dark? I mean, how many Sedna or VP113 objects we would need in order to guess its position and location?
+Reading about this topic, I don't know how to quantify the odds of finding
+
+PX(Planet X): An Earth sized body perturbing the orbits of Sedna, VP113 and other similar objects.
+Thelistos: A super-Earth (about 5-10 Earth masses times a O(1) factor)
+Tyche: (Now disfavoured by WISE data, I think it can not be excluded if it is extremely cold and "dark") Gas giant (Neptune-like, Saturn-like, etc)
+Nemesis: A "dark star"/brown dwarf object.

@@ -1,0 +1,3 @@
+Radial velocity curves
+
+When I measure RV in a program for more spectral lines, will it be equivalent? I mean I measure RVs of a line in blue spectral region, RVs of a line in red spectral region... Many thanks.

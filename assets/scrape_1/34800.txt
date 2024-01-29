@@ -1,0 +1,4 @@
+Simulation and its necessity in astronomical research
+
+I was wondering if mainly everything in Astronomical and Astrophysical was dependent on Simulations then what are the educational requirements are necessary to qualify as the Simulation Expert. 
+What softwares are needed globally? Are all simulations run on a Supercomputer? Do astrophysicist require coding experience? And, is Knowledge of Programming a must?

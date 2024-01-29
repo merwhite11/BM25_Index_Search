@@ -1,0 +1,7 @@
+How to project an arbitrary elliptical orbit onto the night sky plane?
+
+
+An ellipse E is arbitrarily oriented in 3-D space with the origin at one of its foci. Use the standard elements provided in the figure. Assume the reference direction $\gamma$ or $\gamma'$ is the positive Y-axis direction. Find the projected position vector of the ellipse onto the plane of reference as a function of the angle $\nu$.
+After some calculation, I obtained the position vector of the celestial body to be
+$$r=\frac{a(1−e^2)}{1+e\cos(\nu)}$$
+Where $a$ is the semi-major axis and $e$ is the eccentricity. Now, I begin with the $(r,ν)$ coordinates in the plane of the ellipse and project it onto the reference plane using the $\cos(i)$ factor. How, then, can I find the orthogonal components $(x,y)$ of this projected position vector on the reference plane? A parameterized solution would be appreciated as well.

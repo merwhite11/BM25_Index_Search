@@ -1,0 +1,5 @@
+How did Bradley arrive at the +/- correct speed of light when he calculated it?
+
+After Bradley discovered stellar aberration and the corresponding constant of aberration he was able to calculate the speed of light, since he knew the speed of the Earth around the Sun.
+As far as I think I understand the math behind his calculations. Yet, I believe that Bradley (and anyone else until Relativity) didn't consider the velocity of the Solar System itself. It seems (to me, that is) that Bradley assumed a Solar System at rest. If the Solar System is moving, this certainly affects the result of the calculation (especially so since at that time the speed of light was not considered constant).
+I'd appreciate if someone pointed out to me where my thinking is wrong.

@@ -1,0 +1,5 @@
+Constant interval between pulses from all pulsars
+
+It was found from the observations of the radiopulsars that the intervals between their pulses are changing 
+periodically, besides, for all pulsars this period is the same and equal to one stellar (sidereal) year. Explain 
+this phenomenon

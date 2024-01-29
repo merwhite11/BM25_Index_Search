@@ -1,0 +1,5 @@
+How to obtain luminosity distance from a light curve
+
+I have some light curve data of a SN Ia from which I want to find the luminosity distance $D_L$.
+How can I do it mathematically?
+I'll then try to implement the answer using Python.

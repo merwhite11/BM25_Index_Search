@@ -1,0 +1,23 @@
+Do stars have "radio photospheres"? Are they different from their optical photospheres?
+
+Comments below What is the maximum distance measurable with parallax? discuss challenges associated with parallax measurements of Betelgeuse and link to Wikipedia’s Betelgeuse; Distance measurements which contains the intriguing paragraph:
+
+In 2008, using the Very Large Array (VLA), produced a radio solution of 5.07±1.10 mas, equaling a distance of 197±45 pc or 643±146 ly.83 As the researcher, Harper, points out: "The revised Hipparcos parallax leads to a larger distance (152±20 pc) than the original; however, the astrometric solution still requires a significant cosmic noise of 2.4 mas. Given these results it is clear that the Hipparcos data still contain systematic errors of unknown origin." Although the radio data also have systematic errors, the Harper solution combines the datasets in the hope of mitigating such errors.83 An updated result from further observations with ALMA and e-Merlin gives a parallax of 4.51±0.8 mas and a distance of 222 (+34/−48) pc.[10] Further observations have resulted in a slightly revised parallax of 4.51±0.80.10
+83Harper et al. (2008) A New VLA-Hoppocaros Distance to Betelgeuse and its Implications
+10Harper et al. (2017)A Updated 2017 Astrometric Solution for Betelgeuse
+
+When radio astrometry is used to measure positions of Betelgeuse in an effort to determine its parallax, I am guessing (see below) that it is the thermal black body radiation from the star's "radio photosphere" rather than maser radiation from a cloud well outside of the star itself.
+(This answer to How far have individual stars been seen by radio telescopes? discusses maser radiation from stars for example)
+Harper et al. (2017) contains:
+
+For the purpose of this work, the channels containing line emission were excluded from the analysis and a single continuum data set centered at ≃338 GHz with a ∼5.9 GHz bandwidth was used.
+
+and Harper et al. (2008) mentions:
+
+We have used the highest spatial resolutions available with the VLA, i.e., A-configuration with the Pie Town VLBA antenna, and these allow us to obtain positional uncertainties comparable to Hipparcos. Good u–v coverage was obtained for six frequency bands (Q, K, U, X, C, L)7 at five epochs. For each band we used two 50 MHz continuum channels recording full Stokes polarizations.
+7These bands have nominal wavelengths: Q = 0.7 cm, K = 1.3 cm, U = 2.0 cm, X = 3.6 cm, C = 6 cm, and L = 20 cm.
+
+Questions:
+
+Would these then be from the star's "radio photosphere"?
+Is there such a thing as a "radio photosphere" that differs substantially from a star's optical photosphere?

@@ -1,0 +1,6 @@
+How the depth[Mpc] is obtained from the redshift
+
+I read this paper.  In this paper, they show the three-dimensional distribution of the [OII] emitters. 
+It is mentioned that The depth in z-axis is converted from the redshift, which is estimated from the ratio of [O II] emission lines measured with NB912 filter to that measured with NB921 filter. This is shown in this fig
+
+I have this doubt that how to get this depth in Mpc from the redshift. They mentioned that the centre of galaxy cluster at z=1.5.

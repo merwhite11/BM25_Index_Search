@@ -1,0 +1,5 @@
+What is the formula to input date, time and longitude. Where I can get latitude of the civil twilight back?
+
+I am making a watch app, where I need to know where there is currently sun, and where it's not.
+I need to have some sort of formula/function to insert: date, time and longitude, and get back the latitude of the civil twilight.
+How can I do this?

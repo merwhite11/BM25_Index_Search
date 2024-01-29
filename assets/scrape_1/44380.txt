@@ -1,0 +1,3 @@
+Comoving Volume Calculation
+
+Suppose I have data from an astronomical survey at redshifts in the range $z = [2,3]$. Suppose that, on average in this range, the data covers an area on the sky of $A=1$ $\mathrm{Mpc}^2$. How would I calculate the comoving volume covered by the survey? Is it as simple as calculating the comoving distance from $z=2$ to $z=3$ and multiplying by the average area? That is: $V_C = A(D_C(3)-D_C(2))$?

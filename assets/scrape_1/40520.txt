@@ -1,0 +1,11 @@
+Has any moon achieved "retrograde equatorial orbit"?
+
+There are many moons which have low (almost negligible) inclination and can be considered to rotate at the planet's equatorial plane. For instance, Galilean moons have almost negligible inclination (< 1$^\circ$) and so they are considered to have a "prograde equatorial orbit".
+OTOH, "Retrograde equatorial orbit" is that orbit which has an inclination of exactly 180° (or near 180°). Has any moon achieved such kind of orbit? I have found some Saturnian moons (or moonlets) which have inclination around 177° and didn't found anything beyond that. Why is it hard to achieve a "Retrograde equatorial orbit"?
+
+Tangentially related questions: Can a moon rotate perpendicular to planet's plane? [90° inclination] (Theoretically yes, practically hard to achieve; See Kozai Mechanism)
+
+Physics.SE
+WorldBuilding.SE
+
+Also related:  Are all satellites of all planets in the same plane?

@@ -1,0 +1,7 @@
+How large (that is, radius) could a planet be?
+
+I know that normal planets don't get any larger than Jupiter (or 2 Jupiter radii if hot), as adding more gas just increases density, not radius, until you reach the point of being a brown dwarf star.
+That compressability, I suppose, is a property of the overall average material that forms star systems, as beyond a critical size it accretes the ambiant gas as well as dust in the cloud.  That is, it's mostly hydrogen and a quarter helium with a bit of other stuff.
+But what about a body made of other stuff, such as rock or metal? Without worrying about planetary formation processes, just that atoms are piled together and feel self gravity. Perhaps it needs to be grown slowly so it has time to cool before adding more. Otherwise, no special techniques: just what would happen if material of suitable composition was heaped together?
+I suspect that normal ideas of minerals would not exist under that kind of pressure, even if carefully allowed to cool. But can elements other than H and He still compress their volume in the same way, or would a rocky world be able to reach sizes of millions of miles?
+What about more exotic cases, like the "puffy" planet I heard of that has the density of styrofoam?

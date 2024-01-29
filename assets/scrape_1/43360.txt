@@ -1,0 +1,11 @@
+What is the period of the 'cycle' of Earth's ecliptic variation, relative to the 'invariable plane'? 70,000 or 100,000 years?
+
+The plane of Earth's path around the Sun, the ecliptic, is different from the average of the solar system's as a whole (the invariable plane) by about 1.57°....
+Our path around the Sun, though, goes through a periodic variation, tilting up and down, over a period of many years... But how many?
+From Wikipedia:
+
+The inclination of Earth's orbit drifts up and down relative to its present orbit. This three-dimensional movement is known as "precession of the ecliptic" or "planetary precession". Earth's current inclination relative to the invariable plane (the plane that represents the angular momentum of the Solar System, approximately the orbital plane of Jupiter) is 1.57°.
+Milankovitch did not study planetary precession. It was discovered more recently and measured, relative to Earth's orbit, to have a period of about 70,000 years. However, when measured independently of Earth's orbit, but relative to the invariable plane, precession has a period of about 100,000 years. This period is very similar to the 100,000-year eccentricity period. Both periods closely match the 100,000-year pattern of glacial events. [6]
+
+Huh?
+Is it 70,000 years or 100,000?

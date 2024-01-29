@@ -1,0 +1,4 @@
+Does The ISW Effect Predict Net Redshift Over Distance?
+
+The Integrated Sachs–Wolfe (ISW) effect is concerned primarily with the study of the Cosmic Background Microwave Radiation (CMBR), but seems to demonstrate that photons passing through voids suffer a net energy loss resulting in redshift, or can be blueshifted passing through high-density regions.
+If a photon traveled long enough through alternating high and low density regions of space, can we assume that (depending upon the total ratio of density to void in all the regions traversed) our photon might well accumulate a substantial net gravitational redshift or blueshift after traveling a vast distance?

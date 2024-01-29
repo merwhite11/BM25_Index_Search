@@ -1,0 +1,3 @@
+What is a "fundamental location", and why is Mosting A defined as one for the moon?
+
+The crater Mosting A was chosen to be the "fundamental location" for the Moon's coordinate system (latitude and longitude). But what exactly is a "fundamental location"? What does it have to do with the establishment of a coordinate system? Is it just so that observers have a way of easily projecting a spherical grid on the moon? And why was Mosting A chosen for the job?

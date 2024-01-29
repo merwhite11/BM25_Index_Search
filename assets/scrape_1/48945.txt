@@ -1,0 +1,15 @@
+On Mars, why are the seasons "strongly amplified" in the southern hemisphere and masked in the northern hemisphere?
+
+In the Darian calendar entry on Wikipedia we read (emphasis mine):
+
+The Martian year is treated as beginning near the equinox marking
+spring in the northern hemisphere of the planet. Mars currently has an
+axial inclination similar to that of the Earth, so the Martian seasons
+are perceptible, though the greater eccentricity of Mars' orbit about
+the Sun compared with that of the Earth means that their significance
+is strongly amplified in the southern hemisphere and masked in the
+northern hemisphere.
+
+While I see that due the high eccentricity of Mars, it makes the seasons to have far-from-equal length (At Earth this is the case as well - though not significant), but I don't see why the seasons significance should  be "strongly amplified" in the southern hemisphere. If the southern hemisphere has a longer (say) Winter, so the northern hemisphere will have a longer Summer. How does this kind of symmetry fail.
+
+Edit: I think I have found a possible solution: probably around the time of South hemisphere Summer, Mars is closer to the Sun. Though if it so, the South Summer is shorter in time.

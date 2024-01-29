@@ -1,0 +1,6 @@
+How much overlap will the Andromeda galaxy and the Milky Way have when they collide?
+
+Measurements of Andromeda's blue shift let us conclude that the distance between the Andromeda galaxy and the Milky Way is decreasing and in a few billion years they will "collide".
+The blue shift only yields the radial component of Andromeda's velocity vector. It is my understanding that measuring the tangential component is crucial in determining whether a "collision" will actually happen (in a gravitationally bound two body system, for point-like bodies to collide, the relative velocity component must point exactly towards the other body, i.e. the tangential component must vanish).
+Now, galaxies are not point-like, so some small nonzero tangential component might lead to a collision where at least some galaxy arms intersect.
+Has the tangential velocity been measured? If so, how? How central is the collision (bulge into bulge, bulge into arms, arms into arms)?

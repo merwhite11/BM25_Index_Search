@@ -1,0 +1,133 @@
+Unable to detect stars and constellations in simulation of stars from the Hipparcos catalogue
+
+I am creating a planetarium program using Unity3D and C# to plot out stars from the Hipparcos catalogue. Using the Plx, _RA.icrs and _DE.icrs columns of the dataset, I have managed to work the distance in parsecs and work out a cartesian set of coordinates.
+Simulation Class...
+public class Simulation : MonoBehaviour
+{
+    public IEnumerator loadStars()
+    {
+        starsLoaded = 0;
+        var stopWatch = new Stopwatch();
+        stopWatch.Start();
+        // Use the last frame duration as a guide how long one frame should take
+        var targetMilliseconds = Time.deltaTime * 100f;
+        for (int i = 0; i < totalStars; i++)
+        {
+            Double.TryParse(datasetTable[i, 3], out double test);
+            if (!(datasetTable[i, 12] == null) && !(datasetTable[i, 13] == null) && !(datasetTable[i, 6] == null))
+            {
+                GameObject thisStar = Instantiate(starPrefab, transform.position, transform.rotation) as GameObject;
+                thisStar.transform.parent = starHolder.transform;
+                Int32.TryParse(datasetTable[i, 0], out (thisStar.GetComponent<Star>().ID));
+                Double.TryParse(datasetTable[i, 12], out (thisStar.GetComponent<Star>().RA));
+                Double.TryParse(datasetTable[i, 13], out (thisStar.GetComponent<Star>().DE));
+                Double.TryParse(datasetTable[i, 3], out (thisStar.GetComponent<Star>().Vmag));
+                Double.TryParse(datasetTable[i, 6], out (thisStar.GetComponent<Star>().Plx));
+                Double.TryParse(datasetTable[i, 10], out (thisStar.GetComponent<Star>().CI));
+            }
+            if (stopWatch.ElapsedMilliseconds > targetMilliseconds)
+            {
+                yield return null;
+                stopWatch.Restart();
+            }
+            starsLoaded++;
+        }
+    }
+}
+
+Star class:
+public class Star : MonoBehaviour
+{
+    /// <summary>
+    /// Identifier (HIP number). "HIP" is appended to the ID, for Hipparcos
+    /// </summary>
+    [SerializeField] public int ID; // { get; set; }
+    /// <summary>
+    /// Right Ascension (J2000) in degrees. 
+    /// </summary>
+    [SerializeField] public double RA; //{ get; set; }
+    /// <summary>
+    /// Declination (J2000) in degrees. 
+    /// </summary>
+    [SerializeField] public double DE; //{ get; set; }
+    /// <summary>
+    /// Magnitude in Johnson V
+    /// </summary>
+    [SerializeField] public double Vmag; //{ get; set; }
+    /// <summary>
+    /// Trigonometric parallax, measured in milli-seconds of arc
+    /// </summary>
+    [SerializeField] public double Plx; //{ get; set; }
+    /// <summary>
+    /// Colour index in Johnson B-V colour
+    /// </summary>
+    [SerializeField] public double CI; //{ get; set; }
+    /// <summary>
+    /// Distance of the star from the centre of Earth measured in kilometres
+    /// </summary> 
+    [SerializeField] public double distanceFromEarth;
+    /// <summary>
+    /// Cartesian (X,Y,Z) positioning of the star
+    /// </summary>
+    [SerializeField] Vector3 cartesianPositioning;
+
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        positionStar();
+    }
+
+    private void distanceFromEarthCalc()
+    {
+        // Convert Plx from milliarcseconds to arcseconds (seconds of arc)
+        double PlxSOA = Plx / 1000;
+        // Calculate distance from equation d=1/p
+        // distance d is measured in parsecs and the parallax angle p is measured in arcseconds.
+        double dPC = 1 / PlxSOA;
+        /// Convert parsecs to kilomentres
+        /// Conversion can bbe found here:
+        /// https://en.wikipedia.org/wiki/Parsec
+        /// 
+        /// QUICK NOTE: converting to km causes issues with unity - values are too high
+        ///             maybe work with parsecs instead?
+        ///             
+        //distanceFromEarth = (dPC * (96939420213600000 / math.PI_DBL)) / 1000;
+        //distanceFromEarth = distanceFromEarth / 10000; // metres to kilometres
+        distanceFromEarth = dPC * 10; // multiplied by 10 to move stars away from camera
+    }
+
+
+    private void cartesianPositioningCalc()
+    {
+        distanceFromEarthCalc();
+
+        double RA_rad = RA * (math.PI_DBL / 180);
+        double DE_rad = DE * (math.PI_DBL / 180);
+
+        cartesianPositioning.x = (float)(distanceFromEarth * (math.cos(DE_rad)) * (math.cos(RA_rad)));
+        cartesianPositioning.y = (float)(distanceFromEarth * (math.cos(DE_rad)) * (math.sin(RA_rad)));
+        cartesianPositioning.z = (float)(distanceFromEarth * (math.sin(DE_rad)));
+    }
+
+    private void positionStar()
+    {
+        cartesianPositioningCalc();
+        gameObject.transform.position = cartesianPositioning;
+        gameObject.transform.localScale = new Vector3(2, 2, 2);
+    }
+}
+
+View from the camera:
+
+3D view of the scene (the camera's orientation is shown by the arrows):
+
+With the image from the camera, I tried uploading it to http://nova.astrometry.net/ but was unable to find stars/constellations.
+So I thought about normalising the vectors of the stars.
+With the Simulation class unchanged, I changed the distanceFromEarth variable in the Star class to 900 to normalise the vectors (each star will not have the same distance from the centre)
+View from the camera:
+
+3D view of the scene (the camera's orientation is shown by the arrows):
+
+Even after the normalisation, uploading the image of the view from the camera to the image processing website resulted in no stars/constellations being detected.
+What am I doing wrong, why aren't stars and constellation detected?

@@ -1,0 +1,12 @@
+Determining the distance to the Moon from parallax using the following information
+
+How could I determine the distance from the Earth to the moon by using the method of simultaneous parallax? I know the right ascension and declination as seen from two different points on earth. I also know the right ascension and declination of a distant star.
+I have location 1 in Buenos Aires and location 2 in Shanghai, with both observing the moon at the same time. The moon has a different right ascension and declination in each location.
+Knowing the right ascension and declination of the star Sirius, how might I calculate the distance to the moon? None of the equations I have tried gives me the correct answer.
+
+Moon Right Ascension from Buenos Aires: 0.0363099165337 Radians
+Moon Declination from Buenos Aires: 0.220376340654 Radians
+Moon Right ascension from Shanghai: 0.0366537040004 Radians
+Moon Declination from Shanghai: 0.197477937143 Radians
+Sirius Right Ascension (same from the entire globe): 1.76780036611 Radians
+Sirius Declination (same from the entire globe): -0.291750983093 Radians

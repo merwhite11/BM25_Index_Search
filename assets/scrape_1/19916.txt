@@ -1,0 +1,5 @@
+How to find a Cepheid's pulsation period using its graph?
+
+Basically, I've been seeing these graphs that say: Cepheid Period-Luminosity Relation and the Period axis is supposed to be "logarithmic";
+How does this graph work? Since the luminosity of a star doesn't just increase, as we know, but it increases and decreases periodically, why does the magnitude keep raising?
+How do I find the pulsating period of such a star through a graph like this?

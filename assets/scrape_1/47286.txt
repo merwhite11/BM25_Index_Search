@@ -1,0 +1,29 @@
+How does one think about optical depth in the context of gravitational microlensing? Is it measured or deduced from observations? Used for planning?
+
+This excellent answer to Which studies prior to 2018 "claimed to find evidence of extragalactic planets in the Andromeda galaxy"? Which instrument was used? introduces the technique of "pixel lensing" and includes several helpful links.
+Rather than an actual sensor pixel, this refers to there being light from more than one star or source within a given "resolution element" which may be more like the point spread function of the system.
+During lensing event, the amount of light within the resolution element increases, and the challenge is to characterize that increase relative to the amount of noise to determine if it represents a potential lensing event. Usually there is still a light curve to analyze, but a subclass of pixel lensing measurements are called "spike" because they are also localized to within a single time resolution element, for example as seen in more distant galaxies where the photon rate is so low that the duration of the lens event is comparable to the integration time of the exposure.
+Andrew Gould's 1996 Theory of Pixel Lensing is a great help. Starting in the abstract, I see that the term optical depth features prominently. From the introduction:
+
+In this paper, I present a general theory of pixel lensing. I show that there
+are two distinct regimes of pixel lensing which I label "semi-classical" and "spike".
+The semi-classical regime is similar to classical lensing. Indeed for nearby galaxies
+like the LMC, semi-classical pixel lensing may be regarded as a simple extension
+of classical lensing beyond the so-called "crowding limit". Moderately distant
+galaxies like M31 are generally still in the semi-classical regime. Classical lensing
+in these galaxies is virtually impossible, but pixel lensing yields very much the
+same type of information as classical lensing does in galaxies that are nearer. In
+particular it is possible to measure the individual time scales of the events and so
+use equation (1.4) to determine the optical depth. It is also possible to measure the
+unlensed fluxes of the source stars and thus the luminosity function (LF). In more
+distant galaxies, pixel lensing enters the spike regime. It is no longer possible to
+measure the time scales of individual events nor the unlensed fluxes of the sources.
+Remarkably, however, it is still possible to measure the optical depth.
+
+The term "optical depth" features prominently in gravitational lensing. I think that it is somewhat analogous to the use of the term in absorption, where an optical depth or optical thickness of 1 means the transmitted light is reduced by the factor $1/e$, but I'm not sure.
+I've read a few attempts to explain what it is and how to use it or think about it, for me these explanations have a large optical depth themselves and I still don't get it.
+
+Microlensing-sorce.org/tutorial: Optical Depth to Microlensing
+Wikipedia: Gravitational microlensing; Observing microlensing
+
+Question: How does one think about optical depth in the context of gravitational microlensing? Is it measured or deduced from observations? Is it used for observation planning?

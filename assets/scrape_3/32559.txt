@@ -1,0 +1,36 @@
+Cosmology : Formula for the bias of galaxies
+
+first I have posted originally on the physics stackexchange but I have not had answers about my question, so I try my luck on this specific forum (if forums leaders want to delete the original post on physics exchange, they can do it without problems, I don't want to make duplicates).
+From this article : https://arxiv.org/pdf/1611.09787.pdf , I try to deduce the equation that my teacher told me which links 2 quantities :
+
+the global number density of galaxies
+
+the local number density of galaxies
+
+the contrast of Dark matter density
+
+
+The relation that I would like to find (the relation given by my teacher) is very simple :
+$$N_{1} = n_{1} b_{1}\,\delta_{\text{DM}}\quad\quad(1)$$
+where $$N_{1}$$ is the local number density of galaxies in Universe, $$n_{1}$$ is the global number density, $$b_{1}$$ is the bias (cosmological bias of galaxies) and $$\delta_{\text{DM}}$$ the contrast in dark matter density. When I say "local", I mean in the volume of scale that I consider (in a cluster of galaxies for example, doesn't it ?)
+for the moment, I can't find this equation.
+Into the article above, they define the bias by doing the relation $(1.1)$ (equation reference on the article) :
+$$\delta_{g}(\vec{x}) = \dfrac{n_{g(\vec{x})}}{\overline{n_{g}}}-1 = b_{1}\,\delta_{\text{DM}}(\vec{x}) = b_{1}\big(\dfrac{\rho_{m}(\vec{x})}{\overline{\rho_{m}}}-1\big)\quad\quad(2)$$
+with $b_{1}$ the bias.
+As you can see, in this article, authors are reasoning with the contrast of density number of galaxies ($\delta_{g}(\vec{x}))$ and the contrast of matter density of Dark matter ($\delta_{\text{DM}}(\vec{x})$).
+I tried to modify this equation $(2)$ to get $(1)$ but I am stuck by the following difference : on one side, one takes number densities and on the other one, they take contrasts of density (with contrast density number and Dark matter contrast).
+Multiplying the both by the volume $V$ is not enough since there is the value "-1" in the definition of contrast : I don't know if I have to write :
+$$\text{Global Number of galaxies} = \overline{n_{g}}\quad V$$
+or
+$$\text{Local Number of galaxies} = \overline{n_{g}}\quad V$$
+???
+I think that I have to use the following relations : $N_{g}\equiv N_{1}$ and $\overline{n_{g}}=n_{1}$ in the relation of my teacher but I am not sure.
+Anyone could help me to find the equation (1) from the equation (2) of article cited ?
+EDIT 1:
+If I take the relation eq$(2)$, I can write :
+$$n_{g(\vec{x})} = \overline{n_{g}}\,b_{1}\,\delta_{\text{DM}}+\overline{n_{g}}\quad\quad(3)$$
+As you can see, $(3)$ is not equal to the equation $(1)$ that I would like to get (since a second term $\overline{n_{g}}$)
+With the notations of the equation$(1)$, in order to be coherent, I think that I have to assimilate $N_{1}$ to $n_{g}(\vec{x})$ (local density) and $n_{1}$ to $\overline{n_{g}}$ (global or mean density).
+How can I circumvent this issue about the presence of this second term into eq$(3)$ compared to eq$(1)$ ?
+I am near from the equality between both, this is frustrating . Maybe it is a problem of convention about the factor $b_{1}$ called "bias" ?
+Edit: This is also cross-posted at https://physics.stackexchange.com/questions/489437/demonstration-about-large-scale-bias-of-galaxies

@@ -1,0 +1,3 @@
+How much star can star fusion fuse if star fusion can fuse hydrogen?
+
+During stellar nucleosynthesis a star will convert a portion of its hydrogen atoms into helium.  Is there a constant of how many tons of hydrogen is converted based on the mass of the star?  Is it based on a percentage of the star's mass? Or can it vary? A Nasa blurb stated that 600 million tons of hydrogen per second are consumed by our own sun. Is there a mathematical formula that can tell you how much any star would consume and convert to helium?

@@ -1,0 +1,11 @@
+Why is there a discrepancy with calculated and given age of nebula
+
+In the book "Horizons: exploring the universe-Cengage learning (2018)", page 206, it states that:
+
+Simple observations tell astronomers about the nature of planetary nebulae. Their angular size and distances indicate that their radii range from 0.2 to 3 ly. The presence of emission lines in their spectra implies that they are excited, low-density gas. Doppler shifts show they are expanding at 10 to 20 km/s. If you divide radius by velocity, you find that planetary nebulae are no more than about 10,000 years old.
+
+But when I calculate the radius divided by velocity (which is equal to the age of nebula), I get:
+$$
+t=\frac{3\cdot 365\cdot 86400 \cdot 3 \cdot 10^8 \rm\,m}{10000\rm\,\frac{m}{s}}=2.838\cdot 10^{12}\rm\,s=90\,000\rm\,yr
+$$
+Which is greater than $10\,000$ years as stated in the book. Is wrong the age given in the book or have I made some wrong calculations?

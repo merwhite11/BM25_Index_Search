@@ -1,0 +1,8 @@
+What does gravity-wave noise resemble locally?
+
+Now that we know that gravity waves exist,  we can consider to design a new unit of measurement,  i.e.  deciGravs (from dB) and we can predict what the backround noise of dG's is locally and in space. 
+Consider a theoretical high-res LIGO that can graph gravity waves here and far away,  we can ffwd the record to represent the dG's at human timeframes. 
+What are the loudest local waves? Can we see the moon as the loudest local wave,  followed by other planets and moons,  are local bodies much louder than local bh waves? 
+There is an expected 3D wave map type locally and in deep space that we can model with graphical animations? Can we draw it easily in 2D/3Dusing 5 lines of code for every body and lots of processing?
+Perhaps it makes sense to define a frequency chart of dG's and astroHz and a bit like the electromagnetic waves,  and chart gravity-waves,  amplitude and frequency trends and types?
+Perhaps supernovas and solar flares and many background waves appear on graviCharts.  Can we know what graviCharts and backround noise of gravity resembles here and far away?

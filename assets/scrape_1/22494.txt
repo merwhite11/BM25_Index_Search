@@ -1,0 +1,8 @@
+Question about number density of electrons
+
+I somewhere see that in a white dwarf, we have this equation:
+$\rho = 2 N_e * m_p / V = 2 n_e * m_p$
+where $N_e$ is the number of particles (in this case e, electrons) and $n_e$ is the number density. and $m_p$ mass is mass of proton. My problem is with the 2 in this equation. why $2 * n_e$ and not just $n_e$?
+Also about Electric Potential Energy between a Ion and electron, somewhere said:
+$ E = (Z e * 1e) * n_e^{1/3} / (4 \pi \epsilon_0) $ 
+I don't understand the $n_e$ term. Is the above really a equation or is it an approximation? I think it can't be an equation  because $ne \neq 1/r^3$.

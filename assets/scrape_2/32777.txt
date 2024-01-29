@@ -1,0 +1,12 @@
+Will the Vera C. Rubin Observatory (formerly the LSST) make a significant increase in the rate of astronomical event alerts?
+
+The NPR news article and podcast New Telescope Promises To Revolutionize Astronomy updates the status of the "Large Synoptic Survey Telescope under construction on Cerro Pachón in Chile".
+NPR's Joe Palca's piece includes sound bites from astronomers, including Caltech astronomer Mansi Kasliwal:
+
+PALCA: Kasliwal says although LSST will detect these events, other telescopes are better suited to study them in detail. So the plan is to send out an alert to other telescopes when LSST sees something interesting. Of course, that means the other telescope has to drop what it was doing, but Kasliwal says it will be worth it.
+
+Hmm... Isn't the LSST Vera C. Rubin Observatory
+expected to "see something interesting" quite often?
+Due to the size and scope of LSST's surveying capability which is due to it's huge corrected field of view and huge focal plane array and huge image processing and event detection capacity, there is a potential for a significant increase in the rate of alerts generated and sent to observatories and to astronomers' cell phones (one notable example of such things).
+Question: Will the Vera C. Rubin Observatory (formerly the LSST)  make a significant increase in the rate of astronomical event alerts? Has there been an estimate of how the overall rate will change when it comes online?
+I'm wondering if astronomers will get woken up more often by their phones, or if some observatories will have to make the decision to promptly change observing schedules or not much more frequently.

@@ -1,0 +1,3 @@
+How to determine zenith coincidence from date time data sets
+
+I have two or more sets of  dates and times for which I am interested in the location of the Zenith at my location and whether they are coinciding. So far I have been comparing pairs of them on two Stellarium windows with the azimuthal grid but its laborious. Can any one tell me of an easier way. I expect I could do it in excel with a bit more knowledge.

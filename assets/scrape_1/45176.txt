@@ -1,0 +1,5 @@
+What is a typical "pulse rate" for a black hole "heartbeat"? Is the process better understood than it was in 2011?
+
+The 2011 NASA Goddard video NASA | RXTE Detects 'Heartbeat' Of Smallest Black Hole Candidate mentions a heartbeat and includes a graphic of pulses from GRS 1915+105. A screenshot is shown below. No timescale is shown, it's mostly a "graphics fluff" or "science woo" (to borrow a phrase) video.
+However Wikipedia's Rossi X-ray Timing Explorer doesn't seem to mention any heartbeats per se.
+Question: What is a typical "pulse rate" for a black hole's "heartbeat"? Is the process better understood than it was in 2011?

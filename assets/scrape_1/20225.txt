@@ -1,0 +1,8 @@
+What would the tides on the Trappist-1 planets be like?
+
+In the recent press conference about the planets orbiting around Trappist-1, one of the astronomers mentioned that the planets are close enough to each other that the tidal forces between planets are non-negligible. Supposing there were oceans on 1, 2 or all 3 of the planets in the habitable zone. What would the tides on these planets look like?
+Because the dynamics of planet-planet interactions would be quite different from a planet-moon interaction, the tides would be far more complicated than a sinusoidal low-tide/high-tide at any given point on the planet. The abstract of the Nature paper on these planets states:
+
+The six inner planets form a near-resonant chain, such that their orbital periods (1.51, 2.42, 4.04, 6.06, 9.1 and 12.35 days) are near-ratios of small integers.
+
+What effect would this have on the tides? How powerful would the tides be?

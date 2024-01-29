@@ -1,0 +1,5 @@
+Is a black hole heavier than the star from which it was created?
+
+I did some googling around and couldn't get answer to a simple question of black hole mass compared to the star from which it was created. It is well known that giant stars burn very bright and relatively very quickly. They end up their lives as red giants and eventually collapse into a black hole.
+Suppose that the star is mid-life and has some mass M. Over the time it burns its fuel, turns into a red giant and after supernova, turns into a black hole. This black hole has some mass B. Why B >> M?
+According to some simple physics laws, mass could not be created nor destroyed.

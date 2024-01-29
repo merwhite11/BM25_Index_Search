@@ -1,0 +1,5 @@
+Does natural satellite(s) of a planet affects its orbital velocity around a star?
+
+Please excuse me for a lay question. 
+As we know, to calculate the orbital velocity, we take the mass of the orbiting body, the mass of the body being orbited and the distance between the two bodies into account. 
+However, we don't really care about the natural satellite(s) (of a planet) in the calculations. Why are they insignificant? Why isn't the whole system involved in the calculations?

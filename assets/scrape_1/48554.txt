@@ -1,0 +1,6 @@
+DIY Sky Quality Meter: Conversion between Illuminance and Luminance
+
+I am trying to create a homemade Sky Quality Meter (SQM) using a TSL2591 light sensor. This sensor measures Illumination (lux), but SQMs measure Luminance (mpsas). I have seen that there are many projects doing something similar, but each one uses a different conversion, which I don't understand.
+Is there a way to do this, or to get a good approximation? Note that I am not a physicist, I am a simple developer so all this is new and unknown to me.
+Thanks in advance!
+Sensor info: https://www.adafruit.com/product/1980

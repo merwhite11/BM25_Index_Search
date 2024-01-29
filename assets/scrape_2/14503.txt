@@ -1,0 +1,6 @@
+Finding Mass of Star with only Luminosity
+
+Estimate the mass of the star given this formula:
+$$\frac{L}{L_\mathrm{\odot}} = \left(\frac{M}{M_\mathrm{\odot}}\right)^{3.5}$$
+Given $L= 2.752\times10^{28}\,\mathrm{W}$, how do I find the mass of the star?
+Thanks for any help.

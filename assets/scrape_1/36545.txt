@@ -1,0 +1,4 @@
+Bounded Observable Universe and General Relativity
+
+The book General Relativity for Mathematicians by Sachs and Wu defines a "spacetime" as a connected 4-dimensional, oriented and time oriented Lorentzian manifold.  I emphasize the word "connected."  There are those that say the observable universe is bounded, because the universe is expanding faster than the speed of light.  A bounded observable universe that is isolated from the rest of the universe, strikes me as a disconnected manifold, and would not seem to comport with general relativity's notion of spacetime.  Is this correct?
+Following up on the above point, wouldn't there have to be some sort of discontinuity, at the moment when the universe splits off into isolated pieces?  How many discontinuities are being hypothesized?  Does general relativity contemplate discontinuities in spacetime and gravity?

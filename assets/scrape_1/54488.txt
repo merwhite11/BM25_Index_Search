@@ -1,0 +1,26 @@
+Core radius of King's model
+
+I've been learning about the King's model for globular clusters and have been taught that it assumes a core radius:
+$$r_c = \sqrt \frac{9\sigma^2}{4\pi \rho_0 G} \ (1)$$
+where $r_c$ is the core radius (the radius at which the density $\rho$ is half the central density value $\rho_0$) and $\sigma$ is the velocity dispersion. But there are 2 things I'm confused about:
+
+How is this equation derived? When I attempt to derive it (given that $\rho(r_c) = \frac{\rho_0}{2}$), I just keep getting this equation:
+$$r_c = \sqrt \frac{6\sigma^2}{4\pi \rho_0 G}\ (2)$$
+
+When I was searching about the core radius in my attempt to derive the equation, I found that Equation 1 is actually the equation for the King radius ($r_0$) not $r_c$, and that $r_0 \neq r_c$. Is this true? And if so, what is the difference between $r_0$ and $r_c$ then?
+
+
+Thanks for any help anyone can give!
+[EDIT]
+References:
+
+https://iopscience.iop.org/article/10.1088/0004-637X/778/1/57 , pg. 1 of PDF
+This is the first article I came across that had the equation I
+was looking for, but here the equation involves $r_0$ instead of
+$r_c$. It also says (on line 12 of the paragraph below Equations
+1, 2 and 3) that $r_c$ is not equivalent to $r_0$.
+
+https://people.ast.cam.ac.uk/~vasily/Lectures/SDSG/sdsg_7_clusters.pdf , pg. 40-41
+This is the 2nd and only other reference to this equation that I
+have found so far, which also has the same above information as
+the 1st reference.

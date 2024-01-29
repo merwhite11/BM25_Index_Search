@@ -1,0 +1,3 @@
+V magnitude of binary components
+
+Which catalog provides visible magnitudes of binary components, please? How to find it, for instance, in VizieR, please? I have a list of binaries.

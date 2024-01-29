@@ -1,0 +1,7 @@
+What is the direction of the movement of the solar system in relation to the galaxy's plane
+
+I got from this answer that the axis of the solar system is tilted of about 63 degrees in relation to that of our galaxy, so I can assume that we move through space (at least locally) roughly in a direction that is 63° tilted in relation to our solar system's plane, is that correct?
+If so, then: is there also some net velocity of our solar system (probably small) in a direction that is perpendicular to the galaxy's plane, as opposed to the main direction that is "parallel" to the galaxy's plane?
+
+EDIT
+I think my question is different from this one in that the latter asks about the distance from the solar system to the galactic plane, with no regards as to the speed with which this distance is changing. On the other hand, I'm interested not on the distance, but on the speed with which this distance is changing, which can promptly be approximated with respect to time with a sine function from pela's answer, which was my main intention.

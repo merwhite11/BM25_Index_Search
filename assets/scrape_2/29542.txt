@@ -1,0 +1,4 @@
+Does the KBO 2014-MU69 have two numbers and entries in asteroid databases? How did it get promoted to Major Body designation?
+
+In this answer I show that the (now pretty famous) Kuiper Belt Object 2014-MU69 has two entries in JPL's ephemeris generating Horizons site; Major Body 3713011 and Small Body 486958. I'm pretty sure these represent the same body, their trajectories differ by about a half-million kilometers only, and that difference is probably only because for one of them the trajectory is only based on a 118 day arc of it's ~100,000 day orbit at ~43 AU back in 2015.
+Are both 3713011 and 486958 still official references to the same body, but in different catalogs or databases? Is there a disambiguation page linking the two numbers somewhere? How did 2014-MU69 (unofficially Ultima Thule) get promoted from SB to MB?

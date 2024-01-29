@@ -1,0 +1,35 @@
+Why was the Cosmic Microwave Background (CMB) released at a blackbody temperature of 3000K rather than 30,000K?
+
+If the ionization (or reionization, or Recombination) energy of atomic hydrogen is 13.6 EV, which corresponds to a black body temperature of 30,000K, why did the CMB not begin to appear then?
+Why did the universe wait until it had cooled down to 3,000K to release the Relic Radiation (the CMB)?
+I may have found a clue on Quora:  How is Hubble Constant calculated from Cosmic Microwave Background Radiation measurements?
+The redshift is known quite precisely from the theory, since a hot big bang model (the standard model of cosmology) predicts the point at which the plasma de-ionized to form neutral hydrogen. Roughly, this is when the universe cooled to a temperature below the binding energy of hydrogen,  13.6eV/kb .
+From Brent Follin's Quora answer to How is Hubble constant calculated from Cosmic Microwave Background Radiation measurements?
+(Screenshot)
+
+The redshift is known quite precisely from the theory, since a hot big
+bang model (the standard model of cosmology) predicts the point at
+which the plasma de-ionized to form neutral hydrogen. Roughly, this is
+when the universe cooled to a temperature below the binding energy of
+hydrogen, $13.6\frac{eV}{k_b}$.
+To answer the titular question, the hubble constant is determined
+through obtaining the angular diameter distance to the last scattering
+surface. That's not a direct observable; instead you infer it through
+trigonometry. We can directly measure the angular scale of the Baryon
+Acoustic oscillations in the CMB--it's the distance between troughs in
+the power spectrum shown in Leo C. Stein's answer. In the standard
+$\lambda$CDM
+cosmological model, we also know* the physical scale of the BAO
+feature, known as the sound horizon length. The angular diameter
+distance is then defined as
+$D_A=\frac{r_s}{\theta_s}$
+where the numerator is the known physical scale and the bottom is the
+measured angular scale (this is just basic trig). The angular diameter
+distance is a well-known function of the hubble rate, and you can
+infer the hubble rate from getting the angular diameter distance
+(assuming the only pertinent species of particles in the universe are
+dark matter, baryons, photons, neutrinos, and the cosmological
+constant).
+
+Doesn't dividing 13.6 eV by a number much smaller than 1 give an enormously large number, not a lower one?
+I am confused...

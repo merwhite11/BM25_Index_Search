@@ -1,0 +1,4 @@
+How do we get to know the total mass of an atmosphere?
+
+Since atmospheres don't end abruptly but gradually get thinner the higher you go, I wonder how we can get the total mass of an atmosphere if we don't know where exactly it ends. E.g. the Earth's atmosphere's mass is defined as 5.1480 × 1018 kg. Does this value include the exosphere (which doesn't have an abrupt end either)? Or is it up to the exobase only? Or is it even the significant part only, up to the mesopause or to the Kármán line or something?
+Also, if we mention the mass of a celestial body, does this value (e.g. in case of Venus 4.867 × 1024 kg) include its atmosphere's mass or not?

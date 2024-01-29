@@ -1,0 +1,38 @@
+Help with Converting Right Ascension and Declination into 3D Vectors
+
+Using the Right Ascension and Declination values from the HYG Database from The Astronomy Nexus:
+Right ascension is measured in hours and declination is measured in degrees.
+1 - Convert right ascension and declination into degrees
+float getAngle(float value, char units)
+{
+    if (units == 'h')
+    {
+        // 15 degrees = 1 hour
+        // 360/24 = 15
+
+        return value * 15;
+    }
+    else
+    {
+        return value;
+    }
+}
+
+When right ascension is inputted, the input will get multiplied by 15, because RA is measured in hours.
+When declination is entered, the input value is returned, this is because Dec is already measured in degrees.
+2 - Work out the vectors
+
+Two isosceles triangles can be derived, one for the horizontal plane and another for the vertical plane. The angles are alpha and delta, right ascension and declination respectively. Using these angles and knowing that some of the distances are equal to the distance between the centre of the celestial sphere to the star, the following code should work.
+Vector3 getVectors(float RA, float Dec)
+{
+    float x = distanceStars;
+    float z = (2 * distanceStars * (Mathf.Sin((getAngle(RA, 'h'))/ 2)));
+    float y = (2 * distanceStars * (Mathf.Sin((getAngle(Dec, 'd'))/ 2)));
+
+    return new Vector3(x, y, z);
+}
+
+Unfortunately, my code doesn't seem to work as this is the output that I am getting:
+
+As you can see, the stars (white dots) are not spreading out evenly around the Earth (which is the black sphere in the middle).
+It would be great if someone could help me with this.

@@ -1,0 +1,3 @@
+How did we first determine the Earth's departure from sphericity?
+
+I'm quite interested to know the history of the study of the Earth's departure from spherical symmetry. What were the first methods used to model the non-spherical geometry of the Earth? For example, there are geodesy satellite and missions used now to determine the gravity field of the Earth but that is "recent" technology. They obviously had other methods prior to this.

@@ -1,0 +1,3 @@
+Is there any known asteroid or comet whose path goes through the Earth?
+
+Is there any known celestial body of at least 500 ft (150 m) diameter whose Minimum Orbit Intersection Distance (MOID) is within the Earth, meaning it's sure that it can impact the Earth? I know Comet 109P/(Kegler-)Swift-Tuttle has a very close MOID at 130,000 km (81,000 mi) and the Earth probably would be struck by particles from its tail if it came that close. And Apophis can come as close as 47,200 km (29,300 mi) but that's an asteroid (no tail). Are there any large bodies whose MOID is closer?

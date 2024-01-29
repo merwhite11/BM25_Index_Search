@@ -1,0 +1,17 @@
+How did they estimate the mass of Sgr A*'s companion G2 without knowing what it was?
+
+Gizmodo.com's Astronomers Spot Unprecedented Flashes From Our Galaxy's Black Hole mentions Sgr A*'s companion gas cloud G2.
+That Wikipedia article says:
+
+First noticed as something unusual in images of the center of the Milky Way in 2002, the gas cloud G2, which has a mass about three times that of Earth, was confirmed to be likely on a course taking it into the accretion zone of Sgr A* in a paper published in Nature in 2012.
+
+but later in the same section says:
+
+Nothing was observed during and after the closest approach of the cloud to the black hole, which was described as a lack of "fireworks" and a "flop".[57] Astronomers from the UCLA Galactic Center Group published observations obtained on March 19 and 20, 2014, concluding that G2 was still intact (in contrast to predictions for a simple gas cloud hypothesis) and that the cloud was likely to have a central star.
+
+and 
+
+Professor Andrea Ghez et al. suggested in 2014 that G2 is not a gas cloud but rather a pair of binary stars that had been orbiting the black hole in tandem and merged into an extremely large star.
+
+Question: Without knowing what this object is, how could its mass be determined to be only 3 times Earth's mass, way too small to measurably perturb the other stars in close orbits around Sgr A*?
+Relevant and interesting reading: The Story of a Boring Encounter with a Black Hole

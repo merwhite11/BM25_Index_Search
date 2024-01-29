@@ -1,0 +1,6 @@
+Delta Velorum - non-observed variable star
+
+I am a beginner variable star observer from the Southern Hemisphere (but with experience in astronomy) and, when I was looking for VS to observe, I saw that Del Vel has almost no observations. Thus, there is no graph for when the eclipses occur.
+VSX data: mag range of 1.95 - 2.43 V, period  of 45.15 days and 1.3% (0.587 days) eclipse duration
+It doesn't have data about how the magnitude varies in the visual spectrum, althought I know it is a bright star (already saw it at naked eye).
+Does it vary in the visual spectum, or there simply is no data enough to determine this? Could I collect this information visually, or is this waste of time?

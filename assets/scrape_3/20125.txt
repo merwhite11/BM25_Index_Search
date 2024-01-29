@@ -1,0 +1,33 @@
+How do GHA of vernal equinox, GHA of astronomical object and RA relate?
+
+I have zero clue in astronomy and I need astronomical data to write a program. What I learned so far:
+
+celestial coordinates are usually measured relatively to vernal equinox aka meridian of First point of Aries (which is not located in Aries anymore)
+the GHA of first point of Aries changes constantly
+
+I was searching for vernal equinox GHA data and it seems to me that this personal, generated Almanac version lists it as "Aries" (it was misleading me).
+I expected that
+( GHA(object) - GHA(v. equinox) ) mod 24h = RA (object)
+as per this article. However I have found a program which calculates declination and right ascension and I have found out that the relation is sort of inverse. For example:
+https://sv-inua.net/wp-content/uploads/2016/12/almanac2020.pdf
+And the program output:  
+
+               The Moon   
+
+JD 2458849.50,  2019 December 31 Tuesday 23h 58m 49.174s  UT 2020
+January 1 Wednesday  0h 00m 00.000s  TDT nutation dRA -1.043s dDec
+  -6.12" Geometric lon -13.866 deg, lat -4.894 deg, rad 2.6996e-003 au   Apparent geocentric longitude 346.129 deg   latitude -4.894 deg
+  Distance 63.319 Earth-radii Horizontal parallax    0d 54' 17.67"
+  Semidiameter    0d 14' 47.60" Elongation from sun 66.20 deg,
+  Illuminated fraction 0.30 Phase 2.0 days before First Quarter
+Apparent:  R.A. 23h 16m 38.283s  Declination -  9d 58' 41.62"
+  Local apparent sidereal time   1h 54m 46.005s diurnal aberration dRA
+  0.012s dDec -0.03" diurnal parallax dRA -104.977s dDec -2485.74"      atmospheric refraction 0.033 deg  dRA 4.296s dDec 102.06" Topocentric:
+  Altitude 25.678 deg, Azimuth 224.447 deg Topocentric: R.A. 23h 14m
+  57.615s   Dec. - 10d 38' 25.32" local meridian transit 2019 December 31 Tuesday 21h 16m 02.396s  UT rises 2019 December 31 Tuesday 15h 49m
+  26.475s  UT sets 2020 January 1 Wednesday  2h 50m 11.075s  UT Visible hours 11.0124      
+
+So:
+110 deg 56,9 sec - 100 deg 7,1 sec = 10 deg 49,8 sec
+which is inverse of R.A. which program lists.
+Do I have a misconception?

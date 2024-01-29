@@ -1,0 +1,14 @@
+When thermal infrared space telescopes spot asteroids, are they seeing the body's own thermal emission, or reflected TIR from the Sun?
+
+From the Space SE question Why has the Earth-Sun libration point L1 been chosen over L2 for NEOCam to detect new NEOs?:
+
+
+above: Profoundly not-to-scale illustration of NEOCam in an orbit around the Sun-Earth libration point L1, about 1.5 million kilometers from Earth. Presumably Sun-shield and Earth-shield block light (both infrared and visible) from the Sun and the Earth in order for the instrument to work at cold temperature necessary to detect the faint infrared light radiated from NEOs.
+
+above: Infrared astronomer Amy Mainzer illustrates how asteroids warmed by the sun will stand out more brightly in the infrared compared to reflected visible light from the sun. One coffee cup is black the other white in the false-color infrared thermal image. From here.
+
+And discussion under the answer explains the important of phase angle; they will be easier to detect if at least some fraction of the sunlit side of the asteroid is visible from the thermal infrared telescope, but I think that this is because for slowly rotating asteroids you need the sun to be hitting it to warm it up enough so that it will "glow by itself" sufficiently to be visible in the telescope.
+If I understand correctly, the advantage of using thermal IR to look for NEOs is that you want to find relatively small ones that aren't previously known, and this method is more sensitive to the smallest objects.
+But I am not sure WHY that is true, and also not 100% sure the source of the NIR light; is it strictly Planckian-like thermal gray-body radiation emitted from the warmed asteroid itself, or does it contain a reflected component from the Sun as well, or does that in fact dominate?
+Question: Why exactly would one choose a thermal infrared (TIR) versus visible light telescope for NEO hunting? Is the TIR sought gray-body radiation from the object itself, or does it contain a significant component of or is even dominated by reflected light from the Sun?
+"Bonus points" for an answer that delineates in which circular orbits and phase angles a 100 meter, albedo = 0.1 (all wavelengths) body is likely to be brighter in say 5 to 10 microns from reflected sunlight than from it's own thermal radiation. Perhaps the answer is different in the limits of zero and high rotation rate?

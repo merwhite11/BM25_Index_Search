@@ -1,0 +1,10 @@
+Calculating star radius from temperature and absolute magnitude - what am I missing?
+
+In an attempt to visualise nearby stars, I've tried to get the star radius (measured in solar radii) using the equation provided on the following site:
+http://cas.sdss.org/dr4/en/proj/advanced/hr/radius1.asp
+Now though the equation seems to work fine for a star like Sirius, when I plug in the values for absolute magnitude and temperature for Barnard's star (according to wikipedia, 13.21 and 3134 K respectively) I get a radius of 0.0722. The radius provided by wikipedia is more than twice that value, at 0.196.
+There are many potential culprits. Could it be floating point errors in the php code? The equation looks like this by the way:
+$$\text{radius = pow(5800/3134, 2)} \times \text{pow(pow(2.512, (4.83 - 13.21)), 0.5})$$
+Another possibility is that the equation is too simplistic, and there are other variables I need to take into account.
+Any insights would be greatly appreciated!
+Michael

@@ -1,0 +1,15 @@
+Estimating the angle covered by the star trails and deducing how long the exposure lasted
+
+How would you estimate the angle covered by the star trails and deduce how long the exposure lasted in the following image?
+
+Here is the photo's caption:
+
+Star trails beyond the Gemini Observatory on Mauna Kea, from which a laser beam forms a guide star on the Earth's ionosphere that enables the use of adaptive optics. In this long exposure, the laser beam tracks across the sky, making the visible arc. (The object in the sky at which the laser was pointed changed several times during the night.) Note that stars rise and set at an angle (not perpendicular) relative to the horizon, because Hawaii is about 20 degrees north of Earth's equator. Also, the farther a star is from the pole, the more its path looks straight, over a short distance.
+
+I read the answer to this question about how to measure star trail angles
+
+The only star trail angles I'm familiar with deal with astrophotography.
+  You set up a camera, put the film in, open the shutter for a time exposure of the stars. As the stars appear to revolve around the earth, they make "arcs" on the film.
+To calculate the angle of the arc, use the formula: 1 minute of time = 15 minutes of arc. If the answer is over 60, divide by 60 to get degrees of arc. So: 12 minute exposure = 180 minutes of arc or 3˚ of arc length for your star trail. 
+
+I'm not sure how to approach this problem since the answer uses time to calculate the angle of the arc, but no time is given here.

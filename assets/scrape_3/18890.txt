@@ -1,0 +1,7 @@
+Why don't we use amateur astronomers' telescopes to create a huge interferometer?
+
+Some telescopes in space have been proposed to function as an interferometer. 
+Being placed several hundreds or thousands of kilometers apart they could actual image exoplanets directly. To my knowledge none of these space telescopes have yet been deployed.
+So I was wondering why we don't connect all the several thousand amateur telescopes on Earth together to create a huge interferometer?
+That sure would require some efforts (especially software to coordinate it all) but compared to sending telescopes into space it seems outright simple.
+Are amateur telescopes simply not strong enough, even when linked together? What would be the best we could achieve?

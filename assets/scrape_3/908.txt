@@ -1,0 +1,12 @@
+Colossus telescope, trying to outsmart aliens?
+
+I was listening to Jeff Kuhn's talk
+on SETI's Colossus telescope project.
+Background:
+He explains his theory that a civilization living somewhere the galaxy would want to hide, and thus would shortly learn to avoid broadcasting radio signals all over the galaxy, so as to avoid attracting attention (presumably to avoid inter-stellar predators).
+Then he comes up with a great idea; due to the second law of thermodynamics, they would have to dissipate heat-energy, and thus, one can detect them anyway, because they have no way to hide this heat-energy. This, particularly when they are a Type I civilization, and nearing Type II; in this case, to avoid global warming, they would capture and use almost all solar energy, and emit an equivalent amount heat-energy.
+Thus he proposes a telescope to focus on single stars, which would be capable of detecting this heat-energy (by the distinctive infrared light emmited).
+My question:
+If a civilization was smart enough to hide all of its radio signals, wouldn't they know that they cannot avoid emitting heat-energy? Thus their predators would be able to find them anyway, and thus, it is pointless to hide the radio signals?
+Therefore, we should already be seeing their radio signals, and this telescope is being built for a theory with some holes.
+Note: I am not suggesting that the telescope shouldn't be built; I think it could have other very valuable uses, and it would also be interesting to eliminate the theory if it is indeed incorrect (or prove it correct ... somehow). I am just asking if there might be justifications for the theory, in light of my point-in-question, which I am missing.

@@ -1,0 +1,18 @@
+Star density in- versus out- of the arms of the galactic pattern?
+
+What is the density difference in our galaxy (or in a typical spiral),
+at A, B, C versus at a, b, c?
+
+Consider the yellow track.
+Do astronomers have a graph like this...
+
+...which shows the shape of the density through and between the arms?
+In short,
+Do we roughly know the density between-arms versus in-arms ... is it 10%, 50% or 90%?
+(Perhaps at the "corotation radius", which is about where we are.)
+
+Further issues arising:
+= I understand that one of the reasons the arms "appear real" is just that there are more bright young stars forming in the arms (due to the higher pressure). Perhaps the actual density difference is very low?
+= Perhaps the density variation is dependent on the type of star, or other material - what about things like gasses?
+= Let's say the percentage I am asking about is X% - at our radius. Is it X% at all radii?  How does the "strengthiness" percentage vary with radius? This is not immediately intuitive from looking at images.
+(original galaxy arm pattern diagram courtesy wikipedia)

@@ -1,0 +1,17 @@
+How to specify SM libraries for MOOG
+
+I am running MOOG on OS X Yosemite and with $MOOG running the abfind driver I can force fit elemental abundances with an appropriate input line list and model atmosphere. MOOG crashes, however, when I try to use it to generate plots, even though I know I have SuperMONGO (sm) installed on my computer because $sm works fine. In particular, MOOG will crash with the following errors:
+*******************************************************************************
+                  MOOG IS CONTROLLED BY DRIVER abfind                      
+*******************************************************************************
+
+wav. correl.:  slope =  -7.791E-07  intercept =   7.505  corr. coeff. =  -0.122
+Fonts file not found
+File graphcap is not defined
+Can't get graphcap entry for nodevice
+No such device nodevice
+File graphcap is not defined
+Can't get graphcap entry for x11
+No such device x11 -bg black -title MOOGplot -geom 700x800+650+000
+
+How can I get MOOG to find these libraries?

@@ -1,0 +1,18 @@
+What does "RV model including a GP with a quasi-periodic covariance structure" mean?
+
+A candidate short-period sub-Earth orbiting Proxima Centauri says:
+
+4.1 Simple periodogram analysis
+]We first consider a very simple pre-whitening procedure applied to the CCF RVs in order to determine the main periodicities present in the data. The observed RVs are initially modelled with a Gaussian process (GP) using a standard quasi-periodic (QP) kernel (Rasmussen & Williams 2006; Haywood et al. 2014). For simplicity, the hyperparameters of the kernel are fixed to the values determined in SM2020 from a combined fit (their Table 3). Two RV offsets are adjusted between the three data subsets. The resulting fit is shown in the top panel of Fig. 2 and the periodogram of the residuals is shown in panel a) of the same figure. The highest peak in the periodogram is at 11.19 days with a false alarm probability well below 1%.
+
+and
+
+5.1 Justification for the use of a GP
+We found that an RV model including a GP with a quasi-periodic covariance structure was the only model that would yield uncorrelated, flat residuals. Regardless of the number of planets modelled, without the inclusion of this GP the residuals always display correlated behaviour.
+
+Question: What does "RV model including a GP with a quasi-periodic covariance structure" mean?
+Is it possible to write a short "general idea" explanation of what this is? The title of Rasmussen & Williams 2006 is "Gaussian Processes for Machine Learning" and on slide 17 it says
+
+A Gaussian process is a stochastic process specified by its mean and covariance functions
+
+so I'm already feeling dizzy; if one is looking for something periodic, why do we start with something stochastic? And for that matter, why look for something with only "quasi-periodic covariance"?

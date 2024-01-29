@@ -1,0 +1,6 @@
+How long have the TRAPPIST-1 planets been in a habitable zone?
+
+The planets orbiting TRAPPIST-1 are in orbits around their star much closer than Earth orbits Sol. However, since TRAPPIST-1 is a cool brown dwarf, some of the planets are in an "inhabitable zone", where the temperature would not be too extreme for life as we know it.
+What I wonder is, how long have those planets been in an inhabitable zone? The wikipedia page says that TRAPPIST-1 is older than 1 Gyr. But, how much of that time has it been a cool brown dwarf?
+In other words, since the abiogenesis of life and the evolution of living organisms has dependency on time, how much time has life had a chance to develop in the star's habitable zone?
+For this question, I'm not concerned about the chemistry or other characteristics of the planets themselves.

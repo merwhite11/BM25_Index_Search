@@ -1,0 +1,47 @@
+How can the IAU 2000A vs IAU 2000B nutation comparison be reproduced?
+
+I am attempting to plot how the IAU 2000A nutation model degrades as its terms are omitted. As a spot-check, I decided to compare it to IAU 2000B, which includes only the 77 most important lunisolar terms. It is widely claimed that IAU 2000B only sacrifices 1 mas of accuracy. For example, in this PDF presentation from SOFA:
+
+The IAU 2000B nutation series is almost as accurate (1 mas) as the full
+  IAU 2000A series
+
+http://www.iausofa.org/publications/aas04.pdf
+And in this published paper:
+
+IAU 2000B is more than an order of magnitude smaller than IAU 2000A but achieves 1 mas accuracy throughout 1995-2050.
+
+https://www.aanda.org/articles/aa/full/2008/04/aa8811-07/aa8811-07.right.html
+But I have not yet succeeded in comparing them in such a way as to produce a difference that small. When I compare the angles they return each day over the two decades 2000–2020, I see a difference in the first angle — delta psi — of >2 mas. Using the USNO NOVAS implementation of the two series, because it was easier to install (pip install novas) than pysofa, I get:
+from math import tau
+from novas.compat.nutation import iau2000a, iau2000b
+T0 = 2451545.0  # Year 2000.0
+
+dpsi_differences = []
+deps_differences = []
+
+for day in range(0, 366 * 20):  # Years 2000.0 through ~2020
+    dpsi_a, deps_a = iau2000a(T0, day)
+    dpsi_b, deps_b = iau2000b(T0, day)
+    dpsi_differences.append(abs(dpsi_a - dpsi_b))
+    deps_differences.append(abs(deps_a - deps_b))
+
+def report_difference(name, differences):
+    radians = max(differences)
+    days = differences.index(radians)
+    degrees = radians / tau * 360.0
+    arcminutes = degrees * 60.0
+    arcseconds = arcminutes * 60.0
+    mas = arcseconds * 1000.0
+    print('Maximum difference for {}: {:.4f} mas at T0 + {} days'
+          .format(name, mas, days))
+
+report_difference('delta psi', dpsi_differences)
+report_difference('delta epsilon', deps_differences)
+
+Result:
+Maximum difference for delta psi: 2.1867 mas at T0 + 1396 days
+Maximum difference for delta epsilon: 0.8631 mas at T0 + 7017 days
+
+Am I misinterpreting the output of the NOVAS routines? Or, alternately, am I misunderstanding the meaning of the two angles? I understand the angles as being a pair of rotations which each, in the worse case — that of a point on the great circle of the rotation — will move a coordinate through the same angle as the rotation itself. So I understand a 2.1867 mas difference in Δpsi, for example, as changing sky coordinates by a maximum of that same 2.1867 mas when the nutation matrix is used to translate coordinates into or out of the equinox-of-date.
+My next step would be trying to get the sofa library installed locally and then running a similar routine against it in case the NOVAS implementation is simply broken, but before trying to install a library by hand, I wanted to double check in case my understanding of the angles was itself faulty.
+Thanks for any snags that can be identified in my reasoning!

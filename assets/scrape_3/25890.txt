@@ -1,0 +1,8 @@
+How did TESS scientists choose which stars to observe at a "2 minute cadence" in each field?
+
+The BBC news podcast Science in Action episode New Planet Hunting Mission covers the upcoming TESS mission between 01:00 and 07:15 with Sara Seager, TESS deputy director of science, Massachusetts Institute of Technology, Cambridge, Massachusetts.
+After about 05:00 Dr. Seager mentions that the TESS spacecraft will measure a special set of order 20,000 stars in each camera's 24x24 degree field at a two minute cadence. 
+How were the stars in each field selected for TESS?
+
+The excellent YouTube video Transiting Exoplanet Survey Satellite (TESS) nicely explains how TESS operates and will slowly tile the celestial sphere.
+below: From see TESS Operations. Click for full size.

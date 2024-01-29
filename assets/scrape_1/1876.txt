@@ -1,0 +1,4 @@
+What is the speed of light relative to (in space)?
+
+From what I understand the universe is expanding faster than the speed of light and accelerating so that it's possible that a given galaxy: $A$ will no longer be visible to another given galaxy: $B$. 
+So, if a light wave is emitted from galaxy $A$ toward galaxy $B$ after it has passed the point where neither galaxy is visible to each other, how can the speed of the light wave be measured if there is no fixed point in space for it to be measure against (as the light wave will never be visible to either galaxy again)?

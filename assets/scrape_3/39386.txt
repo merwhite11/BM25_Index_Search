@@ -1,0 +1,8 @@
+Is the angular size of the black hole in the movie "interstellar" completely overblown?
+
+I assume everybody is tired of reading questions derived from the movie Interstellar, I will try to keep this short and simple:
+In general in movies, in order to have stunning visuals, celestial objects are displayed as if they were extremely close to the observers, having a enormous apparent angular size.
+One striking example of this that has seems counter-intuitive, is the angular size displayed for the black hole "Gargantua" in the movie Interstellar. The characters in the movie are so close to it that it can be fully displayed in great detail (see attached image: Black hole seems to cover almost/over 90 degrees of the field of view..!)
+Now, we can fully experience gravitational pulls from much smaller objects than a supermassive black hole in reality. The angular size of the sun and the moon are so small that we need telescopes to appreciate details, despite their gravitational effects dominating our everyday life.
+It seems to me that a supermassive black hole would have such immense gravitational effects, that in order to be able to "freely" navigate around it (as done in the movie), observers would be so far away that the angular size of the black hole would be tiny (which would result in very non-spectacular cinematography).
+The question is: Realistically, for a supermassive black hole ("with a mass of 100 million times of the sun"), what would be roughly its angular size when standing at a "safe" distance from it?

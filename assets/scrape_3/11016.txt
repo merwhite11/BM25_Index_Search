@@ -1,0 +1,13 @@
+Question about total absolute magnitudes of galaxies - negative or not?
+
+I have seen this in a couple of places, but when the authors in the paper - http://chandra.as.utexas.edu/~kormendy/kfcb-accepted.pdf -
+wrote:
+
+"All 10 of our ellipticals with total absolute magnitudes M_VT ≤ −21.66 have cuspy cores – “missing light” – at small radii. Cores are well known and naturally scoured by binary black holes formed in dissipationless (“dry”) mergers. All 17 ellipticals with −21.54 ≤ M_VT ≤ −15.53 do not have cores."
+
+Since absolute magnitude is the magnitude of that object at 10 pc away from Earth, then this is why the galaxies have such negative (meaning, very bright) values for total absolute magnitude, correct?
+However, in this paper - http://arxiv.org/pdf/astro-ph/9602044v1.pdf - the author writes:
+
+"The morphological properties of galaxies between 21 mag < I < 25 mag in the Hubble Deep Field are investigated using a quantitative classification system based on mea- surements of the central concentration and asymmetry of galaxian light."
+
+The galaxies here are between 21 to 25 absolute magnitudes (?) in the infrared (I?) band, but why are these magnitudes not negative?

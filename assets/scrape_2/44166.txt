@@ -1,0 +1,6 @@
+What does it mean for a planet to have an "icy" core?
+
+My understanding of the physics of planets leans heavily on my understanding of the physics of stars - of course there are important differences.
+One important difference that I've found is the nature of the core of a planet. I've read that exoplanet cores may be hot or cold/icy. I've also even seen this said about Saturn and Jupiter.
+My questions: in principle, how could the core of a planet be icy and cold (or are "icy" and "cold" not mutually inclusive here?). What is meant by "icy core." And how could it possibly be physically reasonable? Could only planets with low enough effective temperature possibly have an icy/cold core? Am I correct in thinking that a hot planet (i.e. one with high effective temperature) could not have a icy core? So, for a terrestrial example, is Jupiter (or Saturn also) cold enough that its core could be icy? At what temperature is the boundary between cold and hot cores? I'm having difficulty understanding heat transport in such an object. Is there a thermal gradient? If so, is its descent just very shallow?
+Perhaps I've oversimplified something crucial, or I've totally misunderstood the use of these words in this context? Any clarification is greatly appreciated.

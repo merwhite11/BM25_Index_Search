@@ -1,0 +1,5 @@
+Bright lines in a continuum spectrum
+
+Dark lines in a continuum spectrum is common. But are there bright lines too? 
+By the stimulated emission process, the light can also be amplified, right?
+In this case, we should get bright lines instead of dark lines.

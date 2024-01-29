@@ -1,0 +1,3 @@
+Absolute Magnitude and Absolute Bolometric Magnitude
+
+What is the difference between Absolute Magnitude and Absolute Bolometric Magnitude, is it a case of multiply one by a constant to get the other?  Can you give an example for a star, say Vega?

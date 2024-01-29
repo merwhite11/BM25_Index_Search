@@ -1,0 +1,3 @@
+Squared visibility in astronomy
+
+Why is preffered to use squared visibility instead of visibility in long-baseline interferometry, please?

@@ -1,0 +1,3 @@
+Metals and dust locked into planets
+
+I wonder what is the contribution of metals and dust locked into planets, with respect to the amount in the interstellar medium (ISM). In other words, when we measure the metallicity and the dust mass of a galaxy we are sensitive to metals and dust in the various phases of the ISM, and thus the observed value is a lower limit. Is the "correction" a second-order variation?

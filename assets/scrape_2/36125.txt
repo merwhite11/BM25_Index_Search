@@ -1,0 +1,5 @@
+How does the Astronomical Twilight depend on the night length or the day length?
+
+Some references say that the Astronomical Twilight starts at the last 1/8th of the night length, so it is long in Winter and short in Summer;
+But by using the 18 angle (sun elevation below the horizon) the twilight is long in Summer and short in Winter!
+What would be the correct method proven by observations for all days and all locations?

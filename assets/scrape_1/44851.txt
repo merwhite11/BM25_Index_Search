@@ -1,0 +1,6 @@
+Is the barycenter of the solar system usually outside of the sun?
+
+I came across this picture on wikipedia:
+
+Note: From a quick search I gathered that although there are slight differences between the limb of the sun and the accepted radius of the sun, these differences are rather tiny (~330km if I'm interpreting this correctly https://www.aanda.org/articles/aa/full_html/2018/08/aa32159-17/aa32159-17.html ).  Thus it seems fair to say that the points on this picture that are beyond the limb are "outside" of the sun, but feel free to correct me if I'm mistaken on this point.
+From this picture, it looks like the barycenter is more often than not outside of the sun.  Going from the points alone, it looks to be about 60% outside, though perhaps this is not a fair representation. On longer timeframes (lets say 100's of millions of years), is the barycenter of the solar system usually outside of the sun?  Or does the possibility of a massive undiscovered object with a highly elliptical orbit make such long term estimation impossible?

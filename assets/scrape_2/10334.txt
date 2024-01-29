@@ -1,0 +1,8 @@
+Why are distant objects observed in the near infrared?
+
+I was reading an article that explains why JWST is a successor to Hubble and not a replacement for Hubble. They explained that Hubble's science pushed astronomers to look at longer wavelength. And then they said:    
+
+In particular, more distant objects are more highly redshifted, and their light is pushed from the UV and optical into the near-infrared.
+
+So basically to observe the first galaxies, astronomers have to observe in infrared. My question is why distant objects require observations in the infrared? 
+Is it because they are at a very large distance from us, so the light has lost a lot of energy on its way so it's detectable in the infrared?

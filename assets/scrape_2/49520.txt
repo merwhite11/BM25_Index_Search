@@ -1,0 +1,6 @@
+Order of magnitude of this phase space invariant?
+
+So I wanted know the order of magnitude of this phase space invariant (equation $3.31a$ )$R$ in our universe (FLRW metric):
+$$R = \int_{p} \frac{\mathcal{N}(x,p,t)}{\mathcal{E}} dp_x dp_y dp_z$$
+where $\mathcal{N}(x,p,t)$ is the phase space distribution of matter in our universe, $\mathcal{E}= p_0$ is the energy and $p_x$, $p_y$ and $p_z$ are the spatial momentum.
+One can assume low energy and temperature limit (also assume the formation of the molecules has taken place)? What is it's observed value?

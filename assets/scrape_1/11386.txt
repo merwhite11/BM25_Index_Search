@@ -1,0 +1,6 @@
+Why do some neutron stars become pulsars?
+
+I suspect this may be an open problem in astronomy, but I have to ask anyway.
+There doesn't seem to be any large-scale difference in the formation of pulsars from the formation of "normal" neutron stars. Yet pulsars end up emitting electromagnetic radiation, while others - "radio quiet" neutron stars - do not.
+Why do are some neutron stars formed as pulsars, while others are not?
+This is partly based on What causes a star to become a pulsar?, but the answer does not cover this part.

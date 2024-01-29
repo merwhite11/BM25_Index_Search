@@ -1,0 +1,3 @@
+Astronomy/Astrophysics Project With C++/C/Python
+
+I am a Computer Science Engineering student, in the 1st year of college. I'm insanely interested in making a project regarding astronomy/astrophysics but I don't know where to begin from. I know C, C++, Python(not Scipy,Numpy or Astropy, but the basics. But I'm willing to learn those too). Can someone please give me some insights on what do make/do which would satisfy my aptitude in this field? My C++ and C knowledge are almost up to date, and I know basics of python, with all the data structures and basic libraries of Python. I'm interested in simulation stuff, but I don't exactly have relevant resources to learn those.

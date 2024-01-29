@@ -1,0 +1,13 @@
+What is the difference between $E_\gamma$ and $E_{\gamma,iso}$ in gamma ray bursts?
+
+In the literature on gamma ray bursts I see several references to $E_\gamma$ and $E_{\gamma,iso}$ for example as in Piran (2005)
+
+$E_{k,iso,52}$ is “isotropic equivalent” kinetic energy,
+discussed below, in units of 1052 ergs, while $E_{k,θ,52}$ is the real kinetic energy in the jet i.e:
+$E_{k,θ,52} = (θ^2/2)$$E_{k,iso,52}$. One has to be careful which of the two energies one discusses. In
+the following I will usually consider, unless specifically mentioned differently, $E_{k,iso,52}$, which
+is also related to the energy per unit solid angle as: $E_{k,iso,52}/4π$
+
+My interpretation is that when an observation of a GRB is made, an energy $E$ is recorded. $E_{\gamma,iso}$ is the total energy that would have been emitted by the explosion if the energy was released equally in all directions and by considering our distance away from it. However, because we know that GRBs are tightly beamed, $E_\gamma$ is the corrected energy by taking $E_{\gamma,iso}$ and considering only a small fraction of it in a tight beam. However, this all seems a tad confusing and I can't see the point in talking about $E_{\gamma,iso}$ when we think they are very tightly beamed.
+I would appreciate some clarification on what exactly $E_\gamma$ and $E_{\gamma, iso}$ are and where they come from.
+Thanks

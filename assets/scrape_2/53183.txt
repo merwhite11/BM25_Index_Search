@@ -1,0 +1,4 @@
+How can I get a list of the closest x stars and their distances from the Gaia ESA Archive using Python?
+
+I've been trying to find this out for a while now, but I'm making zero progress. I really struggle to find good documentation for the query language, and even in the astroquery library I can't find out how to do it. I've worked with a lot of APIs before, but this seems rather arcane to me. I've tried using the search on Gaia's own site, but the query language there is even more confusing. And nowhere on this site can I find anything about what I'm trying to do.
+Any help is appreciated.

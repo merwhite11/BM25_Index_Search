@@ -1,0 +1,8 @@
+Does a lunar occultation of Mars happen twice a year?
+
+The Space Exploration SE question When our Moon is hiding Mars, is it possible to create a radio communication between Earth and Mars? links to this short article in the popular press Mars is hiding behind the Moon this morning with the sub-headline
+
+It’s a twice-a-year occultation; like the eclipse, but it’s Mars, and there’s no shadow
+
+As answer(s) to the question mention, the Moon is smaller than Earth so an occultation would not be visible everywhere on Earth, so let's just consider it an occultation if it happens anywhere on Earth.
+Question: Does a lunar occultation of Mars happen twice a year? Is the Moon's diameter big enough and it's orbit's inclination with respect to the ecliptic small enough that it can pass between Mars and some place on Earth twice a year?

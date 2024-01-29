@@ -1,0 +1,11 @@
+What exactly is a Right Ascension clock and how was one (mounted on a telescope) used in practice, historically?
+
+@MikeG's answer to Why does this Lowell Observatory telescope have so many knobs? What do they all do? explains that item #6 labeled in the image there (and cropped version here) is likely to be a "Right Ascension clock".
+My question is not specifically about the item in the photo, but instead is more general.
+If you are operating a large research telescope in the past, when things are all done manually (clock drives, pen and paper), and there was such an object on your telescope, how would you answer the following?
+Question: What exactly is a Right Ascension clock and how is one (mounted on a telescope) used in practice?
+I'm asking for more than a one-liner comment. If I had a RA value that I wanted to point the telescope at, what steps would I have to execute to get it pointed there? Do I use a second real-time clock as well, or is the RA clock the only timepiece I need? Is it a timepiece, or is it an indicator of the telescope's position? Do I do simple subtraction? Do I also need to read something else out from the telescope separately?
+How exactly would this have worked in practice back when the "clock" was first installed on this historic telescope?
+
+above: cropped and annotated, from here Credit: Fox News
+below: screen shot from Restoring Lowell Observatory's Clark Refractor (mentioned here) cropped, rotated, enlarged, sharpened.

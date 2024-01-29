@@ -1,0 +1,9 @@
+Collimating with a home-made collimation cap
+
+I've made a home-made collimation cap and am trying to use the procedure linked to in another answer.
+However, I've run into two issues right off the bat.  In this picture from the linked page, it shows a "primary mirror donut". All I see is a black circle with nothing in between.  I'm using a piece of bright white paper that I printed the alignment patterns on to attach to the eyepiece and I thought this would be bright enough to see, but apparently not.
+The second issue is that this method seems to rely on there being four "spider vanes" which are holding the secondary mirror in place.  However, my telescope only has one, making it seemingly impossible to line anything up.
+Here is what it looks like through the cap:
+
+It looks like the dark circle in the middle it fairly well aligned, but I can't tell for sure if it needs any adjustment.  And I'm not sure how to deal with the fact that there is nothing inside the circle to align with.  I have tried taking an LED flashlight and shining it on the top of the paper while i look through the pinhole and if I focus the LED circle on the edge of the paper at 90 degree intervals it appears to be aligned, but I don't know if this is sufficient.
+Incidentally, the halo around the outside seems to be the edge of part of the inside of the side tube, and it does not move when I adjust the collimation screws.

@@ -1,0 +1,6 @@
+How luminous does a brown dwarf have to be to illuminate an Earth-sized planet with 0.5 lux at 2,000,000 kilometers away?
+
+A brown dwarf is a deuterium-fusing substellar object, and, in the cases of the larger ones, a lithium-fusing one. They often emit electromagnetic radiation in frequencies that humans cannot see. However, the larger ones tend to emit visible light, if not much of it.
+In this scenario, there's an Earth-sized body whose center is 2,000,000 kilometers from the center of a brown dwarf. Assume that the Earth-sized body is functionally identical to Earth in every way except for a lack of cloud cover.
+How luminous does the brown dwarf need to be in order to illuminate the Earth-sized body with 0.5 lux/0.5 lumens per square meter of visible light at high noon? Assume that the Earth-sized body has an atmosphere identical to Earth's, except without cloud cover capable of reflecting said visible light.
+Note that I'm not referring to radiant flux per unit area here here; radiant flux per unit area is the total of all electromagnetic striking a certain area, whereas I'm referring to luminous flux - that is, the amount of visible light striking a certain area. Certainly, there'll more energy striking the Earth-sized body then what's visible, but, in this question, I'm only referring to visible light.

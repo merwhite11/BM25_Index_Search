@@ -1,0 +1,5 @@
+What is the probability of a photon from one of these galaxies hitting the James Webb detector?
+
+In the image of the SMACS 0723 galaxy from the James Webb space telescope can be seen distorted galaxies whose light has taken about 13 billion years to reach the telescope.
+On the face of it, the probability of a particular photon launched from one of those galaxies hitting the JWST detector would be the surface area of the JWST mirror array divided by the surface area of a sphere of radius 13 billion light years, BUT those galaxy images are distorted via the gravitational lens effect of the galaxy that they have passed around which would presumably affect things.
+So, the question is, given the non-straight path of the photon and the expansion of space since it was emitted, what is the probability that a photon emitted from one of the distant, red-shifted, distorted galaxies in the image above would end up striking the JWST detector?

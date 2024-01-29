@@ -1,0 +1,10 @@
+Is there an alternative (potentially easier to understand) Euler diagram of the new solar system body classification?
+
+note: This question is asking for a representation of the astronomical classification scheme now used for solar system bodies as established (presumably) by the Working Group for Planetary System Nomenclature (WGPSN) of the International Astronomical Union or IAU. While graphical layout is mentioned as part of the question's motivation, the question is not about layout or graphics. 
+The Euler diagram shown in this helpful answer is hard for me to understand, I think mostly due to graphical layout. The diagram shows the mathematical relationship between various sets (in this case solar system body classifications) so it could be drawn with widely differing choices of layout and still retain exactly the same mathematical relationships.
+I am wondering if there is some attempt here to indicate relative numbers or ratios by the degree of overlap? Look closely at the small overlap of Minor Planets with Comets. Is that meant to reflect in some way a relatively small overlap quantitatively? Did you notice it took a while to even make sure you were seeing the overlap correctly? This style of layout requires the use of color perception to help identify which label is associated with which contour while simultaneously trying to follow one line in a groups of perfectly parallel lines.
+Have other versions of this Euler diagram representation of solar system body classification been published? A link to one or even inclusion of the diagram in the answer itself would be greatly appreciated!
+
+above: Example of an Euler diagram in this Wikipedia article, from here.
+
+above: Example of a somewhat easier to use and understand Euler diagram, from here, used in the same Wikipedia article.

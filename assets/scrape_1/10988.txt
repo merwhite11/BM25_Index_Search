@@ -1,0 +1,17 @@
+Why does the focal length of a telescope have an effect on the magnification?
+
+I previously asked that 
+
+Is the angular resolution of a telescope irrespective of used eye-piece?
+
+I learned that the resolution is fixed when the light enters the telescope, and that the eye-piece is used just for magnifying the obtained image at the focal plane.
+Now, the magnification of a telescope is calculated as 
+$$
+\text{magnification} = \frac{\text{focal length of telescope}}{\text{focal length of eye-piece}} \qquad (1)
+$$
+For example, if the focal length of my telescope is $900$ mm and I am using a $25$ mm eye-piece, the magnification I get is 
+$$
+\text{magnification} = \frac{900\ \text{mm}}{25\ \text{mm}} = 36.
+$$
+However, where does the formula $(1)$ come from? Why is the magnification affected by the focal length of the telescope and eye piece?
+(I am using a Newtonian telescope if it matters.)

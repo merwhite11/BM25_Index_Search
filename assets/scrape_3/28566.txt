@@ -1,0 +1,9 @@
+Is parallax a "technique to measure the star distances" or a "tiny shift in star's position"?
+
+I am not completely sure whether the Parallax is a "technique to measure the star distances" or a "tiny shift in star's position"?
+The a book says two points about Parallax:
+
+Astronomers have developed a variety of clever techniques for measuring the vast distances to stars, one is called Parallax.
+Astronomers can measure a star's position once and then again 6 months later and calculate the apparent change in position. This tiny shift in stars position is called its parallax.
+
+Apart from the book source, whatis.techtarget.com defines Parallax as the way an object’s position or direction seems to change depending on viewing angle.

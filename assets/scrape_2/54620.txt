@@ -1,0 +1,3 @@
+Is there a way to calculate a star's luminosity from its apparent magnitude?
+
+I was wondering if there's a way to calculate a star's luminosity from apparent magnitude data.

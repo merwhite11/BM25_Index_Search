@@ -1,0 +1,3 @@
+Do we have to take gravitational lensing into consideration when measuring the size of exoplanets?
+
+For the method of waiting for a planet to pass in front of a star. rather than just measuring the light that is blocked do we also have to take into consideration the light that may not be coming to us because of gravitational lensing caused by the planet? Is the mass of a planet large enough to cause gravitational lensing significant enough for us to see an effect?

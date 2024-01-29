@@ -1,0 +1,4 @@
+Why does light accelerate instantaneously to c, while no other phenomena do it?
+
+In physics, it always takes some time for a particle to move from rest to some speed.
+However, photons (light particles) accelerate instantly from zero to c. How? (A visualization would be helpful.)

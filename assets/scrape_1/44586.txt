@@ -1,0 +1,5 @@
+How to actually obtain the parallax angles that are used to determine distances of stars?
+
+
+I’m trying to understand how to measure the distance to nearby stars using the parallax method.
+My question is: how do you get the value of the p angle?

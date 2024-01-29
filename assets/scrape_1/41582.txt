@@ -1,0 +1,4 @@
+Orbital decay via gravitational emission in a hypothetical, two-body universe
+
+Assume we have a universe with nothing in it except for two objects. One of them is a stationary object that is perfectly spherical with the mass of the Moon (without any atmosphere, of course; also, let's call this Body A). The other body is a small satellite similar to the Hubble Space Telescope, orbiting at 100 miles (161 km) above the surface of Body A.
+How long would it take for the satellite to crash into Body A via gravitational emission?

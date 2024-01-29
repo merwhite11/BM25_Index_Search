@@ -1,0 +1,15 @@
+Eventual outcome of tidal acceleration and deceleration
+
+So, I know the Moon experiences tidal acceleration from the Earth. And, from what I've read, if not for the fact that the sun would boil away the oceans and engulf both of them first, about 50 billion years from now the Moon would be geosynchronous.
+I was curious whether tidal acceleration could ever cause a satellite to escape, and short answer seems to be, yes, it's possible. Is that accurate? And if so, which factors add to it?
+
+A faster rotating planet also results in tides farther ahead, and has more energy to lose before being totally locked. Very closely related, a farther satellite orbits more slowly, resulting in tides farther ahead, and requires less energy to escape. This one seems obvious: the faster the planet is still rotating while the satellite is farther away, the more likely it escapes.
+A more fluid planet would experience stronger tides, which would again slow it down faster, but definitely accelerate the satellite faster. A more viscous fluid than water would experience weaker tides, but I think they'd be farther ahead. I think more fluid is definitely more effective, but it seems less obvious than the first point.
+A larger planet would have its orbit slowed less by tidal acceleration, but have a stronger pull to escape. A larger satellite would cause stronger tides and more tidal force, but would require more force to accelerate, and would slow the planet down more quickly. I really can't tell which has the stronger effect...
+
+So that's question 1: 
+Is it really possible for tidal acceleration to throw a satellite into space before the planet is tidally locked, and if so, does either objects' size impact it, or just fluidity and relative periods?
+Then, I wondered about tidal deceleration, and crashing into the planet. It seems obvious that any satellite orbiting retrograde would never stop decelerating, so all would eventually get torn apart and crash onto their planet. For non-retrogade satellites, an article I read implied that all of them will have the same fate... Which implies that the planet's rotation will always speed up more slowly than the satellite's falling orbit. Is that true? If not, then it seems there must be cases where the planet's rotation catches up, and they again end up tidally locked.
+So that's question 2:
+Will all non-retrogade tidally decelerating satellites eventually crash into their planet, or is it possible for the planet to catch up given the right starting conditions?
+Edit: Haven't really found any more information on this. Is there someone familiar with relevant equations, who knows the answer?

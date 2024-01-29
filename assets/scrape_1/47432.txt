@@ -1,0 +1,10 @@
+Can distribution of stars / planets formation be a long-tailed one?
+
+We know that peak of star formation already passed
+10.1146/annurev-astro-032620-021910
+
+and it looks like peak of planet formation occurred slightly after formation of Earth
+10.1017/S1473550415000208
+
+Even if we ignore possibility of life around red dwarfs that may live for trillions of years (as there a numerous problems with this - for example core of the planet cools much quicker), there is still possibility that planet formation will go for tens and hundreds of billions of years at reasonable rates (long-tail of the distribution) and that most planets will be formed in the future.
+Can we exclude/prove this long-tailed possibility?

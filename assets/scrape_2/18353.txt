@@ -1,0 +1,17 @@
+absolute speed of bodies as observed by a distant observer
+
+What does a distant observer see if two masses with a given velocity are close enough to each other that time is dilated ?
+Scenario (using 2 point masses for simplicities sake):
+Mass a: 1,00E+030 kg
+Mass b: 2,00E+030
+Kinetic energy:
+mass a: 1,39037910021726E+046
+mass b: 2,78075820043453E+046
+this would mean a velocity of
+Velocity: 149896229 m/s [ = c/2]
+for both masses
+distance between masses: 3960 m
+using the formula for time dilation  the time would pass at a rate of ~0,5 at mass a and at a rate of ~0,8 at mass b
+if both masses are flying parralel in the same direction does the observer see mass a flying with a speed of 
+74948115 m/s [= c/4] and mass b flying with a speed of 119916983 m/s [= c/2 *0.8]
+?

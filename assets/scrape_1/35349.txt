@@ -1,0 +1,3 @@
+Redshift Formulas
+
+I was wondering where does the formula for redshift $$z=\frac vc$$ come from? Can it be derived from the definition of redshift $$z={\lambda_{observed} - \lambda_{emitted}\over \lambda_{emitted}}?$$

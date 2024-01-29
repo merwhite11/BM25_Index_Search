@@ -1,0 +1,21 @@
+Is there a standard deconvolution procedure to remove JWST's diffraction pattern yet? If so, would Arp 220 be a good candidate on which to try it?
+
+
+Source: Webb captures the spectacular galactic merger Arp 220
+
+Shining like a brilliant beacon amidst a sea of galaxies, Arp 220 lights up the night sky in this view from the NASA/ESA/CSA James Webb Space Telescope. Actually two spiral galaxies in the process of merging, Arp 220 glows brightest in infrared light, making it an ideal target for Webb. It is an ultra-luminous infrared galaxy (ULIRG) with a luminosity of more than a trillion suns. In comparison, our Milky Way galaxy has a much more modest luminosity of about ten billion suns.
+Located 250 million light-years away in the constellation of Serpens, the Serpent, Arp 220 is the 220th object in Halton Arp’s Atlas of Peculiar Galaxies. It is the nearest ULIRG and the brightest of the three galactic mergers closest to Earth.
+The collision of the two spiral galaxies began about 700 million years ago. It sparked an enormous burst of star formation. About 200 huge star clusters reside in a packed, dusty region about 5,000 light-years across (about 5 percent of the Milky Way’s diameter). The amount of gas in this tiny region is equal to all of the gas in the entire Milky Way galaxy.
+
+
+By now most repeat-enjoyers of JWST's images are familiar with the pointy "star" patterns that appear at bright compact objects (generally individual bright stars) in JWST images produced by diffraction from various components of JWST's optics, including the hexagonal outline of JWST's primary and the spider mount for the secondary (as well as some internal optical elements on spider mounts sometimes I think).
+However the center of the object Arp 220 is a compact but still somewhat extended source of light (merging galaxies) and so the "star" diffraction pattern is fuzzy and the "arms" are pretty thick.
+This object seems to be a good candidate to try to deconvolve the image using the now very well characterized diffraction pattern of the telescope as the deconvolution kernel.
+Question: Is there a standard deconvolution procedure to remove JWST's diffraction pattern yet? If so, would Arp 220 be a good candidate on which to try it?
+
+Related:
+
+Why are diffraction spikes left in JWST public images?
+What visual artifacts are expected from the JWST?
+Why does one object (star?) in this JWST image have two sets of six+plus+two diffraction spikes but another, similar object nearby have only one?
+some simulations in this answer to Why does the alignment evaluation image from JWST look like this?

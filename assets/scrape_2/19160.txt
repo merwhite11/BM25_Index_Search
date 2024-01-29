@@ -1,0 +1,6 @@
+Frequency of transit in planar and non-planar planetary systems
+
+Supposing that another planetary system is in one plane like our solar system, if let's say that the transit of one planet is visible then is it safe to also assume that all planets in the system must transit?
+Logically I feel like that this makes sense because since they are all in the same plane then they therefore must all transit as well. But then I feel like the transit probability equation could make this false? Could someone please clarify my doubts?
+Also suppose that we are in another system where each planet doesn't necessarily orbit in the same plane.  Is it easier to find transits if the planets are orbiting in the same or random planes?
+I think that you have a better chance detecting a planet if they are in random orbits. but i am a bit lost in regards to detecting multiple transits.

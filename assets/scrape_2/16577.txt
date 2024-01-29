@@ -1,0 +1,10 @@
+Are 3D coordinate data from Sloan DSS-III available & easily accessible to non-pros?
+
+Of course the newly announced SDSS-III data and maps from the Sloan Digital Sky Survey with 1.2 million objects, along with all previous data sets are openly available, and I'm sure there are many tools to access, work with, and view the data.
+What would be the simplest way to extract a list of coordinates of galaxies in order to just try to visualize it on my own? There may be visualization tools also, if you want to add a link that would be great, but this question is about getting a list of coordinates so I can look at density or even try to plot one dot per galaxy in some slice. 
+I'm guessing the coordinates might be available in RA, dec, and redshift, and possibly also some calculated/inferred x, y, z. 
+I use python, but I'm not familiar with AstroPy yet, so if it can be done, albeit inefficiently and/or inaccurately by my writing a straightforward python script on my laptop, that would be the most helpful answer.
+edit: if doing this in AstroPy is failry easy, I do have an Anaconda installation, and therefore already have at least a basic AstroPy installation. 
+Here is a graphic (below), from here in Phys.org attributed there to Daniel Eisenstein and SDSS-III.
+
+Another graphic (below), from here in Phys.org attributed there to Jeremy Tinker and SDSS-III.

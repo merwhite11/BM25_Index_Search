@@ -1,0 +1,10 @@
+How to calculate the time and distance of closest approach of a star?
+
+How should I approach this problem?
+
+A star has a motion on the sky of 0.78 arcsec/yr in declination and 1.33 arcsec/yr in right ascension. 
+Calculate the velocity of the star in the plane of the sky in km/sec.
+The star also has a radial component of its velocity, coming towards earth
+at 4.3 km/s. What is the time and distance of closest approach?
+
+I know how to do 1. but I am not sure how to approach 2.

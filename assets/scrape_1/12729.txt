@@ -1,0 +1,5 @@
+What is the composition of an asteroid in percentages?
+
+I am developing a RPG game (or so I like to tell myself) within outer space. Within the game, players would be able to mine small asteroids and collect resources, in order to make money. I'm having some difficulty determining exactly how much of the resources there would be in relation to everything else gotten from the asteroid. 
+This image has provided me with a good idea of what asteroids generally contain. It does not, however, show me the quantities. For example, I'm fairly certain that an asteroid would have more oxygen than palladium, but I don't know by how much. 
+Question: Can someone tell me (or better yet show me) the percentage of materials within an asteroid? I realize not all asteroids are the same, so categorizing or averaging is fine. The more detailed the better. The ideal information would be a list of values that I can scale with asteroid size.

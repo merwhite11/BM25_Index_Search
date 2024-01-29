@@ -1,0 +1,4 @@
+Why do radio telescopes, but not shorter wavelengths, have this Big Data problem?
+
+Only with new radio telescope arrays like ALMA and SKA, have I heard of this "problem" with too much data come up. Too big to store. That one cannot archive it all for future studies, but that one has to select beforehand what fraction of the data to analyse and erase the rest, and the most, of it.
+Shouldn't it be the other way around, that shorter wavelength telescopes like those in IR and the visible and UV generate more data because they have higher resolution per unit of aperture?

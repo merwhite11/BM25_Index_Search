@@ -1,0 +1,7 @@
+How much of the surface of other planets is lit by the sun?
+
+Since the sun is much larger than the earth, it should ideally light up a considerable portion of the earth rather than only half of it.
+However the sun lighting only half of the earth can be explained using the fact that the sun is at a considerable distance away from the earth. As the distance of a light source from the object increases the portion of the object lit up reduces.
+Applying the same logic to other planets (especially the ones beyond the earth), I would like to know how much of the surface of these other planets is lit up by the sun?
+Going by the distance thing, a portion less than half should be lit up, which would mean a fraction of the surface (mainly around the centre from north to south) would always be in darkness.
+Would be nice if diagrams could be used to explain

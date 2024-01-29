@@ -1,0 +1,4 @@
+Why is infrared the ideal band to detect the earliest and most-redshifted galaxies?
+
+Was infrared chosen for the James Webb Space Telescope's mission to detect the most-redshifted galaxies and stars in the universe because most detectable galactic radiation emits most strongly in the UV/visible bands, and so are most easily detected in the infrared regions/bands their radiation appears to us in?
+I'm trying to understand the "why" behind the decision to use infrared over other electromagnetic bands for this mission?

@@ -1,0 +1,5 @@
+Confused on how you are supposed to calculate eccentricity without apsides
+
+I'm kinda confused on how to calculate either the apsides or the eccentricity without knowing one or the other. Let's say you have an object in orbit around another. If you know the current distance, mass of both objects, and the velocity (as a vector), would you be able to calculate the eccentricity of the orbit, like through the vis-viva equation?
+Edit: I used Symbolab with the vis-viva equation to solve for a, would this work?
+https://www.symbolab.com/solver/step-by-step/solve%20for%20a%2C%20v%3D%5Csqrt%7Bu%5Cleft(%5Cfrac%7B2%7D%7Br%7D-%5Cfrac%7B1%7D%7Ba%7D%5Cright)%7D?or=input

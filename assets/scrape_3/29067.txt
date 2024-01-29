@@ -1,0 +1,11 @@
+Will the SKA's total bandwidth still exceed the Earth's internet's bandwidth?
+
+In the early 2010's there were many popular articles that said that the total bandwidth of the the Square Kilometer Array's optical fiber network for raw data from each dish would be larger than the Earth's internet. Here is just one example:
+Wikipedia's Square Kilometre Array
+:
+
+It would require very high performance central computing engines and long-haul links with a capacity greater than the global Internet traffic as of 2013.3
+
+As you can see that link is broken.
+The SKA project has several Precursors, pathfinders and design studies but the SKA proper has not been built yet, and perhaps is not even finalized.
+Still, with available data, by the time it might be built (2025?) is it likely to still exceed the Earth's internet's bandwidth?

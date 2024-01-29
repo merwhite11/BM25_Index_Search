@@ -1,0 +1,5 @@
+Did interstellar asteroid Oumuamua pass near other stars?
+
+"Oumuamua came from the direction of Vega, a bright star in the Lyra constellation. But even at 85,700 miles per hour, it took so long to reach our solar system that Vega wasn't in the same position 300,000 years ago."
+CNN.
+However, there is information on the motions of stars from ESA's Gaia mission (4 min. youtube with description), so it should be possible to project the motion of Oumuamua back it time to see if it was near any stars. Has anyone done this?

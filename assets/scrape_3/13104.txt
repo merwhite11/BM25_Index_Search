@@ -1,0 +1,77 @@
+How to calculate the temperature of a star
+
+I need a way to calculate the effective temperature (surface temperature) of a star for a stellar model. I need something in the form Te=....
+I have:
+
+Radius in m
+mass in kg
+the composition of particles (eg H 90%, He 8% etc)
+the combined stored thermal energy of the body in J 
+
+Constants (any really but I'm using these for now):
+
+G=gravity constant=6.67408E-011
+k=kbolzmann=1.3806485279E-023
+s=sbolzmann=5,67036713E-008
+PI=pi ~3.14...
+
+Example of the sun:
+
+mp=average mass of a particle=1,7E-027
+M=total mass of the body=2E30
+r=radius of the body=700000000
+
+I'm using this equation to estimate the core temperature :
+(G*mp*M)/(r*(3/2)*k) 
+which nets 15653011 for the sun which is close enough given that that is the only star core temperature known (afaik).
+I'm using this to estimate the luminosity L:
+4*PI*(r^2)*s*(Te^4) 
+which results in an error of ~1-5%  with 90% of my sample stars which is close enough. For the sun this results in 3,95120075975041E+026 W which is only 2,7% off.
+The problem is I need Te for the 2nd formula which I don't have in my scenario.
+Due to the formula for L being dependent on the surface temperature to the power of 4 this value has to be relatively precise.
+Assumptions of my model:
+
+uniform distribution of particles: so every slice of the body has the same composition as the entire body.
+perfect sphere: every body is a perfect sphere, no handling for elliptic bodies needed.
+
+My sample values (first line is the sun with a core temp of 15000000): 
+     emitted energy Surface temp    radius       mass 
+     (in Lsun)      (in K)          (in m)       (in Msun)
+     1              5800            700000000    1
+     8700000        53000           25200000000  265
+     6300000        50100           23100000000  110
+     2900000        42000           23660000000  132
+     2000000        44000           16800000000  80
+     1260000        13500           140000000000 45
+     57500          3600            618100000000 12.4
+     78             5700            6440000000   2.56
+     78.5           4940            8540000000   2.69
+     15100          7350            51100000000  9.7
+     1.519          5790            858900000    1.1
+     0.5            5260            605500000    0.907
+     370000         3690            994000000000 19.2
+     123000         33000           7560000000   56
+     2200000        52500           12600000000  130
+     200000         10000           151900000000 22
+     446000         19000           43330000000  42.3
+     25.4           9940            1197700000   2.02
+
+Errors in luminosity to actual value (the maximum error is about 100% which I can live with since it might just be inaccurate measurements for the sample stars)
+2.74%
+6.71%
+-1.13%
+11.29%
+-2.00%
+-4.27%
+106.76%
+3.99%
+2.51%
+-6.50%
+1.12%
+4.00%
+-8.27%
+2.10%
+1.57%
+113.75%
+1.64%
+2.15%

@@ -1,0 +1,4 @@
+Degrees of freedom in restricted circular coplanar three body problem
+
+How many degrees of freedom does a mechanical system consisting of three bodies, the Sun, Jupiter and an asteroid, have in the restricted circular coplanar problem of the three bodies?
+I know that if we consider the three bodies as material points, each will have three degrees of freedom, so the system will have 9. However, if the three bodies are forced to remain in the same orbital plane, it would mean that each to have 2 degrees of freedom? So the system will have 6 degrees of freedom in total?

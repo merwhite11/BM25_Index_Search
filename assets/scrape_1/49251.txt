@@ -1,0 +1,3 @@
+How to model galactic rotation curves?
+
+I have R (kpc)- distance from galactic center and v(km/s) rotational speed at that distance. I was thinking of creating a simple model comprising of 3 terms 1 for Keplerian component another for rigid body and 3rd constant, V(model)= (a/sqrt(r)) + bwr + c , where a,b,c are constants , and 'w' I am not sure how to get from this data. I also plan on using Excel's Solver feature later to minimize V(obs) - V(model). I also intend on doing all this modelling in excel instead of python or any other programming language (since I'm not very comfortable with them)

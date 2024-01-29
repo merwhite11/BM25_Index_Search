@@ -1,0 +1,10 @@
+How to photograph Saturn
+
+I have been given an old telescope (Newtonian, 910mm) and I got a mount for my DSLR and I'm trying to take some pictures of various objects.  In particular, I'm trying to photograph Saturn, but I'm having some difficulty getting a decent image.  This is about the best I could get:
+
+This was taken with a 2x Barlow T-mounted to my DSLR via an extender, basically a metal tube about 2.5 inches long (without both of these my focuser doesn't have enough range unless I drop an eyepiece into the extender, then the Barlow isn't needed).  I shot on a one second delay to allow any vibration from the shutter opening to subside.  Focus was manual via the telescope itself, and was at the sharpest spot I could find.   I had been outside for some time and temperature difference between the air and the scope were minimal.
+I'm wondering if there are any pointers or maybe an idea of what I might be doing wrong.  This above exposure was 1/10s, ISO 5000.  I thought maybe the ISO setting was too high, but the image below was at 1/15s, ISO 2000 and doesn't look any better:
+
+There seems to be some chromatic effect, in the first image the upper-left side has a blue tint which works its way across the spectrum to red in the lower-left.
+The scope was collimated using the star method as I don't have a tool, so it may not be perfect but it's pretty good.  
+The thing that I am really puzzled about is that through the lens the image did not look like either of these pictures.  Although a bit small, I could make out the variations in color and some of the texture of the planet and its rings.  The image was sharp and there were no chromatic aberations.  Aside from having the rough shape of Saturn, the pictures have almost no resemblance to what I saw right before I took the pictures.  (This is looking directly through the lens of the camera through the optical viewfinder, live preview also looks ok, but the screen resolution isn't as great.)

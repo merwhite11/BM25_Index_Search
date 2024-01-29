@@ -1,0 +1,15 @@
+rms noise, confusion and dynamic range in radio images
+
+I have been trying to understand imaging in radio astronomy. Below are some of my questions related to it and my understanding of their answers. I am not very confident about my understanding of them and it needs to be taken with a grain of a salt. If someone could validate my understanding of it and add corrections and elaborate explanations of them for my better understanding, that would be great:
+
+What is RMS noise (mJy/beam) or image rms and how it relates to flux density and images? What are its causes? Why is it measured per beam? How is it related to sensitivity?
+My Understanding - Root mean square (RMS) noise (fluctuation level) is the total(average) noise level in the image which could be caused by antenna electronics as well as confusion. It seems to be a noise(fluctuations) with gaussian distribution and so RMS noise seems to be synonimous to the standard deviation of that distribution. Lower noise means better interferometer sensitivity because it can detect fainter sources with lower noise. Not sure why is it measured per beam though.
+
+There are also quantities like 5σ or 7σ related to RMS noise, peak residual (mJy/beam), etc. What do they mean?
+My Understanding - 5σ or 7σ, etc. seems to be the Signal-to-Noise ratio of any source within the abeam/fov. Higher the brightness of a source within the beam, the less likely that it is due to the noise (random fluctuations) and more confident we are that it is a real source. I am not quite sure what peak residual is.
+
+What is dynamic range? Why its greater value is better?
+My Understanding - The ratio of the brightest source in the field to the off-source rms in the image. The brighter the source, higher could be the dynamic range. Reduction in rms noise (probably with longer integration times) could also increase dynamic range. I am not sure why higher value of dynamic range is better. Is it better because it gives us better σ-levels (confidence) on the image content and thus makes image more accurate and reliable? What are other benefits of higher dynamic range and other ways to improve it? Do gaps in the uv coverage or beam size, resolution affect it?
+
+What is confusion limit and its significance?
+My Understanding - Confusion is actually not the noise, it's noise like distribution of faint sky objects around the source within the beam/fov which obscure the target source. This noise cannot be removed with long integration times as it is real distribution of sky and is correlated. So, rms noise level of the image cannot go below confusion limit even with longer integration times.

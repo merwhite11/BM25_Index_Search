@@ -1,0 +1,5 @@
+Difference in redshift between 2 interacting galaxies
+
+I have a galaxy 'A', say at redshift 1. Let's suppose this galaxy has no peculiar velocity. What would be the redshift of another galaxy 'B', that has a radial velocity of 500 km/s, relative to A?
+All this in the standard (Planck) model.
+Any tools to do get this easily (an python code, astropy?)

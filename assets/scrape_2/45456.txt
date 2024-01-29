@@ -1,0 +1,50 @@
+How to translate from local laplace plane to ecliptic J2000 (or ICRF)
+
+The NASA JPL websize gives mean orbital elements for e.g. Iapetus or Titan in relation to the local laplace plane.
+// Mean orbital elements for Iapetus referred to the local Laplace planes
+a(km)    e       w(deg)   M(deg)   i(deg)  node(deg)  n(deg/day)  P(days)  Pw(yr)   Pnode(yr) 
+3560854  0.0293  271.606  201.789  8.298   81.105     4.5379416   79.33    1676.69  3438.73
+// Laplace plane parameters (are Pw and Pnode part of it?)
+R.A.(deg)  Dec.(deg)  Tilt(deg)
+284.715    78.749     15.210
+
+Via the JPL HORIZONS system website I can also get the relative position of these objects in Ecliptic of J2000.0 reference frame. I've chosen the specific date of JD2454886.9461875 for this question, since Titan should create an eclipse on Saturn at that date, but I'll use Iapetus as the example here, as it should be much further away from the regular ecliptic.
+*******************************************************************************
+Ephemeris / WWW_USER Tue Aug 24 09:07:33 2021 Pasadena, USA      / Horizons
+*******************************************************************************
+Target body name: Iapetus (608)                   {source: sat427l_merged_DE438}
+Center body name: Saturn (699)                    {source: sat427l_merged_DE438}
+*******************************************************************************
+$$SOE
+2454886.946187500 = A.D. 2009-Feb-24 10:42:30.6000 TDB 
+ X =-3.667428122525245E-03 Y =-2.292450955142063E-02 Z = 6.128563674523897E-03
+ VX= 1.818570055804101E-03 VY=-3.151270839204952E-04 VZ=-2.929182822870737E-04
+ LT= 1.386776951611314E-04 RG= 2.401129858878437E-02 RR=-5.166357246498433E-05
+*******************************************************************************
+
+Converting the orbital elements to Cartesian coordinates (in the local laplacian reference plane) is fairly simple. I use my own JS implementation to do that (i'm quite sure the result is correct, but feel free to challenge).
+var lapIapetusOrbital = {
+  e: 0.0293,
+  a: 3560854 * KM2AU,
+  w: 271.606 * DEG2RAD,
+  M: 201.789 * DEG2RAD,
+  i: 8.298 * DEG2RAD,
+  O: 81.105 * DEG2RAD,
+  // lap_ra: 284.715 * DEG2RAD,
+  // lap_dec: 78.749 * DEG2RAD,
+  // lap_tilt: 15.210 * DEG2RAD,
+  G: GMJY.sat, // AU and JY
+  epoch: 0,
+};
+
+var time = JD2J2K(2454886.9461875);
+console.log(new Orbit(lapIapetusOrbital).r(time));
+
+Now the question is how to rotate the resulting Cartesian position to convert it into J2000 ecliptic reference frame, given the laplace frame parameters from the JPL Website? I really seem not to be able to figure it out.
+in => { x: -0.013035389203744634, y: -0.020207481562296, z: 0.001422614609286161 }
+out => { x: -3.667428122525245E-03 y: -2.292450955142063E-02, z: 6.128563674523897E-03 }
+
+I created a small ThreeJS example to illustrate the problem. It shows Saturn with Titan and Iapetus once with Horizon positions and once with calculated Cartesian coordinates. Goal is to rotate the calculated positions close to the Horizon positions.
+
+I'm aware that this method will not yield good results if the calculated time moves further away from the orbital elements epoch. But I'm still really curious how to do it as I couldn't for the life of me figure it out until now. You may also checkout a failed implementation at my latest solsys explorer preview (titan is in the wrong place).
+Any help is greatly appreciated!

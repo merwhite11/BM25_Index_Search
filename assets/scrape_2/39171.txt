@@ -1,0 +1,4 @@
+Question about orbital direction on binary systems
+
+I wonder if is possible to find a binary system in which one star is orbiting the center of mass in one direction and the latter orbiting in the opposite direction.
+Would this transgress angular momentum conservation?

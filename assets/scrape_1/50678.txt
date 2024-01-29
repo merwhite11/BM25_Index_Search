@@ -1,0 +1,5 @@
+Why isn't Amplitude the same as Declination?
+
+
+From the way I understand Amplitude and Declination, it seems to me that they should always be the same, yet they are not, why?
+P.S. In the picture I am imagining that the declination remains constant (25 degrees N)

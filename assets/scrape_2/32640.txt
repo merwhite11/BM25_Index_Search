@@ -1,0 +1,15 @@
+Why does the Earth have a z-component at the start of the J2000 epoch?
+
+When I go to the NASA HORIZONS webpage
+https://ssd.jpl.nasa.gov/horizons.cgi
+and ask for the VECTOR coordinates of the Earth on 1 January 2000, it tells me that Earth has the following coordinates in the J2000 epoch:
+X =-1.756637922977122E-01 Y = 9.659912850526895E-01 Z = 2.020629118443605E-04
+These are measured in astronomical units. Quoting from the webpage:
+
+Reference epoch: J2000.0
+XY-plane: plane of the Earth's orbit at the reference epoch
+X-axis  : out along ascending node of instantaneous plane of the Earth's             orbit and the Earth's mean equator at the reference epoch
+Z-axis  : perpendicular to the xy-plane in the directional (+ or -) sense              of Earth's north pole at the reference epoch.
+
+But these figures don't make sense! The z value should be EXACTLY zero, since we are measuring at 1 January 2000. Also the x should be exactly 1, and the y should be zero. 
+What is going on?

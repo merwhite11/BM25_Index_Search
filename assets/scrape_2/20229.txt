@@ -1,0 +1,15 @@
+Equinox sunrise sunset direction
+
+Looking at sunrise and sunset data around 2017 vernal equinox (because of GMT timezone I took London) https://www.timeanddate.com/sun/uk/london 
+Date  Sunrise      Sunset        Day Length  Solar Noon
+16    06:12 (92°)  18:07 (269°)  11:54:55    12:09 (37.0°)
+17    06:09 (91°)  18:08 (269°)  11:58:53    12:08 (37.4°)
+18    06:07 (90°)  18:10 (270°)  12:02:52    12:08 (37.8°)
+19    06:05 (90°)  18:12 (271°)  12:06:50    12:08 (38.2°)
+20    06:03 (89°)  18:13 (271°)  12:10:48    12:07 (38.6°)
+21    06:00 (88°)  18:15 (272°)  12:14:47    12:07 (39.0°)
+22    05:58 (88°)  18:17 (273°)  12:18:45    12:07 (39.3°)
+
+We see that 12-hours day happens around 17-18 of March, however the Vernal Equinox takes place on 20 March 2017, 10:29 GMT.
+I understand that due to refraction in the Earth's atmosphere and due to the fact that sunrises and sunsets are defined by the top of the Sun's disk, sunrises are "earlier" and sunsets are "later", so the 12-hours day indeed should happen before the equinox.
+But why the directions of sunrise and sunset are east--west on that same day? The above factors should not influence directions, should they?

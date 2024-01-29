@@ -1,0 +1,3 @@
+Problem with making telescope
+
+I am using a convex lens with $f=5$ cm and $5$ cm aperture, a concavo-convex lens with $f=100$ cm and $5.5$ cm aperture. I am trying to make telescope and it should have magnification of 20 x. But the image coming of eyepiece is very small and cant be seen clearly. Please help with the problem?

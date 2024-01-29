@@ -1,0 +1,3 @@
+How can I calculate the luminosity and mass of a star only knowing it's peak wavelength and it's subtended angle?
+
+For example if a certain star subtends an angle of 32 arcminutes at the Earth’s orbit and it's light has a peak wavelength of 500 nm, how can I find the luminosity and mass of that star?

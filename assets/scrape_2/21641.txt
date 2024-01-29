@@ -1,0 +1,4 @@
+Why do medium stars collapse to form supernovae while big stars collapse to form black holes?
+
+I understand that a star runs out of fuel slowly and gradually by fusing heavier and heavier particles (because of pressure by gravity) until the last heaviest particle is not able to fuse at the core of the star. This is where gravity takes over, and mass collapses (emitting gases out) to become a smaller dense star (with no energy left to give, just the gravity to absorb). 
+What I don't understand is why medium stars collapse to become a supernova which emits light while big stars collapse to form black holes which absorb all light.

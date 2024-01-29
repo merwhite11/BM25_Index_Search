@@ -1,0 +1,3 @@
+Assuming 2007 OR10 is in tidal lock with its satellite, what is its mass?
+
+Its rotation period is 45 hours. Its satellite is at the distance of 15000 km. Given this data, and assuming the satellite's orbital period the same as the main body's rotation period, 45 hours, what is the mass of the main body?

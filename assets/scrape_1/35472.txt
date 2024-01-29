@@ -1,0 +1,11 @@
+What exactly is a "conclusive association" in Astronomy?
+
+Phys.org's Astronomers use slime mold model to reveal dark threads of the cosmic web says
+
+A computational approach inspired by the growth patterns of a bright yellow slime mold has enabled a team of astronomers and computer scientists at UC Santa Cruz to trace the filaments of the cosmic web that connects galaxies throughout the universe.
+Their results, published March 10 in Astrophysical Journal Letters, provide the first conclusive association between the diffuse gas in the space between galaxies and the large-scale structure of the cosmic web predicted by cosmological theory.
+
+This links to Joseph N. Burchett et al, Revealing the Dark Threads of the Cosmic Web, The Astrophysical Journal (2020)
+Kudos for the use of the slime mold model, this organism is a gift that keeps on giving to not only biologists but a wide range of other fields https://www.google.com/search?q=slime+mold+growth+modeling which includes computing, network analysis, transportation and even cosmology.
+Astronomy differs from some other fields of science in that most hypotheses must be tested by observation of naturally occurring phenomena, it's hard to test them through carefully designed experiments. While particle physicists can "throw large hadrons" at each other under controlled conditions, astronomers can't similarly "collide white dwarfs" in the laboratory.
+Question: In the results described in the ApJ Letter, was there such a thing as a "conclusive association"? Is that even a thing? Or was there simply a similarity as defined by some metric which the authors believe to be reasonably objective?

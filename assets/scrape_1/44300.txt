@@ -1,0 +1,6 @@
+Can the transit of satellite in front of Sun be visible in 10-inch telescope?
+
+I have 10 inch Sky-Watcher telescope and I would like to know if a satellite passing in front of Sun can be visible. Suppose that satellite's angular diameter is 1˝. Yes, I know the formula $\theta=\frac{1.22\lambda}{D}$ for limiting angular size and yes, using this formula, the telescope could theoretically see it. But this applies to "stationary" double stars that you can observe for longer period of time. I don't know if this is true for rapidly moving satellite in front of bright Sun. You see, the main difference is that two stars are sources of light, but a satellite is actually dark and we can only see its shadow. That's why I think that actual angular resolution for satellites in front of Sun may be larger.
+Certainly, you have more experiences on this field. Can such satellite be visible?
+
+As of answers, some additional information: I have proper solar filter so that full Moon is a bit brighter than Sun through filter. Therefore, damage on equipment won't be done. But please, ISS and HST are not 1˝ satellite; I am not interested in those.

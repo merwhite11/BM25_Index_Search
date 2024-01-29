@@ -1,0 +1,6 @@
+Could not slow neutrinos orbit galaxies and clusters, thus comprising a large component of even COLD dark matter?
+
+Cold dark matter is the type of dark matter that is most eminently neutrino-free. But neutrinos themselves suffer a large survivorship detection bias (“all the neutrinos you can detect necessarily have to have relativistic speeds”) https://physics.stackexchange.com/questions/267035/where-are-all-the-slow-neutrinos
+By the same principle that there are more pebbles than boulders, and more red dwarfs than blue giants, slow neutrinos should be more abundant than the fast, detectable ones.
+Non-relativistic (slow) neutrinos - in particular those going at below the galactic escape velocity - could be a major competent of cold dark matter: slow neutrinos could be slow enough to orbit galaxies and galactic clusters and thus form a significant amount of cdm, which should be shaped as a galactic halo.
+If neutrinos are produced at all speeds, those stellar (modern) neutrinos below galactic escape velocity will accumulate indefinitely. This should generate a halo-shaped cloud, and this could comprise a large part (of course 15% are MACHOs etc https://ned.ipac.caltech.edu/level5/Sept17/Freese/Freese4.html - I am assuming here a multi-component DM) of cold dark matter.

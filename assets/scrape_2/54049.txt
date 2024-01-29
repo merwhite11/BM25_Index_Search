@@ -1,0 +1,10 @@
+Transformation matrices and their derivation (if possible) for ICRS frame for reference to other frames
+
+I am finishing up my thesis write up and one of the chapters in my thesis is on astronomical coordinate systems since in my analysis of data I have converted the available astrometry from the ICRS frame of reference to the below coordinate frames,
+
+ICRS to Galactic frame of reference
+ICRS to Galactocentric frame of reference
+ICRS to LSR frame of reference
+
+I have also converted my reference frame from cartesian to cylindrical coordinates as and when needed.
+I have done all these transformations during my study using the SkyCoord class from Astropy. I am trying to get to the literature of these transformations and so far I have failed. Does anybody have any reference to the literature of these coordinate transformations from one frame to another.

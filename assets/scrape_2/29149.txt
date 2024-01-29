@@ -1,0 +1,10 @@
+How is information preserved on the surface of a Black Hole?
+
+Is there an compression algorithm for storing the information?
+
+What if there is a uniformaly complex object dropped to the black hole? Then there will be no compression of information.
+
+How is there enough space on the surface (2D) to encode something which is in 3D. The planck distance is the same in the black hole as in the universe. So how can the black hole encode information about an object in 3D that is both uniformly complex and as dense as the black hole? Or is there a law that says 3D objects cannot be more dense then some level - which is sufficiently sparse so that when collapsed to a black hole all its information can be encoded on the surface of a sphere? Has this limit been found - given that a sphere has the lowest surface to volume of any object: https://en.wikipedia.org/wiki/Surface-area-to-volume_ratio ?
+
+
+Edit: added '3D' to first sentence of 2. question.

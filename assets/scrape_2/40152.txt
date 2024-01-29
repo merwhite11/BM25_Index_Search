@@ -1,0 +1,19 @@
+"Periapsis" or "Periastron"?
+
+I was taught from Bate Mueller and White, that the proper terms for the closest and furthest points and distances from a body in orbit around another unspecified body are "periapsis" and "apoapsis" as depicted here.
+
+However, in comments to this question, it is strongly suggested that the usage of these terms is incorrect.
+
+“Apses” are the points closest to and furthest from a primary body—see
+en.wikipedia.org/wiki/Apsis, among many other sources. These points
+are called “peri-” and “apo-” with the suffix pertaining to the body
+(e.g. “-gee” for Earth, thus “perigee”). The generic word for a
+celestial body is ἄστρον
+
+
+“Periapsis” would mean “the point closest to the point closest to the
+body.” Nonsense. The proper word is “periastron”: “periapse” is a
+misconstruction.
+
+Is the usage of "periapsis" really incorrect or perhaps just a misnomer?
+Should we replace "periapsis" with "periastron"?

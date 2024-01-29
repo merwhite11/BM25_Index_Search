@@ -1,0 +1,27 @@
+How to determine the mass of a galaxy?
+
+I am having a slight disagreement with my professor.
+
+We can measure the mass of a distant star cluster from:
+A.Its color
+B.Its radius
+C.Its metallicity
+D.Smearing of lines in its total spectrum
+
+My thinking was:
+Law of Conservation of Energy
+
+Kinetic Energy = Gravitational potential energy
+
+1/2*m*v^2 =  G* m*M/r
+
+v = sqrt(2GM/r)
+
+So it is dependant on both velocity and radius.
+Answer choice D would give you the velocity but I responded with answer choice B, radius.
+After talking it over with my professor, she responded with:
+
+If we think about it conceptually, the dominant parameter is the velocity.  In other words, you can get a meaningful estimate of the cluster mass from the velocity dispersion without knowing the radius (because all clusters are the "same" size), but not vice versa.
+So I'd say it still seems pretty clear that the best answer is the velocities.
+
+Is she right or is the question worded poorly?

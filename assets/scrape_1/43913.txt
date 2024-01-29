@@ -1,0 +1,3 @@
+Gravity inside a star?
+
+Recently, I answered this question and need some clarification regarding the gravity when within the radius of a star. I thought that, when something is inside a star (ignoring drag), it will experience less gravity because as it goes deeper inside, more and more mass is outside (in the up direction) the distance left before it reaches the center. Is this true, and is there a formula that needs certain parameters to calculate it?

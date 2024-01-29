@@ -1,0 +1,8 @@
+Matter Temperature during Recombination
+
+In several papers about Recombination, (for instance Peebles, Astrophysical Journal, vol. 153, eq. 39) it is claimed that the evolution of matter temperature follows the equation
+\begin{equation}
+\frac{dT}{dt} = -2\frac{\dot{a}}{a}T + \frac{2}{3 K_B n} \epsilon
+\end{equation}
+where the first term in the right hand side accounts for the expansion of the universe and $\epsilon$ is the energy injected into the gas per second per unit physical volume. How can I derive this equation?
+I suppose that this equation can be derived applying the First Principle of Thermodynamics to a comoving volume in the expanding universe or maybe taking the second moment of a Boltzmann equation. Any help or reference in which this equation is discussed would be very helpful.

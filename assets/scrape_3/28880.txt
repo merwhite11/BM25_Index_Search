@@ -1,0 +1,4 @@
+Why do satellites arcs end abruptly when observed from Earth
+
+I recently got an app that let me track the ISS. I noticed that during the time it's visible, it disappears before reaching the horizon, and sometimes reappears soon after for a bit.
+Can somebody explain to me how the ISS and other satellites orbit? Specifically, what makes their visible period such a narrow one, that doesn't span all the way down to the horizon? (which is what my layman brain expected)

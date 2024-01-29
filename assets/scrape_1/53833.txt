@@ -1,0 +1,7 @@
+Sky coverage plot using Python/Astropy
+
+I want to recreate a plot where the area that is not visible from a certain point on earth (latitude and longitude) trough a full year. An example of this plots for example can be:
+
+Where in white is marked the zone a telescope is not seeing over all year. I searched in internet but i can not find anything related on how to do it, also Astropy don't seem to have any tool to do this calculus.
+My first idea for the approach can be first of all maybe represent in equatorial coordinates where this areas should be straight lines (but i don't know how to calculate the coordinates that this straight lines will have). And maybe after we can transform to galactic coordinates somehow.
+If someone have an idea on how to do this will be helpful.

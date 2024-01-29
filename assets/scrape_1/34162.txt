@@ -1,0 +1,18 @@
+How does one find the electric conductivy of a planet's atmosphere?
+
+I am working on an undergraduate project in which we study shaped structures in the atmosphere of the gas giants. We are investigating whether the magnetic field is the source of the instability generating the observed shaped structures. We therefore use spectral methods to make a stability study on the magnetohydrodynamics equations which in our case are 
+$$\frac{\partial{}\boldsymbol{B}}{\partial{}t}+\left(\boldsymbol{v}\cdot\boldsymbol\nabla\right)\boldsymbol{B}=\frac{1}{\mathrm{Re}_\eta}\boldsymbol\nabla^2\boldsymbol{B}+\left(\boldsymbol{B}\cdot\boldsymbol\nabla\right)\boldsymbol{v}$$
+$$\frac{\partial{}\boldsymbol{v}}{\partial{}t}+\left(\boldsymbol{v}\cdot\boldsymbol\nabla\right)\boldsymbol{v}=\frac{1}{\mathrm{Re}}\boldsymbol\nabla^2\boldsymbol{v}+\boldsymbol{f-\nabla}p+\mathrm{N}\left(\boldsymbol{j\times{}B}\right)$$
+where $\rm{}Re_\eta$ is the magnetic Reynolds number and $\rm{}N$ is the Stuart number expressed 
+$$ \mathrm{N} = \frac{\sigma B^2L_c}{\rho{}U}$$
+where
+
+$B$ is the magnetic field intensity;
+$L_c$ is the characteristic length of the studied structure;
+$\sigma$ is the flowing fluid electric conductivity;
+$\rho$ is the fluid density;
+and $U$ is the characteristic velocity scale of the flow.
+
+Our model is now functional and the next step is to run the calculation with real values for physical parameters. We have all the data except the electric conductivity. Hence, I am  looking for this data (or a method to calculate an approximation). I thought that a first approximation could be made from the volume fraction of hydrogen and helium and their respective conductivity.
+All ideas, avenues of research and scientific publication references are welcome. Thank you for help.
+PS: I don't know much (yet) about astrophysics and the planet's atmosphere.

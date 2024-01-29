@@ -1,0 +1,9 @@
+How large are the effects of nongravitational forces on comet Halley?
+
+The effects of outgassing on comet orbits can be noticeable. Yeomans, in  Cometary orbit determination and nongravitational forces, 2004, wrote:
+
+As the astrometric datasets improve and lengthen and as the modeling of the cometary nongravitational effects becomes more realistic, there remains the strong possibility that some physical characteristics of comets will soon be accurately determined from the orbit-determination process alone. We are already beginning to see signs that this is the case.
+
+How much does the orbital period of comet Halley vary due to these nongravitational forces? Hours? Days?
+Which comets have the largest perturbations due to these forces?
+Note: a more sophisticated question along these lines is Did Rosetta improve on models of non-gravitational effects on comet 67P's orbit? - Space Exploration Stack Exchange

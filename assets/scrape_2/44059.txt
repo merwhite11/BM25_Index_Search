@@ -1,0 +1,14 @@
+Are red clump stars horizontal branch stars?
+
+The wikipedia article about horizontal branch stars says:
+
+A related class of stars is the clump giants, those belonging to the
+so-called red clump, which are the relatively younger (and hence more
+massive) and usually more metal-rich population I counterparts to HB
+stars (which belong to population II).
+
+Whereas the article about the red clump says:
+
+The red clump giants are cool horizontal branch stars
+
+This image below also suggests that red clump stars are horizontal branch stars. Is this assessment corrent, and so is the first wikipedia article wrong to suggest that red clump stars are not themselves (but "counterparts to") HB stars?

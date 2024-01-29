@@ -1,0 +1,4 @@
+How to compute rising / setting times for stars and deep sky objects with Skyfield?
+
+I'm trying to compute rising and settings times for various objects with the Skyfield library. While the task is quite easy and well documented for planets (using the almanac.rising_and_setting function), it is not too clear to me how to do this with Stars and Deep Sky Objects.
+Btw, how do I load NGC catalogues?

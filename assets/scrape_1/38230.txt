@@ -1,0 +1,6 @@
+How can I get/generate/extract PSF image from galaxy .fits image?
+
+I want to model an image of a galaxy from Hubble.
+For this, I need the PSF image as well.
+I already tried to use TinyTim, but I don't have half of the parameters and cant be sure about the quality of output.
+Is there any way for me to get it from the .fits image of a galaxy?

@@ -1,0 +1,7 @@
+What are the temperature and pressure requirements to fuse hydrogen and deuterium in Jupiter?
+
+I've done some Google research to find out.
+All found sources approached the question from a mass viewpoint. That is, Jupiter has to be about 70 - 80 times more massive to be a red dwarf (through hydrogen fusion) or 13 times more massive to be a brown dwarf (through deuterium fusion).
+If Jupiter was somehow given the critical mass it needs to initiate thermonuclear fusion, how hot would it be and how much pressure would it have right before fusion starts?
+According to this, the minimum temperature required for hydrogen fusion is 100 million kelvin.
+If Jupiter's critical mass to fuse hydrogen was met, does this automatically mean its temperature would be 100 million Kelvin? And what about its pressure?

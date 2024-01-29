@@ -1,0 +1,7 @@
+Why use this density function to derive the Lane-Emden equation?
+
+I am currently reading Binney and Tremaines Galactic Dynamics, learning about spherical systems. In chapter 4.33 a density function (Eq. 4.83) is given as:
+
+$$ f(\mathcal{E}) = \begin{cases} F \mathcal{E}^{n-3/2} & (\mathcal{E} > 0) \\ 0 & (\mathcal{E} \leq 0) \end{cases}, $$
+
+with the energy $\mathcal{E} = \Psi - \frac{1}{2} v^2$. The only explanation given for this density function is that it is a simple form for the density function. Now I can see, that this function is simple and I also see, that it leads to the correct result later on, when they derive the Lane-Emden equation. However, why would one use this form and not for example try $\mathcal{E}^\alpha$ and determine $\alpha$ later on? What is so special about the $-3/2$?

@@ -1,0 +1,3 @@
+Origin of the magnetic field of neutron stars
+
+It seems a little counter intuitive that neutron stars possess such strong magnetic fields. Its electric charge is presumably zero, so however fast it spins, it shouldn't generate any magnetic field. Or is it due to the electric charges of quarks or their intrinsic spins?

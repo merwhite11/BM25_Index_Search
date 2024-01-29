@@ -1,0 +1,4 @@
+Are features in the CMB correlated with features in the SDSS map of the most distant galaxies?
+
+This is a follow up to an earlier question to which @pela gave an excellent answer. Apparently the statistics of the length-scales of the CMB fluctuations are similar to those obtained from other measurements. 
+This question is more specific in asking whether any of the structures observed in the CMB are also observed in the distribution of the most ancient galaxies such as from the Sloan Sky Survey SDSS.  So this is specifically asking whether there is a significant positive cross-correlation between between the different measurements (rather than whether their autocorrelations are similar).

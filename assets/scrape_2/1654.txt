@@ -1,0 +1,6 @@
+Can we know whether any distant galaxy is moving away in same direction or in opposite direction w.r.t. our galaxy?
+
+The Hubble law states that the recessional velocity of a galaxy is proportional to its distance from us.
+It takes redshift and angular sizes (for distance) of the galaxy to determine velocity, and thus rate of expantion.
+But I guess the factor of direction in which the galaxy is moving may substantially affect the 'expantion rate' calculations. i.e. If the galaxy A is moving in same direction as ours, will have less relative speed and the galaxy B moving in opposite direction will have more relative speed. The actual local speed may be the same.
+I wonder whether this fact can be considered when we determine the expansion rate?

@@ -1,0 +1,5 @@
+What exactly would the resolution of an exoplanet hypothetically imaged by using the Sun as a gravitational lens be?
+
+This video talks about how by sending a spacecraft to around 600 AU and beyond, we would could use the Sun as a gravitational lens and take clear detailed images of exoplanets light-years away.
+What it doesn't say however is the exact resolution. An exoplanet 4 light-years away would obviously appear bigger and more detailed than one 100 light years away. But by how much?
+Is there a direct formula showing the resolution for an exoplanet at x light-years? As in kilometers/pixel?

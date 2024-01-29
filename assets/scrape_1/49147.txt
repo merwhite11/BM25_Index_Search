@@ -1,0 +1,4 @@
+How are CMB frame redshifts of galaxies corrected for coherent flows?
+
+Say, if I downloaded the CMB frame redshifts of some galaxies from NED database, then what is the procedure to correct it for coherent flows?
+I'm using the SNooPy(snpy) Python package to analyze some Type Ia supernova data collected from CSP archive. snpy provides a method called sn.get_zcmb() to collect the redshift of the SNe Ia host galaxy corrected to CMB frame from NED calculator. Now, for cosmological studies mere z_cmb isn't enough, we need to correct it for bulk coherent flow as per literature. But the procedure to correct for it isn't known to me.

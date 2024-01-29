@@ -1,0 +1,4 @@
+Are many exoplanets synchronously tidally locked like Mercury?
+
+The only tidally locked planet in the Solar system is Mercury. But it is synchronously tidally locked 3:2, because of the relatively high eccentricity of its orbit, so doesn't turn the same side towards the Sun. I wonder if this is common for exoplanets?
+Many discovered exoplanets are close to their star and must be tidally locked. Has any of them been determined to be synchronously tidally locked, like Mercury? Is Mercury a rare freak in this respect, or a representant of a common phenomenon?

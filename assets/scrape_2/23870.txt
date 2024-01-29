@@ -1,0 +1,3 @@
+How to to compute the expected number of collisions between stars when Milkyway and Andromeda merged?
+
+Can some one tell me how you can roughly estimate the number of collisions when Milkyway and Andromeda merged with each other. I know it is somehow related to the mean free path of the star. But couldn't figure out how to do it exactly.

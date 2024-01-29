@@ -1,0 +1,7 @@
+How does one find out how often planets align?
+
+I am trying to figure out how often Neptune and Uranus align.
+Internet sources says that Neptune's orbit around the sun is 165 years, and that Uranus' is 84 years. It also claims that the two planets align every 170 years. Is 170 years really accurate? It sounds too long.
+I am therefore searching for a planet alignment calculator. One that is non-astrological. Are they to be found somewhere on the net, or in an app?
+Alternatively, is there a simple formula one can use to calculate this with paper and pen?
+Or, alternatively a brain-twist way of getting to the right answer.

@@ -1,0 +1,37 @@
+Do some physicists believe that the universe is a three-dimensional space wrapped on a four-dimension doughnut?
+
+
+The astrophysicists believe if this is true, the universe would be
+finite. The entire cosmos may be only three or four times larger than
+the limits of the observable universe, which is about 45 billion
+light-years away. If true, a doughnut-shaped universe also has the
+possibility of allowing a spaceship that goes in one direction to
+eventually return to where it started without turning around.
+The shape of the universe is something that astronomers have been
+debating for decades. Some believe the universe is flat where parallel
+lines stay parallel forever. Others believe the universe is closed,
+being the parallel lines eventually intersect. Astronomers say the
+geometry of the universe dictates its fate.
+While open universes continue to expand forever, a closed universe
+eventually collapses in on itself. Observations focusing on cosmic
+microwave background, which is the flash of light released when the
+universe is only 380,000 years old, have established that our universe
+is flat and parallel lines will stay parallel forever with an
+ever-evolving universe. However, there’s more to shape than geometry,
+and topology has to be considered. Topology allows shapes to change
+while maintaining the same geometric rules.
+An example is a sheet of flat paper that has parallel lines that stay
+parallel. If you roll the paper into a cylinder, the parallel lines
+are still parallel. If you take that sheet of paper and connect the
+opposite ends while it’s rolled like a cylinder, you get the shape of
+a doughnut, which is still geometrically flat. The team believes the
+warping occurs beyond observational limits and will be very difficult
+to detect. The team was looking at perturbations, which describe bumps
+and wiggles in the cosmic microwave background radiation temperature.
+They believe there could be a maximum size to the perturbations that
+could reveal the universe’s topology. Buchert and his team emphasize
+their results are preliminary and note that instrument effects could
+explain some of their results.
+
+https://www.slashgear.com/astrophysicists-believe-the-universe-may-be-shaped-like-a-giant-3d-doughnut-20683133/
+Do some physicists believe that the universe is a three-dimensional space wrapped on a four-dimension doughnut? I was reading this article and was confused about the geometry being discussed, they say the universe is flat, not in the sense that it's two-dimensional, but in the sense that parallel lines remain parallel indefinitely, then they mention that it's wrapped on a doughnut, which is impossible unless they mean a four-dimensional doughnut which would allow parallel lines to join, is this what is being said here? A topological three-dimensional plane wrapped on a fourth-dimensional doughnut would retain its geometrical feature like a two-dimensional plane wrapped on a three-dimensional doughnut would.

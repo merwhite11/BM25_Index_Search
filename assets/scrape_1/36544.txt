@@ -1,0 +1,17 @@
+Convert dates to julian day number in astropy?
+
+I'm using astropy and I need to convert dates like this: 
+2012.06.22_17:56:15_TAI
+into julian day number. I tried:
+from astropy.time import Time
+hmitime = hminew['MidTime']
+i=0
+print(hmitime[i])
+hmi0=Time(hmitime[i],scale='tai')
+print(hmi0.jd)
+
+where hmitime it's just the matrix with my dates. But python shows me this:
+ValueError: Input values did not match any of the formats where the format keyword is optional [u'datetime', u'iso', u'isot', u'yday', u'fits', u'byear_str', u'jyear_str']
+
+Does anyone know what is wrong? How can I convert my dates??
+Thanks

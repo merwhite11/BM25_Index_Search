@@ -1,0 +1,6 @@
+What are the arguments against the Feng and Gallo thin disk explanation of galactic rotation curves?
+
+The well-known galaxy rotation problem is described here. Basically (as one moves outward from the galactic centre, $R$ increasing) the observed pattern of variation in orbital speed $V$ is very different from the pattern expected on the basis of the distribution of mass inferred from detectable radiation. This is illustrated by the two curves in the following figure.
+
+Feng and Gallo in several papers such as this 2010 article have proposed a method for modelling mass distributions in discoidal galaxies.  The method can be applied to an individual galaxy to produce a "tailor-made" mass distribution which (by applying basic Newtonian physics) predicts a galactic rotation curve matching the curve observed for the galaxy. They explain the failure of other attempts, using "ordinary" physics, to predict observed galactic rotations on the use of crude luminosity:mass assumptions and on the inappropriate application of Keplerian models to galaxies.
+"Mysterious" explanations of the galaxy rotation problem such as Dark Matter  and MOND are still being considered seriously. Presumably therefore Feng and Gallo's ideas are not widely accepted.  What are the reasons for the rejection of their explanations?

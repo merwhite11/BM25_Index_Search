@@ -1,0 +1,8 @@
+How do I create a comoving quantity using YT?
+
+I can assign a unit to a scalar using:
+x = YTQuantity(scalar, 'kpc')
+but how would I specify that the unit should be kpccm? Perhaps it doesn't even make sense to do so? Something as simple as this is not the answer:
+x = YTQuantity(scalar, 'kpccm')
+Thank you,
+Paul

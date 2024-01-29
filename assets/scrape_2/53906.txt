@@ -1,0 +1,6 @@
+Moonrise and moonset roughly at the same hour for few days
+
+I generated ephemeris for my town (15.10, 17.03) and what caught my attention is for some days in a row, the difference between moonrise is like 15 minutes (diffence between moonset is ~1h at a time):
+However a couple days later situation is mirrored for moonset, namely difference between moonset in like ~25min and difference between moonrise is more than hour.
+Could someone explain this to me? Thank you!
+Link to ephemeris.

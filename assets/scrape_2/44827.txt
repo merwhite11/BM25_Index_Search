@@ -1,0 +1,21 @@
+Is there a complete guide on how to use telescopes?
+
+tl;dr As said by @uhoh in the comments, is there A Big Book of Telescopes? i.e: Is there some kind of media that gives a complete treatment to telescopes?
+I am relatively new to Astronomy.SE. I wanted to enquire if there was a good guide on how to use telescopes based on certain specifications as given below.
+Note: By guide, I mean anything from a book to online lectures to videos, etc. (Basically, any kind of media)
+Specifications:-
+
+The guide should systematically cover all the necessities one must know to effectively utilize telescopes in levels from Beginner to Advanced. Like for beginners, it could be stuff like the parts of a Newtonian telescope, basic optics, etc.
+
+The guide should cover the physics/optics and engineering behind such telescopes.
+
+The guide should consist/conclude with the limitations of the most advanced telescopes and how astronomers/engineers are devising probable workarounds to improve upon them.
+
+It would be wonderful if it contained history that led to the development of the specific kind of telescopes that we use at an Amateur stage to ones used by Professionals.
+
+The guide should include telescopes of all regions of the EM spectrum like Ultraviolet Telescopes, Infrared Telescopes, etc. (Optional Point; Would be wonderful if it contains this too)
+
+
+As said by @planetmaker the guide I want is something that combines a complete operations manual, complete engineering documentation, and a historical treatise for the major/most common telescopes that one utilizes as they grow from Beginner to Amateur to Advanced in a systematic way so that it functions as an aid to someone self-exploring the subject.
+I apologize if this kind of question is inappropriate/off-topic for Astronomy.SE. Unfortunately, I haven't been able to find any guides by myself with such specifications. I suppose one should wonder whether such kinds of guides exist(I hope they do!) or whether mine is a too niche kind of question.
+Thank You!!!

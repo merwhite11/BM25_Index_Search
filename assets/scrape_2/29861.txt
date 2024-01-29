@@ -1,0 +1,10 @@
+What is meant by "there is no refraction at the zenith"?
+
+Wikipedia states:
+
+Atmospheric refraction of the light from a star is zero in the zenith
+
+and other sources seem to agree.
+I don't see why this should be so. Consider a situation in which air gets warmer from left to right. Then light should curve towards the warm air, and a star at the zenith would appear refracted.
+
+So why do so many sources claim there is no refraction at the zenith? What do they mean by this?

@@ -1,0 +1,6 @@
+Have I nearly found the event horizon of a black hole?
+
+The calculator on the website https://planetcalc.com/1758/ cites Wikipedia's Gravitational acceleration and implements:
+$$g = G \frac{M}{(R + h)^2}$$
+For a black hole with mass $M$ equal to 5 solar masses with a diameter $R$ of 1 meter at a distance $h$ of 1500 km, the acceleration given is 296000 million m/s^2 which is nearly close to trap light.
+So one might expect the event horizon to be at least close to that. Is this correct?

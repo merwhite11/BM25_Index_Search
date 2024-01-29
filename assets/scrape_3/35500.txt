@@ -1,0 +1,5 @@
+Does the gravitational attraction near the surface of dense celestial objects diverge from inverse square?
+
+Does the gravitational attraction near the surface of dense celestial objects (neutron star, white dwarf itc) diverge (to infinity) from inverse square?
+This question is inspired by the similarity between EM and gravity (inverse square force.). The paper by John Lekner here (doi:10.1098/rspa.2012.0133) shows that there is an electrostatic attraction between charged spheres no matter the polarities of the charges and that it diverges at close separation until electrical short for almost all charge ratios. I am wondering if there is a similar kind of gravitational inverse square divergence for anything other than a black hole. 
+Actually make this for a black hole as well, although I know that a black hole is not thought to have a normal surface.

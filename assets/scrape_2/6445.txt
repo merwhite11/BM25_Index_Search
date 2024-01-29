@@ -1,0 +1,6 @@
+Is there a general term for epicycles, deferents, and eccentrics in Ptolemaic astronomy?
+
+According to Ptolemy's (c. 150 CE) account of the motions of planets, planets moved in circular paths ("epicycles") around center points that in turn moved around the center of the earth along a path called a "deferent", or around point near the center of the earth, in a path called an "eccentric".  (I think I have this right.)
+Is there a general term for these three kinds of paths?  "Orbit" doesn't seem correct, since none of the three are orbits in the modern sense.
+I'd also be interested in knowing of a general term of the centers of these circles.
+EDIT: I originally posted this on History.SE, because I think of it as a question for historians of science, and the History of Science SE site is in Area 51.  Someone at History.SE suggested it would be better to ask this question on English.SE.  I did, but I left the original question up at History.SE.  The question got downvoted at English.SE, and was migrated here.  There is now an answer at History.SE that I've accepted. Perhaps this question should be deleted from Astronomy.SE?  Or I should not have posted it in two places?  I'm reluctant to delete a question for which someone has posted an answer.

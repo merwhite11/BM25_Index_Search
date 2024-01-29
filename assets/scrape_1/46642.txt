@@ -1,0 +1,11 @@
+Why would a quantity like the 'Hubble contrast' be squared, then have its square root taken?
+
+From Sabine Hossenfelder's recent video, New Evidence AGAINST Standard Cosmology:
+
+And her source....
+
+
+Figure 2. The variation with increasing void radius of the variance of the Hubble parameter, the density contrast, the density parameter and the peculiar velocity for the CDM power-law and CHDM bump models, given the WMAP5 and SDSS data (with 1σ limits).
+
+I don't get why a graph would show a quantity that is squared, then immediately 'square-rooted' such as $\langle \delta^2_H \rangle^{1/2}, \langle \delta^2 \rangle^{1/2}, \langle \delta^2_{\Omega} \rangle^{1/2} \ \text{and} \ \langle v^2 \rangle^{1/2}$.
+Also, the lowercase delta does stand for the Hubble constant difference or contrast, correct?

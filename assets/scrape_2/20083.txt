@@ -1,0 +1,17 @@
+Explanation of the isochoric and isobaric instability conditions of interstellar medium gas clouds
+
+The question Why are there no ISM clouds with temperatures between 100 and 6,000K? has an accepted answer of the form:
+
+Let $n$, $T$, and $x_i$ be the number density of hydrogen, the temperature of the gas, and $n_i/n$, where $n_i$ is the number density of the $i$th component of the interstellar medium. We can then write the criteria for thermal equilibrium as
+  $$n^2\Lambda(n,T,x_i)-n\Gamma(n,T,x_i)\equiv n^2\mathcal{L}=0$$
+  where $\Lambda$ and $\Gamma$ and the heating and cooling functions, respectively, and $\mathcal{L}$ is defined through those functions and $n$. If the equilibrium is unstable,
+  $$\left(\frac{\partial\mathcal{L}}{\partial S}\right)<0$$
+  for entropy $S$.  
+This leads to different instability conditions, termed the isochoric and isobaric instabilities (Field (1965), $\text{Eq } 4a,4b$). These can be determined from the temperature, pressure, and density of the gas (also assuming that the gas can be approximated as an ideal gas).
+
+which is not helping me understand why there aren't any beyond saying simply "because they are unstable."
+I think the key is to understand what the "different instability conditions, termed the isochoric and isobaric instabilities" refer to - what those terms mean.
+Is it possible to provide an approximate explanation of these two instability conditions in words that would not presuppose the reader has substantial depth in statistical physics? 
+
+There may in fact be an explanation in this answer, but I need something unwound a bit further. Also possible help in the several answers to this question.
+edit: I've looked at this and this as well, and I know there is a region when the line labeled "heating rate" has a negative slope, but I don't understand what this actually means. Is there something like a gravitational effect (triggered by density) or a phase change or chemical reaction that 'triggers' this instability?

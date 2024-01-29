@@ -1,0 +1,6 @@
+In what manner is the spectrum of a black body really a continuum?
+
+Usually they say the spectrum of a black body is a continuum and emits radiation at every frequency. Is it really a continuum like a line or are there (small) intervals?
+For example, can a body emit at 700nm and also at 400nm and everything in between, or at very small intervals like at 400.000001nm and 400.000002nm etc.? So is it really like a wave or line which implies a kind of infinity of wavelengths or is it more or less like discreet lengths although very close to each other? Or is it not really known because measuring is in a certain way always with discreet numbers (like 400.0001)?
+As I understand it, it should always be at certain discreet numbers, firstly because the electrons from which the radiation comes only have a discreet values, and secondly because collisions between atoms/protons/electrons create energy at certain set wavelengths. But that is just my interpretation.
+So what is the reality of black body radiation?

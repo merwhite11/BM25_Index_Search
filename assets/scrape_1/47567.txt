@@ -1,0 +1,7 @@
+Which edge of the Moon was deeper submerged into the Earth's shadow?
+
+I was trying to solve this little task:
+
+An Australian astronomer at the latitude of Melbourne (-38 °) observed a series of unusual events.  First, he watched the setting of the sun and the rising of the moon.  In the middle of the astronomical night, a penumbral lunar eclipse was observed.  The astronomer then watched the moon set and the sun rise at the same time.  Which edge of the lunar disk was submerged deeper in the Earth's shadow?
+
+So the Moon is in the phase of full moon since we observed the eclipse. As Moon goes to the East in the sky it's left edge first reaches the shadow and then it's right edge (in North hemisphere). So we have two options to answer the question: bottom edge or top edge. But I can't think of what changes when we examine this or that case. So it seems like both variants are possible. But the answer is only one. What is it?

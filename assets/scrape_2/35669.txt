@@ -1,0 +1,5 @@
+How accurate should sun\moon ephemeris be for calculating eclipses?
+
+I am writing a program to simulate eclipses for about -2000 to 6000. My question is, how accurate does my ephemeris for the sun and moon have to be to get a decent accuracy for eclipses? I currently have an accuracy of about 1'' for the Sun and an accuracy of about 12'' for the moon. Is this good enough, or should I find a more accurate system?
+Edit:
+I'm still rather new to calculating eclipses, though I have some experience with calculating ephemerises. I'd like to calculate several things: when they occur, the duration, the path of the shadow on the earth for a solar eclipse, and perhaps the percent covered. I suppose I'd like the accuracy on these to be about $\pm 0.005$ or better. I have access to several resources that should help me do this, but I need to know how accurate to get the ephemeris.

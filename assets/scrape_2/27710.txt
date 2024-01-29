@@ -1,0 +1,26 @@
+Fitting PSF to an image to get total flux (Python)
+
+I have an image of a single unsaturated source (asteroid) that I'd like to fit guesses for various model PSFs to, so that I can then compare the total flux in each case. I've only recently begun studying PSFs, so I am a bit confused. 
+I know that astropy offers a package called photutils.psf which does the PSF fitting for you, but I would like to better understand what's going on behind the fitting, and how the flux of the source is resolved from it. Furthermore, when I tried using this package, I wasn't getting any outputs anyway (it said a source was found, but that it didn't meet the sharpness or roundness criteria, despite me changing those parameters around quite a bit). I have tried something simpler below (where model_data is the 2d numpy array representation of the PSF, and img is the asteroid image data):
+import numpy as np
+from astropy.modeling import fitting
+from photutils import FittableImageModel
+
+y, x = np.mgrid[:np.shape(img)[0], :np.shape(img)[1]]
+
+fitter = fitting.LevMarLSQFitter()
+model2d = FittableImageModel(model_data)
+result = fitter(model2d, x, y, img)
+print(result)
+print(np.median(img), np.max(img), np.sum(img))
+
+The output I get is then:
+flux       x_0       y_0
+
+-----     -----     -----
+
+9282.784  466.44    531.69
+
+2705.82 25301.56 980812434.98
+However, these are not the correct centroid coordinates of the source in the image. The correct coordinates are around (300, 300). Also, to get this result, the PSF data was normalized so that the max intensity point is 1. But when I change this normalization so that the total flux (sum of all the pixels) is 1, the result for the flux after fitting I get is way higher.
+I'm not sure what's happening behind the scenes here (I got lost in the documentation), and I'm not sure if I can trust any of these flux values, considering the x_0 and y_0 are always off. So I'd like to better understand -- how exactly does one find the flux of an object by fitting it to a PSF? And how should that PSF be normalized?

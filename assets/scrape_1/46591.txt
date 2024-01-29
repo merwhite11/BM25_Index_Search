@@ -1,0 +1,5 @@
+What's the relationship between the mass of a star and the mass of its core?
+
+What's the mathematical relationship between the mass of a star and the mass of its core?
+For simplicity's sake, I'm asking about the cores of main sequence stars at birth, and by "core" I mean the part where fusion is happening.
+I tried googling my question and found this, but no one there actually gave helpful answers. There it was claimed that the Sun has a core that is only 35%, and Main Sequence stars have around 30% of the mass in the core, but no reasoning or citation for these values was given.

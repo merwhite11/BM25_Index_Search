@@ -1,0 +1,52 @@
+If the universe is 'flat', what shape is it?
+
+As in the title, If the universe is considered to be 'flat', what shape is it?
+Is it a disc, elliptical, square, rectangle?
+Or is this still unknown as we can only study a small segment of the entire universe, known as the observable universe?
+
+EDIT
+This previous related question did ask the same thing. However the OP was also asking about if the universe had a centre and if everything (galaxies, dust, stuff etc...) was evenly spread out only along the outer edges. 
+As far as I understand it, the Big Bang that started everything off isn't a typical 'explosion' with a central point. Shapley noted that it appeared as if galaxies are moving away from the Milky Way. We now realise that it is the space between galaxies that is expanding (and that we are not the centre of the universe). in 1998, Hubble then found that the far distant galaxies appear to be moving faster than closer galaxies. This means that the rate of expansion is accelerating. This acceleration rate is known as the Hubble constant.
+
+
+I feel as if the answers focussed more on his sub questions. I found the comments to be more helpful than the answers. 
+Can I assume that the answer is still as summarized in the related questions comments?
+'We don't know?'
+Astromax commented on the question,
+
+Well, it is indeed flat, meaning Euclidean geometry can be used. Since light travels at a finite rate and the universe is not infinitely old, our 'bubble' of observable stuff within the universe would be in the shape of a sphere centered on us. However, the center of the sphere would change if you decided to move to a different part of the universe. Is the universe infinite? This is not known, since we cannot see passed our observational horizon
+
+
+
+Accepted Answer
+To be honest I didn't understand the first half of the accepted answer, and having attempted to read through the Planck paper that was linked, I can tell you that I don't know much about astronomy! I kept getting lost in all the new (to me) astonomical terms being thrown about. 
+I read the second half of the accepted answer to be explaining that the universe has no centre.
+Gerald commented on the OP's question about the shape 'shortly' after the big bang,
+
+Something else: Roughly resembling the 3-dimensional surface of 4-dimensional sphere, but not quite symmetrical. The precise shape is not exactly known, but probably not too much distorted, like a torus, a cube or a dodecahedron. This is still under investigation; more precise results are expected within a few years, when polarization of the CMB will be analysed
+
+and went further to clarify the linked Planck paper
+
+Neither the circles-in-the-sky search nor the likelihood method ﬁnd evidence for a multiply-connected topology" of the Planck paper, section 6.1 means it's not a torus-like or more complex object with holes.  
+
+
+Second Answer
+The more popular second answer, definitely focussed more on answering the 'does the universe have a centre?' question. 
+Helpful comments to my focus, Astromax commented 
+
+Also, that the universe is "infinite" is not something anyone can prove. The expansion of space-time seems to occur everywhere, but that does not mean that the universe is infinite.
+
+Stan Lou commented 
+
+Being infinite doesn't imply having no boundary (not by itself, at least). 
+
+and ended with 
+
+Yes, a flat 3-torus is a possible geometry, but the geometry does not have to be "repetitive" in the sense of wrapping around on itself. It doesn't have to be a torus. Beyond the horizon could be a Euclidean space instead of a flat torus. Or there could be pink unicorns. Or anything else. The point of the horizon is that we don't know what's beyond it. (But if one assumes that the universe is globally isotropic, then it can't be a torus.)
+
+And the OP summarised it by saying 
+
+So it seems like it boils down to this: It's probably flat, probably 3D. It might be edge-less, or not, we don't know. If yes, might be hypertorus and we could eventually do a round trip and came to starting point. If not, might be a ball, or anything else. We don't know, and can't imagine because of our limited scope. Is this at least remotely aligned with today's theories or are there still some gapping holes?
+
+The comments then end, as they moved the discussion to chat.
+Can I assume that the answer is still as summarized. 'We don't know?'

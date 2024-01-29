@@ -1,0 +1,32 @@
+Help in determining the features of an unusual, fictional star system
+
+(Hope this is the right Stack-exchange site for this question)
+I'm working on a sci-fi RPG campaign, set on a very atypical location. Since this is a work of fiction, there's enough room for speculation and artistic license. But I'd still like to start from a more astronomically sound perspective.
+
+Background
+Consider the following system:
+
+A single moon, with properties roughly comparable to Earth's so that it can support human life (1G gravity, Nitrogen-Oxygen-Carbon atmosphere, soil and liquid water etc.). This moon is tidally locked with it's planet.
+
+A single gas-giant planet, with a size roughly comparable to Saturn. Orbiting it's star so that it completes a cycle about every 12 earth years.
+
+A Star, larger than Sol and emitting enough energy to keep the moon in a comfortably warm temperature.
+
+
+The features above may be altered to ensure possibility of human survival on the moon, and if possible, to keep the moon tidally locked with a large planet.
+Now, the complications (inspired by a short story by Larry Niven):
+
+The whole system (star, planet and moon) are traveling at a relativistic speed across the galaxy.
+(Based on the theory that some parts of the universe might be made from anti-matter) The whole system is made from anti-matter, but is currently traveling through a normal-matter area of space.
+Note: the "human life" on the moon are also based on anti-matter...
+
+Finally, the story will begin with a small community of primitive "anti-matter humans", living on the moon in a place from which the planet fully visible, and at the zenith.
+The Questions
+I'd appreciate ideas, insights and comments on the following:
+
+From the moon, how will the sky look like?
+What will the equivalent of a "day and night cycle" (sun-up to sun-up) look like?
+Will the winds on the moon have any "non-earthlike" patterns?
+Considering that at relativistic speeds, the odds of the bodies in the system hitting hydrogen particles in the vacuum of interstellar space are significant (is that even correct?), will that create any special aura or energy streams from the sun or planet?
+
+Thank you for your help.

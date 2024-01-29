@@ -1,0 +1,6 @@
+Has the Advection-Dominated Accretion Flows (ADAF) model been used to describe accretion flow around a rotating black hole?
+
+I am studying Advection-Dominated Accretion Flows (ADAF) from the review paper Advection-Dominated Accretion around
+Black Holes. In section 2.1 of the paper, the authors provide the basic equations of the flow (assuming Keplerian motion) using the Newtonian gravitational potential. In section 2.4, the authors choose the Paczynski-Wiita potential to obtain pseudo-Newtonian global solutions around a Schwarzschild black hole.
+The Paczynski-Wiita potential successfully simulates the Schwarzschild geometry quite accurately and thus the ADAF model could successfully describe the accretion flow around a non-rotating black hole. My question is follows:
+Has the ADAF model been used to describe accretion flow around a rotating black hole? If yes, which gravitational potential has been used in the calculations to simulate Kerr geometry?

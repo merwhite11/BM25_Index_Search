@@ -1,0 +1,3 @@
+Can we tell how fast bodies are moving away by measuring their frequency?
+
+It's clear the universe is expanding because light from distant bodies, like galaxies, are shifted towards the red side of the spectrum.  In other words, the light measured is more red than it should be when compared to laboratory results.  This is great for measuring the distance to other bodies, but can't we also measure their velocities of departure by measuring how fast the light from these bodies is becoming more and more red over time?  That is, v is directly proportional to the change of frequency divided by the time elapsed?

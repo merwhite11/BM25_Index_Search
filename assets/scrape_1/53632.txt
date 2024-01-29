@@ -1,0 +1,6 @@
+How can someone take narrowband data from an OSC narrowband filter
+
+To those who aren’t aware, an OSC narrowband filter is a filter with multiple band passes, for different emission lines. These can include a combination of Hα, Hβ, OIII, SII, and other emission lines. They are meant for OSC cameras, or in other words cameras with bayer filters.
+While it is possible to process without ever extracting each of the emission lines, it’s not how I would like to do it. Instead I would like to get the most accurate representation of the quantities of each wavelength hitting the sensor.
+I’m going to specifically provide the information for my setup, because of course I’m the one asking the question. However it is ideal if an answer also details how to do this for any sensor and wavelengths combination.
+Given the wavelengths of Hα, Hβ, OIII and the relative response of the sensor (in this case the IMX 585 on the Uranus-C) how can someone extract narrowband data?

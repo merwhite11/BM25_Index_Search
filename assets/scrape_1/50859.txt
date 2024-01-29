@@ -1,0 +1,8 @@
+SDSS taget data missing
+
+I am student who want to do project with SDSS DR7 photometric data. (My target is NGC2420.)
+I extract ugriz magnitude data by SQL, but it was 'punched'. Target data was missing.
+I don't have any ideas How can i get those data from SDSS SQL?
+
+SDSS Skyserver anounces to me they have data about Target
+but SQL data is punched.

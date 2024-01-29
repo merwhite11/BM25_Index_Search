@@ -1,0 +1,15 @@
+Why does the seeing disk increase with a 3/5 exponent to air mass?
+
+The textbook I am working through, Observational Astronomy by Birney et al, cites the following relationship between the seeing disk and the air mass one is looking through:
+$$s=s_0X^\frac{3}{5}$$
+($s$: true seeing disk; $s_0$: zenith seeing disk; $X$: air mass.)
+This exponent, $\frac{3}{5}$, is not elaborated upon in the text. But, it strikes me as a bit odd. The predominant factor lending itself to this exponent is turbulence, and turbulence is quite chaotic. That makes me curious about two things:
+
+Is this an approximation? To what degree is $\frac{3}{5}$ the accurate value of this exponent (even if the accuracy is limited by other restrictions)?
+Regardless of the above, where does this number come from? Is it measured, or is there a theoretical justification for it?
+
+
+My best guess is that it's related to the Kolmogorov power law for energy stored in turbulence, which predicts (for sufficiently large whirls) an energy spectrum of:
+$$E\propto x^\frac{-5}{3}$$
+($E$: energy stored in a turbulent whirl; $x$: the size of that whirl.)
+Since the order of magnitude length scale seems to match possible cell sizes in the atmosphere, I'm wondering if this points to an underlying connection between these two laws. But this also seems like it might be a spurious correlation - the factors that feed into the seeing disk measurement are also optical, and I can't see a clear way to retain the 5/3 ratio on both sides.

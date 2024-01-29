@@ -1,0 +1,17 @@
+"To date we have covered 624 square degrees of sky near to and interior to the orbit of Venus" meaning wrt Asteroid survey Interior to Earth and Venus
+
+CNN's October 31, 2022 ‘Planet killer’ asteroid spotted hiding in the sun’s glare links to Sheppard et al. (2022) A Deep and Wide Twilight Survey for Asteroids Interior to Earth and Venus. The abstract is long, and includes sentences like
+
+We are conducting a survey using twilight time on the Dark Energy Camera with the Blanco 4 m telescope in Chile to look for objects interior to Earth’s and Venus’ orbits.
+
+
+Our new discovery 2021 PH27 has the smallest semimajor axis known for an asteroid, 0.4617 au, and the largest general relativistic effects (53 arcsec/century) known for any body in the solar system. The survey has detected ∼15% of all known Atira NEOs. We put strong constraints on any stable population of Venus co-orbital resonance objects existing, as well as the Atira and Vatira asteroid classes.
+
+Atria asteroids never go out as far as Earth's orbit; Vatria and Vulcanoids never as far as Venus' and Mercury's, respectively.
+However, it's hard for me to understand how much we can get from the following sentence in the abstract.
+
+To date we have covered 624 square degrees of sky near to and interior to the orbit of Venus.
+
+Since both the Earth and the asteroids are rotating around the Sun and at substantially different rates, somehow citing the amount of sky covered seems a bit misleading. Couldn't all those square degrees that have been covered be full of undiscovered objects a year or two later? They're not marked "finished, done, no need to revisit later" are they?
+Question: What exactly is the meaning of "To date we have covered 624 square degrees of sky near to and interior to the orbit of Venus"?
+Isn't there a higher dimensional space that takes into account period vs radius (as well as the problem with the Sun's glare" that is a more honest metric of how far along they've progressed?

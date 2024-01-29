@@ -1,0 +1,4 @@
+Interstellar reddening for Cepheids
+
+How were interstellar reddening values for cepheid first calculated? 
+I mean, other than using the derived equation to get extinction-corrected magnitude of Cepheids, I want to know how to drive them independently from measured raw data (maybe V, B-band colors, etc).

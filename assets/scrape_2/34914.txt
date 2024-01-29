@@ -1,0 +1,11 @@
+Time vs magnification in a binary lens
+
+For a single lens: we got 
+\begin{equation}
+ u(t)=\sqrt{\left(\frac{t-t_0}{t_E}\right)^2 + u_0^2},\end{equation}
+so the magnification is 
+\begin{equation}
+A = \frac{u^2+2}{u\sqrt{u^2+4}} \end{equation}
+Therefore the magnification for a single lens depends on three parameters: $u_0$ (minimum separation lens-source), $t_0$ (time where the magnification is maximum) and $t_E$ is the characteristic event timescale, which is the time it takes for the source to move with respect to the lens by one Einstein ring radius.
+For a binary lens, however, the formulae of $u$ and $A$ above no longer hold. $A$ can be calculated for a point $u=(u_1,u_2)$ using numerical methods (Press et al. 2002) but, how is calculated $u$ for a certain time $t$? According to Tsapras (2018) $u$ depends on $u_0$, $t_E$, $t_0$ but also the angle $\alpha$ at which
+the source trajectory crosses the binary axis, the mass ratio between the two components, $q$, and the separation between them, $s$, projected on the lens plane. ¿How these last three parameters come into play in the calculation of $u$ for a binary lens?

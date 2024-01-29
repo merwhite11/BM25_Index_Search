@@ -1,0 +1,8 @@
+Is it possible for a planet to have multiple moons in a nearly stationary orbit?
+
+I have done a lot of searching online and while I have been able to find out that theoretically a moon could exist in a near-synchronous/stationary orbit, I am wondering if it is possible for multiple moons to exist in this state.
+I'm not sure if I've explained appropriately or not, so if this needs to be a little clearer, please let me know.
+The purpose of this question is that I am writing a novel and I had this idea that the planet has 9 moons and that the area of land that the story takes place in the moons only travel across the sky over the course of many days.  One moon might take 60 days to get from one horizon to the other, while another might take 15 days, and others would be varying times in between.
+In my limited knowledge, I have surmised that a moon closer to the planet would take less time to cross the sky than a moon further away.  Obviously, for this to work, the moons would have to be in a supersynchronous orbit, not fully synchronous.  Would the range of distance for supersynchronous orbits allow multiple moons to exist in staggered distances and still be close enough to remain visible from one spot continuously for multiple days at a time?
+Disclaimer:
+I am not sure that this is the appropriate place to ask this question, since it is mostly theoretical.  I also want to apologize if my English is confusing.  Finally, weird letters and symbols in math make my head hurt, so I am sorry I cannot follow complicated mathematical formulas, but feel free to post them if you believe it may help answer the question.

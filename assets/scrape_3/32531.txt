@@ -1,0 +1,3 @@
+Attach a visible light telescope to the outside of the ISS
+
+Visible light imaging of the heavens is limited on Earth primarily due to the atmosphere. I know the ISS is moving at 17000mph, but given the delays to the James Webb telescope, is there any merit in attaching a space-rugged visible light telescope to the outside of the ISS? Could it ever approach the visible light performance of Hubble?

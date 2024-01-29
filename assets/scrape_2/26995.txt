@@ -1,0 +1,5 @@
+What defines the plane of an accretion disk around a black hole?
+
+The question Do we know at which angle the Event Horizon Telescope will look at the accretion disk of Sagittarius A*? about just how close to edge-on we would be viewing any accretion disk around the black hole in the center of our galaxy, and @Zephyr's excellent answer have got be thinking about the geometry and angular momentum.
+While the angular momentum vector of a black hole will likely reflect that of all the matter that fell into it , would the plane of any accretion disk around a black hole reflect the black hole's current equatorial plane, or a plane defined by rotation of whatever material is currently falling in to it?
+Another way to formulate this question might be to propose an incredibly unlikely Gedankenexperiment. If I inserted a black hole into the center of a rotating disk of material so that the black hole's axis was in the plane of the disk of material rather than parallel to its rotational axis, would a well-defined accretion disk form all all, and if so, what would determine the orientation of that plane?

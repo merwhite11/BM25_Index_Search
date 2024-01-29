@@ -1,0 +1,16 @@
+Simulating oceans and ice sheets on other planets or moons?
+
+From my friends in geosciences I learned a lot about General Circulation Models (GCMs) (for Earth's atmosphere and oceans). I also learned about ice sheet models for floating ice (like sea ice or glacier tongues), ice on bedrock, as well as (submarine) permafrost modelling. Then, there are also GCMs amended with all these ice models.
+I am aware that for model calibration purposes, one sometimes runs the latter GCMs on "snowball Earth" with all oceans being initially frozen. But:
+Have GCMs have been applied to other planets or moons with liquid on or underneath its surface yet?
+I consider that rather probable:
+
+I did find the topography of venus, but did anybody run a GCM on that topography with a carbondioxid ocean?
+For Enceladus, I found some publications about the topography but not the dataset itself.
+
+Thinking about adjusting e.g. the MIT GCM to a new planet or moon, the next  challenge would be to adjust the parametrization to non-water ice or to completely different fluent, I guess. Are there other things I am overlooking?
+PS: I am asking in this community as I am hoping that someone might help me out with a general recipe what to take into account when transfering a GCM from Earth to another planet or moon.
+References
+
+Is the water underneath Europa's ice cap potable? talks about the salinity of Jupiter's moon Europa.
+How would water-ammonia oceans behave?

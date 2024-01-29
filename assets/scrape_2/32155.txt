@@ -1,0 +1,8 @@
+Why look at an infrared telescopes's mirror with ultraviolet light? (Herschel Space Observatory)
+
+While link-clicking for Where did Herschel Space Telescope go in 2013? I ran across the 2009 Time Magazine article Two Telescopes to Measure the Big Bang which shows the file photo below with the caption:
+
+Herschel's 3.5-m diameter mirror is checked with ultraviolet light at Europeís Spaceport in Kourou, French Guiana T VALLEE/AFP/Getty
+
+According to Wikipedia's Herschel Space Observatory the telescope covers a wavelength range from far-infrared to sub millimeter waves; 55–672 µm.
+Why then check the mirror's figue with a wavelength 200 times smaller in the ultraviolet? Even visible light would have been more convenient, and there should be several IR bands where coherent sources and imaging detectors work even in the humid French Guiana climate.

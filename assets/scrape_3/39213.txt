@@ -1,0 +1,6 @@
+What can Jupiter's spectrograph tell us other than its rotational velocity?
+
+I have data of a Jupiter's image and the spectra of each pixel in the image, and I am playing around to see what I can do with it.
+I have managed to find Jupiter's rotational velocity by finding the difference between the wavelengths of H-$\alpha$ line of two pixels one at the centre and another at the edge of Jupiter's data cube.
+I have also managed to identify a few spectral emission lines of Jupiter's red spot.
+Is it possible to do something similar and find the orbital velocity, or the distance between Earth and Jupiter?  Or is there anything else that a spectrum of Jupiter can tell us?

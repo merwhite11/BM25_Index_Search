@@ -1,0 +1,8 @@
+DSO carthesian coordinate estimations
+
+I'm more in the CS based stack exchange, but this question prompted me to come in here.
+I've been compiling a large set of ephemerides for solar system, stars with mag > 6.8, exo planets etc, and I am now working on the DSO catalog.
+The app actually holds celestial objects in 3D space, and I made conversions from RA/DEC/dist(parsec) for various objects, but I am having trouble with DSO objects.
+I know of a red shift time base formula, but heard the conversion is not very good. Also, I understand that most estimations cannot be counted as precise, but I would like to have these objects within 3D space.
+Can anyone tell me what features I should look for in a catalog and what formula I can base myself on for this conversion, if any?
+thanks

@@ -1,0 +1,17 @@
+Why did the path of J002E3 pass through almost the same point four times?
+
+In 2002–2003, an object called J002E3 passed close to the earth in a chaotic orbit.
+According to NASA CNEOS (Center for Near Earth Object Studies) the orbit looked like this:
+
+(This is a screenshot of CNEOS's animation, which holds the Earth fixed; full CNEOS J002E3 page.)
+My question is about the point I've circled in orange.  It appears that J002E3 passed four times through almost the same point, relative to the Earth-Moon system.  It's a bit inside the orbit of the Moon.
+There is a similar point on the other side of the Earth-Moon system that was crossed three times.
+My question is: Is this at all surprising?  Is this sort of repeat crossing typical of chaotic orbits?
+Supposing that the apparent coincidence is real, I can think of some possible explanations for it:
+
+It's a lucky fluke.
+J002E3 crossed the Moon's orbit 14 times, and if you distribute 14 points at random onto a circle there will naturally be some clumping and 4 points close together is not too surprising.
+There is something in the physics of orbital mechanics that makes this sort of repeat crossing likely.
+
+or some combination of these.  (Perhaps three of the crossings can be explained by orbital mechanics, but the first crossing, which was in the opposite direction, is a coincidence.)  Or is it something else?
+Also, what question should I have asked about this that I didn't think of?

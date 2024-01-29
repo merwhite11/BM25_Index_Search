@@ -1,0 +1,13 @@
+Computing the Sérsic profile of a galaxy from jpg images
+
+I am trying to calculate the Sérsic profile of various galaxies from the SDSS based on the images provided by the galaxy zoo site. I am doing this as part of a kaggle competition on using machine learning to predict galaxy morphology. I have no chance of a high rank in this competition so I'm not hesitant to ask for help.
+I used the R contourLines function to identify the isophotes of the galaxy and then fit ellipses to each isophote. This seemed to work well, the isophotes are almost always well fit by the ellipses and the ellipses are nearly concentric. Then letting I be the pixel intensity of an isophote and R be the length of the semi-major axis of the corresponding ellipse, I need to fit an equation of the form
+log I(R) = log I_0 - k * R^(1/n)
+
+The simple approach seemed to be to take the log of both sides and use OLS regression, so I fit a linear model in R of the form
+log(log(I)) ~ log(R)
+
+The resulting graphs showed a good fit but the resulting Sérsic indices n are almost always less than one and never as big as two. This doesn't seem right since indices of 4 or higher seem common in my reading. I don't get anywhere near 4 for an image of M87.
+Possibly taking log log flattens things out too much and the index is not responsive enough. I tried using nls to work with just the log but it didn't move the indices much.
+Is there any standard software or algorithm for computing the Sérsic index from an image? Are there reference images I can work from that would let me check if my algorithm is reasonable? Any recommendations on how to proceed would be welcome.
+UPDATE: I have found the programs GALFIT and GIM2D which look like they might be useful. Any other software that is commonly used for this?

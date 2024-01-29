@@ -1,0 +1,139 @@
+JPL Horizons - how to format TLIST input times for Email query?
+
+I am trying to get a list of all of Mercury's Perihelia and Aphelia over a period of multiple decades. For each event I need X,Y,X and Vx,Vy,Vz data.
+Knowing the time of the first event it is easy to obtain approximate times of the subsequent events using the known orbital period.
+I have managed to acquire values using the manual web interface to JPL Horizons.  Working on one event at a time I can get data for an epoch within one minute of each event.  But I want (a) timings to the nearest second and (b) to obtain a whole series of apsides events in one go.
+The JPL Horizons email interface seems to be the way to go. Using this I have been able to obtain data for a particular time range and step interval. But, as with the web interface, it is not possible (in one go) to cover the whole multi-decade period at the desired resolution (1s).
+So now I want to use the TLIST facility to specify a list of individual event times (times at 1s intervals within a range from several seconds before and after the approximate time of each apsides event).
+The documentation - see how to get Horizons email documentation mailed to you - includes this section on TLIST:-
+!TLIST allows users to specify up to 10000 discrete times
+!individually. If TLIST is used, START_TIME, STOP_TIME and
+!STEP_SIZE are ignored. TLIST is a list of either "Julian
+!Day Numbers" (JD) or "Modified Julian Day Numbers"
+!(MJD; days since Nov 17, 1858 (JD 2400000.5)).
+
+!In either case, the input is one or more real numbers.
+!The program puts TLIST in ascending chronological order
+!and determines whether it is JD or MJD based on smallest
+!day number.  Example usage:
+!
+!   TLIST= '2451454.8937833' '2451455.11256351'
+!          '2451456.45576728'
+!          '2451459.65778822'
+!          '2451458.97618331'
+!          '2451459.72787832'
+!          '2451462.25656722'
+!
+!   Note that there can be more than one value on the line
+!   OR one per line. Line length should be less than 80
+!   characters. List is space or comma delimited. "TLIST="
+!   is used only once so it does not supercede any previous
+!   assignment in the command file.
+
+
+ TLIST = 200*' '
+
+But I am having a problem in formatting the TLIST input data in a way that the program will accept.  Every attempt so far has returned an error message of the form "BATVAR: cannot read TLIST value: --F4F5E805D2040CE6C2".
+I have emailed the system manager but have had no response so far.
+Below is a copy of the email text which I have been sending (format = To:   horizons@ssd.jpl.nasa.gov Subject: JOB ****** ).  
+I would be grateful if anyone can suggest what needs to be done with the data format for the TLIST command.
+!$$SOF
+EMAIL_ADDR = '************@gmail.com'
+!...Target= Mercury
+COMMAND= '199'
+!...Reference Site = Centre of Sun
+CENTER= '500@10'
+MAKE_EPHEM= 'YES'
+TABLE_TYPE= 'VECTORS'
+OUT_UNITS= 'KM-S'
+REF_PLANE= 'ECLIPTIC'
+REF_SYSTEM= 'J2000'
+VECT_CORR= 'NONE'
+VEC_LABELS= 'YES'
+VEC_DELTA_T= 'YES'
+CSV_FORMAT= 'YES'
+OBJ_DATA= 'YES'
+VEC_TABLE= '2'
+!
+! The following works OK (but I want to use TLIST)
+!
+!START_TIME= 'JD 2451590.2526841'
+!STOP_TIME= 'JD 2451590.2596841'
+!STEP_SIZE= '1 m'
+!
+!
+! What I desire (but it fails):-
+!
+!TLIST=
+!'2451546.2714931'
+!'2451546.2715046'
+!'2451546.2715162'
+!'2451546.2715278'
+!'2451546.2715393'
+!'2451546.2715509'
+!'2451546.2715625'
+!
+! Test (it failed)
+!
+   TLIST= '2451454.8937833,2451455.11256351,'
+          '2451456.45576728,'
+          '2451459.65778822,'
+          '2451458.97618331,'
+          '2451459.72787832,'
+          '2451462.25656722'
+!
+!
+! The Following Fail:-
+!
+!   TLIST= 'JD 2451454.8937833' 'JD 2451455.11256351'
+!          'JD 2451456.45576728'
+!          'JD 2451459.65778822'
+!          'JD 2451458.97618331'
+!          'JD 2451459.72787832'
+!          'JD 2451462.25656722'
+!
+!   TLIST= '2451454.8937833' '2451455.11256351'
+!          '2451456.45576728'
+!          '2451459.65778822'
+!          '2451458.97618331'
+!          '2451459.72787832'
+!          '2451462.25656722'
+!
+!TLIST= '2451546.27149310' '2451546.27149310'
+! '2451546.27150460'
+!
+!TLIST= '2451546.2714931' '2451546.2714931'
+! '2451546.2715046'
+!
+!TLIST= '
+! 2451546.2714931
+! 2451546.2715046
+! 2451546.2715162'
+!
+!TLIST= '
+! 2451546.2714931,
+! 2451546.2715046,
+! 2451546.2715162'
+!
+!TLIST= ''2451546.2714931', '2451546.2715046', '2451546.2715162''
+!
+!TLIST= '2451546.2714931', '2451546.2715046', '2451546.2715162'
+!
+!TLIST= '2451546.2714931' '2451546.2715046' '2451546.2715162'
+!
+!TLIST= '2451546.2714931 2451546.2715046 2451546.2715162'
+!
+!TLIST='2451546.2714931,2451546.2715046,2451546.2715162'
+!
+!TLIST=200*''
+!
+!TLIST= '2451454.8937833' '2451455.11256351'
+!
+!TLIST= '2451546.2'
+!
+!TLIST='2451546.2714931''2451546.2715046''2451546.2715162'!'2451546.2715278',
+!'2451546.2715393',
+!'2451546.2715509',
+!'2451546.2715625'
+!
+!$$EOF

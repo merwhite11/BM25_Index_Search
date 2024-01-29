@@ -1,0 +1,6 @@
+Why is Venus's atmospheric pressure 75 times that of earth when carbon dioxide is only 1.5 times heavier than air?
+
+Obviously I have forgotten by basic college chemistry. I am getting carbon dioxide at 1.87kg per cubic meter and compared it to nitrogen and oxygen but source says carbon dioxide is 1.5 times heavier than air. Let's go with that and since the earth is about the same size as Venus we should be able to use weight instead of density I assume.
+Venus's surface atmospheric pressure is 75 times that of earth. Some sources say 90. The atmosphere is mostly carbon dioxide. The numbers just seem not to work out here. 90 times is much more than 1 and 1/2 times which is how much heavier CO2 is relative to air.
+P.S.
+Next paragraph is not part of the question but just and interesting observation. If Venus's atmosphere really is 90 times that of earth the hull of a the most advanced nuclear sub would be crushed like a pancake. 90 ATM should be 750 meters and crush depth is 730 meters for nuclear sub. I mention this because it is so interesting Venera survived in order to take the measurements at the surface.

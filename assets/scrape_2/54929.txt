@@ -1,0 +1,7 @@
+calculating mass of galaxy from luminosity
+
+A very elementary question, just to make sure I got this thing right.
+Suppose we are given that the mass to luminosity ratio of a galaxy is $2 \frac{M_{\odot}}{L_{\odot}}$.
+Let us say, that the luminosity of the galaxy = $L = 100\,L_{\odot}/pc^2$.
+Then the mass density of the galaxy  = $\rho = 100 L_{\odot}/pc^2 \times 2 \frac{M_{\odot}}{L_{\odot}} = 200 M_{\odot}/pc^2$.
+Is this the right calculation?

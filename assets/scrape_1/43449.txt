@@ -1,0 +1,40 @@
+Plotting Equatorial coordinates to X,Y plane (simulating telescope/camera view)
+
+I would like to simulate a telescope camera view, projecting (RA, Dec) coordinate sets to a 2D plane. So effectively the need is to convert Equatorial coordinates to (x, y) coordinates, when we can know how many degrees a single pixel spans.
+For convenience I'm using degrees for RA and Dec here, and the code is just pseudocode.
+The following base information is provided as an example:
+Imaging equipment:
+
+Telescope focal length in mm (flen): 420
+Image resolution (widthPx, heightPx): 4000 * 3000
+Pixel size in microns (pxSize): 8
+Binning (bin): 1
+
+So from my understanding we can calculate a few things from this for starters.
+The field of view in degrees should be:
+fovW = radToDeg( 2 * atan((pxSize * bin * widthPx / 1000) / (2 * flen)) )
+fovH = radToDeg( 2 * atan((pxSize * bin * heightPx / 1000) / (2 * flen)) )
+
+And from this we could derive:
+pixelsPerDegWidth = widthPx / fovW;
+pixelsPerDegHeight = heightPx / fovH;
+
+For locations closer to the equator I can get some valid looking results using this formula:
+deltaRa = starRa - imageCenterRa
+deltaRa = deltaRa > 180 ? 360 + deltaRa : deltaRa
+deltaDec = -1 * (starDec - imageCenterDec)
+
+posX = deltaRa * cosdeg(starDec) * pixelsPerDegWidth + 0.5 * widthPx
+posY = deltaDec * pixelsPerDegHeight + 0.5 * heightPx
+
+With some catalog star positions projected using this formula, I can even get Astrometry.net solver to correctly identify the center position.
+However when we move to the poles this comes crashing down.
+So let's go ahead and use a target center point near the pole:
+
+RA 30 degrees (imageCenterRa)
+Dec 89 degrees (imageCenterDec)
+
+Let's also say that we have a hypothetical star at RA, Dec (220, 89.2) - this is close to the pole, and both the star and the pole gets included in the image.
+What kind of formula should we use to get the correct location and to draw the area correctly even in the polar regions?
+I've been looking for an example for a while but haven't come up with any. I've seen some formulas that may be just the thing I'm looking for but my thick skull loves examples - hence why I included some exact numbers here, as I would love to see how this would be calculated in practice.
+So to summarize: how would we calculate the (X, Y) coordinate in the image for the star at RA, Dec (220, 89.2)?

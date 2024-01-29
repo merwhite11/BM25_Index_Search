@@ -1,0 +1,14 @@
+Gravitational waves and gamma ray burst: how were the error bars determined for this speed of gravity calculation? Was $H_0$ used?
+
+This newly updated answer to How precise are the observational measurements for the speed of gravity? and this answer to How is the most accurate value of  measured? cites the November 2017 arXiv preprint Gravitational Waves and Gamma-rays from a Binary Neutron Star Merger: GW170817 and GRB 170817A which says that these measurements:
+
+constrain(s) the difference between the speed of gravity and the speed of light to be between −3×10−15 and +7×10−16 times the speed of light.
+
+What are the major assumptions and other measurements that went into these error bars? Did they use a range of values for the Hubble constant? Was the dispersion of the interstellar medium at optical frequencies included? Were known limits to the variability of fundamental constants also applied or were those assumed to be constant? Anything else?
+We don't often see uncertainties in the 10-15 range in Astronomy! :-)
+
+Potentially related:
+
+Have more recent LIGO/VIRGO gravitational wave measurements narrowed down the speed of gravity further?
+Have there been studies of "old photons" to see just how constant things like Planck constant has been?
+Are photons aged?

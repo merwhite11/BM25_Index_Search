@@ -1,0 +1,6 @@
+What is the characteristic time of the evaporation of the galaxies?
+
+For a star, to leave its galaxy, it requires probably a 3-body near-collision at the edge of the galaxy. It is unlikely, but possible. And, if a star once somehow got the required velocity to escape the galaxy, then it will escape and never comes back.
+Thus, galaxies should have a characteristic time of their evaporation, what could be calculated. I suspect, this time is probably longer, than other related processes (expansion of the Universe, end of the age of the stars, etc), but it exists can it can be probably calculated (most likely, by numeric simulations).
+It probably also depends on the size and star density of the galaxy.
+Was it calculated? How big is it?

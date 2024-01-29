@@ -1,0 +1,3 @@
+spectral index of primordial power spectrum
+
+According to eq (7.62) here, the dimensionless primordial power spectrum takes a power law form: $$\mathcal P(k)=A_s\left(\frac{k}{k_0}\right)^{n_s-1},$$ with $n_s\approx 1$, i.e. $\mathcal P(k)$ is scale invariant. Does this imply a dimensional power spectrum $P(k)=\frac{2\pi^2}{k^3}\mathcal P(k)\propto k^{-3}$? If so, how come other sources, such as eq (18) here, claim that the power spectrum follows Harrison-Zel'dovich form: $P(k)=Ak^n$ with $n=1$?

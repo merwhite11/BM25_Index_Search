@@ -1,0 +1,9 @@
+Finding Latitude and Longitude of a person or of where a picture was taken
+
+this is my first post on the Astronomy stack exchange site. Please let me know how this question is based on y'all's generally accepted criteria for a good question as well as possible improvements.
+In my AP comp sci class we were given pretty much total freedom to come up with a project, I remembered hearing about it being possible to calculate a person's position or the position a picture was taken based on time of day and the position of the Sun, that is, longitudinal and latitudinal position. For the picture, I heard Sun position was determined through some implementation of shadows in the picture. I thought this was cool and decided to look into it. I found an article written by a prominent UCLA physicist and a well-researched Wikipedia page. I understand what the Wikipedia page requires in regards to values for calculations and what the equations calculate, but I do not understand how to implement them to find longitudinal and latitudinal location, nor do I understand why it has rectangular equatorial coordinates as that is not included in the three-step explanation in the Wikipedia page intro at the top.
+For the UCLA report, I understand none of it except for the matrix mathematics and manipulations, and I'm sketchy on those at best, but I do not understand all the coordinate systems that it mentions nor how to implement them to achieve my objective.
+So my question comes down to this: Can anyone clarify the equations, their purpose, their implementation, how to convert an answer to longitude and latitude for either the Wikipedia page or the UCLA report?
+OR
+If you can explain how to find the latitude and longitude of a picture or person. If you choose to explain, I do need equations or an explanation that I can turn into equations.
+Please suggest question revisions and whether this should be posted on a different Stackexchange forum. Thanks.

@@ -1,0 +1,4 @@
+Are gas giants actually rare?
+
+Kepler data suggests that the vast majority of planets are smaller than 4 Earth radii, with larger planets quickly becoming vanishingly scarce. Yet somehow, our own solar system harbours not just one, but two giant planets. This seems suspicious.
+Are giant planets expected to be as rare as the Kepler data suggests? Or is there some bias inherent in the transit method that makes detecting giant planets more difficult? Is it perhaps the long orbital period of a planet that formed outside the frost line that has caused this apparent dearth of giant planets?

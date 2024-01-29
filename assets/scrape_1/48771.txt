@@ -1,0 +1,4 @@
+Could a tidally locked large moon prevent a close-orbiting planet from getting tidally locked to its star?
+
+A planet can get tidally locked to its moon, like Pluto and Charon, or like Earth someday and Luna. A planet can get tidally locked to its sun - close orbiting exoplanets are assumed to be tidally locked to their stars.
+If a close orbiting planet had a substantial moon, could the presence of the moon prevent the planet from becoming tidally locked to its sun? The planet cannot be locked to both. Or does the star win in this contest of who can tidally lock the planet?

@@ -1,0 +1,3 @@
+How to model the kinematics of gases expelled from comets and planetary atmospheres?
+
+Once the ices of comets sublimate, where do they move to, and with which equations do you describe their motion in the interplanetary medium? Similarly, where do the gases that are stripped from the atmospheres of rocky planets go, and how do we model the interaction of these gas molecules? How is the interaction of these gas molecules with solar radiation modeled to predict their motion?

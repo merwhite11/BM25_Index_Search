@@ -1,0 +1,6 @@
+Is there a stellar database that indicates how long ago stars in our Galaxy formed?
+
+There are several ways of determining the age of a star: its position in the HR diagram, the presence of a protoplanetary disk, it belonging to a cluster...
+When did the stars in our Galaxy form? Do we know their age? Does there exists a database of stars for which we know the age, from which this average could be computed ? Is there a histogram of how long ago the stars in our Galaxy formed?
+
+The amount of stars being formed as a function of time is shown for instance in Snaith et al 2014, but this doesn't directly translate into a histogram of the age of the stars currently in our galaxy, since the more massive ones that formed early on are gone.

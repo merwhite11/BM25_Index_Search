@@ -1,0 +1,8 @@
+How to orient ESO's Milky Way Panorama in a 3D model
+
+I have been trying hard to find the star "Polaris" in the following image from ESO and Serge Brunier:
+
+From peering at other maps and simulation apps, I think it should be in the top-left quarter, relatively close to the middle (vertically), however taking the brightest starts one by one, I cannot piece together the other stars belonging to Ursa Minor (small dipper).
+I want to use this image as a background in a 3D model of Earth. The projection is perfect for that purpose, I only need to rotate it in such a way that Polaris lines up with the north pole. Once that is accomplished I can rotate it around the Earth's polar axis to set the right time of day at a certain part of the year (it does not have to be 100% accurate for my purpose, but it should at least look a bit realistic to an astronomer).
+One thing that makes this task quite hard with this high resolution image is that stars seem to pop in and out of existence while zooming in and out, probably due to lossy fast re-sampling algorithms used in my image viewers.
+If someone with a trained eye could point out the Ursa Minor constellation for me it would save me a ton of time!

@@ -1,0 +1,8 @@
+How do stellar magnitude and integrated magnitudes compare, perceptually?
+
+(P.S. this is naked eyed)
+Magnitudes are easily defined for point-like objects i.e. stars. However, for extended objects, the "magnitudes" quoted are actually integrated magnitudes.
+For instance, Wikipedia says that M7 (Ptolemy's cluster) is of visual magnitude 3.3. Does this mean that we perceive M7 as a 3.3 magnitude star? Definitely not.
+More quantitatively, when given integrated magnitudes, are we assuming that the individual elements are not clearly resolvable? (e.g. stars in open/globular cluster; what if they are?)
+How do we know if it is visible? Is there any figure equivalent to the 6th apparent magnitude of the dimmest star observable? It might possibly be calculated from the integrated magnitude.
+Thanks in advance!

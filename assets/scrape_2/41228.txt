@@ -1,0 +1,13 @@
+How do you calculate comoving distance and light's travel distance? According to the formulae below?
+
+According to Wikipedia, Distance measures (cosmology),
+Comoving distance:
+$${\displaystyle d_{C}(z)=d_{H}\int _{0}^{z}{\frac {dz'}{E(z')}}}$$
+Light-travel distance:
+$${\displaystyle d_{T}(z)=d_{H}\int _{0}^{z}{\frac {dz'}{(1+z')E(z')}}}$$
+What is with the 'Hubble distance' ($d_H$) before the integration symbol?  Do you multiply it by the result of integration?
+Also, how do you take the derivative of $z$, $z'$, if $z$ is a constant? $z$ is the (current) redshift for that particular object, right?
+I am confused....
+From 'Distance measures (cosmology)' on Wikipedia:
+
+Is there an example on the web somewhere of these two things, comoving and travel distance, being calculated?  That might help....

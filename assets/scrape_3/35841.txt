@@ -1,0 +1,7 @@
+Brightness, altitude & azimuth for satellites?
+
+I'm using the heavens-above website to identify a satellite I've seen several nights this week.
+The question is related to how I can search the satellites table with the information I can provide.
+The page has a table that has the satellite name, Brightness (mag), and Time, Altitude, and Azimuth for Start , Highest point and End. I don't know how brightness and altitude are measured, and I don't know how the start, highest, and end points are measured. In terms of azimuth, if I base it on this compass, and based on the time I saw it, I would have to say NNE.
+With that said, last night I was sitting looking straight north. I first saw the satellite, literally moving directly over my head, at 7:33pm EST and stopped seeing it at a 7:36PM EST because it was too far. The satellite was going North and just a bit to the East.
+My question: how can I use this information to search for the satellite in the table? Also, how do I know what's the Brightness (mag)? The satellite is so tiny that it's almost impossible to see with the naked eye.

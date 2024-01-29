@@ -1,0 +1,120 @@
+Conversion of 1D plot in 3D plot gives different physics
+
+I am to track the path of a particle due to Lorentz force of the planet magnetic field, assuming there is no gravitational force on it.
+The equation of motion due to Lorentz force in rotating spherical polar coordinates, in three components are :
+Radial components
+$$\frac{d^2 r}{dt^2} = 
+r \left( \frac{d\theta}{dt}\right)^2 +
+r\left(\frac{d\phi}{dt} + \Omega\right)^2 \sin^2 \theta  + \\
++ \beta  r\frac{d\phi}{dt} \sin\theta B_\theta $$  \
+latitudinal/meridional components
+$$
+\frac{d^2 \phi}{dt^2} = 
+\frac{1}{r} \left[-2 \frac{dr}{dt} \frac{d\theta}{dt} -
+r(t) \left(\frac{d\phi}{dt} + \Omega\right)^2 \sin \theta \cos \theta(t)  + \\
++ \beta r \frac{d\phi}{dt} \sin \theta) B_r \right] $$\
+Azimuthal component
+$$
+\frac{d^2 \phi}{dt^2} = 
+\frac{1}{r\sin\theta} \left[-2 \left(\frac{d\phi}{dt} + \Omega\right) (\frac{dr}{dt}\sin\theta + r\frac{d\phi}{dt}\cos\theta)+ \\
++ q \left(r \frac{d\phi}{dt} \sin \theta B_\theta - r\frac{d\phi}{dt} B_r\right)\right] \\\\$$
+$\Omega = 0.0017 \ rad/s, \ \beta= q/m$
+The aim is to learn solving coupled ODES numerically through scipy and plots the path of the particle with time. The solutions for theta (co-latitude angle, in radian),is =  1.57079633 1.57079633 1.57079633 1.57079633 1.57079633 1.57079633...in time. While the radial (r) linearly increases and azimuthal angle linearly decreases This would mean that the particle is moving aways with the same co-latidude, meaning in the same plane. This too can be seen in the 1D graph as shown below:
+However, the 3D plot shows that is is spirally moving upward/downward depending on the nature of the charge of particle. This would mean that the particle in spirally away with increasing latitude/co-latidude. I failed to understand,the difference. Is it somthing to do with the coding or there is something which I dont understand in the interpretation of the solutions ( 2D and 3D plots). Thank you.
+The code is as given below:
+from scipy.integrate import solve_ivp
+import numpy as np
+from math import sin, cos,pi
+ 
+# charge by mass ratio
+r_ho = 1e3               # 1gm/cm^3 Headmen 2021= 10^3 kg/m^3, 
+b = 1e-9                 # 1nm = 1e-3 micro
+V = 10                   # Volt
+e_p = 8.85e-12           # Farad/metre, free space permittivity (ε)
+q_m = (3*e_p*V)/(rho*b**2)                # q/m = -3.46 x 10^3 C/kg        
+
+def odes(t,p):
+## assigning each ODE to a vector element
+    r,x,theta,y,phi,z = p
+
+    # constants
+    m_u = 379312077e8           # m^3/s^2, G= 6.67408e-11m^3/kg*s^2 M = 5.68e26 # m_u =GM 
+    R = 60268e3                 # metre
+    j_2 = 1.629071e-2
+    g_10 = 21141e-9                      #
+    w = 17e-5                   # rad/s = 9.74e-7, angular speed 
+    nu_0 = 4*pi*1e-7            # magnetic permeability
+    B_theta = nu_0*(R/r)**3*g_10*sin(theta)
+    B_r = nu_0*2*(R/r)**3*g_10*cos(theta)
+    q_m = (3*e_p*V)/(rho*b**2)                
+
+  # defining the ODEs
+    drdt = x
+    dxdt = r*(y**2+(z+w)**2*sin(theta)**2-q_m*z*sin(theta)*B_theta)
+    d(theta)dt = y
+    dydt = (-2*x*y + r*(z+w)**2*sin(theta)*cos(theta)+ q_m*r*z*sin(theta)*B_r)/r
+    d(phi)dt = z
+    dzdt = (-2*(z+w)*(x*sin(theta)+r*y*cos(θ)) + q_m*(x*B_theta-r*y*B_r))/(r*sin(theta))
+
+    return np.array([drdt,dxdt,d(theta)dt,dydt,d(phi)dt,dzdt])
+
+## time window
+t_span = (0,86400)
+t = np.linspace(t_span[0],t_span[1],400) 
+    
+#initial conditions
+p0 = np.array([1.11*R,0.0,90.0*(pi/180),0.0*(pi/180), 0.0*(pi/180),0.0206*(pi/180)])
+
+#  Solve IVP
+sol = solve_ivp(odes,t_span ,p0,t_eval= t,method= "DOP853",dense_output=False, vectorised= False, atol=1e-6,rtol=1e-8)
+
+# print('radial =',sol.y[0,:],'theta=', sol.y[2,:],'phi=',sol.y[4,:])
+
+import matplotlib.pyplot as plt
+fig,ax=plt.subplots(2,3,figsize=(12,6),layout='constrained')
+plt.suptitle('Equatorial launch micro sized charged grain',fontsize=13)
+
+plt.subplot(2,3,1)
+plt.plot(sol.t, sol.y[0,:]);plt.grid()
+plt.xlabel('time in sec',)
+plt.ylabel('r in m')
+plt.subplot(2,3,2)
+plt.plot(sol.t, sol.y[1,:]);plt.grid()
+plt.xlabel('time in sec', fontsize=10)
+plt.ylabel('velcoity in m',fontsize=10)
+plt.subplot(2,3,3)
+plt.plot(sol.t, sol.y[2,:]);plt.grid()
+plt.xlabel('time in sec',fontsize=10)
+plt.ylabel('Co-laitude in radian',fontsize=10)
+plt.subplot(2,3,4)
+plt.plot(sol.t, sol.y[3,:]);plt.grid()
+plt.xlabel('time in sec',fontsize=10)
+plt.ylabel('Co-laitude speed in rad/s',fontsize=10)
+plt.subplot(2,3,5)
+plt.plot(sol.t, sol.y[4,:]);plt.grid()
+plt.xlabel('time in sec',fontsize=10)
+plt.ylabel('Azimuthal in radian',fontsize=10)
+
+plt.subplot(2,3,6)
+plt.plot(sol.y[0,:], sol.y[2,:]);plt.grid()
+plt.xlabel('radial',fontsize=10)
+plt.ylabel('theta',fontsize=10)
+plt.tight_layout()
+plt.show()
+
+
+from mpl_toolkits.mplot3d import axes3d
+import matplotlib.pyplot as plt
+from mpl_toolkits import mplot3d
+
+# 3D Cartesian
+fig = plt.figure()
+
+# spherical to cartesian
+x1= sol.y[0,:] * np.sin(sol.y[2,:])* np.cos(sol.y[4,:])
+y1= sol.y[0,:] * np.sin(sol.y[2,:])* np.sin(sol.y[4,:])
+z1= sol.y[0,:] * np.cos(sol.y[2,:])
+
+plt.suptitle('Equatorial launch micro sized charged grain',fontsize=12)
+plt.title('1e-9nm,10V, 1.11R,0.0,90.0,0, 0,0.0206,0',fontsize=10)
+plt.show()

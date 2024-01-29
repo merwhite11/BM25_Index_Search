@@ -1,0 +1,15 @@
+Convert Ecliptic to Galactic Coordinates
+
+How to convert Ecliptic co-ordinates to Galactic? The wikipedia article on Celestial Coordinate systems contains various conversions, but this one is currently absent.
+For a more specific example: I would like to convert Proper motion in ecliptic latitude and longitude from the ATNF catalog into proper motion in galactic coordinates. Using the following notation from the catalog documentation:
+PMElong:     Proper motion in the ecliptic longitude direction (mas/yr) 
+PMElat:      Proper motion in ecliptic latitude (mas/yr) 
+...
+ZZ:          Distance from the Galactic plane, based on Dist
+XX:          X-Distance in X-Y-Z Galactic coordinate system (kpc)
+YY:          Y-Distance in X-Y-Z Galactic coordinate system (kpc)
+
+How would I calculate the following (my own addition) from PMElong & PMElat?
+PMZZ:        Proper motion perpendicular to Galactic plane
+PMXX:        X-direction proper motion in X-Y-Z Galactic coordinate system (kpc/yr)
+PMYY:        Y-direction proper motion in X-Y-Z Galactic coordinate system (kpc/yr)

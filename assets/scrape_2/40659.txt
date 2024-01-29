@@ -1,0 +1,4 @@
+Dataset for machine learning MK stellar classification
+
+I would like to create program for automatic Morgan-Keenan stellar classification using machine learning. For that, I need dataset of stars with known absolute magnitude, temperature and luminosity type (0, Ia, Ib, ..., VII). I found some datasets, (e. g. kaggle.com), however they contain only few hundreds stars and not all star types are represented.
+Is there any large enough dataset (at least 1000 stars) in which all types of stars are represented, from hypergiants to dwarfs, and with all the information mentioned?

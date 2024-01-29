@@ -1,0 +1,15 @@
+Classical Mechanics : Interaction Sun Radiation Pressure - Gravitation
+
+I have a theoretical problem that merges the effects of a gravitational field and the Sun radiation pressure. The problem goes as follows:
+
+A spacecraft orbits the Sun in absence of any other body interaction. The spacecraft surface is not negligible compared to its mass and it
+faces the Sun with the same orientation at all times. Does the
+trajectory satisfy the conditions of a Keplerian motion (i.e. is the
+trajectory a conic section?) Same question when the Sun is not a
+sphere but a flat disc whose axis is pointing always in the direction
+of the spacecraft.
+
+My answer is that in both cases we can consider that the spacecraft will move in a conic section. If you consider that SRP is always acting in the opposite direction of the gravitational pull of the Sun, both forces would form a central vector force field, where the gravitational force would be decreased by the SRP. If the motion described by the S/C only considering gravity is a conic section I do not see any reason why it should be different in that case.
+For the case of the Sun as a flat disc, considering that it would be pointed always to the S/C, the force is again central (although the potential would not be circular).
+I have not found a better explanation for this, although I feel there is some kind of theoretical insight that I might be missing.
+Thanks for the help!

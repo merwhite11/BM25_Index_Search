@@ -1,0 +1,16 @@
+How to understand exactly why gravity darkening happens on rotating stars?
+
+Phys.org's TESS delivers new insights into an ultrahot world links to KELT-9 b's Asymmetric TESS Transit Caused by Rapid Stellar Rotation and Spin–Orbit Misalignment (readable in arXiv)
+The assymetric dip in the light curve comes from a near-polar transit across a rotating, oblate star where the poles are hotter and therefore brighter due to gravity darkening:
+
+KELT-9’s high internal angular momentum ($\nu \sin(i)$ = 111.4 ± 1.3 km/s) flattens it into an oblate spheroid, making the equatorial radius of the star larger than the polar radius. Additionally, the star’s abundant centrifugal force near its equator distorts its hydrostatic equilibrium, causing its effective temperature to vary by nearly a thousand Kelvin over the surface of the star. These two effects of stellar oblateness and varying effective temperature – together commonly referred to as gravity darkening (Barnes 2009) – change the total irradiance on KELT-9 b (Ahlers 2016).
+
+Those links discuss gravity darkening but don't offer a simple explanation.
+Wikipedia's Gravity darkening says:
+
+When a star is oblate, it has a larger radius at its equator than it does at its poles. As a result, the poles have a higher surface gravity, and thus higher temperature and brightness.
+
+Question: Why exactly does the increased surface gravity at some places on a given star lead to a higher temperature at those locations? Is it related to the difference in scale heights? The surface brightness relates to the temperature at the photosphere, is the reason simply that a higher pressure therefore higher temperature is needed to support the same density in a higher gravitational field?
+
+
+Figure 2. (Left) KELT-9 b begins its transit near the star’s hot pole and moves toward the star’s cooler equator. Our transit analysis directly measures the stellar inclination (i★), the planet’s projected alignment (λ), and the orbital inclination (i.e., the impact parameter b). We find that KELT-9 varies in effective temperature by ∼ 800 K between its hot poles and cooler equator. (Right) KELT-9 b’s phase-folded primary transit from TESS. The transit depth steadily decreases throughout the eclipse, indicating that KELT-9 b begins its transit near one of the host star’s hotter poles and moves toward the dimmer stellar equator.

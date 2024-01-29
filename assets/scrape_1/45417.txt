@@ -1,0 +1,39 @@
+What was the day of the week for the total lunar eclipse (saros 61) that occurred on April 14, 32 AD?
+
+I am interested to know if there is convincing "astronomical" evidence/data to pin down the exact day of the week for the total lunar eclipse of April 14, 32 CE. I am hoping that perhaps this particular lunar eclipse's relationship to other eclipses (or with some other known astronomical event) might be of help. (I am using Stellarium software).
+Background - My interest arises from the coincidence of this particular lunar eclipse relative to the Hebrew calendar date of Nisan 14 (the fixed Hebrew date of Passover on the Hebrew calendar). However, after consulting two competing "Hebrew" calendars, there appears to be some discrepancy concerning the day of the week (which is not surprising considering the historical complexities of Julian/Gregorian/Hebrew calendar reconciliation. One calendar places April 14 on a Wednesday while the other calendar source places April 14 on a Monday. Lastly, the Stellarium software has the eclipse occurring on Julian day 1732850 - but I don't know what that means. Can any of you astronomy gurus help me figure this out?
+I am adding the following information as an answer (of sorts). I found the first passage on the Wikipedia page for "Week". All of the information below is triply consistent with the NASA eclipse pages, the contemporary Julian calendar, and with Torahcalendar, so I suspect that April 14, 32 AD is most likely correct as a Monday -
+
+Passage from Wikipedia - "The continuous seven-day cycle of the days of the
+week can be traced back to the reign of Augustus; the first
+identifiable date cited complete with day of the week is 6 February AD
+60, identified as a "Sunday" (as viii idus Februarius dies solis
+"eighth day before the ides of February, day of the Sun") in a
+Pompeiian graffito. According to the (contemporary) Julian calendar, 6
+February 60 was, however, a Wednesday. This is explained by the
+existence of two conventions of naming days of the weeks based on the
+planetary hours system: 6 February was a "Sunday" based on the sunset
+naming convention, and a "Wednesday" based on the sunrise naming
+convention.[36]"
+
+Similarly, I found that the February 6 date mentioned above appears to be again off by two days (this time Wednesday to Friday) when I consulted the Hebcal reference calendar that I used.
+
+Interestingly, I also found that the saros 61 Lunar eclipse of Passover 32 AD is part
+of a "Metonic eclipse series" (five related lunar eclipses - saros 41/51/61/71/and 81) - which occurred between 7 BC and 70 AD. This series of five
+Lunar eclipses each occurred on roughly the same date and are separated by exactly 6940 days between them (each span equaling one 19 year Metonic
+cycle) - four in total spanning one 76 year Callippic cycle. The dates (and corresponding days) are as follows on BOTH the "contemporary Julian Calendar"
+and the Torahcalendar Hebrew calendar - April 14, 7 BC (Tuesday), April 14, 13 AD (Friday),
+April 14, 32 AD (Monday), April 15, 51 AD (Thursday), and April 14, 70
+AD (Saturday). EACH of these April 14 dates fall on the eve of Passover because the 19 year Metonic cycle itself defines the "Luni-solar" aspect of the Hebrew calendar. However, it seems that the final eclipse date in this series of
+eclipses is the beginning date that history records for the "siege of Jerusalem in 70 AD" as well. The Jerusalem siege apparently ended with a sixth penumbral lunar eclipse (saros 48 of the next semester series) on September 13, 70 AD which was followed by a seventh penumbral lunar eclipse (saros 86 - last of the prior semester series) that occurred on October 8, 70 AD. - very interesting supporting information indeed.
+
+Supporting Links:
+https://eclipse.gsfc.nasa.gov/5MCLEmap/-0099-0000/LE-0006-04-14N.gif
+https://eclipse.gsfc.nasa.gov/5MCLEmap/0001-0100/LE0013-04-14P.gif
+https://eclipse.gsfc.nasa.gov/5MCLEmap/0001-0100/LE0032-04-14T.gif
+https://eclipse.gsfc.nasa.gov/5MCLEmap/0001-0100/LE0051-04-15P.gif
+https://eclipse.gsfc.nasa.gov/5MCLEmap/0001-0100/LE0070-04-14N.gif
+https://en.wikipedia.org/wiki/Eclipse_cycle
+https://en.wikipedia.org/wiki/Metonic_cycle
+https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(70_CE)
+https://en.wikipedia.org/wiki/Week#Ancient_Near_East

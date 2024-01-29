@@ -1,0 +1,3 @@
+Instead of using flexible mirrors, could software be used for adaptive optics?
+
+Telescopes that use adaptive optics now use flexible mirrors to adjust for distortions in the atmosphere.  The mirrors are flexed in real time to account for the distortions.  I am wondering if it would be feasible to instead use fixed mirrors and use software to make the needed corrections to the image?

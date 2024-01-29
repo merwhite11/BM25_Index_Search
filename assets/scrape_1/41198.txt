@@ -1,0 +1,20 @@
+What are recent discoveries with Earth-based radar telescopes?
+
+The Wikipedia article on radar astronomy lists a few important discoveries using radar technology in general, i.e. also using space-crafts:
+
+The following is a list of planetary bodies that have been observed by this means:
+
+Mercury - Improved value for the distance from the earth observed (GR test). Rotational period, libration, surface mapping, esp. of polar regions.
+Venus - first radar detection in 1961. Rotation period, gross surface properties. The Magellan mission mapped the entire planet using a radar altimeter.
+Earth - numerous airborne and spacecraft radars have mapped the entire planet [...]
+Mars - Mapping of surface roughness from Arecibo Observatory. The Mars Express mission carries a ground-penetrating radar.
+Jupiter System - Galilean satellites
+Saturn System - Rings and Titan from Arecibo Observatory, mapping of Titan's surface and observations of other moons from the Cassini spacecraft.
+
+
+I am interested in recent discoveries (and scientific references) with Earth-based radar observatories such as the Arecibo Observatory, the Goldstone Deep Space Communications Complex, RT-70, Pluton, Deep Space Network and any other one I missed.
+Here "discovery" is meant in the wider sense, i.e. the gain of scientific knowledge. The discovery of a new object would be such a discovery, but the mapping of a known object would also be a discovery.
+References
+
+What will succeed the Arecibo Observatory?
+How did Arecibo detect methane lakes on Titan, and image Saturn's rings?

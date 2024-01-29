@@ -1,0 +1,10 @@
+False-color wavelength assignments in this "drop-dead gorgeous" image of NGC 2903?
+
+C|Net's Hubble spots drop-dead gorgeous spiral galaxy tucked into Leo links to NASA's Hubble Spots Stunning Spiral Galaxy which shows the image below.
+The caption on the NASA page doesn't mention the color coding, nor does it mention a reference to a technical page for the image's construction or history.
+Question: Is this close to a "straight RGB" image of NGC 2903, or were filters used at certain wavelengths, possibly including IR or UV, in order to highlight certain regions and emissions, then assigned false colors. If the latter, is it a standard color coding?
+The NASA page says: 
+
+NGC 2903 is located about 30 million light-years away in the constellation of Leo (the Lion), and was studied as part of a Hubble survey of the central regions of roughly 145 nearby disk galaxies. This study aimed to help astronomers better understand the relationship between the black holes that lurk at the cores of galaxies like these, and the rugby-ball-shaped bulge of stars, gas and dust at the galaxy’s center — such as that seen in this image. Text credit: ESA (European Space Agency)
+
+Click to view full size!

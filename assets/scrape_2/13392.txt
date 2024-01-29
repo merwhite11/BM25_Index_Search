@@ -1,0 +1,5 @@
+Why is Rosetta's Comet so "warm"?
+
+Rosetta Comet AKA 67P/Churyumov–Gerasimenko has the surface temperature range of -43 to -93 degree Celsius. 
+Now, if we compare that with the Mercury (I chose Mercury cause it's closest to the Sun and has the thinnest atmosphere), the minimum surface temperature is -170 degrees Celsius. A little farther from that, on Earth's Moon, while at night, the temperature can drop up to -233 degree Celsius.
+Rosetta's Comet is farther from the Sun as compared to both objects (Perihelion 1.2432 AU, Aphelion 5.6829 AU); however, a lot warmer. Why is that?

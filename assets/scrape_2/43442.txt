@@ -1,0 +1,5 @@
+Finding Observer Latitude/Longitude - In Simple Terms
+
+I was wondering if someone could explain to me in simple terms how to determine the observer latitude/longitude at a given location. For instance, if an observer is positioned at Cleveland, Ohio, how can I find where the sun and moon is at a certain time of the day?
+I am familiar with latitude and longitude but I always retrieve that from Google. Is this the same as those Geographic coordinates or are the observer values different?
+Thanks ahead of time.

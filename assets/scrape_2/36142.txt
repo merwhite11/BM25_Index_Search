@@ -1,0 +1,5 @@
+Is it possible that some of the confirmed exoplanets are in fact primordial black holes?
+
+Recently astronomers discovered a black hole lying just 1000 light-years from Earth, in a triple star system (HR 6819) that can be seen with the naked eye. This discovery has increased the possibility that there are many more black holes hiding in nearby star systems.
+However, we have not detected any primordial black hole with only planetary mass yet. What if some of the discovered exoplanets are actually the hypothetical primordial black holes?
+A exoplanet detected through the transit method are very unlikely to be black holes due to its extremely small size not possible to produce detectable dimming. But how about the exoplanets detected through radial-velocity method? A primordial black hole with 5 Jupiter mass would have the same effect on the motion of the host star as a exoplanet with 5 Jupiter mass.

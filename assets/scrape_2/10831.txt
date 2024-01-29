@@ -1,0 +1,7 @@
+What is the reason for the dispute over the variation of core mass with heavy metal abundance?
+
+In Metal-Poor Stars IV: The Evolution of Red Giants, Rood writes
+
+The differences in the results of these papers are large enough to introduce appreciable uncertainties into the study of the horizontal branch. For instance, there is still disagreement even as to the sign of the variation of core mass with heavy metal abundance ($dM_c/dZ$).
+
+What is the cause of the dispute?

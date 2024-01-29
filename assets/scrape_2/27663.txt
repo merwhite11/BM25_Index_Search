@@ -1,0 +1,34 @@
+Error when calculating Alt/Az from Ra/Dec
+
+I wrote a program based on this tutorial: http://www.stjarnhimlen.se/comp/ppcomp.html to calculate altitude and azimuth of a celestial object. When I compare the calculated RA/Dec values to the ones from Stellarium, they are very accurate. But when I compare the Alt/Az values to the ones from Stellarium, there is an error of about 2 degrees! I use the following method to calculate Alt, Az:
+GMST0 = Ls + 180_degrees # Ls = Sun's longitude
+GMST = GMST0 + UT
+LST  = GMST + local_longitude
+HA = LST - RA
+
+x = cos(HA) * cos(Decl)
+y = sin(HA) * cos(Decl)
+z = sin(Decl)
+
+xhor = x * sin(lat) - z * cos(lat)
+yhor = y
+zhor = x * cos(lat) + z * sin(lat)
+
+az  = atan2( yhor, xhor ) + 180_degrees
+alt = asin( zhor ) = atan2( zhor, sqrt(xhor*xhor+yhor*yhor) )
+
+Some specific example:
+Test date 15.09.2018, time 15:00 UT
+Planet: Mercury
+Coordinates: +47.55777777° +8.89888888
+What stellarium says:
+RA = 11h 18m 13.26s
+Dec = +6°25'08.5"
+Az = +250°21'13.2"
+Alt = +25°25'00.1"
+What my program says:
+RA = 11h 18m 14s
+Dec = 6° 25' 6.59"
+Az = +248° 49' 6.9"
+Alt = +26° 33' 16.43"
+Thanks in advance!

@@ -1,0 +1,10 @@
+what is the time mentioned after date (1962-07-03+02:00) the +02:00?
+
+i was retrieving a some personalities birthday date through computer programming 
+when i retrieve a person's birthday the result was
+1962-07-03+02:00   [this is tom cuise's birthday for information]
+In the above result i could understand his birthday is on 1962-07-03 , 
+But what is +02:00 , is that the location of birth or GMT ?
+for more information the data is retrieved from the URL
+http://dbpedia.org/page/Tom_Cruise
+sorry to ask this question here , I asked this question because it deals with time and i believe astronomers can help with this

@@ -1,0 +1,19 @@
+absolute magnitude of an asteroid
+
+I've done some research and found that one could derive the absolute magnitude $H$ of an asteroid in the following way. $H$ is the brightness of the asteroid, observed on Earth, if the asteroid were at a distance of 1 AU from the Sun and 1 AU from the Earth, while the phase angle (angle subtended at the asteroid by the vectors/lines joining Sun-asteroid and Earth-asteroid) would be $0°$, which is a hypothetical scenario in itself, as this orbital configuration is never achieved in the reality (at least in the currently known 3D world).
+My understanding is based on this answer, which cites Pravec & Harris 2007, where they define $H$ in the appendix A as follows (note that obj is referred to the asteroid).
+
+The absolute magnitude, H , of a Solar System object is defined as
+the apparent magnitude of the object illuminated by the solar light
+flux at 1 AU and observed from the distance of 1 AU and at zero phase
+angle. From that, we get
+$$H  = V_{sun} -2.5   \log  \frac{F_{obj}(0,1 AU)}{F_{0}} $$
+where, 
+$V_{sun}$ - apparent magnitude of Sun, which is −26.762 ± 0.017 as they report citing Campins et al. (1985). 
+$F_{obj}(0, 1AU)$ - the light flux from the object at zero phase angle.
+$F_{0}$ - incident light flux.
+
+Then they replace $\frac{F_{obj}(0,1 AU)}{F_{0}}$ by an expression they derive for the geometric albedo and put forth the relation between the absolute magnitude, geometric albedo and the diameter of an asteroid. I'm able to follow the derivation they have for the geometric albedo (equations A.1, A.2 and A.3 in the aforementioned paper).
+What I don't understand is why $V_{sun}$ appear in this expression. Nor do I understand the role of $F_{0}$ in the equation. My line of logic is that the luminosity of the Sun needs to get scaled to the 1 AU using the inverse square law and it should be already embedded in the expression $F_{obj}(0, 1AU)$, without having to put it separately as $V_{sun}$. But obviously I'm missing something here. Any help will be much appreciated.
+On the contrary I find it much easier to grasp the idea of stellar absolute magnitude $M$, where the luminosity of the star gets scaled to the 10 parsec distance using the inverse square law.
+Thank you !

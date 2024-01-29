@@ -1,0 +1,4 @@
+How would a retrograde satellite experiencing tidal deceleration affect the rotation of the primary?
+
+There are two common scenarios like this one, where an orbiting body orbits its primary slower than the primary rotates, resulting in the orbiting body moving away and the primary experiencing a slowdown in rotation. Whereas in the opposite, an orbiting body that orbits faster than the primary's rotation spirals in while the primary's rotation spins faster.
+I know that a retrograde satellite will experience tidal deceleration and spiral in toward its primary body, but how will it affect the rotation of the primary?

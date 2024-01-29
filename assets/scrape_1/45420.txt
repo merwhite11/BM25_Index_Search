@@ -1,0 +1,3 @@
+Does the average proton/electron density in a neutron star change with mass?
+
+My understanding is that although electron degeneracy prevents beta decay, there are still a few protons and electrons hanging around. I also understand that, at least in white dwarfs, as the mass increases, more electrons are forced into higher energy/momentum states. Does this carry over to neutron stars, and if so, does it affect the density of protons and electrons?

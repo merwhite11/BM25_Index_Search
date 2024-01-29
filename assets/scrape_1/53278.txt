@@ -1,0 +1,3 @@
+Spacetimes where symmetries vary from place to place?
+
+Are there spacetimes or metrics where symmetries (like Poincaré, Lorentz, diffeomorphism, translational... invariances) are only local and the symmetries of one local neighbourhood are not, a priori, the same for another, even close to it? I mean spacetimes with "local neighbourhoods" which are not diffeomorphic to each other in some way?

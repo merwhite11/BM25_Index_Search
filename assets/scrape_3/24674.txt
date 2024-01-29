@@ -1,0 +1,17 @@
+Declination calculation
+
+My task is to calculate current declination and right ascension for some artificial Earth satellite. For example ISS. 
+I am using latest TLE data for extracting keplerian orbital elements and then calculate current cartesian orbital state vectors in ECI frame. 
+From the position vector I directly calculate declination and right ascension, using cartesian to spherical coordinates conversion.
+Right ascension gets calculated correctly but I am having problems getting the same result for declination as the one displayed by satellite trackers.
+Speaking of satellite trackers, I don't understand how is their declination value even correct.
+Declination is an angle measured north or south of the celestial equator.
+
+Celestial equator of course is on the same plane as the equator of Earth.
+Then how is it possible that, when a satellite (ISS in this example) is almost directly above Earth's equator, satellite trackers calculate declination to be around -29° ?
+
+
+
+Shouldn't the declination angle be zero? 
+My calculations for this "ISS above equator" example did give declination to be close to 0°.
+Who is doing the calculations wrong and why?

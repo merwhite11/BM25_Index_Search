@@ -1,0 +1,19 @@
+Sorting out Julian Day, Julian Date, Julian Day number, Julian Day Calendar, and Julian Day Table
+
+In this answer I mention day number which is 1 on the first day of each calendar year (January 1) and increments to 365 or 366 on December 31 of that year.
+There was an edit proposed, which included a sentence explaining that this could be called the Julian Day. I left a message (elsewhere) to the author of the edit I rejected saying:
+
+Hi, I rejected your edit on this answer because Julian day is not correct. JD is monotonic and is currently 2,458,643.06
+
+to which the author replied
+
+@uhoh many thanks for the comment! However, there is such a thing as Julian Day of the year. See this NASA web page: https://landweb.modaps.eosdis.nasa.gov/browse/calendar.html
+
+Looking further I saw several similar pages: 1, 2, 3, 4, 5 Some are called Julian Day Calendar and the rest are called Julian Day Table, but each is a table of what I have defined as day numbers, 1 on January 1, and 365 or 366 on December 31.
+Could someone help me sort out all of the possible, acceptable terms for the following numbers corresponding to yesterday which include some form of Julian:
+Please be generous; include usages that are less common or have fallen out of use but still have some historical use.
+
+2,458,643 (integer)
+2,458,643.06  (float)
+160  (day number for June 8 on non-leap years)
+June 8, 2019

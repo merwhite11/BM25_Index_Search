@@ -1,0 +1,4 @@
+What's the most distant radio message we could detect with today's radio telescopes, if the message is initially broadcasted in all directions?
+
+An additional assumption is that broadcasting the message may require using a medium-sized star, like the Sun, for an hour, by e.g. Dysoning it.
+I don't know enough to answer the question myself. If the question needs more details filled in to be well-formed, you can make additional assumptions.

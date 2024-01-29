@@ -1,0 +1,26 @@
+Protoplanetary disk luminosity - looking for a sanity check please
+
+I've been told to "consider an Earth-mass of interplanetary grains (roughly spherical with a radius of a few microns) in a protoplanetary disk. Let the particles be in a torus with a cross-section of the Hill radius of the Earth, at a distance of $1 \text{ AU}$ from a $1M_\odot$ protostar."
+With this in mind, I must estimate the thermal velocity and mean time between collisions for the grains, and then compute the luminosity of the protoplanetary disk (ignoring any self-shadowing).
+I'm content with my answer for thermal velocity & mean collision time, but the luminosity I get is:
+$L_\text{disk} = 1.36 \times 10^{29} \text{ W} \approx 350 ~L_\odot$.
+Now, given the dramatic size difference, I expected the disk to be more luminous than the Sun, but this struck me as excessive. I'm hoping someone could please let me know if my methods are sound.
+(Obviously I am not asking anyone to do my homework for me, but rather to see if any assumption I've made stands out as utterly ridiculous or something along those lines. I've included my calculations to better demonstrate my thought process.)
+My strategy was to consider the grains as collection of blackbody radiators and sum up their individual luminosities to obtain the disk's luminosity. I can estimate the equilibrium temperature of a grain using an assumed value for its albedo, which I can then use to calculate the re-radiated luminosity of each individual grain. I know the mass of the grains from their size and assumed density. I know the overall mass of the disk, so I can readily obtain the number of grains by dividing it by the grain mass. Multiplying the number of grains by their individual luminosity thus gives me the overall luminosity, since I'm told I can ignore self-shadowing.
+My assumptions/simplifications:
+
+the grains are spherical and of radius $r_g = 5 \mu\text{m}$
+the grains are composed of 'earthium' and therefore have the modern Earth's bulk density $\rho_g = \rho_\oplus = 5500 \text{ kg/m}^3$
+the grains have a uniform temperature $T_g$, which is to say that I'm ignoring the effect of the range of orbital radii $(1 \text{ AU } \pm R_\text{Hill})$ on the grain temperature (which is $\sim \pm 1\text{ K}$ from the central value).
+the grains have modern Earth's albedo $A = 0.39 \leftarrow$ (probably the iffiest assumption, but I need an albedo and I had to start somewhere)
+the star is the modern Sun with $L = L_\odot$
+
+Number of grains:
+$ N_g = \frac{M_\text{disk}}{m_g} = \frac{1 M_\oplus}{\rho_g \frac{4}{3}\pi r_g^3} = \frac{(5.97 \times 10^{24}\text{ kg})}{\frac{4}{3}\pi(5500 \text{ kg/m}^3)(5.0 \times 10^{-6} \text{ m})^3} \implies N_g = 2.08 \times 10^{36} $
+Grain temperature:
+$ T_g = \left[\frac{L_\odot (1-A)}{16 \pi \sigma R_\text{orb}^2} \right]^{1/4} = \left[\frac{(3.83 \times 10^{26} \text{ W}) (1-0.39)}{16 \pi (5.67 \times 10^{-8} \text{ W/m}^2\text{K}^4) (1.50 \times 10^{11} \text{ m})^2} \right]^{1/4} \implies T_g = 246 \text{ K} $
+Grain luminosity:
+$ L_g = 4 \pi \sigma r_g^2 T_g^4 = 4 \pi (5.67 \times 10^{-8} \text{ W/m}^2\text{K}^4) (5.0 \times 10^{-6} \text{ m})^2 (246 \text{ K})^4 \implies L_g = 6.54 \times 10^{-8} \text{ W} $
+Protoplanetary disk luminosity:
+$ L_\text{disk} = N_g \cdot L_g = (2.08 \times 10^{36})(6.54 \times 10^{-8} \text{ W}) \implies \boxed{L_\text{disk} = 1.36 \times 10^{29} \text{ W}} $
+If you've made it this far, thank you for your patience! I hope I've been sufficiently clear in my explanation; please let me know if I need to provide more information.

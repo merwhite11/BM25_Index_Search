@@ -1,0 +1,8 @@
+Finding the temperature of Earth from temperature of Mars and its distance from Sun
+
+I am to compute the temperature of planet--in fact I've already found out it's Earth--knowing only: 
+
+the surface temperature of Mars (210 K) and its distance from Sun (1.524 AU)
+and of course distance of Earth from Sun (1 AU). 
+
+I have no data concerning the temperature of Sun, surfaces of the planet, etc. What formula should I use? Thank you.

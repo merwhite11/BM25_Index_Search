@@ -1,0 +1,18 @@
+Betelgeuse problem
+
+I've been given this problem:
+(a) A telescope is required to image an area of the sky of angular size 1 arc second onto a 10 mm square CCD. What focal length must the telescope mirror have to fully utilize the CCD area?
+With this part, I had no problem. I used the formula $ h= f_0.\alpha$ with $\alpha=1$ arc seconds converted into radians, so around $4.84×10^{-8} $ radians, and with $h=0.01$ meters. I obtained the value $2062.65$ meters for the focal length.
+(b) Between October 2019 and January 2020, the star Betelgeuse was observed to get significantly fainter, with its apparent magnitude in the visible
+band changing from 0.5 to 1.5. Betelgeuse was observed at its brightest and
+faintest using a telescope with a CCD detector on the focal plane. Both observations were carried out using identical hardware and the same observation
+time.
+Find 
+(i) the factor by which the brightness of Betelgeuse changed between
+the two observations,
+From Pogson's equation and the definition of apparent magnitude I was able to determine the factor to be around $2.512$.
+(ii) the factor by which the signal-to-noise ratio changed,
+(iii) how much longer the second observation time would need to be to
+maintain the same signal to noise ratio as the first. You may assume that
+Poisson statistics apply and that there are no other significant sources of noise.
+However, on parts ii) and iii) I'm completely stuck. Can I assume that the optical band is centered at $\lambda=500$ nm? Or how could I approach these problems?

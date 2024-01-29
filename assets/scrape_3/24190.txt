@@ -1,0 +1,6 @@
+Telescope light gathering power and resolution
+
+I'm a little confused. Could you help me?
+The question is: if we increase the radius of a telescope twice, how much does the light gathering power change? What about resolution?
+Does it increase 22-fold?
+For second part, I know as the diameter of the telescope's objective increases, the resolving power increases.

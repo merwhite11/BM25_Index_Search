@@ -1,0 +1,4 @@
+Strip Brightness in a Spherical System
+
+My question concerns the following problem, published in Galactic Dynamics by Binney and Tremaine and based on a work by Schwarzschild.
+Specifically, I am having difficulties in deriving the given result in part (c), which I suppose is due to the confusion surrounding the definition of strip brightness. Could someone please explain, with the aid of a diagram if possible, how $x$ is related to the projection, $R$, of the  radius $r$ onto the plane of the sky? I am having trouble visualising what $x$ is measuring here.

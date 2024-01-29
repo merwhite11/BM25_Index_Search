@@ -1,0 +1,20 @@
+How does an accreting black hole acquire magnetic fields?
+
+There is actually a similar question on this site: Can magnetism escape a black hole?, however the answers do not focus on accretion, which is my main concern, so I start a new one.
+In Kip Thorne's book Black Holes and Time Warps: Einstein's Outrageous Legacy, there is a paragraph in Chapter 9, describing how the central black hole of a quasar (or radio galaxy) acquires a magnetic field through accretion:
+
+Where do these magnetic field lines come from? From the disk itself.
+  All gas in the Universe is magnetized, at least a little bit, and the [accretion] disk's gas is no exception. As, bit by bit, the disk's gas accretes into the hole,
+  it carries its magnetic field lines with it. Upon nearing the hole, each
+  bit of gas slides down its magnetic field lines and through the horizon,
+  leaving the field lines behind, sticking out of the horizon and threading
+  it [...]. These threading field lines, firmly
+  confined by the surrounding disk, should then extract the hole's
+  rotational energy by the Blandford—Znajek process.
+
+Unfortunately this description does not seem clear to me (although Thorne generally is excellent in explaining things throughout the book). To be specific, I cannot get a picture of the gas "sliding down" its magnetic field lines through the event horizon, while making the magnetic field "stick out" of the horizon at the same time. And here Thorne did not seem to point to any original research papers for further study.
+So, my questions are:
+(1) Do today's astronomers still believe that disk accretion is the main process by which supermassive black holes acquire a magnetic field?
+(2) If the answer to (1) is "yes", then how can I build the picture (if there is such a picture) that Thorne is trying to convey in his paragraph?
+(3) Is there any research paper that addresses this problem to some detail?
+Any help is appreciated!

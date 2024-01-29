@@ -1,0 +1,3 @@
+Are there any reliable optical measurements of the radius of a neutron star?
+
+I know that there is plenty of theory to predict the size of a neutron star:  my question is whether or not there are any reliable size estimates based on observation. Please note that, to be reliable, such an observation would need to have also a good estimate for the neutron star's distance from us, which must necessarily be reckoned from some independent source, i.e., it must not be reckoned from the apparent size of the object, or from theory, otherwise one is guilty of circular reasoning!

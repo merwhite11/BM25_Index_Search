@@ -1,0 +1,16 @@
+Why does a mirror bent 'like a potato chip' allow space telescopes to be smaller and have a wider field of view?
+
+I was browsing NASA featured items and came across this - Out With the Old, In With the New: Telescope Mirrors Get New Shape
+
+Called freeform optics, this emerging mirror technology, brought about
+  by advances in computer-controlled fabrication and testing, has
+  triggered a sea change in optical engineering... the technology holds
+  great promise for scientists who want to develop compact telescopes
+  for CubeSat and other small satellites — an increasingly popular and
+  cost-effective alternative to more traditional missions that are more
+  expensive to build and launch.
+
+Telescopes for cubesats?!
+The article had this illustration, and I'm trying to figure out how that is converted into a clear image without distortions, and why they say it allows the telescope to be much more compact. 
+
+It was a short article that didn't even try to explain this, and when I went looking for other articles on the topic for non-experts I found zip. Perhaps this is very challenging to explain, but I thought I'd ask anyhow. I told an enthusiastic youth just a few weeks ago that it wasn't possible to launch a telescope capable of anything useful on a cubesat. Oops...

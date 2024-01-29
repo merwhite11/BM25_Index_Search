@@ -1,0 +1,10 @@
+How do we know that 2MASS J0523-1403 is a red dwarf?
+
+I was reading about red dwarfs, and stumbled upon this article about the least massive red dwarf, and noticed several peculiarities:
+
+The spectral type is L2.5
+The luminosity class is V
+The mass is 67.54±12.79 Jupiter masses, or 0.0644±0.0122 solar masses.
+
+The first bullet point states that the spectral type is L, a brown dwarf class. Sure, some red dwarfs have spectral type L0-L2, but L2.5 seems a bit too much. Also, the luminosity class is V (main sequence dwarf), not VI or sd (subdwarf). The mass is also way below the red dwarf limit (~85 Jupiter masses). Even if the uncertainty was at its maximum, the mass would fall short by about 3 Jupiter masses.
+So, how do we determine/prove that a potential red/brown dwarf is truly a red or brown dwarf? Also, has this 2MASS object been proved to be one or the other?

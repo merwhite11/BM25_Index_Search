@@ -1,0 +1,5 @@
+Why we can approximate the mass of spiral galaxy like this?
+
+This is a question from Galaxies in the Universe: An Introduction(2nd edition),Linda S.Sparke&John S. Gallagher III. As shown in the picture
+My question is why we can neglect the bulge of spiral galaxy and approximate the mass as $\mathcal{M} \propto V_{\max }^{2} h_{R}$
+The equation 3.20 mentioned in this question is:$\frac{V^{2}(r)}{r}=-F_{\mathrm{r}}(r)=\frac{G \mathcal{M}(<r)}{r^{2}}$

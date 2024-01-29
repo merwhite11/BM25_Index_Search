@@ -1,0 +1,5 @@
+How to calculate the temperature of an exoplanet?
+
+I was given an exoplanet similar in size and distance to host star to our own earth. It's orbiting a star with luminosity six times our sun, the greenhouse coefficient 0.3, bond albedo 0.3.
+I would like to calculate the approximate surface temperature (i.e. close enough to know whether it is in habitable range).
+Disclaimer: This question was on a past exam and we never got our test back.

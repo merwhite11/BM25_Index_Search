@@ -1,0 +1,8 @@
+Optical Observation Calls: How and Where to apply for optical observations?
+
+How and Where to apply for optical observations to support a research project?
+I'm involved with research in multifrequency astrophysics and my next project will demand optical (spectroscopy) observations to measure the redshift of a sample with tens of AGNs. The estimated redshift for the sources are in z-bins 3-4, 4-5, but also z~5-6 objects are expected.
+Which facilities can accept observation proposals of this kind?
+I tried to contact the Large Binocular Telescope (LBT), but they told me only members affiliated to US, Italy, and Germany institutions can participate in the observation calls; That is not my case. I tried to search for information on the European South Observatory (ESO) webpage, but it is still not clear to me ESO has open calls where I could submit an observation proposal.
+In addition, I found about the OPTICON call for TransNational Access. This could be an option, but I am still not sure if I am eligible to apply there.
+If you have any experience or information about Optical Observation Calls, please just leave a comment. Thanks!

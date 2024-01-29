@@ -1,0 +1,17 @@
+What determines if a comet's debris will produce periodic meteor showers?
+
+Background
+I was wondering if the debris from the comet NEOWISE that recently passed Earth would provide meteor showers in the future.
+I looked up that the Perseid meteor showers happen when the Earth passes through the debris left behind by comet Swift-Tuttle which has a nucleus diameter of 26 km. In comparison, the comet NEOWISE has a nucleus diameter of 5 km. I am guessing this means it is too small to have a debris trail that produces periodic meteor showers? I was not able to find data about the length of these comets' tails.
+The Question
+What determines if the debris from a comet will produce periodic meteor showers in the sky?
+After thinking about it a bit myself it seems like these variables should be important:
+
+Diameter of the comet
+Length of tail when comet reaches Earth's orbit (which probably depends on comet size and composition)
+Orbit of comet and its relation to Earth's orbit
+Orientation of comet / comet's tail in relation to Earth when it crosses the Earth's orbit
+Whether or not tail extends to Earth as the comet moves farther away from Sun
+Whether or not the debris persists after the comet has left
+
+I was hoping someone could provide more insight into what determines if periodic showers will be produced by a comet. Specifically, what variables are involved (comet size, length of tail, comet's orbit in relation to Earth's orbit, etc.). I'm particularly interested in what determines the length of a comet's tail as well as whether a debris trail persists long after the comet has left.

@@ -1,0 +1,47 @@
+How to calculate the maximum and minimum solar azimuth at a given location?
+
+Every Azimuth equation I have been able to locate so far depends on inputting a time, and I do not want to have to brute force the solution by simply trying all of the times. (See below for standard equations.)
+My use case doesn't require great precision, within a few degrees is fine. So, ideally I'm looking for equation(s) that take only latitude (and possibly longitude?) as input and output max and/or min azimuth angles for that location.  Also, I'm only going to care about years within a century of now so I don't believe that the year to year variation will matter given my precision requirements, but if I'm wrong I'm happy to provide the current year as well.
+Standard Solar Equations Based on NOAA's Solar Calculator
+Note: The sunrise and sunset results are theoretically accurate to within a minute
+ for locations between +/- 72° latitude, and within 10 minutes outside of those latitudes.  
+ However, due to variations in atmospheric composition, temperature, pressure and conditions, 
+ observed values may vary from calculations.
+...
+Please note that calculations in the spreadsheets are only valid for dates between 1901 and 2099, 
+ due to an approximation used in the Julian Day calculation." 
+
+$\Xi = $Latitude (+ to N)
+$\Phi = $Longitude (+ to E)
+$\omega = $Time Zone (+ to E)
+$d = $Date
+$\tau = $Time (hrs past local midnight)
+$\upsilon = $Julian Day = $d + 2415018.5 + \tau - \frac{\omega}{24}$
+$\sigma = $Julian Century = $\frac{\upsilon - 2451545}{36525}$
+$\rho = $Geom Mean Long Sun (deg) = $\left(280.46646 + \sigma
+\left(36000.76983 + 0.0003032\sigma\right)\right) \bmod 360$
+$\xi = $Geom Mean Anom Sun (deg) = $357.52911 + \sigma\left(35999.05029 - 0.0001537\sigma\right)$
+$\mu = $Eccent Earth Orbit = $0.016708634 - \sigma\left(0.000042037 + 0.0000001267\sigma\right)$
+$\lambda = $Sun Eq of Ctr = $\sin\left(\xi^{rad}\right)\left(1.914602 - \sigma\left(0.004817+0.000014\sigma\right)\right) + \sin\left(2\xi^{rad}\right)\left(0.019993 - 0.000101\sigma\right) + 0.000289\sin\left(3\xi^{rad}\right)$
+$\kappa = $Sun True Long (deg) = $\rho + \lambda$
+$\iota = $Sun True Anom (deg) = $\xi + \lambda$
+$\theta = $Sun Rad Vector (AUs) = $\frac{1.000001018\left(1 - \mu^2\right)}{1 + \mu\cos\left(\iota^{rad}\right)}$
+$\eta = $Sun App Long (deg) = $\kappa - 0.00569 - 0.00478\sin\left(\left(125.04-1934.136\sigma\right)^{rad}\right)$
+$\zeta = $Mean Obliq Ecliptic (deg) = $23 + \frac{26 + \frac{21.448 - \sigma\left(46.815+\sigma\left(0.00059 - \sigma0.001813\right)\right)}{60}}{60}$
+$\epsilon = $Obliq Corr (deg) = $\zeta + 0.00256\cos\left(\left(125.04-1934.136\sigma\right)^{rad}\right)$
+$\delta = $Sun Declin (deg) = $\left(\arcsin\left(\sin\left(\epsilon^{rad}\right)\sin\left(\eta^{rad}\right)\right)\right)^o$
+$y = $var y = $\tan\left(\left(\frac{\epsilon}{2}\right)^{rad}\right)^2$
+$\Gamma = $Eq of Time (minutes) = $4\left(y\sin\left(2\rho^{rad}\right)-2\mu\sin\left(\xi^{rad}\right)+4\mu y\sin\left(\xi^{rad}\right)\cos\left(2\rho^{rad}\right)-0.5y^2\sin\left(4\rho^{rad}\right)-1.25\mu^2\sin\left(2\xi^{rad}\right)\right)^o$
+$\gamma = $True Solar Time (min) = $\left(1440\tau + \Gamma + 4\Phi - 60\omega\right) \bmod 1440$
+$\beta = $Hour Angle (deg) = $if\left(\frac{\gamma}{4}<0\right) \{\\
+\frac{\gamma}{4}+180\\
+\} else \{\\
+\frac{\gamma}{4}-180\\
+\}$
+$\Omega = $Solar Zenith Angle (deg) = $\left(\arccos\left(\sin\left(\Xi^{rad}\right)\sin\left(\delta^{rad}\right)+\cos\left(\Xi^{rad}\right)\cos\left(\delta^{rad}\right)\cos\left(\beta^{rad}\right)\right)\right)^o$
+$\alpha = $Solar Azimuth Angle (deg cw from N) = 
+$if\left(\beta>0\right) \{\\
+\left(\arccos\left(\frac{\sin\left(\Xi^{rad}\right)\cos\left(\Omega^{rad}\right)-\sin\left(\delta^{rad}\right)}{\cos\left(\Xi^{rad}\right)\sin\left(\Omega^{rad}\right)}\right)^o+180\right) \bmod 360\\
+\} else \{\\
+\left(540-\arccos\left(\frac{\sin\left(\Xi^{rad}\right)\cos\left(\Omega^{rad}\right)-\sin\left(\delta^{rad}\right)}{\cos\left(\Xi^{rad}\right)\sin\left(\Omega^{rad}\right)}\right)^o\right) \bmod 360\\
+\}$

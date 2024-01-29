@@ -1,0 +1,10 @@
+Why do planets in red dwarf star systems tend to have a higher probability to get tidally locked?
+
+I have read about about the habitability of red dwarf systems on  Wikipedia, as well as some web articles on similar topics. The problem is, it does not explain why and how it happened. Google search comes up inconclusive. Since then, it became a riddle for me.
+We all know that higher mass supergiant stars have stronger gravity than lower mass dwarf stars. Therefore, I can assume that stronger gravity results in stronger tidal forces as well. So, I can conclude: 
+High mass star systems should have a higher tidal lock probability than lower mass dwarf systems, right? 
+From that assumption that contradicts the reality, here comes another question:
+Does it mean that the tidal lock probability has more to do with the size of the planet relative to the host star size than its mass or gravitational forces? 
+But here is my other assumption:
+Probably a more concentrated (almost point source) of gravity from smaller red dwarf stars locks planets more effectively than a broad giant star.
+(It is kind of analogous to a small speaker magnet that has stronger magnetic field compared to the Earth's magnetic field when measured).

@@ -1,0 +1,7 @@
+For what parameter does the abbreviation MA stand for?
+
+In the sentence:
+"We added a Keplerian model with P = 120.713 days, m = 14.629M⊕, e = 0.0448, ω = 251.36°, and MA=216.88° plus Gaussian noise with rms=5.9696 ms-1."
+
+P is the orbital period, e the eccentricity,... But what is MA? I'm guessing its the mean anomaly, but the mean anomaly is a time-dependent variable which (for my understanding) does not make sense in this context...
+Quote is from https://iopscience.iop.org/article/10.1088/0004-637X/719/1/890 (page 24).

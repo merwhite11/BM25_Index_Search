@@ -1,0 +1,7 @@
+gravitational energy and internal energy
+
+So assume we have a planet of temperature T, and mass M, We can calculate it's internal energy/heat content by the formula $U=cMT$ where $c$ is the specific heat.
+And if we also know the gravitational energy of the planet via $\frac{GM^2}{R}$  
+how do I approach the following question?
+Can the release of gravitational energy during planet formation in principle (is there enough) explain this much heat
+Any help would be appreciated.

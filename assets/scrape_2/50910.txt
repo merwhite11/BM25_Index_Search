@@ -1,0 +1,4 @@
+What do negative values on bright sources in TIRSPEC mean?
+
+I opened a FITs image data from TIRSPEC (NIR imaging) (an HgCdTe infrared imaging sensor) on DS9 and I saw that some of the bright stars have black patches at the center (negative values).
+Can you please explain what this means?

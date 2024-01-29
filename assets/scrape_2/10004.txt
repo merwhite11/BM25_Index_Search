@@ -1,0 +1,8 @@
+When will a day on Earth & Mars be the same length?
+
+I read on Wikipedia that:
+
+As on Earth, the period of rotation of Mars (the length of its day) is slowing down. However, this effect is three orders of magnitude smaller than on Earth because the gravitational effect of Phobos is negligible and the effect is mainly due to the Sun.[19] On Earth, the gravitational influence of the Moon has a much greater effect. Eventually, in the far future, the length of a day on Earth will equal and then exceed the length of a day on Mars.
+
+So, how far into the future exactly will it be when the length of a day on Earth and Mars will be equal? Also, for how long will their day lengths be within say, one second of each other?
+By "day", I mean the Mean Solar Day.

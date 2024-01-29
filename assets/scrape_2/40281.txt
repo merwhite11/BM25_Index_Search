@@ -1,0 +1,18 @@
+Why is the Sun less massive than other G2V stars?
+
+The Wikipedia page for G-type main-sequence stars lists the expected mass and temperature for stars of each sub-classification:
+$$\begin{array}{c|c|c|} 
+ & \text{Mass ($M_\odot$) } & \text{Temperature (K)} \\ \hline
+\text{G0V} & 1.15 & 5980 \\ \hline
+\text{G1V} & 1.10 & 5900 \\ \hline
+\text{G2V} & 1.07 & 5800 \\ \hline
+\text{G3V} & 1.04 & 5710 \\ \hline
+\text{G4V} & 1.00 & 5690 \\ \hline
+\text{G5V} & 0.98 & 5620 \\ \hline
+\text{G6V} & 0.93 & 5570 \\ \hline
+\text{G7V} & 0.90 & 5500 \\ \hline
+\text{G8V} & 0.87 & 5450 \\ \hline
+\text{G9V} & 0.84 & 5370 \\ \hline
+\end{array}$$
+Spectral type is only determined through a star's temperature, and thus the Sun with a temperature of $\text{5778 K}$ is unambiguously a G2V star.
+However the Sun is noticeably less massive than other G2V stars are. Why is that? Or, another way of asking, why is the Sun hotter than other stars of the same mass (G4V)?

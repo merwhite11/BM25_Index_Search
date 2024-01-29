@@ -1,0 +1,3 @@
+Is spacetime hyperbolic?
+
+I have always seen answers to this point to measurements of how "flat" local geometry is, but my problem is, thats space not spacetime. I would say its safe to say that the geometry of space in our universe is indeed euclidean, but space isn't over time. The further I look, space should be less, the farther I go, space should be more. To me this seems as if spacetime is hyperbolic along the temporal axis, and that every "instance" cross-section is euclidean. So that ultimately is the question, is spacetime hyperbolic?

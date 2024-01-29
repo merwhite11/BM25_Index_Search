@@ -1,0 +1,12 @@
+What's the meaning of virial in Astronomy, and in particular the expression "a virialized cluster of galaxies"?
+
+The virial theorem relates the kinetic energy of a system to the total potential energy of the system:
+$
+\Delta K = -\frac{1}{2}\Delta V
+$
+so it has lots of uses in mechanics, thermodynamics and astrophysics.
+My main question is what is the meaning of the word virial in this context?
+Related; Quiescent galaxies in a virialized cluster at redshift 2: Evidence for accelerated size-grow refers to a 'virialized cluster' of galaxies. What does it mean here?
+
+Abstract
+We present an analysis of the galaxy population in XLSSC 122, an X-ray selected, virialized cluster at redshift z = 1.98. We utilize HST WFC3 photometry to characterize the activity and morphology of spectroscopically confirmed cluster members. The quiescent fraction is found to be 88+4−20per cent within 0.5r500, significantly enhanced over the field value of 20+2−2 per cent at z ∼ 2. We find an excess of “bulge-like” quiescent cluster members with Sersic index n > 2 relative to the field. These galaxies are found to be larger than their field counterparts at 99.6 per cent confidence, being on average 63+31−24 per cent larger at a fixed mass of M⋆ = 5 × 1010 M⊙. This suggests that these cluster member galaxies have experienced an accelerated size evolution relative to the field at z > 2. We discuss minor mergers as a possible mechanism underlying this disproportionate size growth.

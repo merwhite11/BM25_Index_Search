@@ -1,0 +1,12 @@
+Trouble understanding speed-dispersion in (elliptical) galaxies
+
+I'm learning about LOSVDs (Line Of Sight Velocity Distributions) and I'm having a bit of trouble understanding the used terms.
+As I understand, the LOSVD of a given (elliptical) galaxy is the density distribution of the LOS-velocities. The full LOSVD is difficult to find and it's easier to find 2 parameters of the distribution: $\bar v_{_{LOS}}$ and $\sigma_{_{LOS}}$ by fitting a (Gaussian) model to the spectrum of the galaxy.
+I have a limited understanding of statistics, so I'm having trouble intuitively understanding what these 2 parameters mean later on.  
+I think that $\bar v_{_{LOS}}$ is simply the average value of the LOS-velocity for the whole galaxy while $\sigma_{_{LOS}}$ is the equivalent of a standard deviation.
+Now later on in my coursebook, there's an explanation of how to get a LOSVDs for every point (/pixel) in the (projection onto the celestial sphere of the) galaxy by using 3D spectrography.
+From this we can get a 3D dynamic model from our 2D kinematic model. In this newly found 3D distribution there's also 3 Sigmas, one for every dimension.
+But here comes the part I don't understand:
+The book is looking at the movement of stars in a spiral galaxy, the Milky way in particular.
+We're trying to find a correlation between the age of MS-stars and their dispersion and so there's a dataset of a few stars in the neighbourhood of the sun with their dispersion in every dimension.
+What is the meaning of dispersion in this context? How can a single object have a dispersion if it's a parameter of a density distribution?

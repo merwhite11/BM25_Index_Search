@@ -1,0 +1,19 @@
+Is there a star everywhere you look?
+
+What % of the sky is occupied?
+Intuitively, when you look up at night most of the sky is black "space". Of course, our eyes are not very sensitive, so that's a dubious measurement.
+Imagine if our eyes worked as some ancients believed, with rays shooting out of them. When you observe the sky (the entire $4\pi r$ of it) what fraction of those rays would eventually hit some celestial object, excluding those in our solar system?
+I know that the observable universe is not necessarily the whole universe, and there may be objects whose light never reached us yet. For this question, feel free to make the (over) simplifying assumption that we have observed the entire universe, and there is nothing that has not been observed thus far.
+Yes, the title says "star", it's for poetic reasons :) I'm wondering about any object, luminous or not. Although feel free to answer for just stars if that's easier.
+
+Justification for assumptions:
+
+Objects in our solar system are trivial to calculate, and not that interesting. They also needlessly complicate the result with syzygys and such.
+If we knew the number for our own universe, it would be straightforward to generalize it to as yet unseen objects with some estimate of their distribution.
+
+
+Responses to comments:
+
+Olber's paradox seems related, but I can't really connect it to my question. The paradox is about an infinite universe, while I am asking about currently observable only.
+Sky density of milky-way stars vs external galaxies is close, but I am asking about what area they occupy in the sky, not number. That question does not take angular size into account.
+Density of stars on celestial sphere does not specify, but the answers appear to have treated stars as points rather than consider their angular size.

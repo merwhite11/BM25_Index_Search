@@ -1,0 +1,43 @@
+Stellar Mapping and Coordinates
+
+Why are the Galactic Coordinates not aligned so that the Axes go through the Long Bar Y-axis aligned to it's longer side, positive with Sol, and the X-axis align to the center of the short length with Sol being in the negative? Z should obviously be on the galactic plane where it generally is I think...
+I'm curious about whether there is a reason we shouldn't align it like this? It seems to make the most sense to me where as the current system, while I understand it, to me is just to Earth-centric, especially when we have something that stands out so much on the galactic scale you could use to figure out where you are with where as Where Sol is being 0,0,0 isn't really helpful to anyone unless you're already on Earth ^.^
+
+The other part of my question is less "real" and more of a "I would like to know if there are any problems with doing this that I am unaware of" thing...
+There are 3 question areas...
+
+1
+I use a unit I call a Lida, It is 24 terameters long and roughly equivalent to a Light Day.
+On this map distances will be measured in Lida, more specifically, KiloLida.
+1 Sector = $20 kL^3$
+1 Block = $200 kL^3$
+1 Grid = $2,000 kL^3$
+1 Octant = $20,000 kL^3$
+Each of the bigger areas contains 1000 of the next smaller unit down and can easily be referenced by 3 digits. So if I said Grid 346 that would reference the Grid in that Octant where each of those digits are xyz starting from the Galactic Center. Lower numbers are always closer, higher are always further from the Galactic Center.
+Why not use parsecs and light years? They're really not practical to use. Likewise, AU are weird, and other units you either end up with very long numbers or poor conversions. Also with this unit, I find it very easy to work out distance and time in my head. The answer is 1.07% off, but that's not really an issue when you're not trying to be 100% precise.
+Why use 20kL rather than 10kL or 1kL not many stars in that volume from what I looked at before so it makes sense to use that as division and it also divides up nice to the higher divisions.
+
+2
+I use another unit. 
+1 brut = $1*10^{19} kg$
+The largest reason I'm using this is that scientific notation doesn't work in emergencies or common parlance so it makes sense to me to have a larger base unit when dealing with these larger scales. $1*10^{19} kg$, if I remember right (cuz I came up with this a few years ago and haven't used it since), comes from when the reference point numbers on the wiki for scale started getting fishy looking to me. Not a hard science thing, but seemed like a good place to have something like this.
+
+3
+This is the way I label Stars, planets, moons, etc... because it makes sense. I keep saying that, but you know, it's true ^.^
+SO I - Star (or black hole)
+SO II - Spheroid
+          Brown Dwarf (Star?)
+          Gaseous Spheroid - 12,000+ km radius and above (Most of its size is from gases)
+          Terrestrial Spheroid - 1,500 to 12,000 km radius (Has a rocky mantle)
+          Icey Spheroid - 200m to 1,500 km radius (Has an ice-water mantle)
+SO III - Debris
+          Asteroid - Comprised mainly of rock
+          Comet - comprised mainly of ice-water  
+Child Star (?) - SO I that orbits a SO I
+Planet - SO II that orbits a SO I
+Moon - SO II that orbits a SO II
+?? (currently also called a moon it seems) - SO III that orbits a SO II
+SO means Stellar Object.
+both SO and Spheroid are kinda bad names considering nothing but stars are Stellar and stars are Spheroids, but whatever, I think it gets the point across. Though I wish I could think up something better.
+
+Anyways, do any of these 3 things create problems that I don't know about or that could cause a problem that I possibly can't see due to being a pleb in these matters?

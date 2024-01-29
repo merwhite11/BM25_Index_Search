@@ -1,0 +1,29 @@
+How to plot the precession of the equinoxes using Skyfield?
+
+I'm trying to create a map of the northern sky showing Earth's axial precession, like this wikipedia illustration by Tauʻolunga:
+
+I have figured out how to plot the stars using Skyfield but I'm stumped when it comes to the axial precession. What I tried:
+import numpy as np
+from matplotlib import pyplot as plt
+from skyfield.projections import build_stereographic_projection
+from skyfield.api import Star, load, wgs84, N, S, W, E
+
+ts = load.timescale()
+stockholm = wgs84.latlon(59.349304*N, 18.025918*E, elevation_m=28).at(ts.tt(2022, 12, 1, 12, 0))
+position = stockholm.from_altaz(alt_degrees=90, az_degrees=0)
+projection = build_stereographic_projection(position)
+
+eph = load('de441.bsp')
+earth = eph['earth']
+
+celestial_pole = Star(ra_hours=(0, 0, 0), dec_degrees=(90, 0, 0))
+xy = []
+for year in range(1969, 17190, 100):
+    pt = ts.tt(year, 9, 1, 12, 0)
+    pos = earth.at(pt).observe(celestial_pole)
+    xy.append(projection(pos))
+plt.scatter([s[0] for s in xy], [s[1] for s in xy], s=5, color="blue")
+
+But this results in a tiny (1e-15) mostly East-West pendulum movement whereas the whole sky ranges from -1 to 1 both N-S and E-W on the scale I used:
+
+I'm not sure I go about the above the right way. Is there a better way to find the direction of Earth's axis at an arbitrary timepoint in the past or future (±26,000 years)?

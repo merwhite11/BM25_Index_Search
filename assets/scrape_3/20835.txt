@@ -1,0 +1,9 @@
+Effect of Hot/Warm Jupiter atmosphere loss on other planets
+
+Let us suppose a solar system with a Hot/Warm Jupiter HJ (with a semi-major axis somewhere from 0.5 AU to 0.0001 AU) and an Earth-Like planet EL in it (with a semi-major axis of about 1 AU). Let their orbital inclinations be a couple of degrees apart. Let the star be a G2V or so, like our Sun.
+According to this and other sources, we can tell that Hot Jupiters are "bleeding" atmosphere due to their proximity to their sun. Some of it, I presume, gets pushed out with the solar wind farther out into the solar system, at least as far as the EL is.
+
+What effect will this bled atmosphere from HJ have on EL, if any?
+If there is an effect, when does it happen? On all of EL's orbit, despite the different inclinations? Only when EL crosses a transit node? Only when there's a transit (or rather, when EL passes through the transit node a certain amount of time after HJ does, to account for the velocity of the atmospheric particles through space)?
+Will this bled atmosphere be (naked-eye) visible from EL? What would it look like?
+Would all of this have any effect on life/civilization on the EL?

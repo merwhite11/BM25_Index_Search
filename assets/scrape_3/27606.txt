@@ -1,0 +1,3 @@
+What is Propeller Effect exactly?
+
+I find the original reference seems to be here. I still do not understand the mechanism. It is necessarily occur in neutron binaries? Anyone can introduce it in detail? This paper is old.

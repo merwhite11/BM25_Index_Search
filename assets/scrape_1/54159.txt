@@ -1,0 +1,5 @@
+How to transform between horizontal and equatorial coordinates?
+
+I want to express the transformation between horizontal (azimuth $A$,elevation/altitude $\varepsilon$) coordinates and equatorial (hourangle $H$/right ascension $\alpha$, declination $\delta$) as a mathematical, algebraic relation. I've been checking around the internet and everywhere the relationship shown below (from the textbook Interferometry and Synthesis in Radioastronomy) is given. Here is another version of the explanation.
+However, since (for horizontal $A,\varepsilon$ to equatorial $H,\delta$) we should know the latitude $L$ and the coordinates $A,\varepsilon$ we want to transform, the system ends up overdetermined and there is no solution. Check for $A=39.7$°, $\varepsilon=21.6$°, and $L=-33.27$.
+However, this is the relationship I encounter when I want to know the formulae. Thankfully I can do what I want to do by utilising AstroPy and other tools. How is this system of equations meant to be used?

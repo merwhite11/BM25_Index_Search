@@ -1,0 +1,3 @@
+In the JPL small body browser, why is uncertainty on absolute magnitude "N/A"?
+
+In the JPL small body browser, orbital elements are all provided with uncertainties and even a covariance matrix, such as for 2013 LA2.  Very good.  But underneath, the absolute magnitude is reported with a sigma of "n/a".  Why would the uncertainty for an absolute magnitude be not applicable?  Is it not a measurement but somehow given by definition?

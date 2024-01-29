@@ -1,0 +1,5 @@
+How to determine period of pulsar?
+
+I've got a file which contains data about photons coming from some pulsar. For each photon I know: a) time, when it was registered, b) a probability that this photon came from pulsar but not from galactic background, c) energy of a photon. My task is to find a period of pulsar. 
+I suppose I have to use FFT to find a period but there are two issues. First of all, there are lots of photons with low probability (background photons), so I have to somehow select relevant photons. Second, I've got an unequally spaced data, so there is a problem with using FFT.
+I am a novice in data processing. Could you please give me links to some lectures or books where this topic is discussed clearly?

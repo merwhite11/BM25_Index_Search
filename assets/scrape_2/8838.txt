@@ -1,0 +1,5 @@
+Circular orbits
+
+First of all, I'm studying orbits for a hobby: world building. Unfortunately, my mathematical abilities approach a ridiculous low threshold, which means I am stuck with reading the simplest explanations, which in turn leave me asking tons of fairly basic questions.
+Allow me to start with a simple point. I know that Kepler's Laws state that planetary orbits must always be elliptical. I also know that Earth's orbit varies from more elliptical to less elliptical, and that its less elliptical stage is nearly circular. 
+So... what would happen if Earth did have a circular orbit? Why is it impossible for any planet (or moon, by the way) to orbit another body in a perfectly circular path?

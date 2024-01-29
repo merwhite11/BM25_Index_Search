@@ -1,0 +1,3 @@
+What is the meaning of grain opacity and why does it affect the formation time of gas giants?
+
+While doing research for my presentation on the formation of gas giants, more specifically the "core-accretion model", I have been stumbling across the term "grain opacity" and don't quite understand it's meaning. From what I've already read, it's a quantity that heavily influences the time it takes for giant gas planets to form and that a lower grain opactiy leads to shorter formation times. But why does the opacity of dust grains in the protoplanetary disk have such an effect? Is it because of the protoplanet cooling off faster?

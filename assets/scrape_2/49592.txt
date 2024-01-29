@@ -1,0 +1,5 @@
+What does "Effective radius of [CII] line is 1.4 kpc" mean?
+
+A recent paper (A dusty compact object bridging galaxies and quasars at cosmic dawn) describes one of their results as the "Effective radius of [CII] line" (Extended Data Table 2, p38):
+
+I know that [CII] denotes the forbidden emission line of the second ionised state of carbon, but what do they mean when they say that its effective radius is "$1.4 \pm 0.2$ kiloparsecs"? Is this referring to the effective radius of the region of the quasar emitting that line?

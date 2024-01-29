@@ -1,0 +1,28 @@
+Calculate depth and duration of exoplanet's transit using Python, astropy or lightkurve
+
+I am creating a program for the analysis of exoplanets in Python using Astropy and Lightkurve libraries. I have light curve of specified star and I would like to calculate depth and duration of planet transit. There is example for Kepler 10 bellow with these steps:
+
+Load target pixel image for Kepler 10,
+Convert it to flattened time series,
+Calculate period using periodogram,
+Create folded light curve.
+
+import lightkurve as lk
+
+target_pixel = lk.search_targetpixelfile("Kepler-10", quarter=1).download()
+lightcurve = target_pixel.to_lightcurve(aperture_mask=target_pixel.pipeline_mask).flatten()
+periodogram = lightcurve.to_periodogram(method="bls", period=np.arange(0.5, 10, 0.001))
+period = periodogram.period_at_max_power
+
+folded.scatter()
+print(period)
+
+The output is (I marked the depth and duration in red):
+
+Now, how can I calculate duration of transit (approximately from -0.15 to to 0 on x-axis)? Interval from -0.5 to 0.5 should be whole period (0.837 d), so transit duration should be +/- 0.13 d.
+And what about transit depth? I was thinking about:
+min = np.min(folded.flux)
+median = np.median(folded.flux)
+median / min - 1 # 0.00038
+
+However, the minimum point is not the one in the middle of the transit due to noise, so transit depth may not be accurate.

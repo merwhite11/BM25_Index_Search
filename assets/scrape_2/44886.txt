@@ -1,0 +1,7 @@
+Radio SEDs for quasars
+
+Using data from https://ned.ipac.caltech.edu/, I can get nice-looking spectral energy distributions for quasars, such as for these two:
+
+
+but most of their points are in UV to IR range. I'm looking particularly for quasars with lots of radio points (i.e. frequency < 1e12 Hz), since that's the region I'm using in my research.
+In the link above, you search for objects by name, but I don't know the names of any quasars with lots of points in the radio range. Are there any known like this? I only need a couple, as examples in my report.

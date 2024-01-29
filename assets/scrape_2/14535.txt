@@ -1,0 +1,8 @@
+Why is the Sun's brightness and radius increasing, but not its temperature?
+
+On the Sun's article on Wikipedia, there is an image showing how the Sun's brightness, radius and temperature have changed over time:
+
+For the past (and next) few billion years, I see the luminosity continuously rising, the temperature remaining about the same, and the radius also rising.
+This seems bizarre to me. I would imagine that, for luminosity to increase, the temperature would have to increase. And for temperature to increase, the radius would have to decrease (as the core becomes denser, temperatures rise).
+So why does it work this way?
+PS: I would also appreciate a concrete explanation for why all three decreased at the beginning of the Sun's life, but suddenly began increasing.

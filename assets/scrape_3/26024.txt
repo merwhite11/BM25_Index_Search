@@ -1,0 +1,5 @@
+How does a Solar Transit give more accurate determination of Earth-to-Sun distance?
+
+I understand how Solar Parallax calculation determines the Earth-Sun distance using measurements of (a) the baseline distance between two widely-separated terrestrial telescopes and the (b) two angles - one at each telescope - between the baseline and the line from telescope to the centre of the Sun's visible disc. 
+How is it that observations of the transit of a planet across the face of the Sun give better results than simply pointing (simultaneously) each telescope at the centre of the Sun's visible disc?
+Is the Solar Transit method also superior (in terms of accuracy) to the method of determining Earth-Planet distances by measuring parallax angles relative to 'fixed' background stars?  If so, why?

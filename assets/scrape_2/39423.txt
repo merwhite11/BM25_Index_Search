@@ -1,0 +1,11 @@
+What inaccuracies are in this Stellarium depiction of the sky?
+
+I found this depiction on Stellarium of the sky as seen from near the Apollo 12 landing site on January 11, 2131. The earth is the black circle in the arm of the Milky Way.
+
+Here is a similar view with labels.
+
+Assuming a person had a naked eye view of this, and the most of the light coming directly from the sun could be attenuated, what inaccuracies are evident in this image? As I understand it the colors to the Milky Way could not be seen by the naked eye. I take it the size of the objects are illustrative of apparent magnitude and not the visible size. Are there any others?
+If the "night-sky" tag is not appropriate because this is not the view from Earth please remove or let me know and I'll remove it.
+Here is the full screen shot, at horizontal FOV of 90°.
+
+In regards to the sizes of the sun and the earth, at a narrower FOV Stellarium shows the earth as being substantially bigger than the sun.

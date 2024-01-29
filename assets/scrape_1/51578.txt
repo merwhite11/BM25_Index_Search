@@ -1,0 +1,3 @@
+How to know aperture when mounting smartphone on telescope?
+
+I have a telescope with a 130mm aperture and a Samsung Galaxy S10, which I mount to my  telescope and use to take pictures. When considering the total aperture, how would I calculate the combination of the two different apertures?

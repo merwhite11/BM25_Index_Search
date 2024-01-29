@@ -1,0 +1,77 @@
+Kepler ellipse orbit fit issues
+
+I am helping my high schooler with a research paper that uses PyAstronomy to fit the orbit of stars around Sag A. It isn't working because the angles (parameters Omega, omega, and i) seem to have a different reference point. It does work for Star 2, but when we try to do the same thing for Star 1, the initial inputs from the paper fit terribly.
+Here are the initial inputs:
+i = 119.14 degrees
+Omega = 342.04 degrees
+omega (w) = 122.3 degrees
+a = 595 mas
+e = 0.556
+tau = 2001.8 years
+per = 166 years
+She is trying to replicate the results of this paper: An Update on Monitoring Stellar Orbits in the Galactic Center
+One difference between the paper and my teen's program is that she is using Python and PyAstronomy, and they used Mathematica. PyAstronomy creates a KeplerEllipseModel object and specifies the axes as xz.
+This is the output graph. The blue are the observations and the red is the ellipse created using the values from the paper.
+
+We did a grid search to look at varying the 3 degree parameters (Omega, omega, i), but didn't come close. We also looked at the graphs using the other two axes (xy and yz), also no joy. Does anyone have any ideas on how we can improve this initial fit? The end goal is to run MCMC to sample a^3 against t^2. I hope this makes sense, I am a programmer.
+Edit: here is the code
+import pandas as pd  # get numbers from csv file
+import numpy as np   # Numerical library
+import matplotlib.pyplot as plt # Plot commands
+from PyAstronomy.modelSuite import KeplerEllipseModel
+from PyAstronomy import funcFit as fuf
+
+df = pd.read_csv("Star1_Orbit_Data_Numbers.csv")
+
+Here is the csv file with the data.
+https://drive.google.com/file/d/13KAnsmtyQV5L3ncW_dmW_cdBsfc1lV25/view?usp=sharing
+(I double checked this is correct)
+def create_arrays(df_data):
+  ''' Input is a dataframe with the data for one star.
+      Output is 3 numpy arrays: 
+        pos - position, alternating RA and DE for each date
+        pos_unc - uncertainty for position
+        date - date for measurement. 
+      Length of pos and pos_unc is 2 * length of date
+  '''
+  pos = np.empty([2*len(df_data),])
+  pos_unc = np.empty([2*len(df_data),])
+  date_arr = np.empty([len(df_data),])
+  for i in range(len(df_data)):
+    pos[2*i] = df_data['RA'][i]
+    pos[2*i+1] = df_data['DE'][i]
+    pos_unc[2*i] = df_data['RA_error'][i]
+    pos_unc[2*i+1] = df_data['DE_error'][i]
+    date_arr[i] = df_data['Year'][i]
+  return pos, pos_unc, date_arr
+
+def initial_plot(star_num, pos, pos_unc, kem):
+  # the data in blue points
+  fig = plt.figure(figsize=(10,10))
+  plt.title("S0-" + str(star_num))
+  plt.errorbar(pos[0::2], pos[1::2], xerr=pos_unc[0::2], yerr=pos_unc[1::2], fmt="b.", markersize=2.0)
+  plt.xlabel("$\Delta$RA (arcsec)")
+  plt.ylabel("$\Delta$Dec (arcsec)")
+  plt.axis('equal')
+  plt.plot(np.array([0.0]),np.array([0.0]), marker='*', color='black', markersize=5.0)
+
+  #plot the initial guesses in red dashed lines
+  guess_model = kem.evaluate(np.linspace(kem["tau"], kem["tau"]+kem["per"], 1000))
+  plt.plot(guess_model[0::2], guess_model[1::2], 'r--')
+#   fig.savefig("Star_" + str(star_num) + "_initial_guesses.png")
+  plt.show()
+
+star = 'Star1'
+ax1 = 'xz'
+kem = KeplerEllipseModel(relevantAxes=ax1)
+print(f"Begin initial guesses for grid of {star} {ax1}")
+kem["a"] = 595
+kem["e"] = 0.556
+kem["tau"] = 2001.8
+kem["per"] = 166
+kem["Omega"] = 342.04
+kem["w"] = 122.3
+kem["i"] = 119.14
+
+pos, pos_unc, date_arr = create_arrays(df)
+initial_plot(1, pos, pos_unc, kem)

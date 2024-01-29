@@ -1,0 +1,9 @@
+Where can I look up the 3D positions of the closest stars?
+
+The problem:
+I want to simulate a travel from Earth to the closest 15-25 stars. Which is the fastest way to accomplish this?
+What i have:
+I currently have the distance between Earth and the nearby stars, according to this link: http://www.space.com/18964-the-nearest-stars-to-earth-infographic.html. But from it I can't know if Alpha Centauri (4.3 light-years from Earth) is closest to Sirius (8.58 light-years from Earth) or to Wolf 359 (7.8 light-years from Earth). 
+What I need:
+I need the distance between any two stars, at least the closest ones to Earth. Then it would be possible to run a Traveling Salesman problem, in order to visit all the nearby stars (or a subset of 15-25 of them) in the fastest time. 
+Where can I get this information?

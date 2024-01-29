@@ -1,0 +1,5 @@
+Relativistic effects in stellar dynamical systems
+
+I am curious, if anybody knows of any stellar dynamical systems/environments, where relativistic effects could play a dynamical role on the motion of these stellar systems? As a subquestion - are there any known important weak, but cumulatively strong effects?
+In other words, when can relativistic effects invalidate the applicability of N-Body/Collisionless Boltzman/Gas/.. models based on newtonian gravity.
+From these systems I would like to exclude the simplest well known case of compact binaries.

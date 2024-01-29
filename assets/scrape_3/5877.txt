@@ -1,0 +1,13 @@
+Sloan digital sky survey galaxies
+
+I am trying to get some data from the Sloan digital sky survey (SDSS). This task turned out to be challenging for me as someone with only little knowledge about astronomy and maybe someone here can help me. What I need is data for all galaxies of the SDSS with their optical spectroscopy and position. 
+I suppose I need:
+
+redshifts
+RA (right ascension)
+dec (declination)
+classifications of all SDSS spectra
+
+from the Optical Spectra Catalog Data
+I found a script to convert ra/dec/redshift to x/y/z coordinates.
+Will I need "the associated photometric position based matches" and "stellar parameter (SSPP) results" to get RA and dec? I have no idea what these are.

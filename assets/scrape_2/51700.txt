@@ -1,0 +1,3 @@
+Binaries: mass and distance constraints
+
+How does distance constrain the mass of the binary, please? Let us assume data like radial velocity, light curves, and astrometry. Is there any problem in the determination of the mass of the system with unknown mass? Thank you

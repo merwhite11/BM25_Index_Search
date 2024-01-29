@@ -1,0 +1,4 @@
+Periodic error correction in automatic telescopes
+
+I am starting a study on automatic telescopes and the correction of their periodic error.
+I found two ways of correcting it : with a CCD camera and manually by recording the error. I was wondering if it could be possible to model the error by a periodic signal in order to add it to the entry signal then correct it with a low-pass filter or an other filter ?

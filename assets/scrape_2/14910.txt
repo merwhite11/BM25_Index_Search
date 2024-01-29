@@ -1,0 +1,4 @@
+Can we measure/detect GR light bending during solar eclipse using ordinary equipment?
+
+Suppose an amateur astronomer finds himself watching Solar Eclipse. He can see the stars around totality. Is Sun's GR effect strong enough for the amateur astronomer to be able to tell that a particular star is appearing a few arc-degrees (or arcminutes, or arcseconds) away from where it should?
+If not, what is the minimum requirement to be able to witness GR for yourself during a Solar Eclipse?

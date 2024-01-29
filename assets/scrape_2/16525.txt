@@ -1,0 +1,5 @@
+Kepler's second law of motion
+
+Planets sweeps out equal areas in equal times. 
+Is the area being calculated here the area of a triangle? You draw a straight line from the center of the sun to the earth at point A. The Earth moves to Point B and you have another straight line from point A to point B and the finally another straight line from point B to the Sun? Even though the Earth makes an arc, I guess we make it a straight line.
+I guess my question is whether I have understood the second law correctly? That the area of a triangle was being calculated in an elliptical orbit, no matter how elliptical the orbit is.

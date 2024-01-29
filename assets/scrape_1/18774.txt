@@ -1,0 +1,12 @@
+Why does the Moon's terminator look "wrong" in this image?
+
+There is a picture of the moon in National Public Radio's on-line article Get Ready For Halloween By Watching The Moon's 'Occultation' Tonight. It looks wrong to me - specifically, the brightness gradation near the terminator - or lack thereof.
+The image is credited "A waning gibbous moon occultation will be visible Tuesday night in parts of the United States. JPL/NASA" but I wonder if this is true. Something just looks "wrong" here.
+
+In the original article the JPL/NASA contains a link to this page, which currently contains this image also shown below. It looks more like an actual photograph.
+
+And here is a NASA/JPL image from https://svs.gsfc.nasa.gov/4404 for 2016-10-19 04:00 UT, which if I uderstand correctly is not actually a photograph, but simulated from LRO data. It also illustrates that the terminator is expected to be graded from light to dark and contain contrast from shadowing.
+
+
+
+above: terminator from all three images. Realistic terminator on the right show graded intensity and strong shadowing from the highly oblique incident light.

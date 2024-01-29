@@ -1,0 +1,4 @@
+Open dataset from antenna array
+
+I am looking for a raw radio-astronomic antenna array dataset of relatively modest size (on the order a few MB, or even less), to evaluate a data processing algorithm. The dataset ideally should be simultaneously sampled received signals from several antennae with known positions, containing a number of sources differing in direction of arrival and/or frequency. 
+Perhaps, some python library with standard algorithms for building a 2D "synthetic aperture image" of radio sources might have bundled example data, which would satisfy me. I have come across the LOFAR database, which seems huge and requires complicated processing pipeline, so my question may be along the lines of "how to get a small drink from a firehose".

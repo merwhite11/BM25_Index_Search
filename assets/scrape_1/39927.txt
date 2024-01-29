@@ -1,0 +1,5 @@
+How long would it take to first detect a new object in the night sky given its apparent magnitude?
+
+If an object as bright as the star Polaris (Apparent Magnitude +1.8) showed up in the night sky, it would be detected almost instantly by stargazers.  If an object as bright as Pluto (Apparent Magnitude +13.65) showed up, presumably it would take much longer for someone to notice (perhaps days or weeks?), since it is too dim to be seen by the naked eye.  For the faintest objects seen from Pan-STARRS 1.8 meter telescope (Apparent Magnitude +24) are we talking about years or decades to notice a new object?
+Specifically, I am looking for a function that gives me something like the MTTD (mean time to detect) a new object in the night sky, given its apparent magnitude.  This could also be in the form of a graph.  Does such a thing exist?
+I am asking this question to improve my answer to How early could we detect an asteroid the size of the one that caused the extinction of the dinosaurs?

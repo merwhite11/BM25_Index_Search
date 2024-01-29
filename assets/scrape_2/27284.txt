@@ -1,0 +1,8 @@
+What is the meaning of "bright unresolved sources"
+
+In many articles talking about telescopes, they talk often of "bright, unresolved sources".
+"bright" usually mean that the magnitude should be less than a certain threshold, (or that the signal to noise ratio should bigger than a given value) but what I don't catch the meaning of "unresolved".
+For example :
+"unresolved sources" in https://docushare.lsst.org/docushare/dsweb/Get/LPM-17/LSSTSRD_v5%202%203.pdf
+"bright unresolved point sources" in the introduction of this paper : https://docushare.lsstcorp.org/docushare/dsweb/Get/Publication-86/
+Any idea ?

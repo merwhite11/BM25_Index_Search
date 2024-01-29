@@ -1,0 +1,5 @@
+Do Einstein's ten field equations use 20 or 40 variables? (2 or 4 for each tensor equation?)
+
+One site I came across says Einstein's 10 Field Equations use 20 variables, while another said 40.
+There are four variables in spacetime - three for space and one for time, right?
+But there are two index symbols for each tensor, usually denoted by the Greek letters mu and nu.  I don't know if the rank of a tensor is related to the number of variables in relativity.

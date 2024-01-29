@@ -1,0 +1,11 @@
+How to find the distance between stars
+
+I wanted to calculate the distance between the end points of the Orion's belt (Alnitak and Mintaka).
+I searched in the internet and I found out their angular separation to be 2.736°.
+Then I searched for the actual distances of the two stars from Earth; and it turned to be 1260 light years for Alnitak and 1200 light years for Mintaka.
+Then I used the cosines law to find the actual distance between the two stars. I reached 84 light years as the answer.
+Questions:
+
+Is the cosines law a good way to find the actual distance between two celestial objects in such far distances?
+Is there another way to find the actual distance between two celestial objects?
+Can we find the actual distance between two celestial bodies if we don't know the angular distance between them?

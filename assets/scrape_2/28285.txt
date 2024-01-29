@@ -1,0 +1,9 @@
+Why the forbidden lines of [OIII],[NII] and [SII],[OII] are sensitive to electron temperature and electron density, respectively?
+
+I am trying to understand the topic of "Metallicity estimates", either HII regions or planetary nebula. For this latter, the electron temperature (and density) must be known. I am studying the formalism of Osterbrock. 
+I know, for instance, that if you use the lines [OIII]4363 and [OIII]5007 the electron temperature can be computed. In the same way, the ratio between [OII]3729 and [OII]3726 provides an estimation of electronic density.
+Actually, I also know that, for the case of [OIII], its metastable excited states are relatively separated. For the case of [OII], such metastable excited states are very close. Such separation, in the metastable excited states, is crucial to compute the temperature and density.
+My point is that I do not understand why this separation is important, from a physical point of view. Why the ratio between these lines can estimate such properties?
+You can check examples of what I am talking about in "Electronic Density" and "Electronic Temperature" sections of this link: http://www.astronomie-amateur.fr/feuilles/Spectroscopie/NGC2392.html
+I hope to make me understood.
+Thank you very much for your help.

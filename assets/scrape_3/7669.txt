@@ -1,0 +1,5 @@
+length of Star lifetime
+
+In a star, the fact that not all the hydrogen is used up, not all the helium is used up etc. is a little counterintuitive.
+Shouldn't it be that a star looses the hydrogen layer passively, in other words all the hydrogen eventually fuses into helium forming a helium star which then fuses all its helium into carbon forming a carbon star etc. all the way to iron? In this way you get up to the temperature required to form iron and nickel in stars with a much lower mass and in massive stars you might even have Iron being fused to form heavier metals.
+Why isn't this so?

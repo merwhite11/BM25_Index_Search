@@ -1,0 +1,5 @@
+How many degrees does the sidereal month orbit?
+
+It's written everywhere that anomalistic month orbits 360 degrees completely, then how many degrees does the sidereal month orbit?  
+Here is written that the sidereal month orbits 360 degrees too, but it doesn't make sense that they have the same orbit degrees since the anomalistic month is longer.
+According to my logic, if 360 degrees equal to 27.55455 days, then 27.321661 days (=sidereal month) equal to 356.9 degrees, rather than 360 degrees. Is it correct?

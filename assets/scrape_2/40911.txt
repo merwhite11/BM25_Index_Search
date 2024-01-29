@@ -1,0 +1,17 @@
+How to algorithmically distinguish between different types of nebulae?
+
+I remember that there are five types of nebulae:
+
+Planetary nebulae have not much to do with planets, but are emission nebula consisting of an expanding, glowing shell of ionized gas ejected from red giant stars late in their lives.
+H II regions are emission nebulae in which interstellar atomic hydrogen is ionized.
+Reflection nebulae are "clouds of interstellar dust which might reflect the light of a nearby star(s)".
+Dark nebulae are interstellar clouds that is so dense that it obscures the visible wavelengths of light from objects behind it.
+Supernova remnants are just that - the leftovers of a supernova
+
+As Donald Knuth once said
+
+Science is what we understand well enough to explain to a computer. Art is everything else we do.
+
+I fully understand the definitions of the different types of nebula, but I struggle to write a computer-readible definition for each of nebulae types. What I mean: Given a deep-sky image with pre-identified nebulae zones, I do not know how a nebula type identification algorithm would look like. Do different types of spectra uniquely define each nebula type? That would work for the emission nebulae at least, I guess.
+References
+The answer is possibly given by Steven R. Coe's article What Are All These Different Types of Nebulae, and What Details Can I See in Them with My Telescope? which hidden behind a paywall and not accessible for me.

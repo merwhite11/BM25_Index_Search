@@ -1,0 +1,4 @@
+Would DCBH form supermassive stars first before BH formation
+
+In reading some literature it seems ambiguous (intentionally?) as to the path that Direct Collapse Black Holes (DCBH) take. Some papers do talk about pristine Halos collapsing to form supermassive stars (SMS) ($10^{3}$) that then undergo direct collapse. However most that I've seen do not.
+So my question is, do all DCBH models assume a short lived SMS phase or can there be a runaway collapse/accretion in the core of a H cloud that collapses into a intermediate mass black hole or larger? Are there multiple routes for DCBH? This is all assuming $z>15$ and $\Lambda$CDM.

@@ -1,0 +1,5 @@
+How is the distance of a star from Earth calculated in the HYG star database
+
+The HYG star database can be found here
+From the hygdata_v3.csv file, how are the cartesian (x,y,z) coordinates calculated? (Is there a mathematical formula for this?)
+And in the dso.csv file, there aren't any x,y,z coordinated. How can I calculate that?

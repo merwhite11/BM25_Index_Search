@@ -1,0 +1,6 @@
+Have I misunderstood Hipparcos Data with Arcturus?
+
+If I take Arcturus for example, its HipID is 32349 and when i look at the raw Hip_Main.dat, it stays that the star's Spectral is K2IIIp whilst Wikipedia says the star's is KOIII.  Why the discrepancy, have I misunderstood the Hip data?
+Mu Cephei is M2e Ia, in Hip its m2Ia.
+Achernar is B6 Vep whereas in Hip its B3Vp
+Zosma for example, matches, I get A4V in the Hip file and it says A4 V in Wiki.

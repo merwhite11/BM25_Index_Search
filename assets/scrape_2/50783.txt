@@ -1,0 +1,3 @@
+How to estimate limits for period of a binary?
+
+How to estimate upper and lower limits for the period of a binary that is not eclipsing? What parameters are necessary, please?

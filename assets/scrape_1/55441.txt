@@ -1,0 +1,57 @@
+Just how resonant is the "resonant sextuplet of sub-Neptunes transiting the bright star HD 110067"?
+
+The November 29, 2023 arXiv preprint A resonant sextuplet of sub-Neptunes transiting the bright star HD 110067 constructs a resonant chain of orbital periods based on mean motion resonances (MMRs) and Laplace angles consistent with a long-term stable resonant planetary system, that is a solution to eclipses observed during TESS Sectors 23 and 49 (Mar/Apr 2020 and Feb/Mar 2022).
+After the inner two bodies, object b and c are nailed down:
+
+...we compared (the data) in duration-depth space, allowing us to identify two
+“duo-transits” (planets seen to transit only once in each of the two widely-separated
+sectors) and two single-transits (solitary transit events seen only in Sector 49)
+
+Now single-transits are not much for sure
+
+After only one eclipse of its X-ray bright primary, how can astronomers estimate the first extragalactic exoplanet's period to be about 70 years?
+Is one transit enough to be confident that we detected an exoplanet
+
+but what they did was argue that for a stable system one can also know the relationships between the offsets in phases ("associated Laplace angles") so for each assumed resonance scenario (sequence of rational fractions) one can check whether the single transit happened at the right time or not.
+Below I plot the periods of the six objects HD 110067 b through g *scaled by the appropriate rational fractions of their proposed solution. What do I mean by that? Object g's period is plotted multiplied by 1, f is multiplied by 4/3, e by 4/3 x 4/3... continuing to b being multiplied by 3/2 x 3/2 x 3/2 x 4/3 x 4/3.
+I've also included the errors on the periods stated in Table 1, likewise scaled by the same factors. Note that I've multiplied the error bars by 100 to make them visible!
+I noticed that there is a small almost linear trend in the deviation from perfectly resonant periods in mean motion during the 2 year observation period.
+The paper is hard to read. I've gotten this far, but I don't understand how they deal with this deviation from resonance much larger than the error bars, and still call this system resonant.
+Question: Just how resonant is the "resonant sextuplet of sub-Neptunes transiting the bright star HD 110067"?
+Related question:
+
+Just how "locked" are resonant-chains of exoplanets thought to be? (e.g. K2-138 and TOI-178)
+
+My guess is that for this dynamical system there is long term "sloshing" of the periods - they speed up and slow down slightly over periods much longer than the 2 year observation cycle used here, and if I were to replot this using mean motions based on perhaps hundreds or thousands of years, the authors argue that the plot would be a straight line.
+But the problem is that the whole Laplace angle argument is based on a stable system, and wow if these these observed periods and their deviations from resonance are true, it seems problematic to treat the system as stable in order to get the matches for duo-transits and signle transits.
+To me, right now, something seems amiss. But like I say, it's a hard paper to read for me.
+
+
+plotting script:
+import numpy as np
+import matplotlib.pyplot as plt
+
+data = ((9.113678, 1E-05), (13.673694, 2.4E-05),
+        (20.519617, 4E-05), (30.793091, 1.2E-05),
+        (41.05854, 1E-04), (54.76992, 2E-04)) # https://arxiv.org/abs/2311.17775
+
+periods, errors = np.array(list(zip(*data)))
+
+ratios = 4/3, 4/3, 3/2, 3/2, 3/2 # g/f, f/e, e/d, d/c, c/b, 
+
+factors = [1]
+for ratio in ratios:
+    factors.append(ratio * factors[-1])
+
+factors = np.array(factors[::-1])
+
+fig, ax = plt.subplots(1, 1)
+
+ax.errorbar(x=np.arange(len(periods)), y=periods * factors,
+             yerr=100*errors * factors)
+
+ax.set_title('https://arxiv.org/abs/2311.17775\nerror bars x 100')
+ax.set_ylabel('scaled periods (days)')
+ax.set_xlabel('objects HD 110067 b to g')
+
+plt.show()

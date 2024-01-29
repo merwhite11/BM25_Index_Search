@@ -1,0 +1,12 @@
+How much damage would collision with a similar mass primordial black hole do to earth?
+
+All this talk of Planet 9 perhaps being a primordial black hole (PBH) made me wonder how dangerous a PBH collision with earth would really be. 
+Specifically, if earth collided with a PBH of 1 earth mass, traveling fast enough that they didn't end up orbiting each other, what would happen?
+Edit:
+From a paper asking Can one detect passage of small black hole through the Earth? the analysis was that for an approximately proton-volume and mountain-mass sized PBH
+
+"It creates a long tube of heavily radiative damaged material, which
+  should stay recognizable for geological time."
+
+but is otherwise pretty hard to detect. 
+What would change if the PBH were the mass of the earth and the volume of a large marble? How slow would it have to be going before it really messed things up?

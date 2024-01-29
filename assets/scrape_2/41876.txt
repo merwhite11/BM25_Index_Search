@@ -1,0 +1,6 @@
+Why do the pulsations of a Cepheid variable occur?
+
+I understand the theory of the mechanism by which Cepheid variables pulsate, where helium is ionised and deionised, leading to changes in diameter.
+However, I am unsure if the brightness changes due to the changing opacity of helium, or is it explained by the changing diameter of the star, or perhaps a combination of both?
+We learn through Stefan's Law that luminosity is directly proportional to the surface area. Is the changing surface area causing the changing luminosity, and this change in surface area is driven by the changes in helium ionisation? Or is the change in luminosity solely brought about by helium?
+Thanks.

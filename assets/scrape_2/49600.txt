@@ -1,0 +1,3 @@
+Name for the boundary between near and far sides relative to an observer
+
+Does the boundary between the near (visible) and far sides of an object have a name, analogous to the terminator which divides day from night?  (For a spherical object, this would be a great circle in the plane normal to the observer's line of sight, just as the terminator is a great circle normal to the direction of illumination.)

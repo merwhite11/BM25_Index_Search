@@ -1,0 +1,11 @@
+Strange spectral types in star catalogs
+
+I'm collecting different star catalogs I've found in the Internet to make my own and I noticed some "strange" peculiarity in how those catalogs describe spectral type of a star.
+Namely:
+
+sometimes the type has got a slash like "G8/K0III". Does it mean it is a binary star system? A variable star? A measurement uncertainty?
+other types has an ellipsis: "K0...". This one is a completely mystery to me...
+you can find even "+" and ":"
+and the last but not least: plain weird names like "K1IIICN..."
+
+May someone explain where those enigmatic descriptions come from? What in the way a spectral type is determined in observatories makes the need of such things?

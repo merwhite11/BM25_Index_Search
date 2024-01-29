@@ -1,0 +1,6 @@
+Continuum at 230 GHz
+
+what does it mean 'The observations were made in the CO J=2–1 line and continuum at 230 GHz (1.3 mm)'?
+"The observations of the continuum were also made with a bandwidth of 320 MHz. "
+http://articles.adsabs.harvard.edu/pdf/2000A%26A...353L..25C
+"Continuum at 230 GHz" seems like an example of oxymoron phrase?

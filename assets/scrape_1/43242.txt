@@ -1,0 +1,9 @@
+How to calculate galaxy bolometric luminosity?
+
+I am a bit confused by bolometric corrections. If I have an x-ray luminosity in the 2-10 keV band, how does one convert that to $L_{bol}$?
+From Netzer's book The Physics and Evolution of Active Galactic Nuclei I got these bolometric correction factors:
+Optical: $BC_{5100} = 53 - log(L_{5100})$
+and x-ray: $log(L_{5100}) = 1.4\times log(L_X) - 16.8$
+where the bolometric correction for the x-ray luminosity ($L_X$) is obtained in two steps, using the equation for the optical BC again. The index $5100$ stands for the optical continuum measured at $5100$ angstrom.
+I can't figure out what I have to do with this $BC_{5100}$ once I've got it. Multiply by $L_X$? The book says "(...) BCs, that can be used to convert a single-band measurement of $L$ into an approximate $L_{bol}$."
+I'm happy to use correction factors defined elsewhere instead of the ones I quoted. I just want to calculate an estimate for $L_{bol}$ for my galaxies.

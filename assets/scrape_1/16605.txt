@@ -1,0 +1,5 @@
+Why is the exoplanet HD 131399Ab so hot?
+
+Recently, a fascinating triple-star system with an exoplanet has been discovered (arxiv). 
+I'm very surprised about the temperature of the exoplanet: it is roughly 850 kelvin, even though its orbit is ~82 AU away from the main star (~1.5 $M_☉$), and >250 AU from the other two stars. The planet itself has ~4 jupiter-masses.
+Why can such a planet be so hot, for instance compared to Jupiter? I would have expected it to be very cold because it loses a lot of energy via radiation (that's actually the reason why the group discovered it via direct imaging), and it does not get much energy from its stars.

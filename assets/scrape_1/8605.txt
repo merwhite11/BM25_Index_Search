@@ -1,0 +1,5 @@
+If Alpha Centauri A's solar system exactly mirrored our own, what would we be able to detect?
+
+Suppose there was an exact replica of our solar system 4.4 ly away (people included). What would we be able to detect and with what telescope(s)? Which planets? Could we detect radio transmissions and/or any atmospheres?
+I assume detection would be optimal if we were co-planar with the other star's ecliptic, so what would we see in the best- and worst-case (90°-view?) scenarios?
+Post Script: a few months later I asked something like this during a von Karman lecture by Neil Turner.

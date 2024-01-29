@@ -1,0 +1,8 @@
+Celestial Coordinates and Sun's degrees below horizon
+
+I am struggling to understand the how the coordinates work.
+Example: At vernal equinox RA=0 DEC=0, Does this mean the Sun is at its highest point at the equator?
+If my mean solar time is 2h 30min, does this mean it's 2:30am on my watch?
+I calculated the Hour angle which gives me how far away is the sun at this time, so
+HA= MST - 12h = -10h 30m, meaning 10h 30m away from me, right?
+How do I know how far below the horizon the Sun is? I know for every hour the sun rises by 15degrees. As it's 2:30am it must be below horizon, but I don't know how to find how far is the sun below the horizon.

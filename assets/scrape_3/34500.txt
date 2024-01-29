@@ -1,0 +1,12 @@
+Kepler's equation and eccentric anomaly
+
+From the wiki article about eccentric anomaly follows:
+$$\cos E = \frac{x}{a}$$
+$$\sin E = \frac{y}{b}$$
+where E - eccentric anomaly, a - semi-major axis, b - semi-minor axis, P = P(x,y) a point on elleptic orbit. So if you know an E, you can find a position on an orbit:
+$$x = a \cos E$$
+$$y = b \sin E$$
+However, from article on Kepler's eqution follows:
+$$x = a (\cos E - e)$$
+$$y = b \sin E$$
+Please, help to understand why these formaluae differ? I expect them to be the same.

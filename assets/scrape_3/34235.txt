@@ -1,0 +1,4 @@
+What are the benefits of a large refracting telescope?
+
+Currently, refractor telescopes are limited in aperture because gravity will deform the main lens over time. According to Wikipedia the largest practical refracting telescope is 1m. 
+If we were to overcome this limitation, what would be the theoretical benefit of such a telescope that other types of telescopes currently can't give us?

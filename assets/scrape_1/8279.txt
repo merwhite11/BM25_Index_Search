@@ -1,0 +1,8 @@
+Data for Sun's Orbit
+
+The planets approximately orbit the sun, but a more precise statement is that the planets and the sun all orbit around a common barycenter.
+Because the sun is so massive, this barycenter is very close to the sun.  If we take the sun to be the origin, the barycenter travels in a complex, nonlinear trajectory (from Wikipedia):
+
+Modeling this accurately is critically important to predicting celestial events.  I wrote a simulator to predict the 2012 transit of Venus, based on estimates of orbits and the assumption that the sun is at the origin.
+The error introduced by these assumptions was enough to miss the transit by a solar diameter.
+This data must exist, since the transit actually did happen.  Additionally, errors in the orbital data of the planets could have affected it.  Where can I find data on where the planets and the sun are and what trajectories they're moving in (relative to the solar system's barycenter)?

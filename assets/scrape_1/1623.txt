@@ -1,0 +1,4 @@
+Rotational speeds of the material forming planets should increase, not decrease
+
+We know that planets form as a result of gaseous material revolving around a center of mass that froze to form planets. However shouldn't the angular speed of that matter increase as they go closer to the center to maintain the angular momentum? 
+Why then the average rotational period of the external planets are faster than that for the terrestrial planets?

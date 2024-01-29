@@ -1,0 +1,4 @@
+Calculating longitude from star culmination
+
+Here is the problem: I need to calculate longitude of observing place. And I know time (in UTC+1) of star culmination (Sirius) and star altitude. I also know RA (right ascension) and Dec (declination) of the star and I also know RA of the Sun for that day. I already calculated latitude but I can't figure out how to calculate longitude.
+Thank you.

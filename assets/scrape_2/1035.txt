@@ -1,0 +1,11 @@
+USNO moon images look quite different?
+
+I visited: 
+http://aa.usno.navy.mil/imagery/moon
+http://www.usno.navy.mil/USNO/time/moon-phase-images 
+within seconds of each other, and saw two very different "current moon images": 
+
+
+Is one of these images wrong? The larger image seems to display a much 
+bigger crescent than the smaller image.
+I've noticed this earlier as well.

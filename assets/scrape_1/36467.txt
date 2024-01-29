@@ -1,0 +1,3 @@
+A Noob's question on declination
+
+The Sun's position at noon is perpendicular to the local x-y plane on the equator during equinox. So the declination of Sun on that day is 0. Today the declination of Sun is close to 23, can this be taken as a virtual equator and hence the tropic of Cancer is in 46.5N (by adding 23.5 to it) and tropic of Capricorn is in 0.5S? Or my assumption is wrong?

@@ -1,0 +1,8 @@
+How often do stars pass within 1 light year of the Sun?
+
+Interstellar exchange of massive objects is difficult across several light years. But as the stars orbit the galaxy the distances between them change. I don't find data for neighbor star distances which covers more than a couple of a hundred thousand years. I can imagine that it is difficult to trace their orbits further given todays uncertainties in distance measurements. But I'm interested in a purely statistical/geometrical estimation of how frequent nearby Sun-star passages have been.
+
+How many times has a star come closer than, for example, 1 light year from the Sun since it formed?
+How well mixed have the nearest stars become over time? What fraction of them have followed the Sun since formation and made multiple passages?
+
+I suppose that 1 light year's distance is enough to cause disturbances in the Oort cloud and likely encourage comets.

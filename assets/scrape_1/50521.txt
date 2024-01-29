@@ -1,0 +1,4 @@
+What does a fitted curve for the period of a variable star, tell me about the star?
+
+If I have enough data of a variable star to make a light curve for it's whole period, and If I  fit a function to that light curve, can that fitted function tell me anything about the properties of the star?
+If so, is it different for different types of stars?

@@ -1,0 +1,3 @@
+Spectroscopy of Exoplanets
+
+How is accurate spectral analysis of a planets atmosphere achieved, bearing in mind that its host star's resultant light emission is not a full spectrum?

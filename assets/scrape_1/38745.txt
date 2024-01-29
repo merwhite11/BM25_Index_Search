@@ -1,0 +1,5 @@
+What do the words "p-type" and "s-type" mean?
+
+As explained in various sources (such as that answer), a planet in an s-type orbit orbits one of the stars of a binary star system, whereas a planet in a p-type orbit orbits both stars. A synonym for a p-type orbit (at least in binary star systems, not sure about N-ary systems in general) is "circumbinary", which is a self-explanatory term.
+However, what do "s-type" and "p-type" mean, respectively?
+Are "S" and "P" acronyms of anything?

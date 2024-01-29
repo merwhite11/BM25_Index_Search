@@ -1,0 +1,13 @@
+'Little h' usage in cosmological simulations
+
+I am running a cosmological simulation and am having some trouble putting things into code units. The physical distance units in my simulation are in terms of $\text{Mpc/h}$, where $h$ is the dimensionless Hubble parameter. This makes enough sense because, as noted elsewhere, simulations are often scale-free so it makes sense to factor out the $h$ dependence and make it explicit. This unit convention is causing me some confusion however. In one calculation I have to do during the simulation, I essentially (ignoring context which I can provide later) have to multiply the speed of light $c$ by an inverse distance $1/x_0$ which is given in units of $\text{Mpc/h}$.
+In order to properly have the units cancel, I first put $c$ in units of $\text{Mpc/s}$ to get 
+$$
+9.716 \times10^{-15} \text{Mpc/s}
+$$ 
+However, should I know factor out the $h$ dependence? These seems strange to me because in my mind, the value of the speed of light should not depend on the underlying cosmology I have simulated. On the other hand, I feel that I should not cancel units of $\text{Mpc}$ with units of $\text{Mpc/h}$. To make things concrete, let's assume I have a value of $h=.7$. Should I then take the quantity above and multiply it by $.7$ to yield 
+$$
+6.802 \times 10^{-15} \text{(Mpc/h)/s}
+$$
+and use that result in my calculations? I think this situation confuses me because it doesn't involve measurements, where it is clear how $h$ can enter, and it involves a constant of nature, which should be independent of the assumed cosmology. 
+Let me know if more info is needed.

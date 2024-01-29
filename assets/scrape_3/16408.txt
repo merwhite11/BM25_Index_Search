@@ -1,0 +1,5 @@
+What is the reason the Chinese want to measure the <30Mhz radiation behind the moon?
+
+On the Earth it is difficult to detect radiation below 30MHz from space due to our atmosphere. But why do they want to measure this radiation behind the moon? It has something to do with the big bang, but isn't the frequency of CMB not around 160GHz?
+The Chinese are planning to launch a satellite with a 30 MHz antenna on it in 2018.
+Aren't there already enough decent measurements of the CMB? So what would they like to find concerning the Big Bang?

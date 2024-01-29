@@ -1,0 +1,7 @@
+What do "overdense" and "underdense" mean in cosmology?
+
+“Overdense" and "underdense" often appear in various documents to refer to high density and low density respectively. And I know that "overdensity" is defined as
+$$
+\delta(x)=\frac{\rho(x)-\bar\rho}{\bar\rho}
+$$
+Is there someone threshold, here denoted as $\delta_t$ to distinguish "overdense" and "underdense"?

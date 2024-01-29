@@ -1,0 +1,6 @@
+Tidal potential expression using eccentricity
+
+I'm reading these excellent lecture notes about tidal dissipation, and they mention at some point that the time-dependent part of the tidal potential is approximated by (Eq. 17.1 on the third page):
+$$ ~ e\frac{GMR^2}{a^3} $$
+Where $M$ is the host planet mass, $R$ is the satellite radius and $a$ is the orbital radius (which I guess it's the semi-major axis since the orbit is eccentric?), and $e$ is the eccentricity as far as I understand.
+Can someone shed some light on how they got to this approximation for the tidal potential?

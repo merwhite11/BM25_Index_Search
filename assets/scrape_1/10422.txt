@@ -1,0 +1,3 @@
+How much do the mascons on the moon affect surface gravity?
+
+The gravity anomalies on the moon (generally accepted to be caused by mascons) are powerful enough to affect the orbit of satellites.  I'm trying to determine how much effect they would have on a person standing on the surface.  If we experience about 17% of Earth's gravity on the lunar surface, how much would that differ within one of these anomalies?

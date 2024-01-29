@@ -1,0 +1,15 @@
+How can we make sure that it is physically the same source when we do cross matching?
+
+When we go through multiple astronomy catalogs, we often do Cross-matching. We compare the position parameters $(\alpha, \delta)$ of different sources (galaxies, quasars, etc.) in the equatorial coordinate, where $\alpha$ is the right ascension and $\delta$ is the declination.
+However, it is possible that two completely different sources are on almost the same position. We might make make mistakes if:
+$$
+\alpha_1 \approx \alpha_2,\ \delta_1 \approx \delta_2
+$$
+The question here How can we be sure that we have identified very distant stars correctly? pointed out the redshift features could be very important in this problem.
+My question is:
+
+Does the phenomenon often occur when we are doing cross matching?
+In specific, how can we use the redshift features in cross matching programs?
+Do we have any other way (some special statistics techniques, for example) to solve the problem?
+
+Thanks!

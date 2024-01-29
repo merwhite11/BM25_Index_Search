@@ -1,0 +1,5 @@
+Parabolic or hyperbolic trajectories
+
+According to Newton's laws, the trajectories for the two-body problem are conics: either ellipses, or parabolas or hyperbolas. Of course periodic motions require Ellipses and in the Solar system these elliptic curves are a pretty good approximation of the trajectory of each planet.
+However, it is possible that the trajectory of a very fast comet could be an hyperbola or a parabola with the Sun at a focus; in that case the motion would not be periodic and the comet would be visible near the Sun only once.
+My question: was there ever any observation of a  comet on a hyperbolic (or parabolic) trajectory (with the Sun at a focus)? Same question for different stellar objects. It would be certainly very difficult to observe, since the comet would be visible only one time at its perihelion and would go at infinity after this with no return.

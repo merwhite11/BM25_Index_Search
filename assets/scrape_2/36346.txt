@@ -1,0 +1,4 @@
+6th catalogue of orbits of visual binary stars
+
+I wanted to download or access the US navy catalog " the sixth catalog of orbits of visual binaries". I have already tried USNO web site and vizier. but I couldn't see them there. The link was dead for me; on www.usno.navy.mil, I reached the page but could not open the link. 
+Is there any other site with downloadable or accessible data on the above-mentioned catalog available?

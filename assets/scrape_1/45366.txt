@@ -1,0 +1,4 @@
+Star Catalog with radius, luminosity, and spectra class?
+
+I am looking for a star catalog (hopefully a .csv file) that contains radius, luminosity, and spectra class data for 1000+ stars.
+I have checked catalogs like the HIP, HD, and GAIA catalogs. I have also looked at the VizieR tool. I could not find a catalog with all of these parameters.

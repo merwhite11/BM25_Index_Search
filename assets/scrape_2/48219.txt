@@ -1,0 +1,5 @@
+What is the skypath of JWST?
+
+JWST will be in a 6 month halo orbit around the Sun/Earth L2 point, which is located at the anti-solar point. Internet graphics give conflicting information on whether the skypath is clockwise or counterclockwise around this moving point.
+This post Will the James Webb Space Telescope be visible from earth? says JWST, in halo orbit, will be observable from earth by dedicated amateurs and provides a link for generating an ephemeris.
+Will the skypath be clockwise or counterclockwise with respect to the antisolar point? Will JWST display apparent retrograde motion, or just “slow down”?

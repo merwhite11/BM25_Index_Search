@@ -1,0 +1,10 @@
+pH of meteorite
+
+When a meteorite shower strikes a water body, what will be the pH of the water after the strike.
+Will it always be $<7$
+or
+Will it always be $>7$
+or
+Will it always be $=7$
+or
+The answer varies from case to case

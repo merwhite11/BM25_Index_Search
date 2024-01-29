@@ -1,0 +1,7 @@
+Could space time curve from the vantage point of earth and out into the universe, and would d = 1 / P in that case give false estimates?
+
+The seventeenth century saw a revolution in astronomy. The invention of the telescope and the acknowledgement of the heliocentric system triggered a race amongst astronomers to measure the parallax of stars - the annual displacement of stellar positions due to Earth's motion around the Sun. In the late 1830s these measurements enabled astronomers to determine the distances to a handful of stars for the first time. From the 1850s onwards, the application of photography to astronomical observations transformed the practice of charting the sky, allowing the compilation of larger and larger catalogues of stellar positions and distances.
+That robust marvel of trigonometry applied to observations of other stars, lets me look up into the sky for 6 months, measure the apparent motion, then divide 1 by that, and voila, the distance to the star. 
+For example, the distance to Alpha Centauri, https://www.wolframalpha.com/input/?i=1+%2F+.77
+These distances are used in all textbooks, all databases, all conversations, and does not correct for any space-time curvature whatsoever.
+To draw a line on the sky, and use trigonometry, seems almost a bit too simple. Anyone have any thoughts on if space-time might curve in weird ways sort of like how a fish eye lens on Instagram distorts an image?

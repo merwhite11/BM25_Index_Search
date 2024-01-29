@@ -1,0 +1,5 @@
+how to find the approximate [stellar radius]? (distance from center to most distant star) of a circular flat disk galaxy based on its stellar mass?
+
+I'm doing a high school programming project on drake's equation (simple galactic model) and wondered if there was a (simplified) way to find the radius (measured by the distance between the center and furthest star) of a galaxy based on its stellar mass. I found a few websites but I don't understand many of the terms and symbols in the equations shown. would love a simplified equation if possible.
+In the project, I am modeling a 2d circular disk galaxy with no rotation.
+I have a Y10 level understanding of maths.

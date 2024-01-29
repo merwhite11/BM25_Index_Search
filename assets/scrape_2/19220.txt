@@ -1,0 +1,7 @@
+How can clouds form in Jupiter's atmosphere of Hydrogen and Helium?
+
+Here is a graphic of cloud layers of Jupiter (source: Wikipedia):
+
+There are three distinct cloud layers of ammonia, ammonium hydrosulfide, and water. The temperature and pressure conditions seem to be surprisingly earth-like; temperatures between 200 and 300 K, pressures about 1 to 10 atm, gravity around 1.3g.
+Clouds (of water) form on earth because they solar energy causes them to evaporate from a solid surface, rise a few km, then condense to form water droplets (or solid crystal snow). But Jupiter does not have a solid surface, or nearly as much solar energy as the Earth.
+All three of the cloud forming compounds should be liquid at the conditions of their cloud layer. Given the density of those liquids (between 0.7 and 1.2 g/cm$^3$) and the density of the bulk of the hydrogen and helium atmosphere, how do the clouds not fall as precipitation into Jupiter's interior and never re-emerge?

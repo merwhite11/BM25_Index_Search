@@ -1,0 +1,6 @@
+Is it possible to determine an observer's position on Earth from a photo of the night sky and the time of the shot?
+
+To my knowledge, this question can be related to celestial navigation on one hand and to attitude (or orientation) determination from stars direction on the other hand. However the combination of this two methods does not solve the problem, so I am wondering if there is a different approach.
+In celestial navigation, the altitude of the stars (elevation wrt to the horizon) at a given time can be used to determine the observer's position. The limit of this method is that the horizon must be visible, which is not necessarly the case in a photo of the night sky.
+An image of the night sky can also provide information about the attitude (orientation) of the camera wrt to an inertial frame. The measured direction of a few stars (from their position on the image) and their known direction in an inertial frame give an estimate of the attitude. This method is used in devices called star trackers onboard satellites for instance.
+The combination of this 2 approaches fails to solve the problem because the information about the horizon is still missing. Indeed, the orientation is found with respect to the inertial frame, not the local frame, and thus the horizon is still unknown.

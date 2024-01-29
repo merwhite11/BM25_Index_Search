@@ -1,0 +1,5 @@
+What happens to the momentum of a star as its mass is converted to energy?
+
+Stars move relative to many frames of reference.  We can use the CBR for this question, I suppose, but it may not matter.  Their momentum p=mass x velocity.
+Stars lose mass as it is converted to energy. Percentage-wise it isn't much, but it is tons per second, so it isn't negligible.
+What happens to the momentum of the star as it loses mass? Presumably it is conserved, so does the velocity of the star increase?  Or does the overall system carry off some momentum with the energy, leaving the stellar velocity constant?

@@ -1,0 +1,7 @@
+Why carbon is considered volatile?
+
+Carbon is considered volatile by planetary science, eg Moon lacks volatiles and thus lacks carbon.
+However volatiles are defined as "elements or substances with low boiling point", but Carbon boiling point is very high! Its sublimation point is 3900K, so it should be refractory and not volatile.
+I am confused why it is volatile with such high sublimation point.
+Regards,
+Alex

@@ -1,0 +1,9 @@
+Why does apparent magnitudes get increased fourfold when distances get halved, instead of simply getting doubled?
+
+This website explains:
+
+The apparent brightness of a star is proportional to 1 divided by its distance squared. That is, if you took a star and moved it twice as far away, it would appear 1/4 as bright; if you moved it four times the distance, it would appear 1/16 as bright.
+
+It then goes about explaining how this works.
+The problem I have is that I don't understand the reasoning.
+Thus: in simpler terms than this website used, how does this work?

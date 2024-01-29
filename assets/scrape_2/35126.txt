@@ -1,0 +1,6 @@
+Field rotation and observing the moon
+
+For stars, field rotation can be accounted for with an equatorial mount aligned with the Earth's axis and turning at the correct rate.
+Since the Moon's orbit is on a different axis then the Earth's rotation it seems like the Moon's own motion would also contribute to field rotation with respect to the observer. 
+Is this correct? For instance, would pictures taken on a properly aligned equatorial mount still appear rotated to each other over time?
+How would we find the field rotation due to this?

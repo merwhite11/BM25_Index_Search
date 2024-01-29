@@ -1,0 +1,7 @@
+Computing the local orbital frame vector directions in a geocentric reference frame
+
+In the context of the study of a cubesat (little satellite), I am asked to define the local orbital frame and compute the local orbital frame vector directions as a function of time :
+Here the context :
+
+Anyone could give me some tracks or links to find the answer of part 2.1 Local orbital frame ? this would be kind.
+Regards

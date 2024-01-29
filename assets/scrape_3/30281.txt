@@ -1,0 +1,11 @@
+Anisotropy of quasar distribution
+
+In a paper titled 
+
+Arp, H. (1984). Distribution of quasars on the sky. Journal of Astrophysics and Astronomy,
+  5(1):31-41.
+
+at Journal of Astrophysics and Astronomy, Halton Arp wrote that there is a notable clustering of quasars at $21^h<RA<3^h$, and a marked lack of quasars at $9^h<RA<15^h$, but I haven't been able to find other references to the same distribution. The paper was published in 1984, so has anyone else published a similar result, or has this observation been
+
+refuted, or
+explained?

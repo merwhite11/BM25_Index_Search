@@ -1,0 +1,3 @@
+Where to find all spectroscopic data about 28 CMa?
+
+I am searching all available spectroscopic data (and particularly wavelength interval) of 28 CMa in the constellation Canis Majoris to measure radial velocities. Which database should I use?

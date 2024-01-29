@@ -1,0 +1,4 @@
+Can we identify planets, moons, and large asteroids in our solar system have a unique spectroscopy?
+
+I'm looking to create a database of relatively consistent measurements for various cosmic bodies. Please inform if there's a way to gather reproducible signatures, with the same set of instruments to derive the same measurements within a given margin of error.
+If also possible, please link to an academically-trusted data source.

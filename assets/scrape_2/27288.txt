@@ -1,0 +1,10 @@
+Total angular momentum in system of binary brown dwarfs on wide orbit from primary star
+
+I want to calculate the total angular momentum of a system in which two brown dwarfs are orbiting one another (P ~ 10 years), and this system is stably orbiting a third primary ZAMS star (P ~ $10^4$ years). I was thinking of approaching this question from a Hamiltonian mechanics perspective, but the problem doesn't become easier in the rotating reference frame. 
+Let A denote the primary star, and B,C denote the two components of the binary. I was thinking the angular momentum would simply be the sum of rotational (S) and orbital angular (L) momentums:
+$$
+L_{tot} = S_{A} + S_{B} + S_{C} + L_{BC} + L_{A+BC}
+$$
+However, I am both worried that I am partially "double counting" with the last term and I don't really know how to treat the last term. Do I treat BC like a single mass at their barycenter? 
+If there is a Hamiltonian method to approach this problem, I am all ears.
+The question I am actually concerned with is what would the rotation rate of the primary star be if the total angular momentum of the system was in the primary star? But I would really just like an accurate description of the angular momentum of the system to do this.

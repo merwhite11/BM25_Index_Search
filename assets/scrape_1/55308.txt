@@ -1,0 +1,5 @@
+Gravitational waves vs. "normal gravity"
+
+Imagine you have a super sensitive 3D accelerometer/gravimeter alongside the Virgo interferometer.
+A gravitational wave passes by and Virgo detects a variation in the length of the 3000m long arms.
+Will the gravimeter be able to, theoretically, simultaneously detect variations in gravity?

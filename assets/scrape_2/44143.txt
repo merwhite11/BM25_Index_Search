@@ -1,0 +1,6 @@
+How can I find the distance of the tower while standing at my roof?
+
+Whenever someone starts telling about finding distances in astronomy, it all starts with a parallax. The example they give is straightening your hand and see how your thumb changes its location while you switch your eyes from one to another. How does this work?
+
+What I don't understand: How can you practically in trivial cases (where parallax is significant and easily observable), can you use this to find distances?
+For example, assume there is a tower which I can see from my roof: How can I find its distance using parallax? It's about $70-80$ meters from the roof so I think I can get significant parallax if I move across the roof but how to take that angle and how do I proceed then?

@@ -1,0 +1,5 @@
+Explanation of resonance stability and instability
+
+I'm having some trouble grasping the idea of planetary resonances due to what seems to me like an ambiguity. It is known that the asteroid main belt is sculpted by the Kirkwood gaps, corresponding to orbits that are in mean motion resonance with the Jupiter. As such, the asteroids reaching such orbits get ejected (unstable) from such resonance orbits. Nevertheless, objects like Pluto are dynamically stable due to their resonance with Neptune. Mercury's spin-orbital resonance makes its elliptical orbit stable around the Sun. 
+Any ideas how to explain the two-fold nature of the outcomes of planetary resonances ? Any references to some literature / mathematical proof would be highly appreciated.
+Thank you in advance,

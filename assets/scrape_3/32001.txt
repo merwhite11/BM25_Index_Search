@@ -1,0 +1,10 @@
+Are exoplanets which are above escape velocity of particular interest?
+
+I was perusing the exoplanet database and looking for some of the more extreme orbits, when I happened upon HD 20782 B:
+http://exoplanets.org/detail/HD_20782_b
+Which is also listed (in two sentences) on wikipedia, so there's not a whole lot of information. However, the first thing I noticed was that it was almost at escape velocity!
+
+I guess not much is known, but my overall question is:
+Would an exoplanet on an escape trajectory offer us any opportunities for research that have yet to be performed? What would those opportunities be? The answer can be a justified no (E.G. once the planet leaves the host star, we can't observe the doppler shift anymore).
+
+Imaginary Bonus Points: have there ever been any observed as escaping/becoming rogue planets?

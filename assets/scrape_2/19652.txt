@@ -1,0 +1,12 @@
+Why the Hubble constant is so inconsistent?
+
+Having a look on Wikipedia I noticed the following values (of the last 6 years) for the Hubble constant:
+
+67.6±0.7 SDSS-III Baryon Oscillation Spectroscopic Survey    
+73.00±1.75   Hubble Space Telescope
+67.80±0.77   Planck Mission
+69.32±0.80   WMAP (9-years)
+70.4±1.3     WMAP (7-years)
+
+Most of experiments exclude the values of the others so that WMAP excludes the values of SDSS and from Hubble, while Hubble excludes Plank Mission's values, SDSS and WMAP 9.
+Can anybody tell what's the problem here and which one is the more reliable source for $H_0$?

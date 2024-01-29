@@ -1,0 +1,7 @@
+Solar / lunar positions in ECEF using SOFA C libraries
+
+I'd like to calculate the positions of the sun and moon in the ECEF coordinate system using the SOFA (http://www.iausofa.org/current_C.html) libraries given a Julian day input.
+So far, I've got this process for the sun:  (1) convert Jd (UTC) to TAI, to TT, then to TDB, then (2) calculate earth position/velocity in heliocentric coordinates (iauEpv00), then (3) negate the terms to get ECI.
+(a) I'm not sure if the process above is correct, especially since calculating TDB time requires a "dtr" parameter, which apparently you have to have TDB times to estimate using iauDtdb().
+(b) I'm not sure how to convert the resulting vector from ECI to ECF, which is probably just a time-based rotation of the longitude, but how much time is elapsing?
+(c) Not sure where to even start with the moon.

@@ -1,0 +1,13 @@
+How does NASA's ASTHROS stratospheric telescope compare to its James Webb space telescope?
+
+In Space SE I've asked Would it have been cheaper and faster to put a James Webb-like Space Telescope on a balloon instead of a rocket?
+I linked there to a few news items:
+
+CNET: NASA to send stadium-size balloon skyward to study the cosmos
+JPL/NASA News: NASA Mission Will Study the Cosmos With a Stratospheric Balloon Even in 2020 balloons are used for space exploration; Q.E.D.
+Scitech Daily: NASA ASTHROS: Stratospheric Balloon the Size of a Football Stadium Will Carry a Cutting-Edge Telescope
+
+Question: But here I'd like to ask about the ASTHROS instrument and how it compares in capability and range of instrumentation compared to the JWST. I know that they both have infrared capabilities and cryogenically cooled instrumentation, but I don't know how their instrumentation or spectral ranges compare.  I'm pretty confident that ASTHROS will not have the same aperture as JWST, but I don't know how much smaller it will be
+update: The JPL/NASA News article above intriguingly says:
+
+A gondola beneath the balloon will carry the instrument and the lightweight telescope, which consists of an 8.4-foot (2.5-meter) dish antenna as well as a series of mirrors, lenses, and detectors designed and optimized to capture far-infrared light. Thanks to the dish, ASTHROS tied for the largest telescope to ever fly on a high-altitude balloon. During flight, scientists will be able to precisely control the direction that the telescope points and download the data in real-time using satellite links.

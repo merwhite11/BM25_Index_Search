@@ -1,0 +1,6 @@
+Determining Horizontal Coordinate System data (azimuth, altitude) for geographic locations
+
+I would like to determine, specifically, azimuth and elevation data for any given location on the surface of the earth relative to another location on the surface of the earth (for my purposes, the latter will be London, UK).
+Data and APIs are readily available for certain celestial objects, but I haven't had any luck finding data as required.
+Can anyone enlighten me as to a method for calculating such data?
+Many thanks.

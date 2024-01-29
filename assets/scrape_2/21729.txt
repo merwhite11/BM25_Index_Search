@@ -1,0 +1,3 @@
+galaxies in a specific radius in different shapes of universe
+
+Let the distribution of galaxies be a number like $n$. we want to find the total number of galaxies within the radius $r$ from a specified point. in which shape of the universe (flat, open, closed) the number we get is higher? ($n,r$ are the same in this universes and only the area (volume) in each universe is different).

@@ -1,0 +1,3 @@
+How to improve the quality of an image of the planets when taken through the eyepiece of a telescope with a dlsr camera
+
+I have a reflector telescope with a 114mm aperture and 1000mm focal length.  I find that to get the clearest image I can use a 4mm eyepiece, or with my 5x barlow a 20mm however, seeing that I am very interested in astro photography when I try to photograph Jupiter for instance, through the telescope eyepiece, being the size of about a green pea seen through the scope, there is not enough pixel data for my canon eos t2i rebel dlsr to capture a clear photo. Is there some way to enlarge the photo for the camera without blurring the planet's details from over magnification?

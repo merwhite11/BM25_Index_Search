@@ -1,0 +1,26 @@
+Visibility of a planet on the other side of the Sun
+
+Context: I've been having a discussion with my vectors and mechanics professor (course Mathematics BSc) about a problem on a recent coursework. The following is the model I came up with. I'm not an astronomer, so bear with me.
+Define: 
+
+$S$ the Sun;
+$E$ the Earth;
+$P$ some other planet in the solar system;
+$O$ the position of an observer somewhere on $E$;
+$0<l<90$ the latitude of $O$;
+$\Pi_E$ the orbital plane of $E$, the $xy$ plane;
+$\Pi_P$ the orbital plane of $P$;
+$\Pi_O$ the plane tangent to $E$ at $O$;
+$\alpha$ the acute angle between $\Pi_E$ and $\Pi_P$;
+$\beta=90-l$ the acute angle between $\Pi_E$ and $\Pi_O$.
+
+Assume:
+
+The local time at $O$ is midnight;
+The date is the Summer solstice;
+The visual sizes of $P$ and $S$ are both non-zero but otherwise negligible;
+The projections of $E$, $S$ and $P$ onto the $xy$ plane are roughly but not exactly collinear;
+The solar system is Euclidean;
+Light travels in infinite straight lines.
+
+Given these assumptions, I think that $P$ is visible from $O$ if and only if $\alpha>\beta$. Am I right?

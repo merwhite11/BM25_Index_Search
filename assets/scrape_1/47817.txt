@@ -1,0 +1,17 @@
+Do observational astronomers make use of the Fredholm equation? Perhaps in solving for/removing instrumental effects in imaging?
+
+The Fredholm equation of the first kind (Wolfram Mathworld and Wikipedia) written as (Wolfram's):
+
+$$f(x) = \int_a^b K(x, t) \ \phi(t) \ dt$$
+where $K(x, t)$ is the kernel and $\phi(t)$ is an unknown function to be solved for (Arfken 1985, p. 865).
+If the kernel is of the special form $K(x - t)$ and the limits are infinite so that the equation becomes
+$$f(x) = \int_{-\infty}^{\infty} K(x - t) \ \phi(t) \ dt$$
+then the solution (assuming the relevant transforms exist) is given by
+$$\phi(x) = \int_{-\infty}^{\infty} \frac{F_x[f(x)](k)}{F_x[K(x)](k)} \ \exp(2 i \pi k x) \ dk$$
+where $F_x$ is the Fourier transforms operator (Arfken 1985, pp. 875 and 877).
+
+This I can understand; the Fourier transform of a convolution of two functions is just the product of their Fourier transforms. The $\int_{-\infty}^{\infty} \exp(2 i \pi k x) \ dk$ is just the inverse Fourier transform, and the fraction comes from moving the Fourier transform of the kernel $K$ from one side to the other.
+To me this looks like it could be a way to solve for the un-diffracted image of a galaxy $\phi$ starting with the diffracted image $f$ and say an Airy function kernel $K$.
+I suppose an array of radio telescope dishes would have a more complicated kernel.
+While observational astronomers might under some conditions remove instrumental effects by de-convoluting an image before analysis or fitting something to it, the alternative would be to convolute the model with the kernel and fit that to the raw data instead.
+Question: Do observational astronomers make use of the Fredholm equation? Perhaps in solving for/removing instrumental effects in imaging?

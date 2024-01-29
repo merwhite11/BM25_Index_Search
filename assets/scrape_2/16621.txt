@@ -1,0 +1,11 @@
+Which 16 antenna locations were used this MeerKAT radio image?
+
+The final configuration of the MeerKAT radio array will be 64 dishes. In the press release of July 16, 2016 a radio image is shown using a completed sub-set of 16 dishes.
+Which 16 are these? I can find documents on-line with coordinates for 64 location, (sometimes numbered 1 through 64, but not here), but I can't figure out which 16 are used to produce this image.
+I found images of KAT-7 and MeerKAT in google maps - maybe someday we can get daily ground truth updates from Planet Labs, but for right now I'll stick to stackexchange.
+Image from the press release:
+
+
+Above: MeerKAT array core from Google Maps at (30.7136109S, 21.4399576E). The remaining sites are farther away and can be seen if one zooms out.
+
+Above: KAT-7 array from Google Maps at (30.7217011S, 21.4070518E)

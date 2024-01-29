@@ -1,0 +1,16 @@
+In the 1950's how were radio-astrometric positions with portable dishes so precise they could be assigned to their dim optical counterparts (Quasars)?
+
+In my question Why are quasars so far away that they couldn't be optically resolved in the 1950's? I included the following short paragraph, but then added strikethrough to the second sentence and added a parenthetical based on @DavidTonhofer's comment.
+
+So today instead of "quasi-stellar" we might simply say "unresolved". The light is star-like because the light from galaxies has a strong stellar component. (this second sentence is argued against in comments)
+
+I then read further and found this short but informative historical account in University of Manchester's Jodrell Bank Centre for Astrophysics page The MKI and the discovery of Quasars:
+
+Initially the radio sources were observed with the telescopes relativly close together. In this case the fringe pattern is very broad and greater than the typical angular size of radio sources so virtually all are observed to give fringes. However as the telescopes are moved apart, the fringe spaceing becomes finer and the fringes from many of the radio sources first reduced in amplitude and then disappeared. The separation of the telescopes when the fringes from each source reduced in amplitude (and the wavelength of the radio waves observed) allowed the angular size of the radio sources to be found.
+To the surprise of the astronomers quite a number were found to have exceedingly small angular sizes - so small in fact that their images on a photographic plate would look like the images of stars. Much work then went into finding the precise location of these objects and finally it was possible to obtain their spectra. They were nothing like the spectra of stars or galaxies and remained a puzzle for some time. Finally it was realised that the reason that the spectra were so different was that the objects were so far away that their light was greatly red shifted. They were at very great distances away from us and so it was not surprising that their images were so small!
+Because their images looked liked those of stars they were called Quasi-Stellar-Objects or QUASARS for short.
+
+Question: In the late 1950's how were astrometric positions of these radio sources made so precisely that they could be assigned unambiguously to dim, star-like spots on photographic emulsions?
+
+
+The 25ft Transportable Radio Telescope

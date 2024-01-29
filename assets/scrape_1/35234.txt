@@ -1,0 +1,5 @@
+How can a star's rotation speed be measured?
+
+How can a star's rotation speed be measured? 
+If stars could be resolved, then you could use the Doppler shift to see that half of the star is bluer and the other half is redder,  but stars (other than our Sun) are seen as point objects. With only one point of measurement, how can the rotation be inferred? 
+This article mentions that stellar rotation speeds have been measured, but doesn't explain how.

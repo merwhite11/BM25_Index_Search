@@ -1,0 +1,5 @@
+Tropical or sidereal orbital period when calculation Solar System positions?
+
+I'm reading Practical Astronomy With Your Calculator Or Spreadsheet by Duffett-Smith and Zwart. When calculating the positions (in equatorial coordinates) of the Sun and planets the authors use the tropical orbital period T in days (for the Sun this is the Earth's tropical orbital period). Their method involves finding the mean angular speed of the orbiting body using 360/T degrees/day. What's the reason for using tropical rather than sidereal orbital periods? Thanks.
+EDIT
+Here's a photo of the calculation. Why are they using 365.242191 (Earth tropical year)? Why not 365.256 (Earth sidereal year)? They give the orbital periods of the planets in tropical years. For example, Earth's is 0.999996 tropical years.

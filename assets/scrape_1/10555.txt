@@ -1,0 +1,6 @@
+Is there a theory / equation showing whether or not two passing bodies will go into orbit around each other?
+
+I am looking for a theory that shows whether or not two passing celestial bodies will go into orbit.
+I assume there would have to be a critical point where the gravitational attraction is stronger than the inertia of the moving bodies.
+The bodies would then orbit until they collide, or be affected by a force to fall behind the critical point and escape orbit.
+I am looking for a theory that states that objects past this critical point of gravitational attraction must either collide immediately, or go into orbit after falling within a certain distance.

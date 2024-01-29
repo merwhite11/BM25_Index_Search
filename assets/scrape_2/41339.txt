@@ -1,0 +1,8 @@
+make a celestial map from deep sky images
+
+I take pictures of deep sky objects and I would like to make a celestial map that contains the pictures in the right position in the sky.
+Ideally something like stellarium. (but in stellarium it's hard and you have generated stars on top of the pictures).
+it would be nice to have automatic plate solving, but otherwise I can try to use an external plate solver and provide to software/library directly the fits file. The method should accept colored images, I see many software that handle only gray fits files.
+In other words a 3D black sphere where the pictures are automatically positioned, and the possibility to render a part of the 3D map or the entire map, or navigate like in stellarium.
+I prefer linux software or python3 scripts/libraries.
+Thanks!

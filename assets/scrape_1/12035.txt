@@ -1,0 +1,4 @@
+dataset of stars in the milky way galaxy
+
+Does anyone have any idea were I can get a dataset of stars in the milky way galaxy, their mass and their planets and distance of planets from their star?
+I have tried various catalogs of NASA. I need something specific. I am planning to run some data analytics on them. So it needs to be in a format I can use preferably excel or data.

@@ -1,0 +1,7 @@
+Is it possible to use Photolithography for telescope image sensor?
+
+The current largest digital CCD camera is the Vera C. Rubin Observatory, which has a whopping 3.2 gigapixels with a pixel size of 10 micrometers. In contrast, Agfa 10E56 holographic film has a resolution of over 4,000 lines/mm—equivalent to a pixel size of 0.125 micrometers.
+It makes me think. Will it be possible to use a chemical image sensor to achieve a nanometer pixel size?
+Between 1983 and 2006 the Digitized Sky Survey(DSS2) produced 1.1-gigabyte images (23,040 x 23,040) of 15 micrometers corresponding to 1.0 arcseconds using Photographic-plates. One of their challenges was storage space. They were forced to use a lossy adaptive algorithm to shrink the output size, during which data was lost.
+But since 2018, we can produce 7 nanometers chips via the Photolithography process.
+Can the same technology be used for image sensors? What can we do in 2021?

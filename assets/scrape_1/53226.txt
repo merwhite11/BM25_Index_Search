@@ -1,0 +1,10 @@
+Adhara ultraviolet magnitude
+
+I see Adhara is cited in many places (for example, here) as being the brightest source of ultraviolet light in the sky. The particular source uses the modifier "extreme", but most other statements about it do not, for example:
+
+If people could see in ultraviolet light, Adhara would be the brightest star in the sky.
+
+Yet Adhara's U magnitude is given as 0.36 in the SIMBAD database. In comparison, for example, Sirius has a U magnitude of -1.51.
+Is there a specific meaning for "extreme ultraviolet" in the claim? And if so, where can I find a catalog of the magnitudes of various stars in that band?
+The claim may refer to the band labeled U4 in the Celescope Catalog of Ultraviolet Stellar Observations, which refers to a filter with a spectral response centered around 1500 Angstroms and sensitive over a range from about 1200 to 1900 Angstroms. Of the four ultraviolet filters used in that catalog, U4 covered the "most extreme" ultraviolet span.
+However, that catalog lists four stars (Hadar, Acrux, Alnitak, and Mintaka Aa) that have a greater apparent magnitude in the U4 range, but each of those is (now) known to be a multi-star system (as is Adhara). Perhaps it's true that ε Canis Majoris A taken singly outshines each of the brightest stars in the other multi-star systems when taken singly, but I can find no data on that breakdown.

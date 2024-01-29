@@ -1,0 +1,4 @@
+Would studying massive stars that are experiencing time dilation due to proximity to a black hole be useful?
+
+I saw this question (Could a star closely orbit a black hole long enough for the star to have lost 0.5B+ years to time dilation?) and came up with an interesting thought. Massive stars live for less than 100 million years, but if it is traveling at relativistic speeds ($\sim 0.1c$) by orbiting an SMBH, we could observe it for slightly longer. Would this be useful, or would it have to be the other way around?
+NB: By "other way around," I mean an observer moving at $\sim 0.5c$ or so watching stars age and die.

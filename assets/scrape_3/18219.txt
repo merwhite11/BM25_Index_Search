@@ -1,0 +1,6 @@
+Map projections used for star maps
+
+I'm working on a star map program and I'm wondering what are the most common map projections used to print star maps...? I want to map of the entire visible sky from a certain point on the surface of Earth. I have all the visible stars and their Altitude-Azimuth, but I need to map this semi-sphere onto a circle in 2D. 
+I'd like to get something like this:
+ 
+I've been playing around with equidistant and gnomonic (-1 RE) projections but they feel too distorted. What are the most common projections used for 2D, circular, entire-visible-sky star maps?

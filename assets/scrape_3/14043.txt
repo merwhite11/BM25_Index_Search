@@ -1,0 +1,10 @@
+How do we know galaxy GN-z11 is as far away as it is?
+
+The news media recently reported that galaxy GN-z11, formed just 400 million years after the big bang, is much further away than originally thought at perhaps 13.2 billion light years.  They say, 
+
+The key to the discovery was precisely measuring the shift of the
+  galaxy's light into longer, redder wavelengths, which correspond to
+  how far the photons had traveled before reaching Hubble's eye.
+  (Reuters).
+
+So, suppose I'm standing next to, but safely away from, some train tracks.  As the train approaches, sounding its whistle constantly, the pitch will appear to increase until it reaches me, upon which I will briefly hear the whistle's 'rest pitch' (the pitch of the whistle as if I were aboard the train), then it would decrease as the train moves away.  Thus, the lower the pitch, the further away the train is.  I hope that's right.  So, if we know the rest frequency of galaxy GN-z11, its measured frequency indicates how far away it is from earth. Trouble is, how do we know what the rest frequency of light coming from this distant galaxy is?

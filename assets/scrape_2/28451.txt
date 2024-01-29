@@ -1,0 +1,8 @@
+Black hole, escape velocity, going up?
+
+I do know nothing can escape a black hole, and I understand popsci explanation of geodesics of space-time around and inside the event horizon. 
+I however have some trouble with following thought experiment, given there are many references that crossing event horizon of SMBH should be totally unnoticeable for the subject falling through: 
+I am at gym - a regular one, on Earth. Escape velocity of Earth is around 11.2 km/s. Yet I can lift weights up say one meter even at slower speed, say one meter per second. 
+Next, consider me hovering one meter above event horizon. As far as I know, for non-rotating BH this is totally possible. Similar to earth, I could lift weight up one meter at speed less than escape velocity (which at this point is speed of light minus x). 
+Now, I’m hovering one meter below the event horizon. Would I not be able to lift the weight up one meter at speed less than escape velocity (which at this point is speed of light plus y; not sure if x and y are equal), or would I not be able to hover at this position?
+Assuming answer is no to either or both, how this would appear to me as the subject?

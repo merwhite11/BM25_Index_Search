@@ -1,0 +1,5 @@
+Why do dark objects look white from a distance? (Moon, Ceres, but not Earth!)
+
+What makes the Moon shine white in the sky, although it seems to be as dark as asphalt?
+Earth's average albedo is 3 and 4 times that of the Moon and Ceres respectively (0.37 vs 0.12 and 0.09). But except for the clouds, Earth doesn't shine bright white in images of Earth taken from cis-lunar space.
+Here's an image of Earth seen from the Moon. Although it has 3 times as high albedo, it does not seem to be as bright as the white Moon is as seen on Earth's blue sky.

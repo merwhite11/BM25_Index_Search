@@ -1,0 +1,24 @@
+Can the period of the planet transit across the sun be calculated in the same way the eclipse year is?
+
+I read from Wikipedia$-$Eclipse cycle that the eclipse year, which is the period of Earth's hitting a certain node of its orbit around the sun, that is, the ecliptic, and the moon's orbit around Earth, can be calculated as the beat period of the synodic month and draconic month. The recent occurrence of planet transits across the sun lets me wonder if this principle can be applied to the case of a planet's transit across the sun as seen by an observer on another planet in an outer orbit.
+When Venus transited across the sun on June 6, 2012, I read it takes place in pattern of the 8-year-interval pairs with each pair at the interval of 105.5 years and 121.5 years alternately, with one in each pair being when Venus crosses the ecliptic plane at its ascending node and the other being when Venus crosses the ecliptic plane at its descending node. This made me contemplate whether the period of the Venus transit across the sun when it crosses the ecliptic plane at its certain node can be calculated in the way the eclipse year is, that is, whether the following holds: 
+
+The period of the Venus transit across the sun as it crosses the
+  ecliptic plane at its certain node = The beat period of the period of Venus'
+  being in inferior conjunction with the sun and the period of Venus'
+  hitting that node.
+
+Early this July I read from EarthSky an observer on Pluto may, through some optical aid, be able to see Earth transiting the sun on July 12, when Pluto was at opposition, which, together with the upcoming event, that on October 24, 2018 Pluto will cross the ecliptic plane at its descending node, is responsible for the Earth transit as seen from Pluto. Last time this kind of transit occurred on January 11, 1931 on account of both that Pluto was at opposition that day and that Pluto crossed the ecliptic plane at its ascending node on September 9, 1930. And next time this kind of transit will occur when Pluto is at opposition 161 years later, around when Pluto will cross the ecliptic plane at the same node it crossed in 1930. This makes me again contemplate whether what follows holds: 
+
+The period of the Earth transit across the sun as seen from Pluto as
+  Pluto crosses the ecliptic plane at its certain node = The beat period of the
+  period of Pluto's being at opposition and the period of Earth's
+  hitting that node.
+
+I think the principal difference between the eclipse year and planet transit across the sun is that in the former case both the moon and the sun are in a closed orbit around Earth while in the latter case only the sun is in a closed orbit around the observer-sited planet (the transiting planet is in a tortuous path from the perspective of the observer). I don't know if this feature would affect the applicability of the beat-period principle. If the principle of beat period as it used to calculate the eclipse year can be applied to the above two examples, I think it should be able to be generally applied to calculate the period of any planet's transit across the sun as seen by an observer on an outer planet, right? That is, should what follows generally hold? 
+
+The period of a planet's transit across the sun as seen from an outer
+  planet as it crosses the outer planet's orbit plane at its certain node =
+  The beat period of the period of the transiting planet's being in
+  inferior conjunction with the sun from the outer planet's perspective
+  and the period of the transiting planet’s hitting that node

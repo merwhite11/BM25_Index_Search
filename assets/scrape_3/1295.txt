@@ -1,0 +1,5 @@
+Latest sunrise/earliest sunset out of phase with solstice?
+
+Everybody knows that the shortest and longest days of the year occur on the solstices.  However, examination of sunrise/sunset tables shows that the maxima and minima of sunrise/sunset times are offset from the solstices by about 10 days. 
+According to timeanddate.com for my location (Portland, OR), for the winter solstice, the earliest sunset is about December 10 (16:27), and the latest sunrise is around January 1 (07:51).
+This is counterintuitive... what's the explanation?

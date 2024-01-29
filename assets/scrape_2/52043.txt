@@ -1,0 +1,5 @@
+Meaning of Bidirectional Arrow in a Fitting Formula
+
+I was reading this paper on the ejecta mass of compact binary mergers and came across this notation in equation (6):
+$$\frac{M_\text{dyn}}{10^{-3}M_\odot}=\left(\frac{a}{C_1}+b\frac{M_2^n}{M_1^n}+cC_1\right)M_1+(1\leftrightarrow 2)$$
+which is an equation of the dynamical ejecta mass of a binary neutron star merger in terms of the mass and compactness of the two neutron stars with coefficients $a,b,c,d$ fitted to simulations. My question is what does the notation $(1 \leftrightarrow 2)$ mean in this context?

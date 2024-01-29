@@ -1,0 +1,9 @@
+Why is the track of the subgiant stage almost horizontal on the HR diagram?
+
+
+It is stated that:
+
+After the main sequence, as fusion weakens or stops in the core, outward radiation weakens. The helium core contracts and heats up. Gravitational energy is converted to thermal energy again!
+The star will appear to cool slowly and will undergo a modest increase in luminosity. During this phase, the path the star will follow in the HR diagram is almost horizontal to the right of its position on the Main Sequence. Stars in this phase are usually referred to as subgiants.
+
+But I still can't understand.

@@ -1,0 +1,8 @@
+How to use DeepSkyStacker to increase detail, reduces noise, and not lose colour?
+
+I had my first attempt at shooting the Orion Nebula and am pleased that I saw it for the first time.  Very exciting.  I shot 10 frames and then stacked them using DeepSkyStacker which brought out all the detail but seemed to lose all the colour from the image.  Any ideas what I am doing wrong?
+
+A Raw Single Frame
+
+Stacked TIFF from DeepSkyStacker
+I am thinking of combining a single raw frame in PhotoShop as a colour overlay with the TIF output from DeepSkyStacker.  Is that recommended?

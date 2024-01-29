@@ -1,0 +1,9 @@
+wavelength-based IFU data cubes VS velocity-based IFU data cubes
+
+I have 2 simulated IFU data cubes of the same observation, let's say A and B. The 3rd dimension of cube A is in wavelengths. In order to create cube B I just rebinned cube A in log-wavelengths and then converted that to velocity (km/s). The rebinning to log-wavelength was necessary in order to convert the 3rd dimension of cube B in km/s. For an explanation see this: 
+Converting ångström spectral dimension to galaxy speed (km/s)
+Now I want to apply instrumental broadening on both cubes. In order to do that, for each cube, I have to create a Gaussian profile with FWHM equal to the resolution of the instrument (or Line Spread Function, or LSF) and then convolve that with every spectrum of the cube. Of course the LSF of cube A will be in wavelengths while the LSF of cube B in km/s. Here is my question now:
+
+Since all pixel shifts in cube A do not correspond to the same km/s value, one of the two LSFs won't be a perfect Gaussian, right? Shall I assume that would be the velocity LSF?
+What is the correct way of creating the velocity LSF? Do I just create a wavelength LSF and then rebin it to km/s, the same way I rebinned cube A to cube B?
+Does it worth the effort though? Will it make a difference? I have seen peer reviewed papers using velocity LSFs which are perfect Gaussians. Is this because the difference is negligible or my whole thinking/question is totally wrong?

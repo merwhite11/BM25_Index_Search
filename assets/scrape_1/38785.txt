@@ -1,0 +1,6 @@
+Why both sunrise and sunset use the position of the sun's upper limb?
+
+It is my understanding, that astronomical moments of both rise and set use the relative position of background object's upper limb to the foreground object's horizon.
+When were these definitions formulated?
+Is this done purely because sunrise and sunset are the main examples of such events and it is easier for the naked eye to tell when sun is completely below horizon?
+Wouldn't this offset the symmetry of rotations (since the "day" is always longer than the "night" by the duration it takes the background object to move fully below the foreground horizon)?

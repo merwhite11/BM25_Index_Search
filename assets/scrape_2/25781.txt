@@ -1,0 +1,9 @@
+What is the spectral reflectance of starlight in a close binary?
+
+Ignore the Blender Monkey! (from here)
+
+In a close-orbiting binary pair, a small but significant fraction of the light from each star falls upon the other, and the result has to be carefully modeled to simulate the observed spectrum of the system as it rotates.
+One effect is that each star's radiation will non-uniformly heat the surface of the other star and alter its thermal radiation, but here I'm asking about light from one star being scattered or diffusely reflected by the other.
+How is this scattered/reflected light calculated, and roughly what is the spectral reflectance?
+Of course each star will be different, so one example or maybe two would be sufficient.
+We often treat stars as blackbodies as an approximation, suggesting that stars have low albedo, but at some depth the electron density will be high enough so that the plasma frequency reaches visible wavelengths, increasing reflectivity, though that may be too deep to matter.

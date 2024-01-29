@@ -1,0 +1,9 @@
+How to place an observer in a cosmological simulation
+
+Suppose I have a cosmological simulation with points in xyz space at a certain redshift in a cube like this:
+
+And I have these for many cubes of different redshifts say from z=0 to z=2. Now I want to generate how that would look to an observer at z=0. In theory, it should look something like this (from SDSS):
+
+Is there any software that creates mock surveys like this? My goal is not just to have hydrodynamic simulations but rather mock catalogs that are similar to the SDSS survey. I found the following paper: https://www.giss.nasa.gov/staff/mway/cluster/cole_mnras_300_945.pdf which seems to be mostly what I'm looking for but I can't find any software for this online (it seems this paper was written in the late 90s).
+EDIT:
+I found the following: https://nbodykit.readthedocs.io/en/latest/catalogs/mock-data.html and it might be what I’m looking for. I will update if this is the case

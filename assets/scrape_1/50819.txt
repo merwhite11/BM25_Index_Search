@@ -1,0 +1,10 @@
+Is the three-year delay of the AT2018hyz event related to time dilation?
+
+According to LiveScience,
+
+Astronomers have spotted a black hole mysteriously spewing up chunks of a devoured star several years after consuming it.
+The event, which scientists have classified as AT2018hyz, began in 2018 when astronomers saw the black hole ensnare a hapless star in its strong gravitational pull before shredding it to pieces. Then, three years later, in 2021, a New Mexico radio telescope picked up a signal indicating unusual activity — the black hole had begun burping the star out at half the speed of light.
+
+It's my understanding that objects close to a black hole experience gravitational time dilation, such that they experience less time than a distant observer would; or conversely, that the same events would appear to take longer to the distant observer.
+Supposing that the spaghettified star was pulled closer to the black hole than usual for an event of this kind, is it possible that the longer than usual gap between these observations is caused by gravitational time dilation? The article also says that the ejection speed is higher than usual, at 0.5c compared to a more typical 0.1c, which might also suggest that the "devoured" star was accelerated by stronger gravitational forces which would be associated with greater time dilation.
+However, neither the LiveScience article nor the original article in the Astrophysical Journal mentions time dilation as a possible factor, even to dismiss it. I have no expertise in this area, so I can't judge the plausibility of the idea myself, but it appeals to my intuition. Can time dilation be easily ruled out as a factor in this event?

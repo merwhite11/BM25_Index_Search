@@ -1,0 +1,8 @@
+What do the flux letters mean? (U, B, V, R, I, G, J, H, K, u, g, r, i, z)
+
+For any object on Simbad so lets take a random one,
+http://simbad.u-strasbg.fr/simbad/sim-id?Ident=ton%20618  (Ton 618)
+I'm trying to get a layman's explanation of Flux.
+What do the letters stand for,
+Does V stand for Visual and is it therefore the Apparent Magnitude of the object?  I see some pages on wikipedia saying "Apparent Magnitude (v)" and seemingly refer to the value in the Simbad page.
+I look up in Google e.g. "Flux Filter-name" and don't get an explanation.

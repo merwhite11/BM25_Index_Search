@@ -1,0 +1,4 @@
+Is there any way a meteor can hit at less than escape velocity?
+
+Note:  I have figured out one case:  The meteor is splash from an impact on a close-in moon.  I'm looking for any path from deep space.
+My understanding is that anything from deep space will inherently pick up the escape velocity in it's fall and thus there is no possibility in the simple case.  I'm not so sure about what could happen after an encounter with one or more moons, though.

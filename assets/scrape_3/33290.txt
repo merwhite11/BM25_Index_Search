@@ -1,0 +1,7 @@
+Right Ascension, Declination from pixel coordinates
+
+I have an Excel spreadsheet that will take certain keywords from a FITS image header. Image centre RA, Dec, rotation, x centre, y centre, x scale, y scale.
+I enter the pixel coordinates of an object and the spreadsheet returns the RA and DEC coordinates.
+Close to the centre of the image the results are good, but an error increases towards the outer parts of the frame.
+I believe there are Python programs for doing this but my experience with Python,  C++ is zero.
+Does anyone know how accurate coordinates can be obtained, using arithmetic suitable for excel and Visual Basic?

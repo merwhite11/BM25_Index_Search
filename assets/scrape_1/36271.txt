@@ -1,0 +1,11 @@
+Why is the Nancy Grace Roman Space Telescope (WFIRST) coronagraph considered "(beyond-)state-of-the-art"?
+
+After about 01:30 in the NASA video NASA's Nancy Grace Roman Space Telescope: Broadening Our Cosmic Horizons the narrator says:
+
+To deepen its study of exoplanets the Roman Space Telescope will house a beyond-state-of-the-art chronograph, that will directly image and analyze Neptune-size planets in orbits slightly larger than Earth’s.
+
+The video shows a diagonal mirror with an articulated phase shifting surface followed by some kind of what I am guessing is a pupil filter.
+Questions:
+
+What is this particular coronagraph or its design called, and where can I read in detail about how it works? Please feel free to add a short summary in the answer if so inclined.
+What is it about the design that would be considered "beyond-state-of-the-art" or at least merely "state-of-the-art"

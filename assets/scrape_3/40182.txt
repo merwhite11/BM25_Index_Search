@@ -1,0 +1,3 @@
+redshift in astrophysical plots
+
+Why do astrophysicists often use redshift in plots? Why it is important to know how an astrophysical object evolves in function of redshift? I was seeing an "cosmological time per redshift galaxies formation plot" and thinking why redshift and not, who knows, density?

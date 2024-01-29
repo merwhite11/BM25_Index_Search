@@ -1,0 +1,3 @@
+Average DeltaV applied to a comet during outgassing?
+
+Comets' orbits often change during perihelion passage due to the outgassing of volatiles. So I am wondering, how much change in velocity is applied each perihelion pass? What does this depend on?

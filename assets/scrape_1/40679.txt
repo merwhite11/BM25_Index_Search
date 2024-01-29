@@ -1,0 +1,14 @@
+How precisely we know the Gaia spacecraft baseline? [Question related to Planet 9 and the cosmic distance ladder]
+
+The European Space Agency mission Gaia is performing an outstanding job by measuring the parallaxes of almost 2 billion stars, many of which are thousands of light years away from the Sun. For this amazing archivement, two main things are needed: 1) An accuracy of less than a milliarcsecond when measuring angles with respect to distant quasars (which it uses as a reference frame) and 2) An accurate measurement of the parallax baseline (which is not exatly 2AU since Gaia is located in L2 and the distance to the Solar System barycenter is not always the same).
+My question is about the second of these measurements. How precise is the distance between Gaia and the Solar System barycenter currently known?
+In a recent paper it is said (if I read it correctly) that the position of the planets with respect to the Solar System's barycenter is known within uncertainties of the order of $\sim 100\;m$. I guess this was archived with lots of observations coming from radar ranging echoes bouncing over the planets and radio links from planetary probes (correct me if I'm wrong, I would like to know more on this).
+In another paper I read that:
+
+The location of the barycenter relative to the Sun, Moon, and planets
+depends on the set of bodies modeled. In particular, inclusion of
+trans-Neptunian objects such as Sedna and Eris in the ephemerides from
+the Institute of Applied Astronomy causes a difference of the location
+of the barycenter with respect to the Sun of about 100 km.
+
+Which made me wonder if the addition of large unknown Solar System bodies, like the hypothetical Planet 9, would change significantly the parallax baseline of Gaia as to make the distances to stars wrong by much (this in turn would make the Cepheid distance estimator more unreliable and that in turn galactic distances up to the entire Cosmic distance ladder, possibly affecting the value of the Hubble constant in the end). Am I mixing things (models and actual data, direct and indirect measurements)? Our distance measurements inside the Solar System are accurate enough to avoid any of these issues really?

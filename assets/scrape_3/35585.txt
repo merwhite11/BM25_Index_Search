@@ -1,0 +1,12 @@
+Total apparent magnitude of eclipsing binary system
+
+This is a question from the 2016 USAAAO national exam, for which no solutions are given:
+
+An eclipsing binary system has a magnitude $m_p$ = 14.2 during the
+  primary transit and $m_s$ = 13.7 during the secondary transit. Find
+  the normal (non-eclipsed) apparent magnitude of the system.
+
+I assumed that, as is usual for eclipsing binary systems, the higher magnitude/primary transit refers to the complete eclipse of a smaller, hotter star (say Star B), and the lower magnitude/secondary transit refers to Star B passing in front of a larger, cooler Star A.
+To find the normal, non-eclipsed apparent magnitude of the system, usually we achieve a relation like $F_A = kF_B$, where k is a constant. Then, as we know the apparent magnitude corresponding to $F_A$ alone, we could easily calculate that for $F_A + F_B$. However, this is where I ran into trouble. I set up the following equation to attempt to find a relation between $F_A$ and $F_B$: $$m_p - m_s = -2.5log(\frac{F_A}{F_A(1-(R_B/R_A)^2)+F_B})$$ 
+The denominator in the argument of the logarithm, $F_A(1-(R_B/R_A)^2)+F_B$, expresses the flux observed at the secondary transit. But I have no way that I can see to figure out the ratio between radii, and I can't think of any reasonable assumption that would simplify the equation further (such as $R_B << R_A$). 
+Should this problem be attacked from a different angle? Any help would be much appreciated!

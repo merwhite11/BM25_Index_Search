@@ -1,0 +1,6 @@
+Neutron star r-process nucleosynthesis
+
+The $r$-process in supernovae happens when a high flux of neutrons irradiates the heaviest abundant nuclei (in the region of iron), resulting in endothermic nuclear reactions.
+To the extent that at least some of the highest $r$-process elements are now thought to be synthesised in neutron star mergers, is the mechanism the same: that is, is it a question of  the (hypothesised) iron crust of the neutron stars being irradiated by a sudden intense flux of neutrons at the moment of the merger? Or is it that the "splashed" neutronium resolves itself into a range of atomic nuclei, especially the heavier $r$-process ones?
+I appreciate that this is a question about hypothesis built upon hypothesis, but it would be interesting to get some idea of current thinking. 
+EDIT (from a comment): This Stack Exchange answer suggests that splashed neutronium will end up as the lightest elements, but tantalisingly raises another interesting question: whether the $r$-process elements are created in the merger or whether they are constantly present at the bottom of the crust, in some sort of equilibrium between the infinite supply of neutrons within the star and the iron in the crust itself. In which case the merger would create nothing, merely liberate what is already there.

@@ -1,0 +1,12 @@
+What portion of all exo-planets can't be observed?
+
+Exo-planets are usually observed by small decreases of the outgoing power of the stars accompanying them, when the planet passes between us and the star.
+The orbits of the exo-planets lay in one plane. This means that only for a small amount of all possible planes the exo-planets will orbit the star in a way to become visible to us.
+On the other hand, this gives the possibility to see more planets around the same star.
+How big is, in theory, the portion of all stars that will show a characteristic planet signature? Do the observations agree with this number?
+Can observations of exo-planets falsify the assumption that planetary planes are random or alligned. How else could this be verified?
+In the second answer to the linked question it is written:
+
+Thus, approximately 0.011×0.866 =1% of the solar-like stars with planets should show Earth-size transits.
+
+Does this mean that all orbits are assumed (and observed) to be parallel to the galactic plane?

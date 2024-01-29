@@ -1,0 +1,6 @@
+How do stars or galaxies get their spin?
+
+It is my understanding that when a star, a planetary disk, or a galaxy forms, the rotational momentum of the whole system is conserved. 
+Due to the smaller size of the resulting object, it will spin with a significantly higher speed than the original nebula.
+What I do not understand is where the original rotation comes from. Why should a random dust cloud have an overall spin? Wouldn't the impulses of all particles in the cloud tend to average each other out?
+Is there some alternative source of spin or a reason why nebula have an inherent spin?

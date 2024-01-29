@@ -1,0 +1,9 @@
+Meteor size and frequency distribution for Earth vs. moon or other planets?
+
+I struggle to find an answer to the at-first-sight simple question if or how the size distribution and frequency distribution of incoming rocks hitting the ground or the atmosphere vary from Earth, to the Moon, to other planets (e.g. Venus, Mars, Jupiter). Let's limit ourselves to observable events:
+
+For Earth, I would like to consider all observable objects hitting the Earth atmosphere, see Baggaley: The size distribution of large meteor bodies (1978)
+For our moon, we would only consider objects which leave a craters e.g. observable by Earth-based telescopes, see Werner et. al.: The Near-Earth Asteroid Size–Frequency Distribution: A Snapshot of the Lunar Impactor Size–Frequency Distribution (2001).
+For gas planets, I would assume that there are more observations like Something Just Smacked Jupiter
+
+I am after some statements for meteors for our Moon, and other planets similiar to the comprehensive answer on How often do meteorites hit the Earth?

@@ -1,0 +1,9 @@
+How to configure Celestia to work with a spherical mirror projection on a dome
+
+I find hints around the web, e.g. http://www.cosmodome.net/mirrordome.php that Celestia can be projected on a dome using a spherical mirror projection configuration.
+The problem is that I can't find any documentation on how to configure Celestia to warp the generated image, so it can be used in such a projection setup.
+For Stellarium\Nightshade I found some references, e.g. from spherical projection guru, Paul Bourke, and I expected to find similar resources for Celestia.
+
+Can Celestia be configured for a spherical mirror projection system?
+Can you point me to documentation on how to set up Celestia for a spherical mirror projection system?
+Is there a way to warp Celestia with 3rd party tools and then project the images?

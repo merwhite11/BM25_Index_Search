@@ -1,0 +1,5 @@
+Black hole magnification factor
+
+Given a black hole of mass $M$ which has a distance $D_1$ to Earth and $D_2$ to a galaxy being magnified, what is the magnification factor?
+And a follow-up question:
+Does it magnify across the electromagnetic spectrum or only the visible light?

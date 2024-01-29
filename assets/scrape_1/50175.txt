@@ -1,0 +1,9 @@
+Space travel to distant stars
+
+This is more of a hypothetical question.
+Say space travel at near light speed was possible, and I wanted to travel in my spaceship to some distant star many light years away. At the time and location of my departure, looking out at space, I could measure that star's coordinates and adjust my spaceship's
+initial direction of motion accordingly.
+However, because of the star's large distance, there would be a deviation between the coordinates I measured, and its "actual coordinates" (because of the amount of time it would take light to travel from the star to me). Even more so, in the time it would take me to reach the coordinates I have measured, the star would have moved even more from its original coordinates (supposing it has some velocity).
+This means my spaceship would just miss the star. The greater the distance of the star, the greater the deviation.
+Another factor to consider: because the spaceship is travelling at near light speed, it will have no way of receiving information from outside its frame of reference (relying on light for receiving information), so the spaceship could not adjust its direction of motion so as to not miss the star.
+In this case, near light-speed space travel to faraway stars would not be very practical. Is there something I am missing? Are there ways of solving the problems presented?

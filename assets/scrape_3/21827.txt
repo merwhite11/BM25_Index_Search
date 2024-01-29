@@ -1,0 +1,8 @@
+Converting Earth Moon Barycenter coordinate to Geocentric coordinate
+
+I have Earth Moon Barycenter coordinate (J2000) generated from VSOP2013 in Astronomical Units, 
+JD=2415020.5   
+X=-0.1968857640    Y=0.9633224602     Z=0.0002147057    AU 
+X'=-0.0171376156   Y'=-0.0035078892   Z'=-0.0000011481  AU/day
+
+How to convert it to Geocentric?

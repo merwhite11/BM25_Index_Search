@@ -1,0 +1,5 @@
+Understanding gravity
+
+Forgive me if my question has an obvious answer, but I need to know the answer. I always thought that more massive/energetic objects had a stronger force of gravity than less massive ones; that is, the Sun would create a stronger gravitational pull than the Earth does.
+Upon looking into Newton's law of universal gravitation, I began to wonder whether I misunderstood this. Does the gravity between the Sun and Earth have an equal force on both? As in, does the Earth pull the Sun with as much force as the Sun does on Earth? If so, would the Sun just resist accelerating to Earth because it is extremely massive? Mass is just an object's resistance toward accelerating from a force, right? 
+If this is the case, would it apply to GR? Sorry for hypothesizing, I'm honestly trying to get a grasp on it.

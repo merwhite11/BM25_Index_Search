@@ -1,0 +1,6 @@
+Why is Saturn the only large planet without any trojans?
+
+Every planet apart from Mercury and Saturn has trojans in its L4 and/or L5 points.
+Mercury is easy enough to explain: It is small, has an eccentric orbit that precesses, and any trojans it has would be heavily perturbed by the Sun's gravity.
+However Saturn doesn't have any of those complications. The answer given to this question is that Jupiter's gravity perturbs any trojans at Saturn's L4 and L5 points.
+But if Mars, which is much less massive than Saturn and comes closer to Jupiter, can have multiple trojans then there's no reason why Saturn shouldn't.

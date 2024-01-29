@@ -1,0 +1,17 @@
+Latest cosmological parameters
+
+I'm looking for the latest values (with uncertainties) of the four main cosmological density parameters $\Omega_i$ :
+\begin{align}\tag{1}
+\Omega_{\text{mat}} &={} ?,
+&\Omega_{\text{rad}} &={} ?,
+&\Omega_{\Lambda} &={} ?,
+&\Omega_{k} &={} ?.
+\end{align}
+I know that $\Omega_{\text{mat}} \approx 0.30$, $\Omega_{\text{rad}} \approx 0.00$, $\Omega_{\Lambda} \approx 0.70$ and $\Omega_{k} \approx 0.00$, but I would like to have more precise values (with uncertainties, if possible).  Take note that these parameters are constrained by the following relation :
+\begin{equation}\tag{2}
+\Omega_{\text{mat}} + \Omega_{\text{rad}} + \Omega_{\Lambda} + \Omega_{k} \equiv 1.
+\end{equation}
+Of course, I checked Wikipedia but I don't trust it very much: Lambda-CDM model,
+I've also checked on arXiv.  For example: Planck 2015 results. XIII. Cosmological parameters,
+but I don't find clear final and consensual values in this paper.
+Help would be appreciated.  Please state your sources.

@@ -1,0 +1,14 @@
+Water vapour in space
+
+This question is inspired by, but different from, What happens if an ice cube is left in space?
+Mark's accepted answer says "…if you stick your ice cube out in the Oort Cloud, it'll grow: the mean surface temperature is 40K or below,…".
+To which the obvious response is Everything has a vapour pressure, so everything in the vacuum of space will evaporate eventually. Accordingly I thought it might be worth investigating why ice grains do exist. For which we need some numbers.
+Vapour pressure of water at 40K
+Most charts do not go that low. The best figure I have come up with was by looking at the pictures in Water Ice Films in Cryogenic Vacuum Chambers, a doctoral thesis by Jesse Michael Labello. Figure 4 on page 4 has graphs which, extrapolated by guesswork, suggest that the vapour pressure of water at 40K is less than $10^{-26}$ torr.
+Atmospheric pressure in space
+The Moon's atmospheric pressure is said to be $10^{-11}$ torr, and the New World Encyclopedia says interstellar space is $10^{-16}$ torr, and some answers on Physics Stack Exchange suggest about $10^{-25}$ for intergalactic space.
+
+It appears, therefore, that ice grains at 40K do not evaporate because their vapour pressure is not high enough. Does it follow, therefore:
+
+That ice grains would evaporate, even at 40K, if they were in a vacuum?
+That, if the ice is at equilibrium with its vapour, the relative humidity of interstellar space is 100%? Or is the process of evaporation/condensation kinetically so slow that the universe is too young for it to have reached equilibrium?

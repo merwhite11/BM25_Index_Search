@@ -1,0 +1,4 @@
+Adaptive Optics?
+
+I get the general idea of adaptive optics. The light from an object distorted by differences in the earth's atmosphere, and a telescope with AO tries to compensate for this distortion by various mechanisms. 
+Is there a good resource for more in depth overview on the systems and the physics behind them?

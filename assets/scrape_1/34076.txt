@@ -1,0 +1,4 @@
+Why is Gaia operating around Earth orbit? Why not send it to Neptune's orbit?
+
+Gaia is an astrometry spacecraft that's currently operating around the Sun-Earth L2 Lagrangian point. Question: why here? Why not the Sun-Neptune L2 Lagrangian point? By orbiting the Sun at a larger distance, it should be able to get more accurate parallax measurements.
+Only reason I can think of is cost. I'm not familiar with estimating how expensive space probes cost, but Wikipedia says Gaia cost ~\$1 billion and this is comparable to the cost of the Voyager program, which also cost about ~\$1 billion. Of course Gaia's instruments should be more sophisticated than Voyager's, but there were also two Voyager probes, not one.

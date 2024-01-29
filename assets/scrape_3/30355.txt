@@ -1,0 +1,18 @@
+How to calculate the ground track of the Moon's position on the Earth's surface?
+
+I would like to project the Moon's position on to the surface of the Earth, starting with its position expressed as Right Ascension in degrees.
+I know that the declination of the Moon corresponds to the terrestrial latitude but how can I "convert" the right ascension of the moon to find my longitude?
+I'm not an astronomer, so I'm hoping for a fairly simple answer.
+EDIT
+My friend used this formula a long time ago:
+For the time at which I want to calculate the longitude,
+time_hrs = hours + minutes / 60  
+
+then using right ascension of Sun,
+delta_x = time_hrs * 15 + right_ascension_sun - 180;
+
+The coordinates of the Moon's ground track at this time are then:
+longitude = Right_ascension_moon - delta_x;
+latitude  = Declination_of_moon
+
+but i don't know if is correct, or how precise it will be.

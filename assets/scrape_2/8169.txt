@@ -1,0 +1,4 @@
+Typical wavelength of solar flare
+
+I read that solar flares are customarily viewed in H-alpha light, as a temporary brightening of a small portion of chromosphere.
+What all can be interpreted from this? Is it because, energy of the radiation contained by the flare lies around this wavelength? And why chromosphere ?

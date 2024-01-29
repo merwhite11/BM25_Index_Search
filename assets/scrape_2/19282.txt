@@ -1,0 +1,9 @@
+Is TESS replaceable by gound-based-small-telescope arrays?
+
+TESS is designed to perform an all-sky transiting exoplanet survey.
+
+TESS's survey will focus on nearby G, K and M type stars with apparent
+  magnitudes brighter than magnitude 12. Approximately 500,000 stars will
+  be studied, including the 1,000 closest red dwarfs.
+
+Since its targets are very bright and its sensitivity is relatively worse than Kepler, I wonder whether it can be replaced by gound-based-small-telescope arrays. There can be no gaps in the time series too.

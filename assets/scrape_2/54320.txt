@@ -1,0 +1,7 @@
+Large dataset of galaxies redshift, mass, and metallicity?
+
+I'm curious if there is a standard dataset for redshift-mass or redshift-metallicity like there is for redshift-distance with Pantheon+SH0ES.
+https://github.com/PantheonPlusSH0ES/DataRelease/tree/main/Pantheon%2B_Data/4_DISTANCES_AND_COVAR
+There is NED, which has millions of redshifts, but mass and metallicity aren't part of its results.
+http://ned.ipac.caltech.edu/
+It'd be nice to have 10's of thousands (if not more) data points available with one or both of those properties. Does such a project exist?

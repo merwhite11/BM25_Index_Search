@@ -1,0 +1,9 @@
+Relative orientation in a 1:1 resonance of a planet and a satellite
+
+To my understanding, in a two-body problem of a planet and a satellite, a 1:1 resonance means that the orbital period of the satellite is the same as its angular frequency (maybe not, so please correct me).
+In section 2.1 of Makarov and Efroimsky, 2013 No pseudosynchronous rotation for terrestrial planets and moons they say:
+
+For a nonzero eccentricity $e$, and in a sufficient proximity of the 1:1 resonance, the relative orientation of the perturber and the bulge changes twice over an orbital period*
+
+I don't understand why the relative orientation of the tidal bulge changes twice, the way I see it the relative orientation should stay the same.
+Can someone please clarify that statement?

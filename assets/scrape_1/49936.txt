@@ -1,0 +1,5 @@
+Extinction coefficients for narrow band filters
+
+does anyone know the extinction coefficients for hydrogen alpha, oxygen III and sulphur II narrow band filters?
+I easily found the coeffs for BVRI filters but can't find info on narrowband filters.
+Thanks

@@ -1,0 +1,3 @@
+Why isn't the day backwards between leap years?
+
+So every four years, we add an extra day. A leap year. This is because a year is actually $365_{1/4}$ days long. But what happens between leap years? After two years, it would get dark at 8:00 AM instead of 8:00 PM. This is obviously not the case. What's going on here?

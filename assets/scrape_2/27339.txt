@@ -1,0 +1,5 @@
+Energy conservation in Barnes-Hut algorithm
+
+I wrote a code that follows the Barnes-Hut algorithm for gravitational dynamics. Everything looks pretty good, except that when I plot the total energy $$E_{tot}\equiv E_k+E_u=const$$ I get this result:
+
+and you can see that although it seems constant for most of the time, it has some increasing transient in the beginning. I couldn't find a bug in the code that could be responsible for this, is there may be other explanation that can make sense of this?

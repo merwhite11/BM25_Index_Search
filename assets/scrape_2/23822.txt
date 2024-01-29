@@ -1,0 +1,5 @@
+Does Flat Universe mean even distribution?
+
+I've read through all the other related answers to "flatness" questions but I need a bit more clarification.
+I understand that a triangle in a 2D universe would not equal 180 degrees in both a closed and open universe. If I am correct, not being flat during the initial conditions would mean exponential expansion or collapse as time went by.
+Given the above, could we explain flatness as uniform density of the universe, meaning all of the universe is the same approximate "consistency" on a large scale (homogeneity).

@@ -1,0 +1,8 @@
+Different types of line broadening in stellar and galactic spectra
+
+When analyzing stellar and galactic spectra with spectrographs, the spectral lines get broadened from the instrument. Why do the spectral lines get broadened after the light moves through the instrument? I understand that it is some sort of filter and you can mathematically describe it as a convolution of a delta function (approximately, neglecting pressure and rotational broadening) with a broadening function from the instrument (usually Gaussian). But I don't quite understand the physical process behind it.
+The second question would be about the scales of the different types of broadening:
+My guess would be something like this:
+natural linewidth (uncertainty principle) < pressure broadening (interactions of particles in stellar atmospheres) < rotational broadening (superposition of stellar spectra in galaxy spectra with individual orbital velocity components along the line of sight) < instrumental broadening
+Would this be accurate, also some numers (size scales) would be interesting to me. Maybe somebody can help me with an approximate estimation of the different types of broadening? Rotational broadening also occurs when observing only stellar spectra, due to the proper motion of the particles in the star's atmosphere, right? It is just much smaller than the rotational broadening in galaxy spectra, due to the proper motions of the stars.
+Would appreciate it if somebody could help me put this in perspective. I am analyzing the kinematics of a galaxy, so I assume that natural linewidth, pressure broadening, and rotational broadening due to the proper motions of particles in the stellar atmospheres are negligible.

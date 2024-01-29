@@ -1,0 +1,10 @@
+Is it still the case that the transit of Mercury can't be measured with sufficient accuracy to determine the Sun's distance?
+
+The book Transits -- When planets cross the Sun, Maunder & Moore, page 44 states that
+
+Legentil [was] one of the first to realise
+that transits of Mercury could never be observed with
+sufficient accuracy to make them really valuable in
+measuring the length of the astronomical unit.
+
+Is this still the case? With modern instrumentation, can the transit of Mercury still not be measured with enough precision to derive the distance to the Sun? If not, why not? Has Mercury never been used to determine the distance between the Earth and the Sun?

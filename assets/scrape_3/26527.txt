@@ -1,0 +1,8 @@
+Question on Friedman equation involving cosmological constant
+
+This is the question:
+By considering both the Friedmann and acceleration equations, and assuming a pressureless
+Universe, demonstrate that in order to have a static Universe we must have
+a closed Universe with a positive vacuum energy. Using either physical arguments
+or mathematics, demonstrate that this solution must be unstable.
+I started off with the friedmann equation and equated H^2=0 and K>0. How to proceed further and prove that lamda is positive?

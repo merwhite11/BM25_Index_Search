@@ -1,0 +1,12 @@
+Infalling observer could never cross Black Hole event horizon?
+
+I have an interest in cosmology, but I would no way consider myself an expert. It would be great if the more knowledgeable contributors would be able to answer the question I have posed.
+The intense gravitational field near a black hole causes time dilation. This means, to an observer close to its event horizon, time  runs more slowly. It can mathematical be expressed as:
+Time dilation = $\frac{\delta t_f}{\delta t_0} = \frac{1}{\sqrt{1-\frac{R_s}{R}}}$. 
+Where $\delta t_f$ is an interval of time a long distance from the black hole, $\delta t_0$ is the time interval a distance $R$ from the black hole’s centre and $R_s$ is the radius of the event horizon. 
+This formula means that time dilation becomes infinite at the event horizon so to a distant observer a falling object would take an infinite time to reach the event horizon and would never cross it.  However, in the frame of an observer falling into the black hole it should them take a finite time to reach the event horizon. To me the complexity is that all black holes are believed to ‘evapourate’ and eventually disappear in a finite time, by emitting Hawking radiation. Although this an incredibly slow process. For example, a solar mass hole would have a lifetime of $10^{66}$ years (in a time-frame measured a distance from the black hole).  
+My Question
+Assuming Hawking radiation exists and  black hole evaporation occurs, does this mean that an infalling observer would never actually reach the event horizon, because the black hole has finite lifetime and would evaporate before an infalling observer would reach it?
+Further Note
+Since posing this question I have had one further thought, which may or may be relevant, since my knowledge of GR and quantum theory is pretty sketchy. 
+The way that the time dilation formula works is that when the observer is a distance of one Planck length ( ~ $10^{-35}$ m ) away from the event horizon of a solar mass black hole (which has radius ~3km), the time dilation would be still only be  ~ $10^{19}$. However, the lifetime of a solar mass black hole is ~$10^{66}$ years. Therefore, even when they are within 1 Planck length of the event horizon, the time dilation near the black hole is not sufficient for the observer to see the black hole evaporate.

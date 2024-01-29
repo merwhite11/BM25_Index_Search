@@ -1,0 +1,6 @@
+Roche limit - calculation with centrifugal forces
+
+Let's assume there is a small natural satellite oribiting a massive planet. The satellite rotates synchronously (revolution period = orbital period) on a circular orbit, both bodies are homogenous and rigid. The question is, how to find the Roche limit with regard to centrifugal forces?
+With use of Wikipedia I understand that the Roche limit is basically the orbit where difference of gravitational forces between the planet and two points in the satellite body (its centre and a surface facing to the planet) cancels the gravitational pull of the surface of the satellite to its centre. Wikipedia also states that more accurate is to include also the centrifugal force on the surface of the satellite due to its rotation.
+Why is not included the difference of the centrifugal forces acting on satellite centre and surface facing to the planet, caused by satellite's orbital movement?
+Are there any other forces I need to take into account, for example orbit of the whole sytem around a star?

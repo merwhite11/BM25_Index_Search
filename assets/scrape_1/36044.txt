@@ -1,0 +1,12 @@
+Light levels on other celestial bodies
+
+What I'm trying to achieve
+For a series of realistic renders I am currently working on I am trying to calculate the light level on different celestial bodies, in terms of the luminous flux (in lumens), as this is the parameter used in the rendering software. (as it's made with earth in mind). Specifically, I am now looking to find the luminous flux on Saturn's moon Enceladus.
+Thanks in advance for any help provided :)
+What I've tried/found so far
+Now the solar irradiance is easy to find as lying somewhere inbetween 16.7 and 13.4 W/m^2. However, in order to derive the luminous flux the frequency contents must be known as the luminous flux weights the light by a sensitivity function for human sight.
+Wikipedia gives a formula for the luminous flux as
+$$\Phi_v = 683.002 \int_0^{\inf}V(\lambda)\Phi_{e,\lambda}(\lambda)d\lambda $$
+Where $\Phi_v$ is the luminous flux in lumen, $\Phi_{e,\lambda}$ is the spectral radiant flux in W/nm and $V(\lambda)$ is the luminosity function describing the sensitivity of the human eye to different wavelengths of light (dimensionless).
+$V(\lambda)$ was relatively easy to find, but I have difficulty finding the spectral radiant flux $\Phi_{e,\lambda}$ of sunlight at this distance. Can this be calculated from the irradiance? 
+I did manage to find the solar irradiance spectrum in space at the earth in (W/m^2)/nm, and I assume this could simply be scaled by $R^{-2}$ ($R$ being the distance from enceladus to the sun) to get the same spectrum at Enceladus, but I am not sure how this relates to the spectral radiant flux.

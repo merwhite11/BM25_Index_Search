@@ -1,0 +1,8 @@
+Does photon capture in a black hole (or any other "very compact" object) reduce the luminosity/photon flux from its self isotropic emission?
+
+I don't know if this is even a feasible question or if I have a point in asking so.
+Let's say we can model the radiation coming from a very compact object, such as a BH with an accretion disc or any star with proper dimensions (for example, with its disc/gravitational radius within its photon sphere $R_\gamma = 1.5 R_s=3M$), as a black body radiating isotropically. I guess we can do so, since we cannot imagine any good reason for discarding this approximation in them!
+What I try to ask is basically if we should modify the formula for blackbody emission or whatsoever bolometric magnitude/luminosity in such an object, given that we already know a radius and an effective temperature (we are using $L = 4\pi \sigma R^2T^4$ here). And also considering that due to the strong curvature some photons emitted in the surface of the disc/atmosphere will be returning inside and will never reach us...
+Due to bending and lensing, supposedly we have only a sector from the compact object that will be sending photons outside, cf. MTW pp. 675 or Shapiro & Teukolsky pp. 352:
+when measuring the subtended emission angles from a local static observer.
+What I'm sure to know and explain with my own words is that the emitted photon flux reduces when we measure it as receivers on Earth, due to this capture.

@@ -1,0 +1,13 @@
+What colours can rocky planets (or moons) have
+
+I am currently working on a simple program to randomly generate and display rocky exoplanets (for a space based strategy game), but I am having some problems figuring out what colour the rocks of rocky planets may or may not have.
+Specifically, I am thinking of what natural colours may be so dominantly found on the surface of a planet or moon, that the whole planet or moon, seen from space would seem to be (completely or partially) that colour, which is not made out of ice, and which neither has oceans nor life.
+As far as I can tell from looking at pictures of the not lifebearing rocky planets, dwarf planets and moons in our solar system, it seems that red and yellow colors are dominant on larger bodies such as Mars, Venus or Io (maybe because their atmosphere cause oxidation of metals on the surface, or in Io's case volcanic activities as pointed out by Phiteros):
+
+All while smaller bodies such as the Moon or Ceres are completely grey:
+
+Therefore my current approach is to make sure the red component of the RGB colour of the planets is the biggest, the green the second biggest and the blue the smallest.
+However just the fact that there aren't any rocky planets or moons in our solar system made of blue and green rock, doesn't mean that they can't possibly exist.
+Therefore my question is: is my assumption that rocky planets tend to be mostly red or yellow correct, or are there any good logical arguments for that predominantly blue, green or purple rocky planets could exist.
+Edit
+Maybe i was a little to vargue on defining colour; i was thinking about the »diffuse colour« (sometimes called »albedo colour«) input, used in the openGL shader that i am using to display the planets; this colour is however the same as something not very reflective (like planets) has when under white light.

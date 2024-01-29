@@ -1,0 +1,9 @@
+What is the galactocentric aberration?
+
+At the Wikipedia about an aberration, there is the phrase:
+
+a recommended galactocentric aberration constant of 5.8 µas/yr
+
+What is the galactocentric aberration? How is it calculated correctly? An attempt to calculate it gives a different value.
+Mean distance from Sun to Milky Way core is ~26,660 light-years. Galactic period is ${\text{2}}{\text{.25}} \ldots 2.50 \cdot 10^8$ years. Velocity of the Solar system orbit is ~251 km/s around the center of the Milky Way.
+At the opposite points of the orbit the difference of the gravitational deflection of light is approximately $\Delta\theta = 2\frac{1}{2}\frac{4 \cdot G \cdot M}{R \cdot c^2} \approx 4\frac{v^2}{c^2} \approx 2.8 \cdot 10^{-6}\approx 0.58 \text{ arcsec} $. It is the value about $0.005 \text{ µas/yr}$. That is a thousand times less than above written the galactocentric aberration.

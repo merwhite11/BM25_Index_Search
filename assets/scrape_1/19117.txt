@@ -1,0 +1,9 @@
+Which of the following statements about gravitational waves are true?
+
+a) The emission of gravitational waves from merging black holes is predicted by Einstein's general theory of relativity. 
+b) The first direct detection of gravitational waves, announced in 2016, came from the LIGO observatory. 
+c) Two orbiting neutron stars or black holes will gradually spiral toward each other as a result of energy being carried away by gravitational waves. 
+d) The emission of gravitational waves from merging black holes is predicted by Newton's universal law of gravitation. 
+e) Although gravitational waves are an important theoretical prediction, we do not yet have any observational evidence that they  exist.
+f) Scientists seek to detect gravitational waves by using powerful gamma-ray telescopes.
+I personally think e is false because LIGO detected the gravitational wave already. For others, I think they are alright. But I am not sure if I missed anything. Could someone give any suggestion?

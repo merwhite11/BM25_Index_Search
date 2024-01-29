@@ -1,0 +1,8 @@
+How do we know which elements are in a galaxy spectra?
+
+I know that each element has it's own distinct spectra (this is a good site that lists them: Periodic Table) but when looking at a spectra of a galaxy (or even a star) how do we match those elements to their distinct spectra? Looking at this image from Spectra in the Lab : 
+
+Some of the lines in the spectra overlap. The galaxies are also moving away, so it makes it more difficult to figure out the elements producing the emission/absprtion lines, right? 
+Also, each element usually has more than one absorption/emission line, so how can we say that just one line is the H-alpha line, or the K and H calcium lines, for example, as in this spectra: 
+
+(image from: http://spiff.rit.edu/classes/phys301/lectures/doppler/doppler.html)

@@ -1,0 +1,4 @@
+Predicting accurate time of local sunrise in mountainous area?
+
+Is there any software which will tell me accurately at what moment any part of the solar disk will become from a specific point on the ground taking account of terrain. I feel like Google maps should have the terrain data I need, and the rest is geometry, but it looks like quite a bit of work, so I wondered if it already existed.
+Specifically, I am interested in when a viewer 1.5m above local ground level at latitude 46.497300, longitude 7.714651 will first see direct sunlight on the morning of 1 August 2023, taking account of the surrounding mountains. Ideally I'd like to know how that varies with height above the ground (1-2m) and for locations within 10-20m around that location (in other words, how and when the shadow of the mountains moves off that area).

@@ -1,0 +1,12 @@
+Can we calculate the average temperature of the heliosphere?
+
+It is my understanding that one can measure the temperature of the universe by measuring cosmic microwave background radiation. Could we also use this method for calculating the average temperature of the heliosphere?
+The average temperature of the universe has supposedly been measured in at 2.735 degrees above absolute zero. Presumably this measurement takes into account the massive amounts of 'empty' space which I imagine has a huge effect on the number. 
+My question: Can we measure the average temperature of the heliosphere? If so, then what is it? 
+This might be quite hard to define as how do you determine when our solar system ends? So for the purpose of this question the following assumptions should be made:
+
+The distance from the Sun to the edge of the heliosphere is approximately 100AU (Roughly the size of the heliosphere as measured by Voyager 1).
+Assume the heliosphere is a perfect sphere.
+Assume we are measuring the black body equivalent temperature (as this is what was measured to calculate the temperature of the universe).
+
+If we don't know how to measure this average temperature (which is likely if we can't differentiate between microwaves from in and outside the heliosphere) then how could we theoretically measure this value assuming a perfect environment?

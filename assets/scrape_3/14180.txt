@@ -1,0 +1,23 @@
+Obtain tangent point (origin) of the Standard Coordinates system
+
+In a previous question (Transform pixel coordinates (in FITS file) to equatorial), Rob supplied a great source that describes the process of obtaining celestial coordinates for objects in an observed field.
+The source mentions the tangent point in its description of the Standard Coordinates system:
+
+These are the projection of the RA and DEC of an object onto the tangent plane of the sky, i.e., the plane tangent to the sphere of the sky that intersects the sky at the tangent point (which is usually somewhat offset from the image center). The X coordinate is aligned with RA and the Y coordinate is aligned with DEC. The origin of the standard system is at the tangent point in the image.
+
+I would've assumed that the tangent point (ie: the origin of the standard coordinates system) would be located at the center of the observed field. Apparently this is not correct, hence the questions:
+
+Why is the tangent point usually offset from the image center? (See Edit below)
+How is the tangent point $(\alpha_0, \delta_0)$ obtained?
+
+
+Edit
+I've found the answer to the first question in The Handbook of Astronomical Image Processing, Berry, R. & Burnell, J. (Willmann-Bell, Second Edition 2005).
+In Chapter 9 of this book, Astrometry is discussed. Standard coordinates are introduced in page 253 and the effects that disturb the tangent point $(\alpha_0, \delta_0)$ are discussed in page 254:
+
+In real life, however, $(\alpha_0, \delta_0)$ is inevitably somewhat off the center of the image, and the x and y axes of the detector will be rotated through some angle. (...) In addition to displacement and rotation, the detector might be slightly tilted relative to the incoming light; the manufacturer's figures for the pixel dimensions might be slightly inaccurate at the CCD's operating temperature; and in the case of scanned photographs, the axes may not be perfectly orthogonal and equally scaled.
+
+
+(Figure 9.2, copyright of the Authors)
+However, in page 258 (after explaining how to obtain X,Y from known positions of reference stars in the frame) the authors convert the X,Y coordinates to equatorial coordinates assuming that $(\alpha_0, \delta_0)$ are "now known".
+I might have missed something obvious, but I don't see where these coordinates are obtained in the preceding pages. Question 2 thus, still stands.

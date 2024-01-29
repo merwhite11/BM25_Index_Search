@@ -1,0 +1,23 @@
+Accurate catalogue of the Stars according to Hemisphere
+
+I am in the need for an accurate catalogue of the stars in the Hemisphere I am currently in (or the one that I chose) and their positions at any time of the year.
+The more accurate the catalogue is, the better. I don't want any live-time-location app, but a simple place whence I can refer where a star or any other celestial object is.
+What do you mean by a 'live-time-location app'?
+To answer this question asked by @DrChuck in the comments below, I will take the example of an Android app called 'Skymap'. This app takes your live location and uses the phone's internal compass to determine what direction the phone is pointed in, and shows the celestial objects (visible/non-visible) in the direction according to the time-settings of your phone.
+What data are you looking for?
+Another question asked by @DrChuck in the comments below. I am looking for the following info :-
+
+Catalogue of all stars visible from all over the Hemisphere.
+Their respective positions.
+Catalogue of other celestial objects like Galaxies, etc.
+Special events like Solar Eclipses visible from the Hemisphere.*
+Position of any celestial body during any time in the future or past.*
+(*  - Not necessary)
+
+Um, can we make things, well, simpler?
+Some things listed below are really not necessary :-
+
+It does not matter if it does not list the objects that cannot be seen through the naked eye.
+It does not have to be really complicated. Anything a normal person can use is fine.
+
+P.S. - Any help with any appropriate tags for this question will also be appreciated.

@@ -1,0 +1,8 @@
+What are the equations governing stellar evolution (Luminosity, Mass, Temperature, Radius)
+
+I'm looking for ('simplified') equations governing stellar evolution. Especially how mass, luminosity, temperature and radius of a star change during it's lifetime. As well as equations which tell you how long a star stays in a certain stellar stage (PMS, MS, ...).
+Extra clarification by example:
+...
+After that a star with a mass between x and y enters the main sequence for a duration of $\Delta T = formula$. During this phase it's mass changes according to $M = formula(t)$. after that it enters the xxx  phase
+...
+For those who think this question is to broad, please give some suggestions, 'google terms', ... from which I can move forward.

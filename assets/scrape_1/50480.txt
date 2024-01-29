@@ -1,0 +1,5 @@
+SDSS and DESI - How much variation in sky location?
+
+I am trying to cross match a catalog derived from SDSS-MaNGA(self) with a catalog derived from DESI (Yang+2021). I am using TOPCATs Sky Algorithm, based on RA and Dec similarities to perform the crossmatch. However, the cross match yields far fewer galaxies than expected (lesser by a factor of 4).
+On closer inspection, the reported RA and Dec value from the DESI and SDSS catalogs are different for both the surveys for identical galaxies, mostly at the 4th - 5th decimal place. This might again be a selection bias as I had forced the values to be quite close by giving a small margin of error in the cross match, but anything larger seems to translate into quite abnormally large differences in RA and Dec, which seems to be strange for an instrument of this precision. One would expect the RA/Dec doesn't change much between the two surveys.
+I wish to know if there can be large differences in reported RA and Dec for objects found in two different surveys, and by how much it could possibly be.

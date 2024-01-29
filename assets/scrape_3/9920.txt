@@ -1,0 +1,5 @@
+Radio Astronomy and Imaging
+
+So, I've been starting to investigate radio astronomy, and am wondering about if certain things are possible from an amateur standpoint. I was looking at this powerpoint(that discusses building a tiny radio telescope), http://nightsky.jpl.nasa.gov/download-redirect.cfm?Doc_ID=347&Doc_Filename=IBTcom1%2Eppt .
+On Slides 11, 12, and 13, it shows various radio emissions overlayed on the orion constellation. As well as Slide 17 and 18.
+I'm wondering, is the data acquired in these images, doable from an amateur standpoint? From previous research I think I can build some detection devices for the Hydrogen Line emission(1420Mhz/21cm line), and that could lead to data(per my initial/basic understanding)  that's shown in image 1. Am I right in that assumption, and are the other emissions or data doable from an amateur standpoint?

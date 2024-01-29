@@ -1,0 +1,5 @@
+How close are we to having the technology to measure planetary obliquity for exoplanets?
+
+As far as I can tell, we do not yet have the precision to even put reasonable bounds on an exoplanets obliquity, but wikipedia seems to indicate that this may be possible in the "near future." It seems like this would have to be accomplished by direct imaging, either by directly observing rotational flattening of an exoplanets, or by looking for moons and assuming that the planet is tidally locked to the same plane as its satellite.
+How close would you estimate we are to this kind of precision? Are there other approaches to measuring planetary obliquity?
+Obviously, I'm not expecting a definite answer. Just wondering if anyone knows of any research in this area or has any thoughts about it.

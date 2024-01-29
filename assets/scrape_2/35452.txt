@@ -1,0 +1,6 @@
+Definition of Rotation versus Revolution
+
+Let there be a planet for which the duration of a solar day is equal to a year around the sun such that: 
+1 "day" = 1 "year" = 100 Earth days (2400 hours or 8640000 seconds)
+
+Then, would we say that the rotation of the planet is 0 or equal to 100 days?

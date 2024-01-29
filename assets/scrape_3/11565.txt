@@ -1,0 +1,7 @@
+Why is the E-mode polarization spectrum out of phase with the Temperature spectrum?
+
+The E-mode polarization power spectrum of the Cosmic Microwave Background displays the same acoustic peaks that can be seen in the (more famed) temperature power spectrum. However, they are out of phase with respect to each other. A number of sources give answers that all come down to the following:
+
+The main EE' power spectrum has peaks that are out of phase with those in theTT' spectrum, because the polarization anisotropies are sourced by the fluid velocity.
+
+But I fail to understand this. Can someone elaborate on this?

@@ -1,0 +1,6 @@
+What kinds of stars would it be possible to observe in M31 with a small amateur telescope?
+
+I was wondering what kinds of stars would be visible in M31 and other nearby galaxies using a moderate (~8") telescope and a CCD camera. This would be a limiting magnitude of around 17.
+I have heard of LBVs (Luminous Blue Variables). However, I would like to know what spectral class of stars would most likely be visible (would it be mainly OBA type stars)?
+The context of this question is in the search for extragalactic transiting exoplanets. Current amateur detectors have the capability to detect planets with host star apparent magnitudes of 14. I was wondering if it might be possible to find exoplanets in M31, M33 or even the LMC/SMC with these limits. An advantage to searching for planets in M31 would be the very limited search region--an amateur astronomer would only have to perform photometry on the M31 region over several months or years to find a planet, rather than having to search a much larger region.
+Are there any other issues with detecting transiting planets around very luminous stars? Would the percent dip in brightness be far less for a Jupiter sized planet? How would this affect our ability to detect extragalactic transiting exoplanets?

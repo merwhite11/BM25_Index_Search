@@ -1,0 +1,11 @@
+Is TDB monotonic? Does it or any of its derivatives have yearly discontinuities with respect to an atomic clock?
+
+This in-depth answer mentions that 
+
+...TDB is updated every year. As technology improves, these subtle updates change the timing of past events. 
+
+This makes me wonder...
+
+Does this updating result in yearly discontinuities in TDB relative to a smoothly-running (non-discontinuous) atomic clock?
+If not, does it result in discontinuities in the first derivative of the difference?
+Is TDB ever non-monotonic?

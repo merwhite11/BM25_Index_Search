@@ -1,0 +1,4 @@
+Light Pollution: what is the difference between artificial brightness and brightness and SQM
+
+At this light pollution map they show degrees of light pollution but they have 3 numbers to quantify light pollution and they do not explain in the help section what the numbers mean:
+The numbers are SQM, brightness and artificial brightness.  I get that for the last two the lower the better for viewing stars, but I can't figure out if brightness perhaps includes artificial brightness.

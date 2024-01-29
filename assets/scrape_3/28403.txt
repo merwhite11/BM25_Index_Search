@@ -1,0 +1,8 @@
+How do astronomers know if a planet is orbiting a star, or it's simply another star in the background?
+
+For example, if astronomers photograph a "planet", which is in close proximity to a given star, then this "planet", could actually just be another "star" in the background, many light years away.
+It might just be in the photograph by chance.
+How can astronomers determine if this is, in fact, a planet orbiting that star or just another star many light years away?
+
+For example, a common method to find planets orbiting stars is the transit method. ie, we can observe how the star appears to slowly decrease brightness, then increase back to normal again. This basically tells astronomers that this must be a planet.
+But how do astronomers know that this isn't just the "front star" transitting a star "in the background"?

@@ -1,0 +1,3 @@
+How to decide which part of the data is analyzed?
+
+I need to get the X-ray light curve of Classical Nova V1494 Aquilae (1999 No. 2) in Outburst. It is done long time ago, but I need to this by myself. While reading the papaer about the V1494 Aquilae, they have analyzed the data belonging three seperate time intervals, then they combined the three graph to get final light curve. The final one shows a clear pick corresponding to the outburst.

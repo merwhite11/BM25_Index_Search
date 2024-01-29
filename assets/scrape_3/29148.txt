@@ -1,0 +1,14 @@
+In planetary and astronomical science, what exactly is, or is not, a tidal force?
+
+I'm wondering exactly in which situations forces between bodies are, and are not consider to be tidal forces in the context of planetary and astronomical science.
+If two rigid, non-deformable spherical masses with shperically symmetric mass distributions orbit each other,  can we say there are no tidal forces or tidal effects there?
+If one of them has a permanent, static deformation (e.g. quadrupole moments and higher) are there tidal forces then? If both do?
+Or are dynamic, induced deformations required before we invoke the "T-word"?
+Can tidal forces be radial, such that they do not tend to raise or lower an orbit over time, or must they have tangential components, like the one that is slowly raising the Moon's orbit?
+Is it possible to draw a clear line here, at least within the scope of this SE site and This month's focus tag which is tidal-forces?
+According to that tag's Tag Info:
+
+There is no usage guidance for this tag … yet!
+
+
+Slightly related: Constraints on the mass distribution within each body such that their mutual orbits are Keplerian?

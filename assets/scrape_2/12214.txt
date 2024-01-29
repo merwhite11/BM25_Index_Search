@@ -1,0 +1,5 @@
+What is meant by matter distribution?
+
+Frustratingly, I find this could be a very simplistic question and may leave me feeling a little stupid for asking it. But I have to ask this.
+My lecturer keeps refering to "matter distributions" for various rotation cases, e.g., Keplerian rotation, solid body rotation, flat rotation etc etc. 
+I was wondering if anyone knew exactly what this term means, or the specifics for each case?

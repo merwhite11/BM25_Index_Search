@@ -1,0 +1,8 @@
+Maximum distance for earth eclipse
+
+First of all sorry if this question was already asked, but I made a small search here and on google and I couldn't find any answer, so.. Here I am.
+I was reading NASA's webpage about the Webb telescope, and I noticed that they are saying that one of the sides will be very hot.
+I thought that one of the reasons to put the telescope on the L2 point was to avoid "seeing" the Sun, but apparently the L2 point is too far to have Earth fully cover the Sun.
+So.. What is the maximum distance from Earth you have to be in order to have our planet block the Sun? Of course neglecting the effect of the atmosphere, which creates a sort of "halo" even if the Sun is fully covered.
+Moreover what will the telescope see towards the sun? Just the star with a very tiny dot in the middle, or a very big black dot (optionally with the moon moving around it), or... What?
+Thank you

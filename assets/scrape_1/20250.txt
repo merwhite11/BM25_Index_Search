@@ -1,0 +1,4 @@
+What does the 'amplification factor' of gravitational microlensing mean?
+
+At first I assumed the amplification factor meant an increase in brightness. But since the equation: $$A(u)=\frac{u^2+2}{u\sqrt{u^2+4}}$$ is independent of mass, this make no sense to me. Wouldn't everything be infinity magnified (if its mass independent empty space should work, right)? Even if its simply not valid for a zero mass, everything would be amplified by an arbitrarily high amount any time even a neutrino passes arbitrarily close to the right $u$?
+But if its not brightness, I don't know what signal is being amplified.

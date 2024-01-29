@@ -1,0 +1,7 @@
+Number of actuators in adaptive optics
+
+It is well known that diffraction resolution of a telescope depends on the exterior radius of aperture: One can, for instance, use just a narrow outer ring of a parabolic mirror and the resolution will be the same as it were the whole mirror (obviously, intensity will be much much smaller).
+Now, take such a ring telescope, say, 3cm wide ring which is 100 meters in diameter.
+Suppose we are using adaptive optics. How many actuators are needed to reach the maximal possible resolution?
+I assume that spacing between the actuators should be of an order of Fried radius r0 (i.e. one actuator about every 10cm along the circumference of the ring). I.e. number or actuators should be of order D/r0, where D is the aperture diameter.
+Is it correct?

@@ -1,0 +1,7 @@
+What accounts into calculating the Hubble constant?
+
+From my understanding, the Hubble constant $H_0$ calculates from observed redshifts $z$ of distant galaxys against their proper distance $D$. The current value appears to be 67.80(77) $\frac{km}{s}Mpc^{-1}$
+Calculating the Hubble constant via the redshift, I assume one only wants those velocity contributions due to the expansion of the universe, and not those from the real movement of the galaxies within in cluster (peculiar motion) or so. This, I also read in various online resources (which I can't recall right now).
+On the other Hand, if your galaxy cluster is far enough away (eq. ~ 1 Gpc), one can neglect peculiar motion, which is in the order of 1000 $\frac{km}{s}$ (1000 $\frac{km}{s}$ / (1 Gpc $\times$ 67.80(77) $\frac{km}{s}Mpc^{-1}$) $\approx$ 1.4%)
+Nonetheless, how would you try to correct for the peculiar motion, or is it really just neglected? Calculating all the gravitational components in each cluster? Another idea could be to assume that the galaxies within the cluster move randomly in respect to each other and the peculiar motion cancels out over the average? Any other possibilities?
+Note that this question is partly a copy of another question of mine at physics.stackexchange.com, which wasn't fully answered but commented to ask it here.

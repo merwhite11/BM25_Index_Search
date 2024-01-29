@@ -1,0 +1,4 @@
+Accretion of in-falling material for a young main sequence star
+
+I'm reading material that is seemingly contradictory.  Some sources indicate that the evolution of a protostar to a main sequence star is characterised by a stellar wind that precludes the accretion of further in-falling material.  That is, the (young) star now has a constant mass.  However, other sources suggest that material may continue to accrete for a (brief) period after the protostar has become a main sequence star.  
+Can someone please confirm the actual process?

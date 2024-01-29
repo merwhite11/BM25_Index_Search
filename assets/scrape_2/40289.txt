@@ -1,0 +1,3 @@
+Type II supernovae as a distance indicator
+
+Could someone explain in brief exactly how type II supernovae could be used as distance indicators? as in simply the formulae used and how they are employed? I know there are certain methods based on expansion velocity etc but the open supernova catalog ( https://sne.space/ ) gives the absolute and apparent mag for type II supernovae too, why would we then need to use methods dependent upon expansion velocity and other complications when we can simply calculate distance using $10^{m-M + 5}$?

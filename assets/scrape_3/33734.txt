@@ -1,0 +1,6 @@
+Solar degrees vs Calendar days
+
+What is the difference between solar degrees and Calendar days.  Is there any formula to convert one to another.
+for example Starting from 1/1/2000 
+1/1/2000 + 300 calendar days=some date (easy)
+1/1/2000 + 300 solar degrees=?

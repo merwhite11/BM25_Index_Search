@@ -1,0 +1,4 @@
+Calculation of day lengths of moons or moons of moons
+
+Is it possible to calculate the day lengths of moons or moons of moons? If so, does the day length depend on the longitude as well as the latitude? Also, if we calculate the day length, is it possible to take into account the duration the sun is eclipsed by the parent body?
+A bit of a background. I am playing a game, Elite Dangerous, and the game provides basic orbital information about planetary bodies like orbital period, rotation period, axial tilt and some more. I was planning to build a tool around this but I have no idea how to calculate such a thing.

@@ -1,0 +1,3 @@
+Average rate of supernova x number of stars
+
+If we would take the average number of supernovae per year and multiply that by the number of stars, could we figure out how many years it will be before all stars are gone?

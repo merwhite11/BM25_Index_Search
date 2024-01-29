@@ -1,0 +1,7 @@
+How could eclipse happen on the same day in a different calendar? (45 AD)
+
+According to the eclipse calculator I use (Alcyone), a partial eclipse 0.314 magnitude occurred August 1, 45 A.D. in Rome starting at 8:35am local time.
+This would seem to correspond to an eclipse which was predicted to fall on the birthday of the emperor Claudius in the consulship of Marcus Vinicius and Statilius Corvinus (45 AD), as described in Dio Cassius Book 6, Section 26. The birthday of Claudius was Kalends Augustus (the first of August).
+If this is the case, it would seem that there is an exact correspondence between the Gregorian and Julian calendar going back to 45 AD. However, I would expect that small differences in leap years and other irregularities would make this exact match on the same day unlikely.
+Another example is the eclipse of 1140 at London which the Saxon Chronicle says occurred on 13 Kalends April (March 20th) and Alcyone says occurred March 20, again a perfect match. Yet another example is the eclipse of 809 which passed over the Faroe islands and the Saxon Chronicle says occurred 17 Kalends Augustus (16 July) on the second day of the week. Now, of course, 16 July 809 is a Thursday in the Gregorian calendar, not the second day of the week, so something would seem to be fishy somewhere.
+Is Alcyone/NASA making some kind of adjustment so that these pre-Gregorian dates match up?

@@ -1,0 +1,4 @@
+which fraction of the solar radiation corresponds the blocked part by Venus at its transit upon he sun?
+
+Well, asumming that Venus orbits the Sun at 0.7233 AU and its diameter is 12,104 km, I can conclude that its angular diameter seen from the earth is ~1', then its represents ~1/31 part of the angular diameter of solar disc, so that's represents only $1365Wm^{-2}/31 ~ 44 Wm^{-2}$ , hence that fraction represents just ~ 44/1365 ~ 0.0322... of the total radiation.
+Did I reason correctly?

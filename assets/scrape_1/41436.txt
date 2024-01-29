@@ -1,0 +1,9 @@
+How to convert between AB and Vega magnitudes?
+
+This might be a bit silly, but I'm really struggling with a conversion.
+I have apparent AB magnitudes: $$m_{AB} = -2.5 \log_{10}(f_\nu [\mu Jy]) + 25$$ that I would like to convert to Vega magnitudes, because I am trying to make a figure similar to the one below from Stern et al. 2005. I used the conversions from this site: http://www.astronomy.ohio-state.edu/~martini/usefuldata.html, but it came out all wrong. Should I not use these? Because the axes contain colors, I suppose I don't have to worry about the units of $f_\nu$, because this will create an offset that cancels when you subtract two magnitudes, right? But I find that one color-conversion must be positive, because
+$$[3.6]_{AB} - [4.5]_{AB} = [3.6]_{Vega} + 0.79 - [4.5]_{Vega} - (-0.09) \\= [3.6]_{Vega} - [4.5]_{Vega} + 0.88$$
+while the other is negative, because
+$$[5.8]_{AB} - [8.0]_{AB} = [5.8]_{Vega} +0.02 - [8.0]_{Vega} - 0.45\\
+= [5.8]_{Vega} - [8.0]_{Vega} - 0.43$$
+but if you look at this figure below, you see that you need two corrections with the same sign. Any thoughts on my attempt at conversion? Thank you.

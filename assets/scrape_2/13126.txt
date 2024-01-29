@@ -1,0 +1,30 @@
+Absolute/apparent magnitude and distance for HIP31978 inconsistent?
+
+EDIT: I am still following up, but here's the latest response from Wolfram:
+
+Paclet servers are updated and optimized for each version of
+  Mathematica, so I suspect you may be working on an older version which
+  we no longer update. Many times we get reports that data from the
+  paclet data for version 9 was incorrect, only to find that it has
+  already been fixed for version 10.
+
+According to Mathematica and several other sources, the
+known information about HIP31978 (also known as "S
+Monocerotis" and "15 Monocerotis") includes:
+
+The star system is about 101.06 light years from our own.
+The star's absolute magnitude is -2.79 (some sources say even lower).
+The star's visual magnitude from our solar system is 4.66.
+
+The star is slightly variable, but not enough to explain
+the following discrepancy:
+If the star's magnitude at 32.6 light years is -2.79
+(definition of absolute magnitude), it would be about 9.6
+times fainter at 101.06 light years (it's actual distance
+from us). However, that's only about 2.5 magnitudes
+fainter, nowhere near enough to bring it down to magnitude
+4.66.
+What's happening here, and is this a one-off special case,
+or does this happen a lot?
+For reference, my calculation of the apparent magnitude:
+-2.79 - Log[100, (32.6/101.06)^2]*5 == -0.333192

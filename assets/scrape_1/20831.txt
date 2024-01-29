@@ -1,0 +1,9 @@
+Why do neutrinos take time to scatter?
+
+After a supernova neutrinos get released by electron capture,and they escape in a flood.
+My guess is because they have tiny masses and get momentum from momentum conservation.
+
+However, the huge number of neutrinos it emits carry away so much energy that the temperature of an isolated neutron star falls within a few years to around $10^6$ kelvin.
+
+Reference : Wikipedia,Original(wikipedia reference)
+Wouldn't most of the neutrinos scatter after supernova almost instantaneously before a formation of a neutron star?

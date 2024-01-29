@@ -1,0 +1,3 @@
+Why do we use filters in telescopes for astronomical imaging?
+
+I have read that if we image without a filter we get no information about the color or SED of objects.  Can anyone elaborate the reasons for using filters for imaging/photometry?  What happens if we image without a filter?

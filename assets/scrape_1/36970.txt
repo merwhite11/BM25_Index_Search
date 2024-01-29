@@ -1,0 +1,10 @@
+Incidence angles of meteoroids
+
+I've been reading the book Planetary Geology. In chapter 7, section 7.6, the author states that
+
+The angle of incidence at which asteroids or comets encounter the surface of
+a planetary body follows a Gaussian probability distribution with vertical and
+horizontal collisions being extremely unlikely and the highest probability existing
+for 45°
+
+Why is this the case? Why doesn't the angle of incidence for meteoroids follow a uniform law? Isn't there just as much chance for an asteroid or a comet to arrive from any direction?

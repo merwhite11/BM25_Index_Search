@@ -1,0 +1,9 @@
+What variables are needed to calculate simple horseshoe orbit times?
+
+EDIT This was NOT a duplicate of Horseshoe orbit cycle times.
+But that other question has been deleted, regardless. My original question asked for the answer to the equation(s), and provides many of the variables.  But since no one was apparently willing/able to answer it, this new question asks only for the form of the equation(s) itself and a list of variables involved, so that I can either provide more information on a future question, or try and solve the equations myself (though I doubt my math ability to do that, hence the original question, if I know what equations and variables are involved I can at least make an attempt myself).
+What variables need to be known in order to calculate a horseshoe orbit cycle time?
+
+In other words: What is the equation, and what do the variables in that equation represent (speed? mass? semi major axes? etc.), to calculate the time it takes for an object to go from Point A on that image, through Points B, C, D, and E and back to A, along the light blue line in the image above (image also available here)?
+For example, Earth and Cruithne complete their cycle in 770 years, while Janus and Epimetheus complete theirs in 8 years.  I'm confident that semi-major axes are key factors in the equation, but I don't know what other variables are included, or how the variables relate to each other in the calculation.  
+Also, I understand that these orbits are not stable, in the long term, and that my example of Cruithne is especially complex, as it will actually change orbit types periodically, and will likely be ejected from the solar system entirely, or impact the Sun or Jupiter, at some point.  But those complexities are for another time.  For this question, I just want to know the equation in its simplest form.

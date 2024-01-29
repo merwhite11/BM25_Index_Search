@@ -1,0 +1,7 @@
+Head on collision of two black holes
+
+Inspired by If two black hole event horizons overlap (touch) can they ever separate again?, I was wondering what would happen if two black holes collided into each other in a head-on collision.
+In this model there's two black holes on a 3d Cartesian plane. Each black hole has a mass of 1 billion solar masses, and they're both going 0.9c. They're traveling on the z axis in opposite directions.
+If both black holes are not spinning, one traveling positive z, the other in negative z, and collide at the origin in a perfect head-on collision what would be the result?
+How long would a full merger take, and what would the resulting spin be? Would there be a large wave of gravitational energy, or some other emission?
+I don't believe this to be a duplicate of Would LIGO Detect Head-On Collision? as suggested by @John Rennie or @uhoh beucase I'm more asking what's the effect on the BH themselves and what type of emissions are involved. Not necessarily ones detectable by LIGO.

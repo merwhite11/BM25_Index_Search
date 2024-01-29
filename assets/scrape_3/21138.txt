@@ -1,0 +1,5 @@
+How do I create a galaxy stellar mass function?
+
+Suppose that I have an array of stellar masses of tens of thousands of galaxies, and that I also already know what the total "survey volume" is (in Mpc^3) within which all of those galaxies are contained. For context, my data is from a simulation of galaxy formation at redshift ~ 0, rather than from an observational simple -- so in principle I don't think I need to worry about incompleteness corrections at the faint (low-mass) end. 
+Given my array of stellar masses and the total survey volume in Mpc^3, how do I create and plot the "galaxy stellar mass function" that I always see people talking about? Isn't it just basically a histogram of the stellar mass array, and then divide the # of galaxies in every bin by the survey volume (it's almost just like a normalization constant)? 
+(Of course this question could equally apply to galaxy luminosity functions.)

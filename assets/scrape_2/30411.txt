@@ -1,0 +1,6 @@
+What is the actual resolution of Event Horizon Telescope?
+
+I am quite impressed with the recently published image of M87* black hole. It appears that this image achieves spatial resolution well above and beyond what was available until today. But how high this resolution is, exactly?
+The article "First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole" states that Event Horizon Telescope has theoretical diffraction-limit resolution of ~25 μas.
+Another wiki article states that M87* has Swartzschild radius of 5.9×10-4 parsecs. Combined with the distance of 16.4 million parsecs, this gives me angular size of 14.8 microarceconds.
+Even with the shadow of the black hole being 2.5 bigger that its radius, the resolution of a widely distributed picture seems to be much higher than 25 microarcseconds stated above. Is the image actually blown up well beyond its original resolution (i.e. becoming more a less an "artistic impression"), or Event Horizon Telescope is actually capable of higher resolutions (10 microarcseconds or less)?

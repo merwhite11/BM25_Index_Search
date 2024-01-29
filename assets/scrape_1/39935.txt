@@ -1,0 +1,4 @@
+Confused about the significance of sidereal time
+
+My understanding of sidereal time is that the position of a star will be in the same place 4 minutes earlier the next day. So a 20 days later the star will be 1hr 20 mins earlier. So if the star is in the same place it must be a multiple of 4 minutes earlier (and the seconds that I have ignored). So it is not possible for the star to be in the same place and not be that time multiple apart.
+Its just that I have some data points where the locations are identical and they are all multiples of 4 mins apart but I am worried that that is not significant because it is inevitable. Is that correct?

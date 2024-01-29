@@ -1,0 +1,18 @@
+clarification of the Kozai mechanism
+
+As Wikipedia says, 
+
+In celestial mechanics, the Kozai mechanism, or the Lidov–Kozai mechanism, is a perturbation of the orbit of a satellite by the gravity of another body orbiting farther out, causing libration (oscillation about a constant value) of the orbit's argument of pericenter. As the orbit librates, there is a periodic exchange between its inclination and its eccentricity.
+
+My questions are:
+Question A
+Which is the least massive object? The tertiary object, which is the furthest object, or the satellite in the inner binary? It seems it is not necessary that the tertiary object be the least massive one, which violates what Wikipedia says.
+Question B
+How does the three-body system evolve?
+
+There is a periodic exchange between its inclination and its eccentricity.
+
+Whose inclination and whose eccentricity? Please specify them using m0, m1 or m2 in the figure below.
+The orbit of the inner binary should become and more circular. Can it become circular, eccentric, circular, eccentric?
+Question C
+The inner binary will lose energy during the whole process, right?

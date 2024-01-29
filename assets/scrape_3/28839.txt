@@ -1,0 +1,4 @@
+Terminology question: gas giant vs gas planet
+
+While not exactly the most exciting question, I'm wondering: is there any real, semantic difference between a gas planet and gas giant, or are the two terms used interchangeably by most in popular usage (i.e. popular-scientific texts)? 
+now, a gas planet is obviously the umbrella term for all planets composed mainly of gas, but I often see "gas planet" and "gas giant" used interchangeably without any real change in meaning. I'd class Neptune & Uranus as "ice giants" and Jupiter & Saturnus as "gas giants", but (popular) dictionaries like https://www.thefreedictionary.com/ ; https://en.oxforddictionaries.com/ still seem to group them all into gas giants.

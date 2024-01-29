@@ -1,0 +1,5 @@
+How bright would the night sky be in the galactic center?
+
+Given that the star density within a parsec of the center of the Milky Way is about 10 million stars per cubic parsec, how bright would the night sky be if you were on a rocky planet within that region?
+As this is 10 million stars within a cube with an edge 23% smaller than the distance to our nearest star, I get that the sky would be absolutely littered with stars. But qualitatively, what it would be like: e.g. would the light be be excruciatingly blinding (other effects aside), would it be like a really, really bright day here on Earth, or would it perhaps still be dimmer than our daytime illumination?
+Would the black of a night sky even be visible from a planet with an atmosphere similar to our own, or would the sky just be awash with (scattered) light, leaving human eyes (or consumer-grade digital cameras) unable to resolve individual stars?

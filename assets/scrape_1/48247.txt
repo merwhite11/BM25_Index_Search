@@ -1,0 +1,29 @@
+What is precision of planet periods data?
+
+Wikipedia gives $10759.22$ days for sidereal period of Saturn. I have calculated a period from de441_part-1.bsp and obtained $10736.247\bar{2}$ days. Why such a big difference? Which is more accurate? What accuracy in percentage I can expect from periods of Jupiter, Saturn, Uranus and Neptune?
+EDIT:
+Code in Python 2.7:
+from datetime import datetime, timedelta
+from skyfield.api import load
+from skyfield.framelib import ecliptic_frame
+
+
+def f(t):
+    eph = load('de441_part-1.bsp')
+    sun_eph = eph['sun']
+    s_eph = eph['saturn barycenter']
+    _, s_lon, _ = sun_eph.at(t).observe(s_eph).frame_latlon(ecliptic_frame)
+    s_angle = s_lon._degrees
+    print("s_angle = ", s_angle)
+
+ts = load.timescale()
+t0 = ts.utc(-13188, 8, 11, 14, 4)
+f(t0)
+# ('s_angle = ', 1.7441721183417348e-05)
+t1 = ts.utc(1878, 10, 8, 3, 55)
+f(t1)
+# ('s_angle = ', 1.4075963901504881e-05)
+(t1-t0)/512.0
+# 10747.657377115886
+
+Indeed there was error somewhere, now I got another number, but it still is not equal to that of Wikipedia.

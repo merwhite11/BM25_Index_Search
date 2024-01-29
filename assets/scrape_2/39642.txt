@@ -1,0 +1,7 @@
+Calculate the absolute magnitude for a multi-star system
+
+We know that the absolute magnitude of a single star can be calculated with the formulae:
+$$M_{\rm bol} = 4.75 -2.5 \log_{10} \left(\frac{L_*}{L_{\odot}}\right)\ ,$$
+$$M = -2.5  \log_{10}(L_* / L_0),$$
+where $L_*$ is the luminosity of the given star, and $L_0$ being the luminosity of a magnitude 0 star at a distance of 10 pc ($79L_\odot)$.
+However, this only works for a single star, not multiple star systems. Is the formula for the absolute magnitude of a multiple star system defined as $L_*=L_1+L_2+...+L_n$ (the sum of all luminosities in the system), where $L_n$ is the luminosity of a star in the system, or is it something else?

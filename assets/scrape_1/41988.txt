@@ -1,0 +1,4 @@
+What is the mnemonic reason behind b being galactic latitude? (in the Galactic Coordinates frame)
+
+I'm not sure if this is a question that has been posted before, and I'm also not sure if the answer is really mnemonic. If that's the case, I'd like to understand why we assigned $b$ to latitude anyways, so my brain can remember it more easily.
+Thanks!

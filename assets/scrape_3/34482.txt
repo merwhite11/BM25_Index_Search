@@ -1,0 +1,7 @@
+Why do these photometric observations of Betelgeuse look "quantized" in 0.1 magnitude steps?
+
+The most interesting question related to this Will Kinney tweet would be what's going on with Betelgeuse? but I can't help but wonder why much but not all of the photometric data is clustered in increments of 0.1 magnitude.
+These stripes were the result of posting some preliminary data where analysis had some ultimately uninteresting effect that later disappeared, but I don't think that's the case here.
+
+
+So I downloaded data on Betelgeuse from @AAVSO . Here's a plot of visual magnitude vs Julian date for the last 10 years. Clearly something very strange going on -- a whole lot of anomalous dimming happening very quickly, in the last few months.

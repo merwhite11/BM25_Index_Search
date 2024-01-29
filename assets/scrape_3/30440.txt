@@ -1,0 +1,8 @@
+Does interstellar cloud obstruct or reduce the visibility?
+
+We just pictured a medium distant black hole by combining data from various observatories around the world. That's when I wondered if interstellar cloud blocks the visibility at multiple position in the same direction in space such that we never accurately know the exact luminosity and distance between the black hole and Earth? I was not able to find much information about this particular subject so,  
+
+Is it possible that the interstellar cloud reduces the visibility of an object behind it?
+And if so, is it possible that we are only able to observe interstellar cloud upto a certain distance in space? 
+If we observe a star that is behind a interstellar cloud, how do we determine the luminosity of the star? 
+Can we accurately filter out interstellar cloud that are separated by x distance but at the same direction?

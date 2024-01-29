@@ -1,0 +1,12 @@
+Reshaping black holes to "push" the event horizon
+
+I watched this simulation made by LIGO (Laser Interferometer Gravitational-Wave Observatory) where 2 black holes merge into one.
+https://www.youtube.com/watch?v=I_88S8DWbcU
+I was therefore thinking that theoretically nothing can escape a black hole given the features of the space and the black hole remain the same due to the strong gravity.
+However, I was thinking if 2 black holes stay together close enough, the "event horizon" would reshape as well.
+We all know the gravity force is F=G(Mm/r^2).
+Given a point next to the event horizon but "inside" the black hole the gravity there will be so strong that the Escape velocity will be higher than C (speed of light).
+If we place another massive object (like another blackhole in the proximities of this point, but far enough, the gravity there will be counteracted and therefore this point will be able to escape its black hole, reshaping the event horizon and making it smaller. (We will have created a "concavity" in the event horizon)
+My question is:
+Given a hypothetical scenario where we create thousands of micro blacholes orbiting the main blackhole, in a gravitational equlibrium. Would we be able to reshape and "push" the event horizon strong enough that objects inside could now use the chance and escape?
+Could we even pull the matter of the black hole and make it less dense along the time even transforming it into a start destroying the singularity?

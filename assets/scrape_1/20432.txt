@@ -1,0 +1,3 @@
+Stellar Information from Hipparcos
+
+Is it possible to derive Metallicity/Age/Radial Velocity/Rotational Velocity/Surface Gravity of a star from Hipparcos data files or are do they require individual studying?

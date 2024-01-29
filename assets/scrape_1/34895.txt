@@ -1,0 +1,3 @@
+light emission of quasars
+
+I'm studying Astrophysics and I have some video's from a past course. I'm currently studying the reionization of the universe. At the current point in the class, the instructor is talking about quasars and the redshift at which the Lyman-Alpha forest disappears. This appears to occur at a redshift greater than 6. The instructor goes into finding quasars with z > 6.5. He states that quasars that far away, "They're only emitting infrared light.". I don't understand that statement. Does the instructor mean they are only visible in IR or those very old quasars only emit in IR? Why would quasars only emit in IR? I understand why we'd only see IR from them.

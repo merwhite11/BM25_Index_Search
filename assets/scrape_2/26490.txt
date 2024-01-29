@@ -1,0 +1,19 @@
+Question from Introduction to Modern Cosmology by Andrew Liddle
+
+The exact question goes like this:
+In the real Universe the expansion is not completely uniform. Rather, galaxies exhibit
+some random motion relative to the overall Hubble expansion, known as their
+peculiar velocity and caused by the gravitational pull of their near neighbours. Supposing
+that a typical (e.g. root mean square) galaxy peculiar velocity is 600 km s-1,
+how far away would a galaxy have to be before it could be used to determine the
+Hubble constant to ten per cent accuracy, supposing
+(a) The true value of the Hubble constant is 100 km s-1 Mpc-1?
+(b) The true value of the Hubble constant is 50 km s-1 Mpc-1
+Assume in your calculation that the galaxy distance and redshift could be measured
+exactly. Unfortunately, that is not true of real observations.
+I started off by writing the hubbles equation and as they mentioned it should be accurate to 10% so its peculiar velocity (given as about 600 km/s) is less than or equal to 10% of its expansion velocity. But this gives me different answer.
+The actual answer to the problem as stated in the book is
+Slightly different answers are possible depending how you deal with the rms velocity.
+You should get something like r > 35 Mpc for H0 = 100km s-1 and r > 70Mpc
+for Ho = 50kms-1
+What am I missing here? Has it got to do with the RMS velocity as mentioned? Please explain.

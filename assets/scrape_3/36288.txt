@@ -1,0 +1,6 @@
+What does correcting for LSR mean in galactic velocities?
+
+This is a two-part question, but both parts are related:
+I'm aware that modern astronomical software can correct velocities for the local standard of rest (LSR), but what does that really mean? As in, if you have measured a radial velocity by hand (e.g., from a plot of a spectral line) and you want to correct for LSR, how is this done?
+As an exercise, I want to compare the galactic proper motions (which I presume are another way of saying velocities?) of a group of stars within 2kpc from the Sun between a method described in Eqs.30-32 of Mignard 2000 (Hipparcos data), and Eqs. 1-2 of Bovy 2017 (Gaia data). Apparently I also have to correct these velocities for LSR, but how is that done? Do you add a specific value? I thought these equations already include the components of the Solar motion w.r.t. to LSR, unless the constants included in the equations have nothing to do with that. I'm probably missing a big point here and books haven't helped me at all.
+Thank you in advance.

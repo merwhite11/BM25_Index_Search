@@ -1,0 +1,18 @@
+Given that a color index ($B-V$) of star A is lower than that of Star B, What can we say about the stars?
+
+The color index $B-V$ of the star is defined as
+$$B-V\equiv M_B-M_V$$
+Let us suppose it's given
+$$(B-V)^{(A)}<(B-V)^{(B)}\Rightarrow M_B^A-M_V^A>M^B_B-M^B_V$$
+The notations are a bit confusing, but I think you would pardon me.
+Now we know that Stellar magnitudes decrease with increasing brightness which means a star with absolute magnitude $-5$ will be brighter than a star with absolute magnitude $-2$.
+I'm reading Introduction to Modern Astrophysics By Carroll and Ostlie. The  author says,
+
+A star with a smaller $B-V$ color index is bluer than a star with a larger value of $B-V$.
+
+I don't understand, How??
+Star A is bluer than Star B means
+$$M_B^A<M_B^B$$
+Given four numbers with relation
+$$x-y<a-b\not\Rightarrow x<a$$
+Then how we can say so??

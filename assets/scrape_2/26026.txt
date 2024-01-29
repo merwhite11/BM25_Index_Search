@@ -1,0 +1,10 @@
+Why does the Earth's axial tilt create an east-west variation in the analemma?
+
+I've been reading about the Earth's analemma from Wikipedia, and I am having trouble visualizing one component. Let's build up to my question.
+
+If the Earth had a circular orbit and no axial tilt, the analemma would be a dot.
+If the Earth had an eccentric orbit and no axial tilt, the analemma would be a east-west line.
+If the Earth had a circular orbit and axial tilt, the analemma would be symmetric figure eight.
+
+My question:  In situation 3, I understand the north-south variation of the symmetric analemma, but I don't understand why there would be symmetric east-west variation.
+Why does the Earth's axial tilt create an east-west variation in the analemma?

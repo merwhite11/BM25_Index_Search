@@ -1,0 +1,7 @@
+Transformation of hour angle to azimuth
+
+Converting Hour angle to Azimuth, is there a simple way to know which result is correct (as the formulas and the arccosine give various results shifted by 180° etc.), or does one just have to figure it out visually with a drawing?
+$sin(A) = - \frac{\sin(H) \cos(\delta)}{\cos(a)}$
+$cos(A) = \frac{\sin(\delta) - \sin(\phi) \sin(a)}{ \cos(\phi) \cos(a) }$
+If there is a rule, please indicate if the Azimuth is counted from the southern or northern cardinal point.
+Sketch of the equatorial and horizontal coordinate systems (I use the hour angle positive to the west and azimuth 0° at north, positive to east; I just like this illustration):

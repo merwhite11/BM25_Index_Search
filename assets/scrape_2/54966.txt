@@ -1,0 +1,5 @@
+For binary stars, what is the average semi-major axis?
+
+Note I'm exclusively considering binary stars, not 3+ star systems.
+Binary stars come in all extremes. Wikipedia says that their orbital periods can be a few hours, a few days, or hundreds of thousands of years.
+Is there any data, however, on the average semi-major axis of their orbits? I'm trying to get an idea of how far apart the stars are from each other, and would like an average across all measured binaries in the Milky Way.

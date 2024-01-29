@@ -1,0 +1,6 @@
+How to find a deep sky object 1° NE from a given star
+
+I am an amateur so sorry for any misunderstanding.
+I am trying to find a deep-sky object located 1° north east from the δ Cas star. I am using the Stellarium program to do this.
+I have toggled on the equatorial grid and Cardinal points are displayed as well, however, all of the cardinal points appear to be on circumference and I cannot really tell which direction is the wanted object at. 
+What am I doing wrong?

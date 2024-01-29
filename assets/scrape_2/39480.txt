@@ -1,0 +1,5 @@
+How to calculate geocentric transformation to heliocentric coordinates?
+
+I have Sun data (lon+lat+distance) in geocentric coordinates:
+
+but I want to visualize in heliocentric way. How to calculate that?

@@ -1,0 +1,9 @@
+JPL Ephemeris or Skyfield - how to get moon phase percentage (not illumination percentage)
+
+I know how to use JPL's Horizons to get moon illumination percentage but I noticed that even at new moon, the illumination never goes to zero:
+b0003-Sep-09 12:10 *m    0.07382  
+b0003-Sep-09 12:11 *m    0.07382  
+b0003-Sep-09 12:12 *m    0.07381  
+b0003-Sep-09 12:13 *m    0.07381  
+
+I could just normalize relative to the lowest illumination percentage but I would prefer to have the JPL site, or some Python package like Skyfield, spit out: the moon phase percentage is 0% at date, time = x, y

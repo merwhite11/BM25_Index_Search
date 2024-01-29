@@ -1,0 +1,4 @@
+Star map decode to location
+
+I have a printed star map. I need to break it down to get alt and azimuth.
+I need to figure out the exact location.  I just have no idea how to do it.

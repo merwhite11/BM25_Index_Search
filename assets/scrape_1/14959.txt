@@ -1,0 +1,9 @@
+Astronomy Calculations Tool
+
+I took many images like the following:
+
+As many of you may recognise, this is a picture of Jupiter and its four Galilean moons. Using these images, I am aiming to calculate the mass of Jupiter by finding the orbital distance and orbital period of each of these moons, and then plugging those values into Kepler's Third Law. 
+However, this requires a seemingly tedious process of the following sort:
+1) Locate the centre of mass of Jupiter
+2) Measure the distance to each of the planets
+I have a lot of data (many, many pictures). I am hoping that there is a relatively easier (or even more accurate) method of doing all of the above than using software like Gimp to do everything for each image manually. Can anyone recommend anything?

@@ -1,0 +1,3 @@
+What exactly is 'eastward movement'
+
+I am reading a book on spherical astronomy. Surprisingly, my problem is not with the mathematics. The author mentions several times words like 'eastward movement' and 'westward movement'. For example, the Earth revolves around the Sun in an eastward direction. When I look at the diagram from the perspective of someone above the north pole of the Sun, the Earth seems to go around the Sun in an anticlockwise manner. My problem is I don't understand what is meant by eastward movement ? Can someone explain what this means without ambiguity ? Is there some sort of a right-hand rule that one can follow such as Fleming's right-hand rule in electricity ?

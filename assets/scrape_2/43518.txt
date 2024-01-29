@@ -1,0 +1,11 @@
+What would a kHz gravitational wave detector look like? (mountains on millisecond magnetars) How would it differ from LIGO/Virgo?
+
+The abstract of Gravitational waves from mountains in newly born millisecond magnetars says:
+
+In this paper we study the spin-evolution and gravitational-wave luminosity of a newly born millisecond magnetar, formed either after the collapse of a massive star or after the merger of two neutron stars. In both cases we consider the effect of fallback accretion, and consider the evolution of the system due to the different torques acting on the star, namely the spin up torque due to accretion and spin-down torques due to magnetic dipole radiation, neutrino emission, and gravitational wave emission linked to the formation of a `mountain' on the accretion poles. Initially the spin period is mostly affected by the dipole radiation, but at later times accretion spin the star up rapidly. We find that a magnetar formed after the collapse of a massive star can accrete up to 1 $M_{\odot}$ , and survive on the order of 50 s before collapsing to a black hole. The gravitational wave strain, for an object located at 1 Mpc, is $h_c \sim 10^{-23}$ at kHz frequencies, making this a potential target for next generation ground based detectors. A magnetar formed after a binary neutron star merger, on the other hand, accretes at the most 0.2 $M_{\odot}$, and emits gravitational waves with a lower maximum strain of the order of $h_c \sim 10^{-24}$ , but also survives for much longer times, and may possibly be associated with the X-ray plateau observed in the light curve of a number of short gamma-ray burst.
+
+Question: What would a kHz gravitational wave detector look like? (mountains on millisecond magnetars) How would it differ from LIGO/Virgo?
+
+
+
+Figure 1. Pictorial description of the millisecond magnetar. There are two coordinate systems, one having the rotation axis ($\Omega$) and another having the magnetic moment ($\overrightarrow{\mu}$) axis. These axes are inclined at an angle $\alpha(t)$. The blue dots show matter falling on the two polar caps and forming two accreting columns. As the star rotates, it radiates energy in dipolar radiation and grav- itational waves. The red dotted lines represent the escaping neutrinos which carry away heat and angular momentum in the form of a wind.

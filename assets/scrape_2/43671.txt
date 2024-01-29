@@ -1,0 +1,5 @@
+2-body orbits expanding in nbody simulation?
+
+Recently, I designed an n-body engine and tested it with a binary star system. After a minute of running, the orbit began noticeably expanding:
+
+Why is it happening, and is this natural? The source code is based on https://github.com/lemmingapex/N-bodyGravitySimulation.

@@ -1,0 +1,9 @@
+Determining North-South Line Via Watch Method: Theory & Reason
+
+I recently read that if you're in the northern hemisphere and have an analog watch, then you can point the hour hand at the sun and know that a south line lies between (bisection) the hour hand and the 12 o'clock position:
+
+Apparently the trick works in the southern hemisphere as well and needs to be adjusted for day-light saving (image taken from Wikipedia):
+
+I would like to know the reasoning behind this trick, and would like to know if the trick can be applied to tell the approximate time provided I only have a Brunton compass.
+
+I made an illustration if it helps:

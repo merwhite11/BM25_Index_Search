@@ -1,0 +1,6 @@
+how does Kepler stop exposure after a 5 minuate or 30 minute cadence time?
+
+There are two kinds of cadence time for Kepler, 5 minutes and 30 minutes.
+I just know there is no shutter and the CCDs of Kepler can be locked after exposure. handbook
+But how to realize that? Remember we have to not affect the photometry.
+The other question is so far how many unique sources has Kepler observed? 160,000?

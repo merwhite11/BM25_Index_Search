@@ -1,0 +1,5 @@
+How does Io's atmosphere behave locally near volcanic plumes?
+
+Io's surface air pressure is about $0.3 {\rm mPa}$ but Io's atmosphere is strongly variable, depending on whether it's on the near side or far side of Io (relative to Jupiter) and it collapses at night. When it's heated up, it rises again, and so it also gets thicker in Io's volcanic plumes.
+I'd like to know just what does happen with the atmosphere above a volcanic crater during an eruption? How much thicker does it get?
+The eruption temperatures reach ${\rm 1\,300^\circ C} \, (2 \,400 {\rm F} )$.

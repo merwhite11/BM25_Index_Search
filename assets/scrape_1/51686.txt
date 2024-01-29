@@ -1,0 +1,3 @@
+It is possible to estimate an exoplanets' orbital period from just one transit?
+
+Is one lightcurve containing a dip in brightness obtained from the transit method sufficient to obtain or estimate the orbital period of an exoplanet - such that one (first) observation could be used to reliably schedule a second observation for confirmation in advance?

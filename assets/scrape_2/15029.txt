@@ -1,0 +1,3 @@
+Why do we use FITS format for scientific images especially in astronomy? How is it different from formats such as JPEG, PNG etc?
+
+I am new to astronomy and I found that the telescopic dataset can be stored in the FITS format instead of JPEG. Why do we have a special image format just for scientific images?

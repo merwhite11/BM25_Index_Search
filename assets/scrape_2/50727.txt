@@ -1,0 +1,12 @@
+Are two definitions of a tropical year inequivalent?
+
+Tropical, or solar year, which is 365.24219 days (a day being 86400 seconds) is defined in two ways (implying that they are equivalent):
+
+Amount of time from vernal equinox to vernal equinox.
+Amount of time the sun traverses a full 360° of the ecliptic longitude (e.g., the ecliptic on the celestial sphere).
+
+However, since the vernal equinox, drifts westward every year, vernal equinox to vernal equinox does not equal a full 360° of the ecliptic longitude, but undershoots?
+A sidereal year, 365.2564 days, by definition does not equal a full 360° of ecliptic longitude, because it overshoots slightly. I assume a sidereal year can be computed by waiting for the sun to go past the new vernal equinox and then hit "the veritcal line" (on the celestial sphere) that passes through the old vernal equinox.
+Isn't the real full 360° of ecliptic longitude somewhere between the two? probably calculated by drawing a line that's perpendicular to the old and new ecliptic lines but goes through the old vernal equinox?
+
+edit: It appears, one long-term consequence of this 360° ecliptic longitude calculation is that it is tied to the sidereal year instead of the tropical year. Over a period of 25,772 years, vernal equinox will complete a full 360° cycle on the celestial equator, but 360° ecliptic longitudinal point will simply oscillate around "some reference sidereal point", like a pendulum (an analemma of the ecliptic?). In other words, if 25,772 tropical years equal 25,771 sidereal years, they also equal 25,771, not 25,772, "360° ecliptic longitude" years.

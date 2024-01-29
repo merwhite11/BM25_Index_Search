@@ -1,0 +1,11 @@
+Why wouldn't an elliptical galaxy collapse back into a spiral galaxy?
+
+I should preface this post with two parts of my tentative (probably wrong) understanding first.
+
+First, it's been told to me that spiral galaxies typically form first, and then elliptical galaxies form afterward. Consequently, spiral galaxies are typically young while elliptical galaxies tend to be older.
+
+Second, my understanding is that a spiral galaxy is formed when matter is pulled together by gravity, and then some of the kinetic energy is converted to other forms of energy (mostly thermal energy) due to the friction and inelastic collisions that result from matter interacting with other matter as it is pulled by gravity. The net angular momentum has to be conserved, however, and it is within a certain "plane of rotation" does the matter collapse into. This explains why spiral galaxies are flat.
+
+
+My question is, if #2 is true, why would elliptical galaxies come after spiral galaxies? Wouldn't elliptical galaxies collapse back into spiral galaxies by the exact same reasoning why spiral galaxies form, or at least into flat disk-shaped galaxies?
+For reference, this post seems closely related and contains useful information.

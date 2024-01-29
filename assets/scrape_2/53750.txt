@@ -1,0 +1,4 @@
+Radius and surface temp of red giant Sun
+
+There is wildly conflicting information going around about the predicted parameters of the Sun as a red giant. The estimates for the radius vary from 100 to even 256 solar radii (with the larger estimates being more popular recently), and the surface temperature ranging from 2k-3k Kelvin to even as high as 4k (as compared to the current ~5772 K). So what's actually our best and most educated guess about these as of now, and why?
+I'm asking out of curiosity, because this obviously has significant effects on the habitability of planets when simulated in Universe Sandbox.

@@ -1,0 +1,5 @@
+Different techniques for calculation of celestial bodies dynamics with different time-scales
+
+Differential equations describing the dynamics of celestial bodies (rotation, nutation, precession and other effects) can be solved numerically, which makes it possible to study their general non-linear behavior.
+My question is this: suppose we want to study the change in time of a planet's orbit with a specific time frame 100-1000 years and at the same study the change in time of its nutation with a period of 0.1-0.5 years. What is the general approach to computing and representing such different time-scale processes?
+Remark: In the article The Influence of the Planets, Sun and Moon on the Evolution of the Earth's Axis provides a picture Figure 3. Action of the Sun on the Earth’s rotation. Plot show precession rates and nutation amplitudes on a large time-frame. It can be seen that if these processes differ by orders at time-scale, plot become extremely unreadable. Should we then use a hierarchy of dynamic effects over time for greater clarity?

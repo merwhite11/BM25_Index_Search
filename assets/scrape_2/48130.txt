@@ -1,0 +1,11 @@
+How much magnification would I get by this Dall-Kirkham telescope?
+
+I'd like to know how much magnification I would get by this telescope. The main specs are as follows:
+
+Focal length: 2563 mm
+Focal ratio: F/7.2
+Number of lenses: 2
+Optical diameter of Primary mirror: 355.6 mm
+Diameter of Secondary mirror: 165 mm
+
+Based on this simple class material by NASA (for kids?), the magnification may be computed as a ratio of the focal length of object lens and that of eyepiece. However, the datasheet of this telescope does not provide the focal length of eyepiece. In the first place, I'm doubtful that this simple computation scheme applies to this telescope with mirrors and lenses... Does anyone know more about how to compute the magnification of this kind of telescope?

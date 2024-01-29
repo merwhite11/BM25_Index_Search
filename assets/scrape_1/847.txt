@@ -1,0 +1,9 @@
+Calculate angle of inclination for a certain angle in a planet's orbit?
+
+The background is that I'm trying to write a computer program to show at what angles each planet would be able to be seen transiting in front of the sun from an observer outside our solar system.  My endgame is to calculate the relative percentages of the sky that could see any group of planets transiting together.  For instance in the direction the Earth is from the sun in June and December, an alien observer that could see Earth transit could also see Venus transit, but from the angle where the Earth is in September or March they would not ever be able to see Venus transit.
+I wrote a program using basic stats and circular orbits to test out the idea, but I would like to make it more robust using actual elliptical orbits and I'm having trouble.  For circular orbits with the sun at the center I was able to just take the inclination of Earth's orbit times the sin of the viewing longitude relative to the longitude of ascention.
+double viewingLongitude = longitudeRadians - LongitudeOfAscent;
+double planetAngle = Inclination * Math.Sin(viewingLongitude);
+
+For instance Earth's orbit has an inclination of 1.57 degrees and longitude of ascent at 348.74 degrees.  At 348.74 degrees and 168.74 degrees Earth will have an actual inclination of 0 degrees.  At 78.74 degrees and 158.74 degrees Earth will have an actual inclination of 1.57 and -1.57 degrees from the plane.
+Is there a similar easy way I could calculate that inclination for the elliptical orbit of the Earth or will I have to solve Kepler's equations?

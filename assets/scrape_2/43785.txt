@@ -1,0 +1,9 @@
+Calculating the radial tidal amplitude on a planet from the fluid Love numbers
+
+How do you calculate tidal amplitudes from the fluid Love numbers? In my course on planetary physics I saw an approximate expression for the displacement from equilibrium tide:
+$$\Big|\frac{V_T}{g}\Big| \approx \frac{3}{4}\frac{M_\odot R_p^4}{M_p a^3}$$
+where $V_T$ is the tide generating potential, $g$ is the gravity, $M_p$ is the mass of the planet, $R_p$ the radius and $a$ is the semi-major axis of the orbit. The displacement would then be $\xi = h\frac{V_T}{g}$. This does not make a distinction between radial amplitudes at the equator or at the poles. I'm asking because I was reading this article. I was hoping the radial amplitude would correspond to my formula above (given to me without reference or derivation), but with a Love number h = 0.77 I get $\xi = 0.64$m instead of $\xi = 1.93$m.
+The tidal potential in my notes is
+$$V_T(r) = -\frac{GM}{a}\Big(\frac{r}{a}\Big)^2(1 + 3e\cos(M))\Big[-\frac{1}{2}P_2^0(\cos\theta) + \frac{1}{4}P_2^2(\cos\theta)(\cos(2\lambda) + 4e\sin(M)\sin(2\lambda)\Big] $$
+$e$ is the eccentricity, the $P$ are Legendre polynomials: $P_2^0 = \frac{1}{2}(3\cos^2\theta - 1)$ and $P_2^2 = 3\sin^3\theta$. $\lambda$ is the longitude measured with respect to the long axis of the planet. I played around with this formula a bit, but I never find an amplitude of 1.93. It could be that this is just not what is meant by radial "amplitude".
+The fact that no method of calculation is mentioned in the article makes me think it's either really obvious or really well known.

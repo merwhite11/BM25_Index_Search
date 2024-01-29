@@ -1,0 +1,3 @@
+In what units to quote the thermal Blackbody temperature
+
+Just a quick question relating to the thermal Blackbody temperature of a celestial object. In the c.g.s regime of astrophysics, is it more 'sophisticated' to quote the thermal Blackbody temperature in units of Kelvin ($\mathrm{K}$) or in units of $\mathrm{keV}$? That is to say to use $k_{B}T_{\mathrm{bb}}$ and convert to an energy?

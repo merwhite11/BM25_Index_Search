@@ -1,0 +1,5 @@
+Finding the radius of a star in arcsec
+
+If i know the radius r of a star in cm, how can I convert it to arcseconds?
+For example, if I have a star with r = 3.18e13 cm, and distance to the star d = 220 parsecs, what is the relation to convert the radius from cm to arcseconds. 
+Thank you.

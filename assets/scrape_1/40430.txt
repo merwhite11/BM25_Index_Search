@@ -1,0 +1,3 @@
+K-correction vs resizing photometric bands
+
+Is there a difference between a K-correction (see Wiki https://en.wikipedia.org/wiki/K_correction) and simply "resizing" the bands, e.g. the 2-10 keV x-ray band, with the redshift? I've read that K-correction requires the assumption of a spectral shape. Why is resizing strictly speaking not enough?

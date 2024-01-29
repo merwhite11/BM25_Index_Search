@@ -1,0 +1,8 @@
+Could the Moon naturally capture a large asteroid and keep it as a subsatellite? For how long?
+
+(Edited at James K's recommendation to stay on-topic for this SE.)
+From my reading on this SE and from Googling I've gotten conflicting reports on the viability of subsatellites this close to the Sun, but a naive application of the Hill Sphere equation suggests that if it got captured at all, a large asteroid could theoretically orbit the moon in a stable orbit.
+What I don't know is this:
+
+For how long? Longer than a couple hundred thousand years, such that humans on Earth wouldn't have known anything else? Longer than a million years? Probably not longer than a billion, due to the tidal effects decaying the asteroid's orbit, but is that a bad assumption?
+How eccentric would the asteroid's orbit be? Would it be unlikely for it to orbit with negligible eccentricity, whether on the ecliptic or not? If so, what kind of eccentricity/orbital inclination would be reasonable?

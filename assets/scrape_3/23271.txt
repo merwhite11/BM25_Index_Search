@@ -1,0 +1,11 @@
+How (the heck) was this photo of Venus at inferior conjunction (between us and the Sun) taken?
+
+This great answer by @gerrit discussing planetary phases seen in visible light contains the image I've included below. According to the Wikimedia Commons link these are ESO images from the Venus transit 2004 VT-2004 observing campaign. 
+The ESO, or European Southern Observatory:
+
+Organisation Européenne pour des Recherches Astronomiques dans l'Hémisphere Austral) is a 16-nation intergovernmental research organization for ground-based astronomy. Created in 1962, ESO has provided astronomers with state-of-the-art research facilities and access to the southern sky. (emphasis added)
+
+These images are very high quality, and the last one, dated 8/6/04 (08-June-2004) appears to be taken at/near inferior conjunction, when Venus is almost directly between the observer and the Sun.
+Question: I'd like to understand with what instrument this image was taken, and how the technical challenges imaging Venus with such a small angular separation between it and the Sun were overcome! I did a quick check and during the UTC day of June 8th, 2004, Venus moved from about 0.6 to 1.1 degrees from the Sun as viewed by Earth. How was Venus imaged so nicely? Was this really imaged from the ground through Earth's daytime atmosphere, or from space? In either case, how was a high quality telescope pointed so close to the Sun and shielded from stray light and protected from damage?
+
+below: Phases of Venus, from here.

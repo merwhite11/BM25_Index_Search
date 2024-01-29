@@ -1,0 +1,7 @@
+What are the reasons for referring to equinox J2000 or the equinox of the date?
+
+(Background: Trying to learn something about the mathematical and computational part of astronomy I have acquired a copy of Meeus' "Astronomical Algorithms" and implemented the material up to Chapter 33 in Java, with only one major sidestep: VSOP87, for which I obtained the full data set and "translated" the FORTRAN program.)
+VSOP87 exhibits the reason for my question: you can compute rectangular/spherical heliocentric positions either for the reference frame J2000 or the one of the given date. Clearly, if I want to observe some planets tonight, I'll compute the data for today's equinox. On the other hand, there is the possibility of a transformation between equinoxes of different dates.
+So why are these methods (here and for other methods, too) provided for both reference frames? Was it the (then) weaker computer performance?
+Only a little later, iauPlan94 provides the result only for J2000 although Meeus in the chapter dedicated to the paper of J.L.Simon e.al. provides tables with data from their theory for J2000 and the equinox of the date. 
+What would be good reasons for today and the years to come to refer a computation to J2000?

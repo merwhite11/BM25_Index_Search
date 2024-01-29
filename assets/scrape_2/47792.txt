@@ -1,0 +1,5 @@
+What kind of opacity should I use when I simulate stellar structure?
+
+I am tring to simulate the evolution of a star. As we know, opacity plays an important role and has many forms like: free-free, bound-free, bound-bound, electron scatter.
+But I am confused about their approximated formula and the temperature range which they can be applied to.
+If I can't limit the temperature they applied to and if I don't use the accurate approximated formula of them, the simulation will be inaccurate.

@@ -1,0 +1,8 @@
+Imaging an exoplanet via brightness over time
+
+We can't directly image an exoplanet. Most of the time we detect planets by occlusion of the stars light. However, we occasionally can filter out the star's light and measure the light from the planet directly. Although we only see a single point of light, can we form an image by observing brightness over time?
+No axil tilt As the planet rotates (assuming it rotates) we can measure a days brightness variation and get the albedo of each longitude "strip". This gives a 1D image.
+Axial tilt. We can use seasonal variations of albedo to get latitude information and combine it with daily rotation to get a 2D image.
+Specular reflections. If the planet has oceans and the angles are just right we may glimpse a refection. It would fade in or out dependent on clouds and terrain (if it has such features). As a bonus this light would be polarized. But would the specular reflection be a detectable fraction of the planet's light?
+Eclipses. If the planet has a large moon the eclipses would affect the amount of light reflected.
+Are any of these methods feasible in the near future? What kind of image resolution should we expect for an Earth-like planet around a sun-like star 100 light years away?

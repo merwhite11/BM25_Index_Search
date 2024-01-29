@@ -1,0 +1,6 @@
+Longitude of Perihelion at J2000?
+
+My textbook (and lots of other sources) shows the earth's longitude of perihelion at the epoch around 103 degrees. I understand that this means (in the neighborhood of J2000) the earth will reach perihelion about 103 degrees after the vernal equinox, however, this would be very close to aphelion (July 6ish) not perihelion (January 3ish).
+Put another way: If the vernal equinox is March 20th & perihelion is January 3rd, shouldn't the longitude of perihelion be about -76 degrees (or 284 degrees)?
+Help! What am I missing?
+ANSWER--Credit to @Mike_G below, restated here because the final answer is in the comments: "At the March equinox, the alignment is Earth - Sun - first point of Aries." Beginner mistake: I was trying to find the earth's position in time but I thought the March equinox was when the earth was between the Sun & first point of Aries, which is the wrong arrangement.

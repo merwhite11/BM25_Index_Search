@@ -1,0 +1,8 @@
+Why does the concentration-mass relation of galaxy clusters have a negative slope?
+
+As reported in some recent observational works works (ref. Merten et al. 2015) the concentration-mass relation of galaxy clusters has a negative slope. This means that at a fixed redshift, haloes with a higher mass have a lower concentration.
+Some old works say this is a consequence of the fact that the concentration depends only on the density at the assembly time. For instance, Bhattacharya et al. 2013  says:
+
+The correlation of halo concentration with mass is based on the idea—as first explicated by NFW—that the concentration is determined by the mean density of the universe when the halo is assembled, with higher concentrations corresponding to higher densities. Thus cluster mass halos, which are assembling today, should have a lower concentration than halos of lower mass that were built up at an earlier epoch, where the mean density was higher. Furthermore, one may expect this trend to flatten out (sufficiently) beyond the nonlinear mass scale $M_∗$, and therefore, since $M_∗$ falls rapidly with redshift, flatten out over an extended range in mass as redshift increases.
+
+I cannot understand how this can lead to a negative slope between the concentration and the mass

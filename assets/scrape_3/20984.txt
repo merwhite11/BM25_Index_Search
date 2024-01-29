@@ -1,0 +1,10 @@
+How long would it take to collect a certain amount of photons?
+
+So, I've received this question to solve, it's not a very advanced one, though advanced enough to cause headaches.
+The situation is as follows: 
+
+Say, you are observing with a telescope with an effective area of 44000 $cm^2$. Assume that the total efficiency through the atmosphere, the telescope, optics and the filter is 50%. How long would it take to collect 80 photons from a source with V=20?
+
+I have little to no idea how to tackle this problem. Can someone help? I've had lectures about spectral flux density, and I'd assume you'll have to use it here.
+Thanks in advance!
+Adam.

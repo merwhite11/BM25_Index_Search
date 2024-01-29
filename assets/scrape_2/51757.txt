@@ -1,0 +1,3 @@
+Modeling binary star using MESA
+
+I'm trying to model a binary star using the MESA (Modules for Experiments in Stellar Astrophysics docs) code with an orbital period of 10 days with the scenario where mass transfers starts after the main sequence. Could someone provide a set of steps on how to go about this? My models diverge pretty early.

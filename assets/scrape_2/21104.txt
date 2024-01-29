@@ -1,0 +1,8 @@
+How to find period of a pulsar from a given time sampled voltage data?
+
+I've a data file with 2 columns, each containing time sampled voltage output (a sequence of real numbers) from a radio telescope, so there is a pair of telescope which are measuring the signal here. The source of the data is a pulsar and I've to find its period and dispersion measure.
+I'm an amateur trying to understand what is really happening in the method. The data is time sampled at the Nyquist sampling frequency (2B) and the signal is measured at central frequency f and broadband B.
+I studied the cross correlation between the two voltages V1 and V2 from essential radio astronomy, but didn't quite understand the method. Do we have to evaluate the cross correlation function of each reading and then plot it with time to get the pulse profile? Or do we have to take fourier transform of each pair of voltage(how?) and then plot it to get the pulse profile? We find period of a pulsar from its average pulse profile, right?
+It is also written that to find pulsar timing, we've to fold data from many pulses modulo instantaneous pulse period (how can we do that if we don't know the pulse period in the first place?). This sentence is everywhere and I'm not able to understand it each time.
+I'm confused about the appropriate series of steps to be done here to get the pulsar period and dispersion measure. Could you give me some insight?
+Thanks.

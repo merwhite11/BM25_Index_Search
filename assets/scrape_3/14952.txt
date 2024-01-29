@@ -1,0 +1,11 @@
+Is the Sun slightly blue in the center? - Wavelength-dependent limb darkening of the Sun
+
+I've slightly modified the title to try to attract some attention. If we call sunlight "white" and limb darkening is a result of seeing deeper at normal incidence and shallower at oblique incidence, then the center end edge of the solar disk viewed from earth should appear to have slightly different effective color temperatures, since the temperature is varying rapidly with depth.
+I'd like to have an approximate expression for the wavelength-dependent limb darkening of the sun in the visible spectrum, either a relatively simple analytical expression that I can understand (with the appropriate coefficients for the sun) or just some linear images of the sun in various bands in the visible wavelengths so I can try to make one of my own.
+This question received this helpful comment which links to here but honestly I can't make my way through that to a practical expression I can use. The Wikipedia article is not helping me much either, except for the image there. I plotted scans of RGB but by the time an image gets into the internet, things like sRGB and gamma mean it may not be linear.
+update: At the Solar Dynamics Observatory (SDO) website, I just found the image sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMIIC.jpg. The color gradient of the limb darkening seems very similar to the Wikimedia image below. I've discovered that it is called a "colorized intensitygram" and the color gradient is purely artificial - the data is single channel intensity. The limb darkening is certainly real (compare to the artificially "flattented" display!)  
+From http://www.solarham.net/latest_imagery/hmi1.htm
+
+I appreciate (the existence of) the complexities and intricacies of photon transport, instrumental effects, and color perception, but I am just starting to do astronomically correct animations, so please for right now, something imperfect, or not absolutely correct is good enough for me.
+20 pixel wide averages of horizontal (-) and vertical (--) "scans" across the center of this 600x600 pixel image from here
+note: It seems this is a somewhat futile example, as the image is likely to be a monochrome continuum image with false color!

@@ -1,0 +1,6 @@
+How often do partial solar eclipses of 90% of totality occur in same place?
+
+I know that the mean interval between total eclipses in a single place is about 375 years, which is not surprising given the small band of area of the totality. However, the penumbra of the eclipse partially shadows a much larger area than the totality:
+
+Image Credit: NASA Scientific Visualization Studio
+If we were to take a wider area, such as the band of 90% coverage, how many years would there be between eclipses at a single place on average?

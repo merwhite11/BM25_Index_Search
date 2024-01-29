@@ -1,0 +1,27 @@
+What is the coordinate acceleration for pure radial motion?
+
+As seen in this answer and also in this book chapter 6, page 6-10 expression 22,  when you are falling in radially from being at rest at infinity your velocity in coordinate time, as seen from a distant observer, can be described by the expression:
+$$\frac{dr}{dt} = -\left(1 - \frac{r_s}{r}\right)\left(\frac{r_s}{r}\right)^{1/2}c $$
+If we assume ”$r$” to be the real radial distance and not just the ”r-parameter of Schwarzschild coordinates” this is the velocity $v$. I want to know the expression for the acceleration as a function of ”$r$” and ”$v$” for a small object of mass $m<<M$ moving purely radially inwards or outwards from a compact spherically symmetric mass distribution in the general case.
+By taking the derivative with respect to "r" of the expression above I get:
+$$\frac{dv}{dr}=\frac{0.5}{r}{\sqrt{\frac{r_s}{r}}(1-\frac{3r_s}{r})}c$$
+From these two expressions we see that the maximum velocity is $v=\frac{2}{3\sqrt{3}}c$ at $r=3r_s$. From this finding, $\frac{dv}{dt}$ should not be so hard but this will not be a general expression but only the acceleration of something dropped from rest at infinity. In Schwarzschild coordinates the radial velocity of light goes as $v_{light}=c(1-r_s/r)$. At $r=3r_s$ this becomes $v_{light}=2c/3$ so when falling in from being at rest at infinity you reach maximal velocity when $v/v_{light}=1/\sqrt{3}$. Maybe you can say that gravitation becomes repulsive whenever you are travelling towards the center of the gravitational field faster than $1/\sqrt{3}$ times the local speed of light?
+Question: What does the general expression for the acceleration of an object in coordinate time look like for an object moving purely radially inwards/outwards from the center of the gravitational field assuming a spherically symmetric non-spinning mass distribution and that the r-parameter of the Schwarzschild coordinates is the real physical distance?
+I am looking for an expression for the instantaneous acceleration as a function of "r" and "v". 
+
+I know that in the weak fields of our solar system Nasa/JPL are using this expression to calculate Newtonian plus relativistic acceleration:
+$$\frac{d\bar{v}}{dt}=-\frac{GM}{r^2}\left(1-\frac{4GM}{rc^2}+\frac{v^2}{c^2}\right)\hat{r} +\frac{4GM}{r^2}\left(\hat{r}\cdot \hat{v}\right)\frac{v^2}{c^2}\hat{v}$$
+This is based upon a first order expansion of the Schwarzshild solution in isotropic coordinates. For pure radial infall you get:
+$$\frac{d\bar{v}}{dt}=-\frac{GM}{r^2}\left(1-\frac{4GM}{rc^2}-3\frac{v^2}{c^2}\right)\hat{r} $$ which becomes repulsive whenever you are approaching the central mass faster than: 
+$$v=\frac{c}{\sqrt{3}}\sqrt{1-\frac{4GM}{rc^2}}$$
+I am hoping for an exact solution for pure radial acceleration in "Schwarzschild coordinate space" and coordinate time similar to the approximate solution for pure radial acceleration you can get from the Nasa equation.
+
+As per the answer by amateurAstro down below the expression should be:
+$$\frac{dv}{dt}=-\frac{GM}{r^2}\left(1-2\frac{v^2}{c^2(1-\frac{2GM}{rc^2})}-\frac{v^2}{c^2(1-\frac{2GM}{rc^2})^2}\right)$$
+This is consistent with stuffing:
+$$\gamma=\frac{1}{\sqrt{1-\frac{2GM}{rc^2}-\frac{v^2}{c^2\left((1-\frac{2GM}{rc^2})(\hat{r}\cdot\hat{v})^2+|\hat{r}\times\hat{v}|^2\right)}}}\frac{1}{\sqrt{1-\frac{2GM}{rc^2}}}$$
+into
+$$\frac{d(m\gamma\bar{v})}{dt}=-\frac{GMm\gamma}{r^2}$$
+to get (at least this is true for pure radial and pure non-radial motion):
+$$\frac{d\bar{v}}{dt}=-\frac{GM}{r^2}\left(\hat{r}-2\frac{v^2(\hat{r}\cdot\hat{v})\hat{v}}{c^2(1-\frac{2GM}{rc^2})} -\frac{v^2(\hat{r}\cdot\hat{v})\hat{v}}{c^2(1-\frac{2GM}{rc^2})^2}\left((\hat{v}\cdot\hat{r})^2+(1-\frac{2GM}{rc^2}-\frac{v^2}{c^2})|\hat{v}\times\hat{r}|^2\right)\right)$$.
+(I am trying to find a velocity-dependent term that together with the classical Newtonian acceleration should reproduce Schwarzshild orbits exactly)

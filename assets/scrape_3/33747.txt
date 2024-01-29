@@ -1,0 +1,18 @@
+Hohmann transfer orbit (Earth-Jupiter system)
+
+Consider the Hohmann transfer orbit of a probe launched from Earth to Jupiter. Assume the orbits of Earth and Jupiter are circular.
+I want to calculate the following:
+
+The semi-major axis and eccentricity of Hohmann transfer orbit from Earth to Jupiter.
+The speed of the probe at Earth.
+The launch speed of the probe from Earth to reach Jupiter.
+The duration of the flight to Jupiter.
+The elongation of Jupiter at launch to ensure that the probe arrives at Jupiter.
+
+Here my attempt:
+
+$a = \frac{1}{2}(r_E + r_J) = \frac{1}{2}(1+ 5.203) = 3.102 \text{ AU}, \ \ e = 1 − \frac{r_E}{a} = 0.677$
+I am thinking of using the vis-viva equation but I don't know what I should use for $r$? Should I use $r_E$ = 1 AU for $r$ where $r_E$ is the average distance from the Earth to the Sun? Am I right? Please correct me if I am wrong.
+I am thinking of using the escape velocity formula where $M$ is the mass of the Earth and $R$ is the radius of the Earth. Please correct me if I am wrong.
+$t = \frac{1}{2}P = \frac{1}{2} \sqrt{a^3} = 2.73 \text{ years}$.
+I really don't know how to do this question. Please help.

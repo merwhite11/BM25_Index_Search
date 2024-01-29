@@ -1,0 +1,28 @@
+How to compute object counts in narrowband imaging?
+
+How do we go about computing the object counts from an emission nebula in H alpha?
+Do need to search the object in Vizier, get the reported FLux for the object in a catalog?..
+Do I use synphot-astropy somehow?
+The general formula I use for computing the counts from an extended object in typical BVRI filters from a known BVRI magnitude, is:
+Targetelectrons = (Flux/PhotonEnergy) * QE * FilterBandwidth * EffectiveTelescopeAperture * imagescale^2
+
+I suppose a similar formula will work for narrowband too, but there is no narrowband magnitude so that I can compute the Flux, hence my lack of understanding how this is done.
+Update:
+Could this be a valid approach for Flux?
+# Retrieve Object H-alpha Flux from VizieR in erg/s/cm²/Å else do a conversion for the whatever flux units you find
+h_alpha_flux = your_h_alpha_flux * units.erg / (u.s * u.cm**2 * u.Angstrom)
+
+# Define H-alpha Wavelength
+h_alpha_wavelength = 656.3 * u.nm
+
+# Create filter for H-alpha
+Hydrogen_filter = SpectralElement(Box1D, amplitude=1, x_0=6563, width=30)
+
+# Create Source Spectrum for H-alpha
+spectrum = SourceSpectrum(ConstFlux1D, wave=h_alpha_wavelength, flux=h_alpha_flux)
+
+# Convolve Source Spectrum with Hydrogen_filter
+observed_spectrum = Observation(spectrum, Hydrogen_filter)
+
+# Integrate Over Wavelength to Calculate Photon Count Rate
+integrated_flux = observed_spectrum.integrate(flux_unit=units.FLAM)

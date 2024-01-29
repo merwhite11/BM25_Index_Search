@@ -1,0 +1,3 @@
+sdo.gsfc.nasa.gov website offline?
+
+Is the NASA solar dynamics website offline? If not how can the daily sun 'movies' be downloaded from https://sdo.gsfc.nasa.gov/data/dailymov.php?

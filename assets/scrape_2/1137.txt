@@ -1,0 +1,3 @@
+Calculate apsides without knowing eccentricity
+
+How would one go about determining the apsides of an orbit, knowing only the current distance between the 2 bodies, the orbital velocity, and the period? Every formula I've seen requires eccentricity, but conveniently, every formula for eccentricity requires the apsides. Surely there must be some way to find one without knowing the other?

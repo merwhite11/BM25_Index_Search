@@ -1,0 +1,6 @@
+Are there recent estimates of Kuiper belt mass?
+
+What is the mass of the Kuiper belt? Obviously estimates will be highly uncertain, but for my application I would like to find a decent current estimate.
+The papers I found so far: (Gladman et al. 2001) estimates it to 0.1 Earth-masses, (Trujillo, Lewitt & Luu 2001) gets the mass of bodies between 100 km and 2000 km to 0.03 Earth-masses, (Kenyon & Bromley 2004) estimate on the order of 0.5 Earth-masses (assuming a starting mass of 10 and then losing 95%), (Fraser et al 2014) estimate just $\sim$0.01 Earth-masses. 
+These papers are a bit old, and I suspect there have been more recent observations improving on the estimates. There is a fair number of papers discussing how to resolve this discrepancy between disk models predicting 10-30 Earth-masses and these low numbers, but I am more interested in empirical estimates. 
+So, what is the current consensus on the Kuiper belt mass and its uncertainty?

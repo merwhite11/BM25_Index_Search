@@ -1,0 +1,7 @@
+Why is WR124 not brighter?
+
+Wikipedia says the Wolf-Rayet star WR124 is 44,700 degrees, and is 562,000 times brighter than our sun. But the Stefan-Boltzmann Law says luminosity per sq meter is proportional to the temperature $T^4$. It's about 8 times hotter than Sol, so the luminosity/sq-m should be 4096 times the Sun's.
+And, it has a radius 12x bigger than the Sun, so $4\pi R^2$ (the surface area) times 4096 (luminosity per sq. meter) - which puts the total luminosity at many millions that of the sun.
+So why is it only 562,000 times the sun?
+Thanks,
+Jack

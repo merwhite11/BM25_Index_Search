@@ -1,0 +1,3 @@
+How to estimate the inclination of a galaxy between edge on and face on?
+
+I have the images of a galaxy and the field of view and I would like to determinte the inclination of a galaxy between edge-on and face-on. Would that information be enough to do the calculation? Or what other details would be needed?

@@ -1,0 +1,6 @@
+Is there still a red shift when moving perpendicular to the direction of incidence?
+
+This answer suggests that when there is zero radial velocity... there will be no Doppler shift but it's not likely to be intended as precise and absolute.
+I remember reading about something like this in a post here but I can't find it. While to first order there is no frequency shift when moving perpendicular (we wouldn't expect there to be be due to symmetry i.e. which way? Up or down?) I think there is a second order effect which is a Doppler shift associated with the small change in angle due to astronomical aberration.  
+Question: Is this a thing? If so, what would be an expression for the frequency shift and what is it called? If the magnitude of each effect is $|v/c|$ is it always a red shift and simply
+$$\Delta f/f = -\frac{v^2}{c^2}?$$

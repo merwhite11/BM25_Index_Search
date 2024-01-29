@@ -1,0 +1,13 @@
+Typical astronomical and astrophysical problems in various programming languages
+
+As a rule, work in the field of observational astronomy and astrophysics requires knowledge of such programming languages as: C/C++ and the principles of OOP, MPI, CUDA. Sometimes additional mathematical libraries are used (alglib, gsl, numpy, sympy).
+But I would like to know something else. I came across a publication in which astronomical (astrophysical) work is presented in the form of the following block:
+
+This structure corresponds to the following 5 sections:
+
+There are two key points:
+
+The lists of recommended programming languages do not show what specific tasks from the field of astronomy and astrophysics can be solved with their help.
+An indicative list of tasks usually solved in the field of astronomy and astrophysics does not show which programming languages and how they are solved.
+
+Part of this can be circumvented by studying specially designed astronomical and astrophysical software packages and the problems they solve. Each astronomical and astrophysical problem thus has its own set and type of input and output data, as well as the structure and solution algorithm. Therefore, for this or that type of task, its own programming language (or their combination) is suitable. To overcome the contradiction and ease the entry threshold, it would be desirable to compare each of the above 5 sections with programming languages and specific basic tasks that can be solved with their help.

@@ -1,0 +1,3 @@
+What happens if I were to add angular momentum to a maximally spinning black hole?
+
+I am aware that a "naked singularity" is not possible. However, what would happen if I added angular momentum to a black hole near the maximal angular momentum limit? Does it asymptote?

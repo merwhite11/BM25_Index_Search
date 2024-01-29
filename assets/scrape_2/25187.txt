@@ -1,0 +1,11 @@
+Why is sun's photosphere a million times less dense than air at the surface of the Earth?
+
+Sun's photosphere is about 19 times as hot as Earth's surface. 
+(Source: http://solar-center.stanford.edu/vitalstats.html)
+But Solar surface gravity is about 28 times terrestrial surface gravity.
+So, shouldn't the density of gases at the photosphere of the sun be comparable to that on the surface of the Earth?
+Why is the density of Sun's photosphere a million times lesser? 
+(Source: http://solar-center.stanford.edu/vitalstats.html)
+Essentially, what I am asking has been aptly worded in userLTK's answer, "how can the photosphere be so light and almost vacuum like under such high gravity (28 earth gravity)"?
+Some of the answers have suggested that this may be because the Sun's photosphere is ionised. This doesn't seem to be accurate. The Hydrogen ionisation at optical depth = 1 is only 0.04%.
+(Source: http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1968SoPh....3....5G&data_type=PDF_HIGH&whole_paper=YES&type=PRINTER&filetype=.pdf)

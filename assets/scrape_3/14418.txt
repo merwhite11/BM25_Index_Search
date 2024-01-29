@@ -1,0 +1,4 @@
+Two body orbit of equal masses
+
+Given two bodies of equal mass in an elliptical orbit:
+I know they will be orbiting about a common center of mass, i.e. the barycenter. But, do the velocities have to be equal in magnitude and opposite in direction (normal to R when R is their distance from each other) for the orbit to be stable? I think, if the velocity of one mass were to vary with respect to the other it would create a moving barycenter in which the two masses would collide or throw on another out of the orbit, but I can't find any mathematical verification of this.

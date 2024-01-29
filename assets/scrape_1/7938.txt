@@ -1,0 +1,14 @@
+Where did this famous Planetary Precession Formula come from?
+
+The following equation (which I shall term the Planetary Precession Formula, PPF for short) famously appeared in a 1915  publication by Einstein where he indicated how it could be derived from his General Theory of Relativity (GTR).
+$$\epsilon = \frac{24 \, \pi^3a^2}{c^2 T^2(1-e^2)}$$
+where $\epsilon$ is the (anomalous, non-Newtonian) angular precession per orbit, $a$ is the orbit semi-major axis, $c$ is the speed of light, $T$ is the orbital period, $e$ is the orbit ellipticity.
+The PPF formula accurately predicts the (anomalous, non-Newtonian) precession of Mercury and other Solar planets.
+The formula was known in scientific circles well before 1915.  For example Gerber (1898) derived it from his own (widely-derided) model of gravity.  In the internet article Gerber's Gravity it is written that 
+
+It became a fairly popular activity in the 1890s for physicists to propose various gravitational potentials based on finite propagation speed in order to account for some or all of Mercury's orbital precession.  Oppenheim published a review of these proposals in 1895.  The typical result of such proposals is a predicted non-Newtonian advance of orbital perihelia per revolution of... >
+
+$$k\,\frac {\pi\,m}{L \,c^2} =  k \frac{4 \, \pi^3a^2}{c^2 T^2(1-e^2)}.$$
+where $L = a(1 - e^2)$  is the semi-latus rectum of an ellipse, $m$ is a function of the angular speed $\omega$ of an orbiting planet: $m = a^3 \omega^2$ with $\omega = 2\pi/T$ and $k$ is a constant which might be derived from theory.
+Clearly with $k = 6$ we get the PPF formula given above. 
+I wish to know where the $k\pi m/Lc^2$ expression comes from. From the article it would appear to come from the 28-page review paper by Oppenheim, 1895 which is scanned here. I have been through the scans of this paper but without finding that equation explicitly (the paper is in German which I know very poorly, Google Translate helps a bit but leaves a lot of ambiguity). It might be that the anonymous author of the article extracted the expression from a review of Oppenheim's paper or even the original (French & German) papers themselves, but he is not contactable.  Maybe someone here is familiar with this era of astrophysical history and can point me in the right direction?

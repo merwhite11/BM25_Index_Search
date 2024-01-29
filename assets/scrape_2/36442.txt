@@ -1,0 +1,40 @@
+Get orbital period of exoplanet from light curve using astropy.timeseries
+
+I am using astropy and I would like to calculate orbital period of an exoplanet by its star's light curve. I follow tutorial in astropy docs and I use data from Kepler in Nasa Exoplanet Archive.
+There is KIC 10666592 b (expected period: 2.2 d) in tutorial, it works for me. But if I try another planet (e. g. KIC 10000941 b (expected period: 3.5047 d)), it gives bad results.
+Load and plot light curve
+from astropy.utils.data import get_pkg_data_filename, download_file
+from astropy.timeseries import TimeSeries, BoxLeastSquares
+from matplotlib import pyplot as plt
+import numpy as np
+from astropy import units as u
+
+# First url is for KIC 10666592, the second one is for KIC 10000941 b.
+URL = "http://exoplanetarchive.ipac.caltech.edu:80/data/ETSS//Kepler/005/755/19/kplr010666592-2009131110544_slc.fits"
+#URL = "http://exoplanetarchive.ipac.caltech.edu:80/data/ETSS//Kepler/005/159/31/kplr010000941-2009166043257_llc.fits"
+
+filename = get_pkg_data_filename(download_file(URL))
+curve = TimeSeries.read(filename, format="kepler.fits")  
+
+plt.plot(curve.time.jd, curve["sap_flux"], "k.", markersize=1)
+
+
+Apply periodogram
+periodogram = BoxLeastSquares.from_timeseries(curve, "sap_flux")  
+results = periodogram.autopower(0.2 * u.day)  
+
+plt.plot(results.period, results.power)
+
+
+Calculate orbital period
+best = np.argmax(results.power)
+period = results.period[best]
+print(period)
+
+$$\begin{array}{|c|c|c|} \hline
+ & \text{KIC 10666592 b} & \text{KIC 10000941 b} \\ \hline
+\text{Calculated period} & \text{2.2055172 d} & \text{13.595231 d} \\ \hline
+\text{Expected period} & \text{2.2 d} & \text{3.5047 d} \\ \hline
+\text{Result} & Correct & Incorrect \\ \hline
+\end{array}$$
+Why period for second planet is wrong? I'm doing something wrong? How can I get the correct result?

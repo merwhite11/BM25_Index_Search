@@ -1,0 +1,9 @@
+Is the Condor Galaxy (NGC 6872) the result of a non-collision galaxy interaction?
+
+All the interacting galaxies that I can find are of collisions, I'm trying to find an example of a fly-by galaxy interaction. Is the Condor Galaxy an example of one?
+Wikipedia's NGC 6872; Possible interaction with NGC 6876 says in part:
+
+Machacek, et al. (2005), reported on a 290–330-thousand-light-year (90–100 kpc) X-ray trail that exists between NGC 6872 and the nearby elliptical galaxy NGC 6876. NGC 6872 is moving away from NGC 6876 at 849 ± 28 km/s (528 ± 17 mi/s) in approximately the same trajectory as the X-ray trail, suggesting a link between the two galaxies. Four possibilities for the trail's existence were given: gas stripped from the two galaxies during a close fly-by, intergalactic medium that has been gravitationally focused behind NGC 6872 as it moves, interstellar medium that was stripped from NGC 6872 by ram pressure as it passed through the densest part of the Pavo group, and interstellar medium stripped from NGC 6872 by turbulent viscosity as it passes through Pavo. Any or all of these processes may be responsible for the trail. If NGC 6872 and NGC 6876 did interact in the past, the latter may have affected NGC 6872's spiral arms and gas distribution as much as its interaction with IC 4970
+
+and links to the 2004 arXiv preprint XMM-Newton Observation of an X-ray Trail Between the Spiral Galaxy NGC6872 and the Central Elliptical NGC6876 in the Pavo Group and it's subsequent ApJ. publication in 2005
+It's been 16 years now, has there been any further observational or numerical investigations that address this?

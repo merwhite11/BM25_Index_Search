@@ -1,0 +1,4 @@
+How to calculate Equivalent Width of a spectrum with continuum at 0
+
+I am trying to calculate the Equivalent Width of emission lines of a spectrum whose continuum is at 0, making the calculation of the EW impossible.
+I have the spectrum of a transient in a galaxy, so I am subtracting the galactic spectrum to study the emission lines, but, by doing so, the continuum level of the resulting spectrum is at 0. I am fitting the lines with multiple gaussians and calculating the EW as flux/continuum, but being the continuum around 0 the EW values become gigantic.

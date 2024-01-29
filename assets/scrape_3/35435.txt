@@ -1,0 +1,4 @@
+What is the gaseous-to-rocky ratio of exoplanets?
+
+Around the Sun, there are as many gaseous planets (Jupiter, Saturn, Uranus and Neptune) as there are rocky planets (Mercury, Venus, Earth and Mars). 
+Do other stars have similar gaseous-to-rocky ratios among their planets? For any given stellar system, are there typically as many gaseous planets as there are rocky planets? Or do most stars have either mostly gas giants or mostly rocky planets, making our own Solar system an exception? Perhaps we need more data to conclude, since we often have mass or radius, but not both for exoplanets?

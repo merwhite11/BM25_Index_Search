@@ -1,0 +1,4 @@
+How long would an occultation by a TNO last?
+
+A trans-Neptunian object, 1 million km from the observer, with an angular diameter of 0.126° occults the Sun (angular diameter of 0.004°) and the TNO and the observer are moving in the same direction, in the same plane.  The TNO is moving 8m/sec with respect to the observer, how long would the occultation last?
+Assume the observer is 18 billion km from the Sun.

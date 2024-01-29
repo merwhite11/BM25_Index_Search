@@ -1,0 +1,6 @@
+How can I validate star names and designations?
+
+While most star names and alphanumeric designations I've seen appear to be pure alphanumeric plus space, I have seen designations with both - and + characters in them too.
+Is there a reference or standard anywhere for what characters are valid for designations and star names?
+I've had a look around for this information, but I can't find any references which would allow me to write a comprehensive BNF syntax or a regular expression to parse and/or validate star names and designations.
+In particular for a project I'm working researching, I would like to know if either a , comma or a | pipe character has or might ever be used in a star name or designation.

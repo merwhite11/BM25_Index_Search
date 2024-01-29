@@ -1,0 +1,4 @@
+Why is 3GHz the best frequency at which to measure the sun's microwave output?
+
+I have read that 3GHz is the best frequency at which to measure the sun's microwave output, but that measurements are made at 2.8GHz for historical reasons, however I can find no explanation of why 3GHz should be the best frequency.
+Could anyone tell me please?

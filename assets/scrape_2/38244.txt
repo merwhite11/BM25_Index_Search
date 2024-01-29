@@ -1,0 +1,13 @@
+What are the Mathematical Algorithms/Formulas behind hindu Sunrise and Sunset Calculations?
+
+There are differences between Astronomical Sunrise/Sunset calculation and Hindu calendar Sunrise/Sunset calculations. The astronomical algorithms to calculate the sunrise/sunset can be found over the internet. Here is a calculation that I followed to correctly calculate the astronomical sunrise/sunset time.
+Sunrise and Sunset algorithm
+In the Hindu calendar, sunrise/sunset is considered when the center of the Sun disk is at the horizon, also the refraction effect must be considered.
+Sunrise on the Hindu calendar = Astronomical Sunrise + Time taken by the Sun to rise half of its diameter + Time taken by the Sun to rise further to neutralize the refraction effect.
+Similarly, Sunset = Astronomical Sunset - Time taken by the Sun to set half of its diameter - Time taken by the Sun to set further to neutralize the refraction effect.
+I am able to derive the Astronomical Sunrise/Sunset, but how to do the calculation for the following?:
+
+Time taken by the Sun to rise half of its diameter.
+Time taken by the Sun to rise further to neutralize the refraction effect.
+Time taken by the Sun to set half of its diameter.
+Time taken by the Sun to set further to neutralize the refraction effect.

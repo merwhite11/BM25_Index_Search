@@ -1,0 +1,13 @@
+Has anybody measured the mass density profile $\Sigma = \Sigma (r)$ of a protoplanetary disk? (when $r<1$ AU)
+
+I've been trying to find research articles where the mass density distribution $\mathrm{\Sigma = \Sigma(r)}$ is determined for protoplanetary disks, when $r<1$ au. For instance:
+
+Here A. Miotello, S. Facchini, E. F. van Dishoeck, and S. Bruderer use radiative transfer and submm data to probe the surface density distribution with $^{13}\mathrm{CO}$ emission.
+
+Here Jonathan P. Williams and Conor McPartland measured density profiles with ALMA.
+
+
+Seems like the method is similar. Despite that, I know that the available resolution in this band does not allow us to conclude much about the mass when $r < 1$ au. ALMA's resolution reaches $\sim 0.02''$ "in the most extended 12-m array configuration ($\sim \,16 \;\mathrm{km}$), when observing at $230 \;\mathrm{GHz}$.
+TW Hydrae is the nearest known protoplanetary disk. A(n "exquisite") resolution of $\theta \sim 3.5 \times 10^{-5}\;''$ would be needed to spatially resolve a diameter of $\mathrm{d_{TWH}} = 0.1 \;\mathrm{au}$.
+
+Questions: Is it possible to measure $\Sigma$ at this distances ($d<0.1 \; \mathrm{AU}$)? Is there any work exploring on this? Are we limited mainly to models? (e.g., Philip J. Armitage's Astrophysics of Planet Formation textbook or Jonathan P. Williams and Lucas A. Cieza's review).

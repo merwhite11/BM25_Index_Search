@@ -1,0 +1,18 @@
+Does Eddington's variable polytropic index better fit data from the Standard Solar Model?
+
+I came across a 1938 paper by Arthur Eddington1 in which he discusses stellar polytropic models where the polytropic index $n$ varies inside the star, decreasing from a value $n_2$ at the surface to a value $n_1$ at the center. He specifically mentions that the case of $n_1=1.5$ and $n_2=3.5$ should represent "ordinary gaseous stars" quite well.
+In his conclusion, he states
+
+We have seen that actual stars are likely to be represented by a model with $n$ continually increasing outwards.
+
+78 years later, we have better data about the structure of the Sun, thanks in part to helioseismology. So I have two questions:
+
+Do researchers use Eddington's variable index treatment in theoretical models?
+Does Eddington's model better fit current data from the Sun than the standard polytropic model with $n$ constant throughout the star?
+
+I ask partly because I know that the standard polytropic model (with $n=3$) begins to fail in the outer regions of a star, thanks in part to convection, as shown below, and I wondered if even a simple two-phase model could suitably describe a convective envelope.
+
+
+Graphs from this page.
+
+1 Eddington mentions earlier work by Milne (1932), who uses a slightly more complex analysis. I haven't yet read Milne's paper, so I'm not familiar with its conclusions and use.

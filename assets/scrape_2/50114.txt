@@ -1,0 +1,8 @@
+Minimum redshift for galaxies receding $\geq c$ when light transmitted
+
+What is the minimum redshift for galaxies receding $\geq c$ when light was first transmitted that are visible today from Earth?  Is that value the same as maximum angular size distance?
+This question is related to this stackexchange Turnover point of Angular Diameter question.  You can see the maximum in the angular diameter from this diagram.
+
+I looked up redshift cosmological calculators and came across Ned Wright's Cosmological redshift calculator.  If I put in a z-factor redshift $z\approx 1.62$, then I get the approximate value for the maximum angular size distance of $\approx$ 5.80 billion light years, for light that was emitted $\approx$ 9.69 billion years ago.
+Does this maximum in the angular diameter curve correspond to light emitted from a distant galaxy that was originally receding from us at exactly the speed of light?  I think that as gravity slows down the expansion of the universe then the light from that galaxy finally begins approaching and makes its way towards Earth; previously having "stalled" at the maximum angular size limit.
+The angular size distance is pretty cool in that galaxies with a larger redshift than this maximum begin to have a larger angular diameter with increasing distance until we finally get to the CMB with a redshift $\approx$ 1100 where the angular size distance diminishes to $\approx$ 41 million light years when the light was first transmitted.

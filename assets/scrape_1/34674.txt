@@ -1,0 +1,5 @@
+How to search binaries in Simbad using spectral types
+
+In the Simbad database there are many binary stars listed with the spectral classification of each component. For example, for $\alpha$ Centauri, Simbad yields a spectral type of G2V+K1V.
+My question is, what criterias do I have to input to search for all the binaries with a G and K component? And what If I want to search specifically for GV + KV binaries?
+I don't know if this search can be done with the sptypes and splum search criteria.

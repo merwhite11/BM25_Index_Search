@@ -1,0 +1,8 @@
+Where does energy at the beginning of a star's lifecycle (before any nuclear reactions) come from?
+
+David Christian's Maps of Time has this to say about the period during which the first stars started to form from the diffuse clouds of hydrogen and helium that then made up the universe:
+
+Under the pull of their own gravity, the clouds of hydrogen and helium began to collapse in on themselves...As gravity packed each cloud into ever smaller spaces, pressure built up in the center. Increasing pressure means increasing temperatures, and so, as they shrank, each gas cloud began to heat up (~Kindle location 1469).
+
+The part I'm working on understanding is "Increasing pressure means increasing temperatures." Does the pressure itself cause the molecules to heat up? Or is it the kinetic energy that the particles pick up as gravity pulls them towards the center of the cloud? Or is the phenomenon here something other than increased energy per unit mass?
+Of course, once the nuclear chain reaction gets started in the star it's not hard to figure out where the energy comes from. I'm talking about before that.

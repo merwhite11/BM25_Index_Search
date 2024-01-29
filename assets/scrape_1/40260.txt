@@ -1,0 +1,15 @@
+Building a floating, ocean-going giant radio telescope?
+
+Given the loss of the Arecibo telescope: Is anybody aware of any efforts or studies towards a floating, ocean-going radio telescope of with 500m diameter or more?
+The idea is floating (pun intended) in my head since I heard about Japanese design studies about foldable aircraft carriers (actually it is just the runway which is expandable and thin).
+In the age rockets self-landing on a small sea-born platform, I assume that we have the wave movements under control, at least in principle.
+Related
+
+Is there any role today that would justify building a large single dish radio telescope to replace Arecibo?
+Could we carve a large radio dish in the Antarctic ice?
+
+References
+
+Osaka University: Department of Naval Architecture and Ocean Engineering
+Wikipedia on the Drilling platform "Erik Raude" (in German). This shows that even in rough seas, massive vessel canbe kept extremely stable and static.
+Космона́вт Ю́рий Гага́рин (Kosmonavt Yuriy Gagarin) was a Soviet space control-monitoring ship which had large satellite dishes mounted on its hull.

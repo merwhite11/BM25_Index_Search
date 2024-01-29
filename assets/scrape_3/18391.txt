@@ -1,0 +1,8 @@
+Why is JD 2451545.0 = January 1, 2000, Noon instead of JD 2451558.0?
+
+I know that JD0.0 is Jan. 1st 4713 BC at Noon, a year in the Julian calendar is 365.25 days and that the number after 'JD' is the number of days so...
+I want to calculate the number of days between Jan1.2000AD and Jan1.4713BC and I do
+$$ \text{# of years} = 4712+2000=6712 \text{ years (skipping the year 0)} $$
+$$ \text{# of days} = 6712 \cdot 365.25 =2451558 $$
+So I think it should be JD2451558. An extra 13 days. What's going on here? I thought maybe the length of a year in the Julian calendar is $2451545/6712=365.2480632\text{days}$ but I can't find anything to support that.
+I imagine that people would have questioned whoever proposed J2000 as JD2451545.0 and got a satisfying answer but I can't find one! Help

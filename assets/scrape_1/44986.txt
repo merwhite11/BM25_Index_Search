@@ -1,0 +1,19 @@
+Would Atlas Pro's prediction about the color of plant in Kepler-186F work as a biosignature to search for life?
+
+The Atlas Pro video that prompted this question is this.
+Tl;dr: it is argued that due to the different spectrum of radiation emitted by Kepler-186 and what is known about the evolution of photosynthetic pigments on Earth, if there is vegetation growing on potentially habitable planet Kepler-186f, the most common color of the photosynthetic organs would be red if light is in excess, or black if light is scarce.
+It is also asserted that since Kepler-186f is so close to the star, it is most probably tidally locked to it, forming a gradient of light in the  "Twilight Zone", which would beget adaptations in the assumed plants to the particular light conditions in their local ecosystem. Thus, the expected distribution of plant color would be a gradient of strong red in the most illuminated region to black in the almost permanently dark zone.
+Now, I am a biologist, and I totally agree with the assertions about pigment selection and ecological gradient adaptation because that's what I know about.
+But could it be possible to measure such a gradient of reflected wavelengths?
+Assume for a second we do detect such a gradient.
+
+It is unlikely that rocks on the surface follow such gradient, there is no reason why rock composition would be distributed in such a fashion during planet formation or surface processes.
+
+Clouds might be a possibility. I hope someone with more knowledge can explain if this is a reasonable explanation or if it can be discarded as an alternative hypothesis.
+
+This color gradient would be expected on other potentially habitable tidally locked planets, so we could extend the search and compare all known exoplanets with this characteristics. If we can consistently detect such a gradient this subset of planets, it is a strong indicator for life, a known evolutionary adaptation to light availability, that would be rare in the absence of life.
+
+Regular gradients across the Twilight Zone that show an excess of light in the expected wavelength according to star type and light intensity independently of the chemical composition of the planet or atmosphere  would be a strong indicator of evolutionary adaptation.
+
+
+I hope my thoughts are understandable. To summarize, would this be a reliable method for detecting biosignatures in exoplanets?

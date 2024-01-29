@@ -1,0 +1,3 @@
+How large must an object be to be seen through a telescope?
+
+I've studied this in a few optics classes before, but I'm drawing a blank at the moment.  If I know the aperture size and focal length of a telescope, as well as how far away the object I want to view is, can I calculate how large/wide/big that object must be in order to be seen?

@@ -1,0 +1,5 @@
+How to calculate the position to be to see ISS passing in front of the moon or the sun?
+
+I would like to know how to calculate the time/date of the ISS passing in front of the moon (between the observer and the moon) or the sun, or to calculate the position in which the observer have to be to see the ISS passing in front of the moon/sun.
+Th goal is to make a photograph of the ISS in the moon/sun.
+Is it possible with tools such as Stellarium?

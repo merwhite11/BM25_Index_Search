@@ -1,0 +1,11 @@
+What's up with the solar period of Jupiter in Stellarium?
+
+From this answer, I discovered that for gas giants, the length of a day in Stellarium is not the same as the solar day of the planet as indicated by Wikipedia when using the ephemerids calculation tool.
+For instance, for Jupiter, the length of a solar day (as indicated by Wikipedia) is 9.9 hours. But based on that answer, the rotation period of Jupiter in Stellarium is 12.5 hours.
+However, from the surface of Jupiter, if you look at how long it takes for the Sun to return to the same position in the sky, it takes 10 hours, not 12.
+At 10:53 on the surface of Jupiter
+
+At 20:47 (the Sun is back to roughly the same place in the sky after a bit less than 10 hours)
+
+Why is it that to get a proper analemma on the surface of Jupiter, you have to use a time interval that is not a multiple of the solar period?
+Stellarium 0.21, by the way.

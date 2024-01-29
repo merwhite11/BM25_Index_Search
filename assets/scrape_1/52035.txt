@@ -1,0 +1,7 @@
+Right ascension of a star and local sidereal time
+
+If I'd like to watch star like Betelgeuse that has coordinates - right ascension 05h 55m 10.30536s and declination +07° 24′ 25.4304″.
+
+If my local sidereal time is 05h 55m 10.30536s does it mean that Betelgeuse crossed my meridian?
+
+And if I want to track it with right ascension on the telescope I can define it as LST - RA of a star take this number and put it on the RA axis of a telescope and see a star?

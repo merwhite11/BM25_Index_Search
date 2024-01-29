@@ -1,0 +1,4 @@
+How do satellites impede current telescopes?
+
+As we send up more and more satellites, it stands to reason that our view of the universe becomes more and more obscured. I would certainly expect for example that a large telescope such as the LSST would be able to see the International Space Station, and since the ISS is not transparent, it wouldn't be able to observe the patch of the sky beyond it.
+How do current telescopes currently deal with satellites obstructing their view? Do they simply not observe where the satellite is? If we send up more and more satellites, does it mean that telescopes will have to focus on narrower and narrower fields of view to avoid the swarm?

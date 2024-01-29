@@ -1,0 +1,4 @@
+Gravitational-Wave Strain and Power (watt/square metre)
+
+If we detect a gravitational wave with a strain of, for example, $h=10^{-20}$, what is the flux of power carried by this wave, in SI units, $W/m^2$ ?
+How can flux of power be calculated for a given strain, such as  $h=10^{-50}$ or $h=10^{-100}$?

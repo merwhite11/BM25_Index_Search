@@ -1,0 +1,6 @@
+Semimajor axes data from Kepler Eclipsing Binary Catalog
+
+I have been searching for a massive binary (>7 M$_{\odot}$) catalog with semimajor axes given, but I wasn't able to find any, and I began to search for a binary star catalog and decided to filter it later.
+A bit of a googling leads to the Kepler Eclipsing Binary Catalog, though useful, it doesn't have semimajor axes in it.
+Please share links to how to calculate semimajor axes from the orbital period. Also, it would be much better if a catalog with binary separation data in it could be shared.
+Thank you!

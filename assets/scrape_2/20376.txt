@@ -1,0 +1,3 @@
+Does an algorithm exist that takes an image of the night sky and tell you where in the milky way that perspective likely originates?
+
+In Stargate they talk about using the stars on other planets to figure out their location. I know that's fiction, but it made me wonder if such an algorithm (with arguably little usefulness right now) exists.

@@ -1,0 +1,3 @@
+On a Hertzsprung-Russell diagram, why is the main-sequence line squiggly?
+
+When I look at a Hertzsprung-Russell diagram, I'm able to see a main-sequence line from the most luminous main-sequence stars at the top left to the dimmest main-sequence stars at the bottom right. However, this line isn't straight - it's quite squiggly. Why is the line squiggly, and not defined by a polynomial or rational function?

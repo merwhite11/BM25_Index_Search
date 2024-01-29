@@ -1,0 +1,5 @@
+Could an hypothetical hidden black hole companion to the sun be revealed by proper motion data?
+
+If the Sun were in a binary star system with a black hole companion, the Sun would be orbiting the black hole, and this should be reflected in a change in the observed proper motion of nearby stars.
+Are the current measurements of proper motion, old enough, precise and extensive enough to detect such a change?
+Have any calculations been performed to estimate the function of mass and distance that would place a black hole companion (or a passing black hole in the vicinity) below the detectable threshold of our current data?

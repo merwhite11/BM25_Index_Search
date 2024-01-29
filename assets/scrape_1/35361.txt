@@ -1,0 +1,4 @@
+Is science data from astronomical telescopes analyzed with something analogous to "optical character recognition"?
+
+Do people manually input the science data from telescopes into databases or does some software automatically collect the data from telescopes and put it in servers and databases?
+I'd imagine there's too much data from present-day telescopes that they can collect to handwrite or hand by hand input the data from them into spreadsheets therefore computers do it via machine learning?

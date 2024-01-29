@@ -1,0 +1,6 @@
+Why do spectroscopic binaries have approximate circular orbits?
+
+So for an assignment I have to answer the question what I can conclude concerning the shape of the orbit, knowing that it is both an eclipsing and spectroscopic binary.
+Now, I think the answer I supposed to be that, since we know it is a spectroscopic binary, the orbits will most likely be circular. And I've read on various places that this is true, because of the tidal forces that cause for circular orbits. These tidal forces are quite strong, because apparently spectroscopic binaries are quite close to each other.
+So here is where I lose it, I don't understand why spectroscopic binaries should per se be close to each other. I have considered that this is because they are not visual binaries; if they were visual binaries we would be able to tell them apart. But we can't tell them apart, so they are not visual binaries. From this you could conclude that this means that they are close to each other, but I think it could just as well mean that they are very very far away, and that that is the reason we cannot tell them apart. So I can't find a proper explanation for this.
+Many thanks if you can help me out!!

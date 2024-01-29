@@ -1,0 +1,5 @@
+What would be the effects of a -400 nanotesla geomagnetic storm on modern electronics?
+
+After reading the Wikipedia article on geomagnetic storms, I'm curious about what the effects of a -400-nanotesla-minimum geomagnetic storm would be on modern military and consumer electronics.
+The March 1989 geomagnetic storm, with a minimum of -589 nT, shut down Quebec's power grid, but the Bastille Day event, with a minimum of -301 nT, apparently didn't do much, at least to power grids. However, I cannot find information on how either effected military/consumer electronics.
+What would a -400 nT storm cause, and how could it be shielded against?

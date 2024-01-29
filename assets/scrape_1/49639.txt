@@ -1,0 +1,4 @@
+Does humidity affect image formation point while observing through a telescope?
+
+I was wondering if atmospheric humidity affects the point where an image forms through a telescope?
+I have a 256mm aperture 1200mm focal length Newtonian Reflector. I generally use a 25mm eyepiece and get a sharp image with the focuser extended ~halfway. Recently, I was out observing when the atmospheric humidity was over 70%, and the temperature over 90F. I didn't get a sharp image even with the focuser extended fully. I fastened the eyepiece pulled out a little bit to get a fairly sharp image. Why could this be happening?

@@ -1,0 +1,30 @@
+Is GAIA the only game in town for looking at quadrupole gravitational deflection of light?
+
+From Gerry Gilmore (2018) Gaia: 3-dimensional census of the Milky Way Galaxy
+
+4.4 Fundamental physics
+Relativistic effects are highly significant for Gaia measurement accuracy, with
+tests of General Relativity being a significant driver from the very start of the project.
+This established tight constraints on the mission. For example, sufficient modelling of
+Newtonian aberration requires that the spacecraft orbit (Lissajous orbit around L2) is
+quantified with a velocity accuracy of 1 mm/s. Finite light velocity effects lead to
+position-dependent propagation delays in the field of view which must be accounted for.
+Monopole light deflection (the famous 1.75arcsec solar limb effect first verified by
+Eddington & Dyson in 1919) exceed the microarcsec level all-sky for the Sun, and up to
+90 deg from Jupiter, significantly complicating the computational effort. Quadrupole
+light bending is 240µas at the Jupiter limb, and is 1µas at 8 Jupiter radii. This allows a
+special Gaia experiment – to quantify light bending by Jupiter, this test involving an
+oblate rotating mass moving in a deeper (Solar) potential.
+
+The Gaia mission
+(also here):
+
+Another possible experiment is to explore light bending of star images close to the limb of Jupiter to measure the quadrupole moment of the gravitational field of the giant planet.
+
+Of course it's easier for an existing visible light space telescope to look near Jupiter than near the Sun, and in general stars aren't particularly strong radio point sources.
+
+How far have individual stars been seen by radio telescopes?
+Do stars have "radio photospheres"? Are they different from their optical photospheres?
+https://astronomy.stackexchange.com/a/36708/7982
+
+Question: Is GAIA the only game in town for looking at quadrupole gravitational deflection of light? Is there some other method with similar sensitivity, using either Jupiter or the Sun which is less oblate but much more massive? Radio perhaps, somehow?

@@ -1,0 +1,9 @@
+Interpretation of Angular Correlation results
+
+Long story short, what I am doing is to split the spherical space around my device into equal size pixels (49,152 pixels) with HealPix algorithm. If the power that my device can receive at each pixel is equal or higher than a certain threshold, I will color that pixel, if not, the pixel remains white. At the end, I want to find the angular correlations of the colored pixels (can be seen as galaxies). I started with the simplest estimator Davis & Peebles ($w(\theta) = DD/RR$) and it works fine. However what I achieve with LS estimator is hard to interpret since I get $w(\theta) = 1$ for large angular separations between my pixels (solid angle elements) which are separated around 170-180 degrees (I express it in degrees since I measure the arc length between 2 solid angle elements) apart and that is because I have no pairs in my DD and DR sets to be separated by 170-180 degrees. For instance:
+$w(\theta) = (DD-2DR+RR)/RR$    --------->    $w(170) = (0-2\cdot0+RR)/RR = 1$
+The question is what does this $w(\theta) = 1$ mean while I have no pairs in my data set separated by the mentioned large angles. In case if needed, attached is a set of plots to highlight the problem plus 2D representation of my data and random sets.
+I would be greatly appreciated if you can help me how to interpret my angular correlation results from LS estimator.
+
+
+Angular Correlation results for LS estimator and Peebles estimator:

@@ -1,0 +1,5 @@
+Space curvature and its rotation
+
+As I learn, the gravity is caused by the spacetime curvature. Is there any gravitational/magnetic field that really exists around the Earth, or any other planets?
+Since the planets/stars rotate, does this cause the space time curvature to twist in the direction of their rotation? If it does then the gravitational pull should also twist the the path of the objects falling(though we may not perceive the curvature of this path, we should be 
+able to calculate at-least theoretically)

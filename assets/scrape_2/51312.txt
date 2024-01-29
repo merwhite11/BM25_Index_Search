@@ -1,0 +1,4 @@
+Deriving orbital inclination from equatorial coordinates?
+
+I wanted to ask if it's possible to establish a correlation between the observed equatorial coordinates of a Solar System planet, especially declination, and the planet's orbital inclination with respect to the ecliptic.
+In case there is such correlation, would it be possible, for example, to derive the orbital inclination of an outer planet by comparing its declination angles observed at different times?

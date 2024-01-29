@@ -1,0 +1,12 @@
+How are small objects automatically identified and their locations determined in digital images?
+
+I have a large quantity of old digital images of low energy electron diffraction (LEED) patterns that I must process to identify and locate small, sometimes elongated gaussian-like blobs of a few pixels in width within a noisy and artifact-riddled background.
+I'm currently reading up on Laplacian of Gaussian blob detection 1, 2, 3 and have started to implement the "roll-your-own" script in the first link; there are python packages like OpenCV and Scikit-image that have standard libraries for this as well and I believe they both have Laplacian of Gaussian blob detection, but I like to do it first myself to better understand what's going on.
+Why are you asking this here in Astronomy SE?
+Good question! Because this looks at least superficially a lot like what astronomers need to do when searching for objects in deep space imaging applications, and there may be some standard implementations in AstroPy or even lecture notes for Digital Imaging in Astronomy 101 courses.
+In parallel with my brute force efforts, how might I compliment this work with existing astronomical imaging techniques to compare notes? It would be great if it turned out that some existing script or package searching for distant elliptical galaxies or weak gravitational lensing could be applied directly to these kinds of images!
+Example image (most data has smaller pixels higher pixel density, but I need to process these low pixel count images as well):
+
+The kinds of "spots" I'm looking for:
+
+First try with Python implementation of Laplacian of Gaussian blob detection, haven't yet looked at generalizing to non-circular shapes, just ran the script in the link with a few small modifications.

@@ -1,0 +1,6 @@
+What happens to the Gas Pressure when working out the Eddington Luminosity?
+
+I am looking at how the Eddington Luminosity is derived and I do no understand why we only care about $P_{rad}$? 
+When working out $L_{Edd}$ you take the ratio between  $dP_{rad}/dr$ and $dP_{hydrostatic}/dr$ which must be less or equal to than 1. If $P_{hydro} = P_{gas} + P_{rad}$ why don't we take $P_{gas}$ into account anywhere?
+For reference:
+$$L_{Edd} = \frac{4\pi c G M}{\kappa}$$

@@ -1,0 +1,3 @@
+How to find the shape of an orbit
+
+What is the minimum information I need to be able to draw the shape of an orbit of a body that orbits the sun? With this information how can I figure out the shape of its orbit?

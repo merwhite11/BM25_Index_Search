@@ -1,0 +1,31 @@
+Explanation of an imaginary transformation occurring in the determination of trigonometric series for the elliptical equation of the center
+
+One of the oldest problems in astronomy, which dates back to to the time of Kepler, is the problem of development in infinite trigonometric series of the "equation of the center" - to express the difference between true anomaly $v$ and mean anomaly $M$ as a trigonometric series of integer multiples of mean anomaly $M$, with coefficients of the series that are functions of the eccentricity $\epsilon$:
+$$v - M = \sum_{n=1}^\infty \frac{{1}}{{n}}C_n \sin(nM)$$
+where $C_n = f(\epsilon)$. The problem of determination of this trigonometric series is essentially a modern equivalent of the ancient method of epicycles - this was a model of the celestial positions of the planets which used a series of "wheels" ("epicycles") with different radiuses and angular speeds to trace the location of the planet. The coefficient $\frac{C_n}{n}$ is essentially the radius of the $n$th wheel, while it's angular frequency is $\frac{nM}{t}$ ($t$ is the time of a given mean anomaly measurement $M$).
+Restating the problem in a more formal way, it amounts to finding the following integral (Fourier coefficients):
+$$C_n = \frac{1}{\pi} Re \left[ \int_{-\pi}^{+\pi} \left( \frac{dv}{dM} \right) e^{inM} dM \right] =  \frac{1}{\pi} Re \left[ \int_{-\pi}^{+\pi} \left( \frac{dv}{dM}\cdot \frac{dM}{dE} \right) e^{inM} dE \right]$$
+Since $\frac{dv}{dM}$ can be expressed through the eccentric anomaly $E$ and the eccentricity $\epsilon$ by the kepler equation, this problem is closely related to Kepler equation. Since Kepler wrote that Kepler equation cannot be solved a priori (on account of the different nature of the arc and the sine), this was historically a very challenging problem.
+C.F. Gauss (unpublished, 1805), F. Carlini (in 1817) and P.S. Laplace (in 1827) solved this problem, and as a by-product discovered an interesting phenomenon that the trigonometric series diverges (it doesn't converge to $v-M$ ) for values of the eccentricities above approximately $0.662$, a value which is now called "Laplace limit". Carlini determined the trigonometric series by a very remarkable method that, according to several sources, anticipated the WKB approximation of quantum mechanics (Carlini's work was popularized by C.G.J. Jacobi in 1849), while Gauss used a different method which was apparently based on his ideas on complex analysis. Gauss, and later the mathematician Wilhelm Scheibner (Scheibner in 1856 - Ueber die asymptotischen Werthe der Coefficienten in den nach der mittleren Anomalie vorgenommenen Entwickelungen, here is a link to his article), applied a certain "imaginary transformation" connecting the eccentric anomaly $E$ and the eccentricity $\epsilon$:
+$$E = i\cdot \log \cot \left(\frac{{\varphi}}{{2}} \right) + \epsilon$$
+where $\varphi$ is an angle defined as $\sin(\varphi) = \epsilon$.
+Now, I have many misunderstandings concerning this substitution - $E$ and $\varphi,\epsilon$ are well defined and real-sizes, so how does the imaginary unit $i = \sqrt{-1}$ enters the equation? I understand that this has something to do with contour integration in the complex plane - according to one source the Fourier integral (which I wrote before) can be transformed into a contour integral in complex variable $z$ along the circular contour $|z| = 1$ by the substitution $z = e^{iE}$. But the whole picture is very unclear to me.
+According to the mathematician Jakob Horn, the meaning of this substitution can be explained in the following way:
+
+For the developement $$C_n = \frac{1}{\pi}\int_{-\pi}^{+\pi}\frac{dv}{dM}e^{inM}dM = \frac{cos\varphi}{\pi}\int_{-\pi}^{+\pi}e^{inM}\frac{dE}{1-f cosE}$$
+by introducing $z = e^{iE}$ we get $$C_n = -i\frac{cos\varphi}{\pi}\int F(z)(\Phi(z))^ndz$$
+in which $$F(z) = \frac{1}{z-\frac{f}{2}z^2-\frac{f}{2}}, \Phi(z) = ze^{-\frac{f}{2}(z-\frac{1}{z})}$$
+is integrated over the unit circle $|z| = 1$. The function $F(z)$ has the real singular points $$z_0 = \frac{1-\sqrt{1-f^2}}{f} = \mathbb{tan(\frac{\varphi}{2})} = e^{i\mathfrak R}<1$$ $$z_1 = \frac{1+\sqrt{1-f^2}}{f} = \mathbb{cot(\frac{\varphi}{2})} = e^{-i\mathfrak R}>1$$
+which are also zeroes of $\Phi'(z)$. The integration path $$|z| = 1$$ can be replaced by the integration path $|z| = z_0$, which only has to avoid the singular point $z_0$. One has to set accordingly $z = z_0e^{i\epsilon}$, or what is the same $$E = \mathfrak R +\epsilon = i\mathbb{logcot(\frac{\varphi} {2})}+\epsilon$$
+which is precisely the substitution used by Gauss. If one takes the circle $|z| = z_1$ as the integration path, bypassing the singular point $z_1$, one has $$z = z_1e^{i\theta}$$ or $$E = \theta - i\mathbb{logcot(\frac{\varphi} {2})}$$
+a substitution which is used in a paper by Wilhelm Scheibner.
+
+Despite this apparently clear explanation (and i actually did verify by hand calculation much of the facts mentioned by Horn in this passage), i really don't get the basic idea, and also have much confusion over the notation there (which involves a lot of symbols).
+Therefore, my question is:
+
+Can anyone who is familiar with the theory of Kepler equation explain the meaning of this substitution? and how it enables to find the coefficients of the Fourier series for $v-M$?
+
+Side remarks:
+
+The story of the center equation is a very convoluted one, and I'm well aware that the short background I gave in this question is not enough, so if anyone wants me to give more useful information, or add references and links, just keep me know and I'll update my posted question.
+I have already posted a more comprehensive background to this question in this HSM post, so anyone who wants more information can find it there.

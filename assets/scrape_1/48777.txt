@@ -1,0 +1,12 @@
+Is luminosity distance related to both heliocentric redshift and CMB restframe redshift？
+
+The luminosity distance
+$$d_l=(1+z)r(z)\ ,$$
+where $r(z)$ is given by $$r(z)=cH^{-1}_0\int_{0}^{z}\frac{dz'}{E(z')}\ .$$
+When I use the SNe dataset "Pantheon", I find there are two redshifts: $z_{cmb}$ and $z_{hel}$.
+In some files, the luminosity distance is also written as $d_l=(1+z_{hel})r(z_{cmb})$ (For example 1912.11879 and 2202.12214).
+This paper 1312.0184 said it is “Since
+the time dilation part of the observed luminosity distance
+depends on the total redshift zhel (special relativistic plus
+cosmological)”.
+Why is the luminosity distance related to both heliocentric redshift and CMB restframe redshift? In which situations can it be used?

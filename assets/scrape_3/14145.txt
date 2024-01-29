@@ -1,0 +1,5 @@
+How can a low-mass star increase its mass to 1.4 Msun?
+
+In my astronomy class I learned that a only low-mass stars (< 0.5 Msun) will contract, and then become degenerate, until it is a white dwarf. However, we also learned about the Chandrasekhar limit, which states white dwarfs have a maximum mass of 1.4 Msun. 
+If the starting star has less than 0.5 Msun, how does the resulting white-dwarf reach up to 1.4 Msun?
+Am I perhaps wrong in my assumption that the mass of the resulting white-dwarf depends on the mass of the original star?

@@ -1,0 +1,3 @@
+Can we measure stellar accelerations?
+
+Many people concern themselves with understanding the Galactic potential. To me, the most obvious way is to measure the acceleration of a star, as this is directly related to the potential. So, one could measure a LOS velocity (or proper motion) at different years and measure its change. I understand that orbital timescales of stars are huge however, so can this be done? If not, how far (order of magnitude) away are we from having the required uncertainties for achieving this?

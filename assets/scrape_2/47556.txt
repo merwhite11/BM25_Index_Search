@@ -1,0 +1,3 @@
+How to find magnitude of one galaxy being a hypothetical observer in the other?
+
+The given apparent magnitude of M31 galaxy is 3.4$^m$, M33 - 5.7$^m$. I wonder how can I calculate the apparent magnitude of one of them (ex. M33) if I imagine myself being in the other (ex. M31)?

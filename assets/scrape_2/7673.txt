@@ -1,0 +1,6 @@
+A question about stellar magnitude and the pogson's equation
+
+Well surely the eye has different sensitivity to various wavelengths... Will the Pogson's equation  not be affected if say I compare Betelgeuse and Rigel (both having a marked difference in spectral lines)...
+Also, how can we ever draw a standard in stellar magnitude observed if both location and individual visual acuity?
+Does atmosphere also have any effect??
+Please refer some good resources for further study in this topic.

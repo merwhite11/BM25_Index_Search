@@ -1,0 +1,8 @@
+Is the Solar core hard?
+
+This may seem like a weird question, but something got me thinking about it just recently.
+The Sun's core is composed of mainly hydrogen and helium, and is present in the form of a extremely hot supercrushed plasma. The Sun's core is mind-bogglingly dense, about 150,000 kg/m3 (about 15x denser than lead, 7x denser than uranium, 6x denser than osmium). The density can get extremely high at the center of stars. This leads me to think that the solar core, due to the immense amount of atoms packed together would behave like a extremely hard solid, as per my understanding, most dense metals (excluding gold) are extremely hard, like tungsten.
+I decided to dig into it a bit on the Internet, but whatever information I got were merely about the pressure at the center of the Sun, and not about the hardness of the solar core. By hardness, I mean having stiffness/rigidity, an ability to retain a certain shape when subjected to anisotropic stress.
+To clarify things a bit: Supposing we submerged an "indestructible" observer really deep into the Sun, just inside the solar core. Supposing we got the indestructible observer to throw a punch randomly inside the Sun, what would this observer feel? More specifically, would the observer perceive the solar core material as being extremely hard, like a solid, or would it act like an extremely viscous fluid?
+TL;DR
+Would the solar core be extremely stiff and hard? Or would it simply behave like a dense and viscous gas?

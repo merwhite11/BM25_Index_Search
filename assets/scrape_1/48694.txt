@@ -1,0 +1,6 @@
+Calculating velocity of Earth from JPL DE
+
+We have discussed how to calculate positions from JPL development ephemerides in this question.
+Following this answer, I am now using SPICE's algorithm for calculating the derivatives of the Chebyshev sums, which are in fact the derivatives of the positions, i.e., velocities.
+However, for the case of Earth and Moon, as previously discussed, JPL DE in fact provide the Chebyshev coefficients for the Earth-Moon barycenter (EMB), not for the Earth alone, as well as for the Moon itself. For calculating positions, this is not much problem, since we can use the Earth-Moon mass ratio together with the calculated positions of Moon and EMB to calculate the position of the Earth.
+However, this leaves me wondering, if we use the derivative of Chebyshev sums, we would in fact get the velocity of the EMB with respect to the Solar System Barycenter, as well as the velocity of the Moon with respect to the Earth. How can we use this information to calculate the velocity of Earth with respect to the SSB?

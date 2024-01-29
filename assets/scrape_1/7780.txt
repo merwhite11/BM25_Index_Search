@@ -1,0 +1,6 @@
+Python 2D Jean Instability in Spiral Galaxy Simulation
+
+I have ~1000 snapshots of a spiral galaxy simulation (from Molecular cloud perturbations t=0 to t>1Gyr. What I need to do is determine whether any position at any of the snapshot times meets criteria for Jeans instability.
+The simulation is 2D, and the snapshot script can read position, velocity and surface density ∑, but not temperature. The simulation also has no gas, instead the simulation was modeled by giving each individual star extra mass which corresponds to gas.
+I looked online and several site state the Jeans mass in 2d equal to c$_{s}$$^4$ / G$^2$*∑. But I have no clue how to determine speed of sound c$_{s}$.
+Also I am not really interested in Jeans mass, more so whether any position can collapse to make stars, i.e. satisfy Jeans instability.

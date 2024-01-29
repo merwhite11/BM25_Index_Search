@@ -1,0 +1,4 @@
+Usefulness of the hour angle (HA)
+
+The Hour Angle (HA) is measured west from the observer's meridian in hours, mins, seconds.
+How is the Hour Angle used to help plan observations during the night at a telescope?

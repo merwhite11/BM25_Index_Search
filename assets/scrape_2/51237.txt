@@ -1,0 +1,4 @@
+Could we detect dark matter by black holes gaining unexplained mass?
+
+Dark matter is said to interact only gravitationally, so it won't commonly form black holes by itself. But if a black hole is already there, and dark matter encounters the event horizon, it should go in and never come out. This means black holes would vacuum up dark matter and (very slowly) gain mass.
+Is this something we could hypothetically measure, as in "these black holes are heavier than they should be for the amount of cosmic gas and background radiation they eat"? (In fact, could this be why the oldest galactic black holes seem to be heavier than we expect?)

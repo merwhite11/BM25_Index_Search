@@ -1,0 +1,4 @@
+Does gravitational lensing provide time evolution information?
+
+When we see multiple images of the same object because of the phenomenon of gravitational lensing, do all the images show the lensed object at the same point in time?
+Does it take the same amount of time for light from the lensed object to reach us no matter what image we look at or are we watching the lensed object at different points in time and if so, how big can the difference in time typically be?

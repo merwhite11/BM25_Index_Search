@@ -1,0 +1,5 @@
+How do scientists determine if a star's color is due to Doppler shift vs the star's composition vs temperature?
+
+When looking at visible light coming from, say a star, scientists can determine by the shifting of the light towards the red or the blue end of the spectrum to determine if it is moving towards or away from earth. But they can also look at the light as it falls on the visible spectrum to determine the composition of said star. How do they determine if the light landing on the red end of the spectrum, for example, means it's moving away vs the composition of the star? How do they tell the difference? 
+In addition, how is all this reconciled with the fact that a star's color is also based on it's temperature?
+Note: Question was expanded to include temperature after comments and updated answer subsequent to my original question asking only about motion vs composition.

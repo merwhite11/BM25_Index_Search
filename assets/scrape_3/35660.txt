@@ -1,0 +1,8 @@
+Deducing the hour based on RA
+
+I'm making a technological project. The goal is to write a program that gets an image of the nightsky and predicts the hour in which the photo was taken. 
+I implemented a well-known method using the big dipper, but it's not enough. I don't want to limit my program to only work when the big dipper is in the image.
+When I read about right ascension, my gut told me seeing a star in the sky and knowing its right ascension (RA) would help me deduce how many hours ago the sunset happened, though I couldn't explain how. 
+I'm not comfortable enough with this coordinate system, so I need help answering this question:
+Say I konw the location a photo was taken, and I can identify the celestial objects in the sky and get their RA, can I make some calculations to konw/approximate the hour? If so, how?
+Thanks in advance!

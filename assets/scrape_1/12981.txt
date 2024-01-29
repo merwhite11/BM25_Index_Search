@@ -1,0 +1,3 @@
+Delta-v from Mercury surface to Venus surface
+
+What it says on the tin: using the most efficient launch opportunity afforded by orbital mechanics, what delta-v would you have to impart to a payload to send it from the surface of Mercury to crash on the surface of Venus?

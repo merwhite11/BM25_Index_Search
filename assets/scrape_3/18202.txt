@@ -1,0 +1,4 @@
+Can a telescope be built to focus on a point source star?
+
+If a Kepler telescope were built to focus on one point source star at a time, would it provide more information, or did Kepler capture virtually every photon from any given star anyway?
+In order to study known transit events more closely one star at a time, to possibly detect moons or atmosphere or rings by resolving the transit light curve's shape better, is a larger aperture necessary or would a smaller field of view help? What field of view would be optimal for observing a single point source?

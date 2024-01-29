@@ -1,0 +1,4 @@
+What are the orbital periods Jupiter, Saturn and earth?
+
+What are the highest accuracy (and hence precision) orbital periods of Jupiter, Saturn and earth in units of days.
+Note have Allen’s Astronomical Quant(Cox1991)/ Wolfram-α / Wikipedia / 3ea. don’t agree.

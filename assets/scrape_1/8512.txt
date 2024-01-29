@@ -1,0 +1,3 @@
+How do or could radio telescopes contribute to exoplanet studies?
+
+Current and upcoming telescopes which find exoplanets and take spectra of their atmospheres seem to be optical or infrared. What about radio telescopes applied to exoplanets? They are larger and more easy to use with interferometry. Why aren't radio frequencies as useful as optical/IR for exoplanet studies?

@@ -1,0 +1,6 @@
+What must/do astronomers reveal beyond their academic papers?
+
+Academic papers often make claims about observational data and results from computations. The papers only refer to names of data sources (such as an observatory) and of mathematical methods without any specifics, other than some of it illustrated in a few graphs and tables. References lead almost only to other papers of similar format.
+In order to replicate (or even peer review) a paper, obviously one must have access to specifics such as the actual calculations, the raw data, the software, the blue prints of the measurement equipment and logs of how it has been operated.
+What data do peer reviewers and replicating scientists (and the public) have access to beyond a paper making some claims?
+Two examples: The results of the infamous cold fusion press conference of 1990 could never be satisfactorly replicated. But were the attempts based only on the paper they then published, or did they publish on the side also a wealth of data about their procedures? And the more recent "neutrinos travel faster than light" media debacle was, as far as I know, all about the details of equipment, was all relevant information about it made public (for the science community)?

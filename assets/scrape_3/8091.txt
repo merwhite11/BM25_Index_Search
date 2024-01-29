@@ -1,0 +1,8 @@
+What is "Median Stellar Mass"?
+
+Could someone explain what is "median stellar mass" and how is it calculated? 
+I have seen it written as:
+$$\log(M)$$ 
+or as: 
+$$\log\left(\frac{M_*}{M_{\text{Sun}}}\right) $$
+but I do not understand what it means.

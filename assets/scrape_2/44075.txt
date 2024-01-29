@@ -1,0 +1,6 @@
+Is there a precise definition of "Supermoon"?
+
+Elsewhere online I keep reading that a supermoon is the situation when full moon coincides with moon perigee. But see this plot from wikipedia Lunar Distance entry
+
+The perigee distance varies wildly across the year, so we could have "supermoons" closer than 360000 Km as well as "microsupermoons" as far as 370000. Not very super, if we consider the mean distance is 385000.
+On the other hand, we can have perigee closest than 360000Km at any phase, and we have it a couple times each year. Is there a name for this "closest perigee", independently of moon phase? Perhaps some tidal wave name?

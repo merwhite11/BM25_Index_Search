@@ -1,0 +1,24 @@
+RA/Dec of a meteor shower's radiant point based on its associated comet's orbit; simple set of equations? "Classic" early reference to cite?
+
+Below this answer to Why are Delta Aquariids “for the southern hemisphere” while the Perseids are “for the north”? I wrote the comment:
+
++1 To make this complete, Comet Swift-Tuttle has a nearly circular orbit of about 1 AU but an inclination of 113.45° which is just about what it would have to be (double) to push the Perseids' radiant to a declination of +58°.
+
+Now I'm thinking that a vector that points toward's a meteor shower's radiant is just the vector sum of the Earth's orbit's velocity vector and the velocity vector associated with the orbit of the shower's associated comet at their intersection point where the shower is a maximum.
+Question: If that's the case, is there a simple set of equations for the position of a meteor shower's radiant point  and a source for them that can be cited?
+It seems like this would have been done quite a long time ago and should be found in some classic early work!
+note: As discussed in comments, rewriting "just the vector sum of the Earth's orbit's velocity vector and the velocity vector associated with the orbit of the shower's associated comet at their intersection point" as $\mathbf{\vec{r}} = \mathbf{\vec{e}} + \mathbf{\vec{c}}$ doesn't help as we still need the same amount of information.
+I wonder if the early work on radiant celestial coordinates and comets contain some interesting math based on Keplerian elements - we have the information that the two orbits intersect and we know where it happens (because of the date) so there is substantial reduction in the number of independent variables.
+
+
+For additional reading and resources about the relationship between a meteor shower and it's associated comet's orbit, see:
+
+Why do particles from a comet that result in meteor showers spread out mostly along the comet's orbit?
+Have meteor showers been predicted for planets or solar-system bodies other than Earth? Have attempts been made to detect them?
+How can comets have tails if there's no air resistance in space?
+Why would the Perseids meteor rate fall off after maximum faster than the increase before maximum?
+Meteor shower predicted to be best viewed BEFORE midnight (for reasons other than the moon)?
+What makes some meteor showers continue for days, while the "Unicorn shower" can be shorter than one hour?
+How significant are the recent results that Scholz’s Star has perturbed several observed hyperbolic objects?
+https://astronomy.stackexchange.com/q/35922/7982
+Why are these objects moving at Vastly Different Speeds along the same orbit?

@@ -1,0 +1,8 @@
+Thinking about the Twin Paradox, what would a Twin Traveling at .8c, calculate as the amount his EBT aged at the mid-point in a 4 lightyear trip?
+
+Referring to the twin paradox, where we have an Earth Bound Twin “EBT”  and a Traveling Twin “TT” who travels away from Earth at velocity= .8c, lets say to Alpha Centauri, when the TT is half way there, what would the TT calculate as how much his EBT’s aged at that point?
+To simplify, round the distance to Alphas Centauri to say 4 lightyears.
+
+I am thinking .8c yields a lambda of .6 and so the TT’s  4 lightyear trip, reduced to 2.4 lightyears due to space contraction. Therefore the midway point is only 1.2 light years. Traveling at .8c, means the TT must himself be 1.2/.8…. 1.5 years older at the midway point.
+Since his EBT, relatively, is “traveling” at v=-.8c during this time, his EBT must appear to age relatively slower compared to him.  Using the lambda of .6, the TT would calculate as the amount aged by his EBT to be 1.5*.6=.9 years.
+Is this correct?

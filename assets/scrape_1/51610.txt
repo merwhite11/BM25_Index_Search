@@ -1,0 +1,3 @@
+Is there any open data base for raw spectroscopy data?
+
+I'm msc. student in physics and will start my thesis in a month. We are in search of a topic with my thesis  professor and we talked about many ideas. After all, "what will this give us scientifically?" We had to give up these ideas because we thought that it did not give an adequate answer to the question. We're currently talking about what we can do about create a data base on the spectroscopy data of the stars. At this point, the observation data of many observatories are open, but the spectral data are not (as we know). So we got stuck with such a hurdle and I wonder if there is an observatory with open spectral data?

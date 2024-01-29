@@ -1,0 +1,8 @@
+Are horizontal branch stars fully convective?
+
+I know that RR Lyrae stars are convective (this is suspected to be part of the cause of the Blazhko effect), but I would like to know more generally:
+
+Are RR Lyrae fully convective?
+Are all HB stars convective, and fully convective?
+
+The detailed articles I've found so far to try to answer this question are all quite focused on RR Lyrae variables and so don't readily provide the answers to these questions as far as I've seen.

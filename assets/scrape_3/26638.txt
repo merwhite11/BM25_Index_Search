@@ -1,0 +1,7 @@
+What's the profound reason(s) why the star formation rate drives the scatter of the mass-metallicity relation in galaxies?
+
+Since decades it's well known that a correlation between stellar mass and metallicity (Z; both stellar and gas-phase Z, but here I focus on the gas-phase Z) exists (e.g., Tremonti+04; analysis of >53000 galaxies from SDSS).
+More recent results have shown that the scatter of this "mass-Z" relation is mainly driven by the star formation rate (SFR; e.g., Mannucci+10), i.e., at a fixed stellar mass, galaxies with higher SFRs have lower Z. This happen systematically over a wide range of stellar masses.
+What's the physical mechanism(s) responsible for that?
+Also, even more recently (e.g., Bothwell+16) it has been shown that the "real" driver of the "mass-Z" relation's scatter is the molecular gas mass (the previously found dependence on SFR may be only a by-product of the Schmidt-Kennicutt relation between gas and SFR). 
+How this would change the interpretation of the first problem?

@@ -1,0 +1,12 @@
+What's the meaning of "hard supermassive black hole binary"?
+
+In this paper, the authors state in the Introduction that
+
+A hard SMBHB [SuperMassive Black Hole Binary] can eject surrounding stars to transfer their orbital energy and angular momentum, which may be efficient to drive two SMBHs coalesce quickly.
+
+In this context, a "hard black hole binary" is one which can eject stars out of the vicinity at high velocity.
+One of the references states that
+
+a binary [SMBH] with masses $m_1 ≥ m_2$ should not be considered hard until its orbital velocity exceeds the background velocity dispersion by a factor that scales as $(1 + m_1/m_2)^{1/2}$.
+
+What exactly does this scale factor mean?

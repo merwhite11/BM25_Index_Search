@@ -1,0 +1,8 @@
+Can we simply multiply a positive value to each pixel in order to enhance contrast and to discard Time Delay Integration technique?
+
+As shown in the figure below, the Time Delay Integration (TDI, the right side of the figure) is aimed at accumulating multiple exposures of the same (moving) object, effectively increasing the integration time available to collect incident light.
+The question is, can we simply multiply a positive value to each pixel within a low-contrast image in order to enhance contrast and to discard TDI technique? (e.g. example)
+Someone may argue that pixels may have a risk at saturation after multiplying a contrast factor. Yes, but we can initially scale each pixel value down and multiply a contrast factor later to avoid the saturation issue. I am sure that I have missed something. I will appreciate it if you provide an answer, thanks!
+
+Why is this question relevant to astronomy? Strictly speaking, the question is relevant to Astrophotography. Please
+refer to What was the first use of time-delay integration in Astronomy? Are there instances before GAIA?

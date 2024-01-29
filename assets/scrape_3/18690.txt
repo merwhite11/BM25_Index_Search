@@ -1,0 +1,11 @@
+According to my calculations Jupiter's moons do not follow Kepler's 3rd law - Why is that?
+
+I'm asked to collect data on the orbital properties of the four Galilean satellites of Jupiter and show that they obey the same scaling as in Kepler's 3rd law. 
+My approach for moon Io:
+Online, I found that the distance from Io to Jupiter is 422,000km ~= 0.00282089577 AU
+which is 
+$2.82\times10^{-3} AU$
+Io's orbit around Jupiter is 1.77 Earth days; 1.77/365 ~= $ 4.85\times10^{-3}\, \mathrm{Earth\ years}$
+By Kepler's 3rd law, $P^2(\mathrm{Earth\ years}) = a(AU)^3$ 
+Thus
+$(4.85\times10^{-3})^2 = (2.82\times10^{-3})^3$ which is obviously not true even just by looking at the powers of 10 after distributing the exponent on each side.

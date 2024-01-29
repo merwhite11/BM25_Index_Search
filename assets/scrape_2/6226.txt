@@ -1,0 +1,9 @@
+Thought experiment about the outskirts of the universe
+
+Suppose I aim at some object that is 13 billion light years away from Earth. Let's assume I have a twin that pilots a ship that travels in infinite speed, meaning that he can reach that object  and get back here in a split second. On the other hand I'm the poor brother, and I own a ship with top speed of only at 99.9% of c.
+We leave earth at the same time, with the same destination. My ship accelerates at constant rate for a full day until we reach max speed, then we enjoy the travel without accelerating for a second time.
+1) how long will it take me to meet my brother, and how older will he be? 
+2) what will be the age of the universe, according to me? 
+3) what will be my current speed relative to surrounding objects before decelerating? Would I be able to accelerate and reach max speed again? If yes, what's the point of accelerating later rather than sooner, and having a top speed after all?
+4) And a plot twist: suppose that while in travel I build a second ship exactly the same as mine. When we're about to arrive we choose a distant point 13 billion light years away in the same direction, and I send a friend on it, who accelerates until he reaches 99.9% of c relative to me. If we repeat that for N times, will we ever reach "free space" where matter didn't reach yet, or some other cosmologically interesting place? How does it look like there? If not, a) can we tinker with any parameters in order to do it "right"? b) any other plans on getting there?
+I understand relativity from what I learned in college (long time ago), is there any other theory needed to understand such traveling questions?

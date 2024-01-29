@@ -1,0 +1,31 @@
+How to map moon phase number + "lunation" to moon phase name?
+
+I am querying an API (weatherbit) which returns a moon phase number which looks like this:
+0.9594168
+For the 16 days I look at the numbers vary from 0.006 to 0.99.
+I have 8 "moon phase" icons for the full, crescent, gibbous, etc. phases.  Filenames are the phase names.
+How can I map the moon phase number to the phase names so I can use images with those names appropriately.
+Final Update: Use moon_phase_lunation (instead of moon phase number) only
+Here is the final js-react code which seems to be working well so far:
+import React from 'react';
+const Moon = ( data ) => {
+  const lunation = Number(data.moon_phase_lunation);
+  let imageToUse;
+  if (lunation <= .06) imageToUse = 'new';
+  if (lunation > 0.06 && lunation <= .19) imageToUse = 'waxing_crescent';
+  if (lunation > 0.19 && lunation <= .31) imageToUse = 'third_quarter';
+  if (lunation > 0.31 && lunation <= .44) imageToUse = 'waxing_gibbous';
+  if (lunation > 0.44 && lunation <= .56) imageToUse = 'full';
+  if (lunation > 0.56 && lunation <= .69) imageToUse = 'waning_gibbous';
+  if (lunation > 0.69 && lunation <= .81) imageToUse = 'first_quarter';
+  if (lunation > 0.81 && lunation <= .94) imageToUse = 'waning_crescent';
+  if (lunation > 0.94 ) imageToUse = 'new';
+  const imageURL = `/moonIcons/${imageToUse}.png`;
+  return (
+    <>
+      <img src= { imageURL } width="20px" height="20px" />
+    </>
+  );
+};
+
+export default Moon;

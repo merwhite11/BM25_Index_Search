@@ -1,0 +1,9 @@
+What is a "valid" coordinate system?
+
+I was reading "Natural Coordinate System in Curved Spacetime" by Ying-Qui Gu.  The first sentence of the abstract struck me (bold emphasis added by me):
+
+In this paper we establish a generally and globally valid coordinate
+system in curved space-time with the simultaneous hypersurface
+orthogonal to the time coordinate.
+
+Is there a generally accepted set of criteria to determine if a coordinate system is valid?  Are some coordinate systems invalid?

@@ -1,0 +1,4 @@
+From a given latitude on Earth, how to calculate the number of days in a year when the moon is lit on the bottom?
+
+From a given latitude on Earth, is it possible to calculate the number of days in a year when there is a wet moon , that is when the moon is lit on the bottom?
+If, for example, I want to do the calculation for the year 2023, how should I go about this? And can I predict those days as well?

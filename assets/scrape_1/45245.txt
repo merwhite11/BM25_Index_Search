@@ -1,0 +1,7 @@
+Convert from Jy/beam km/s to W/m$^2$
+
+I need to compare some ALMA observations of a protoplanetary disk to disk-integrated fluxes obtained from a model.
+The ALMA observations are upper limits of non-detected spectral lines, where the RMS is measured from moment 0 maps, given in Jy/beam km/s. The disk integrated fluxes from the model are given in W/m$^2$.
+How can I convert the measured RMS from the observations to a disk integrated flux given in W/m$^2$?
+
+Previous similar questions here and here are related but not quite what I'm looking for.

@@ -1,0 +1,10 @@
+Sample bias' contribution to "Planet 9" hypothesis, why was this not thoroughly addressed before?
+
+
+Science Claim for giant 'Planet Nine' at Solar System's edge takes a hit
+arXiv No Evidence for Orbital Clustering in the Extreme Trans-Neptunian Objects
+
+The brightness of distant solar system objects varies as $1/r^4$ and so for elliptical orbits objects are more likely to be discovered near periapsis.
+If discovery telescopes are pointed in a biased direction, resulting discoveries will show a bias in orbital elements due to this pointing bias.
+That's a rough summary of the recent paper.
+Question: Why was this sample bias not thoroughly addressed before? Was there perhaps insufficient statistics until now for such an analysis, or were there other complicating factors?

@@ -1,0 +1,3 @@
+CMB dipole anisotropy maping to earth visualization
+
+I do not see how this dipole anisotropy is due to the motion of the earth (and thus a doppler effect). Does anyone have a visualization of how this maps onto the earth and the motion of the earth such that I can see why it is a doppler effect?

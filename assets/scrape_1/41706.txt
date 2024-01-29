@@ -1,0 +1,8 @@
+Synodic Day and Sidereal Day
+
+If given the sidereal day, is it possible to derive the synodic day of Earth? If a derivation is possible, could anyone illustrate it or point me in the right direction?
+Wikipedia's Synodic day begins:
+
+A synodic day is the period it takes for a planet to rotate once in relation to the star it is orbiting (its primary body).
+
+Question: How can one calculate that?

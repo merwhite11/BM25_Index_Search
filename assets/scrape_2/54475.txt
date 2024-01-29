@@ -1,0 +1,6 @@
+Public data for calculating equilibrium temperature of exoplanets
+
+I am a high school student beginning a simple independent project to calculate the equilibrium temperature of exoplanets. I'm curious to see how many exoplanets have a similar equilibrium temperature to Earth's 255K and was looking for some guidance. I found this formula on a few online resources:
+$$ T_p = T_\odot(1-a)^{1/4}\sqrt{\frac{R_\odot}{2D}}$$
+I was hoping someone could tell me where I  can find the relevant public data on known exoplanets to calculate their equilibrium temperature. I looked through NASA Exoplanet Archive Kepler Database and found some data that listed planets' "Stellar Radius" (unit is solar radii), "Stellar Effective Temperature" (unit is Kelvin) and "Planet Star Distance over Star Radius" (not sure what the unit is). Are these data points what I use for the formula? Additionally, I am not sure where I can locate the albedo for the specific planets, is there another database I should use?
+I realize there is a column in the database that lists the "Equilibrium Temperature" for the planets, but I was hoping to attempt the calculations on my own to learn to use it and see if I am able to get the same results. Any info would be very much appreciated, I am not sure I am taking the right approach, I would love some input.

@@ -1,0 +1,6 @@
+What symbol is used for the moon when doing calculations?
+
+When doing calculations the mass and radius of the Earth can be represented by $M_{\oplus}$ and $R_{\oplus}$ respectively.
+The planets all have their own symbols which can easily be found online.
+But what about the Moon ?
+Usually something like $M_☽$ is given but is that standard ? Are there other versions of expressing the moon ?

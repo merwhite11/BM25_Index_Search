@@ -1,0 +1,6 @@
+Distribution of dark matter
+
+Searching to understand how dark matter is distributed, I find many references like this:
+https://www.bbc.com/news/science-environment-57244708
+Basically they state that dark matter exists wherever we look and it is not concentrated in any region of the sky.
+But I cannot find any data that describe the distribution as a function of distance. In other words, are the effects of dark matter more pronounced for further away stellar objects?

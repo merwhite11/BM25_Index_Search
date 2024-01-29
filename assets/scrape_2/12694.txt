@@ -1,0 +1,8 @@
+Can we simulate Earth's gravity in space?
+
+Earth gravity is 9.8 $ms^{-2}$ 
+Gravity on ISS(international space station) is 8.2 $ms^{-2}$ approx. 
+As per this https://physics.stackexchange.com/questions/29929/gravity-on-the-international-space-station ISS never hit the ground because of it's vertical velocity.(free fall)
+My question:
+Can we create artificial gravity on ISS by using centrifugal force?
+[Have anyone watched "The martian"? they have used this technique]

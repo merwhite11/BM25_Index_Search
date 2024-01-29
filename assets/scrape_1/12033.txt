@@ -1,0 +1,6 @@
+Luminosity Schechter function for galaxies
+
+Just a question I am having trouble understanding. I have the Schechter luminosity function for galaxies, given as:
+$$\Phi(L)dL=\Phi_{0}\left({\frac{L}{L_{\star}}}\right)^{\alpha}e^{-\frac{L}{L_{\star}}}\frac{dL}{L_{\star}}$$
+I need to consider the case when $\alpha=-1$. And then show that the average luminosity of a galaxy is exactly $L_{\star}$. Could somebody explain how I could go about doing this and perhaps a hint or some part of a setup would be excellent. I really need to understand this. 
+Another part, which is related to the above question, is asking me to explain why the total luminosity is a finite number, whereas the total number of galaxies diverges. By this does it mean that the total number is infinite? Any extra comments on this would also be really appreciated.

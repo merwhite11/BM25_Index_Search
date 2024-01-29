@@ -1,0 +1,6 @@
+What's the proper shape of a black hole?
+
+When we observe a circle we see a different shape than someone moving with high speed relative to us. They see an ellipse. Still we say the proper shape of the object is a circle.
+Now a black hole doesn't have a shape, because it literally is a 1D hole in space, but the metric around it can be considered as some kind of object too. If you fall in the metric (though coordinate independent) looks differently than the metric seen by an observer stationary above the horizon. Falling in, you fall in proper time onto the center. This is a small time usually. If you stay stationary above the horizon you can stay far longer than the time measured by your in-falling partner.
+So both metrics vary. The proper time measured by the stationary observer is different from the proper time of the in-falling one.
+How does the proper metric of a black hole look like? What is the equivalent of the frame in which a circle is at rest and shows it's proper shape?

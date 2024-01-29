@@ -1,0 +1,8 @@
+Can you assume atmosphere height for the purpose of surface pressure calculation?
+
+Given that by definition of scale height an atmosphere thins by a factor of 1/e^x where x is elevation in terms of scale height multiples (See the table here: Definition of Scale Height), can we assume that the atmosphere is effectively non-existent at the elevation of 6H?
+Density at elevation 6H
+1/e^6 = ~0.00248 would mean about 0.2% of density at surface level
+I know there is no real physical boundary but what I'm looking for is what is the assumed standard for simplifying calculations. Or is it just a bad idea to try and do it this way?
+*This is a followup to another question:
+How can you determine the initial volume of a planet's atmosphere?

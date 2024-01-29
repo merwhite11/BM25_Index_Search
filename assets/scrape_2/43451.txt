@@ -1,0 +1,12 @@
+Why did astronomers believe most or all stellar black holes had masses no greater than 15 solar masses?
+
+The so-called 'mass gaps' for black holes, according to theoretical models, are between 2-5 solar masses and 50 to 150 solar masses.  (Actually, I have read that there is no good theoretical reason for the lower, 2 to 5 solar-mass gap....)
+But, I have also read that astrophysicists were surprised to find black holes larger than 15 solar masses using the LIGO gravitational-wave Observatory....
+For instance, from New Scientist:
+
+Then there are stellar black holes. These are created in the gigantic explosions that end the life cycles of massive stars, and the closest to Earth is around 1,000 light years away. They tend to weigh in at between five to 15 solar masses, and they were the black holes that most astronomers had assumed LIGO would pick up. But the 2015 discovery only made sense if one of the colliding black holes was roughly 35 times the mass of the sun, while the other was around 30 times this mass.
+Subsequent detections threw up more seemingly inexplicable black hole masses. The GW190814 signal involved one black hole that was too heavy, at around 23 solar masses, and one that was too light, at about 2.6 solar masses. Then there was GW190521, from a collision between black holes of 85 and 66 solar masses. “These observations are very hard to explain with astrophysical scenarios and they are quite easily explained with primordial black holes,” says Sébastien Clesse, a cosmologist at the University of Brussels in Belgium.
+
+Read more: https://www.newscientist.com/article/mg24933280-100-is-there-an-ancient-black-hole-at-the-edge-of-the-solar-system/#ixzz6sOzdIpJW
+But, WHY are they 'very hard to explain' in terms of conventional astrophysics?
+I read elsewhere that, before LIGO, no stellar-black-holes had been detected above about 15.65 solar masses, but that reference did not say that none were expected above that mass....

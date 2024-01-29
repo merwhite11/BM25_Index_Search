@@ -1,0 +1,4 @@
+Limits of space telescope?
+
+Watching this video describing the "next generation" space telescope, it seems like the biggest mirror will be ~6 meters in diameter.
+Theoretically, if a telescope was built in space instead of shipping it pre-built, and the mirror was, not a few meters, but a few kilometers, (and whatever other important aspects of a space telescope that a novice like myself has no idea about, multiply them by a few orders of magnitude) would it provide benefits proportional to the size difference?

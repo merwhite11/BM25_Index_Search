@@ -1,0 +1,7 @@
+Why was the (small) Hubble better able to find KBO targets for New Horizons than large adaptive optics ground telescopes?
+
+When initial searches for a Kuiper Belt object for New Horizons to fly to after passing Pluto did not find good targets, the Hubble telescope was used, and it resulted in the current targeted flyby for 2019. Initial searches used ground based telescopes. When the search risked running out of time without a good target, the Hubble was brought in to help. 
+According to what you read about the current generation of large earth based telescopes that use adaptive optics, those telescopes have a much larger angular resolution and light gathering area than the Hubble. So why was the Hubble better capable of finding a good target?
+edit 
+Part of the answer may be that the current generation of adaptive optics telescopes only do adaptive optics in infrared, at least if KBOs are best observed in visible light which I don't know but I've moved that to a separate question.
+Regarding everyone suggesting that atmospheric absorbtion is to blame, how does that square with this: The 8.3m Subaru telescope (which was one of the telescopes used in the ground search) has a light collecting area of 53m2. The Hubble has a collecting area of 4.5m2. So atmospheric absorbtion would need to be 91.5% for them to collect the same amount of light. Sure atmospheric absorbtion is high for some infrared wavelengths, but surely not that high over all the relevant wavelengths.

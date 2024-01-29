@@ -1,0 +1,25 @@
+Why is this HST WFPC2 image so much fuzzier than the WFC3 image of the same field?
+
+I was looking at the comparison of 2007 and 2015 HST images of the "disappearing" star N6946-BH1 in Phys.org's article Collapsing star gives birth to a black hole. The 2007 images is from the WFPC2 while the one from 2015 is from WFC3.
+I wondered why the WFPC2 image is substantially fuzzier than that from WFC3. I looked at the WFPC2 manual for cycle 17 and found it has the "L-shaped" detector. Three quadrants have CCD elements with pixel spacing of 0.1 arcsec, the fourth "planetary" array has a pixel spacing of 0.046. However it seems more complicated because - if I understand correctly - there are different focal ratios used for the two.
+
+The WFPC2 field-of-view is divided into four cameras by a four-faceted
+pyramid mirror near the HST focal plane. Each of the four cameras
+contains an 800x800 pixel Loral CCD detector. Three cameras operate at
+an image scale of 0.1″ per pixel (F/12.9) and comprise the Wide Field
+Camera (WFC) with an “L” shaped field-of-view. The fourth camera
+operates at 0.046″ per pixel (F/28.3) and is referred to as the Planetary
+Camera (PC).
+
+However, while the WFC3 manual for cycle 23 gives the pixel spacing as
+
+Table 5.1: WFC3 Detector Characteristics
+0.04″ per pixel
+
+I didn't find a focal ratio.
+I'd like to understand why the 2007 image is so "gaussian fuzzy". If it were only because of larger pixel spacing it would look more blockish or pixellated. Does this mean it was using a different optical path with lower optical resolution? Is the 2007 image from the WFC part at F/12.9? Does the WFC3 use F/28.3?
+I also don't understand the optical reason why different paths would have different optical resolutions. This would not come from different Airy disks from simple diffraction - the angular size would be unchanged.
+ 
+above: cropped sections from the same image shown below.
+
+above: From here.

@@ -1,0 +1,7 @@
+How to reduce magnification and increase FOV of a camera attached to a telescope?
+
+I am a beginner in astronomy.
+I have a Maksutov telescope (90mm/1250mm). Generally I do observation with a 25mm wide angle eyepiece, but sometimes due to light pollution I can't see many stars.
+So I modified my webcam and converted to a telescope camera.
+I can take detailed pictures of moon craters, but the FOV is very small. Is there any way to increase FOV? Can I set the camera on the eyepiece?
+note: I am not expecting high quality DSLR-like images, but expecting more stars due to a longer exposure time.

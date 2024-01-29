@@ -1,0 +1,7 @@
+How bright are geostationary satellites due to reflected sunlight?
+
+We are all familiar with seeing low-Earth orbit satellites scooting across the sky in a couple of minutes. Many of them are bright and readily identifiable with the naked eye. Geostationary satellites on the other hand are much further away and would remain fixed in position (though moving very slowly with respect to the background stars).
+How bright are geostationary satellites in reflected sunlight? Can any of them be spotted, even with a telescope?
+Related questions:
+How will Starlink affect observational astronomy?
+How do satellites impede current telescopes?

@@ -1,0 +1,5 @@
+When is optical refraction important in Astronomy? (beyond Earth's atmosphere)
+
+What are commonly important astrophysical systems/models, where optical refraction is important or necessary to account for?
+I would kindly ask you not to consider refraction in Earth's atmosphere or inside instrumentation in this question.
+Comment: Gravitational lensing is different from optical refraction even though it affects light paths. I would like to ask the authors to avoid mentioning it in the following.

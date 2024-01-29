@@ -1,0 +1,13 @@
+How could a neutron star cause repeated 'fast radio bursts' detected coming from outside of the galaxy?
+
+According to the ScienceAlert article Mysterious repeating radio signals have been detected coming from outside our galaxy, based on the Letter to Nature "A repeating fast radio burst", there has been a series of signals detected that the article reports that scientists have not seen before.  From the article:
+
+Astronomers have detected repeating blasts of radio signals coming from deep space. These short-lived signals are known as 'fast radio bursts' (FRBs), and although we've heard them before, they were always thought to be one-off events coming from random locations. But for the first time ever, researchers have now heard repeating signals, all emanating from a single unknown source outside our galaxy.
+
+Emphasis mine
+In the Letter to Nature, it is hypothesised that the source could be that
+
+these repeat bursts with high dispersion measure and variable spectra specifically seen from the direction of FRB 121102 support an origin in a young, highly magnetized, extragalactic neutron star
+
+This leads me to the question:
+How could a neutron star cause repeated 'fast radio bursts' detected coming from outside of the galaxy?

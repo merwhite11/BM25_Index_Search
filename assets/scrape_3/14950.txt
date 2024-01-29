@@ -1,0 +1,14 @@
+How to interprete function value of get_sun in astropy
+
+As I know, spring equinox of 2016 is on 2016/3/20 4:30 GMT.
+I execute following statements in python:
+```
+from astropy.time import Time
+from astropy.coordinates import get_sun
+t=Time('2016-03-20 4:30:00')
+s=get_sun(t)
+```
+I expect to get s.ra.degree and s.dec.degree very close to 0.
+But I got s.ra.degree=0.7052336 and s.dec.degree=0.30536325.
+Why?  
+Hope some one can help me. Thanks.

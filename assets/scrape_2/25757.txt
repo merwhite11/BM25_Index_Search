@@ -1,0 +1,6 @@
+What is main radiative mechanism in Gunn-Peterson effect?
+
+I'm having a hard time understanding the Gunn-Peterson effect and the Ly-alpha line and I've written a couple of questions below. 
+The trough we see in the spectra of quasars is the Gunn-Peterson trough, right? Does this trough have to start from the Ly-alpha line?
+If neutral hydrogen along the line of sight to the distant quasar is few, do we expect the Ly-alpha forest to be sparse?
+What is the main radiative mechanism in the Gunn-Peterson effect?

@@ -1,0 +1,14 @@
+"Official" time for other planets
+
+I want to make clock that shows current time on different solar bodies. For that I need to know how to count time on those planets. Is there any official definition of times on other planets in our solar system? Brief google search did not help.
+I am capable of implementing library for this myself but I wonder about current state of the art of time telling on other planets. So basically I want to know these things:
+
+Is there any official time standard?
+If so, where can I find it?
+If not, how should I approach this problem? Should I make something like Unix epoch at some time in the past for every planet?
+
+Thanks for any tips.
+EDIT: Ok, so on Mars, seconds, minutes and hours were made longer to keep 24-hour day. Is this viable to other planets as well? Venus aside for now :)
+I was also thinking about keeping the hours the same, having days as long as many whole hours fits in them plus smaller compensation hours which would have length of (total_minutes_in_solar_day % 60). This concept is from David Weber novels, if you are familiar with them.
+EDIT2: Based on discussion in the comments, I'll try to make some basic model that would be if possible applicable to any planetary body (thinking ahead :)). This is obviously not going to have any serious real world application but I would still like it to have some sense.
+Thanks for your input, I will leave the question open for some more time if anyone wants to add their opinion.

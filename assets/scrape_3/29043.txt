@@ -1,0 +1,14 @@
+What discoveries have come from the DASCH project (Digital Access to a Sky Century @ Harvard)
+
+@astrosnapper's answer to the question Could stellar occultations be used to survey Kuiper belt objects? mentions the TAOS-II project and asteroid occultation measurements (which occur on the timescale of seconds) and that got me thinking about the term Time Domain Astronomy.
+A quick search led me to an Astrobites post with a catchy title A Big Step Backward for Time Domain Astronomy that (among other things) describes the DASCH project (Digital Access to a Sky Century @ Harvard).
+The post is dated 2012 and says:
+
+The project is working to (1) digitally scan all of the plates, (2) detect sources on the plates, (3) assign physical coordinates to the plates, and (4) measure/calibrate the magnitudes of all sources.  The end product will be a publicly available database which can be queried to produce the 100 year light curve for individual objects.  As a part of the project the team had to develop a specialized scanner, as commercially available units would have been too slow to finish the project in anything resembling a reasonable amount of time. As it is, when operating at full efficiency, the project can now scan and analyze 400 plates a day.  As of the writing of this article, 38,346 plates have been scanned (~8% completion; see Figure 2 for a map of their current coverage) and over 2.7 billion magnitudes have already been measured.
+
+The article ends with:
+
+...Given that we’re only 8% of the way through analyzing the plates, we can look forward to further interesting discoveries from this survey in the next few years.
+
+It is now six years later. Presumably the scan rate has accelerated a bit and a much larger fraction of the plates have been scanned, and techniques for reducing and analyzing the huge amounts of data have improved as well.
+Since 2012, what new discoveries have been made from this effort? There may be too many to list, so a few highlights and a link to a summary might be the best way to answer.

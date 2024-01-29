@@ -1,0 +1,11 @@
+IAU rotation model
+
+I'm looking at this IAU WGCCRE Report: http://aa.usno.navy.mil/publications/reports/Archinaletal2011a.pdf
+It gives expressions for Earth orientation relative to the International Celestial Reference Frame in terms of right ascension and declination of the north pole.
+The numbers say that the declination of the Earth rotation axis starts from 90 degrees and decreases by 0.557 degrees every century:
+
+δ0 = 90.00 − 0.557T
+
+Which means that in about 16000 years (and 16000 years ago) Earth rotation axis will lay in ecliptic plane. It doesn't make any sense to me.
+Is it because this model should be applied on short time scales only? I didn't find any information on the time range for which the model is adequate.
+Update: my question is not about how Earth actually rotates, but about the model and how it should be used.

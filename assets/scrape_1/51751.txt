@@ -1,0 +1,9 @@
+What causes the Balmer Jump?
+
+To quote Wikipedia:
+
+Balmer Jump is caused by electrons being completely ionized directly from the second energy level of a hydrogen atom (bound-free absorption), which creates a continuum absorption at wavelengths shorter than 364.5 nm.
+
+Based on the graphs below we used in class, the non-grey energy distribution of the energy flux is continuously lower than the grey case for wavelengths shorter than $364.5nm$, which according to Wikipedia is due to the bound-free absorptions of electrons in the $n=2$ energy state.
+I understand why the energy flux gets lower for those wavelengths but I still cannot grasp why the discontinuity occurs. Is it because for wavelengths higher than $365.4nm$, the bound-free absorption of electrons of $n=3$ starts? And do bound-bound absorptions not occur at all for stars with these discontinuities?
+I would be very thankful for any clarification on this subject.

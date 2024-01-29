@@ -1,0 +1,5 @@
+Surface brightness of deep-sky objects and telescope specs
+
+I'm new to amateur astronomy, and I recently acquired my first small telescope. I've just learned a bit about surface brightness after an unsuccessful night of trying to locate a few nebulae that were beyond my scope's abilities, but I'm wondering if it's as cut-and-dry as I've understood so far.
+The reason I'm asking is that when I look up the surface brightness of the Great Orion Nebula on Stellarium, it shows up at 13.07, a bit beyond the limiting stellar magnitude of my scope at 11.7. However, I am pretty confident that I was able to see the Orion Nebula with my scope on another occasion. It's a large enough object that I'm pretty sure I observed it, and the features looked correct (but faint and colorless) when compared to high-detail photos.
+So to get to the point of my question, are there other things I should keep in mind when determining whether I'll be able to see an object with my scope? I would like to avoid more frustrating nights in the future by not picking impossible targets. I also recognize that as an amateur I might have seen something completely different than the Orion Nebula.

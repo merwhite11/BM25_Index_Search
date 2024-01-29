@@ -1,0 +1,14 @@
+Does a star shaped mirror present problems either optically, or in signal processing over a more nearly circular mirror?
+
+Pure speculation about a future replacement for the JWST that I almost certainly won't live to see.
+The JWST's mirror (and then some) would fit  unfolded and flat into the Starship's 8m diameter payload volume. In the following image that is shown by the 18 grey 1.5m AF hexagons, giving a 7.5mØ and a light gathering area (LGA) of 35m². (A useful 40% increase over the JWST and no moving parts. (So far!))
+
+Now it is easy to see that adding 6, 3-hexagon wings (ala JWST) to each of the sides, folded back for launch, would increase the mirror to 10.5mØ and double the effective LGA to 70m²; nearly 3 times that of the JWST.
+But there is a problem, in that without using a second fold per wing, one of the hexagons on each wing would protrude beyond the 8m circle. (Attempting to fold the wings more that 90° causes collisions.)
+SO, why not move that mirror out between the other two on that wings as show by the light green hexagons above. Same LGA, mass etc. and if anything slightly easier mechanically; as it provides space within the 8m diameter in which to put attachment points for the secondary mirror supports.
+Now to my basic question. Optically, are there any insurmountable caveats of using a star shaped mirror?
+Casting around for an answer I read that the increase in diameter (with no increase in LGA) can enhance the spatial resolution of instrument. Hence why radio telescope arrays using interferometry always place a few dishes (sometimes just one) far outside the diameter of the main signal gathering radius:
+
+Although they do not contribute much to the S/N ratio, if individual points from their weak signal are correlated with the same point in the strong signal from the main array, it greatly increases the accuracy of the location of that point.
+Whether the modest increase in here is valuable I do not know?
+To reiterate my main question: Does a star shaped mirror present problems either optically, or in signal processing over a more nearly circular mirror?

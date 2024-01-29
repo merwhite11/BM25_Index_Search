@@ -1,0 +1,12 @@
+How do I intelligently revise the Yale Bright Star Catalog?
+
+The Yale Bright Star Catalog was last revised in 1991. I'm thinking about making my own revision.
+How would you do that? What kind of pitfalls should I avoid?
+I'm especially interested in having robust data that allows one to calculate 3D proper motion:
+
+proper motion in right ascension and declination
+parallax
+radial velocity
+
+GAIA Data Release 3 is interesting, but it has a bright limit of mag ~3, so it can't be the sole source of data. I'm guessing I could fill most gaps with Hipparcos data, but Hipparcos seems to lack radial velocity data, so that would have to be supplemented by another data source.
+One pitfall that I've noticed is that catalogs sometimes vary for multiple star systems. That is, catalog A might treat an object as being a single star, whereas catalog B might treat it as being  a multiple star system.

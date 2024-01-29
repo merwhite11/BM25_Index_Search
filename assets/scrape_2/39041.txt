@@ -1,0 +1,5 @@
+Would stars have formed in the Universe if atomic hydrogen couldn't make molecular hydrogen?
+
+I just saw this YouTube video made by PBS Studios. There they explain that $H_2$ can reduce the traslational kinetic energy of regular $H$ atoms when it is formed since the energy can also be stored in vibrational and rotational modes after each collision. They state that the gas was so hot that regular atomic $H$ generated enought pressure to impede gravitational collapse and that, only because of $H_2$, it was possible to lower that pressure and stars could form.
+My question is, if $H_2$ were impossible to form (for some reason) wouldn't gravitational collapse eventually happen as the universe expanded and the gas cooled down? Or the expansion itself would be enought to prevent this by lowering the density of the gas before any star could be formed?
+Would a universe without $H_2$ had formed any stars in its entire evolution?

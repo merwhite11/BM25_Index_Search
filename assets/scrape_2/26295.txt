@@ -1,0 +1,8 @@
+What is difference between horizon and comoving distances?
+
+I wonder if there a difference between horizon and comoving distances in cosmology ?
+I mean both correspond to a null geodesic $(ds^2=0)$ right ?
+$$d_{horizon} (t) =a(t) \int\limits_{0}^{r} \frac{{\rm d}r'}{\sqrt{1-kr'^2}}= a(t) \int\limits_{0}^{t}\frac{ c \, {\rm d}t'}{a(t')}$$
+with $a(t)$ the scale factor.
+Is the difference just that for a comoving distance the integration bounderies changes ? like $r_e$,  $r_0$  and $t_0$, $t_e$ 
+Thanks in advance for help

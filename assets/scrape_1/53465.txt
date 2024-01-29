@@ -1,0 +1,9 @@
+How does the gravitational wave strain from a rotating binary depend on the chirp mass, frequency and distance & what a short derivation looks like?
+
+Our most familiar experience with wave propagation either from firsthand experience or in school comes from the phenomena of sound and light and radio electromagnetic propagation.
+In air, we know that the strength of these waves as measured in sound pressure level and intensity (as measured by a photodetector or eye) drop off as $1/r^2$. However if you measure the electric field of a radio wave rather than its intensity, that drops as $1/r$.
+For gravitational wave observations, we measure the strength and frequency of a strain wave and wonder where it is (direction and how far), the mass of the rotating system.
+(Direction comes from having multiple GW detectors aligned in different directions.)
+Thus it is helpful to know the scaling law between the magnitude of the strain wave and the mass of the system, the rotational speed, and the distance.
+Thus I'd like to ask:
+Question: How does the gravitational wave strain from a rotating binary depend on the chirp mass, frequency and distance and what would a short derivation look like?

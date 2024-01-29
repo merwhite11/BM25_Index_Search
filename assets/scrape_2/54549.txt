@@ -1,0 +1,25 @@
+Sloan Digital Sky Survey - Obtaining Spectral and Photometric Datasets
+
+I am working on a soft computing (fuzzy logic), genetic algorithm, explainable AI (XAI) classification system for astronomical objects from the Sloan Digital Sky Survey. The dataset I am currently using includes the photometric images values for the five filter bands, u, g, r, i, z.
+https://skyserver.sdss.org/dr9/en/tools/quicklook/quickobj.asp
+My original intent was to try to classify irregular galaxy objects based on spectral emission spikes as certain wavelengths. I have discovered in this journey the dataset I have been using is of photometric values for the object images, not detailed spectral data across the entire observable spectrum for the object.
+https://www.kaggle.com/datasets/muhakabartay/sloan-digital-sky-survey-dr16
+The SDSS Sky Server query that produced this dataset is as follows:
+Data server
+Data can be obtained using SkyServer SQL Search with the command below: 
+-- This query does a table JOIN between the imaging (PhotoObj) and spectra 
+-- (SpecObj) tables and includes the necessary columns in the SELECT to upload 
+-- the results to the SAS (Science Archive Server) for FITS file retrieval. 
+SELECT TOP 100000 
+p.objid,p.ra,p.dec,p.u,p.g,p.r,p.i,p.z, 
+p.run, p.rerun, p.camcol, p.field, 
+s.specobjid, s.class, s.z as redshift, 
+s.plate, s.mjd, s.fiberid 
+FROM PhotoObj AS p 
+JOIN SpecObj AS s ON s.bestobjid = p.objid 
+WHERE 
+p.u BETWEEN 0 AND 19.6 
+AND g BETWEEN 0 AND 20 
+
+My Question: How can I download a matching dataset of object spectral values that will match the photometric data values for the objects I’m currently using? Could I write a different query that would use the same parameters of selection except retrieve the spectral data for the same 100000 objectIds from the first dataset? I can visually retrieve a particular object’s detailed spectra using the fetch_sdss_spectrum(plate, mjd, fiber) command in Python.
+Additional Question:  Can someone tell me any method of retrieving spectral details for the Sloan Objects that I can use to evaluate and design an fuzzy architecture for classification of objects?

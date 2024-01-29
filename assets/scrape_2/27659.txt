@@ -1,0 +1,5 @@
+What's the time in which the sun rises?
+
+What's the time the sun takes in order to rise? (The time in which the solar disk crosses the horizon)
+How does this time depend on local latitude and the sun's declination?
+Assume that we're at sea level, and we ignore refraction and other atmospheric processes. (solar disk's altitude approximated with 0)

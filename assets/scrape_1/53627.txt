@@ -1,0 +1,18 @@
+Determining the rotation curve of a galaxy via given spectroscopic data
+
+Here is the data analysis question from IOAA-2011,
+1. Weighing a galaxy: The image 8.2 shows a photograph of the spiral
+galaxy NGC 7083, which lies at a distance of 40 Mpc, and image 8.3 a
+fragment of its spectrum. The slit of the spectrograph was aligned with
+the major axis of the image of the galaxy. The x-axis of the spectrum
+represents wavelength, and the y-axis represents the angular distance
+of the emitting region from the core of the galaxy, where 1 pixel corresponds to 0.82 arcsec. Two bright emission lines are visible, with rest
+wavelengths of λ1 = 656.4 nm, λ2 = 658.4 nm. Use the spectrum to plot
+the rotation curve of the galaxy and estimate the mass of the central
+bulge.
+Assumption: central bulge is spherical. The photograph of the galaxy
+has the correct proportions. ((I11 - D02 - B)
+Figure 8.2 – Spiral Galaxy NGC 7083.
+
+I've tried to understand the answer to this question provided by this past paper book, but they have to provided thorough step by step instructions to the answer. Please explain further how to calculate the rotation curve of this galaxy.
+The link to the past paper book pg.209

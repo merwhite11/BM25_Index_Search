@@ -1,0 +1,7 @@
+Calculating angular diameter amplitude from angular diameter variations of Cepheid variable
+
+I'm a high school student but have as much interests in Cepheid variable as the professionalists. I'm trying to derive independent distances to Cepheid with the Baade-Wesselink method. 
+I got the angular diameter variations data from the paper Cepheid distances from infrared long-baseline interferometry but I'm stuck from the afterward. I want to know how equation 9 in that paper is derived. Where did the number 9.305 suddenly came up? 
+The equation is the following:
+θLimb-darkened model angular diameter = amplitude of limb-darkened observed angular diameter + 9.305 (∆D/d)
+It seems like I need that equation to derive the distance from the angular diameter values with radial velocity values.

@@ -1,0 +1,4 @@
+Why do linear velocity redshifts correspond to linear pixel shifts when the spectra are binned in constant log wavelength?
+
+In Tonry & Davis (1979), they describe spectroscopic redshift measurement via correlating with templates at known redshift. In Section IIIa, they say "Because the spectra are binned linearly with ln$\lambda$, a velocity redshift is a uniform linear shift.  Why is this the case?
+Here is the relevant paragraph from the paper:

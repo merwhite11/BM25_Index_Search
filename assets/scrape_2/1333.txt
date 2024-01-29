@@ -1,0 +1,10 @@
+How does light affect the universe?
+
+When light is emitted by for example a star, that star loses energy - which causes it to reduce its gravity. Then that energy begins a journey for potentially billions of years, until it reaches some other object.
+When that light reaches a surface, such as another star or galaxy, it will give that energy to the destination star in the form of heat. This causes the receiver to increase its energy, in turn restoring a sort of balance. It also causes the receiver to emit a minute amount of more light again, almost like a reflection.
+It will also excert pressure on the receiving surface once it reaches its destination, be it a star, a rock or anything else.
+But while that light is travelling through space, its energy is "unavailable" to the rest of the universe. Naturally I ask the following question: 
+Will light cause gravity, while it is traveling?
+Every single star emits light in every direction, and will eventually reach every other star in the universe. At any single point in the universe, there must be a continous ray of light coming from every single other star in the universe, that has a direct path to that point. Given that all stars on the sky is sending photons that reaches every square centimeter of the earth surface, the amount of pressure should sum up to be quite large.
+Is the amount of pressure really neglible, given that every single atom on any surface is receiving light from every single lightsource on the sky?
+Based on a calculation found at http://solar-center.stanford.edu/FAQ/Qshrink.html the sun will during its lifetime emit 0.034 % of its total mass as energy. Assuming the sun is average, and that there are about 10^24 stars in the universe, and all of these stars on average are half way through their lifetime, there should be energy amounting to the gravity of about 1.7*10^22 suns distributed throughout the universe.

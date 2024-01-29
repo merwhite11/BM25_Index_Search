@@ -1,0 +1,7 @@
+How big is one arcsecond at various distances?
+
+I've been reading this article
+https://en.wikipedia.org/wiki/Celestial_coordinate_system
+and a question came to my mind.
+The minimum units are seconds ( ″ ). I picture an angle of 1 second as being like a "cone" going out from Earth. It's really small at the beginning but as you go further its width increases.
+How wide does this cone get as you get further into the universe? How big is an arcsecond on different astronomical bodies?

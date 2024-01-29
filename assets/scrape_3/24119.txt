@@ -1,0 +1,6 @@
+Computing the average hours of sunshine at given location&orientation
+
+I made it my geeky aim to see which of two flats that we are considering moving into is sunnier. The first flat faces S and the second faces NNW; both are at the same height above ground and have similar terrain (buildings/trees) around.
+Conventional wisdom would suggest the S-facing one is (much) sunnier, but I am not sure if this is really so, since I don't think it is the case that the Sun, when it's above the horizon, spends most of its time in the Southern-hemispace/hemifield. 
+Furthermore, I'd like to get a more quantitative estimate of how much direct sunlight each flat gets per day (averaged across seasons). How can I use tools available on the Internet (probably GoogleMaps-based) to find this out?
+My only solution to date was to generate Sun trajectories (elliptics) for each flat, using the SunCalc.net website; these suggest the NNW-facing flat hardly ever sees the sun, except around the summer solstice. Is this a reliable estimate, or can anyone suggest another way to solve this riddle?

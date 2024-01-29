@@ -1,0 +1,8 @@
+Relative black hole?
+
+When some object is moving, it appears smaller and more massive. What if it's moving so fast it should become a black hole? Some calculations:
+Let observed radius $R_0\gamma$ ($R_0$ - radius at rest) be equal Schwarzschild radius for object with observed mass $M_0\gamma$ ($M_0$ - mass at rest):
+$$R_0 / \gamma = \frac{2GM_0\gamma}{c^2}$$
+$$\gamma^2=\frac{R_0c^2}{2GM_0}$$
+$$\frac{v}{c}=\sqrt{1-\frac{2GM_0}{R_0c^2}}$$
+For Earth it gives $v=0.999999999304c$ and for Sun $v=0.999997877903c$. Is my reasoning correct? How would we see such objects?

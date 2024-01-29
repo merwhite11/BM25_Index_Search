@@ -1,0 +1,5 @@
+What percentage of Earth-sized planets in a habitable zone can be detected by the radial velocity method?
+
+What percentage of Earth-sized planets in a habitable zone can be detected by the radial velocity method?
+I understand that larger planets and closer planets are detected more easily; and I assume that if a planet is in a circular orbit whose plane is nearly perpendicular to our line of sight, that the Doppler method won't be able to detect wobble of the star.
+This question goes along with, but is of course different from, this question; but some of the factors like planet size and orbital radius enter in the same way, while the size of the star would enter in the opposite way.

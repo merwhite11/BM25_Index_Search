@@ -1,0 +1,10 @@
+Why is there no color shift on the photo of the M87 black hole?
+
+Last year, the first photo of a black hole in Messier 87 was published:
+
+(Source: EHT)
+It is quite obvious that about the lower half of the accretion disk is brighter.
+This question (or rather, the asnwers) explain that it is caused by Doppler beaming. Since Doppler beaming partly constitutes of Doppler effect, I would expect to see a blueshift on the brighter areas and a redshift on the fainter areas; similarly to what the original rendering of the black hole from the movie "Interstellar" looked like:
+
+(Source)
+So why is this not the case for the photo of the M87 black hole?

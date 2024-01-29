@@ -1,0 +1,5 @@
+Pivot scale in cosmology, CMB observatiion
+
+What is a pivot scale, pivot frequency in general, and particularly in the cosmology? I don't get the idea.
+Almost everywhere I found the same the same sentence "we take the standard value of a pivot scale $k=0.05$ Mpc$^{-1}$ for Planck and pivot frequency as $f_{cmb}=(c/2\pi)k$". What does it mean?
+(For example in https://www.cosmos.esa.int/documents/387566/387653/Planck_2018_results_L10.pdf)

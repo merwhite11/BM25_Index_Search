@@ -1,0 +1,3 @@
+What criteria determines whether stars are supernova type II candidates?
+
+I want to find supernova candidates by using the Gaia catalog in 300 parsec (near Earth). I though they must be red super giants so they are cooler than 4100 K and more luminous than 104 solar luminosity. However, there is no data for luminosity for those stars. So I need another parameter related with brightness, magnitude or luminosity etc. Any suggestions?

@@ -1,0 +1,3 @@
+How to calculate full (mechanical) energy on the hyperbolic orbit?
+
+For example, for a comet that travels on the hyperbolic orbit around the sun.

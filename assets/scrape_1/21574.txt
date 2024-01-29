@@ -1,0 +1,4 @@
+360 degree equirectangular projection of all naked eye stars with precessional motion for simulating
+
+For many years now I've been using Voyager sky simulator by Carinasoft. The projection selections are great, but Equirectangular doesn't seem to one one of them. Is there a program out there that does this? I cooked up an Excel sheet to do the coordinate conversions, and I can import these into Autocad if I have to, but it seems like there should be an off-the-shelf package to do this.      
+For my current project I need to be able to show a 360 degree overview of changes due to precession from 3000-2000-1000 BC at a glance.  It may be my familiarity with the typical simple projection published for surveyors in a standard Ephemeris before the internet and GPS all but eliminated the demand for such publications.

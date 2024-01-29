@@ -1,0 +1,13 @@
+Why most planets don't spin retrograde?
+
+Edit: just found duplicate
+Since orbital velocity is greater on small orbits, and smaller on large orbits, why don't planets spin retrograde around their own axis? 
+One portion of planet's mass is closer to its star, and should move prograde relative to center of mass. 
+Part of the planet's mass far from the star orbits higher and should move retrograde relative to center of mass, 
+which should create a resulting retrograde spin, with rotation speed depending on planet's diameter.
+What's wrong with this? ( since fact is : most planets spin prograde )
+
+
+In this not to scale second illustration, planet is replaced by two masses linked by a beam. Kepler's law of equal surfaces swept per unit of time is used
+to display the retrograde rotational force that should be applied relative to center of mass, which orbits black path.
+EDIT : Ok I think I found where my mistake is(?) Differential gravitational pull (yellow arrows) counteracts retrograde rotational force (green arrow) Which results in no rotational force at all. Anyway I still don't get how conservation of momentum of everything orbiting the sun, also applies to spin direction of orbiting objects.

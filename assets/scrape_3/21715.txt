@@ -1,0 +1,9 @@
+Can a binary star optically "orbit" a planet?
+
+I was watching a science fiction anime from the mid 70's. In it, there was a star orbiting a planet. Since this seemed impossible, and I had never heard of it, I looked on the internet to see if this could be possible in a very unlikely situation or in theory. 
+On a similar question on Quora, after many no, no, no, no answers from astronomers/astrophysicists, some of them with very detailed models and theories with different scenarios and equations, one answer read,
+
+Absolutely.
+If there were two stars of identical mass orbiting each other in equilibrium, then you could throw a planet of any size at the barycenter of the two stars. Then optically you'd have not just one, but two stars orbiting a planet. The planet would be equidistant from the two stars at all moments in time, and would experience identical gravitational pull in two diametrically opposite directions and hence never deviate from the barycenter. This system would not be in a stable equilibrium though, and a passing celestial object of any mass could disrupt this system. Hence, this is probably something that is unlikely to be observed.
+
+Is this possible?

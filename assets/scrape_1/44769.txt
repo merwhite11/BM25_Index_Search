@@ -1,0 +1,9 @@
+Querying MPC data : P and Q vectors of any use to compute the eccentricity vector?
+
+While querying the Minor Planet Center orbital data for asteroids, among the returned data, I noticed 6 variables corresponding to x,y and z components of two 3-D vectors namely P and Q. The Explanation Of Orbital Elements page includes the following:
+
+The vectors P and Q are an alternate form of representing the angular elements Peri., Node and Incl. For an explanation of how to convert between the two sets of quantities you are referred to standard celestial mechanics textbooks.
+
+However, I'm not sure what these two vectors are. Quickly examining the components of P and Q, I realized that they are unit vectors. Could someone please give me a clue to what they represent ?
+Eventually, I'm interested in computing the eccentricity vector ($\vec{e}$) of asteroid orbits. So I'm also keen on knowing whether these P and Q vectors are of any use for that purpose. Or would I be better off computing $\vec{e}$ using $\vec{r}$ and $\vec{v}$ following $\vec e = \frac{\vec v \times \vec h}{\mu} - \frac{\vec r}{r}$, where $\vec h$ is the specific angular momentum $\vec r \times \vec v$ , using JPL Horizons for example?
+Thank you in advance !

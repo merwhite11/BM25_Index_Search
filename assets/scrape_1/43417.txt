@@ -1,0 +1,7 @@
+Convert apparent magnitude in a filter to a luminosity
+
+I have data in Johnson B & V filters and I would like to convert the observed magnitudes, m$_x$, into luminosities, L$_x$, over a passband where I already know the distance, d, to the object. x is the band, e.g. U, B, G. I wish to do so using:
+$m_x = M_x + 5\log_{10}\Big(\dfrac{d}{10\text{pc}}\Big)$
+$M_x = -2.5 \log_{10}\Big(\dfrac{L_X}{L_{\odot}}\Big) + \text{constant}$
+Solve for L$_X$. Now if I want to gain a true understanding of the luminosity in e.g. the wavelength range 500-700nm, do I need to correct for the transmission profile of the filter? found here http://svo2.cab.inta-csic.es/theory/fps/index.php?id=Generic/Johnson.V&&mode=browse&gname=Generic&gname2=Johnson#filter
+How would be best to do this? Ultimately, I want to work out the fraction of the luminosity found in the B & V band compared to the total luminosity of a black body SED

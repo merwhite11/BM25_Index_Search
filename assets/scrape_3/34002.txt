@@ -1,0 +1,9 @@
+Creating a 2D matrix from 2 FITS images of unequal dimensions for Radio/FIR correlation
+
+I have two images of NGC 6946:
+item       description        size (pixels)    scale (arcseconds/pixel)
+ 1.     70 micron MIPS FITS     241 x 241           4.5 
+ 2.     20 cm VLA FITS          512 x 512           2.0  
+
+I need to create a matrix with 2 columns (70 micron vs 20 cm), where each column will store the values at each pixel in such a way that the central pixel coordinate of each image coincides, so that I can plot for Radio/FIR correlation. 
+How should I perform such task in python?

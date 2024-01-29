@@ -1,0 +1,30 @@
+Is the difference of redshift parameter z able to prove expansion is accelerating in flat FLRW universe model?
+
+Sorry for my bad english, this is not my mother tongue.
+Recently, I've encountered a problem in cosmology class that is about FLRW universe.
+Assuming that the universe we inhabit is composed of non-relativistic matter $\Omega_M =0.32$  and the cosmological constant $\Omega_\Lambda = 0.68$, forming an flat FLRW universe(K=0).
+Deceleration parameter $q_0$ is -0.52 and a Hubble constant $H_0$ is 70 km/sec/Mpc now, I aim to observe the difference of redshift parameter $z$ for the same celestial object between now and ten years later as an evidence of the acceleration of universe expansion. Then how "good" of the accuracy in the detection of $z$ do we need?
+After some calculation, I find the contribution of accelerate expansion only cause ~$10^{-19}$ difference in $z$. This value is extremely small so I think maybe I miss something.
+Below is what I think about for this problem. For redshift in FLRW, we already know that
+\begin{equation}
+\frac{a(t')}{a(t_0)} = 1+z
+\end{equation}
+where $a$ is standing for scale factor, $t'$ standing for the time of ten years later. And $t_0$ standing for now.
+I take the taylor expansion for $a(t')$ at $a(t_0)$, it becomes
+\begin{equation}
+a(t') = a(t_0)[1+(t'-t_0)\frac{\dot{a}}{a}+\frac{1}{2}(t'-t_0)^2\frac{\ddot{a}}{a}+...]
+\end{equation}
+If we put this into the first equation, we can get the expression of $z$
+\begin{equation}
+z =(t'-t_0)\frac{\dot{a}}{a}+\frac{1}{2}(t'-t_0)^2\frac{\ddot{a}}{a}+...
+\end{equation}
+Because
+\begin{equation}
+H \equiv \frac{\dot{a}}{a}, q\equiv\frac{\ddot{a}a}{\dot{a}^2}
+\end{equation}
+so
+\begin{equation}
+\frac{\ddot{a}}{a} = -q_0 H_0^2
+\end{equation}
+at $t = t_0$. For detecting the difference of $z$ that contributed by accelerate expansion, we only need to consider the contribution of second term in $z$. That is, $\Delta z$ =$\frac{1}{2}(t'-t_0)^2\frac{\ddot{a}}{a}$ = $-\frac{1}{2}q_0(t'-t_0)^2H_0^2$.
+After I put $t'-t_0$ = 10X365X24X60X60 sec and $q_0$ = -0.52 and a Hubble constant $H_0$ = 70 km/sec/Mpc into $\Delta z$, $\Delta z \sim 10^{-19}$. Is there anything I missed? Why the value is so small? If I didn't get wrong, is that really possible to detect such small difference in redshift parameter?

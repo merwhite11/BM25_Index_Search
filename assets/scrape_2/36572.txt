@@ -1,0 +1,9 @@
+Puzzle about proper distance
+
+So I tried deriving the radial co-moving coordinate formula to an observable galaxy for which the light observed at time  $t_o$ was emitted at time $t_{em}$. i.e  $r_0=\int_{t_{em}}^{to} c/a_{(t)} dt$ 
+I tried deriving it without thinking about the Robertson-Walker metric, but with the relative velocity of light in space (the photon being like a boat on a water stream) 
+I think I might've made a conceptual error, and I hope that by posting my solution here someone will enlighten me.
+
+
+In the above pictures $\tau$ is a chosen time with the property $t_o > \tau > t_{em}$; $v_{space}$ is the velocity of "space" (universe expansion) at the location of the photon (as you might've noticed, the relative velocity of the photon is given by the speed of light minus the speed of space); $r'$ is the "current" co-moving coordinate (at time $\tau$) while $r$ is the "old" (at emission) co-moving coordinate of the photon.
+I'm sorry in advance if something is unclear. Feel free to ask for more clarification.

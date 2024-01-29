@@ -1,0 +1,8 @@
+Calibrating raw photometric measurements
+
+So I have a photometry data sourced from Solar Mass Ejection Imager's (SMEI) server as an ‘add-on data’ for my point source of interest (a variable star) with a 104 minute cadence. However, it’s not really in the UBV photometry system, in V-band specifically, but rather scales with their SMEI photometry system while processed through a centroid fitting.
+Is there a possible way to initially calibrate the photometry data like mapping the point source's nearby bright stars perhaps? And if so, how should I start of?
+Attached photo is the 'raw' light curve of the star from the gathered SMEI data.
+
+Please bear with me for I'm just a novice especially with regards to photometry. Guide(s) and response(s) are always welcome and I look forward to.
+Clear skies.

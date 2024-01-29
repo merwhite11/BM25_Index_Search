@@ -1,0 +1,3 @@
+How to derive the equation for the age of a flat universe with a positive cosmological term?
+
+Can anyone show the steps involved in deriving this equation from the friedmann equation with the cosmological constant involved

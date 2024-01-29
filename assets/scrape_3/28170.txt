@@ -1,0 +1,7 @@
+How far from the Sun can an Earth TCO (temporarily captured orbiter) go after leaving?
+
+Objects which are temporarily captured into an Earth-Moon system orbit (temporarily captured orbiters or TCOs) by definition will leave this orbit. While the term suggest an Earth orbit, it's really an n-body orbit involving the gravitational effects of the Moon and Sun as well.
+They are also sometimes referred to as "mini-moons".
+Upon exiting, can TCOs go as far out as the asteroid belt, or do they then just orbit the Sun in a heliocentric orbit very similar to the Earth's 1 AU?
+Has anyone tracked or calculated the orbit of a known TCO to this extent?  
+As a side question (it can be split this off separately if necessary) have any of these been larger than say 10 meters in diameter?

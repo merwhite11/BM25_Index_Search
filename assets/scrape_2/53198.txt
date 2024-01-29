@@ -1,0 +1,7 @@
+Credible description of point sources and point spread functions in astronomy
+
+I am looking for a credible source (or even the original sources) that describe point sources and/or point spread functions (PSFs) on astronomy.
+Unfortunately, the Wikipedia pages (point source, PSF) leave much to be desired regarding their references.
+I am familiar with the terms (at least on a basic level), so I am not so much looking for definitions. I already found plenty of books and articles in that regard. But I am not really happy with citing some arbitrary reference just because it was the first one that popped up during my research. I would rather like to give proper credit to the original sources.
+But for some reason, they are very hard to find. Sources that I found that explain these terms often don't cite any prior work.
+I have now also asked the question in the History of Science and Mathematics SE. While there I am interested in the very first descriptions of the concepts, here I am also happy with just a credible/typically cited astronomical source.

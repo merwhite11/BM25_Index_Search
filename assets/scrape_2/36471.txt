@@ -1,0 +1,9 @@
+Keplerian Elements for Approximate Positions of the Major Planets
+
+Simple question here. I am working on something that needs to compute an orbital path using Keplerian Elements. When doing some research I came across this JPL page: Click Here. Within that link is a PDF titled 'Keplerian Elements for Approximate Positions of the Major Planets'.
+From what I can tell, it looks as though this PDF is an excerpt from a larger document. I'm making this assumption based off of the equation numbering. They start at 8-30. From my experience, this is usually due to the fact that there were more equations/sections preceding these equations in the overall doc.
+I would love to explore this larger document in order to learn more and find some answers to questions that have developed after reading through the doc. Does anyone know what this document is taken from?
+Thanks!
+Full Answer
+Just for those who are looking for a complete answer to this question, I wanted to combine the two answers below into one complete answer (without taking credit and making my own answer).
+As JamesK mentions, this excerpt is actually pulled from the book, Explanatory Supplement to the Astronomical Almanac. I now own this book and it is chock full of useful information, including the excerpt I was looking for. It also dives into a deeper explanation of everything in the excerpt I posted. If you don't want to buy the book, Huy Pham provided a link to the full chapter that includes the excerpt I linked.

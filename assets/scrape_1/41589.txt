@@ -1,0 +1,4 @@
+Is there a formula to calculate the angular speed at which the Sun apparently moves around the Earth?
+
+Is there a formula for how to calculate the angular rate at which the Sun apparently moves around the Earth?
+I know it takes 0.25 degrees/min, but as I understand it depends on other parameters as well (such as how close a certain place to the equator, months of the year etc.), but I'm looking for a formula that makes it easy to calculate based on my location proportional to the equator and different time of the year (unless if I'm mistaken and it's constant)

@@ -1,0 +1,9 @@
+Does gravitational lensing cause a black-hole to be the main 'source' of light in a given area?
+
+
+Light gets bent around high-gravity sources, such as a black-hole. A source of light, say A, is directly observed in its 'true' position and some of its light is bent around the black-hole, X, which gives a second observation of A, called A'.
+Does gravitational lensing cause the amount of emissions (detected as coming from the (point/position/direction) of X) to far exceed anything else in that vicinity? 
+Does this then make the 'black-hole' by far the brightest, noisiest thing to be observed? (kind of like waving & shouting in a quiet room)
+[edit - based on astromax's answer]
+I follow what is meant regarding super massive black-holes.
+Consider the following scenario: A suitable massive sun on dying contracts into a (small) black-hole. This black-hole will now cause a lensing-effect, but since it is small the amount of emissions so 'lensed' around it is very small and maybe too small to detect? or, it is detected but erroneously ascribed to be a type of sun or other type of emission source?

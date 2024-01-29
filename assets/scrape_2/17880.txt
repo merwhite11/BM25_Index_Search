@@ -1,0 +1,5 @@
+How to calculate a phase shift in the process of deriving Baade-Wesselinke distance?
+
+
+The above is the equation used in the Baade-Wesselink method to independently get distances to Cepheid variables (in the process of deriving Period-Luminosity relation).
+According to the paper New Baade-Wesselink distances and radii for four metal-rich Galactic Cepheids, δθ in the equation accounts for a phase shift between the radial velocity curve and the angular diameter changes measured via surface-brightness relation. My question is how can I calculate this δθ value given that I have lists of radial velocity values and V-R values with the observed HJD dates (which is possible to be converted in terms of phase).

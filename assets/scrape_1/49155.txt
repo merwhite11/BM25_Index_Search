@@ -1,0 +1,3 @@
+Angular velocity of planets around Earth, and Sun
+
+What are the values of angular velocity of planets around Earth, and Sun? I am looking for these two sets of values.

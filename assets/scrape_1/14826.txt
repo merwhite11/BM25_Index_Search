@@ -1,0 +1,3 @@
+Redshift to calculate age of stars
+
+In multiple articles I have seen the age of a star, within the milky way, referred to as its redshift (typically denoted by $z$). I know that $z$ can be calculated as $z=\frac{\lambda_{obsv} - \lambda_{emit}}{\lambda_{emit}}$ but what I can't find is how this is then used to calculate the age of a star within our galaxy? What characteristic does the redshift show us (spin, velocity, temperature, etc.) and how is this used mathematically to calculate age? Or is it just a method to determine where it falls on the HR diagram?

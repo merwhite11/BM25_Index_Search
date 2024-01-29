@@ -1,0 +1,48 @@
+What is the chance that the Sun will not rise tomorrow?
+
+What is the most likely natural astrophysical mechanism for the "Sun not rising tomorrow", consistent with our scientific knowledge today?
+Background
+The "sunrise problem - What is the probability that the Sun will rise tomorrow? -
+is a classic probabilistic conundrum going back (at least) to David Hume.
+It can be considered as simply a Bayesian or inferential induction question,
+but as Laplace noted in his 1814 discussion  of the rule of succession, the odds of the sun rising are:
+
+… incomparably greater for him who, recognizing in the totality of phenomena the principal regulator of days and seasons, sees that nothing at the present moment can arrest the course of it.
+
+In other words, if there are no plausible physical "phenomena" that could "arrest the course of it", simply extrapolating the fact that it has risen every day in the past grossly overestimates the chance that it will not rise tomorrow.  There have been about 1.7 trillion sunrises on 4.54 billion year old Earth, so the extrapolated odds for the Sun not rising tomorrow is $\sim 10^{-12}$. Correcting for survivorship bias may increase the odds to $\sim 10^{-11}$ (i.e. a lower limit of about a billion years  on the Earth's expected lifetime).
+Specification
+I consider the "Sun not rising tomorrow" to mean one of the following happening with less than a day's warning:
+
+The Sun turns off or is destroyed
+The Earth stops rotating or is destroyed.
+Something blocks the Sun's light from directly reaching any part of the Earth's surface.
+
+Mechanisms should not invoke bureaucratic aliens, wrathful gods, nuclear winter, Death Stars, comic book supervillains, or magic.
+To keep things simple (and relevant to Astronomy SE), please consider only astrophysical mechanisms and ignore possibilities such as a government conspiracy to hide an impending catastrophe from the public, or that we are all in a computer simulation whose funding has just been cut.
+Mechanisms
+When talking with students about uncertainty and the sunrise problem, an example mechanism I have used in recent years is that our universe may be in a metastable false vacuum state that could suddenly decay.  One paper estimates that the vacuum decay lifetime of the universe is $>10^{65}$ years with 95% confidence, which roughly implies that the chance of the Sun not rising tomorrow is $\lesssim 10^{-67}$.
+I have trouble coming up with more likely possibilities that could sneak up on us without warning:
+
+I don't think a supervolcano could unexpectedly erupt and block the atmosphere with ash without geophysicists noticing the buildup. (This pretty much leaves only astrophysical catastrophes, which is why I am asking this question on Astronomy SE.)
+Wouldn't modern sky surveys give us more than a day's notice of any incoming planet-busting asteroids, comets, or rogue planets, and wouldn't gravitational perturbations of the solar system reveal approaching rogue neutron stars or stellar-mass black holes? I wonder, however, if a loophole might exist for something like a a 0.0001 solar mass primordial black hole, but they may not even exist.
+A nearby Gamma-Ray Burst could perhaps make the Earth's atmosphere opaque by ionizing the Earth's atmosphere or flash boil the oceans into clouds (and would certainly kill all life capable of seeing the Sun rise).  There is an estimate that the average chance of a Gamma Ray Burst sterilizing an earth-like planet is about $3.2\times10^{-19}$ per year (i.e. $\sim10^{-21}$ per day), but I am not sure what the odds are for the Earth itself.
+
+To repose the question succinctly: Is there some astrophysical mechanism more likely to stop the Sun from rising tomorrow than the $10^{-67}$ odds for vacuum decay?
+Appendix: Additional Background
+This question is already rather long, but more background may be helpful in light of the many comments.
+The sunrise problem appears in myriad books, websites, and videos.
+Aside from Hume and Laplace, it has been discussed by many others, including Buffon (of Buffon needle fame), Richard Price in his Appendix to Bayes foundational essay, John Maynard Keynes in his "A Treatise on Probability", and Harold Jeffreys in "Theory Of Probability".
+Jaynes has emphasized, however, that most presentations and criticism ignore Laplace's essential caveat quoted above.
+
+(Laplace) is pointing out to the reader that the rule of succession gives the probability based only on the information that the event occurred n times in N trials, and that our knowledge of celestial mechanics represents a great deal of additional information. Of course, if you have additional information beyond the numbers n and N , then you ought to take it into account. You are then considering a different problem, the rule of succession no longer applies, and you can reach an entirely different answer.
+
+So Laplace gave the sunrise problem as an example for his Rule of Succession, and then immediately pointed out that the Rule did not apply because there was so much prior knowledge about the celestial mechanics behind sunrises.  Laplace was emphasizing that a likelihood estimate must use all available prior information.
+The statistical part of Laplace's analysis of the sunrise problem has been discussed endlessly but the astronomical caveat has been almost completely ignored.
+As far as I am aware, those who do acknowledge the caveat have never quantified the prior, perhaps in part because the typical statistician doesn't have the expertise to assess the astrophysical constraints.
+This question is exactly about trying to make a better estimate of this prior.
+Versions of this question could plausibly be asked on Astronomy, Physics, Cross Validated, World Building, or even Philosophy Stack Exchange sites.
+It is possible that answers to the question are more "useful" (or at least engaging) to teachers and students of scientific uncertainty, probability, and statistics, than to astronomers per se, but Astronomy SE seems more likely to have the relevant expertise to estimate the prior.
+The most closely relevant research papers are in astrophysics, e.g.  "Is a doomsday catastrophe likely?" by Tegmark & Bostrom
+in Nature and "The Resilience of Life to Astrophysical Events" by Sloan,  Batista, & Loeb in Nature Scientific Reports.
+Even simply listing poorly quantified possible sunrise-stopping mechanisms could be helpful.
+It is certainly true that an unknown mechanism might actually be the most likely way that sunrises might stop tomorrow, but bounding the probability from below by listing known processes can still be very useful.

@@ -1,0 +1,47 @@
+Does the observed Perihelion precession of Mercury still deviate from prediction?
+
+In Wikipedia section about the Perihelion precession of Mercury, we have the follwing table titled "Sources of the precession of perihelion for Mercury":
+
+
+
+
+Amount (arcsec/Julian century)
+Cause
+
+
+
+
+532.3035
+Gravitational tugs of other solar bodies
+
+
+0.0286
+Oblateness of the Sun (quadrupole moment)
+
+
+42.9799
+Gravitoelectric effects (Schwarzschild-like), a General Relativity effect
+
+
+−0.0020
+Lense–Thirring precession
+
+
+575.31
+Total predicted (*)
+
+
+574.10±0.65
+Observed
+
+
+
+
+Two things caught my eyes which I failed (maybe I was misunderstanding/reading the text) to find explanation for in the text:
+
+It seems that there is still gap between the prediction to the observed precession of at least 0.5 arcsec per century (575.31 - 574.75). Why is that? it it observation issue, if so:
+What does the ± account for? is it different values between the centuries or rather observation resolution?
+
+As far as I understand, resolution of 0.5arcs can be easily distinguishable today (say even 0.05 arcsec in 10 years) - so there appear to be a gap between the prediction and observation - a theory gap? Or does it stems from the the uncertainty of accuracy of the Mercury-Sun distance which is to such an extent to cause 0.5arcs sec movement in aphelion in 100 years? or something else?
+
+(*) A more detailed reference to the prediction (from which the figure was taken from Wikipedia) with uncertainties can be found at Park, Ryan S.; et al. (2017). "Precession of Mercury's Perihelion from Ranging to the MESSENGER Spacecraft". The Astronomical Journal. 153 (3): 121.

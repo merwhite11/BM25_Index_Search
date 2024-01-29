@@ -1,0 +1,9 @@
+Relationship between photometric colour and redshift
+
+In this paper, the authors describe the theoretical relationship between photometric colours, particularly in Figures 1 and 6:
+
+
+Since the colour is the difference between two magnitudes, and the redshift is defined as
+$z=\frac{\lambda'-\lambda_0}{\lambda_0}$
+I would have thought that the colour-z relationships would simply be a downward curve, since the light gets redshifted (goes down in frequency), and the ratio of two magnitudes is constant with redshift.
+Why do the colour-z relationships in this paper (and in others I've seen) show such a complex relationship?

@@ -1,0 +1,115 @@
+Earth Orbit Simulator
+
+I'm trying to simulate Earth's orbit using 2nd Newton's Law and cartesian coordinates. The program seems ok, but when plotting graph, it's a parabola.
+I know the shape of orbit changes according velocity. I'm using vy0 = sqrt(G*M/R) and it supposed to be an circle.
+(Sorry the bad english)
+Here's the code:
+'-------------------Bibliotecas Importadas-------------------'
+
+import math
+import matplotlib.pyplot as plt
+
+'-------------------Listas Criadas-------------------'
+
+pos_x = []
+pos_y = []
+vel_x = []
+vel_y = []
+teo_virial = []
+tempo = []
+
+'-------------------------- Definição de Funções -----------------------------'
+
+def velocidade_atualizador(velocidade_inicial, aceleracao):
+    velocidade = velocidade_inicial + (aceleracao * dt)
+    return velocidade
+
+def tabela(nome, lista): 
+    arquivo = open(nome + '.txt', 'a')
+    for i in range(len(lista)):
+        arquivo.write(str(lista[i]) + '\n')
+    arquivo.close
+
+def graph(x, y, eixo_x, eixo_y): 
+    plt.plot(x, y)
+    plt.xlabel(eixo_x)
+    plt.ylabel(eixo_y)
+    plt.show()
+
+def aceleracao_equacao(pos_1, pos_2):   
+    r_cubo = (pos_1**2 + pos_2**2)**1.5
+    k = constgrav*massasol
+    aceleracao = (k*pos_1)/r_cubo
+    return aceleracao
+
+def posicao_equacao(posicao_inicial, velocidade_inicial, aceleracao):
+    pos = posicao_inicial + (velocidade_inicial*dt) + ((aceleracao*(dt**2))/2)
+    return pos
+
+'-------------------Condições Iniciais-------------------'
+
+constgrav = math.pow(6.67, -11)             #constante gravitacional
+massasol = math.pow(1.98, 30)               #massa do sol
+massaterra = math.pow(5.97, 24)             #massa da terra
+xo = math.pow(1.5, 11)                      #posição inicial no eixo x
+yo = 0                                    #posição inicial no eixo y
+vxo = 0                                   #velocidade inicial no eixo x
+vyo = math.sqrt((constgrav*massasol)/xo)                               #velocidade inicial no eixo y
+npasso = 10000                                #numero de passos
+t = math.pow(3.1536, 7)                               #tempo total = tempo de um ano
+conttempo = 0                             #contador de tempo
+dt = t/npasso                               #delta t 
+
+'-------------------Laço de Repetição-------------------'
+
+while (t > conttempo):
+
+    ax = aceleracao_equacao(xo, yo)
+    ay = aceleracao_equacao(yo, xo)
+    a_modulo = math.sqrt(ax**2 + ay**2)
+
+    vx = velocidade_atualizador(vxo, ax)
+    vy = velocidade_atualizador(vyo, ay)
+    v_modulo = math.sqrt(vx**2 + vy**2)
+
+    x = posicao_equacao(xo, vxo, ax)
+    y = posicao_equacao(yo, vyo, ay)
+    r = math.sqrt(x**2 + y**2)
+
+    energia_pot = (- constgrav * massasol * massaterra)/math.sqrt(x**2 + y**2)
+    energia_cin = (massaterra * (v_modulo**2))/2
+    virial = energia_pot / energia_cin    
+
+    print('x =', x)
+    print('y =', y)
+    print('virial =', virial)
+
+    pos_x.append(x)
+    pos_y.append(y)
+    vel_x.append(vx)
+    vel_y.append(vy)
+    teo_virial.append(virial)
+    tempo.append(conttempo)
+
+    xo = x
+    yo = y
+    vxo = vx
+    vyo = vy
+
+    conttempo = conttempo + dt
+
+tabela('Lista x', pos_x)
+tabela('Lista y', pos_y)
+tabela('Lista vx', vel_x)
+tabela('Lista vy', vel_y)
+tabela('Lista tempo', tempo)
+
+'-------------------Gráfico-------------------'
+
+graph(pos_x, pos_y, 'x (m)', 'y (m)')
+graph(vel_x, tempo, 'vx (m/s)', 't (s)')
+graph(vel_y, tempo, 'vy (m/s)', 't (s)')
+
+
+Thank you very much, guys!! I was thinking but don't know what to do anymore. 
+After changing the code, it works. I can rest in peace now. Hahaha.

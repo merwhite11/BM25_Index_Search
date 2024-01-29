@@ -1,0 +1,6 @@
+Will the JWST be affected by dust at L2 (gegenschein?)
+
+Gegenschein is a "faint brightening of the night sky" at the anti-solar point.  A naked eye limiting magnitude of about 7.6 might enable an observer to make out gegenschein.
+The Wikipedia article on gegenschein suggests that interplanetary dust at the Sun-Earth L2 point might be responsible for gegenschein.
+The James Webb Space Telescope will also be at the Sun-Earth L2 point.
+Does this imply that the same interplanetary dust that may be responsible for gegenschein will affect the JWST?

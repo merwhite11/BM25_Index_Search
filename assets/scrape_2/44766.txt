@@ -1,0 +1,5 @@
+Intuitive explanation of the source of energy that cause Jupiter and Saturn to migrate outward in the Grand Tack Hypothesis?
+
+The Grand Tack Hypothesis states that Jupiter first migrate inward, but it was caught up by the faster inward migration of Saturn, and when the two planets reached 3:2 mean-motion resonance they migrated outward together.
+As a student who only knows high-school physics, I can imagine that to make these massive gas giants to migrate outward, they should receive a tremendous amount of energy (like how we send satellite into the space). The Nature paper that proposes the Grand Tack Hypothesis (Walsh et.al., 2011) does not seem to explain why they migrate outward, but references another simulation study (Masset & Snellgrove, 2001), which is unfortunately to hard for me to understand now.
+Is there an intuitive explanation of why Jupiter and Saturn can migrate outward? What is the energy source?

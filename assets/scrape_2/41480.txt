@@ -1,0 +1,8 @@
+Was Newton the first to mention the orbital barycenter?
+
+A barycenter is the common center of mass of an orbiting system. Here is a illustrative gif from wikipedia:
+
+The first mention of something like a barycenter that I could find is in a translation of Newton’s Principia, published in 1687, proposition 12, theorem 12:
+https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1846)/BookIII-Prop2.
+This includes the quote that: “the common centre of gravity of Jupiter and the sun will fall upon a point a little without the surface of the sun” which to me demonstrates a clear understanding and articulation of the idea of a barycenter. Does anyone know of an earlier clear reference to a barycenter?
+Related: What are Kepler's laws (as he wrote them)?

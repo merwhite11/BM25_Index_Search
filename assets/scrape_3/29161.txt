@@ -1,0 +1,4 @@
+What object in the universe is most opaque to neutrinos?
+
+I had this thought, and my first guess was "high density = lots of absorption, so I guess it's neutron stars" but this physics.se question about that has a great answer which covers why that's incorrect.
+So what object will absorb the highest fraction of neutrinos passing through it, or at least be a good candidate? Feel free to assume a certain energy range of neutrinos. Exclude black holes because they just absorb everything and that's not as interesting.

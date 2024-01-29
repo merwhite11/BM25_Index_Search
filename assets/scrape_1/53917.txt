@@ -1,0 +1,7 @@
+How can I find or calculate ephemeris data for the planets in an extrasolar system, specifically Trappist-1?
+
+The ultimate, perfect answer would be a link to someone's ephemeris file in SPICE kernel format. That's not a realistic hope.
+Googling and gnawing, I've found orbital periods, eccentricities, and inclinations for all the Trappist-1 planets, and could calculate positions if I only knew initial conditions, like where each one was in its orbit at any particular epoch.
+The Exoplanet Archive has transit prediction tools, which I could use in a pinch to pin down location-time pairs, but is there something that more directly meets the need?
+If it matters, the application will be a demo of some software under development which will have a math engine under the hood and an OpenGL visualization of the system on top of that. The relevant decision maker wants to demonstrate accuracy, so "poetic license" about starting positions won't do for this case though it would be the normal demo thing. The system should be able to show actual positions of Trappist-1 planets as a function of time.
+For my own education and the benefit of whoever reads this years from now, please include the search terms that brought an answer.

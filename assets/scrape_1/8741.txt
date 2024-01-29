@@ -1,0 +1,4 @@
+Mass, Radius, Colour, Size, Type of a Star from the Hipparcos Catalog
+
+Using data from the Hipparcos Catalog download file, is there a way to determine the Visual or Apparent Magnitude from the data within?
+Can I obtain the Mass, Radius, colour, temperature, type (dwarf, sun-like, hypergiant, etc) of the star from the catalog?  Which column relates to which item i'm looking for?  Any examples?

@@ -1,0 +1,5 @@
+Supernova remnant and ejecta "bullet"
+
+I'm making an X-ray analysis of the source SNR N49. It has a magnetar inside of it that is emitting strongly in Soft ([0.2-1.2] keV), Medium ([1.2-2.5] keV), and Hard ([2.5-8.0] keV) bands.
+I was seeing the following image: 
+This is the Hard emission. You can see at the top of the remnant the magnetar contribution, but in the southwestern region there is a major contribution. In this paper S.Park et al. they talk about this as an ejecta "bullet". What is this ejecta "bullet"?

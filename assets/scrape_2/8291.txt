@@ -1,0 +1,6 @@
+Is there anywhere I can find some kind of database on all known stars and their properties (mass, surface temperature, radius, and luminosity)?
+
+I have been looking for some kind of collection of all known stars and their individual respective mass/radius/temperature/and luminosity, can you link me to one if it exists?
+My goal is to write an algorithm that creates polynomial functions that calculate a stars temp/lum/radius based on mass. I know there are existing equations, however the ones I have found are more troublesome and imprecise compared to if I could use polynomial functions I create myself.
+The Hertzsprung-Russel diagram ( http://upload.wikimedia.org/wikipedia/commons/1/17/Hertzsprung-Russel_StarData.png ) is a great example of representation of what data I need, however it's axes are not constant, so I can not visually gather accurate sample data to deduce any functions.
+Edit: Essentially even a large quantity of estimates will suffice. I intend to use this data to generate a semi-realistic galaxy for an MMO I am developing, so it doesn't by any means need to be perfect.

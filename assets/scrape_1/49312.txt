@@ -1,0 +1,17 @@
+Cosmic rays characteristics/parameters
+
+Where can I get the numerical information about cosmic rays? This is what I need:
+
+Cosmic rays composition: As I found here 99% bare nuclei and 1% electrons. out of 99% bare nuclei: 90% protons, 9% alpha particles, 1% other nuclei of heavier elements. I recaculated it like this:
+
+89.1% - protons
+8.91% - alpha particles
+1% - electrons
+0.99% - nuclei of heavier elements
+
+
+Average energy of the cosmic ray. There is a graph here but I do not understand what is on the Y axis. It is written $F\ (m2\ sr\ s\ GeV)^{-1}$. Can someone explain what does it means?
+Energy flux per square meter per second ($Watt/m^2$). Also, as I understand the graph above is only about energy distribution of the cosmic rays, not about how much energy or particles per square meter per second is coming.
+Cosmic rays flux distribution in the Earth atmosphere? Like if altitude is 1000 km it is $10^{-5}Watt/m^2$, if altitude is 100 km it is $XWatt/m^2$, etc.
+
+If anyone knows where to get this information with the source references it will help a lot.

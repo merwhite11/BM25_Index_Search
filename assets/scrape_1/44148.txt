@@ -1,0 +1,32 @@
+Was there a formula-first hypothesis for gravity?
+
+Being a mathematician I wonder, has there been an attempt to blindly approximate a formula for gravitational attraction that would match the data, based on "normal" matter we can see plus that which we can't, but can  reasonably expect, e.g. black holes, dust etc? I'm talking about an unrestrained approximation, one that can take a negative value, regardless of how preposterous that might seem, just to see if we can find one that fits and try to make sense of it.
+It seems to my uneducated brain that Dark Matter hypothesis is essentially identical to the planet Vulcan hypothesis, i.e. we assume we understand gravity so we explain weird behavior with mass we didn't yet detect (only this time we cheat by hypothesizing the mass is undetectable). Also, we know of forces that don't abide by inverse square laws and can either effectively pull or push depending on the distance (nuclear forces). So we have a precedent of us being wrong about gravity (despite prior experimental success e.g. finding of Neptune) and examples of forces that behave differently to gravity... so maybe let's just assume gravity grossly defies our intuition, try to match a formula to observations and see if we can figure it out from there?
+Sorry if it's not the space for such amateur questions - please let me know where I could go with that. Thanks!
+EDIT
+Just to clarify, I am specifically asking about approaches that do not derive equations out of logical interpretations of the data, but out of the data directly. As such, for example, MOND does not qualify because it derives from Newtonian interpretations and just adds an extra piece on top, inheriting all of the limitations of the Newtonian formulae (like the idea of gravity being always attracting, never repelling).
+I am literally asking if somebody (recently, as new measurements are made) tried to feed bulk data like below to an array of approximation algorithms to see if any of them produces something that fits the data:
+
+
+
+
+Object position
+Object mass
+Apparent G vector
+
+
+
+
+$p_0$
+$M_0$
+$\vec v_0$
+
+
+$p_0$
+$M_1$
+$\vec v_1$
+
+
+
+
+... where position and acceleration vector are in any coordinate system that makes calculations easier and objects are aggregated as needed (e.g. instead of 400 billion stars per galaxy, put clusters of stars as singular objects instead).

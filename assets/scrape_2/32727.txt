@@ -1,0 +1,13 @@
+What is the density profile within the Sun's photosphere? Which one of these is wrong?
+
+The Sun's photosphere contains the Sun's surface as defined by opacity = 2/3 point. I'd like to see the profile of mass density from bottom to top of the photosphere. I did a quick search and got confused.
+The image below is found on the Wikipedia Photosphere page. If I trace the dotted line labeled "Density" to the photosphere layer and read the density axis at the top, I read something like $8 \text{ to } 3 \times 10^{-7} \text{ g/cm}^{-3}$, which you could call $1 \times 10^{-6} \text{ g/cm}^{-3}$. However, the Sun section of Wikipedia page where this image is shown says:
+
+The Sun's photosphere has a temperature between 4,500 and 6,000 K (4,230 and 5,730 °C) (with an effective temperature of 5,777 K (5,504 °C)) and a density of about 1×10−6 kg/m3; increasing with depth into the sun.
+
+and links to the solar-center.stanford.edu page The Sun's Vital Statistics for the $1 \times 10^{-6} \text{ kg/m}^{-3}.$ Converting the units, this is only $1 \times 10^{-9} \text{ g/cm}^{-3}.$
+Question: Is it possible to clear up this disparity, and to see a plot of the density versus depth from the bottom to the top of the Sun's photosphere, which would likely contain both positive and negative heights above the Sun's surface?
+
+
+Source: File:Sun Atmosphere Temperature and Density SkyLab.jpg
+Original source: SP-402 A New Sun: The Solar Results From Skylab

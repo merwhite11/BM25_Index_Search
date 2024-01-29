@@ -1,0 +1,6 @@
+How to convert from Cartesian J2000 coordinates to Cartesian Galactic coordinates?
+
+I'm using a star database (the HYG database) which has xyz positions and velocities for the stars. This has +X towards the vernal equinox, +Z towards north celestial pole, +Y towards Right Ascension 6 hours and it's based on J2000 and centered on the sun.
+I'd like to convert these to a Cartesian Galactic coordinate system centered on the sun, with +X pointing to its center and +Z angled so that it shoots out of the galactic plane on the north side.
+This should just be a simple rotation, but after a lot of searching I can't seem to find the rotation to use, nor some way of converting it through a third system.
+Does anyone know how to obtain the correct rotation matrix here? (or some other method of rotation)

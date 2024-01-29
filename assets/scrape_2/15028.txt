@@ -1,0 +1,5 @@
+Which stars do I have to use to join with a line to draw constellation?
+
+I continue working on a planetarium software and I want to draw the lines that the draw the constellation's figure:
+
+Is there a catalogue or something similar with the stars which are the vertex of the figure?

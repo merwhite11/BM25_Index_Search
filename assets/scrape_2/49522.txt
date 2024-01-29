@@ -1,0 +1,9 @@
+LSR and peculiar motion corrections to RAVE survey velocities
+
+I am working towards getting a bunch of halo stars in our galaxy for my thesis. I am doing this with the help of a Toomre diagram and I am stuck. I am using the RAVE survey in conjunction with Gaia as the repository for my data. I have a few questions that I am struggling to get an answer to,
+
+The RAVE survey has two kinds of velocities, heliocentric (helio_vx, helio_vy, helio_vz) and galactocentric (galcyl_vr, galcyl_vz, galcyl_vphi). I expect both of these velocities to produce the same diagram, however I am unsure whether the LSR and peculiar motion corrections of the solar system applies to both or none or one of them.
+Assuming that the correction applies, are there packages available to do this transformation? I have checked astropy and the way they do it is by getting the radial velocity correction (radial_velocity_correction(kind='barycentric', obstime=None, location=None) and then applying the transformation to LSR (transform_to(LSR())). However, the problem is that it applies only to radial velocities. How do I do it for the other components?
+Assuming that the LSR corrections are done, how do I correct for the peculiar motion of the solar system?
+
+Cheers!

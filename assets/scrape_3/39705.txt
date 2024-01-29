@@ -1,0 +1,15 @@
+How to make a 65 cm lens with a 20 cm hole in it for a Hamiltonian telescope?
+
+This answer to What (the heck) is a Hamiltonian telescope? Is this one? confirms that the telescope in the question linked there is indeed as described and that the first lens is a full 65 cm aperture lens, the second element is a full 65 cm negative meniscus back-silvered, and some corrector lenses are embedded= within a hole in the large primary lens.
+Optically I can imagine that it might be possible to let the light transmit again through the primary and still compensate, and mechanically that seems more attractive than polishing a double-sided transmission lens with a hole through the center.
+But apparently that's what's been done.
+Question: How to make a 65 cm lens with a 20 cm hole in it for a Hamiltonian telescope? I'm thinking about issues including the following:
+
+Is the blank cast with a hole already, or is it drilled?
+If drilled, is that before the first side is polished, before one side and after the other, or after both sides?
+After drilling does one need to anneal the glass again?
+
+Glass can experience strain-induced birefringence among other things, so I am really interested in finding out how optical surface figures are applied to both sides of this lens with a big hole in it without causing optical problems within the bulk of the glass.
+
+
+Image from this answer to What exactly is a Hamiltonian telescope? Is this one?

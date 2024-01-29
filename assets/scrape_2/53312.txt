@@ -1,0 +1,12 @@
+Calculate declination of Galactic N. Pole given obliquity of Ecliptic, rt. ascension of Galactic N. Pole, & angle between Galactic & Ecliptic Pole
+
+I’m trying to back-calculate a value in astronomy using spherical trigonometry. (This is not a homework problem, I'm retired).
+Using the following formula, where δ = the Declination of the Galactic North Pole in degrees (i.e., the angle between the North Celestial Pole and the Galactic Equator), and
+Given that
+acos(sin(δ)cos(23.43928°)−sin(192.8583°)cos(δ)sin(23.439289°)) = ~60.2°
+where
+23.43928°= obliquity of the Ecliptic (tilt of Earth's axis relative to Ecliptic North Pole)
+192.8583°= right ascension of Galactic North Pole in degrees
+60.18894°= angle between the Galactic and Ecliptic North Poles (or the angle between the Galactic and Ecliptic Planes)
+δ= declination of Galactic North Pole using Equatorial Coordinates
+Can you solve for δ?

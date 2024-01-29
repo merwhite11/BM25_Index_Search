@@ -1,0 +1,19 @@
+After what time interval do the closest approaches of Mercury to the Earth repeat?
+
+The sidereal period of Mercury's revolution is 88 days and the synodic period — 116d.
+my solution, but in the question featured "the greatest rapprochement." And this is no longer so easy. Because the orbit of Mercury is noticeably elongated and ... in turn, it experiences rotation around the Sun. The effect is called "precession of the perihelion of the orbit of Mercury". We must take it into account. The closest approach of Mercury to Earth will be when it is at this point, and it, in turn, is on the Sun-Earth line.
+
+The time of Mercury's revolution around the Sun is 88 days,
+Earth around the Sun -365 days,
+Let's say we are on Mercury and today there is an Earth opposition,
+the next one will be when Mercury returns to its original place
+(having made a circle in its orbit) it is 88 days, but these 88 days
+the Earth does not stand still, it has shifted in its orbit by 88/365
+by about a quarter => Mercury will have to "catch up" with the Earth
+for 22 days, but during these 22 days the Earth will still shift in
+orbit by 22/365 approximately one sixteenth => another +5 days. Total
+88 days + 22 days + 5 days = 115 days
+Answer: oppositions of the Earth for an observer with Mercury are
+repeated with a frequency of 115 days
+
+I found the answer 7.26 years but how do get it?

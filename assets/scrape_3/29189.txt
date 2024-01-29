@@ -1,0 +1,4 @@
+Why is Uranus able to support a regular satellite system?
+
+Uranus has an obliquity of 98° which means that the mutual inclination between a satellite orbiting in its equatorial plane and the orbit of Uranus around the Sun would exceed the critical angle for Kozai oscillations. This would drive the satellites to high eccentricities which would likely be extremely damaging to the stability of the system, yet Uranus does host a system of regular satellites on near-circular orbits in its equatorial plane.
+This suggests something is suppressing the Kozai oscillations for the regular satellites, so what is doing this? I suspect it is linked either to the non-spherical shape of the planet or gravitational interactions between the moons, but I'm not sure which would be a more relevant factor.

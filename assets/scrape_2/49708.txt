@@ -1,0 +1,11 @@
+What is stopping Event Horizon Telescope the size of the Earth’s orbit?
+
+There is a proposal to include a radio sensor in a telescope going to the Sun-Earth L2, getting 120x improvement in angular resolution to EHT. Knowing nothing about interferometry, it seems pretty ridiculous that you can achieve that much by a very small antenna positioned far away enough. This begs a question: why can’t we similarly park a  few similarly capable antenna at Sun-Earth L3/4/5 and get orders of magnitude further improvement?
+The proposal estimates the following requirements in terms of positional errors:
+
+Position error < 600 m
+Velocity error < 2 mm/s
+Acceleration error < $10^{-9}$ m/s²
+
+I found a paper which seems to say that (p. 3) through the Deep Space Network, we can already get 1-3m position error and 0.1 mm/s velocity error. Alternatively if that causes a bandwidth problem you could use alternatives outlined there (pulsars for example give a few km precision). In any case wouldn’t it be perfectly straightforward to scale EHT’s own ‘fringe maximization algorithm’ to the Solar System scale? It seems that we already have all the tech to make it work.
+Each of these should be within 0.5-1 billion in cost, but they would bring immense benefits. So what’s the catch?

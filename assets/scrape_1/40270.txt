@@ -1,0 +1,20 @@
+How do we know what the biggest star is?
+
+Kurzgesagt claims that the largest (observable) star in the universe would be Stephenson 2-18 which is in line with Wikipedia:
+
+It is among the largest known stars, if not the largest, and one of the most luminous red supergiants, with an estimated radius around 2,150 times that of the Sun, which corresponds to a volume nearly 10 billion times bigger than the Sun.
+
+Furthermore, Wikipedia says
+
+The open cluster Stephenson 2 was discovered by American astronomer Charles Bruce Stephenson in 1990 in the data obtained by a deep infrared survey.
+
+I stumbled upon that statement for two reasons:
+
+The survey was made in 2010, so if we again would make a survey with newer, higher resolution data (which I assume we might have in the mean time), would we find other objects even bigger?
+How are we sure that St2-18 was indeed the largest object within the given survey? Technically speaking, one would have to calculate at least the distance or lumnosity for each object of the survey?
+
+In a nutshell: How sure are we (in percent) that St2-18 is right now, in 2020, still the largest observed star?
+Related
+
+What is the largest hydrogen-burning star?
+Is there a theoretical maximum size limit for a star?

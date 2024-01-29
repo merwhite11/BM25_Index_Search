@@ -1,0 +1,6 @@
+How to subtract background correctly?
+
+I want to perform sky background estimation and subtraction.
+To do that, I am adopting some libraries in python, i.e. photutils which does have *some support for background estimation.
+However, I wonder if there are some guidelines to do that, for instance in masking sources to estimate the background. My final goal is to obtain the best image possible to perform the source extraction.
+Thanks in advance.

@@ -1,0 +1,5 @@
+Does Hawking Radiation really exist and Why "negative energy" in virtual particles?
+
+I'm doing some research on black holes for a science video contest - more specifically, on Hawking Radiation. As far as I know, there are these constant quantum fluctuations of "virtual" particle pairs (basically particle-antiparticle) that appear, then almost instantaneously mutually annihilate. Near the event horizon of a BH, if one virtual particle gets trapped inside, then it acquires negative energy, while the other particle escapes away and is emitted as radiation. My question is, why does the virtual particle that's sucked in get negative energy? Is it due to some rotating vector stuff or is it inherent in the particle?
+And, as per my logic, if NASA detected this image of a BH, it's clear that it's emanating some radiation, so Hawking Radiation has to exist, right?
+Any help in clarifying or correcting my understanding would be appreciated.Thank you.

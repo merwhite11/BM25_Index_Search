@@ -1,0 +1,8 @@
+Why the more-luminous star has larger surface area when two stars have the same temperature?
+
+
+If two stars have the same temperature but one is more luminous than
+  the other, the more-luminous star must have a larger surface area, and
+  therefore a larger radius than the dimmer star. 
+
+The light density of the two stars is obviously different. Must the brighter star have more lights?

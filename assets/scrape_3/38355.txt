@@ -1,0 +1,4 @@
+Shouldn't tidal locking be impossible for a satellite that has a considerably eccentric orbit?
+
+This popped up into my mind just now. The Moon is tidally locked to Earth, and also has a significantly eccentric orbit. This means that its orbital velocity near periapsis is considerably faster than its orbital velocity at apoapsis.
+Thus, for the Moon to always show one side to Earth, its rotation around its own axis has to slow down and speed up depending on where it is in its orbit, but doesn't that violate the law of conservation of angular momentum? And if its rotation around its axis was constant then it would get out of sync and not be tidally locked, no?

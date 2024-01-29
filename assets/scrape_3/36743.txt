@@ -1,0 +1,8 @@
+How do OGLE-III and GAIA measure the mass of free microlensing black holes?
+
+What is the "hypothesized lower mass gap" between 2.5 and 5 solar masses? eventually links to Constraining the masses of microlensing black holes and the mass gap with Gaia DR2.
+The angle of deflection of light passing a massive object is given by:
+$$\theta = \frac{4GM}{r c^2}$$
+where $r$ is the minimum distance from the mass that the light passes.
+If two black holes pass by a line-of-sight to a distant object and their speeds and distances of closest approach $r$ both scale linearly with their mass, they produce the identical deflection magnitude and time dependence.
+Question: How then can such an observation of a free-floating black hole be used to determine its mass? What additional information is necessary? I see from the article that parallax is involved, but without knowing the distance to the black hole I don't see how this is enough to work out a mass.

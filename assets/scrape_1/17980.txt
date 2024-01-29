@@ -1,0 +1,9 @@
+Can we discern black holes with visible light?
+
+Sorry for my dumb terms. I'm interrested in astronomy but I have next to zero background.
+Given that a black hole absorbs everything, including light, could we ever discern one with visible light (and live to pass the information on)?
+This question contains one generated picture of a black hole and Google image shows visual representations that all look similar (black circle in the centre, light that's distorted around it and the further we go away from the center the background is less and less distorted), but are those actually representative? Is there really a black spot in our vision field at the place where the black hole is? Both the answer to the question and this page discards such images as "fantasy", but they don't really answer the questions I'm asking, which are:
+
+Will we ever be able to discern a black hole with visible light and live?
+If we can, what is a currently acceptable description of what we'll see with visible light? I don't especially expect a picture, so a textual description is also good, but keep in mind it's in regards to visible light. Other questions on Astronomy SE explain what we can "detect" using radio waves or other means of observation.
+In 2014-2015 CERN said they might be creating micropscopic short-lived (10-27 seconds) black holes with the LHC (and this lead to a global nonsensical fear that it'd destroy the planet). Did they create any? If yes, was there any opportunity to picture them despite their tiny size and short life?

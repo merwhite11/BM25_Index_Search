@@ -1,0 +1,4 @@
+What is the largest hydrogen-burning star?
+
+I am wondering what is the largest known core hydrogen-burning star?  A look at the list of largest known stars on Wikipedia seems to indicate VV Cephei B (at the bottom of the list), but I would like to know for sure if it is the largest known.  In addition to knowing which star it is, I would also like to know its temperature, size, and expected lifetime.
+I am also curious to know if the largest known core hydrogen-burning star is similar to what astrophysicists theorize is the largest possible core hydrogen-burning star (given current metallicity conditions in the universe; I know star-formation timescales have a metallicity dependence) and the expected temperature, size, and lifetime of such an object.

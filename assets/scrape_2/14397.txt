@@ -1,0 +1,18 @@
+Longitude of the Ecliptic
+
+I originally went to math.stackexchange.com and they suggested I try here as well. 
+I'm trying to figure out how to calculate times of moonrise and moonset for a given position on the earth on a particular date. I'm using Vallado's Fundamentals of Astrodynamics and Applications because there is an example in the book that lays out a simplified process. I'm stuck at the point where I'm trying to calculate Longitude of the ecliptic for the Moon. The formula is below where T = -0.013634497.
+
+λEcliptic = 218.32° + 481,267.8813T + 6.29Sin(134.9 + 477,198.85T) - 1.27Sin(259.2 - 413,335.38T) + 0.66Sin(235.7 + 890,534.23T) + 0.21Sin(269.9 + 954,397.70T) - 0.19Sin(357.5 + 35,999.05T) - 0.11Sin(186.6 + 966,404.05T)
+
+The expected answer is -0.8412457°. However, I'm unable to figure out how to get this answer. My calculations are below: 
+
+1) 218.32° + 481,267.8813T = -6343.525
+2) 6.29Sin(134.9 + 477,198.85T) = 5.963779
+3) -1.27Sin(259.2 - 413,335.38T) = -0.900843
+4) 0.66Sin(235.7 + 890,534.23T) = -0.292285
+5) 0.21Sin(269.9 + 954,397.70T) = -0.126871
+6) -0.19Sin(357.5 + 35,999.05T) = 0.138211
+7) -0.11Sin(186.6 + 966,404.05T) = 0.054722
+
+Simply adding or subtracting gets me -6338.688731. How can I get the value -0.8412457° from this. My trigonometry is rusty and I'm not sure how to get the right answer. Any help would be greatly appreciated. Thanks.

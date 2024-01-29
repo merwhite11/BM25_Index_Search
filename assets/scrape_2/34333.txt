@@ -1,0 +1,93 @@
+Finding Quintuple Planetary Alignments with SkyField
+
+I am working on a python script that will use the SkyField and SciPy libraries to find quintuple planetary conjunctions and their corresponding constellation location. Specifically I am looking for dates when the 5 visible planets were all in conjunction within the constellation of Aries. This occurrence should be exceptionally rare and I just need something to find if and when it happened in the last 13K years or so...
+I found this SkyField solution here to find conjunctions. 
+I was able to modify the above solution to find quintuple conjunctions for the last 15000 years. At least I think I did. Here is my solution:
+import scipy.optimize
+from skyfield.api import load, pi, tau, position_from_radec, load_constellation_map
+
+efile = "de431t.bsp"; # ephemeris to use
+ts = load.timescale()
+
+print("Loading ephemeris... \nIf this is the first time running this script, a 3.4Gb file will be downloaded.")
+
+# Load Ephemeris
+eph = load(efile)
+
+print("\nPlanetary Ephemeris loaded.\n")
+
+# Define planets
+earth = eph['earth barycenter']
+venus = eph['venus barycenter']
+mercury = eph['mercury barycenter']
+mars = eph['mars barycenter']
+jupiter = eph['jupiter barycenter']
+saturn = eph['saturn barycenter']
+
+constellation_at = load_constellation_map()
+
+# Every month from start year 
+t = ts.utc(-12999, range(12 * 15000))
+
+print("\nCalculation plaetary locations. This may take a while...\n")
+
+# Where in the sky were the Planets on those dates?
+e = earth.at(t)
+
+lat, lon, distance = e.observe(venus).ecliptic_latlon()
+vl = lon.radians
+
+lat, lon, distance = e.observe(mercury).ecliptic_latlon()
+ml = lon.radians
+
+lat, lon, distance = e.observe(mars).ecliptic_latlon()
+mal = lon.radians
+
+lat, lon, distance = e.observe(jupiter).ecliptic_latlon()
+jl = lon.radians
+
+lat, lon, distance = e.observe(saturn).ecliptic_latlon()
+sl = lon.radians
+
+print("Looking for conjunctions...\n")
+
+# When was Mercury conjoined with the other planets?  Compute their difference in
+# longitude, wrapping the value into the range [-pi, pi) to avoid
+# the discontinuity when one or the other object reaches 360 degrees
+# and flips back to 0 degrees.
+relative_lon = (vl - ml + pi) % tau - pi
+relative_lon2 = (mal - ml + pi) % tau - pi
+relative_lon3 = (jl - ml + pi) % tau - pi
+relative_lon4 = (sl - ml + pi) % tau - pi
+
+# Find where all planets are within a degrees of one another...
+conjunctions = (relative_lon >= 0)[:-1] & (relative_lon < 0)[1:] & (relative_lon2 >= 0)[:-1] & (relative_lon2 < 0)[1:] & (relative_lon3 >= 0)[:-1] & (relative_lon3 < 0)[1:] & (relative_lon4 >= 0)[:-1] & (relative_lon4 < 0)[1:]
+
+# For each month that included a conjunction, ask SciPy exactly when
+# the conjunction occurred.
+
+def f(jd):
+    "Compute how far away in longitude Venus and Mercury are."
+    t = ts.tt(jd=jd)
+    e = earth.at(t)
+    lat, lon, distance = e.observe(venus).ecliptic_latlon()
+    vl = lon.radians
+    lat, lon, distance = e.observe(mercury).ecliptic_latlon()
+    ml = lon.radians
+    relative_lon = (vl - ml + pi) % tau - pi
+    return relative_lon
+
+for i in conjunctions.nonzero()[0]:
+    t0 = t[i]
+    t1 = t[i + 1]
+    print("Starting search at", t0.utc_jpl())
+    jd_conjunction = scipy.optimize.brentq(f, t[i].tt, t[i+1].tt)
+    print("Found conjunction:", ts.tt(jd=jd_conjunction).utc_jpl())
+    e = earth.at(ts.tt(jd=jd_conjunction))
+    a, b, d = e.observe(venus).radec()
+    vr = position_from_radec(a.radians, b.degrees)
+    print("In constellation:", constellation_at(vr))
+    print()
+
+This seems to be working and the next step is to plug the dates into XePhem and see what they look like. 
+Can anyone confirm I am doing this right?

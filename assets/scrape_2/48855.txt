@@ -1,0 +1,5 @@
+Can the Earth be seen from the moon when we have a total lunar eclipse at the perigee?
+
+We know that the Moon doesn't have an atmosphere; thus the sky is seen dark.
+Also, from this question, the angular diameter of the Earth viewed from the Moon is a bit bigger than $2^\omicron$ at the perigee, meaning that it will block the Sun completely (the Sun has an angular diameter of $0.538^\omicron$).
+If a total lunar eclipse occurs at the perigee can the astronauts on the Moon see the Earth? Or do they just see it like other dark parts of the sky?

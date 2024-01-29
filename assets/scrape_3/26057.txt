@@ -1,0 +1,10 @@
+How is interstellar gas density mapped from GAIA data?
+
+I found the image below in Space.com's article This 3D Color Map of 1.7 Billion Stars in the Milky Way Is the Best Ever Made.
+The caption for this image reads:
+
+The Gaia spacecraft gathered observations for this all-sky view of the Milky Way and neighboring galaxies between July 2014 and May 2016, releasing the data on April 25, 2018. This image shows all the stars' colors and brightness (top), the total density of stars (middle) and the distribution of interstellar gas and dust across the galaxy (bottom). Credit: ESA/Gaia/DPAC
+
+The first two maps reflect data obtained from analysis of GAIA's measurement of starlight as explained in this answer, but the third map is described as "the distribution of interstellar gas and dust across the galaxy."
+As far as I understand, GAIA does not transmit all complete image data to Earth, but instead does a significant amount of image processing, object detection, classification and analysis, and other data reduction in order to extract positions and radial velocity measurements for point-like objects such as stars, though of course small solar system bodies such as comets and asteroids end up in the raw data as well. 
+Question: How is interstellar gas density obtained from GAIA data?

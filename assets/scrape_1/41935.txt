@@ -1,0 +1,7 @@
+How to measure mass of planets' core from orbit
+
+I am told in an astrophysics lecture the following.
+The mass of Saturn's core was measured by Cassini when it completed its final flyby between the rings and the planet itself. It was also found that its core has a sharp boundary.
+Juno measured the mass of Jupiter's core & found that its boundary is a bit fuzzy.
+How were these measurements done in principle?
+(Ie what was measured from which we can deduce core mass?)

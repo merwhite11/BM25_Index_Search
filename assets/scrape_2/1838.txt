@@ -1,0 +1,4 @@
+Why does e.g. Hubble's secondary mirror not block part of the picture?
+
+The SOHO observatory has an opaque object in the light path that blocks the direct light from the sun making it possible to observe the corona.
+Hubble and many other telescopes have a big primary mirror in the bottom of a tube which bounces light on to a smaller secondary mirror at the opening of the tube. Why doesn't that other mirror cause a circular area of "no data" in the middle of the resulting images?

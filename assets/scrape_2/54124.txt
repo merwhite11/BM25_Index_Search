@@ -1,0 +1,4 @@
+How far should we be from Earth to see a half Moon while it is seen as a crescent on the Earth?
+
+When we see a crescent Moon that means it should be seen a half Moon from another position in the sky, because the terminator line (i.e. the line that separates the bright and dark areas of the Moon) is in fact a meridian. And a Meridian is a straight line which is seen curved when it's looked from an angle.
+So when we see a regular narrow crescent Moon on the Earth, how far should we be from the planet in its orbit to be in front of that Meridian?

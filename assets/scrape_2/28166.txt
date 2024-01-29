@@ -1,0 +1,54 @@
+Problems with computing X,Y,Z positions of planets at a certain time in Unity3D (C#)
+
+I'm trying to create a little program in Unity3D that positions the planets in 3D space at a given time. I've followed this document: http://stjarnhimlen.se/comp/ppcomp.html.
+Using the data from section 4 and the code from section 6 and 7 I should have the correct algorithm right? I did skip on the changes in the orbital attributes (eg + 4.70935E-5 * d) because I just need to have them move in a set orbit. I don;t really need them to change over time. For now I'm just increasing the mean anomaly over time without taking the period in account.
+The problem is that the planets do not seem to get the correct offset to the ecliptic, and their movement is really weird: they speed up, then slow down and reverse in their paths. Here is a video of their movement: https://www.youtube.com/watch?v=zHOBChFpan0
+It looks like the eccentricity is correct on their ellipses and the distances to the sun are also correct, but the rest is just wrong. I'm not that great at math or astronomy to fully understand what's going on in this algorithm, but I'm hoping someone here might spot the error.
+using UnityEngine;
+using System;
+
+public class Orbit : MonoBehaviour 
+{
+public float longitudeOfTheAscendingNode;
+public float inclination;
+public float argumentOfPerihelion;
+public float semimajorAxis;
+public float eccentricity;
+
+public float meanAnomalySpeed = 0.1f;
+
+float M = 0; //mean anomaly
+
+void Update()
+{
+    SetPosition();
+}
+
+void SetPosition()
+{
+    float N = longitudeOfTheAscendingNode;
+    float i = inclination;
+    float w = argumentOfPerihelion;
+    float a = semimajorAxis;
+    float e = eccentricity;
+
+    float E = M + e * (180 / Mathf.PI) * Mathf.Sin(M) * (1 + e * Mathf.Cos(M));
+
+    float xv = a * (Mathf.Cos(E) - e);
+    float yv = a * (Mathf.Sqrt(1 - e * e) * Mathf.Sin(E));
+
+    float v = Mathf.Atan2(yv, xv);
+    float r = Mathf.Sqrt(xv * xv + yv * yv);
+
+    float xx = r * (Mathf.Cos(N) * Mathf.Cos(v + w) - Mathf.Sin(N) * Mathf.Sin(v + w) * Mathf.Cos(i));
+    float yy = r * (Mathf.Sin(N) * Mathf.Cos(v + w) + Mathf.Cos(N) * Mathf.Sin(v + w) * Mathf.Cos(i));
+    float zz = r * (Mathf.Sin(v + w) * Mathf.Sin(i));
+
+    transform.position = new Vector3(xx, yy, zz);
+
+    M += meanAnomalySpeed * Time.deltaTime;
+    if (M > 360)
+        M -= 360;
+}
+
+}

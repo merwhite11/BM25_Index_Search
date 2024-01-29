@@ -1,0 +1,4 @@
+How can we estimate if a certain astronomical object will be visible from a place on earth?
+
+If we have the RA/DEC of an object that we want to observe, how can we tell if that object is visible from our place on earth (at a particular time of the year)?
+Given that the part of the sky we are observing is changing throughout the year, it seems fairly complicated.

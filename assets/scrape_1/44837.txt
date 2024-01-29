@@ -1,0 +1,4 @@
+In radio astronomy, why do shorter baselines trade angular resolution for surface brightness?
+
+I'm reading about radio astronomy and array configurations on the Very Large Array's (VLA) website. They state that the longest baselines provide the best angular resolution, but have very limited sensitivity to surface brightness, and vice-versa for the shortest baselines. Can someone explain this tradeoff?
+Source: VLA's website

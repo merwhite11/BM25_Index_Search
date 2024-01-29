@@ -1,0 +1,6 @@
+How to understand Kepler telescope under large aspherical wavefront
+
+To my understanding, a Kepler telescope is designed to conjugate one plane to another. For example scale down/up the incoming wavefront onto a wavefront sensor for measurement. It works well for small wavefronts, i.e. the wavefront is relatively flat (e.g. $<10 \lambda$ wavefront RMS).
+What would happen if a large aspherical wavefront is impinging onto the same Kepler telescope system? Paper Calibration issues with Shack-Hartmann sensors for metrology applications suggests to place the aperture at the shared focal plane for performance improvement, as below:
+
+How to understand the intuition behind? Why would Kepler telescope fail for large aspherical wavefronts?

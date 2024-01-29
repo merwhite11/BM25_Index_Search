@@ -1,0 +1,7 @@
+How was astronomical data meant to be handled on HST precursors?
+
+The first drafts for a large space telescope such as Hubble were made in the 60's, and the idea of a space observatory originated long before that. From Wikipedia:
+
+In 1968, NASA developed firm plans for a space-based reflecting telescope with a mirror 3 m (9.8 ft) in diameter, known provisionally as the Large Orbiting Telescope or Large Space Telescope (LST)
+
+Back then, CCDs weren't a thing yet (W. S. Boyle; G. E. Smith (April 1970). "Charge Coupled Semiconductor Devices". Bell Syst. Tech. J. 49 (4): 587–593.), and observational astronomy relied on photographic plates. How was the data meant to be collected and sent back to Earth in these projects?

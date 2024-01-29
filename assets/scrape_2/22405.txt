@@ -1,0 +1,8 @@
+A simple question about Saha Equation
+
+The Saha Equation:
+$$\frac{N_{i+1}}{N_{i}} = \frac{g_{i+1}}{g_{i}}\frac{g_e}{N_e h^3}(2 \pi m_{e} kT)^{3/2} \exp(- \chi_i / kT)$$
+where $\chi_i$ is ionization potential. My problem is about the sign ($+$ or $-$) of $\chi_i$. I know that its formula is something like:
+$$\chi_i = (13.6\ \mathrm{eV}) Z^2 \left(\frac{1}{n_i^2} - \frac{1}{n_j^2}\right)$$
+and in this case $n_j$ is $\infty$. But I get confused about it's sign ($+$ or $-$). Can someone simply say what is the sign of the formula for ionization potential and the sign of the formula for the Energy we need to go from $n_i$ to $n_j$.
+I mean: What is the complete formula for $E_m - E_n$ and also $\chi_{n}$? (with the right sign so they can be used in the first Saha Equation above)

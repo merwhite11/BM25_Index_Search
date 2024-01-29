@@ -1,0 +1,7 @@
+Could the magnetic field of Earth protect life from Jovian radiation if it was a moon of Jupiter?
+
+While the genesis of this question derives from a hypothetical scenario, the question itself (whether Earth's magnetic field is strong enough to withstand Jupiter-strong radiation) isn't, so I hope this post isn't removed.
+I was thinking about a scenario where Jupiter was orbiting the Sun at a distance of 1 AU, and Earth was orbiting Jupiter at Io's current distance from Jupiter (421,700 km). Earth would have an orbital period of ≈1.75 days, so while it would be tidally locked to Jupiter and the days would be almost twice as long as present, the de-facto solar day on this Earth would still be short enough that temperatures wouldn't get too extreme.
+Now my question is whether Earth's naturally generated magnetic field would be strong enough to deflect the deadly radiation emitted by Jupiter, which as everyone knows Io bears the brunt of and would absolutely decimate life if left to hit the surface.
+You don't need to concern yourself with how this Earth would interact with Jupiter's other moons, or what the effects of Jupiter's tidal flexing on Earth would be (which I'm well aware would be MASSIVE and orders of magnitude stronger than the ones Io experiences due to Earth being larger).
+The only thing I'm curious about is whether Earth's naturally-generated magnetic field could withstand and divert the lethal radiation coming from Jupiter, all other factors (tidal flexing, gravitational interaction with other moons, etc.) not withstanding.

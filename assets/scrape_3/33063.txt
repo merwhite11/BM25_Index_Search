@@ -1,0 +1,25 @@
+PSF magnification
+
+I have a circular telescope pupil, a magnifying optic, and a detector. I am trying to calculate the point spread function as a function of wavelength. I am running into the issue that Python's 2D FFT or matrix DFT declare their own spatial frequencies. Is there an obvious way to set my own spatial frequencies. 
+My "working" prototype is simply write my own matrix DFT:
+numPixels = 1024 
+pupilCenter     = numPixels / 2 
+W, H            = np.meshgrid(np.arange(0, numPixels), np.arange(0, numPixels))
+pupilMask       = np.sqrt((W - pupilCenter)**2 + (H - pupilCenter)**2) <= numPixels/2
+
+def DFT_matrix(N, M):
+    """Calculate dft matrix
+    N : number of pixels
+    M : magnification factor"""
+
+    i, j = np.meshgrid(np.arange(N)-N/2, np.arange(N)-N/2)
+    omega = np.exp( - 2 * np.pi * 1.J / N / M )
+    W = np.power( omega, i * j ) / np.sqrt(N)
+    return W
+
+and to calculate the PSF by
+M=25
+W = DFT_matrix(numPixel, M)
+dft_of_pupil = W.dot(pupilMask).dot(W)
+
+Is this a solution or have I missed something?

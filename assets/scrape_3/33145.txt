@@ -1,0 +1,3 @@
+Rendering stars in 3D space - AbsMag to OpenGL scale values
+
+I am using the AMNH's Digital Universe stars.speck file to render stars in 3D space. The speck contains parsec-scale coortinates, where our Sun is at 0,0,0. It also lists the AbsMag values - i.e the luminosity from 10 parsecs away. I want to now scale my star textures in openGL, so the resulting star sizes are accurate. How could I convert the AbsMag inverse logarithmic scale to a scale value of 0-infinity, where 0.0 means the star goes away, and 1.0 is no change? Obviously can't make the Sun stay at 1, as that would make it huge.

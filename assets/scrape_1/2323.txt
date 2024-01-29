@@ -1,0 +1,4 @@
+Sources of astronomy-related dataset?
+
+I'm doing a project for a statistics class, and I thought it may be interesting work with a dataset associated with astronomy. I know absolutely nothing about astronomy, unfortunately, and I wouldn't even know where to look for any large sets of data. Preferably I would want some data that could conform to a regression model, ie explanatory variables plus a response variable. Does anyone know of a place to look for what I am describing? 
+I know that the question is kind of general - I guess the important part is that the data is somewhat 'interesting' (something a layman understands), and that there are multiple variables that might possibly have a correlation.

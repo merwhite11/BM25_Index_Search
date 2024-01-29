@@ -1,0 +1,4 @@
+Comprehensible full manual for bolometric light curve reconstruction
+
+Could anyone point me to some manual or tutorial, possibly step-by-step one, on reconstruction of (quasi-) bolometric light curve using UBVRI-photometry data?
+Both links and names are fine for me.

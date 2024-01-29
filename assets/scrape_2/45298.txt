@@ -1,0 +1,5 @@
+What's the formula for change in argument of periapsis over time due to J2 perturbations for a geocentric satellite?
+
+I'm trying to propagate the orbit of the ISS, but it became very clear to me very quickly that the J2 perturbations were nothing to scoff at.
+A quick google search gave me the equation for the change in longitude of the ascending node over time, given here, but in the site and also through comparing my model to Celestrak it's very clear that the change in the argument of periapsis over time is also significant.
+For some reason, only the equation for the change in RAAN over time is given, but not the one for the argument of periapsis. Is there an equation for this?

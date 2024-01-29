@@ -1,0 +1,6 @@
+What is the "sunrise equation" for non-constant declination component?
+
+The standard Sunrise Equation (refraction neglected) is this:
+$$ \cos(\text{hour angle}) = \tan(\text{declination})\tan(\text{latitude}) $$
+This equation - which really has nothing to do with the Sun specifically (and hence my question trigger) -  does seem to assume a constant declination. which is somewhat circular: since the declination of the Sun is not constant and given that we don't know the exact sunrise time we also don't know the exact declination. In the case of the Sun this error seems small and for practical proposes (especially with refraction and twilights) is probably quite good within seconds.
+But, what about other bodies that move faster like the Moon, or if we pursue the theoretical accurate values? Maybe I'm lacking the correct terminology here, but I could not find any equation or a process if there is no analytical solution.

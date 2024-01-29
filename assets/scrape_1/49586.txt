@@ -1,0 +1,9 @@
+How sure are we about the speed of light in vacuum in deep/far space?
+
+A very naive question related to galaxy recessional velocity. In simple term : The further away it is, the faster it goes.
+And we know it's redshifting because we can mesure a change in frequency of the hydrogen "line". Sure, fine. Make total sense to me.
+But :
+
+Is it a situation of "we assume the speed of light in vacuum is contant until proven otherwise" ? (which is a fair assumption)
+Or what if it simply was the speed of light changing over distance/time ? Are there some distant "slow" galaxy that help us guarantee that this redshift is due to speed and not due to a change in the speed of light "constant" ?
+or we know it's not constant but this change is a known variable and has been taken into account when calculating recessional velocity.

@@ -1,0 +1,11 @@
+How are the numerical stellar subclassifications determined?
+
+From Wikipedia:
+
+The spectral classes O through M, as well as other more specialized classes discussed later, are subdivided by Arabic numerals (0–9), where 0 denotes the hottest stars of a given class. For example, A0 denotes the hottest stars in the A class and A9 denotes the coolest ones. Fractional numbers are allowed; for example, the star Mu Normae is classified as O9.7. The Sun is classified as G2.
+
+So our Sun is a G2V yellow dwarf.
+The G identifies its temperature as within the range of 5,200-6,000K.
+The V tells us it is on its main sequence.
+That leaves us with the 2. The 2 tells us that the sun is warmer than a G3 star and cooler than a G1. I get that. My problem: I just can't seem to figure out how the ranges of these specific numerical subclasses are determined. Are they explicitly defined? Logarithmic? Is there a way to calculate it exactly? Why is Mu Normae a O9.7?
+My best guess is to take the range of the stellar class and divide it into 10 subsections but I can't find any source to confirm that.

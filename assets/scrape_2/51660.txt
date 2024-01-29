@@ -1,0 +1,6 @@
+Which stars are elliptical galaxies constituted by?
+
+I know that elliptical galaxies are old galaxies, with almost no star formation and an old stellar population. This can be seen by their dominantly red spectra in the optical. I am trying to get a more detailed statistical overview on what are the spectral classes of stars that constitute the stellar populations of ellipticals. In this graphic, the size of the rectangles in the HR diagram is correlated with the relative contribution to light coming from the galaxy from this stellar spectral type.
+I am looking for new research results/papers on this.
+
+source: https://www.usm.uni-muenchen.de/people/saglia/dm/galaxien/alldt/alldt.html

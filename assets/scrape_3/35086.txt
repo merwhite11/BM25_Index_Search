@@ -1,0 +1,3 @@
+What coordinate system is at rest relative to the center of the galaxy?
+
+I am given equatorial coordinates and I need to transform them into a coordinate system that is at rest relative to the center of the galaxy. The closest thing I could find is galactic coordinates which seems like they are fixed with the sun at the center. Wouldn't this meant that they are moving with the same velocity as the sun and they are rotating?

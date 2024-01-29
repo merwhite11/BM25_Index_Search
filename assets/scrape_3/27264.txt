@@ -1,0 +1,5 @@
+Wavelengths for observed objects -- emitted or observed?
+
+The WISE craft (Widefield Infrared Survey Explorer) surveys the sky in 4 wavelength bands; 3.4, 4.6, 12, and 22 $\mu$m. When it's observing an object with an estimated redshift (given by 
+$z = \frac{\lambda_{obs} - \lambda_{emit}}{\lambda_{emit}}$
+from Wikipedia) of, say, 0.373 (the lowest redshift for one of the objects I'm studying), would the wavelength it's seen in be its observed wavelength? I'm interested in calculating the wavelength actually emitted by the object.

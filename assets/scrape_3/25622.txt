@@ -1,0 +1,3 @@
+How is the entropy of a blackhole stored at its horizon?
+
+I read that a blackhole has an entropy that is given by the area of its event horizon (measured in Planck units). Does that mean that this information is actually physically stored there? If yes, how can that be since there may be nothing there at all (no electrons for example that could carry this information in terms of spin up or spin down)? Is it perhaps stored in the vacuum somehow ?

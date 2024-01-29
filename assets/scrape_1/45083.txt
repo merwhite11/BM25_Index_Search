@@ -1,0 +1,9 @@
+How can a black hole merger create a black hole with an event horizon surface area larger than the sum of the two original areas?
+
+Many popular and professional science sites said something about Stephen Hawking's black hole area theorem being proven observationally, finally, not just mathematically, to 95% confidence. For example, this article and this article.
+The theorem says that black holes' surface areas are directly related to their entropies, and can therefore never decrease, only (possibly) increase...
+These articles say that the faster the spin of a black hole, the smaller its area... and that ADDING mass should INCREASE its spin, thereby DECREASING its surface area.
+But adding mass obviously increases its mass, thereby increasing its surface area. Also, Hawking's own Hawking Radiation theory says that black holes should SHRINK over time. But increasing entropy should increase its area, as said before...?
+So... Is there tension between increasing and decreasing the area of a black hole?
+In principle, how can the area of the remnant black hole be larger than the total area of the pre-merger black holes?
+Also, if we spot a large black hole we've never seen before, and don't know it's history, how can the equations of Kerr and Schwarzschild apply?  Wouldn't they be wildly inaccurate if the black hole has gone through dramatic mergers, etc. that we don't know about?

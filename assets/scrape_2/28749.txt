@@ -1,0 +1,13 @@
+Compute the total stellar mass of galaxy with major influence of Red Giants luminosity
+
+Suppose that all stars in this galaxy were born in a single major-merger burst event about 10 Gyr ago
+If the luminosity in the B band (absolute magnitude in B-band is equal to -21.22) is dominated by stars of in the RG branch, with masses $m \sim 1\,\text{L}_{\odot}$ (within $\sim 10\%$) and average luminosities $\sim 1000\,\text{L}_{\odot}$.
+How can I estimate the total stellar mass of this galaxy using the Schechter relation ?
+I think that I have to use the definition of Schechter law:
+$$N(L)\ \mathrm {d} L=\phi^{*}\left({\frac{L}{L^{*}}}\right)^{\alpha}\mathrm {e}^{-L/L^{*}}{\frac{\mathrm {d} L}{L^{*}}}$$
+or maybe Salpeter relation : $$\text{d}N=0.06\,\times\,M^{-2.35}\,\text{d}M$$
+But how to introduce the parameters of Red-Giants of $1\,\text{M}_{\odot}$ with $L=1000\,\text{L}_{\odot}$.
+Initially, I calculate the fraction of masse between $m_{1}=0.9$ and $m_{2}=1.1\,\text{M}_{\odot}$ :
+$$\text{d}N(m_{1}<m<m_{2})=\int_{m_{1}}^{m_{2}}\,\Phi(m)\,\text{d}m=0.06\,\dfrac{(0.9^{-1.35}-1.1^{-1.35})}{1.35} = 1.22 \%$$
+Anyone could see the trick to compute total stellar mass from these parameters with above laws ?
+Regards

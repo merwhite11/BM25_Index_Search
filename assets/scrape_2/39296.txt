@@ -1,0 +1,22 @@
+Is there an IRAM satellite that measures thermal radiation at 250 GHz, or was this a ground-based instrument?
+
+The Nature Research Letter A Pluto-like radius and a high albedo for the dwarf planet Eris from an occultation (also here and here) says about half-way through:
+
+We now reassess Eris’ surface temperature in the light of our new results. Measurements by the Spitzer22 and IRAM11 satellites imply disk-averaged brightness temperatures of Tb=30±1.2 K and Tb=38±7.5 K at 70 and 1,200 mm, respectively.
+
+11Bertoldi,F.F.Altenhoff,W.Weiss,A.,Menten,K.M.&Thum,C.Thetrans-neptunian object UB313 is larger than Pluto. Nature 439, 563–564 (2006).
+
+22Stansberry, J. et al. in The Solar System beyond Neptune (eds Barucci, M. A., Boehnhardt, H., Cruikshank, D. P. & Morbidelli, A.) 161–179 (Univ. Arizona Press, 2008).
+
+
+
+The caption of Figure 1 of reference 11 (Bertoldi et al. 2006) mentions:
+
+The 117-element MAMBO-2 camera has an effective frequency for thermal radiation of 250 GHz, a half-power bandwidth of 80 GHz (210–290 GHz), and a beam size of 10.7 arcsec (corresponding to 760,000 km at a distance of 96 AU).
+
+and I think it refers to
+
+Welcome to the home of MAMBO; the "Max-Planck-Millimeter-Bolometer"
+IRAM/MAMBO2.250GHz
+
+Question: Is the use of the word satellites in "Measurements by the Spitzer22 and IRAM11 satellites..." correct, or does the latter refer to terrestrial measurments?

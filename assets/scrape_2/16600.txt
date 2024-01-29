@@ -1,0 +1,5 @@
+Extraction of error spectrum in Sloan Digital Sky Survey
+
+I need to know does SDSS spectrum contains error spectrum as well?
+http://www.sdss.org/dr12/spectro/spectro_basics/#AbouttheSpectra
+The above link says, further HDU's contain error spectrum and than tells about the inverse variance. Does inverse variance contains error spectrum? If yes, how can I extract that, if not where can I find error spectrum?

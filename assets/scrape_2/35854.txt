@@ -1,0 +1,5 @@
+Where can I download light pollution data?
+
+I'm creating a website with prediction of how good will be a night for astrophotography.
+I take into account the Moon, clouds,  but of course I need light pollution data.
+Where can I download a light pollution dataset or may be use some API?

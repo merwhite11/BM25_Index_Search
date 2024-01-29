@@ -1,0 +1,3 @@
+Estimate shadow positioning based on prior knowledge
+
+I'm doing some work with sports statistics where I need to evaluate at what times part of the field is covered by shade. I already know that shadows cover the portion I'm interested in from roughly 4:33 EDT to 5:00 EDT on 4/28/22 and from roughly 4:51 EDT to 5:26 EDT on 5/22/22. Is there a mathematical way of estimating the time/length for other days based on the known values? Any help would be greatly appreciated.

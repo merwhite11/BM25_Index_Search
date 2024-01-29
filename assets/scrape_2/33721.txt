@@ -1,0 +1,9 @@
+Why do we expect Type Ia Supernovae to be brighter in a decelerating Universe than what has been observed?
+
+This seminal review paper in the PNAS by Robert P. Kirshner (https://www.pnas.org/content/96/8/4224) says the following:
+
+If the universe had been decelerating—–in the way it would if it contained the closure density of matter, that is, if Ωm = 1—then the light emitted at redshift z = 0.5 by a SN Ia would not have traveled as far, compared with a situation where the universe had been coasting at a constant rate—characteristic of an empty universe, where Ωm = 0. For a universe with Ωm = 1, the flux from the distant supernova therefore would be ≈25% brighter. But the distant supernovae are not brighter than expected in a coasting universe, they are dimmer. For this to happen, the universe must be accelerating while the light from the supernova is in transit to our observatories.
+
+I didn't understand this.
+Why do we expect Type Ia Supernovae at a particular distance to be more or less brighter based on the matter density of the Universe?
+In other words, why should the brightness of anything at a particular distance  depend on whether the Universe was accelerating or not?

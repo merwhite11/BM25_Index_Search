@@ -1,0 +1,5 @@
+Why does the Sun deviate from a typical blackbody spectrum in the S band?
+
+This is sort of a follow-up to this question, and my answer to it.
+The graph I see here details the radio (and other frequencies) emission of the sun. What's most notable and interesting to me is the deviation from the typical blackbody spectrum of a body at around 6000 K. The sun seems much brighter in the S band (and at some larger wavelengths) than a typical blackbody.
+My question is: why does this happen? Is there an underlying physical/astrophysical phenomena that we know of that causes this? Or is this something that's undergoing research right now?

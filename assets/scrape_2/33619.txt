@@ -1,0 +1,15 @@
+Where can I find permissibly licensed database of stars and constellations?
+
+I'm working on a game engine of sorts, and one thing I did for a previous game which was under the GPL was I had a night sky with the constellations visibly connected and I'd like to do that again.  I don't know where my data set originally came from but I do have a note that it was GPL, so it likely came from Stellarium, which is GPL licensed.  For this I need the dataset to come from the public domain, us government, permissively licensed, etc.
+If possible I'm after the coordinates in the sky, brightness, maybe class and name, but also some mechanism to know which stars would be connected in classic constellations.  
+I've found some data sets which contain the star data I'm after, though they would take some effort to parse and pull out the data I'm after, but I can't seem to find anywhere online, except stellarium, which provides star constellation connectivity. Any ideas?
+I've gotten this list so far from what I can tell:
+
+Stellarium: Has everything. GPL (Really restrictive) But has things like a constellationship file, i.e. https://github.com/Stellarium/stellarium/blob/master/skycultures/western/constellationship.fab
+HYG: Great database, has everything I want, but licensed under restrictive CC 2.5 SA https://github.com/astronexus/HYG-Database No Constellations
+BSC5: No explicit license, but created from NASA/ADC, data should be public domain.  Good data set, difficult to parse, no star connectivity.  (Best candidate for raw star database)
+UCAC5: Navy (public domain), data set not geared for visible light.
+HIP (used by Stellarium for stars) - Difficult to parse through, ESA (correct license) http://cdsarc.u-strasbg.fr/ftp/cats/I/239/hip_main.dat.gz
+
+Are there any standards of what stars make up the primary connections in constellations?  Or does it just happen to be whoever puts it together?
+P.S. If I ever do succeed, I will release the database (probably 3-4k stars is all I will need with connectivity) under the MIT license to permit inclusion in any commercial or noncommercial projects.

@@ -1,0 +1,4 @@
+Existence of a mass-volume astronomical chart?
+
+I've been wanting to make a mass-volume (or mass-radius) chart for astronomical objects ranging from asteroids to supermassive black holes on a log-log scale. A sort of 'Hertzsprung-Russel' type diagram but with mass and volume as the axes. 
+I wanted to check first to see if anyone else has done this before. Google doesn't seem to turn up anything of the sort, and so I'm wondering if anybody in the esteemed audience of Astronomy.SE would know of the existence of such a diagram.

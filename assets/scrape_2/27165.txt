@@ -1,0 +1,5 @@
+What does the ']' in the spectral line "CIII] 1909 Å" mean?
+
+The above emission line, as I understand, is a useful probe of early star-forming galaxies.
+However, I do not understand what the ']' to the right of the 'CIII' means. 
+I could not find any online reference that can help me decipher this and other spectral line names (for example what does the double lambda in 'O III] λλ1661' mean. Any good reference is appreciated.

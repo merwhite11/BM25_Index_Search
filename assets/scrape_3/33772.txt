@@ -1,0 +1,6 @@
+CoRoT FITS files read error
+
+I downloaded fits file using wget script from https://exoplanetarchive.ipac.caltech.edu/docs/datasethelp/ETSS_CoRoT.html
+I am not able to view the file. I tried atsromagic and DS9 .  After File->Open I get an error message "..error while reading.." .It happens with both softwares. 
+Is anyone able to view these files? If yes, which software did you use?
+Another possibility is that using using wget script on windows it got corrupted. Is there a command line tool to check integrity/validity of fits file?

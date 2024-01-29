@@ -1,0 +1,16 @@
+Intuitive connection between the periods of oscillation of Betelgeuse and the elemental concentrations at its core? (Betelgeuse; Saio et al. (2023))
+
+Preamble (yes it's long, but it's part of this question's premise, so need to spell it out)
+Dr. Becky's recent video New study claims Betelgeuse supernova IMMINENT (decades not centuries!) | Night Sky News June 2023 links to the preprint Saio et al. (2023) The evolutionary stage of Betelgeuse inferred from its pulsation periods and between about 12:20 and 13:30 discusses Figure 6, how to read it, and how to get from estimated mass fractions of carbon at the center ($X_C(C)$ in the last column of Table 2) to an estimate time to supernova, the newsa being that it could be of order 102 to 101 years away.
+Looking at Figure 6 I noticed that between about 104.2 and 103 years before collapse (a period of about 15,000 years) there are no discernible changes in the mass fractions (at the core) of C, O or Ne (nor anything else). There are two more progressively shorter plateaus in concentrations once core C and O reach zero.
+I assume that what's happening here is that nucleosynthesis and heat production is happening outside the core in some shell, and when that stops there's a partial collapse, pressure and temperature of the core increases, and the next element in the A=4n chain begins to burn.
+Begin actual question
+Saio et al. (2023) infers the evolutionary stage of Betelgeuse from its pulsation periods, and shown in Table 1 $P_1$ through $P_4$ (this work) are 2190 ± 270, 417 ± 24, 230 ± 29 and 185 ± 4 days.
+Question: Intuitively, how can one understand the connection between the periods of oscillation of Betelgeuse and the elemental concentrations at its core, in the case of Betelgeuse as discussed in Saio et al. (2023)?
+I understand they use a stellar numerical model, but what is it about the periods that gives us information about the star's internal structure that then correlates to the core concentrations?
+
+aDr. Becky reminds us that this is a new preprint and has not yet been peer reviewed.
+
+
+
+Figure 6. Central abundances of various elements versus time (in logarithm of base 10) to collapse for the model of $M_i = 19 M ⊙$ with the initial rotation velocity $\nu_i = 0.2 \nu_{crit}$.

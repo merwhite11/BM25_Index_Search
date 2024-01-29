@@ -1,0 +1,6 @@
+How to visually chart HORIZON ephemeris
+
+I'm trying to build a 3D model of the Sun, Earth and Moon in in Javascript (using Three.JS, which relies on x,y,z coordinates for all objects) in order to simulate the Aug. 21 eclipse. I've successfully figured this out using the Kepler method that NASA describes, but would like to use the HORIZON ephemeris data for greater accuracy, given how sensitive the timing of an eclipse can be.
+I've read up on celestial coordinates, but still can't quite figure out how to take the output of the HORIZON tool and convert RA, Dec, etc into 3D coordinates, the way the Kepler document outlines. Can anyone point me to an authoritative primer one how to get from celestial coordinates to geometric coordinates?
+Coordinates based on AU are just fine -- I've already figured out how to scale that in the simulator.
+Thank you!

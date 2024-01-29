@@ -1,0 +1,11 @@
+What does this information about "upper limit column densities" and "upper limit relative abundances" mean?
+
+I was reading the abstract of a paper regarding attempts at detection of a molecular precursor to the amino acid glycine, and I came across concepts (and notation) that I found confusing. If someone could describe in layman's terms (I've taken an astrophysics class so I'm not totally unaware) that would be great.
+In the question I refer to the following section of a paper's abstract:
+
+"we derive upper limit column densities of NH$_2$OH of $\leq 1.4 \times 10^{13} \mathrm{cm}^{-2}$
+  and $\leq 1.5 \times 10^{13} \mathrm{cm}^{-2}$ toward the B1 and B2 shocks, respectively, and
+  upper limit relative abundances of $N_\mathrm{NH_2OH}/N_\mathrm{H_2}$
+  $\leq 1.4 \times 10^{-8}$ and $\leq 1.5 \times 10^{-8}$, respectively."
+
+The paper in question is called CSO and CARMA Observations of L1157. I. A Deep Search for Hydroxylamine (NH$_2$OH), and located here.

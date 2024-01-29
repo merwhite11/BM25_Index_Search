@@ -1,0 +1,8 @@
+How to calculate the orbits of Neptune and Pluto based on the orbits of Uranus and Neptune respectively?
+
+I get the below from Neptune and Pluto.
+
+In 1821, Alexis Bouvard published astronomical tables of the orbit of Neptune's neighbour Uranus.[22] Subsequent observations revealed substantial deviations from the tables, leading Bouvard to hypothesise that an unknown body was perturbing the orbit through gravitational interaction.[23] In 1843, John Couch Adams began work on the orbit of Uranus using the data he had. Via Cambridge Observatory director James Challis, he requested extra data from Sir George Airy, the Astronomer Royal, who supplied it in February 1844. Adams continued to work in 1845–46 and produced several different estimates of a new planet.
+In the 1840s, Urbain Le Verrier used Newtonian mechanics to predict the position of the then-undiscovered planet Neptune after analysing perturbations in the orbit of Uranus.[26] Subsequent observations of Neptune in the late 19th century led astronomers to speculate that Uranus's orbit was being disturbed by another planet besides Neptune.
+
+Does anyone know how did people calculate their orbits in 19th century? It is not a three-body problem, right?

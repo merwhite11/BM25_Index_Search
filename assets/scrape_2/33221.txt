@@ -1,0 +1,6 @@
+Which database of celestial objects do stargazing apps use?
+
+Stargazing apps such as Star Walk must have a database with a list of celestial objects, their names and details and each of their celestial coordinates.
+I am interested to know which database these apps use as I am looking to build my own stargazing app for a computing project.
+It would be great if someone could help me with this.
+Thanks!

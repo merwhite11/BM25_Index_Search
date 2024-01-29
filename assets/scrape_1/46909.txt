@@ -1,0 +1,28 @@
+How exactly does NEOSTEL's fly's eye telescope's secondary mirror array split the primary beam among sixteen cameras?
+
+Wikipedia's NEOSTEL says:
+
+The Near Earth Object Survey TELescope (NEOSTEL - also known as "Flyeye") is an astronomical survey and early-warning system for detecting near-Earth objects sized 40 metres (130 feet) and above a few weeks before they impact Earth.
+
+and
+
+The fly eye aspect of the telescope refers to the use of compound optics, as opposed to the single set of optics used in a conventional telescope. Classically, telescopes were designed around a single human observer looking through an eye piece. Astrographs were developed in the 19th century where a photographic plate, or later a CCD, records the image, which a human observer can then view. With the human eye no longer directly observing the image there is no longer a restriction on a single viewing point, and asteroid detection software has become fully automated, so a human observer need not view the majority of images at all.
+Light enters the NEOSTEL telescope through the aperture and is reflected off the primary mirror onto a secondary, consisting of 16 mirrors arranged on a hexadecagonal pyramid. The split beam then passes into 16 separate aspheric lenses and on to 16 corresponding CCD image sensors. NEOSTEL uses the 16 CCD cameras to view 45 square degrees of light entering the telescope aperture. The pixel scale is 1.5 arc seconds per pixel across the whole field of view.
+
+Question:
+I understand the nontraditional secondary is multifaceted but its been hard for me to find details on the optical design. Are these beam splitters very close to the primary focus so that they cut up the field of view fairly cleanly, or are they far from the focus so that there's quite a lot of overlap and sharing of field between adjacently viewing cameras?
+Are the faces flat or curved? What shape are they (e.g. rectangular, hexagonal, etc.)
+And just how aspheric are each of the lenses used to correct individual fields? They must be pretty unusually shaped!
+
+Potentially helpful but paywalled:
+
+About the development of the first fly-eye telescope
+The Fly's Eye camera system: new results with an autonomously observing telescope
+
+
+From The Fly-Eye Telescope, Development and First Factory Tests Results Proc. 1st NEO and Debris Detection Conference, Darmstadt, Germany, 22-24 January 2019, published by the ESA Space Safety Programme Office
+Ed. T. Flohrer, R. Jehn, F. Schmitz (http://neo-sst-conference.sdo.esoc.esa.int, January 2019):
+ 
+click figures for full size
+ 
+Screenshots from the ESA video Asteroid Day: GV'S ESA'S FlyEye Telescope, OHBITALIA, Milan, Italy found here. Click figures for full size

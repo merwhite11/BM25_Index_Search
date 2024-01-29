@@ -1,0 +1,11 @@
+How to calculate absolute magnitude of planets?
+
+Knowing:
+
+Star's radius $r_s$ , luminosity $L_s$, and absolute magnitude $V$
+
+Planet's radius $r_p$ , albedo $a$ , and distance $d_s$
+
+
+How can you calculate the absolute magnitude of a planet in a hypothetical star system?
+When plugging Earth value into the answer given by Micheal B. here, it gives me $V_p$ = 19.83, but it should be around -3.99, although this could be an error on my part.

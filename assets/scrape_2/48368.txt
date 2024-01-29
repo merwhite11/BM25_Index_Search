@@ -1,0 +1,3 @@
+Speeds in accretion disks
+
+I know that in accretion disks, differential rotation means that inner parts move faster than outer parts. However, when angular momentum transport occurs (through viscosity, the magnetorotational instability, etc) the "inner parcel" of fluid loses energy, slows down, and moves to a lower orbit. But isn't the lower orbit moving faster? How do I reconcile the fact that lower orbits in accretion disks move more quickly with the fact that particles that slow down move to lower orbits?

@@ -1,0 +1,3 @@
+How are non-visible electromagnetic waves detected that originate from space?
+
+How are non-visible electromagnetic waves from space detected and interpreted by the receiver? Is it in the same manner, as say radio waves produced on Earth, where the EM wave interacts with the telescope antennae and causes electrons to oscillate and as such is recorded as an electrical signal which can then be interpreted as an image?  I have tried to research exactly how the receiver converts EM waves into a "signal" we read but generally, information just states that the em wave is detected, amplified, and stored by a computer.

@@ -1,0 +1,6 @@
+Can there be multiple periapsides?
+
+Consider the following image of a barycentric orbit of a binary star system.
+
+I could draw their relative orbits by drawing a line connecting both bodies at each point in their rotation.
+In this system, it is possible that the distances between the two stars are the same when they are opposite to each other both vertically and horizontally in the image. So would that mean that there are three periapside points, and thus three lines of apsides, two of them not going through the barycenter?

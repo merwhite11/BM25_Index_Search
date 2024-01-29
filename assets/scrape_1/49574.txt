@@ -1,0 +1,6 @@
+When exactly was the last time that Earth's aphelion coincided (within 24 hours) with the northern winter (December) solstice?
+
+I would like to know in what year precisely did Earth's aphelion coincide (within 24 hours) with the northern winter (December) solstice? From what I understand, the day (on any tropical calendar) on which Earth is at aphelion in its orbit changes over time due to axial precession. Is there a reference like an almanac where this is calculated? If not, how do we calculate this ourselves and how precise and accurate can we be?
+Edit 1: I just read that maybe the calculation is more complicated because of apsidal precession but I don't really understand now...
+Edit 2: My guess is that the date I'm seeking was roughly 13-14 thousand years ago since northern winter solstice was at perihelion in 1246 AD and the period of axial precession is roughly 26 thousand years (so, something kind of like (1246 AD) - (25,772/2 years) = 11641 BC. Wolfram Alpha says this is wrong though because the winter solstice would have been December 14th while the aphelion would have been November 9th. That would be quite a bit off.
+Edit 3: I think I brute forced it using Wolfram Alpha although I don't know how accurate this is. It seems that the aphelion and winter solstice could have coincided on December 16th, 9510 BC (11532 BP.)

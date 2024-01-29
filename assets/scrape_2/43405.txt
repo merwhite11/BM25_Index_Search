@@ -1,0 +1,10 @@
+Expanded element (and molecule) abundance graph?
+
+There is the "classical" nucleosynthesis timeline chart where the $\log ({\rm mass \,fraction})$ is plotted as a function of $\log(t)$ where $t$ is in seconds after the big bang, looking e.g. as follows
+
+Source
+I am searching for the same chart reaching out a bit further towards 17 on the $x$-axis (which would be right now) and I am wondering whether such a thing exists (and what would be the appropriate search terms for a knowledge database).
+References
+
+Can you recommend a book about big bang nucleosynthesis and chemical abundances?
+XKCD Timeline of the universe explained

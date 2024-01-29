@@ -1,0 +1,8 @@
+Given a location and a time on another planet, how do you determine how many hours before or after sunrise is it there?
+
+I'm actually not so much interested in sunrise/sunset times. What I want to know is how to relate local planetary coordinates (e.g., planetary lat/lon) to, for example, heliocentric coordinates at a given time.
+Mike G. recently asked Where can I find planetary rotational axis direction? which received a useful answer. It's most of the information I want, but there's one degree of freedom remaining.
+One also needs the rotational angle (relative to local noon, say) of the planetary prime meridian at a given moment (or equivalent information).
+I think, for example, this angle is relatively easy to determine for the planet Mercury. Mercury has its rotational period locked to its orbital period. I think that the prime meridian of Mercury directly faces the Sun at the moment of perihelion. But how do you do this in general?
+I'm not sure how clear I'm being. Another way of trying to ask (basically) the same question (this time for Mars) is as follows. Suppose that I know the Martian coordinates (lat/lon?) of the Perseverance probe at a particular time of interest. How do you know where to aim an antenna from Perseverance to Earth at that moment? You know where both the Earth and Mars are: that's not the problem. The problem is knowing the direction Mars "faces" at that time.
+Is the information I want available for the planets? How is it specified?

@@ -1,0 +1,9 @@
+Acetylene at Uranus? What's JWST's evidence and current thinking of how it's possible?
+
+After about 03:22 in PBS Newshour's July 13, 2023 James Webb Space Telescope prompts scientists to rethink understanding of the universe JWST Interdisciplinary Scientist Heidi Hammel talks about planetary infrared spectroscopy via JWST, and here specifically about Uranus:
+
+We are seeing evidence of chemistry that we had hypothesized. They're like laboratory textbook examples of chemistry; of ethane and methane and acetylene, and all this interesting dynamical stuff in the atmosphere of Uranus. And that is very interesting because that's new chemistry that we hadn't thought about.
+
+Acetylene is quite an energetically unstable compound and on Earth is generally produced in specific high-temperature process catalytic and combustive.
+Question: Did JWST spectroscopy unambiguously observe acetylene at Uranus? If so, have the results been published yet? If so, have mechanisms been proposed for how it could be produced there so far from (at least intense) sources of energy?
+note: as pointed out in comments, this would not be the first observation, so discussion of earlier work is of course welcome!

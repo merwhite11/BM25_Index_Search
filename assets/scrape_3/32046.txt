@@ -1,0 +1,5 @@
+Stellarium script for sunrise times affected by topography
+
+I customised my own landscape with stellarium, created my own horizon with the polyline setting like horizon_Geneve.txt file.
+Manually, I can increase/decrease time to see when the sun's upper limb  touches the horizon, so my question is:
+Is there a possibility or a script, to make the mission automatically, for many days instead to test each day then note it?

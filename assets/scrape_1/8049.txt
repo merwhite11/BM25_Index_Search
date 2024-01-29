@@ -1,0 +1,6 @@
+can we see all binary stars as pairs?
+
+As it is obvious from the question title 
+is there any restriction or cases that we can see the binary stars as not in pairs 
+also is there any binary stars doesn't linked together by gravity ?
+I know the definition of binary stars that it is  a pair of stars that revolve around their common center of mass but my question is about special cases if it is exist

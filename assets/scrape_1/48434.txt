@@ -1,0 +1,10 @@
+What are the scale heights of the atmospheres of the Solar System worlds?
+
+What causes the relative scale heights of the atmospheres in the Solar System?
+
+In various scientific contexts, a scale height, usually denoted by the capital letter H, is a distance over which a quantity decreases by a factor of e (the base of natural logarithms, approximately 2.718).
+For planetary atmospheres, scale height is the increase in altitude for which the atmospheric pressure decreases by a factor of e. The scale height remains constant for a particular temperature.
+Scale height - Wikipedia
+
+And I imagine that the scale heights of planetary atmospheres might be determined by the surface gravities of those worlds, as the varying strength of surface gravity compresses the atmosphere more or less.
+Is that correct?

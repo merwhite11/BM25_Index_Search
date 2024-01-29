@@ -1,0 +1,4 @@
+Open cluster membership determination via parallaxes
+
+I'm working in my final course project and I'm using the recently released GAIA DR2 data. I want to determine open clusters membership and I know this has mainly been done  using proper motions and positions, and maybe photometric data.
+Since now we have access to parallaxes I was wondering if one could also estimate the cluster membership from them, considering all cluster members must have approximately the same parallax value (if they are to be at the same distance from us). I guess the technique can't be much different to the usual one done with proper motions, but I can't work it out in a rigorous way. Any help is appreciated! Thanks in advance.

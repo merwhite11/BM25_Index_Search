@@ -1,0 +1,11 @@
+Time Dilation and Particle Decay
+
+I am teaching myself astronomy and I'm working on a basic problem regarding time dilation around black holes.
+The question is basically this: if a neutron were ejected from a nucleus at a distance of 3km from a 1 solar mass black hole, how long would it appear to take for the neutron to decay (the assumption here is that the neutron would decay in 15 minutes... right on the half-life) to an outside observer?
+My first thought was that we'd never see it decay, because 3km is the Schwarzschild radius of a BH of that mass, so the frequency would basically be $0$ and we'd never observe the decay event.
+The text notes the time dilation 
+$$
+\frac{\Delta t'}{\Delta t_\text{obs}} = \frac{\nu_f}{\nu_i}$$
+where $\Delta t'$ is the the time difference between two events at the source and $\Delta t_{obs}$ at the observer.
+We can use the relativistic red shift equation to get the wavelength difference (9.2 in my case using 1 solar mass and a radius of 3km) so that wouldn't be infinite, just big. For a 15 min $\Delta t'$ then, the $\Delta t_{obs}$ would be 15 min * 9.2, yeah?
+So my two answers obviously contradict each other. What am I missing in my approach here?

@@ -1,0 +1,8 @@
+Requirements to resolve position of Jovian Whistlers up to magnitude of Red Spot with amateur radio equipment?
+
+Can I sense a bright star pointing an eight foot antenna towards it? is a while ago, but the discussion about this question I found very interesting. Please forgive me that I am not an expert in Jovian Whistlers but I tend to understand it as massive EM events on Jupiter.
+I am wondering: Could we use a Yagi-Uda antenna or an array of it to resolve the source of the radio signals on Jupiter? For instance, we could have the Jupiter-disk covered by a square of $40 \times 40$ pixels, and the goal would be to figure out from which pixel the signal originated.
+The idea behind that is that a cool research question for an (advanced) science project in school would be a question like "Did the lightning occur inside the Red Spot?" and Yagi-Uda antennas are fun to build, and do not require as much space as other antenna types.
+References
+
+Strong whistler mode waves observed in the vicinity of Jupiter’s moons

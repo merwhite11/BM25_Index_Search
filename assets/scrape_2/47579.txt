@@ -1,0 +1,13 @@
+Was lunar libration first observed or first predicted? In either case, who was the responsible party?
+
+How old is the idea of the far side of the Moon? got me thinking that as soon as we see the moon librate we have to come to terms with there being even more of it we can't see.
+The Moon's libration is a natural consequence of its orbit being elliptical; while it rotates around its own axis at steady angular rate (360° every ~29.5 days), its angular rate of revolution around the Earth is not so constant; advancing faster than average when it's closer to us and slower than average when further.
+This allows us to "peek around the corner" and see extra bits on the left and right side during the month.
+The uneven angular rate of revolution is a consequence of Keplerian orbits, so it could have been predicted. In fact, even before orbital mechanics it's possible just plotting the Moon's position among the stars would show this variation in speed.
+So I'd like to ask the following:
+Question: Was lunar libration first observed or first predicted? In either case, who was the responsible party?
+This answer to Moon's rotation and revolution says
+
+Anyways, if what you are asking instead is how and when we realised the exact mechanism by which the Moon gained its synchronous rotation, then the answer is that the process was first correctly described by british astronomer George Darwin (this is Charles Darwin son by the way) in 1879. But the main idea was really present as early as Isaac Newton's work on his lunar theory. So not only the fact that the Moon has the same rotational period as its orbital period was known long ago but also the exact way as to why this happened has been scientifically understood at least for 142 years now. This is 90 years before any human landed on the Moon and 78 years before even the Sputnik exited our world at the dawn of space exploration.
+
+which is quite helpful, but it's not enough to definitively answer my current question.

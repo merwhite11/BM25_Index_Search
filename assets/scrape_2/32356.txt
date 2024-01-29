@@ -1,0 +1,3 @@
+Where can I find a database of galactic spectra?
+
+I was wondering where spectra of galaxies at various redshifts are to be found. I'm looking for ones that can be used to find the recessional velocity of the galaxy and eventually the Hubble Constant. Here's one I found:

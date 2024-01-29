@@ -1,0 +1,6 @@
+Why is right ascension measured on a 24 hour scale rather than a 23 hours and 56 minutes scale?
+
+From several texts I have read, I have learned that right ascension is measured on a scale of 24 hours. I understand that Earth rotates almost exactly 360 degrees relative to distant objects, which is what RA is used for. The 24 hour system should only apply to the 361 degree rotation period (solar day). Why then do we split the sidereal day of the earth into 24 hours, when if it were split into 23 hours and 56 minutes we could know where an object would be x hours away after x hours?
+More (possibly) relevant information:
+I understand the Hour Angle HR is the measure of how far Aries is from the local meridian (RA of current meridian of longitude). This way you could calculate how many hours away the object is, but once again, this would not be exactly correct as 4 minutes has to be subtracted from the 24 hour scale, multiplying the whole time to something like 99.7% (14.44 degrees per hour), correct?
+Thanks, this is really confusing me and I would appreciate some help. I did see a similar question but that had nothing to do with the sidereal day v. solar day issue I'm having.

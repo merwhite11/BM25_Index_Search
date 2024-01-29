@@ -1,0 +1,6 @@
+Conversion from Equatorial Coordinate to Horizon Coordinates
+
+I'm developing my own Planetarium software using C++ following the book Practical Astronomy with your Calculator or Spreadsheet 4th Edition.
+I don't know if I my formulas are correct or not, but when I check my results (Azimuth and Altitude) with Stellarium, they are different.
+I have also checked my values with this page, but they are different. By the way, the azimuth and altitude given in that page are also different from the values given in Stellarium.
+Do you know where can I find the formulas to covert celestial coordinate to horizontal coordinates?

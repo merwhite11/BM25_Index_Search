@@ -1,0 +1,3 @@
+What is the orbital velocity of Pluto around the Pluto-Charon barycenter?
+
+I know the formula for orbital velocity but that doesn't seem of much help when I'm trying to calculate how fast the primary wobbles, or since the barycenter is outside Pluto in the Pluto-Charon system, how fast it orbits.

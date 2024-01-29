@@ -1,0 +1,5 @@
+Satellite angular velocity at an angle
+
+Suppose I am observing a satellite that is not at my zenith. I know the altitude(α) and azimuth(γ) of my telescope and I was able to get a relative angular velocity of the satellite.
+Based on this information, is there a way to find the angular velocity when I am underneath the path of the satellite?
+If needed, I know the longitude and latitude of my location as well as the RA and DEC of where the telescope is pointed at.

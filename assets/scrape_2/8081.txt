@@ -1,0 +1,18 @@
+What will New Horizons be able to say about a magnetic field at Pluto?
+
+Does NASA's New Horizons flyby probe to Pluto have instruments to measure Pluto's (or Charon's) magnetic field, if any?
+I'm a bit confused by the Wikipedia article which says that New Horizons, during its flyby of Jupiter, on one hand:
+
+Travelling through the planet's magnetosphere New Horizons collected
+  valuable particle readings.[45] "Bubbles" of plasma which are believed
+  to be formed from material ejected by the moon Io were noticed in the
+  magnetotail.[47]
+
+But then on the other hand:
+
+An objective to measure any magnetic field of Pluto was dropped. A
+  magnetometer instrument could not be implemented within a reasonable
+  mass budget and schedule, and SWAP and PEPSSI could do an indirect job
+  detecting some magnetic field around Pluto.
+
+And how true is this story which I read or heard somewhere? That when New Horizons was being built and launched, no one really believed that Pluto could have a magnetic field. But since then planetary science has advanced and it is now plausible that it might have a magnetic field, because of tidal forces between Pluto and Charon which might make both objects somewhat fluid and possibly generating magnetic fields.

@@ -1,0 +1,11 @@
+What is Hubbles WFC3 "UVIS 47 G200" filter? What is it used for? How to find an example?
+
+Extensive reading for Are the dispersion directions of the prism and the grating in Hubble WFC3 UVIS G280 perpendicular? Can we call this a "grism"? With cross-disparsion? led me to Instrument Science Report WFC3 2003-02; WFC3 UVIS Filters: Measured Throughput and Comparison to Specifications.
+Table 1: "UVIS Filter Performance Specifications from Version D JPL Spec or CEI" lists near the bottom
+Fnumber  Fname   Lam0   FWHM  lam -50 ... lam +50 ... Description
+-------  -----  ------  ----  -------     -------     -----------
+UVIS 47  G200   2775.0  1850    1800  ...   3650  ...   UV prism
+
+Question: What is Hubbles WFC3 "UVIS 47 G200" filter? Is it just a prism or is it a combination of a prism and a filter?
+What is it used for?
+How can I find an example of how it has been used in practice?

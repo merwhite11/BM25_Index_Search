@@ -1,0 +1,4 @@
+How big would a telescope have to be to get a good look at the nearest neutron star?
+
+It's my understanding of observational astronomy that the size of a telescope limits its effective angular resolution, which is why scientists needed to use radio telescopes all over the globe to look at the M87 black hole and Sagittarius A*.
+For the sake of convenience, let's define a "good picture" as at least 100-by-100 pixels, and assume that all neutron stars have a diameter of 20 km. With this assumption, the nearest known neutron star is PSR J0108−1431, at 424 light years away. This gives our neutron star an angular diameter of $2.9\times10^{-13}$ degrees, so the image would need a resolution of $2.9\times10^{-15}$ degrees per pixel. How big would a telescope need to be to see this accurately?

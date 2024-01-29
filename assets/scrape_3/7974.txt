@@ -1,0 +1,57 @@
+Hulse Taylor Binary Pulsar - How is "Cumulative Periastron Time shift" calculated?
+
+Following on from a previous question about the interesting Hulse Taylor Binary Pulsar.
+BACKGROUD
+Weisberg & Taylor, 2004 present a graph showing the change in "Cumulative Periastron Time Shift" over a 30 year period.  Here is a later version of that graph
+
+The graph indicates excellent agreement between the observed data points and the theoretical curve predicted by the General Theory of Relativity (GTR).  
+The authors determined the theoretical change in orbit period $P$ over time (due to orbital energy loss from emission of gravitational waves) from a formula (Peters
+& Matthews (1963)) of the form:-
+$$ dP/dt = K/P^{(5/3)}$$ 
+where K is an (effectively constant) function of the masses of the two stars and the orbit eccentricity. For the Hulse-Taylor Binary, the period $P$ is approximately 7.75 hours and the value of K is approximately $(-6 * 10^{-5})$, giving an approximate value of $$ dP/dt = 2.34 × 10^{−12} s/s. $$
+If $dP/dt$ is constant then obviously we can determine the period $P$ at a future time by applying the formula
+$$P_t = P_0 + t\,(dP/dt).$$
+As a rough initial estimate over one year the approximate change in period is: 365.25 x 24 x 3600 x -2.34 x 10^{-12} = 0.074 ms. (Wikipedia article indicates 0.076 ms.)
+But $dP/dT$ is not constant because it depends on the value of $P$ which obviously changes.  So we would expect the period to decay over time and the rate of decay to increase with time. However, the change in P is currently so very small that over the period of 30 years the change in dP/dt (which is a function of $P$) is extremely small also. (It is important to appreciate that the graph shown above does not plot $dP/dt$ against time).
+zibadawa timmy (thanks) provided the formula $P=(8/3 \int K dt)^{3/8}$ giving:- 
+$$
+P_t = \left( \frac{8}{3} (Kt+C)\right)^{3/8} \qquad \mathrm{with}\qquad C=\frac{3}{8} P_o^{8/3}
+$$
+hence
+$$
+P_t = 
+ \left( \frac{8}{3} Kt+ P_o^{8/3})\right)^{3/8} 
+=
+ \left(  \frac{-1.6\,t}{10^4}+ P_o^{8/3}\right)^{3/8} 
+=
+ \left(  \frac{-1.6\,t}{10^4}+ 27900^{8/3}\right)^{3/8} 
+$$
+for 1 year , t = 31,557,600 s., so -1.6 t/10^4 = -5,049.12 = c. 5e3
+for 10 years t = 310,557,600 s., so -1.6 t/10^4 = -50,491.2 = c. 5e4
+while 27900^{8/3} = 716,051,966,959.181 = c. 7e11.
+So 
+$$
+P_{1 year} = (-5049.12 + 716,051,966,959.181)^{3/8} = 27,899.999 926 s,\qquad deltaP_{1 year} = -0.0000738 s.
+$$
+$$
+P_{10 years} = (-50491.2 + 716,051,966,959.181)^{3/8} =  27,899.999 262 s,\qquad deltaP_{10 years} = -0.000738 s.
+$$
+These $deltaP$ values indicate that the value of $dP/dt$ is effectively constant ($=-0.000 073 8 s/s) over 10years.
+
+QUESTION 1 - What is plotted on the graph? ($\equiv$ What is Cumulative Perihelion Time Shift?) (ANSWERED). 
+Initially I was confused about what the Weisberg & Taylor graph was actually plotting.  The 2004 paper has "The observed and theoretical decays are compared graphically in Figure 1".  The wikipedia article labels the y-axis "Cumulative Period Shift" but the caption reads "observed change in the epoch of periastron with date".
+An earlier 1981 Scientific American article indicates that
+the vertical axis of the graph indicates the difference (round data points) between (A) the calculated epoch of a periastron event in a hypothetical "steady" system whose orbital period remains constant and (B) the observed epoch of the corresponding actual periastron event in the "decaying"-period system. Also shown is the continuous curve showing the difference between (A) steady system periastron epochs and (C) theoretical predictions of decayed periastron epochs.   The periastron's of the actual and hypothetical orbits are synchronized at $t=0$ (in late 1974).
+
+QUESTION 2 - How are the theoretical values of CPTS Calculated? (ANSWERED).
+Several (similar) methods have now been identified.
+Method 1 The method(s) used by Weisberg & Taylor to calculate theoretical values of CPTS have not been identified. These following methods seem reasonable candidates, based on the agreement with their results.
+Method 2 (see Stan Liou's answer)
+Stan Liou has provided a formula $\Delta t = 0.5(\dot P/P_0)t^2$ that produces values which closely match the Weisberg & Taylor graph.  
+Method 3 (see my answer Method 3)
+I have derived a formula identical to Stan Liou's but derived using phase instead of mean anomaly.  Another formula is derived from the same trunk expressing $\Delta t$ in terms of $\dot P, P and N$ $\Delta t = -0.5 P_o \dot P N^2$.
+Method 4 (see my answer Method 4)
+I have derived a formula derived using a coarsely approximated  binomial series which gives similar results 
+$ \Delta t_{N} = P_0{\dot P} \frac{N^2+N}{2}  $.  
+Method 5 (not shown)
+A finely approximated series expansion approach has been assessed. For the given binary system it produces a formula that is effectively indistinguishable from that of the other methods for the given time range.

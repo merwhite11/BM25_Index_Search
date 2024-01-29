@@ -1,0 +1,7 @@
+Are astronomers waiting to see something in an image from a gravitational lens that they've already seen in an adjacent image?
+
+@RobJeffries' answer to the question Does gravitational lensing provide time evolution information? points out that there can be a substantial different in arrival times of light from a given source seen in different images from a gravitational lens.
+The linked paper there shows "$\Delta t$" values of the order of 30 days, but it is hard for me to understand what the actual observable is.
+What I'm asking for here is (ideally) if there is a well defined event that a lay person could understand, something blinking or disappearing or brightening substantially that has already been seen in one image produced by a gravitational lens that has not yet been seen in one of the other images, and is expected to be seen in the (presumably near) future.
+If something like this does not exist, a substitute could be a case where this has happened, and the second sighting of the same event was predicted, waited for, and observed on time.
+I have no idea if this happens all the time, or has never happened yet.

@@ -1,0 +1,3 @@
+How do I find the RA of sunset and sunrise in a specific location?
+
+I want to make some observations with a telescope in Hawaii on Mauna Kea but I am living somewhere else (not Hawaii) and I want to plan a night's viewing on the Hawaiian telescope. How do I find the RA range of the night? In other words; how do I find the RA range of the first object observable to the latest object observable for a particular time (of year) for a specific location (in this case Hawaii)?

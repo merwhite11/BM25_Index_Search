@@ -1,0 +1,12 @@
+In the calculation of GMST, what are these constants?
+
+
+GMST = 6.697374558 + 0.06570982441908 D0 + 1.00273790935 H + 0.000026 T2
+
+From the GMST calculation on the USNO website (and many other places) we encounter these constants:
+
+6.697374558
+0.06570982441908
+1.00273790935
+
+Can someone enlighten me as to what they represent?

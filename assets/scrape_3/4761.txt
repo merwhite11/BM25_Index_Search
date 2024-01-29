@@ -1,0 +1,8 @@
+Does mass create space?
+
+Imagine two cubes each with the side 1 light year. One of the cubes is empty of any matter. The other cube contains a massive star.
+
+Does the cube which contains the massive star have a larger volume than the empty cube? (Because the mass makes space curvy)
+If the star is replaced by a gas cloud of the same mass but which is evenly distributed inside the cube, does the volume of the cube change?
+Is it not enough with geometry to calculate volumes? Is knowledge of the mass (and its distribution?) also necessary?
+Does mass (concentrations) create new space volume, or does it just change the properties of the space around it?

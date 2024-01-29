@@ -1,0 +1,4 @@
+Calculate planet's surface temperature by distance from star
+
+If the planet and star in question are very similar to the Earth and the Sun, how can I calculate the planet's surface temperature by knowing the distance from the star?
+This question was originally asked on the Worldbuilding stack exchange, and someone suggested I ask it here.

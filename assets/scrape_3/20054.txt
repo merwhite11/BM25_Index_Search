@@ -1,0 +1,13 @@
+Was the discovery of six exoplanets around one star as "easy" as counting six peaks in the FT?
+
+The phys.org article Scientists make huge dataset of nearby stars available to public describes the release of a publicly accessible database of Echelle radial velocity measurements; The LCES HIRES/KECK Precision Radial Velocity Exoplanet Survey. See also Keck's HIRES home page.
+
+For two decades, these scientists have pointed HIRES at more than 1,600 "neighborhood" stars, all within a relatively close 100 parsecs, or 325 light years, from Earth. The instrument has recorded almost 61,000 observations, each lasting anywhere from 30 seconds to 20 minutes, depending on how precise the measurements needed to be. With all these data compiled, any given star in the dataset can have several days', years', ore even more than a decade's worth of observations.
+
+This part caught my interest especially:
+
+"We recently discovered a six-planet system orbiting a star, which is a big number," Burt says. "We don't often detect systems with more than three to four planets, but we could successfully map out all six in this system because we had over 18 years of data on the host star." (emphasis added)
+
+For very simple cases of one, or maybe two planets with minimal interplanetary gravitational interaction, a Fourier transform of a nice, long, continuous radial velocity measurement would show two main peaks, and possibly other artifacts. If the stellar motion induced by each planet were similar magnitude, the analysis might be fairly simple.
+But for the six planet case mentioned in the quote (I don't know which one it is), and patchy time coverage (it's a survey) how was this analysis done? Peaks alone? Or just throw it to a supercomputer simulation of every possible combination and let simulated annealing run for a month?
+Or was there some 'detective work' involved as well - assumptions, limitations of the fitting space, or even inclusion of other data from outside the study?

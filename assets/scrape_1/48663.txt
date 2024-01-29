@@ -1,0 +1,8 @@
+How is observable matter distributed in the universe?
+
+The observable matter in the universe is distributed and arranged into various structures, including black holes, stars, nebulae, and the much more diffuse regions of the inter-stellar and inter-galactic mediums.
+
+Q. How much observable matter, as a percentage of total mass of observable matter in the universe, is arranged into black holes, stars, nebulae, etc. respectively?
+
+This seems like a pretty basic question, but Googling has not turned up satisfactory results (instead, it tells me that e.g. observable matter is only 5% of the total mass-energy of the universe, which is not what I asked for).
+I would expect that something like 99% of observable matter is trapped within stars, with only <1% being distributed throughout the interstellar medium (e.g. in nebulae). I would also expect that the total amount of mass inside black holes would be orders of magnitude lower than that trapped within stars. Are these estimations actually correct and backed up by evidence?

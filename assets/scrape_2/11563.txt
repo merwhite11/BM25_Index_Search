@@ -1,0 +1,10 @@
+attractors of Mercury's spin-orbit relation
+
+Mercury rotates at such a rate that the Sun appears to stand nearly still at perihelion, when the tide is strongest.
+Is there a mechanism that tends to adjust the orbital eccentricity to improve the match – minimize the tidal torque (integrated over time), or some such?
+If so, might there be other stable combinations of eccentricity and rotation coupling, other than the obvious 1:1?
+EDIT: I'll rephrase, since most of you seem to think my question was something elementary like “how does Mercury rotate?” or “what the heck is tidal locking anyway?”.  I suppose it's not a bad heuristic to assume that the newcomer is completely ignorant, but I wish that assumption didn't override a literal reading of the question.
+Each planet's orbital eccentricity varies over time.  Mercury's is now suspiciously near to what it would need to be for the sun to stand exactly still at perihelion.
+So it's conceivable that in the dawn of time Mercury orbited at some arbitrary eccentricity and rotated at roughly 3/2, then resonance brought the rotation rate to exactly 3/2, and then something adjusted the eccentricity so that Mercury's long axis – the line of the lumps on which the tidal torque acts – tracks the sun more closely around perihelion.  (I wouldn't expect a perfect match at perihelion, because though tide is strongest then it doesn't vanish at other times!)
+If that adjustment effect does happen, how does it work?
+And if that happened for 3/2, could it also happen for other resonances, say 2/1 or 5/4?  For an odd denominator (other than 1) does the effect, whatever it is, behave differently (unless Mercury has a weird shape)?

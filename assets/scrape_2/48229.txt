@@ -1,0 +1,6 @@
+Calculate speed of a galaxy with redshift
+
+I was going through some old exercises but I could never figure out who to solve this one
+The hydrogen absorption line (656 nm) of the galaxy NGC 77 is shifted by 41 nm into the reddish wavelength range. From this measured redshift, calculate the speed at which the galaxy is moving away from us. (c = $3 * 10^8$ m/s) .. Now the solution has been given as $1.9*10^7$ m/s
+But as far as I know I'd calculate it with $\dfrac{\lambda_B-\lambda}{\lambda}=\dfrac{v_s}{c}$, which would get me a speed of $4.5*10^9$ m/s
+I never quiet understood how you'd get $1.9*10^7$ m/s ...

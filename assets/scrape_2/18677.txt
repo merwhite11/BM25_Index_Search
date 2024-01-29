@@ -1,0 +1,4 @@
+The drift of the Moon's equatorial rotation velocity
+
+Are there any citation or documentation showing the measured degradation of the Moon's equatorial rotation velocity (thus affecting its moon's axial rotation)?
+I am looking for the drift of the Moon's axis rotational speed, presumably over 10,000 years or more.

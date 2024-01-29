@@ -1,0 +1,15 @@
+What exactly is the risk to any JWST instrumentation when looking at objects that are "too bright"?
+
+This answer by pela to question #48317 at one point states
+
+The star should be bright, but probably not too bright (like Betelgeuse), since we don't want to burn MIRI off from the beginning
+
+A comment by Carl Kevinson points out this statement, and asks a reasonable question:
+
+"but probably not too bright (like Betelgeuse), since we don't want to burn MIRI off" Is damage to the instrument a risk when observing a bright star?
+
+I am generally aware of the sunshield in place to protect it from the Sun's comparatively close and high radiation. It seems that maintaining temperature is the key issue this is concerned with. The whole craft is aimed to be at most 40 K; MIRI has two more systems that reduce it specifically down to 7 K.
+This is presumably a noise-reduction strategy, given that the instruments are generally trying to image in the IR spectrum, and any excess heat is going to be emitted primarily as IR. MIRI may be more susceptible to such noise, given its ability to see longer wavelengths (i.e. lower energy, and more prominent from colder things than shorter wavelengths, as far as I understand).
+However, it does not seem that a distant star should be able to do much affecting the instruments in the same way as heat from the Sun, otherwise there would be additional shielding on the "outside" of the craft as well (which might largely defeat the purpose).
+What risks exist to the JWST instrumentation, that come specifically from looking at a star that is "too bright" as opposed to the risks of being unshielded from the Sun and/or from getting too hot?
+What kind(s) of stars would be counted as "too bright"? Examples would be helpful (though please do not include the Sun).

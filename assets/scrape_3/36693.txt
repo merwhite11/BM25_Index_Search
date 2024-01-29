@@ -1,0 +1,13 @@
+What celestial mechanics parameters define a lunar occultation of Venus visible from Earth?
+
+As a carry on from the following thread
+Are lunar occultations visible to the naked eye?
+Is it correct that the following parameters must hold true if we use Moon occult Venus as an example
+
+[LongMoon = LongVenus = RAMoon = RAVenus] AND [DECMoon = DECVenus]
+Moon and Venus must both be visible, i.e. not too close to the Sun
+
+I expect both of these events will need to occur above the horizon (ascendant) for the location right?
+Am I missing anything? Are there agreed parameters for degrees above the horizon for visibility?
+Like eclipses, such events wont be observed everywhere on earth. Is there an orb convention that captures when occultations can be observed on earth? Is there a way to identify where on earth the total occultation can be observed?
+Thank you for any guidance with this.

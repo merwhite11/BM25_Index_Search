@@ -1,0 +1,6 @@
+snapshot of solar system
+
+I am working on a little project where I want to simulate the solar system to teach myself working with python and OOP.
+I want to calculate the orbits "real", from tangential velocities and gravitational accelerations. For this, in order to not only get circular orbits, but the real, eccentric orbits, I need kind of a snapshot of the solar system with positions and tangential velocities at those positions of the planets (and their moons, but I highly doubt that exists). 
+EDIT: I think something like the velocities at the Apoapsis should be enough to derive a reasonably right orbit from it, right?
+I don't even know if something like that exists, or where to get it from. Does anybody happen to know something of this?

@@ -1,0 +1,5 @@
+Does one need to take into account finite gravity speed in N-body simulations?
+
+Most small-scale N-body simulations (e.g., planetary systems, solar system, stellar clusters, ...) use  classical Newtonian gravity. 
+Most large-scale N-body simulations (e.g., galaxy clusters, ...) use general relativity.
+My question: if I were to make a large-scale N-body simulation using Newtonian gravity, would it be enough to "correct" that to first-order by modifying the equations of motion to take into account the fact that gravitational fields propagate at the speed of light?

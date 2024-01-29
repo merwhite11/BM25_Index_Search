@@ -1,0 +1,13 @@
+Minimum distance between planets
+
+In our solar system, MOIDs (minimum orbital intersection distance) of different planets reach a minimum of ~30 million miles (Mercury and Venus). However, other star systems have more compact planets. So I am wondering, what is the absolute minimum for planets of different sizes (list below)
+
+1 Earth mass
+5 Earth masses
+10 Earth masses (Neptune-sized)
+50 Earth masses (Super-Neptune)
+100 Earth masses or 0.3 Jupiter mass (Sub-Jupiter)
+1 Jupiter mass
+5 Jupiter masses
+
+P.S. Sorry if the list is too big, some can be omitted for sake of writing all of that.

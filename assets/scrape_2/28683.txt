@@ -1,0 +1,4 @@
+Why aren't GPS clocks sufficient to synchronize VLBI observations?
+
+In very long baseline interferometry, it is typical to use a hydrogen maser atomic clock to sample data. However, given how expensive these atomic clocks are, it seems surprising that more observatories aren't using non-local atomic clocks, such as GPS clocks. 
+This Wikipedia article says "The antenna signal is sampled with an extremely precise and stable atomic clock (usually a hydrogen maser) that is additionally locked onto a GPS time standard." My question is, why not do away with the hydrogen maser entirely?

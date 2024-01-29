@@ -1,0 +1,8 @@
+Units for orbital period and gravitational constant
+
+Using this site for binary system orbital period calculations: https://www.omnicalculator.com/physics/orbital-period
+The formula given there is
+$$T_{binary} = 2 \pi \sqrt{\frac{a^3}{G (M_1+M_2)}} $$
+Entering numbers into the calculator on that page works fine, but I'm having trouble reproducing the above formula on my (physical) calculator as I'm not sure which of the units allowed on that page should be used. Ideally I'd want to use solar masses for M1, earth masses for M2, and AU for a. However I'm not getting anything resembling the right answers. I'm also entering G as 0.0000000000667408.
+So my question is: is the formula as stated above correct, and if so which units are used?
+I'm a total layman with this kind of thing, so apologies if this question seems dumb.

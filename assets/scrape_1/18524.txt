@@ -1,0 +1,5 @@
+Could the closest approach of stable orbits of two earth sized planets allow life to jump between?
+
+How close could two earth sized celestial bodies get in their nearest approach either as planets or moons around a larger planet?
+Close enough for atmospheric interaction in a stable orbit at nearest approach, or for non-space-fairing species to somehow make the jump without cosmological assistance (aka asteroid impact)?
+It seems just from using the roche limit of an earth to earth sized bodies any approach under ~20,000 km would be unstable in the long term, which is orders of magnitude beyond a normal atmosphere size.

@@ -1,0 +1,4 @@
+Things to be aware of when designing a custom equatorial fork mount
+
+I'm still relatively new to amateur astronomy, and I would like to get into astrophotography. I've looked at different equatorial mounts, and I think I like the benefits of fork mounts. I'd like to design one that can be adjusted to fit a few different scopes and probably a camera with large lens. The way I would do this is by making various adapters, and possibly allowing the fork width to be changed.
+As I have never done this before, what issues should I expect to encounter, especially with regard to tracking accuracy?

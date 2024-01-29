@@ -1,0 +1,5 @@
+Why didn't we see those campfires on the Sun until now?
+
+What is it about its optics and instrumentation (aperture, sensors, filters), being in space and distance from the Sun on 30 May 2020 that allowed Solar Orbiter's HRIEUV telescope to see something that's never been seen before?
+SOHO has been looking at the Sun in all kinds of wavelengths for a long time, and there's STEREO as well, and we've been looking at the Sun from high altitude balloons and sub-orbital rockets for over a half-century!
+What could be the cause of solar "campfires"? provides links to a lot of information about the observed phenomenon, and eoPortal's Solar Orbiter Mission includes a lot of details on instrumentation .

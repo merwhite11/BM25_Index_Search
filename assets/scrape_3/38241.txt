@@ -1,0 +1,9 @@
+How far can we detect lightning in radioastronomy?
+
+The wikipedia article on whistlers has this information:
+
+Voyager 1 and 2 spacecraft detected whistler-like activity in the
+vicinity of Jupiter known as "Jovian Whistlers", implying the presence
+of lightning there.
+
+This surprised me, because this implicates a short range for detection of lightning, and I thougth atmospheric discharges produced a lot of radio noise, and so radiotelescopes on Earth should have picked signs of jovian lightning before the voyagers. As it seems not to be the case, what makes lightining hard to detect at distance?

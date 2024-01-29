@@ -1,0 +1,12 @@
+Setting of stars
+
+In the book Thinking Physics by Lewis Caroll I came accross the following exercise:
+
+Using a good digital watch, get the exact time when a bright star goes behind a distant building or tower. A day later time the disappearance again. Sighting over a nail fixed in a window sash will help you return your eye to the same location for each sighting. It will be found that
+
+the star disappears at the same time each night
+the star disappears a little earlier each night
+the star disappears a little later each night
+
+
+I am thinking that each Night stars come up 4 min earlier so the answer must be b. Could you help me with the reasoning, please?

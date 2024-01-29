@@ -1,0 +1,3 @@
+Right ascension - Gaia vs Simbad
+
+What is the difference between Right ascension in Simbad and Gaia Archive, please? How to convert the values? For instance, HD 37468: 05h 38m 42.0s vs 84.68652242854718 deg. Should not be these values nearly the same? How to convert in astropy, please?

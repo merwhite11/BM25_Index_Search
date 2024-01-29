@@ -1,0 +1,15 @@
+angles on the celestial sphere
+
+This is a somewhat simplified, and drawn / formulated in a manner more targeted to astronomy, version of a diagram and a question that I've also posted in math.stackexchange.com.
+In the diagram below I depict:
+
+the celestial sphere with the North Celestial Pole (NCP), the South Celestial Pole (SCP) and the celestial equator
+a latitude circle at latitude $\delta$ (declination)
+two points $A$ and $B$ on that latitude circle
+the center of the celestial sphere $O$ and the center of the latitude circle $O'$
+
+
+My question is:
+Given angle $\phi$ between the rays $OA$ and $OB$, what is the angle $\theta$ between the rays $O'A$ and $O'B$ ? I am trying to derive $\theta$ given $\phi$ and $\delta$. Observe that if $A$ is the first point of Aries, then the angle $\theta$ is the Right Ascension of a star located at point $B$.
+My assumption is that the following formula holds:
+$\phi = \theta*cos(\delta)$

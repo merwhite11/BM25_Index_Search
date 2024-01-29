@@ -1,0 +1,4 @@
+Percent-illumination of crescent moon and its naked-eye visibility?
+
+What level of percent-illumination of moon (waxing crescent), given by Stellarium, is enough to make it visible with naked eye, in clear sky?
+thanks

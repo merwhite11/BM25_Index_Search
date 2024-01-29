@@ -1,0 +1,8 @@
+Query Gaia by star name
+
+I am attempting to query Gaia programmatically in python to get certain properties for specific stars. I can write a query which obtains some properties, but only for all stars, not a set of stars or one specific star. Ideally I would just be able to pass the query function a star name but I can't figure out from the documentation how to do this (or even how to make the star name, rather than just the Gaia source_id, a column in the returned table). My current script is as follows:
+query = """SELECT source_id, ra, dec, parallax FROM gaiadr2.gaia_source """
+job = Gaia.launch_job(query)
+results = job.get_results()
+
+Any pointers are much appreciated!

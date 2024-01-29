@@ -1,0 +1,6 @@
+How can I convert a galaxy arcmin to light years?
+
+https://en.wikipedia.org/wiki/List_of_largest_galaxies
+says galaxy ESO 383-76 has a MA diameter of 1,764,000 light years based on information from
+https://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=ESO+383-G+076&extend=no&hconst=67.74&omegam=0.3089&omegav=0.6911&corr_z=1&out_csys=Equatorial&out_equinox=J2000.0&obj_sort=RA+or+Longitude&of=pre_text&zv_breaker=30000.0&list_limit=5&img_stamp=YES
+NED.  I see the NED page says that the galaxy has a diameter of 2.3.  Using this as an example, how can I convert 2.3 to 1.764 million.  I am after the formula that they used to convert, can someone provide me with a non-scientific calculator version.

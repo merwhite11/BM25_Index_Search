@@ -1,0 +1,16 @@
+Radial velocity
+
+Is there a way to calculate the radial velocity without wavelength? I can only find two formulas so far. One of them needs wavelengths and the other one needs the velocity of the star, but I have none of these. I have distances, parallax, magnitudes, luminosities, astrometric signal, radii, effective temperature, $T_{eff}$ and masses.
+It's about a star with a "double star" of two dwarf stars in orbit. (It is assumed that they can be considered as total mass)
+It's assumed that the orbit is circular.
+Edit:
+ It's an exam question from last year's exam:
+
+A star ε indi A has a "double star" of brown dwarfs in orbit. Assume that the brown dwarfs can be considered as one mass of 75 Jupiter masses. The distance between the brown dwarfs (ε indi B) and ε indi A is 1459 AU.
+
+Calculate the maximum astrometric signal and the maximum radial velocity semiamplitude under the assumption that the orbit is circular.
+I've already calculated the maximum astrometric signal. It's just the last part that I can't figure out to do with the information I have.
+The formulas I'm talking about are:
+ $v_r=c\frac{\Delta \lambda}{\lambda}$
+ and
+ $v_r = v_\text{star} \sin(\frac{2 \pi}{P} t)$

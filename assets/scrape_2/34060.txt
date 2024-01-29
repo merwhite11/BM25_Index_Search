@@ -1,0 +1,3 @@
+Formula to calculate B-V index?
+
+Is there a formlua or equation to calculate a star's B-V index based on it's observed frequencies in the B and V spectrums ? I have unfortunately not been able to find anything...

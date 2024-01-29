@@ -1,0 +1,3 @@
+Tidal locking of a moon
+
+When a moon is in orbit around it's planet but is so close that it will become tidally locked does it experience a large 'wobble' in between the phase when it still has its own rotation and the final phase when it is always showing the same face to the planet?  I can only imagine that it would 'wobble' very widely, back and forth like a pendulum until finally settling into a locked position.

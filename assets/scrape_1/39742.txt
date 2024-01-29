@@ -1,0 +1,4 @@
+When was the distance to a star measured for the first time without using parallax?
+
+This is somewhat of a follow-up to When was the parallax of a star first measured? Once the distance to the nearest stars was determined, it was possible to discover physical properties of stars (such as the relation between intrinsic luminosity and color, or the relation between luminosity and period for Cepheid variables), then use the knowledge of those physical properties to find the distance of stars with no visible parallax.
+When was the distance to a star (other than the Sun) determined for the first time with a method other than parallax?

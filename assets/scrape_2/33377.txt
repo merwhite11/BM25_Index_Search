@@ -1,0 +1,7 @@
+Does the Sun have a numerical designation in any star catalogues?
+
+Given the existence of large star catalogues listing millions of astronomical objects with numerical designations (such as Tabby's Star, KIC 8462852) it occurred to me that one of them might contain the Sun. However, I had no luck. 
+I searched NASA's HEASARC which combines GRB, SIMBAD, VizieR, NED, and BSC.
+HEASARC found Sirius in SIMBAD, NED, and BSC (HR 2491), but there were no results for "Sun" or "Sol".
+So, is there any catalogue (maybe a stellar evolution catalogue) that puts the Sun on equal footing with other stars, giving it a canonical number designation?
+Bonus high fives if that number is 0 or 1. (Sorry, HR1 is a 6.71 magnitude star in Andromeda, also known as HD 3).

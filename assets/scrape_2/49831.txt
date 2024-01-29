@@ -1,0 +1,3 @@
+Kolmogorov–Smirnov test p-value
+
+I carried out a 2 sample Kolmogorov–Smirnov or "KS" test. I got a p-value of 0.11. That means the probability of 2 samples being of the same population is 0.11. Is it correct to say that the probability of the same is 11%?

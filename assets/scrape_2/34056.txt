@@ -1,0 +1,15 @@
+Why does the convective core in an intermediate- to high-mass star shrink?
+
+The image below shows the evolution of the hydrogen mass fraction profile for a 5 solar mass star in the main sequence. I would expect that the size of the convective core stays roughly constant as the hydrogen is been fused, leading to a final step-like profile when the core hydrogen is exhausted. However, all the literature and simulations show a clear slope in the final step-like profile which results from the shrinking of the convective core.
+Does anyone have any insight about the reason behind the shrinking?   
+
+(source of the image: http://astro.if.ufrgs.br/evol/evolve/hansen/StellarEvolnDemo/m5z02evoln.html)
+
+Edit 1:
+Below is the evolution of the temperature profile for the same star. Feel free to comment on it.
+Personally, I am surprised how little the temperatures change. Since the main nuclear reaction is the CNO cycle which scale as $~T^{16}$, I was expecting a much more violent change. However, the central temperature only increases in about 30% during the whole main sequence. Interesting. 
+
+(Source: http://astro.if.ufrgs.br/evol/evolve/hansen/StellarEvolnDemo/m5z02evoln.html)
+
+Edit 2:
+I thought a nice explanation could be in the Ledoux criterion for convection. This criterion states that chemical gradients have a stabilizing effect against convection (i.e., it impedes convection) which would lead to the conclusion that, at the interface between the radiative and convective zone, the radiative transport would take over. However, I simulate the evolution with and without the Ledoux criterion and in both cases the convective core shrinks.

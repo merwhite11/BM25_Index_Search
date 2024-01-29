@@ -1,0 +1,8 @@
+What determines the speed of a star's solar wind?
+
+I'm wondering if different stars produce wind at different speeds, and if so, what factors determine that speed.
+Per this answer, our star produces wind with a speed between ~250–820 km/s. It seems safe to assume that the wind speed for each star is variable.
+This other answer gives the Reimers mass-loss formula, which accounts for loss via radiation and wind, but states that one term must be measured empirically. (And, in any case, I'm interested in wind speed, not mass carried away.)
+Wikipedia says we don't have a very good understanding of how the solar wind is accelerated, which suggests it may not be possible to answer this question.
+Still, as a layman, it seems like it should be possible to make general predictions about a star's wind, given a few facts about that star, namely: mass, angular velocity, and age.
+For example, would a blue star have faster wind because of its higher temperature or (I assume) stronger magnetic activity? Or would it be slower because of its greater gravity? Or would it depend substantially on the star's rotation? Or would all stars have similar wind speeds because of facts about idealized gasses (I'm thinking of Maxwellian distribution)?

@@ -1,0 +1,16 @@
+Angular diameter of the Sun's reflection from the ocean, seen from Sun-Earth L1?
+
+I'm trying to understand how smooth the reflecting ocean surface would need to be to produce such a small bright spot as seen from the DSCOVR satellite at Sun-Earth L1. It appears to be only about 8E-05 rad, or about 0.3 arcminutes. 
+My question is primarily about the geometrical optics involved in the reflection of light from the Sun off of the Earth. Interpretation of the apparent size and comparing to the image is secondary.
+At a distance of 151.3 million km from Earth, the 1.391 million km diameter Sun has an angular width of 0.009196 radians. The DSCOVR satellite is 1.586 million km from the Earth looking at the Sun's reflection from somewhere around the Sun-Earth L1 point. It's close to the Earth-Sun axis (the Sun-Earth-DSCOVR angle is about 7.6 degrees) so let's simplify and assume it sits on-axis.
+The Earth's radius is 6378 km; as a convex mirror its focal length is $f=-r/2$ or -3189 km. 
+Question: What would be the angular size of the Sun seen from DSCOVR reflecting in a spherical mirror model for the Earth in this configuration?
+
+What I'm looking at (for context):
+This sequence of images taken by the EPIC camera on the DSCOVR satellite near the Sun-Earth L1 point is notable for showing the progress of the Moon's shadow across the Earth, but that's not the topic of my question.
+The first image shows the back-reflection of the Sun from the Earth. It is likely to be from a particularly calm spot on the Ocean, but that's not for sure, there are some images that show reflections from horizontally oriented ice crystals as well. See Are there measurements or calculations that suggest atmospheric ice plates would be horizontal to within 0.1 degrees? and also How could the recently explained “glints” seen by DSCOVR appear so compact considering the finite size of the sun? for some interesting images and more on that. 
+But that doesn't matter for the purposes of my question.
+Width of Earth 6378 km x 2 / 1586000 km = 8.0428E-03 rad corresponds to ~1500 pixels. 
+Bright spot is about 15 pixels wide, or about 8E-05 rad.
+Could such a small angular width be a geometrical reflection of the Sun from a very smooth ocean?
+Raw image at NASA seen here.

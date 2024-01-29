@@ -1,0 +1,6 @@
+Rotation and relativity
+
+When a planet is spinning around its own axis, it has an effect on the trajectory of its satellites. I believe it is called frame dragging.
+Spin increases the kinetic energy of an object, contributing to its mass-energy, but some other effect must come into play as well. 
+How does one differentiate between spin and orbit velocity?
+What is the effect of the spin? Lets say that Earth suddenly started spinning faster, what would happen to the moons trajectory?

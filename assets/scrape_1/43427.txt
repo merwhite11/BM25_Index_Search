@@ -1,0 +1,13 @@
+Why does rotation prevent the further contraction of the cloud?
+
+In the book Horizons: Exploring the Universe (2018) by M.Seeds and D.Backman, chapter 9, page 170-171, it states that:
+
+At least four factors resist the
+compression of an interstellar gas cloud, and those factors must
+be overcome by gravity before star formation can begin. [...]
+Third, everything in the Universe rotates. As a gas cloud begins
+to contract, it spins more and more rapidly, just as ice-skaters
+spin faster as they pull in their arms. This rotation can become
+so rapid that it resists further contraction of the cloud.
+
+Which bring the question of why does rotation prevent the further contraction of the cloud? Doesn't the rotation create a centripetal force that pointed inside, thus make the matters become denser, therefore it shouldn't be a reason that interstellar have to overcome in order to form stars?

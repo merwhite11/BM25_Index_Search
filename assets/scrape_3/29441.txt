@@ -1,0 +1,4 @@
+How to collect photometric data for WW Aur
+
+I have a problem with the collection of photometric data for star WW Aur. I can't find any file with HJD and mag column beside this one on Vizier. 
+I need more than one source of data. I will use the data to create a light curve via Scidavis software.

@@ -1,0 +1,17 @@
+Can someone explain this diagram showing the spectral type distribution of bright stars
+
+Can someone explain this diagram?
+The text is in Dutch, free translation: "You are given a graph: a histogram of the 10 000 most apparent bright stars. Explain 1, 2 and 3."
+
+The fact that the number of counted stars of types O and M is small due to 
+
+O is bright but just very rare and,
+M is common but quite dim.
+
+The puzzling bit in this diagram is the sudden dip from a local maximum F (why is there a maximum) to G (why is G a local minimum). The drop from K to M is explained above - that being that M class stars are just very dim (is this all there is to say here?).
+It seems that if there wasn't a dip at 3, and the graph would just continue, that the local max at K can be explained as being there just because there is a dip at G. If there wasn't a dip it wouldn't be a maximum and it'd just look like a bell-curve.
+So 
+
+Why is there a dip at G?
+Why does it rise so smooth from O to F? Is it just because B - F are more common?
+Why is there a maximum at F?

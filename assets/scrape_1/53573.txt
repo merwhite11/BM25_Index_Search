@@ -1,0 +1,28 @@
+Discrepancies in the equations for converting Horizontal coordinates to Equatorial coordinates
+
+Hello I am trying to convert my Horizontal coordinate system dataset into Equatorial coordinate system. However, it seems that all the information from the internet is different.
+I will use symbols as following
+θ : (Observer's) Longitude (I am not going to use it now, but required to get LST)
+φ : (Observer's) Latitude
+A : azimuth
+a : altitude (or zenith)
+α : R.A.
+δ : declination
+h : hour angle (Not going to use it now, but required to calculate R.A.)
+t : LST (Local Sidereal Time, required to calculate R.A.)
+Also, I will just write down formula for the declination because I think I am stuck with this.
+First, from Wikipedia,
+https://en.wikipedia.org/wiki/Astronomical_coordinate_systems
+sin(δ)=sin(φ)sin(a)-cos(φ)cos(a)cos(A)
+
+Next, from the University of St. Andrews (I guess this is one of the British institution?)
+http://star-www.st-and.ac.uk/~fv/webnotes/chapter7.htm
+sin(δ)=sin(a)sin(φ)+cos(a)cos(φ)cos(A)
+
+From an YouTube page, (Watch from 5:45)
+
+
+
+sin(δ)=sin(φ)cos(a)+cos(φ)cos(a)cos(A)
+
+I think I just have to use arcsine to get declination, however, they all suggests me different formula. The more frustrating is that they don't seem to match with example dataset which I have. Can anyone tell me what would be the correct formula? Or am I missing something like definition in domain?

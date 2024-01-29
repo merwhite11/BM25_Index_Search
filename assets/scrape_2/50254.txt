@@ -1,0 +1,4 @@
+How would you calculate the "day" on a planet orbiting a red dwarf that is a companion to a larger star?
+
+So the idea is you have an Earth-sized planet with a moon orbiting an M-class star (let's give it .25 solar masses) at 0.2 AU, with an orbital period of 63 days and a 24-hour day. Its orbit has an eccentricity comparable to Mercury, because it was captured by the M-class star early in the solar system's history. The M-class star in turn orbits a K-class star with .75 solar masses at 1.54 AU, with an orbital period of 566.5 days.
+Is there a way for me to calculate the period during which the K-class star is visible from the planet's sky, sort of like a secondary "day?"

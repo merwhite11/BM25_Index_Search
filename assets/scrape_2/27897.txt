@@ -1,0 +1,9 @@
+Calculate position of the Sun in ECEF
+
+I'm making a very basic orbit simulator in C# using the Helix Toolkit.
+I want to position the Helix lighting object at the sun, but also be able to calculate solar eclipse by the moon and earth for a satellite (position defined in ECEF).
+Upon some brief research, I'm reading that getting an accurate position calculation for the sun in ECEF is a lot of work.
+Is there an algorithm that can perform this calculation for me that I can include into an UpdateSunPosition() method so that I can have a reasonably accurate position calculation of the sun in ECEF?
+Perhaps I have to scratch the eclipse calculation ambitions for now, instead calculate Geographical Position of the sun to get the Declination and Greenwich Hour Angle, Call those latitude and longitude, and then just give it a satisfactory altitude.
+I've noticed that people are referring to SOFA a lot when talking about this, but I'm not sure what SOFA is, or whether I can use it in C#. I'm pretty sure it doesn't operate in a .NET environment like visual studio, but please correct me if I'm wrong.
+I appreciate any and all suggestions or insights anyone may be able to offer here.

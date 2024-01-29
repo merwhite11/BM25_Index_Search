@@ -1,0 +1,9 @@
+How feasible is it that we could see the Central Black Hole Sgr A* occlude one of it's closely orbiting stars?
+
+I'm thinking about the recent famous photo of a black hole, some months ago. It got me wondering if there isn't a way to more easily make a direct observation of these. 
+We detect exoplanets in part by phenomenae that occur when they transit their star.
+We also have excellent time lapse photography of numerous stars orbiting the Milky Way's central Black Hole (Sgr A*), with timescales quite amenable to human timescales.
+Could we observe Sgr A* directly by observing one of these stars passing behind, or almost behind it?
+The diameter of the BH is estimated at 60m km, more than 40x the diameter of our sun (1.4m km). At that distance, parallax related effects and relative sizes wouldn't be an issue, as the star and BH are virtually at the same distance both very far from earth. A star also wouldn't have to be occluded, just pass close enough behind, for gravitational lensing to be detected on that fraction of its orbit (but not other places).  
+Additionally, a star could also be occluded by an accretion disk (if any), and its light affected in a way that would presumably show something of the nature of what it was passing behind. Admittedly Sgr A* may have little or no disk, but we might detect a disk of low enough density/size/activity not to be active, if a residual disk did in fact exist.
+Are we likely to be able to see in time lapse photography, stars vanishing and reappearing behind an apparently empty patch of space, in this way? Has it been done?

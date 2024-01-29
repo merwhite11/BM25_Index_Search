@@ -1,0 +1,51 @@
+Calculating the Flux density through different photometric filters
+
+For a project I wrote the following python script for calculating the flux density.
+My question is: If the user enters for example magV = 22 and the user selects the B filter instead of the V filter will the flux density value be correct?
+Something doesn't seem ok to me. Perhaps the mag V value should be converted to mag B before the light passes through the B filter ...
+Here is the code snippet:
+# Filter selection
+def band_selection(band):
+    
+    if band == "B":
+        
+        wavelen = 436.258
+        filterB = 79.651
+        extintion_coef_filter = 0.25
+        flux_density = 6.3605 * 10**-9 # 0 point value
+    
+    elif band == "V":
+        
+        wavelen = 544.777
+        filterB = 80.732
+        extintion_coef_filter = 0.1567
+        flux_density = 3.6167 * 10**-9 # 0 point value
+
+    return [wavelen, filterB, extintion_coef_filter, flux_density]
+
+# Flux through filter
+def flux(m0, angle, band):
+   
+    # compute airmass
+    DEG_TO_RAD = np.pi / 180
+    secz = 1 / np.cos(float(angle) * DEG_TO_RAD)
+    X = secz - 0.0018167 * (secz - 1) - 0.002875 * (secz - 1) ** 2 - 0.0008083 * (secz - 1) ** 3
+    
+    #select extinction coeff for filter
+    k = band_selection(band)[2]
+    
+    
+    # correct magnitude for airmass-extinction
+    m = m0 + k * X
+    
+    # select 0 point flux and convert it to W/m2/nm
+    # 
+    
+    Z = band_selection(band)[3] # this is the 0 (Vega) flux density  through a filter 
+    
+    Z_units = Z*u.erg/u.s/u.cm**2/u.angstrom
+    Z_convert = (Z_units).to(u.watt / u.m**2 / u.nanometer, equivalencies=u.spectral_density(band_selection(band)[0] * u.nm))
+    
+    # Compute the flux through filter
+    f = 10 ** (-.4 * m) * Z_convert.value
+    return [f, np.round(X,2), np.round(m,2)]

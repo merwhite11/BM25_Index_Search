@@ -1,0 +1,4 @@
+How do I calculate B-V to make a Hertzsprung Russell diagram?
+
+I am reading my textbooks and a few "Astro101" websites, but I cannot find a final answer to this:
+In the $B-V$ colour index that is plotted in an H-R diagram, are $B$ and $V$ the (observed) apparent magnitudes, or should they be corrected for extinction first, i.e. with known $A_V$ and $A_B$ values?

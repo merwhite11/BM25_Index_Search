@@ -1,0 +1,21 @@
+Retrofitting a DSLR camera to a super-cheap Tasco reflector telescope
+
+I was given a 1995 vintage Tasco "302003" Newtonian telescope recently and have had some exciting success with it.  I have managed to view the Moon in beautiful detail and also had my first glimpse of Jupiter (with Enceladus Ganymede & Europa in the same shot!).
+I was able (with very considerable difficulty) to photograph both Moon and Jupiter scenes by holding my camera up to the eyepiece.  Far from ideal but it has really fired my imagination about doing more astronomical photography.
+Here's a picture of my telescope and it's accessories.  Despite spending the last 15 years in the back room of a charity shop, it's in brand new condition and all the parts are present including the tripod and all fixings!...
+
+(Blue arrows indicate places where eyepiece lenses can be inserted).
+My camera is a Nikon D40 (APS-C format, DX lens ring system).
+Is it possible to modify this telescope's eyepiece (a rack-and-pinion tube-length adjustable type) so that I can attach my camera in order to take photographs of astronomical subjects?  Photographs of the Moon would be my primary goal.
+I am happy to make severe modifications to the telescope if necessary.  But I realise that certain measurements would be absolutely critical to making good photographs possible.  I think I can make an adaptor that goes between the eyepiece socket and the camera.  But I don't know all of the parameters I will have to know to design such an adaptor.
+Problems I believe I need to solve...
+
+I think that holding the camera's central axis perfectly concentric with the eyepiece's axis is critical.
+I need some sort of Relay Lens between the secondary mirror and the camera body.
+Keeping the rack-and-pinion tube adjustment (actually a fairly sturdy mechanism) is important and would allow better focusing of the picture as the camera is not likely to have enough auto-focus range to cope with the 700mm F length.
+
+I do have a small Milling machine and most of the basic machine tools.  I have a ready supply of aluminium stock and industrial plastic stock (RG1000) that I can build an adaptor from.
+Is this project feasible?
+I'm not looking for perfect photos, but rather something that is better and more convenient than holding my cellphone camera close to the eyepiece and holding my breath! :)
+My astronomy/optics knowledge is practically zero but I'm a fairly savvy mechanical engineer and can build things to a specification.
+Thank you for reading, I look forward to your responses.

@@ -1,0 +1,16 @@
+How did Ole Christensen Romer measure the speed of light?
+
+How did Ole Christensen Rømer, who in 1676, shortly after Galileo's death, was said to have measured the speed of light as 220,000 km/s by timing the orbits of Io around Jupiter? 
+My only guess is the moon Io orbiting Jupiter is simply a clock. It pulses away with an orbital period of 42 hours and provides to the earth, 21 hours of light each orbit; this does not change. Now, as viewed from "above" we go counterclockwise around the sun, and as we move towards Jupiter, the duration of light from Io would be less than 21 hours, whereas if we are moving away from Jupiter, the duration of light from Io would be more than 21 hours. Suppose we measure the time from Io's first appearance from behind Jupiter to its reappearance and call that its observed orbital frequency $f$ as opposed to its actual orbital frequency ${f_o}$ which is 1/42 hours.
+He must have figured out the Doppler effect and this equation...
+$$f = \left( {1 + \frac{{\Delta V}}{C}} \right){f_o}
+% MathType!MTEF!2!1!+-
+% faaagCart1ev2aaaKnaaaaWenf2ys9wBH5garuavP1wzZbItLDhis9
+% wBH5garmWu51MyVXgaruWqVvNCPvMCaebbnrfifHhDYfgasaacH8sr
+% ps0lbbf9q8WrFfeuY-ribbf9v8qqaqFr0xc9pk0xbba9q8WqFfea0-
+% yr0RYxir-Jbba9q8aq0-yq-He9q8qqQ8frFve9Fve9Ff0dc9Gqpi0d
+% meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaWGMbGaeyypa0Zaae
+% WaaeaacaaIXaGaey4kaSYaaSaaaeaacqqHuoarcaWGwbaabaGaam4q
+% aaaaaiaawIcacaGLPaaacaWGMbWaaSbaaSqaaiaad+gaaeqaaaaa!3BBB!
+$$
+I hashed through the numbers myself and I got an answer of about 10 minutes more or less from 42 hours depending on which way the earth is heading with reference to Jupiter.

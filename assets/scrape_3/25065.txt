@@ -1,0 +1,7 @@
+Would you expect this planet to be hotter or colder than earth?
+
+I have a lab where given the mass of a star being $1.23$ times the math of our sun, some planets wobble of central start is $273$ days, and the velocity of 79 m/s. I found that the mass of the planet is $5.3\times 10^{27}$ kg and is approximately $.82$ AU away from its star. Here is a screen shot of my excel file:
+
+Now I am asked would we expect this planet to be hotter or colder than earth?
+I believe this question is rather silly since we have no idea the composition of the planet or other related factors to make any conclusion. From what I found is based on the mass and radius it is probably a water world, and since it is pretty close to its star I would say that it is probably hotter than earth.
+Anyways, any suggestions or thoughts on this matter would be appreciated.

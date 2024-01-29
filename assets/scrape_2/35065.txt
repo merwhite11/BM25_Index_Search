@@ -1,0 +1,3 @@
+How fast does a spacecraft have to be to enter a primordial black hole without being torn apart?
+
+If there really is a primordial black hole beyond the Kuiper belt, we can send a probe to the black hole and into it. But how fast must the probe be in order to enter the black hole without being ripped apart by spaghettification? The black hole in question has an event horizon diameter of 2-3 inches and 5-15 Earth masses so it is a tiny probe (tiny enough cameras do exist) we would have to launch. Let's say the probe is 1.5 inches broad and has a length of 2.5 inches. How fast must it be in order to not be torn apart and successfully enter the black hole?

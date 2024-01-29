@@ -1,0 +1,9 @@
+Why can't a half-illuminated planet support life at all?
+
+Here is my own translation of the Polish version of the Drake equation article in Wikipedia:
+
+(...) They must provide the right amount of heat. The smaller the star, the less heat it gives off and the closer the planet must be until it reaches a limit. After this limit, it becomes so bound to the star that only one part of it will be illuminated and the other part will remain dark and cold, which prevents the emergence of life.
+
+If I am getting the above correctly, if only half of a planet's surface is constantly illuminated and the other half remains in darkness forever, life cannot emerge and support itself on the entire planet, not even on the illuminated half.
+What factors or reasons cause the above? Until reading the quoted passage, I was more than sure that in the presented scenario life is impossible on the dark side only, whereas it can emerge and support itself on the illuminated part.
+Does this mean that (even ruling out all other factors) life could never exist on the Moon, if only because of the fact that half of it is always dark?

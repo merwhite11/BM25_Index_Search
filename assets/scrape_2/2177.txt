@@ -1,0 +1,4 @@
+Inability of Hubble to clearly resolve nearby celestial objects
+
+The Hubble space telescope performs incredibly detailed and stunning imaging of celestial bodies that are many, many light years away, and yet when it attempts to image objects within our own Solar System, such as of Pluto and Charon, the results appear out of focus and smeared. Why is this so?
+I can only guess that the objects within the Solar System have a higher relative intrinsic motion than objects light years away, and thus Hubble can't track them so precisely? Or maybe Hubble's optics are "fixed" at an "infinity point" beyond "nearby" objects? Or...?

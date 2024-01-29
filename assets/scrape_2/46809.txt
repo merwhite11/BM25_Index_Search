@@ -1,0 +1,36 @@
+Incorrect best period fit over phase-folded data
+
+I am using the astropy Lomb-Scargle periodogram here, https://docs.astropy.org/en/stable/timeseries/lombscargle.html to get the best period fit using its model() method for simulated data given in their examples. I am then plotting this fit over the phase-folded data using the pyasl.foldAt() method but the period fits are not within the range of 0 - 1 for periods above 1d?
+When the periodicity within the simulated data is set to 1d, the best period fit works perfectly as shown below; 
+But if the period within the simulated data is set to 1.2d, the best period fit is not contained within the 0 - 1 phase range even though the t_fit array given to the ls.model() method is from 0 - 1, plot shown below; 
+Below is the code I used.
+%matplotlib notebook
+
+import numpy as np
+import matplotlib.pyplot as plt
+from PyAstronomy import pyasl
+from astropy.timeseries import LombScargle
+
+# Quick benchmark of this function on a simple simulated and noisy periodic data!
+
+period = 1.2 # periodicity within the simulated data
+rand = np.random.default_rng(42)
+t = 100 * rand.random(100)
+dy = 0.1 * (1 + rand.random(100))
+y = np.sin(2 * np.pi * t * (1/period)) + dy * rand.standard_normal(100)
+
+frequency, power = LombScargle(t, y, dy).autopower()
+print('Period at max. power: {}'.format(1/frequency[np.argmax(power)]))
+
+best_frequency = frequency[np.argmax(power)]
+t_fit = np.linspace(0.0, 1.0, 1000)
+ls = LombScargle(t, y, dy)
+y_fit = ls.model(t_fit, best_frequency)
+
+phases = pyasl.foldAt(t, period=1/frequency[np.argmax(power)])
+
+plt.errorbar(phases, y, yerr=dy, fmt='.b')
+plt.plot(t_fit, y_fit)
+plt.ylabel('Measurement values')
+plt.xlabel('Time (d)')
+plt.show()

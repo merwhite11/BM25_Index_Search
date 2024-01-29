@@ -1,0 +1,13 @@
+"First gamma-ray eclipses from ‘spider’ star systems" - but have other types of gamma-ray eclipses been observed?
+
+The January 28, 2023 NASA News item NASA’s Fermi Detects First Gamma-Ray Eclipses From ‘Spider’ Star Systems begins:
+
+Scientists have discovered the first gamma-ray eclipses from a special type of binary star system using data from NASA’s Fermi Gamma-ray Space Telescope. These so-called spider systems each contain a pulsar – the superdense, rapidly rotating remains of a star that exploded in a supernova – that slowly erodes its companion.
+An international team of scientists scoured over a decade of Fermi observations to find seven spiders that undergo these eclipses, which occur when the low-mass companion star passes in front of the pulsar from our point of view. The data allowed them to calculate how the systems tilt relative to our line of sight and other information.
+
+It links to Clark et al. (2023) Neutron star mass estimates from gamma-ray eclipses in spider millisecond pulsar binaries published open access in Nature Astronomy.
+This paper indicates that gamma ray eclipses were detected in 7 out of the 49 "spider" systems examined...
+
+including the prototypical black widow PSR B1957+20.
+
+Question: Do these represent the first gamma ray eclipses ever measured happening outside the solar system of any kind, or have non-spider-related gamma ray eclipses been previously detected?

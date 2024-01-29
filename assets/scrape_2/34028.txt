@@ -1,0 +1,6 @@
+Lifespan of B-type subdwarfs
+
+According to the Extrasolar Planets Encyclopedia, the B-subdwarf Kepler-70 lost its helium envelope and became a blue-white subdwarf roughly 18.4 million years ago.
+(sources: archived encyclopedia page, also the paper "A compact system of small planets around a former red giant star")
+This has got me curious regarding the lifespan of these stars - 18.4 million years isn't that long in stellar terms! 
+Although I realise this will vary depending on e.g. mass of the star, is anything known about the length of time a B-subdwarf will remain in the subdwarf state before finally becoming a white dwarf? The information quoted above for Kepler-70 was a lot easier to find than for any other blue-white subdwarves.

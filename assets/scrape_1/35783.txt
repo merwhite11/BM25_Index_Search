@@ -1,0 +1,11 @@
+How low can the sun be seen in the sky?
+
+I'm interested in knowing how low the sun could ever get in the sky and still be seen.
+More technically: what's the minimum possible elevation of the sun at which it can still be seen above the visible horizon from a terrestrial vantage point?  And where on Earth would you go to make such an observation?
+Some clarification:
+elevation is angular distance measured from the astronomical horizon (the great circle that is 90° from the local vertical).
+For example, I imagine from a mountain top near the ocean, you might be able to view the sun at an elevation angle that is negative, below the astronomical horizon but above the visible horizon, and possibly by a decent amount.  So then I thought Mt. Everest might be the spot, but locally I'm not sure how low the visible horizon is, because the surrounding area is at a high elevation too.  So maybe I'm just looking for the highest angle possible between mountain peek and sea level, in other words, where is the lowest apparent visible horizon, but the sun may not necessarily ever rise or set in that direction.
+I also looked around for a map of local visible horizon angles (measured relative to the astronomical horizon), but couldn't find one.  I suppose such a thing could be constructed from a topographical map of the Earth, right?  Maybe this would be the best way to "solve" this if nobody already knows.
+I'm hoping the answer can ultimately be turned into a factoid of the following format (looking to fill in the unknowns in this):
+
+"From the top of mount something-or-other, looking west, the visible horizon is x° below the astronomical horizon.  From this vantage point, just before sunset, the edge of the sun could be observed to be f(x) sun diameters below eye-level."

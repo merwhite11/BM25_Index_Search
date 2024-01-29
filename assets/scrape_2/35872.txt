@@ -1,0 +1,4 @@
+Why are Cassegrain telescopes shorter than Newtonian reflecting telescopes?
+
+Many websites say this is because the effective focal length of the objective is increased by making the secondary mirror convex. This allows a Cassegrain telescope to be shorter than a similarly powered Newtonian.
+What I don't understand is that if the focal length is made longer, how come the telescope doesn't have to be made longer too? Could someone explain how the focal length is increased and how this leads to shorter telescopes?

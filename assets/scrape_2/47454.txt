@@ -1,0 +1,4 @@
+Is there any difference between tidal locking and synchronous rotation?
+
+I'm trying to understand more about orbital mechanics, and I'm encountering a few terms which I'm not sure if they are exactly the same.
+The two terms are Tidal Locking and Synchronous Rotation. To my understanding, Tidal Locking is when the period of one body orbiting another is matching the period of the body rotating around its own axis (like the earth and the moon), however, I'm not sure if Synchronous Rotation means the exact same thing.

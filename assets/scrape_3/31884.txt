@@ -1,0 +1,14 @@
+Why does the moon 'peel' away from the horizon in this photograph?
+
+The Himawari-8 geostationary weather satellite recently had a lunar intrusion into it's primary sensor (the Advance Himawari Imager, or AHI):
+
+Zooming in on the moon:
+
+I see a strange cupping (or 'peeling') of the moon away from the horizon: 
+
+My question is: what is the explanation for this 'peeling' aberration?
+Note: if your answer involves the lunar terminator, please account for the following concerns:
+
+At the time of day of the photograph, we see the Earth with ~5 degrees of longitude in night. The Earth presents approximately 17 degrees across from GEO, so the moon is $17^{\circ}/2=8.5^{\circ}$ degrees away from nadir, and so I expect the moon to have $5^{\circ}+8.5^{\circ}= 13.5^{\circ}$ of longitude in night. With barely half the moon peaking out above the Earth's horizon, the terminator is well behind the Earth.
+The cupping aberration appears equal on both edges. The Sun is in the top right corner of the picture, and so I would expect a terminator related effect 
+to be more pronounced on the bottom of the moon than the top.

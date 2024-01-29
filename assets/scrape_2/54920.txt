@@ -1,0 +1,4 @@
+What is a good resource for finding accurate apparent magnitudes stars in different filters?
+
+I am unable to find this information online, does anyone know of a database, book, or website that contains all of the B-band, V-band, I-band etc.... apparent magnitudes for each star?
+Thanks for any help

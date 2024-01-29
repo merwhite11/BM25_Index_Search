@@ -1,0 +1,11 @@
+Convert RA from hours to h:m:s
+
+I'm working on a small mount controller software in Python. From the ASCOM standard, right ascension is reported in unit of hours.
+How do I convert from hours to hours:min:sec?
+Here is my attempt in Python, using astropy. Don't know if it is correct.
+# make a coordinate object
+ coords = SkyCoord(driver.RightAscension * u.hour, driver.Declination*u.degree, frame = 'icrs')
+       
+# format to RA and DEC
+ RA_hms = coords.ra.to_string(unit=u.hourangle, sep=':',pad=True, precision=1) # format hms
+ DEC_dms = coords.dec.to_string(unit=u.degree, sep=':',pad=True, alwayssign= True,precision=1) # format dms

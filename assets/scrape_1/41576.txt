@@ -1,0 +1,6 @@
+How can Bond Albedo be greater than Geometric Albedo?
+
+Have gathered from papers like this one (*) that "Albedo is differentiated into two general types: (1) normal, reflective or geometric albedo, and (2) bond albedo". The document explained that Geometric Albedo usually is bigger than the Bond Albedo, which often just reflects two-thirds of the reflective light of Geometric Albedo.
+Wikipedia points out in this article about Bond Albedo; that Bond Albedo sometimes  can be greater than Geometric Albedo, which apparently is the case with Venus and Mars.
+Question is; How Is this possible? What is behind this phenomenon? I think Wikipedia is trying to explain it, but I have difficulty grasping it. Can it be explained in an easier way? Examples with pictures would be ideal.
+(*) "Background Reading to Albedo Investigation" (Google this document title)

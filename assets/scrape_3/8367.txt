@@ -1,0 +1,5 @@
+What is a possible software for simulating binary star systems?
+
+I would like to define both initial velocities and masses of components so that orbits may be either elliptical of hyperbolic. Is there any software to make such simulation?
+Unfortunately, Binary Star Combined Solution Package is out of date and NASA online plotter supports only circular orbits. 
+Thanks.

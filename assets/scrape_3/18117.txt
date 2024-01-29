@@ -1,0 +1,18 @@
+What (actually) defines an Aten-class near-earth asteroid?
+
+I just read in the EarthSky.org article Hours after discovery, asteroid swept by that the near earth asteroid 2016 QA2 recently passed the earth at about 85,000 km. The article says that it is a member of the Aten group of asteroids. That article links to this very cool GIF http://www.virtualtelescope.net/2016qa2_28aug2016.gif, however it's 40MB so it takes a while to load.
+Wikipedia says:
+
+Aten asteroids are defined by having a semi-major axis of less than one astronomical unit (AU), the distance from the Earth to the Sun. They also have an aphelion (furthest distance from the Sun) greater than 0.983 AU${}^2$.
+
+${}^2$http://neo.jpl.nasa.gov/neo/groups.html
+That link shows the following table and drawings. The text says:
+
+NEAs are divided into groups (Aten, Apollo, Amor) according to their perihelion distance (q), aphelion distance (Q) and their semi-major axes (a).
+
+Are $q$ and $Q$ really perihelion and aphelion respectively? The table says Aten asteroids have $Q>0.983$ but in the drawing for Aten asteroids it says $Aphelion<1.0167$. I noticed these values could be reciprocals, so there may be something more going on here. But at least on the surface there seems to be some contradiction.
+Could someone confirm these definitions with an external source - and help me understand the basis for these limits that deviate from 1 AU by only  +/- 1.7%?
+
+
+
+The image below is from this explanation: Near Earth Asteroid / NEO Classifications Based on Locations. It might be helpful for discussion.

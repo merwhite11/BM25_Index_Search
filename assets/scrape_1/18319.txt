@@ -1,0 +1,5 @@
+How far apart are stars in Terzan 5 cluster?
+
+I've just learned about the Terzan 5 globular cluster, which according to Wikipedia has one of the highest star densities in our Galaxy - $10^6\ M_\odot/\mathrm{pc}^3$.
+Problem is, I've no idea how to interpret this number. 
+So, the question is, what are the distances between stars in that cluster on average?

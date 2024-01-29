@@ -1,0 +1,9 @@
+Why is the H-alpha line slightly shorter in wavelength (656.28 nm) in air than in vacuum (656.46 nm)? Shouldn't it be longer?
+
+Perhaps this is a question better suited for Physics SE, but since the H-alpha line is so important in astronomy, I'm posting this here....
+I would, naively, assume that wavelengths would be longer, not shorter, when traveling through media (other than the vacuum), but perhaps I am misunderstanding...
+Are photons released by hydrogen atoms more energetic (shorter wavelength) when first emitted in a medium of air?
+In other words, the light is not shortened (or lengthened) when traveling through a particular medium, like air, but is different to begin with?
+Why would light be different in wavelength when first emitted in different media?
+Is light sometimes weaker (longer wavelength) when first emitted by atoms or molecules in a non-vacuum?
+I am befuddled....

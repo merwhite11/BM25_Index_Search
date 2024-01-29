@@ -1,0 +1,15 @@
+How long does it take for a white dwarf to cool to a black dwarf?
+
+I was reading on white dwarfs, and I came across this sentence—
+
+Without energy sources, the white dwarf cools to a black dwarf in a few billion years.[1]
+
+However, when I looked into the Wikipedia page on White dwarf, it says
+
+Because the length of time it takes for a white dwarf to reach this state is calculated to be longer than the current age of the universe (approximately 13.8 billion years), it is thought that no black dwarfs yet exist.
+
+So which is true?
+And what is the proper definition of a black dwarf?
+
+References:
+[1] Introductory Astronomy and Astrophysics. Zellik, M. Gregory, S. 4th edition. Brooks/Cole. 1998

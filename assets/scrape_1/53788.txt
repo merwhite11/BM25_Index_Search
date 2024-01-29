@@ -1,0 +1,5 @@
+What are examples of spatio-temporal data sets such that subjects are observed only once and are, thus, indexed in time only once?
+
+What are examples of spatio-temporal data sets such that subjects are observed only once and are, thus, indexed in time only once?
+Here's a hypothetical example in the ecology realm: consider a tree's first year of life as the subject of interest. Each tree can only have one first year of life. Additionally, trees cannot move in space. So, for each subject, we can only have one observation, indexed in space and time.
+What are some astronomy data sets that you have come across that are similar to the format of this data set?

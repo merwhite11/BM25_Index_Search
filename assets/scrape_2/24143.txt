@@ -1,0 +1,5 @@
+Stellar electromagnetic signatures
+
+By using only the electromagnetic signature of a star, could a star be distinguished with reliable accuracy from any other star?
+To elaborate a little, say we have a collection of about 200,000 stars. By using EM spectrum alone (and any means of analysis, such as spectral analysis), and by tagging each star with its corresponding EM signature, could there be similarities too close to fail a distinction between any two or more stars?  
+Now, of course, I know that such a thing is possible. I'm not asking whether it is possible. I just want to know the odds of such a lack of distinction, considering all the factors of stellar evolution. It's either in the ballpark or not.

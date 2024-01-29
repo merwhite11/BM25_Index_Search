@@ -1,0 +1,4 @@
+How can I find out which known stars lie within or close to M8
+
+I'm looking for a way to find stars within a certain region of space, the Lagoona Nebula in this case, based on what we currently know. Are there some databases that allow you to make such queries?
+Please note that I'm not looking for stars that can be seen as being near M8 from earth, but for a list of known stars that are thought to actually be near or part of M8 itself.

@@ -1,0 +1,5 @@
+Can Drizzle Integration increase resolution beyond theoretical resolution of telescope?
+
+So I was wondering, if drizzle integration actually increases details in your image if the drizzled image results in higher resolution in terms of arcseconds / pixel than the telescope would allow (due to the uncertainty principle the telescope's resolving capability is dependent on its diameter, more commonly referred to as the diffraction limit 1, 2 )
+In my case I have around 0.52" per px on my main camera and my GSO RC8" allows for around 0.5" resolution max due to the uncertainty principle. Drizzling an image would then give me 0.26" per px on the drizzled image when increasing width and height of the image by factor 2, which is higher resolving power than what the telescope would actually be able to do.
+Apart from sharper and more defined stars when drizzle integrating, will drizzle integration actually increase my resolving capability?

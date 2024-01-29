@@ -1,0 +1,8 @@
+Distance of extra-galactic Classical Cepheids
+
+There have been many questions and answers about finding the distance of a star from the earth. But as I did some research on the net, I found that we have specific approaches for finding the distances of different types of stars. 
+So, my question is more specific now. 
+How to determine how far a Classical Cepheid is?
+What if the Cepheid is extra-galactic? Is there a good method to finding the solution?
+Can anybody suggest how to make a start at deriving a relation at finding the distance of a Cepheid from us?
+There is this Period-Luminosity-Color relation. Can anyone at least enlist the journal articles where I can make a study to get closer to finding the answer to my question?

@@ -1,0 +1,4 @@
+Can you test solar eclipse glasses with a remote control?
+
+By putting solar eclipse glasses directly between a remote control IR emitter and device receiver, could some unsafe glasses be detected? My guess is most fake glasses are just blocking visible light at best, while safe ones should block the IR signal as well. It would not guarantee they are 100% safe, but it might be able to detect bad ones.
+I know to check for the ISO logo, cert number, and buy from a reputable vendor recommenced by the American Astronomical Society (which I have). It would still be nice to double check pairs of glasses before giving them out to friends and family.

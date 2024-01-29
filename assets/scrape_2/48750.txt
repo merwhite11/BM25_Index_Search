@@ -1,0 +1,4 @@
+What are the applications of cross matching astronomical catalogues?
+
+Why do we cross match astronomical catalogues at different wavelengths? What information can we determine from combining the information from two catalogues?
+One of the applications I read was creating a catalogue of Active Galactic Nuclei (AGNs) by searching for optical counterparts to objects appearing in radio catalogues. However I'm not sure if this information is correct. Are there any other such similar applications of cross matching?

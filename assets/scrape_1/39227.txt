@@ -1,0 +1,3 @@
+Determining needed exposure time given SNR
+
+I need help on how to estimate an exposure time for a desirable signal to noise ratio (SNR). For example, given the magnitude and a desired SNR of a star we want to achieve, how long should the exposure time be? We may assume that the noise is only due to counting statistics, and ignore dark and flat noise. Any useful function to make this estimate?

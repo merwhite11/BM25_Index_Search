@@ -1,0 +1,8 @@
+Do parsecs scale as an inverse proportion with parallax angle?
+
+high school student here. 
+In astronomy my teacher says that if the parsec angle ($\alpha$) of a star is 1/50 arcsecond, then that star is 50 parsecs away.
+I'm not really convinced - calculation of distances from parsecs requires using the formula $$\text{distance in AU}=\frac{1 AU}{\tan(\alpha)}.$$
+This means that distance is inversely proportional to $tan{\alpha}$. Distance is not inversely proportional to $\alpha$.
+I know you can use a small angle approximation, but that feels to me as very dodgy - you can get fairly large discrepancies in the calculated distance depending on whether you use $tan(\alpha)$ or $\alpha$ to find the distance.
+So, what is the best practice when calculating distances in parsecs? Is my teacher's approximation acceptable in "real life" astronomy?

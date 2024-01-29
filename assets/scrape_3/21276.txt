@@ -1,0 +1,5 @@
+Why do type Ia supernovas produce more iron than type II
+
+My course book on astronomy states the following.
+Older stars seem have higher oxygen abundances than iron. Explanation is that back in the days when these older stars were being formed type II supernova's were common, while type Ia weren't. So later, when the type Ia was becoming more common, the - now younger - stars were formed with higher iron abundances.
+Why are type Ia supernova's better for iron enrichment than type II, and were these type II supernova's in any way better for higher oxygen abundances - or just less good at producing iron (and why)?

@@ -1,0 +1,8 @@
+Vectorial construction of tidal forces - or why is it centripetal at low tide
+
+I am seeking to understand why the tidal force is pushing towards the center of the earth (centripetal), at a point that is making with the center of the earth a 90º angle to the moon-earth axis.
+This is very well seen in the common picture (from the Wikipedia "Tidal force" article):
+
+I remember a vectorial construction of that from the French edition of Scientific American ("Pour la Science"), in their August 2001 issue. But I lost it, and it is now behind a pay wall:
+https://www.pourlascience.fr/sd/geosciences/les-caprices-des-marees-4441.php
+I used to have the physics/mathematical background to understand that, and perhaps I could dig it out of the decade-old sediments of my memory. The vectorial construction looked interesting to me as slightly easier to explain to people around than the differential equations.

@@ -1,0 +1,5 @@
+Name and language of symbol in astronomy book
+
+I've been working on a programming project involving Peter Duffett-Smith's Practical Astronomy With Your Calculator (3rd Ed.), which has a large number of mathematical/astronomical formulas in it. There's a part at the end of the book for symbols and abbreviations, which contains this:
+
+After doing some Google-fu, I was unable to find the name of the symbol. Would anyone smarter than me (which should be quite a few of you... heck, quite a lot) know what this is? Hopefully there's Unicode for it...

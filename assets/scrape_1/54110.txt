@@ -1,0 +1,10 @@
+What is the difference between SPICE kernels and JPL Development Ephemerides? Is a DE just a bunch of kernels on a string?
+
+My imposter syndrome is acting up again after I posted several comments under:
+
+What is the mathematics needed for understanding DE440 and translating it into xyz coordinates?
+
+Now I feel like I don't know anything. So I'd like to ask:
+Question: What is the difference between SPICE kernels and JPL Development Ephemerides? Is a DE just a bunch of kernels on a string?
+Maybe it has a table of contents as well?
+Answering my question requires knowing the internal anatomy of both. I am not asking for differences in how they are used - no duck typing answers please! Let's go under the hood.

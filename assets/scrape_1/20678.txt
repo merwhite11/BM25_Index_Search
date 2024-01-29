@@ -1,0 +1,9 @@
+Finding the lens diameter of a telescope by magnitude
+
+
+We have a telescope that can see stars with about +14 magnitude. how to find its lens (or mirror) diameter? (I mean the $D$ in formula $\theta = 1.22 \lambda / D $)
+
+I don't know whether I can assume that the temperature of star is equal to temperature of the sun or not. but if we think that they are equal we get this:
+$m_{\mathrm{sun}} - m_{\mathrm{star}} = -2.5 \log_{10} (\frac{b_{\mathrm{sun}}}{b_{\mathrm{star}}}) = -2.5 \log (\frac{\sigma t^4 \times 4 \pi R_{\mathrm{sun}}^2 /(4 \pi r^2) }{\sigma t^4 \times 4\pi R_{\mathrm{star}}^2 / (4\pi r_{\mathrm{star}}^2)})$ if we solve this with what we know about magnitude of sun (-26.83 or something close to it between -25 to -27) and another things like radii we get:
+($R/r = 3.16605 \times 10^{-11} \mathrm{rad} = \tan \theta/2 = \theta/2$ and from that and formula
+$\theta = 1.22 \lambda / D $ and $\lambda = 550 nm$ we get something like D = $10596.8 \mathrm{m}$. which is very big for a telescope. what's the problem? how to solve this? Is this answer correct?

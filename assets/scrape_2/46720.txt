@@ -1,0 +1,10 @@
+Why is the number density of neutrons much larger in neutron stars?
+
+There is a particular argument given in Concepts In Thermal Physics by Blundell that I'm not able to understand:
+
+A free neutron can decay with a mean life of about $15$ minutes but in stars, we have to consider the equilibrium
+$$n \rightleftharpoons p^++e^-+\nu_e$$
+Because the electrons are relativistic, their Fermi energy is proportional to $p_F\propto n^{1/3}$, while the neutrons are non-relativistic and so their Fermi energy is proportional to $p^2_F\propto n^{2/3}$. Thus at high density, an equilibrium can be established in the reaction.
+This implies that the Fermi momentum of the electrons is much smaller than that of neutrons and hence the number density of electrons will be much smaller than that of the neutrons. This moves the equilibrium of the reaction to the left side.
+
+First, why do we need high density for equilibrium to be established? Once this is true, I think the other things are quite easy to see.

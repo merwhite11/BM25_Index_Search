@@ -1,0 +1,5 @@
+How does JWST position itself to see and resolve an exact target?
+
+Let's say the James Webb Space Telescope wants to move from observing the Andromeda galaxy millions of light years away to looking at the Trappist-1e planet some dozens of light years away, what actions are need to change targets and find and resolve that target?
+I think I read it has jet propulsion for movement, but does it have a different system for fine movement? It seems like jetting around would be extremely finicky.
+I imagine Hubble has to do something similar but I never heard how that works either.

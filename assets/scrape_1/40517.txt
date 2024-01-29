@@ -1,0 +1,11 @@
+Astronomical resources helpful for creating an animation in the browser of the movements of an astronomical object in the sky?
+
+Background
+I would like to create a website that shows an animation of the path of Sagittarius A* (or any other object in space) during one day for a specific location. So that the user can see where and when Sagittarius A* is rising, what path across the sky it takes and where and when it is setting.
+Similar to this:
+
+
+
+I know the animation in the YouTube video was made with "Stellarium Web" and I could make something like that with Stellarium for Sagittarius A*. But I would like to have it interactive on a website where the user only has to enter his current location and then would see the animation of the path for his location.
+Question
+Where can I find astronomical resources for getting the data necessary to make such a plot in a way useful for a website? It would have to be something I could call from, or incorporate into a website, not a stand-alone program.

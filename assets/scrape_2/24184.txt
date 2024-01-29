@@ -1,0 +1,14 @@
+How big is the Andromeda galaxy in the night sky?
+
+If divide the distance to the sun by its diameter, I get the number 107.517
+Likewise, if divide the distance to the moon by its diameter, I get the number 110.650
+Both numbers are quite similar which means both objects look roughly the same size in the sky.
+Now, I'll do the same calculation for the Andromeda galaxy.
+Distance: 2,537,000 light years
+Diameter: 220,000 light years
+Quotient: 11.531
+I get a number that's roughly 1/10th that of the moon.
+This means that Andromeda should look almost 10 times bigger than the moon or the sun.
+Is this calculation correct?
+Does the Andromeda galaxy really look 10 times bigger than the moon in the night sky?
+If it looks so big, why is it so difficult to see with the naked eye?

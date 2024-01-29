@@ -1,0 +1,5 @@
+2 points on Earth’s surface, 1 second apart in time
+
+I’m hoping to find a method (probably some modeling software?) that would allow me to find pairs of locations on the Earth’s surface that occupy the same point in space relative to the sun, one second apart in time.
+It would be best if this method is searchable by choosing a location and seeing at what times it would cross paths with another location one second later (with the sun as the frame of reference).
+Any advice is greatly appreciated!

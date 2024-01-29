@@ -1,0 +1,7 @@
+Is the Moon not in hydrostatic equilibrium?
+
+Given the recently-announced observations from VLT/SPHERE that 10 Hygiea may be sufficiently round to qualify as the second main-belt dwarf planet, I found myself perusing Wikipedia's  Hydrostatic Equilibrium article, and came across the following passage, which currently has no linked references:
+
+The smallest body confirmed to be in hydrostatic equilibrium is the dwarf planet Ceres, which is icy, at 945 km, whereas the largest body known to not be in hydrostatic equilibrium is the Moon, which is rocky, at 3,474 km.
+
+I'd long assumed that the Moon was in hydrostatic equilibrium, given its spherical-to-the eye shape and ranking among the 20 largest solar system objects. If the quoted statement is true, why isn't it in hydrostatic equilibrium?

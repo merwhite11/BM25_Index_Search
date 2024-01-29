@@ -1,0 +1,6 @@
+Converting Jy/beam to Jy?
+
+Maybe its a dumb question, but to convert Jy/beam to Jy, I just have to multiply it by the beam size in sr right?
+Being $\Omega$ the beam size: 
+$\Omega = \frac{\pi \theta_{maj} ~~ \theta_{min}}{4 \ln{2}}$
+Jy/beam $\cdot \ \Omega$ = Jy   ?

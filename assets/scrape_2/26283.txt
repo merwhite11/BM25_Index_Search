@@ -1,0 +1,3 @@
+Redshifting restframe SED
+
+I have a template spectral energy distribution (SED) at z=0. I want to shift the template SED to an arbitrary redshift (z>0), how to do this in python?

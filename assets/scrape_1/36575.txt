@@ -1,0 +1,18 @@
+Can the Sun contain degenerate matter?
+
+Degenerate matter (neutronium) is hypothesized to be very dense and, at a certain amount, unstable - in the sense of collapsing on itself and causing fusion. The result would be a massive fusion detonation. Such a detonation could cause the Sun to lose its photosphere and cook the inner Solar System with a wave of radiation. This event is described enjoyably in Robert Sawyer’s book, "The Oppenheimer Alternative". The discovery of the neutron core, however, is made by identifying a transient rise in products of the CNO fusion cycle which is hypothesized to require 20 million Kelvin, whereas the Sun’s core temperature is ‘only’ 15 million Kelvin. These fusion products are detected by solar spectroscopy.
+Can such a neutron core exist? If it did exist, how could the by products of the CNO cycle be identified before the actual explosion? I mean, if the neutronium degenerates, fuses, and raises the Sun's temperature to allow CNO fusion, then isn't the explosion going to happen before any of the photons from the explosion have time to heat the Sun up enough to make CNO products detectable in the spectra?
+EDIT: Fortunately there are many people here who are smarter than me and still kind enough to show it nicely. I will try to clarify the facts of the novel without spoilers (Rather like describing the phenomena of Red Matter in Star Trek (2009) without spoiling the plot)
+
+Edward Teller presents three spectra of the sun taken in 1929,1938 and 1945 at a colloquium in Los Alamos
+Fermi remarks that the second spectrum is not of our sun but of an F class star because of the strong carbon absorption lines
+Teller infers that something happened to our sun around 1938 to heat it up a little to spark off C-N-O fusion
+Oppenheimer relates von Neumann's weather data that the Earth was indeed statistically warmer during that 'period'. He goes on to say that the problem is not with the spectrograph plates from Bethe nor the math done by Teller. Rather, Oppenheimer says that the sun is indeed having a 'problem'
+Oppenheimer recalls publications from Zwicky and Landau that hypothesized a neutron core to our sun.
+Oppenheimer recalls a paper he wrote with Robert Serber that refuted Landau's work with calculations that a neutron core greater than 0.1 solar masses would be unstable.
+Neutron core instability would manifest as a hotter sun
+Oppenheimer starts to say that such instability is transient and Teller interrupts him to blurt out that the unstable neutronium would be ejected from the sun
+Teller goes on to say that a neutron core would be formed by an implosion, then compares it to the process that happens in the atomic bomb,FatMan, where an explosive array is used to implode a plutonium core. The inevitable result he states is an explosion (It is unclear if he means fission or perhaps his own demon, fusion)
+Hans Bethe then calculates that based on the expected size of a neutron core, the known size of the sun, and the opacity of the sun that the outwardly exploding degenerate matter would hit the photosphere in 90 years.
+
+At this point, I will let the other really knowledgeable people here comment on these points and their veracity. However, I am still haunted by the idea that a small really heavy object (microscopic black hole, white dwarf, etc) could be captured by our sun and then precipitate instability.

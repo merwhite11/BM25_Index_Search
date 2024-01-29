@@ -1,0 +1,3 @@
+Is there an English translation of the Parisian Alfonsine tables
+
+I'm interested in the Alfonsine tables published in Paris in the 1400s. I know there is an English translation of what survived of earlier Alfonsine tables from Castile, but that's not what I'm interested in. If you know of software that implements the algorithms implied by the table, that would be good too.

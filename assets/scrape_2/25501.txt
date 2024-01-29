@@ -1,0 +1,5 @@
+Does Hawking radiation in fact bring mass into the universe?
+
+As I understand virtual particles pairs, e.g. electron and positron spontaneously pop into existence for tiny period of time, then they annihilate.
+When virtual electron and virtual positron annihilate we should see two photons emitted to opposite directions, right? If so, shouldn't we detect photons appearing from vacuum for every such pair?
+Also, when a pair of virtual particles pops near event horizon of a black hole one particle may be captured by the black hole, while the other escapes it. Both particles have mass and energy. Thus caught particle brings the black hole its mass. Then how the black hole loses mass through Hawking radiation? Shouldn't it gain mass instead?

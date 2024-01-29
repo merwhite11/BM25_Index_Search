@@ -1,0 +1,12 @@
+Measures for the degeneracy from protons?
+
+Come to think of it, the only things we hear about degeneracy is neutron and electron.
+I made a generalization:
+
+White Dwarf: Supported by electron degeneracy.
+Neutron Star: Supported by neutron degeneracy and nuclear forces, and sometimes centrifugal force.
+Quark Star: Most likely supported by quark degeneracy.
+
+Now, we can see that there is no mention of proton degeneracy. 
+A quick search lead to the Wikipedia subsection Degenerate matter; Proton degeneracy, and the answer that yes, there is proton degeneracy, but is much less effective than other forms of degenerate matter.
+My question: What is the force exerted by degenerate protons, and what equation is it modeled by?

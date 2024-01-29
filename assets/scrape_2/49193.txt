@@ -1,0 +1,40 @@
+Azimuth angle and elevation angle of a heliostat mirror
+
+for the control of a heliostat I have a program for the calculation of azimuth and elevation.
+Now I am still missing the calculation of azimuth angle and elevation angle for setting the mirror. While searching for examples, I discovered this post here.
+https://astronomy.stackexchange.com/a/43318/46036
+My prototype is located in the northern hemisphere and is aligned in north-south direction.
+In the rest position, the mirror points to the south (azimuth 90°, elevation 0°).
+The target is 55° southwest and 30° above the mirror horizon.
+Can you tell me with what calculations I can determine azimuth angle and elevation angle of the mirror?
+Many thanks in advance!
+Itsme
+enter image description here
+
+
+Miller,
+thank you very much. Your answer helped me a lot to realize my mistake. I had to remove a servo from the prototype that was a solar tracker and replace it with a stepper motor. Due to carelessness, I positioned the angle sensor incorrectly. Please excuse my incorrect description of the angle position with which I caused corrections of the calculation. After the correct positioning of the angle sensor it now looks like this.
+My prototype is located in the northern hemisphere and is aligned in north-south direction.
+In the rest position the mirror points to the south (azimuth 180°, elevation 0°).
+The target is 55° southwest and 30° above the mirror horizon.
+Now it should be possible with the example from the contribution
+https://astronomy.stackexchange.com/a/43318/46036
+it should be possible to implement the correct calculation.
+Is the following calculation correct?
+mirrorAz = 55° + (SunAz - 55°) / 2
+mirrorAlt = 30° + (SunAlt - 30°) / 2
+Added 04/27/2022
+The azimuth axis currently has the following orientation.
+North = 0°
+East = 90°
+South = 180°
+West = 270°
+At my location it was very cloudy yesterday. In the short cloud gaps I could test the calculations in the afternoon.
+At that time the SunAz = 213.51° and the SunAlt = 50.18°. These values correspond to the NOAA table.
+mirrorAz = 55° + (213,51° - 55°) / 2 = 134,26°
+mirrorAlt = 30° + (50,18° - 30°) / 2 = 40,09°
+The mirror reflection mirrorAlt reached 30° relatively accurately but mirrorAz is far off.
+The value of mirrorAz should actually be about 226°.
+How can this large mirrorAz difference occur?
+With best regards
+Itsme

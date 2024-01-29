@@ -1,0 +1,6 @@
+What effect does stellar granulation to have on a chemical analysis of a star's spectrum?
+
+The spectrum from stellar granules will obviously be for hotter gas, while the spectrum from the lanes between them will be for cooler gas.
+
+Does this "average out" so that an average temperature distribution can be used for a metallicity analysis?
+Will the spectroscopic effects be the same for all lines?

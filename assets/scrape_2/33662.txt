@@ -1,0 +1,18 @@
+ra for sun vs stars
+
+There is formula for stars sideral time: 
+$$ra - \arccos(-\tan(dec)*\tan(lat)).$$
+where $ra$ - is right of ascension at the vernal equinox.
+$lat$ = latitude
+$dec$ = declination
+Is it applicable for the sun with 0 $ra$ and 0 $decl$? If not, why not?
+I want to use Need Simple equation for Rise, Transit, and Set time to get setting time and rising time of a star to code. 
+for(int m=1;m<100;m++){
+ts =2*M_PI*m+ (ra - acos(-tan(dec)*tan(lat))); // angle on each day iterating m
+d=(ts-4.894961212735792 - longitude)/(6.30038809898489);
+printf("%f since midnight", (d-0.5)/24); // d - 0.5 to handle midnight
+}
+
+
+I am not sure if my iteration is ok
+d - 0.5

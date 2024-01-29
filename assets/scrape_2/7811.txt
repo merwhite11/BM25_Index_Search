@@ -1,0 +1,10 @@
+Why does this graph for sunlight intensity on land has a steeper slope during sunrise as compared to sunset?
+
+I got this image while checking weather data for a city in North India using  Mathematica's Wolfram Alpha query 
+
+I noticed one feature in the graph which i could not explain .
+Why does the encircled part 'A' which denotes  sunrise has slightly higher slope as compared to encircled part 'B' which denotes sunset ! 
+I also checked the graph for summer month and the pattern was exactly opposite 
+Summer Month 
+
+Am i interpreting the data wrong or is it so that sun achieves its highest intensity during the day faster in winter months than in summers ? What could be the reason behind this ?

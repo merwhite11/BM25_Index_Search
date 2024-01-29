@@ -1,0 +1,3 @@
+What does the opacity of a molecular transition mean?
+
+In particular, what does it mean when a line (e.g, emission line in stellar wind) is optically thick or thin. I know what an optically think/thick medium is, but how does this concept compare to optically thick/thin line.

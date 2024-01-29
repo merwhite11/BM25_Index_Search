@@ -1,0 +1,22 @@
+Sun right ascension and declination at date with different values on different calculators and also with my implementation
+
+I'm reading the book "Practical Astronomy with your Calculator or Spreadsheet 4th Edition" implementing its formulas with C++.
+Now, I have implemented formula 47 "Calculating orbits more precisely".
+I get, with my implementation, that the right ascension and declination of the Sun on Greenwich date 10 March 1986 at 0 h UT is:
+
+right ascension: 23h 20m 1.73s = 350.007226656 = 23.333815110378847
+declination: -04º 18' 9.83" = -4.3027310799565921
+
+I have checked it with two calculators:
+In the Sun Ephemeris Calculator the values are:
+
+right ascension: 23h 19m 59.56s = 349.9981665°
+declination: -04° 18' 25.97" = -4.307214°
+
+And in the Sun & Moon Position Calculator, the values are:
+
+right ascension: 23h 20m 1.6s = 350.007°
+declination: -04° 18' 10.8" = -4.303
+
+All of them are different.
+Do I have to be worried about it?

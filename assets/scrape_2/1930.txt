@@ -1,0 +1,14 @@
+Is Earth's 1g solid surface gravity unusually high for exoplanets?
+
+The surface gravities of the Sun’s planets are all close to 1g, 0.38-2.53 (about a factor of e, by chance). The cloud-top gravity of the gas giants is not too interesting here, but I suppose that the gravity on their solid surfaces (if any) does not tend to be higher. So called super-Earth exoplanets seem likely to generally accumulate light gas atmospheres, which decreases their expected solid surface gravity relative to their size as measured during for example transits (I suppose so anyway).
+Are there good reasons to expect that in the zoo of planets in the universe, our Earth scores high in the surface gravity top-list? That it is unusual with solid real estate to stand on which has substantially (as in a factor of a few tenths) greater gravity than we have here?
+Surface gravities from Wikipedia:
+
+Mercury  0.38
+Venus    0.90
+Earth    1.00
+Mars     0.38
+Jupiter  2.53
+Saturn   1.07
+Uranus   0.89
+Neptune  1.14

@@ -1,0 +1,11 @@
+What methods exist to calculate the ellipticity of galaxies
+
+What methods exist to calculate the ellipticity of galaxies and what are their drawbacks? I have asked this question about ellipticity in the SDSS but I want to know about general methods for cases where I have just an image of a galaxy.
+I do so far know these methods:
+
+ellipticity from stoke parameters or the flux-weighted second moment as described here. 
+from adaptive moments as described here (which would allow me to do shear calibration).
+fit an ellipse on a particular isophote as decribed here.
+
+My question is whether there are further methods I am not aware of. Does there also exist a method when I fit an ellipse to all isophotes? And how would I calculate the 'average' from it (such that the spherical center does not contribute to much)?
+I would like to learn about the pro and cons of each method. I am especially interessted in methods that get close to what people would estimate by eye. I would also be glad to hear about references (textbooks or papers) for the different methods.

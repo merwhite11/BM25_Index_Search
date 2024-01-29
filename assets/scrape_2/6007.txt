@@ -1,0 +1,10 @@
+How can the Advanced Composition Explorer (ACE) warn of incoming solar storms?
+
+How can the Advanced Composition Explorer (ACE) warn of incoming solar storms when is is invested with radiation?
+Discovery.com article Solar Storm Warning Satellite on Last Legs states that:
+
+Until the sun's free-flying and highly energetic outbursts, known as
+  coronal mass ejections, hit the ACE spacecraft, forecasters don't know
+  the orientation of their embedded magnetic fields.
+
+I read that it can give 15 minutes in advance warning to Earth of the presence of an incoming solar storm. However to do that, it sends a radio signal which goes at the same speed of the solar storm so it will presumably take 15 minutes as well?

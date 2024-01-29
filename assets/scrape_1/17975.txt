@@ -1,0 +1,6 @@
+How many science instruments can be used in parallel with the Hubble Space Telescope?
+
+The Hubble Space Telescope offers a parallel obervation mode. Observing programmes such as CANDELS and CLASH use WFC3 and ACS in parallel fields. These are also the only instruments of which I have heard that they are being used in parallel. Here are my questions:
+Is it possible to observe with more than two instruments in parallel? If so, what is the limit, and why?
+Why aren't all observations done with as many instruments as possible turned on?  Granted, a lot of the data would be useless / difficult to analyze (like spectra of a random patch of sky), but on the other hand it might lead to serendipitous discoveries. HST won't last forever, so why not get the most use possible out of it?
+Note that this is about the science instruments - I assume the guidance sensors will be working alongside the others anyway. (Or is that wrong?)

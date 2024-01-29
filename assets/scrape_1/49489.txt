@@ -1,0 +1,6 @@
+How can I calculate an orbital elliptic trajectory from the velocity vector?
+
+I have been struggling for a few days with this.
+I know just my distance from gravity origin, gravity source mass and my actual velocity vector on the orbit.
+Can I calculate whole trajectory with this? Is it enough to know just these two vectors?
+I need to calculate the major and minor axis and eccentricity. It is for small satellites orbiting the Earth.

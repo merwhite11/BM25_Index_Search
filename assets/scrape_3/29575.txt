@@ -1,0 +1,19 @@
+Rendering asteroid orientation as seen from Earth
+
+I am writing a program to render an asteroid as seen from various parts of the solar system.  My goal is to roughly reproduce the image of Cacus according to information on its DAMIT detail page.  
+Here is my approach:
+
+Create a solar system at JD0=2443568.0.  The axes of the visualization are arranged according to the ecliptic with positive X axis in the direction of the vernal equinox and other axes according to the right-hand rule.  Earth is positioned at t=JD0.  (image)
+Place the asteroid at (0, 0, 0) and begin to rotate the object according to the matrix multiplication described by the Description page and Kaasalainen & Torppa 2001:
+
+φ0=0 and t=JD0, so there is no initial Z axis rotation
+Latitude β is -63, so rotate 90 - (-63) = 153 degrees on the Y axis (image)
+Longitude λ is 251, so rotate the object 251 degrees anticlockwise around the Z axis of the ecliptic (image)
+
+Using ephemeris from the NASA/JPL Small Body Database, move Cacus to its position in orbit at JD0. (image)
+Move the camera to Earth's position at JD0 and point it at the asteroid. (image)
+
+My final rendering does not match the projection from DAMIT.  I understand that there are factors like light-time correction that I'm not including, but it looks completely different.  
+What is wrong with my approach to rotating the asteroid on its spin axis?
+
+(The work-in-progress visualization is online here)

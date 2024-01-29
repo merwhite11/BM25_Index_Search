@@ -1,0 +1,19 @@
+Best way to procedurally generate an orbit given mass and eccentricity
+
+As stated here, I've badly expressed my problem and have made what we call a XY problem (the question was well answered nonetheless) so I restate the question. Sorry for the inconvenience
+I have a 2D orbit simulator using Euler-Cromer method for now;
+What I'm trying to do is to generate a central body with a given mass
+and a body orbiting this body with the orbit having:
+
+a procedurally generated eccentricity ranged in $\mathbf{0≤e<1}$
+a procedurally generated semi-major axis
+
+What I'm trying to achieve is to get the initial velocity for the simulator to make any orbit that correspond this mass, eccentricity and semi-major axis - no matter the plane of the orbit nor direction. For simplification, let's state everything appends on the same plane and goes clockwise.
+So far, thanks to @ConnorGarcia 's answer, I may guess that I can:
+
+use the eccentricity to find $\mathbf{c}$ - the distance between the focal and the center of the ellipse - like that: $\mathbf{c = a \cdot e}$
+place the body at any random distance to the orbited body equal to the distance between one focal and apogee using $\mathbf{a + c}$
+use the vis-viva equation to have speed, and
+set velocity vector using speed as magnitude and making its direction perpendicular to the semi-major axis.
+
+Does it feels right? If I was building this generator in 3D, should I just have to add the plane to make it correct?

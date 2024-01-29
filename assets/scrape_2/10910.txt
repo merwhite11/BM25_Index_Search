@@ -1,0 +1,5 @@
+How close are we to be able to detect and measure gravitational lensing inside the milky way?
+
+Gravitational lensing takes advantage of statistically uniform distributions of background objects in order to infer a credible map of dark matter concentrations that isn't too noisy. If there are too many background objects and is not clear there is an uniform pattern of distribution that one can compensate numerically, then the noise of the measurement makes the reading essentially worthless
+So, I'm curious if there is any research attempt to try to pull this kind of local measurement of lensing in the "backyard". If one takes the Milky Way's galactic rotation curve, and compares it on what's expected given baryonic matter, one would be able to have a radial distribution of expected dark matter in order to compare with the results of lensing
+But is that kind of lensing measurement something that is possible today?

@@ -1,0 +1,11 @@
+How does this strategy for chasing the sunset work?
+
+In Randall Munroe's What If? blog he tackles this question:
+
+What is the longest possible sunset you can experience while driving, assuming we are obeying the speed limit and driving on paved roads?
+
+His final answer is the following, which allows you to experience about a 95 minute sunset. But the diagram isn't the most self-evident. What does the diagram mean, and how does the strategy work?
+
+If you're in northern Norway on a day when the Sun just barely sets and then rises again, the terminator (day-night line) moves across the land in this pattern:
+
+  To get a long sunset, the strategy is simple: Wait for the date when the terminator will just barely reach your position. Sit in your car until the terminator reaches you, drive north to stay a little ahead of it for as long as you can (depending on the local road layout), then u-turn and drive back south fast enough that you can get past it to the safety of darkness.

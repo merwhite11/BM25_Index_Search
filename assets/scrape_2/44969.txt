@@ -1,0 +1,8 @@
+In which town is the length of the day bigger on 23 of September?
+
+I'm trying to solve this task:
+
+Moscow and Kazan are located on the same parallel. In which of them the length of the day is bigger on 23 of September?
+
+In Kazan the sun will rise earlier, because it's more on the East than Moscow and Earth spins to the East. The difference between the sunrise time is 46 minutes (I've calculated it from the difference of their longitude). My idea was that during these 46 minutes after rising in Kazan the Sun is going to move on the ecliptic a little, thus starting an astronomical autumn and because of that in Moscow the day should be a little shorter (by some seconds, but still).
+Is this right? If not, could you please explain how to solve this? Thanks for any help.

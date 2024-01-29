@@ -1,0 +1,12 @@
+Is there something close to a consensus on Earth-Sun annual distance increase (speed)?
+
+I've seen estimates varying by an order of magnitude, e.g. (New Scientist)
+
+Having such a precise yardstick allowed Russian dynamicists Gregoriy A. Krasinsky and Victor A. Brumberg to calculate, in 2004, that the sun and Earth are gradually moving apart. It’s not much – just 15 cm per year – but since that’s 100 times greater than the measurement error, something must really be pushing Earth outward.
+
+I double-checked the paper and there's no typo in New Scientist, as far as I can tell. Krasinsky and Brumberg give it as "15 ± 4 m/cy" (which is 15 cm/year; "cy" is almost certainly 100 years in that context.)
+Whereas another astrophysicist, Ethan Siegel, writing in Forbes in 2019 claims it's only 1.5 cm/year.
+
+This year, 2019, our perihelion was 1.5 centimeters farther away than it was last year, which was more distant than the year before, etc.
+
+The same figure (1.5 cm) appears in an undated Cornell FAQ page. So, is there a consensus established in the meantime that the true rate is (close to) the latter 1.5 cm/year? What experiments/models/papers is the latter based on?

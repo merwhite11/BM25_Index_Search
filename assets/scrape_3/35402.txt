@@ -1,0 +1,8 @@
+Why is there no concavity in the orbit of the moon around the Sun?
+
+Such questions have been asked here and I have read the answers some of which are quite informative. However, I want an answer that's straightforward.
+I have gone through the following paper by A B Turner titled The Moon's Orbit Around The Sun.
+In this, the author concludes that the curvature of the Moon's orbit around the Sun in the new moon positions, $k_n$ is approximately 1.5 times of the Earth's orbit around the Sun, which is approximately the same as that of the Moon's orbit around the Sun in the full moon positions, $k_f$.
+
+$k_n$$\approx 1.5k_f$, which is intuitive considering the fact that in the new moon positions, the moon experiences gravity from both the Sun and the Earth in almost the same direction.
+My question is, then, how does the Moon's orbit manage to not have any concavity, no matter how minute, while transitioning from the full moon to the new moon positions? Isn't that not a mathematical impossibility?

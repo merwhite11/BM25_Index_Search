@@ -1,0 +1,8 @@
+How to calculate observer's latitude from declination and culmination of a star?
+
+From gcseastronomy.co.uk:
+A star culminates at 50°. It has a declination of +20°. What is the latitude from where it is observed? 
+What is the relationship between a culmination, declination, and latitude? How would one work this out?
+This is the answer:
+50 - 30 = 20°
+Latitude = 20°

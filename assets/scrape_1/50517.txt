@@ -1,0 +1,12 @@
+Derivation: Formula for projection of sun's motion onto parallel of declination
+
+Consider the projected angular velocity of the sun along a parallel of declination. I was told that it is $$\frac{\cos\varepsilon}{\cos\delta_{\odot}} \frac{d\ell_{\odot}}{dt} \tag{1}$$
+where we let $\ell$ be the ecliptic longitude of the sun and $\varepsilon$ be the obliquity of the ecliptic.
+The explanation given is to verify that when: $\delta_{\odot} = 0$ (Equinox), we have, $\cos\varepsilon \frac{d\ell_{\odot}}{dt}$; $\delta_{\odot} = \varepsilon$ (Solstice) gives $\frac{d\ell_{\odot}}{dt}$.
+This seems more like a hint to me, that the function takes on a particular form and values at end points. Hence, how can we complete the derivation, using the hints given above?
+I am aware that the alternative derivation is to differentiate $\tan \alpha_{\odot} = \cos \varepsilon \tan{\ell_{\odot}}$ (After some substitutions, multiply by $\cos \delta_{\odot}$). However, I prefer a more intuitive, geometric argument.
+
+For more context:
+Projecting onto the equator,
+$$\frac{d \alpha_{\odot}}{dt} = \frac{\cos\varepsilon}{\cos^2 \delta_{\odot}} \frac{d\ell_{\odot}}{dt}$$
+Thanks in advance!

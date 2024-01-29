@@ -1,0 +1,14 @@
+Leonid meteor showers and the Tempel-Tuttle comet
+
+I've been reading about the Leonid meteor showers and am struggling to understand one piece of information. On Wikipedia (Tempel-Tuttle), it states:
+
+The orbit of 55P/Tempel–Tuttle intersects that of Earth near exactly,
+  hence streams of material ejected from the comet during perihelion
+  passes do not have to spread out over time to encounter Earth. This
+  coincidence means that streams from the comet at perihelion are still
+  dense when they encounter Earth, resulting in the 33 year cycle of
+  Leonid meteor storms. For example, in November 2009, the earth passed
+  through meteors left behind mainly from the 1466 and 1533 orbit.
+
+Why are we going through the meteors left behind by the orbits from 1466 and 1533? What happened to the orbit of 1500 and every subsequent orbit?
+My guess is that the perihelion moves slightly from orbit to orbit so the earth moves through a different one each time but I'd love to get an expert explanation!

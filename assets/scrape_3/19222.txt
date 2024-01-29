@@ -1,0 +1,3 @@
+How do we get the angular size of a crater without lens?
+
+Suppose I want to calculate the diameter of the crater. I apply the small angle formula $$diameter=\frac{\theta_{diameter}}{206265''}\times D$$ where $\theta_{diameter}$ is the angular size of the crater, in arcseconds, and $D$ is the average surface-to-surface distance from the Earth to the Moon, which is around $375,900$ km. We know that the moon is about $\frac12$ degree, which is $1860$ arcseconds. But how do we estimate the angular size of the crater without using lens, with only  eyes? I was thinking using ruler and applying scale but that way, I think, is inaccurate because the Moon has a round surface.

@@ -1,0 +1,10 @@
+Source flux in Jy + noise computation, radio astronomy
+
+I have an image of an extended source obtained with an interferometer (after imaging the uv-data). The image consist of a certain number of pixels, with unit of Jy/beam. Somewhere on the image is a source, whose size is greater than my (synthesized) beam size.
+
+How do I compute the total flux of the source (in Jy!), knowing the flux of each pixels and the area of the beam (in pixels)?
+
+How do I compute the corresponding signal to noise ratio (SNR), knowing the standard deviation of the flux of individual pixels (far from the source)?
+
+
+Note: While answers to Converting Jy/beam to Jy? don't address how the size of the source influences the result (if the source is bigger than on beam) nor is the SNR calculation.

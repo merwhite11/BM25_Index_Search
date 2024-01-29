@@ -1,0 +1,12 @@
+What forces expelled these huge clouds, then blocked further progress, yet allowed it to maintain its threads?
+
+From Wikipedia and NASA:
+Caption: NASA: S74-15583 
+
+(July 1973) --- A huge solar eruption can be seen in this Spectroheliogram obtained during the Skylab 3 mission by the Extreme Ultraviolet Spectrograph/Spectroheliograph SO82A Experiment aboard the Skylab space station in Earth orbit. SO82 is one of the Apollo Telescope Mount experiments. The SO82 A instrument covers the wavelength region from 150-650 angstroms (EUV regions). 
+
+The caption may have been written in the 1970's. Is there still a mystery about the forces, or are things somewhat better understood now? The only other (fundamental) force that could be relevant is electric, but I wonder if that was meant to be implicit (as electromagnetic). See statement highlighted in bold below, as the caption continues:
+
+The magnitude of the eruption can be visualized by comparing it with the small white dot that represents the size of Earth. This photograph reveals for the first time that helium erupting from the sun can stay together to altitudes of up to 500,000 miles. After being ejected from the sun, the gas clouds seem to have come to a standstill, as though blocked by an unseen wall. Some materials appear to have been directed back toward the sun as a rain, distinguished by fine threads. At present it is a challenge to explain this mystery--what forces expelled these huge clouds, then blocked its further progress, yet allowed the cloud to maintain its threads. Both magnetic fields and gravity must play a part, but these curious forms seem to defy explanation based on magnetic and gravitational fields alone. The EUV spectroheliograph was designed and constructed by the U.S. Naval Research Laboratory and the Ball Brothers Research Corporation under the direction of Dr. R. Tousey, the principal investigator for this NASA experiment. On the left may be seen the sun's image in emission from iron atoms which have lost 14 electrons by collision in the sun's million-degree coronal plasma gas.  (emphasis added)
+
+If I understand correctily, this is a telescopic view with a diffraction grating in the optical path - the clear image and its "echoes" are the result of each strong, narrow emission line producing an image at a different angle of the grating's dispersion.

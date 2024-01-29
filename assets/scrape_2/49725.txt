@@ -1,0 +1,6 @@
+Where can I get a step by step guide to use CASA for obtaining a radio image of a planet like say Jupiter?
+
+I intend to use CASA for processing ALMA data for Jupiter and obtain a proper radio image for Jupiter.
+However, is there any specific step by step guide for the same just as is the following for TW Hydrae:
+https://casaguides.nrao.edu/index.php/First_Look_at_Imaging
+Pls guide me.

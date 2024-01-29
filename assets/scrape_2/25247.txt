@@ -1,0 +1,4 @@
+Inconsistent online radius value for Proxima Centauri
+
+I was looking up the radius of Proxima Centauri and got a funny result.
+Google says it's about 100,000 km, while WolframAlpha says its about 200,000 km.  Are the error bars that big, or does someone have some bad numbers?

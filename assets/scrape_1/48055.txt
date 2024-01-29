@@ -1,0 +1,3 @@
+Why do stars usually stop fusion at iron, even though nickel-62 has the highest binding energy per nucleon?
+
+We know that iron is often regarded as 'nuclear ash' because of its inability to fuse with other atoms, as it has a high binding energy per nucleon. However I found that Nickel-62, grabs the title of having highest binding energy per nucleon: $8.7945$ MeV. So my confusion arises is that can iron fuse any further? Why do we see iron as more abundant in becoming nuclear ash rather than nickel-62? Is it related to nuclear fusion reaction steps?

@@ -1,0 +1,3 @@
+Is remote measurement of isotope ratios possible, or must a sample be aquired
+
+Is it possible to measure to measure isotopic abundance of remote astronomical objects - ie measurement without having a sample to feed into a mass spectrometer? Do different isotopes show any differences in absorption or emission spectra which can be used for this purpose?

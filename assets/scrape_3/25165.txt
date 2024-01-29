@@ -1,0 +1,3 @@
+How can I calculate solar intensity at Saturn
+
+I'm trying to work out how big solar panels have to be for a Saturn probe, but can't find any data for solar energy at Saturn.

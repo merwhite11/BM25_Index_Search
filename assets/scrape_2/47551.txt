@@ -1,0 +1,7 @@
+Calculating comoving volume of 2dF survey
+
+Say I want to calculate the comoving volume in the 2dFGRS survey:
+
+I'm using $H_{0} = 70 km s^{-1} Mpc^{-1}$ and the default values for the matter and vacuum density parameters in this calculator (Cosmological Calculator) to get a comoving volume within 2.5 z of $4.325 Gpc^{3}$.
+I know that the full night sky from Earth has angular area of 41,253 square degrees.
+What I'm unsure of is how to use this image to calculate the total comoving volume represented by the image, especially if the image doesn't provide the "depth" of these slices. Any ideas?

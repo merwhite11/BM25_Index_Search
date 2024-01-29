@@ -1,0 +1,4 @@
+What does using these units (c=G=M=1) in MHD simulations mean?
+
+I was reading some papers on numerical HD/MHD simulations of black hole accretion disks, and most of them scale their physical quantities to this form of units: c = G = M = 1. I know c = 1 and G = 1 correspond to geometrisized units which rely on length as a standard unit, but I wasn't sure what M=1 corresponds to in SI/cgs units (does it mean their standard unit is mass) and how to convert other units with this scaling?
+For reference, this is one of the papers I was looking at: https://ui.adsabs.harvard.edu/abs/2012ApJ...761..130Y/abstract

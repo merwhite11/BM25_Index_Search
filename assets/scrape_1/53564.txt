@@ -1,0 +1,19 @@
+Emitting light from the Sun
+
+I might be asking too many questions here, but they all seem related to each other and knowing them simultaneously is the only way to understand this subject as I have tried my best googling already.
+We know that in the core of the Sun, X-rays, ultraviolet and gamma-rays photons are produced through fusion. Now, let's only talk about X-rays for simplicity. They have direction and try to go to the outside layer of the Sun.
+Question 1: If an X-ray hits hydrogen, will it always cause the hydrogen to become ionized or sometimes it might cause electron of the hydrogen to jump from one energy level to another without ripping it apart ? If X-rays can cause electron to excite without ripping apart, then that excited electron will come back to the lower level and could produce a visible light photon ? Is this true ? If so, we could say X-ray photons can cause visible light through hydrogen absorption and emission.
+Question 2: Will all X-rays end up reaching outer layer ? Or before reaching the outer layer, could they be absorbed by atoms ? This basically seems to be the same question as first one.
+Question 3: If you forget about the question 1 and 2, I have a feeling that the visible light spectrum is produced by the outer layer only. This means that there might be two ways of producing it:
+
+Way 1 - atoms absorbing X-rays and producing visible photons or
+Way 2: X-rays that reached outer layer would have caused atoms(hydrogen, carbon) to be ionized, producing free electrons,
+after which bremsstrahlung takes effect and thats how visible light
+is produced.
+Way 3: due to temperature of 5500C, atoms (that are
+not ionized) collide with each other and producing specific spectral
+lines as they wouldn't be able to produce a full spectrum due to
+electron excitement and having discrete energies.
+
+Which way is correct and are there other ways producing visible light spectrum ?
+Question 4: We know that the Sun's spectrum is not fully a black body spectrum since it has dark absorption lines due to hydrogen for example. But if hydrogen absorbed something, then it would definitely emit the photon after energy jump from higher to lower and where would that visible photon go ? Some say it would have different direction other than to Earth, but it definitely would go somewhere, but why would it never get out of the Sun ? Maybe it will be absorbed again and again, but it would only be absorbed by another hydrogen (not by anything else as this energy is typical only for hydrogen) and this process would go on and on infinitely and in the end, after some big time, it might still find a way out of the Sun's atmosphere, but there's a high chance it wouldn't come to Earth. but probability also exists that sometimes it might still come to us. If so, why do we have absorption lines at hydrogen's spectral lines from the Sun ? Or it's not fully dark, but very, very ,very small numbers of photons end up coming for this visible wavelength of hydrogen and we just still say it's dark ?

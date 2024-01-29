@@ -1,0 +1,16 @@
+Why is the boundary of friends-of-friends (FOF) halo corresponding to iso-density contour?
+
+The friends-of-friends algorithm (hereafter FOF) is commonly used to find halos in cosmological simulations. (For more information, please refer to here and here)
+I found that some literature argues that the boundary of the FOF halo is corresponding to an iso-density surface. For example, Springel et al 2001 states
+
+It
+places any two particles with a separation less than some linking
+length $b$ into the same group. In this way, particle groups are
+formed that correspond to regions approximately enclosed by
+isodensity contours with threshold value $\rho\propto1/b^3$.
+
+More et al 2011 says
+
+One could expect that for a given value of $b$, the FOF algorithm defines the boundary of a halo as corresponding to a certain isodensity surface, at least in the limit of large number of particles.
+
+However, I can't understand the connection between the boundary of the FOF group of particles and iso-density contour. How to derive this connection in formula form? Does this connection need other hypotheses?

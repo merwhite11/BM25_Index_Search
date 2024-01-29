@@ -1,0 +1,8 @@
+Change in Luminosity of a planet
+
+
+When viewed from the sun, the brightness of the planet with a given
+size and albedo changes according to the fourth power of inverse
+distance.
+
+I found the statement in one encyclopedia but I can't find any mathematical proof of this.

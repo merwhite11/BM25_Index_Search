@@ -1,0 +1,9 @@
+A new (radio) neutrino telescope in Greenland?
+
+I just stumbled upon ScienceMag news from July 14th, 2021 which says:
+
+By placing hundreds of radio antennas on the ice surface and dozens of meters below it, they hope to trap elusive particles known as neutrinos at higher energies than ever before. “It’s a discovery machine, looking for the first neutrinos at these energies,” says Cosmin Deaconu of the University of Chicago, speaking from Greenland’s Summit Station.
+
+The beast ist called RNO-G and is supposed to be looking at energies from $10^7 \ldots 10^{11} {\rm GeV}$:
+
+May somebody explain in simple terms the diagram, in particular the Waxman-Bahcall-bound and the GZK mechanism, please? I know how "usual" neutrino detectors work, but I am missing an intutive understanding on the RNO principle. Also: Which astronomical objects would generate such neutrinos?

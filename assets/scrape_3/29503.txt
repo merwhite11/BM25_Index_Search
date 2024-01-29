@@ -1,0 +1,6 @@
+How do we know if an object is redshifted?
+
+I have some questions about redshift. I think that the first two hang on the last two, but feel free to point out anything you think I should know. 
+How do we know if an object is actually redshifted, and that we aren't just seeing the regular spectrum of the star?
+How can we tell the extent to which a star is redshifted? 
+Do astronomers have a full baseline spectrum that they compare the measured spectrum against? Or do they just use the hydrogen spectrum since all stars are mostly hydrogen?

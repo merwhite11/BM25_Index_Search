@@ -1,0 +1,3 @@
+Why do stars orbit much faster than gas in galaxies?
+
+The velocity dispersion of gas within galaxies is typically 30-40 km/s. Stars are born in gas clouds. But later on, their orbital velocities reach several hundreds of km/s. How is this possible? Where and how do the stars gain their angular momentum and their final orbital velocity?

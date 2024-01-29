@@ -1,0 +1,15 @@
+Comoving distance between two points [(RA1, Dec1, z1) and (RA2, Dec2, z2)]
+
+I have Redshift (z), RA and Dec positions for two points in a galaxy catalogue (say P1 = [z1=4, RA1=140, Dec1=2] and P2 = [z2=6, RA2=150, Dec2=5], where RA and Dec are given in degrees). How can I find the comoving distance between these two points using any package in python (like AstroPy, CosmoloPy etc)? 
+I am assuming a Flat-LCDM model with the cosmology H0=70, Om0=0.3, Ob0=0.05.
+Presently, I am using this:
+import cosmolopy.distance as cd
+cosmo = {'omega_M_0' : 0.3, 'omega_lambda_0' : 0.7, 'h' : 0.70}
+cosmo = cd.set_omega_k_0(cosmo)
+z1 = 4.0
+z2 = 6.0
+d_co = cd.comoving_distance(z2, **cosmo)
+
+Specifically, my questions are these:
+(i) In the said example, how do I use information of the starting redshift z1?
+(ii) Do I need to use information of [RA1, Dec1] and [RA2, Dec2] for an accurate calculation of the comoving separation between P1 and P2 (I need to find the comoving distance to a great degree of accuracy)?

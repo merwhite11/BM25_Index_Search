@@ -1,0 +1,8 @@
+Is there a legend for these 88 HST images?
+
+Is there a legend for these 88 Hubble Space Telescope images?
+
+I have a 6000px x 4800 px version of this image (reduced & rotated to 480x600 here) that I use for an image slide show.  I would like to add the description of each image into the slide show software.
+On this system the file name is HubbleGallery.jpg but I suspect I coined that title (it was a long time ago it was downloaded).  The original image is 5,150,779 bytes in size.
+Searching on the smaller, rotated version of the image points to pages like Astronomy Printshop, but there is nothing closely related to NASA in the first pages of the search, and the pages listed did not have much detail (certainly no legend).
+It might possible to search on the clipped, individual images, but I was hoping to avoid having to do that 88 times.

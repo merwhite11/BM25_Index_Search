@@ -1,0 +1,4 @@
+Why some stars appear to move differently when viewing device shakes
+
+I was looking at Arcturus with a pair of binoculars, and noticed that when they vibrate due to my heartbeat, Arcturus seemed to move differently than the other dimmer stars.  
+I started playing with that visual effect and noticed that it happens both vertically and horizontally, and that I could even make it "overlap" with a nearby star.  It is like it either lags or is ahead of the others in terms of how it moves in the field of view as the binoculars do their slight shake.  Why is that?

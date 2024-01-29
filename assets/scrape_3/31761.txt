@@ -1,0 +1,7 @@
+Does the Zwicky Transient Facility only run when triggered by a cell phone?
+
+A really enjoyable interview with Mansi Kasliwal & Samaya Nissanke ("From discovery to making precision measurements") is available as a short audio podcast in the BBC News article Gravitational waves hunt now in overdrive describes the very recent gravitational wave events and the way optical searches for the source were initiated by pressing a "go button" on a cell phone!
+It's a excerpt from the BBC's Science in Action episode What is behind the Indian Ocean Cyclones?
+The article is quite a good read as well, and talks about the Zwicky Transient Facility (ZTF), based on the 48-inch Samuel Oschin Schmidt telescope with several upgrades including a state of the art silicon CCD array replacing the 14 inch square photographic plates it originally used, faster slewing and AI-based recognition of candidate objects.
+The huge aperture allows for almost 50 square degree field to be checked down to +20 magnitude every five minutes. That's about one steradian in 5 hours. According to the podcast, it can run as fast as 4000 square degrees per hour, about 1.2 sr/h presumably with a brighter limiting magnitude.
+Question: Does the ZTF only start surveying when triggered by a cellphone or other alert, or does it continue to search for new objects and events on some nominal routine whenever there is good visibility?

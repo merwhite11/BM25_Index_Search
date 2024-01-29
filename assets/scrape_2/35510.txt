@@ -1,0 +1,4 @@
+Why don't we build an interferometer between Earth and the Moon?
+
+The Event Horizon Telescope (EHT) does interferometry from an array of telescopes spread all across Earth. The data is locally stored on a hard drive and shipped to a central location, so the telescopes in the array don't need to be connected to each other in real time. Would it be possible to make an EHT-like interferometer with telescopes on the Earth and on the Moon? It seems like such a telescope would have a much higher resolution than the EHT, and would make it possible to observe in wavelengths shorter than radio. 
+Of course, money is likely an issue here, but is there any technical reason why this wouldn't be feasible?

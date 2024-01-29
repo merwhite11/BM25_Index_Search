@@ -1,0 +1,12 @@
+E(B-V) , the color excess between B and V bands, for galaxy at redshift 0
+
+Following Mo et al. 2010 (page 479), the quantity $E(B-V)$, called the color excess between B and V bands, is equal to:
+$$E(B-V) = A_B - A_V = (B - V) - (B - V)_0 = (m_B - m_V) - (M_B- M_V)$$
+where $m_B, m_V$ are the apparent magnitude in B and V bands, and
+$M_B, M_V$ are the absolute magnitude in B and V bands.
+Keep in mind the relation between apparent and absolute magnitudes, with $d=10$ pc:
+$$m = M - 5 \log(d) + 5$$
+If we are at redshift $z>0$, the color excess should be $E(B-V)>0$, because the extinction due to dust is greater in the B band than in the V band, and apparent magnitudes are greater than absolute magnitudes.
+I'm wondering if it is correct to have $E(B-V)=0$ if the redshift is $z=0$ and $M=m$. The apparent magnitude is equal to the absolute magnitude and the relation above mentioned should become:
+$$E(B-V) = A_B - A_V = (B - V) - (B - V)_0 = (m_B - m_V) - (M_B- M_V) = (M_B- M_V)_0 - (M_B- M_V)_0 = 0$$
+Is that correct? Is it possible that we don't have color excess for galaxies at $z=0$, what am I missing?

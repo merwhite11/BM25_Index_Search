@@ -1,0 +1,6 @@
+Software for simulating a night sky
+
+Not sure if this is the right StackExchange for this, but seems appropriate.
+Is there any off-the-shelf software that can display a star field (view of the night sky) as if seen from a particular location and looking in a particular direction?  Ideally, I'd like to be able to specify the location (Lat/Lon coordinates) and the direction in which the virtual camera is pointing, and get an image of the starfield.
+The ability to modify the parameters of the virtual camera would be of additional benefit.
+Free software would be best, but paid may be ok as well, depending on the price.

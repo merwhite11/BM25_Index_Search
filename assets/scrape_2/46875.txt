@@ -1,0 +1,7 @@
+How to calculate S/N in galaxy absorption spectra?
+
+I want to calculate the S/N of an galaxy absorption spectrum. 
+I therefore chose a part of the spectrum which contains very little to none absorption features and should be only made up of noise and the continuum flux (see the region in next plot)..
+I then fitted a 4th degree polynomial to that data using np.polyfit().
+
+If I understand the situation correctly the signal should be the fitted polynomial, since this is the spectral continuum in this region. And the noise would correspond to the deviations from that continuum (blue curve in plot). Then I would calculate the S/N = polynom / flux. Is this the right approach ? And how do I get only one value for the S/N since just dividing the polynom by the flux will give me a S/N value for each pixel. Maybe I mixed something up but I can not get my head arround it. I am grateful for any tips.

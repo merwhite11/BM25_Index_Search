@@ -1,0 +1,5 @@
+Is there a far away probe that has recorded the light spectrum from Earth as if it were an exoplanet?
+
+We analyze the light spectrum of stars and distant planets to know characteristics like: chemical composition, temperature, mass, etc.
+Starting from the same principle, a probe at the border of the solar system could analyze the spectrum of the light reflected by the Earth. In theory, comparing the spectra captured by the probe with what was happening here on Earth at a time, the light was reflected to the space we could discover new spectrographic patterns that would help us look for planets similar to Earth and maybe even life.
+I wonder if any study like this has been done, where a whole-Earth spectrum from a distant spacecraft has been captured and analyzed, with the intent of working the problem as if it were a spectrum from an exoplanet, in order to correlate with known Earth conditions.

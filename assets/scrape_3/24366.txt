@@ -1,0 +1,26 @@
+Determination of High-Accuracy Distances of Terrestrial Planets from the Sun
+
+I understand how in olden days the Sun-Planet distances were estimated using:-
+(i) measures of planet orbital periods ($T$) from analysis of observations over several centuries;
+(ii) Kepler's 3rd Law $(T^2 = k.a^3)$ applied to the planet orbital periods to determine the relative lengths of the Sun-Planet semi-major axis distances ($a$) expressed in terms of the AU (astronomical unit = distance from centre of Earth to centre of Sun);
+(iii) particular Earth-Planet distances along Solar radials were measured using Parallax techniques such as that by Casinni for Mars and Transits of Venus;
+(iv) From one or more Earth-Planet radial distances the length of the AU could then be determined by simple algebra.
+(v) Other Sun-Planet distances could then be determined once the AU length was found.
+Modern ephemerides e.g. those issued by JPL use various techniques:-
+
+The orbits of the inner planets are known to subkilometer accuracy through fitting radio tracking measurements of spacecraft in orbit about them. Very long baseline interferometry measurements of spacecraft at Mars allow the orientation of the ephemeris to be tied to the International Celestial Reference Frame with an accuracy of 0′′.0002. This orientation is the limiting error source for the orbits of the terrestrial planets, and corresponds to orbit uncertainties of a few hundred meters.
+The orbits of Jupiter and Saturn are determined to accuracies of tens of kilometers as a result of fitting spacecraft tracking data.
+The orbits of Uranus, Neptune, and Pluto are determined primarily from astrometric observations, for which measurement uncertainties due to the Earth’s atmosphere, combined with star catalog uncertainties, limit position accuracies to several thousand kilometers.
+
+from Folkner et al 2014.
+I understand how spaceraft telemetry has been used to obtain highly accurate distances between Earth and the terrestrial planets.  But I am not clear about how highly-accurate distances can be determined between those planets and the centre of the Sun.
+Question
+Do such (Sun-planet-distance) determinations still basically rely on (the more accurate Newtonian version of) Kepler's 3rd Law relating planet orbital period and Sun-planet semi-major axis distance?
+$$\frac{T^2}{a^3} = \frac{4 \pi^2}{G(M+m)}$$
+What other methods or assumptions are used/involved?
+EDIT - Afterthoughts
+After further thought prompted by feedback from  u/atmosphericprisonescape
+my question boils down to  "How are the positions (over time) of the Sun's Centre tied-in (with sub-kilometre accuracy) to the 4D space-time array of triangulated, high-accuracy, telemetry-derived, Terrestrial planet position determinations.
+I guess that Kepler's 3rd Law is not invoked as such. Rather, high-accuracy (sub-kilometre) determinations of the position of the Solar centre presumably require (in addition to the high-accuracy planet positions) some specific deterministic "motivation model"; i.e. a model of motion-determining factors.
+These factors would include Newtonian Inertia, Newtonian Gravitational forces and Non-Newtonian factors leading to additional orbital angular velocity (cf Non-Newtonian Perihelion Precession and General Relativity as described at  wikipedia/Apsidal_precession ).
+The "motivation model" would constrain the relative positions of the Sun and planets via their involment as motion generators, reactors and enactors.

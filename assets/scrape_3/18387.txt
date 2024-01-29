@@ -1,0 +1,17 @@
+How would a small TCO (temporarily captured orbiter) or other natural Earth satellite most likely be detected?
+
+A sentence from the abstract of The population of natural Earth satellites states:
+
+At any given time there should be at least one NES of 1-meter diameter orbiting the Earth. The average temporarily-captured orbiter (TCO; an object that makes at least one revolution around the Earth in a co-rotating coordinate system) completes (2.88 ± 0.82) rev around the Earth during a capture event that lasts (286± 18) d.
+
+As far as I know, the only known, well documented temporarily captured Earth satellite is 2006 RH120, which was in within 1 million km of the Earth for about 1 year. It has an estimated size of 2 to 3 meters, a rotation period (about it's axis) of about 3 minutes (presumably determined by photometry). According to Wikipedia:
+
+2006 RH120 was discovered on 14 September 2006 by the 27-inch (690 mm) Schmidt camera of the Catalina Sky Survey in Arizona.
+
+Using data from the JPL Horizons database, it seems 2006 RH120 was only about 850,000 km from Earth at the time it was discovered.
+Deep sky surveys are extremely prolific at detecting small solar system bodies. There was also a recent answer addressing the possibility that the Gaia spacecraft's could detect trojan asteroids associated with Earth's orbit, linking to the paper Detection of inner Solar System Trojan Asteroids by Gaia. 
+The question asked specifically about TCO's being detected by Gaia, but my question is more general: How would a small TCO (temporarily captured orbiter) or other natural Earth satellite most likely be detected?
+There are Earth-based sky surveys, space based visible and near-visible, and possibly even infrared/thermal detections possible, even Earth-based radar, and possibly others.
+Are there any searches specifically targeting TCOs?
+
+above: a simple plot of the orbit of 2006 RH120 from JPL Horizions transformed to an Earth-centered Earth-Sun-synodic frame - red line with dots every 10 days, for the period when it was within a +/- 1.6 million km cube centered on Earth in this frame. The green thick band around Earth is the moons orbit during this 448 day period.

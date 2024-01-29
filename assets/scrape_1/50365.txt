@@ -1,0 +1,3 @@
+What programs do astronomers use to ensure their observatory control computer has accurate time?
+
+Somewhere I've seen that especially those observing asteroids, in order to provide accurate observations, use timing servers that sync to atomic clocks. What software can be used to do that?

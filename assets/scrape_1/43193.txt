@@ -1,0 +1,7 @@
+Can the energy transport by radiation occur in the convection region of a star?
+
+I am new to stellar astrophysics and trying to understand the energy transports in the interior of stars.
+Can the energy transport by radiation occur in the convection region of a star?
+Here are my thoughts:
+Since the gas pressure in the convection region dominates, $\nabla_{\rm gas}$ $<$ $\nabla_{\rm radiative}$, so energy transport by radiation will not occur in the region.
+Please correct me if I am wrong.

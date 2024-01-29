@@ -1,0 +1,14 @@
+Can a frost line exist around a protoplanet?
+
+The Frost line is the border that marks where volatiles such as water, methane, ammonia, etc. (commonly referred to as 'ices') are able to condense into solid grains in the protoplanetary disk around a forming protostar. Beyond this border, these ices form a significant part of any coalesced planetary body (like the many icy moons of the gas giants), whereas inside this border, the bodies that form are primarily rocky (the four terrestrial planets, Mercury, Venus, Earth, Mars).
+Can such a frost line exist in the accretion disk around a hot gas giant such as a proto-Jupiter?
+Some soft evidence for this: Jupiter's four Gallilean moons are of similar sizes and follow a clear trend from the innermost outwards:
+
+Io: Mostly silicate rock and iron sulfide. Density is 3.5 $g/cm^3$.
+Europa: Mostly silicate rock with an estimated ~100 km layer of ice/water. 3 $g/cm^3$.
+Ganymede: Silicate with an estimated ~800 km layer of ice/water. 1.9 $g/cm^3$.
+Callisto: Approximately 50% ice. 1.83 $g/cm^3$.
+
+Source: Mainly articles in Wikipedia
+Now, there are other mechanisms by which ices can be disproportionately lost from Io, mainly through its extreme volcanism. But this doesn't necessarily explain the trend seen in the other moons.
+To be specific, I'm not asking if a protoplanetary frost line is responsible for the distribution of elements in Jupiter's moons, merely if such a frost line can exist and contribute to the observed element distribution.

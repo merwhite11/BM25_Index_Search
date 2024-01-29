@@ -1,0 +1,10 @@
+Where might a semi proficient amateur analyst participate in meaningful astronomical efforts
+
+I am a retired engineer that has an ongoing interest in space efforts.  In my youth I did work on the Apollo program but on propulsion and vehicle thermal control: not flight dynamics.
+I have reviewed/studied some astrodynamics (Vallado, Bates, etc) and can run GMAT and tudat libraries from Delft University.  I have explored Systemic Console, tap, and other software for implying the existence of exoplanets from RV curves and light transit curves.  I can download data in FITS format from various astronomical databases.
+Where might I direct my efforts in some meaningful way by participating in a project, collaborating with an investigator, or pursuing some research oriented endeavour on my own?   Could someone point me in a direction where I might do some meaningful work?  Just picking a star and starting a transit analysis does not seem to have any probability of leading anywhere. 
+Those sites where one views a light transit curve or tries to classify a galaxy type are not very interesting to me.  I feel I could investigate things more in depth than that.
+Directions, Ideas, offers! Anyone.
+I will post this in Space Exploration forum also.
+Thanks,
+Tom Kosvic

@@ -1,0 +1,5 @@
+Beta profile fit of Virgo cluster gas?
+
+I'm looking for the parameters $r_c$, $\rho_0$ and $\beta$ in a $\beta$-profile fit of the Virgo cluster's ICM density. I just can't find a reference for it. Unlike for Coma (Abell 1656) where it's in Mohr et. al. 1999.
+Beta profile:
+$$\rho(r) = \rho_0 \left[ 1+ \left(\frac{r}{r_c}\right)^2 \right]^{-\frac{3\beta}{2}}$$

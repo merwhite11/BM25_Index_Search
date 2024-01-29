@@ -1,0 +1,20 @@
+Is a black hole really a neutron star with a gravitational time dilation factor of 1.0
+
+Here's why I'm asking.
+The gravitational time dilation factor at the surface of a star or planet can be expressed as $$gr/c^2$$
+In theory, the same equation should apply to the gravitational length contraction factor.
+If the gravitational length contraction factor reaches 1.0 then all lengths at the surface are reduced to 0 and the mass becomes invisible.
+This will occur when $$gr = c^2$$
+Now I have read that the surface gravity, g, on the largest known neutron star is about $$7*10^{12} m/s^2$$
+Which means it should become invisible when $$r=c^2/7*10^{12}$$
+Or $$r=12.84km$$
+But that's the approximate radius of the largest known neutron star. So, in theory, it is on the verge of invisibility.
+If it was any bigger it would probably be seen as a black hole.
+UPDATE
+As my formula for Gravitational Length Contraction has been questioned, I'd like to explain it at least, without attempting to prove it:
+In that formula, $g$ is the rate of length contraction from the centre to the surface of the mass in units of $m/s^2$.
+But the contraction happens at the speed of light, so the $c^2$ term is a conversion from time squared to length squared.
+So $g/c^2$ is the rate of length contraction from the centre to the surface in units of $m/m^2$ or $m/m$ per $m$ radius.
+Multiplying this by the radius gives the length contraction factor at the surface in $m/m$.
+UPDATE END
+So is a black hole a neutron star with a gravitational length contraction factor of 1.0, or is it pure coincidence that the largest known neutron star has a gravitational length contraction factor very close to 1.0?

@@ -1,0 +1,11 @@
+How to find inverse steradian from $\text{arcmin}^{-2}$ for density of galaxy
+
+I am using a code on EUCLID future mission.
+The original author of this code has set a value for the density of galaxy equal to : 
+ng = 354543085.80106884
+
+I think this is expressed in inverse steradian. I think that EUCLID mission has a $30\text{ arcmin}^{-2}$ value for density of galaxies.
+Is the conversion correct betweeen $30\text{ arcmin}^{-2}$ and $354543085.8010688 \text{ sr}^{-1}$ ?
+and how to do this conversion ?
+Indeed, I would like to calculate ng with a density of $48 \text{ arcmin}^{-2}$.
+Regards

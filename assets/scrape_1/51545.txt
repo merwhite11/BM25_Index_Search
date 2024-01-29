@@ -1,0 +1,7 @@
+Can a satellite at lagrange point be stabilized with gravity gradient?
+
+Assuming that the satellite is big enough and the it is at the Lagrange point between the Earth and the Sun, can this satellite be stabilized with gravity gradient? (which means, can this satellite remain at the Lagrange point while one face towarding the Sun and one facing the Earth?)
+I came up with a satellite which has two masses each at the end of tethers in opposite direction. But I'm not sure
+
+if it is possible,
+and if it is possible then one mass is also fine.

@@ -1,0 +1,6 @@
+How to calculate solar ecliptic longitude
+
+I would like to write a small script to calculate solar ecliptic longitude in relation to different locations and dates. For instance UTC + - 1...2 etc..
+I know, solar ecliptic longitude is the position of the sun relative to the vernal equinox, in degrees clockwise 360 degrees over a year..
+What do I have to keep in mind?
+Thanx a lot!

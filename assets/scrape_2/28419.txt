@@ -1,0 +1,7 @@
+Where on Earth can moon rise on the meridian?
+
+
+Somewhat related to this my picture showing only diurnal motion but Moon—seen from Earth—has a rapid motion with respect to the inertial celestial sphere, unlike stars and planets. Its motion relative to stars partially cancels the diurnal motion, and as the Moon’s orbit is inclined wrt Earth’s equator, Moon’s declination also changes and hence it can rise in 180°, 181°, 182°… or 360°, 359°, 358°… where objects moving only diurnally (such as stars and planets) cannot rise.
+How far outside the polar circles can Moon rise in the Western celestial hemisphere or in north/south exactly? How is it best to see practically?
+
+Also a meta request: where is a tag on astronomy.stackexchange about astronomy at high latitudes?

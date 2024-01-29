@@ -1,0 +1,9 @@
+How much dimmer is a partial solar eclipse that goes from -26.71 to -25.89?
+
+Based on what I found in Stellarium, for Vlissingen, Netherlands, on July 2, 1666 there was a partial eclipse with a change of apparent brightness -26.71 to -25.89.
+Is it valid to say based on the chart below that the sun would've appeared a little more than 50% dimmer at maximum compared to before the eclipse?
+If not, approximately how much dimmer was the sun during this eclipse, based on the values given by Stellarium?
+
+Source
+
+above: Just before the start of the eclipse. below: At maximum

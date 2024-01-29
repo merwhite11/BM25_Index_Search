@@ -1,0 +1,4 @@
+Calculating the mass of star
+
+I am doing a project which requires that I have data for the mass of several stars. However, the data for mass of stars is obviously not readily available as it's really hard to calculate. In such a scenario, would it be alright to use the mass-luminosity relationship with different values of p(3.5 for a main sequence star) without getting major errors?
+Also, what value of p should i use for other stars like white and brown dwarfs?

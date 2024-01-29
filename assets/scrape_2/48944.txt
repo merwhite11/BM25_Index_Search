@@ -1,0 +1,24 @@
+How exactly does SPHEREx implement 96 spectral bands with a linear variable filter across its focal plane?
+
+JPL's mission page for SPHEREx says:
+
+The mission will create a map of the entire sky in 96 different color bands, far exceeding the color resolution of previous all-sky maps.
+
+Wikipedia's SPHEREx Spacecraft/telescope says:
+
+The triple mirror telescope will have an aperture diameter of 20 centimeters with a 3.5° x 11° field of view and six 2k x 2k mercury cadmium telluride (HgCdTe) photodetector arrays.12, 8 Each 2K x 2K focal plane array is covered with a linear variable filter, providing narrow-band response with a band center that varies along one axis of the array. SPHEREx obtains spectra through multiple exposures, placing a given source at multiple positions in the field of view, where it is measured at multiple wavelengths by repointing the spacecraft.8
+8https://spherex.caltech.edu/Instrument.html
+12https://spherex.caltech.edu/index.html
+
+Question: How exactly does SPHEREx implement 96 spectral bands with a linear variable filter across its focal plane?
+Does the telescope constantly rotate like GAIA and use fancy array readout techniques to produce the 96 discrete spectral bands in software?
+Or does it move discretely such that nearby objects are actually recorded at slightly different central wavelengths since the filter is linear.
+How does this work exactly?
+It seems SPHEREx has adopted the KISS principle:
+
+
+Low-Risk Implementation
+No Moving Parts
+Single Observing Mode
+Large Technical & Scientific Margins
+Follows successful CIT/JPL mgt. model of NuSTAR

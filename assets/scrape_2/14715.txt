@@ -1,0 +1,5 @@
+Are larger stars rounder?
+
+The Earth is a very smooth sphere, and the Sun even more so, with only minor fluctuations. I am wondering: are larger stars even rounder? Intuitively, that seems self evident, but I am not so sure. For instance, the hydrostatic equilibrium causes larger stars to be much less dense than red dwarfs. So what is the most important factor for how round a star is, a higher mass, or less activity? The most prominent cause of irregularities is of course the rotation rate of the star, which is pretty much independent of size. Ignoring that, do larger stars have smaller a deviations from the ellipsoid relative to their size?
+Edit
+As it seems like the "other than rotation rate" criterion is not really meaningfull, I now terminate it.

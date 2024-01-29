@@ -1,0 +1,4 @@
+Will time that moon crosses meridian always be periodic?
+
+If I observe the moon pass my celestial meridian at a specific north polar clock time will I observe every subsequent passage at ${\rm current\,time} + 13.2^\circ \times ({\rm days\,passed}) \mod 360^\circ$?
+Does the moon pass celestial meridian at exactly the same time if observed from every point on this longitude?

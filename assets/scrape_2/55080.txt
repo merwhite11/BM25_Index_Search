@@ -1,0 +1,9 @@
+Are there plans to detect life on Earth from the outer solar system?
+
+This has been kicking around in my head for a while. We've been detecting planets for decades by observing regular dips in starlight from many light years away as a planet transits its host star. I've often wondered if we considered staring at our own planet the same way to see if we can get our "Eureka! We found life!" moment.
+After reading Carl Sagan detected life on Earth 30 years ago—here's how his experiment is helping us search for alien species today, I started searching online for more experiments aimed at detecting life on Earth. I came across Hubble Makes the First Observation of a Total Lunar Eclipse By a Space Telescope where we were able to detect ozone in Earth's atmosphere.
+So, the Galileo spacecraft detected life as it flew by Earth thousands of miles away. Hubble stared at the moon during an eclipse, but that's a bit like knocking on the door to see if someone is alive, cosmologically speaking. Detecting those same signatures from trillions of miles away is such a shockingly different order of magnitude that it renders those experiments fun, and informative, but not small scale replicas of how we typically find exoplanets.
+Are there plans to detect life on Earth the same way we think we can detect life on exoplanets, but on a much smaller scale? I'm imagining something at Neptune-ish distances as a test for how well these biosignatures can be detected at longer distances for an Earth-sized planet.
+(Is this even a worthwhile experiment, given the logistics mentioned in Space telescope located in outer solar system?
+
+I also realize I'm asking to build a telescope and send it 2.8 billion miles away just to snap a selfie, but we've already spent quite a bit of money building observatories to detect transiting exoplanets. It would be curious to know if these signatures are even detectable from light hours away, much less many light years away.

@@ -1,0 +1,7 @@
+Can we use atmospheric retrieval techniques on stars?
+
+Although there are lots of examples of atmospheric retrieval techniques being used on exoplanets, and recently brown dwarfs, I can't find any mention of atmospheric retrieval techniques being used on stars. Is this because:
+a) My research is bad and there are examples of this?
+b) It's not useful as the structure and profile of stars are well known, as well as how to determine parameters e.g. metallicity by UV absorption?
+c) Another reason?
+Any help would be greatly appreciated.

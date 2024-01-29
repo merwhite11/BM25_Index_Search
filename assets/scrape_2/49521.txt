@@ -1,0 +1,6 @@
+Measuring distance to stars - How to get parallax angle
+
+This may be a bit of a noob question, but I am wondering how exactly to get the parallax angle in degrees when looking at a nearby star relative to background stars.
+I have found the information online of how to do the calculations etc, but they all say to look at how much the star has moved and you have the angle. Really? Where has this angle number actually come from? Nowhere seems to give that info (that I can find).
+The method I assume is the correct one is to measure how much the star has shifted (relative to background stars) in arcseconds, then convert this to degrees. Assuming 1" of movement, the parallax angle would be 0.000277778°.
+Is this the correct way to get the value in degrees, or am I just being silly? This is something that has been bugging me for a while and if it really is that simple, why don't online sources just say, measure the distance in arcseconds and convert rather than just say "Look how much the star has moved and you have your angle", and assume you know how to get it?

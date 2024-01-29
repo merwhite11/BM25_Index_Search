@@ -1,0 +1,16 @@
+Do primary mirrors in large observatories undergo regular removal and re-coating of the aluminum? Why?
+
+Performance of astronomical mirrors that are exposed to the environment for long periods of time can experience a slow degradation of performance. They usually need to receive some kind of regular maintenance, which may involve cleaning and/or re-coating. 
+While I'm told that the aluminum degrades and must be replaced from time to time, this is not consistent with my understanding of the behavior of aluminum in air. I'm pretty sure that a freshly evaporated layer of pure aluminum will quickly develop a native oxide layer of perhaps 20Å of aluminum oxide as amorphous $\text{Al}_2 \text{O}_3$ (alumina) which is then pretty much impermeable to diffusion of anything else the atmosphere might expose it to, including various pollutants.
+I can understand that it might in some cases ultimately be simpler to strip and replace the aluminum after a number of cleanings due to accumulated damage from the cleaning, but is there any evidence that the aluminum must be replaced due to chemical degradation of the aluminum itself?
+I found this article, Reflectivity Degradation Rates of Aluminum Coatings at the CFHT, Magrath, B. 1997, Pub. Ast. Soc. Pac. 109, 303 that seems to show that - at least at one observatory location - a representative test mirror exposed to the observing environment (in the dome) that was washed once a month showed no significant degradation in reflectivity over 32 months, similarly to a mirror that remained protected but not cleaned.
+However, the test mirror that was exposed and not washed showed a continuous loss in reflectivity, dropping by about 10% over the same period. A fourth test mirror undergoing regular $\text{CO}_2$ cleaning lost about 5% reflectivity.
+This is a small, limited test of course, less than three years, only one location, one wavelength, and only one parameter (reflectivity). But it gives a bit of support to the idea that while mirrors get dirty and require regular cleaning, the aluminum itself may not actually deteriorate.
+So I'm asking: Do primary mirrors in large observatories undergo regular removal and re-coating of the aluminum? Why?, where "why" addresses the specific need for the removal and replacement. If these primaries actually do receive regular re-coatings of aluminum, is it because the aluminum actually degrades?
+I'm looking for an answer that carries some backup references. If just for example, your answer is of the form You silly goose, everybody knows aluminum tarnishes like the Dickens!, please back it up with a reference to measurements of aluminum tarnishing. Thanks! 
+From Magrath 1997: 
+GIF ("blink comparator")
+
+From http://global.kyocera.com/fcworld/charact/chemistry/chemiresist.html - alumina can potentially be remarkably resistant to chemical attack compared to other materials - note logarithmic scale.
+
+The individual figures:

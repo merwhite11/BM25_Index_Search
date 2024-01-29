@@ -1,0 +1,4 @@
+Calculating orbits using observational data
+
+How did astronomers in the 18th and 19th centuries used to calculate a comet's or planet's orbit using observational data, given that this data is relative to a non static reference point (i.e. the Earth)? 
+For instance, here one can find the measurements of Mars' declination by Tycho Brahe throughout two decades. Not only it seems very difficult to me to deduce the right curve from the original observations points, but also the peaks of the curve (which resembles a sinusoid) do not seem perfectly equally distant from each other.

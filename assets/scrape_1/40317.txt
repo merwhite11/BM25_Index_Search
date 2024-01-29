@@ -1,0 +1,4 @@
+Details of the M87 Active Galactic Nucleus -- questions of scale
+
+This video describes a scale model of the M87 SMBH (somewhat distorted to live in flat space and for other practical reasons) in which the Schwarzschild radius appears to be scaled to about 10cm, with the photon sphere and inner accretion disk around it. If one wanted to go further, making a somewhat larger model to the same scale along similar lines and using similar materials, what would be next features to include, and how far away are they?
+I am tempted, for instance to try to model the base of the relativistic jets, using these but I'm not sure if they are big enough, or how far away they would have to be. Alternatively, are there more accretion disk features that would show up while still fitting in my dining room? Suggestions are welcome.

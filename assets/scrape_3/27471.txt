@@ -1,0 +1,3 @@
+Direction of major axis of moon's orbit
+
+Does the major axis of the moon's orbit point in the same direction (with small deviations) throughout the year? or does it migrate along a path so that after a million years it might be 90° away from where it started?

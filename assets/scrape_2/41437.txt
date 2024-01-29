@@ -1,0 +1,10 @@
+Calendar year versus Tropical year
+
+I'm wondering about the convention for keeping the calendar year in sync with the tropical (exact) year.  I did a preliminary calculation, but, it seems to be out by more than the average calendar year's additionally added leap second, every year or two.  Where have I gone wrong?  A bit of my reference material follows.
+(365.2425 days/year - 365.24219 days/year) * (24 hours/day * 60 minutes/hour * 60 seconds/minute) = 26.7840000011347 seconds/year.  So, shouldn't this many seconds be subtracted, from the calendar year, each year?
+Calendar year
+The Gregorian calendar, as used for civil and scientific purposes, is an international standard. It is a solar calendar that is designed to maintain synchrony with the mean tropical year (Dobrzycki 1983, p. 123). It has a cycle of 400 years (146,097 days). Each cycle repeats the months, dates, and weekdays. The average year length is 146,097/400 = ​365 97⁄400 = 365.2425 days per year, a close approximation to the mean tropical year of 365.2422 days (Seidelmann 1992, pp. 576–81).
+Gregorian calendar
+The Gregorian calendar attempts to cause the northward equinox to fall on or shortly before March 21 and hence it follows the northward equinox year, or tropical year. Because 97 out of 400 years are leap years, the mean length of the Gregorian calendar year is 365.2425 days; with a relative error below one ppm (8·10−7) relative to the current length of the mean tropical year (365.24219 days) and even closer to the current March equinox year of 365.242374 days that it aims to match. It is estimated that by the year 4000 CE, the northward equinox will fall back by one day in the Gregorian calendar, not because of this difference, but due to the slowing of the Earth's rotation and the associated lengthening of the day.
+Leap seconds
+Between 1972 and 2020, a leap second has been inserted about every 21 months, on average. However, the spacing is quite irregular and apparently increasing: there were no leap seconds in the six-year interval between January 1, 1999 and December 31, 2004, but there were nine leap seconds in the eight years 1972–1979.

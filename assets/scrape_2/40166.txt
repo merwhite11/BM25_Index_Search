@@ -1,0 +1,3 @@
+Constants of three body problem(2 fixed centers)
+
+I was solving two fixed centers problem and got answer in quadratures. After that i want to find constants of motion. First one is full energy - E. Second is $p_{\varphi}$. And third one comes from separation of variables - $\beta$. I want to identify physical sense of this constant. I know how this constants should look like but i can't evaluate them myself. I was searching in different sources and i could find any evaluations. Does anyone know where i can find them?

@@ -1,0 +1,3 @@
+How do I calculate the flux density of a substellar object?
+
+I am currently trying to generate photometric passband colors for brown dwarfs and planets generated through MESA (Modules for Experiments in Stellar Astrophysics). I believe I understand the conversion between total bolometric flux density to passband flux (by taking the integral of the passband response function times the flux density over the range of the passband wavelength), but how would I calculate the flux density of an object in the first place with parameters such as temperature, mass, log(g), and metallicity?

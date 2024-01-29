@@ -1,0 +1,4 @@
+Are there any spectral lines with smaller frequencies than the hydrogen line?
+
+The 21 centimeter hydrogen line originates from the hyperfine transition of neutral hydrogen. Are there any bigger wavelengths that originate from this method?
+Radio emissions from rotating stellar objects are not part of this category; clarifying in case this is brought up.

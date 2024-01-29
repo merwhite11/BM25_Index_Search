@@ -1,0 +1,10 @@
+Historical Lunar Tables and the Associated Error Bound
+
+Consider as an example, AstroPixel's ``Six Millennium Catalog of Phases of the Moon''---
+http://astropixels.com/ephemeris/phasescat/phasescat.html
+My question is two-fold:
+
+How are these tables which give (for example) dates and times of new moons and full moons to the nearest minute, generated?
+
+How precise is this information? From http://astropixels.com/ephemeris/phasescat/phases0001.html
+we see, for example, that on Jan 13 0001, a New Moon occurred at 10:58 (UT). How much of an error bound is there likely to be on these data?

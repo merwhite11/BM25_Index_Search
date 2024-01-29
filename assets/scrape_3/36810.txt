@@ -1,0 +1,11 @@
+Mathematical Analysis of Blackhole
+
+Mathematically, for black holes old enough that the stellar material has collapsed all the way into
+the singularity, the region between the horizon and the singularity is occupied by a spacetime
+where the time and space coordinates are reversed from those of the outside world. What this
+means in terms of what you experience is unknown. Other more complex conditions can occur of
+the black hole is rotating. In that case the singularity becomes a ring around the center of the
+black hole. You can pass through the center, but the tidal gravitational field would be lethal in all
+likelihood. In nearly all cases there would be gravitational radiation rattling about, and this would
+cause distortions in spacetime that would probably lead to spectacular optical distortions.
+My question is Black hole absorbs everything. Is there any mathematical proof regarding this?

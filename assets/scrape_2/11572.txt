@@ -1,0 +1,3 @@
+What is the mass limit in a stellar accretion disc?
+
+I became curious about the maximum mass in a star's accretion disc while watching an episode of Star Trek involving a Dyson Sphere. I wondered if some maximum amount of stellar material would limit natural and artificial structures around any system of one or more stars. What affects these limits? Is there a logarithmic/linear/exponential correlation between stellar mass and maximum accretion mass?

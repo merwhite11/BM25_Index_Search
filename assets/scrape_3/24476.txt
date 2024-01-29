@@ -1,0 +1,11 @@
+Is it possible to model a solar thermal concentrator using Zernike polynomials?
+
+This question might seem a bit off-topic, but I guess there are a lot of people here that know about optics, telescopes, etc. 
+I would like to simulate solar thermal systems that focus solar radiation, e.g. heliostats or dish Stirling. Usually they are simulated using raytracing or Gaussian cone optics.
+Basically, I would like to simulate the optical system and get the resulting image of the sun on some surface.
+In the end I would like to calculate the "flux distribution" (~brightness) of the reflected radiation on some sort of receiver. The receiver could be a plate with heat pipes beneath or a Stirling motor. I would like to create images like http://solarenergyengineering.asmedigitalcollection.asme.org/data/journals/jseedo/929668/sol_136_03_031013_f002.png
+So far, I read that Zernike polynomials can only be used to simulate optical systems with circular apertures. This is not the case for my application. Currently I am evaluating the optical system using Monte Carlo raytracing (GPU based) , which yields the very high accuracy that is needed.
+We have not done any work on this so far, but for very large mirror arrays, e.g. 25000 heliostats, the raytracer takes quite a while to converge. And calculation time is a very critical point when in comes to optimizing the positions of the mirrors to avoid the shading and blocking amongst them.
+This is why we are looking for faster ways to evaluate the optical performance of these systems while still getting highly accurate results.
+Do you think it is possible to simulate them using Zernike polynomials? The simulation needs to consider surface errors of the mirrors, astigmatism and non-ideal focal lengths.
+Can one use Zernike polynomials only for arbitraty optical systems?

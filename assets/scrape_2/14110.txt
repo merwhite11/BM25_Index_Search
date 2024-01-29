@@ -1,0 +1,3 @@
+3D array in FITS data
+
+I am an amateur astronomer currently working on Spitzer telescope dataset with python (astropy and aplpy). From the examples in astropy's website, I understood that the FITS data is a way to represent image data with human-readable headers.  However, I now have a fits image ( SPITZER_I2_46469632_0000_0000_2_bcd.fits ) which is a 3D array of dimensions (64, 32, 32). I believe the second and third coordinates to be the length and height of the image in pixels. What about the first dimension? How do I interpret such images and NaNs in the data?

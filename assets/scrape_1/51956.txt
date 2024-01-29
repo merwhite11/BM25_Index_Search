@@ -1,0 +1,4 @@
+Galaxy shape and time differentials
+
+Can it really be said that something as large as a galaxy can have a "shape", which the positions of its constituent stars are their positions at various times in the past?  A star 100K ly from us is no longer in the position we see it, same for stars 50K ly away and so on.  Thus, a "shape" is not sufficiently deterministic and is only phenomena from a particular perspective; the shape doesn't exist.
+Thus, the wave density models, which assume a universal "now", would be inaccurate.  I know these time differentials must be considered, I can't image they're ignored, but it's never mentioned if it's just insignificant or built into the model.  I'm sure this is a naive question, but I never come across anything that addresses it.

@@ -1,0 +1,10 @@
+Generate a uniform distribution on the sky
+
+How to generate a uniform distribution of stars on the sky ? What I want is make a simulation of random points following uniform distribution on a part of the sky (making the assuption that we have the same amount of stars in any direction). The problem is how I do that because of the cos(dec) on the RA ?
+What I did in python is this
+import numpy as np
+RA = np.random.uniform(-180,180)
+Dec = np.random.uniform(-90,90)
+
+But it is totally false, since we will have more points on the poles (if I do many points, this will clearly not be uniform)...
+Thanks a lot in advance!

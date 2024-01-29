@@ -1,0 +1,6 @@
+What is the Lyman Alpha forest Used For?
+
+The Lyman-alpha forest is an interesting feature found in the spectra of sufficiently distant objects. This series of absorption lines extends over a range of frequencies, and are a result of the Lyman-alpha electron transition of neutral hydrogen in between the source and the observer. 
+
+My question is: 
+What information can be gleaned about the universe from this spectral feature?  In other words, what areas of research use the Lyman-alpha forest as a tool, instead of seeing it as noise?

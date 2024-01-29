@@ -1,0 +1,10 @@
+Time taken calculation to reach synodic degrees between planets
+
+I have a software tool which calculate the synodic period with degree inputs with two planets. Synodic Period is the temporal interval that it takes for an object to reappear at the same point in relation to two other objects (linear nodes).
+But I'm not sure how the calculation done behind the scene.
+Here's the settings:
+Planets: Sun and Moon (Geocentric Ecliptic)
+Synodic Degree: 180
+Begin: 12:00AM, 4 January 2022 GMT-5
+End result: 1:23PM, 19 January 2022 GMT-5
+How to calculate end result datetime with synodic degree between Sun and Moon?

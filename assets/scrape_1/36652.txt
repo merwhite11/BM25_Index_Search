@@ -1,0 +1,17 @@
+Converting rectangular to polar coordinates
+
+I'm following the steps in this paper on how to calculate geocentric longitude. In section 3.4.2 it says the
+Geocentric rectangular co-ordinates of Mercury then are:
+Xg = Xh−X0 = 0.990 A.U.
+Yg = Yh−Y0 = −0.259 A.U.
+
+Converting these into polar form, we get the geocentric distance and longitude as:
+rg = √(X2g+Y2g) = 1.024 A.U.
+λg = tan−1(Yg/Xg) = 345.3◦.
+
+For the life of me I cannot get the inverse tan of (Yg/Xg) to give me 345.3. This is what I'm doing in python:
+Xg= 0.990 
+Yg= -0.259 
+math.degrees(math.atan(Yg/Xg)) = -14.66091789971255
+
+Any help greatly appreciated.

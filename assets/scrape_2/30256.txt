@@ -1,0 +1,4 @@
+What causes "North-South ambiguity" when doppler radar imaging a planet surface equator?
+
+I'm having a hard time understanding why there would be this ambiguity. Also, why would this be not the case if the planet was viewed pole on?
+Edit: "North South ambiguity" is a term used in a paper that seemed most concise but I guess not. When using radar to doppler image a planetary surface which happens to be viewed equator on, we have no way of distinguishing whether the surface feature read in return signal belongs to the northern or southern hemisphere. What causes this?

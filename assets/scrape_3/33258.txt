@@ -1,0 +1,14 @@
+Does blackhole merging break their event horizon segregation?
+
+So far as I know, if we have 2 blackholes A and B, both having their own event horizons, then what's inside the event horizon of A remains completely unknown to us, and same for what's inside the event horizon of B.
+Now, suppose A and B coalesce (merge). So we now have a single blackhole C, with its own new event horizon.
+This would mean that what was inside the event horizon of A now "knows" what is inside the event horizon of B.  Would this mean that all event horizons of all blackholes are actually "linkable" together since they might all merge at some point?
+
+Edit: After watching the suggested video, I can try rewording the question:
+Suppose Alice and Bob are outside blackholes A and B.
+Alice jumps into blackhole A, and Bob jumps into blackhole B.
+Bob never sees Alice crossing the event horizon (according to the video below; it's the same Bob than in the video: he cannot see Alice crossing the event horizon until "t=infinity"), but Bob crosses the event horizon of blackhole B (not part of the video).
+Let's say that the two blackholes are also falling to one another so let's say they are "now" (that concept is probably misplaced) merging. So the two event horizons now become one.
+Are Alice and Bob reunited despite Bob never seeing Alice cross the event horizon of A? How would such situation (2 blackholes) be drawn using the diagram in the video in answer below?
+
+This might be related to Do black hole singularities actually merge? and What happens to the information on the event horizons of two merging black holes? but I'm unable to get my answer from there... but I'm only a computer engineer, I'm not a physicist, so the answer might be lying there and I don't see it.

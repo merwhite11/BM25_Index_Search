@@ -1,0 +1,15 @@
+redshift puzzle
+
+I have the central line of the spectrum of an elliptical galaxy (NGC:4697) and a template K-star. I have calculated the redshift z by computing the crosscorrelation function between the galaxy and the template star(blue) and the auto-correlation function of the template (orange), the x-axis is velocity $v \approx c*z$.
+In nonrelativistic approximation: $\Delta v \approx c*z$ giving me $z = 0.0041$.
+The redshift also is: $z = \frac{\Delta \lambda}{\lambda_{0}} = \frac{\Delta v}{c}$. I want an expression for $\Delta \lambda = z* \lambda_{0}$ to be able to shift my galaxy spectrum to the restframe for a plot.The problem is which wavelength $\lambda{0}$ to use in this formula? I tried one case for taking $\lambda_{0} = 518.364 nm$ (one line of the Mg-triplet) and got almost matching peaks for galaxy(shifted to restframe) and template. How can I compute $\Delta \lambda$ in general without the need of a specific $\lambda_0$?
+Plot before shifting
+
+Edit: function for computing the redshift and wavelength shift
+   def calc_redshift(vel_corr, corr_gal_tem):
+    """calculate the galaxies redshift by looking at the shifted peaks from the correlation functions"""
+    c = 299792.458                              # speed of light in km/s
+    vel_rad = vel_corr[np.argmax(corr_gal_tem)] # velocity value of the peak from the ccf between galaxy and template
+    delta_loglam = np.log(1 + (vel_rad/c))      # shift in logarithmic wavelength
+    z = np.exp(delta_loglam)-1                  # redshift
+    return z, delta_loglam

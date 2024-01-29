@@ -1,0 +1,6 @@
+Why does Sirius proper motion "wiggle" with a 1 year period, when Sirius A and Bs binary orbit is a 50 year period?
+
+Some stars, if observed repeatedly over time, show a perturbation or "wobble" in their proper motion. If this is a periodic occurrence we can infer that the perturbation occurs due to the gravitational influence of an unseen companion. 
+In Sirius Matters, Noah Brosch describes a secondary wiggle,
+"The trajectory described by the two components of Sirius shows an additional component of motion as tiny wiggles super-posed on the wider modulations of the proper motion by the orbital motion of the Sirius pair. The wiggles have a period of one year. "
+What causes this second wiggle?

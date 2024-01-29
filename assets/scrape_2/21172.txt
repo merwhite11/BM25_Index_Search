@@ -1,0 +1,11 @@
+Cooling of astrophotography camera sensor chip
+
+For astrophotography using 'medium size' land telescope at good location,
+
+How many time longer exposure, in view of boosting the system's ability to photograph even darker objects, can one gets from cooling down digital camera sensor chip?
+Is there a 'sweet spot' temperature where most thermal related noise is suppressed and further lowering of temperature yields litter extra benefit.
+What is the ball park temperature for low (amateur), medium and high (professional) grade cooled camera?  
+
+Web search shows that Peltier electric cooled camera works at around "minus a few tens degrees centigrade". Does the really professional one cool to more extreme level, somewhere close to liquid nitrogen temperature? 
+
+Does CCD, CMOS or other sensor have different 'sweet spots' temperature?

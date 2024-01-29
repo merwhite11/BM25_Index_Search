@@ -1,0 +1,5 @@
+How accurate is the "Equation of time" (mean time to actual solar time)? And how much can it vary from the average?
+
+At Wikipedia, they give equal values (9.87 min) for all four extremes – both troughs and both crests – caused by the obliquity of the ecliptic as seen in the graph below, where the purple dashed line is what is caused by the obliquity of the ecliptic.  But the duration of the four seasons are not equal, as you can see here. So what effect does it have on the equation of time?
+Also, the time from a perihelion to the next aphelion is not always the same as the time from that aphelion to the next perihelion, as seen in this almanac. As a consequence, the greatest delay of noon caused by the eccentricity of the orbit shouldn't be equal to its greatest advance. So how big can the difference be?
+Also, the dates of the perihelion and aphelion, as well as the actual sun-earth distance at these events aren't the same each year, as seen in the above reference. So the actual latest and earliest noon varies from the given dates. My question is, how much can they vary?

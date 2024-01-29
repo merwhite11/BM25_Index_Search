@@ -1,0 +1,4 @@
+Can we detect exoplanets with perpendicular plane of ecliptic?
+
+If I understand correctly, all the current exoplanet search is based on planets transitioning the distant star.
+If the plane of ecliptic of that star happens to be perpendicular to line of sight from Earth to that star - or sufficiently inclined, so that orbits of all its planets as seen from Earth "circle" the star without ever transitioning it - does that mean we're completely unable to detect them?

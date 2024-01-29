@@ -1,0 +1,5 @@
+Which celestial object in the solar system has the fastest tangential velocity at its surface?
+
+Consider all of the naturally-occurring objects in the solar system : in the reference frame of the object's center (ie, ignoring the orbital velocity around the sun or, in the case of satellites, their planet) and considering an average point on their surface : which object has the fastest tangential velocity?
+Note - I am not asking about the rotational velocity ($\omega$), but the tangential velocity, which for a solid spherical body would be simply $\vec v=\vec \omega\times r $. Since the solar system is typically not made of up homogeneous solid spheres, I can't just look up the tables of rotational velocities and radii of the objects. 
+I'm looking to be surprised, so everything goes : planets, their satellites and any of the other known objects (comets, asteroids, etc) - the only condition should be that this velocity should be more or less constant (I'm not sure if bodies in highly-elliptical orbits have severe changes in rotational velocity as they approach the sun).

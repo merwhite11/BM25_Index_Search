@@ -1,0 +1,19 @@
+Transformation from Geocentric Coordinates into Equatorial Coordinates?
+
+I have the moon's position in equatorial coordinates (RA and Dec) and now I want to calculate same moon's position in terms of earth centered coordinates i.e. Geocentric (latitude & longitude). My main goal is to establish a c++-code that gives me this transformation from RA,Dec to Lat,Lon and vice versa. 
+EDIT: More precisely, I have moon’s position in equatorial geocentric coordinates with following details:
+Origin: Center of Earth
+Lat   : Declination With fundamental Plane: Celestial Equator
+Lon   : R.A.        With Primary direction: Vernal Equinox
+And I am able to obtain the moon’s position corresponding to a specific Modified Julian Date (MJD). I am also able to calculate moon’s position in xyz-coordinates by following calculations
+$X= EarthMoon*sin(PI/2.-dec_moon*deg2rad)*cos(ra_moon*deg2rad);$
+$Y= EarthMoon*sin(PI/2.-dec_moon*deg2rad)*sin(ra_moon*deg2rad);$
+$Z= EarthMoon*cos(PI/2.-dec_moon*deg2rad);$
+where EarthMoon is the distance between Earth and Moon. Further, I am converting them into Horizon Coordinates (topocentric) w.r.t to an observer at a specific location by using my subroutine and this part done.
+Further, I am initiating my simulated CR-particles from observer site. E.g. vCR[3]= {R,lat,lon}
+vCR[3]={Rearth+2300, 31.30, 55.74} //Geocentric CS (earth-based)
+And converting them into Geocentric Cartesian coordinates(x,y,z). Finally, I have
+vM[3]={X,Y,Z}; in Equatorial geocentric coordinate system
+vCR[3]={x,y,z}; in Geocentric Coordinate System i.e. Earth based  
+That is my particular question in which I want to make vM[moon position] and vCR[CR position] to lie in same coordinates to get my final result. i.e. transformation from Geocentric (R,lat,lon) into Equatorial Geocentric (h,R.A,Dec).
+Note: For vCR[3]: zero-longitude is the Prime Meridian, Greenwich whereas for vM[3] it’s vernal equinox in celestial sphere there is the difference.

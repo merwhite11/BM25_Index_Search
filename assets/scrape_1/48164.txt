@@ -1,0 +1,13 @@
+Probability of transit of an exoplanet in front of its star
+
+I'm trying to calculate the probability of transit of an exoplanet in orbit around a star of diameter $d$, at a distance of $4d$ from its centre. Here's what I did:
+
+
+In this figure, we are only concerned about the right hemisphere. The idea I have used is that for a transit to be visible for an observer situated directly to the right, the orbit must extend to within $l$ of the right extreme of this sphere.
+To calculate $l$, I applied basic trigonometry:
+$$ \frac{\theta}{2}=tan^{-1}\frac{1}{8},$$
+and $\theta$ came out to be roughly $0.2$ radians.
+$$l = 4d * \theta \approx 0.8 \ d.$$
+Now the probability is simply given by $\large\frac{0.8 \ d}{4 \pi d}$ and this comes out to be about $\large\frac{1}{5\pi}$.
+Where have I gone wrong, because the answer to this problem is supposed to be $\large\frac{1}{8\pi}$?
+Even after approximating $l$ to be nearly $d$, the answer I get is $\large\frac{1}{4\pi}$ and not $\large\frac{1}{8\pi}$.

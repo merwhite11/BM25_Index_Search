@@ -1,0 +1,8 @@
+Are brown dwarf masses notoriously difficult to measure?
+
+The Next Big Future article Rogue Exoplanet 12.7 times bigger than Jupiter is 20 light years away
+
+SIMP J01365663+0933473 has a magnetic field more than 200 times stronger than Jupiter’s. The object was originally detected in 2016 as one of five brown dwarfs the scientists studied with the VLA to gain new knowledge about magnetic fields and the mechanisms by which some of the coolest such objects can produce strong radio emission. Brown dwarf masses are notoriously difficult to measure, and at the time, the object was thought to be an old and much more massive brown dwarf.
+
+Is this true? Are brown dwarf masses notoriously difficult to measure? Naively, it seems to me if I had brightness at a few wavelengths I could deduce a temperature, and if I had a distance, at least for a blackbody I'd know the area as well.
+Are one or both of these in fact difficult to get, or is there something else I'm missing?

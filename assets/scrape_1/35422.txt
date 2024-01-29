@@ -1,0 +1,3 @@
+Calculate how long it takes for the sun to complete one orbit around the galaxy?
+
+We know the speed that the sun travels around the galaxy is $220\, {\rm km/s} = 0.00021 \, {\rm parsec/year}$. I'm unsure of how to find the period?

@@ -1,0 +1,5 @@
+What is the cost and benefit of building two identical telescopes?
+
+I suppose that (especially space) telescope costs is dominated by design and development, not by material and manufacturing. So once a telescope has been developed and designed, how much extra would it cost to build a second copy of it? It seems as if spy satellites are built in batches of similar designs.
+Would the science value of a second similar telescope be modest, compared to a unique instrument, or improvements on the single telescope, for the same cost?
+I suppose that using two telescopes as an interferometer would be quite a different instrument design to begin with than just two of the same.

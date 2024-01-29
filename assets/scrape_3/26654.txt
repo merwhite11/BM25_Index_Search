@@ -1,0 +1,10 @@
+How far away is this galaxy?
+
+Arp 299 is in the news, with most sources reporting it as 140 or 150 million light-years away. But what kind of distance is this?
+The paper which is trhe source for the news item has Supplementary Materials which mention the distance but don't appear to say what kind or give details:
+
+The merging pair of galaxies Arp 299 (Fig. 1) at a 44.8 Mpc distance (33; corrected to the cosmic microwave background reference frame; H0 = 73 km s^-1 Mpc^-1) is one of the brightest nearby LIRGs with an IR luminosity LIR ~ 7x10^11 L_⊙ (34; L_⊙ = 3.833×10^26 W).
+
+Is it obvious what method is used (and thus what type of distance this is) to measure the distance to this galaxy? Is there a standard reference/database/etc. giving basic information like distances of astronomical objects like galaxies? I'd like to know the answer for this galaxy, but answers that generalize will naturally be more interesting.
+
+Edward L. Wright has a cosmology calculator that is useful in converting between different types of distances. His page on distances gives many methods for measuring distances; I feel that if I knew which type (if any) of these methods was used to find the distance I'd have a decent chance of figuring out what kind of distance it was (and could find the other distances by bisection).

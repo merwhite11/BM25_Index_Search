@@ -1,0 +1,8 @@
+Difference in stellar abundance numbers
+
+What is the correlation between stellar abundance by mass and by number?
+Let’s take the Sun and Helium for example. This paper mentions an abundance by mass for helium as Y=0.275 and by number as A=10.99, which I believe is derived by assuming N(He)/N(H)=8.5%.
+
+How do you get this 8.5%? Is there a standard value for N(H)?
+Why are abundances  given both by mass and by number? Is there a historic reason?
+Is there a relation between the two, that is can you estimate one “type” by knowing the value of the other?

@@ -1,0 +1,11 @@
+Where does the relativistic jet on Messier 87 come from?
+
+I'm reading Wikipedia on Messier 87's jet
+
+The relativistic jet of matter emerging from the core [...] consists of matter ejected from a supermassive black hole.
+
+but later in the paragraph:
+
+Its base [...] is probably powered by a prograde accretion disk around the spinning supermassive black hole.
+
+Is the matter that is getting jetted away coming from inside of the black hole itself, or is it from matter that's just outside of the black hole?

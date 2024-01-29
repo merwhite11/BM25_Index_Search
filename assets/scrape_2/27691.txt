@@ -1,0 +1,4 @@
+Quesions about extinction power law
+
+I am curious to know If dust extinction were to vary as a power-law so that $A_{\lambda}$ proportionate to $\lambda^{\beta}$ , what value of beta
+would give rise to Rv =3.1 which is the average in diffuse ISM. I can see a plot but I wanted to see how to derive Rv=3.1 mathematically

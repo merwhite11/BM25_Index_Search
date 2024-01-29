@@ -1,0 +1,11 @@
+What is the movement of stars within the nucleus of a barred spiral galaxy
+
+I'm looking for visualizations that show the movement of stars in barred galaxies but not having much luck. I've found many that simulate spiral galaxy arms in general, but none that include a bar or a nucleus.
+I'm trying to word my question in a way that is not dependent on my own assumptions, but some of my assumptions are:
+
+the area that includes the bar is the nucleus.
+the nucleus and the bulge are not necessarily the same thing. (Bars within the nucleus is a result of gravity waves. Bulge is an artifact of how the galaxy was formed.)
+the edge boundary of the nucleus is a gravitational "tipping point".
+stars are not crossing this boundary (ie: they either belong to the nucleus or to the arms, not both).
+
+What is the movement of stars within the nucleus of a barred spiral galaxy, and how do their galactic orbits differ from stars outside the nucleus?

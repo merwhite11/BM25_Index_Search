@@ -1,0 +1,327 @@
+Sidereal time calculation
+
+I am creating program in C which is derived from Javascript Solar Radiation calculator based on a book Guide to HTML, JavaScript and PHP: For Scientists and Engineers By David R. Brooks. The original program calculates Sidereal time like this:
+  // Sidereal time (Theta0)
+  double GMST = 280.46061837+360.98564736629*( i->JulianDate-2451545.);
+  // Sidereal_time = GMST + 0.000387933*T2 - T3/38710000
+  double Sidereal_time = GMST+0.000387933*T*T
+       -T*T*T/38710000.;
+  // Performance optimalizatuion of code for Sidereal=fmod(Sidereal,360.) or Sidereal%360
+  double S_save=Sidereal_time/360.;
+  if (S_save < 0.) Sidereal_time = Sidereal_time-ceil(S_save)*360.;
+  else Sidereal_time = Sidereal_time-floor(S_save)*360.;
+  if (Sidereal_time < 0.) Sidereal_time+=360.;
+
+Where i->JulianDate is date/time specified by user which is converted to Julian date. As you can see this approach is based on 2451545.0 which is the equivalent of January 1, 2000, at 12:00:00 UT and 36525.0 is Julian Year. I am not sure why there is 36525 instead 365.25 (days of Julian Year). Can you explain this?
+Once more the same code without comments:
+  double GMST = 280.46061837+360.98564736629*( i->JulianDate-2451545.);
+  double Sidereal_time = GMST+0.000387933*T*T-T*T*T/38710000.;
+  double S_save=Sidereal_time/360.;
+  if (S_save < 0.) 
+     Sidereal_time = Sidereal_time-ceil(S_save)*360.;
+  else 
+     Sidereal_time = Sidereal_time-floor(S_save)*360.;
+  if (Sidereal_time < 0.) 
+     Sidereal_time+=360.;
+
+Another question:
+If I enter date older than January 1, 2000, at 12:00:00 UT, e.g. 1945, will the sidereal time be correct? Or do I need to change the number 36525.0 to extend the range?
+Yet, before the Sidereal time is calculated in the program there is this:
+double T=( i->JulianDate-2451545.0)/36525.0; Which is similar thing.
+Sidereal_time is used to calculate hour_angle which is used to calculate Sun's elevation and Solar Zenit Angle Z. Will this variables be affected when I type 1945 or older date in the program?
+EDIT:
+I have added log to my program which printed values into file. I have tested the program for range 1990-2010. You can see that the SideReal time same as L0 (Geometric mean longitude) is negative number when the date is older than 2000/01/01 as defined in the program to calculate T. The difference of 10 years is cca 0.09999 of Julian century. 
+Date:1990 1 1 12:0:0
+Julian Century: -0.099986
+L0 - geometric mean longitude of the sun:: -3319.117706
+GMST: -1318039.123563
+Sidereal time: -1318039.123559
+Julian Date: 2447893.000000
+
+Date:1991 1 1 12:0:0
+Julian Century: -0.089993
+L0 - geometric mean longitude of the sun:: -2959.356420
+GMST: -1186279.362275
+Sidereal time: -1186279.362271
+Julian Date: 2448258.000000
+
+Date:1992 1 1 12:0:0
+Julian Century: -0.080000
+L0 - geometric mean longitude of the sun:: -2599.595134
+GMST: -1054519.600986
+Sidereal time: -1054519.600983
+Julian Date: 2448623.000000
+
+Date:1993 1 1 12:0:0
+Julian Century: -0.069979
+L0 - geometric mean longitude of the sun:: -2238.848201
+GMST: -922398.854050
+Sidereal time: -922398.854048
+Julian Date: 2448989.000000
+
+Date:1994 1 1 12:0:0
+Julian Century: -0.059986
+L0 - geometric mean longitude of the sun:: -1879.086915
+GMST: -790639.092761
+Sidereal time: -790639.092760
+Julian Date: 2449354.000000
+
+Date:1995 1 1 12:0:0
+Julian Century: -0.049993
+L0 - geometric mean longitude of the sun:: -1519.325629
+GMST: -658879.331472
+Sidereal time: -658879.331472
+Julian Date: 2449719.000000
+
+Date:1996 1 1 12:0:0
+Julian Century: -0.040000
+L0 - geometric mean longitude of the sun:: -1159.564343
+GMST: -527119.570184
+Sidereal time: -527119.570183
+Julian Date: 2450084.000000
+
+Date:1997 1 1 12:0:0
+Julian Century: -0.029979
+L0 - geometric mean longitude of the sun:: -798.817409
+GMST: -394998.823248
+Sidereal time: -394998.823247
+Julian Date: 2450450.000000
+
+Date:1998 1 1 12:0:0
+Julian Century: -0.019986
+L0 - geometric mean longitude of the sun:: -439.056123
+GMST: -263239.061959
+Sidereal time: -263239.061959
+Julian Date: 2450815.000000
+
+Date:1999 1 1 12:0:0
+Julian Century: -0.009993
+L0 - geometric mean longitude of the sun:: -79.294836
+GMST: -131479.300670
+Sidereal time: -131479.300670
+Julian Date: 2451180.000000
+
+Date:2000 1 1 12:0:0
+Julian Century: 0.000000
+L0 - geometric mean longitude of the sun:: 280.466450
+GMST: 280.460618
+Sidereal time: 280.460618
+Julian Date: 2451545.000000
+
+Date:2001 1 1 12:0:0
+Julian Century: 0.010021
+L0 - geometric mean longitude of the sun:: 641.213384
+GMST: 132401.207554
+Sidereal time: 132401.207554
+Julian Date: 2451911.000000
+
+Date:2002 1 1 12:0:0
+Julian Century: 0.020014
+L0 - geometric mean longitude of the sun:: 1000.974670
+GMST: 264160.968843
+Sidereal time: 264160.968843
+Julian Date: 2452276.000000
+
+Date:2003 1 1 12:0:0
+Julian Century: 0.030007
+L0 - geometric mean longitude of the sun:: 1360.735957
+GMST: 395920.730132
+Sidereal time: 395920.730132
+Julian Date: 2452641.000000
+
+Date:2004 1 1 12:0:0
+Julian Century: 0.040000
+L0 - geometric mean longitude of the sun:: 1720.497244
+GMST: 527680.491421
+Sidereal time: 527680.491421
+Julian Date: 2453006.000000
+
+Date:2005 1 1 12:0:0
+Julian Century: 0.050021
+L0 - geometric mean longitude of the sun:: 2081.244178
+GMST: 659801.238357
+Sidereal time: 659801.238358
+Julian Date: 2453372.000000
+
+Date:2006 1 1 12:0:0
+Julian Century: 0.060014
+L0 - geometric mean longitude of the sun:: 2441.005465
+GMST: 791560.999645
+Sidereal time: 791560.999647
+Julian Date: 2453737.000000
+
+Date:2007 1 1 12:0:0
+Julian Century: 0.070007
+L0 - geometric mean longitude of the sun:: 2800.766751
+GMST: 923320.760934
+Sidereal time: 923320.760936
+Julian Date: 2454102.000000
+
+Date:2008 1 1 12:0:0
+Julian Century: 0.080000
+L0 - geometric mean longitude of the sun:: 3160.528038
+GMST: 1055080.522223
+Sidereal time: 1055080.522225
+Julian Date: 2454467.000000
+
+Date:2009 1 1 12:0:0
+Julian Century: 0.090021
+L0 - geometric mean longitude of the sun:: 3521.274973
+GMST: 1187201.269159
+Sidereal time: 1187201.269162
+Julian Date: 2454833.000000
+
+Date:2010 1 1 12:0:0
+Julian Century: 0.100014
+L0 - geometric mean longitude of the sun:: 3881.036260
+GMST: 1318961.030447
+Sidereal time: 1318961.030451
+Julian Date: 2455198.000000
+
+EDIT2: fmod(GMST,24); fmod(Sidereal_time,24);
+Date:1990 1 1 12:0:0
+Julian Century: -0.099986
+L0 - geometric mean longitude of the sun:: -3319.117706
+GMST: -7.123563
+Sidereal time: -7.123559
+Julian Date: 2447893.000000
+
+Date:1991 1 1 12:0:0
+Julian Century: -0.089993
+L0 - geometric mean longitude of the sun:: -2959.356420
+GMST: -7.362275
+Sidereal time: -7.362271
+Julian Date: 2448258.000000
+
+Date:1992 1 1 12:0:0
+Julian Century: -0.080000
+L0 - geometric mean longitude of the sun:: -2599.595134
+GMST: -7.600986
+Sidereal time: -7.600983
+Julian Date: 2448623.000000
+
+Date:1993 1 1 12:0:0
+Julian Century: -0.069979
+L0 - geometric mean longitude of the sun:: -2238.848201
+GMST: -6.854050
+Sidereal time: -6.854048
+Julian Date: 2448989.000000
+
+Date:1994 1 1 12:0:0
+Julian Century: -0.059986
+L0 - geometric mean longitude of the sun:: -1879.086915
+GMST: -7.092761
+Sidereal time: -7.092760
+Julian Date: 2449354.000000
+
+Date:1995 1 1 12:0:0
+Julian Century: -0.049993
+L0 - geometric mean longitude of the sun:: -1519.325629
+GMST: -7.331472
+Sidereal time: -7.331472
+Julian Date: 2449719.000000
+
+Date:1996 1 1 12:0:0
+Julian Century: -0.040000
+L0 - geometric mean longitude of the sun:: -1159.564343
+GMST: -7.570184
+Sidereal time: -7.570183
+Julian Date: 2450084.000000
+
+Date:1997 1 1 12:0:0
+Julian Century: -0.029979
+L0 - geometric mean longitude of the sun:: -798.817409
+GMST: -6.823248
+Sidereal time: -6.823247
+Julian Date: 2450450.000000
+
+Date:1998 1 1 12:0:0
+Julian Century: -0.019986
+L0 - geometric mean longitude of the sun:: -439.056123
+GMST: -7.061959
+Sidereal time: -7.061959
+Julian Date: 2450815.000000
+
+Date:1999 1 1 12:0:0
+Julian Century: -0.009993
+L0 - geometric mean longitude of the sun:: -79.294836
+GMST: -7.300670
+Sidereal time: -7.300670
+Julian Date: 2451180.000000
+
+Date:2000 1 1 12:0:0
+Julian Century: 0.000000
+L0 - geometric mean longitude of the sun:: 280.466450
+GMST: 16.460618
+Sidereal time: 16.460618
+Julian Date: 2451545.000000
+
+Date:2001 1 1 12:0:0
+Julian Century: 0.010021
+L0 - geometric mean longitude of the sun:: 641.213384
+GMST: 17.207554
+Sidereal time: 17.207554
+Julian Date: 2451911.000000
+
+Date:2002 1 1 12:0:0
+Julian Century: 0.020014
+L0 - geometric mean longitude of the sun:: 1000.974670
+GMST: 16.968843
+Sidereal time: 16.968843
+Julian Date: 2452276.000000
+
+Date:2003 1 1 12:0:0
+Julian Century: 0.030007
+L0 - geometric mean longitude of the sun:: 1360.735957
+GMST: 16.730132
+Sidereal time: 16.730132
+Julian Date: 2452641.000000
+
+Date:2004 1 1 12:0:0
+Julian Century: 0.040000
+L0 - geometric mean longitude of the sun:: 1720.497244
+GMST: 16.491421
+Sidereal time: 16.491421
+Julian Date: 2453006.000000
+
+Date:2005 1 1 12:0:0
+Julian Century: 0.050021
+L0 - geometric mean longitude of the sun:: 2081.244178
+GMST: 17.238357
+Sidereal time: 17.238358
+Julian Date: 2453372.000000
+
+Date:2006 1 1 12:0:0
+Julian Century: 0.060014
+L0 - geometric mean longitude of the sun:: 2441.005465
+GMST: 16.999645
+Sidereal time: 16.999647
+Julian Date: 2453737.000000
+
+Date:2007 1 1 12:0:0
+Julian Century: 0.070007
+L0 - geometric mean longitude of the sun:: 2800.766751
+GMST: 16.760934
+Sidereal time: 16.760936
+Julian Date: 2454102.000000
+
+Date:2008 1 1 12:0:0
+Julian Century: 0.080000
+L0 - geometric mean longitude of the sun:: 3160.528038
+GMST: 16.522223
+Sidereal time: 16.522225
+Julian Date: 2454467.000000
+
+Date:2009 1 1 12:0:0
+Julian Century: 0.090021
+L0 - geometric mean longitude of the sun:: 3521.274973
+GMST: 17.269159
+Sidereal time: 17.269162
+Julian Date: 2454833.000000
+
+Date:2010 1 1 12:0:0
+Julian Century: 0.100014
+L0 - geometric mean longitude of the sun:: 3881.036260
+GMST: 17.030447
+Sidereal time: 17.030451
+Julian Date: 2455198.000000

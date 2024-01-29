@@ -1,0 +1,9 @@
+How to calculate the moon phase angle?
+
+I need to calculate the exact moon phase angle for each our of a day. I have my position in lat and long and a unix timestamp. At the end i would like to be able to caluculate the moon brightness with this formula: https://patents.google.com/patent/DE10113295A1
+const moonPhaseAngle = Math.cos(( 2 * ( ( phase * 100 ) / 100 ) -1));
+
+const moonBrightness = 10 * Math.sin( altitude ) * ( .5 + ( .5 * Math.cos( moonPhaseAngle ) ) );
+
+This is my actual progress through web search.
+Thank you for helping me!

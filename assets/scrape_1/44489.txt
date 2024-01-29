@@ -1,0 +1,3 @@
+Angle the Sun makes with the horizon during sunset
+
+Let's say it is the day of the summer solstice and the Sun is setting at 23.5 degrees declination. I am at let's say, 10 degrees latitude. How would I go about calculating the angle of the Sun below the horizon as a function of time? Would it simply be the angular velocity of Earth's rotation * elapsed time? Or would I need to factor in the declination of the Sun or the latitude that I am currently at?

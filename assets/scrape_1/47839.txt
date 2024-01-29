@@ -1,0 +1,4 @@
+Does the Schwarzschild metric solution require two (A and B, or g11 and g44) or four components (g11, g22, g33 and g44)?
+
+Different places on the web imply that Schwarzschild's metric uses four components or separate equations, similar to how Einstein's full set requires 6 or 10, or they say only two are needed.  Is it 2 or 4?
+P.S.:  Why does Friedmann's first equation only need one?  What does Schwarzschild include that Friedmann doesn't?

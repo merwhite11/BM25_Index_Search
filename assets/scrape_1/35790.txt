@@ -1,0 +1,4 @@
+Any active solar X-ray imager in orbit?
+
+NOAA GOES-14 & 15 went very recently in storage mode. With those also went the solar X-ray imagers (SXI), as GOES-16 & 17 do not have such instruments on board. Hence, my question:
+Are there still any active solar X-ray imagers of other space agencies orbiting the Earth?

@@ -1,0 +1,5 @@
+If the Sun got larger, but maintained its luminosity, would the Earth get hotter or colder?
+
+A recent question If the Sun were bigger but colder, Earth would be hotter or colder? asked - if the Sun got bigger and cooler, would the Earth heat up or cool down. I think the answer to that is mainly that it depends on the final luminosity.
+However, what I want to know here (hypothetically), is if the Sun got larger and it's effective temperature decreased such that it's luminosity was unchanged; how would that affect the equilibrium temperature of the Earth? I suspect the answer may involve the wavelength dependence of the albedo, emissivity and atmospheric absorption of the Earth.
+Another, less hypothetical, way of asking this is, if you put an Earth-like planet at different distances from stars with a variety of temperatures, such that the total flux incident at the top of the atmosphere was identical, how would the temperatures of those planets compare?

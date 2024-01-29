@@ -1,0 +1,4 @@
+How to calculate sunrise and sunset on on a given date and location?
+
+I have a given date at any time in future or past eg: 2016-04-23 or 2022-05-12
+Now given at any location(lat,lng). How do i find the time of sunrise or sunset.

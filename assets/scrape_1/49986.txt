@@ -1,0 +1,3 @@
+How is z calculated in red shift observations?
+
+If z is calculated using the ratio between observable wavelength and emitted wavelength, how do we know the emitted wavelength of a star that is moving away from us? Wouldn’t we have to be at a constant distance from the star to know that value?

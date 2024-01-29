@@ -1,0 +1,5 @@
+What does "forward facing" mean for space telescopes?
+
+I just noticed this announcement from the K2 mission that the field observed for Campaign 16 of the K2 mission would be changed so that the telescope would be "forward facing", saying that "observing in this mode allows for simultaneous observations from K2 and from Earth."
+(an aside: Campaign 17 was originally planned to be a forward facing to facilitate supernova science, but it was discovered that the telescope may not have enough fuel to last through Campaign 17, hence the modification to Campaign 16 to still facilitate supernova science)
+What exactly does it mean to be forward facing?

@@ -1,0 +1,4 @@
+How entropy increases over time
+
+According to 2nd law of thermodynamic,  in an isolated system entropy increases over tume. In an open system entropy might seems decreases but combined result of all related events results in overall entropy increase.
+Now lets say, a suffled deck of playing cards. If I sort the cards it seems entropy decreases, what's then the related  events that increases overall entropy. I am asking just to clear some of my confusions.

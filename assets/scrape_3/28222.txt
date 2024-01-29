@@ -1,0 +1,8 @@
+How far can you see in solar plasma at just under 1 solar radius?
+
+I was trying to compose an answer to this question here, about touching the surface of a star, and I was going to mention that the popular depiction of the sun's surface as 'basically lava' (as depicted in Sunshine, for example) is wrong.
+The usual definition of a star's radius is where the optical depth is 2/3. At this radius, the density of the sun is about 1/10th of air at sea level and can hardly be described as solid or liquid. 
+I wanted to get a sense of what this diffuse plasma would look like if you were in it and somehow impervious to the heat and radiation. Would it appear as a thin, glowing fog, through which you could still discern distant objects? Or would it appear as opaque as, say, a bonfire?
+Rephrasing in a little more technical way, What is the extinction coefficient of solar plasma at ~1 Solar radius in the visible spectrum? 
+What is the path length at which all light is effectively attenuated?
+(Since it varies by wavelength, I mean specifically the region of the visible spectrum where the plasma is at its most transparent).

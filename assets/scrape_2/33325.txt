@@ -1,0 +1,3 @@
+Syncing time for measuring the parallax of Mars
+
+I read somewhere (I can't remember the website) that when Cassini and Jean Richer measured the parallax of Mars, they used Jupiter's (or maybe Saturn's) moons to sync their time. How was this done?

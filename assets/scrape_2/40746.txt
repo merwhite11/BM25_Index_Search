@@ -1,0 +1,5 @@
+How would the characteristics of a habitable planet change with stars of different spectral types?
+
+The tidal forces a habitable planet experiences increase with decreasing spectral type. So a habitable planet orbiting a smaller, less massive, and cooler star would experience much stronger tidal forces than one orbiting a bigger, more massive, and hotter star, and likely be tidally locked.
+But what about other factors? How do other characteristics scale up with different stars?
+For example would the orbital velocity of a planet in the habitable zone of a red dwarf be smaller than the velocity of a planet in the habitable zone of a more massive and hotter star?

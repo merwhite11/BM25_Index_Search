@@ -1,0 +1,15 @@
+Will the Sun cool only after it left main sequence?
+
+I thought that the answer is yes, a little bit. As the sun runs out of hydrogen, then it it gets more and more contracted, increasing pressure, temperature, and therefore luminosity. This is supported by this answer saying, about main sequence stars, that:
+
+result is that older stars a slightly hotter and brighter than younger
+stars.
+
+However, Wikipedia says
+
+low- and intermediate-mass stars expand and cool until at about 5,000
+K they begin to increase in luminosity in a stage known as the
+red-giant branch. The transition from the main sequence to the red
+giant branch is known as the subgiant branch.
+
+Am I right that this cooling which wikipedia mentions happens after the star left the MS, while on the sub-giant branch? (Not cooling, and then entering SGB, on the way to RGB.)

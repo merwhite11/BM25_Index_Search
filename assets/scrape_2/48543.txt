@@ -1,0 +1,6 @@
+Planet's distance data from JPL Horizons - Mars Curiosity mission
+
+I am looking for distance measurement in AU between planets and Earth.
+E.g. For Mars, Current distance, or distance of Mars from Earth at any given datetime, along with minimum (closest approach), maximum (farthest approach) distance of Mars in its orbit with respect to Earth's motion.
+How do missions like Curiosity know the minimum (closest approach), maximum (farthest approach), and current distances between two bodies in their orbits?
+JPL Horizons must have it, I played around but couldn't find the values I was looking for. How do I get these values from JPL Horizons? Is there any other source I have to use for this?

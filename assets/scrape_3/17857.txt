@@ -1,0 +1,5 @@
+Change in angular diameter of Cepheid variables
+
+I'm a highschool student and in the process of writing a research paper of deriving period-lumniosity relation of Cepheid variable independently of the pre-existing PL relation. Thus, I need to derive distance to each Cepheid variable independently by using, for example, trigonometric parallax and Baade-Wesselink method. 
+In the process of using Baade-Wesselink method, I need to calculate the change in angular diameter, which is represented by ∆θ. The question is, how can I derive that value given fluxes from different bands (V,B, etc.. I'm using the SIMBAD database currently).
+Which definite equation do I need to use to derive it?

@@ -1,0 +1,4 @@
+When do radio and tv signals become indistinguishable from background noise of the universe?
+
+I understand the rate an EM signal broadcast uniformly from the Earth will decrease in its power is governed by the inverse square law. How far from Earth will radio and tv signals become indistinguishable from background noise from varied sources in the galaxy, even CMB. 
+I know nothing about the type of equipment that would be used to gather and analyze such a signal.  I don't know what the geometry of the observation means.  Assuming the optimal equipment and conditions we currently have and no other line-of-sight sources.

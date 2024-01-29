@@ -1,0 +1,4 @@
+Why do people choose 0.2 as the value of linking length in the friends-of-friends algorithm?
+
+The friends-of-friends algorithm (hereafter FOF) is commonly used to find halos in cosmological simulations. And FOF depends on only one parameter, linking length, $l_\mathrm{link}=b \left(\frac{V_u}{N}\right)^{1/3}$, where $V_u$ is the volume of the simulation box, and $N$ is the number of dark matter particles.
+In most literature, the value of $b$ is set at 0.2. What does $b\approx 0.2$ mean physically?

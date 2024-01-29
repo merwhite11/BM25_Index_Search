@@ -1,0 +1,20 @@
+pp-Chain reactions involving $^{3}_{2}He$ - differences in S-factor
+
+So I was looking at the pp-chain reactions that take place inside stars in a bit more detail.
+I got confused about the massive differences in reaction efficiencies concerning two reactions $^{3}_{2}He$.
+In the lecture notes I've googled (the ones that I've understood best so far), the reaction
+$$^{3}_{2}He + ^{3}_{2}He \rightarrow p + p + ^{4}_{2}He$$
+has an efficiency factor $S_1 \approx 6MeV-barn$ and being quoted as 'strong reaction'.
+While the other reaction I'm confused about in contrast is 
+$$^{3}_{2}He + ^{4}_{2}He \rightarrow ^{7}_{4}Be + \gamma$$
+with a way lower reaction probability of $S_2 \approx 4\cdot 10^{-4} Mev-barn$ and being quoted as 'electromagnetic interaction'.
+So my question: How can we understand the huge discrepancy between $S_1$ and $S_2$? Particularly, when is a reaction a 'strong' interaction?
+Isn't the strong force necessarily always involved, else there wouldn't be a potential minimum in the nucleus to tunnel to...
+Note: The S-Factor is just a part of the velocity dependent reaction cross-section $\sigma(v)$ so that $\sigma(E) = \frac{exp(-\tau)}{E} S(E)$. Here $\tau$ is the tunneling probability from Quantum theory.
+I would also appreciate any good textbook reference, as so far I'm working with google and random lecture notes I'm finding.
+Edit:
+Thoughts on this:
+In both cases particles must tunnel towards each other first. Also we know that $^{4}_{2}He$ is a bound state for the nuclear force.
+So what might be happening is that in $^{3}_{2}He + ^{3}_{2}He$ the nuclei rearrange themselves into the energetically favoured bound state, kicking out the surplus protons.
+In the case of $^{3}_{2}He + ^{4}_{2}He$ the bound state already exists, and thus in most cases the reaction will be reversed. Only a few of those reactions (why?) allow the spontaneous formation of a higher-shell object like $ ^{7}_{4}Be$, thus the much lower reaction rate.
+If this story so far makes sense, then I still don't understand when and why  $^{7}_{4}Be$ is formed, I'd be grateful for explanation.

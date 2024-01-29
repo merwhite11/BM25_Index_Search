@@ -1,0 +1,31 @@
+Calculate Earth Zenith Point of Another Planet with Azimuth and Elevation of another Observer Point
+
+I need to find the Longitude of the closest point on Earth (zenith) to Jupiter with the Azimuth and Elevation data from another observation location at a given point in time.
+Below is the source of my data points for one specific second in time:
+Target:  Jupiter
+
+Observer Point: Detroit, Mi
+Center geodetic : 275.606400,33.7528000,1.581E-12 
+{E-lon(deg),Lat(deg),Alt(km)}
+
+Point in Time
+2014-Sep-14 00:00
+
+Target
+Right Ascension:  09 00 45.15
+Declination:      +17 29 55.9
+
+Azimuth:      311.279081
+Elevation:        -22.059168
+
+Below is the calculation I use to get the zenith latitude.  I'm not 100% sure it's correct, but logically it seems correct.
+Calulate Target Zenith Latitude
+90° - Elevation = Target Zenith Latitude
+90° - (-22°) = 78°
+- The Zenith latitude of Jupiter at 
+  this point in time is 78° 
+
+Though I'm not sure how to find the correct zenith longitude.  Since the elevation is negative, -22.059168, I assume Jupiter is not visible from Detroit as it is below the horizon at that time.
+Logically it seems that one would first need to find the NWN horizon longitude at the Azimuth of 311.  And then add  22° to that latitude to find the zenith longitude of Jupiter to Earth given the data from the Detroit observer point..
+I don't know if this logic is correct.  And if it is, I don't know how to calculate that absolute horizon longitude at the 311 azimuth at a particular moment in time.
+I'm hoping someone can help me calculate the correct longitude of the Earth's Zenith point to Jupiter.

@@ -1,0 +1,4 @@
+If space was n>3 dimensional, would clouds of particles still turn into 2D disks due to gravity?
+
+I don't fully understand why clouds of particles which turn into galaxies and solar systems usually result in an (approximately) 2D shape, but whatever. Would they still result in an almost 2D shape if our space was n dimensional with $ n > 3 $ and the laws of physics were the same (adapted for that $ n $)? Or would it be an (approximately) $ n-1 $ dimensional shape?
+It would be of interest to have an answer to this question under the assumption that the attractive force was still proportional to $1/r^2$ even when the dimensionality is greater than 3.

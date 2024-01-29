@@ -1,0 +1,4 @@
+Why does Astronomy still use the Anno Domini system for Time Synchronization
+
+Since Time is such a valuable variable in the calculation of Astronomic movement why does the Astronomy Community still rely on the the 6th Century Anno Domini system developed by Dionysius Exiguus to establish Time on Earth.
+Obviously it is not 2013 on Earth, wouldn't it be more technically accurate to determine the actual time on Earth or get as close as possible to it than to use a time that is clearly wrong and developed by someone 15 centuries ago?

@@ -1,0 +1,9 @@
+What is the closest an asteroid or comet has passed the Sun and survived?
+
+After SOHO began watching the Sun from space with its coronagraphs 24/7 it was discovered that there are comets passing very close to the Sun quite regularly, and while some are destroyed, some are seen to emerge and continue on.
+From these observations and from all other comet and asteroid observations there should be quite a collection of objects whose orbits take them very close to the Sun.
+Is there any way to find out What is the closest an asteroid or comet has passed the Sun and survived?
+
+Here is a GIF I made for this answer also used in this answer. In addition to some comets you can see Venus on its approach to occultation by the Sun in 2016. Seeing the Pleiades so close to the Sun is exciting as well!
+
+These LASCO C3 images from SOHO were downloaded sohodata.nascom.nasa.gov/cgi-bin/data_query. The square frame is about 15.9 degrees wide.

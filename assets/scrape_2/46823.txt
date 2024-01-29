@@ -1,0 +1,16 @@
+How to find x-values of fourier-transformed correlation functions in velocity space?
+
+I am trying to extract the kinematic parameters (rotation velocity, velocity dispersion, ...) of an elliptical galaxy by extracting the kinematical broadening function using the FCQ-Algortihm first described by Bender 1990: (https://ui.adsabs.harvard.edu/abs/1990A%26A...229..441B/abstract)
+I am therefore using the central line spectra of the elliptical galaxy NGC 4697 and the 1D template spectra of the K2-III star HD 132345. After some preprocessing steps I calculated the cross correlation function between the galaxy and the template and extracted the peak of it.
+
+I calculated the velocity spacing per pixel and the velscale is approximately 30 km/s per pixel. I
+Now I have to transform the peak of the correlation function into fourierspace:
+from numpy.fft import fft as fourier, ifft as ifourier
+corr_gal_tem_peak_fourier = np.fft.fftshift(fourier(corr_gal_tem_peak))
+
+The plotted resulting powerspectrum (absolute square) in fourierspace has the expected gaussian form, plotting it leaving out the x-values like:plt.plot(np.power(np.abs(corr_gal_tem_peak_fourier), 2)) results in:
+
+I now need to fit a model for this powerspectrum to create an optimal Wienerfilter in fourierspace. I therefore need some x-values in fourierspace. I tried to create x-values using np.fft.fftfreq() with:
+n = corr_gal_tem_peak.size s = np.fft.fftfreq(n, d=velscale)
+Plotting this idea results in this:
+Can anybody tell me how to properly create the array for the x-values in fourierspace, they would have unit of s/km ?

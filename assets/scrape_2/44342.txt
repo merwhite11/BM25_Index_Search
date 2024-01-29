@@ -1,0 +1,18 @@
+Question regards to Kirchhoff’s Laws (of spectroscopy)
+
+In the book "Horizons: exploring the universe-Cengage learning (2018)", page 210, it states that:
+
+Observational evidence can tell you how nova explosions occur. As the explosion begins, spectra show blueshifted absorption indicating that the gas is dense and coming toward you at a few thousand kilometres per second. After a few days, the spectral lines change to emission lines, telling you the gas has thinned.
+
+But from what I learned, The [Kirchhoff’s Laws] states that
+
+Law I: The Continuous Spectrum:A solid, liquid, or dense gas excited to emit light will radiate at all wavelengths and thus producea continuous spectrum.
+
+
+Law II: The Emission Spectrum: A low-density gas excited to emit light will do so at specific wavelengths and thus produce an emission spectrum.
+
+
+Law III: The Absorption SpectrumIf light comprising a continuous spectrum passes through a cool, low-density gas, the result will be an absorption spectrum.
+
+So both the emission and absorption spectrum only involve low-density gas, how did the conclusion After a few days, the spectral lines change to emission lines, telling you the gas has thinned. being drawn?
+Image credit: Kirchhof laws from Wikipedia -- Gustav Kirchhoff.

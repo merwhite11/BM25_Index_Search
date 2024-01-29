@@ -1,0 +1,5 @@
+Calculating the orientation of the night sky
+
+How would one calculate the rotation/tilt of the earth to simulate the Night Sky in a self-written tool or app. I am trying to built an app for my telescope to show me on my phone what I am looking at. I can already simulate the exact positions of stars at the 1.1.2000 at 00:00:00 but I dont know how the "earth" should be rotated so I can simulate the sky from my current position and accurate time. 
+There are App and tools like stellarium that can achive this but I just cant get the angles right: 
+If anyone could point me in the right direction and tell me what I need to change/calculate it would help me a lot.

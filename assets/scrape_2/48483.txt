@@ -1,0 +1,19 @@
+Where is my camera pointing
+
+I operate a meteor camera from a fixed location with a known elevation, FOV, and I can work out its sidereal time. On a good night, it takes a large number of images of the sky (fits files).
+I can send these to astrometry.net to find out what my camera was viewing at that time but I was wondering if there was a website that can predict what my camera be pointing at on a particular night so I can stack the images to see if I can catch the event.
+Or is there a way of calculating what RA and dec I have at a particular time?
+The location of the camera, which has a fixed location and elevation, is
+
+latitude: 51.07 ;  longitude: -1.34 ;
+
+The camera's field of view is ;
+
+Approx. horizontal Field-of-view in degrees fov_w: 40 ;
+Approx.
+vertical Field-of-view in degrees fov_h: 20
+or approximately 150 degrees.
+The camera's height is 87 m above sea level and has an elevation of 130 degrees from horizontal.
+
+I have some coding experience so would not be adverse to python coding if this ultimately gives a better solution.
+The Muskegon site, http://www.stargazing.net/mas/al_az.htm,  is comprehensive but does not provide the full solution regarding FoV and potential targets.

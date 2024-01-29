@@ -1,0 +1,4 @@
+Equatorial Co-Ordinates of the Solar Barycentre
+
+Does anyone know where the solar barycentre is in the old equatorial (based on Earth's position on midday, 01/01/2000) system? I want to add an ICRS option for a 3d model I'm working on.
+EDIT: degrees would be ideal (0h = 0 degrees, 12h = 180), but RADEC works too.

@@ -1,0 +1,10 @@
+What does par. lines mean in relation to a telescope aperture in 19th century German astronomical publications?
+
+I am trying to understand what is meant by par. lines in an 1867 article "The Aberration of the fixed stars after the wave theory" by Prof. W. Klinkerfues of Royal Astronomy Works of Goettingen. (LEIPZIG, VERLAG VON QUANDT & HÄNDEL., 1867)
+The passage is on page 57 and reads "The latter, with a telescope of 21 par. Lines aperture and 18 inches focal length, was at 50 times Magnification suitable to give the state of the clock to a small fraction of a second".
+In the original German version it is "Letzteres, mit einem Fernrohre von 21 Par. Linien Oeffnung und 18 Zoll Brennweite, war bei 50 maliger Vergroesserung geeignet ...".  I do not know German language and apologise for any typing errors.
+It appears that "inch" was still being used in Goettingen around this time, before they switched to the metric system in the late 19th century.  However, I am not sure how closely this "inch" relates to the current standard inch.
+Any help is appreciated in figuring out the aperture of this telescope.
+Any help in getting a fuller description of this telescope, used by Prof. Klinkerfues to determine whether there is any change in stellar aberration if a liquid is inserted between the objective and eye-piece, is also appreciated.
+Kind regards,
+Joseph

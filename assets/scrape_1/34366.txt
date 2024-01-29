@@ -1,0 +1,4 @@
+Can we detect pulsars that aren't "pointed" towards us?
+
+A pulsar is a highly magnetized rotating neutron star that emits beams of radiation through its magnetic poles, in the direction of the Earth. This makes it seem to pulse, as seen from Earth. There likely are similar objects that pulse as seen from other directions, but not from Earth. Can we tell the difference between one of these objects and an ordinary neutron star?
+Is there any way of detecting pulsars that are not pulsing in our direction?

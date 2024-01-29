@@ -1,0 +1,3 @@
+WOW! signal calculation of point source intensity
+
+The WOW! signal's measurement took the average signal strength over 12-second intervals. The average intensity's peak was just over 30-1 signal to noise, meaning that the 12 second interval had an average strength of 30-1. But evidence suggests the signal came from a point source. Has anyone ever done the math to estimate the point source strength? Is this even possible?

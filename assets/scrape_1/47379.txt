@@ -1,0 +1,3 @@
+How would a cooled down neutron star look when illuminated?
+
+Assume we have a neutron star that has cooled down so far that it no longer emits visible light. If we illuminate it with a powerful external light source, what would it look like? Would it reflect light, would it scatter it, would it re-emit it with a different wavelength, or would it remain completely black?

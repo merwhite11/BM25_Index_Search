@@ -1,0 +1,18 @@
+What's the equation for moon-moon tidal heating?
+
+Between a moon and the primary, the equation for tidal heating is:
+$$\dot E_\mathit{Tidal} = - Im(k_2) \frac{21}{2} \frac{GM_h^2 R^5 n e^2}{a^6}$$
+But how does one calculate the tidal heating between moons?
+Simplifying assumptions I'm fine with:
+
+The moons are coplanar, $I_\mathit{affected} = I_\mathit{perturbing} = 0$
+Both orbits have no eccentricity, $e_\mathit{affected} = e_\mathit{perturbing} = 0$ (which also implies no heating from the primary)
+The affected moon is tidally locked to the primary
+The perturbing moon can be treated as a point mass
+
+While I'm not able to come up with any formula, I suspect the following properties hold:
+
+The tidal heating is still proportional to $Im(k_2)$, as this seems to only be an internal property of the moon.
+It's still proportional to $R^5$
+Since tidal forces are inversely proportional to distance cubed, I think the overall heating is proportional to ${(a_\mathit{affected} - a_\mathit{perturbing})^{-3}}$, due to most heating happening while they are in close proximity.
+It's inversely proportional to the relative synodic period of the two moons.

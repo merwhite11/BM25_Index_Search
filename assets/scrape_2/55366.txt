@@ -1,0 +1,3 @@
+How to calculate flux at a specific frequency from another frequency and spectral index
+
+First of all, I know spectral index is $\alpha=\frac{log\frac{S_1}{S_2}}{log\frac{v_1}{v_2}}$ where $s$ are the flux densities and $v$ is the frequencies. I wonder that If i can use spectral index and an flux density observation to calculate other? Basically i know that the spectrum follows power law spectrum where I want to make this calculation (GHz radio frequencies), it almost fits the power law.

@@ -1,0 +1,11 @@
+Small Angle Approximation Discrepancy in Horizon Dip Angle
+
+Let's get back to the classic astronomical problem of calculating horizontal dip angle using small angle approximations. Let, our observer is a point object situated at an height $h$  on the earth surface with radius $r$. And his/her horizon is situated at a distance $D$. So I tried calculating $\theta$ in two different ways: one route was forming a Right Angled Triangle with $(h+r)$ as the Hypotanuse, $D$ and $r$ as the two other sides, cancelling $h^2$ term for being negligible - and simplifying for $\theta$ using $tan\theta$ approximation.
+The other method just creates an expression in terms of $D,\theta$ and $r$ for the length $(h+r)$, and then another expression showing the length of perpendicular drawn from the horizon upon the segment $(h+r)$ being subtracted from itself. Finally, the two expressions are simplified with small angle approximations of sin and cos, and combined and simplified to get a formula for $\theta$.
+And to my knowledge, both ways are correct. Then why are we getting two different results?
+
+Pardon for somewhat untidy drawing, I'm still pretty much new at this.
+Assumption used:  Considering $\theta$ as small angle, we know  $sin\theta \approx tan\theta \approx \theta $ and
+$cos\theta \approx 1$
+Result obtained in the first method:    $ \theta = \sqrt\frac{2h}{r}$
+And the second method yields: $ \theta = \sqrt\frac{h}{r}$

@@ -1,0 +1,8 @@
+What's the angle between the sun's galactic speed and the ecliptic?
+
+I know the sun wobbles up and down the galactic plane around 35myr. I don't mind about that component.
+I'd like the know the angle between the linear speed of sun around the Milky Way (just the angular speed by distance to center) and the ecliptic.
+I understand that the ecliptic is like a gyroscope and the angle between the ecliptic and the galactic plane is constant at 63°.
+So the angle between the sun's linear speed and the ecliptic must change with time.
+My second question is:
+Is it correct to say that the rate of change of this angle is 360°/250myr?

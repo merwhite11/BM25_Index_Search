@@ -1,0 +1,12 @@
+The physical processes of emission lines in cosmic nebula
+
+I think I understand how absorption lines in cosmic bodies occur. But after reading about the emission lines in quasars I am wondering more and more about the physical processes causing the emission lines in cosmic nebula. I hope you can explain these processes to me, more precisely from where to where energy needs to transition and if there are temperature requirements on the involved objects. Below are some of the statements that I encountered and I don't understand:
+
+Emission clouds/nebula need to be ionized - But they need to be only partially ionized, right? If they are fully ionized energy transitions of the electrons wouldn't be possible, so emission lines wouldn't be possible either and there would be only scattering.
+
+Only hot gases create emission lines - Is this really true? Wouldn't it be possible, that a cosmic cloud much cooler than the object illuminating it would also cause emission lines (see drawing below)?
+
+Regarding emission lines from stars I read that they occur due to recombination - is this true? But why only discrete initial energy of the electrons would allow them to recombine with a (partially) ionized atom?
+
+
+So can you explain the physical processes of nebula emission lines in a bit more detail than the links do? Tnx

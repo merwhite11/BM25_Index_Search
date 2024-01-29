@@ -1,0 +1,4 @@
+Could we optically observe metallic hydrogen in space?
+
+As many calculations have been done on whether metallic hydrogen is metastable or not in low-pressure environment, It occurred to me that by the fact that we have not observed any metallic hydrogen so far in space, shouldn't this be a strong case for supporting the notion that metallic hydrogen is not stable without pressure?
+It seems likely to me that metallic hydrogen could be pulled from the core of a gas giant, as in the case of Hot Jupiters, which are so close to their star, that they eventually are ripped apart by tidal forces; in this events their insides would be "gutted" out, including metallic hydrogen, which could be observed, were such an event to happen.

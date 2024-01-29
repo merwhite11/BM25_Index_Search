@@ -1,0 +1,7 @@
+How did single dish (or single receiver) radio telescopes originally generate images?
+
+That actually sums up my question nicely: How did single dish (or single receiver) radio telescopes originally generate images? - or at least 2D intensity maps or contour plots.
+Early radio telescopes were actually not much more than a Directional Antenna pointing up, connected to a sensitive receiver with various filters, maybe an IF stage or two, but no demodulation. You measured the "noise" signal strength as a function of time on a chart recorder - pen and ink. 
+I think there were radio images generated and published well before there were high granularity interferometers and computational correlators. The early ones were contour plots, on 2D plotters - again pen and ink.
+How was this done? How did, say, a single dish antenna with a single feed generate radio maps?
+edit: It doesn't necessarily have to be a dish antenna - it's the single receiver part I'm interested in.

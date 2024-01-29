@@ -1,0 +1,4 @@
+Aaditya L1 mission ISRO
+
+ISRO's next mission to the Sun is Aditya-L1, (also here), which will be placed at the Sun-Earth Lagrangian point L-1. 
+Why it is not placed near L-4 or L-5, since these are stable equilibrium point whereas L-1 is unstable equilibrium? What is the advantage to placing Sun-observing satellites like Aditya near the L-1 point?

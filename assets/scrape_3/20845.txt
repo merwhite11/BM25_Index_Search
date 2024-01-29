@@ -1,0 +1,3 @@
+Can radio-based telescopes produce visible light images?
+
+It's a fairly simple question (at least in my layman's mind). Can a radio telescope that has no mirrors or lenses to capture visible light (to human eyes) still produce imagery like an optical telescope such as the Hubble? I'm talking just ROYGBIV light (no infrared or UV).

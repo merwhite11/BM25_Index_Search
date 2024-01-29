@@ -1,0 +1,15 @@
+Solution of stellar structure equation for Sun in Convective Zone
+
+Consider the following problem:
+
+Sun has a convection zone from $0.7 R_\odot$ to the solar surface, when $R_\odot$ is the radius of Sun. If the matter is marginally convectively unstable and the convection zone contains a very small fraction of Sun's mass so that the gravitation field in the convection zone can be taken to be $-GM_\odot /r^2$ when $M_\odot$ is mass of Sun, obtain the density, pressure and temperature profiles as functions of the radial coordinate. Assume the convection zone consists of $75\%$ ${}^{1}$H, $20\%$ ${}^{4}$He, $3\%$ ${}^{12}$C and $2\%$ ${}^{56}$Fe and is hot enough such that inter-atomic potential energies of the matter therein are negligible compared to the kinetic energies of the particles.
+
+
+For convection region, We know that
+$$\frac{dT}{dr}=\left(1-\frac{1}{\gamma}\right)\frac{T}{P}\frac{dP}{dr}$$
+We also have the equation of state given by
+$$P=\frac{k_B}{\mu m_H}\rho T=\alpha \rho T\rightarrow \frac{dP}{dr}=\alpha\left(T\frac{d\rho}{dr}+\rho\frac{dT}{dr}\right)$$
+putting the value of $dT/dr$, We get
+$$(\gamma-1)T=\rho\frac{dT}{d\rho}$$
+$$\int_{T_\text{eff}}^T\frac{dT}{(\gamma-1)T}=\int_0^\rho\frac{d\rho}{\rho}$$
+You can see that the second term have a problem with boundary condition. Is something wrong with my approach? Why this boundary condition is not fitting?

@@ -1,0 +1,6 @@
+Can't find Cassiopias Schedar or Caph in Tycho-2 catalog supplement 1
+
+I'm trying to locate three stars inside Cassiopeia, gam cas, Schedar, and Caph. I have found gamma Cas inside the Tycho-2 catalog supp1.dat file, however when I look for Schedar or Caph I have no luck. I converted their RA and dec to decimal degree, Schedar = (10.12, 56.53) and Caph = (2.29, 59) and used the Vim command 
+:/|002\.
+
+to find their location in the star catalog, but I haven't found any stars that match the RA, dec, or even visual brightness, which are 2.24 for Schedar and 2.28 for Caph. I'm kind of stuck at this point and not sure where to head from here.

@@ -1,0 +1,9 @@
+How many solar system objects that can really qualify as a KBO are likely to enter Pluto's Hill sphere each day?
+
+A comment below Which celestial body is able to come closest to Pluto? says that
+
+Technically, many, many small Kuiper belt objects enter Pluto's Hill Sphere (or sphere of influence SOI) every day.
+
+Pluto is small, but it is very far from the Sun, so maybe its Hill Sphere could be surprisingly large, and if we called each particle of dust out there a "small Kuiper belt object" then this can be true.
+Question: But realistically, how many solar system objects that can really qualify as a KBO are likely to enter Pluto's Hill sphere each day?
+For the purposes of this question let's see if there is some way to ascertain what a KBO might be, and not focus on the helpful comment too much.

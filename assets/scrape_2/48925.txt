@@ -1,0 +1,4 @@
+Using Saha's equation knowing the overall pressure
+
+Knowing the pressure, $P_g$, how can I calculate $\frac{N_{I+1}}{N_I}$ using Saha's equation?
+If I assume that $P_g=(n_e+n_{H^+}+n_H)K_B T$ and that $n_e=n_{H^+}$, I can find the electronic pressure, $P_e$, and plug it in Saha's equation, but then I'm left with $n_H K_B T$, which is gonna screw my calculations.

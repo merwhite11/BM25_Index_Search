@@ -1,0 +1,3 @@
+Where can I find a visible star dataset?
+
+I'm trying to do a project for a databases class where I have a user enter their current location and I tell them what constellations/planets/etc are visible in their area. I've seen this data compiled into images, PDFs, and website entries, but I can't seem to find a csv for it. I get that this data is bound to be massive or extremely complex, but I feel like there should be something out there. Any clues?

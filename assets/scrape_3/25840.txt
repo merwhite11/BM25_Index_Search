@@ -1,0 +1,5 @@
+horseshoe orbits
+
+I'm designing a moon system for a fictional setting, and recently came across the idea of horseshoe orbits.
+The gist of my question is how many objects can share a horseshoe orbital at a time?
+I need to have roughly a dozen Earthlike moons in orbit around a planet. Originally, I was thinking about having them spaced out on the same orbital, or just on different orbitals, but a horshoe setup would be near perfect for multiple reasons I won't get into.

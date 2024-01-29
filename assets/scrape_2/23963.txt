@@ -1,0 +1,3 @@
+How do we calculate the image circle of a telescope at prime focus?
+
+I'm trying to find a suitable CCD and telescope combination. So, I want to make sure that the image circle of the telescope circumscribes the CCD. But I'm unable to find anything that tells me how to calculate the same.

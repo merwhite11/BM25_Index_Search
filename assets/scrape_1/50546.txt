@@ -1,0 +1,5 @@
+Does polar motion cause the Earth ellipsoid to change?
+
+The Earth is oblate because it spins and is not a rigid body. Since its spin axis changes relative to its crust, then the meridian of maximum diameter changes too, right?
+I understand that polar motion is very small (just a few meters), but the tidal bulge is larger (over 20 kilometers), so I wonder if the side effects of polar motion are more dramatic than I had initially thought.
+To be clear: I am talking here about polar motion, not precession or nutation.

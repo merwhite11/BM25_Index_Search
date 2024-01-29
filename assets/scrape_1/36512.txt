@@ -1,0 +1,10 @@
+Why is the Moon's orbit so complicated?
+
+I like to think I have a good enough understanding of astrophysics but there's still one thing that I just can't explain. 
+Why does the Moon orbit the Earth the way it does?
+Many other moons in the Solar System orbit their planet along the equator and have a nearly circular orbit. After researching, it seems to boil down to two main causes:
+
+Since every planet rotates on its axis, it has an equatorial bulge, and that extra mass around its equator creates an unequal gravitational field that over millions of years aligns the satellite's orbit around it.
+There's a phenomenon called tidal circularization, which on long timescales, acts to dampen the satellite's eccentricity and make its orbit nearly circular. 
+
+Okay, that makes sense for most moons. But our own Moon has an orbit that is notably eccentric and it's also inclined to Earth's equator by an amount that somehow changes over time from 18° to 28°. Why is the Moon's orbit so complicated?

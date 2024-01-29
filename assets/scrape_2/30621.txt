@@ -1,0 +1,7 @@
+What actually determines the angular uncertainty of the source of a detected gravitational wave?
+
+This answer and comments got me thinking. Astrometry 101 tells us that while we can use $\lambda/D$ as an estimator of resolution, if we can assume a point source we can determine the centroid or position to far higher precision. 
+For example, GAIA's design targets for precision were roughly 7, 20, and 200 micro-arcseconds for visual magnitudes 10, 15, and 20, respectively whereas $\lambda/D$  gives 70,000 x 200,000 micro-arcseconds for its rectangular mirror.
+The limitations are both instrumental beyond just the aperture or baseline, and connected to the nature of the signal, and that's were determining the direction of a gravitational wave source is very different than determining the direction of a star's light.
+Question: For gravitational waves then, what actually determines the angular uncertainty of the source direction? Does it turn out to be baseline-limited (e.g. $\lambda/D$) or instrument-limited, or limited by the very short-lived and chirped nature of the signal? Or is it something else, perhaps in the modeling and reconstruction of the event itself?
+From ligo.caltech.edu's Gravitational-Wave Observatories Across the Globe just for background:

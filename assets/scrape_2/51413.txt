@@ -1,0 +1,4 @@
+Kinetic energy in cosmology?
+
+Spacetime expands at an accelerated rate due to the Hubble flow. In many papers that I've read, objects coupled to the Hubble flow are treated as if they have some velocity and kinetic energy associated with it. Usually, that object would just keep gaining "speed" as the accelerated expansion of the universe would separate it from everything else at sufficiently far distances.
+However, can there be any situations where this kinetic energy coming from the Hubble flow can be transformed into some other type of energy (thermal, electromagnetic, electric, gravitational, mass...etc)?

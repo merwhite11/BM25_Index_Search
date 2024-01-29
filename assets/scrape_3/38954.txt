@@ -1,0 +1,24 @@
+If water vapor is always blown away into space, how is it able to create chemical compounds on Venus?
+
+This is the follow-up of this chem.SE question.
+
+According to Wikipedia, water vapor on Venus is present in trace amount (20 ppm). There are multiple reasons why Venus has very low water content:
+
+The rich carbon dioxide atmosphere generates the strongest runaway greenhouse effect in the Solar System reaching temperatures at least 735 K, hot enough to boil most of the water vapors.
+Free hydrogen and oxygen atoms  has been swept into interplanetary
+space by the solar wind because of the lack of a planetary magnetic
+field
+Water vapors are continuously blown away by the solar wind through the induced magnetotail.
+UV and photodissociation of water vapor creating hydrogen and oxygen atoms and radicals
+High D/H ratio in Venus due to hydrogen atoms escaping into space since it is light thus unable to form water
+The atmosphere is rich in sulfuric acid clouds which is a powerful dehydrating agents. Most of the water reacts with H2SO4 to form hydronium (H3O+) and bisulfate (HSO4-) ions. As a result, the concentrations of “free” H2O in the acid solution and in the vapor over the acid are extremely low.
+
+So, the question is "since water vapor is always blown away or reacting in some way and there is only a trace amount of stationery and unreacted water vapor available, why/how is it able to create chemical compounds like phosphoric acid and sulfuric acid?"
+
+Background information
+A 1986 paper1 concluded that P4O6 is the main phosphorus bearing gas on Venus from the Vega mission results. It was also reported that some phosphorus bearing particles were present which was found to be phosphoric acid, H3PO4.
+I am pretty sure phosphoric acid/phosphorous acid is the result of reaction between phosphorous anhydride and water vapor in sulfuric acid environment (which is later speculated to be the pathway of phosphine formation). But "is water vapor present on Venus sufficient enough to form phosphoric acid? What is the concentration of phosphoric acid on Venusian atmosphere (which would later contribute to formation of phosphine)?"
+Reference
+
+Krasnopol'skii, V A. Vega Mission results and chemical composition of Venusian clouds. United States: N. p., 1989. Web. doi:10.1016/0019-1035(89)90168-1.
+https://www.vanderbilt.edu/AnS/physics/astrocourses/AST101/readings/water_on_venus.html

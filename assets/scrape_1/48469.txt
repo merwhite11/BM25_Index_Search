@@ -1,0 +1,6 @@
+N-body simulation still losing precision despite using arbitrary-precision arithmetic and symplectic integrator
+
+A while ago I asked 2-body orbits expanding in nbody simulation?. One thing that I noticed was that JavaScript does not have arbitrary precision, and that I used RK4 as my integrator, while it is accurate short-term, there is an energy drift, causing orbits to decay/expand.
+I've scrapped the old concept and have developed a new n-body simulation in Python, with the arbitrary-precision module mpmath with the precision set to 512 decimal digits, as well as incorporating the Verlet algorithm from the previous JavaScript engine.
+I tested my code with a testmass (of mass 0) in a circular, zero-inclination orbit, orbiting a Jupiter-mass object at a distance of $10\ 000 \ 000$ meters (at coordinates (10000000,0,0)), with a timestep of $h=0.1$. After running the simulation for 2296 steps (a quarter of an orbit or about 45 in-simulation seconds), I checked the distance of the test mass from the planet. The initial distance was obviously $10\ 000\ 000$ meters, while the new distance was $10\ 000\ 029.529$ meters, which is quite a significant deviation. Am I doing something wrong?
+Note: Source code is available if needed.

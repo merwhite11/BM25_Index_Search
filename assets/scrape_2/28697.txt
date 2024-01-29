@@ -1,0 +1,4 @@
+Adiabatic versus convection
+
+I am reading about the interior temperature structure of Jupiter. It says in various texts that there are regions in Jupiter's atmosphere which are well-approximated by a dry adiabatic lapse rate. 
+Does this mean that in these regions there is convection happening? Is adiabatic just a general synonym for convection?

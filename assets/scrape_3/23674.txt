@@ -1,0 +1,3 @@
+How do comets and other solar system bodies gain energy to exit the solar system?
+
+I recently learnt that some comets like C/1980 E1 (Bowell) interacted with objects like gas giants in the solar system and gained enough energy to exit the solar system. But from Physics, I know that only if the total mechanical energy of a body is positive, can the body exit the solar system. An interaction with a gas giant should merely convert some of the potential energy of the body to kinetic energy and the total energy of the body should remain unchanged. If so, how can such bodies achieve positive mechanical energy to exit the solar system?

@@ -1,0 +1,7 @@
+How do the giant planets excite the orbits of asteroids?
+
+The giant planets, particularly Jupiter, are notorious for bringing about changes in eccentricities and inclinations of smaller bodies(asteroids and KBOs). Jupiter, in fact, throws  almost all the objects that come sufficiently close to it, out of the Solar System.
+My question is, how?
+Gravity is an attractive force and has a negative potential energy associated with it. If it has any role, all gravity must be able to do is reduce the total energy of the small bodies, eventually circularising it-not doing the opposite job!
+Also, I can't imagine how the giant planets manage to alter the inclinations of these small objects. Gravity would, of course, pull these small objects towards the giant planets, but again, that's only bringing it closer to the plane of the Solar System, not increasing its inclination
+Or have I got it wrong altogether?I would be glad if you could break this down for me.

@@ -1,0 +1,4 @@
+What is the most stable orbit around the moon?
+
+Let’s say I wanted to build a space habitat in orbit around the moon. Better still, let’s say I want to build a ring of habitats occupying the same orbital path, encircling Luna, to oversee the mining/exploration of this body.
+Given that Luna is tidally locked, and most orbital paths around it decay over time, what is most stable orbit these objects could occupy?

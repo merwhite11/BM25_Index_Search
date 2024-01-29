@@ -1,0 +1,20 @@
+Lunisolar calendar: what phase was the moon Y years ago on the spring equinox?
+
+How would I go around answering these questions (e.g., for $Y=10,000$ -- IOW, historical observations are not available and the time is too long ago to rely on a fixed calendar):
+
+
+How many days ago ($D$) was the spring equinox $Y$ years ago?
+What phase (how many days from conjunction) was the moon on that day $D$?
+
+
+Here is my "preliminary research":
+Methodology
+I suppose I could solve the 3 body problem (Sun, Earth, Moon) numerically backwards in time, but I suspect that the numerical errors and gravitation perturbations from other planets will accumulate rather quickly (how quickly?)
+I could do arithmetic with the durations of lunation and year, but it appears that they are not as stable as I wish they were (are they?)
+Software
+Online calculators (NOAA, Stellafane) do not go that far back.
+Presumably they rely on a version of Almagest but, again, it is not clear if these formulas are reliable for 3-5-10k year calculations.
+Question:
+How would I answer 1 & 2 above?
+I am interested in both methodology (how it is done in general) and implementation (e.g., a program that would compute those numbers for me, given the value of $X$). It's okay to answer only a part of this, I will ask another, follow-up question.
+PS. I asked this question on Math.SE and was told to "ask an astronomer".

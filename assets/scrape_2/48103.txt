@@ -1,0 +1,3 @@
+Finding stellar radii
+
+Is apparent magnitude of star, distance(in pc) and effective temperature enough to calculate its stellar radii or we need some extra information?

@@ -1,0 +1,4 @@
+How do you determine the apparent magnitude of the stars leaving main sequence with CMD diagrams?
+
+So I have a CMD diagram and on the left, I have apparent magnitude and at the bottom, I have the color index. I would just estimate the magnitude of stars leaving the main sequence and continue from there, however, I was wondering if there's a way to do it more accurately?
+I would take stars between certain magnitudes and calculate the average magnitude, but again, I'm estimating from where to where the MSTO point is...

@@ -1,0 +1,15 @@
+SKA 101: How will it "perform the most precise tests of Einstein's theories" and Australia & South Africa arrays be "made to work seamlessly together"
+
+The BBC's December 7, 2022 SKA: Construction to begin on world's biggest telescope includes the following:
+
+It will perform the most precise tests of Einstein's theories
+
+and
+
+The first major milestone should come in 2024, when four dishes in Australia and six antenna stations in South Africa are made to work seamlessly together as a basic telescope. This proof-of-principle moment will then trigger the array's full roll-out.
+
+These may seem like two separate questions, but since it's obviously part of the press kit and PR roll-out, I think it's likely sources will have basic answers to both. So I'd like to ask for basic "SKA 101" answers to:
+Question: How will the SKA "perform the most precise tests of Einstein's theories" and the Australia & South Africa arrays be "made to work seamlessly together"?
+I didn't think there was any overlap in frequency between the arrays on different continents, so while they could both observe the same spot of sky at the same time, I don't see how that could be though of as working together in a "seamless" way.
+Isn't registration of image data from different instruments a pretty standardized operation these days and something that one would normally do offline at a later date?
+Does this seamlessness have something to do with time-domain-astronomy?

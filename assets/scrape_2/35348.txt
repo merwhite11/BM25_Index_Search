@@ -1,0 +1,3 @@
+Are the planets Mercury, Saturn, Uranus and Neptune losing mass?
+
+My understanding is that Venus, Earth, Mars, and Jupiter are all losing mass due to their gravity, temperature, and the solar wind.  But what about Mercury, Saturn, Uranus, and Neptune?  Mercury has a magnetic field and so typically would repeal the worst of the solar wind and no atmosphere to lose, only an exosphere.  Though the Poynting-Robertson effect should be pulling in more dust to Mercury.  I do not know the calculations to determine if Saturn, Uranus, and Neptune are losing mass though.

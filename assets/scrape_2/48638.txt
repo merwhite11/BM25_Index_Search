@@ -1,0 +1,3 @@
+Non-stable vs non-linear orbits
+
+In orbital dynamics there are often two 'classes'- stable and non-stable, or periodic and non-periodic. Is this just a specific class of linear and non-linear harmonics? Would Klemperer's rosette orbit be an example of a non-linear orbit because it is neither closed nor stable?

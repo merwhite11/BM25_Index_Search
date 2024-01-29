@@ -1,0 +1,7 @@
+What does Eddington Limit (Eddington Luminosity) Show?
+
+We know Eddington Limit (Eddington Luminosity) is calculated with this formula:
+$$L_{Ed} \approx 3 * 10^4 * L_{sun} * \frac{M}{M_{sun}}$$
+Example: For a black hole with $10^4 M_{sun}$, we get
+$$L_{Ed} = 1.16 * 10^{35} W$$
+My question is what does it really show? What do we get by calculating this Number? Is this formula really used to calculate the luminosity or it is used for calculating mass?

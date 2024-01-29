@@ -1,0 +1,3 @@
+Does Pi change when gravity changes
+
+Will Pi have the same value on the surface of say Jupiter, compared to the value of PI on Earth. Or does Pi vary with gravity?

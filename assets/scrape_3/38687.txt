@@ -1,0 +1,3 @@
+is there a way to determine a distant galaxy’s speed relative to the Hubble Flow by measuring time dilation effects between there and this galaxy?
+
+As I understand it there is a preferred frame of reference based on the velocity for the CMB and our galaxy is moving in relation to it (at about 600 km/s). I think this is how the Hubble Flow is defined. Given that there are no relativistic effects, and I really mean time dilation, between distant galaxies that are moving apart due only to Cosmological expansion, is there a way to determine a distant galaxy’s speed relative to the Hubble Flow by measuring time dilation effects between there and here? If so using that and observed red-shifting, one could establish a more accurate measurement of the Hubble Constant.

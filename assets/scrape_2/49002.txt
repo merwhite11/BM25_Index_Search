@@ -1,0 +1,8 @@
+How are absorption cross sections calculated?
+
+I would like to develop a more intuitive understanding of cross sections, in the context of radiative transfer.
+I understand that a cross section, $\sigma_\nu$, is a measure of a given atom/molecule's ability to absorb radiation, and is related to the mass absorption coefficient, $\kappa_\nu^m$, in the following way:
+$\displaystyle \kappa_\nu^m = \frac{\sigma_\nu n}{\rho}$
+(where n is the number density and $\rho$ is the mass density)
+Cross sections are given in units of cm$^2$, but my understanding is that this should be thought of as a 'probability of absorption' rather than a 'physical area'.
+How are cross sections calculated? How does this lead to the determination of a value in units of area?

@@ -1,0 +1,7 @@
+I'm 8 hours from Greenwich, why is my sidereal time 10 minutes different from theirs?
+
+In order to write and run the script in this answer
+I typed "Greenwich sidereal time right now?" into google (or at least tried to) and got two numbers.
+Greenwich sidereal time was 09:51:07 but my local sidereal time was ten minutes earlier at 09:40:50.
+I'm in UTC +8 so the ten minute difference is not because I'm ~8 hours away.
+What causes this small difference in sidereal times?

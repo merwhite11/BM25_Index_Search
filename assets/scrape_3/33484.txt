@@ -1,0 +1,3 @@
+Are there any openly available simulators describing how planets form from protoplanetary disk?
+
+Out of pure interest, I wonder whether there are existing open-source simulators that can simulate the formation of stars and planets from a protostar and the surrounding protoplanetary disk?

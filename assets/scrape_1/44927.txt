@@ -1,0 +1,24 @@
+Formula to calculate round-trip travel time based on current distance to far-away galaxy
+
+Cross-posted from Physics Stack Exchange - original
+The question was closed as HW-like there.
+The Premise
+You travel at a constant velocity towards a far-away galaxy. You then travel back at the same velocity. How long will have passed for the people on Earth? Answers must take into account the expansion of the universe.
+Definitions:
+
+now is defined as 21st century
+
+Parameters:
+
+Time from now you will depart (in years)
+Distance away that the galaxy is now (in light-years)
+Velocity (in % of light-speed)
+
+Output:
+
+number of years that will have passed on Earth between the time you depart and the time you get back
+
+This was inspired by this question: At 50% c, I go party to IC1101 galaxy, and back home. How many times can i go before the expansion of the universe will lock me on one side?
+.
+Significance
+This will allow for many different astronomical calculations by moving the elements of the formula around (eg. how long until we won't be able to communicate with a distant galaxy?).

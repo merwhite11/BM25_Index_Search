@@ -1,0 +1,5 @@
+Will Earth lose the Moon before the Sun goes into supernova?
+
+I've read that the Moon is moving away from the Earth by 1-3cm per year.
+Is this enough to make the Earth lose the Moon before the Sun goes supernova?
+I'm asking because I would like to do the calculations for Earth's magnetic pull on this subject. It appears to me that it should be a non-linear function (there are also other factors, like if the Moon could be captured by another planet or having asteroids messing with its orbit on Earth).

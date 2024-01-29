@@ -1,0 +1,8 @@
+Greetings to Altair: what is the probability of detecting a return message, assuming one was sent?
+
+Greetings to Altair was a 1983 transmission to Altair, 16.7 light years distant, sent on the 46m Stanford radio telescope, known as "The Dish". [Quast 2018]
+Assuming an alien civilisation were to exist that detects the message and sends a single return message with comparable power to the original signal* (which might be a "million watt" transmitter giving the dish a 300-400 kW radar probe), the reply would reach the Earth some time after 2015.
+How likely would we be to detect such a return message on Earth?
+I'm anticipating answers might answer sub questions like: Would we passively detect such an event without a dedicated instrument being pointed in that direction? How big an instrument would be required to detect it? Have instruments of a class capable of detection been pointed in that direction, and how often?
+(Feel free to make fairly swinging assumptions; I'm looking to ballpark this.)
+Quast, Paul E. (2018). A profile of humanity: the cultural signature of Earth's inhabitants beyond the atmosphere. International Journal of Astrobiology, 1–21.         doi:10.1017/S1473550418000290

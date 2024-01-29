@@ -1,0 +1,5 @@
+How can Earth-Sun Lagrange points L1 & L2 even be semi stable considering the moon?
+
+I know that the Earth-Sun Lagrange L1, L2, and L3 points are not considered stable over longer periods, especially when compared to L4 and L5... But, with the moon orbiting the Earth in the general path of the ecliptic, it would seem that the first time the moon got in between the Earth and the object at the L1 or L2 points, it would be enough to perturb the object a good bit, and the next lunar month would be even worse, and so on.
+It seems that if the moon was taken out of the equation, the L1 and L2 points would be much more stable. And, as a result of this line of thinking, I would think that the L3 point would be much more stable than L1 and L2, since the moon would be so much farther away and unimportant, so its effect could be ignored.
+Am I wrong in thinking this? Is the moon's influence not large enough to be a major factor? And, just to clarify, I am talking specifically about L1 and L2 with respect to a large 3rd body, like the moon, instead of some idealized 2 body only system.

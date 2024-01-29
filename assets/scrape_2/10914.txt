@@ -1,0 +1,14 @@
+Why is dark energy preferred to the cosmological constant?
+
+Dark energy and the cosmological constant are often identified, but Peebles and Ratra explain that 
+
+"Einstein did not consider the cosmological constant to be part of the stress-energy term... a new constant of nature, 
+  $\Lambda$, appears in the addition to Einstein’s original field equation. One can equally well put Einstein’s new term on the right hand side of the equation, and count [...] as part of the source term in the stress-energy tensor. The distinction becomes interesting when $\rho_\Lambda$ takes part in the dynamics, and the field equation is properly written with $\rho_\Lambda$, or its generalization, as part of the stress-energy tensor."
+
+In other words, Einstein treated $\Lambda$ term as a modification of GR with a "new constant of nature", while dark energy may potentially manifest itself in some other ways. Later they write about dark energy:
+
+"The idea that the universe contains close to homogeneous dark energy that approximates a time-variable cosmological “constant” arose in particle physics, ...in cosmology..., and on both sides by the thought that $\Lambda$ might be very small now because it has been rolling toward zero for a very long time. The idea that the dark energy is decaying by emission of matter or radiation is now strongly constrained by the condition that the decay energy must not significantly disturb the spectrum of the 3K cosmic microwave background radiation."
+
+So if I understand this correctly the idea of a dynamical effect came from suspecting that $\Lambda$ may be time dependent, but so far that was not detected. And since "one can equally well put Einstein’s new term" on either side of the equation mathematically both interpretations are equivalent. Still, the dynamical interpretation seems to be overwhelmingly preferred.
+
+Are there empirical reasons for conjecturing dark energy, some spatial non-uniformity in expansion perhaps? If not, what are the theoretical reasons for preferring it to the cosmological constant of modified GR?

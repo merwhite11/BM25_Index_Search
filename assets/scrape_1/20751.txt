@@ -1,0 +1,4 @@
+Change of time in vernal equinox by altitude from the Sea level
+
+vernal equinox for a very high tower ($h_1>3000m$) in a city ($\lambda , \phi$) in altitude $h_1$ from the sea level is 8:00 Local time. Does this time change if we go to another altitude in that same position ($\lambda , \phi$), for example altitude $h_2$?
+In other way, does the time of vernal equinox change with altitude?

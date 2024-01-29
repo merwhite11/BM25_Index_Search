@@ -1,0 +1,6 @@
+How are the products of stellar nucleosynthesis sorted as found in planets?
+
+Stellar nucleosynthesis is responsible for creating the elements heavier than lithium (except perhaps some of the heaviest that might result from neutron star collisions).
+Eventually, the star goes nova and disperses all these heavier atoms into the vastness of space in every direction.
+Later, thanks to encounters with existing clouds of interstellar gas and dust and the patient work of gravity, the nova products will begin to coalesce into new stars and planets, which is how we exist.
+So my question is, how do tiny dust particles of dozens of elements sort themselves out so that planets have distinct deposits of minerals rather than being balls made of an undifferentiated mixture of every element?

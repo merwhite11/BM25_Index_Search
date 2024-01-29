@@ -1,0 +1,5 @@
+Is it possible to have a stable 3 body system that orbits in a perfect circle?
+
+I.e. a system that has 3 objects of equal mass, rotating around the system's center of gravity like so:
+
+Please excuse the crude drawing, but I've just been reading The Three-Body Problem book by Liu Cixin and it made me wonder if such a system like this could be possible (I don't know much about astronomy).

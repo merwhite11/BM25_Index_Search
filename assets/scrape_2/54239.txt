@@ -1,0 +1,8 @@
+How can non-earth-orbiting satellite coordinates be obtained by amateurs?
+
+Just a few hours ago the moon-bound spacecraft Chandrayaan-3 was launched.
+While it will orbit Earth for a few days, it is accelerating/changing its orbit often to prepare for the transfer to a lunar orbit, so its coordinates (especially from a specific location on Earth's surface) are very unpredictable.
+Neither an orbital element approach nor TLEs will work here reliably unless they are updated very frequently (the latter only seem to work for earth-orbiting satellites anyway).
+In the future, there will probably exist more moon-orbiting spacecraft like the Lunar Gateway which will also change its orbit often. Does a publicly accessible website/API exist that provides the current coordinates for such objects?
+In this case it seems ESA's Estrack network is supporting the tracking of this probe, but it doesn't seem like they have a public API: https://www.esa.int/Enabling_Support/Operations/ESA_ground_stations_support_Chandrayaan-3_Moon_mission
+Edit: Permalink to the code I adapted from PM 2Ring below, to color observed orbit segments

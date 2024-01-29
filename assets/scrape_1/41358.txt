@@ -1,0 +1,3 @@
+How are astrochemical reaction rates calculated? (UMIST)
+
+To model the abundance of molecules in space, using chemical reaction networks we require large databases of chemical reaction rates e.g. UMIST database, I was wondering whether these are reaction rates measured in the lab, or somehow inferred from observations of the abundances of related molecules in space, or even directly observed from satellites in space? Thanks

@@ -1,0 +1,10 @@
+Why is the observable Universe larger than its age would suggest?
+
+The age of the Universe is estimated at 13.8 billion years, and current theory states nothing can exceed the speed of light, which can lead to the incorrect conclusion that the universe can't have a radius of more than 13.8 billion light years.
+Wikipedia deals with this misconception as follows:
+
+This reasoning would only make sense if the flat, static Minkowski spacetime conception under special relativity were correct. In the real Universe, spacetime is curved in a way that corresponds to the expansion of space, as evidenced by Hubble's law. Distances obtained as the speed of light multiplied by a cosmological time interval have no direct physical significance. → Ned Wright, "Why the Light Travel Time Distance should not be used in Press Releases"
+
+That doesn't clear the matter up for me, and having no science or maths background beyond high school, further reading into Hubble's law isn't helping much either.
+One layman's explanation I've seen offers explanation that the Universe itself isn't bound by the same laws as things within it. That would make sense – insofar as these things can – but the above quote ("Distances obtained as the speed of light multiplied by a cosmological time interval have no direct physical significance") seems more general than that.
+Can anyone offer (or direct me to) a good layman's explanation?

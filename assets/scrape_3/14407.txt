@@ -1,0 +1,9 @@
+Could we verify the structure of a black hole by observing an orbiting object?
+
+Can we determine the physical structure of a black hole by observing its gravitational effect on objects in orbit?  There are three possibilities that I see, and would like to test:
+
+Singularity at the center - The traditional view that there is a singularity at the center (e.g. all mass is concentrated in the center).
+A structure where the black hole is filled throughout with matter inside the event horizon - My proposal, due to gravitational time dilation slowing / stopping time (e.g. a singularity will not form until an infinite amount of time has passed).  If the answer to my question on this subject here is correct, we should observe either possibility 2 or 3:  Does matter accumulate just outside the event horizon of a black hole?
+A hollow shell, with matter only on / near the outside edge of the event horizon - My proposal, combined with the "vapor bubble" behavior, as hinted at in some of the answers to the linked question.
+
+Would these three possibilities differ gravitationally in ways that could be observed (e.g. by observing orbiting stars), or would they be identical from the outside?  If they would produce different results, I would love to see what result it is that we actually observe!  We have observed stars orbiting the super massive black hole at the center of the galaxy.  http://scitechdaily.com/astronomers-discover-star-orbiting-the-black-hole-at-center-of-the-milky-way/

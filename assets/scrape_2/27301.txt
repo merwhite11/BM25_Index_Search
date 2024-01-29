@@ -1,0 +1,12 @@
+Why would the Perseids meteor rate fall off after maximum faster than the increase before maximum?
+
+Writing about the 2018 occurrence of the annual Perseids meteor shower, the EarthSky.org Astronomy Essentials article Start watching for Perseids now says:
+
+People tend to focus on the peak mornings of the shower and that’s entirely appropriate. But meteors in annual showers – which come from streams of debris left behind in space by comets – typically last weeks, not days. Perseid meteors have been streaking across our skies since around July 17. We’ll see Perseids for 10 days or so after the peak mornings on August 11, 12 and 13. What’s more, the Perseids tend to build up gradually, yet fall off rapidly. So it’s possible to catch Perseid meteors now.
+
+Looking at images in @userTLK's excellent answer to "What (actually) is Jupiter doing to this year's Perseids meteor shower?" one can imagine the Earth passing through a "fuzzy tube" around the orbit of the shower's associated comet's orbit, which is often inclined with respect to the ecliptic.
+So far I can't imagine a mechanism that would make the ramp-up and then ramp-down happen at very different rates. Why would the Perseids meteor rate fall off after maximum faster than the increase before maximum?
+
+I've just found this artist's conception of the "fuzzy tube" of debris in Sky and Telescopes's “Great Show” Predicted for Perseid Meteor Peak on August 12–13.
+
+above: "Every year, in mid-August, Earth passes collides with particles spread along the orbit of Comet Swift-Tuttle." Credit Sky & Telescope, from here.

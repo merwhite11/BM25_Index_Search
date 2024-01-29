@@ -1,0 +1,7 @@
+Solar Pressure and Gravity
+
+I recently read some articles and pages on Solar Sails, and the possibility of using lasers to propel spacecraft, and I had a relatively outlandish idea.
+Would it be possible for a star to be outputting enough light that planet-sized (or smaller) objects caught in it's gravitational pull would not cross a certain threshold? 
+A sort of 'reverse blackhole' if you will, where the event horizon is an area that the matter(not light) can not proceed further into the star.
+I would assume this to look like a star with a large ring around it, equidistant from any point of the star's center, where matter would coalesce. 
+Furthermore, would it be possible that an object could remain 'stationary' (ie. not in orbit and no acceleration in any direction beyond the pull of gravity) around this star without fear of gravity pulling it into the star?

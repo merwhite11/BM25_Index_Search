@@ -1,0 +1,5 @@
+Plausible reason for the Hot Neptune gap
+
+This NASA article talks about how there's a dearth of hot neptune exoplanets that have been discovered so far.
+https://www.nasa.gov/feature/goddard/2018/in-search-of-missing-worlds-hubble-finds-a-fast-evaporating-exoplanet 
+The article makes no attempt at postulating why this gap may exist. One possible explanation I have is that the silicate material of a terrestrial planet is difficult to vapourise and the surface gravity of a hot jupiter is too great to drive off hydrogen to any great extent, whereas a Hot Neptune lacks both the solid surface and the gravity to maintain its size.

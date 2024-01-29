@@ -1,0 +1,5 @@
+What does it mean when we say that information is potentially recoverable from a black hole
+
+My understanding is that if the surface of a black hole is holographic, then information is potentially emitted from a black hole, say due to Hawking radiation or some other means. 
+What can say about this information?  Is it physically possible and/or feasible that this type of emission would embed information about what went into it?  Also, how does this measure up against the idea that the world lines inside the event horizon are completely disconnected from the outside?
+I have some knowledge of the information paradox, but I was really hoping someone could  explain it in simple terms or point me to a prior explanation along those lines.

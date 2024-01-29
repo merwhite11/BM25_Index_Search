@@ -1,0 +1,6 @@
+Books describing first-hand experience of astrophysicists finding planets without skipping actual maths
+
+Are there good references of astronomical texts where we get a first-hand experience of astronomers uncovering astronomical gems using maths alone and not using observation. Observation may have been used later to validate the result.
+In this book, there are several examples of astronomical jewels that were uncovered by the professionals. However the book shies away from describing the actual maths that aided the astrophysicists to make their conclusions and predictions that were later confirmed by experimenters. 
+However, how does a professional astronomer come to conclusions that there must be one more planet at so and so location? Are there books that uncover the exact line of thinking and maths that is involved  behind the works of the professionals?
+I am not looking for a book which solves a toy problem rigorously using Newton's laws and then concludes that the 21st century astronomers use similar techniques at grander scales in their works. Though this is what is happening, i am looking for a more transparent description of how the pioneer discoverers make astronomical predictions with surety. The ideal place to look would be the research papers of these pioneers but is there a book that does that for many such achievements?

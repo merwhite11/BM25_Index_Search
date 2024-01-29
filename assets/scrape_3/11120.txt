@@ -1,0 +1,4 @@
+How far away would a supernucleus comet be visible?
+
+If an instrument like LSST quickly spots something as soon as it reaches magnitude 24½, how far away would a 60km first-time visitor from the Oort cloud be when it is spotted? I'm thinking that a huge iceball will make a visible coma sooner, but have no idea what actual numbers would be.
+And, given that distance and a parabolic orbit, how much time would that give before it crosses Earth's orbit?

@@ -1,0 +1,4 @@
+What is the physics of the "spinning dust" contribution to Cosmic Microwave Background measurements?
+
+The lengthy paper Nine-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Final Maps and Results mentions "spinning dust" about 51 times. It is a potential contributor to the measured spectrum and the details of its emission spectrum has more than one proposed model.
+question: Is there a simple way to understand the physics behind the emission spectrum of spinning dust and how it would differ from non-spinning dust?

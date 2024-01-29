@@ -1,0 +1,4 @@
+Do astronomers and astrophysicists more often use diameters or radii when discussing about planets, dwarf planets, exoplanets and stars?
+
+Mathematicians much more often use radii over diameters when discussing about circles and spheres, because in mathematics the radius is more fundamental than the diameter (the sphere is defined using its radius).
+But what about in astronomy? Do astronomers and astrophysicist more often use diameters or radii when characterizing planets, dwarf planets, exoplanets and stars?

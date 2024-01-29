@@ -1,0 +1,3 @@
+How to find star location knowing latitude and LST
+
+Newbie learning Astronomy and was curious how to locate a star giving a Latitude and LST.  For example if my LST is 4:00 and my latitude is 20*N, how would I find where the Horsehead Nebula appears in the sky?  The only formula I can think of is the Hour Angle formula..

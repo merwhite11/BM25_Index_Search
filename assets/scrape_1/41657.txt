@@ -1,0 +1,3 @@
+Visual binary star with circular apparent orbit
+
+Does anyone know a good example of visual (or interferometric) binary star apparent orbit of which looks circular due to projection though in fact is markedly elliptical? I need that for teaching.

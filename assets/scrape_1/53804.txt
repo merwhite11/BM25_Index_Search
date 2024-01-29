@@ -1,0 +1,3 @@
+Does RA/Dec vary with the Earth's orbit around the Sun?
+
+I think the RA and Dec of a celestial object should change (ever so slightly) with the Earth's position in its orbit. So do we ignore this in general?

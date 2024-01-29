@@ -1,0 +1,4 @@
+Converting a Satellite's position in Lat/Lon/Alt/Time to RA/Dec
+
+I'm trying to convert a satellite's position given in latitude/longitude decimal degrees, altitude in meters, and time in milliseconds since epoch to right ascension and the declination.
+I have found equations for lat/lon/time to ra/dec, but none that take altitude into account.

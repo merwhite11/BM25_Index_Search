@@ -1,0 +1,4 @@
+Where can I find a list of galactic Long/Lat for stars?
+
+I can only seem to find right ascension and declination, which if I understand is position when looking upwards, where as galactic long/lat should be position if you imagine a sphere of the plane of the sky from "outside". Unless I'm misunderstanding.
+I'd love a list of the galactic long/lat for stars if anyone knows where to get one?

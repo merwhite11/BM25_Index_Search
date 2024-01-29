@@ -1,0 +1,8 @@
+What is it about the layout of the three gratings in a Bahtinov mask that makes its indicate focus in this way?
+
+The question Lucky imaging with Celestron 14 - is this result reasonable? includes a beautiful example of a focus test using a Bahtinov mask and the image below from Deep Sky Watch's Home Made Bahtinov Focusing Mask & Templates shows how the middle spike moves left-right with respect to the crossing point of the pair of spikes on either side.
+Question: But optically speaking how and why does this happen? What is it about the layout of the three gratings in a Bahtinov mask that makes its indicate focus in this way? Why exactly does changing focus produce a lateral shift of one pattern with respect to the other two? What is it about the mask's peculiar design that makes this happen the way it does?
+update: This answer to How does a Bahtinov mask work? explains more what happens, but it does not even begin to address Why exactly...
+ Source
+
+Star image produced by Bahtinov focusing mask at different focus positions

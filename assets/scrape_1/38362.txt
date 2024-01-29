@@ -1,0 +1,19 @@
+Timekeeping on other celestial bodies than Earth
+
+I have looked for months for any site capable of calculating solar altitude w.r.t an observer located on the surface of a generic celestial bodies, but with no luck as of now. Even NASA does not provide such information in its Horizons page/software, although technically Horizons contains all the needed data to calculate "local solar time"; indeed, Horizons allows asking for such an output... but currently output is jut "n/a" for bodies other than Earth:
+*******************************************************************************
+ Date__(UT)__HR:MN, , , L_Ap_Sid_Time,  L_Ap_SOL_Time,  L_Ap_Hour_Ang,
+**********************************************************************
+$$SOE
+ 2020-Aug-09 10:51,*,x,          n.a.,           n.a.,           n.a.,
+ 2020-Aug-09 11:51,*,x,          n.a.,           n.a.,           n.a.,
+
+Url to ask for quantities 7, 34 and 42 (note: only 42 is declared as "Earth surface only").
+https://ssd.jpl.nasa.gov/horizons_batch.cgi?batch=1&COMMAND=%27-85%27&CENTER=%27coord@301%27&OBJ_DATA=%27yes%27&MAKE_EPHEM=%27yes%27&TABLE_TYPE=%27OBSERVER%27&REF_PLANE=%27ECLIPTIC%27&COORD_TYPE=%27GEODETIC%27&SITE_COORD=%2723.4729700,0.67417634,0%27&START_TIME=%272020/8/9%2010:51%27&STOP_TIME=%272020/8/10%2010:51%27&STEP_SIZE=%271h%27&QUANTITIES=%277,34,42%27&FIXED_QUANTITIES=%27Custom%27&REF_SYSTEM=%27J2000%27&OUT_UNITS=%27KM-S%27&VECT_TABLE=%273%27&VECT_CORR=%27NONE%27&CAL_FORMAT=%27CAL%27&ANG_FORMAT=%27HMS%27&APPARENT=%27AIRLESS%27&TIME_TYPE=%27UTC%27&TIME_DIGITS=%27MINUTES%27&RANGE_UNITS=%27AU%27&SUPPRESS_RANGE_RATE=%27no%27&SKIP_DAYLT=%27no%27&EXTRA_PREC=%27yes%27&CSV_FORMAT=%27yes%27&VEC_LABELS=%27yes%27&ELM_LABELS=%27yes%27&TP_TYPE=%27ABSOLUTE%27&R_T_S_ONLY=%27NO%27&CA_TABLE_TYPE=%27STANDARD%27
+So I tried to setup my own page ( http://win98.altervista.org/space/exploration/moon/moontime.html ), which makes its calculations starting from "colongitude" and moon terminator longitude, but it completely disregards observer latitude and altitude.
+Any suggestion about pages which perform these calculations?
+
+My GUI for NASA Horizons:
+http://win98.altervista.org/space/exploration/NHUGUI.html
+To specify a location on another body, write "coord@body" in "CENTER" field, without changing "COMMAND" field, which will be ignored, and write the triplet "lon, lat, alt" in field SITE_COORD.
+To find predefined sites on a body use *@body , for example *@301 will list Moon landing aites.

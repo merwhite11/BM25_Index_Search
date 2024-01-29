@@ -1,0 +1,8 @@
+How can we tell how many exoplanets a star has?
+
+Part of this answer (discussing the moving center of mass of our solar system) explains that this movement is one way we know a star has planets:
+
+Bonus: We use this phenomenon to find planets outside the Solar System! If a distant star is observed to 'wobble' or oscillate about it's mean position, we can use that data to infer the presence of one or more exoplanets, and calculate their mass.
+
+It makes sense to me that we could tell that a start has some planet(s) in orbit around it, based on how they affect the star's position. But is this movement really precise and predictable enough to pin down how many exoplanets, and how large they are? Can we produce a "map" of a distant solar system based on this movement? 
+If needed, we can even restrict the discussion to planets that are "big enough" to detect. For example, when performing this exercise on our Sun, would we be able to accurately predict at least the four gas giants, even if we couldn't get Mercury?

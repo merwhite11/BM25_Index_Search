@@ -1,0 +1,3 @@
+Tools and algorithms for angles-only orbit estimation
+
+I've seen discussion threads where amateur astronomers estimate a satellite's orbital parameters from angles-only telescope observation.  Are there any community tools or algorithms to help with this math? It's not a trivial problem to solve.

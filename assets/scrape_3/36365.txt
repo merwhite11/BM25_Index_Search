@@ -1,0 +1,23 @@
+What will it finally take to accurately measure the distance to Betelgeuse?
+
+Comments below What is the maximum distance measurable with parallax? discuss challenges associated with parallax measurements of Betelgeuse and link to Wikipedia’s Betelgeuse; Distance measurements which contains the intriguing paragraph:
+
+In 2008, using the Very Large Array (VLA), produced a radio solution of 5.07±1.10 mas, equaling a distance of 197±45 pc or 643±146 ly.83 As the researcher, Harper, points out: "The revised Hipparcos parallax leads to a larger distance (152±20 pc) than the original; however, the astrometric solution still requires a significant cosmic noise of 2.4 mas. Given these results it is clear that the Hipparcos data still contain systematic errors of unknown origin." Although the radio data also have systematic errors, the Harper solution combines the datasets in the hope of mitigating such errors.83 An updated result from further observations with ALMA and e-Merlin gives a parallax of 4.51±0.8 mas and a distance of 222 (+34/−48) pc.[10] Further observations have resulted in a slightly revised parallax of 4.51±0.80.10
+83Harper et al. (2008) A New VLA-Hoppocaros Distance to Betelgeuse and its Implications
+10Harper et al. (2017)A Updated 2017 Astrometric Solution for Betelgeuse
+
+Looking at section 3.1 of Harper et al. (2008):
+
+As discussed in Section 1, Betelgeuse required a significant additional error source (cosmic noise) to obtained the expected χ2. The actual nature of this cosmic noise is not known but it may be related to photocenter movement which is unlikely to be random in position on short timescales and would likely provide a systematic error in the astrometric solution. The position angle of the star's rotation axis has been measured from spatially resolved ultraviolet Hubble Space Telescope spectra. Uitenbroek et al. (1998) found ~55° (measured East of North) from absorption features in Goddard High Resolution Spectrograph data, and Harper & Brown (2006) found ~65° from emission features in multi-epoch Space Telescope Imaging Spectrograph data. The distribution of photocenters, perhaps driven by convective and Coriolis terms, may have a special relation to the rotation axis. The stellar proper motion vector also has a position angle of 68° and brightness fluctuations that occurred preferentially near the stellar equator might induce scatter in the parallax displacements, although fluctuations due to stellar rotation itself, would be unlikely because of the ~17 yr rotational period (Uitenbroek et al. 1998).
+
+If I understand correctly; the problem with measuring Betelgeuse's position accurately is that it is so large and non-uniform that its "photocenter" (radio, optical, or otherwise) can be significantly different than its center of mass.
+And the problem with obtaining accurate parallax determinations is that its non-uniformity changes on timescales comparable to a year. If it were much faster or much slower, it would not be so much of a challenge.
+Interferometric optical imaging of Betelgeuse confirm dramatic non-uniformity across its disk.
+Question: What will it finally take to accurately measure the distance to Betelgeuse?
+
+To see how nonuniform Betelgeuse appears optically: (feel free to edit and add better links)
+
+this answer to What else could the Event Horizon Telescope Observe?
+this answer to How far have individual stars been seen by radio telescopes?
+Why can't the surfaces of stars be observed? links to Wikipedia's List of stars with resolved images
+This answer to Betelgeuse in false colors, is this common?

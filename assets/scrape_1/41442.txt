@@ -1,0 +1,7 @@
+Astronomy 101 Algebra Question
+
+I’m taking Astronomy 101 this semester and this question on my homework is confusing me,
+You may assume these conversions: 3.3 feet in 1 meter, 5280 feet in 1 mile, 60 seconds in 1 minute, 60 minutes in 1 hour, 24 hours in 1 day, 365 days in 1 6.
+Assume you are in a spaceship that can cruise at an average of 15 km/s How long will it take you to get to our nearest star which is $2.5 \cdot 10^{13} {\rm miles}$ away? Speed of light in vacuum is 3.00 x 10^8 m/s. How long would it take light to travel that distance?
+Any help explaining the steps to solving this would be appreciated because there will definitely be a question like this on the quiz
+(It’s a time= velocity/distance question)

@@ -1,0 +1,4 @@
+Where do the symbols $\lambda$ and $\beta$ come from for celestial latitude and longitude?
+
+I'm reading Episodes From the Early History of Astronomy, and the author mentions the system of celestial coordinates based on the ecliptic. In this system, the two coordinates are latitude and longitude, denoted by $\lambda$ and $\beta$. Where does this choice of symbols come from?
+$\lambda$ is "l" like in "latitude", I guess. But why $\beta$?

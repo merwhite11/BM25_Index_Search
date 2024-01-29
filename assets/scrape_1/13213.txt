@@ -1,0 +1,14 @@
+What percentage of galaxies rotate with trailing arms?
+
+I am looking for the percentage of galaxies that rotate with trailing arms. I know that only a small percentage of galaxies rotate with leading arms and would like to know whether there are any results that determine the percentage of spiral galaxies that rotate with tailing arms.
+I am interested in publications in this topic.
+Note:
+So far I have found the following:
+
+Land et. al (2008): "Determining the rotation
+direction in this way is accurate for 96% of galaxies
+(Pasha & Smirnov 1982)"
+Pasha & Smirnov (1982)
+Buta et al. (2003) 
+
+Do you know of any newer publication on this question? More recent than Pasha & Smirnov (1982) where the sample is quite small?

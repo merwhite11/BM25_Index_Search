@@ -1,0 +1,4 @@
+Does mean solar time and sidereal time sometimes indicate the same time?
+
+I'm trying to wrap my head around the different definitions of time. Since mean solar time depends on the Sun, and sidereal time depends on the stars, and since the position of the Sun relative to the stars changes over the course of the year, does this mean that the difference between the two times increases and decreases over the course of the year?
+Once a year, mean solar time and sidereal time will be the same. Is that right?

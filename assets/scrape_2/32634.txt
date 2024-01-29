@@ -1,0 +1,10 @@
+How do two supermassive black holes reach "the last parsec" in merging galaxies?
+
+This answer to Why can't supermassive black holes merge? (or can they?) describes the barrier to merging that two supermassive black holes face when two galaxies are in the process of merging or have "successfully" merged.
+Here is a bit of the answer, but its worth taking a moment to go there and read the whole thing:
+
+When two galaxies merge, their supermassive black holes both have angular momentum. Through a phenomenon known as "dynamical friction," gravitational interactions with other stars sap the black holes of much of their angular momentum, until they are brought within a few parsecs or so of each other. At this point, the black holes have flung out all of the stars that were in the region and there is (presumably) nothing left for dynamical friction to sap their angular momentum.
+
+
+What kind of timescale are we talking about to reach "the last (few) parsec(s)? Is it similar to the time it takes for the merged galaxy to reach some kind of centralized shape (things rotating around a common center rather than having two identifiable centers of rotation)? Much longer or shorter?
+What kinds of processes are involved that allow the two black holes to reach the last few parsecs of separation? What is "dynamical friction" and "star-flinging"?

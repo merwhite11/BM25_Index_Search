@@ -1,0 +1,8 @@
+Obtaining Transit Spectrum for Celestial Bodies Using JWST NIRSPEC
+
+I've recently been tasked with obtaining transit spectrum data for some fascinating celestial bodies, including Ceres, Enceladus, Ganymede, Io, and Titan. The goal is to compare their transit spectra with that of Earth. However, I'm facing a bit of a challenge when it comes to using the GitHub package here: https://github.com/nespinoza/transitspectroscopy
+To provide some context, I've received instructions to utilize the GitHub package to gather the transit spectrum data. However, I'm not very familiar with how to effectively use it for this purpose. Despite my best efforts, I haven't been able to navigate the package successfully to retrieve the transit spectrum data that I need.
+If any of you have experience with the Github package or if you know of alternative methods to obtain transit spectrum data for these celestial bodies, I would greatly appreciate your guidance. Perhaps you can share some step-by-step instructions or valuable resources that could help me get started.
+Moreover, if there are any other tools or platforms that you've found helpful for collecting transit spectrum data, I'd be open to exploring those options as well.
+If it would help, here are the links to the files of the celestial objects that I'm supposed to compare their transit spectra against Earth's:
+Io, Ceres, Titan, Enceladus, Ganymede1, Ganymede2

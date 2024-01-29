@@ -1,0 +1,10 @@
+Integral Field Spectroscopy vs Fabry-Perot Interferometry
+
+Why are Fabry-Perot Interferometers (FPIs) and Fourier Transform Spectrographs (FTSs less common than Integral Field Spectrographs (IFS) nowadays? My understanding is that:
+
+With FPIs and FTSs you have to scan your spectral range over time. This (A) Takes more telescope time, and (B) Is affected by seeing variations over time (i.e., different wavelengths end up having different PSFs).
+Limited spectral range. As a result, you have limited information about the observed object.
+I was also under the impression that reducing FPI or FTS data is more complex. However I do not have a reference to support this claim. It this true? If it is, can someone explain why?
+For some reason FPIs use Image Photon Counting System (IPCS) instead of CCDs. Why is that? Does this somehow make them "worse" than IFSs?
+
+What other advantages does IFS have over FPI and FTS?

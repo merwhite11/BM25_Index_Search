@@ -1,0 +1,7 @@
+How do we estimate the amount and distribution of Helium in interstellar and intergalactic space?
+
+Quoting from wikipedia: Helium
+
+... is the second lightest and second most abundant element in the observable universe (hydrogen is the lightest and most abundant). It is present at about 24% of the total elemental mass, which is more than 12 times the mass of all the heavier elements combined. Its abundance is similar to this in both the Sun and in Jupiter, due to the very high nuclear binding energy (per nucleon) of helium-4, with respect to the next three elements after helium. This helium-4 binding energy also accounts for why it is a product of both nuclear fusion and radioactive decay. Most helium in the universe is helium-4, the vast majority of which was formed during the Big Bang. Large amounts of new helium are created by nuclear fusion of hydrogen in stars.
+
+I understand that Helium in stars can be identified/measured from lines in the spectrographs of electromagnetic radiation emerging from stars but how do we calculate the amount and distribution of Helium elsewhere in space? What assumptions are involved and how confident are those estimates?

@@ -1,0 +1,3 @@
+Approximate distance from Earth to Mars at a given moment with reasonable (+/-100km) accuracy?
+
+I've been scouring the internet for a straightforward way to approximate the distance between Earth and Mars at a given time. I hope to achieve an accuracy of about 100km.

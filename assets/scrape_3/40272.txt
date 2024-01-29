@@ -1,0 +1,9 @@
+Third rotational angle in equatorial coordinates
+
+Right ascension and declination identify an object's position in the sky, but if we are looking at something through a telescope, there is a third angle of interest, namely how our view is rotated relative to the point we are looking at.
+We could could think of this angle as a sort of celestial roll that goes with RA (yaw), and D (pitch).
+Is there a standard name for this "roll" angle as a third element with RA and D?
+What is its reference direction?  (Orthogonal to the direction given by RA and D, in the plane containing that direction and the north pole?)
+And would increasing the angle turn our view clockwise, or counterclockwise?
+Thanks,
+Doguleez

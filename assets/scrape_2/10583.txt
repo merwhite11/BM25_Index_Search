@@ -1,0 +1,5 @@
+Can close binaries have a very eccentric orbit?
+
+For example, are there binaries with an orbital period < 5 day  and that are very eccentric?
+What kind of factors could slow down orbital circularisation?
+Are there examples of binaries with p<5day and e>0.1?

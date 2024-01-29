@@ -1,0 +1,8 @@
+Moon inclination
+
+The Moon is inclined to the ecliptic 5.15 degrees, and the equator of the Earth tilts 23.44 degrees. Since the Moon's ascending node to the ecliptic rotates, the Moon's inclination to the Earth's equator varies between 18.3 ( = 23.44 - 5.15) to 28.6 ( = 23.44 + 5.15) degrees.
+My question is:
+
+"Does only our moon have this property, or are there some other moons of other planets with a similar property?"
+
+From Wikipedia it seems many moons of other planets have a fixed inclination to the equator of their planet, so our Moon seems a special case. But is our moon's inclination property the only case?

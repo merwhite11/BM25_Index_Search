@@ -1,0 +1,4 @@
+Sun Zenith angle and location on earth
+
+Let suppose you are at +3 degrees latitude (3 degrees north of Equator ... for example at Cali in Colombia). At what periods of the year will the sun be at your vertical (at your zenith) at noon?
+I know that at Sun is at equator zenith on 21st March and 21st September (spring and fall equinox). So at +3 degree north of equator will it be before or after 21st march? And before or after 21st September?

@@ -1,0 +1,5 @@
+What are evidences of stationarity of rotation of galaxies
+
+Recently I have found the article Does There Really Exist the Problem of the Dark Matter in Spiral Galaxies? which states that dark matter does not exist because astronomers are wrong assuming stationarity of galaxy rotation.
+According to them Doppler measurements give only one component of speed which is insufficiebt to restore full three dimensional vector. So they claim that stars in galaxies are on escape tragectories but reproduce correst rotational curves if we assume stationarity of rotation.
+What are evidences that this is not true, what about measurements of proper motions, not doppler shifts only?

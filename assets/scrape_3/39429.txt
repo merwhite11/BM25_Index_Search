@@ -1,0 +1,5 @@
+Why do brighter stars/planets appear physically larger?
+
+Look at Sirius and then some 2nd magnitude star. Sirius appears physically larger despite both stars subtending approximately the same angular diameter.
+Callisto is far enough from Jupiter at its greatest elongation to be seen with the naked-eye, but a common reason it still isn't visible is because Jupiter's glare hides it.
+To be clear, I'm not talking about Jupiter's additional reflected light making it harder to spot dim Callisto the same way the Moon makes nearby stars harder to see. Jupiter literally appears larger in the sky because of how bright it is. Why is that?

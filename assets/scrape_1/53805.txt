@@ -1,0 +1,25 @@
+Following Meeus's Astronomical Algorithms for the Calculation of JD
+
+For the Calculation of Julian Day (JD), I followed Chapter 7 of Meeus's Astronomical Algorithms. I could get the numbers mentioned in Example 7.a and 7.b.
+On the basis of these methodology, proceeded to calculate JD for the Date 1992 October 13 at 0^h TD (Date mentioned in Example 25.a, Meeus). My Code provides JD for this Date as JD = 2448921.50.
+However, for this Date (1992 October 13 00:00:00 UT), each of the URL:
+
+https://quasar.as.utexas.edu/BillInfo/JulianDateCalc.html
+https://neoprogrammics.com/perpetual_calendar_algorithms/jd_number/index.php
+
+provide 2448921.50 as JDN (Julian Day Number).
+However, each of the URL:
+
+https://www.onlineconversion.com/julian_date.htm
+https://ssd.jpl.nasa.gov/tools/jdc/#/cd
+https://planetcalc.com/503/
+https://milwaukeeastro.org/variable/JD.asp
+
+provide JD = 2448908.5 (Julian Day).
+Now, the number 2448908.5 is described as JDE in Example 25.a of Meeus.
+Kindly help with the:
+
+Calculation of the correct JD corresponding to the Date 1992 October 13 at 0^h TD (Ex.25.a, Meeus).
+How to obtain JDE from JD.
+
+Thank you.

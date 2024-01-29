@@ -1,0 +1,3 @@
+Is something wrong with my luminosity calculation?
+
+A few million years after a white dwarf forms, its surface temperature reaches $100000\text{K}$, while its radius is $0.01R_\odot$. Would this mean that its luminosity is $\Big(\dfrac{100000}{5778}\Big)^4 \cdot 0.01^2 = 8.972 L_\odot$? If so, why is it that way (I do understand the Stefan-Boltzmann law), and does that mean that all neutron stars are less luminous than white dwarfs?

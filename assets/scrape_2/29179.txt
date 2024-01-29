@@ -1,0 +1,5 @@
+How to Distinguish between Temperature and Doppler effect using Black-body radiation?
+
+I understand that the radiation of a body can be described using the curve for black-body radiation. In the sense that a hotter body will be blue shifted and a cooler body will be red shifted.
+The doppler effect gives similar results in the sense that a body is approaching us is blue shifted. While an object that is travelling away from us is red shifted.
+How is it possible to distinguish between temperature and doppler effect?

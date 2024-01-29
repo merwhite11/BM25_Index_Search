@@ -1,0 +1,5 @@
+Will the Heat Death scenario ever occur or just the Big Freeze?
+
+According to the Wikipedia page regarding the ultimate fate of the universe, heat death is a different scenario than the big freeze.
+It states that in the big freeze, temperature will asymptotically approach absolute zero. However, the following section about heat death states that heat death may only occur if temperature reaches an eventual temperature minimum.
+If temperature never truly reaches absolute zero (the temperature minimum), can heat death even occur in the first place?

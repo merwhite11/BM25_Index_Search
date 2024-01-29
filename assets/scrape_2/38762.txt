@@ -1,0 +1,5 @@
+What is the O[III]/H$\alpha$ line ratio for Active Galactic Nuclei?
+
+I have the H$\alpha$ line flux of an AGN and I am trying to calculate the Bolometric luminosity using it. Bolometric luminosity can be calculated from O[III] fluxes by $L_{\rm Bol} = 3500 L_{\rm O[III]}$.
+What is the $\rm O[III]/H\alpha$ line flux ratio for AGN?
+I am new here, any help or redirection to an appropriate forum is immensely appreciated!

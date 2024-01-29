@@ -1,0 +1,12 @@
+How do star orbits, density wave theory and dark matter distribution work together?
+
+I got confused while trying to combine these 3 concepts. Would love to hear some detailed explanation.
+Density wave theory states that spiral arms are formed by tilted elliptic orbits. Bertrand's theorem states that the only possible closed orbits are elliptic with Newton's or linear oscillator law, none of which is consistent with observed star velocities (galaxy rotation curve).
+So that means that their orbits are not in fact closed, right? But then I guess such tilted ellipse patterns wouldn't form, or at least spiral arms would be a very temporal effect.
+So my question is: what typical galaxy mass distribution look like (including dark matter), which results in orbits with almost constant velocity on different distances from the center? And what do these orbits look like, so that they form stable density waves? In particular, how could stars with open rosette-like orbits form stable density waves?
+UPDATE
+https://galaxiesbook.org/chapters/I-03.-Orbits-in-Spherical-Potentials.html#Orbits-in-the-isochrone-potential-and-other-spherical-potentials
+
+Orbits in galactic potentials are typically not closed ... Orbits instead form rosettes and eventually fill the entire space between rp and ra as is allowed by their specific energy and angular momentum.
+
+This looks like a proof of my assumption - if their orbits eventually fill the whole space, then how can they form any density waves? Even neighboring stars precess differently and have different period - in such conditions, I believe, any density waves would quickly dissipate and galaxy would appear uniform.

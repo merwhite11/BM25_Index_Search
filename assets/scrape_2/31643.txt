@@ -1,0 +1,10 @@
+How does the Hubble Space Telescope "Drift and Shift"?
+
+The Phys.org article Mystery of the universe's expansion rate widens with new Hubble data says:
+
+Astronomers have been using Cepheid variables as cosmic yardsticks to gauge nearby intergalactic distances for more than a century. But trying to harvest a bunch of these stars was so time-consuming as to be nearly unachievable. So, the team employed a clever new method, called DASH (Drift And Shift), using Hubble as a "point-and-shoot" camera to snap quick images of the extremely bright pulsating stars, which eliminates the time-consuming need for precise pointing.
+"When Hubble uses precise pointing by locking onto guide stars, it can only observe one Cepheid per each 90-minute Hubble orbit around Earth. So, it would be very costly for the telescope to observe each Cepheid," explained team member Stefano Casertano, also of STScI and Johns Hopkins. "Instead, we searched for groups of Cepheids close enough to each other that we could move between them without recalibrating the telescope pointing. These Cepheids are so bright, we only need to observe them for two seconds. This technique is allowing us to observe a dozen Cepheids for the duration of one orbit. So, we stay on gyroscope control and keep 'DASHing' around very fast."
+
+I understand that the technique skips the use of guide stars, but I'm wondering exactly what does happen. What does the word recalibrating mean in "..move between them without recalibrating the telescope pointing..."
+Do they just execute a blind change in direction using Hubble's attitude control system of gyros and reaction wheels, expose, and move on to the next field, and hope the target object was imaged?
+For a little background see Hubble's one-gyro mode; how does it work for attitude control, stabilization, and slewing? and answer(s).

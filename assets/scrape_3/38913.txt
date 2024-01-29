@@ -1,0 +1,4 @@
+Relation between age and spectral type of star
+
+Does the spectral type of a star change as it ages? Since its temperature changes, I suppose the spectral type should also change, but I'm a bit confused about this.
+Also, is the spectral type entirely based on the star's spectrum? If yes, then why do we say O types are hotter and M types are cooler. I mean the statement is true but why not say that O types have very few lines and M types have a large number of lines? Or is it just a phrase stuck through history just like O type being early and M type being late stars (although this one is wrong)?

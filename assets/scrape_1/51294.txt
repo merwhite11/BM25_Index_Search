@@ -1,0 +1,6 @@
+A what distance could we see the Sun?
+
+How far away can we see the Sun with the naked eye?
+How far with an amateur telescope? And with the James Webb telescope?
+In my own calculations the Sun would appear magnitude 6 at 56 ly, magnitude 8 (extreme naked eye limit) at 140 ly.
+Wikipedia says that the limit magnitude for JWST is about 34 so at a distance of 22 million light years. Are my calculations right?

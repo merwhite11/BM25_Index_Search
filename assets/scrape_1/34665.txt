@@ -1,0 +1,3 @@
+Approximately how many light years across (arclength) was the furthest reaches of the Hubble Ultra Deep Field?
+
+I can find the area($11^2$ arcminutes) and lengths ($200$ arcseconds per side) but if I were to consider just the furthest region (arclength) of the survey, about how many light years across would this be?

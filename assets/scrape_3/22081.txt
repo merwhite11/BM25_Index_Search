@@ -1,0 +1,16 @@
+What is the extent of the "worldwide campaign" to observe near-earth object 2012 TC4?
+
+This nifty answer describes and provides links to the data of the recovery of near earth object 2012 TC4, and the answer also shows the first actual image of the body for this pass. At apparent magnitude +27 (at about 52 million km) it may be the faintest asteroid to have been imaged to date. It's worth visiting that answer first before reading on here.
+This comment points out that 2012 TC4 appears on the Goldstone Asteroid Schedule, a list of upcoming planned observations of asteroids by antennas at the Deep Space Network. Here are the entries for 2012 TC4 in the Upcoming Observations and Past Observations tables:
+Upcoming Goldstone Observations
+DATES           TARGET    H     Notes:
+2017 Oct  9-14  2012 TC4  26.7  Close approach = 7.9 Earth radii on Oct. 12. NHATS
+
+Past Goldstone Observations
+DATES           TARGET          Notes:
+2012 Oct        2012 TC4        Echoes not detected. Likely equipment issues.
+
+I noticed at the top of the page there is a link to the The Arecibo asteroid radar schedule, and in the fifth line of the list shown in the screen shot below, I see that for 2012 TC4 there will be what is labeled there as a "WORLDWIDE CAMPAIGN!" of observations. The all-caps and exclamation point are a direct quote from Arecibo's table.
+Question: What is the extent of the worldwide campaign to observe 2012 TC4? How many facilities? Is it coordinated? Perhaps simultaneous reception of reflected signals by multiple sites? Will it be coordinated with other observations such as infrared or optical wavelengths?
+The plot below the Arecibo table is made from JPL Horizons data in the Earth-Moon barycenter frame. It shows +/- 24 hours from closest approach.
+The hyperbola (red) is the calculated trajectory of 2012 TC4 with dots every 2 hours and the short, (roughly) circular arc is the Moon, as descried in this question. The closest approach to Earth's center is projected to be about 51,000 km. These are preliminary calculations based on the first observation and may be refined a bit as the time of closest approach nears.

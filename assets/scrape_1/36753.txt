@@ -1,0 +1,5 @@
+Why N$_2$ is a non-absorbing species in the spectrum of the Earth?
+
+The transmission spectrum of the Earth atmosphere is like that (Kaltenegger & Traub 2009):
+
+As you can see, you can find many absorption lines related to some components of Earth's atmosphere: H$_2$O, O$_2$, CO$_2$, O$_3$, CH$_4$... But the nitrogen, N$_2$, is not detected anywhere in the spectrum. Why N$_2$ is not detected, but O$_2$, for example, is?

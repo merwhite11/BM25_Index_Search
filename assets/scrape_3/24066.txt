@@ -1,0 +1,3 @@
+What is convection overturn?
+
+When I read some papers about MHD dynamo theory, there is always a $\tau$ that means convection overturning time. What does convection overturn mean?

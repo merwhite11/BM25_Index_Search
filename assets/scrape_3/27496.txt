@@ -1,0 +1,48 @@
+Is the Milankovitch calendar provably better than the Gregorian one considering a non-constant tropical year?
+
+It's somewhat of a no-brainer the revised Julian calendar (attibuted to Milankovitch) is more accurate than the Gregorian one just because it started with a more accurate estimate of the duration of the tropical year. From (the English translation) of Milankovitch's 1923 paper:
+
+A complete adoption of the Gregorian calendar was, however, not advisable either from a religious or scientific standpoint because the astronomical data concerning the length of the tropical year which lay at the base of the Gregorian reform are now replaced by others.
+
+In fact one (unpublished?) paper by Lichtenberg and Richter (1998) explains the difference between the two calendars as a better continued fraction approximation of the number 0.781 = (36 525 − 36 524.219), i.e. the of difference between the Julian year and the tropical year (as approximately measured more recently), with the Gregorian rational approximation of that 0.781 being 3/4 and the Milankovitch one being 7/9. (It's actually a bit more complicated as there's a second parameter to approximate, but I don't care to elaborate on the other one here.)
+But what I want to ask: is this superiority of the Milankovitch calendar still true considering (more realistic) models in which the tropical year is not constant? I actually break this down into two sub-questions...
+I could easily find a comparison (Moyer, 1982) of the Julian and Gregorian calendars using the Newcomb model for the tropical year:
+
+What would the Milankovitch calendar look like on that graph? (Or e.g. using a more sophisticated cubic model of the tropical year, what would they look like).
+And further, considering what we don't know about the uncertainties of the tropical year, e.g. according to Wikipedia:
+
+If society in the future still attaches importance to the synchronization between the civil calendar and the seasons, another reform of the calendar will eventually be necessary. According to Blackburn and Holford-Strevens (who used Newcomb's value for the tropical year) if the tropical year remained at its 1900 value of 365.24219878125 days the Gregorian calendar would be 3 days, 17 min, 33 s behind the Sun after 10,000 years. Aggravating this error, the length of the tropical year (measured in Terrestrial Time) is decreasing at a rate of approximately 0.53 s per century. Also, the mean solar day is getting longer at a rate of about 1.5 ms per century. These effects will cause the calendar to be nearly a day behind in 3200. The number of solar days in a "tropical millennium" is decreasing by about 0.06 per millennium (neglecting the oscillatory changes in the real length of the tropical year).[3] This means there should be fewer and fewer leap days as time goes on. A possible reform would be to omit the leap day in 3200, keep 3600 and 4000 as leap years, and thereafter make all centennial years common except 4500, 5000, 5500, 6000, etc. But the quantity ΔT is not sufficiently predictable to form more precise proposals (Blackburn & Holford-Strevens 2003, p. 692).
+
+Is the error with which we can estimate the duration of future tropical years greater than the difference between the Milankovitch and Gregorian calendars? The year 2800 is leap in Gregorian but not in Milankovitch's calendar. That's "pretty close" to the suggestion in the last quote to make 3200 not leap, which suggests that the difference between the two calendars is greater than the error currently incurred in estimating tropical year duration. So it looks like one could still answer the question whether Milankovitch's calendar is provably better than the (unmodified) Gregorian one even considering estimation errors for the tropical year duration. Is that a correct assessment though?
+In contrast to that model cited in Wikipedia, Borkowski (1991) (using a quadratic model for the tropical year, which he finds is a good approximation of the VSOP92 cubic model for the next 4000 years) concludes that 
+
+our Gregorian calendar will not deviate from the exact solar calendar by significantly more than 1 day for some 2000 years to come.
+
+So it looks like that would make the year 2800 (non-leap in Milankovitch's) a rather premature correction...
+Moyer also contains this passage:
+
+In 1582 the
+  length of the tropical year was nearly
+  365.24222 days, which differed from the
+  Gregorian year by only a little more
+  than 24 seconds. If the length of the year
+  itself were not gradually diminishing,
+  the calendar under the plan devised by
+  Lilius would retain the date of the vernal
+  equinox at or about March 21 for
+  more than 3,550 years.
+Clavius himself estimated that the
+  calendar would deviate by one day in
+  the year 5084. Considering the decline
+  in the length of the year, which was quite
+  unknown to 16th-century astronomers,
+  the calendar will remain accurate to
+  within one mean solar day for a much
+  shorter time, some 2,417 years, or until
+  about the year 4317. (Extrapolations are
+  based on the determination of the tropical
+  year at epoch 1900 by the American
+  astronomer Simon Newcomb; his figure
+  was 365.24219879 mean solar days.)
+
+Which again is concluding (using the linear model of Newcomb) that Gregorian  calendar is better than  Milankovitch claims.

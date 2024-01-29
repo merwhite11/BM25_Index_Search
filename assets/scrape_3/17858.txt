@@ -1,0 +1,5 @@
+(How) Can one determine if an exoplanet is synchronously tidally locked or not?
+
+Mercury is asynchronously tidally locked so that all of its surface regularly sees the Sun. But an exoplanet which is synchronously locked to its star, could we tell that it is? It would have a hot side and a cold side. This should affect transit and occultation on some wavelengths, but does the symmetry of the movement degenerate any possibility to disentangle tidal locking from that?
+Mercury seems to cool down during night time, and gas giants maybe distribute their temperature atmospherically. So their tidal locking might be hard to discern. But there are terrestrial exoplanets with much shorter orbital period which should have a cool side and a hot side permanently. That's my speculation. My basic curiosity is:
+Is Mercury a freak or a standard in terms of tidally locked planets being asynchronously so? And by observational support, not just models.

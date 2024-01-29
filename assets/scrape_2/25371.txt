@@ -1,0 +1,8 @@
+Information speed and our view of the cosmos
+
+It is common knowledge that when we look at the stars we look back in time. And most stars are thousands of lightyears away from each other. The information that photons cary about the position of a stellar object can be really deceiving about their true position.
+Do astronomers take lightspeed into account when they map stars ? If so, how do they figure out the true position of a star.
+With all that in mind do galaxies really look like what we see in our photographs? If a galaxy has a diameter of bilions of lightyears, what we see could be a really skewed and warped image of the real galaxy. Can we computationaly reverse the warping ?
+EDIT
+Image 1 and 2 explain what I mean by "Warping". Stars closer to the core move faster and in combination with their distance from the viewer, information by light should give the impresion of a more "spiraly" galaxy as it whould take less time to reach the observer. Image 2 whould be the "true" shape of the galaxy if the effect could be reversed (I applied a counter clock-wise warp distortion)
+An other factor of false position are gravitational lences. Although gravity from black holes do give the maximum distorsion, gravity from other stars could divert light reaching us. The diversion is negligent but can get big for astronomical distances (Image 3). Am I right ? If I am, do Astronomers even bother to make simulations to map the known sky as it whould be in real time ?

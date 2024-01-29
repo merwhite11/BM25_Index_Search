@@ -1,0 +1,4 @@
+Point Spread Function size: Full Width Half Maximum (FWHM) vs Sigma
+
+I having been studying some astronomy papers related to galaxy observations and I realized that every time they want to express the size of the Point Spread Function (PSF) of a system which can be approximated by Gaussian they use the Full Width Half Maximum (FWHM) and not the sigma. Is there a reason behind that? 
+Thank you.

@@ -1,0 +1,3 @@
+The size of Copernicus’ and Ptolemy’s corrections
+
+I understand that both Copernicus and Ptolemy needed epicycles, but one might assume that a heliocentric system would need much smaller corrections to account for the non-circular motion of the planets.  This is however not mentioned as an important reason to favor Copernicus’ system. Is this not the case?

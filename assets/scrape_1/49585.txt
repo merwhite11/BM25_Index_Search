@@ -1,0 +1,6 @@
+Method to get data from NED IPAC and NVSS, without manually giving RA/dec input
+
+I am collecting the radio flux data at 1.4Ghz frequency for all 1544 Markarian Galaxies for a study. For that, I have to first put the names of these Markarian galaxies in NED IPAC and from there collect their RA, dec, and Radio flux.
+Then I would again input these RA dec manually in NVSS to get their image files.
+Is there a way so that I do not have to put the numbers manually but rather use one file and get the output in another file or something simpler from both sites? I am using windows 10.
+Please let me know.

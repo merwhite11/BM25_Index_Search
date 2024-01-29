@@ -1,0 +1,3 @@
+.fits Files for Exoplanets
+
+I am learning to use AstroImageJ software. And using this software to plot transit graph for Exoplanet orbiting the star. I want to know from where can we find the .fits file of target star ? I tried to download some files from NASA Exoplanets Archive but they are very less in number (only 1 or 2).

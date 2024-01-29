@@ -1,0 +1,22 @@
+Is the discovery of a "mass gap" black hole by this tiny telescope just plain luck/serendipity or could it be the first of many similar discoveries?
+
+The Kilodegree Extremely Little Telescope is a pair of modest lenses with high quality medium format CCDs attached sitting on oversized mounts in Arizona and Sutherland.
+These very modest instruments have discovered several exoplanets (by choosing a niche magnitude range) and have now seemed to have discovered a particularly interesting 3 $M_{\odot}$ black hole + red giant binary.
+Jayasinghe et al. (2021) A Unicorn in Monoceros: the 3M⊙ dark companion to the bright, nearby red giant V723 Mon is a non-interacting, mass-gap black hole candidate
+Question: Is the discovery of this "mass gap" black hole by this tiny telescope just plain luck or serendipity, or could this be the first of many similar discoveries? How likely is it that there are more nearby "mass gap black holes" that just got missed due to the parameter space sampled by time domain based surveys?
+
+From keltsurvey.org/telescopes
+
+
+This picture (KN) shows the KELT-North telescope at Winer.
+
+
+
+This picture shows the KELT-South telescope at Sutherland.
+
+
+
+click for larger
+
+Figure 13. The right panels show the template subtracted H (red dot-dashed), H (blue dashed) and Ca i 6439 (black) line profiles at various orbital
+configurations illustrated in the left panels. The size of the compact object is simply chosen to make it easily visible.

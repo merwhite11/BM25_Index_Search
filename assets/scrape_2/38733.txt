@@ -1,0 +1,11 @@
+Fraction of initial mass lost (radiated) by neutron star mergers compared to black hole mergers?
+
+GW190521 black hole merger total mass calculation and missing mass, how does this happen? notes that there are about 9 solar masses missing from the final black hole.
+GW170817 is the first observed merger of two neutron stars, detected in several ways including a weak gravitational wave.
+Do neutron star mergers also radiate several percent of their mass as gravitational waves, or is the fraction much smaller. They comprise ordinary matter rather than being singularities in spacetime, so my guess is that the fraction is much smaller, but I have no idea.
+My question is motivated by this answer.
+
+Related:
+
+"Who saw" the binary neutron star merger first? What was the sequence of events? (GRB/GW170817)
+What does "GPU-accelerated butterfly matched filtering over dense bank of time-symmetric chirp-like templates" mean? (GW170817)

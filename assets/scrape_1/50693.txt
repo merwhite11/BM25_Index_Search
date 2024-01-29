@@ -1,0 +1,12 @@
+Do these results mean that I have found this exoplanet?
+
+Yesterday I was going through the TESS mission data on mast portal and after applying some filters I found some data. I started analyzing that data using the lightkurve library.
+plot without using the periodogram script:
+
+Running all the scripts I found this plot:
+
+Then I searched after this star system on the exomast archive portal just to check that this system wasn't analyzed earlier by researchers and I am not wasting my time.
+The portal didn't show any results which means that TESS researchers haven't studied this one yet and was not confirmed as an exoplanet.
+Does this mean that I found it?
+And what should I do now with this?
+If this was already known I have no problem, this was fun to analyze.

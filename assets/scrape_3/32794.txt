@@ -1,0 +1,8 @@
+How far have stars been seen beyond the center of the Milky Way?
+
+What lies near the center of the galaxy is of great interest and in recent times the motion of dozen(s) of stars at the center of our galaxy orbiting around Sgr A* have been measured in great detail. I show an example below. Though the field is only roughly 1 arc second wide, I don't see any non-orbiting background stars.
+This led me to wonder...
+Question: How far have stars been seen beyond the center of the Milky Way? Though this area is opaque in visible wavelengths, infrared imaging and interferometry has led to sharp images near Sgr A*. But intentionally imaged or not, how far have objects been seen beyond this distance but appearing near the center of the galaxy due to geometry? Have stars been imaged clear through the center and out into the far side of the galaxy?
+Any wavelength is fine, as long as it's image-like and the answer indicates that the object lies beyond the center of the galaxy and how that could be determined.
+
+above: homemade GIF from ESA video ESOcast 173: First Successful Test of Einstein’s General Relativity Near Supermassive Black Hole

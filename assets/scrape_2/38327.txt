@@ -1,0 +1,3 @@
+Can an event horizon form with the observer already inside?
+
+I am on a planet orbting a star around the center of the milky way (assume no supermassive blackhole there). By some mechanism, mass starting from the outer part of the galaxy gets pushed inward until the schwarzchild radius is reached for that mass (.25 ly according to Wikipedia). I'm under the impression that an event horizon would form from the perspective of someone looking at our galaxy from the outside. But how would it look like from my perspective at the center of the galaxy? Would I view everything as normal? I know things would start collapsing with so much concentrated mass, but would I know I was inside an event horizon?

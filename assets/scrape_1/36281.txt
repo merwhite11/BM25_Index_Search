@@ -1,0 +1,5 @@
+What is the Schwarzschild radius actually?
+
+I am currently writing a detailed essay about black holes, the history of their discovery and their characteristics and I can't find the appropriate literature online and in my local libraries (I even looked in the uni libraries specialized for astrophysics, the books are just way too old) which explain in more detail what the Schwarzschild radius is. 
+I'd like to understand it more rather than copying those short wiki explanations and accepting the calculations just the way they are.
+I'd really appreciate the explanation from the core of  the definition of the Schwarzschild radius in order to understand the rest of the complex mechanism of black holes.

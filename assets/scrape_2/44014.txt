@@ -1,0 +1,5 @@
+App Stellarium and hourly wobbling motion of Neptune
+
+In Stellarium when I zoom in on Neptune to be able to see your daily rotation. I select Neptune, center it (space bar) and then make increments of one solar hour (command +).  I notice that the axis of rotation seems to wobble (just focus on the big dark spot to notice that), but the precession period of Neptune's axis of rotation is hundreds of years, not hours. How is this possible?. I think it may be due to the combination of the daily rotational movement of us (the Earth) and Neptune, but I cannot get a clear geometric representation of this. Does anyone know why this phenomenon happens?
+Thank you.
+I have: Stellarium 0.20.4 for Mac OS.

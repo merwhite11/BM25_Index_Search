@@ -1,0 +1,6 @@
+What happens if you fail to reach escape velocity for the galaxy?
+
+I was listening to Skeptics Guide to the Universe the other day, and Steve Novella mentioned that the escape velocity for the galaxy is 544 km/s.
+If an object fails to reach escape velocity on Earth, it will return to Earth.  What will be the fate of an object, say the Voyager spacecraft which is currently traveling at 17 km/s, that fail to meet the 544 km/s.
+I'm having a hard time wrapping my head around what galactic escape velocity means.  
+Does this mean that Voyager is incrementally slowing down by the pull of the galaxy?  Given enough time, will it end up in the supermassive black hole in the center?

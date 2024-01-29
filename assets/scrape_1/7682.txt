@@ -1,0 +1,17 @@
+Mapping selenographic coordinates onto a sphere
+
+I have created a 3D rendering of the moon, which is represented as a sphere with a radius of N pixels.
+I also have selenographic coordinates.  For example, the coordinates of the Apollo 11 landing site are 0.67408, 23.47297.  I'd like to show this coordinate on my sphere.
+Here's some possibly relevant code, which is used for conversion with Earth coordinates:
+function latLongToVector3(lat, lon, radius, height) {
+    var phi = (lat)*Math.PI/180;
+    var theta = (lon-180)*Math.PI/180;
+
+    var x = -(radius+height) * Math.cos(phi) * Math.cos(theta);
+    var y = (radius+height) * Math.sin(phi);
+    var z = (radius+height) * Math.cos(phi) * Math.sin(theta);
+
+    return new THREE.Vector3(x,y,z);
+}
+
+Is this the correct way to map selenographic coordinates onto a sphere?

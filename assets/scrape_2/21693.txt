@@ -1,0 +1,7 @@
+How accurate are NASA's eclipse predictions?
+
+NASA's predictions for the August 2017 solar eclipse show that about half of Kansas City will see a total eclipse and the other half won't (they'll just see a "near" total eclipse, perhaps even Bailey's Beads?).
+I thought this would be a great way of testing how accurate NASA's eclipse path prediction is: have people in Kansas City report, with location, whether they saw a total eclipse or not (of course, many people in Kansas City will probably head into the total eclipse zone just to see it, but hopefully few will remain outside it).
+It then occurred to me that someone must've already done this for previous eclipses (I know it's done for lunar occultations of other stars).
+However, googling only tells me that NASA's 2017 path predictions are more accurate than ever before, but not actually HOW accurate they are.
+Where can I find data about accuracy of eclipse predictions?

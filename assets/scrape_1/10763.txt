@@ -1,0 +1,4 @@
+Why aren't secondary mirrors offset to get rid of diffraction spikes due to the support vanes?
+
+Some kind of ellipsoidal shape mirror could reflect to a secondary mirror which is not in the way of the infalling light. Two advantages are immediately obvious. The primary mirror would not be partly shadowed by the secondary. And the support structure of the secondary would not cause diffraction spikes in point sources.
+What are the reasons for why this is not only not the standard, but quite uncommon? Especially on the greatest telescopes, one would think that the additional production difficulties, if any, are not a relevant consideration given the budget and clever engineers behind them.

@@ -1,0 +1,4 @@
+Has gain in mass from accretion onto a black hole been observed?
+
+Have we observed a black hole directly gain mass via accretion? That is, have we observed the black hole to have mass $m_1$ at time $t_1$ and then observed its mass to be $m_2 > m_1$ at a later time $t_2>t_1$?
+I understand this would most likely be plausible for stellar-mass X-ray binaries or for supermassive black holes, and that the uncertainty on the mass measurement of such a black hole would need to be smaller than the change in the mass due to accretion. But I'm wondering if we have any observational evidence that a black hole's mass increases as it accretes (of course, theoretically it should, regardless of whether the gravitational singularity "really exists" or not!).

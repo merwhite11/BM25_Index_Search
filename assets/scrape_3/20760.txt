@@ -1,0 +1,5 @@
+Can gravity cause a Big Crunch, if the cosmological principle holds?
+
+Say we have a closed universe that follows the cosmological principle. As a result, mass is distributed equally and, if as far as I know, gravity should have no net effect on the movements of galaxies (as in, there are no peculiar velocities).
+However, in the Big Crunch, the Universe stops expanding and gravity causes the scale factor to decrease. How is this possible? Shouldn't gravity have no effect on a homogenous and isotropic universe?
+On that note, if gravity actually caused a collapse, would gravity cause the comoving coordinates of the galaxies to change?

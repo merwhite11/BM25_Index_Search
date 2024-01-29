@@ -1,0 +1,13 @@
+Is there a rough analytical expression for the Milky Way's radial mass distribution?
+
+I found the image below in Space.com's article This 3D Color Map of 1.7 Billion Stars in the Milky Way Is the Best Ever Made, although it is not the map mentioned in the title.
+The caption for this image reads:
+
+This radial velocity image shows the movement of 7 billion stars. The colors run from blue (stars moving at 50 km/s toward us) to red (stars moving 50 km/s away from us). The white color shows when, on average, the stars are not moving in the line of sight with respect to us. Stars lagging behind as they orbit the center of the Milky Way appear to be traveling away from us, and those speeding up appear to be traveling toward us. Credit: ESA/Gaia/DPAC
+
+If you imagine a band along the galactic equator the dominant velocity shows two positive and two negative "peaks", with a zero crossing in the direction of the galactic center.
+Purely for fun I wanted to see if I could reproduce this behavior with a simple calculation based on a 2D calculation assuming circular motion and a radial density distribution $\rho(r)$ which I could then use to figure out a rotational velocity distribution $v(r)$, bun I swiftly realized that I have no idea what the density profile would look like.
+
+For the purposes of this simple exercise, what would be an analytical expression that roughly matches the Milky Way's radial density profile, projected on to its equatorial plane?
+
+For spherically symmetric distributions, Newton's Shell theorem allows one to treat all mass inside a sphere defined by an orbit's radius as if it were at the center, and to ignore all mass in the shell outside of that radius. Is there anything like an analog to this for a radial distribution within a plane?

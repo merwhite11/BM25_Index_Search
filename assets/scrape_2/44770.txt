@@ -1,0 +1,10 @@
+What was Webb's "key launch clearance review" about?
+
+Yesterday, the ESA press announcement form July 1st, 2021 was widely spreaded in various science and nerd news channels:
+
+“We are thrilled to have passed this important step towards the launch of Webb and to have received the green light from Arianespace and NASA,” says Peter Rumler, ESA Webb project manager.
+
+Ignorantly speaking, I fail to understand why this step was more than a formality, a last quality control that the payload is compatible with the rocket. I would suspect that the telecope's key properties in folded state (length, width, depth, weight, center of mass) was thoroughly checked and planned right from the early design and building phases to guarantee that it fits into the rocket. What am I missing?
+Here some eye-candy from the press release showing JWST in folded state with and without the rocket:
+
+PS: I am aware that my question might be not a 100% fit for astronomy SE, but since we are all looking forward for launch of JWST and its first light, I decided to ask here.

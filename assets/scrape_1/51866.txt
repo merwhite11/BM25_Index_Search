@@ -1,0 +1,38 @@
+Computing the sky coordinates using astropy
+
+I need your help with an error I have been receiving while trying to obtain the sky coordinates using astropy module in python.
+The code looks like the following,
+c = coord.SkyCoord(ra = u.Quantity(gaia_data["ra"] * u.deg),
+               dec = u.Quantity(gaia_data["dec"] * u.deg),
+               distance = u.Quantity(gaia_data["distance"] * u.pc),
+               pm_ra_cosdec = u.Quantity(gaia_data["pmra"] * u.mas/u.year),
+               pm_dec = u.Quantity(gaia_data["pmdec"] * u.mas/u.year),
+               radial_velocity = u.Quantity(gaia_data["rv"] * u.km/u.s))
+
+I have read the queried data from Gaia DR3 into a pandas dataframe which is why I am converting the individual columns to quantity to ensure correctness while calculating the coordinates. The thing that surprises me the most is that the code works perfectly fine when I run it on a smaller dataset from Gaia DR3 (about 40k objects), the error pops up when I try doing it for the actual dataset (about 2.1M stars).
+The error message looks like the following,
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+<ipython-input-17-e9a930de875e> in <module>
+      4                    pm_ra_cosdec = u.Quantity(gaia_data["pmra"] * u.mas/u.year),
+      5                    pm_dec = u.Quantity(gaia_data["pmdec"] * u.mas/u.year),
+----> 6                    radial_velocity = u.Quantity(gaia_data["rv"] * u.km/u.s))
+
+~/.local/lib/python3.6/site-packages/astropy/coordinates/sky_coordinate.py in __init__(self, copy, *args, **kwargs)
+    329             # Finally make the internal coordinate object.
+    330             frame_kwargs.update(components)
+--> 331             self._sky_coord_frame = frame_cls(copy=copy, **frame_kwargs)
+    332 
+    333             if not self._sky_coord_frame.has_data:
+
+~/.local/lib/python3.6/site-packages/astropy/coordinates/baseframe.py in __init__(self, copy, representation_type, differential_type, *args, **kwargs)
+    581                     if not current_diff_unit.is_equivalent(current_repr_unit / u.s):
+    582                         raise ValueError(
+--> 583                             "Differential data units are not compatible with"
+    584                             "time-derivative of representation data units")
+    585             self._data = representation_data.with_differentials(
+
+ValueError: Differential data units are not compatible withtime-derivative of representation data units
+
+I do not understand the error message and I did not find any relevant source explaining what this means and how do I get rid of it?
+Did anyone encounter this before? What is the solution?

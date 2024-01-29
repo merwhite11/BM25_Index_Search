@@ -1,0 +1,9 @@
+Full Moon Position of Sun
+
+I am trying to figure out the position of sun with respect to moon on a full moon day.
+Here's an image from certain wiki which I do not find convincing.
+1
+If the sun rays point as shown in the image and the earth stands between the moon and sun on Full moon's day, I dont see any reason why the moon should be shining in its full glory.
+Similarly when the moon is directly in between earth and sun, it should have maximum brightness but the image shows it as the new moon.
+In fact, I cannot deduce how at all can moon receive light across the entire sphere at any given angle from the sun.
+Putting it specifically, what would the position of sun w.r.t to earth and moon on a full moon day ?

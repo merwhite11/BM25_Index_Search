@@ -1,0 +1,3 @@
+Do contracting objects show redshift?
+
+If we consider a point on the central part of a contracting object as observed from earth, the point is continuously moving away from us as the object contracts. Moreover, light emerges from a deeper gravitational well as the object contracts. So, shouldn't contracting objects show a redshift? And if so it should be less towards the edges than towards the centre, right?

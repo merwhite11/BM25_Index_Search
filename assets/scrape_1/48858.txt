@@ -1,0 +1,7 @@
+If planets are ellipsoids why don't we have 3 diameters?
+
+We know that each ellipsoid has 3 diameters named $2a$, $2b$, and $2c$.
+The Earth and all planets, in general, are ellipsoids (Saturn is the best example because it's the most oblate planet in the solar system).
+But all we have read and heard are two types of diameters: equatorial diameter, and polar diameter.
+So where's the third one?
+I mean, the equatorial diameter itself should differ. One is 12756 km in the case of Earth. But what about the equatorial diameter that is perpendicular to the other equatorial diameter?

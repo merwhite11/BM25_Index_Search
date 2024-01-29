@@ -1,0 +1,3 @@
+How to get the right ascension of the Moon?
+
+Is there any approximate way to calculate the right ascension of the Moon? I already got declination but still, need the right ascension to calculate the final position of the moon. Thanks for all your answers!

@@ -1,0 +1,3 @@
+Would Hubble Space Telescope improve black hole image observed by EHT if it joined array of telesopes?
+
+My question is related to black hole image released in April. As far as I understand idea of EHT, it joins observations from multiple locations to work like one telescope with radius that is equal to the distance between the farthest telescopes in array. Moreover Earth atmosphere affects observation, e.g. by introducing delays. Would it beneficial to add Hubble Space Telescope to EHT and if yes, why HST was not included in observation array?

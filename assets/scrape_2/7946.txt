@@ -1,0 +1,11 @@
+Where is the center point for the Supergalactic coordinate system?
+
+I'm trying to build a 3D visualization of the Supergalactic coordinate system and couldn't find any reference to where the center point should be (the Sun, galactic center, the Earth, etc). 
+Also I already tried to look into some articles and books, but they only refer to the zero point related to the galactic coordinates.
+Where should it be?
+Could I use this model as the reference for the Supergalactic Coordinate system, starting to count the SGL (L) and SGB (B) from the yellow line?
+It is still unclear to me if (l=137.37 b=0) indicates just the direction of the center of the Supergalactic Coordinates System.
+Note: The Sun is being used as the center point.
+
+Plano Galactico translates into Galactic Plane.
+Centro Galactico translates into Galactic Center.

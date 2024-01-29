@@ -1,0 +1,10 @@
+What's fixed in Ariel that is moving in other planet-hunting space telescopes?
+
+The BBC News article UK will lead European exoplanet mission says:
+
+Steady platform
+And one aspect that would work in Ariel's favour is the absence of any moving parts in its build, commented Plato team-member Dr Don Pollaco from Warwick University, UK.
+"The issue with all of these planet experiments is that the signals you are looking for are so incredibly small that any systematics in the instrument itself will dominate the signal," he explained.
+"And the systematics are often associated with bits that move. So the great thing about Ariel is that it is fixed-format - nothing changes," he told BBC News.
+
+Question: What's fixed in Ariel that is moving in other planet-hunting space telescopes? Is it only aspects of the satellite's telescope and payload module, or does this difference include aspects of the satellite's attitude control system and other things in the service module as well? See ESA's Ariel.

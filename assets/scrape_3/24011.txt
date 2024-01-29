@@ -1,0 +1,12 @@
+Finding individual band magnitudes: Why and how is the integration of individual flux values for each wavelength used?
+
+What differentiates the distance modulus equation to find the difference between two apparent magnitudes? For example,
+$$ m_1 = -2.5\cdot log_{10}\left(\frac{F_1}{F_2}\right) + m_2$$
+leads to the following, in the U band:
+$$\implies m_U = -2.5\cdot log_{10}\left(F_U\right) + C_U$$
+and the relationship involving taking the sum of the fraction of the flux that a star outputs at each wavelength rather than the ratio between the fluxes of two stars, here in the UV band for example: 
+$$ m_U = -2.5\cdot log_{10} \left(\displaystyle\int_0^\infty F_{\lambda}S_U \,\, d\lambda\right) + C_U$$
+*$S(\lambda)$ = the fraction of the star's flux detected at wavelength lambda.
+Succinctly, what is the difference between the above two equations? 
+More specifically, how would this be used in a real-world situation to find the apparent magnitude of an object? My deduction is that apparent magnitude isn't as simple as taking the flux in a certain filter to find the apparent magnitude, and that each individual wavelength must be accounted for. However, with that notion, why can't we just remove the sensitivity function and change the bounds to those wavelengths within the U band? 
+The other option would be that this is just more accurate than taking the flux within the U band (referring to the above example), because you would take smaller intervals, possibly over 1 $\buildrel _\circ \over {\mathrm{A}}$ intervals since infinitesimal ones would be impossible.

@@ -1,0 +1,14 @@
+Evaluating Intensity ratio $I(0,\mu)/I(0,1)$ in non-isotropic region
+
+We are given a problem:
+
+Consider a grey atmosphere in radiative equilibrium. If the total pressure ($P$) and energy density ($u$) are related by
+$$P=\frac{u}{\tau^2}$$
+in a non-isotropic region, where $\tau $ is the  optical depth, then obtain $I(0,\mu)/I(0,1)$ as a function of $\mu.$
+
+Since it's said, that we are considering the grey atmosphere in radiative equilibrium. That means,
+$$\frac{dF}{d\tau}=0\rightarrow J=S$$
+We also have
+$$\frac{dP}{d\tau}=\frac{F}{c}\rightarrow P=\frac{F}{c}\left(\tau+q\right)$$
+But this can't be possible with what are given. Where I'm getting this wrong? Is it possible like
+$$q=0\ \ \&\ \ \frac{u}{\tau^2}=\frac{F}{c}\tau\rightarrow u=\frac{F}{c}\tau^3$$

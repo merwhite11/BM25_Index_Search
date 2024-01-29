@@ -1,0 +1,27 @@
+If Planet Nine indeed exists, how large a impact event there should be to be seen from Earth?
+
+Recently I've found this news article, A meteorite crashed into the Moon during total lunar eclipse in January, about a collision into the moon that happened while a lunar eclipse was under way. According to a paper{1}, it produced a flash that peaked about 4.2 magnitude, what puts it in the range visible to the naked eye, assuming a threshold around magnitude 5:
+
+Despite visible from Earth, it was caused by a pretty small object, about 45kg, with impact energy about 1.5 ton TNT equivalent:
+
+That made me wonder, if we were lucky enough, could we pinpoint Planet Nine position just by looking in its general direction and waiting for a large enough impact with a KBO, able to produce a visible flash?
+Or instead of a visible flash, perhaps we could at least hope to detect the infrared glow from the heat produced. For example, assuming a Planet Nine about twice Earth radius at 800 AU, I estimate the amount of energy received from the sun in a Earth day to be about $10^{17}J$:
+Python 3.8.5 (default, Sep  4 2020, 07:30:14) 
+[GCC 7.3.0] :: Anaconda, Inc. on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> solar_constant_earth = 1362
+>>> solar_constant_9th = solar_constant_earth * (1/800)**2
+>>> solar_constant_9th
+0.0021281250000000002
+>>> 9th_cross_section = 3.1415 * (2 * 6350000)**2
+  File "<stdin>", line 1
+    9th_cross_section = 3.1415 * (2 * 6350000)**2
+     ^
+SyntaxError: invalid syntax
+>>> cross_section_9th = 3.1415 * (2 * 6350000)**2
+>>> daily_energy_input_9th = solar_constant_9th * cross_section_9th * 60 * 60 * 24
+>>> daily_energy_input_9th
+9.316555641045002e+16
+
+This is about the estimated yield from the Tunguska event, so I think even a impactor as small as 100m across delivers the equivalent to a day worth of 9th total solar irradiation in a split second, so the infrared glow of the planet could be boosted a lot, briefly.
+{1}. Madiedo, José M., et al. “Multiwavelength observations of a bright impact flash during the 2019 January total lunar eclipse”. Monthly Notices of the Royal Astronomical Society, vol. 486, no 3, julho de 2019, p. 3380–87. Silverchair, doi:10.1093/mnras/stz932. link

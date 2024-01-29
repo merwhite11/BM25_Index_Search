@@ -1,0 +1,5 @@
+Detecting anomalies from the sun from home
+
+I was wondering if there are any ways for some amateur to detect let's say solar flares or CMEs from home. What kind of hardware would you need in order to have chance of seeing/measuring those?
+I have a background in programming software and I've gotten my feet wet in hardware if that's of any help. 
+I'm aware that the weather plays a "bit" of a factor and I am sure that I can't afford a satellite but anything is welcome!

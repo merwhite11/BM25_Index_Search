@@ -1,0 +1,5 @@
+Time after sunset until star can be seen
+
+Given a star's apparent location and apparent magnitude, how how many degrees below the horizon must the sun be for the star to be visible to the naked eye for an observer on Earth at a specified location and elevation? You can ignore all light pollution, though I understand there will be some error due to air quality/weather/atmospheric aberrations.
+Is there such a formula? If not, why not and what methods of approximation are available?
+(I figure the brightness of the afterglow of the sun at a certain angle above the western horizon can be calculated for a certain time and place, and if it is less than the apparent brightness of the star in question, the star will be able to be seen.)

@@ -1,0 +1,4 @@
+Portion of universe visible if gathering image from inflationary epoch
+
+Apologies in advance for my over-exposure to pop science.  I want to propose a telescope powerful enough to collect imagery from 10^-32 seconds after the “Big Bang”, or as soon as the end of the inflationary epoch.  With light coming from the universe when roughly 10 ly in diameter, along with the expansion to our current size, I would only see the tiniest fraction of light from so long ago with a telescope looking at that far of a distance.  
+Assuming my telescope has an identical view field as the Hubble Space Telescope, what fraction of the total volume of the universe at end of the inflationary epoch would I actually be viewing?

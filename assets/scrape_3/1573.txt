@@ -1,0 +1,10 @@
+Star names and the HYG Database
+
+Related to Convert coordinates between RA/dec and WGS 84 (SRID=4326).
+WARNING: I'm a noob in astronomy.
+After import all stars from HYG Database (http://www.astronexus.com/node/34) I noticed some missings:
+1) NGC catalog seems to have other names ( maybe Gliese )
+2) Some stars have catalog names when could have simple (commom) names ('Mimosa' is 'Bet Cru').
+In fact, I think the HYG Database is too professional (
+select count(*) from hygn where proper_name is not null gives me only 87 stars) and keep the stars names more scientific.
+Is there another database like HYG Database I can try?

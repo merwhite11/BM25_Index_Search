@@ -1,0 +1,4 @@
+How do you refer to comparative temperature?
+
+Earth's average surface temperature is about 288 K.  If we had a hypothetical exoplanet with a surface temperature of 300 K, this would be about 4% higher than Earth's.
+Because we say Earth radii and Earth masses, would we refer to this as 1.04 Earth temperatures?  Or, how about 1.04 Earth's temperature?  $1.04 \cdot T_⊕$?  Is there a standard in astronomy to use?

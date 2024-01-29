@@ -1,0 +1,3 @@
+Why is $g$ tied to the oscillator strength $f$ in $\log{gf}_{\odot}$
+
+The $\log{gf}$ value of an element in a star, where $f$ is the oscillator strength, or probability of transition in an atom, is a scientifically pursued quantity with relation to the model atmosphere of the star. Why is the oscillator strength tied to $g$? And what is the motivation for including this quantity in a stellar model?

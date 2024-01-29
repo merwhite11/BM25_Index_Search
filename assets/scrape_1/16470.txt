@@ -1,0 +1,5 @@
+lunar calendar accuracy for predicting new moons
+
+I wonder, how accurate the lunar calendar is?
+Can we predict the new moons precisely for tens of years in future?
+If we know all factors that affects the movement of the moon, then why it is not possible to predict it?

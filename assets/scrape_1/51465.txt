@@ -1,0 +1,5 @@
+Does the barycenter of an n-body system remain constant during collisions?
+
+I am developing an n-body simulation software which simulates collisions. Most of these have a stationary frame of reference, meaning that orbiting objects may eventually move off the screen. To combat this issue, I am trying to center the n-body system relative to the system barycenter.
+Apart from numerical drift due to limited decimal precision, I think that the motion of the bodies will remain smooth and not move around due to the system being centered on the barycenter, but will there be jumps if objects collide and merge with each other?
+Edit: My main concern is that because bodies have radii and are not point masses, collisions will occur near point masses but not exactly at them, meaning that barycenter shift may be unavoidable. What could be done here?

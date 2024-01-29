@@ -1,0 +1,4 @@
+Is there a way to estimate the age of M dwarf stars?
+
+Wolf 1061 (only 13.8 ly away) was recently found to have three rocky planets one of which is in the habitable zone. It was stated on the english wikipedia site that it has a very stable light curve and was not found to have "any significant activity such as sunspots or flares." 
+Would this imply that this star is very old? The expected lifetime of this M dwarf with a mass estimated to be 0.25 solar mass could potentially reach a trillion years.

@@ -1,0 +1,6 @@
+Compute footprint of a region observed with EPIC-PN
+
+Given the coordinates of an observation performed by XMM-Newton, is there a way to compute the coordinates of the limits of EPIC-PN's field of view?
+For instance, observation 0000110101 has coordinates ra=64.897629 deg (04h 19m 42.09s), dec=56.022720 deg (+55d 59' 58.0") and was made with an angle pa_pnt=89.9568 deg according to the observation list used to compile the 4XMM-DR12 catalogue. When looking at the observation (see below), this point seems to be the middle of the field of view (FOV) of the overall observation, and ends up being a bit off the center of the PN FOV. I would like to compute the coordinates of the four corners.
+
+Since the size of the FOV given by the spec of PN is 27.2 × 26.2 (Table 1 of Strüder et al., 2001, for the full frame mode) and the observation list gives an angle, I thought it would be easy but the offset bugs me off. I could not find any information about the consistency of the location of the observation center within PN's FOV in the XMM-Newton Users Handbook (see here, there and there). Perhaps there is a tool in the SAS that can help, too. Or maybe these information are readily available in a PPS or ODF file associated to the observation.

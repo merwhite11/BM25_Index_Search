@@ -1,0 +1,31 @@
+Solar Elevation Angles -- Anomaly?
+
+"The solar elevation angle is the altitude of the sun, the angle between the horizon and the centre of the sun's disc." - Wikipedia
+The meridian is when the sun is directly facing earth and is at exactly 90° overhead at some point along the longitudinal line at a given location. 
+My question is, if the sun is 93 million miles away and travels overhead at 90° between the Tropic of Capricorn and the Tropic of Cancer, how is it that there are Meridian solar elevation angles reported from relatively nearby cities on Earth of less than 89.99°?
+Let's take for instance Calgary, Canada as of today May, 04 2016 -- estimated ground distance from Calgary to where the Sun is at 90° on Calgary's longitudinal line is ~3000 miles. The solar elevation angle (aka "altitude") is reported by the timeanddate website to be 55°! - 
+TimeandDate
+Reversing the angle, using right triangle math: 
+The base angle, our solar elevation angle, of a right angle triangle is: 
+    "solar elevation angle"= arctangent (h/a) 
+    89.998151749049 = arctangent (93000000/3000) 
+So using right triangle math alone with the presumption of the Sun being 93 million miles away and base distance of 3000 miles we get an expected solar elevation angle of 89.998151749049°. 
+That makes sense, since if something is 93 million miles away from us and you think of it as a triangle, then the distance between any place on earth and the location on earth where the sun is at exactly 90° overhead -- you should expect the other angle of the triangle to be at near 90°, connected by a relatively tiny sliver of distance in a much elongated triangle to the center point of the distant sun. 
+If we go the other direction and leave out the presumption that the sun is 93 million miles away. We take h as unknown, we know the reported solar elevation angle of 55°, we can again use right triangle math: 
+    Let a=3000, solar elevation angle=55°
+     h = a * tangent ("solar elevation angle") 
+     4,284.4440202263 = 3000 * tangent(55°) 
+So according to my calculations, based on the advertised solar elevation angle of 55° at Calgary, Canada on May, 04 2016 at Meridian, at a ground distance of 3000 miles from where the Sun is at exactly 90° overhead --  the Sun is actually only 4,284.4440202263 miles high!
+** Update **: The math would work out for a sphere Earth with a radius of 4000 miles, using the exact solar position and adding  corrective angles due to a presumption of a spherical curvature: 
+    Calgary, Canada: 51°03′N 114°04′W
+    Location of Sun at Calgary Meridian: 16°23′N 114°04′W
+    Distance = 2395.386 miles
+    Radius of Earth=4000 miles 
+    Arc distance = 4790.772 miles
+    Width of arc = 4509.52059 miles 
+    Angle to center of the Earth=68.622754110849°
+    68.622754110849°/2=34.31137705542450°
+This math utilized calculations that may have had a bit less acurracy but to make it work you need to add a bandaid padding of approximately 34.31137705542450° to Calgary,Canada's advertised angles. If you do you arrive at 55°+34.31137705542450° = 89.31137705542450° which is close to what I would expect to see. If, we are truly living on a Flat Earth, then the calculations would be telling us that the Sun height is only 4,284.4440202263 miles high and we can use simple trignometry.
+Arc Calculator
+Coordinate Distance Calculator
+If the math is difficult for you, you can check with an online triangle calculator such as: Ke!san

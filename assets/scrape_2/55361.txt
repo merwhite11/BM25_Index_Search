@@ -1,0 +1,5 @@
+Does dark energy increase eccentricity in orbits of galaxies?
+
+I came across this thesis dissertation which indicates that if a pair of orbiting galaxies are sufficiently far apart (with a sufficiently large orbital radius) then their orbits would change from circular to eccentric orbits by the "anti-gravity" effects of Dark Energy.
+If that would happen, then, could these galaxies suffer tidal effects (such as tidal heating) due to the increasingly eccentricity of the orbits?
+Would they eventually be unbounded forever or could there be some possibility where the tidal effects would re-circularize the orbit (at least for some part) before the orbit becomes extremely eccentric and they become unbound?

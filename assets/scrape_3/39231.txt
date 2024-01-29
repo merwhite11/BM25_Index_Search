@@ -1,0 +1,5 @@
+How many supernovae events are on their way from within the Milky Way?
+
+The Milky Way has a diameter of around 100.000 light years with the Solar system placed some 25,000 light years from the center.
+If we assume a supernova rate of 1 per century, and also assume that supernovae are distributed somewhat uniformly in our galaxy, then it seems to me that light and neutrinos from hundreds maybe even thousands of these events are propagating through the Milky Way towards us at this very moment.
+Can this be estimated more accurately? Does the supernovae distribution even affect this estimate, given the age of the galaxy?

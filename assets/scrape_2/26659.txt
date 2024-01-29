@@ -1,0 +1,30 @@
+Angular Diameter Distance
+
+The definition of the angular diameter distance is the ratio of an object's physical transverse size to its angular size. However when I was reading my textbook, Astrophysics in a Nutshell by Dan Maoz pp.220-221, I am having some trouble trying to understand the notion of angular diameter distance to the last scattering surface. The text calculates the angular diameter distance to the last scattering surface $D_A$:
+
+Consider flat cosmology (k=0) with no cosmological constant. We wish to calculate the angular size on the sky, as it appears today of a region of physical size
+  $$D_s=\frac{2ct_{rec}}{\sqrt{3}}=140 kpc$$ from which light was emitted at time $t_{rec}$. Between recombination and the present time, the Universal expansion is matter-dominated, with $R\propto t^{2/3}$ for this model
+  $$\frac{R}{R_0}=\left( \frac{t}{t_0} \right)^{2/3} = \frac{1}{1+z}$$
+  and hence we can write
+  $$D_s=\frac{2ct_0}{\sqrt{3}}(1+z_{rec})^{-3/2}$$
+  The angle subtended by the region equals its size, divided by its distance to us at the
+  time of emission (since that is when the angle between rays emanating from two
+  sides of the region was set).  
+
+I'm not sure what does the last line actually mean..Can someone please elaborate more on this? I just simply take the $D_s$ as the "physical transverse size".
+
+As we are concerned with observed angles, the type
+  of distance we are interested in is the distance which, when squared and multiplied
+  by 4π, will give the area of the sphere centered on us and passing through the
+  said region. If the comoving radial coordinate of the surface of last scattering is r, the required distance is currently just $r\times R_0$ and is called the proper motion distance. The proper motion distance can be solved using null geodesic in the FRW metric
+  $$\int_{t_{rec}}^{t_0} \frac{c dt}{R(t)} = \int_{0}^{r}\frac{dr}{\sqrt{1-kr^2}}$$
+  Setting k = 0, and substituting
+  $$R(t)=R_0 \left( \frac{t}{t_0} \right)^{2/3}$$ and integrate
+  $$rR_0=3ct_0[1-(1+z_{rec})^{-1/2}]$$   
+
+So I take this as the physical distance of the region from us. The next part is what confuse me:
+
+However, at the time of emission, the scale factor of the Universe was 1 + z times smaller. The so-called angular diameter distance to the last scattering surface is therefore
+  $$D_A=\frac{rR_0}{1+z}=3ct_0[(1+z_{rec})^{-1}-(1+z_{rec})^{-3/2}]$$  
+
+How does a physical distance $rR_0$ comes into play in the angular diameter distance, because from its definition it is just $$D_A=\frac{\text{physical transverse size}}{\text{angular size}}$$??

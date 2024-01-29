@@ -1,0 +1,5 @@
+Why does earthshine fade out when night comes and reappear on the next evening?
+
+While watching the Moon in the thin-crescent phase (a few days after new Moon), I often noticed that the earthshine becomes noticeable near the end of civil twilight, and very noticeable during nautical twilight, after which, as the sky becomes dimmer, the earthshine finally fades out.
+But on the next evening, when the crescent is still thin, the earthshine returns. This must mean that somehow its presence depends on time of day. But this behavior must be the same for any time zone (I observed it from several longitudes). So somehow the earthshine appears to exist for observers on one part of the Earth (who observe the correct phase of twilight), and not exist for others (the night part of the Earth).
+How can this be explained? Isn't earthshine produced due to the light from the Earth, which doesn't depend too much on time of day from the lunar perspective?

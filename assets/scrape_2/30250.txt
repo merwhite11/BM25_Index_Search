@@ -1,0 +1,23 @@
+Are quasars simply AGNs that are viewed from a particular angle?
+
+I found the picture below in an answer to the post "Was the Milky Way ever a quasar". The picture is published on a website belonging to "NASA/IPAC Extragalactic Database". In the answer that has 16 "thumbs up" it says:
+
+A quasar is simply an active galactic nucleus (AGN) that is viewed
+  from a particular angle; see the picture below, in which quasars are
+  labeled "QSO". This is really a remarkable figure because historically
+  all of the names in the figure were thought to correspond to different
+  types of objects, when really they all refer to the same thing!
+
+
+There is another answer to the question "Difference between quasar and Active Galactic Nuclei?" where someone states that a quasars: 
+
+main property is that it's galaxy axis points towards the earth and
+  this way we receive its light and radio signals. That's why they are
+  one of the most energetic AGN.
+
+This answer has gotten six thumbs up. However, there is no reference to any source backing up that claim so it seems like private opinion.
+
+Does the picture above represent the mainstream view among astronomers today or is it more like a private opinion of someone?
+According to Wikipedia, ten percent of all observed galaxies are classified as Seyfert galaxies. Would we perceive all of those as "quasars" if we happend to observe them from the right angle? (Maybe there is also a luminosity requirement)
+According to Wikipedia Markarian 231 is the closest quasar at a distance of 581 million light years. Also according to Wikipedia, the Circinus Galaxy is the closest Seyfert galaxy, only 13 million light years away. Would we perceive there to be many quasars closer than 581 million light years away, if we just happend to view the active galaxy from the right angle?
+Could someone please show me the scientific investigations proving that the galactical planes of galaxies perceived to host quasars always lies within a certain range of observational angles as viewed from the Earth? These kind of investigations should be available if the claim that whether or not an active galaxy is perceived to be a quasar is almost totally depending on observation angle has a real backing and is not just speculation.

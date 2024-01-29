@@ -1,0 +1,6 @@
+Regression line in a colour-colour diagram
+
+A colour-colour diagram (CCD) like this
+
+compares the difference in magnitudes at different wavelengths. The trend in the pattern of colour-colour comparisons tells us about what type of source the light comes from.
+Is there any significance in the best-fit line of the trend? As in, if I did a linear regression of the left plot above, I'd get a gradient of (V-R)/(B-V). I realise that this ratio doesn't have any physical significance in terms of a single source, but is there any value in calculating the best fit line and its slope or regression coefficient? Does it tell us anything about the group of sources it's associated with, or is it just used to calibrate filters, as it states on Wikipedia? The answer to this question doesn't really answer mine.

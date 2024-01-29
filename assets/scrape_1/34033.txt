@@ -1,0 +1,8 @@
+The colour of blue dwarf stars
+
+The paper "M dwarfs: planet formation and long term evolution" describes blue dwarf stars, a hypothetical next-stage in the lifespan of red dwarf stars within a certain mass range, after which they become white dwarves.
+(Hypothetical because the universe is not old enough for any red dwarves to have reached this stage.)
+The Hertzsprung Russell diagram on page 917 of this paper, if I've interpreted it correctly (I'd never seen one of these until recently!), shows red dwarves in the 0.14-0.16 solar mass range progressing further away from the "red" end of the spectrum and in the direction of the blue. But it does not actually depict their surface temperature reaching - or indeed exeeding - 9000K (spectral type A, instead of the B or O-type that are normally considered blue enough to justify the name.)
+
+Am I correct that "blue dwarf" stars would not, according to this paper's H-R diagram, actually ever get past "white", and are thus named because they've moved a long way from the red end of the spectrum toward the blue? I have seen different colour charts depict different levels of blueness for the O, B and A types while researching this question, although the majority consensus seems to be that A types are almost entirely white with only a very small amount of blue.
+(The same Hertzsprung-Russell diagram is also shown on page 424 of the 1997 paper "The End of the Main Sequence", if that helps at all.)

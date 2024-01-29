@@ -1,0 +1,9 @@
+Simple rule to find some of the zodiac constellations after sunset?
+
+How do I find some of the constellations of the zodiac without remembering their locations on the sky?
+I think it should be quite simple if you are located in the northern hemisphere and you know 
+1) which astrological sign it is right now (this month)
+2) where the sun set
+3) the number of hours left until sunrise
+4) the order of the constellations in the circle of the zodiac: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius and Pisces.
+Straight forward logic says that it is enough to make calculations in order to understand where they should be, but I can't find any such rule on the internet. Maybe it is not so simple. Have you seen such a rule?

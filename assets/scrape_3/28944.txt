@@ -1,0 +1,3 @@
+Why the Sun-Jupiter barycentre is outside Sun?
+
+The Earth-Moon barycentre is said to be inside Earth. But Moon-Earth mass ratio (1.2%) is larger than Jupiter-Sun mass ratio (0.09%). Then how come the Jupiter-Sun barycentre is outside the surface of Sun?

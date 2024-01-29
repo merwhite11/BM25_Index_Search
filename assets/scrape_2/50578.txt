@@ -1,0 +1,3 @@
+At what exact date and location does Mercury appear at the highest altitude from Earth in history?
+
+I have been messing around with the elongation for Mercury, and I have been getting 27.8 degrees at maximum in https://www.heavens-above.com/PlanetSummary.aspx. Is there any history record that Mercury could go higher than 27.8 degrees or is 27.8 degrees the absolute maximum elongation that could be ever achieved?

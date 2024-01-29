@@ -1,0 +1,4 @@
+How to derive density and mass from the pseudo isothermal model for mapping the density profile for dark matter?
+
+I recently read about dark matter haloes and ways to profile their density. I came across this model called the pseudo isothermal model for the halo and I wanted to know how you would model the density profile of dark matter when you are given just the rotation velocity? I also wanted to know how you would find the mass from the equation?
+Also, are there some resources I can use in order to get a good grasp of the concept?

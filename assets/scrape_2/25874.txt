@@ -1,0 +1,4 @@
+Filling the Roche Lobe
+
+For mass transfer in a binary system, one star must fill its Roche lobe. What determines whether a star in a binary system will fill its Roche Lobe? How will I calculate it?
+I can't find any mathematical formula that shows any equation of mass transfer.

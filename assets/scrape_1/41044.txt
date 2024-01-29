@@ -1,0 +1,6 @@
+What is the completeness of an observation and how do I calculate it?
+
+Many publications write about "completeness". I have a vague idea that it has to do with the ratio of how many sources from an observation are detected and how many sources are actually in that field. However, can someone please explain to me:
+a) What is the definition of completeness?
+b) How do you calculate the completeness of an observation?
+As an example: Smolčić et al. 2008 are writing about completeness. Please have a look at A New Method to Separate Star-forming from AGN Galaxies at Intermediate Redshift: The Submillijansky Radio Population in the VLA-COSMOS Survey

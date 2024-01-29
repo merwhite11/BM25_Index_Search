@@ -1,0 +1,5 @@
+How are pulsars detected from Earth?
+
+This paper on Arxiv indicates that the signal period of known pulsars is 1 ms-15 s (0.07-1,000 Hz since F=1/T). I have an EE background and it's a long story how I ended up here, but suffice it to say I'm weak on astronomy.
+This chart on Wikipedia implies that the entire range of pulsar frequencies should be absorbed by the atmosphere, but this guide and even this budget RF telescope writeup clearly state that pulsars can be detected from Earth's surface.
+My questions is: how are pulsars detected from Earth--what am I missing here? Are RF telescopes simply that receptive? Any insights appreciated.

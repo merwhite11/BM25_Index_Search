@@ -1,0 +1,10 @@
+Is the Earth-Sun distance 1.012 AU?
+
+Wolfram Alpha's query: Sun Earth distance in AU gives:
+
+1.012 au  (astronomical units)
+
+They definitely use this value in other places too - e.g. Earth-Sun $L_1$ distances from Earth and from Sun don't add up to 1 AU - they are 0.01009 AU and 1.001 AU respectively.
+Contrarily, Google gives Earth Sun distance in AU = 1.000 AU.
+The top search results for Sun Earth distance 1.012 AU yield a page with a big heading of "Paranormal UFO Aliens Wow!".
+Is the 1.012 AU value an error in Wolfram Alpha, or is it some little-known adjustment, redefinition or other quirk of the unit or the Solar System?

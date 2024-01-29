@@ -1,0 +1,4 @@
+Calculating the sun’s position in ECI
+
+I’m trying to calculate visible ISS passes and I need to calculate if the ISS is behind the earth by “drawing” a line between the ISS and the sun and seeing if it crosses earth. I have the ECI position of the ISS, but I don’t have the position of the sun. How do I calculate the suns ECI position given a date and time? 
+Edit: I need to use c# for this so I can’t use python libraries

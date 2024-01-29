@@ -1,0 +1,20 @@
+How can I interpolate 2 orbits
+
+My question is very similar to this one although the answer is not what I was looking for.
+Basically I'm working in a space game (KSP) and I'm making it multiplayer. The clients send a packet with their orbital parameters at a interval (30 miliseconds by default) but between those packets I want to interpolate and draw an orbit between those 2 packets.
+For normal vectors or speed I use linear interpolation:
+private static float Lerp(float v0, float v1, float t)
+{
+    return (1 - t) * v0 + t * v1;
+}
+
+But It doesn't work well when I work with orbits
+var inclination = Lerp(inclination, Target.inclination, lerpPercentage),
+var eccentricity = Lerp(eccentricity, Target.eccentricity, lerpPercentage),
+var semiMajorAxis = Lerp(semiMajorAxis, Target.semiMajorAxis, lerpPercentage),
+var LAN = Lerp(LAN, Target.LAN, lerpPercentage),
+var argumentOfPeriapsis = Lerp(argumentOfPeriapsis, Target.argumentOfPeriapsis, lerpPercentage),
+var meanAnomalyAtEpoch = Lerp(meanAnomalyAtEpoch, Target.meanAnomalyAtEpoch, lerpPercentage),
+var epoch = Lerp(epoch, Target.epoch, lerpPercentage),
+
+What function can I use to interpolate them?

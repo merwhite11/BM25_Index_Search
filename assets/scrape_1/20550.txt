@@ -1,0 +1,8 @@
+Problem about orbiting of a satelite
+
+Problem: There is an satellite that orbits the Earth. Its orbit is circular and its orbital plane is perpendicular to Earth's Equatorial Plane. It orbits is such that a person who is on equator see this satellite on Zenith every 12Hours.
+a. Find Satellite's Period.
+b. What is distance of satellite to person when it Sets on person's horizon?
+My problem with this question is:
+For the first part: somewhere said period is 12hours. Somewhere else said the person on equator also moves (Earth Rotation) so 12 hours is P/2 and P= 24hours. What is the right answer?
+For the second part: Which of the following figures show the position of satellite when it sets? (Figure 1 or 2?)

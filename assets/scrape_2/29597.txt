@@ -1,0 +1,15 @@
+How does making a refracting telescope very long reduce the chromatic aberration of an uncorrected lens?
+
+Below are two cropped views of "Johannes Hevelius's 8 inch telescope with an open work wood and wire "tube" that had a focal length of 150 feet to limit chromatic aberration." from Harvard University, Houghton Library, pga_typ_620_73_451_fig_aa (found here) the first of which I've zoomed and enhanced the contrast.
+According to Wikipedia's Aerial telescope; Very long "tubed" telescopes:
+
+Very long "tubed" telescopes
+Telescopes built in the 17th and early 18th century used single element non-achromatic objective lenses that suffered from interfering rainbow halos (chromatic aberration) introduced by the non-uniform refractive properties of single glass lenses. This degraded the quality of the images they produced. Telescope makers from that era found that very long focal length objectives had no appreciable chromatic aberration (the uncorrected chromatic aberration fell within the large diffraction pattern at focus). They also realized that when they doubled the diameter of their objectives they had to make the objective's focal length 4 times as long (focal length had to be squared) to achieve the same amount of minimal chromatic aberration. As the objective diameter of these refracting telescopes was increased to gather more light and resolve finer detail they began to have focal lengths as long as 150 feet. Besides having very long tubes, these telescopes needed scaffolding or long masts and cranes to hold them up. Their value as research tools was minimal since the telescope's support frame and tube flexed and vibrated in the slightest breeze and sometimes collapsed altogether.
+
+A refractor's primary lens produces an image because the angle it deflects is proportional to the distance $x$ from the center of the lens of focal length $f$ as
+$$\theta \approx x/f$$.
+For a dispersive material the deflection at a given point on the lens varies with wavelength, and therefore the focal length of the lens varies with wavelength.
+ Source
+This is called chromatic aberration and its severity for a given type of glass is often expressed by its abbe number.
+Question: Is there a simple mathematical way to explain how making the focal length longer could possibly improve a telescope's performance by decreasing the impact of chromatic aberration on its performance?
+Or do I misunderstand what the benefits are to making these very long telescopes?

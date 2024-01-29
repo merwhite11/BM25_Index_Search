@@ -1,0 +1,3 @@
+angle to the equator of the Sun on sky at a given time
+
+Is there an easy way to tell at what angle the solar equator is wrt the horizon at any given time of the day? I would think that it rotates 180 degrees from sunrise to sunset, but not in a linear fashion. But solar noon should always be 0 degrees wrt the horizon right?

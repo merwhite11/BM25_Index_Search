@@ -1,0 +1,12 @@
+The Three Elements in the Milankovitch Cycles
+
+According to the Serbian geophysicist Milutin Milankovitch, there are three elements that make an ice age possible:
+
+Eccentricity (orbital shape):  Varying between 0.000055 and 0.0679 over the course of 100,000 years (1.0 being a perfect circle).
+Obliquity (axial tilt):  Varying between 22.1 and 24.5 degrees over the course of 41,000 years.
+Axial precession (change in the orientation of the rotational axis on a rotating body):  Polaris being the North Star for a total of 26,000 degrees.
+
+The question is how connected those three elements are, in the event someone wants to change the numbers in a worldbuilding process to make either a longer or shorter ice age:
+Does the duration and extent of eccentricity affect those of obliquity and precession?
+Or does the duration and extent of obliquity affect those of eccentricity and precession?
+Or does the duration and extent of precession affect those of eccentricity and obliquity?

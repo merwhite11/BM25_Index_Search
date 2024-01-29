@@ -1,0 +1,6 @@
+Curated dataset of labelled images for NEO detection
+
+I am looking for a dataset of images. Some images should contain NEO's (1 or more), others should not. With the dataset, there should also be an accompanying file, of which should contain 'labels'. Each 'label' should correspond to a specific image, describing whether or not an NEO is present within the image, and if so, where it is located (also within the image -- X, Y), and the type of NEO (asteroid, comet, etc.). The dataset will be used to train a Machine Learning classifier.
+I've seen similar questions, but for different problems/domains, e.g.: Searching dataset for Constellation detection and Searching dataset for Constellation detection
+Are there any such datasets? Are they publicly available? If not public, can you describe the dataset (e.g. how many images? resolution? etc.).
+If not datasets available, why not?

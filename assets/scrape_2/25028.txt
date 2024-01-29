@@ -1,0 +1,3 @@
+Distance parallax and cosmological distance in universe in expansion
+
+I know that we cannot measure cosmological distances with parallax, but this is more a philosophical question. Am I correct in assuming that if we could measure distances using parallax (like stellar parlax used for nearby stars) the distance we would measure would correspond to the "angular diameter distance" ? https://en.wikipedia.org/wiki/Angular_diameter_distance

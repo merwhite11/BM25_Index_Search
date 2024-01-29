@@ -1,0 +1,10 @@
+3D/2D Universe Model (DSO, stars etc.)
+
+I am looking forward to knowing some software/sites that show an extensive collection of the DSOs. I want it to be 3D, but it can also be 2D. I know/tried some of these,
+Stellarium - 2D
+Celestia - 3D
+https://www.legacysurvey.org/viewer#IC - 2D
+Gaia Sky (I have tried to download it, but some problems occurred, however, I'll try to download it again)
+I like Stellarium, but there's only one problem. DSO's image quality (provided via DSS) is lower than the DESI (legacy survey). So for the DSO objects, DESI seems to be the best site.
+If you know some excellent software or sites, feel free to share :)
+Note: Btw I am using Linux so some software might not be compatible. So I cannot try Space Engine...I am also not even sure Space Engine provides DSO ..

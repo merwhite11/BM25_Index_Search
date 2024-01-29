@@ -1,0 +1,3 @@
+Where can I find data on Mercury's orbit to fit a model to?
+
+I have a project in which a Monte-Carlo method is used to find the optimal parameters for some model that is fit to a data set. I want to fit a model for the orbit of Mercury using this methods, but I can't find any data to fit it to. I have found a lot of papers on the orbit of Mercury that mention observational data, but no actual observational data. Where could I find data indicating the position of Mercury around the sun over a time period, or even a relatively accurate mathematical model from which I can generate my own data by defining it as a function that is stepped through some time interval?

@@ -1,0 +1,12 @@
+Symmetry in Hawking radiation?
+
+I have a question concerning how Hawking radiation works.
+As I understand, a pair of particle-antiparticle may pop to existence near the event horizon (from a virtual particle).
+Then it might happen that the negative particle (antimatter) gets captured by the black hole whereas the positive particle (matter) escapes.
+This results in a net loss of the black hole mass. If you repeat this process an astonishing number of times the Black Hole might end up completely evaporating.
+Am I right so far? (Even if the explanation is not very mathematical)
+My question then is: 
+This assumes that when a pair particle-antiparticle is created, a bias towards antiparticles being captured and particles escaping must exist.
+Otherwise, the mass of the black hole might fluctuate, but in average for big numbers of pairs, equal percentage of particles and antiparticles would be captured/escape.
+So, is there really a bias needed for the black hole to loose mass, or is it something wrong about my understanding of Hawking radiation?
+Thanks

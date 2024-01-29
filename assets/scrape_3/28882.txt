@@ -1,0 +1,5 @@
+Gravitational acceleration inside a planet
+
+The gravitational acceleration, g, inside the Earth generally decreases with decreasing distance to the center:
+
+However, apparently for Jupiter, the gravitational acceleration only increases with decreasing distance to its center. Why is this?

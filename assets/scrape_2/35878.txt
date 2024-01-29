@@ -1,0 +1,14 @@
+Where is the sun relative to my lunar rover?
+
+I'm a robotics researcher writing orienteering code for a solar-powered lunar rover.
+I have two similar problems:
+
+Given the position of a robot on the moon in lunar latitude/longitude, where is the sun? That is, which direction should I orient my solar panel to maximize incidence?
+For testing purposes, I need to solve the same problem on Earth. Given Earth lat/lon, where is the sun?
+
+To be honest, I'm not even sure what coordinate system to use to express the answer to these questions. I was considering a coordinate frame centered on the rover with East, North, and Up axes, but I'm open to a better suggestion!
+So far, I've found some information about VSOP87 and ELP2000, and I've started reading "Astronomical Algorithms", but I'd appreciate help from the experts.
+Edit
+Here's what I've got so far. I can get the coordinates of the Earth-Moon barycenter using VSOP2013. If I can get from the barycenter to the center of the Earth, I can probably use EPS2000/82 to find the position of the Moon in heliocentric coordinates.
+Sun->VSOP->Earth-Moon Barycenter->Earth->EPS2000->Moon
+At very least, I think this would get me the moon coordinates in the sun frame. I'm hoping it would also give me the orientation of the Moon in the sun frame?

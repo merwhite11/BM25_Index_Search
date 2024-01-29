@@ -1,0 +1,5 @@
+Calculate the true diameter of stars from photographic plate
+
+I am reading the book "Fourier Analysis" from T. W. Körner, and in chapter 95, he explains how you can compute the diameter of stars on a photographic plate. He says that "Since observations of the nearest stars at six-monthly intervals (i.e. using a diameter of the earth's orbit as a surveyor's base line) enable astronomers to measure the distance of these stars, knowledge of the apparent diameter (i.e. the diameters of the discs on the photographic plate) would then enable us to calculate the true diameters of the nearest stars". 
+So how do you calculate the true diameter of a star given its apparent diameter on a photographic plate? Is it related to the "zooming capacity" of the telescope one uses?
+And if for instance, using a 100'' telescope, you measure that a star has an apparent diameter of 0.66mm, can you directly compute the true diameter of the star?

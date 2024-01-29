@@ -1,0 +1,18 @@
+What can be learned from, or noted in this LIGO Orrery video?
+
+The Ars Technica article Physicists detected gravitational waves from four new black-hole mergers notes that
+
+This brings the total number of events detected by LIGO and Virgo to 11.
+
+It also has a link to the SXS Collaboration' YouTube video LIGO Orrery
+SXS stands for Simulating eXtreme Spacetimes https://www.black-holes.org/ 
+
+The SXS project is a collaborative research effort involving multiple institutions. Our goal is the simulation of black holes and other extreme spacetimes to gain a better understanding of Relativity, and the physics of exotic objects in the distant cosmos.
+
+so quite a substantial amount of math and physics went into this work.
+But as an outsider I don't really understand what I'm looking at. The video's comments just say that the surface is the event horizon:
+
+Computer calculations modeling the gravitational waves LIGO has observed to date and the black holes that emitted the waves. The image shows the horizons of the black holes above the corresponding gravitational wave. 
+
+Question: What does the color represent, could it be some kind of "temperature" or energy density of distorted space on the event horizon surface? Why can I see some evidence of rotation in the resulting merged object for a few rotations, then it disappears? What else (if anything) can be learned from this video?
+Screen shot from the YouTube video LIGO Orrery:

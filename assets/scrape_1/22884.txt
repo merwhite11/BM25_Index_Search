@@ -1,0 +1,48 @@
+Finding Asteroid Geocentric Longitude and Latitude
+
+I started using the software that comes with Jean Meeus book Astronomical Algorithms. I am now using the updated code from naughter(dot)com/aa.html. 
+I am able to calculate the heliocentric longitude and latitude for an asteroid using the orbital elements. Below is for the asteroid Juno. I can't find any source code or instructions for converting the asteroid coordinates I calculated below to geocentric longitude and latitude. Can anyone recommend a method to find asteroid geocentric longitude and latitude? Thanks. 
+double Longitude = 0.0; //West Greenwich  
+double Latitude  = 51.4826; //North Greenwich  
+double TZOffSet = 0.0;
+
+
+//Asteroid Juno Elements;   Using epoch J2000
+CAAEllipticalObjectElements elements;  
+
+//Calculation Julian Date  2017, 9, 25 
+elements.JDEquinox = JD;   
+
+elements.T = (JD - 2451545.0) / 36525.0;
+
+//semi-major axis of the orbit
+elements.a = 2.6700912;
+
+//eccentricity of the orbit
+elements.e = 0.25498122;
+
+//inclination of the plane of the ecliptic
+elements.i = 12.98211;
+
+//Longitude of ascending node
+elements.omega = 169.91138;
+
+//longitude of perihelion
+elements.w = 248.10807; 
+
+//-------------------------------------------------------------------------
+CAAEllipticalObjectDetails details = CAAElliptical::Calculate(JD, elements, true);
+
+1) Heliocentric Ecliptic Longitude  = 215.6670202
+2) Heliocentric Ecliptic Latitude = 9.377841131
+3) True Geocentric RA = 13.90415220
+4) True Geocentric Declination = -3.802673727
+5) True Geocentric Distance = 4.136531368
+6) True Geocentric Light Time = 0.0238906126
+7) Astrometric Geocentric RA = 13.90397025
+8) Astrometric Geocentric Declination = -3.80217202
+9) Astrometric Geocentric Distance = 4.13653445
+10) Astrometric Geocentric Light Time = 0.023890630
+11) Elongation = 26.74464206
+12) Phase Angle  = 7.928218201
+//-------------------------------------------------------------------------

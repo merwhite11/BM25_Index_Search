@@ -1,0 +1,4 @@
+How do we find the king model of a globular cluster?
+
+We have data for a globular cluster M13. We have plotted the radius in pixels against the surface brightness in magnitudes per square arcsec.
+We have to find the king model for this. We don't exactly know how to do that. We think we just have to set the units to solar luminosities and then plot it again, but if that is the case we don't really know what our graph tells us that the first graph did not tell us. So we think we are doing that wrong. If we are actually doing it right we don't know what this tells us. Can somebody help?

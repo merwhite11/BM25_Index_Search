@@ -1,0 +1,4 @@
+Theoretically, can a solar system evolve around lagrange points
+
+My question is, during the evolution of a solar system is it possible to end up with a massive planet around a star with two small planets around their $L_4$ and $L_5$.
+Since we know it is not possible to have any bodies around $L_1, L_2, L_3$ due to their low stability, hence any planet trying to evolve their can be easily nudges out of its position.

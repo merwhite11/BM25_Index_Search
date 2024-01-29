@@ -1,0 +1,5 @@
+Which is the shape of the sky?
+
+I'm a software developer and I'm developing a planetarium and the first thing that I don't know is: What is the shape of the sky?
+First, I though that it is a semi-sphere, but searching on Internet I have found a lot of youtube tutorials, and all of them draw a semi-sphere but flatten (you can search skydome on Google and find a lot of tutorials).
+My question is, how can I represent sky on a virtual 3D world? How much do I need to flat a sphere to get a real sky representation?

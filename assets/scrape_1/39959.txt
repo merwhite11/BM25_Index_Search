@@ -1,0 +1,5 @@
+superimpose borders of several FITS on the sky map
+
+I have several FITS files with correct WCS info (as far as I know) and want to project them or preferably their borders only in the same sky projection, so it will be easy to understand an actual intersection of different files.
+A good illustration of what I want is http://astro.dur.ac.uk/Cosmology/vstatlas/surveymap.jpg (or literally any similar plot, if we imagine borders represent individual FITS).
+Of course ds9 can do this, but I have many files and it is awkward to do that way. I check other questions suggest use of Mosaic - can't find proper example, also try using Montage and both its python wrappers without success. Also browse astropy examples without any luck.

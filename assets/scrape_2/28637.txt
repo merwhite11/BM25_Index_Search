@@ -1,0 +1,18 @@
+Why doesn't the equipartition theorem disallow spinning dust?
+
+This excellent answer to the question What is the physics of the “spinning dust” contribution to Cosmic Microwave Background measurements? Is well sourced. The abstract of one of the papers there, Purcell 1975 Interstellar grains as pinwheels begins with:
+
+Contrary to the assumption usually made in theories of grain alignment, the rotational energy of an interstellar grain is likely to be very much greater than 3/s kT, where T is the gas temperature, or the grain temperature, or any other temperature in the system. Any more or less permanent irregularity of the grain’s surface with respect to accommodation coefficient, distribution of H-H recombination sites, or photoelectric emissivity will result in an unbalanced torque capable of spinning the grain up to high angular velocity. Such a grain is, in effect, the rotor of a heat engine.
+
+In the body of the paper, the first example given is of a sort-of gedankenexperiment involving a hypothetical Crookes radiometer with the gas removed. The author explains that it would spin up to high energy (without saying how):
+
+[...] The kinetic energy of the rotating paddle wheel is now enormously greater than it would be if it were immersed in, and en equilibrium with, a 6000 K radiation field, for then it would exhibit only a residual “Brownian rotation” appropriate to that temperature. So the wheel is really a heat engine, depending on the difference between the temperature of the vanes and that of the radiation field to which they are exposed.
+
+Without the gas to cool them, I suppose that after the whole thing reaches equilibrium temperature the black sides radiate more strongly than the white sides and so there should always be a torque, and the final speed and kinetic energy would be limited only by friction and other practical losses.
+This excellent answer to the question What is the difference between gas and dust in astronomy? points out that there is no real distinction between the two, but that they are limits in size, gas particles being small and dust particles being large(r).
+So if dust can become pinwheels, then I have a hunch that very very large molecules can do this too, and if so, then so can smaller molecules. All you need is some mechanism for torque. Molecules can certainly have a non-uniform distribution of  H-H recombination probability just as dust can, and they can have some regions that are concave and some that aren't.
+This makes me wonder if these gas molecules no longer obey the Equipartition theorem of thermodynamics. The spinning dust certainly doesn't. 
+Question: How can spinning dust and by induction, my hypothetical spinning molecules avoid conforming to the equipartition theorem? Why doesn't the equipartition theorem disallow spinning dust?
+ 
+Source borrowed from here
+Bonus points: Is that little arrow ($\omega_{rot}$) pointing the wrong way?

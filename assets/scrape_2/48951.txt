@@ -1,0 +1,17 @@
+Compute Distance Between Stars
+
+If I have the following information about star A and Star B, how can I compute the distance between A and B?
+
+Distance from Sol for Star A
+Right Ascension/Declination of Star A
+Parallax/Absolute Magnitude of Star A
+Distance from Sol for Star B
+Right Ascension/Declination of Star B
+Parallax/Absolute Magnitude of Star B
+
+I can use the parallax and absolute magnitude to compute distance from Sol, but I don't know how to get the distance between A and B.
+Obviously there will be errors in the parallax, but I'm looking for a best effort means to calculate this.
+Edit
+I've implemented this in Java and made it available via this link:
+https://gist.github.com/fergusonjason/fa4794dc0dc5d45f7a7ed12296577ed5
+I realize for actual science work most people wouldn't use Java, but this is for a project that is part of my Java portfolio.

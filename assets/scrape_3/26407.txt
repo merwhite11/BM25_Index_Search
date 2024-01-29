@@ -1,0 +1,7 @@
+Telluric Interference data
+
+I am looking to create a function to correct for telluric interference and to do so I need to find data on Ozone interference. 
+It has been suggested to me that Astropy may have a function that does a similar thing and it would probably retrieve data of a high quality. 
+Does anyone know if such a thing exists and if so, how to determine where it is looking to get that data?
+Thank you!
+(I am new to python and astronomy as a whole so please take it easy on me if that's a bad question)

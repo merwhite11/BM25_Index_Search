@@ -1,0 +1,11 @@
+Do narrow lines in the spectra of O- and B- type stars always indicate magnetic fields?
+
+I was reading a paper on the differential emission measures of a set of hot O- and B- type stars. As the authors discuss in Section 3 (page 959), two stars, $\tau$ Sco and $\theta^1$ Ori C, have narrow emission lines compared to other stars of the same spectral type. There is a good amount of evidence that both stars are young and have magnetic fields; the stellar winds travel along the field lines and collide at the magnetic equator, producing shocks and, indirectly, X-ray emission. This is in contrast to the mechanism behind shock formation in other O- and B- type stars, where shocks come from the line instability transition.
+Now, the plasma at the magnetic equator is roughly stationary because of the collision; this means - if I'm interpreting things correctly - that there is little to no broadening of the lines, and so they are comparatively narrow. Other spectral characteristics and observations support this model.
+I'm wondering two things:
+
+Has the presence of such comparatively narrow lines in the spectra of O- and B- type stars been observed in cases where there is no magnetic field present? Very few O-type stars have significant magnetic fields, and theory predicts that none should, so these stars are the few exceptions to the rule.
+If so, are there other mechanisms that could be responsible for this in cases without magnetic fields? I'm grasping at straws for ideas, like low collisional broadening.
+
+
+I talked with my advisor, and we briefly discussed colliding wind shocks (CWS), which form at the interface between the stellar winds in a binary system. It's thought that these shocks contribute only a small amount to the total X-ray production of the system (see Gagné et al. (2011)), though, so any narrow lines produced in that plasma - if any exist - wouldn't have much influence over the measured spectra. So that seems to be ruled out.

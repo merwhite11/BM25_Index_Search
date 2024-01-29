@@ -1,0 +1,6 @@
+Derivation of a formula for the mass of a tidal bulge and tidal torque
+
+I've been looking into the tidal mechanism for a binary star system and seem to have hit a brick wall. In the literature (see below), little explanation is given to justify the equations (9.60), (9.61) and (9.62). I would be grateful if someone could talk me through where these equations came from, as my efforts to find a complete and concise explanation online have thus far been fruitless. Note that I've had to cut some of the text at the top where the page turns over, but this is just a brief introduction to the use of Legendre polynomials in providing a tide raising part of the potential.
+
+
+  Eldridge and Tout, The Structure and Evolution of Stars, 2019

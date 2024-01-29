@@ -1,0 +1,7 @@
+Why is there a gap in this image of supernova discoveries?
+
+I came across this gif showing supernova discoveries from the late 19th century to 2010. Here's the data in 2010:
+
+Notice that there's a prominent region shaped like an inverted U in which there are few detection points, which I have crudely enclosed:
+
+Why is this? Is it an artifact of detectors simple not observing that part of the sky, or is there some underlying astronomical reason?

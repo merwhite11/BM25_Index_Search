@@ -1,0 +1,38 @@
+On what basis is the information about the distance and velocity of the Voyager probes determined?
+
+
+Voyager 1 was the first-ever object to reach interstellar space on
+August 25, 2012 when it passed beyond the sun’s realm of plasma
+influence (the heliosphere)[...]
+(source)
+
+Although some of their instruments have been turned off to conserve power, we're currently still receiving data from the two Voyager probes, and will continue to do so for some time:
+
+Even if science data won't likely be collected after 2025, engineering
+data could continue to be returned for several more years. The two
+Voyager spacecraft could remain in the range of the Deep Space Network
+through about 2036, depending on how much power the spacecraft still
+have to transmit a signal back to Earth.
+(source)
+
+The JPL website offers information about the current distance and velocity of both probes:
+
+Distance from Sun§:
+Voyager 1: 153.58332228 AU;
+Voyager 2: 127.70461507 AU
+Velocity with respect to the Sun (estimated):
+Voyager 1: 38,026.77 mph;
+Voyager 2: 34,390.98 mph
+§This is a real-time indicator of Voyagers' straight-line distance
+from the sun in astronomical units (AU).
+(source - my italics)
+
+My question is:
+On what basis is the information about the distance and velocity of the Voyager probes determined? Is this done by analysis of the data we receive from the probes? Or, are these values calculated based upon our current understanding of the way bodies move? Note that the distances above are shown as 'estimated' (but I'm unable to find information about the basis of that estimation).
+My reason for asking this question is the (admittedly crazy) notion that we may be mistaken in assuming that interstellar space is fundamentally similar to the space surrounding a star. Is it possible that it actually isn't? We're learning new things all the time; take for instance the May 2021 news report about fluctuations in the interstellar medium, in which Jim Cordes, space physicist at Cornell, is quoted as saying:
+
+“I have used the phrase ‘the quiescent interstellar medium’ – but you
+can find lots of places that are not particularly quiescent”
+
+The Voyager probes are venturing into the unknown, and we currently -- for a limited period -- have a unique opportunity to test the hypothesis that interstellar space somehow differs from how we envisage it; but perhaps it won't be tested, if our belief in our current understanding of the 'laws' of motion is too strong.
+I tried going to the horse's mouth to ask this question, but the contact page on the JPL website is 404 :(

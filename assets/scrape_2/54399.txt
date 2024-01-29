@@ -1,0 +1,4 @@
+Why are total solar eclipses possible (probability wise)
+
+Total solar eclipses are possible because the Moon is about 400 times smaller than the Sun and also 400 times closer than it is. In any planetary system, the odds of this should be near zero. Is there any literature on why it might be that these perfect conditions which should be a near zero probability event occur in our system?
+One possible explanation could be that life somehow requires this (allowing us to invoke survivorship bias).

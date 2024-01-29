@@ -1,0 +1,3 @@
+Which star with a Bayer designation is the farthest from the Sun?
+
+The key to finding the answer seems to involve processing data from astronomical databases, which I'm not sure how to do in this case. I'd prefer to limit the answer to the original list of approximately 1500 stars, but answers that rely on a list that contains stars with more recently acquired designations could be interesting to consider as well.

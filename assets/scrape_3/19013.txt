@@ -1,0 +1,3 @@
+statistical techniques for estimating distribution of mass
+
+I occasionally hear claims along the line of ' the mass of the universe is not uniformly distributed but actually is concentrated along a '  line, or some other lower  dimensional manifold & I would like like to know what statistical techniques, if any,  are used to make support these claims.  I'm not interested  in whether the claims have held, just in the what was used for the original analysis.  I have data  whose dimension I would like to estimate, and am familiar with correlation dimension.

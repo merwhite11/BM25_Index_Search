@@ -1,0 +1,10 @@
+Star charts showing distances instead of apparent magnitudes?
+
+I am curious as to what star charts would look like, if instead of scaling the size of dots by apparent magnitude, the size of dots were scaled by actual distance from earth.
+It would be nice to preserve familiar constellation lines for reference.
+For starters, something like this, but with dots sized by distance might be fun.
+
+A detailed chart analogous to Uranometria 2000.0 might be very interesting, for side by side comparisons:
+
+Can anyone provide some sample charts like I’m looking for?
+Update: Following up on James K’s comments, I imagine these star chart would use larger dots for closer stars, and that in the initial stab at this, only stars that are visible to the naked eye (6.5 magnitude) would be charted. (Although I also imagine side-by-side charts of the Uranometria 2000.0 sample page would be interesting too, up to 9.75 magnitude).

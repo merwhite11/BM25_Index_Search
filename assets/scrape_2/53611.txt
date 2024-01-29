@@ -1,0 +1,7 @@
+Trying to understand how to properly implement this equation to a healpix map
+
+So i am working on reproducing a paper (Secrest, N. J., von Hausegger, S., Rameez, M., Mohayaee, R., Sarkar, S., & Colin, J. (2021). A test of the cosmological principle with quasars. The Astrophysical Journal Letters, 908(2), L51.)  and I have this equation
+$$\sum_p\left[n_p - \left(A_0 + \sum_{j=1}^3 A_{1,j}d_{j,p}\right)\right]^2$$
+the paper describes the process of how they implemented it. However I cant grasp my head around it. I have done all the previous steps but this is where I am stuck.
+I have the number densities but I can't seem to figure out how to get the other variables namely, $A_0$ and the $A_{1j}$ and $d_j$.
+Can someone here help me with this?

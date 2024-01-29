@@ -1,0 +1,5 @@
+How do we know pulsars have two beams?
+
+Pulsars are neutron stars the emit a beam of electromagnetic radiation that is not aligned with their rotation axis. So we can only see a neutron star as a pulsar if the beam crosses Earth's path. 
+
+The common representation is that there are two beams, one on each side, but unless the magnetic axis and the rotation axis are at 90°, we can only ever see one of the two beams. How do we know that there are two beams and not one, or four, or any other number?

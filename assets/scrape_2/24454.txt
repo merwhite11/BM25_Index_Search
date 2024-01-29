@@ -1,0 +1,3 @@
+Sun's position on summer solstice
+
+Let's say I am in Brasilia (latitude = 15.78°S). This is obviously south of the equator but north of the tropic of capricorn. So on the summer solstice I know that the Sun's declination is +23.26°. Does this mean that the sun will appear directly north at solar noon? Thanks.

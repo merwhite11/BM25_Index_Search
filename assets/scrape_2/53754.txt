@@ -1,0 +1,22 @@
+How to plot the freeze out equation for massive particle species in Mathematica?
+
+I want to recreate the figure . This comes from the Cosmological Boltzmann equation which can be modified as the number density equation as
+$$\frac{dY}{dx}=-\frac{s(m)<{\sigma}|v|>[y^2-Y_{eq}^2]}{x^2 H(m)}.$$
+The equation is attached (Mathematica Codes):
+ClearAll["Global`"];
+m = 1000;
+sigmav = 0.0000000001;
+gstar = 106;
+mpl = 2.410^18,
+Sm = (2 pi^2)/45gstarm^3;
+Hm = 1.67*[gstar]^(1/2)m^2/mpl;
+Yeq[x_] = 0.145x^(3/2)*Exp[-x];
+(s1=LogLogPlot[0.145x^(3/2)Exp[-x],{x,3,1000},PlotRange[Rule]All,
+Frame[Rule]True,PlotStyle[Rule]Thick];)
+s2 = NDSolve[{Y'[x] ==
+x^-2Sm/Hmsigmav*(Y[x]^2 - (0.145*x^(3/2)*Exp[-x])^2),
+Y1 == Yeq1}, Y, {x, 1, 1000}];
+LogLogPlot[{Evaluate[Y[x] /. s2], Yeq[x]}, {x, 1, 1000},
+PlotRange -> All, AxesLabel -> Automatic, Frame -> True]
+These results are derived using the help of "[The Early Universe][4]" by Kolb and Turner
+Question: How to plot the freeze-out equation for massive particle species in Mathematica?

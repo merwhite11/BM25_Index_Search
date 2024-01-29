@@ -1,0 +1,11 @@
+How were "microshutters" or other multiplexed or multi-object techniques first used in Astronomical spectroscopy?
+
+This answer to How will microshutter arrays be used in the James Webb and future space telescopes? explains how multiple objects can be selected so that the throughput of a spectrometer can be enhanced (with some compromises somewhere) by recording spectra of more than one object at a time. The answer is worth a read if you haven't read it yet.
+Another technique to get multiple spectra from a single telescope is to place (and sometimes articulate) high quality optical fibers at may locations at the focal plane. These days the number of fibers and objects can number in the thousands, so the output of several fibers can be lined up along the slit one spectrometer, and multiple spectrometers can also be used.
+But here I'd like to look back in time to understand the beginnings of this technology.
+Question: How were "microshutters" or other multiplexed or multi-object techniques first used in Astronomical spectroscopy to capture spectra from multiple object?
+
+Related:
+
+How will microshutter arrays be used in the James Webb and future space telescopes?
+What is an "Off Rowland-circle Telescope"? Are there "On Rowland-circle Telescope" as well?

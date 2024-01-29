@@ -1,0 +1,75 @@
+Need help understanding stellar spectroscopy data from ESO
+
+The European Southern Observatory webpage has a web page that has tabular spectrogram data from A. J. Pickles, University of Hawaii.  There are over 130 .dat files there.  Each one represents a spectrogram from a star.
+My question is at the bottom.
+First though, I will excerpt some lines from a few of the .dat files.  You can read the tabular data by unzipping the ".dat.gz" files and opening the resulting ".dat" in a plain text editor.
+ukwg0v.dat
+Description of File Name:
+
+UK = They all start with UK
+W = Weak metalicity (can be: W for weak, S for strong, or nothing for normal)
+G = Spectral class G (can be: O, B, A, F, G, K, M)
+0 = Spectral subtype 0 (can be: 0-9)
+V = Roman numeral 5 Yerkes luminosity class (can be: Ia, Ib, II, III, IV, V, VI, VII)
+
+Excerpt of File Contents:
+#iRMS=9.222171502e-05 0
+#    lk  ukf_wg0v  uks_wg0v        fh        fse
+#
+ 1150.0  0.004218  0.000000  0.004218  0.000000
+ 1155.0  0.002700  0.000000  0.002700  0.000000
+ 1160.0  0.001559  0.000000  0.001559  0.000000
+        ... [4,765 lines truncated] ...
+24990.0  0.016113  0.000000  0.000000  0.016113
+24995.0  0.016087  0.000000  0.000000  0.016087
+25000.0  0.000000  0.000000  0.000000  0.000000
+
+
+ukg0i.dat
+#iRMS=1.052067091e-05 0
+#    lk   ukf_g0i   uks_g0i        fh       fse         fk
+#
+ 1150.0  0.000000  0.000000  0.000000  0.000000  0.000000
+ 1155.0  0.000000  0.000000  0.000000  0.000000  0.000000
+ 1160.0  0.000000  0.000000  0.000000  0.000000  0.000000
+        ... [4,765 lines truncated] ...
+24990.0  0.000000  0.000000  0.000000  0.000000  0.000000
+24995.0  0.000000  0.000000  0.000000  0.000000  0.000000
+25000.0  0.000000  0.000000  0.000000  0.000000  0.000000
+
+
+ukm3iii.dat
+#lRMS=0.06043180451 iRMS=0.04044797271 0
+#    lk ukf_m3iii uks_m3iii        fh        fl        fd        fm        fsv
+#
+ 1150.0  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000
+ 1155.0  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000
+ 1160.0  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000
+        ... [4,765 lines truncated] ...
+24990.0  0.302861  0.000000  0.000000  0.000000  0.000000  0.323665  0.000000
+24995.0  0.301125  0.000000  0.000000  0.000000  0.000000  0.321810  0.000000
+25000.0  0.300519  0.000000  0.000000  0.000000  0.000000  0.321163  0.000000
+
+
+uko5v.dat
+#lRMS=0.0004083506647 iRMS=0.0004083506938 0
+#    lk   ukf_o5v   uks_o5v        fh       fse         fl
+#
+ 1150.0 12.354247 10.980931 12.354247  0.000000  0.000000
+ 1155.0  9.928268  8.291242  9.928268  0.000000  0.000000
+ 1160.0  8.410753  7.608442  8.410753  0.000000  0.000000
+        ... [4,765 lines truncated] ...
+24990.0  0.000000  0.000620  0.000000  0.000000  0.000000
+24995.0  0.000000  0.001047  0.000000  0.000000  0.000000
+25000.0  0.000000  0.001561  0.000000  0.000000  0.000000
+
+
+In the accompanying paper, it helps to decode the columns:
+
+1st column:  The wavelength in angstroms.  The rows start at 1150 Å and increment every 5 Å up to 25000 Å.  This can be seen across the X axis of the plots.  (I don't know why whoever made these plots decided to start them at 8000 Å, but the actual data begins at 1150 Å.)
+2nd column:  The corresponding flux at that wavelength.  Fluxes are in Fλ (F_lambda) units.  This is the Y axis of the plots.
+3rd column:  "The standard deviation of the optical combination....  The normalized source contributions are averages where multiple components from a source exist.  The first line summarizes RMS errors of these individual averages.  The standard deviation column is generally zero in wavelength regions where only one source is present, but is sometimes replaced by the standard deviation of the average forming that single component."
+Subsequent columns:  The source contributions.  Sometimes there are multiple spectra surveys that took measurements at a particular wavelength.  The average (arithmetic mean) of these sources appear in column 2.  The standard deviation of these sources appear in column 3.
+
+Question
+I thought that the Y axis of a spectrogram was supposed to represent intensity of radiation, but in this data they refer to it as flux and are measuring it in terms of "Fλ units".  I am very dumb with regard to spectroscopy.  Could somebody please explain to me how flux compares to intensity, and what exactly Fλ units are?

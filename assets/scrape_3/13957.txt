@@ -1,0 +1,6 @@
+Local Standard Time Meridian - LSTM (Units)
+
+I was just wondering what units I could scale down to (or or shouldn't) for working out values like Local Solar Times, or Local Time etc...
+From the papers I'm looking at, I can't see any mention of SI's or ISO's so I'm a little lost as to what to use as a reference.
+Thanks
+Ade

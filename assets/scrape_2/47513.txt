@@ -1,0 +1,4 @@
+Are intersecting orbits ever stable?
+
+Ok, I'm asking this question because the obvious counterexample is trojans. Trojans typically intersect the orbit of its relative body. Typically, these are stable in the long-term, especially when the planet is massive. However, these never come within a close enough distance to be affected by the gravitational pull of the planet ($\text{MOID}\leq \text{Hill sphere}$). Are such orbits which intersect the orbit of a massive body within the distance of its Hill sphere ever stable? If so, when?
+Edit: As @ConnorGarcia said in a comment, moons are another counterexample. To specify, I am talking about objects whose velocity is greater than the escape velocity in the Hill sphere (unbound objects).

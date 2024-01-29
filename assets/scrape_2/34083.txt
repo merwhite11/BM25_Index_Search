@@ -1,0 +1,9 @@
+Why not send a Gaia-like mission to Mars?
+
+This answer to the question why we didn't send Gaia to Neptune's orbit raises the question of why we don't send a Gaia-like mission to the orbit of Mars. It seems like it doesn't have the problems mentioned in the answers, and it would make it possible to measure parallax for stars 50% further. 
+
+orbital speed: waiting 6 extra months to get better precision seems like a better trade off than waiting 9 years to get the same precision as Gaia;
+partial coverage: after two years, the entire sky could be covered. Far from the 168 years for Neptune;
+telemetry: sending back data from a Gaia-like mission can't be that much harder than sending back data from any other of the tens of missions to Mars;
+power: the solar panels don't need to be 900 times bigger;
+radiative environment: contrary to Jupiter, Mars doesn't have a magnetosphere, so the spacecraft wouldn't be disturbed by it.

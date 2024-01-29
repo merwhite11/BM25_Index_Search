@@ -1,0 +1,3 @@
+What is the difference between barycentric-centered and heliocentric-centered coordinates?
+
+When talking about celestial bodies orbiting the sun with a decently circular orbit or small aphelion, the heliocentric orbital parameters are almost identical to the barycentric parameters. However, most comet-like (highly eccentric with very large aphelion, but not hyperbolic/parabolic) orbits have vastly different parameters. For instance, according to Wikipedia, the minor planet $2017\ MB_7$ has a heliocentric aphelion of $\sim 7000-9000 \text{ AU}$, while the barycentric aphelion is only $\sim 1800 \text{ AU}$. Why is this happening?

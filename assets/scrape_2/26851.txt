@@ -1,0 +1,8 @@
+How to construct a sky map
+
+First of all, I have very basic knowledge of astronomy so sorry if I make some mistakes in my terminology.
+I'd like to plot the Southern Cross. I can find the name of its 5 stars. Also, I have some knowledge of Python and I've tried to use PyEphem and AstroPy. 
+What I don't know is: what kind of information do I need to plot the cross on the circle? I mean, I'd like to plot it exactly at the right position.
+The most difficult part is: the observer should be in Rio de Janeiro and the date should be 1889-11-15 08:30:00 UTC-03.
+I tried to collect some info with the Astropy function FixedTarget.from_name() but, if I understood correctly, the date is too far in the past.
+If anybody could give me some guidelines (maybe an online tool) to create a sky map with the cross in the right position, I'd really appreciate it.

@@ -1,0 +1,7 @@
+Current limitations in radio-astronomical spectrometry analysis of local interstellar cloud's hyperfine structures
+
+I've been trying to wrap my head around capabilities of current radio-astronomical spectrometry technology to isolate not too distant tenuous sources, say, chemical composition and density of the the interstellar medium right in the neighborhood of our Solar system. In essence, what is our local interstellar cloud made out of and how much of it is there:
+       
+We've had much success so far in isolating distant radio wave sources and analyzing their hyperfine, i.e. molecular level composition. Same goes even for interstellar medium composition down to molecular ions of diazenylium (N2H+) that is surrogate to the presence of unobservable, nonpolar N2.
+For example, P. Caselli et al. from the Harvard-Smithsonian Center for Astrophysics presented a paper (PDF) on J = 1 → 0 transition of N2H+ at 93 GHz toward the quiescent low-mass cloud core L1512 in Taurus, back in 1995. That is 18 years ago!
+What I don't understand is, what's preventing us, with current technology, from isolating local low-mass formations in the radio wave spectra from its background noise and analyzing its hyperfine structure through radio-astronomical spectrometry? Is the signal to noise ratio simply unworkable and the density of the local cloud too thin to filter it out from its background? Or have such observations actually already been done, and we already have molecular data on the local cloud that I'm not aware of?

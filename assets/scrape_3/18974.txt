@@ -1,0 +1,30 @@
+How to calculate planetary aspects at a stationary point?
+
+I am using Jean Meeus book Astronomical Algorithms and the C software that comes with the book to calculate planetary data. I am comparing two planet's longitude to calculate the time when they are a fixed amount of longitude apart such as 45, 60, 90 degrees apart. These are the standard planetary aspects used in astrology.  I can not calculate the correct time when one or both of the planets is approaching its stationary retrograde motion point. At this point the planets velocity approaches zero and the longitude does not have the decimal point accuracy to make a comparison. The time will be off by anywhere from a few minutes to eleven hours when compared to a commercial ephemeris. 
+Q.) Does anyone know a different method other than simple longitude comparison that can calculate the correct planetary aspect time when planets are near their retrograde motion stationary point?  
+-- Edit is Below --
+Here is an example of my problem. My calculations below are made with Astronomical Algorithms software at 1 minute increments for August 1, 2016 at midnight. The calculations show Venus longitude which is moving Direct Motion and Uranus which is moving Retrograde Motion. The American Ephemeris at midnight lists the Venus 120(Trine) Uranus as occurring at 4:10 AM. The Astronomical Algorithms calculations below identify Venus 120 Uranus at 3:56AM which is 16 minutes early. Every time a slow outer planet like Uranus is near a station point and moving very slow my aspect time is always off.
+Q) Is there a different way to calculate the aspect rather than longitude comparison? Maybe use some king of time correction function?
+Geocentric Longitude 
+Venus Direct Motion 
+Uranus Retrograde Motion 
+Date ___ Time _______ Venus _______ Uranus
+08/01/16 03:53 AM   144.5040255637  24.5061221269
+08/01/16 03:54 AM   144.5048790144  24.5061207491
+08/01/16 03:55 AM   144.5057324652  24.5061193708
+08/01/16 03:56 AM 144.506585916   24.5061179922  Venus 120 Uranus
+08/01/16 03:57 AM   144.5074393668  24.5061166132
+08/01/16 03:58 AM   144.5082928175  24.5061152338
+08/01/16 03:59 AM   144.5091462683  24.506113854
+08/01/16 04:00 AM   144.509999719   24.5061124738
+08/01/16 04:01 AM   144.5108531697  24.5061110932
+08/01/16 04:02 AM   144.511706621   24.5061097123
+08/01/16 04:03 AM   144.5125600718  24.5061083309
+08/01/16 04:04 AM   144.5134135225  24.5061069491
+08/01/16 04:05 AM   144.5142669732  24.5061055669
+08/01/16 04:06 AM   144.5151204239  24.5061041844
+08/01/16 04:07 AM   144.5159738746  24.5061028014
+08/01/16 04:08 AM   144.5168273253  24.5061014181
+08/01/16 04:09 AM   144.5176807759  24.5061000343
+08/01/16 04:10 AM 144.5185342266  24.5060986502 American Ephemeris Venus 120 Uranus 
+08/01/16 04:11 AM   144.5193876773  24.5060972657

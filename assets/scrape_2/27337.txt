@@ -1,0 +1,8 @@
+Can I take logarithms of magnitudes (which are already log)
+
+I'm investigating the relationship between the magnitude of quasars in various wavelengths, and their redshift $z$. I've found that if I take the $log$-$mod$-transform ($L_{mag}$) of the magnitudes, where
+$L(y) = sgn(y) * log(|y| + 1)$
+which I got from here and here, I can get a slightly tighter fit for my data, which is the aim of the study. Here's a plot for the W1 magnitude and $L(W1)$ as above, both against $log(z)$:
+
+showing the regression coefficient for each.
+My question, before I take this to my supervisor, is: is there any reason why I shouldn't be taking the $log$ of an already $log$ quantity?

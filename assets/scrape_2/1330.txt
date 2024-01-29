@@ -1,0 +1,8 @@
+How does gravity affect the wavelength of light?
+
+If, hypothetically, me and my rocket powered flashlight were falling straight toward the center of a black hole. The flashlight is a few kilometers behind me in our travels toward the center of the black hole, but since it is rocket powered, it manages to maintain the exact distance to me for a while.
+The point is; The distance between me and my flashlight is constant as long as I am observing it.
+The photons coming from the flashlight would obviously not be rocket powered - and they would be affected by the black holes gravitation.
+Would the light I see from the flashlight be shifted towards red or blue, even though the distance between me and my dear flashlight is maintained?
+If so; switching the positions of me and my flashlight, would it change the color I'd observe?
+If we turn off the rocket on the flashlight, I assume it would be redshifted regardless of which were closer to the singularity, and the magnitude of redshift would appear to accelerate?

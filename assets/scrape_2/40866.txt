@@ -1,0 +1,9 @@
+How does the stellar evolution for low and intermediate mass stars differ?
+
+I'm trying to understand stellar evolutionary tracks for different masses. So far I have the general understanding from a cloud of gas and dust to a white dwarf, neutron star or black hole.
+What I don't understand is how the different evolutionary tracks differ from each other for low to intermediate mass stars. I have attached two figures that causes my confusion.
+The first one shows many different evolutionary tracks and the second one shows the evolution of a low mass star of 1 Solar mass.
+The first image shows that a star of 1 Solar mass stops at point 6, which corresponds to the Helium Core Flash. The second image shows that the evolution continues from this point, making the star bluer before it becomes a red giant again and collapses and explodes.
+My question is this: Where does the evolution actually stop? Is the Helium Core Flash the last thing a Sun-like stars experiences or does it in fact follow the rest of the tractory?
+All in all, I'm a bit puzzled by the difference between low- and intermediate mass stars evolution. Also it seems to have something to do with conective vs. radiative zones..?
+Sorry for the large images!

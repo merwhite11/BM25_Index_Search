@@ -1,0 +1,9 @@
+Could non-supernova carbon, oxygen, or silicon flashes be observed?
+
+I was reading about the helium flash, the short but sudden onset of helium fusion in certain red giant stars. As I understand, the upper (nondegenerate) layers of the star absorb the energy as they quickly expand, which leads to the stabilization of the core as thermal pressure takes over, leading to the period of helium burning.
+I was curious as to whether this could be generalized to the onset of fusion of heavier elements later in a more massive star's life, and I came across a reference to a hypothetical silicon flash in Woosley & Heger (2015). More digging led me to a passage in Fundamental Astronomy (page 250), which states
+
+In stars with masses around 10 $M_\odot$ either carbon or oxygen may be ignited explosively just like helium in relatively low-mass stars; there is a carbon or oxygen flash. This is much more powerful than the helium flash, and may make the star explode as a supernova.
+
+Let's say that a star undergoes a relatively low-power carbon, oxygen, or silicon flash, and enough energy is absorbed by the outer layers such that the star does not undergo a supernova. Would enough energy escape the outer layers of the star so that we be able to detect the flash using optical or neutrino telescopes? Obviously, this is distance-dependent, so I'll say that the hypothetical star is within five parsecs of Earth.
+As another way to put the question, how luminous would the flash be?

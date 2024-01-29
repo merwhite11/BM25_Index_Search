@@ -1,0 +1,12 @@
+I have a question about the wording in a paper about a planetary system and comets
+
+I was reading a paper. This is the paper:
+https://arxiv.org/abs/2006.01711 (https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.4979D/abstract
+In the method section in the second paragraph there is a bit of wording that is confusing to me.
+
+We will examine the dynamics of some Solar System comet analogs3, namely, 2P / Encke, 9P / Tempel 1, and 31P / Schwassmann-Wachmann 2; they are later referred to as comet A, B, and C, respectively, for convenience.
+
+The paper is essentially about a system called 55 cancri. They do simulations about it to look at comet interaction since there is an empty space without planets where there might be comets. They say they examine 3 solar system comets.
+Does that mean they just use the regular 3 planets and star in the 55 cancri system and then add 3 comets as an assumption? Or do they do 2 different simulations one for the solar system to test the numerical simulation and then the cancri system?
+The confusion also arises since they mention comet analogs. I do not understand what analog means here. They also link to a table with the planets in the 55 cancri system which I do not understand how it relates to this sentence.
+Can somebody explain what they mean here?

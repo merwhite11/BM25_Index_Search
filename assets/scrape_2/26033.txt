@@ -1,0 +1,7 @@
+Does Universal Time really track mean solar time?
+
+At innumerable places on the net you can find the claim that leap seconds are inserted into UTC in order to make it track UT1 which again tracks mean solar time at the reference meridian.
+However, when I tried to locate an actual definition of UT1, the closest I could find was IAU resolution B1.8 from 2000 which seems to define it implicitly from the following relationship with the Earth Rotation Angle:
+$$ \theta = 2\pi\bigl(0.7790572732640+1.00273781191135448({\it JD}_{\rm UT1}-2451545.0)\bigr)$$
+Here the magic constant 1.00273781191135448 appears to be derived from the ratio between the Earth's rotational period and the sidereal year -- but no provision for adjusting it for observed changes in that ratio seems to be made. (The least significant several digits of the constant must be wrong already).
+As the Earth's rotation slows down, is UT1 therefore going to drift out of sync with mean solar time at the IERS reference meridian? Or am I missing something?

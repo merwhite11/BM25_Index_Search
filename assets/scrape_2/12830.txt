@@ -1,0 +1,42 @@
+How to get the longitude of the perihelion to find the Heliocentric Equatorial coordinates of a planet
+
+I'm writing a program to randomly generate star systems and I have been having a difficult time figuring this out. I've found the equations I need to get the heliocentric equatorial coordinates, but I haven't been able to figure out how to determine the longitude of perihelion. Is it just the opposite of the longitude of the ascending node or is it a completely different variable?
+It might just me, but the names for this stuff is definitely making it more confusing than it should be.
+Here is all my notes:
+** = power
+P = planet's period
+a = semi-major axis
+b = semi-minor axis
+M = mean anomaly
+E = Eccentric anomaly
+e = eccentricity of orbit
+v = true anomaly
+r = radial distance
+A = longitude of asending node
+w = longitude of perihelion
+i = inclination
+t = time
+(r, v) = polar coordinates
+(x, y, z) = Heliocentric Ecliptic coordinates
+(X, Y, Z) = Heliocentric Equalorial coordinates
+eccentricity
+e = sqrt(1 - (b ** 2 / a ** 2))
+Period
+P = sqrt(a ** 3)
+Kepler's Equation
+M = E - e * sin(E)
+Mean Anomaly
+use as starting point for eccentric anomaly
+M = (2 * pi * t) / P
+True Anomaly
+v = 2 * atan(sqrt((1 + e) / (1 - e)) * tan(E / 2))
+Radial Distance
+r = (a(1 - e ** 2)) / (1 + e * cos(v))
+Heliocentric Ecliptic coordinates
+x = r(cos(A) * cos(w + v) - sin(A) * sin(w + v) * cos(i)
+y = r(sin(A) * cos(w + v) + cos(A) * sin(w + v) * cos(i)
+z = r * sin(w + v) * sin(i)
+Heliocentric Equalorial coordinates
+X = x
+Y = y * cos(i) - z * sin(i)
+Z = y * sin(i) + z * cos(i)

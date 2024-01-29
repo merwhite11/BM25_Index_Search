@@ -1,0 +1,11 @@
+What does it mean for something to be optically thick to pair production?
+
+I have seen several references in the high energy astrophysics literature (including the example below) which make reference to an astronomical source being "thick to pair production".
+What does this mean? Why would something be thick to pair production?
+
+from Broderick and Tchekhovskoy (2015) Horizon-Scale Lepton Acceleration in Jets: Explaining the Compact Radio Emission in M87:
+
+4.3. Post-Gap Cascade
+Given the threshold seed photon energy of 1.2 meV, the minimum gamma-ray energy for which the seed photons bath is optically-thick to pair production is $\epsilon_{\gamma, min}$ = 640 GeV, hence the asymptotic Lorentz factor for M87 is (see Equation 27)
+$$\gamma_{\gamma \gamma} = 2.6 \times 10^6, \tag{59}$$
+implying enhancement in the number density due to the postgap cascade of roughly $n_{\infty} / n_g$ = 670 (see Equation 28).

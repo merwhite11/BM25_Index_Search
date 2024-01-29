@@ -1,0 +1,6 @@
+Why does spectral class and U-V colour correlate slightly differently for main sequence, giant and supergiant stars?
+
+
+In this diagram the $x$-axis is spectral type for stars and the $y$-axis is B-V colour.
+Taking Series 1 as the Main Sequence, Series 2 as Giants and Series 3 as Super-giants. Why the spectral class for all these stars differ from the other ones?
+If we were to say differences, for instance, how would one express that information?

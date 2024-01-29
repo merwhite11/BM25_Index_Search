@@ -1,0 +1,8 @@
+Why does Earth have more gravitational force than the Moon if I stand on it?
+
+Perhaps this is a silly question but I am trying to understand Einstein's general theory of relativity. 
+I would like to explain my question in more detail.
+The greater the mass of an object, the greater the curvature of spacetime. 
+If I imagine the curvature of spacetime as a hole with a steep slope around it, I can picture that the closer I get to the center of the hole, the steeper the slope is and therefore the more I would be pushed into the center of the hole. I am not completely sure if that's a very good analogy but in general I think I get the picture of timespace curvature as depicted here: 
+Now, my question is why is it that the size of the hole matters if I am not standing on the edge (side) of the hole or in the hole but rather on an object that 'covers' the hole (Earth).  
+Let's say if I stand on a bridge that covers a 20-meter-wide hole and on a bridge the covers 500-meter-wide hole. Wouldn't the gravitational force experienced be the same since the surface on both bridges is flat?

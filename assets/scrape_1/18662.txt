@@ -1,0 +1,7 @@
+Auroras: is there any bump in frequency at certain times of night, or times of year?
+
+I'm trying to find out if there is a range of times at night, and/or days during the year, in which the probability of seeing an aurora is higher than average. 
+The aurora section of the British Astronomical Association asserts that there's 
+a correlation with season (higher probability near equinoxes), and a correlation with 'magnetic midnight'. 
+http://www.britastro.org/aurora/
+Are these assertions correct? If so, what is the definition of magnetic midnight, exactly?

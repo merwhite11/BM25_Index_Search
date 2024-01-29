@@ -1,0 +1,8 @@
+Could Planet Nine be a tiny black hole or an exotic compact object such that it escaped detection? What would its bounds be?
+
+Planet Nine (a variant of the old X-Planet and Tyche-Thelistos hypothesis) proposes a super-earth planet at the edges of the solar system with a mass of around ten Earths. However, given the interest in exotic objects and gravitational variants, maybe it's interesting to study "exotic" scenarios: 
+
+Tiny black hole. Using the famous online calculator http://xaonon.dyndns.org/hawking/, for ten earth masses, we get a 89 mm black hole. Temperature about 2 mK! How can we put bounds on this scenario?
+An exotic compact object. Of course, we have no evidence so far of general relativity modifications of gravity, but if not a black hole but another "thing" (a gravastar, a quark star, a preon star,...), I find hard to estimate how could we be sure to give up experimentally these examples. 
+
+Of course, the real thing is to think something less exotic (I am not sure how to differentiate the P9 hypothesis from a swarm of thousands of ETNO dwarf planet-like or planetesimal-like, but the real issue is how to test these alternative models and if these could affect what we know about the origin and formation of the solar system and its actual current structure, any hint to this in the answer to above exotic cases would also welcome).

@@ -1,0 +1,11 @@
+Why doesn't lunar perigee always occur in the same lunar phase?
+
+If the phases of the moon and the moon's perigee are just dependent on the point that the moon is in through it's orbit, why can perigee happen at different phases of the moon?
+My thinking is this:
+
+The phases of the moon take one lunar orbit to complete
+A lunar perigee will occur at the same point throughout the lunar orbit (the point where it is closest to earth)
+Therefore, a lunar perigee will always coincide with the same phase of the moon.
+
+However, I know that this conclusion is not true, so I am not understanding something properly.
+Thanks

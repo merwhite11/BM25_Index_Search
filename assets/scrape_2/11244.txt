@@ -1,0 +1,3 @@
+Are trojans in L5 more likely than in L4?
+
+Mars has much more trojans in L5. Does it reflect a common pattern?

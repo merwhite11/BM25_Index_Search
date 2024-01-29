@@ -1,0 +1,9 @@
+What does "negligible mass" mean in the formulation of geodesics equation?
+
+Wikipedia says:
+
+According to Einstein's theory of general relativity, particles of
+  negligible mass travel along geodesics in the space-time.
+
+Does that "negligible mass" only refer to particles or objects like a spacecraft, whose mass are literally negligible to that of a black hole, are also taken into account?
+If the mass of a spacecraft is not negligible, how has one to modify the geodesics equation corresponding to that mass?

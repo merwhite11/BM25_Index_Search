@@ -1,0 +1,3 @@
+Is it possible to tell if a certain extrasolar planet produces its own magnetic field?
+
+I know by observing the dimness of a star it is possible to calculate an exoplanet's distance from the star and its mass by how much the star wobbles. However, is there any way to accurately determine if said planet has any magnetic field through observation alone directly?

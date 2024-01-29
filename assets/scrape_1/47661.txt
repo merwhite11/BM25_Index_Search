@@ -1,0 +1,12 @@
+How can Io be tidally heated while it is in tidal lock?
+
+According to its Wikipedia page:
+
+Rotation period: synchronous
+Eccentricity: 0.0041
+
+But also
+
+...extreme geologic activity is the result of tidal heating...
+
+How is it possible? It should not be heated, if its rotation is synchronous, no tidal waves should exist in it.

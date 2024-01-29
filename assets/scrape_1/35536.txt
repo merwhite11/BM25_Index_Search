@@ -1,0 +1,21 @@
+Transforming Galactic Coordinates in Cartesian with Distance
+
+Lets say I have galactic coordinates of an object, l and b.
+I figured out that i can transform them to cartesian system using the formula:
+$$
+\begin{align}
+X &= \cos(b)\cos(l)\\
+Y &= \cos(b)\sin(l)\\
+Z &= \sin(b)
+\end{align}
+$$
+Giving me a vector on the celestial sphere. So far so good, now I want to know the exact position of the object. Using 1/parallax, I compute the distance. Therefore I multiply it 
+with my vector to find out the exact cartesian position of the object.
+$$
+\begin{align}
+X &= \textstyle\frac{1}{p}  \cos(b)\cos(l)\\
+Y &= \textstyle\frac{1}{p} \cos(b)\sin(l)\\
+Z &= \textstyle\frac{1}{p} \sin(b)
+\end{align}
+$$
+What I want to know is if this calculation is correct and if not, what do I have to change or reconsider? Thanks!

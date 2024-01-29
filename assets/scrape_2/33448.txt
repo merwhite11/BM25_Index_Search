@@ -1,0 +1,8 @@
+How does the number in stellar classification indicate properties within the range of that class?
+
+I am doing some research for a video game and I wanted to store stellar data on a star, such as its Stellar Classification, and then from that derive a physical appearance in the game.  These are fictional stars.
+My original thought had been to store the star's classification, For example G2V and then at runtime I could use that data to determine things like surface temperature, brightness, radius, and mass.  From temperature I can also derive color.
+However when I sat down to start coding a first pass on this I noticed something that confused me.
+According to Wikipedia, our Sun, Sol, is a G2V star.  The number is supposed to indicate a "sub" classification.  A G2 star would be 20% between a G star and a K star.  A table there lists a G type star as having a surface temperature between 5,200 K and 6,000 K.  Therefore I figured a G2 star would have a temperature of about (I know nothing here is EXACT) 5,360 K (20% of the way between 5,200 and 6,000) but apparently it actually has a temperature of 5,800 K which is about 75% between the given range.  So why is Sol not a G7 of G8 star?
+And then once I hit that irregularity, I had to assume that things like Radius and Mass are probably also not linearly interpolated along the range.
+Is there a feasible way to derive properties such as I am looking at based on the Stellar Classification?

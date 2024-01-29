@@ -1,0 +1,4 @@
+3D Positions of Nearby Stars
+
+I have come across a number of star catalogs that list stars by right ascension and declination, along with other data such as magnitude.
+Is there a star catalog that lists the 3-D position of stars (e.g. includes distance from the sun, or otherwise specifies a 3-D position)?

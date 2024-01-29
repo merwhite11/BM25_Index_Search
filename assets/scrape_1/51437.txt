@@ -1,0 +1,3 @@
+Could two-way mirrors be used to completely eliminate obstruction for a reflector telescope?
+
+The secondary mirror on a reflecting telescope obstructs some of the light coming in and the spider vanes that hold up the secondary mirror cause diffraction spikes when imaging. Some people prefer refractors because of this. Could a two-way mirror across the entire inside of the telescope prevent this or do two-way mirrors have some properties that don't make them optimal?

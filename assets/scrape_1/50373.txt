@@ -1,0 +1,60 @@
+Problem in converting equatoral coordinates to ecliptic coordinates
+
+I would like to convert equatoral coordinates to ecliptique coordinates. I am following the source below:
+Practical Astronomy with Your Calculator
+The formula I am using is:
+
+
+When I solve this example, I find the same value. And I am checking the result using the website below:
+https://frostydrew.org/utilities.dc/convert/tool-eq_coordinates/
+
+
+As you see the results are same.
+However when I want to find the ecliptic coordinates of Sagittarius A, I am getting different results:
+Right Ascension of Sagittarius A is: 17h 45m 40.0409s
+Declination of Sagittarius A is: −29° 0′ 28.118″
+I found the results in the previous example with the following program, and the result was the same when I encountered the results on the site I mentioned to you.
+I tried the same Python program this time to find the ecliptic coordinates of Sagittarius A, but the results were very different from the results on the site I mentioned.
+from math import cos, sin, tan, asin, atan, radians, degrees
+
+
+def dd_to_dms(dd):
+    degree = int(dd)
+    minute = int((dd - degree) * 60)
+    second = round(float((dd - degree - minute / 60) * 3600))
+    return f"{degree}\u00b0 {minute}\' {second}\""
+
+
+def dms_to_dd(dms):
+    dms = dms.replace("\u00b0", " ").replace("\'", " ").replace("\"", " ")
+    degree = int(dms.split(" ")[0])
+    minute = float(dms.split(" ")[1]) / 60
+    second = float(dms.split(" ")[2]) / 3600
+    return degree + minute + second
+
+
+def from_equatoral_to_ecliptique(ra, dec, ob):
+    ob = dms_to_dd(ob)
+    ra = dms_to_dd(ra) * 15
+    dec = dms_to_dd(dec)
+    lat = (sin(radians(ra)) * cos(radians(ob)) + tan(radians(dec)) * sin(radians(ob))) / cos(radians(ra))
+    lon = sin(radians(dec)) * cos(radians(ob)) - cos(radians(dec)) * sin(radians(ra)) * sin(radians(ob))
+    return degrees(atan(lat)), degrees(asin(lon))
+
+
+x, y = from_equatoral_to_ecliptique(
+    ra="17°45'40.0409\"",
+    dec="-29°0'28.118",
+    ob="23°26'0\""
+)
+print(x, y)
+
+When I run this program, I am getting the results below:
+86.85130704210478 -5.598002197452088
+
+In order to remove the ambiguity of the longitude value, as mentioned in the article I shared with you, I am adding 180 degrees to the result. But when I add 180, the longitude value becomes 174.40199780254792
+But when I check this value using the website I mentioned, I am seeing that the result equals to 264.862492.
+
+
+I wonder what I am missing while trying to find the ecliptic coordinates of Sagittarius A. And I would like learn why I found the result similar in the first example but different in the second example.
+Thanks in advance.

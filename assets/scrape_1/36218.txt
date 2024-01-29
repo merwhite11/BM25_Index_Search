@@ -1,0 +1,17 @@
+How is Comet SWAN C/2020 F8 doing? Will it become easily visible by eye?
+
+The New York Times article How to See Comet SWAN in Night Skies says:
+
+Astronomers have their fingers crossed that the comet will keep brightening in the coming weeks as it heads north, passing 52 million miles from Earth on May 12 at its closest approach to our planet, and then rounding the sun on May 27.
+
+and links to the comet's twitter account which is tweeting non-specific updates every few hours.
+On May 12, 2020 https://minorplanetcenter.net/mpec/K20/K20G94.html puts the comet at
+Date    TT    R. A. (2000) Decl.     Delta      r    Elong.  Phase   m1    m2
+2020 05 12    01 17 42.4 +14 52 01   0.5572  0.5849    28.5   124.4   4.4
+
+about R.A 1h 17m and Dec +14° 52' and an estimated magnitude of about +4.4 (if I'm understanding this correctly) and the JPL Horizons database puts it at 
+ Date__(UT)__HR:MN, Date_________JDUT, , , R.A._(ICRF), DEC_(ICRF),  Azi_(a-app), Elev_(a-app),   T-mag, N-mag,             delta,     deldot,     S-O-T,/r,     S-T-O,
+
+2020-May-12 00:00, 2458981.500000000,*,m,    19.54137,   15.02829,   105.324535,    61.907026,      9.,  n.a.,  8.3196461568E+07, -3.4857438,   28.4079,/L,  124.6636,
+
+But I'd like to ask if Comet SWAN C/2020 F8 is likely to become easily visible by eye at any point in time during this pass near the Sun.

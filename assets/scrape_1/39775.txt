@@ -1,0 +1,3 @@
+What is an Ideal apparent field of view for viewing planets through a zoom eyepiece?
+
+I was reading the specs of a few zoom eyepieces, and in every eyepiece, there is a term called 'apparent field of view'. I looked up and searched about it and figured out that if you divide this by the magnification caused by the eyepiece, you get the real field of view which is basically the diameter of the circle visible in the telescope. But one thing that I was unable to find that was what would be a good field of view for viewing planets through a zoom eyepiece, so this is my question.

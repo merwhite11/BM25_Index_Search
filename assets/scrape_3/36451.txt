@@ -1,0 +1,12 @@
+Rotating observer plane inside celestial sphere with a given coordinates, time and date
+
+I have plotted stars around the surface of a celestial sphere. At the centre of this sphere, I have a brown plane which is the land. This plane can be rotated in the x,y and z axis.
+When x,y,z rotation of the plane is set to 0,0,0:
+Front View:
+
+Top View:
+
+Bottom View:
+
+After the user inputs the latitude, longitude, time and date, the plane should position itself correctly so that the correct stars are above the plane.
+How do I accomplish this and what is the mathematics what links latitude, longitude and the rotation of Earth depending on the time and date to the rotation of the plane in 3-dimensions?

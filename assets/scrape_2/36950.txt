@@ -1,0 +1,3 @@
+Were radio spectroscopic observations ever used to first measure a distance successfully?
+
+Usually, especially for an extragalactic object, its redshift is determined by optical spectroscopic redshift. But the angular resolution of early radio observations is poor and an optical counterpart needs time to be found. Is there any celestial object whose distance was determined firstly by the redshift of radio spectral lines?

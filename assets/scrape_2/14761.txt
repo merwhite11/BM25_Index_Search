@@ -1,0 +1,6 @@
+Why do post main sequence stars enter the red giants branch?
+
+I am an early graduate student in astronomy and have hard time understanding why do post-MS stars move up the RGB.
+Here is what I understand about post main sequence evolution of stars. As their hydrogen core is exhausted, the core shrinks under its own gravity. This lets a region of previously too cold hydrogen enter hotter regions, thus starting a hydrogen shell burning process. While this process can keep the luminosity constant, it expands the envelope, hence lowering the temperature and moving the star to the right in the HR diagram.
+Then suddenly, the star starts moving up on the RGB: slight or no temperature change, but sudden increase in luminosity. What makes the star move up the HR diagram all of the sudden? This is before the helium flash when the core starts burning helium. 
+Thank you!

@@ -1,0 +1,4 @@
+Power requirement for transmitting communications further than 1 ly?
+
+The StarShot project from Breakthrough Initiatives aims to send a paper light spacecraft to alpha centauri using pressure from a laser located on earth at 20,000kms. 
+What are the options for a transmitter that can be received from 1-4 lyrs away, if the transmitter weighs the same as a few jellybeans (<10 grams)? What wavelength and power range can they work with for that distance using that weight of equipment?

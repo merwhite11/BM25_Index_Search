@@ -1,0 +1,3 @@
+How do elements with only one shell emit light?
+
+Electrons move to higher energy levels and drop back (electron migration). When they drop levels, photons are emitted and the wavelength/frequency emitted is based on how many levels are dropped. My question is, how does this work with elements with only one shell, such as hydrogen? Also, what determines how many energy levels are dropped?

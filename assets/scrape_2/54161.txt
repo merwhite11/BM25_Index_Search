@@ -1,0 +1,109 @@
+How do you estimate standard deviation of sky from (Hubble) image
+
+I'm working on a simulation project with Hubble data and I need the standard deviation of the sky in ADU per pixel. Sometimes I can obtain a fits file (e.g. hdfs image), open this with astropy, and see that hdul1 has BACKGRND of around 6.7 (not even sure what units this is).
+XTENSION= 'IMAGE   '           / Image extension                                
+BITPIX  =                  -32 / array data type                                
+NAXIS   =                    2 / number of array dimensions                     
+NAXIS1  =                  800                                                  
+NAXIS2  =                  800                                                  
+PCOUNT  =                    0 / number of parameters                           
+GCOUNT  =                    1 / number of groups                               
+CRVAL1  =    338.2431271061111 / right ascension of reference pixel (deg)       
+CRVAL2  =       -60.5461614475 / declination of reference pixel (deg)           
+CRPIX1  =                400.0 / x-coordinate of reference pixel                
+CRPIX2  =                400.0 / y-coordinate of reference pixel                
+CD1_1   = -1.388888888888889E-05 / partial of the right ascension w.r.t. x      
+CD1_2   =                  0.0 / partial of the right ascension w.r.t. y        
+CD2_1   =                  0.0 / partial of the declination w.r.t. x            
+CD2_2   = 1.388888888888889E-05 / partial of the declination w.r.t. y           
+DATAMIN =            -247.6876 / minimum value of the data                      
+DATAMAX =             99962.19 / maximum value of the data                      
+VAFACTOR=                  1.0 / velocity aberration plate scale factor         
+MIR_REVR=                    T / is the image mirror reversed?                  
+ORIENTAT=                  0.0 / orientation of the image (deg)                 
+FILLCNT =                    0 / number of segments containing fill             
+ERRCNT  =                    0 / number of segments containing errors           
+FPKTTIME=          50752.17983 / time of the first packet (Modified Julian Date)
+LPKTTIME=    50752.17999800001 / time of the last packet (Modified Julian Date) 
+CTYPE1  = 'RA---TAN'           / first coordinate type                          
+CTYPE2  = 'DEC--TAN'           / second coordinate type                         
+DETECTOR=                    1 / CCD detector: PC 1, WFC 2-4                    
+DEZERO  =              315.421 / mean bias level from EED extended register     
+BIASEVEN=             315.4364 / bias level for even-numbered columns           
+BIASODD =             315.4055 / bias level for odd-numbered columns            
+BIASEVNU=                    0 / uncorrected bias level for even-numbered column
+BIASODDU=                    0 / uncorrected bias level for odd-numbered columns
+GOODMIN =            -2.250801 / minimum value of the "good" pixels             
+GOODMAX =             3715.671 / maximum value of the "good" pixels             
+DATAMEAN=             9.204636 / mean value of the "good" pixels                
+GPIXELS =               553130 / number of "good" pixels (DQF = 0)              
+SOFTERRS=                    0 / number of "soft error" pixels (DQF = 1)        
+CALIBDEF=                82453 / number of "calibration defect" pixels (DQF = 2)
+STATICD =                    0 / number of "static defect" pixels (DQF = 4)     
+ATODSAT =                   12 / number of "AtoD saturated" pixels (DQF = 8)    
+DATALOST=                    0 / number of "data lost" pixels (DQF = 16)        
+BADPIXEL=                    0 / number of "generic bad" pixels (DQF = 32)      
+OVERLAP =                    0 / number of "image overlap" pixels (DQF = 64)    
+PHOTMODE= 'WFPC2,1,A2D7,F606W,,CAL                         ' / Photometry mode  
+PHOTFLAM= 2.668108146067416E-19 / Inverse Sensitivity                           
+PHOTZPT =                -21.1 / Zero point                                     
+PHOTPLAM=             6001.288 / Pivot wavelength                               
+PHOTBW  =             637.8065 / RMS bandwidth of the filter                    
+MEDIAN  =             7.179504 / middle data value when good qual pixels sorted 
+MEDSHADO=             15.57535 / median pixel value in shadow of pyramid edge   
+HISTWIDE=             1.975092 / width of the histogram                         
+SKEWNESS=          0.004381925 / skewness of the histogram                      
+MEANC10 =             6.379209 / mean of a 10x10 region at center of chip       
+MEANC25 =             8.611205 / mean of a 25x25 region at center of chip       
+MEANC50 =             8.237788 / mean of a 50x50 region at center of chip       
+MEANC100=             8.284101 / mean of a 100x100 region at center of chip     
+MEANC200=             8.513876 / mean of a 200x200 region at center of chip     
+MEANC300=             8.804667 / mean of a 300x300 region at center of chip     
+BACKGRND=             6.717859 / estimated background level                     
+ZP_CORR =          0.004258221 / delta magnitude induced by UV contamination    
+CTE_1E2 =                    0 / expected delta mag from CTE for 100 e- PSF     
+CTE_1E3 =                    0 / expected delta mag from CTE for 1000 e- PSF    
+CTE_1E4 =                    0 / expected delta mag from CTE for 10000 e- PSF   
+EXTNAME = 'SCI     '           / extension name                                 
+EXPNAME = 'u4e70201r'          / 9 character exposure identifier                
+EXTVER  =                    1 / extension version number                       
+INHERIT =                    T / inherit the primary header                     
+ROOTNAME= 'u4e70201r'          / rootname of the observation set                
+OCRVAL1 =        338.244406763 / right ascension of reference pixel (deg)       
+OCRVAL2 =   -60.54596020144001 / declination of reference pixel (deg)           
+OCRPIX2 =                424.5 / y-coordinate of reference pixel                
+OCRPIX1 =                  420 / x-coordinate of reference pixel                
+ONAXIS2 =                  800                                                  
+ONAXIS1 =                  800                                                  
+OCD2_2  =          -1.2185E-06 / partial of the declination w.r.t. y            
+OCD2_1  =          1.25878E-05 / partial of the declination w.r.t. x            
+OORIENTA=    95.53154229526656 / orientation of the image (deg)                 
+OCTYPE1 = 'RA---TAN'           / first coordinate type                          
+OCD1_1  =          1.21907E-06 / partial of the right ascension w.r.t. x        
+OCD1_2  =           1.2582E-05 / partial of the right ascension w.r.t. y        
+OCTYPE2 = 'DEC--TAN'           / second coordinate type                         
+WCSCDATE= '19:36:27 (14/12/2009)' / Time WCS keywords were copied.              
+OCX10   = -5.00896003912203E-07                                                 
+OCX11   =             0.045536                                                  
+OCY10   =  0.04553554402160644                                                  
+OCY11   = 5.028540601953864E-05                                                 
+BUNIT   = 'COUNTS/S'           / Units of science product                       
+O_CRVAL1=          338.2436401                                                  
+O_CRVAL2=         -60.54619425                                                  
+G_CRVAL1=    338.2431271061111 / GSC2 CRVAL1                                    
+G_CRVAL2=       -60.5461614475 / GSC2 CRVAL2                                    
+G_DRA   =            -1.846778 / GSC2 delta RA in arcsec                        
+G_DDEC  =             0.118089 / GSC2 delta DEC in arcsec                       
+G_RMSRA =             0.255808 / GSC2 rms in arcsec                             
+G_RMSDEC=             0.320619 / GSC2 rms in arcsec                             
+G_NMATCH=                    8 / GSC2 number of sources                         
+T_CRVAL1=          338.2436401 / 2MASS CRVAL1                                   
+T_CRVAL2=         -60.54619425 / 2MASS CRVAL2                                   
+T_DRA   =                  0.0 / 2MASS delta in arcsec                          
+T_DDEC  =                  0.0 / 2MASS delta in arcsec                          
+T_RMSRA =                  0.0 / 2MASS rms in arcsec                            
+T_RMSDEC=                  0.0 / 2MASS rms in arcsec                            
+T_NMATCH=                    1 / 2MASS number of sources
+
+But other times, I don't see such header and I'm stuck.
+Is there a way to obtain this systematically? Is there a way to do the same for CCD noise?

@@ -1,0 +1,33 @@
+Classification of a Comet
+
+Google's definition of a comet is:
+
+a celestial object consisting of a nucleus of ice and dust and, when
+  near the sun, a ‘tail’ of gas and dust particles pointing away from
+  the sun.
+
+This doesn't cut it for me. Neither does wikipedia's similar entry.
+It pertains to the sun, even though comets are present in other parts of the galaxy other than the solar system and probably other galaxies.
+Whats more dwarf planet can be classified as follows:
+ * orbits a host star
+ * rounded by its own gravity
+ * not massive enough to induce thermonuclear fusion
+ * not massive enough to clear its region of debris
+
+Which pretty much fits the bill of a comet.
+Do you think the following is a fair / recognised classification of a comet:
+Comet:
+* not rounded by its own gravity
+* not massive enough to induce thermonuclear fusion
+* not massive enough to clear its region of debris
+* composition of ice and dust
+
+But then that's pretty similar to an asteroid:
+Asteroid:
+* not rounded by its own gravity
+* not massive enough to induce thermonuclear fusion
+* not massive enough to clear its region of debris
+
+However, this means if an asteroid is comprised of ice and dust, it becomes a comet?
+Or are asteroid never comprised of ice and dust? Does my asteroid classification need beefing up, regarding an asteroid's composition?
+I'm feeling the comet and the asteroid both need some classification pertaining to their orbit as well? Though thats tricky because only some comets and asteroid, so they're similar in that regard as well! Maybe more details on each objsts composition is needed, like I say...

@@ -1,0 +1,5 @@
+Linear motion in the equatorial frame
+
+I would like to calculate how the RA/Dec changes when an object has an apparent linear motionin the equatorial sphere. For example, more or less what an artificial satellite would do in a circular orbit.
+In particular, what I'm looking for is as follows:
+I have the RA/dec of the object at two times, t1, and t2. Assuming it has a linear motion at constant speed, what RA/dec will it have a t3? So it will have an angular separation proportional to the one it had between t1 and t2, and the three points will form a straight line.

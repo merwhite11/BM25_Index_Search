@@ -1,0 +1,4 @@
+I am looking for the SKYMAP Api (To create nightsky/star maps)
+
+The ones used by underluckystars.com and thenightsky.com
+I have found several but I am having difficulty finding a working updated version, has anyone come across this API, or know where I can find it?

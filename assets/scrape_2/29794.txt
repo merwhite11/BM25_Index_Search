@@ -1,0 +1,3 @@
+Energy conservation in Interplanetary orbit transfer
+
+When a spacecraft flys past a planet eg. Jupiter , its heliocentric energy increases dramatically allowing it to go further away. How is this possible without using any more rocket fuel?

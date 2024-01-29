@@ -1,0 +1,6 @@
+Do planetary magnetic fields slow the movement of conductive extraplanetary moving objects via induction?
+
+A fixed magnetic field will induce an electrical current in a conductive object moving through the field.  The strength of the eddy currents will depend on the shape and composition of the conductor and also how fast it is moving.  The electrical current produces ohmic heating in the conductor, and some of the kinetic energy of the moving conductor will be turned to heat. This is how induction brakes work.
+I wonder if this principle applies to fast moving conductors like asteroids or satellites that encounter planetary magnetic fields.  Are planetary magnetic fields strong enough to act as induction brakes on moving conductors?  A satellite experiencing induction braking would fall to a lower and lower orbit and eventually out of orbit.  Passing asteroids might have their course deviated more than would be expected just from gravity.
+My search turned up only this abstract, which attempted to explain why meteorites are hot via this principle.  
+http://adsabs.harvard.edu/full/1946PA.....54..482R

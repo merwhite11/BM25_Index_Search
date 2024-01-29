@@ -1,0 +1,28 @@
+Astrometry and Geometric Distortions
+
+CCD's are widely used for astrometry. Since a spherical surface (the celestial sphere) is projected onto a rectangular surface, the plate scale or pixel scale (approximated with 1/focal length etc) is used to estimate the angular separation of stars in an image.
+However, due to the actual plate scale being non-uniform across the whole sensor, different images with the same constellation of stars at different positions on the sensor will result in distorted images, compared to a centered image of the stars.
+
+Hence for accurate work e.g. astrometry,
+Why are pixel scales usually assumed to be constant? Is it because other sources of error would usually dominate hence accounting for differences in pixel scale is unnecessary?
+For astrometry, how are these geometrical distortions corrected?
+Is there any systematic way to read up on this topic? (of optics, imaging etc)
+
+What I've found so far:
+The series of articles:
+Ground-based CCD astrometry with wide field imagers
+(J. Anderson et al, 2006)
+https://doi.org/10.1051/0004-6361:20065004
+(auto-calibration described in detail)
+(A.Bellini and L.R.Bedin, 2010)
+https://doi.org/10.1051/0004-6361/200913783
+(here the authors discuss auto-calibration briefly.)
+
+Since the scale is a free
+parameter in deriving GD correction, choosing a particular scale
+value will not invalidate the solution itself.
+
+Not sure whether the above remarks in the second paper means that non-uniform pixel-scale is not a concern, at least to the algorithm.
+And a book
+Stellar Paths Photographic Astrometry with Long-Focus Instruments, Peter Van De Kamp
+Plate solving is also discussed in Spherical Astronomy, Smart

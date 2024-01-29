@@ -1,0 +1,7 @@
+How to tell a pulsar is rotation-powered or accretion-powered?
+
+We need to calculate P/Pdot?
+A pulsar may switch between theses two states.
+For a rotation powered pulsar, it can pulse and, the pulsed Lx can be much larger than the luminosity given by its rotation?  
+If Lx is very small, smaller than the luminosity given by its rotation, how to tell it is rotation-powered or accretion-powered? There are not necessarily X-ray pulsations
+You can see I am asking a very tricky scenario.

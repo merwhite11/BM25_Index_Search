@@ -1,0 +1,13 @@
+Background radation on Venus?
+
+Venus is often refered to as Earth-twin, simply because of its similar size. In the very hypothetical case of a human mission to Venus, and leaving the all other challenges of Venus toxic atmosphere aside, I am wondering how big the problem of natural radioactivity is on Venus (on cloud top level).
+For Mars, I found a reference from MarsOne
+
+Mars's surface receives more radiation than the Earth's but still blocks a considerable amount. Radiation exposure on the surface is 30 µSv per hour during solar minimum; during solar maximum, dosage equivalent of this exposure is reduced by the factor two.
+
+I know that both Mars and Venus do not have a significant magnetic field which would shield away solar winds. Do I assume correctly that the radiation exposure of the solar wind is the main contribution to the "background" radioactivity on Venus?
+References
+
+Never Mind Mars, What About a Trip to Venus First?: Apparently there is serious proposal to send astronauts to a floating cloud city in Venus’s atmosphere before heading to Mars.
+NASA: Solar Radiation Patterns That Expose the Moon
+A related question about the solar radiation part: Why Venus evolved so differently from Earth?

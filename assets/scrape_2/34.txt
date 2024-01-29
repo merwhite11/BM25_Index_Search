@@ -1,0 +1,5 @@
+Navigation using moon phases
+
+How to navigate with possible maximal precision using moon phases?
+The Moon is the brightest celestial body seen in the night sky, and it is possible to find even through moderate clouds. So it's a good natural object to use in navigation when a compass is not available. 
+A full Moon is quite an easy case - it's directly on the opposite site from the Sun. However, in the other phases, are there tables or mnemotechnical methods allowing to determine the north based on moon shape, assuming the time is known? Are they different depending on geographical height? Is it possible to estimate both north and the time of the night, when only the geographical height is known?

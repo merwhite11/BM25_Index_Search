@@ -1,0 +1,9 @@
+Why do the Andromeda Galaxy images from NASA have some sort of color shifting in it
+
+I was checking the images from this website of the Andromeda Galaxy.
+However, I noticed that low res images look good, however, the 1.7Gb images has some sort of color shifting in it:
+Is there any simple explanation for this? Or is it just normal and the compression to lower res removes it?
+Update:
+Here is the zoomed version on one of the red region (rotated)
+
+Without annotations:

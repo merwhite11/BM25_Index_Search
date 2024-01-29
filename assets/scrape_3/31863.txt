@@ -1,0 +1,6 @@
+Understanding the statistical mechanics of Recombination Epoch ("Cosmology" Weinberg)
+
+In Steven Weinberg's 'Cosmology' Chapter 2.3 (pg 113), he begins with a number density for some particle via the Maxwell-Boltzmann Formula:
+
+While I have some familiarity with statistical mechanics, I can't figure out how this equation was derived. The spin states and fugacity are obvious enough for any quantum microcanonical ensemble. The $(2\pi\hbar)^{-3}$ and the integral however I am not sure where they come from. I am used to working with canonical ensembles in terms of partition functions and that doesn't seem to be the case here unless I am missing something.
+Edit: I have also posted this question in physics.stackexchange because it is an application of physics (statistical mechanics).

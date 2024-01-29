@@ -1,0 +1,3 @@
+Relationship between galactic rotation and stellar lifetime
+
+I have read that the lifetime of stars is much less than the period of rotation for a spiral galaxy. For example https://www.coursera.org/learn/evolvinguniverse/lecture/wlYhz/the-origin-of-spiral-arms the professor uses the existence of young blue stars whose creation is triggered by a persistent density wave to claim that the stars lifetime is less than the rotation period. I am not satisfied with this. Given the enormous timescale, how do we know this?

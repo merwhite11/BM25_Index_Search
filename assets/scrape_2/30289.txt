@@ -1,0 +1,14 @@
+Non-thermal Sunyaev-Zel'dovich effect
+
+Exactly what is the non-thermal Sunyaev-Zel'dovich effect? From what I understand from reading several papers by Mark Birkinshaw and Sergio Colafrancesco, I get the rough idea that the non-thermal SZ effect has something to do with it being in the relativistic realm. 
+Papers by Sergio Colafrancesco:
+
+Polarization of the Sunyaev-Zel'dovich effect: relativistic imprint of thermal and non-thermal plasma 
+The non-thermal Sunyaev-Zel'dovich effect in clusters of galaxies
+Non-thermal phenomena in galaxy clusters: cosmological relevance
+
+Review by Mark Birkinshaw:
+The Sunyaev-Zel'dovich effect 
+To clarify, I'm not referring to the kinematic SZ effect.
+There appears to be a distinction by the authors between the SZ effect due to hot thermal electrons and relativistic electrons. I find the nomenclature ambiguous, as temperature is essentially kinetic energy on a smaller scale, so why would relativistic electrons that have more kinetic energy be 'non-thermal'? 
+Lastly, is the key distinction between them using a relativistic vs. a non-relativistic formulation?

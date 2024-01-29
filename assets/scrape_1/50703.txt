@@ -1,0 +1,4 @@
+How can we practically measure the perihelion/aphelion of a solar system planet from scratch?
+
+I've searched online for an answer, but they all seem to require other parameters (e.g, eccentricity and semi major axis) to be able to mathematically solve for the perihelion/aphelion. If we don't have those parameters, how can we calculate them in order to obtain the perihelion/aphelion?
+My broader question really is: if something (or a number of things) needs to be measured first, perhaps through observation or angle measurement, in order for us to be able to mathematically derive the other orbital elements (such as semi major axis and aphelion), then what is that something and how is it obtained?

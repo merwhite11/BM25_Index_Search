@@ -1,0 +1,11 @@
+Could dark matter exist in the Universe in the form of sufficiently dense objects?
+
+Albert Sneppen's publication
+"Divergent Reflections around the Photon Sphere of a Black Hole" provides the math related to the issue which in common language could be described as "how the universe is reflected near black holes".
+Black holes are famously compact objects where the paths of light are drastically bent by the curvature of space-time. While light itself cannot escape the central mass at the event horizon, at further distances light may orbit the black hole. This phenomenon may enable a distant observer to see multiple versions of the same object. While this has been known for years, only now do theoretical physicists have an exact mathematical solution developed by Albert Sneppen.
+Here is the link to the announcement re the first experimental observation of this phenomenon:
+https://www.esa.int/ESA_Multimedia/Images/2021/07/XMM-Newton_sees_light_echo_from_behind_a_black_hole
+I asked Albert Sneppen the following question: "Could the math you have developed be applied to the analysis of gravitational lensing caused by the dark matter if it exists in Universe in the form of extreme dense clumps which could be considered as 'photon spheres'?"
+Here is the answer I have received:
+"The short answer is yes. The evaluating near the photon-sphere is generally valid. You would not need a black hole, any sufficiently dense object, such as a neutron star or clumped dark matter might have the same mathematical prescription."
+So my astronomy stack exchange question is: "could this effect help to find out via optical observations whether dark matter exists in the Universe in the form of sufficiently dense objects?"

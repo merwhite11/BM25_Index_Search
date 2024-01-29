@@ -1,0 +1,3 @@
+What is pseudo-synchronisation when a planet is orbiting a host star?
+
+I understand the term synchronous rotation - when the plant spin frequency is the same as the orbital frequency. However, I've seen the term pseudo-synchronization coming up in a few places and I'm not sure I understand what is the physical meaning behind it. Does it relate to eccentric orbits? Where the angular velocity changes across different phases of the orbit?

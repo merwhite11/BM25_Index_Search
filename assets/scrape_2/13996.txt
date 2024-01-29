@@ -1,0 +1,9 @@
+Blackhole Finding Techniques
+
+I know of two methods for finding exoplanets: the transit method and the radial velocity method. These two methods work as follows:
+
+Transit: we observe stars and watch for when a planet obstructs the light from the star.
+Radial Velocity: detecting the planet by observing the motion of the star and using Kepler's law.
+
+Are these methods also used for discovering black-holes? What are the pros and cons of these methods, I think that the con of transit is that it's difficult to see the black hole. A pro is that it doesn't matter how many stars there are around the black hole.
+With the Radial Velocity method, a pro is that it's easy to detect but requires exactly one companion star (I used this source).

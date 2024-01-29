@@ -1,0 +1,12 @@
+How do we know that ice from the S1094b event was from Mars surface and not from the impactor?
+
+The recent news story NASA’s InSight Lander Detects Stunning Meteoroid Impact on Mars, about an impact that occurred on Mars on December 24, 2021 (event S1094b), shows a picture of the impact crater, with white features that are interpreted as blocks of water ice:
+
+What’s more, the meteoroid excavated boulder-size chunks of ice buried closer to the Martian equator than ever found before – a discovery with implications for NASA’s future plans to send astronauts to the Red Planet.
+
+
+PIA25583 Credit: NASA/JPL-Caltech/University of Arizona
+How do we know that this ice is from Mars and not from the impactor, which would then be a comet and not an asteroid?
+I guess it all comes down to inferring the density of the impactor, but its dimensions and mass seems to be poorly constrained. The NASA press release says "5 to 12 meters", without precising the shape. This IPGP press release (in French) says the object was between "250 and 650 tonnes". Assuming a spherical shape, combining these numbers can yield any density between 0.28 g cm$^{-3}$ (12 m sphere weighting 250 tonnes) and 10 g cm$^{-3}$ (5 m sphere weighting 650 tonnes). (I won't consider this Imperial College press release, as it is full of "units" even worse than the imperial system: "one and a half times the size of Trafalgar Square", "van-sized", "the area inside London’s M25 motorway" [sic]...)
+Comets have a density of about 0.6 g cm$^{-3}$, while iron meteorites can be as dense as 8 g cm$^{-3}$, with rocky bodies in between, so they all seem to fall in the possible range.
+I've glanced over the two Science papers associated with the story (#1, #2), but the ice is barely mentioned, and I could not find any mass or dimension of the impactor.

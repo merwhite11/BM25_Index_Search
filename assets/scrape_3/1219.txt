@@ -1,0 +1,10 @@
+How stable are Lissajous orbits?
+
+Now that the Gaia Space Telescope is on it's way to the Sun-Earth L2 Lagrangian point (SEL2), I start wondering about the stability of Gaia's orbit there. The Planck Telescope is already there, as was Wilkinson Microwave Anisotropy Probe (WMAP) and other probes, and from Wikipedia I learned that:
+
+In practice, any orbit around Lagrangian points L1, L2, or L3 is
+  dynamically unstable, meaning small departures from equilibrium grow
+  exponentially over time.
+
+Gaia has some kind of Orbital Maneuvering System (to borrow a Space Shuttle term) and some propellant on board, so has Planck, however I wonder how deterministic these orbits are and if both Planck and Gaia have automatic corrections and collision detection in their flight computers; L2 is "only" 1.5 million km (or about 5 light-seconds) away so surely there's time for manual correction.
+Does anyone know a source which tells how different Gaia's and Planck's orbits are, if there are intersections between their orbital planes or even how likely the need for an unplanned orbital correction is? I know Lissajou-shapes from maths classes and I know how much the projected trail can differ depending on the precision of data types used in calculations (e.g. float vs. double). How does ESA/NASA handle this, now that SEL2 seems it will become a crowded place?

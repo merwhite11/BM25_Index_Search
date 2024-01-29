@@ -1,0 +1,46 @@
+How to convert Proper Motion in RA & Dec to Galactic Coordinates
+
+I'm trying to parse stellar data in the GAIA 2 release to galactic coordinates and am struggling with the velocity component. I've tried following online documentation and papers, but end up with velocity results with strange biases that indicate I'm probably doing something wrong. Sources I've used are:
+http://adsabs.harvard.edu/full/1987AJ.....93..864J
+https://gea.esac.esa.int/archive/documentation//GDR1/Data_processing/chap_cu3ast/sec_cu3ast_intro.html#SS
+The GAIA 2 dataset has these relevant variables per star:
+
+ra   (from 0-360)
+dec  (from -90 to 90)
+pmra
+pmdec
+parallax
+radial_velocity
+
+And this is the code I have (C#) to try to obtain the velocity components. Done by first converting pmra and pmdec to cartesian velocities based on the stars position, and then rotating that location to galactic coordinates.
+double RA = ra * Math.PI / 180.0;
+double DEC = (dec + 90) * Math.PI / 90.0;
+
+Microsoft.Xna.Framework.Matrix positionrotation = new Microsoft.Xna.Framework.Matrix();
+positionrotation.M11 = (float)(Math.Cos(RA) * Math.Cos(DEC));
+positionrotation.M12 = (float)-Math.Sin(RA);
+positionrotation.M13 = (float)-(Math.Cos(RA) * Math.Sin(DEC));
+
+positionrotation.M21 = (float)(Math.Sin(RA) * Math.Cos(DEC));
+positionrotation.M22 = (float)Math.Cos(RA);
+positionrotation.M23 = (float)-(Math.Sin(RA) * Math.Sin(DEC));
+
+positionrotation.M31 = (float)(Math.Sin(DEC));
+positionrotation.M32 = 0;
+positionrotation.M33 = (float)(Math.Cos(DEC));
+
+
+Microsoft.Xna.Framework.Vector3 vector = new Microsoft.Xna.Framework.Vector3((float)(radial_velocity), (float)(pmra / parallax), (float)(pmdec/ parallax));
+vector = Microsoft.Xna.Framework.Vector3.Transform(vector, positionrotation);
+
+Microsoft.Xna.Framework.Matrix galacticrotation = new Microsoft.Xna.Framework.Matrix();
+galacticrotation.M11 = -0.054876f;
+galacticrotation.M12 = -0.87347f;
+galacticrotation.M13 = -0.483835f;
+galacticrotation.M21 = 0.494109f;
+galacticrotation.M22 = -0.444830f;
+galacticrotation.M23 = 0.746982f;
+galacticrotation.M31 = -0.867666f;
+galacticrotation.M32 = -0.198076f;
+galacticrotation.M33 = 0.455984f;
+vector = Microsoft.Xna.Framework.Vector3.Transform(vector, galacticrotation);

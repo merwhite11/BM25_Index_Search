@@ -1,0 +1,3 @@
+Table of absolute magnitudes of stars by spectral type and photometric band
+
+I would like to find a table where I can, say, look for K5 dwarfs and read off that stars of that type have on average an absolute magnitude of X.XX in the infrared L band and Y.YY in the G band. I've looked everywhere and I can't find a compilation of this kind of information. Does any such thing exist?

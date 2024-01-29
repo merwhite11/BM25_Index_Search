@@ -1,0 +1,4 @@
+Narrowband imaging wavelengths in NIR?
+
+Lines giving useful (& beautiful) data in visible spectrum are well known - H-b, O-III, H-a, S-II. Unfortunately light pollution is strongest in visible light.
+Are there similar relatively bright lines in NIR 700-1500nm, especially 700-1000nm spectral range where one could image deep sky objects with proper gear?

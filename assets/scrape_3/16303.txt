@@ -1,0 +1,24 @@
+How was Earth's "quasi-satellite" 2016 HO3 "first spotted" and it's orbit determined?
+
+Under a question I asked a few days ago Have there been any documented mini-moons since 2006 RH120? @Hobbes mentioned the recent news about 2016 HO3 - a near-Earth asteroid that stays near Earth because its orbit around the sun is coupled to Earth. Thus the term quasi-satellite.
+https://www.youtube.com/watch?v=SbbAnVU4rmY
+In this NASA JPL video (above) the view is rotating around the sun following Earth. You can see the earth move slightly closer and farther from the sun since the Earth's orbit is not quite circular.
+https://www.youtube.com/watch?v=2mVfE_qmQAg
+This video (above) from http://arksky.org/calendar/alerts/714-what-is-it-the-strange-new-object-2016-ho3 shows a projection of 2016 HO3's motion against the stars as seen from Earth's location, but in a fixed direction. You can see the the sun and planets tend to follow the ecliptic, while 2016 HO3 does a figure-eight every year.
+The NASA JPL news brief states:
+
+The asteroid's orbit also undergoes a slow, back-and-forth twist over multiple decades. "The asteroid's loops around Earth drift a little ahead or behind from year to year, but when they drift too far forward or backward, Earth's gravity is just strong enough to reverse the drift and hold onto the asteroid so that it never wanders farther away than about 100 times the distance of the moon," said Chodas. "The same effect also prevents the asteroid from approaching much closer than about 38 times the distance of the moon. In effect, this small asteroid is caught in a little dance with Earth."
+note: Paul Chodas is the manager of NASA's Center for Near-Earth Object (NEO) Studies
+
+The item goes on to say:
+
+Asteroid 2016 HO3 was first spotted on April 27, 2016, by the Pan-STARRS 1 asteroid survey telescope on Haleakala, Hawaii, operated by the University of Hawaii's Institute for Astronomy and funded by NASA's Planetary Defense Coordination Office. The size of this object has not yet been firmly established, but it is likely larger than 120 feet (40 meters) and smaller than 300 feet (100 meters).
+
+First, I think it's quite cool that there even exists a Planetary Defense Office. It must be fun to go to work every day knowing that you are defending the planet!
+I am interested in the story behind "...first spotted...".
+The Pan STARRS telescope PS1 (http://pan-starrs.ifa.hawaii.edu/public/home.html) is managed by the PS1 Consortium. The original plan was for four telescopes, the status of PS2 is unclear. PS1 is a 1.8 meter telescope with a Gigapixel camera at the relatively fast f/4.4 focus, corrected for a very large 3° FOV, which means it's of the "primary with giant hole" variety (e.g. LSST). Typically it records an image every 30-60 seconds, and can record the entire night sky every three days.
+I looked at the entry for 2016 HO3 (SPK-ID: 3752445) in the NASA JPL Small Body Data Browser and saw this:
+
+The solution (shown on June 18) was calculated on June 11 2016 by an "O. Matic" :) using data going back to 2004.
+As I said above, I am interested in the story behind "...first spotted...".
+What were the sequence of events? Does "spotted" mean identified/flagged as an unknown object? Did it trigger a search of a database of earlier survey images from other telescopes? Is there a list available of the 80 total observations used? I'm curious if a twelve year old "first known image of 2016 HO3" exists.

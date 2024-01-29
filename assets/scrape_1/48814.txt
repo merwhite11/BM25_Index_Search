@@ -1,0 +1,11 @@
+Which galaxies have the most well known / estimated dark matter halos?
+
+For this I guess you need
+
+accurate circular velocity measurements of the stars in the galaxy
+a decent luminosity profile for the galaxy
+some analysis which looks at the discrepancy between the two
+
+The Milky Way seems to have been studied a lot, with decent mass models (e.g. McMillan 2011) and circular velocity observations (e.g. Eilers 2019 which includes mean observational data actually tabulated rather than graphed) is readily available.
+What I'm wondering is which other galaxies have this kind of data? Or indeed at least have decent luminosity profiles & circular velocity observations even if the halo has yet to be analysed.
+Massive thank you!

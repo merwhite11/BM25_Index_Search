@@ -1,0 +1,16 @@
+Why does the first measurements of the thermal Sunyaev-Zel’dovich effect from ALMA show a temperature decrease and not an increase at the cluster?
+
+Seeing the phrase a fully functional Stewart Platform I Wikipediad it and that article shows the AMiBA a CMB interferometer mounted on a hexapod (shown below).
+Wikipedia's Sunyaev–Zeldovich effect; Observations shows the second image below, and the caption says:
+
+The energy distribution of the CMB photons shifts and appears as a temperature decrease at the wavelength observed by ALMA, hence a dark patch is observed in this image at the location of the cluster.
+
+and yet the SZ effect should manifest as an apparent temperature increase!
+How to reconcile these?
+
+The Sunyaev–Zeldovich effect (named after Rashid Sunyaev and Yakov B. Zeldovich and often abbreviated as the SZ effect) is the spectral distortion of the cosmic microwave background (CMB) through inverse Compton scattering by high-energy electrons in galaxy clusters, in which the low-energy CMB photons receive an average energy boost during collision with the high-energy cluster electrons.
+
+Question: Why does the first measurements of the thermal Sunyaev-Zel’dovich effect from ALMA show a temperature decrease and not an increase associated with a cluster of galaxies?
+
+
+above: This image shows the first measurements of the thermal Sunyaev-Zel’dovich effect from the Atacama Large Millimeter/submillimeter Array (ALMA) in Chile (in blue). Astronomers combined data from ALMA’s 7- and 12-metre antennas to produce the sharpest possible image. The target was one of the most massive known galaxy clusters, RX J1347.5–1145, the centre of which shows up here in the dark “hole” in the ALMA observations. The energy distribution of the CMB photons shifts and appears as a temperature decrease at the wavelength observed by ALMA, hence a dark patch is observed in this image at the location of the cluster. Links ESA/Hubble Picture of the Week https://www.eso.org/public/images/potw1708a/ source, below:  AMiBA, a Cosmic Microwave Background experiment located in Hawaii, during construction in June 2006. source

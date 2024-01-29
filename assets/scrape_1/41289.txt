@@ -1,0 +1,12 @@
+Maritime telescopes: Stabilisation requirements for optical vs. radio telescopes?
+
+SOFIA stands for Stratospheric Observatory for Infrared Astronomy. She says:
+
+My telescope stays stable with a spherical bearing, shock absorbers, and gyroscopes.
+
+I suppose a similar system would work for an optical telescope on a maritime vessel as well. But what about a radio-telescope on a ship with a dish of around 10m? What are arguments (ideally mathematical ones) against a similar construction like for SOFIA?
+
+References
+
+Tom Nardi A Miniature Radio Telescope In Every Backyard. hackaday.com (2019)
+Gregory Redfern: Cruise Ship Astronomy and Astrophotography - The go-to astronomy resource for cruise travelers

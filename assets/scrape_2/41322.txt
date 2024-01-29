@@ -1,0 +1,12 @@
+Heat map of portion of the sky visible for a given observatory on Earth?
+
+Reading Calculating area of visible sky I started wondering which portion of the sky one could observe how long given the 3D coordinates of an observatory, and two points in time.
+In other words, I would love to have a formula $f(\lambda,\varphi,h,t_1,t_2, \delta, \alpha)$ for an observatory at $(\lambda, \varphi, h)$ with longitude $\lambda$, latitude $\varphi$, height $h$ above the geoid which shows how many hours between time $t_1$ and $t_2$ which point $(\alpha, \delta)$ of the sky is visible. Here, $\alpha$ is the right ascension and $\delta$ the declination. I am sure this calculation has been done before, and I am simply missing the search terms.
+For convencience, let us assume the reference frame to be the usual WGS84. Let's further assume, that our observatory is on a hill on an otherwise flat landscape, so that we that we do not have to worry about skyline or mountains concealing our view to the sky.
+References
+
+ESO's object visibility calculator
+
+Related
+
+Throughout the year, are all parts of the night sky visible from any given point on Earth?

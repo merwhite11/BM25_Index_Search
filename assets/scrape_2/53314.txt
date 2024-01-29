@@ -1,0 +1,11 @@
+Have we discovered a Galaxy lacking in Dark matter?
+
+This question is relevant but it was speaking about a specific discovery reported by pieter van Dokkum, and the answer then mentioned it was disputed whether the paper's conclusion is even correct.
+I want to know if there is a galaxy that has been discovered that is completely lacking in dark matter, or as close to lacking in dark matter to such a degree that it it is not certain that it even contains any dark matter at all.
+because that specific discovery was disputed and I am not sure how to navigate that dispute.
+I don't know how scientists "detect dark matter", but based on my googling I think what they do is:
+(1) make a mathematical prediction of the mechanics of some of the outer orbiting bodies in a galaxy using the mathematical apparatus of general relativity, and these calcs are based on the observable non-dark matter in the galaxy
+(2) instrumentally measuring and recording the positions of those same orbiting bodies and then deducing their mechanics this way.
+then comparing the mechanics deduced by the two methods, and depending on the difference in velocities concluded by both methods I guess they would be able to determine the "missing mass" that causes it?
+So this question is also
+"Is there a galaxy in which the mechanics of the outer orbiting bodies' determined by both measurement and general relativity agree with each other perfectly, or almost perfectly?"

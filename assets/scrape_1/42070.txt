@@ -1,0 +1,34 @@
+How many galaxies are predicted in the observable universe? Does it contain dwarfs? Is there any size-ratio diagram?
+
+According to quite recent research the observable universe contains about 2 trillion galaxies ($2 \cdot 10^{12}$). But what is counted there? Does this number also contain dwarf galaxies? According to wiki about 10 times more than normal galaxies exist. But is there a hard gap in between normal and dwarf galaxies?
+To resolve all those questions does exist a chart or diagram similar to this?
+
+
+
+
+Number of Stars
+Count
+
+
+
+
+$< 10^6$
+$10^{11}$
+
+
+$10^6 - 10^7$
+$10^{10}$
+
+
+$10^7 - 10^8$
+$10^{9}$
+
+
+...
+...
+
+
+
+
+bonus question:
+As far as I know we are able to see new, more distant galaxies in the next millions of years. Due to the further expansion of the universe and the acceleration there will be some point were the light of some galaxies can't reach us anymore (hubble radius) and we can see less and less galaxies again. So the number of galaxies we can see is not a constant (also some get extinct or new are created). Is there some research about the max number of galaxies we are ever able to see. Would be it much different to the 2 trillion now?

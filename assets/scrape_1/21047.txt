@@ -1,0 +1,5 @@
+What is the difference between ICRS and ICRS2?
+
+When I first learned about Positional Astronomy (50 years ago), everything was described with respect to the Equator and Ecliptic (true or mean, of date or of a specific epoch). Then 'they' invented the International Celestial Reference System (ICRS). An inertial reference system, so true and mean no longer apply and neither does it require an epoch to be given.
+Now I see things are referred to the International Celestial Reference System Version 2 (ICRS2).
+What changed?

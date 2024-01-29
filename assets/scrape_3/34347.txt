@@ -1,0 +1,6 @@
+Anecdote of an astronomer looking for correlations in antipodal pairings of stars; what am I remembering?
+
+The question Are the stars distributed in uniform distribution, on the celestial dome, with respect to brightness? brings to mind a different study that I vaguely remember hearing about a while ago, perhaps several decades. This is a summary of how I recall it, it may not be 100% accurate:
+An astronomer was stuck in a situation for an extended length of time and in order to keep busy and do science used a small personal computer to do an analysis of star positions, focusing on pairs that were diametrically opposed; at nearly antipodal points, in order to see if there was a deviation from other pairs of points that were not antipodal.
+One possible effect that might cause such an anomaly was that the universe was small and closed and light from a star might reach us from both the "short" and "long" part of a great circle drawn on a 4-sphere (or torus?), thereby appearing to us at antipodal points of the celestial sphere, a bit like how amateur radio operators with directional antennas with good rejection ratios can sometimes receive the same signal from both directions along the great circle containing both sites.
+Does this sound familliar to anyone? Was it ever published? I've tried googling several ways but lack the proper search terms.

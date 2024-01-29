@@ -1,0 +1,11 @@
+Hubble expansion rate and reaction rates
+
+I've come across sentences like
+
+...the reaction
+rates (the number of reactions per particle per unit time) must
+be larger than the cosmic expansion rate $H(t)$ in order for the
+particles to maintain equilibrium.
+
+The quote is from the book "Extragalactic Astronomy and Cosmology" by Peter Schneider, page 195.
+Why does the reaction rate have to be greater than $H(t)$ and not $\dot a$? $\dot a$ feels like it should be the cosmic expansion rate.

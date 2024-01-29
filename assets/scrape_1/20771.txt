@@ -1,0 +1,22 @@
+How do tadpole, horseshoe co-orbital states arise and how are they stable?
+
+A recent paper in Nature "Planetary science: Reckless orbiting in the Solar System" (Morais & Namouni, 2017) presents the following series of four co-orbital states:
+
+While I understand the development of the quasi-satellite and trisectrix states, I am unable to inuit the development of the tadpole and horseshoe co-orbital states.
+From explanation provided in the article:
+
+The tadpole and horseshoe shapes arise because the planet's
+gravitational attraction alters the body's orbital path — the body
+goes through a cycle of catching up with the planet and falling
+behind, seeming to change direction from the perspective of the
+planet.
+
+How, when approaching the planet, does the body "fall behind" instead of continuing to accelerate toward the planet?
+The only means that comes to mind is if the planet orbits faster than the body, but then I imagine it would
+
+No longer be considered co-orbital (because it would have a different orbital period), and
+Would eventually be overtaken by the planet.
+
+How, then, do these first two co-orbital states work?
+Citation: Nature 543, 635–636 (30 March 2017)
+doi:10.1038/543635a

@@ -1,0 +1,12 @@
+IAU 2018 Exoplanet definition
+
+In 2018 the IAU produced a definition of an exoplanet:
+
+The current official wokring definition of an exoplanet as amended by IAU Comission F2: Exoplanets and the Solar System in August 2018, reads as follows:
+
+Objects with true masses below the limiting mass for thermonuclear fusion of deuterium (currently calculated to be 13 Jupiter masses for objects of solare metallicity) that orbit stars, brown dwarfs or stellar remnants and that have a mass ratio with the central object below the L4/L5 instability ($M/M_{\rm central} < 2/(25+ \sqrt{621})\approx 1/25 $) are "planets" (no matter how they formed).
+The minimal mass/ size required for an extrasolar object to be considered should be the same as that used in our Solar System.
+We can expect this definition to evolve as our knowledge improves.
+
+
+What is the L4/L5 instability and why was it chosen as part of the exoplanet definition?

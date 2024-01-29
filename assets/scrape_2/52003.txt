@@ -1,0 +1,5 @@
+Is the James Webb Space Telescope ever going to run out of thruster power to point it to the right direction?
+
+As far as I know the only mechanism that our spacecrafts have to maneuver in space is gas thrusters.
+Obviously pressurized gas is in a limited quantity on the JWST. What are the plans for when the time comes and there's no more thrust power to rotate the telescope ?
+Are there any other methods to provide a force on the craft to make it turn or change course ? (maybe some kind of internal mechanical rotational vibration ?)

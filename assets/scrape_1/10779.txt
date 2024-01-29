@@ -1,0 +1,9 @@
+How is the age of a star on the Henyey track calculated?
+
+I was reading Stellar Evolution in Early Phases of Gravitational Contraction, by Chushiro Henyey, where he writes,
+
+If $L \propto R^{-\alpha}$ along the path, the age of a star from the time when $R=\infty$ is given by
+  $$t=C/(1-\alpha), C=GM^2/RL=10^{7.20}\left(\frac{M}{M_{\odot}}\right)^2\frac{R_{\odot}}{R}\frac{L_{\odot}}{L}\text{ years}$$
+  where $R$ and $L$ are the present values.
+
+This seems to be just for stars on the Hayashi track (and treated here just for Population 1 stars). Is there a similar expression for stars on the Henyey track, or is the same expression valid in both scenarios?

@@ -1,0 +1,9 @@
+What are the technological advancements that made it possible for modern large telescopes to work with alt-az mounts instead of equatorial mounts?
+
+The video Earth's Rotation Visualized in a Timelapse of the Milky Way Galaxy - 4K (linked below) and discussion below this answer to Why does a timelapse video of a stationary Milky Way make the horizon appear to move from horizontal to vertical? about field rotators has got me thinking.
+In addition to the benefit of (essentially) single axis constant speed tracking for distant celestial objects, an equatorial mount also rotates the telescope tube about it's axis such that there is no rotation of the image on the focal plane during long exposures.
+This was probably essential for hours-long exposures of single emulsion plates.
+Asked separately: Did astronomers ever use photographic plate rotation along with alt-az mounts?
+But for the very largest and heaviest reflecting telescopes equatorial mounts are massive and unwieldily and require huge counterbalances compared to alt-az mounts which can have the azimuth bearing right on the ground and the altitude bearing straight through the telescope's center of mass.
+Question: What are the technological advances that made it possible for modern large telescopes to work with alt-az mounts instead of equatorial?
+I'm expecting most of the answer to be related to electronic advancements of one kind or another, but there may be mechanical and optical and even electro-optical (optoelectronic?) advancements as well.

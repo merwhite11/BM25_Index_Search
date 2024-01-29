@@ -1,0 +1,12 @@
+Does the milky way have relativistic mass against galaxies which are moving away from it at high speeds?
+
+According to the article cited behind, and to a post here in Astronomy SE , there are galaxies moving away from Milky Way faster than light, even at speeds of 2.3c . According to this article 
+Can two galaxies move away from each other faster than light
+
+The two galaxies we've been discussing are not travelling through
+  space, it is the space between them that is expanding. Or put in
+  another way, they are stationary and all the space around them is
+  being stretched out. This is why it doesn't violate the theory of
+  relativity, because it is not motion in the traditional sense.
+
+So does this motion between galaxies "in not a traditional sense" count at all to calculate relativistic mass?

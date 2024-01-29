@@ -1,0 +1,8 @@
+Venus' magnitude during inferior conjunction
+
+I was doing an assignment on Stellarium when I observed Venus to have an apparent magnitude that didn't become less negative than -3, even at inferior conjunctions when we faced the dark side of Venus.
+As far as I understand, apparent magnitude is subjective to an observer on earth, and that observer does not see Venus at all during an inferior conjunctions, so the magnitude should rise above zero.
+I checked for other inferior and exterior planets and the moon on Stellarium; they all supported my theory.
+I thought it was some sort of bug, but apparently it's a scientific fact. 
+I couldn't find any explanation online. 
+Did I understand something wrong?

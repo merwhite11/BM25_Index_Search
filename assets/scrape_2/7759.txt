@@ -1,0 +1,5 @@
+Declination and Ascension - the Sun and Andromeda
+
+If Andromeda is overhead at midnight, what is the right ascension of the sun? (andromeda is ar RA =1hr, Dec = +40).
+I thought I understood what Dec and RA were, but I can't think of how to start this question?
+Thanks.

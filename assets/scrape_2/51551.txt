@@ -1,0 +1,6 @@
+What is going on with this (sub?) brown dwarf WISEPA J174124.26+255319.5?
+
+In this Wikipedia article, it details about a T9  class brown dwarf named WISEPA J174124.26+255319.5.
+Apparently, this brown dwarf has 0.95 Jupiter masses, and 0.4 Jupiter radii (with rather low error). Its mass is already weird in the first place, clearly violating the 13 Jupiter mass boundary massively, and furthermore I calculated based on these measurements that it apparently has a density about twice that of earth's.
+For something made majorly of hydrogen and helium, I find this extremely, extremely odd.
+What is going on with this brown dwarf? Is this a misclassification, or am I just missing something?

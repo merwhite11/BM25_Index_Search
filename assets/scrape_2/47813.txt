@@ -1,0 +1,6 @@
+Did astronomers "track back" solar wind switchbacks to the surface of the Sun to individual convection cells?
+
+The new NASA Goddard video NASA's Parker Solar Probe Touches The Sun For The First Time explains that the spacecraft passed many times through "switchbacks" or kinks in the solar wind, where the video explains that it momentarily changes direction.
+The video goes on to explain that after passing through (at least) several switchbacks astronomers were able to trace their origins back to the surface of the Sun, all the way to the darker, cooler areas surrounding individual convection cells.
+I get the impression that the "tracking-back" of their origins was to individual convection cells, but that might just be my wishful thinking. So I'd like to ask:
+Question: How did astronomers "track back" solar wind switchbacks to the surface of the Sun? To what resolution was this done; to the level of individual convection cells?

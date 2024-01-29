@@ -1,0 +1,10 @@
+How can I get the fluxes of fetch_imaging_sample? - astroML
+
+I'm working with astroML in Python and I need to get the fluxes from the magnitudes in r band of fetch_imaging_sample().
+from astroML.datasets import fetch_imaging_sample
+data = fetch_imaging_sample()
+mag = data['rRaw'] # these are the magnitudes in r band
+err = data['rErr'] # these are the errors in r band
+
+How can I get the fluxes with their errors?
+Explain of fetch_imaging_sample: http://www.astroml.org/modules/generated/astroML.datasets.fetch_imaging_sample.html

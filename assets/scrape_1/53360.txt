@@ -1,0 +1,10 @@
+How to calculate the day/permanently dark/night temperatures of different surfaces for exoplanets?
+
+I am trying to calculate the different temperatures (day, night, permanent day/night for tidally locked planets) for different surfaces of exoplanets like land, water, gas, ice.
+I am using an exoplanet generator that I created so I have access to the altitudes and the type of surface based on different parameters I can choose.  At the moment, I only have atmosphere based on some parameters.
+I have seen these which helped me:
+How to calculate the expected surface temperature of a planet
+https://en.wikipedia.org/wiki/Planetary_equilibrium_temperature
+Right now I am computing one temperature but that does not give me the day or night or dark side of a tidally locked planet.  I also don't know what is the water vs land surface temperature.  The lapse rate I am using is for Earth so I would need to compute this also for an exoplanet.
+I am guessing this won't be exact science since there are a lot of unknowns in my scenario but any help toward getting more realistic estimates would be appreciated.
+For the terran exoplanet, I compute the orbit that would make it in the habitable zone.  This allows me to use meaningful temperature colors when drawing it.  This is what I got so far:

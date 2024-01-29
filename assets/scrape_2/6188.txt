@@ -1,0 +1,5 @@
+Can a natural satellite exist in a geostationary orbit?
+
+While browsing through Physics SE, I noticed a question about satellites in geostationary orbit (unrelated to the one I'm asking here), and for a moment I interpreted it as referring to natural satellites (e.g. a moon). So I wondered: Could a natural satellite exist in geostationary orbit?
+Then I stopped and thought. For large gas giants, such as Jupiter, having moons too close to the planet can be fatal (for the moon). If it ventures inside the planet's Roche limit, it's toast. But there is good news: the Roche limit depends on both the masses and densities of the primary body and the satellite. So perhaps this reason is non-applicable, as a high-mass natural satellite might be able to survive. So the question changes:
+Could a sufficiently high-mass, high-density natural satellite occupy geostationary orbit over its primary body?

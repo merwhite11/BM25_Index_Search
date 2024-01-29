@@ -1,0 +1,16 @@
+What is this graph showing?
+
+
+This is from the NED
+What do these three titles mean?
+
+log fb (Jy)
+MRK 1014
+Log v (HZ)
+
+Why is there LINE,LINE,LINE,LINE,LINE written along the bottom? What does that signify?
+What are the dots and lines showing? A range of information? In that chase, what's the relevance of the dot? 
+Is it like this: The dot is the log v and then the horizontal line shows the range of MRK 1014 recorded for that log v and the vertical line showing the log fv recorded for it?
+Why does the log v between 12 - 16.3 have small amounts of log fv and MRK 1014, but the log v between 15 - 19 have no log fv at all, but a large amount of MRK 1014. The same goes for the 2 log v points between 10.4 - 12, except these two have a large amount of log fv but no MRK 1014
+Maybe if you could explain the units to me and give me links to further reading it would all become a lot clearer...
+Update Okay MRK 1014 is the same of the object. (Doh!) However, what is that titless axis showing?

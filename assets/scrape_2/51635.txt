@@ -1,0 +1,6 @@
+Can insolation affect stars?
+
+Stars glow with (almost) a black body spectrum. The fourth-power dependency on temperature means that there are large differences in surface brightness between hotter and cooler stars.
+The coolest stars are about 2000K while the hottest exceed 10000K, which represents a 625-fold difference in surface brightness.
+Consider a 2000K red dwarf star in orbit around a 10000K blue giant at a distance of 10 blue-giant radii away. This is far enough that tidal effects are mild for both stars (tidal heating can be avoided if they are tidally locked).
+The substellar point of the red dwarf will absorb about 6 times more energy than it radiates. Would this radiation heat the dwarf star and cause it to expand? If so could the core decompress and adiabatically cool, stopping fusion?

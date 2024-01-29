@@ -1,0 +1,3 @@
+Why collisions between earth orbiting satelites do occur?
+
+According to Kepler laws all earth orbiting satellites should have the same velocity. So how can they collide?

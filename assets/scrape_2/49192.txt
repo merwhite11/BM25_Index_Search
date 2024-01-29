@@ -1,0 +1,3 @@
+In the observed cosmic rays resulting from a supernova, can we expect electrons to arrive before protons?
+
+In the Introductory Astronomy book I'm studying (Astronomy 2e, OpenStax.org, Fraknoi et al.), cosmic rays are said to include protons and electrons, among other components.  It also says that the best candidates for the origin of cosmic rays are "supernova explosions".  Since electrons are much lighter than protons, can we expect a supernova to accelerate electrons to higher velocities than protons?  If so, is this expectation borne out by observations of cosmic rays, e.g., (a) in higher average velocity of electrons among observed cosmic rays, or (b) in an observed time delay between arrival of electrons and protons in a stream of cosmic rays?

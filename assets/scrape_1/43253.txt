@@ -1,0 +1,20 @@
+Was GRAVITY built to look at one star?
+
+GRAVITY (shown below) is a interferometric combiner of near infrared light from four very large telescopes called The Very Large Telescope in order to make careful astrometric measurements near the dusty galactic center where very exciting things happen near what we assume to be a supermassive black hole.
+There have been publications of verification of general relativity by watching the star S2 pass through its periapsis around whatever the supermassive black hole-sized object is that it orbits. This was a major milestone in GRAVITY's contribution to science.
+
+Is S2 still the fastest known star in the galaxy?
+
+It may still be used for other things, but primarily...
+Question: Was GRAVITY built to look at one star? Was the observation of S2 sufficient to justify this ESA effort? Or was it always also expected and required to do many more things?
+From eso1825 — Science Release: First Successful Test of Einstein’s General Relativity Near Supermassive Black Hole; Culmination of 26 years of ESO observations of the heart of the Milky Way:
+
+New infrared observations from the exquisitely sensitive GRAVITY [1], SINFONI and NACO instruments on ESO’s Very Large Telescope (VLT) have now allowed astronomers to follow one of these stars, called S2, as it passed very close to the black hole during May 2018. At the closest point this star was at a distance of less than 20 billion kilometres from the black hole and moving at a speed in excess of 25 million kilometres per hour — almost three percent of the speed of light [2].
+The team compared the position and velocity measurements from GRAVITY and SINFONI respectively, along with previous observations of S2 using other instruments, with the predictions of Newtonian gravity, general relativity and other theories of gravity. The new results are inconsistent with Newtonian predictions and in excellent agreement with the predictions of general relativity.
+[1] GRAVITY was developed by a collaboration consisting of the Max Planck Institute for Extraterrestrial Physics (Germany), LESIA of Paris Observatory–PSL / CNRS / Sorbonne Université / Univ. Paris Diderot and IPAG of Université Grenoble Alpes / CNRS (France), the Max Planck Institute for Astronomy (Germany), the University of Cologne (Germany), the CENTRA–Centro de Astrofisica e Gravitação (Portugal) and ESO.
+[2] S2 orbits the black hole every 16 years in a highly eccentric orbit that brings it within twenty billion kilometres — 120 times the distance from Earth to the Sun, or about four times the distance from the Sun to Neptune — at its closest approach to the black hole. This distance corresponds to about 1500 times the Schwarzschild radius of the black hole itself.
+
+
+Source
+
+A new instrument called GRAVITY has been shipped to Chile and successfully assembled and tested at the Paranal Observatory. GRAVITY is a second generation instrument for the VLT Interferometer and will allow(s) the measurement of the positions and motions of astronomical objects on scales far smaller than is was currently previously possible. The picture shows the instrument under test at the Paranal Observatory in July 2015.

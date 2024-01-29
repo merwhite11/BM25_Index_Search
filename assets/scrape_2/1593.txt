@@ -1,0 +1,4 @@
+Acronyms of catalogs in SIMBAD database
+
+How to find acronym of specific catalog in SIMBAD database? For example, I want to select 
+stellar names, object types and all binary stars from "Stellar effective magnetic fields. II." catalog (Bychkov+, 2009; J/MNRAS/394/1338) via SIMBAD script page. How to do this?

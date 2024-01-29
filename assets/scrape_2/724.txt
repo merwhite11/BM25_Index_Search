@@ -1,0 +1,5 @@
+How to detect emission lines in optical spectra?
+
+Is there any handy module to detect emission lines in a spectrum like one we get from the Sloan Digital Sky Survey (SDSS)?
+You can see there are many emission lines like Ha,OI in the spectrum below. In fact the spectrum is a two column data set, wavelength and flux. It is a combination of lots of scatter points. The typical interval between two points nearyby is 1.5 angstroms. I need to find all the Gaussian bumps and their line center.
+So,first I need to find the the bumps and then I need to fit them to get their centers.

@@ -1,0 +1,6 @@
+What are the exact physical parameters used to calculate Mercury precession with Einstein theory?
+
+NASA measured 43,13 arc seconds per century. General relativity predicts 42,98 arc seconds per century.
+I try to find out what the parameters' values such as $G$, $M_{sun}$, $\omega_{min}$ at aphelion radius, etc. used to get this exact 42,98.
+With a new model developed by R. Plamondon, we get exactly 43,13 and also it matched perfectly with Mercury's period of revolution around Sun.
+My problem is the following. When I put my parameters into Einstein metric, I got something unexpected.

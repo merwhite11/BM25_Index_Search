@@ -1,0 +1,8 @@
+Observation of Gravitional waves by LIGO from binary black hole merger
+
+I read the paper "Observation of Gravitational Waves from a Binary Black Hole Merger"
+https://physics.aps.org/featured-article-pdf/10.1103/PhysRevLett.116.061102
+I tried to understand all the graphs and data observed in the paper.
+I am curious how these data and graphs conclude that the gravitational waves observed were because of binary black holes merger? Also what calculations and equations led to the same?
+Also how will the calculations and equations look if neutron stars were there instead of black hole in the same merger?
+(graphs and data can be seen in the observation section in the paper)

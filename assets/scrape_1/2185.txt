@@ -1,0 +1,9 @@
+Stellar mass of galaxies
+
+Given the magnitudes (in the i-band) of certain galaxies, I would like to calculate their stellar mass (in terms of solar masses). So far, I have calculated their absolute magnitudes and gotten to working out the mass-light ratio $M/L$ for each galaxy.
+e.g. $M/L=0.563$
+Values I have are the calculated $M/L$ for each galaxy, and the $i$-band apparent ($13.25$) and absolute ($-18.06$) magnitudes for the galaxy, as well as the distance ($18.44Mpc$).
+From this I need to get the mass of the galaxy $M$ in terms of solar masses. Therefore I assume I first need to calculate the i-band luminosity for the galaxy in solar masses $L_i$. This is where I am stuck. 
+However, once I have $L_i$  next step would be ...
+$$M_g = 0.563 * L_i$$
+Ultimately, given these values, how would I go about estimating the stellar mass of a galaxy in terms of solar masses?

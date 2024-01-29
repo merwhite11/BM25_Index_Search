@@ -1,0 +1,3 @@
+Are there any known neutron star - supergiant binaries?
+
+After looking for more information about TZOs (Thorne-Zytkow Object), I came up with a question that I had trouble finding answers on the Internet. Do we know of any future TZOs, supergiants being orbited by/orbiting a neutron star whose orbit is decaying at a rate that will cause the supergiant to merge and form a TZO before it dies in a supernova? If so, what are they? If not, why can't we find them?

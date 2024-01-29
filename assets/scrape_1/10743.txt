@@ -1,0 +1,5 @@
+Globular cluster star density as a function of distance from the center
+
+Context: I want to simulate globular clusters in a simple way, just to display the positions of stars. 
+Assuming isotropy, what would be a reasonable model of the stellar number density as a function or r, the distance from the center of the cluster?
+I'm assuming that such a model would have some free parameters as well.

@@ -1,0 +1,7 @@
+Phosphine on Venus?
+
+For the purposes of this question, let's assume that the team really have detected phosphine.
+My question is how do we know that phosphine is on Venus, and not closer to home?
+I've just found out a bit more about this detection. It was detected on 2 separate ground-based telescopes at different times, and was detected via the absorption spectra.
+There is a lot of atmosphere between those telescopes and the initial light source, both on Venus and here on Earth.
+So how do we know that the absorption took place in Venus' atmosphere and not our own (or perhaps even somewhere in between, although this seems less likely)?

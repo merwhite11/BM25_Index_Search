@@ -1,0 +1,6 @@
+Aligning the equinoxes to the cardinal points on a circular calendar
+
+I want to draw a calendar as a circle, with the equinoxes at the top and bottom, and the solstices at the left and right. I am prepared to accept a little inaccuracy by having exactly 365 or 366 days in the circle depending on if it is a leap year.
+If I just divide the circle into 365 equal segments, then it does not line up. I can get the solstices to line up very closely, but the spring equinox always comes in 2 days late, and the autumnal equinox 2 days early.
+I think this is to do with the elliptical orbit of the Earth around the Sun, and the relationship of the axes of the ellipse to the axial tilt of the Earth.
+Can anyone help me with the mathematics required to adjust the angle taken up by each day in order to skew the days such that the equinoxes and solstices fit to the cardinal points of a circle?

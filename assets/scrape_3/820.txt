@@ -1,0 +1,12 @@
+Is there a natural process by which hydrogen is generated from heavier elements in the cosmos?
+
+we know that stars fuse hydrogen into helium starting at 3 MK; 13 MK in the Sun's core; 
+carbon fusion starts at above 500 million K, and silicon fusion starts at over 2700 million K for comparison;
+we know fusion stops at iron, because a star has to use more energy to fuse that than it gets back;
+so heavier elements are created mostly in a supernova (but also possible in small quantities by special processes like neutron capture);
+finally sun-like stars end up as white dwarfs, bigger stars as neutron stars, quark stars, black holes;
+and black holes ultimately convert themselves into radiation, in the far distant future when the stable black hole mass limit goes up high enough that even the most massive black holes evaporate;
+http://en.wikipedia.org/wiki/Vacuum_Diagrams
+so my question is, will it be like Stephen Baxter said, that in the future only radiation will be left in the universe?
+Specifically, is there a natural process out there by which hydrogen is spewed into the cosmos, converted back from heavier elements, to regenerate the fuel for stars so that they may shine in the far distant future as well?
+Of course we don't need to worry about this for the time being. This is only considering our concern with what will be 10^70 years from now.

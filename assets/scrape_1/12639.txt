@@ -1,0 +1,6 @@
+How to calculate the mean molecular weight of the Sun
+
+I have a homework question in which I need to estimate a parameter known as $\beta_{P}$ and also the core temperature, both for the Sun.
+However, prior to doing this I need to know the mean molecular weight of the Sun.
+First question is, how would I go about doing this. 
+Second question is, can I assume that it is about 70% hydrogen and 30% Helium?

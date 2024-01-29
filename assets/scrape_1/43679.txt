@@ -1,0 +1,4 @@
+Do radio telescopes see other stars better at night?
+
+As you know, we don’t see stars with the naked eye during the day because of the visible glare of our Sun.
+As I understand our Sun emits radio frequency waves, too. Is there a radio ‘glare’ from the Sun such that radio telescopes can better focus on other stars during the night?

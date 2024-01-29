@@ -1,0 +1,6 @@
+number density of Dark Matter Halos Versus number density of Galaxies
+
+Can we count only one dark matter halo for each Galaxy ?
+Indeed, I am trying to estimate the total density of galaxies in given volume and I have often seen on physics exchange and other forums the estimation of dark matter halos distribution (as a function of the mass of halo or as a function of Luminosity).
+If I could count one galaxy per halo, this would make the things simplier but I think that things are more complicated, especially since a halo and the galaxy associated to this halo have not the same mass, so distribution mass is different (mass of halo is not linear towards the mass of galaxy, isn't it ?).
+If someone could help me on this issue, regards

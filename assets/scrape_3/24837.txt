@@ -1,0 +1,8 @@
+Parallax and luminosity question about Arcturus, compared to terrestrial light?
+
+From the rooftop, certain lights look roughly as bright as Arcturus. If these lights emit a power of 10 W and are 5 km away. What does that tell you about Arcturus?
+If you assume all stars are equally luminous*, how far would Arcturus be?
+If you measured the parallax to Arcturus, 90 mas**, how luminous would Arcturus be?
+I am struggling with solving this problem. I realize that I might need the formula: $F = L/(4\pi D^2)$ for flux vs. luminosity and distance, but I do not know how to solve it. Please walk me through the solution.
+*The luminosity of the Sun is 3.86e26 W
+** 1 Parsec = 3.08e16 m

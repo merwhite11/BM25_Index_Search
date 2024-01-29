@@ -1,0 +1,3 @@
+How accurate is astronomical spectroscopy?
+
+We all now that green is a mixture of blue and yellow, and that purple is a mixture of red and blue. In astronomical  spectroscopy the chemical composition of a planet’s atmosphere is determined, by the planets light reflection. My question is: “In an atmosphere with two major layers, one reflecting for example blue and the other red light. How can spectroscopy know if it is looking at one single  purple layer or two layers, a blue an a red, one above the other?

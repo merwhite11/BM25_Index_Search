@@ -1,0 +1,5 @@
+Is the power output at the core of the sun about the same as a compost pile (about 300 watts)?
+
+I read an article at abc.net.au saying that the power output of the sun is about 276.5 watts per cubic metre, similar to that of a compost pile.
+A compost pile is not incandescent, while the sun is. It's so hot that it glows. So I have a hard time trying to understand how an object that maintains a temperature of 27 million degrees at the core can only have 300 watts of energy per cubic meter at the core. The corona is one million degrees, the photosphere is 11,000 to 6,700 degrees, the chromosphere is 14,000 to 6,700 degrees and the radiative zone closest to the core is 12 million degrees, the radiative zone farthest from the core is 7 million (all temperatures in Fahrenheit).
+The total power emitted is 3.8 × 1026 watts, which makes sense given the mass and temperature. I am sure the article is current. Has anyone seen this before and maybe can offer me a little insight?

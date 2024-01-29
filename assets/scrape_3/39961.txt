@@ -1,0 +1,3 @@
+How did Fermi manage to see neutron star merger?
+
+When the GW170817 neutron stars merger was observed by LIGO/Virgo, the Fermi gamma-ray telescope observed the event 2s after the merge. How did it know where and when to look? It must take some time to rotate the satellite and I guess that evaluation of data from LIGO/Virgo also isn't instantaneous. Or is it? And does it automatically send suspicious signals to the Fermi operation centre to point it to the right location?

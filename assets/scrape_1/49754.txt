@@ -1,0 +1,6 @@
+How to calculate shooting distance for an astronomical object
+
+With a 50mm full frame lens and a 35mm sensor (or film), how far should I be to shoot Earth with earth’s edge just inside top and bottom edge of the resulting image? I don't want any cropping.
+Earth diameter: 13,000 km
+Same question for shooting the largest black hole, Phoenix A, with diameter of 600billion kilometers. How far should I be? In case of a black hole, would I be sucked in by its gravity at that shooting distance?
+I would like to make an online calculator for it so that all I have to do is put in object's diameter and then it would tell me minimum distance (including whether it's safe or not at that distance in case of a black-hole object).

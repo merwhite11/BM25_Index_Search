@@ -1,0 +1,7 @@
+Is it possible to steer the sight of a Liquid Mirror Telescope using a plain mirror scheme? If yes, why hasn't it been done?
+
+I have read about Liquid Mirror Telescopes in a number of places, and according to these sources, a major disadvantage of these telescopes is that they can only "see" straight up.
+In a nutshell, the usually very expensive primary mirror is replaced with a rotating mercury container. The mercury surface will become parabolic with the rotation and earth's gravity, and a camera is placed in the focal point of the parabola (straight above the container). Since the parabolic shape depends on gravity, the primary cannot be tilted and the telescope can only point straight up.
+My question is: couldn't one use a mirror scheme to steer the sight of this telescope? For example a pair of big plain mirrors a bit above the focal point, working similarly to a periscope. Then one could change the angles of these two plain mirrors and point to different directions in the sky.
+I am assuming a large plain mirror is much cheaper than a parabolic mirror of the same size.
+Has this been done? If not, why?

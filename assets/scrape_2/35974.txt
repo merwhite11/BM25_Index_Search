@@ -1,0 +1,9 @@
+Is the object a pulsar
+
+
+We have a star having 1.8 solar mass. Justify any four means (measurable/ observed properties) by which you can identify that the object is a Pulsar and not a white dwarf or a Black Hole.
+
+So one obvious property would be the mass. Since mass > 1.4 solar mass, we can say it is not a white dwarf. 
+Also the mass is less than 3 solar mass, hence its not a black hole (I'm speaking loosely over here). 
+Also from periodic radiation patterns, we can say that the object might be a pulsar. 
+I need help with 2 other means to categorize this object.

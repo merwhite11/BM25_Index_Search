@@ -1,0 +1,4 @@
+Observed lunar distance data?
+
+Where can I find free/open data for the observed (not calculated/theoretical) distance between the Earth & Moon?
+I want to see the observed distance of the Moon, hour by hour.

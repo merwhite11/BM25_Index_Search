@@ -1,0 +1,5 @@
+Can one approximate the semi-major axis of an orbit as the average orbital distance for eccentric orbits?
+
+Kepler's 3rd Law (regarding the relation between orbital period and the semi-major axis of an orbit) applies to all elliptical orbits. But as I understand it, the only reason it is safe to use the approximation that the semi-major axis of an orbit is approximately equal to the average orbital distance is because the planets of our solar system are generally not very eccentric. 
+
+As an example, the Earth is about 1 AU away from the Sun and has a very low orbital eccentricity, so one can say that the semi-major axis of the Earth's orbit is also approximately 1 AU in length. Since P^2 (yr) = a^3 (AU), one can deduce that the orbit of Earth should take about a year. But, what if the Earth had a higher eccentricity - If the orbital eccentricity of the Earth were higher, would it still be wise to approximate the orbital distance as the semi-major axis of an orbit?

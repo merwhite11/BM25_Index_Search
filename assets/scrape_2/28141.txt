@@ -1,0 +1,10 @@
+What is wrong with my calculations of Venus' orbital period?
+
+I am trying to use Kepler's second law to find the duration of Venus's orbit. I am assuming circular orbits (using Earth and Venus, so low eccentricity). Here is my process:
+Assuming that the radius of Earth's orbit is 150 million km, then the swept area in one day is $\frac{1}{365.25}\times\pi\times 150^2 \approx 194 \text{ million km}^2$. 
+Venus must sweep the same area in the same time. Assuming a orbital radius of 108 million km for Venus, and using $A = \frac{\theta}{360}\pi r^2$, we can find the central angle for the swept sector, that is, the angle traveled in one Earth day:
+$194 = \frac{\theta}{360}\pi \times108^2 \implies \theta = 1.90 ^{\circ}$ per Earth day.
+Hence the orbital period should be $\frac{360}{1.90}\approx 189$ Earth days.
+Of course, the orbital period of Venus is $224.7$ Earth days. The difference between 189 and 224.7 appears to be well beyond the error introduced by my assumption of circular orbits.
+What am I doing wrong?
+I know this is perhaps a circuitous way of doing this calculation. My goal is to write a mathematics exercise that uses the area of sectors in a meaningful way.

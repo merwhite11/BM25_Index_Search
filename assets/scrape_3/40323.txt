@@ -1,0 +1,4 @@
+Are there any bodies in the solar system whose rotation is almost tidally locked or barely tidally locked?
+
+The Moon's rotation is firmly tidally locked to the Earth and the Earth's rotation is firmly tidally unlocked with respect to the Moon. I gather that Mercury's rotation is tidally locked in a 3:2 resonance - which sounds a little precarious. Are there any bodies which are on the verge of being tidally locked (very nonuniform rotation) or are barely tidally locked (very large libration)?  Are there any bodies whose rotation is actually chaotic for such reasons? 
+[Edit] Note, this question is about the physical libration rather than the apparent or optical libration caused by the body being observing from different perspectives.

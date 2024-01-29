@@ -1,0 +1,7 @@
+Can we use Breakthrough Starshot spacecraft to detect any unknown massive object in our solar system?
+
+For example, the hypothetical Planet Nine.
+Since we just want to prove or rule out the existence of Planet Nine in our solar system, we can avoid most of the technical challenges for StarChip (camera not required, lower propulsion power, etc). So StarChip would become much cheaper, and we are able to launch thousands of the probes, covering a large area of the sky. If a massive object exists within the area, it will affect nearby passing probes and lead to trajectory anomaly, which maybe detectable and the trajectory data can be used for calculating the possible position of the object, and then we can do some follow-up observations and studies using telescopes.
+Actually we can use other probes, but StarChip seems cheaper and has faster speed so that we don't have to wait too long if the targets are thousands of AU away from us.
+So could this technique be used for detecting Planet Nine or any other unknown massive object in the solar system?
+What's the appropriate speed for StarChip so it can accumulate enough gravitational effect to be detectable?

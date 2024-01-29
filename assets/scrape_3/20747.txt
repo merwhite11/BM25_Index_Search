@@ -1,0 +1,4 @@
+How to convert magnitudes to bolometric luminosity?
+
+If we know a star's magnitudes from several bands(say u,g,r,i,z,J,H,k) and the star's distance, how to calculate Lbol?
+Let's suppose the star has a black body spectrum. Is there any manual about the calculation? It's better to have a lot of technical details.

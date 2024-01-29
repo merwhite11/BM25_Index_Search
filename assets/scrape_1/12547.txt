@@ -1,0 +1,9 @@
+Formation of a magnetosphere for gas giants / small stars
+
+This question got me thinking about this.
+Jupiter has, and presumably super-Jupiters can have a strong magnetospheres.  A solid metallic core and rotating material around the core, creates a magnetic field and all 4 gas planets in our solar-system have magnetic fields, though Jupiter's is by far the strongest.   Source
+As I understand it, a planetary magnetic field requires a solid core and a slight variation in rotation where the liquid outer core rotates in relation to the solid inner core.  The planet's speed of rotation might not be necessary, but it could be a factor.
+During the hot period of formation, gas giants might not form magnetic fields but when they cool down enough to have a solid core, they probably would have them.
+So, the question is, is there a rough mass for which planet-wide magnetic field formation becomes unstable, where the core of the heavy Jupiter or small or old brown dwarf takes a very very long time to solidify, say, many billions of years?   
+I'd think the high temperature of formation and additional heat from fusion in a Brown Dwarf wouldn't be a good situation for that kind of star-wide magnetic field to form due too inevitable convection and probably no solid core.   That kind of star would probably form multiple magnetic dipoles like our sun has, but perhaps in an older brown dwarf a single magnetic field might be possible.
+White dwarfs have very strong magnetic fields, so pressure obviously isn't an issue, in fact, I think high pressure can create a stronger magnetic field.

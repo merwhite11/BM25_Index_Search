@@ -1,0 +1,5 @@
+Cosmic Microwave Background Map
+
+When a satellite takes measurements of the radiation from different patches of the sky to construct a map of the thermal radiation of the universe on the surface of a sphere, it would also contain radiation from the Milky Way, for one.
+A big patch of the map will have noise due to the objects in the Milky Way or from other sources.
+How does one know where and how much noise to remove while constructing the map?

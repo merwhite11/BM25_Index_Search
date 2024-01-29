@@ -1,0 +1,4 @@
+Measuring parallax angle, same local time or the same time
+
+I was thinking about measure the distance to the moon using parallax angle. But I have a confusion. I have read couple of articles about that, but one thing is unclear. Should we take pictures of moon at the same (literally the same, for example, taking both pictures at UTC 16) moment or should we take pictures the same local time (for example, if the timezone difference is 2h then the time difference between two taken pictures should be 2h).
+So which one is the correct method for it? I think it is the former one, but I cannot tell why it is not the latter.

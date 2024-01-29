@@ -1,0 +1,6 @@
+Observing eclipsing binaries
+
+In a matter of weeks, I will be performing my first observation using a 25-cm Newton telescope (+CCD camera) and would be grateful for advice regarding an otherwise basic research that I have decided to try out due to this occasion.
+I will be observing eclipsing binary stars (type Algol), yet have never used any program or site. Just to determine which binaries will be visible at my location on a specific date at a specific time - which sites do you use for this?
+Also, what should be my main goals when taking photos in terms of timing and exposition?
+Later on, I will use APT for photometry and estimate the time length of the eclipse, which will be my objective.

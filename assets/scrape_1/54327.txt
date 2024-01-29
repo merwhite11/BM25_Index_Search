@@ -1,0 +1,3 @@
+Differentiating supernova types with light curves
+
+as an introductory activity for my work on transients, I am studying the light curves of different supernovae. It appears that Type-I supernovae have a more pronounced maximum than Type-II supernovae. I just wanted to know if this has an explanation in terms of the physics behind it. And how would one distinguish between a supernova light curve from something else, such as a Tidal Disruption Event? Is it possible from light curves alone? (I don’t need a full blown answer, it would do if you could point any references too). Thank you!

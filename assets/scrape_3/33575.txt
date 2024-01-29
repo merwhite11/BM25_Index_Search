@@ -1,0 +1,8 @@
+How (the heck) does Astrometry.net work?
+
+What magic is this? 
+This answer to my question Astronomy detective question: what part of the sky are these photos of? What are a few of the stars? nails it, and the output (linked there) contains the following images along with a whole lot more information.
+The images are analyzed by astrometry.net
+How does it do what it does? If I understand correctly you can upload random star images with a wide variety of fields of view (from telescopes to cell phones) and random orientations and no further information, and it figures it out.
+Is there a way to explain how the algorithm works with more detail than "a computer matches the dots to known stars"? 
+Related question about these cell phone images: Milky Way with a cell phone, how is this possible?

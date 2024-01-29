@@ -1,0 +1,9 @@
+What determines the configuration of orbits in a binary system?
+
+There are essentially two configurations of orbits a system with two bodies can have:
+A configuration where the paths do not cross:
+
+A configuation where the paths cross:
+
+Note: Size of the bodies relative to one another is unimportant here.
+What determines which of the two configurations a binary system will develop into?

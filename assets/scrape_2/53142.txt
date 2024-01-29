@@ -1,0 +1,4 @@
+Would it be possible for a planet to orbit around a trinary star system in a figure 8 orbit?
+
+I know that it is possible for a 3-body system to be "stable" in a figure-8 pattern. It's only stable if it is set up perfectly with no outside forces, but that's fine with me. If there were theoretically that system created of stars with equal masses, is there any stable orbit for a planet other than just being far enough away that the 3 stars act like one? I'm ignoring the gravitational influence of the planet on the stars and assuming that that the stars' orbits are stable.
+Edit: I'm also ruling out a very small orbit around just one of the stars. I was wondering if this is a possible way to make a planet have a funky orbit around multiple stars. Thanks planetmaker for helping me clarify.

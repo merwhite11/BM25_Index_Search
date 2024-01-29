@@ -1,0 +1,4 @@
+Is there a non-trivial limit to a number of nested orbits?
+
+In his popular youtube channel, Scott Manely addressed a question of whether an astronaut can orbit a space station. The provided answer is negative since such an orbit would require the space station to be impractically dense.
+This got me wondering if similar arguments can limit the number of nested orbits in general. For example, say you are free to choose any solid bodies A, B, C,... s.t. A orbits B, B orbits C, etc. Is there a maximal number of such bodies and do we know it?

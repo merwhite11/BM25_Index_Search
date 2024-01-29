@@ -1,0 +1,5 @@
+What does this figure imply about the luminosity of pre-main-sequence stars?
+
+Check out Figure 1 in http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1955PASP...67..154H&data_type=PDF_HIGH&whole_paper=YES&type=PRINTER&filetype=.pdf .
+
+It seems to show that the luminosity of a pre-main-sequence star depends primarily on the mass of the star, and that this basic relation continues to hold, to reasonable accuracy, into the main sequence.  Since there is no fusion in a pre-main-sequence star, is it correct to conclude that the relationship between the mass and luminosity of a pre-main-sequence star does not hinge on fusion physics?

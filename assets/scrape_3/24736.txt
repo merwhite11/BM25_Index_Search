@@ -1,0 +1,3 @@
+How to convert density from physical unit to comoving unit?
+
+I am learning co-moving units and I am interested to see how the conversion works. If Hubble constant is assumed to be 0.7, then I want to convert $1gm/cm^3$ into comoving unit. If I want to express length in co-moving kilo-parsec per hubble constant (${\rm ckpc}/{\rm h}$), instead of cm, then how does the conversion happen?

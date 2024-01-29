@@ -1,0 +1,3 @@
+What is the gain of a telescope?
+
+What is the gain of a telescope? How would I go about calculating the gain from a flatfield image?

@@ -1,0 +1,20 @@
+Is there a web service providing orbital data of solar bodies (planets, comets, asteroids, dwarf planets)?
+
+I would like to be able to connect to a web-service and retrieve JSON data containing information on current (as of today or so) orbits of planets, comets, asteroids, and dwarf planets in our solar system. (Even just planets would be fine but better if I can get info about asteroids, comets, and dwarf planets as well).
+I would like to draw planets and their orbits accurately in a 2D animation of our solar system in an Android app in the X-Y coordinate plane as observed from the top of the Z axis.
+Where can I find such public web service and how can I access it and get that data?
+UPDATE
+I tried using HORIZONS Web-Interface but out of all variables I need, I can see only "Semi-Annual Axis" information.  I need following information:
+
+orbital ellipse angle in X-Y coordinate system (i.e 1.5rad or degrees or so)
+motion direction (pro-grade or retrograde)
+current position of planet/comet/asteroids on that ellipsis in degrees or radians, say 60deg from x (horizontal) axis
+time it takes plant to go around the sun (I believe this is called orbital period)
+eccentricity of ellipse (orbit)
+semi-annual axis
+
+These are the values that give me enough information to draw orbit (ellipsis) and correctly position planet on that ellipsis, and to calculate speed at which it moves around the sun in my 2D model.
+So, I am not interested in inclination or any parameters that would be useful for a 3D model.  
+I can find this data online but it takes lots of searching since I have not been able to find a central place for it.  HORIZONS seems to be such place but out of variables I need (as described above), I can find there only semi-annual axis in HORIZONS.  I am surprised that I cannot fine a public web-service offering this info (REST or SOAP, or whatever, does not matter as long as I can fetch that data and process it for my needs from my application).
+I apologize if my explanation is somewhat unclear, I am not an astronomer.
+Hope that explains.

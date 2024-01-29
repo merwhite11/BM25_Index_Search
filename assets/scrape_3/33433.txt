@@ -1,0 +1,4 @@
+Propagate Earth trajectory for 1 Myr
+
+What is the most accurate way of propagation of Earth trajectory relatively to the Sun? I need to calculate the Earth-Sun distance. Is there any library on Python?
+I've used before JPL Horizons, however, it's not useful for propagation for 1 Myr.

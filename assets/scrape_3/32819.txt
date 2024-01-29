@@ -1,0 +1,3 @@
+Turn celestial coordinates into light years
+
+I have a question about celestial coordinates. I have been working on a calculator that takes in different stars and tells you how far apart they are, and their coordinates (x, y, z). But I didn't realize there was no such system. Is there any way to turn celestial coordinates into a coordinate plane, i.e. (x [ly away from earth], y [ly away from earth], z [ly away from earth])?

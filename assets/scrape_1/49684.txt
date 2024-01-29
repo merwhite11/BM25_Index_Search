@@ -1,0 +1,7 @@
+Virial theorem, contraction, and stars getting hotter
+
+So, for a homogeneous sphere made of ideal gas the virial theorem applies:
+$$E_{int}=-\frac{1}{2}E_{grav}$$
+I have read that this implies that a star must get hotter when it contracts.
+I don't quite understand why this is the case. The internal energy is proportional to T. During contraction, $E_{grav}$ increases, but since there is a minus sign, this means that the internal energy decreases - so how do we get the increasing temperature?
+Sorry if this is a very obvious question, I appreciate any help.

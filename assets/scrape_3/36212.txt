@@ -1,0 +1,10 @@
+Pair together light curve and radial velocity data of specified star
+
+I would like to create a web application that works with light curves and radial velocities of stars with exoplanets. I found a NASA bulk data download with both light curves and radial velocities (it's exactly what I'm looking for). However, I don't know how to pair together the light curve and radial velocity of a single star (without downloading the whole dataset).
+For example, using the script below I can download the light curve of KIC 10666592, where there is 1 exoplanet:
+wget -O 'kplr010666592-2009131110544_slc.fits' 'http://exoplanetarchive.ipac.caltech.edu:80/data/ETSS//Kepler/005/755/19/kplr010666592-2009131110544_slc.fits' -a search_33681064.log
+
+Now, how can I download radial velocity data for this specific star? Scripts for radial velocity look like (there is no KIC in URL):
+wget -O UID_0000522_RVC_001.tbl http://exoplanetarchive.ipac.caltech.edu:80/data/ExoData/0000/0000522/data/UID_0000522_RVC_001.tbl -a RADIAL.log
+
+Is there any way to connect KIC (Kepler input catalog) and radial velocity UID?

@@ -1,0 +1,5 @@
+Significantly blueshifted Lyman-$\alpha$
+
+Lyman-$\alpha$ line in galaxies is notably known to show a double peaked profile, mainly due to its scattering in a moving medium, see e.g., the very recent Matthee et al. 2021, The X-SHOOTER Lyman-α survey at z=2 (XLS-z2) I: the panchromatic spectrum of typical Lyman-α emitters.
+Reading through some literature I learned that most of the time the blue peak is reduced and the red one is enhanced because of the presence of outflowing medium, commonly present in star-forming galaxies. The peak separation is of the order of a few hundreds of $\rm km ~s^{-1}$. In case of inflowing medium (rarer) the situation is inverted.
+I have in hands a spectrum of a galaxies with a Lyman-$\alpha$ absorbed at the systemic redshift and with a narrow component blueshifted by $>1000 ~\rm km ~s^{-1}$, whit no red peak. Is there any known mechanism that could explain this?

@@ -1,0 +1,12 @@
+Why is the time between equinoxes different?
+
+The path of the Earth around the sun is described as being an ellipse, with the Sun being at one of the foci of the ellipse.
+Since an ellipse, by definition, is symmetrical with respect to the foci, I would expect the time for the earth to transit any two halves of the ellipse to be the same, so long as it moves at the same speed around the ellipse, or at least the speed characteristics are symmetrical as well.
+However, this does not appear to be the case according to the following rounded figures for the time in days between equinoxes and solstices:
+Summer Solstice to Winter Solstice    184.3
+Winter Solstice to Summer Solstice    181.0
+Vernal Equinox to Autumnal Equinox    186.4
+Autumnal Equinox to Vernal Equinox    178.9
+
+These values can be found, for example, in astronomer Robert Newton's book of 1976.
+Why are the values different?

@@ -1,0 +1,4 @@
+Can't pulsars and stars be used for gravitational wave measurement?
+
+Suppose that we collected photons from a distant star, and they arrive regularly at 15 photons every microsecond onto a CCD, when a gravity wave bends space time, wouldn't the regular 15 photons graph wobble as a result of the gravitational wave?
+Why does the LISA observatory have to compare laser timings, if pulsars can be as precise as atomic clocks, can't it just compare a bunch of pulsar signals? A single satellite that records 50 pulsars would move compared the the pulsars and would have a frequency of 50Hz ticks with pulses which can be graphed at kHz frequencies.

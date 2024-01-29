@@ -1,0 +1,3 @@
+Is there any way to determine when the brightness of twilight is equal to the brightness of the full moon?
+
+Using the Netherlands for the location, assuming no artificial light, is it possible to determine how far below the horizon the sun would have to be for twilight and the full moon to equally illuminate the landscape?

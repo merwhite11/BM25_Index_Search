@@ -1,0 +1,13 @@
+Finding the uncertainty in period for String-Length Minimization calculation
+
+I wrote a Python script that calculates the period of an unevenly sampled data set using the String-Length Minimization method.
+You can read about that method here: A period-finding method for sparse randomly spaced observations or “How long is a piece of string?”
+Overall, my code works great! However, Now I'm wanting to calculate the uncertainty in the estimated period from the technique.
+My initial thought was to look at section 2.1 Effect of Random Errors from the paper. I wasn't entirely sure if that's what I wanted but I continued anyway. I wrote a script that does a monte carlo method so I could find the error parameter and ultimately calculate a δL value.
+I found:
+ε = 0.03
+δL = 8.253
+Both of those numbers seem reasonable at least compared to the examples in the paper.
+After doing all that though, I'm not entirely sure if I'm even on the right track here. I tried adding the δL value to string lengths to see if that would make a difference to the calculated period but it didn't. I'm guessing I'm missing something or I'm on the completely wrong track.
+Am I on the right track for calculating the uncertainty in period found for string-Length? If so, what steps should I take next? If not, what do you suggest?
+Thanks!

@@ -1,0 +1,3 @@
+Straightforward derivation of the sunrise equation
+
+I'm looking for a reasonably straightforward derivation of the sunrise equation$$\cos\omega=-\tan\phi\tan\delta$$as referenced in the Wikipedia article here. I've dipped into Astronomical Algorithms by Jean Meeus, where the formula is given on page 101. However, as far as I can see, the only explanation Meeus gives is by setting $h=0$ in his earlier equation 13.6, which he simply states as if obvious. I've also found an online paper called Derivation of Solar Position Formulae by Ross Ure Anderson, where there is a fuller derivation (starts on page 11), but which I'm having trouble following.

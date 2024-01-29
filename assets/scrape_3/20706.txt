@@ -1,0 +1,10 @@
+Angles in Moon, Earth and Sun system
+
+Consider the vector positions of the center of mass of Moon, Sun and Earth, $\vec{r}_{\rm M}$, $\vec{r}_{\rm S}$, $\vec{r}_{\rm E}$, respectively, in a given reference frame. 
+Consider:
+
+the angle between the vector $\vec{r}_{\rm S} - \vec{r}_{\rm E}$ and $\vec{r}_{\rm M} - \vec{r}_{\rm E}$,
+the angle between the vector $\vec{r}_{\rm E} - \vec{r}_{\rm S}$ and $\vec{r}_{\rm M} - \vec{r}_{\rm S}$,
+the angle between the vector $\vec{r}_{\rm E} - \vec{r}_{\rm M}$ and $\vec{r}_{\rm S} - \vec{r}_{\rm M}$.   
+
+Does any of these angles have a name in astronomy, or can be important for some specific reasons? If so, may you please give me some general indications of why this is the case, and point to some references?

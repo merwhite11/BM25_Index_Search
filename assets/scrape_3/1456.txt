@@ -1,0 +1,4 @@
+Periodic behavior of Venus
+
+After a couple months of watching a very bright Venus appear at dusk and set soon after the Sun, I've noticed that it seems to have temporarily disappeared to the naked eye. I used a virtual sky simulator (Stellarium) to confirm that the Evening Star has indeed transitioned to being the Morning Star (though due to obstacles blocking my view of the horizon in my backyard, Venus is still too close to the Sun for me to witness it at dawn before sunrise renders it invisible).
+What is the period of Venus's alternation between morning and evening visibility? I gather this isn't a simple seasonal period as its visibility should depend on the Sun-Earth-Venus angle rather than just Earth's yearly orbit.

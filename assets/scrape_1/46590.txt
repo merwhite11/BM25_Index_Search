@@ -1,0 +1,3 @@
+How to calculate an infrared SED from the specific intensities?
+
+I have values of total infrared fluxes (SED) in literature expressed in Jy (Jansky) for galaxies. I want to assure that my infrared radial profiles of the same galaxies in MJy/sr (and other in Jy/pixel) give me the same integrated value as in the literature. How to get rid of the angular counterpart in steradian ? The data used to create radial profiles are HERSCHEL SPIRE 250um & 500um.

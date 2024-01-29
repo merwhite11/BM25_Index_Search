@@ -1,0 +1,7 @@
+Relation between absolute magnitude of UV and star formation rate
+
+I surfed the internet and searched a lot of sites,
+so far I got this
+
+but unable to find the formula which relates only Muv and the Ψ as I don't know the value of parameters Auv and μ(z).
+If there exists any such formula, then do help!

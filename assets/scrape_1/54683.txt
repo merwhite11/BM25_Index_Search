@@ -1,0 +1,5 @@
+What is the longitude (value) of the sub solar point of the vernal equinox?
+
+I am new to this topic so correct me if I am wrong. But as I understand it, the vernal equinox point is a point on the celestial sphere where the ecliptic and celestial equator meets. When the sun's sub-solar point is directly falling on this point that moment in time is the vernal equinox. So, if we take a projection of it on earth, this point has to resolve to a particular latitude and longitude.
+I know the latitude is 0°, but what is the longitude for this point? I am assuming that it's definitely not the 0° lat, 0° long.
+Note: I know that this point can be slowly moving away to right or left due to Earth's precession. I would like to know where this point is atleast for this year.

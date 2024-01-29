@@ -1,0 +1,9 @@
+Does the sun blow a bubble into the interstellar medium?
+
+I once read that the solar wind is more or less blowing a "bubble" into the interstellar medium. However, the numbers I found while trying to verify this don't give me a clear picture yet:
+
+The interplanetary medium seems to have an average density of 5 particles per cm³ (at least near earth).
+The interstellar medium density varies widely, from 10⁻⁴ to 10⁶ particles per cm³.
+
+What I did not find was the density of the interstellar medium directly around the solar system. I know that the solar wind is interacting with the interstellar medium, which is responsible for the termination shock, but I'm wondering if the density difference is large enough that one can say that the sun is actually blowing a "bubble" into the interstellar medium.
+So, is the density inside the heliosphere much less than directly outside of it?

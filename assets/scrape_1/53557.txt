@@ -1,0 +1,3 @@
+Split Multi-Extension fits file - fits.fz format
+
+I have CFHT/MegaCam fits.fz file on which I want to do photometry. I want to split these large fits.fz file into separate CCD detector fits and then run Source Extractor on them for photometric analysis. I am not familiar with this extension. I opened this in DS9, it shows 2 headers. How do I split this file? Below is the DS9 image of it.

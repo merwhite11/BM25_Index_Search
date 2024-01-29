@@ -1,0 +1,6 @@
+How to estimate uncertainty of measurements of equivalent widths?
+
+I'm measuring equivalent widths of absorption lines using a spectrum of a star. I make two or three measurements of each line by making reasonable gaussian fits of the line with IRAF's splot tool. Then I calculate the mean of the measurements, which serves as my final equivalent width estimate. 
+What is a good way of estimating the uncertainty of this measurement?
+My current method
+I'm currently using half of the range for the uncertainty. For example, if I made two measurements 10 and 16 mA (milliangstrom), then the mean is 13 mA and uncertainty is 3 mA. This gives the estimate of equivalent width to be 13±3 mA. Do you see any problems with this method of estimating uncertainty?

@@ -1,0 +1,7 @@
+Determining the percentage area of the moon's disk shaded with respect to time
+
+I've looked online and I've found sources such as this paper on a lunar phase simulator as well as this article about lunar phases.
+I'd like to be able to model the area of the lunar disk which is shaded with respect to the moon's angle or time of the lunar month and I'm not sure how to go about doing this. In essence, I would like to be able to find a function f(x) where I can feed in a value such as 0 (meaning 0 days since the start of the lunar month) and I'd be able to get an output like 0 since it's a new moon. Likewise, f(14ish) should be new moon or fig 5 on the image below and so I'd get a value close to 1.
+I'm focused a bit more on the maths rather than real values, so I'm willing to make assumptions such as the moon and earth being perfect spheres for the sake of the model.
+
+I know there's a lot of maths involved and I'm going to have to do some integration, but I'd appreciate it if someone could point me to sources to get started on this since the papers I'm finding are either children's lunar phase worksheets or not related to this topic.

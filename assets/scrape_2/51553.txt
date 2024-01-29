@@ -1,0 +1,5 @@
+What is a good 3D scatter plot tool?
+
+I am currently doing an Astronomy internship at an institute and one of my tasks includes preparing a 3D scatterplot tool for the Chirp mass, effective spin and the redshift for binary mergers (NS-NS, NS-BH, BH-BH), and I am not sure which tool to use. I found a few resources online, out of which, the most useful source I could find gave the following plot:
+
+But I feel the image is not too clear and is not too useful (I still haven't labelled the axes). The actual graph is dynamic and can be rotated, zoomed-in/out, etc. but the 3D space on which the graph is being plotted seems to be quite restricted. I was wondering if there are any  better resources to prepare the scatterplot? I was using python initially; however, at least the method that I am using produced a static model.

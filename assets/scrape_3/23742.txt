@@ -1,0 +1,4 @@
+At which winter hour is sun in zenith in DST?
+
+When DST is introduced does it mean that the sun is in zenith  one hour later (1pm winter local time) or one hour earlier (11am winter local time)?
+Edit: The location is New York.

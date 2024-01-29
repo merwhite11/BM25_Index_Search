@@ -1,0 +1,48 @@
+Installing IRAF
+
+Recently I asked this question on IRAF like software that can be run in a window but it seems it is not possible. So I installed window subsystem for linux. I followed these steps to install IRAF.
+Everything works very well till the step ./install. The following are the code I'm seeing on my screen:
+young_kindaichi@LAPTOP-K91A53NB:~$ sudo -i
+
+[sudo] password for young_kindaichi:
+
+root@LAPTOP-K91A53NB:~# ls
+
+iraf-2.16.1-2018.11.01  v2.16.1+2018.11.01.tar.gz
+
+root@LAPTOP-K91A53NB:~# cd iraf-2.16.1-2018.11.01
+
+root@LAPTOP-K91A53NB:~/iraf-2.16.1-2018.11.01# ls
+
+COPYRIGHT   Makefile         README.md   dev  extern   install  local  mkpkg  pkg  test  util
+
+INSTALL.md  README.contents  RELEASE.md  doc  include  lib      math   noao   sys  unix  vendor
+
+root@LAPTOP-K91A53NB:~/iraf-2.16.1-2018.11.01# ./install  
+
+which leads me to:
+
+As per the guide, It says
+
+The script will prompt you for the path to the default image directory, the cache directory and the binary files directory. Usually, you can everywhere use the default settings when asked from the install script. You will need to include the binary files directory in your PATH before proceeding to the  step. In BASH this can be done with the command:
+
+I do not understand this, And I don't what to do now. Please consider that It's the first time I'm using Linux and I don't have any basic knowledge. So please help me.
+
+On a suggestion, I downloaded the package at /home/young_kindaichi.
+After ./install
+As given in the manual that is "The script will prompt you for the path to the default image directory, the cache directory, and the binary files directory. Usually, you can everywhere use the default settings when asked from the install script".
+I used the following code:
+
+Default root image storage directory (/home/young_kindaichi/.iraf/imdir): <CD>
+
+*** The definition of imdir cannot be the same as the iraf
+
+*** root, please choose a different directory. Ideally this
+
+*** should be some large data area on your system or a user
+
+*** data area such as /home, /users, /u1, etc.
+
+Default root image storage directory (/home/young_kindaichi/.iraf/imdir): 
+
+The problem is as I can understood it's not taking default settings.

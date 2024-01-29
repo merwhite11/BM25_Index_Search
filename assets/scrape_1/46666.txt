@@ -1,0 +1,13 @@
+Could the Hubble Constant be an artifact of the structure, and thus a way to directly measure the universes's age?
+
+"Expressed in inverse years, the value 70 km/s/Mpc comes to about one divided by 14 billion years - the approximate age of the universe."
+Could the Hubble Constant be an artifact of the structure, and thus a way to roughly directly measure its age? The fact expansion is, or seems to be, accelerating (Reiss et al) would strengthen this hypothesis.
+Could perhaps an advanced civilization could measure it with far more precision than we could, and would find the Hubble Constant a direct "age tag" marker? Or is this merely a remarkable coincidence?
+Would a hypothetical observer in the distant future be able to use it to directly measure the universes`s age then? (Current theory says "no, it just seems coincidental today").
+
+https://physics.stackexchange.com/questions/328409/why-is-hubbles-constant-exactly-the-inverse-of-the-age-of-the-universe/328445
+http://www.mira.org/ana/hubblconst.htm
+https://socratic.org/questions/how-do-you-calculate-the-age-of-the-universe-using-the-hubble-constant
+https://infokaksha.com/calculating-the-age-of-the-universe-using-hubbles-law/
+
+from A buyer’s guide to the Hubble Constant (Paul Shah et al., September 2021) https://arxiv.org/pdf/2109.01161.pdf with thanks to Henry Norman.

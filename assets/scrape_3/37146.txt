@@ -1,0 +1,13 @@
+Is the magnetic field strength of a star predictable from mass, composition, age and angular momentum alone?
+
+This answer to Which stellar properties can we describe as “first principles” in which we can derive the rest? contains an intriguing bit:
+
+That states that composition and mass are the two key properties, assuming that the star is in hydrostatic equilibrium and derives its energy from nuclear reactions.
+I agree with Rob that rotation (angular momentum) is a key second-order effect, and I'd add magnetic field strength as well.
+
+which triggered an intriguing comment:
+
+Is the magnetic field strength generally independent of the other three properties?
+
+Question: Is the magnetic field strength of a star predictable from mass, composition, age and angular momentum? Or is it somewhat random or at least unpredictable from those alone for some reason?
+I suppose it could be somehow inherited, influenced or acquired from its surroundings during formation, or arise from some random or chaotic process, but I have no idea.

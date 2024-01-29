@@ -1,0 +1,6 @@
+What do the symbols signify in Dr. Becky Smethurst's radiation pressure equation for black holes?
+
+
+In her most recent video, "An ULTRAMASSIVE black hole has been discovered in a BRAND NEW way!", as well as a previous video, "How massive can black holes get?", Dr. Becky Smethurst shows an equation relating to the radiation pressure of black holes:
+$$F_{\rm rad} = \epsilon \dot{M}c \frac{\kappa m}{4 \pi R^2}$$.
+With Newton's derivative dot over the capital $M$. What do the lowercase epsilon, M-dot and lowercase kappa stand for?

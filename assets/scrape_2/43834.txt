@@ -1,0 +1,3 @@
+Given telescope diameter and focal length only, how can I find the size of a produced image?
+
+I'm new to astronomy and I'm struggling to understand this concept. For example, A 20-cm diameter telescope with a focal length f = 2 meters produces an image of the moon 1.7 cm in diameter. How large is the image of the moon produced by a 5-meter diameter telescope, focal length f = 16.7 meters?

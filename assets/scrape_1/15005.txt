@@ -1,0 +1,16 @@
+What is a quaternary mirror and why does the E-ELT need one?
+
+In this recent BBC article I read the one-sentence paragraph:
+
+"Development on the mirrors - in particular, a very complex quaternary mirror - continues apace."
+
+and became interested in the following questions:
+
+What is a quaternary mirror
+Why does the E-ELT need one
+What is it about this mirror that is "very complex"?
+
+note: the E-ELT is the European Extremely Large Telescope nearing final design, and to be installed in Chile's Atacama Desert (host to many other telescopes).
+A drawing of the E-ELT from from Wikipedia (note scale of humans):
+
+An image from the BBC article:

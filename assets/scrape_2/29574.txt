@@ -1,0 +1,5 @@
+Tides with 3 Largish Moons
+
+As part of my worldbuilding for a book, I’d like to have a planet with extreme variance in its tides. I want lowest tide  reveal about 30 miles of floodplain, and occasional massive tidal waves. I understand that, in theory, this might be achieved by giving the planet several relatively large moons with different orbital periods, such that sometimes they are spaced out so they balance out the tides (a kind of medium tide), and sometimes they are all together on one side of the planet so that they create a highest / lowest tide.
+How stable can such a system be? (The star and other solar system features can be whatever to improve stability, if that is a thing)
+Any spitballed numbers for viable orbital periods and tidal patterns?

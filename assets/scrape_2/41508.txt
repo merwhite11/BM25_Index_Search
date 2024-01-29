@@ -1,0 +1,3 @@
+How long before Phobos reaches the Roche limit of Mars?
+
+Phobos orbits really close to Mars, so close that one Phobos period is shorter than one sol. Due to tidal friction, it is also getting closer and closer to Mars. How much time will it take before Phobos reaches the Roche limit of Mars?

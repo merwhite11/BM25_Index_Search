@@ -1,0 +1,4 @@
+Is there any role today that would justify building a large single dish radio telescope to replace Arecibo?
+
+It seems that most of the modern radio astronomy instruments and observations that make the news are interferometers or phased array systems of one kind of another.
+Is there any application left for which a single huge dish is better (or cheaper) than the same collecting surface in the form of some kind of array of smaller dishes, whether relatively compact, like ALMA, or widely distributed like the Event Horizon telescope or the square kilometer array? In other words is there any point at all in considering replacing the recently destroyed Arecibo dish with anything of similar size?

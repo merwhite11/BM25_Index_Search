@@ -1,0 +1,4 @@
+How do you draw the ecliptic on a celestial sphere sketch?
+
+I don't really understand how it's drawn on sketches of the celestial sphere. At first I thought it goes through east and west, but it does not. How do you know where to draw it?
+Example from Roy and Clarke, Astronomy: Principles and Practice:

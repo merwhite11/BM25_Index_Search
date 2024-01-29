@@ -1,0 +1,16 @@
+Would an analogue of the definition for planets also work for moons?
+
+This is a follow up question to What exactly is a "moon"? The conclusions I draw from James K's answer is that the IAU should define what a moon is. They haven't done so yet, but they should.
+The obvious way to go about defining "moon" would be to build on the definition of a planet:
+
+Planets must be in orbit around the Sun
+Planets must be round due to their own gravity
+Planets must have "cleared the neighbourhood"
+
+This immediately suggests the equivalent definition of a moon:
+
+Moons must be in orbit around the host planet
+Moons must have [minimum size]. Unfortunately being round doesn't work since not all moons are round (c.f. Mars' moons, unless one reclassifies those as not moons)
+Moons must have "cleared the neighbourhood" of their own orbit, i.e. in their particular orbit around the host they are by far the most massive body
+
+Would such a definition work? If so, why hasn't the IAU also defined moons? It seems so natural after all. If not, what's the catch?

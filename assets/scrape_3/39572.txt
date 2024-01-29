@@ -1,0 +1,21 @@
+What are the deciding optical factors between a refractive and reflective space telescope optics as a function of aperture? (visible light)
+
+Reading Yale News' Lighting a path to Planet Nine:
+
+To detect objects that are otherwise undetectable, Rice and Laughlin employ a method called “shifting and stacking.” They “shift” images from a space telescope — like moving a camera while snapping photos — along pre-defined sets of potential orbital paths. Then they “stack” hundreds of these images together in a way that combines their faint light.
+
+They used Transiting Exoplanet Survey Satellite (TESS) data presumably more for it's large number of exposures of a given field than each camera's 10 cm effective aperture.
+Apart from mechanical and materials aspects such as (but not limited to) mass, thermal management and radiation and meteorite damage, what optical performance considerations would to into choosing between a refracting and a reflecting space telescope for a given diameter aperture?
+A camera lens like TESS' can have many more optical surfaces than a reflecting telescope. The cross-sectional image of TESS' camera shows seven elements and therefore 14 surfaces that can be optimized for near diffraction-limited resolution over a wide field of view, whereas even the Vera C. Rubin Observatory (LSST) has only three reflecting and four refracting surfaces.
+Refracting glass surfaces can also be smoother than aluminum on glass surfaces at the nanoscale, reducing haze and scattered light which can impact limiting magnitude especially if there are bright objects nearby.
+Question: What are the deciding optical factors between a refractive and reflective space telescope optics in visible light as a function of aperture, apart from mechanical and materials aspects such as (but not limited to) mass, thermal management and radiation and meteorite damage?
+Related:
+
+What are the benefits of a large refracting telescope?
+What allows WFIRST to have similar resolution to Hubble over a 100x larger solid angle?
+What are the effects of using non-spherical lenses in refracting telescopes?
+See Dragonfly in What (actually) is the " deprojected half-light radius" of this almost-all-dark-matter Galaxy?
+Why does LRO's laser altimeter telescopes use lenses instead of mirrors?
+What's the largest optical lens put in space?
+
+From What causes these cross-shaped artifacts in TESS' first images? (the answer is interesting if you like CCDs)

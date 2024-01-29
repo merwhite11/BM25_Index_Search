@@ -1,0 +1,9 @@
+Time dilation due to the expansion of the universe
+
+This is not a homework question. I want some help in being able to clearly perceive the expansion of the universe and the consequences thereof.
+We know that the universe is expanding in an accelerated manner. It is my understanding that space alone cannot expand without affecting the local time. Thus as per GTR, depending on the curvature of space-time and the energy density, time too shall suffer a change due to the changing space.
+Assuming that there is no curvature of space-time and no mass or energy contained in a chunk of space (assuming the zero point energy of empty space as zero) between two galaxies A and B, let us say that the local time at a point P in this space goes as $t_0$. If we on Earth could somehow observe this point and measure the time at P as $t$, 
+
+When we talk about the rate of expansion for example as in Hubble's Law, do we follow the comoving coordinates or the proper coordinates?
+How would $t$ and $t_0$ relate to each other if the rate of expansion is uniform and accelerating respectively?
+How much is 1s for the comoving observer at the inflation period in terms of the usual 1s now on Earth?

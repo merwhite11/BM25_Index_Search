@@ -1,0 +1,12 @@
+How to construct optimal Wiener Filter?
+
+I am trying to construct a Wiener Filter, to filter the ratio of the peak from the cross-correlation function, between a galaxy spectra and a template spectra, with the peak of the auto-correlation function of the template. Therefor, I calculated the powerspectrum P(k) of the cross-correlation peak in Fourier-Space and normalized it (by deviding through its maximum):
+$P(k)=|X_{Peak}(k)|^2$. This powerspectrum decomposes into a noise part and a signal part which become clearly visible in the logarithmic space. The following plot shows $\ln{P(k)}$:
+
+In eq. (32) of Brault & White (1971) (https://ui.adsabs.harvard.edu/abs/1971A%26A....13..169B/abstract) the Wiener Filter is described as: $W(k) = \frac{P'_S(k)}{P'_S(k)+P'_N(k)}$, where $P'_S(k)$ is a simple model for the signal part and $P'_N(k)$ a simple model for the noise part. I chose a parabola for the signal (central) part and linear functions (left and right tails) for the noise. With the following result:
+
+Since I work with numeric arrays I am not sure how to actually apply eq. (32) for the Wiener Filter, since $P'_S$ is of course a shorter array than $P'_S(k)+P'_N(k)$, so the numerical division fails. Does anyone have an idea how to apply this filter equation to this case? After constructing the Wiener-Filter in the logarithmic space, I wanted to transfer it back using $\exp{W(k)}$.
+When I extrapolate my signal and noise model(and fit only in the appropriate reason) to the full range it looks like this.
+
+The green curve shows P_S+P_N, where I calculated the sum in non-logarithmic space and then transferred back using np.log(). This green curve does not look like the sum in the given answer. The orange one is still the model for the spectrum ( concatenating the arrays). When I just follow the steps and calculate W_log = P_S /(P_S+P_N) the problem is that all my function values are negative, that is why I first use np.exp() before adding them together.
+The resulting Wiener filter I get, does not look right, I also plotted the ratio of correlation peaks which this Filter will get multiplied by.

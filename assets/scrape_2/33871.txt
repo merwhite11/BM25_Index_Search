@@ -1,0 +1,3 @@
+How much does the stellar radius change if seen through different filters?
+
+I know that the radius of a star should be different depending on the filter being used to do the observation. That is, the bluer the filter, the smaller the measured stellar radius. I know this effect must be pretty small, however, I would like to get more familiar with it. Can anyone point me to some literature or share their own experiences? Would it be a significant difference in Solar radius if we observe the Sun in x-ray vs radio bands?

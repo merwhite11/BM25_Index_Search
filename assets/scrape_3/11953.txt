@@ -1,0 +1,14 @@
+How can one explain the apparent motion of the Sun from a heliocentric point of view?
+
+From a horizontal frame of reference, the path of the Sun looks like a part of a circle in a tilted plane, as shown in this picture:
+                             
+If you go to a heliocentric system, one would say that this is because the Earth is rotating around it's axis. Is there any more detailed explanation of this change of reference? 
+So how can one explain in detail the following facts (seen from a geocentric point of view - horizontal reference system) starting from a heliocentric system and the fact that the Earth is rotating around it's axis:
+
+Why is the path of the Sun a part of a circle? 
+Why is this path in a plane?
+Why is this plane tilted?
+How to get this "tilt-angle"?
+
+Why does this motion seem to be uniform from an equatorial point of view, and can I neglect the ecliptic to understand the points above?
+I tried to model it using a ball as Earth, attached a camera to it and used another ball as the Sun, but I didn't succeed in reproducing the effect of the apparent motion in this model. Perhaps there is any animation which makes the points above clear.

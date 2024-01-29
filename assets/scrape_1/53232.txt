@@ -1,0 +1,16 @@
+How to find zero velocity contours for circular restricted 3-body problem in x-y plane?
+
+(I am having physics background; I am not an astronomer/astrophysicist.)
+How to solve a single nonlinear algebraic equation in two variables, $x$ and $y$?
+(I know that - if there are two variables, one needs two different equations to solve them.)
+Equation is this (It represents zero-velocity contours in x-y plane in restricted circular 3-body problem):
+$\frac{1}{2} (x^2+y^2) + \frac{2(1-m)}{r_1} + \frac{2m}{r_2} = C$
+where
+$m$ and $C$ are constants and $x,y$ are two variables and
+where
+$r_1 = \sqrt {(x-x_1)^2+y^2}$  and
+$r_2 = \sqrt {(x-x_2)^2+y^2}$
+and where $x_1$ and $x_2$ are constants - i.e. two fixed values of variable $x$.
+Is it possible to solve this equation analytically; if not, how to solve it numerically?
+Basically my intention is to find all those $(x,y)$ points in $x-y$ plane such that LHS of this equation becomes RHS i.e. constant $C$;  and that is what is the solution is.
+IMPORTANT : This equation is from Forest Ray Moulton's a classic and a great book on celestial mechanics, which was published in 1914. That time there were no computers. Still author has drawn the contours (i.e. solution of this equation) in his book ! Its really amazing. My second intention behind this post is that how Moulton did this ?

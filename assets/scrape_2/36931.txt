@@ -1,0 +1,10 @@
+Intuitive explanation for why the Doppler effect (and red-shift) happens?
+
+I was looking for an intuitive explanation as to why the Doppler effect happens. I haven't found any, but this is what I thought:
+-Waves emitted travel at a constant speed
+-The source emits a wave
+-If the source remained still, then in a given time, there would a large distance between the emitted wavefront and the stationary source
+-But if the source starts moving, the speed of the source relative to the wavefront is higher.
+-This means in a given time, the distance between the emitted wavefront and the source will be lower
+-So when the source (while moving) emits a new wavefront, the distance between wavefronts will also be lower
+Is this explanation wrong? It suggests that the Doppler effect with light will be barely noticeable, because even if a source starts moving, because the speed of light is so high, the source speed will still be small relatively, so there will be a small (basically insignificant) decrease in distance between wavefronts. So how can red-shift be so noticeable, unless recession speed is extremely high (so high that it is actually significant relative to the speed of light)?

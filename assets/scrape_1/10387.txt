@@ -1,0 +1,4 @@
+Open problems in astronomy that an amateur (with a PhD in some other field) would have a chance of solving?
+
+What are some open problems in astronomy that an amateur would have a chance of solving? Suppose the amateur has a PhD in some other field, owns a basic telescope, a set of filters, diffraction gratings, cameras, and happens to know a lot about machine learning, signal processing, spectral estimation, statistics & design of experiments, and basic physics and chemistry.
+Are there better tags available (such as "research")?

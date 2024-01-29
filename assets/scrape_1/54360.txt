@@ -1,0 +1,5 @@
+Does rotation on their axis cause winds in gaseous planets?
+
+As far as I know, as planets rotate around their axis, they can influence winds but not cause them (like the Coriolis effect)
+However, does this apply only for rocky planets? Do rotation alone in gaseous planets contribute to their winds?
+I am asking this because of this question (https://worldbuilding.stackexchange.com/questions/123419/how-can-a-remote-planet-with-little-to-no-sunlight-have-high-wind-speeds) where one answer seems to imply that rotation in gaseous planets is one direct cause of their winds (while in rocky planets it is not). Is this true?

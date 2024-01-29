@@ -1,0 +1,22 @@
+How does V838 Monocerotis look today? Any subsequent light echo images, or is the party over?
+
+This answer to the question V838 Monocerotis “light-echo” images morphed into nice video, but why so few original images? contains the following information below. There are other answers and more images there, so it's recommended to enjoy there as well.
+Question: What does V838 Monocerotis look like today? Have there been subsequent light echo image sequences, or is the party over?
+See also Why weren't the Hubble light-echo images of V838 Monocerotis supplemented by ground telescopes?
+
+
+The V838 Monocerotis expansion (not a supernova) and the observation of the subsequent "spectacular" light echo was quite a notable event! From Nature 422, 405-408 (27 March 2003)
+
+From Astronom. J. 135, 2, 2008 or ArXiv
+
+".Galactic light echoes are extremely rare. The only other known example of extent similar to that of V838 Mon was the echo produced by Nova GK Persei 1901 (Kapteyn 1902; Perrine 1902; Ritchey 1902). Following early misunderstandings, light-echo geometry was properly described by Couderc (1939), and more recent discussions are given by many authors, including Chevalier (1986), Felten (1991), Sparks (1994), Sugerman (2003), and references therein".
+
+It was the sole topic of an international conference photo from here:
+
+Figure 2 of the Nature paper describes the preservation of the actual light curve (history) within the structure of the light-echo shell:
+
+
+"FIGURE 2. HST images of the light echoes
+  The apparently superluminal expansion of the echoes as light from the outburst propagates outward into surrounding dust is shown dramatically. Images were taken in 2002 on 30 April (a), 20 May (b), 2 September (c) and 28 October (d). Each frame is 83" times 83"; north is up and east to the left. Imaging on 30 April was obtained only in the B filter, but B, V and I were used on the other three dates, allowing us to make full-colour renditions. The time evolution of the stellar outburst (Fig. 1) is reflected by structures visible in these colour images. In b, for example, note the series of rings and filamentary structures, especially in the upper right quadrant. Close examination shows that each set of rings has a sharp, blue outer edge, a dip in intensity nearer the star, and then a rebrightening to a redder plateau. Similar replicas of the outburst light curve are seen propagating outwards throughout all of the colour images."
+
+also see: This is an artificially constructed animation, morphing eight existing images to suggest what a higher cadence imaging campaign might have seen: https://www.spacetelescope.org/videos/heic0617a/

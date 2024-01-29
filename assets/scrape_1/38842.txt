@@ -1,0 +1,5 @@
+German equatorial mount
+
+I have a Celestron Astromaster 130 EQ. After aligning  my telescope's polar axis with Polaris, in order to track stars I need information about the coordinates in terms of right ascension (RA) and declination.
+But in all the astronomy apps I have found that they have fixed the RA and declination coordinates and are tracking stars with respect to azimuth and altitude.
+How am I supposed to use this data? Please help!

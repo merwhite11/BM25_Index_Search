@@ -1,0 +1,3 @@
+Horizontal and equatorial coordinate systems
+
+What is the difference between horizontal and equatorial coordinate systems apart from the notations (azimuth, altitude) and (right ascension and declination angle)? Please provide some measurements of stars with diagrams if possible and two diagrams comparing the measurements are taken by two different observers in the case of horizontal coordinate systems (since they are supposed to be relative to the observer so the measurements are supposed to be different-at least this is what i am told)

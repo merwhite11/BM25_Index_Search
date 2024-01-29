@@ -1,0 +1,11 @@
+Simbad, NED databases surface magnitude data?
+
+I can't seem to find data about surface magnitude of galaxies in Simbad.
+I can easily find the apparent and absolute magnitude ...
+Should I just try to compute the surface magnitude, given the apparent magnitude, and galaxy diameter (arc sec)?
+Do you know how to find surface mag in Simbad, or NED , Vizier?
+Will this give a reasonable estimate?:
+SurfaceB = m + 2.5 * log10(AngularArea)
+
+Aproximate Angular Area:
+AngularArea = pi * (galaxyDiameter/2)^2

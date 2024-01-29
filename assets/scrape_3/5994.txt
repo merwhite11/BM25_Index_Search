@@ -1,0 +1,8 @@
+Where does the Milky Way end?
+
+I was reading this article
+ and it says the following:
+
+Researchers measured the mass of the Milky Way and found that our galaxy is approximately half the weight of a neighbouring galaxy known as Andromeda which has a similar structure to our own. 
+
+So I was thinking, if we consider a galaxy neighbor to us, then our galaxy should be having an endpoint and the neighboring galaxy should be having a start point. So how do we know which is the starting and ending point of a galaxy, and how do we calculate it?

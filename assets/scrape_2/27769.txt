@@ -1,0 +1,9 @@
+Why does the adiabatic exponent decrease at the ionization zones?
+
+The context is the ionization zones in stellar atmospheres or interiors, the Sun, for instance.
+The adiabatic exponent is the heat capacity ratio:
+$$\gamma = \frac{c_P}{c_V} = \frac{C_P}{C_V}$$
+And, for an ideal gas, it can be shown that  $\gamma=(f+2)/f$ where $f$ is the degrees of freedom. Resulting in $\gamma\approx1.66$. 
+In most of the extent of the solar interior, $\gamma\sim1.66$ but it presents dips when ionization is present, like the H, HeI and HeII ionization zones. My question is why does this happen?
+I thought it could be because when ionization, the heat is used to ionize atoms instead of increasing the temperature and, therefore, the heat capacity would be larger in those regions. But, because the $\gamma$ is the ratio between the heat capacities, the argument does not work.
+Any suggestion?

@@ -1,0 +1,4 @@
+Is radar interferometry used, or feasible, for ground based astronomy?
+
+I've heard of "interferometric synthetic aperture radar" being used for Earth observation from satellites and airplanes. Is active radar used interferometrically for astronomical purposes too? Such as characterizing asteroids or space debris, or identifying volatiles in the polar craters of Mercury.
+Unfortunately for this idea, Arecibo and FASTare located 173 longitudinal degrees apart and have limited fields of view, so they can't observe the same object simultaneously.

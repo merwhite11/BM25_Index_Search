@@ -1,0 +1,101 @@
+Geological/tectonic/thermal/etc. implications of Rayleigh numbers ≥ 100,000,000
+
+What's a Rayleigh number? Well, it doesn't have anything to do with Rayleigh scattering. Here's a Wikipedia page on this concept, but I believe Elvira Mulyukova's and David Bercovici's Mantle Convection in Terrestrial Planets put it better:
+
+The competition between forcing by thermal buoyancy and damping by
+viscosity and thermal diffusion is characterized by a dimensionless
+ratio called the Rayleigh number.
+
+In other words, a Rayleigh number represents the ratio between how much hot mass in a convection current rises and how much the viscosity and thermal conductivity of the mass stop it from rising and bleed away its heat, respectively. In this case, the mass in question is the mantle of a terrestrial planet, and the convection current in question is mantle convection.
+Mantle Convection in Terrestrial Planets goes on to state the following:
+
+$Ra$ [Rayleigh number] needs to exceed a certain value, called the
+critical Rayleigh number $Ra_c$, in order to excite
+convective flow. The value of $Ra_c$ is typically on the order of
+1,000, with the exact value depending on the thermal and mechanical
+properties of the horizontal boundaries, (e.g., whether the boundary
+is rigid or open to the air or space, see Chandrasekhar, 1961).
+
+Therefore, it can be concluded that, if, within a body's mantle, the ratio of "stuff-forcing-its-way-up" to "stuff-being-held-down" is ≤ ~1,000, said body won't experience convective flow in its mantle. As far as I know, convective flow in the mantle is necessary for a body to have plate tectonics; this is supported by the fact that the Earth and Venus, with the highest Rayleigh numbers calculated here, are fairly volcanically active, whereas Mercury, with the lowest one, is a dead rock, and Mars, with the second-lowest one, features stagnant-lid tectonics, if I recall correctly.
+Continuing from Mantle Convection in Terrestrial Planets:
+
+Assuming their material properties are similar to Earth’s, we can
+estimate the Rayleigh numbers for the mantles of other terrestrial
+planets: ${10}^4$ for Mercury, ${10}^7$ for Venus, and ${10}^6$ for Mars. With the
+exception of Mercury, whose $Ra$ is at most an order of magnitude above
+critical, the mantle of the rocky planets in the solar system appear
+to be cooling predominantly by convection.
+
+Mulyukova and Bercovici calculated these Rayleigh numbers using the following values:
+
+
+
+
+Property
+Mercury
+Venus
+Earth
+Mars
+
+
+
+
+Density (kilograms per cubic meter)
+3500
+4000
+4000
+3500
+
+
+Surface temperature (degrees Kelvin)
+440
+730
+285
+220
+
+
+Core-mantle boundary temperature (degrees Kelvin)
+3000
+3500
+3500
+3000
+
+
+Mantle thickness (kilometers)
+400
+2900
+2900
+2000
+
+
+Gravity (meters per second squared)
+3.7
+10
+10
+3.5
+
+
+
+
+The gravity values (if not others) are slightly inaccurate and could use slight refining (for instance, 9.80665 $m/s^2$ rather than 10 $m/s^2$ for the Earth's gravity), but that's irrelevant to this question.
+For the purposes of this question, the equation for finding a Rayleigh number is: $Ra = \frac{ \rho g \alpha \Delta Td^3 }{\upsilon \kappa}$ where:
+
+$\rho$ = density of mantle
+g = planet's gravity
+$\alpha$ = thermal expansivity of mantle
+$\Delta T$ = difference in temperature between top and bottom boundaries of mantle
+d = thickness of mantle
+$\upsilon$ = viscosity of mantle
+$\kappa$ = thermal diffusivity of mantle
+
+My question is: what would the geology of a planet with a high (specifically, $Ra \geq 10^8$) Rayleigh number look like? The few planets for which I can find calculated Rayleigh numbers seem to fit a trend in which higher Rayleigh numbers correlate to more volcanism, more mountain-forming, more tectonic plates moving about, etc. Obviously, a sample size of 4 doesn't allow itself to accurate extrapolations, but that's why you're here: I'm asking this in the hope that someone more informed and/or qualified can provide further insight.
+Let's use four hypothetical planets here:
+
+$Ra = 10^8$
+$Ra = 10^9$
+$Ra = 10^{10}$
+$Ra = 10^{11}$
+
+If any of these are physically impossible, let me know.
+Even before this is answered, I think I can draw several conclusions myself. Such a planet would cool relatively faster than planets with low Rayleigh numbers (how much more quickly, and what the relationship between Rayleigh number and heat loss is, I don't know) as the convection currents within its mantle would carry heat away from its core more quickly. I think that this means that, if the Rayleigh number-to-surface-area ratio (and, therefore, the Rayleigh number-to-planetary-radius ratio) is greater than that of planets with equal surface areas and ratios, the geothermal gradient would likely be steeper; more heat would be soaking out of the ground per unit of surface area. I also imagine such planets would see more volcanism, more mountain-forming, more tectonic plates moving about, etc.
+I'm fairly sure this question fits Astronomy SE better than it fits Physics SE. If you think otherwise, let me know.

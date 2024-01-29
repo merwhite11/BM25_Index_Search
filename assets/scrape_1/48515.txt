@@ -1,0 +1,3 @@
+How does the gravitational interaction between dark a matter bulge and an ordinary matter disk affects stability over time?
+
+From Cosmology it is known that a spherical bulge of Dark Matter, that only interacts gravitationally, surrounds the nucleus of each galaxy, that has a spinning disc component of ordinary matter. How (referring to the mechanics of the system) does the gravitational interactions between dark matter and disc matter changes the stability of the disc? Is the disc of each galaxy expected to remain as one? Would it change shape or rotation rates? How is the dark matter behaving kinetically? is it rotating and how would this be related to the main question?

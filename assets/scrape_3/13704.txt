@@ -1,0 +1,18 @@
+Gravitational wave detection time difference between LIGO Livingston and LIGO Hanford
+
+Quote from LIGO's news release:
+
+By looking at the time of arrival of the signals—the detector in
+Livingston recorded the event 7 milliseconds before the detector in
+Hanford—scientists can say that the source was located in the Southern
+Hemisphere.
+
+GPS coordinates of LIGO Livingston: 30.5630018,-90.7763949
+GPS coordinates of LIGO Hanford: 46.4554032,-119.4092701
+Distance: 3030.13 km
+Now if the gravitational waves propagate outwards at the speed of light a difference of 7ms implies the following maximum possible detector distance:
+299792458 * 0.007 / 1000 = 2099 km
+
+Where am I wrong ?
+Update:
+As pointed out by james-k in the comments below, the calculated 2099 km is the minimum distance and not the maximum ... these waves seem to have caused some mental derangement ;)

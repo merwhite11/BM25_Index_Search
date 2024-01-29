@@ -1,0 +1,8 @@
+Does the Sun's light travel fast enough to have a straight path to Earth?
+
+When we travel through space, we use a curved path following an orbit to reach our destinations.
+
+As far as I'm aware, we could take a more straight line approach but it would require much more deltaV (both in reaching the speed and in slowing down when reaching the target to be captured.)
+However the path would still be slightly curved because of the curvature of space and because of orbital tracjectory when leaving Earth.
+Does the light escaping the Sun move fast enough to follow a straight line path until it hits Earth, or is it curved in those 8 minutes?
+What about to somewhere further like Pluto?

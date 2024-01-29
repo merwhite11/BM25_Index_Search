@@ -1,0 +1,7 @@
+Why is this video showing radio waves transmitted from a radio telescope?
+
+I saw this video at Space.com and I noticed that at 00:05 the animation illustrates waves propagating from space into The Dish at Parks Observatory, but at 00:50 the direction of propagation is reversed! Would there be some reason for transmitting - for example to create an artificial "star" for wavefront correction analogous to adaptive optics at visible wavelengths, or could it be simply a mistake in the animation?
+Here are some GIFs from screenshots. You can check the video at the indicated times. 
+circa 00:05
+
+circa 00:50

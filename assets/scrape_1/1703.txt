@@ -1,0 +1,4 @@
+Is it possible to calculate the time of day given latitude, longitude and solar elevation angles (zenith, azimuth, elevation)?
+
+I am trying to determine the time of day of some images I have.  I know the lat/lon, the day and year of image.  I also know the 3 solar angles (zenith, azimuth, and elevation).  Is there MATLAB or any other code that can do this calculation?
+Thanks!

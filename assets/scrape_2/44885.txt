@@ -1,0 +1,9 @@
+reference frames-healpix: projection parameters for smooth continuous tiles on a sky map
+
+I am working on a newly completed survey which uses healpix fits files on 1/8th of the sky. I would like to set a flat skymap which covers the entire sky but it seems this will create artifacts and warps as there is a maximum fov parameter.
+I wanted to know whether there is a way to create individual tiles of smaller portions of the sky in RA/DEC form, such as:
+let SK be the set of RA/DEC coordinates {(0, -90), (0, (0, -45), (0, 0), (0, 45), (0, 90), (45, -90), ..., (360, -90), (360, -45), ..., (360, 90)}
+Each tile has an fov of 45 as a square tile. the set gets stitched together as a flat image one can then scroll infinitely across.
+Is this feasable, or will warping occur everywhere?
+There are, as a note, 28 different types of projections so there might be a combination of parameters I can use to make this work?
+I use the HIPS python module which bases itself on the healpy, astropy and other similar astronomical modules.

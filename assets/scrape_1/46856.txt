@@ -1,0 +1,14 @@
+Obtaining the derived period of $\omega$ Canis Majoris
+
+I have read these two papers:
+
+On the nature of the Be phenomenon I. The case of ω Canis Majoris
+
+Stellar and circumstellar activity of the Be star ω CMa
+II. Periodic line-profile variability
+
+
+In the first one, the derived period is $(1.371906 \pm 0.000013)$ d.
+In the second one, there is a link to the first article (sect. 6.1, page 175) that claimed that according to Harmanec’s analysis, the period should have been varying between about 1.3362 and 1.4076 d. How did they obtain this range, please?
+The mean period is 1.371906 d. One assumes a strictly sinusoidal variation of the O-C changes, the best-fit period is (5650±400) d, the semi-amplitude of the variation is (0.174±0.017) and the mean O-C amounts to 0.940 P. This latter value implies that the epoch of maximum RV of ephemeris for the mean period should be corrected to HJD 2442805.802.
+How to compute from this information that the period should have been varying between about 1.3362 and 1.4076 d?

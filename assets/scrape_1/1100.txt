@@ -1,0 +1,3 @@
+How to measure the altitude and azimuth of a star?
+
+Given that the star is crossing the local meridian line in a certain location, I've tried calculating the altitude of a star by finding the difference between the declination of the star and the latitude of the position from where it is observed (which I believe is not correct). I'm so confused about that and it would be of great help if someone could explain the altitude calculation. Also, I'm wondering how to calculate the position of a place (latitude and longitude) while the declination and the right ascension of a star at the zenith is known.

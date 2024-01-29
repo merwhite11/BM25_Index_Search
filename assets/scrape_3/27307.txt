@@ -1,0 +1,6 @@
+How bright is Andromeda's center, in magnitudes per square arcminute or something similar?
+
+I'd like to know how bright the Andromeda galaxy's core is as an extended object, not the total integrated brightness.
+Ideally a contour map or scan across the center might show brightness in magnitudes per square arcminute or square arcsecond. Or a low power digital photo with some kind of brightness scale per pixel. Older images such as the one below are from emulsion and so if they are just scanned and uploaded they will not be linear.
+I don't even know where to begin to look for such a thing. Thanks!
+Below: "This picture shows M31 (NGC 224) and its small companions M32 (NGC 221), lower center, and NGC 205 (sometimes designated M110), to the upper right. The image was made by combining three separate frames derived from photographic plates taken in 1979 at the Burrell Schmidt telescope of the Warner and Swasey Observatory of Case Western Reserve University (CWRU)." From here.

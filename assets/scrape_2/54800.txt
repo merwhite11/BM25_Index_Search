@@ -1,0 +1,4 @@
+Why are segmented mirrors lighter than monolithic mirrors?
+
+Everywhere I look, it is recited as a quasi-mantra that "segmented mirrors are much lighter than monolithic mirrors", and I can't manage to find an explanation anywhere no matter how hard I look. To me, getting a monolithic mirror and cutting it up should provide strictly no weight savings.
+I get that it's not exactly "cutting up a monolithic mirror", and I understand that there are many other advantages to segmented mirrors, but where does this weight economy come from?

@@ -1,0 +1,3 @@
+Why the torque exerted by the moon upon the Earth makes the Moon to increase his orbit?
+
+For what I know, this torque exists because of the misalignment of the tidal bulge with the apsidal line Earth-Moon a certain angle $\alpha$, which makes the earth rotation to slow down a bit. But, how that pulls away the moon? I thought this "loss" of rotational momentum transferred into tidal heating. I fail to see how this energy is transferred into more orbital momentum, because I thought the conservation of angular momentum didn't have to do with the rotation of the objects. I mean, isn't true that $c$ remains constant in the two-body problem (being $c = \vec{r}\times \dot{\vec{r}}$)? How the rotation plays into that?

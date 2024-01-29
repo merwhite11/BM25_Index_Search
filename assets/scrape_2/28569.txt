@@ -1,0 +1,4 @@
+What area of Proxima Centauri would need to be occluded for the effect to be observable on Earth?
+
+One of ideas of how Breakthrough Starshot could communicate data from Proxima Centauri is to have a massive swarm of the solar sail powered craft to pivot (with their sails) synchronously, taking either 'sideways' or 'head on' orientation to the star - in effect either obstructing it or revealing for an observer 'behind' - on Earth. If the swarm is big enough, it would cause an observable dimming of the star - and timing the pivots right it could encode data in the star's visible luminosity.
+The primary question of viability of this idea lies in 'how big a swarm?'. What percentage, or what absolute area or a star like Proxima would need to be occluded for the effect to be observable? We can notice transition of exoplanets quite reliably so that would be the upper bound, but what's the smallest object area that would make a detectable difference?

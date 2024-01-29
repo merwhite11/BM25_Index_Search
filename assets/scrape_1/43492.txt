@@ -1,0 +1,6 @@
+What scales and types of EM and gravitational radiation do we expect to be given off by a black hole, in the final stages of evaporation?
+
+In theory, black holes of all sizes eventually evaporate, due to quantum processes close to the event horizon that result in net emissions that appear to come from the black hole (but actually originate just outside it), and which also reduce its mass.
+This suggests that subject to rotation and charge, all black holes that evaporate in isolation, in theory behave identically or at least probably very similarly in their final moments.
+But what does theory say about the nature of those emissions in the last seconds/milliseconds/attoseconds of an evaporating black hole's life? For example, power output/intensity, spectrum, periodicity if any (eg if rotating), and division between EM and gravitational?
+And what time scale might we focus on, in theory, if we wanted to observe interesting end-of-life phenomena? (By which I mean, for inspiralling BH we observe on the order of the last few tens of seconds with most phenomena appearing more visibly in the last 10 or so ms, what would the "most interesting observational interval" be for end of life BH?)

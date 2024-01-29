@@ -1,0 +1,11 @@
+Are there any ALMA or JCMT detections of extraterrestrial phosphine that have been confirmed by direct sampling?
+
+Please note that I am not a professional astronomer but an interested layman. I've informed myself on the matters below by perusing arXiv--there are likely other publicly-accessible primary sources I don't know about.
+Like many people, I am excited by the possible detection of phosphine on Venus. The most rigorous counterpoint to this claim thus far is probably this paper re-analyzing the initial paper's data and arriving at a different conclusion. It occurred to me that there may be extant data from actual probes that can shed light on the latter's analysis. This leads to four questions, listed in order of usefulness:
+
+Is there existing phosphine-related probe data from phosphine-producing gas giants (I've seen Jupiter directly mentioned) aligning or not aligning with Atacama Large Millimeter Array (ALMA) or James Clerk Maxwell Telescope (JCMT) observations?
+Is there existing non-phosphine-related probe data from Venus aligning or not aligning with ALMA/JCMT observations?
+Can these instruments make detections of phosphine in Earth's atmosphere, which could then easily be measured against physical sampling?
+Is there existing non-phosphine-related probe data from extraterrestrial bodies aligning or not aligning with ALMA/JCMT observations when interpreted using the same statistical methods as the initial Venus phosphine paper listed above?
+
+Any explanation on here or direction to relevant primary sources is much appreciated.

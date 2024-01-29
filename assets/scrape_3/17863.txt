@@ -1,0 +1,7 @@
+Deriving phase of a pulsating star from list of Julian date values of observing brightness
+
+I want to convert the list of Julian date values of observing brightness of a Cepheid variable into its phase.
+The equation I found in the Internet is the following:
+$$\mathrm{Phase}= \frac{\mathrm{HJD}-T_0}{P} - \mathrm{INT}\left[\frac{\mathrm{HJD}-T_0}{P}\right]$$
+What is the $\mathrm{INT}$ in this equation? I only know that $T_0$ is the one reference point among the list of Julian date values and $P$ is the period. 
+Also, what kind of criteria exist in determining the reference point?

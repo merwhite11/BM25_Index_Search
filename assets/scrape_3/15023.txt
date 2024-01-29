@@ -1,0 +1,5 @@
+LIGO gravitational wave chirp signal frequency
+
+This question is about the LIGO gravitational wave signals' frequency. The signals start from about 35 Hz to peak at about 250 Hz, giving evidence of gravitational waves. The question is about the exact frequencies the waves' detection started to the exact peak of the wave. 
+It seems the LIGO graphs show the peak is a little 
+above  250 Hz. Are there tables published by LIGO that put the start and peak frequencies as 35 to 250 Hz? The graph in the paper by Abbott, et al shows the start and peak (the start is around 36-37  Hz, the peak seems to be at around 256 Hz) - are there exact numbers (tables) for the start and peak, that one can reference?

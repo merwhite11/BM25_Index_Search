@@ -1,0 +1,5 @@
+Is there a single, most prominent helium line?
+
+There's a prominent spectral line at ~1420 MHz caused by hydrogen.  From what I can tell, this is the most notable electromagnetic emission from hydrogen in radio astronomy.
+Is there an equivalent helium line -- a single, prominent radio emission of helium in space?
+(And are there equivalents for other elements too?)

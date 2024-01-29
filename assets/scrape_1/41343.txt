@@ -1,0 +1,7 @@
+How can astrophysicists discriminate between pp-chain solar neutrinos and CNO-cycle ones?
+
+Astrophysicists at the Borexino experiment in Italy have recently claimed that they have detected CNO-cycle neutrinos coming from the Sun.
+It was the Cover story for the November 26 issue of Nature.
+I read the whole Paper, and accompanying editorial, yet unless I missed something, they do not say what makes a CNO-neutrino different from an ordinary pp-neutrino.
+They go to great lengths to describe how they excluded all types of background noise, but did not say whether CNO-neutrinos are higher or lower in energy than 'proton-proton chain' neutrinos....
+Presumably, CNO neutrinos are higher in energy than pp ones?  How many eV or keV?

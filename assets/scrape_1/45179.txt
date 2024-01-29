@@ -1,0 +1,22 @@
+How can a 1-pixel image of a rotating asteroid be used to measure its thermal inertia?
+
+Phys.org's Observatory in Chile takes highest-resolution measurements of asteroid surface temperatures ever obtained from earth discusses imaging of millimeter wave imaging of the surface of asteroid 16 Psyche by ALMA. Per Wikipedia, at over 200 km in diameter Psyche "is the most massive of the metal-rich M-type asteroids".
+It links to the extensive paper in the open access The Planetary Science Journal; The Surface of (16) Psyche from Thermal Emission and Polarization Mapping.
+The Phys.org summary discusses the thermal inertia of the surface. Roughly speaking that's how slowly an area on the surface heats up or cools down after local sunrise or sunset.
+A straightforward way do measure thermal inertia of a roughly spherical body that's rotating is to track the thermal radiation of a given area as it transitions back and forth between sunlit and dark (day and night) and gauge the slowness of the temperature change.
+Read about thermal inertia measurements of Mercury for example in:
+
+Why the thermal imaging of Mercury's surface requires a telescope on a jet flying through an eclipse?
+
+and answers therein.
+But then I read in Phys.org:
+
+Typically, thermal observations from Earth—which measure the light emitted by an object itself rather than light from the sun reflected off of that object—are in infrared wavelengths and can produce only 1-pixel images of asteroids. That one pixel does, however, reveal a lot of information; for example, it can be used to study the asteroid's thermal inertia, or how fast it heats up in sunlight and cools down in darkness.
+
+Question: How can a 1-pixel image of a rotating asteroid be used to measure its thermal inertia?
+
+
+
+Millimeter-wavelength emissions reveal the temperature of the asteroid Psyche as it rotates through space. Credit: California Institute of Technology
+
+Source

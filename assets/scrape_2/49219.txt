@@ -1,0 +1,3 @@
+Do protostars take longer to achieve H fusion due to gravitational sinking of heavy elements?
+
+After the death of the universe’s first generation of stars, the clouds from which new stars form will include elements heavier than hydrogen.  In the formation of a protostar from such a cloud, do heavier elements sink down toward the center?  If so, does this sinking dilute the concentration of hydrogen at the protostar’s core, and thus, delay the time until initiation of hydrogen fusion (i.e., a delay relative to when a first generation protostar would have initiated hydrogen fusion)? I suspect the concentration of heavier elements in the cloud is so small that any such delay would be small.

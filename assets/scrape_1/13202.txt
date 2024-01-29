@@ -1,0 +1,12 @@
+Is atmospheric turbulence irrelevant for ExoPlanetary transits and radial velocity measurments?
+
+Atmospheric turbulence is known to scatter photons in a quasi-random way along their path throughout the atmosphere, resulting in lower imaging resolution than would have been anticipated by instrument-only considerations.
+I have been thinking whether the same effects can play a relevant role in limiting the sensitivites for photometry in transits or for spectrometry in radial velocity measurments.
+My thoughts so far:
+
+Transits: as I'm no observer I don't know if atmospheric turbulence is actually strong enough to scatter source photons out of the line-of-sight, rendering them undetected. This would fiddle with the signal-to-noise ratio per measurment and would let it fluctuate over time.
+Radial velocity: Turbulence should be able to influence a spectral measurment from the ground, if the induced turbulent broadening is significant compared to the line width that can be resolved with the instrument considered. Taking the turbulence-induced doppler shift $\Delta v/c$ as $10cm/s /c \sim 10^{-7}$ (I assumed turbulent eddy-velocities to be comparable to typical winds) as typical for Earth's atmosphere, this should be  insignificant even for a high-resolution spectrograph like HARPS that has $\lambda/\Delta \lambda \sim 10^5$.
+However smaller eddies rotate faster, they could thus reach the detectability range when $\Delta v/c \sim 10^{-5}$
+
+Here my expertise in this topic ends, and I'd hope for someone from this community to illuminate the points above. Also googling usually only points to the benefits in direct imaging. 
+Bonus question: Would adaptive optics always help to remedy any issues that might arise?

@@ -1,0 +1,3 @@
+Why does this nucleogenesis table not label s and r-processes for all elements (not-labmade) past Fe?
+
+I'm reviewing nucleogenenesis and came across the table below. I like it because it actually labels the s and r-process elements, but I became confused as to why the neutron capture processes begin at A = 38. I thought anything with an atomic number greater than 26 has to be formed by neutron capture? What is my confusion here? Thanks in advance!

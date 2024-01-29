@@ -1,0 +1,5 @@
+Minimum Mass Solar Nebulae Scaling Factors
+
+I'm attempting to build a MMSN, I've been trying for about... a week to get an intuition on the scaling factors for calculating the mass of the disks, I'm not entirely sure how to think about it. I feel as if the concept is extremely simple but that I'm thinking of it incorrectly. Can someone explain what exactly these scaling factors account for and how one would calculate them? I'm not looking for a solution, I'm looking for intuition on how these scaling factors are found. 
+My understand is that you pick an element, (Fe), and compare that to the solar abundance (does this mean the abundance of Fe in the sun? From there I would look at the abundance of Fe in the cores of the planet and compare them somehow to get some sort of scaling factor. From what I understand Fe makes .14% of the suns mass, so if I know lets say that neptune has a mass of 17m(earth) how would I start finding the scaling factor. 
+Thanks!

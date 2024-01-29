@@ -1,0 +1,4 @@
+How could a captured asteroid enter a circularized orbit?
+
+Ok, the simple answer would be through gravity assists from moons, taking a ballistic capture orbit into a circular orbit. I am wondering the chances of a ballistic orbit becoming a stable (on the order of tens of millions of years) orbit around a massive body? How would an asteroid be captured by a moonless body (like Venus)?
+I know that a binary asteroid could transfer angular momentum to one component, causing one to be captured and the other to be ejected. Aerobraking won't work either because the orbit won't be stable and will impact the body in a short period of time. With these limited constraints in mind, would it be possible for a single, nonbinary asteroid to be captured by a celestial body without moons?

@@ -1,0 +1,76 @@
+Three Body Problem using Python
+
+I need help with an assignment. I'm doing a little project for a subject on my university and as the title says, its to find a solution to the three body problem restricted to a circular motion.
+The system of second order ODE's are as follows:
+$\dfrac{d^2x}{dt^2}-2\dfrac{dy}{dt}-x = -(1-\mu)\dfrac{x-x_1}{r^3_1} - \mu \dfrac{x-x_2}{r^3_2}$
+$\dfrac{d^2y}{dt^2}+2\dfrac{dx}{dt}-y = -(\dfrac{1-\mu}{r^3_1}+\dfrac{\mu}{r^3_2})y$
+And transforming the two ODE's into a system of first order we end up with
+$
+\begin{cases}
+\frac{dx}{dt} = x_3 \\
+\frac{dy}{dt} = y_2 \\
+\frac{dx_3}{dt} = 2y_2 + x - (1-\mu)\frac{x-x_1}{r^3_1} - \mu \frac{x-x_2}{r^3_2} \\
+\frac{dy_2}{dt} = -2x_3 + y - \left(\frac{1-\mu}{r^3_1}+\frac{\mu}{r^3_2}\right)y
+\end{cases}
+$
+Where $\mu$ it's the mass of the planet which has to be $\mu<1/2$ and $1-\mu$ its the mass of the star and $r^3_1 = [(x_1-x)^2+y^2]^{3/2}$, $r^3_2 =[(x_2-x)^2+y^2]^{3/2} $
+For the initial conditions I choose the Lagrange point L1 and also I wrote it for L2 so that I can see how the particle will behave.
+Here's my question; I wrote the code using Runge-Kutta (RK4) method, and I have my doubts on who to write down the code itself. Because I'm not so sure about the way I wrote the system and I would be glad if anyone could help me. The code is:
+import numpy as np
+import matplotlib.pyplot as plt
+plt.rcParams['text.usetex'] = True
+
+# Initial conditions, where I am going to throw the particle and with what velocity
+
+m = (1/1048)*500
+
+posj = [5.2,0] # Distance in astronomical units (ua) of the planet, opting for a supermassive Jupiter
+poss = [0,0]
+
+l1 = [posj[0]-(m/3)**(1/3), 0] # Lagrange point l1
+l2 = [posj[0]+(m/3)**(1/3), 0] # Lagrange point l2
+
+lag = np.array([l1,l2], float)
+r = np.array([poss,posj], float)
+
+vsj = [1,0] # Initial velocity of the super Jupiter
+vsp = [0,0] # Velocity of the particle
+
+ci1 = np.array([l1[0], 0, l1[1], 0])  # [x, vx, y, vy] launching the particle from l1
+ci2 = np.array([l2[0], 0, l2[1], 0])  # [x, vx, y, vy] launching the particle from l2
+#---------------------------------------------------------------------
+
+def eq(t, r):
+    x1, y1, x2, y2 = r
+    dx1 = vsj[0]
+    dy1 = vsj[1]
+    dx2 = vsp[0]
+    dy2 = vsp[1]
+
+    dxx1 = 3 * x1 - (1 - m) * (x1 - posj[0]) / (((posj[0] - x1) ** 2 + y1 ** 2) ** (3 / 2)) - m * (x1 - poss[0]) / (((poss[0] - x1) ** 2 + y1 ** 2) ** (3 / 2))
+    dyy1 = 3 * y1 - (1 - m) * (y1 - posj[1]) / (((posj[0] - x1) ** 2 + y1 ** 2) ** (3 / 2)) - m * (y1 - poss[1]) / (((poss[0] - x1) ** 2 + y1 ** 2) ** (3 / 2))
+    dxx2 = 3 * x2 - (1 - m) * (x2 - posj[0]) / (((posj[0] - x2) ** 2 + y2 ** 2) ** (3 / 2)) - m * (x2 - poss[0]) / (((poss[0] - x2) ** 2 + y2 ** 2) ** (3 / 2))
+    dyy2 = 3 * y2 - (1 - m) * (y2 - posj[1]) / (((posj[0] - x2) ** 2 + y2 ** 2) ** (3 / 2)) - m * (y2 - poss[1]) / (((poss[0] - x2) ** 2 + y2 ** 2) ** (3 / 2))
+
+x_val = []
+y_val = []
+
+# Integration parameters
+
+t = 0
+t_final = 120  # in years
+dt = 0.1
+num_steps = int((t_final-t)/dt)
+
+for i in range(num_steps):
+    x_val.append(ci1[0])
+    y_val.append(ci1[2])
+
+    k1 = dt*eq(t, ci1)
+    k2 = dt*eq(t + 0.5*dt, ci1 + 0.5*k1)
+    k3 = dt*eq(t + 0.5*dt, ci1 + 0.5*k2)
+    k4 = dt*eq(t + dt, ci1 + k3)
+    ci1 += (k1 + 2*k2 + 2*k3 + k4)/6
+    t += dt
+
+Thanks in advance!

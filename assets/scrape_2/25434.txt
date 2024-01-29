@@ -1,0 +1,8 @@
+How to trim CCD overscan and amplifier turn on/off regions
+
+I have begun reducing images I collected with a telescope and CCD detector. I read in the the "Handbook of CCD Astronomy" by Howell that I need to trim overscan regions (as well as possible amplifier turn on/off) regions before I can compute the gain of the detector. However, it is not thoroughly clear where this boundary is. 
+If we treat the CCD detector as a matrix of pixels, then I know that the overscan region is along the edge columns. To visualize this, I computed the average and standard deviation along each column of pixels to view the variation in intensity from column to column. Below I inserted the left side of two amplifier matrices on my CCD detector: 
+
+The blue is the column-wise average and the green is the column-wise standard deviation. The y-axis is the (arbitrarily scaled) intensity and the x-axis is the pixel distance from the edge of the CCD array. 
+My question is essentially: how much of the blue and green curve should I cut-off?
+Edit: additionally, it should be noted that I am using the method outlined in "CCD Data..." by Massey & Jacoby (1992) link to compute the gain.

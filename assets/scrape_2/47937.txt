@@ -1,0 +1,9 @@
+What is the connection between declination and latitude?
+
+The celestial equator is a projection of the terrestrial equator on the celestial sphere. So doesn't that mean the geographical latitude and the declination will be "exactly" equal, as they are measured from the same reference point (Celestial Equator = Geographical Equator)?
+$$\lambda = \delta \pm (90° - \rm{Altitude})$$
+latitude = the star's declination ± its zenith distance
+= the star's declination ± (90° - the star's altitude)
+Source : https://cseligman.com/laboratory/navcalc.htm
+So what is the meaning of this formula as Latitude = Declination?
+Also I'm unable to understand that plus-or-minus sign (north of zenith and south of zenith).

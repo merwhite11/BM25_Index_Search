@@ -1,0 +1,5 @@
+Best approximation for Sun's trajectory around galactic center?
+
+What is the current best approximation for the path the Sun takes around the center of the Milky Way?
+I have found some information on the approximate position of the Milky Way's center, the speed of the Sun's orbit, and the inclination/declination of the Sun's orbit. I have also seen models suggesting the Solar System oscillates up and down as it revolves around the galactic center.
+I am wondering if there is any agreed upon approximation (a 3d plot of position vs time) that includes all of these factors.

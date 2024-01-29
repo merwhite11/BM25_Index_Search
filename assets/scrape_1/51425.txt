@@ -1,0 +1,4 @@
+What is the probability that a photon that enters the aperture is registered?
+
+If I want to derive the probability that a photon that enters the aperture of a telescope is detected, how do I do that?
+This should be closely related to the quantum efficiency of a telescope, but from what I read it is not quite the same thing. Quantum efficiency is the ratio between the number of incident photons and the number of charge carriers collected at the terminals of a photosensor. But does every charge carrier get registered? Is it possible to derive the probability of a photon getting registered from a telescope's specifications?

@@ -1,0 +1,3 @@
+Is there a reason why the IAU differenciates objects in the SS orbiting the sun into a particular classification but it doesnt for satellites?
+
+The IAU has different classifications for objects in the solar system orbiting the sun, they can be according to their shape and if they clear their neighborhood of other material around its orbits , planets, dwarf planets or Small Solar System bodies. But for objects in the solar system orbiting a planet or a dwarf planet they are all satellites, no matter if they are rounded or if they have an irregular shape like an asteroid. Is there any known reason why this is so? Why is it needed to differenciate its shape when the object it's orbiting the sun, but it isnt needed when the object it's orbiting a planet? (or dwarf planet)?

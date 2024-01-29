@@ -1,0 +1,4 @@
+Can I look at the sky and find the day of the week?
+
+Suppose I wake up from a coma on a desert island in the 19th century (i.e. we already use the Gregorian calendar but have no satellites yet). I have a clear view of the sky and a couple of days to make observations and calculations. Can I determine the current day of the week? Also, can I find the answer instantly?
+On a related note, is it possible to define days of the week in a purely astronomical (e.g. planet-agnostic) manner such that for the Earth we get the traditional meaning?

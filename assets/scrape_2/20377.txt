@@ -1,0 +1,5 @@
+JPL DE Documentation
+
+I'm currently trying to write a C++ library that makes accessing binary data from a JPL ephemeris file easier. So far I sifted through the web, trying to find a good and thorough documentation about what is actually stored in there and how to work with the data.
+Does anybody know of a PDF/Book or something similar, that explains anything of that sort?
+Thanks in advance!

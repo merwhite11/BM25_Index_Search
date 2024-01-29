@@ -1,0 +1,17 @@
+Syntax for the naming of TESS data repository
+
+I'm following this and downloading & displaying the TESS image file in matplotlib. That works great.
+Now I'm trying to write myself a wrapper that allows me to specify in some config files what I want to get from that repo, & process them iteratively. In order to build a sensible/flexible structure, I need to better understand the syntax/naming convention. For instance, let's consider the first curl url for the calibrated FFIs for sector 43:
+
+https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2021259224859-s0043-2-2-0214-s_ffic.fits
+
+If I break down the naming:
+
+tess2021259224859: datetime in format yyyyddmhhmmss ?
+-s0043: sector in format sXXXXX
+-2: camera number?
+-2: ccd number?
+-0214: ??
+-s_ffic: s? ffic = full frame image calibrated?
+
+I'd like to better understand this in order to be able to parametrize the query urls in my application.

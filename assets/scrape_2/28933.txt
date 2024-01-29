@@ -1,0 +1,3 @@
+Why aren't corrector plates aligned with the center of curvature in an SCT?
+
+According to wikipedia, Schmidt corrector plates must be aligned with the center of curvature to eliminate the spherical aberration. However, in compact SCT designs by Celestron and Meade, that is clearly not the case since the optical tube is usually shorter than the radius of curvature of the primary mirror. My question here is WHY?

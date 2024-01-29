@@ -1,0 +1,10 @@
+What is Copernicus referring to when he states that "circles have poles different [from the earth's]"
+
+In chapter 4 of "The Revolutions of the Heavenly Spheres" where Copernicus maintains that the objects in our solar system have circular orbits or orbits compounded of several circles, the Edward Rosen translation of the book states this 
+
+It stands to reason, therefore, that their uniform motions appear nonuniform to us.
+  The cause may be either that their circles have poles different [from the earth's] or
+  that the earth is not at the center of the circles on which they revolve.
+
+To add context: Copernicus believes that features of orbit that are inconsistent to circular motion such as retrograde motion, apogee, perigee, fast/slow movement, etc... Don't actually occur in the orbits of the Sun, Moon, and the planets. Stating that the actual causes of the inconsistencies could either be that "their circles have poles different [from the earth's.]" Or that these objects don't revolve around the Earth.  
+I'm mainly concerned with what Copernicus is referring to when he states that the orbits of these objects "have poles different [from the earth's,]" and how (if true) it could produce these inconsistencies in orbits.

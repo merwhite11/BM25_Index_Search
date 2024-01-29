@@ -1,0 +1,3 @@
+Would we be able to discover a Voyager-style probe from a stellar civilization?
+
+If some stellar civilization sent a space probe (say something similar to our Voyager probes in shape/size/materials and communication capability) and it ended up in a regular orbit around the Earth in something below geosynchronous orbit, would we be able to randomly detect it?  This detection could be visually or via detection of RF emissions aimed towards its' origin location.

@@ -1,0 +1,25 @@
+How to calculate greenhouse effect on a planet (newbie)
+
+I built a calculator to calculate a planet's atmospheric pressure at an altitude with the formula below.
+
+How does greenhouse effect relate to the formula above? How to calculate it?
+I compared the results with the in-game data including same input data but it becomes less accurate the farther it is from sea level so something might be missing behind the scenes.
+Heres the ingame data:
+
+
+And my calculator results:
+
+
+As you can see, the atmos pressure in the in-game data and calculator are not reasonably close enough, maybe I could accept at least around ±1
+I searched and asked some people about greenhouse effect on atmospheric pressure
+
+Greenhouse effect isn't directly related to pressure. It's indirectly related to the partial pressure of greenhouse gases
+
+
+The most direct thing you could relate it to is the optical depth of the atmosphere in infrared (going as optical depth to the 1/4th power), but calculating optical depth from composition and pressures isn't straightforward either.
+
+
+At the most basic and as a learning tool, they're often treated as a surface + single layer with incoming radiation acting independently of re-emitted radiation. For more complexity, have multiple layers. For more complexity, treat each volume element and its emission in terms of solid angle and each tiny bit of wavelength.
+
+Apparently, the game was more of an emulator rather than a simulator, it could just make up data to make it seem believable and consistent with findings instead of full calculations.
+Other possible factors could be lapse rate (the formula above is the version that implies that lapse rate is 0) or Stefan-Boltzmann's Law/black-body radiation/effective temperature.

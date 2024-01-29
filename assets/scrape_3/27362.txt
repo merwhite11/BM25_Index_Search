@@ -1,0 +1,4 @@
+Ratios of magnitudes instead of differences
+
+The color index in the photometric system is defined by the differences in magnitudes between two wavelength filters, which gives the ratio of intensities. For example, to determine the B-V index, you'd need the magnitudes in the B band (which is centered on $\lambda = 445$nm) and in the V band, centered on $\lambda = 551$nm.
+But what about other operations? For instance, would there be any significance in taking, say, the ratio $B/V$ or $B\times V$?

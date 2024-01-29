@@ -1,0 +1,5 @@
+Inclination of planets
+
+Why do the planets have roughly the same inclination with respect to Earth?  
+Looking at the inclinations, which I got from http://www.astronomynotes.com/tables/tablesb.htm, we see that Mercury has the highest inclination at about 7 degrees with respect to Earth.  Why are there no inclinations at approximately 90 degrees, or even slightly less, like 45 or 30?  My guess is after some long time, gravitational influence causes all the planets to line up.  
+Question two is then: Do we know of any planetary systems where the planets have high degrees of inclination with respect to each other?

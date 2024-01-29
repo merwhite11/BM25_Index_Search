@@ -1,0 +1,3 @@
+Absorption line in quasar spectrum
+
+I have quasar spectrum which includes emission and absorption lines. I need to find absorption lines in between 2 wavelength. How can I do it with coding?

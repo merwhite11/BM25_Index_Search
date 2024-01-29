@@ -1,0 +1,4 @@
+How do we know how fast the surface of a neutron star is rotating?
+
+I understand that we can count pulses in time, but how do we know that the magnetosphere is rotating along with the surface of a neutron star?
+Can we measure the rotation of a neutron star in any other way like red-blue shifts? It should be pretty difficult due to the small radius and big distance but is it possible? Is it already done?

@@ -1,0 +1,3 @@
+Account for radiation energy in the statement "total energy of universe is zero"
+
+I've read in Hawking's book The Theory of Everything that total energy of the Universe is zero. He explained this by saying that if there are two bodies separated by a distance and having some mass, they possess potential energy and the same amount of negative energy  with the gravitational field. Thus he concluded that total energy of the Universe  is zero. But here I've a question: how do we account for energy which is in the form of radiation?

@@ -1,0 +1,12 @@
+What are those stars that cross the galactic center?
+
+I found this GIF by the European Southern Observatory (ESO) in the Wikipedia article on the galactic year, with the following description:
+
+Visualisation of the orbit of the Sun (yellow dot and white curve) around the Galactic Centre (GC) in the last galactic year. The red dots correspond to the positions of the stars studied by the European Southern Observatory in a monitoring programme.
+
+
+To the extent I understand, the red dots are stars in our galaxy. We can see their movement over one galactic year. Careful observation will reveal that there are stars that appear to simply move from left to right through the galactic center until they are out of the frame. What are they? I thought of 3 options (none of which I like):
+
+stars with high eccentricity
+intergalactic stars
+simply stars that seem to pass through the GC but really have about 90° inclination to the Sun's path plane, hence in this 2d projection they appear as such.

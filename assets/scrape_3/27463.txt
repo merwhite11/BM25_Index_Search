@@ -1,0 +1,4 @@
+What is the apparent rotation time for a planet relative to an other planet?
+
+Just my curiosity. This is not my assignment etc.
+Let planet A take m Earth days to complete one full round around the Sun, and planet B take n Earth days for one full round around the Sun. Assuming that both are orbiting in the same direction, what is the duration recorded by an observer on the planet A, as the number of Earth days the planet B took to complete one full round around planet A?

@@ -1,0 +1,12 @@
+How Does IceCube Trace a Neutrino to its Source?
+
+I read the following claim in an article (Lisa Grossman, "Origin of Cosmic Oddities Proposed," Science News, February 17, 2018, 8).
+
+... IceCube has already traced an especially high-energy neutrino to a single active black hole ... IceCube [Neutrino Observatory in Antarctica] could eventually trace neutrinos back to [active black holes in] galaxy clusters.
+
+Aren't galaxy clusters at least millions of light-years from Earth?
+
+Such neutrinos took millions of years to get to Earth.
+Other sources could have been in the path of the neutrinos in such a distant past.
+Are neutrinos affected by gravitational lenses as light can be?
+Is such tracing possible because neutrinos react so weakly with matter?

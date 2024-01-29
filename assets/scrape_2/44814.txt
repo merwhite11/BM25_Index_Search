@@ -1,0 +1,9 @@
+Determining inclination angle of interacting binaries
+
+Consider an interacting binary system.
+If the plane of their orbits is inclined by some angle $\theta$ around its semi major axis $a$ and some angle $\phi$ around its semi minor axis, is there a situation that when observed from earth it is not possible to determine whether the orbital plane is inclined or not?
+As far as I know inclination angle is determined by determining the displacement in the foci of the ellipse relative to the center of ellipse therefore I thought if $ae$ is not changed then it is not possible to determine inclination angle, using the following relation in ellipses:$$(ae)^2 = b^2 + a^2$$
+$$a^2 + b^2 = a^2\cos^2(i) + b^2\cos^2(n)$$
+$$\therefore \frac{a}{b}   =   \frac{\sin(n)}{\sin(i)}$$
+I conclude if the above condition holds then it is not possible to determine whether the observed ellipse is inclined or not, I was wondering whether this conclusion is valid or not.
+Also I wanted to know if Kepler's second and third law are affected by inclination angle and if they are can one determine the inclination angle using Kepler's laws?

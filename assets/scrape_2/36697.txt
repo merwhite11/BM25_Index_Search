@@ -1,0 +1,8 @@
+How did DSCOVR capture the Moon's shadow on Earth during the August 21 2017 solar eclipse without the Moon itself also being visible?
+
+
+In this gif you can clearly see the Moon's shadow moving from the West Coast of the U.S. towards the East Coast during the August 21 2017 eclipse.
+DSCOVR (the satellite that imaged this) is located at the L1 point, which is exactly between the Earth and the Sun, meaning it always sees the sun-lit part of Earth.
+But for a Solar eclipse to happen, the Moon also has to be exactly between the Earth and the Sun, and thus it should be visible in this gif.
+At first I thought it was because DSCOVR was closer to Earth than the Moon was, but it's actually more than 3 times farther away.
+Geometry dictates the Moon should be between the Earth and DSCOVR since DSCOVR itself is between the Earth and the Sun, so why isn't the Moon visible?

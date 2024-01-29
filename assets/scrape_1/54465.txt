@@ -1,0 +1,7 @@
+lunar north node in heliocentric terms?
+
+I am wondering how to get the heliocentric longitude and latitude for the Lunar North Node, for example.
+I have been able to extract from the Swiss Ephemeris api the geocentric and heliocentric longitude and latitude of the Earth's moon, as well as the geocentric Right Ascension and Declination of the Earth's moon.
+Unfortunately, it seems to me that the Swiss Ephemeris api consistently reports a value of zero for the heliocentric and geocentric longitude and latitude of the Lunar North Node and South Node. I have been able to extract from the Swiss Ephemeris api the geocentric Right Ascension and Declination for the Lunar North Node and South Node, but the heliocentric values are zero.
+I suspect that guidance has already been provided on this forum about how to transform Right Ascension and Declination values to Longitude and Latitude, but if I succeeded in doing that for the Lunar North Node, then I would expect my results to be expressed in terms of geocentric Longitude and Latitude only.
+Does anyone have a suggestion about how to get the heliocentric Longitude and Latitude, or alternatively the heliocentric Right Ascension and Declination of the Lunar North Node?

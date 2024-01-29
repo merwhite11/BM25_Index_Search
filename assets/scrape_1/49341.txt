@@ -1,0 +1,3 @@
+SAO Encyclopedia of Astronomy information
+
+I was reading about destructive interference in the SAO Encyclopedia of Astronomy. For some reason it says the first photo is destructive interference, when clearly, the amplitude increases, so it should be constructive interference. Is this a mistake in the encylopedia or am I missing some information? The second photo correctly shows destructive interference as they cancel to zero amplitude.

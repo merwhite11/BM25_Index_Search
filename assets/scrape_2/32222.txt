@@ -1,0 +1,9 @@
+Converting an RGB image to fits (astropy)
+
+I am trying to save a NumPy RGB array (a 3d array with dimension 512x512x3), to a .fits file using astropy.io.
+Saving this array to a .png file works fine, but when I'm trying to save it to a .fits file using HDUList.writeto, it produces just garbage colors. 
+Also, I have to reshape the image like so:
+img = img.reshape(img.shape[2], img.shape[0], img.shape[1])
+
+or it will try to store just 3 column of the image instead of 512.
+Each element in the 3d array contains a value between 0 and 255.

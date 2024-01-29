@@ -1,0 +1,5 @@
+Could a pair of binary black holes form within a star?
+
+After the discovery of gravitational waves by LIGO last week the team behind the Fermi gamma-ray telescope released a paper that showed a soft gamma ray burst was detected only 0.4s after the gravitational wave was detected at LIGO, and it was also located in the right area of the sky. This could be evidence of a gravitational wave source with a detected EM counterpart.
+Ultimately though the Fermi group resist claiming a full discovery as no electromagnetic signature is expected form a binary black hole merger, but whats interesting is that I saw another paper today that claimed a GRB could be caused by a binary black hole merger inside a massive rapidly rotating star. 
+Is such a system realistic or even possible?

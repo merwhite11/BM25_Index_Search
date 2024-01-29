@@ -1,0 +1,4 @@
+What are the color progression of a typical sunrise?
+
+"Dawn simulators" are used to simulate a natural sunrise, or at least the physiological effects of one.
+What temporal sequence of color values (e.g., hue, saturation, brightness, and timing) corresponds to a typical spring or summer sunrise? Are the methods for calculating changes in these values based on season?

@@ -1,0 +1,5 @@
+DESDM COADD image access
+
+I'm just starting a project to analyze some of the images obtained from the Dark Energy Survey (DES), and I'd like to get some of the COADD images from the SV data.
+For example, this paper: https://arxiv.org/pdf/1512.03062v1.pdf shows a series of images that are apparently from the 'DESDM database of coadd objects'.  Just looking at image (a) on page 3 of the paper, I can find images in the DES Y1 data from NOAO Science Archive at http://archive.noao.edu/ that show the objects in image (a) from the paper, but they are individual exposures - I can't find any COADDed images.
+Can anyone tell me how to get these COADD images?

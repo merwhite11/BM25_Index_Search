@@ -1,0 +1,4 @@
+Singularity in Laplace Method for Orbit Determination
+
+I have a question about Laplace angle-only method for orbit determination where the line of sight vectors are being interpolated. I read somewhere that the method fails (due to a matrix being singular) when the observation site is in the motion plane of the observed body, but failed to see proof for that. 
+Could anyone explain to me why is that?

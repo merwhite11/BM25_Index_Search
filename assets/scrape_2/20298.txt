@@ -1,0 +1,19 @@
+Calculating length of summer solstice day using tilt and latitude
+
+I want to be able to predict how long the summer solstice lasts at any part of world given the maximum tilt angle $φ = 0.4101524 \; \mathrm{rad}$ and the latitude $θ \; \mathrm{rad}$. I specifically want to do this using a geometric approach. The problem is, I never had experience with spherical trig before, and the values I got are somewhat off from their real values. So I want to know if that's because I didn't do the math correctly, and/or because of physical reasons (e.g. the Earth isn't perfectly spherical, the tilt changes slightly etc.).
+Here is how I did it:
+Let the Earth be represented as a perfect sphere of radius $R$ moving at a constant angular velocity. Let the Earth's rotational axis be in the z direction, and the axis of the circle forming the dark/light boundary be tilted by angle $φ$ relative to the Earth's axis. During the summer solstice, our location of interest (say, in the northern hemisphere) will trace out a circular path of radius $r < R$ perpendicular to the z-axis. These three circles, $C_{\text{rot}}$, $C_{\text{bound}}$ and $C_{\text{path}}$ create a spherical triangle. Using the arc length $s$ of this triangle along $C_{\text{path}}$, we can calculate the length of the day in hours using: $$24 \times \frac{πr + 2s}{2πr}$$
+The point where $C_{\text{rot}}$ and $C_{\text{path}}$ meet is located at $$P(\text{rot/path}) = (R\cosθ, 0, R\sinθ)$$
+To find the point where $C_{\text{bound}}$ and $C_{\text{path}}$ meet, we first observe that $$y = \sqrt{R^2 - x^2}\sinφ$$ and $$z = \sqrt{R^2 - x^2}\cosφ$$
+Which we can solve for $x$ by setting $z$ equal to the $z$ from the previous point
+$$x = R\sqrt{1 - \frac{\sin^2θ}{\cos^2φ}}$$
+Plugging this back into $y$ and $z$, we finally get
+$$P(\text{bound/path}) = \left (R\sqrt{1 - \frac{\sin^2θ}{\cos^2φ}},R\sinθ\tanφ,R\sinθ \right )$$
+Now these two points are on the same plane in the z-axis, which is the plane of $P_{\text{path}}$. The distance $d$ between these points is 
+$$d = \sqrt{\left (R\sqrt{1 - \frac{\sin^2θ}{\cos^2φ}} - R\cosθ \right)^2 + R^2\sinθ^2\tan^2φ}$$
+From this we can get $s$ by using the arc length formula:
+$$s = 2\arcsin \left (\frac{d}{2r} \right )r$$
+I used Mathematica to compare the calculated and expected values in 2017:
+New York: $θ = 0.7105724077$; length (calculated) = 14 hours 56 minutes; length (expected) = 15 hours, 5 minutes
+London: $θ = 0.8989737191$; length (calculated) = 14 hours 25 minutes; length (expected) = 16 hours, 38 minutes
+As you can see, there is a noticeable difference (10+ minutes).

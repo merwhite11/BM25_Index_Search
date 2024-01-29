@@ -1,0 +1,6 @@
+Why is the peak value(s) of the spectral radiance of the CMB different if you calculate with freq. instead of wavelength?
+
+On Wikipedia, the calculated value of the peak frequency of the cosmic microwave background is 160.23 GHz, but it says if you do the calculating with wavelengths, then convert to frequency, you get a value of 282 GHz.
+Why the difference?
+There used to be an answer on Quora, I believe, but I can't find it anymore...
+Something to do with the summation using integral calculus, I believe...

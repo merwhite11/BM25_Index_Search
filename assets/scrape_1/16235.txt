@@ -1,0 +1,3 @@
+A quick (elementary) check on arsecond conversion to sky distance in parsecs
+
+I just wanted to double check I had something correct. If an object, say a nebula, is measured to roughly have a diameter or extent of, say, 250 arcseconds, would its diameter in parsec simply therefore be 250 parsecs?

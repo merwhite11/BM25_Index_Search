@@ -1,0 +1,3 @@
+Is it true that the 3 body problem can't be solved using the four basic functions, radicals, and integrals?
+
+The two-body problem can be completely solved via two one-body problems, which only uses the four basic binary functions. However, the three-body problem cannot be solved with these functions and first-order integrals. So I am wondering, is there any finite numerical solution to the three-body problem?

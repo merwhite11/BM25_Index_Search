@@ -1,0 +1,6 @@
+Why can four-eight "rays" be seen around all stars in astronomy photographs from the Hubble Space telescope?
+
+In famous astronomy photographs from the Hubble Space telescope such as the Pillars of Creation, each star has four rectilinear "rays" projecting out in the intercardinal directions, and sometimes four additional rays in the cardinal directions.
+
+I assume this is some effect of the photography technique of the Hubble telescope - in the images from the James Webb space telescope six rays can instead be seen.
+What is causing this effect?

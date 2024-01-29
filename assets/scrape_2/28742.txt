@@ -1,0 +1,14 @@
+From original burst, fraction of stellar mass still surviving on Main sequence
+
+Suppose that all stars in this galaxy were born in a single major-merger burst event about 10
+Gyr ago. From this original burst, I want to compute the fraction of stellar mass still surviving as stars in the
+main sequence ? For this, I have got to use a Salpeter IMF, and a star formation range between 0.1 and 120 solar
+masses.
+What I have done is starting from Salpeter IMF : $$\Phi(m)\text{d}m=\Phi_{0}\,m^{-2.35}$$
+with $$\Phi_{0}$$ a constant normalization.
+From this, I integrate from $$m_{1}=0.1\,\text{M}_{\odot}$$ to $$m_{2}=120\,\text{M}_{\odot}$$
+$$N(0.1<m<120) = \int_{0.1}^{120}\,\Phi(m)\,\text{d}m = \Phi_{0}\,\bigg[\dfrac{0.1^{-1.35}-120^{-1.35}}{1.35}\bigg]$$
+This result depends on the valeur of $$\Phi_{0}$$ and I don't know how to deal with it in order to get $$N(0.1<m<120)$$ ?
+Moreover, it seems that I have to take into account of the age of the major-merger burst event (10 Gyr).
+From these 2 principles, how could I calculate the fraction of stars surviving in the main sequence ?
+Any help is wlecome, Regards

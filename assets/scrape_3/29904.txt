@@ -1,0 +1,17 @@
+What causes cold temperature extremes?
+
+Recently I looked into the coldest(and hottest, but in another question) natural places. I discover this to be the Boomerang Nebula, with a freezing temperature of about −272.15 °C. Then I looked at the reason.
+
+The outflowing gas is moving outwards at a speed of about 164 km/s and
+expanding rapidly as it moves out into space; this gas expansion
+results in the nebula's unusually low temperature.
+
+https://en.wikipedia.org/wiki/Boomerang_Nebula
+
+This allows the gas to lose its heat. It works on the same principle
+as that of refrigerators where expanding gas allows cooling.
+
+https://factslegend.org/20-interesting-boomerang-nebula-facts/
+
+
+Now I am sort of confused. How exactly can expanding gas lose heat, and lose it to such extent? And gas should cool to the "universal surface temperature", or the cosmic microwave background temperature if it stays there. However, it cools 2 °C lower. How does this happen? Would there be bose-einstein condensate matter there?

@@ -1,0 +1,5 @@
+At what cosmological redshift $z$, does the recession speed equal the speed of light? How is it calculated?
+
+At what cosmological redshift $z$, does the recession speed equal the speed of light?
+What equations are used to calculate this number (since at large redshifts, $z=v/c$ won't apply)?
+[The interested reader may refer to answers on Physics SE.]

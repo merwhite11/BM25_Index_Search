@@ -1,0 +1,3 @@
+What is the unit used for star brightness due to skyglow?
+
+What is the name and unit of the quantity in which star brightness due to skyglow is measured? How can it be measured from RAW image files of stars?

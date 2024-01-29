@@ -1,0 +1,4 @@
+Velocity of the object in Binary system
+
+
+how to i can calculate the velocity of the object? If i know the distance of the object from the center of mass, and i know distance between the two (identical) ellipse center... (the two object has the same mass) and of course we know the ellipses semi-major and -minor axis

@@ -1,0 +1,6 @@
+Which star has a higher effective temperature, a red dwarf or a red giant?
+
+According to the Hertzsprung-Russell diagram, they would roughly have the same temperature, but I've read in bibliography that the surface temperature of the red giant is about 5000K
+and the one of the red dwarf can be down to 2000K. Which one would have the higher effective temperature?
+In case they had the same. Would the color of a star define its effective temperature, regardless its size?
+Many thanks!

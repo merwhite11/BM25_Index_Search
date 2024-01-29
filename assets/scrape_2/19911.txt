@@ -1,0 +1,6 @@
+In zero gravity - I'm floating inside a torus as they spin it up, do I float do the "ground"?
+
+Imagine this scenario - I'm in a space station with one of those huge torus shaped constructions, that you spin to simulate gravity through centripetal force. But it's turned off right now, so I'm floating in the air.
+
+When happens when they turn it on and it starts spinning?
+I can imagine what would happen if I was grabbing on to something. I'd be pulled around, and the angular velocity would drag me to the outer part of the torus. But if I'm just floating there, with no friction to the ground to catch me, do I stay put, with the thing just whizzing past me?

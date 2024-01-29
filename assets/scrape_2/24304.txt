@@ -1,0 +1,3 @@
+Expression for length of sunrise/sunset as function of latitude and day-of-year
+
+I would like to know how the length of sunrise/sunset (and also time between civil/nautical/astronomical twilight) varies with latitude and with day of year. Ideally what I am looking for is an expression that takes latitude and day-of-year as arguments and outputs the time taken for the sun to rise or set at that latitude on that day.

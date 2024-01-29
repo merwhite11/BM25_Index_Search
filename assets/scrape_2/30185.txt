@@ -1,0 +1,5 @@
+Do white dwarfs lose mass as they fade to black dwarfs? Is there a correlation between temperature, mass, and radius?
+
+I'm having a difficult time understanding certain behaviors of white dwarfs.
+I understand how mass is lost in the red giant to white dwarf transition process. I understand that white dwarfs can accumulate mass from a partner binary or some other source and I'm aware of the 1.4 M☉ Chandrasekhar limit. I get that they're not losing all their mass; in general they're just cooling and in the end there will be a lone black chunk of crystallized material floating forever in the void. I know they are really insanely hot when formed and very cold after an unfathomable amount of time. But is it that same, initial mass, or does it somehow diminish?
+But is that initial mass the mass the remnant has after its cooled to a black dwarf? I guess what I'm asking is that I'm trying to figure out if there is a correlation between temperature, mass and radius. Some sort of equation?

@@ -1,0 +1,3 @@
+Position Angle Relative to North
+
+I am trying to find the position angle of a star whose Ra and dec are known. I have already looked at the 'Measuring misalignment between two positions on sky' question and answer, but the answer gives an undefined solution if one of the points is the North Celestial Pole (NCP). I would appreciate if anyone could tell me how to find an object's position angle given its equatorial coordinates.

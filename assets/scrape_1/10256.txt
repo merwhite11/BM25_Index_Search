@@ -1,0 +1,9 @@
+Gravitational pull needed to keep a gas in atmosphere
+
+How can you determine the gravitational force needed to keep a particular gas in the atmosphere of a planet (for example, carbon dioxide (CO2))?
+I came across the following formula $\left(\frac{8RT}{πM}\right)^{0.5}$
+here: http://www.tau.ac.il/~roichman/CVI/hw1/hw1.pdf
+$M$ = Molecular mass 
+$R$ = Gas constant
+$T$ = Temperature
+Would this formula apply?

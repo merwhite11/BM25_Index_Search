@@ -1,0 +1,18 @@
+Are harmonic relationships among the rotation periods of the planets well known? Are they factors in other planetary phenomena?
+
+Every 39.88 minutes 10 degrees ($\frac{360^\circ}{36}$) of arc passes over the zenith. It can also be stated that the 36th harmonic of the rotation period of the earth (1435.8 min) is equal to 39.88 min. Note the similar relationships with the rapidly rotating planets:
+
+Mars, rotation period of $\frac{1477.2 min}{\text{harmonic of }37} = 39.92$
+Jupiter: $\frac{595.8}{15} = 39.72$
+Saturn: $\frac{639.6}{16} = 39.98$
+Uranus: $\frac{1035}{26} = 39.81$
+Neptune: $\frac{966.6}{24} = 40.28$
+
+For the slowly rotating planets, and the Moon, the numbers are larger, but still very close to 39.88:
+
+Mercury: $\frac{3520.2}{88} = 40.00 \text{     } (88 = 22 \cdot 4)$
+Venus: $\frac{14582.4}{368} = 39.63 \text{     } (368 = 23 \cdot 16)$
+Pluto: $\frac{9223.2}{232} = 39.76 \text{     } (232 = 29 \cdot 8)$
+Moon: $\frac{39343.68}{992} = 39.66 \text{     } (992 = 31 \cdot 32)$
+
+The questions are: Are these relationships well known? Are they factors in other planetary phenomena?

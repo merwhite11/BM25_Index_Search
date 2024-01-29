@@ -1,0 +1,4 @@
+Time average of radial velocities of multiple galaxies
+
+Equation (34) in this paper shows an average radial velocity. The author wrote that the value was obtained by measuring the radial velocities of many galaxies in the cluster of galaxy and by averaging the velocities over time and again over the different galaxies.
+How do you obtain the "time average" of a radial velocity? When you measure the doppler shift of an object, does it give only the time average, or would you have to measure velocity over a long time? If the latter is the case, what would be the common time scale for averaging?

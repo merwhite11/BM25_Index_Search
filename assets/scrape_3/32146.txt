@@ -1,0 +1,5 @@
+Hottest Possible Hydrogen-Fusing Stars
+
+I guess this is more a question about stellar models than anything else. I was wondering what is predicted to be the hottest possible stars that would still be hydrogen-burning. 
+What complicates this more is that the most massive stars will probably only sit close to the main sequence (as very early O-type) for several thousand years before gaining a WNh spectrum despite still being relatively early in the lifetime. So I'll be somewhat more precise and ask what is the hottest possible star predicted at ZAMS that won't just blow itself apart by radiation pressure. 
+Also tangential to the topic but have there been any stars found with an O1 spectrum, and is this even a spectral type that has models made for it?

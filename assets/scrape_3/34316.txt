@@ -1,0 +1,3 @@
+Do planets orbit the sun in ellipses because of sun movement vector?
+
+The assumption is made that the planets of our solar system all have elliptical orbits elongated in the same direction. Further, generalized to that orbits around any object with its own orbital vector should have elliptical orbits, including moons orbiting planets.

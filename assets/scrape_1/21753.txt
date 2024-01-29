@@ -1,0 +1,28 @@
+"Mysterious radio signals" - how could a geostationary satellite and Ross-128 line up with Arecibo?
+
+The Phys.org article 'Mystery' signal from space is solved. It's not aliens cites a summary of the conclusion "by Abel Mendez, director of the Planetary Habitability Laboratory at the University of Puerto Rico at Arecibo in a blog post Friday, revealing the true nature of the signals."
+
+After further fueling speculation by summoning the world experts in the hunt for life elsewhere in the universe—The SETI Berkeley Research Center at the University of California—the team issued its conclusion.
+"We are now confident about the source of the Weird! Signal," Mendez wrote.
+"The best explanation is that the signals are transmissions from one or more geostationary satellites."
+The signals only appeared around Ross 128 because it is located "close to the celestial equator where many geostationary satellites are placed," Mendez added.
+
+The article also goes on to say:
+
+Astronomers detected strange signals that seemed to be coming from a dwarf star about 11 light-years away, but have now determiend that the signals are interference from a distant geostationary satellite
+
+Mendez is further quoted the Space.com article Weird Radio Signals Detected from Nearby Red Dwarf Star:
+
+Each of these hypotheses has its issues, he said. For example, solar flares of the type that could be responsible generally occur at lower frequencies. In addition, Mendez wrote, there aren't a lot of other objects in the Ross 128 field of view, "and we have never seen satellites emit bursts like that."
+
+and in the Space.com article Not Aliens: Weird Radio Signal from Star Likely Has Duller Explanation:
+
+"This explains why the signals were within the satellite’s frequencies and only appeared and persisted in Ross 128; the star is close to the celestial equator, where many geostationary satellites are placed," Mendez added. "This fact, though, does not yet explain the strong dispersion-like features of the signals (diagonal lines in the figure); however, it is possible that multiple reflections caused these distortions, but we will need more time to explore this and other possibilities."
+
+Wikipedia lists the star Ross 128 at at declination of about +0° 48', and the latitude of the Arecibo telescope to be about +18° 21'. Satellites in geostationary orbits are in a circular ring approximately coincident with the equator at a distance from the center of the Earth of only about 42,000 km. From the Northern hemisphere, geostationary satellites will appear several degrees south in declination. (See this interesting answer.)
+For Arecibo, I calculate about -3.2° declination.
+QUESTION: How could a radio telescope have picked up satellite signals from a satellite at about -3.2° declination while observing a star at +0.8° declination? And why wasn't this immediately ruled out - surely radio telescopists know about satellites by now, especially the crowded ring of geostationary satellites! Aren't there standard procedures to rule these out before making announcements?
+Could the half-angle acceptance really have been 4 degrees? Since the brown red dwarf is extremely close to the solar system, could proper motion put it 4 degrees away from the value listed in Wikipedia?
+
+
+above: "The signal that seemed to emanate from the red dwarf star Ross 128, as detected by the Arecibo Observatory in May 2017 (enclosed in the red frame)." Credit: PHL @ UPR Arecibo  From here.

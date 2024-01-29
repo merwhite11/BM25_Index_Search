@@ -1,0 +1,22 @@
+Calculating the absolute magnitude of a solar system body
+
+I am trying to calculate the absolute magnitude of a solar system object, given its albedo, and assuming all of its luminosity comes from reflecting light from the sun. Using $L_{sun}$ = solar luminosity, $L_0$ = zero-point luminosity, $r$ = distance from sun to object, $A$ = object albedo, and $R$ = radius of object (assuming spherical), here is my logic:
+
+Solar flux reaching out to the object's distance is $F_r = \frac{L_{sun}}{4\pi r^2}$
+Amount of light captured by the object's surface (half a sphere) is $F_s =  2\pi R^2 F_r$
+Luminosity (total flux emitted) of object is $L = AF_{s}$
+Absolute magnitude of the object is $M = -2.5log_{10}\frac{L}{L_0}$
+
+However, something is wrong with this. I did a sanity check using Ceres, which should have an absolute magnitude around 3.3. I'm getting that its much much dimmer than it should be. I know my estimate is very rough, but clearly I'm off in some large way.
+D = 5e5 # radius of Ceres [m]
+Ls = 3.83e26 # intrinsic L of sun [kg/m2/s3]
+L0 = 3.01e28 # zero-point L [kg/m2/s3]
+A = 0.09 # albedo of Ceres
+r = 4.19e11 # distance from sun to Ceres [m]
+Fr = Ls /(4*np.pi*r**2)  # Solar flux reaching distance of Ceres [W/m2]
+Fs =  2*np.pi*D**2 * Fr # Light captured by Ceres surface [W]
+L = A*Fs # Intrinsic L of Ceres if only from reflecting sun [W]
+M =  -2.5 * np.log10(L/L0)  # Absolute M of Ceres   
+print(f'Calculated M={M})
+
+This outputs M = 37.7. Am I missing some source of brightness? Is the logic of my formulation wrong? Do I have an issue with units?

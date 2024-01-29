@@ -1,0 +1,6 @@
+What is the radiant intensity of the celestial sphere?
+
+Specifically, excluding the Sun and the Moon:
+How much energy, as light and other frequencies reaches a point in space on the average, if you add up all the sources like distant stars, the Milky Way, distant galaxies, nebulae etc.? How much brighter is the space than "perfect blackness" on the average?
+Say, we've developed a magical solar battery that has 100% efficiency, can absorb all electromagnetic frequencies, is spherical, fully omnidirectional and has $1 m^2$ of cross-section surface (56cm radius);  we sent it out halfway to Proxima Centauri and we measure how much power it produces - how many watts we'd get out of the battery utilizing all the starlight available?
+Note: If "all frequencies" is not easily obtainable, the luminous counterpart to radiant values will be okay (only taking visible spectrum into account).

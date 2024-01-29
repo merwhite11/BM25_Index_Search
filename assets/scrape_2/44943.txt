@@ -1,0 +1,6 @@
+Spectral lines of the Sun?
+
+If I remember correctly, the pp chain and (partially) the CNO cycle are the dominating set of reactions in our Sun. On the other hand, the composition of the Sun has many more elements/isotopes than only those involved in the above mentioned reactions:
+
+My question: Can I somewhere find the complete network of reactions taking place in the Sun?
+Edit: What I am actually after is to answer more scientifically the children's question: "What happens if I throw something in the Sun?" and my answer was always "It burns." but I am now wondering about the "How does it burn?"

@@ -1,0 +1,5 @@
+Can a telescope detect a blackbody?
+
+I'd like to determine the distance at which a telescope with a certain set of parameters (sensitivity, collector area) can detect a blackbody with certain other parameters (temperature, emitting area).
+For example, let us suppose we have an infrared telescope with a sensitivity of '1Jy/sr' and a collector area of 10m^2 at a distance D from a 300m^2 perfectly black body at a temperature of 30 Kelvin. 
+How do I determine D? What additional information do I need to perform the calculation?

@@ -1,0 +1,7 @@
+Does a more massive main proto-body result in more massive satellites? More satellites?
+
+Suppose that we have a forming protostar and an accompanying protoplanetary disk.
+Does the mass of the protostar have any direct relation to the masses of resulting planets or amount of resulting planets?
+https://www.aanda.org/articles/aa/pdf/2011/06/aa16528-11.pdf seems to suggest that it has an impact on mass as it describes the situation of one singular system, but does not detail anything on the amount of planets. It is also does not give a general answer.
+Likewise, what about the planets themselves? Assume we ignore any captured satellites after formation. Say we have a protoplanet with a certain mass. How would this affect the masses of the resulting moons and amount of moons?
+Looking at the solar system, it seems to have a directly proportional relationship as we go from say Neptune to Jupiter, but what if we have a 10 Jupiter mass planet somewhere... would this have more massive moons, more moons, or both?

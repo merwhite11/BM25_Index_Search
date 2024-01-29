@@ -1,0 +1,5 @@
+How to calculate the distance of "3C 147"
+
+According to Simbad ( http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=3C+147 ), the parallax is 0.0471 which would put it at a distance of 69,249 Light Years by using https://www.translatorscafe.com/unit-converter/en-us/calculator/parallax-distance/
+This would put it inside or outside the Milky Way but Wikipedia puts it at 5.1 Billion which seems more correct.  Although the indirect page at Caltech says 5.2.
+How can I calculate the distance of 3C 147 using the parallax from Simbad, by using another formula or its not possible as parallax at Simbad doesn't refer to distance.

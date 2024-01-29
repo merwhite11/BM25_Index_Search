@@ -1,0 +1,3 @@
+What leads an observer to choose a narrow slit over a wide one (and vice-versa) when observing?
+
+In spectroscopy, a wide slit will lead to lower spectral resolution while too narrow of a slit will reduce incoming flux from the object. From what I read, it appears as though there is always a balance between spectral resolution and throughput. I'm looking for examples when an observer may choose one "extreme" over the other. ie. a very narrow slit or a wide slit (let's leave slitless spectra out of the convo for now unless relevant). What types of scenarios would motivate an observer towards one of the tradeoffs?

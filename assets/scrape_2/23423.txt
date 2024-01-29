@@ -1,0 +1,3 @@
+Delay between neutrino pulse and visible flash of supernova
+
+If you were orbiting a star undergoing a core-collapse supernova, what would be the delay between the neutrino pulse from the collapse and the first visible effects on the surface? Basically, I'm trying to get a scientifically-plausible gauge of the warning time given by said neutrino pulse.

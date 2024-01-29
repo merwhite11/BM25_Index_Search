@@ -1,0 +1,8 @@
+Planetary Declination and Axial Tilt
+
+Is it a coincidence that Earth's axial tilt and maximum declination are both approximately 23 degrees? 
+Mechanically speaking, do planets physically cross the Solar equator, or is declination due to the axial tilt angle? The later is difficult to visualize given variety of planetary axial tilts i.e Mercury 0, Jupiter 4, Earth and Saturn 23 degrees approximately. 
+I'll try and give a concise example. At JPL's Horizons you can download data of RA and DEC for all planets and objects placing either Earth or the Sun at the center. This will calculate the Declination of a planet geocentrically or heliocentrically.
+The calculations suggest all planets will obtain a maximum declination North and South between 23° and 28° (i.e Mercury reaches 28° when viewed from the Earth). Earth's axial tilt (obliquity) at 23.45° matches its maximum declination N/S.
+However, Mercury's Axial tilt is 0° and Jupiter 3.13° so if declination is the angle between the ecliptic plane and the celestial equator how do Mercury and Jupiter obtain maximum declination of 23° and 28° N/S?
+I'll appreciate any help clarifying this.

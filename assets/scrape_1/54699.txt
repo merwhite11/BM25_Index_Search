@@ -1,0 +1,27 @@
+Apsidal precession
+
+I found this article about calculating apsidal precession:
+https://farside.ph.utexas.edu/teaching/336k/Newton/node115.html
+I tried to calculate rate of apsidal precession from this equation, but I had totally different results from that from paper. My calculated valuese are around 10^-5 arcsec/year. Did I do something wrong? My calculations are as follows:
+I did my calculations in Excel to make it easier. The table looks like this:
+
+Bottom part with green and blue cells are calculations of that summations. Green cells are $$(Mj/M0)*(ai/aj)^3(1+15/8*(ai/aj)^2+175/64*(ai/aj)^4),$$ blue cells are $$(Mj/M0)*(aj/ai)^2(1+15/8*(aj/ai)^2+175/64*(aj/ai)^4)$$ The rightmost columns is summation of all these terms in the row.
+The first row of green cells have following commands (from left to right):
+=$E$4POWER(C3/$C$4;3)(1+15/8POWER(C3/$C$4;2)+175/64POWER(C3/$C$4;4))
+=$E$5POWER(C3/$C$5;3)(1+15/8POWER(C3/$C$5;2)+175/64POWER(C3/$C$5;4))
+=$E$6POWER(C3/$C$6;3)(1+15/8POWER(C3/$C$6;2)+175/64POWER(C3/$C$6;4))
+=$E$7POWER(C3/$C$7;3)(1+15/8POWER(C3/$C$7;2)+175/64POWER(C3/$C$7;4))
+=$E$8POWER(C3/$C$8;3)(1+15/8POWER(C3/$C$8;2)+175/64POWER(C3/$C$8;4))
+=$E$9POWER(C3/$C$9;3)(1+15/8POWER(C3/$C$9;2)+175/64POWER(C3/$C$9;4))
+=$E$10POWER(C3/$C$10;3)(1+15/8POWER(C3/$C$10;2)+175/64POWER(C3/$C$10;4))
+Similarly for other rows.
+The bottom row of blue cells have following commands:
+=$E$3POWER($C$3/C10;2)(1+15/8POWER($C$3/C10;2)+175/64POWER($C$3/C10;4))
+=$E$4POWER($C$4/C10;2)(1+15/8POWER($C$4/C10;2)+175/64POWER($C$4/C10;4))
+=$E$5POWER($C$5/C10;2)(1+15/8POWER($C$5/C10;2)+175/64POWER($C$5/C10;4))
+=$E$6POWER($C$6/C10;2)(1+15/8POWER($C$6/C10;2)+175/64POWER($C$6/C10;4))
+=$E$7POWER($C$7/C10;2)(1+15/8POWER($C$7/C10;2)+175/64POWER($C$7/C10;4))
+=$E$8POWER($C$8/C10;2)(1+15/8POWER($C$8/C10;2)+175/64POWER($C$8/C10;4))
+=$E$9POWER($C$9/C10;2)(1+15/8POWER($C$9/C10;2)+175/64POWER($C$9/C10;4))
+Similarly for other rows.
+Rate of apsidal precesion is than calculate as: 75/Ti*sum of terms stated above. As you can see, values are in order of 10^-3 to 10^-5, not even numericaly matching results from the paper.

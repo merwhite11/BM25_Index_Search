@@ -1,0 +1,4 @@
+How to determine how often a planet's center will be collinear with its moon's?
+
+Expanding on the question: Let's say I have a planet orbiting some star (earth-like, sun-like, for the sake of example). If this planet has two moons, M1 with orbital period of 30 earth-days and M2 with orbital period of 50 earth-days, how often will the center of these moons be collinear with the planet's center? What about if there were a third moon, with 70 earth-days orbit?
+I tried solving for the intersection between the line formed by the two moons and the planet, but failed in simplifying the resulting equation.

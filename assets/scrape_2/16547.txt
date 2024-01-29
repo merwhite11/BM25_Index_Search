@@ -1,0 +1,6 @@
+Was the use of silver on 'optical' telescope mirrors more common in the past? Why?
+
+In the past, weren't many astronomical telescope mirrors periodically removed and 'resilvered', and wasn't this actually done using silver?
+I'm guessing that this is much less common now - new telescopes are so large and complex that routine invasive procedures like that needed for maintenance of a silver coating would not be acceptable, and mirrors in many if not most older telescopes would have been 'updated' to aluminum.
+Was silver used in the past because aluminum coating was too technically difficult, or because silver has slightly better reflectivity in the red, or some other reason?
+note: I'm only asking about 'optical' telescopes meaning NIR & Vis, not the longer wavelength IR telescopes where IR emissivity is a concern.

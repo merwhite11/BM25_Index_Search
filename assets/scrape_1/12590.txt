@@ -1,0 +1,5 @@
+How does the appearance of the analemma vary with latitude
+
+How does the appearance of an analemma vary with latitude?
+This what I take to be a definition of an analemma: If the position of the sun is plotted or photographed at noon clock time (say UTC) every day from a position facing due south (in the northern hemisphere) it forms a figure of eight shape as in the picture. 
+Photographs usually show it with the long axis at an angle. My question is, assuming that the angle is related to the latitude of the camera, how does this angle vary as the camera is moved from the equator to the pole, and why?

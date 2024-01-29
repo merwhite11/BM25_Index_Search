@@ -1,0 +1,4 @@
+If the visibility function is the Fourier transform of the sky brightness distribution, why do you need the dirty beam and dirty image to find it?
+
+In radio astronomy, the dirty image is equal to the inverse Fourier transform of the uv-plane coverage times the sampled visibilities. The dirty image is also equal to the convolution of the "dirty beam" or PSF with the true image, so one needs to perform the dirty beam deconvolution to reveal the true image of the sky. One of the most famous equations in radio astronomy connects the visibility function to the sky brightness distribution directly. If this is the case, why are the intermediate (dirty beam and dirty image) steps needed to find recover the true image? Is the true image not the sky brightness distribution or am I missing something?
+Referenced equations on 3rd page of radio astronomy lecture from NRAO

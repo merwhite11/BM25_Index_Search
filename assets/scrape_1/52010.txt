@@ -1,0 +1,22 @@
+If the Universe has a positive curvature and a closed spatial geometry, does it therefore have a finite volume and a geometric center?
+
+Based on the recent Planck Legacy 2018 release confirming the presence of an enhanced lensing amplitude in the
+cosmic microwave background (CMB) power spectra compared to that predicted by the standard ΛCDM model, several
+authors (Di Valentino et al. (2022), Efstathiou & Gratton (2020), Handley (2019)) have proposed that the Universe
+is spatially closed, with a positive curvature . A positive curvature of the Universe presents some tension with the
+standard model, which Di Valentino et al. (2022) couch in terms of a "possible crisis in cosmology".
+The value of Ω is of interest because it determines the form of the evolution of an expanding universe (Eingorn et al.,
+2019). Based on the ΛCDM model, Ω will have a negligible effect on expansion for early
+times, but becomes predominate at successively later times. For  < 0 expansion will continue forever. For  = 0
+expansion will continue forever, but the rate will approach zero asymptotically as  goes to infinity. Indefinite expansion implies
+that the Universe must be unbounded and have an infinite volume, and thus posses no center. For  > 0 expansion will
+halt at some time  and reverse itself due to the inexorable tug of gravity. This implies that the Universe would have a
+finite volume. It is claimed that a bounded surface with a finite volume has a geometric center (centroid) which is the arithmetic mean
+of all points on the surface (Lovett, 2019).
+Is this claim true?
+References:
+Di Valentino E., Melchiorri A., Silk J., 2022, Nature Astronomy, 4, 196
+Efstathiou G., Gratton S., 2020, MNRAS, arXiv:2002.06892v1
+Handley W., 2019, arXiv e-prints, arXiv:1908.09139
+Eingorn M., Yukselci A. E., Zhouk A., 2019, Eur. Phys. J., 79
+Lovett S. J., 2019, Differential Geometry of Manifolds. Barnes and Noble, New York, N. Y.

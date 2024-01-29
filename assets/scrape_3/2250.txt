@@ -1,0 +1,6 @@
+Putting mass-luminosity relation and Hertzsprung-Russel diagrams together leads us to a mass-age relation; so how do stars lose their mass over time?
+
+I think that the title is completely clear, but here's an expansion:
+I was just reading about Mass-luminosity relation that says massive stars are more luminous than tiny ones. Well, let's talk about main-sequence stars for now. This relation becomes interesting when it's mixed with the Hertzsprung-Russel diagram that says young stars are more luminous than older ones (Originally says that hotter stars are more luminous and we know that hotter stars are younger).
+So mixing these two relations produces some kind of Mass-age relation which says young stars are more massive, that is a star loses its mass over time, right? (Please tell me if I'm going wrong)
+If this Mass-age relation is right, how do stars lose this extra mass during their evolution? And where does this stray matter go?

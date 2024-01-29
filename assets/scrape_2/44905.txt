@@ -1,0 +1,5 @@
+How should I draw the horizon on a sky map?
+
+Is there any way of drawing the horizon on sky maps similar to the one attached?
+
+This is the complete chart in Stellarium:

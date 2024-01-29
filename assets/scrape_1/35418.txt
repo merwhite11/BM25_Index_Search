@@ -1,0 +1,13 @@
+What is the physical interpretation of the derivative of the emitted and observed wavelength?
+
+The flux F of an event at redshift $z$ is related to its luminosity L as
+$$F=\dfrac{L}{4\pi d_L^2}\,,$$ 
+where $d_L\equiv d_L(z)$ is the luminosity distance between us (the observer) and the event (the emitter).
+We also know that a photon emitted at a wavelength $\lambda_{em}$ is observed at
+$$\lambda_{obs}=(1+z)\lambda_{em}\,.$$
+We might want to know how does the observed spectra of the event $f_{\lambda}$ is related to the spectral energy distribution (SED) of the source $l_{\lambda}$. We can then deduce that
+$$\dfrac{dF}{d\lambda_{obs}}=\dfrac{1}{4\pi d_L^2}\dfrac{dL}{d\lambda_{obs}}=\dfrac{1}{4\pi d_L^2}\dfrac{dL}{d\lambda_{em}}\dfrac{d\lambda_{em}}{d\lambda_{obs}}$$
+$$f_{\lambda}(\lambda)=\dfrac{1}{4\pi d_L^2}l_{\lambda}\left(\dfrac{\lambda}{1+z}\right)\dfrac{1}{1+z}$$
+$$f_{\lambda}(\lambda)=\dfrac{1}{4\pi d_L^2 (1+z)}l_{\lambda}\left(\dfrac{\lambda}{1+z}\right)$$
+Although I understand that the factor $(1+z)^{-1}$ comes from the change of variable between emitted and observed wavelength, what is the physical meaning of it?
+As an example, the $d_L^{-2}\propto (1+z)^{-2}$ and those two factors arises from the photons losing energy because of its wavelength being stretched and arriving further apart because the space between them grew.

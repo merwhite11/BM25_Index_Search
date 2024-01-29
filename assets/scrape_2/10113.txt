@@ -1,0 +1,9 @@
+How to calculate the expected surface temperature of a planet
+
+I'm writing a program to generate solar systems but I'm having trouble calculating the expected temperature of a planet. I have found a formula to calculate this, but I haven't been able to get a remotely correct answer out of it as it doesn't clearly state what units your supposed to use.
+This formula I found:
+$$4 \pi R ^ 2 ơ T ^ 4 = \frac{\pi  R ^ 2  L_{\odot}(1 - a)}{(4  \pi  d ^ 2)}$$
+where $R$ is the planet's radius (not sure what units), $d$ is the distance from the Sun (it mentions AU), $a$ is the albedo, $L_{\odot}$ is the luminosity of the Sun (which I assume can be interchanged with the luminosity of any star), $T$ is the temperature of the planet (kelvin, this is what I'm trying to get), and $ơ$ is the Stefan-Boltzmann constant.
+The site I found it on is notes for an astronomy college course. Here is the link:
+http://www.astronomynotes.com/solarsys/s3c.htm#
+Any help would be very much appreciated.

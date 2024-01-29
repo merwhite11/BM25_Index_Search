@@ -1,0 +1,20 @@
+What kind of space telescope could best take advantage of orbiting far from the Sun?
+
+While Hubble has provided an astounding amount of science from low Earth orbit, one of the reasons it was put in LEO was to be readily accessible for service and upgrades by the Space Shuttle.
+JWST will be deployed 1.5 million miles from Earth near Sun-Earth L2 for reasons including thermal loading; heat from the Sun and Earth are now coming from the same direction. Several other space telescopes have been deployed to halo orbits or even heliocentric orbits as well. Even TESS is in a very high Earth orbit in a 2:1 resonance with the Moon.
+Future space telescopes with separately deployed and orbiting star shields for exoplanet studies will also need to be far from Earth.
+New Horizons is participating in parallax measurements from the Kuiper belt.
+Question: What kind of space telescope could best take advantage of orbiting far from the Sun?
+Suppose there was an opportunity to put a large space telescope far from the Sun, perhaps 10 to 100 AU. An optical link would provide the same bandwidth as radio communications for closer telescopes, and a radioisotope thermoelectric generator (perhaps on an extension cord for thermal isolation) would power it.
+Could some kind of radio telescope benefit from the reduced solar wind? Would a gravitational telescope triangulate better or benefit as an "early warning" system? Would an optical telescope be able to build on New Horizons' experience with long-baseline parallax?
+
+
+How would 2 JWSTs make stereo pictures?
+For a given 48 hour observing period, what fraction of the celestial sphere is available to CHEOPS?
+Why aren't space telescopes put in GEO?
+TESS orbit and moon resonance
+Distance to Proxima Centauri (Gaia VS New Horizons parallax program)
+Can New Horizons be used to measure the distance to Betelgeuse (despite its fickle photocenter)?
+Was a "spare LORRI" camera available to take matching image on Earth the same time New Horizons took the parallax image from the Kuiper belt?
+How well could the New Horizons spacecraft localize itself in space in 3D using parallax?
+Which spacecraft far from Earth have arc second resolution cameras that could measure Betelgeuse's position?

@@ -1,0 +1,13 @@
+Frames per second capabilities cameras currently installed in Modern Telescopes?
+
+What are the present real-time capabilities of various modern telescopes as video cameras?  How do these compare with the capabilities various of space telescopes?
+For example, if it was known that there would soon be a Saturn-comet impact (akin to the Shoe-Maker levy impact into Jupiter), what would the "frames per second" of the captured imagery be, regardless of imaging resolution?
+Video of the Shoemaker-Levy impact: https://youtu.be/p7RP2SW_gSw?t=92.  Is this video presented in real time?
+Animation of the Shoemaker-Levy impact: 
+https://en.wikipedia.org/wiki/Comet_Shoemaker%E2%80%93Levy_9#/media/File:Max_Planck_Institute_Shoemaker%E2%80%93Levy_9.gif
+Live Streaming Jupiter (from Earth):
+https://www.youtube.com/watch?v=ILh4lWHi_ag
+Shoemaker-Levy image:
+https://en.wikipedia.org/wiki/Comet_Shoemaker%E2%80%93Levy_9
+ISS Live Stream [for comparison]:
+https://www.youtube.com/watch?v=EEIk7gwjgIM

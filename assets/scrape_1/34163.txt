@@ -1,0 +1,5 @@
+How far apart are stars in a binary system?
+
+I'm wondering how far apart from one another the stars are in binary systems. 
+What is the distribution of the separation between binary stars? Are most of the binary stars very far apart like Sirius (8.2 to 31.5 AU)? Are there many stars in orbits even wider? Are there more pairs with grazing orbits? 
+Is there a database similar to exoplanets.org where I could see the distance between the pair of stars for all the binary systems we know of?

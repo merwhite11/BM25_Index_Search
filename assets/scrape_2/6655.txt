@@ -1,0 +1,7 @@
+Why objects are uniquely defined by their right ascention and declination?
+
+I've just started studiyng Astronomy.
+I understood how I would measure Right Ascention and Declination: for the first one I'd trace an Hour cirlce to the Celestial Equator, and then, compute the angle from this point and the Vernal Equinox; while the second one is the angle subtended by the object and the intersection of the Hour Circle with the Celestial Equator.
+So, during the night, stars will change their Right Ascension value? Does this means this coordinate system is not fixed with respect to the stars?
+If so, why people store the RA/Dec to find objects?
+For instance, I know  the RA/Dec of the NGC 5585 Galaxy ( http://en.wikipedia.org/wiki/NGC_5585 ), but how can I use this information, if the RA changes during the night?

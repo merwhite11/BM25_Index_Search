@@ -1,0 +1,5 @@
+What is equation of straight line for a ideal blackbody on the color color diagram?
+
+The color-color diagram is a plot between $U-B$ vs $B-V$ values. 
+For a ideal blackbody, what is the equation of this line?
+In other words, what does the linear relation between $U-B$ and $B-V$ look like?

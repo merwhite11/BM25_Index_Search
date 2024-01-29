@@ -1,0 +1,40 @@
+Different results for the same JPL Horizons query
+
+On JPL Horizons website, I'm using the following query to get vector state for Earth:
+MAKE_EPHEM=YES
+COMMAND=3
+EPHEM_TYPE=VECTORS
+CENTER='500@0'
+START_TIME='2023-02-06'
+STOP_TIME='2023-02-07'
+STEP_SIZE='1 DAYS'
+VEC_TABLE='3'
+REF_SYSTEM='ICRF'
+REF_PLANE='ECLIPTIC'
+VEC_CORR='NONE'
+OUT_UNITS='KM-S'
+VEC_LABELS='YES'
+VEC_DELTA_T='NO'
+CSV_FORMAT='NO'
+OBJ_DATA='YES'
+
+I'm getting two values for 'x', which I guess make perfect sense, being in km:
+X =-1.085163786984627E+08
+X =-1.103097877035814E+08
+
+I'm trying to have the same query in Python, using jplhorizons from astroquery library, like this:
+from astroquery.jplhorizons import Horizons
+from datetime import datetime, timedelta
+today = datetime.now()
+yesterday = today - timedelta(days=1)
+obj_earth = Horizons(id='3', location='0', epochs={'start':str(yesterday), 'stop':str(today),'step':'1d'})
+print(obj_earth.vectors().columns['x'])
+
+Running this code, I get the following output:
+          x           
+          AU          
+----------------------
+-3.582503526151746e-05
+-3.948114036370441e-05
+
+The values are apparently in AU, but honestly, they make no sense to me. Shouldn't I get the exact same values running this through web Horizons' interface and through the script --even if the values are in different units?

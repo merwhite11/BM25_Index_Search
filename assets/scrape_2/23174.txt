@@ -1,0 +1,4 @@
+Energy Source for Gamma Rays from Merging Neutron Stars
+
+When the two neutron stars merged in the latest event, large amounts of gamma rays were emitted.  Given that their deorbitting is a result of gravitational wave production, where does the energy for the gamma rays come from?
+The only sources I can think of are the rotational kinetic energies of the merging stars or the potential energy released by the final collapse into a single spherical mass.

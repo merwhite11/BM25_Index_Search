@@ -1,0 +1,16 @@
+How does the Earth not lose its atmosphere to space?
+
+First, I’m genuinely interested in a working explanation for this question. It is for this reason that I am editing the question to fine-tune it. In essence, the question has remained the same.
+In order for me to checkmark the best answer, I’m going to ask for citations for the claims made in the answers, because I’m getting lots of theory and responders are not in agreement, as far as I can tell. Also, I cannot accept circular reasoning i.e. if we assume x then y, since y therefore x. That’s fallacious logical reasoning, because x was never proven; it was assumed, and y might be independent of x.
+The vacuum of space is incredibly powerful, $ 1 \times 10^{-17} $ torr, and the vacuum between the Earth and the Moon is $ 1 \times 10^{-11} $ torr.
+How can such a vacuum (very low pressure), in close proximity to the Earth’s atmosphere (high pressure) that goes to 8.5 km elevation, coexist with the open system of the Earth’s atmosphere? How does this not defy the second law of thermodynamics and still remain true?
+Space is low pressure and the Earth’s atmosphere is high pressure. In order to have any pressure, the gas requires (demands) that it presses upon something.
+
+Pressure is a force exerted by the substance per unit area on another substance. The pressure of a gas is the force that the gas exerts on the walls of its container. When you blow air into a balloon, the balloon expands because the pressure of air molecules is greater on the inside of the balloon than the outside. Pressure is a property which determines the direction in which mass flows. If the balloon is released, the air moves from a region of high pressure to a region of low pressure, and the balloon deflates. 1
+
+Earth is an open system that presses against the vacuum of space. Why therefore is the second law of thermodynamics suspended—if indeed it is a law?
+Space is low-pressure, therefore the atmosphere, which is not in a container, should disperse into the low-pressure space.
+
+VACUUM (There’s nothing to it…)
+
+Vacuum Technology PHY451 October 22, 2014

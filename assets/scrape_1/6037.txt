@@ -1,0 +1,4 @@
+Date and time system on moons
+
+Supposedly, if humans were to establish a colony on one of the moons of a planet (such as gas giants in our own solar system), how could we possibly design date and time system? On Earth, we define date based on rotation about Sun and time on Earth's revolution. But, with a moon of another planet, this will add another factor to date/time system. So, how can we cope with this?
+PS: I am not sure about what tags this question should carry. Feel free to correct them.

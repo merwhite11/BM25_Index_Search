@@ -1,0 +1,6 @@
+Why does the velocity dispersion within a galaxy cluster decrease as a function of radius?
+
+In the paper 10.1093/mnras/sty2379, there are plots showing the velocity dispersion as a function of radius.
+
+Focusing on the right-hand plot, non-merging normal clusters, intuitively why should the velocity dispersion be smaller for galaxies that are farther from the center?
+This would imply that the distribution of redshifts in a galaxy cluster is narrower in the outer regions of the cluster compared to the core. That seems counter-intuitive...

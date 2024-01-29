@@ -1,0 +1,5 @@
+SPH simulations
+
+Are there any simulations that can be obtained that use smooth particle hydrodynamics and can be configured to include different initial conditions? I wish to simulate planetary collisions and their impact. I wish to exactly replicate the following link.
+
+https://www.youtube.com/watch?v=Fwl_JBQtH9o

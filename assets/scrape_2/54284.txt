@@ -1,0 +1,4 @@
+How is parallax really measured?
+
+I understand the basics of how parallax is measured (i.e. two measurements 6 months apart), but I also understand that, in reality, it would have to be more complicated than that, because stellar parallax isn't the only thing that affects a star's position in the sky. Proper motion, stellar aberration, refraction (only an issue on the ground), and planetary nutation are all things that will affect a star's position in the sky.
+So, how do astronomers filter out all those effects to actually measure the parallax?

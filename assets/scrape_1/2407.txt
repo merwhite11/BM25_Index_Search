@@ -1,0 +1,10 @@
+Calculate Day of the Year for a given date
+
+I am trying to make sense of the following formula that claims to calculate the day of the year given today's date represented by (day/month/year):
+N1 = floor(275 * month / 9)
+N2 = floor((month + 9) / 12)
+N3 = (1 + floor((year - 4 * floor(year / 4) + 2) / 3))
+N = N1 - (N2 * N3) + day - 30
+
+Finally N supposedly refers to the day of the year.
+What do the magic numbers 275,9 etc represent in the equation ?

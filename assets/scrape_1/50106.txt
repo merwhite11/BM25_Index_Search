@@ -1,0 +1,21 @@
+What is Gravitational softening length?
+
+I was reading the Aquarius simulation preprint (Springel et al. 2008) The Aquarius Project: the subhalos of galactic halos as a reference for my internship. I came across the term Gravitational softening length in the Initial conditions section and couldn't get a clear explanation when I searched online.
+Can someone explain what it means in this context?
+
+2.2 The Aquarius simulation suite
+In Table 1, we provide an overview of the basic numerical parameters of our simulations. This includes a symbolic
+simulation name, the particle mass in the high-resolution
+region, the gravitational softening length, the total particle
+numbers in the high- and low-resolution regions, as well as
+various characteristic masses and radii for the final halos,
+and the corresponding particle numbers. Our naming convention is such that we use the tags “Aq-A” to “Aq-F” to
+refer to simulations of the six Aquarius halos. An additional
+suffix “1” to “5” denotes the resolution level. “Aq-A-1” is
+our highest resolution calculation with ∼ 1.5 billion halo
+particles. We have level 2 simulations of all 6 halos, corresponding to 160 to 224 million particles per halo.
+We kept the gravitational softening length fixed in comoving coordinates throughout the evolution of all our halos. The dynamics is then governed by a Hamiltonian and the
+phase-space density of the discretized particle system should
+be strictly conserved as a function of time (Springel, 2005),
+modulo the noise introduced by finite force and time integration errors. Timestepping was carried out with a kick-driftkick leap-frog integrator where the timesteps were based on
+the local gravitational acceleration, together with a conservatively chosen maximum allowed timestep for all particles

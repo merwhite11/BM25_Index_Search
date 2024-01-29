@@ -1,0 +1,12 @@
+What kind of effects can maintain Uranus' rings' eccentricities?
+
+The recent paper Thermal Emission from the Uranian Ring System has been in the news recently. The introduction mentions:
+
+The ε ring, the brightest and most massive of the narrow rings, was shown to maintain an appreciable eccentricity (e = 0.00794) and an azimuthally-varying width; the ring is five times wider and ∼2.5 times brighter in reflected sunlight at apoapsis than at periapsis (French et al. 19881; Karkoschka 2001a2). However, many fundamental parameters about the ring system remain unknown, including the filling factor, composition, thickness,
+1French, R. G., Elliot, J. L., French, L. M., et al. 1988, Icarus, 73, 349, doi: 10.1016/0019-1035(88)90104-2
+2Karkoschka, E. 2001a, Icarus, 151, 51, doi: 10.1006/icar.2001.6596
+
+I've read in Wikipedia's Rings of Uranus that several rings are expected to be fairly young, and there may be interaction with some small moons, but I am surprised that the rings could maintain a significant eccentricity, and do not circularize or smear out due to collisions.
+Question: What kind of dynamical effects can maintain Uranus' rings' eccentricities?
+Uranus itself has a huge J2 and so any ring that isn't perfectly equatorial should have an eccentricity-dependent precession. The paper states that the apoapsis of the rings is five times wider than the periapsis, so there's definitely a population of different eccentricities and semi-major axes within the ε ring.
+List of rings and their orbital parameters

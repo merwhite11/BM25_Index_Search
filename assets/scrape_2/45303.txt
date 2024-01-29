@@ -1,0 +1,4 @@
+What would it take to view "the whole EM spectrum"?
+
+I know the EM spectrum goes off both ends, but nearly everything anyone has bothered to use it for has wavelengths between $10^8$m (ELF) and $10^{-12}$m or so (gamma rays). So for the purposes of this question lets just assume those 20 orders of magnitude represent everything of interest.
+So then the question: how much hardware would it take to be able to observe all of that? Say if you are building a space probe? Would it be reasonable to assume that the average sensor could handle an order of magnitude window in that spectrum? More then that? Less than that?

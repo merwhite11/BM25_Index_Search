@@ -1,0 +1,4 @@
+Standard Big Bang model and space curvature
+
+Why it is said that in standard Big Bang model space curvature grows with time when the Universe expands? My intuition is that it should be the opposite.
+I saw this in a book talking about the problem of standard Big Bang model and why we need inflation theory. It says that the Universe is observed to the nearly flat now. And because the space curvature grows with time, it should be even flatter in the past, which cannot be explained. But the inflation theory solves the problem because even if space is initially far from flat, inflation will smear out the curvature and make it flat.

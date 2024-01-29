@@ -1,0 +1,11 @@
+Why does the solar wind switch to flowing straight by the time it reaches Earth?
+
+Between 02:01 and 02:29 the new NASA Goddard video 5 New Discoveries from NASA's Parker Solar Probe explains
+
+finding # 4, A Breaking Point:
+Before parker, scientists knew that the corona rotates with the visible surface below it. But they didn’t know how — or where — the solar wind switched to flowing straight by the time it reaches Earth.
+Parker has finally spotted signs of this transition — and the changeover happens significantly farther out than expected.
+
+Naively I'd apply conservation of angular momentum and assume that the particles are in individual ballistic orbits, but the solar wind contains charged particles as well as neutrals and so even though of low density and long mean free paths they can interact collectively.
+But I don't understand why the solar wind would suddenly stop rotating beyond some radius from the Sun well inside Earth's orbit, rather than beyond the heliopause.
+Why does this happen?

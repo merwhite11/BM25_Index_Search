@@ -1,0 +1,3 @@
+Ecliptic line plot in a map
+
+Is there any url that can give me  data of ecliptic line that i can plot in a map. i.e i need earth's latitude and earth's longitude of ecliptic line for a specific time and date. Right now i only have Sun's declination data and its longitude, with which i can plot only  one point, but ecliptic line is like sine wave as i read on the internet. How can i get the data of complete ecliptic line for a given day and time. I am kind of new to this, kindly apologise if my question is wrong and show me the right way.

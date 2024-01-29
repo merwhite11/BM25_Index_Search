@@ -1,0 +1,11 @@
+Orbital Mechanics: where can I find initial conditions for orientations and angular rates of planets in our solar system?
+
+I am looking to write the equations of motion (EOMs) for a 6DOF analysis of our solar system.  I want to integrate the equations forward in time, and need a complete set of initial conditions to do so. I'd like to fix a coordinate system on the center of the Sun for this simulation.
+It appears that I can get the cartesian vectors (position and velocities) for the planets from HORIZONS
+But what I am having trouble with is getting initial conditions for the orientations and angular rates of the planets. In my mechanical engineering mind, I'd like to ultimately get some angles and rates that I can relate back to Euler angles (and their rates) and work from there.
+Angles:
+I could set the initial rotation angle to zero, I'm sure that would be fine, but the other two don't seem to be as clear.
+For example, on Horizons, it appears that I can find obliquity, which (correct me if I am wrong) is the angle between the orbital plane and the sun.  But I would need one more angle to specify the orientation of the rotation axis, correct?
+Angular Rates:
+Rotation rate is given by horizons - so I can work with that.  But what about precession and nutation?
+I also see that obliquity changes over time - which implies that there should be some initial obliquity rate of change - how do these all relate?

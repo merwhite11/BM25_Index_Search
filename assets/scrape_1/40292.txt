@@ -1,0 +1,10 @@
+Possible occultation of HIP 99314 and Ganymede
+
+We all are of course looking forward to see the great conjunction of Jupiter and Saturn. So I looked up the timeline of close approach in Stellarium and I saw that there might be an occultation with Ganymede and HIP 99314 (JD = 2459204.532313, date = 2020-12-21, 00:46:31 UTC). The star has a magnitude of around 7.5 and Ganymede has a magnitude of around 5.47 (combined magnitude is 5.31 -> change in magnitude is 0.16), so it might be interesting to see the perceivable dim (maybe not with the naked eye, but maybe on camera). Unfortunately, I don't think that Stellarium is built with that precision, so I am asking your opinion about this situation.
+There are 2 options:
+
+Stellarium is built with that precision and this event is even more rare than previously thought.
+Stellarium is wrong: there are other data that don't support its results.
+
+Help is very appreciated, but let's hope for the best.
+Thank you!

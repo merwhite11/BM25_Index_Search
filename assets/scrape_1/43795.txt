@@ -1,0 +1,16 @@
+Why are there different time estimates for a solar photon to reach the surface of the Sun?
+
+Some estimates range the photon journey from 10,000 to 170,000 and even millions of years, but only consider the path from the sun's core to its surface. This is called 'Random Walk Problem' and assumes the sun's interior has a constant density and that the 'free path' distance for the photon is about 1cm. 1.
+An additional reading pointed that is in the Radiative Zone where most of the 'random walk' occurs. Next, the photon goes to the Convection Zone, which density is less than Radiative Zone, where it has lost most of its energy and shifts to visible light. Photon scattering in the Solar Atmosphere is negligible. [2]
+1 https://sunearthday.nasa.gov/2007/locations/ttt_sunlight.php
+[2] https://futurism.com/photons-million-year-journey-center-sun
+Q. Why such a difference between the estimated travel times? Thank you.
+May, 15th
+There is a neat lecture on the subject
+Principles of Astrophysics & Cosmology -  Professor Jodi Cooley
+http://www.physics.smu.edu/cooley/phy3368/lectures/150216_lecture.pdf
+
+Calculate how long it takes a photon to travel from the center of the sun and emerge at its surface.
+
+My quote:
+"In reality, there are regions where electron scattering is more prominent and regions where it is less important.  As a result, the typical photon mean free path is 1 mm"

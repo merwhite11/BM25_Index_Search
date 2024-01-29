@@ -1,0 +1,26 @@
+Missing Terms in Weinberg's treatment of perturbations on Newtonian Cosmology
+
+I was reading Appendix F of Steven Weingberg's book "Cosmology". In this Appendix he works out the perturbations to a cosmological fluid described by non-relativistic hydrodynamics and Newtonian gravity. 
+It turns out that the first order perturbations satisfy,
+$$
+\frac{\partial \delta \rho }{\partial t } + 3 H \delta \rho + H \vec{X} \cdot \nabla \delta \rho + \bar{\rho} \nabla \cdot \vec{v} = 0, \qquad \tag{1}
+$$
+$$
+\frac{\partial \delta \vec{v}}{\partial t } +  H \vec{X} \cdot \nabla \delta \vec{v} + H \delta \vec{v} = - \nabla \delta \phi, \qquad \tag{2}
+$$
+$$
+\nabla^2 \delta \phi = 4\pi G \delta \rho. \qquad \tag{3} 
+$$
+Weinberg applies the following Fourier transform to these equations,
+$$ f(\vec{X},t)  = \int \exp \left(  \frac{i \vec{q} \cdot \vec{X}}{a} \right)  f_{\vec{q}}(t) \ \mathrm{d}^3\vec{q} $$,
+where $f(\vec{X},t)$ is a place holder for $\delta \vec{v}, \delta \rho, $ and $\delta \phi$. 
+The resulting equations he gets are,
+$$
+\frac{\mathrm d \delta \rho_{\vec{q}}}{\mathrm d t } + 3 H \delta \rho_{\vec{q}} + \frac{i\bar{\rho}}{a}\ \vec{q} \cdot \delta \vec{v}_{\vec{q}} = 0 \qquad \tag{1'}$$
+$$
+\frac{\mathrm d \delta \vec{v}_{\vec{q}}}{\mathrm d t } +  H \delta \vec{v}_{\vec{q}} = -\frac{i}{a}\ \vec{q}  \delta \phi_{\vec{q}} \qquad \tag{2'}$$
+$$
+\vec{q}^2 \delta \phi_{\vec{q}} = -4\pi G a^2 \delta \rho_{\vec{q}} \qquad \tag{3'}$$.
+For the most part these new equations can be obtained by making the substitution $\nabla \rightarrow i \vec{q}/a$. 
+
+My question : There doesn't seem to be any terms in the transformed equations which correspond to the terms $ H \vec{X} \cdot \nabla \delta \rho$ and $H \vec{X} \cdot \nabla \delta \vec{v}$. Weinberg makes no comment about their absence. Is anyone aware of a legitimate mathematical reason for these terms to disappear in the transformed equations?

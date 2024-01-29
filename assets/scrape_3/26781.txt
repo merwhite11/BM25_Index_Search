@@ -1,0 +1,10 @@
+Generate an uniform distribution on the sky between limits
+
+I have an analog question of this one : Generate an uniform distribution on the sky
+I generate an uniform distribution on the sky, but just a patch of it, with $$\alpha_{min} \leq \alpha \leq \alpha_{max}$$ and 
+$$\delta_{min} \leq \delta \leq \delta_{max}$$
+for Right Ascention, I just have to take uniform distribution between $\alpha_{min}$and $ \alpha_{max}$. 
+For declination it works if I take $$\delta_{random} = \sin^{-1}\left( \mathrm{Uniform}(\sin\delta_{min},\, \sin\delta_{max}) \right)$$
+My problem is that I don't know how to demonstrate this formula for the generation of delinations. Any idea how to make the proof of this formula ?
+I saw in Generate an uniform distribution on the sky @RobJeffries post which gives an expression of $P(\delta)$ and demonstrates that $\delta = \sin^{-1}(2P-1)$ where $P$ is a random number between 0 and 1, which is compatible to my formula with $\delta_{min} = -\frac{\pi}{2}$ and $ \delta_{max} = +\frac{\pi}{2}$, but I was not able to generalize his demonstration.
+Thanks in advance for your help!

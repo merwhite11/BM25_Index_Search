@@ -1,0 +1,4 @@
+How can I make the fringing pattern visible in my flat (twilight) images for filter i?
+
+I have a bunch of twilight flats that have been preprocessed (dark, bias, overscan etc.) and need to remove the additive fringing from the (multiplicative) twilights. I normalized each one by dividing by the mean and then combined them using ccdproc in astropy. I then divided the normalized flats by this "new" flat and viewed them in DS9 but I still cannot see the fringing. I know it's there because I've seen it clearly before. I could use some helpful tips. TIA
+PS I also tried in old skool Iraf and don't see anything obvious.

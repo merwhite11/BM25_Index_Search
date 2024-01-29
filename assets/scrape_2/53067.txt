@@ -1,0 +1,4 @@
+Seeing exoplanets with glare
+
+My understanding is that the main obsracle to seeing habitable planets is glare. Right now, the best solutions are coronagraphs and proposed starshade satellites which blocks the star.
+But is this the only way? We know that the glare is axisymmetric. So we can measure the intensity along a ring centered on the star. The intensity should be the same along all points. Any spike - unless it can be attributed to another star or the telescope - is a planet.

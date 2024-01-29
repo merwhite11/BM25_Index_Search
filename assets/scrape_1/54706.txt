@@ -1,0 +1,14 @@
+A thought experiment for gravitational waves
+
+My question is:
+I want to in a thought experiment, calculate the gravitational waves that are generated while I Shake my hands?
+-A hand mass:~400 gr
+& Frequency: 3 times per second.
+Here is what I want to solve in this experiment:
+1-Find h (strain)
+2-Find flux (over 1 meter away from my hands as a source in impact of A = 1 cm square)
+3-Find damping (for example after pass through a wall 10 meter away from my hands with 1 meter thickness)
+Note: we have some equation that they can help us:
+1-For calculating the strain and flux here is the formula: https://astronomy.stackexchange.com/a/53547/50779
+2-For calculating damping:
+https://astronomy.stackexchange.com/a/53899/50779

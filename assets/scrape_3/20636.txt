@@ -1,0 +1,3 @@
+Why do satellites with greater altitude travel at a slower speed?
+
+For example, a geostationary satellite travels slower than the ISS. What is going on?

@@ -1,0 +1,8 @@
+Notifier about visible ISS passes and/or Iridium flares for Ubuntu PC
+
+I am trying to find application that would be capable of notifying me about 
+visible ISS pases for specified location and/or visible Iridium flares for specified location.
+This software must be capable of running on Ubuntu.
+I strongly prefer active open-source projects.
+I know that there are multiple mobile apps but I want something that may run on Linux PC.
+To avoid "this is subjective" - I will be happy about any software fulfilling this requirements and criteria are not subjective.

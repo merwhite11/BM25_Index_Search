@@ -1,0 +1,21 @@
+Is this a potential planetary setup for the Alpha Centauri System?
+
+I originally posted this on the World Building SE, but I was suggested to post it here for a better answer. 
+I am attempting to create a [semi]plausible star system in Alpha Centauri for a series. The system was originally intended to have 1 habitable planet per star, but after my first couple of attempts I noticed that it might be possible to get at least 3 planets to be habitable. The latest attempt actually shows 5 potentially habitable planets (2 of which are a binary[That is another SE question]). Ultimately, I would like this to be the case as it allows a much more diverse universe for the series.
+Attempt:
+
+aCen A Planets
+
+aCen B Planets
+
+
+I don't have access to, or knowledge how to use, any form of software like Universe Sandbox. I have read several reports on planet orbits and I think I did an "ok" job with this.
+Here are some papers that I have looked at for this:
+http://adsabs.harvard.edu/full/1997AJ....113.1445W
+https://arxiv.org/pdf/1801.06131
+https://core.ac.uk/download/pdf/25201586.pdf
+My main concern is that the planets might orbit too closely. I have attempted to find a formula (that I could understand) that could aid in spacing the planets. The nearest I could manage is using the Mutual Hill Radii. There are conflicting reports where one says that 10 - 12 MHR (Delta-H) is good or a tightly packed system. Earth and Venus have around a 25 MHR value. One of the reports that I linked mentioned up to 25 MHR for aCenA, but it also shows several other numbers and after trying to comprehend everything my brain reached orbital velocity.
+Question: Is the planetary spacing stable enough to host planets on Gigayear timescales? 
+They don't necessarily need to be able to have spawned life, but they should be able to support life with little to no human intervention.
+Note and Bonus, aCen V is a binary planet that orbits with a Semi-Major axis of 750,589km with an eccentricity of 0.01204. (There is an error in the image in Yellow that shows 148.623 and Eccentricity of 0.0910). The inclination should be 0 as both planets should be on the same plane.
+Last note: The Semi-Major Axis distance is in Megameters (1 million meters).

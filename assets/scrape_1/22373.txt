@@ -1,0 +1,16 @@
+What is the condition for the number density of a gas to be ultra-relativistic or non-relativistic and degenerate or ideal
+
+What is the condition for the number density ($n$) of a gas to be ultra-relativistic or non-relativistic and degenerate or ideal?
+I found problems in this subject when I was reading about White-Dwarfs. 
+A book said $n \gg n_{QUR}$ or $n \ll n_{QUR}$ is the condition for being degenerate or ideal (classical), respectively. And $n_{QUR} = 8 \pi (kT/hc)^3$. Is this condition right? I know where $n_{QUR}$ comes from but I don't know what it really shows.
+In that book it is said that $n \ll (mc/h)^3$ is the condition for being ultra-relativistic for a degenerate gas and $kT\gg mc^2$ is the condition for being ultra-relativistic for an ideal gas. Where do these equations come from? What is $mc/h$ ?
+In another way, my question is mainly about this diagram and about how we can get the lines in this diagram. 
+
+Credit: The Physics of Stars, A.C.Phillips
+
+
+$k$ Boltzmann constant
+$h$ Planck constant
+$c$ light speed
+$n$ is number density, not the number of particles
+$n_{QUR}$ is the quantum concentration number for ultra-relativistic particles

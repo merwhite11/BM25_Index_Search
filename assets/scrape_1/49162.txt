@@ -1,0 +1,8 @@
+Depth of gravitational well within our local Virgo supercluster?
+
+For simplicity we could imagine standing at the north pole so we do not have to care about how fast we are moving in relation to the gravitational field of the earth.
+Now calculating how much faster our clock will tick if the earth suddenly "magically disappeared" is in principle a simple calculation exercise. The same thing goes for the Sun.
+Now if we take things one step further, things get more difficult. Calculating how deep we are in the combined gravitational field of all the massive objects of the Milky way is not a simple task.
+In order to ask a well defined question:
+
+How deep in the gravitational well of all the objects of the Milky Way are we and what can be said about other locations within our local Virgo Supercluster? Are there large scale inhomogeneities so that for instance clocks are ticking slower near the center of the Virgo supercluster?

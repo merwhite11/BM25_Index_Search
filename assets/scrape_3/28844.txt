@@ -1,0 +1,17 @@
+Deducing distance of closest neighbor galaxy from expression of correlation and mean galaxy density
+
+The original post was on physics exchange but I prefer to move it here :
+I am trying to estimate the distance of closest galaxy neighbor knowing the expression of number of neighbors $\text{d}N$ into a volume $\text{d}V$, the mean density $n_\text{gal}$ and the correlation function, i.e with this expression:
+$$\text{d}N=n_{\text{gal}}\,\text{d}V\,(1+\xi(r))$$
+with $\xi(r)=\bigg(\dfrac{r}{r_{0}}\bigg)^{-\gamma}\quad\text{with}\quad\gamma\,\sim\,1.77 \quad\text{and}\,r_{0}\,\sim\,5\,\text{Mpc}$. 
+I must precise that expression of $\xi(r)$ is valid for $r$ between $0.5\,\text{and}\,10\,\text{Mpc}$
+I take into my calculation the following value for $n_{\text{gal}}=0.0420\,\text{h}^{-3}\,\text{Mpc}^{-3}$ : I tried to choose a typical value for this density but it depends on which scale we consider (galaxy cluster, super cluster, very large scales ...), so maybe don't focus on this value.
+What it interests me is to have elements to answer to the following question :
+How could I infer the distance of the closest galaxy from us?
+UPDATE 1: Maybe I should take the lower limit of validity for the definition of $\xi(r)$, i.e $r=0.5\,\text{Mpc}$ and so:
+$$\text{d}N/\text{d}V=n_{\text{gal}}\,(1+\xi(r=0.5))$$
+So I would have:
+$$\text{D}_{\text{closest}}=\bigg(n_{\text{gal}}(1+(0.5/5)^{-1.77})\bigg)^{-1/3}=0.7353\,\text{Mpc}$$
+But by taking $r=0.5\,\text{Mpc}$, I am already located myself like the closest neighbor was at $r=0.5\,\text{Mpc}$, am I not ?
+Is this reasoning correct?
+Any help is welcome

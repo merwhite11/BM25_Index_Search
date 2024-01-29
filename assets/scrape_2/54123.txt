@@ -1,0 +1,5 @@
+How to calculate Topocentric Crescent Width and Moon Radius/Semi-Diameter?
+
+I have the Topocentric Moon Altitude, T. Moon Azimuth, T. Sun Altitude, T. Sun Azimuth, T. Elongation, T. Phase Angle.
+How do I calculate the Topocentric Crescent Width and the Topocentric Moon Radius/Semi-Diameter?
+Is there any other piece of information I need to do this?

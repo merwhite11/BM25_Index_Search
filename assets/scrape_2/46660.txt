@@ -1,0 +1,3 @@
+Is there a mass-vs-radius chart for neutron stars?
+
+I'm aware that we currently don't have an equation of state for the radius of a neutron star, because we don't know what happens to neutrons at their cores, and because the equations involved with neutron degenerate matter are horrendous. Is there enough data to make a chart of neutron stars as data points, with one axis being their masses, and the other being their radii?

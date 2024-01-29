@@ -1,0 +1,6 @@
+What are the various ways we can quickly generate custom star charts to find moving asteroids or comets in binoculars and telescopes?
+
+Where can I find the positions of the planets, stars, moons, artificial satellites, etc. and visualize them? is an amazing resource and @user21 has set it up with a community wiki answer for all of us to add to. It has been linked to 58 other posts and counting. While this question may not be quite as productive, I think it can benefit from that model so I'm going to suggest that the first user to post an answer consider setting it up as a community wiki which I can accept and then we can all add to, but individual answers could also be the way to go, though then I can't accept any one answer.
+Question: What are the ways we can quickly generate custom star charts to find moving asteroids or comets in binoculars and telescopes?
+Ideally they will have options for different fields of view, limiting magnitudes of stars plotted, and positions of planets built in, but I am also very interested in the ability to take orbital parameters from the minor body data center so that the movement of asteroids or comets will be included in the chart.
+These can include downloadable programs or apps to run locally on phones or websites that make suitable plots, or packages that allow us to script the generation of such plots.

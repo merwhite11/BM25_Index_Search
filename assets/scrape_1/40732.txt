@@ -1,0 +1,6 @@
+Calculating the Solar Day of an Exoplanet?
+
+I am currently in the process of compiling a list of stars and their planets, given the information in the European Star Catalogue found here, but I'm struggling to find out how to calculate a planets solar day. To be exact; How long, in earth hours, is the solar day of a planet found in this catalogue?
+I know the catalogue is incomplete and that it's likely impossible to calculate the solar day for some of these planets due to this, but that's okay. I could also accept the sidereal day rather than the solar day.
+I tried to use the formulas found here but I have a hard time finding out what numbers to plot into the equations, given the information available in the exoplanet catalogue. I've been doing a lot of googling and I'm not an astronomer, so it has been a bit of challenge!
+I hope some of you can help me here.

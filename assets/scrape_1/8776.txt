@@ -1,0 +1,3 @@
+How precisely is planetary tilt defined (the tilt direction, not just the angle)?
+
+The earth's axis is titled 23.4 degrees with respect to the ecliptic. Since this tilt is responsible for the seasons, it's clear that the tilt is in the direction away from the sun on the shortest day of year in the winter (on the northern hemisphere). That uniquely defines the tilt direction for me. How do we define the tilt direction for the other planets, though? What is the proper way of determining in what direction the tilt of a planet occurs?

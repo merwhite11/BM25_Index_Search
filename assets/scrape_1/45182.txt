@@ -1,0 +1,11 @@
+Why would a black hole's magnetic hair being short-lived not violate the no-hair conjecture, but long-lived hair would? How long is "long-lived"?
+
+Phys.org's Magnetic 'balding' of black holes saves general relativity prediction says:
+
+There is a potentially hairy threat to the conjecture, though. Black holes can be born with a strong magnetic field or obtain one by munching on magnetized material. Such a field must quickly disappear for the no-hair conjecture to hold. But real black holes don't exist in isolation. They can be surrounded by plasma—gas so energized that electrons have detached from their atoms—that can sustain the magnetic field, potentially disproving the conjecture.
+
+Using supercomputer simulations of a plasma-engulfed black hole, researchers from the Flatiron Institute's Center for Computational Astrophysics (CCA) in New York City, Columbia University and Princeton University found that the no-hair conjecture holds. The team reports its findings on July 27 in Physical Review Letters.
+"The no-hair conjecture is a cornerstone of general relativity," says study co-author Bart Ripperda, a research fellow at the CCA and a postdoctoral fellow at Princeton. "If a black hole has a long-lived magnetic field, then the no-hair conjecture is violated. Luckily a solution came from plasma physics that saved the no-hair conjecture from being broken."
+It links to the recent Phys. Rev. Letter Magnetic Hair and Reconnection in Black Hole Magnetospheres
+I'm wondering why the duration of a black hole's magnetic field determine if the no hair conjecture is broken or not.
+Question: Why would a black hole's magnetic hair being short-lived not violate the no-hair conjecture, but long-lived hair would violate the conjecture? How long is "long-lived"?

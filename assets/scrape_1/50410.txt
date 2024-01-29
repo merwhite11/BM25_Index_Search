@@ -1,0 +1,6 @@
+Parker Solar Probe and clock correction
+
+Due to the dynamic changes in speed and the value of the gravitational field in which the Parker Solar Probe stays, the clocks should have the errors due to relativistic effects.
+https://physics.stackexchange.com/questions/348854/parker-solar-probe-passing-extremely-close-to-the-sun-what-relativistic-effects
+Did the breakdown of clocks turned out to be in line with the expectations of the relativistic theory?
+Sorry for My English.

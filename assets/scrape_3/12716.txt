@@ -1,0 +1,21 @@
+Simulate an orbit with orbital elements
+
+I want to simulate the orbits of the planets from our solar system. I want to use orbital elements to calculate the current position(xyz) at a time t. The simulation doesn't have to be too exact, but the initial position of the bodies should be somewhat realistic.
+Doing some research on the calculation I stumbled upon the following formula:
+R,X,Y,Z-Heliocentric Distances
+TA - True Anomaly
+N - Longitude of the Ascending Node
+w - Argument of the Perihelion
+
+R = a * (1 - e ^ 2) / (1 + e * Cos(TA))
+X = R * (Cos(N) * Cos(TA + w) - Sin(N) * Sin(TA+w)*Cos(i)
+Y = R * (Sin(N) * Cos(TA+w) + Cos(N) * Sin(TA+w)) * Cos(i))
+Z = R * Sin(TA+w) * Sin(i)
+
+Source: https://www.physicsforums.com/threads/calculating-elliptic-orbits-in-cartesian-coordinates.712979/
+For testing purposes I calculated the true anomaly with the help of the following calculator: http://www.jgiesen.de/kepler/kepler.html
+It needs the mean anomaly and eccentricity which I took from Wikipedia. Doing some more research on the mean anomaly, I now believe that the time at which I want the position will be somehow fed into the calculation of the mean anomaly along with the time of the initial position.
+Can somebody clarify for me on how to correctly calculate the position at time t with the above or a different formula. With the above formula I also think I need the initial values at a specific time.
+I also want to say that I am not an astronomer and I don't have a clue on how to handle the calculation or which formula to use. The result of the calculations should mimic our solar system as closely as possible.
+Thanks,
+Rene Hollander

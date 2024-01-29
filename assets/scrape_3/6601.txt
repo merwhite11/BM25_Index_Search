@@ -1,0 +1,12 @@
+Can a person at a photon sphere of a black hole decide where the black hole is?
+
+A person at the photon sphere of a black hole will observe the following:
+
+The black hole surface will cover exactly half of the visible sky (say, the left half), and cosmic horizon will cover the other half.
+Looking in any direction between these hemispheres the person will see oneself.
+The person will observe no centrifugal force however fast he moves. Any object the person thowing to the left will experience the centrifugal force pulling it further left, while any object thrown to the right also will experience the centrifugal force pulling it to the right. Approaching the black hole in such circumstances may look quite like actually escaping it to the crew.
+The space to the right as well the space to the left seemingly includes objects of any length and dimensions, the further objects are, the more they are time-dilated and length-contracted.
+
+Is there any way for a spacecraft commander to decide (by an experiment conducted in a small$^1$ amount of time) which hemisphere is the sky and which hemisphere is black hole in such circumstances?
+--
+$^1$ Here small means small compared to characteristic time scales of the problem.

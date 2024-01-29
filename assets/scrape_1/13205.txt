@@ -1,0 +1,5 @@
+Obtaining stars vector position in relation to the center of the galaxy at a given date
+
+How can someone obtain such vector, for stars in the Milky Way?
+Input should be star data (from a catalog, eg: Hipparcos) and Julian Date.
+Output should be a Vector Position (in pc) in relation to the galactic center.

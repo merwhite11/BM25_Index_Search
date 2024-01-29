@@ -1,0 +1,3 @@
+How does doppler shift work for distant stars
+
+I dont understand how you can look at the light from a star and say that it has been doppler shifted. For example a star emits a photon in the wavelength of 500nm and by the time it reaches earth it has been shifted to 600 nm. How do you know the original wavelength was 500 nm. Would it not from earth just look like the star emitted a photon of 600 nm. so how can you use this to determine the speed.

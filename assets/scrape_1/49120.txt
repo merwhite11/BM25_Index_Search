@@ -1,0 +1,5 @@
+Why hasn't the EHT taken an image of Sgr A*?
+
+The Event Horizon Telescope or EHT took an image or the black hole at the center of M87 in 2019, and in 2021 it measured the polarization of the light from M87*. Right after the first image of M87* was taken, I had heard that  Sgr A* -- the super massive black hole at the center of our own galaxy -- would be a future target for the EHT. However, it seems the EHT hasn't been used to study Sgr A* yet.
+Why hasn't the EHT been used to study Sgr A*?
+Based on this answer, Sgr A* is not as bright as M87*. Is Sgr A* not bright enough to be visible? A comment under that same answer also mentions timescale variability as a reason why Sgr A* is harder to see. What does that mean?

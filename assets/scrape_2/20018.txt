@@ -1,0 +1,5 @@
+Stellarium simulation
+
+I'm interested lately in Stellarium and the functionalities which it provides especially scripting. I want to make a simulation that shows the celestial sphere with some planets like Venus, Mars, and the Pole-star. 
+I would make a kind of animation that starts from a departure point (France) and arrives in (Canada), but in this animation, I couldn't figure out how to synchronise between time and position (Supposing that I'm travelling to Canada at a fixed speed like in a vessel). 
+I've already looked for some examples in the scripts folder and I read the documentation and I found that I can use setObserverLocation() and maybe setDate() but I don't know to synchronise between both of them to make the animation realistic.

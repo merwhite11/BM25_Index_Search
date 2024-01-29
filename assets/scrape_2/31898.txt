@@ -1,0 +1,6 @@
+Can we detect the wobble of neighbouring stars around their barycenters?
+
+The wobble of a star around its barycenter is interesting (the wobble caused by the pull of the rest of the solar-system on the sun).
+This question explains why we don't see this wobble from within our own solar-system (because we are mostly orbiting the sun, and not our solar-system's barycenter):
+What point does Earth actually orbit?
+But is it possible to detect from here on Earth, the wobble of neighbouring solar-systems relative to the wobble of our solar-system?

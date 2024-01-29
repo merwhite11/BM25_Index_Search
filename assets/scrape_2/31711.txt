@@ -1,0 +1,3 @@
+What is the maximum distance measurable with parallax?
+
+What is the furthest star or celestial object whose distance has been calculated with parallax and how does it compare to the theoretical limit using today's telescopes? And how exactly does telescope aperture relate to the maximum distance measurable (other than the bigger the aperture the bigger the distance)?

@@ -1,0 +1,5 @@
+How many stars can stay close to each other without collapsing?
+
+Is it possible for two stars to exist close to each other? 
+"Close" is relative; let's assume that two stars are close to each other if they are at the center of the same solar system. 
+It's possible for this to happen with 3 stars. But what about more? How many stars can be the center of exactly one solar system without collapsing because of gravity?

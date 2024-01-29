@@ -1,0 +1,6 @@
+If a satellite is put into the same orbit of the Sun as Earth, how does it avoid hitting Earth?
+
+If a spacecraft follows literally the exact orbit of Earth at a different speed to Earth then why doesn't it hit Earth at some point? I'm specifically thinking about this in relation to these spacecraft but I'm also interested in it more generally:
+STEREO, 2006, https://en.wikipedia.org/wiki/STEREO
+Helios, 1974, https://en.wikipedia.org/wiki/Helios_(spacecraft)
+Thanks :)

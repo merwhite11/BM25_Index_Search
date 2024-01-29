@@ -1,0 +1,23 @@
+Calculating Angle Between Two Planets In Heliocentric Orbit
+
+My goal is to calculate the retrograde of Mercury. What I've been working from is the book, Practical Astronomy With Your Calculator 3rd edition. I've made some progress, but I seem to be stuck with how to get the right answer. Hopefully my data to work with is right. Here is a sample:
+Sat Feb 20 03:52:00 2021
+Direct: 
+Mercury: 160
+Earth  : 77
+Diff   : 83 : 237
+Tue Jun 22 00:00:00 2021
+Direct: 
+Mercury: 358
+Earth  : 199
+Diff   : 159 : 557
+Mon Oct 18 00:00:00 2021
+Direct: 
+Mercury: 124
+Earth  : 314
+Diff   : 190 : 438
+
+All numbers are in degrees, based upon the main calculations from page 108. The calculations only cover part of the whole thing. Mostly to the bottom of page 108 #11. I then took the decimal part of the numbers I was getting for Vp and Ve, and converted that into degrees with a look up table. Also, I modified the formula in #2 to be Mercury's orbit period. Hoping to get more accurate data.
+My question is: Can the angle between the two planets be calculated? I know the distance each planet is from the sun, but how can I get the angle between the two planets for the dates I've shown? I'm new to math like this, so forgive what I'm not aware of here.
+Thank you!
+See photo for formula used:

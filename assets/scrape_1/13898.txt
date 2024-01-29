@@ -1,0 +1,7 @@
+SDSS. Google Sky and DeCaLs
+
+(1) Please go through following image
+Possible Super Red Giant?
+However sdss shows it as galaxy! Am I missing something.
+(2) Google Sky shows object in latitude and logitude format like this.
+Is there any way to convert those numbers to Right Ascension (ra) and Declination (dec) numbers or opposite of that  so that I can spot google sky data on SDSS and SDSS object on Google Sky?

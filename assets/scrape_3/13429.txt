@@ -1,0 +1,7 @@
+What is "emission measure"?
+
+Many papers mention emission measure, and some of them give the expression of EM, BUT there is no clear definition of EM.
+My question is what EM is on earth? Its unit is supposed to be cm-3.
+How to calculate EM? here(4B5) gives an expression, but it can not be derived from a light curve directly.
+Given an X-ray light curve(not from the Sun), probably I need to devide the light curve into many bins and do spectral fitting.
+Then what should I do? Rererence papers with clear definition and expression are welcome.

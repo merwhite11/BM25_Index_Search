@@ -1,0 +1,20 @@
+Have more recent LIGO/VIRGO gravitational wave measurements narrowed down the speed of gravity further?
+
+This answer to How precise are the observational measurements for the speed of gravity? says:
+
+...in 2013 a Chinese group built a model using Earth's tides that helped them narrow it down.
+
+... [T]he speeds of gravity are from 0.93 to 1.05 times the speed of light with a relative error of about 5%. This provides first set of strong evidences to show that the speed of gravity is the same as the speed of light.
+
+This is so far the most accurate measurement I've seen.  See the paper for more.
+In the near future, LIGO may be able to provide more accurate measurements by comparing the distance among detectors and the delay of observation.
+
+In case the links break, the papers are:
+
+"Observational evidences for the speed of the gravity based on the Earth tide" TANG KeYun et al. Chinese Science Bulletin, February 2013 Vol.58 No.4-5: 474-477 doi: 10.1007/s11434-012-5603-3
+"Bounding the speed of gravity with gravitational wave observations" Neil Cornish, Diego Blas, Germano Nardini 2017,  https://arxiv.org/abs/1707.06101
+
+
+update: As noted in @amateurAstro's comment and linked well-sourced answer the time between a gravitational wave detection and X-ray burst of GW170817 and GRB 170817A constrains the difference between the speed of gravity and the speed of light to be "...between $-3 \times  10^{-15}$ and $+7 \times 10^{-16}$ times the speed of light..."
+So my updated question is:
+Question: Have more recent LIGO/VIRGO gravitational wave measurements narrowed down the speed of gravity further?

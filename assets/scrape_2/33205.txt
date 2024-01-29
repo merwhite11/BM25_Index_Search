@@ -1,0 +1,15 @@
+Change of orbit with change of mass?
+
+In the science fiction book 2010, monoliths increase the mass of Jupiter until it becomes a star.
+https://en.wikipedia.org/wiki/2010:_Odyssey_Two
+
+The Leonov crew flees Jupiter as a mysterious dark spot appears on
+  Jupiter and begins to grow. HAL's telescope observations reveal that
+  the "Great Black Spot" is, in fact, a vast population of monoliths,
+  increasing at an exponential rate, which appear to be eating the
+  planet. By acting as self-replicating machines, these monoliths
+  increase Jupiter's density until the planet achieves nuclear fusion,
+  becoming a small star.
+
+Obviously fiction.  But my question is about orbits and the mass of orbiting bodies.  For planets, whose mass is negligible compared to their star, I understand one can ignore mass for purposes of calculating orbits.  
+But if Jupiter were by scifi magic made as massive as a star, would its orbit remain the same regardless?  Or if it were made to stay on its same orbital path, would it have to move more quickly, completing its orbit of Sol in a shorter time?

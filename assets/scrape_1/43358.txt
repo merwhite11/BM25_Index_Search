@@ -1,0 +1,6 @@
+What are the typical emissions of Jupiter's Aurorae?
+
+I'm looking for some solid measurements of the full range of emissions from the Aurorae on Jupiter. I've found partial sets of data in the past which are most easily summarized here. As you can see, this set of data is missing several ranges of emissions. The missing ranges I'm most interested in are from .18μm-.385μm, and 1μm-3μm. Graphs are greatly appreciated so I can integrate certain wavelengths myself, as well as different data sets which separate the power of emissions into more specific categories such as UVA/UVB/UVC.
+The holy grail of answering this question would be a graph similar to a black body radiation graph with the x-axis being wavelengths in μm and the Y axis being Spectral Radiance as seen here:
+
+Source

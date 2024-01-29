@@ -1,0 +1,31 @@
+The compatibility of the Grand Tack hypothesis with the "core-warping impact" theory of Jupiter's diffuse core
+
+In recent years, the Juno mission revealed that Jupiter's core was much more diffuse than astronomers had expected.
+One theory is that "within a few million years" of its formation, Jupiter experienced a head-on collision with a planetesimal of about $10M_{⊕}$, adding a lot more mass to its core from the silicate planetesimal, but also causing the core's contents to be broken up and mixed with the inner envelope.
+The models used in this theory placed Jupiter at a distance of 5.2 AU from the Sun, which is approximately the same as its semi-major axis in the present day. The planetesimal in question would be at the higher end of the valid mass range for a Super-Earth.
+Now, according to the Grand Tack theory, Jupiter originally formed at a distance of $\approx 3.5$ AU and migrated inwards toward the Sun, before gravitational interactions with Saturn caused the two planets to move outward and brought Jupiter to its present-day orbit.
+Saturn itself would have formed at a distance of $\approx 4.5$ AU, increasing in mass from $30M_{⊕}$ to $60M_{⊕}$ during the first $10^5$ years of Jupiter's inward migration, before starting its own inward migration. This would have been much faster than Jupiter's, enabling Saturn to "catch up" and the gravitational interactions as described to then occur.
+The original formations would all have occurred over a timescale of $\lessapprox 6Myr$, maybe closer to $\approx 3Myr$. (The original paper describing the Grand Tack refers only to "a few Myr"; the figures here are based on "Disc Frequencies and Lifetimes in Young Clusters", which it cites in support of this.) The inward and outward migrations would then have occurred in an 800,000 year time period (see Figure 1 of the Grand Tack paper)
+(Incidentally, the cores of Uranus and Neptune are each $\approx 5M_{⊕}$ at the start of this migration, increasing to values $> 10M_{⊕}$ at the end of it.)
+
+So far, the two models look quite compatible with each other, with the collision occuring after Jupiter settles into its 5.2 AU orbit. But there is one detail I'm not sure about. Here comes the question:
+
+Descriptions of the Grand Tack theory describe Jupiter as scattering early planetesimals as its gravity disturbed their orbits. Some collided with each other, some were propelled into the Sun... Is it more likely that one of these collided with Jupiter itself at the head-on angle needed for the core-warping collision? Which would mean the impact occurred before Jupiter reached its final orbit.
+
+In addition...
+
+The "few million years" timescale is quite vague. Does anyone know any additional detail which might suggest the impact occurred prior to the Grand Tack's timeframe?
+
+References (not paywalled):
+Haisch Jr, K. E., Lada, E. A., & Lada, C. J. (2001). Disk frequencies and lifetimes in young clusters. The Astrophysical Journal Letters, 553(2), L153.
+Walsh, K. J., Morbidelli, A., Raymond, S. N., O'Brien, D. P., & Mandell, A. M. (2011). A low mass for Mars from Jupiter’s early gas-driven migration. Nature, 475(7355), 206-209.
+Liu, S. F., Hori, Y., Müller, S., Zheng, X., Helled, R., Lin, D., & Isella, A. (2019). The formation of Jupiter's diluted core by a giant impact. Nature, 572(7769), 355-357.
+Guillot, T. (2019). Signs that Jupiter was mixed by a giant impact.
+with accompanying articles:
+Wall, M. (2017). More Jupiter Weirdness: Giant Planet May Have Huge, 'Fuzzy' Core. (space.com)
+Weitering, H. (2018). 'Totally Wrong' on Jupiter: What Scientists Gleaned from NASA's Juno Mission. (space.com)
+(2019). A core-warping impact in Jupiter's past? (Astronomy Now)
+A paper cited in earlier versions of this question but which turned out to be incompatible with the Grand Tack theory:
+Pirani, S., Johansen, A., Bitsch, B., Mustill, A. J., & Turrini, D. (2019). Consequences of planetary migration on the minor bodies of the early solar system. Astronomy & Astrophysics, 623, A169.
+with accompanying article:
+Jupiter's unknown journey revealed

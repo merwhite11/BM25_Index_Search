@@ -1,0 +1,5 @@
+Detection of exo-planets
+
+One method used for detecting exo-planets is to look for a slight dip in the parent star's luminosity as the planet transits the stellar disc. Intuitively, it seems to me that if planetary systems in our galactic neighborhood are randomly oriented, there would have to be a very large proportion of them in which transits can never happen from Earth's viewpoint. Perhaps, however, the assumption of random orientation is incorrect, and there is some alignment of the axes of rotation of planetary systems, which would facilitate detection of planets in some preferred plane (the galactic plane?).
+In popular presentations concerning the search for exo-planets, I have never seen this issue addressed. What observations and/or assumptions are used in arriving at a realistic estimate of the number of exo-planets in our region of the galaxy?
+(There are related questions in this forum, but I haven't found one that asks about the possible alignment of the axes of rotation.)

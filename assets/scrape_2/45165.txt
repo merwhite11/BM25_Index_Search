@@ -1,0 +1,33 @@
+Proper way to average a set of color measurements?
+
+Say we're given a set of flux measurements in two filters for a group of $n$ stars, say H-band and K-band: $F_H$ and $F_K$
+From these, we can compute a color in $\Delta m$ for each of the $n$ stars, e.g.
+$(H-K) = 2.5 \log_{10}(F_K/F_H)$
+If we wanted to determine the mean color of the stars in this set, what is the proper way to proceed?
+i.e. should we:
+a) compute the mean of the $\Delta m$ measurements (i.e. $H-K$), or
+b) compute the mean of the flux ratio measurements ($F_K/F_H$), then convert to $\Delta m$?
+My intuition is the former, but I've been told the answer is the latter...
+My thinking, using a very simple example in which we have two stars:
+For star 1, we measure:
+$F_H = 2$
+$F_K = 1$
+So:
+$F_H / F_K = 2$, or
+$(H-K) = -0.753$
+For star 2, we measure:
+$F_H = 1$
+$F_K = 2$
+So:
+$F_H/ F_K = 0.5$
+$(H-K) = 0.753$
+If we average these two measurements in flux space, we find an average color of:
+$(2+0.5)/2 = 1.25$, or $F_H = 1.25 \cdot F_K$, or $F_H > F_K$ $\rightarrow$ an average $\textbf{blue}$ color
+Or in magnitude space:
+$(–0.753 + 0.753) / 2 = 0$ or $H = K$ $\rightarrow$ a gray color
+Notably... the magnitude average is robust to inversion, but the flux ratio average is not:
+Measurement 1: $F_K / F_H = 0.5, \Delta(K-H) = 0.753$
+Measurement 2: $F_K / F_H = 2.0, \Delta(K-H) = –0.753$
+Flux average: $F_K / F_H = 1.25$, $F_K = 1.25 \cdot F_H$, or $F_K > F_H$ $\rightarrow$ an average $\textbf{red}$ color
+While the mag average is again 0.
+Any insights or suggested reading would be much appreciated!

@@ -1,0 +1,5 @@
+Is there an antonym for 'transit', i.e. the transit of a celestial body through the meridian
+
+I'm writing software to calculate the rising, transit, and setting of a body on the celestial sphere for a specific location and date. It seems to me that the opposite of transit, at least in the case of the Sun and for circumpolar stars, would also be of importance.
+In the northern hemisphere this would be the time when a circumpolar star would pass through the line between the celestial north pole and true north, and be at its lowest height above the horizon.
+Is there an antonym (opposite) for the word transit?

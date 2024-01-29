@@ -1,0 +1,4 @@
+Is Beta Lyrae still thought to be losing mass in a spiral outflow?
+
+In the famous 1960 painting by Chesley Bonestell, Beta Lyrae is depicted with a glowing spiral trail of matter emanating from the binary stars. I'm wondering if that's still thought to be a possibility given the additional study of the system between the 1960s and the present day.
+Deschamps et al. (2005) suggest that non-conservative evolution of binary stars might be via a hotspot mechanism, where the mass is lost from the region where the accretion stream impacts the disc. Most studies of Beta Lyrae itself seem to discuss mass loss via bipolar jets, for which there is observational evidence (e.g. Ak et al. 2007). Is there any evidence for the kind of spiral outflow depicted by Bonestell (either via the Deschamps et al. mechanism or via direct loss through the L2 point), or is this no longer thought to be occurring at Beta Lyrae?

@@ -1,0 +1,14 @@
+How many galaxies can be seen in a given patch of sky
+
+Similar to the question asked here, but my question is not about what can be seen with the naked eye but rather what might be seen if pointing my Newtonian reflector (full specs outlined below) at an average point in the sky. (This is why my questions is different from the potential duplicate...)
+I was doing this last night because it was cloudless and ok seeing, and whenever I point the scope at a given patch of sky I always see a much larger amount of objects (obviously) but how many of these additional dots are galaxies and how many are just nearby red dwarfs or average but more distant stars in the milky way?
+Do galaxies ever appear as points of light similar to faint stars, or are they always more diffuse like Andromeda is through binoculars or my telescope? To be clear here, I'm not talking about the galaxies in our local group that are close enough to be discernable as actually fuzzy objects, but rather more distant galaxies that might be very bright (i.e. large elliptical galaxies). I feel as though I'm answering my own question here and that galaxies are only seen as diffuse objects and not points of light, but I can't think of a good way to test this hypothesis with my equipment.
+Assume ideal conditions (low light pollution, perfect seeing, etc.) although I am also curious to know how much this changes if the light pollution conditions worsen, particularly in my backyard. For reference, I can somewhat make out the milky way on a cloudless, moonless night. Andromeda is not visible without small binoculars on any night here (or it is and my eyes just aren't trained enough to find it without them).
+A better way to phrase my question might be this. Imagine if I were to remove all the stars in the milky way so that the only objects in the night sky were other galaxies. How densely populated with the sky be to the naked eye, and how densely populated would it be through my telescope?
+Thanks for taking to the time to read my question(s)! I hope to be able to give my own answers one day.
+Clear skies everyone.
+Telescope specs:
+NexStar 130mm
+Aperature: 130mm
+Focal Length: 650mm
+Eyepiece: 9mm, 1.25" Plossl

@@ -1,0 +1,31 @@
+When did people first measure that the Earth was closest to the Sun during January?
+
+When we talk about the reason for the seasons, we usually have to dispel the misconception that seasons are caused by being close and far away in the Earth's elliptical orbit.  
+And usually, we mention that the Earth is actually closest to the sun in January, in the dead of winter (for the Northern hemisphere).  
+But when did astronomers first have the Earth's orbit measured carefully enough that they knew the Earth was slightly closer during January?  How was that measurement made?  How accurate were the first measurements?
+They didn't they measure the size of the disk of the sun very, very carefully, did they?  Perhaps with a pin-hole camera?  That seems like it would be very difficult to do.
+
+Additional
+I guess if we are talking about long enough ago, they would have thought it was the Sun's orbit that brought it closer because either because of an eccentric (the idea that the orbit of an ancient planet had a center that was offset) or because of epicycles bringing the Sun closer on the circle on a circle. 
+I just wonder what sort of observation they might have made.
+One of the nicest comparisons I've seen can be found here.
+
+If it was me with the tools available in ancient times, I'd probably use a rotatable camera obscura, and maybe a cone with markings to place at the center of the image of the sun, to exaggerate the effect of the size differences.
+
+Second Additional
+Based on JdeBP's answer I want to see if I have the correct concept.  (I would put this in comments, but comments can't be nicely formatted.)
+Doing a search for the dates and times of the solstices and equinoxes, and finding the time between those dates and times, I found the lengths of the upcoming seasons.
+Summer 2020 is 93 days, 15 hours, 47 minutes
+Fall 2020 is 89 days, 23 hours, 0 minutes
+Winter 2020 is 88 days, 21 hours, 7 minutes 
+Spring 2021 is 92 days, 17 hours, 54 minutes 
+Summer 2021 is 93 days, 15 hours, 49 minutes
+If we subtract from 1/4 of an astronomical year, we get about:
+$$
+\begin{matrix}
+Spring & +1.4 \: days & & Summer & +2.4 \: days \\
+Fall & -1.4 \: days & & Winter & -2.4 \: days  
+\end{matrix}
+$$
+From there it seems like with a geocentric model with an eccentric, we could get a good approximation for the date of perihelion.  
+I'll have to think about the details of how to get there, though.

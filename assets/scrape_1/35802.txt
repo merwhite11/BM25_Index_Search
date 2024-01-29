@@ -1,0 +1,5 @@
+Binary stars and gas giant formation
+
+Say there's a young s-type binary star system with 2 Sun-like stars. From what I understand for a stable orbit to be possible, a planet's farthest orbital point from its host star has to be around 1/5 or less of the total distance to the companion star (source: Wikipedia), but I'm unsure if this works for a gas giant.
+The gases it would use to form would feel some effect, right? What's the closet the companion star could be to the host star while still allowing for a gas giant to form and have a stable orbit?
+Make any assumptions you have to for this question and thanks for any input.

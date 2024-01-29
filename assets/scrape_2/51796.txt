@@ -1,0 +1,20 @@
+Transforming galactic coordinates in Cartesian coordinates better formula?
+
+I found on your site a formula to make this conversion,
+
+a person helped me to insert it in an excel of which I put you the link.
+https://docs.google.com/spreadsheets/d/1D24hvHLHmbnnBU7aBrTs12jZM6TVuvwB/edit?usp=sharing&ouid=100540662414282362845&rtpof=true&sd=true
+I use it in a video game called Elite Dangerous which I really like.
+In this one you can use Cartesian coordinates to locate yourself, the developers have incorporated 150,000 irl stars which are placed in the right place, I find that huge.
+I use an edsm site which pulls game data like galactic and cartesian coordinates. https://www.edsm.net/
+So thanks to this formula I was able to find irl stars by using its galactic coordinates to find it in game.
+Other stars were generated randomly and also have galactic and Cartesian coordinates, so I used the data retrieved from edsm to see if this formula could give me exactly the same results.
+for example :
+Beagle point is located at: -1111.5625 / -134.21875 / 65269.75
+Galactic coordinates: R: 65,279.352 / l: 0.976 / b: -0.118
+Deeli's point ( hip 7) is located at: -135.5 / -124.125 / -43.21875
+Galactic coordinates: R: 188.773 / l: 107.690 / b: -41.112
+The results are not identical but very similar, so I wondered which formula the developers had used and if I could find it or correct the one I used to achieve the same results.
+I search an better formula.
+Sorry if this seems strange to you, getting interested in this game made me interested in a lot of things in astronomy. I would like to learn and understand always more, even if I have very little notion in mathematics
+Sorry for the syntax, English is not my native language

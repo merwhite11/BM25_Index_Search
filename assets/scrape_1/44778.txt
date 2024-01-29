@@ -1,0 +1,31 @@
+Why does X-shooter use double passes through prisms for Echelle cross-dispersion instead of gratings?
+
+The catchy title Down-the-barrel observations of a multiphase quasar outflow at high redshift: VLT/X-shooter spectroscopy of the proximate molecular absorber at z=2.631 towards SDSS J001514+184212 mentions X-shooter (Italian only?) which is described in detail in X-shooter, the new wide band intermediate resolution spectrograph at the ESO Very Large Telescope:
+
+Abstract
+X-shooter is the first 2nd generation instrument of the ESO Very Large Telescope (VLT). It is a very efficient, single-target, intermediate-resolution spectrograph that was installed at the Cassegrain focus of UT2 in 2009. The instrument covers, in a single exposure, the spectral range from 300 to 2500 nm. It is designed to maximize the sensitivity in this spectral range through dichroic splitting in three arms with optimized optics, coatings, dispersive elements and detectors. It operates at intermediate spectral resolution (R ~ 4000−17 000, depending on wavelength and slit width) with fixed échelle spectral format (prism cross-dispersers) in the three arms. It includes a 1.8″ × 4″ integral field unit as an alternative to the 11′′ long slits. A dedicated data reduction package delivers fully calibrated two-dimensional and extracted spectra over the full wavelength range. We describe the main characteristics of the instrument and present its performance as measured during commissioning, science verification and the first months of science operations.
+
+To get large dispersion Echelle gratings are operated in high order so you need some kind of cross-dispersion to separate the orders. The one's I've seen use a first-order grating with lines perpendicular to those of the Echelle for cross-dispersion.
+X-shooter uses double passes through prisms in each of the three arms of this 300 to 2500 nm single-slit (though there's a 1.8′′×4′′ to 0.6′′×12′′ slicer), single-target spectrograph.  For UVB and visible there is one prism, for NIR it's a double pass through three prisms!
+
+The collimated beam passes through a 60° silica prism twice to gain enough cross-dispersion. The main dispersion is achieved through a 180 grooves/mm échelle grating blazed at 41.77°.
+
+
+The optical layout of the VIS spectrograph is very similar to that of the UVB... For cross-dispersion, it uses a 49° Schott SF6 prism in double pass. The main dispersion is achieved through a 99.4 grooves/mm, 54.0° blaze échelle grating.
+
+
+(For the) NIR spectrograph... In order to get enough cross dispersion, three prisms are used in double pass. Prism 1 is a 35° top angle made of Infrasil; prisms 2 and 3 are two 22° top angle ZnSe prisms of the largest available thickness (56 mm). This design provides an almost constant order separation. The main dispersion is provided by a 55 grooves/mm échelle grating with a blaze angle of 46.07°.
+
+Question: Why does X-shooter use double passes through prisms for Echelle cross-dispersion instead of gratings? Wouldn't this make it harder to get roughly even order separation?
+Dispersion curves ($n(\lambda)$) are notoriously nonlinear, they shoot up as you approach short wavelengths were absorption edges happen in the material (ergo Cauchy's $n(\lambda) \approx A + B/\lambda^2 + C/\lambda^4$) so prisms squish longer wavelengths and stretch the shorter ones, whereas gratings disperse roughly linearly with wavelength, as $\Delta sin \theta = \lambda m / d$. Why the choice of prisms in this case?
+
+Figure 6. shows the NIR spectrograph. "Double pass" means the light passes through the prisms going towards the Echelle and again after being back-diffracted. That's twelve additional optical surfaces!
+
+
+Figure 6. The NIR spectrograph optical layout.
+
+
+
+Source: Raw images obtained simultaneously by the three detectors of the X-Shooter instrument on the VLT
+
+The light of a celestial object, in this case a quasar, is dispersed according to its wavelength, or colour to form a very long, very high resolution spectrum covering the full wavelength range from ultraviolet to infrared. The optical elements in the spectrograph arrange this long spectrum in a series of consecutive, shorter spectra, called orders. In this illustration, the wavelength increases from bottom to top of each spectrum, and from left to right. The spectrum of the quasar, recording its intensity as a function of the wavelength, is the thin bright lines visible in each of the orders. The short bright nearly horizontal lines correspond to colours where the atmosphere shines brightly.

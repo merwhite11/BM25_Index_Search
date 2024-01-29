@@ -1,0 +1,27 @@
+How do I calculate the sun's azimuth based on zenith, hour angle, declination, and latitude?
+
+Wikipedia cites this formula for calculating solar azimuth:
+
+Where:
+
+$\phi_s$ is the solar azimuth angle
+$\theta_s$ is the solar zenith angle
+$h$ is the hour angle, in the local solar time
+$\delta$ is the current sun declination
+$\Phi$ is the local latitude
+
+I'm implementing this equation in JavaScript, but it doesn't seem correct. Can someone here help me confirm whether or not this equation is correct?
+Here's my JS implementation. The only strange thing is at the end: limiting the acos domain to [-1, 1] to prevent NaN values.
+const getSolarAzimuth = function(
+    zenithAngle, hourAngle, declination, latitude
+) {
+    const cos = Math.cos;
+    const sin = Math.sin;
+
+    const cos_phi = (
+        sin(declination) * cos(latitude) - cos(hourAngle) * cos(declination) *
+            sin(latitude)) /
+          sin(zenithAngle);
+
+    return Math.acos(Math.min(Math.max(cos_phi, -1), 1));
+};

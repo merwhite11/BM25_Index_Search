@@ -1,0 +1,4 @@
+How do we know that Singularity is not an object with reasonable radius?
+
+So for example: a Neutron star has a radius of 10km and 2 solar masses. 
+A singularity can have a radius of 1m and 10 solar masses, with a 1km event horizon radius. Basically it will just be a more compact object than a neutron star. How come we are so sure that singularity is an infinitely small point instead?

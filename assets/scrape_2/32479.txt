@@ -1,0 +1,4 @@
+Eccentricity from Analemma
+
+Can the eccentricity of a planet's orbit be found just from the analemma of its star? We can draw an analemma given the axial tilt and eccentricity, but how do we find the reverse?
+Note: I already know that the highest and lowest points indicate the amount of axial tilt

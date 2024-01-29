@@ -1,0 +1,7 @@
+How can I calculate the uncertainties in magnitude like the CDS does?
+
+When you check an entry of the Gaia DR2 stellar catalogue in Vizier, for example this one, you can see that there is a value for the G magnitude (in our case 18.0733 mag) and a value for the uncertainty on that (in our case 0.0023 mag). The thing is that the G value is part of Gaia DR2 but the uncertainty is not, it was calculated by the CDS for Vizier (using the values presented for the flux as far as I can understand). I have two small related questions:
+
+How does the CDS calculate the value from the uncertainty exactly? at least so that the one given by the CDS and the calculated one agree to the fourth decimal.
+
+Is there a way in astropy or astroquery to retrieve the photometric uncertainty value from the catalog? Or do I have to calculate it as in the first question?

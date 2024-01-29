@@ -1,0 +1,5 @@
+Rotating azimuth/altitude to a focal point?
+
+This is really a math question, but it's for use in astronomy, so:
+Because reasons, I'm writing my own sky-viewing code.  I've found a few references for converting right ascension and declination to local azimuth and altitude; so far, so good, now I need to plot that coordinate in 2D.
+It's trivial to turn az/alt into an azimuthal equidistant projection; just map azimuth to $\theta$ and altitude to $r$ where +90° is zero and -90° is 2.  However, what I really want is an azimuthal equidistant projection where the center is at a point of my choosing — for example, NW toward the horizon — ideally specified using two angles, $\theta$ and $\phi$.  With no modifications, az/alt is using a focal point directly overhead — how do I rotate that to my point?  (Continuing the example, I'd be rotating by $\theta$ 45°, $\phi$ 90°.)  I believe this is a spherical trigonometry question, but I'm having trouble grokking the references I've found well enough to do what I want.  Any guidance?

@@ -1,0 +1,24 @@
+Why weren't the Hubble light-echo images of V838 Monocerotis supplemented by ground telescopes?
+
+Drawing from this answer to V838 Monocerotis “light-echo” images morphed into nice video, but why so few original images?
+
+The V838 Monocerotis expansion (not a supernova) and the observation of the subsequent "spectacular" light echo was quite a notable event! From Nature 422, 405-408 (27 March 2003)
+
+
+The Hubble images are quite spectacular (discussed further in [that answer]https://astronomy.stackexchange.com/a/14780/7982). I've included them again below. The color images are 83x83 arcsecconds.
+A later conference paper laments the fact that no HST images could be obtained the following year (2003):
+
+"We received HST observing time at five epochs in 2002 through DD allocations: April, May, September, October, and December. All of the observations were made with the Advanced Camera for Surveys (ACS), which had been installed in HST during SM3b in March 2002. I need not emphasize to this audience how extraordinarily unfortunate it is that no HST observations were obtained during 2003—the loss of this opportunity is truly incalculable. However, the echoes were imaged twice in 2004 through the Hubble Heritage program, in February and October. More happily, the HST Cycle 14 allocation committee did award our team observing time for an intensive HST imaging campaign from October 2005 to January 2006, and we also have two more epochs of observations scheduled in Cycle 15 for late 2006 and early 2007".
+
+My question is: Why could't observations from one or more of the ground telescopes that are using Adaptive Optics been used to at least supplement the data in 2003? I understand they may not provide the same quality, but not even close? Not even for the polarization mapping? Is it related to the extended area of the target? Is a field of 80 arcsec too large to correct all at once? Is the pattern too complex, or is it the lack of an isolated bright "guide star" the problem?
+note: I need a reasoned and hopefully quantitative answer, not your "best guess" or speculation. Thanks!
+Figure 2 of the Nature paper describes the preservation of the actual light curve (history) within the structure of the light-echo shell:
+
+
+"FIGURE 2. HST images of the light echoes
+The apparently superluminal expansion of the echoes as light from the outburst propagates outward into surrounding dust is shown dramatically. Images were taken in 2002 on 30 April (a), 20 May (b), 2 September (c) and 28 October (d). Each frame is 83" times 83"; north is up and east to the left. Imaging on 30 April was obtained only in the B filter, but B, V and I were used on the other three dates, allowing us to make full-colour renditions. The time evolution of the stellar outburst (Fig. 1) is reflected by structures visible in these colour images. In b, for example, note the series of rings and filamentary structures, especially in the upper right quadrant. Close examination shows that each set of rings has a sharp, blue outer edge, a dip in intensity nearer the star, and then a rebrightening to a redder plateau. Similar replicas of the outburst light curve are seen propagating outwards throughout all of the colour images."
+
+From Astronom. J. 135, 2, 2008 or ArXiv
+
+
+Figure 2. Images representing the degree of linear polarization, p, for each of the four epochs of data shown in Figure 1. Image scales and orientations are the same as in Figure 1. The image stretch is linear, ranging from black representing zero linear polarization to full white representing ~50% linear polarization. These images illustrate the apparent outward motion of a ring of highly polarized light in the light echo.

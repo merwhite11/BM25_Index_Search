@@ -1,0 +1,4 @@
+What defines a stable orbit?
+
+While looking for a way to prolong an orbit via moon power I was faced with the parameters of what would be a stable orbit by length of time an object stayed in orbit, What is the definition of a stable orbit? Is there a such an orbit since all orbits eventually degrade?
+Can the moon's gravity provide enough force to keep an object in Earth's orbit?

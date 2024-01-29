@@ -1,0 +1,37 @@
+Understanding WISE acronyms
+
+I've enoucntered many acronyms related between them, like AllWISE, WISE, NEOWISE, CatWISE, WISEA, WISEAR, WISEAF, WISEU, WISEP, WISEPA, WISEPC, WISEF, WISEPF, WISER, WISEWF, WISET, WISETF, WISENF... but I would like to understand the differences and what they refer to.
+Here is my attempt (I would appreciate any corrections).
+
+WISE Is the acronym for the "Wide-field Infrared Survey Explorer" that compiled the WISE catalog of 2012 which is also called the "WISE Final Release Source Catalog" (yes, the same name for the spacecraft, mission and the catalog).
+
+AllWISE Is the name of a later data release of the WISE mission constituting the WISE catalog for the year 2013, with many improvements over the previous, extending the work done by the WISE mission even further.
+
+NEOWISE Is the name of the extended WISE mission (using the same WISE spacecraft) approved by NASA in 2010. It also appears in the names of many asteroids since this part of the mission focused on Near-Earth Objects instead of Brown Dwarfs and cool stars and resulted in a bunch of different catalogs.
+
+CatWISE It is a new catalog, that was released in 2019, joining data from WISE and NEOWISE parts of the WISE mission with additional dim sources.
+
+WISEF "refers to sources that are contained in the WISE Final Release Single-exposure Source Working Database"
+
+WISER "refers to sources that are contained in the WISE All-Sky Release Reject Table"
+
+WISEP "refers to sources that are contained in the WISE Preliminary Release Source Catalog"
+
+WISEPF "refers to sources that are contained in the WISE Preliminary Release Single-exposure Source Working Database"
+
+WSIEPA "refers to sources that are contained in the Atlas Tile Source Working Database"
+
+WISEPC "refers to sources that are contained in the Coadd Source Working Database"
+
+WISEWF "refers to the sources that are contained in the NEOWISE Post-Cryo Preliminary Release Single-Exposure Source Working Database"
+
+WISEAF "refers to the sources that are contained in the All-Sky Release Single-Exposure Source Working Database"
+
+WISET "refers to the sources that are contained in the 3-Band Cryo Source Working Database"
+
+WISETF "refers to the sources that are contained in the 3-Band Cryo Single-Exposure Source Working Database"
+
+WISENF "refers to the sources that are contained in the 2013 NEOWISE Post-Cryo Release Single-Exposure Source Working Database"
+
+
+But what about WISEA, WISEU, WISEAR and others? And why the IDs of the objects change from catalog to catalog!? I'm so confused right now.

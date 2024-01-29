@@ -1,0 +1,14 @@
+gravitational time dilation multiple sources
+
+I wondered how time would be dilated for an object in the middle of 2 black holes, however 
+https://en.wikipedia.org/wiki/Gravitational_time_dilation only provides a formula for one source of gravity
+i tried approximating it by multiplying the time dilation factors, however when i used 1 single source with twice the mass the results differed from 2 objects with half the mass quite drastically
+the examples:
+mass $1,00E+036$kg distance $3000000000$m
+time:$0,7105905766$
+mass $2,00E+036$kg distance $3000000000$m
+time:$0,099387802$
+approximation: $0,7105905766*0,7105905766=0,5049389676
+$
+which is off by a factor of 5 and would be even more off the closer the distance gets to the schwarzschild radius
+so how can the time dilation of multiple objects be approximated ?

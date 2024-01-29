@@ -1,0 +1,4 @@
+Where can I find thousands of actual images of stars in the galaxy?
+
+I'm trying to write a program to differentiate between images of stars and nebulae. However, I'm not able to find a large enough dataset of actual images of stars that I can use to train my deep learning algorithm. Is there any database that has thousands of actual images of stars that I can use to train my deep learning algorithm? Thanks.
+EDIT: I need individual images of stars so that my program can learn the identifying features of a star and be able to differentiate a star from another celestial object.

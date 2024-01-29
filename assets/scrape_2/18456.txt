@@ -1,0 +1,13 @@
+Did Gaia actually generate complete light curves for 212 Cepheids in other galaxies?
+
+The recent BBC news item Gaia clocks speedy cosmic expansion says that a recent Gaia measurement of 212 Cepheid variables in other galaxies within the local group yields a Hubble constant of ~73 km/s/Mpc which is in agreement with a previous measurement using the Hubble telescope.
+The results are reported in: A test of Gaia Data Release 1 parallaxes: implications for the local distance scale. I have included Figure 1 at the end here. If I understand correctly, the x-axis or "Photometric Parallax" represents photometric data which is compared to a model to yield a distance, which is then expressed as an equivalent parallax. 
+Gaia is not a "point and shoot" instrument like the Hubble telescope. It has a slow, extremely steady rotation in order to scan at least 1.5 full revolutions - enough for every start in the scan to pass completely across the CCD array through both telescopes.
+But this isn't an optimal observing plan for collecting data on a group of Cepheids. Although there are similarities, the light curves of different stars will be distinct. Am I naive to think that it is necessary to build up a nice, complete light curve with dense points in time in order to use the photometry for precision distance calculations? Was this actually done within Gaia's survey observing program, or was there a special observing plan for the Cepheid measurements?
+The data also needs to be good enough to calculate the periods of each star with sufficient precision. The curve of absolute magnitude vs period is quite steep at low periods, meaning the error in the calculated distance is strongly affected by an error in the period.
+And could someone help me understand - what is a TGAS parallax?
+
+above: Figure 1 from here.
+
+
+above X2: "Figure 4 and 4a: Cepheid light curves (click on images for larger versions) Light curves for the twelve Cepheid variables in M100 that have been observed with Hubble. The absolute magnitude, M, is determined from the period of the Cepheids. Adapted from Freedman et al. (1994)." from the tutorial: https://astrosociety.org/edu/publications/tnl/57/realastro3.html

@@ -1,0 +1,7 @@
+Throwing a baseball from orbit to the earth
+
+I just read a thought piece about what a war in space may look like, and it changed my thoughts on what orbit actually is. From what I read about orbits, it sounds like going faster in the velocity direction will cause you to get to a lower altitude, and going slower will cause you to get to a higher altitude orbit. This feels completely backwards to me, so I tried a thought experiment, but it led me to the questions below.
+I'm standing on satellite in a circular low earth orbit, and I want to make my (indestructible) baseball go to the ground without waiting for months or years to de-orbit. If I threw the baseball in the velocity direction, I don't think I could cause enough delta V to make it go fast enough that it would go to a significantly lower orbit. Is that correct?
+So instead of throwing it in the velocity direction, if I threw it straight at the earth (nadir), would it continue to go towards the earth, or would that just modify the baseball's orbit similar to throwing it in the velocity direction? I remember hearing about something "bouncing off the atmosphere". That wouldn't come into play with my baseball would it?
+If I threw the baseball in the wake direction to try to take a bit of my orbital speed off of it, would it truly get to a higher orbit? Why wouldn't it just fall to the ground?
+Bonus question: if I threw it anti-nadir, what happens?

@@ -1,0 +1,8 @@
+Is a branch on HR diagram a line formed by stars in the same evolutionary phase, or the evolutionary track of an individual star?
+
+Here is a HR diagram from Wikipedia, in the well-known form:
+
+Here is another one from the Stellar evolution article:
+
+I know that when stars leave the main sequence, they go to the giant branch through the subgiant branch. I am a bit confused of what we mean when we say "branch". Looking at the first image, we might think that the subgiant branch is the approximate line of stars formed by different subgiant stars on the HR diagram. While looking at the second one, we might think that the expression branch means the evolutionary track of an individual star.
+Which one is it?

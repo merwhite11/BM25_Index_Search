@@ -1,0 +1,3 @@
+How to remove radial velocity effects of an exoplanet from the host star spectra?
+
+I have a spectra of an M dwarf and I would like to remove the Doppler shift effects due to a known exoplanet, with known planetary parameters, from the whole spectra of the star. I have shifted/corrected the spectra for the radial velocity of the star itself along the line-of-sight but I'm not sure how to shift/correct it for the wobble of the star around a common centre of mass due to a planet orbiting it. Can someone please help?

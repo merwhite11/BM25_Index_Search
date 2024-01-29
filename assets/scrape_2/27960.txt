@@ -1,0 +1,39 @@
+Comparing accuracy in Starry Night and Alcyone Software
+
+From what I understand, 
+
+Starry night (https://starrynight.com/starry-night-7-professional-astronomy-telescope-control-software.html) is more focussed on simulating the night sky whereas 
+Alcyone (http://www.alcyone.de/aat_list_of_available_tables.html) is more focussed on creating data tables.
+
+Both programs provide simulation of the past (Starry Night going farther into the past while Alcyone stops at -3000), which is actually what I am looking for. 
+The problem is that, 2 years after buying Starry Night and being confirmed a bug makes it impossible to export ephemerides prior to 1600 AD, I'm told it was never part of the features at all - contrary to their marketing material.
+So, I'm stuck trying to find another way of getting the information I need (outside of pointing to each object and writing the information by hand). Does anyone know whether the Alcyone software is reliable? It does not go so back in time as I would need it to, but -3000 is far better than 1600AD.
+Further clarification: I have found the following webpage (http://www.archaeocosmology.org/eng/skyprog.htm#Evaluation) and I quote:
+"This page will provide some insight on who to make a choice in planetarium computer programs. This will be done along the following lines:"
+a specification is made on the features needed in such a program.
+an evaluation will be given of the accuracy reachable with present theories.
+a sensitivity analysis will be made with regard to:
+    azimuth/altitude accuracies of normal celestial events
+    local time/location/declination accuracy with regard to solar eclipses/occultations
+    set/rise events
+a benchmark will be proposed to check planetarium computer programs
+an evaluation of some 20 computer programs
+and of course I want to thank people who helped me with this!
+
+Unfortunately, Alcyone is not mentioned here, and I have found no review whatsoever or comment about it's accuracy.
+At Alcyone's website they say:
+"The ephemeris calculation is based upon Steve Moshier's analytical ephemeris using trigonometric expansions for the earth and planets and the lunar ephemeris ELP2000-85 of Chapront-Touzé and Chapront for the moon, both adjusted to Jet Propulsion Laboratory's DE404 (see www.moshier.net). There are further adjustments in Alcyone Ephemeris, some optional, to JPL's more recent DE406, the most accurate long-term ephemeris.
+"All eclipse predictions were performed by Fred Espenak and Jean Meeus (NASA's GSFC)."
+"The calculation of the local circumstances of solar eclipses is based upon the data from the Five Millenium Canon of Solar Eclipses -1999 to 3000 (Fred Espenak, NASA's GSFC) with Besselian Elements provided by Jean Meuus. The calculation of the local circumstances of lunar eclipses is based upon the data from the Five Millenium Canon of Lunar Eclipses -1999 to 3000 (Fred Espenak, NASA's GSFC)."
+As for Starry Night, which I have found reviews concerning its accuracy, they say:
+"The most precise planetary positions available (using JPL ephemerides) plus an expanded asteroid catalog with highlighted families and groups."
+"Checkout the simple demonstration video showcasing the Starry Night Pro 7 Time Travel function. In this video, we travel through 200,000 years, from 99999 BC to 99999 AD, at 100 year intervals. Intervals can be set for seconds, minutes, hours, days, weeks, months, years, etc."
+"You’ll always know where and when to look with Starry Night’s built-in ephemeris generator. It’s a handy observational aid that creates a table of positional data for any object over the time span and at the interval you specify. You can then export the generated values to a text file and print it out. Ephemeris values are handy for knowing where an object will be in the sky at a particular time. If you are using manual or digital setting circles, for instance, you can dial in the generated positional data to locate an object quickly. For example, if you are tracking the path of a fast-moving asteroid as it makes its closest approach to Earth, your ephemeris table will let you know exactly where the asteroid will be during the time period you’ll be observing it."
+But as the ephemerides don't work before 1600 AD, I'm stuck at watching the night sky in the hopes of finding a past event instead of getting its date out of the ephemerides search - I was hoping I could still make use of Starry Night (It was very expensive!) by using some other program to find event dates so I know when to look for them in Starry Night. I know they'll probably have slightly different dates for the distant past, but it'll give me a pointer in the right direction - unless the level of accuracy is very different. Then there'll be no hope to use both programs in tandem.
+Further Clarifications
+1) The exact date for which you're looking for ephemerides,
+From about -10,000 to about 2,500.
+2) The objects you're interested in,
+Mostly the longitude of the Sun as referring to Earth; longitude and distance of the planets (Mercury to Saturn)  referring to the Sun; Moon phases; solar and lunar eclipses
+3) How you intend to use the data.
+I'll be collecting the data in excel so as to create a couple of calendars based on astronomical events for a fictional story. I have already plotted out a basic one without astronomic connections (it's juxtaposed to Julian day and Julian/Gregorian years to allow easy identification of dates), but there are two others which I need to juxtapose that are purely solar and purely lunar, with the planets being important to create sort of decades. It is only important to note where the planets are in the ecliptic (or zodiac houses, that is, 30º areas in the sky). The stars themselves aren't important, only the course of planets, sun and moon in the sky.

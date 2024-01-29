@@ -1,0 +1,3 @@
+Why does the difference between terrestrial times and universal time, $\Delta T$, have such a strange behaviour?
+
+I was reading about ancient astronomy, and one of the main phenomena described is eclipses. Now, I read this 2016 paper by Stephenson, Morrison and Hohenkerk, in which they determine the values of the parameter $\Delta T=UT-TT$. For the pre-telescopic era, that is, from 700 BC to AD 1600, the parameter is simply a smooth quadratic function, while during the telescopic era, from 1600 to the present, it suddenly becomes erratic and oscillatory. I want to know why is this, what causes this parameter to have such a strange behaviour.

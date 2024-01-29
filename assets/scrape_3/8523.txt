@@ -1,0 +1,10 @@
+Are there equations to simulate creation of a solar system?
+
+I've been wanting to create a simulator to run tests based on properties of a star to find patterns in how planets form. Are there any already made equations for any of these countless relationships? Here are a few examples to further explain what sort of information I am looking for.
+For example, how does the mass of a star relate to the distance of the frost line, and is there an already existing equation to estimate this?
+More general example; If I wanted to find out how to estimate, say, a planets surface temperature based on a stars temperature and distance, what is the best way to do this?
+Another example; To find the most likely average mass of a potential planet, what information would I need? Distance to star? Stars mass? Distance to nearest planets?
+Another; How would I go about finding likely measurements of compositions of any hypothetical planets (surface/atmosphere/etc)
+Absolutely any information is very welcome. I do not require any form of proven or precise measurements. If there is no equations, then all I need is what factors are involved in specific attribute development.
+I'd like to emphasize my understanding that this is an extremely complex subject to go into detail. All I am asking for is any information or recommendations.
+Here is a related question to my dilemma, in addition to this information, I am looking for more. Absolutely anything that may help, probably will. I am attempting to make as highly detailed of a model as possible.

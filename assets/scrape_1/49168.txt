@@ -1,0 +1,11 @@
+Best way to quantify the tidal stress on an exoplanet?
+
+I'm trying to assess the tidal stresses different exoplanets experience during their orbits. The known parameters are usually mass $M$, radius $R$, eccentricity $e$, orbital period $T$, and semi-major axis $a$ (where the mass and radius of the host star are known as well).
+The most straightforward way I can think of is using the tidal force imposed on the surface of the planet by the star:
+$$ F_{tidal}= -2G\frac{M_*M_p}{\bar{r}^3}R_p$$
+Where subscripts $*$ and $p$ represent the star and planet respectively.
+$\bar{r}$ is the mean distance:
+$$ \bar{r} = a \left( 1+ \frac{e^2}{2} \right)$$
+and then dividing it by the surface area of the planet:
+$$ \tau_{tidal}= \frac{F_{tidal}}{4\pi r_p^2}$$
+However, I'm not sure if there is a better (and more appropriate) way to estimate the tidal stress.

@@ -1,0 +1,10 @@
+How does the Gamma Ray Burst that occurred when 2 black holes merged compare to other GRB's?
+
+A Gamma Ray Burst was detected 0.4 seconds after the gravitational wave event, GW150914, caused by a black hole merger, and it was in the same part of the sky. It is uncertain whether that Gamma Ray Burst was associated with the black hole merger. The odds of a GRB being coincident (or just background noise) is 0.22%. That implies a 99.78% chance the black hole merger was related to the GRB. Later analysis suggests the GRB was just a background event that occurred in the same place in the sky at just 0.4 seconds after the black hole merger, and therefore not related.
+While a GRB may have relativistic jets beaming out from it in opposite directions, research "excludes the possibility that the event is associated with substantial gamma-ray radiation, directed towards the observer." I interpret that to mean this GRB did not have relativistic jets, but was omnidirectional. (Not sure how astronomers came to that conclusion.)
+Anyhow, whether it was coincident or not, I am asking about how the energy output of that GRB compares to other GRB's. The Wikipedia article in the link says the "energy emission in gamma-rays and hard X-rays from the event was less than one millionth of the energy emitted as gravitational waves."
+How much energy does a typical GRB emit? What was the spectrum spread of a typical GRB? Over what amount of time does a typical GRB emit that energy? (How many seconds?)
+How do the energy levels, spectrums, and time durations of other GRB's compare to the GRB associated with the black hole merger?
+If it is similar to other GRB's, that would support the hypothesis this GRB was just a coincident event at nearly the same time and location in the sky.
+If this GRB has different energy emissions and time duration than other GRB's, that would support the hypothesis it is truly associated with the black hole merger.
+When you answer, please provide data, citations, or quotes from original research. I am not looking for unsupported speculation, but real analysis supported by real data.

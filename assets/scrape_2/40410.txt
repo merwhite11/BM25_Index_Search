@@ -1,0 +1,32 @@
+What would be the year length of a habitable planet of 40 Eridani A?
+
+The planet Vulcan, in Star Trek, is one of the most famous fictional planets.
+The length of a Vulcan year comes up in my answer at:
+How old was Spock in Star Trek while he was serving on the Enterprise?
+So what would be the length of a Vulcan year be if Vulcan orbited 40 Eridani A, which is a very common opinion among star Trek fans?
+40 Eridani A is less luminous than the Sun, so to receive as much heat and light from 40 Eridani A as Earth gets from the Sun, a planet would have to orbit closer to 40 Eridani A than Earth orbits the sun.
+A planetary orbit with a shorter semi-major axis would naturally have a shorter circumference.  Thus the total distance such a planet traveled in one orbit would be less than the distance traveled by Earth in one orbit.
+If the 40 Eridani A planet orbited 40 Eridani A at the same speed as Earth orbits the Sun, its orbital period or year would shorter than Earth's year. But since 40 Eridani A  is less massive than the Sun, the required orbital speed would be less than that of a planet orbiting the Sun at the same distance, and thus the year would be longer than the year of a planet orbiting the Sun at that distance.
+So what is the range in possible year lengths of a planet (with a thin atmosphere, but enough oxygen to be  breathable for humans) orbiting 40 Eridani A within the habitable zone of 40 Eridani A?
+To calculate the size of the habitable zone of 40 Eridani A, one should just multiply the inner and outer edges of Sun's habitable zone by the luminosity of 40 Eridani A compared to the Sun's luminosity, I think.  Unfortunately, there is considerable controversy about the inner and outer limits of the Sun's habitable zone.
+In the episode "Amok Time":
+
+KIRK: It's lovely. I wish the breeze were cooler.
+MCCOY: Yeah. Hot as Vulcan. Now I understand what that phrase means.
+KIRK: The atmosphere is thinner than Earth.
+
+So Vulcan should probably receive more radiation from its star than Earth gets from the Sun to be so hot.
+But possibly a lot of the heat on Vulcan comes from inside the planet, due to tidal heating from interactions with other objects in its star system.  The gravity of Jupiter and the other Galilean moons causes Io to have the most intense volcanism in the Solar System, for example.
+In the animated episode "Yesterday", another world is seen on the horizon of Vulcan.  In most editions of Star Trek: The Motion Picture, two worlds are seen in the sky in a scene presumably on Vulcan.
+In "The Man Trap", Uhura talks with Spock:
+
+UHURA: No, you have an answer. I'm an illogical woman who's beginning to feel too much a part of that communications console. Why don't you tell me I'm an attractive young lady, or ask me if I've ever been in love? Tell me how your planet Vulcan looks on a lazy evening when the moon is full.
+SPOCK: Vulcan has no moon, Miss Uhura.
+UHURA: I'm not surprised, Mister Spock.
+
+So if Vulcan has no moon, maybe it is part of a double planet with another planet.  Or maybe Vulcan is a moon of a very large planet.  Or maybe Vulcan occasionally passes close to another planet in the system, close enough for that planet (or planets) to appear as a disc in the sky of Vulcan.
+One of those possibilities might possibly produce sufficient tidal heating for Vulcan to be at least as hot as Earth while being far enough from 40 Eridani A to have a year approximately one Earth year long.
+Some of the planets in the Trappist-1 system are in the habitable zone, and they orbit so close to each other that some of them sometimes appear larger than the full Moon of Earth in the skies of other planets.
+And if Vulcan periodically passes close to an outer or inner planet and the tidal heating produced by those close encounters is important for Vulcan temperatures, perhaps the hot season in Vulcan is when it is near that other planet, and the colder seasons are when Vulcan is farther from it.  So possibly the Vulcan "year" is actually the synodic period of Vulcan with that other planet, which could be longer than the orbital period of Vulcan around 40 Eridani A.
+A planet seems to have been discovered orbiting 40 Eridani A in 2018, several times as massive as Earth and so close to 40 Eridani A that it would be hotter than Mercury.  That can not be Vulcan (which is fictional after all), but might limit the possible orbits of a planet in the habitable zone of 40 Eridani A.
+So I wonder if anyone can calculate the possible range of year lengths of a habitable planet in the habitable zone of 40 Eridani A, or possibly orbiting outside the habitable zone but kept warm by tidal heating?

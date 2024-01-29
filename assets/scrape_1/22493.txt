@@ -1,0 +1,3 @@
+How difficult is adaptive optics computationally?
+
+What kind of computer do you need to do adaptive optics of big telescopes? Are we talking supercomputer clusters or can my desktop do it, or my smartphone? I suppose it depends on the size of the telescope and the wavelength that is targeted. I'm interested in both the kind of computers that are used and the actual number of FLOPs per second that is required.

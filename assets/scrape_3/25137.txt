@@ -1,0 +1,6 @@
+Central temperature of a stellar model with combination of gas and degeneracy
+
+If we have a stellar density model $\rho(r) = \rho_c(1-r/R)$, where the star is composed of ions behaving as perfect gas and electron with non-relativistic degeneracy. The central pressure is due to both gas and degeneracy pressure. My final goal is to find central temperature of this model.
+Now for the linear density model, I calculated the central pressure only for gas to be $P_c = \frac{5GM^2}{4 \pi R^4}$. And central temperature for only gas is $T_c = \frac{5G \mu M_{H} M}{12KR}$
+I know the Pressure for non-relativistic degeneracy $P_{nrd} = C \rho^{5/3}$. I was wondering to find central pressure for degeneracy, may I use the Lane-Emden equations for polytrops and simply find central pressure and temperature from there? Then add the two temperatures to find the maximum central temperature for a gas+degenerate star.
+For Lane-Emden model, they also consider density dependence on radial distance, but they express the density function as $\rho = \rho_c \theta^n$. Is it equivalent to $\rho(r) = \rho_c(1-r/R)$ for gas model?

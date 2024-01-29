@@ -1,0 +1,4 @@
+Are sunspots vertically displaced from the surrounding photospheric plasma?
+
+While reading a paper on the helioseismology of sunspots (Cameron, et al.), very brief reference is made to the "vertical displacement of a blob of plasma." This caused me to wonder if the emissive surface of the sunspot itself were perhaps depressed from the remainder of the photosphere. If this does occur, is there any literature on mechanisms? I would be very interested to learn more. There was one paper I came across around formation of sunspots from a toroidal field (Parker); but, it seemed to focus more on the vertical displacement of magnetic field lines rather than the plasma itself.
+Thanks.

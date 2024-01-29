@@ -1,0 +1,8 @@
+Occultation of planets by other planets
+
+Two Keplerian closed orbits always intersect:
+
+Source: Astronomy SE answer by Flater
+As seen from Earth, Venus appears larger than Mercury; this makes sense because Venus is both larger and closer than Mercury (as measured by minimal distance; by average distance all planets are equally distant), but can also be readily observed by comparing solar transits for either planet (or wait for 26 July 69,163, when both transit simultaneously).
+Unless prevented by orbital resonance, that means that sometimes, Mercury should be eclipsed by Venus (occultation) when, seen from the Earth, Mercury is exactly behind Venus; and Mars should pass in front of the outer planets occasionally, but I'm not sure which body appears larger from Earth (Mars or Jupiter).
+How often do occultations between planets occur?

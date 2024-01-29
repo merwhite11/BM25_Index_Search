@@ -1,0 +1,3 @@
+Blackbody curve in RGB for objects less than 1500 K?
+
+We know the colors of stars that have a temperature greater than 1000-1500 K, shown here. However, I am wondering about those stars/brown dwarfs with surface temperatures of less than 1500 K. Is there a blackbody curve for these temperatures, and are there any set RGB values for them?

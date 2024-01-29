@@ -1,0 +1,3 @@
+How do I get temperature and diameter from a light curve?
+
+I recently learned that short-period pulsating stars vary in diameter and temperature when they pulsate. If I have a light curve for such an object, is it possible to calculate its diameter and temperature? If yes, how would I go about doing this?

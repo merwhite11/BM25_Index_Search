@@ -1,0 +1,3 @@
+Angle of Declination and Culminations
+
+Is it true that angle subtended by the Zenith Distance at Upper and Lower culminations is equal to the declination of the star ?If It's true then why? Is the motion of Earth make the solid angle of the cone subtended at the centre by circumpolar stars equal to the declination of the star?.

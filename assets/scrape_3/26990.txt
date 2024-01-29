@@ -1,0 +1,6 @@
+Does the size of the atom limit the focal length of telescopes?
+
+Does the size of the atom place a theoretical limit on a telescope's focal length (and thus, resolution)?
+It seems to me that that the allowed margin of error for parabolic mirrors drops with an increasing focal length. It's already like 25 nm for advanced Earth-based telescopes - which is just 50-250 atoms.
+If we try building mirrors with an ever increasing focal length (e. g. as a part of a huge space-based interferometer), will we eventually reach a point where the precision required will be less than the size of the atom and thus no longer achievable? If yes, how far away are we from this limit now?
+If we had unlimited resources, would it be possible to construct a space-based telescope for imagining extrasolar planets in great detail, or would this be not even theoretically possible due to the fixed atom size?

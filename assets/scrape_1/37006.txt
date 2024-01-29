@@ -1,0 +1,12 @@
+Using altitude, azimuth to determine a baseline vector?
+
+I know the equatorial coordinates of a “beam” pointing from an Earth-based observer toward some distant star. I have converted those coordinates to altazimuth coordinates for that observer and a second observer elsewhere on earth.
+Now, I’d like to turn both pairs of coordinates into vectors so that I can subtract them to determine a vector between the two observers. Is there a formula for this? I’ve only found this:
+\begin{align} 
+z &= \sin(alt)\\
+hyp & = \cos(alt)\\
+y & = hyp \cos(az)\\
+x & = hyp \sin(az)\\
+vec & = (x,y,z)\\
+\end{align}
+But I’m not sure if this will actually work. Would they both be in the same coordinate system so that I can, in fact, subtract them to determine a vector between the two points on Earth? Is there an easier/better way to do this? In the end, I need to determine the angle between the “baseline” vector (the vector between the two observers) and the vector pointing from one observer to the star.

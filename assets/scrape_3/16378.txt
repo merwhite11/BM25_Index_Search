@@ -1,0 +1,4 @@
+Why the light curve goes down when the planet is behind the star?
+
+There is a video explaing the transiting exoplanet light curve — https://www.youtube.com/watch?v=RrusIZaWDW8
+It is clear to my why the curve goes down when the planet is between the observer and the star, but I don't understand why the curve goes a little bit down when the the planet is behind the star. I was expected that this should not change the light curve at all.

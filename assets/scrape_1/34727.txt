@@ -1,0 +1,4 @@
+How are Y-dwarf spectral subtypes defined?
+
+It is often stated that the spectral subtype indicates the relative position between spectral types, e.g. G5 being halfway from the start of spectral type G to the beginning of spectral type F.
+Given that we haven't observed a spectral type cooler than Y, how can subtypes Y0, Y1, Y2 be defined?

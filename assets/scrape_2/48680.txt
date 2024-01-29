@@ -1,0 +1,3 @@
+Meteroids escaping the system
+
+So the sun or any star has a certain gravitational pull. Technically the gravity extends infinitely only it will just become really small. If there is a meteroid around a star how do I calculate when the meteroid is far enough away so that you can say it escaped the system? Or that is ejected from the system? So I know the mass of the star and the meteroid can I calculate with only that information at which radius the meteroid will escape the system. If not, could I calculate it if I also knew the semi major axis and eccentricity of the asteroid?

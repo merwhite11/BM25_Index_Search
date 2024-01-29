@@ -1,0 +1,4 @@
+Gas Giant temperatures
+
+Sudarsky's gas giant classification predicts the visual appearance of gas giant planets based on their temperatures.  
+But what determines their temperatures in the first place?  Is it just the irradiation from their star, or is there more to it than that?  If there's more to it, what else is involved?

@@ -1,0 +1,4 @@
+Is Webb or any near-future telescopes like ELT capable of observing redshift changes to confirm General Relativity?
+
+The (Davis and Lineweaver (2003)) "Expanding Confusion" paper states that "the expected change in redshift due to cosmological acceleration or deceleration is only ∆z ∼ 10^(−8) over 100 years. Current Keck/HIRES spectra with iodine cell reference wavelengths can measure quasar absorption line redshifts to an accuracy of ∆z ∼ 10^(−5) (Outram et al., 1999). Thus, this observational test must wait for future technology."
+Has JWST achieved or will ELT, etc. achieve this soon? And will this confirm the event horizon, particle horizon, and past light cone proper distances in their distance vs time graphs shown here and in Figure 1 in the paper?

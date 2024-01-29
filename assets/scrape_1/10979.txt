@@ -1,0 +1,14 @@
+Moon's orbit around the Sun
+
+The Earth revolves around the Sun and the Moon revolves around the Earth.
+Out of curiosity I started thinking about the orbit of the Moon around the Sun and expected (assumed) it to be as follows:
+
+But on Wikipedia and some other sites I found out that the orbit is actually like this:
+
+I have 3 questions:
+
+What is the reason for this difference between assumed and actual path variation?
+Has this path been like this since the formation of the Moon?
+Do natural satellites of other planets also follow the same orbit around the Sun?
+
+After further searching I found out a better, easier explanation regarding the orbit path on YouTube for those interested, be sure to check it out.

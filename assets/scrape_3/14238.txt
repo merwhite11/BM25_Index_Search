@@ -1,0 +1,4 @@
+Is it possible to know if a planet is located in the Habitable Zone knowing it's properties?
+
+Is there an equation that can give me the possibile distance of the planet from his star knowing planet's temperature (or other datas)? 
+I found this method for calculating the Habitable Zone but it's based only on star's properties.

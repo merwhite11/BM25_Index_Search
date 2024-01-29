@@ -1,0 +1,4 @@
+Is it possible to make (or buy kit) DIY portable radio telescope that I can place on the balcony like optical telescope?
+
+I want to have a small radio telescope to use on balcony instead of optical when sky is cloudy (it is very often).
+Is it possible? What objects can be observed by that telescope? Is it possible to use 2D matrix as receiver like an astrocamera in optical telescope (to observe a sky field like optical telescopes, not a single point)?

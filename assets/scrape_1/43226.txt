@@ -1,0 +1,6 @@
+What is the longest natural bound orbit chain observed?
+
+Define a bound orbit chain as a list of successively less massive bodies, each in a bound orbit with the bodies preceding it in the list.
+Then an example of a bound orbit chain would be: <Sun, Earth, Moon>, since the Earth orbits the Sun, and the Moon orbits the Earth and the Sun (and they are listed from most to least massive).  This is a chain of length 3.
+Question: What is the longest natural bound orbit chain we've ever observed?
+Related: Do moons have moons?

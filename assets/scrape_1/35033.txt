@@ -1,0 +1,17 @@
+Estimating Galactic Mass of Andromeda
+
+So I need to estimate the mass of the andromeda galaxy using: 
+$$ M = \frac{v^2r}{G}$$
+where $v$ is the rotational velocity, $r$ the galaxy's radius and $G$ Netwon's gravitational constant. I'm told the following:
+
+Distance (m) = 2.403×$10^{22}$ 
+Radius (arcmin) = 12250.40
+Velocity (km/s) = 300
+
+I went so far as to convert the radius: 
+$$ \frac{12250.4}{60*57.3} = 3.563\ rad$$
+then, calculated the radius:
+$$0.5*3.563*2.403\times10^{22} = 4.2757\times10^{22}$$
+Then subbed into original formula to get:
+$$\frac{ 4.2757\times10^{22} \times 300^2}{G} = 1.7595\times10^{36} kg$$
+It should be $2\times10^{42}kg$. where have I gone wrong?

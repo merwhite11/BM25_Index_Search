@@ -1,0 +1,6 @@
+Image sets for testing stacking algorithms?
+
+I am looking for sets of astronomical images for testing different kinds of stacking algorithms.
+The idea is simple: if one has $N$ images of the same object, the signal-to-noise ratio of the averaged image increases with $\sqrt{N}$ under certain conditions.
+Where could I obtain data for testing?
+PS. I would propose adding the tags "image", "ccd", "research", "signal processing", and "machine learning".

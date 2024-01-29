@@ -1,0 +1,25 @@
+How to design a static heliostat?
+
+An heliostat is a device capable of reflecting the sun in a fixed point while the sun itself moves into the sky, thanks to a moving mirror.
+But this company astonished me with its invention: a static heliostat! Rather than mounting a mirror on a pan&tilt mechanism, they designed a curved mirror which, at any time in the day, reflects sun in a same point (actually same strip).
+http://cleardomesolar.com/solareflexpanels.html
+
+
+How can I design a static mirror which reflects a sun-strip over a wall all along a day? Let's suppose I have these data:
+
+Wall exposed to North.
+Mirror 5 meters away.
+Apprximate location: 42N, 12E.
+
+I am trying experimenting with Geogebra and OptGeo but with no luck so far.
+I can reorient the mirror by hand every week or month, but I don't want to have to reorient it hour by hour!
+Geogebra example:
+
+https://www.geogebra.org/m/ukkrcv3c
+Optgeo example:
+
+Maybe Sunpath3d page can help:
+
+http://andrewmarsh.com/apps/staging/sunpath3d.html
+Also this page may be useful:
+https://www.sunearthtools.com/dp/tools/pos_sun.php

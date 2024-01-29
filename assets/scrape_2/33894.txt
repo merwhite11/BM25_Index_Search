@@ -1,0 +1,3 @@
+Would a 1000 km telescope be able to resolve microscopic detail?
+
+I have calculated that a 100m telescope can resolve 16m on the moon. Does that mean a 1000km telescope is 10000x better and can resolve 1.6 mm objects on the moon and even smaller closer? Or is there some limit to using a telescope as a microscope?

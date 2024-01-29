@@ -1,0 +1,3 @@
+Stars magnitude
+
+I have a question: assume two identical stars, but one is 10 times farther than the other from the earth. If the nearest star has a relative magnitude of 5, what is the relative magnitude of the other?

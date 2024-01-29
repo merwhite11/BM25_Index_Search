@@ -1,0 +1,12 @@
+Event Horizon Telescope Data Cleanup
+
+I was wondering how the researchers were able to minimize or neutralize confirmation bias regarding the data collected?
+As I understand it, the algorithm pruned much of the data, which would make sense, since it would likely be useless noise. See for example the video Event Horizon Telescope Press Conference. First Image Of a Black Hole. at about 38:40.
+
+Five petabytes is a lot of data… The image you saw of course isn’t 5 petabytes in size, it’s a few hundred kilobytes, so our data analysis has to collapse this five petabytes of data into an imaget that’s more than a billion times smaller. 
+
+But apart from that, could certain features be misidentified as artifacts, and be thrown out in favour of preselecting what researchers expected to see?
+The only reason I ask is that the image looks almost identical to simulated predictions from two years ago - which may raise a slight cause for alarm.
+Thank you.
+To follow up (based on answers section below):
+In the first stage process - "common features" - are they like existing stamps of astronomical features (and image comparatives) that have been already observed in our universe (in both the visible and invisible spectrum and used for comparison)? And a second question - if we have never observed the earmarks of a black-hole before, how are we to use existing stamps of knowledge of astronomical features that we have seen to assess and validate an as of yet unknown (which would seem to directly impact what artifacts are preserved and what artifacts are thrown out and discarded)?

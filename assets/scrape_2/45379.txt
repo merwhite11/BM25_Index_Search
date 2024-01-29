@@ -1,0 +1,6 @@
+Given mass, position and eccentricity, is there a way to get initial velocity in a 2-body problem?
+
+I know that the we can get the eccentricity vector  like that: $\mathbf{e} = \frac{\mathbf{v} \times \mathbf{h}}{\mu} - \frac{\mathbf{r}}{\|\mathbf{r}\|}$ (source: https://astronomy.stackexchange.com/a/29008/42546 ).
+I would like to know if there's a way to get one of the initial velocity vectors $\mathbf{v}$ (I believe there's 2) of the lightest of the bodies, given the mass, the position $\mathbf{r}$ and the eccentricity (not the vector) in a 2-body problem ?
+What I'm trying to do is a planetary system procedural generator and I would like, when I put initial velocity for each body, for the eccentricity to be near 0 and never equal or greater than 1 (so every orbit is elliptical); if it's impossible using eccentricity but you see another way to achieve that, I'll take it.
+Thank you !

@@ -1,0 +1,4 @@
+Why have brown dwarf classes been dubbed L, T and Y?
+
+The classes used to categorize stars (O, B, A, F, G, K, M) are in a bizarre order for historical reasons. Stars were labeled based on the spectral lines that were visible, then the categories were put in a different order to account for their temperature. When discovering the temperature of stars, the categories were not renamed, so that the old catalogs could still be used, and everyone just learned "Oh be a fine guy/gal kiss me". 
+The first seven classes were updated as knowledge improved, but brown dwarfs were discovered more recently, so why have the letters L, T and Y been chosen, rather than the easier to remember P, Q and R (or some other set of  letters), for instance?

@@ -1,0 +1,4 @@
+How to calculate a planet's apparent size when the planet is viewed from a moon in orbit around it?
+
+Specifically in this case, how large would Jupiter be seen in the Io's sky in comparison to the moon in the Earth's sky? How to calculate this?
+Also, if somebody knows any online software which lets you input moons and planets to see how their sky looks like to also fill in the answer, it's appreciated.

@@ -1,0 +1,7 @@
+How does one interpret the definition of "accretion" in galaxy formation?
+
+I am having trouble finding a solidifying definition of accretion when it comes to galaxy formation models and galaxy evolutions. Where as, in the context of satellite galaxies, dwarf galaxies, or gasses.
+For example, how do interpret the sentence "Even
+dwarf and Milky Way-sized halos do accrete new mass at low
+redshifts".
+Does this mean that they "gain" new mass or does this mean they "leak" new mass?

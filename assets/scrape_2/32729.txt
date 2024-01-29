@@ -1,0 +1,4 @@
+At what depth below the Sun's surface does the density reach that of water?
+
+I'd like to write a short supplementary answer to A probe floating in Sun's surface but in order to do so I need to know at roughly what depth relative to the Sun's surface the mass density reaches 1 g/cm^3.
+At the bottom of the photosphere the density seems to be either 1E-06 or 1E-09 g/cm^3 as discussed in the question What is the density profile within the Sun's photosphere? but how deep do you have to go below that to reach 1 g/cm^3?

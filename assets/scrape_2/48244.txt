@@ -1,0 +1,9 @@
+Local mean time & Solar Noon
+
+Is local mean time supposed to represent actual sun movement? Does 12pm on local mean time (not clock time), mean that the sun is on meridian or solar noon?
+I understand LMT means 1 degree for 4 minutes computed from Greenwich. My problem is, if clock time is artificial, then LMT is similarly artificial since it is calculated from Greenwich. What is the basis of Greenwich clock time?
+For example, a place called Zazu is 90 degrees E of GW. It would be 90/15 = 6 hours apart. Should it be 1pm in Greenwich, then Zazu LMT is 1+6 = 7pm.
+But what is the basis of 1pm in Greenwich?
+If 12pm clock time in Greenwich is solar noon in Greenwich, when sun is at meridian, then we can argue, there's an astronomical basis for it. So 1pm in Greenwich meant that sun is 15 degrees away from Midheaven. But the solar noon in Greenwich changes all the time, then there's no point of reference?
+My question really is, what is the basis of Greenwich mean time or clock time? Because if there's no actual point of reference, then does LMT of other places makes any sense?
+Since sun movement is not static (equation of time), so only clock can measure constantly. I get that. My problem is, when is the starting point or day in history to begin the constant measurement? Like 14 April 2022 is when solar noon is at 12pm clock time, so the measurement starts from that point?

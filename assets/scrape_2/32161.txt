@@ -1,0 +1,5 @@
+How to write a normalized, dimensionless form of Binet's relativistic equation?
+
+$$\frac{\delta^2 u}{\delta \theta^2} + u = \frac{\mu}{h^2} + 3 \mu u^2$$
+This is Binet's relativistic equation. Here $u = 1/r$ where $r$ is the radial distance, and $\mu$ is the reduced mass of the Sun and Mercury.
+I am trying to calculate the perihelion precession path of Mercury numerically in Python and for doing so I would like to use a dimensionless form of this expression.

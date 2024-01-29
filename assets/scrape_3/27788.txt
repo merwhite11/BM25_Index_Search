@@ -1,0 +1,12 @@
+Difference in time between sunset and moonrise on a full moon
+
+So as a Sailor I have experienced some times where sunset and moonrise are very close together (this happens when it's full moon) which is particularly beautiful. I assumed that this was always the case but looking more closely at time difference between sunset and moonrise they can change quite dramatically. 
+2019 (Porto-Vecchio France)
+Date        sunset   moonrise  diff
+04/20       20:08    21:24     1:16
+05/19       20:39    21:20     0:41
+06/18       20:59    22:05     1:06
+07/17       20:54    21:31     0:37
+08/16       20:21    21:12     0:51
+
+As you can see there is some degree of variation, can someone explain why this happens and how I can find out where and when they are closest together?

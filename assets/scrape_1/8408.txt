@@ -1,0 +1,5 @@
+Which wavelength is the most quiet, for a ground-based radio telescope?
+
+This might seem like a backwards question, but I'm interested in what wavelength to select in a (hypothetical) ground-based radio telescope observation to expect detecting as little as possible! :)
+It should still be reachable from space, i.e. a wavelength with a high atmospheric absorption is probably a bad candidate.
+I guess this could be answered by looking at a broad averaged spectrum collected by a radio telescope, and comparing against an atmospheric absorption spectrum chart.

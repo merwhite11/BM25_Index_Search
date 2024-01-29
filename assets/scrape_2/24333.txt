@@ -1,0 +1,19 @@
+Using setting circle for Right Ascension
+
+I'm a little bit confused about the setting circle of my EQ5 mount. Basically, I'm trying to find M42 nebula using Sirius star as reference. So, considere that I did the following steps:
+A) Polar aligned for south pole
+B) Pointed the telescope to Sirius star
+C) Adjusted the RA wheel to 6h45m and DEC wheel to -16º42'
+
+Now, I want to view the M42 nebula basing only in the RA and DEC wheels (without using the finderscope or whatever). 
+Then, I did:
+D) Changed the coordinates in the EQ5 mount to match RA 5h35m and DEC -5º23
+E) Spent 5 minutes performing the step above (D)
+F) Looked in the eyepiece
+
+So my questions are: 
+1) After doing all these steps above, will the M42 nebula be 5 minutes away from the center of my eyepiece? So instead of using RA 5h35m I will need to use RA 5h40m?(??)
+2) If yes, will I need to perform all the above steps every time that I want to see a new object? I mean, as fast as I can, to minimize the RA error...
+3) And if the answer is yes again to Question (2), how useful is the setting circle under these conditions for you?
+I will appreciate any kind of help.
+[]s

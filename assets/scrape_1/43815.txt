@@ -1,0 +1,7 @@
+Star visibility above horizon map likewise day & light map or moonlight world map
+
+I am looking for an option to present the given star visibility world map likewise day & night map or moonlight world map like below:
+
+
+
+Question: Is it possible to generate a map like this for some particular star or at least the point in the sky defined by celestial coordinates?

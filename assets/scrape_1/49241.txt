@@ -1,0 +1,3 @@
+Are white dwarfs made of carbon or electron degenerate matter?
+
+I know that white dwarfs are composed primarily of carbon but are supported by electron degeneracy pressure. Is the electron degeneracy pressure produced by carbon atoms, or is the core of the white dwarf made of electron degenerate Fermi gas while the outer part is atomic carbon? I am trying to reconcile the fact that white dwarfs are made of both carbon and electron degenerate matter. Can carbon be electron degenerate?

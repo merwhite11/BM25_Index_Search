@@ -1,0 +1,5 @@
+Lunar surface illumination
+
+I am trying to determine the lunar surface near or far side daytime illumination levels in Lux or foot-candles but there seems to be no directly measured values available. I did find this information on the levels as measured from earth, so it should be possible to work backwards to arrive at those values I presume. My math is very rusty indeed though, so thought I'd put the question to some experts.
+How bright is moonlight?
+https://academic.oup.com/astrogeo/article/58/1/1.31/2938119

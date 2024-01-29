@@ -1,0 +1,5 @@
+Conversion factors for flux
+
+I have a flux value in the infrared band of 8 mJy at a wavelength of 80 microns that I want to translate into X-ray conventional flux of keV/cm^2/s/keV.
+I have tried many conversion factors but none of them is helpful (see e.g. https://hea-www.harvard.edu/~pgreen/figs/Conversions.pdf). This table for example gives a conversion factor of $10^{-26}$ from mJy to erg/cm^2/s/Hz, and this is correct. However, when I go from erg/cm^2/s/Hz to keV/cm^2/s/keV, an additional $10^{26}$ factor comes out from the transformation of ergs and Hz. This cancels out with the previous factor and an unbelievable IR flux results, higher than the actually measured X-ray flux.
+I know that the IR flux is much less than the X-ray flux, but can not find an appropriate way to convert.

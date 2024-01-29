@@ -1,0 +1,5 @@
+On finding the magnitude of Stars
+
+I am wondering how I would be able to predict the Magnitude of fictional stars, given we know enough about them. As the formulae I can find online are mostly getting overly high values that don't seem accurate, and I am also left wondering about how to estimate temperature.
+The star I am thinking of is a hypothetical G-type main-sequence star of 1.0908 Solar Masses (falls within the 0.9 to 1.1 M range for G-types), around the same density of the sun if that doesn't cause problems. What would the magnitude of such a star come out as? And can you explain while showing the process of finding that? (And how to estimate what temperature a star would be given mass and radius, if you feel like it, please).
+I apologize for the bother, and thank you if you decide to help.

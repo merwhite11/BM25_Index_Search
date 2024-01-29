@@ -1,0 +1,5 @@
+How could a neutron star collapse into a black hole?
+
+White dwarfs usually do not collapse, as they have electron degeneracy pressure due to the Pauli exclusion principle. However, if one accretes mass beyond the Chandrasekhar limit, it is energetically favorable for the electrons to combine with protons and form neutrons. This gives us a neutron star.
+However, neutron stars usually do not collapse into black holes due to neutron degeneracy pressure. How is it possible that beyond the LOV limit, the Pauli exclusion principle no longer prevents the collapse? Shouldn't it still prevent neutrons, which are fermions, from being compressed together any further?
+I've seen answers involving quark stars, but those are purely hypothetical. What is the most accepted explanation for this?

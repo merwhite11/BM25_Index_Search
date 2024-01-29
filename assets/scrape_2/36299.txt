@@ -1,0 +1,7 @@
+How to plot curvilinear coordinates in the frame of a Cartesian telescope field of view
+
+I am wondering what projection is used to produce plots like this:
+
+(Image taken from here, author: NASA/Ames/JPL-Caltech, Image credit: Software Bisque)
+More generally, I am trying to figure out the telescope pointings (in az/el or an earth-centered-earth-fixed coordinate system preferably, RA/dec if the former are not possible or easy) for a tiled array of square images positioned next to each other, similar to how the Kepler CCDs are laid out.  I'm thinking that if I could know what projection is used to produce that plot, then I could step in x/y to wherever I want the images to be and then de-project to convert to RA/dec.
+I have tried a gnomonic projection but I found that, with increasing distance from the survey center-point, more and more overlap occur between adjacent frames.  Things looked really good close to the center-point though.  I realized that a gnomonic projection isn't actually providing what I want, since I can move across the projection area a large amount (infinity in the limiting case) and still end up with az/el pointings that are on the horizon, despite moving over an infinite number of frames.

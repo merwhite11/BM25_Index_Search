@@ -1,0 +1,9 @@
+How did I flip some mirrors around in the dark at 3 AM and change the focal length of a 24 inch Boller and Chivens?
+
+Current answer(s) to How do telescopes "zoom" and change angle of view? are "they don't", but traditional large genera-purpose observatory telescopes do sometimes (often?) have multiple focuses with different f/ numbers.
+I vaguely recall about 1 mya a 24 inch (0.61 meter) Boller and Chivens with a primary focus at the back for photographic plates, and a little door somewhere along the side of the telescope where you would reach in with one arm, feel your way around and somehow rotate something into place that would send the light path down though the mount into a big room on the floor below where a pair of grating spectrographs sat on concrete pedestals, a "normal" one and an Echelle, both with photographic plate holders.
+During the procedure fiddling around inside the telescope, one had to be extremely cautious not to touch any optical surfaces; which at 3 AM in the dark it was quite a challenge.
+Presumably this presented a far longer f/no. focus for the slits. We;d place the slit across Jupiter, develop the Echelele plate, and measure it's rotation rate on a Mann measuring machine if I remember correctly.
+Question: How did I flip some mirrors around in the dark at 3 AM and change the focal length of a 24 inch Boller and Chivens?
+
+Example of a similar instrument found on the internet: Eastern Iowa Observatory offers a chance to see the stars and so much more. The "mirror-swapping door" of which I speak is probably on the other side of the telescope.

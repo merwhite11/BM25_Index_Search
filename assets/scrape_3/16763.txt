@@ -1,0 +1,18 @@
+The Moon drifting away from the Earth
+
+wiki says that average distance from earth increases 3.8 cm per year, can you tell how much of that is due to the expansion of the universe?
+wiki also says:
+
+Through the action of tidal forces, angular momentum is slowly being
+  transferred from Earth's rotation to the Moon's orbit. The result is
+  that Earth's rate of spin is imperceptibly decreasing (at a rate of
+  2.3 milliseconds/century),[20] and the lunar orbit is gradually expanding.
+
+Can you give some details about this process, is the orbit changing shape, eccentricity? is the average orbital speed decreasing, by what value? is the spin angular velocity increasing, by what value?
+If I did not misunderstand it, the current view on tides says that tidal bulges exert a torque on the moon, and L is tranferred to it, if that is correct, that L being transferred to its spin is increasing or decreasing it? Can you clarify also how a torque on the spin can produce a change of the orbit, which only implies a change (a decrease, in fact) of its orbital speed and not of the spinning speed? Can the spin (L) influence the orbital L, and how?
+edit
+
+I asked specific questions, which are not asked or answered there. In particular I am asking: if as they say the tidal/equatorial bulge increases spin angular momentum, how is this transferresin its turn to the orbital angulat momentum? Or, alternatively 
+can gravity directly increase the orbital momentum of a satellite?
+Actually the answer, besides being incomplete, may be wrong because momentum/KE is not added , but subtracted to the moon, since its orbit gets larger. There can be no transfer, since both earth and moon are slowing down
+torque is not correctly explained

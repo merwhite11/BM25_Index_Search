@@ -1,0 +1,4 @@
+What are some applicable problems with the correct usage of G?
+
+In some fields of astrophysics, where distances are measured in parsecs (pc), velocities in kilometers per second (km/s) and masses in solar units (), it is useful to express G as approximately 4.302 x 10^-3 pc M^-1 (km/s)^2 ...
+Is G not approximately 6.67 x 10^-11 N(m/kg)^2? Any reasonable explanation would be appreciated.

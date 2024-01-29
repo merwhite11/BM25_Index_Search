@@ -1,0 +1,4 @@
+How can a planet have a 90° inclination?
+
+Planetary systems as we understand it exist from a disk of mass when the parent star is young.  That's why all our planets are in the same plane, or close to it.  See also Why is the solar system often shown as a 2D plane?,  Inclination of planets, and answers there.
+Yet the newly announced Kepler-452b apparently has an inclination of close to 90° (89.806+0.134−0.049°).  Do we have any model of solar system formation that explains how this can form?

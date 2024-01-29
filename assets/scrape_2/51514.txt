@@ -1,0 +1,6 @@
+Period estimate
+
+How would you estimate the period or range of periods for two stars, please? I know the right ascension, declination, and distance.
+I could estimate the masses and assume that the stars are in apocentrum. Which other parameters do I need to know?
+I cannot use Kepler law, right?
+$$P = 2\pi\sqrt{\frac{a^3}{G(M_1+M_2)}}$$

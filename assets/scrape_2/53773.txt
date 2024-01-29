@@ -1,0 +1,15 @@
+Does the other side of the Big Bang factor into JWST observations?
+
+Our (roughly) 13.6 billion light year view to the point of origin (big bang) is just along a radial axis. Assuming most matter ejected in a (roughly) spherical pattern, the diameter of the universe is about 27.2BLY across.
+If matter ejected for some period of time at near light speed, our ability to see anything on the other side is impeded by the concept that "most" light from the other side will never reach us, because we have moved away from that event at the same speed, and light from the other side can simply never catch up to us.
+That statement is significantly flawed, but I'm not sure where.
+At some point I believe mass from the origin slows down through conservation of momentum. If that's the case then as we slow down, the light from the other side should catch up.
+But if in an expanding universe, mass/galaxies seem to accelerate away, relative to one another, then the light will never catch up. (Picture the light come here)
+So far I've just been discussing stars along a radial axis, from us, across the 13.6BLY expanse, and somewhere off to the other side. But again, expansion was (probably?) (roughly) spherical. So the light I'm talking about can be from some point perpendicular to the origin from our perspective, or any other angle.
+To the point: When JWST sees galaxies of unexpected sizes, are we sure we're seeing galaxies that are along our radial axis and between three origin and us?
+I know others ask about gravitational lensing. With the above in mind, I'm wondering if we are seeing light that has come from more mature galaxies, light that has gone back to the origin and lensed, and then we're seeing it after, essentially, twice as long as a direct observation.
+Let's toss in another concept: multiple lensing. Think of billiard balls that are all extremely reflective - in this case super massive black holes that lense light in different directions of of one another - a cosmological funhouse of mirrors that are relatively close to one another during the first few billion years.
+Might we be seeing the light from galaxies that had a fair time to mature, and the light we see from them now has bounced a few billion years from one shiny black holes to another until now that light happens to bed pointing radially in our direction?
+Would red shifting occur in that scenario?
+EDIT: Related to?
+Is Webb or any near-future telescopes like ELT capable of observing redshift changes to confirm General Relativity?

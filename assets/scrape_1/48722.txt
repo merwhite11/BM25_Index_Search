@@ -1,0 +1,14 @@
+Doubt about a computation in Jules Verne
+
+In his Aventures de trois Russes et de trois Anglais dans l'Afrique australe (The Adventures of Three Englishmen and Three Russians in South Africa), Jules Verne describes in some detail the geodetic techniques of his age. His research for this book was solid, but he was no scientist himself (for instance, for his characters' outcome of measuring an arc of a meridian, he reuses an actual result, but taken at a different latitude, so it's not correct there; see Pierre Bacchus, “Jules Verne et l'astronomie” for this and other Vernian imprecisions).
+There is something else I can't understand: it looks like an error, but I may be wrong myself, or misunderstand Verne's reasoning. In chapter 20, Verne tells of the main characters that
+
+Ils obtinrent par la latitude du Scorzef 19° 37′ 18″, 265, valeur approchée jusqu’aux millièmes de seconde, c’est-à-dire à un mètre près. Il était impossible de pousser plus loin l’exactitude. Ce résultat les confirma dans la pensée qu’ils se trouvaient à moins d’un demi-degré du point septentrional de leur méridienne...
+
+that is,
+
+They got, for the latitude of [the summit of mount] Scorzef, 19° 37′ 18.265″, a value precise up to thousandths of seconds [of arc], that is, up to a metre. It was impossible to push the exactness further. This result confirmed their thought, that they were less than half a degree from the northernmost point of their meridian (= the arc of meridian they intended to measure).
+
+This is my own translation, since for some reason the one linked above is somewhat abridged, lessening the precision of the characters' result (“They had found the latitude of Mount Scorzef to be 19°, 37´, which result confirmed their opinion that they were less than half a degree from the northern extremity of their meridian...”).
+Now, one thousandth of a second of arc seems to me to correspond to 1/(360 * 60 * 60 * 1000) = 1/1,296,000,000 of a round angle. So, taking 40,000 km as the length of a great circle on Earth, one thousandth of a second of arc corresponds to 40,000,000/1,296,000,000 metres, or about 3 centimetres, almost two orders of magnitude less than Verne's metre.
+Am I missing something? (Perhaps the best SE site for this question? I was also thinking HSM.SE or even the one about French language, in case there is some subtlety in à un mètre près.)

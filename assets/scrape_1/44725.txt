@@ -1,0 +1,31 @@
+How to extract galaxy spectra for different radii in Python for spectra taken by long slit spectrograph?
+
+I am trying to extract the kinematics from the elliptical galaxy NGC 4697 using the Fourier Correlation Quotient (FCQ) algorithm described by Bender (http://adsabs.harvard.edu/full/1990A%26A...229..441B). I am working with the stellar spectrum of the K3-III star hd132345 as template and the galaxy spectra along the major axis of NGC 4697. Both spectra were taken by a long slit spectrograph. I have implemented a first version of the FCQ algorithm, my current problem is that I am not completely certain how to extract  the galaxy spectra for different radii (I am new to working with astrophysical spectra in fits format). Underneath I will show my first lines of code for the data acquisition.
+file_temp = dir + '/hd132345.fits'              # template spectra: star hd132345 (K3-IIICN 2 B)
+file_gal = dir + '/ngc_4697_major_axis.fits'    # galaxy spectra along major axis from ngc 4697`   
+hdu_temp = fits.open(file_temp)
+hdu_gal = fits.open(file_gal)
+
+hdr_temp = hdu_temp[0].header
+hdr_gal = hdu_gal[0].header
+data_gal = hdu_gal[0].data
+data_temp = hdu_temp[0].data
+
+# extract wavelength array and flux
+flux_gal = data_gal[0]
+flux_temp = data_temp
+w_gal = WCS(hdr_gal, naxis=1, relax=False, fix=False)
+loglam_gal = w_gal.wcs_pix2world(np.arange(len(flux_gal)), 0)[0]
+w_temp = WCS(hdr_temp, naxis=1, relax=False, fix=False)
+loglam_temp = w_temp.wcs_pix2world(np.arange(len(flux_temp)), 0)[0]`
+
+Plotted flux_gal over loglam_gal and flux_temp over loglam_temp looks as follows (spectra are rebinned in loglam). The redshift has not been removed yet. I was wondering why the absorbtion lines of the template are broader then those of the galaxy, since it actually should be the other way arround.
+
+The header of my galaxy fits file:
+
+I understand that the keywords CRVAL1 and CRVAL2 describe the initial values for ln lambda in A and the radius in arcseconds. While CDELT1 and CDELT2 describe the increments ln lambda and the radius. So I should have a spectrum for my galaxy every 0.2 arcseconds. I am unsure how to extract those from my input fits files and would be very happy about a respond. Do I have to shift my galaxy spectra for all radii to the rest-wavelength frame, or can I somehow do it all in advance, since the redshift for all radii should be the same. I would be pleased about any tips or comments on this issue.
+
+Thanks to Peter Erwin's comment, the results now look as follows.
+The entire 2D-image spectral image of NGC-4697 along the major axis (displayed with SAOImage):
+
+The spectrum of the galaxy center taken at row 597. (flux_gal_center = data_gal(597,:)):

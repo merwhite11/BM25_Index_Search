@@ -1,0 +1,4 @@
+Does habitable zone take tidally locked bodies into account?
+
+Imagine a tidally locked planet orbiting a red dwarf, where habitability is not situated close to terminator zone, but on a "small" cap normal to incident starlight (zenith) with permanent average +15 Celsius over the year, variations through year depending on orbit's eccentricity. 
+If there was in our solar system one (maybe not spherical) tidally locked body orbiting some close to circular orbit around the sun, how far from the sun would it be to meet those +15C average zenith cap temperature? Does it make habitable zone larger than it is?

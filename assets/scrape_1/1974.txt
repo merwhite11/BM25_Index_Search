@@ -1,0 +1,6 @@
+Max. speed that a space probe can communite with the Earth?
+
+Question: Which is the average or maximum speed of a telematically sent message that a space probe can send? Is as simple as radio waves travel at the speed of light in a vacuum?
+Context: I have been asked to make a first estimation about how much time is needed to send a space probe and then receive the signal. 
+I am supposing that the space probe is sent at $15 \ km/s$ but I have not idea of the telematic signal speed. 
+Thank you in advance!

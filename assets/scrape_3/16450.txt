@@ -1,0 +1,10 @@
+What color is earthshine?
+
+What color is earthshine (e.g the average color of earth that shines on the moon)?  I am making a solar system exploration game, and would like to know this for the lighting of my moon level at night, with a "full earth".
+Edit: With your answers, this is what I get:
+
+Edit:
+Here is a video including the moon level, bathed in earthshine as the specified color in the answer at "night time" (clip is 12 seconds into the video):
+https://www.youtube.com/watch?v=HKGCtkps8gk&list=PL9Bk1v7iJfdCpRaQ6vTGYOM-lXAO7RAQ1&index=1
+If interested in my game I am making, here is a link to it:
+https://jonathanlcopeland.wixsite.com/planetary

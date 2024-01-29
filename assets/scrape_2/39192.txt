@@ -1,0 +1,8 @@
+Qualities of gas giant atmospheres at a density of 1 gram per cubic centimeter
+
+At what depth in the atmospheres of the gas giants does the density of their atmospheres equal 1 gram per cubic centimeter? What is the pressure and temperature at these depths?  Are the radiations levels congenial to human life at these depths?
+Wikipedia's Saturn; Physical characteristics says
+
+Finally, the lower layers [of the Saturnian atmosphere], where pressures are between 10–20 bar and temperatures are 270–330 K, contains a region of water droplets with ammonia in aqueous solution.
+
+What is the density of the atmosphere in the lower atmosphere?  The lower atmosphere of Neptune is 275K at 50 bar.

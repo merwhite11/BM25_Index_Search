@@ -1,0 +1,3 @@
+Why is right ascension measured in hours?
+
+When viewing star maps in Stellarium, I noticed that the meridians of the equatorial grid were denoted in hours and not degrees, and that always puzzled me. Why did astronomers choose this system? I understand it has something to do with being relative to the Earth's rotation which takes 24 hours, but I can't figure out exactly what.

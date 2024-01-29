@@ -1,0 +1,3 @@
+Why is there a supermassive black hole at the center of every galaxy?
+
+According to https://en.wikipedia.org/wiki/Sphere_of_influence_(black_hole) the gravitational sphere of influence of a supermassive black hole is really limited compared to the size of its hosting galaxy, why then is there one at the center of every galaxy?

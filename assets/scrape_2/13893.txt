@@ -1,0 +1,12 @@
+Description of Henyey tracks on wikipedia incorrect?
+
+So, if you search for Henyey tracks on wikipedia (I know, the shame of it!) you will come across this statement: 
+
+The Henyey track is characterized by a slow collapse in near hydrostatic equilibrium. They are approaching the main sequence almost horizontally in the Hertzsprung–Russell diagram (i.e. the luminosity remains almost constant).
+
+Ignoring the bad grammar, I take umbrage with the following: 
+
+the luminosity remains almost constant.
+
+I would say that the apparent horizontal track associated with the Henyey track is more due to the fact that in a typical HR diagram the temperature axis ranges over about one order of magnitude, while the luminosity axis may vary over five or more orders of magnitude.
+So, to frame this as a question, would you agree or disagree with the statement on the site or with what I have stated (i.e., that the Henyey track is an apparent horizontal track caused by the nuance in the magnitude scales of luminosity in comparison with the temperature)?

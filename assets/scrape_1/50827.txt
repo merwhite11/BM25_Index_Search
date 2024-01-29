@@ -1,0 +1,6 @@
+Calculate how far we could see through Earth's atmosphere if it had the opacity of the solar photosphere?
+
+I've newly started studying astrophysics. There is a question in the book "An introduction to modern astrophysics" by W. Carroll: Calculate how far we could see through Earth's atmosphere if it had the opacity of the solar photosphere?
+I was wondering if someone could guide me about it.
+What I've tried: The value for the Sun's opacity at a wavelength of 500 nm is $\kappa_{500} =0.03m^2kg^{-1}$ and the density of Earth's atmosphere equals to $1.2kgm^{-3}$. The characteristic distance traveled by light before it can be absorbed by the photosphere is $l=\frac{1}{k_{\lambda}\rho}=\frac{1}{0.03\times 1.2}=27m$. Now we need to calculate the optical depth $\tau_{\lambda}$. But I don't have any ideal how to calculate it by $\tau_{\lambda}=\int_0^s \kappa_{\lambda}\rho ds$.
+The writer says in the book that the optical depth may be thought of as the number of mean free path from the original position to the surface, as measured along the ray's path. But where do we know this number from?

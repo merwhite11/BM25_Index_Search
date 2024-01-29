@@ -1,0 +1,9 @@
+Units in distance parallax relation
+
+Relation between distance d and paralax plx is:
+$$d (pc) = 1 / plx(arc)$$
+When I want to express plx in mas, will it be
+$$d (pc) = 1/[plx(mas)*1000]$$
+or
+$$d (pc) = 1000/plx(mas)$$
+Thank you very much

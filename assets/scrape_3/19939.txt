@@ -1,0 +1,18 @@
+Enceladus; why use the words "geysers", "jets", and "plumes" interchangeably?
+
+Background, Europa:
+In an earlier question How can “Geysers” on Europa reach heights of 100km? I brought up the use of the word "geyser" in association with the reported confirming observations of water vapor plumes on Europa. Europa size and surface gravity are nearly as large as those of Earth's moon. With an escape velocity of about 2,025 m/s it was hard for me to understand how an actual geyser could exist within the ice, a geyser so powerful that it could be shooting liquid water from the surface at 2 kilometers per second. 
+Part of the problem here is that I still can't be absolutely sure there is a clear definition of what is or isn't an actual geyser on solar system bodies other than Earth. On Earth, while a geyser is usually powered by geothermal conversion of water into steam, it pushes additional liquid water up to and above the surface as liquid. I believe that other sources of pressure may still result in proper Earth geysers.
+Most scientific references I found referred to the vapor as plumes or jets, the word geyser was used in more popular and general interested articles.
+It seems one likely explanation is a venting of water vapor (gas) from a particularly shaped vent can accelerate the molecules to an average velocity that is several times the speed of sound by converting random thermal motion to directed vertical motion, as described in a U.T. Austin thesis by Jared James Berg. Simulations there showed that this jet phenomenon can result in some water vapor reaching a substantial fraction of escape velocity, and rise to 100 to 200km altitudes. The model also addresses the formation of solids as ice crystals within the plume.
+About Enceladus:
+I have just come across the paper How the Geysers, Tidal Stresses, and Thermal Emission Across the South Polar Terrain of Enceladus are Related, (Porco, DiNino and Nimmo (2014), Ast. J. 148 (3), 45), an in depth study of sources of water vapor from Enceladus. I saw that both geysers and jets were mentioned in the abstract, but at the end of the second paragraph in the introduction I ran into the very interesting sentence:
+
+(Throughout this paper, we use the terms “jets” and “geysers” interchangeably.)
+
+The escape velocity on Enceladus is only about 240 m/s, nearly an order of magnitude lower than that on Europa, which means much less sub-surface pressure would be required to push liquid water high above the surface into near space. So I can understand that the term geyser might be more likely to be appropriate for these plumes than it would be for the plumes on higher surface gravity Europa.
+Question:
+I would know why the words "geysers" and "jets"/"plumes" would be used interchangeably. Is this because it hasn't been confirmed yet what they are, and the authors don't wish to show favoritism by choosing one or the other, or are they synonymous and can always be used interchangeably, or si there some other reason?
+
+
+above x2: Figures 3a and 3b from Porco, DiNino and Nimmo (2014).

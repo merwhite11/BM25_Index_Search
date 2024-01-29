@@ -1,0 +1,6 @@
+Degenerate object accretion - what happens after it becomes a PMO?
+
+Degenerate objects such as neutron stars and white dwarfs can be accreted from by other objects. As the degenerate object loses mass, it could pass through different mass ranges which govern the physics on the object's composition. Here are a few examples:
+Example 1: A black hole accretes from a neutron star. What happens when the neutron star's mass drops below the Chandrasekhar limit ($1.4M_\odot$) or the least known mass of a neutron star ($1.1 M_\odot$)?
+Example 2: A black hole accretes from a white dwarf. As the mass of the white dwarf drops below ($\sim0.1 M_\odot$), what happens? It is theorized that some helium planets could be former white dwarfs which lost mass, but how does this change happen?
+What happens when a degenerate object transitions into a planetary-mass object, in terms of internal structure? Are the changes abrupt as the mass reaches different critical values?

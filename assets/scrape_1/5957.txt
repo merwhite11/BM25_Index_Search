@@ -1,0 +1,11 @@
+Compute Planet's Apparent Visual Magnitude
+
+In a hypothetical solar system there exist:
+
+a sun of radius $r_s$ and absolute visual magnitude $V$
+the Earth, with radius $r_e$ and distance from the sun of $1\,AU$
+another planet, wit radius $r_p$, albedo $a$, distance from Earth $d_e$ (in units of $AU$), and distance from the sun $d_s$ ($AU$)
+
+Assume that the second planet is magically lit up entirely by the sun (so it does not have phases when viewed from Earth).
+Now how can I compute the apparent visual magnitude of the second planet with respect to Earth?
+If there are other parameters required, please tell me.

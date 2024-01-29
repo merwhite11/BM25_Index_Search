@@ -1,0 +1,8 @@
+Catalogs for type K stars and their planetary systems?
+
+I am doing data collection on all type K stars, and their planetary system so I may develop an algorithm for a planetary formation simulation with the Unity game engine.
+Where could such a catalog of stars be found?
+Related
+
+Is there anywhere I can find some kind of database on all known stars and their properties (mass, surface temperature, radius, and luminosity)?
+Looking for star database (a bit outdated)

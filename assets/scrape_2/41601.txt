@@ -1,0 +1,4 @@
+If the Sun disappeared, could some planets form a new orbital system?
+
+If the sun were to suddenly disappear, the planets would continue to travel tangentially to their former orbits. (This I know from this answer to a somewhat related question here.)
+In such a scenario, is it possible (however unlikely) that a new orbital system would form from two or more of the now-rogue planets?  For example, is it physically and mathematically possible that Earth might end up getting captured by Jupiter and thereby become one of its moons?  Or do the size and speed of the planets completely rule out such a scenario, even if the sun disappeared at such a time that the planets' new trajectories would cross?

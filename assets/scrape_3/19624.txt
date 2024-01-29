@@ -1,0 +1,4 @@
+Number of photons in universe? I'll take number from a star in unit time and extrapolate
+
+I'll take number per average star, multiple by appropriate numbers , star/Galaxy, galaxies/universe, 14 billion years, and try to figure their location.
+I was looking for a rough number and a distribution function.

@@ -1,0 +1,16 @@
+How to calculate Local siderial time that is consistent with Stellarium
+
+I have a number of date and times when I am interested in the location of my zenith and what objects might co-locate with these positions. The easiest way to do this was to put my latitude and longitude into Stellarium and create a bookmark at the North position of the azimuthal grid for each date/time. Stellarium will then give the Ra/Dec J2000 for the bookmark if required. This was ok for a low number of data points but now I have more than 3000 so I used information from this post Local Sidereal Time to calculate LST for all my date and times in Excel. I then loaded all the LST values into a json file and opened them as stellarium bookmarks.
+The problem is that all the values I calculate are displaced about 50 seconds from positions of stellarium markers based on the same date and time. Consequently there is too large an uncertainty to be sure whether my zeniths are coinciding with anything on Stellarium.
+I used the following for my calculations:
+LST= 100.4606184+(0.9856473662862 * Julian day)+Long+(decimal UT * 15)
+Julian Day number = 367y-INT(7(y+INT((m+9)/12))/4)+INT(275*m/9)+day-730531.5 +
+((h + mins/60 + seconds/3600)/24)
+The JDN formula came from http://www.stargazing.net/kepler/altaz.html , That website also contains example values which I used as a guide to get my calculations nearly right.
+The result of the LST calculation was divided MOD.360 I then had to divide by 15 to make it recognisable - which I dont understand as it seems the LST calculation outputs degrees.
+In case anyone else is looking to convert degrees to format suitable for json file I did this: starting with separate hour, minute, second columns I used the following excel formula to compile into a column that did not eliminate leading zeros =TEXT(A1,"#00")&TEXT(A2,"#00")&TEXT(A3,"#00.0")
+I had to make the minutes column an integer otherwise excel rounded it up if the decimals went over 0.5
+Then I used this formula to insert the hms text =(REPLACE(REPLACE(A4,3,0,"h"),6,0,"m"))&"s" to give the final format 02h27m13.2s suitable for the Stellarium bookmarks json file.
+In options I have set excel to "set precision as displayed" with 8 decimal places in the cells and eliminated any rounding errors I could find.
+For a starting date of 24/10/2019 00:29:16 my calculation gave 02h27m13.2s and a Stellarium bookmark at the zenith at that time gave 02h26m08.5s
+Does anyone have experience of this problem, could suggest where to look next to solve it or spot my mistake?

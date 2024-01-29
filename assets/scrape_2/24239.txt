@@ -1,0 +1,16 @@
+Moon looks too small in 3D model
+
+I'm not sure if this is more a question for a 3D graphics forum, but I'm trying here first in case the answer has more to do with astronomy than 3D.
+I am creating a model of the Earth and Moon in a piece of 3D software. To avoid the enormous scale of using real-world sizes, I am using a 1000:1 scale ratio.
+These are the dimensions I'm using:
+
+Earth radius = 6,371 m
+Moon radius = 1,737 m
+Distance from Earth to
+Moon = 384,400 m
+
+Since I have scaled everything equally, I would assume that the proportions of things would look accurate, but the moon looks very small indeed.
+Here is a quick render from a camera placed just above the surface of the Earth, looking out at the moon:
+
+The camera's focal length is 24mm, which I understand to be relatively similar to the human eye. I was expecting the moon to look similar in size to how it looks when you look up at it in real life but, as you can see, it's a tiny little dot.
+Is there something obvious I'm missing here, or some explanation for this discrepancy?

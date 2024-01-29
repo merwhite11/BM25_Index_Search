@@ -1,0 +1,4 @@
+What projection would I use to map the northern night sky onto a geodesic dome?
+
+I'm trying to create a geodesic dome with the stars of the northern night sky inscribed on the outside. The highest point of the dome would be the celestial north pole. How do I create a map that projects onto the "net" of the geodesic dome, such that when I assemble the dome, the stars are in the correct positions? I have an equirectangular map that I have rotated 90 degrees north so it is centered on the pole.
+My existing map is a high-resolution jpeg file in an equirectangular projection. I have some experience creating and manipulating panoramic images, but much less experience converting between map projections! I would like to use a computer program to convert this projection into a printable template if possible.

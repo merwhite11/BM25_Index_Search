@@ -1,0 +1,27 @@
+"What was that spot in the sky?" - How to identify satellites
+
+Yesterday, May 22nd 2017, I removed the telescope from its dusty box1 and decided to watch Jupiter. After about 2 minutes of observation I spotted something across the sky [X-files music in background], it was a little less bright as Jupiter's "Galilean" moons2.
+Below you can see an accurate [Windows Paint] reconstruction of the fact I saw in my telescope. The red line indicates the direction of the thing (from right to left outside of the telescope).
+
+Available data to help identify the object:
+Time: May 22nd, 2017 @ 22:12 UTC
+My position: {
+    Lat: 41.720194062015096
+    Long: 12.713427287843729
+    Sea level: 540 m
+    }
+Direction: Probably South // The direction of Jupiter from that location at that time (didn't have a compass)
+Telescope: {
+    Focal length: 700 mm
+    Diameter: 60 mm
+    Lens: H 20 mm
+    }
+
+I only have data of the ISS and Iridium insights on an Android app3 so I am here to ask if there is some tool with which I can identify by myself as many satellites as possible across the sky.
+Notes:
+
+Winter is not nice with observers from here
+Not visible at naked eye
+I can almost certainly say that the "thing" was not the ISS or one of the Iridium satellites
+
+P.s: I will post here what the object was (with reference if possible) as soon as I identify it for curious people like me.

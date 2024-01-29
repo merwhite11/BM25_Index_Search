@@ -1,0 +1,4 @@
+Why are triple conjunctions in a resonance forbidden?
+
+I was reading the Wikipedia article about orbital resonance and noticed that Laplace resonances forbid triple conjunctions. This seems to be supported by the Io-Europa-Ganymede system and the Nyx-Styx-Hydra moon systems. Why are triple conjunctions forbidden?
+I know that the Gliese 876 system has three giant planets who have triple conjunctions, but there are strong gravitational interactions between these planets make the system unstable. So, I would like to confirm, is it possible for three or more non-interacting planets to have a triple conjunction? Have any known examples been discovered?

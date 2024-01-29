@@ -1,0 +1,8 @@
+Comparing Light Collection Between Pupil and Telescope?
+
+The amount of light collected for a period of time is proportional to the area of the collecting aperture. We use our eyes -pupils have diameters of approximately 5 mm-, binoculars and telescopes. How much more light can we collect with a 50mm pair of binoculars compared with our eyes? And with an 8-inch telescope? If we could have access to a 10-meter class professional telescope, how large would the gain be?
+50^2/5^2= 100 times more light
+8in = 203.2 mm
+203.2^2/5^2= 1652 times more light
+10000^2/5^2= 4000000 times more light
+Did I solve this problem correctly?

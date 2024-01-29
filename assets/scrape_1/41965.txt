@@ -1,0 +1,14 @@
+Interstellar Dust properties
+
+While practicing for an upcoming examination, I ran into this problem:
+
+Which of the following best describes dust grains in the interstellar medium:
+
+They are a few hundred nanometers in size (size of optical light).
+They are much larger than regular dust.
+They are primarily composed of helium and hydrogen.
+They emit large amounts of blue light.
+
+
+I did some research and discovered that they scatter blue light, their size ranges form $1 \ldots 100 {\rm \mu m}$ while regular dust is about $1 \ldots 100 \mu{\rm m}$. Also, interstellar medium is composed of helium and hydrogen but that doesn't mean the same about dust. My guess: It is the first answer.
+Is this correct? Any assistance much appreciated.

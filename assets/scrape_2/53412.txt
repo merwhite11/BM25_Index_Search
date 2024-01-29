@@ -1,0 +1,3 @@
+Is there an equation that can give position of a satellite around a parent body as a function of time?
+
+I’ve been looking into this lately, and most sources I have used solve this problem numerically. I was thus wondering if there is a proper equation to solve for position without numerical, especially since the motion of planets and satellites seems to follow harmonic motion.

@@ -1,0 +1,14 @@
+How can there only be "11 phonons" in the mirrors of LIGO interferometers?
+
+LIGO is an incredibly sensitive detector of small changes in space due to the passing of gravitational waves and uses some very high-level mathematics and physics and experimental techniques to drive its noise level low enough to make this happen.
+Ars Technica's  refers to the new paper in Science Approaching the motional ground state of a 10-kg object (readable in arXiv) and says:
+
+Chilling feedback
+Fortunately, the delay involved here turned out to dampen the system, rather than changing its frequency. (This is technically true for only a single mode, or frequency range, of the pendulum's swing.) Over time, as the system was constantly tweaked, the effect was to bleed energy off the system, effectively cooling it. By the end of a period of operation, the researchers estimate that its effective temperature was only 77 nano-Kelvin, or very close to absolute zero.
+The researchers also put that in terms of phonons, a quantum unit of vibration. At the end of the process, there were likely 11 phonons in the 40 kilogram mirror. That's not the quantum ground state, which would involve emptying the system of phonons. But it's quite close and could potentially already be useful for studying quantum phenomena on large objects; if not, it wouldn't take much improvement to get it there.
+The most exciting prospect the authors see is that the motion of the pendulum is also dependent upon gravitational effects, which we've not been able to reconcile with quantum mechanics. The new work, they suggest, "hints at the tantalizing prospect of studying gravitational decoherence on massive quantum systems." And, compared to a grain of sand, 40 kg certainly qualifies as massive.
+
+I am confused by the use of phonons here. This is about the motional ground state of the mirrors and I'm thinking that the state is the spatial configuration of the four mirrors, the relative motion of either their centers of mass or front reflecting surfaces along their optical axes is what's been cooled to 77 nano-kelvin is it not?
+The temperature of the bulk glass from which the mirrors are fabricated is not that cold, right?
+So in the glass there are likely to be a heck of a lot more than 11 phonons, aren't there?
+Where are these 11 phonons and how are they defined?

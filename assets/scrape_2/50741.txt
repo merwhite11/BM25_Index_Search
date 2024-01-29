@@ -1,0 +1,12 @@
+Mismatch between the equation of the equinoxes and the correction for a right ascension
+
+I am studying about apparent and mean positions of Sun using quite old books: Astronomical algorithms (1991) and Explanatory supplement to the astronomical almanac (1992).
+The question is about the mismatch between the equation of the equinoxes and the correction for a right ascension. It seems like these two are the same concept. However, their equations do not seem to be matched.
+According to the p.116 of the second book, the equation of the equinoxes refers to the nutation in right ascension. It is defined as follows:
+$$ \Delta \psi \cos \epsilon $$
+where $\Delta \psi$ is the nutation in longitude and $\epsilon$ is the true obliquity of the ecliptic (i.e., correction about the nutation is applied).
+However, according to the p.120 of the same book, the first order correction $\Delta \alpha$ to the right ascension $\alpha$ is as follows:
+$$\Delta \alpha = \left ( \cos \epsilon + \sin \epsilon \sin \alpha \sin \delta \right ) \Delta \psi - \cos \alpha \tan \delta \Delta \epsilon$$
+where $\delta$ is the declination.
+Because $\epsilon$ is about 23.4 degrees and others are arbitrary values, $\Delta \alpha$ cannot be approximated as $ \Delta \psi \cos \epsilon $.
+It seems like there is some assumptions that I am missing or there is a problem in my understanding. I would like to ask help for this problem.

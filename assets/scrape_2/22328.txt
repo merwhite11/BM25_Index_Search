@@ -1,0 +1,23 @@
+How are the days relating to right ascension around a polar star chart decided?
+
+If you look at this link they have days realting to right acension.
+How did they calculate nov 20th == 0h, dec 6 == 1h?
+I was trying to calculate this in astropy, but I end up with nov 20th, 8pm == 22h.
+from astropy import units as u
+from astropy.time import Time
+from astropy.coordinates import SkyCoord, EarthLocation, AltAz
+
+time_str =  "2017-11-20 20:00"
+
+#Greenville SC, eclipse just went through there.
+LON =  -82.3940
+LAT = 34.8526
+loc = EarthLocation(lat=LAT*u.deg, lon=LON*u.deg, height=0*u.m)
+
+utcoffset = -4*u.hour  # Eastern Daylight Time
+obstime = Time(time_str,scale='utc') - utcoffset
+
+cord = SkyCoord(alt=90*u.degree,az=0*u.degree,obstime=obstime,frame = 'altaz',location = loc)
+print obstime,cord.fk5.ra.hour, cord.fk5.dec.deg
+
+>> 2017-11-21 00:00:00.000 22.505946538 34.7569396915

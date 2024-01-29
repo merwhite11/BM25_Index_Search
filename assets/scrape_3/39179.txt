@@ -1,0 +1,4 @@
+Can the Sudarsky's gas giant classification be applied to ice giants?
+
+Based on the temperature of a gas giant around another star, I have come to understand that it is possible to guestimate its appearance; a classification scheme for gas giants developed by David Sudarky.
+I'm wondering if this scheme could plausibly be used to get an idea of what ice giants - Neptune and Uranus like planets - around other stars might look like? If not, are there any resources concerning this topic?

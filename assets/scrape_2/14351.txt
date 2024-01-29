@@ -1,0 +1,4 @@
+Could mirrors be replaced with CCDs?
+
+Why do telescopes use mirrors that simply reflect photons, when they instead could be covered with large sensors to register them? Reflection is all good and well, all thanks to silver and beryllium for that. But wouldn't it be better to electronically register the photons directly instead of after having them bounce around between stupid mirrors? Would any data be lost in a pure CCD-telescope without any mirrors or lenses?
+Couldn't a large wired CCD light sensor send the detected signals further in a smarter way than a stupid physically reflecting surface can do? It's the same photons and the telescope itself doesn't generate any new information about the distant galaxies it reflects. Why physically bend mirrors for adaptive optics, instead of bending the raw binary data with an algorithm for the same effect?

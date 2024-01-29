@@ -1,0 +1,25 @@
+photon gas pressure and Independence on refraction index
+
+
+Brief context: when studying Stellar Structure one of the main goals, aside of determining equations that describe quantities of interest of the system, is to also determine equations of state that allows us to approximate solutions for the coupled differential equations system we find.
+
+An important step is to find equations of state, e.g., an expression for the Pressure $P$ of the system. Following common derivations on this subject (e.g., see Rose, Advanced Stellar Astrophysics or Clayton, Principles of Stellar Evolution and Nucleosynthesis) an integral for $P$ over a cone of particles with momentum $p$ would be
+$$P =\int\limits_0^{\pi/2}\int\limits_0^\infty 2 \, v_p \,\cos^2\theta \, n(\theta,p)\,d\theta\,dp$$
+where $n(p$) is the gas' distribution w.r.t $p$. An example could be an ideal monoatomic gas, in the non degenerate, non relativistic case. In particular:
+$$n(p) \, dp = 4\pi p^2 n \frac{\exp\left(-\frac{p^2}{2mkT}\right)}{(2\pi m kT)^{3/2}}\,dp$$
+and $p = m \, v_p$ so
+$$P = n k T$$
+
+The problem: let us find then this same $P$ for a Photon Gas (radiation pressure) considering that now $n(p) \,dp$ is given by a Bose-Einstein Distribution. In particular $$n(p)\,dp = \frac{8\pi \, p^2\,dp}{h^3}\frac{1}{e^{pc/kT}-1}$$ where $p = h\nu/c$ and $v_p \overset{!}{=} c$.
+
+The procedure is very straightforward:
+
+$n(p)\,dp$ can be written as $$n(\nu)\,d\nu = \frac{8\pi}{c^3}\frac{\nu^2 d\nu}{e^{h\nu/kT}-1}$$ so the integral becomes $$P = \frac{8\pi h}{3c^3}\left(\frac{kT}{h}\right)^4 \int\limits_0^\infty \frac{x^3\,dx}{e^x-1}$$ where $$x \equiv \frac{h\nu}{kT}$$. Here the $\int$ (e.g., related to this question) can be either solved by using Polylogarithms,  Riemann zeta and Gamma functions, complex analysis, etc.
+
+It's easy to check that $$P = \frac{8\pi k^4}{3c^3h^3} T^4 \zeta(4)\Gamma(4)$$ then $$P = \frac{8\pi^5 k^4}{45c^3h^3}T^4 = \frac{4\sigma}{3c} T^4$$ which matches evenly.
+
+
+
+The question: if we're dealing with Stellar structure, potentially dense environments (the interior of a star!) then EM radiation is not necessarily propagating in vacuum (in fact, I guess it's not the case!). Then would be $v_p \overset{!}{=} n \, c  \leq c$ but this is not usually considered on calculations. Why is this? Do you know any resource where anybody have examined this and see if star interiors are affected? (it might be negligible)
+
+Thanks in advance,

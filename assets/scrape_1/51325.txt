@@ -1,0 +1,45 @@
+3d distance between the Galaxies inside the galaxy cluster
+
+I am currently working on the dynamics of the galaxy cluster, so i am trying to get the distance between the galaxies inside the galaxy cluster from its centre.  As a input i have RA , DEC  and Z (Redshift of the galaxies and its centre). my approach is something like this
+
+First of all i start with the commoving distance of the galaxies and Cluster for a given z (Galaxies redshift) and z_cl (Clusters redshift) .
+then i get the Cartesian position of each object in 3D space
+Once i have the Cartesian of the objects, i use the standard distance formula to compute 3-D Distances between them
+the python Code is like this
+
+`#  comoving distances
+D_cl=cosmos.comoving_distance(z).value #  z for each galaxy
+D_clus=cosmos.comoving_distance(z_cl).value # z_cl for Cluster's centre
+
+def get_x_y_z(ra, dec, D):
+    phi   = ( ra*180/np.pi   - 180 ) * np.pi / 180.
+    theta = (dec*180/np.pi + 90 ) * np.pi / 180.
+    xx = D * np.cos( phi) * np.sin( theta )
+    yy = D * np.sin( phi) * np.sin( theta )
+    zz = D * np.cos( theta )
+    return xx, yy, zz
+
+# get 3D Cartesian positions of the sub haloes
+xx, yy, zz = get_x_y_z(ra, dec, D_cl)
+
+# get 3D Cartesian positions of the cluster
+xx_cl, yy_cl, zz_cl = get_x_y_z(ra_cl, dec_cl, D_clus)
+
+# array of distances between sub haloes and the cluster : 
+distances = np.sqrt((xx_cl-xx)**2 + (yy_cl-yy)**2 + (zz_cl-zz)**2)
+distances.min(),distances.max()`
+
+
+Another Approach using astropy
+c2 = SkyCoord(ra*180/np.pi *u.deg, dec*180/np.pi *u.deg, distance=D_clus*u.Mpc, frame='icrs')
+distance_3d = c1.separation_3d(c2)
+distance_3d
+
+So after using this method i am getting a wrong value's  (Almost 70 Mpc for a given redshift therefore i would like to know what can i change or adapt to have right measurement of the 3d distances or my method is wrong. As you can see i am going to use this distance r in order to calculate the jeans solution.  where i need two distances r and R.
+
+R is the projected separation of the galaxies from clusters centre
+
+r is the actual 3d distance of the galaxies from clusters centre
+
+
+$$v_g(r) = -\frac{1}{\pi}\int_r^\infty \frac{d \Sigma}{dr} \frac{dR}{\sqrt{R^2-r^2}}$$

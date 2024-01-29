@@ -1,0 +1,7 @@
+How can I know the source size using the spectrum variability?
+
+When reading some astrophysical papers I saw things like this:
+
+The sources are variable on very short timescales, implying a compact emission region.
+
+How can we conclude or measure the source size, or emission region size (or its compactness) from the variability of the spectrum?

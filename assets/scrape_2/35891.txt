@@ -1,0 +1,9 @@
+Determining the extinction by counting stars?
+
+Hi I'm a highschool student studying astronomy at school.
+I learned that one can determine how much a luminosity of a star is reduced by counting stars, but I can't understand how it works. My textbook has the following equation:
+$\Delta m=2.5 \log(\frac{N}{N_0})$ or also written as $\Delta\log N=0.4\Delta m$
+, where N is a number of stars and m is the magnitude.
+The textbook says that by comparing the number of visible stars from the inside of an interstellar cloud with that of stars from the outside of the cloud, one can determine how much the luminosity is decreased using that equation.
+I have no idea how the equation is created. I searched it on google but I only found this pdf: http://rpi.edu/dept/phys/observatory/obsastro9.pdf
+Can anybody explain it for me?

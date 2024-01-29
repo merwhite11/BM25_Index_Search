@@ -1,0 +1,6 @@
+Plotting GAIA barycentric radial velocity data with python
+
+Does anybody know of a good tutorial on how to use python and astropy to generate plots of GAIA, RAVE or any other database of barycentric (heliocentric) radial velocity data of stars in our galaxy?
+I'd like to generate various plots of the heliocentric velocities of stars in our galaxy, making different restrictions on distances from the sun, and I'd like to see what the data looks like with correction for the proper motion of the sun and without. Now, I know I could find plots done by others, but I really want to learn how to generate my own plots. 
+I'm pretty new to python, so please target answers accordingly...
+(added later:) There's probably a simple astropy function that if you call it with the right variables, say, a certain slice of the sky in RA and Dec, and a certain distance range in kpc, it will spit back a list of all the stars in that region along with their radial velocities.  I just need to learn the name of that function and how to call it.

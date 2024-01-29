@@ -1,0 +1,8 @@
+Why does one presume that there is at least one Earth-like exoplanet around one in five stars?
+
+When reading the question about the first use of the term exoplanet (about which Giordano Bruno and Isaac Newton already speculated but they didn't use that term for them, I think), I searched a surfed a bit along and found this on Wikipedia:
+
+An exoplanet or extrasolar planet is a planet outside the Solar System. In several cases, multiple planets have been observed around a star. About 1 in 5 Sun-like stars have an "Earth-sized" planet in the habitable zone.
+
+I'm not sure how this estimate is made. Is it based on observation? Is there one Earth-like planet observed for every five stars? That is, planets with more or less the same mass as the Earth, orbiting at about the same distance from the star as we orbit the sun? Is it based on a calculation?
+Are planets that have a higher mass and circle around a higher mass star considered as Earth-like too (the "only" difference being that a higher gravity is present)?

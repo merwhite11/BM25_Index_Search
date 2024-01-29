@@ -1,0 +1,66 @@
+Calculating azimuth from equatorial coordinates
+
+I try to get the azimuth of an object from its equatorial coordinates using this formula:
+$a = \arctan2(\sin(θ - α), \sin φ * \cos(θ - α) - \cos φ * \tan δ)$
+Where
+φ = geographic latitude of the observer (here: 0°)
+θ = sidereal time (here: 0°)
+δ = declination
+α = right ascension
+I made two JavaScript functions to implement this calculation:
+  obliq = deg2rad(23.44);  // obliquity of ecliptic
+  lat2  = deg2rad(0);  // observer's latitude
+  lmst  = deg2rad(0);  // siderial time
+
+  function equatorial(lat, lon) {
+    // returns equatorial from ecliptic coordinates
+    dec = Math.asin( Math.cos(obliq) * Math.sin(lat) + Math.sin(obliq) *
+          Math.cos(lat) * Math.sin(lon));
+    ra  = Math.atan2(Math.cos(obliq) * Math.sin(lon) - Math.sin(obliq) * Math.tan(lat),
+          Math.cos(lon));
+    ra += 2 * Math.PI * (ra < 0);
+    return [dec, ra];
+  }
+
+  function horizontal(lat, lon) {
+    // returns horizontal from ecliptic coordinates
+    coords = equatorial(lat, lon);
+    dec = coords[0];  // δ
+    ra  = coords[1];  // α
+    alt = Math.asin(Math.sin(lat2) * Math.sin(dec) + Math.cos(lat2) *
+          Math.cos(dec) * Math.cos(lmst - ra));
+    azm = Math.atan2(Math.sin(lmst - ra), Math.sin(lat2) * Math.cos(lmst - ra) -
+          Math.cos(lat2) * Math.tan(dec));
+    azm += 2 * Math.PI * (azm < 0);
+    return [alt, azm];
+  }
+
+I cannot see any error, but I get strange results for azimuth (a) as can be seen in this table (the other values seem correct):
+   λ       δ         α         h         a
+    0    0.0000    0.0000   90.0000    0.0000
+   15    5.9094   13.8115   75.0000  246.5600
+   30   11.4723   27.9104   60.0000  246.5600
+   45   16.3366   42.5357   45.0000  246.5600
+   60   20.1510   57.8186   30.0000  246.5600
+   75   22.5962   73.7196   15.0000  246.5600
+   90   23.4400   90.0000    0.0000  246.5600
+  105   22.5962  106.2804  -15.0000  246.5600
+  120   20.1510  122.1814  -30.0000  246.5600
+  135   16.3366  137.4643  -45.0000  246.5600
+  150   11.4723  152.0896  -60.0000  246.5600
+  165    5.9094  166.1885  -75.0000  246.5600
+  180    0.0000  180.0000  -90.0000  248.3079
+  195   -5.9094  193.8115  -75.0000   66.5600
+  210  -11.4723  207.9104  -60.0000   66.5600
+  225  -16.3366  222.5357  -45.0000   66.5600
+  240  -20.1510  237.8186  -30.0000   66.5600
+  255  -22.5962  253.7196  -15.0000   66.5600
+  270  -23.4400  270.0000   -0.0000   66.5600
+  285  -22.5962  286.2804   15.0000   66.5600
+  300  -20.1510  302.1814   30.0000   66.5600
+  315  -16.3366  317.4643   45.0000   66.5600
+  330  -11.4723  332.0896   60.0000   66.5600
+  345   -5.9094  346.1885   75.0000   66.5600
+  360   -0.0000  360.0000   90.0000   68.3079
+
+Does anyone see the error? Thank you.

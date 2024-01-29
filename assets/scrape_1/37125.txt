@@ -1,0 +1,17 @@
+Do free protons and neutrons absorb much radiation? To affect astronomers' observations? If so, at what wavelength(s)?
+
+In a plasma, or wherever, do the completely ionized nuclei commonly absorb much EM radiation?  Or any free neutrons or protons?  Can astronomers detect this?  Enough so that astronomers take it into account in their observations?
+I've read elsewhere that protons, neutrons and nuclei, even when free of any electrons, usually (or only, depending on who you read) aborb and/or emit only hard X-rays and gamma rays...
+Is this true?
+.
+.
+.
+.
+.
+P.S.:  So, free electrons cannot absorb or emit photons by themselves, even when accelerating or decelerating rapidly?
+What about an atom or molecule?  They won't absorb/emit photons, whether they are neutral OR ionized, even if accelerating/decelerating rapidly?  Unless their electrons change energy levels?
+When electrons in a cathode ray tube hit the screen, is it only the phosphor molecule in the screen that emits any kind of photon?  And the valence electron(s) in the phosphor jump quantum energy levels (n or sublevels l) to emit; it's not from the shaking due to just being hit?
+Sorry for all of the sudden new questions, but I am still confused to this day....
+P.P.S.:  Don't neutral atoms absorb and emit infrared all the time when jittering back and forth?  Don't everyday objects, especially white ones, absorb most visible light, the re-emit infrared?  It's not just scattering, is it?...
+And inelastic Compton scattering must involve actual absorption and re-emission, mustn't it?  Being inelastic and all...
+I apologize again for the outburst of questions....

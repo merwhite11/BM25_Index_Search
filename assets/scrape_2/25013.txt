@@ -1,0 +1,4 @@
+Does anybody know how to get Sun-Jupiter Lagrangian points L4 and L5 RA and Dec?
+
+I wanted to point at the L4 and L5 of Sun-Jupiter to find Trojan asteroids but I don't know how to calculate the RA and Dec of these.
+Do you know of any software that does it for you or how to calculate them?

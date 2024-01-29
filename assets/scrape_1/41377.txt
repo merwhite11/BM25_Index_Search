@@ -1,0 +1,5 @@
+Earth's precession and the position of the Sun in the sky
+
+To my understanding, the Earth's precession causes an approximately 20-minute difference between the sidereal year and the tropical year. Also to my understanding we use the tropical year for our calendar which means we ignore those 20-minutes. These 20-minutes will cause the calendar to "shift" one day every 72 years so if we don't do anything about it in a few centuries winter and summer will switch places. So every century they add an extra day to the calendar to counter this.
+This I understand. What I don't understand is that this 20-minute difference means that the Sun's position in the sky will vary by 20 minutes every year. Meaning if the Sun rises at the right ascension of 0 this year, next year it should rise at the right ascension of 20 minutes, and so on. But each year the Sun will actually rise at the same spot in a particular day.
+How is this possible? Where do these 20 minutes go?

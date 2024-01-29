@@ -1,0 +1,5 @@
+Is it possible to see stars that are gravitationally lensed by the sun from the ground?
+
+Roughly 100 years ago, Eddington confirmed Einstein’s general relativity theory by photographing stars behind the obscured Sun during a total eclipse. 
+A coronograph is a device that mimics what happens during an eclipse and blocks the light that comes from a star so that nearby objects (which would otherwise be hidden by the star's glare) can be seen. This device was invented in 1931 by Lyot, 12 years after the aforementioned eclipse.
+Would it be possible to use a coronograph with a ground-based telescope to reproduce the observation done by Eddington in 1919? Or would the light from the Sun scattered in the atmosphere be enough to hide the stars for which the gravitational lensing is visible?

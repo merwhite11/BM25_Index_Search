@@ -1,0 +1,8 @@
+How is the incidence angle of the Sun related to the lean angle of the Cooks pines?
+
+Auracaria columnaris (Cooks pine) on average lean towards the equator.  Most of the pines in the Northern Hemisphere lean southward and most of the pines in the Southern Hemisphere lean northward.
+
+The above picture is from Johns et al. 2017, who performed a study of 256 Cooks pines across 18 regions on 5 continents.  Though they don't publish their data set in the paper, we can see that the leaning effect is more pronounced for the higher latitudes.
+
+At higher latitudes, the apparent location of the Sun in the sky becomes more biased in the opposite direction.  For example, in far Northern Alaska, the Sun mostly appears in the Southern half of the sky.  Could phototropism be an explanation for the Cooks pine lean? Does the North/South component of the Sun's average incident angle by latitude match the above table?
+Question: Consider a perfect blackbody disk elevated slightly from the ground.  For a given latitude $L$ what is angle $\theta$ between a fixed disk and the local tangent plane that maximizes yearly absorbed wattage from the Sun (assume no horizon obscura).

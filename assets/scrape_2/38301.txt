@@ -1,0 +1,4 @@
+Why does Stellarium tell such imprecise distance for Betelgeuse?
+
+The newest version of Stellarium, as well as the former ones, tell that Betelgeuse would be 497.95 ly plus/minus 56 ly away. Celestia also lists Betelgeuse ~500 ly away, but Celestia is comparably old. Isn't it a proven fact that Betelgeuse is about 640 ly away? Why is Stellarium so imprecise?
+Rob Jeffries' comment below and this link answer my question well, rather than the link provided above.

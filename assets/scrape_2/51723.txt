@@ -1,0 +1,3 @@
+Software to create exoplanet transit lightcurves of all stars in a series of images?
+
+There is quite a bit software out there that can be used for the transit method analysis of single stars, is there software that can do it for many simultaneously?

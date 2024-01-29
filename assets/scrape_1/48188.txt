@@ -1,0 +1,11 @@
+How to interpret this spectrum of the "new DESI Quasar at z = 6.53"; what causes the big edge at about 9150 Angstroms?
+
+I'm not exacty sure why but Scitech Daily's Seeing Dark Energy’s True Colors: DESI Creates Largest 3D Map of the Cosmos includes the graphic and caption below.
+It indicates a quasar in a Hubble image and included is an annotated spectrum from 5000 to 9800 Angstroms of a "new DESI Quasar at z = 6.53" , which shows what looks like flat noise between 5000 and 9100 Angstroms and then a sudden jump up at about 9150 Angstroms and higher.
+The article talks about using DESI data to get redshifts and therefore distances, but there's no indication of how this spectrum and its pronounced feature is used to do this.
+So I'd like to ask:
+Question: How to interpret this spectrum of the "new DESI Quasar at z = 6.53"; what causes the big edge at about 9150 Angstroms?
+
+
+
+A new quasar discovered using DESI gives a glimpse of the universe as it was nearly 13 billion years ago, less than a billion years after the Big Bang. This is the most distant quasar discovered with DESI to date, from a DESI very high-redshift quasar selection. The background shows this quasar and its surroundings in the DESI Legacy imaging surveys. Credit: Jinyi Yang, Steward Observatory/University of Arizona

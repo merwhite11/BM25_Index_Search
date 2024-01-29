@@ -1,0 +1,18 @@
+How does a cross dispersed spectrum look like in a reality (from echelle spectrographs)?
+
+I am an analytical chemist with some interest in amateur spectroscopy. Since astronomers use echelle spectrographs to study the high resolution spectrum of the stars, someone suggested to post the query here. An echelle grating produces a spectrum with several overlapping orders. One can then use a cross-disperser, which could be a prism or a grating, which can separate the overlapping orders and then we obtain a very high resolution spectrum. I want to know how a real echelle spectrogram looks like -as if we were looking at the 2D spectrum with our naked eyes?
+I have a small echelle grating (79 grooves/mm, 75$^o$ blaze) and tried to visually generate a 2D spectrum with the help of a plastic transmission grating. The light source was an ordinary fluorescent lamp Pictures are posted below. The experiment is too elementary.  A horizontal slit made by two blades as an entrance on the shorter rectangle of a shoebox. The light from the slit falls on the reflective echelle. On the larger side of the shoebox, I made a window to take a picture.
+Picture 1: A vertical slit made in a cardboard box, the long side of the echelle is perpendicular to slit An expected overlapping order spectrum seen.
+
+Picture 2: A horizontal slit made in the cardboard box, now the long side of the echelle is parallel to the slit
+
+Now, if we hold a plastic transmission grating (Edmund) in our hand, with its rulings perpendicular to the echelle, and view the echelle through that transmission grating, I can photograph the following 2D spectrum.
+Picture 3: Hold a transmission grating with its rulings crossed with the echelle and view picture no. 2.
+
+Unfortunately, this looks like a replica of a spectrum rather than separation of orders.
+**The main question: How should one hold the transmission grating in order to visually see the separated orders. Picture no. 3, was supposedly, separation of orders but it does not look like it.
+If this were a true 2D spectrum we should see some increasing distance between Hg green lines. All separated orders look the same resolution. Is there any other simple way to see a true cross dispersed spectrum with eyes using a simple cardboard type box? The key problem seems to be the issue how should we hold the transmission grating in order to see a true 2D spectrum unlike Picture 3.**
+EDIT
+After Prof.ELNJ's suggestion in the answer, I wanted to confirm if this is what he meant. The grating has an arrow with a pencil (from ThorLabs) which shows the blaze direction because by viewing in this direction one can see a "rainbow" of colors. So the arrow is towards the viewer, and I hold a transmission grating "crossed" with the echelle ruling.
+
+Rough view of what appears to the eye

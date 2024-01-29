@@ -1,0 +1,18 @@
+What are "non-Keplerian" orbits? What are some familiar examples in our solar system, and can some still be closed?
+
+This excellent answer to Forms of stellar orbits around the galactic center invokes the following concepts:
+
+non-Keplerian orbits
+closed orbits
+
+I have a fairly good idea what these mean and so might many of us, but our ideas may not overlap completely.
+For the sake of future stack exchangers and orbiteers, how can we best define these?
+Question(s):
+
+What exactly are "non-Keplerian" orbits?
+What are some familiar examples of distinctly non-Keplerian orbits in our solar system?
+What are closed orbits?
+What are some familiar examples of distinctly non-closed orbits in our solar system?
+Can some non-Keplerian orbits still be closed?
+
+Included should be the understanding that we're talking about soft limits here; no orbit is exactly Keplerian because gravity goes everywhere (there are no "gravitational dielectrics" or opposite charges for field lines to terminate). But for practical purposes we can treat many orbits as Keplerian for many purposes, and some we can't at all.

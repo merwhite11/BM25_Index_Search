@@ -1,0 +1,7 @@
+Would dropping a white dwarf or a "still-hot" stellar core into a large planet or brown dwarf create a star?
+
+In the Wikipedia article about stellar engineering, I found this quote:
+
+In The Saga of the Seven Suns, by Kevin J. Anderson, humans are able to convert gas giant planets into stars through the use of a "Klikiss Torch". This device creates a wormhole between two points in space, allowing a neutron star to be dropped into the planet and ignite stellar nuclear fusion.
+
+Now this is definitely impossible, as neutron stars are degenerate and cannot fuse. But what if we dropped a helium white dwarf or extract the hydrogen-burning core of a low-mass star and put it into a large gas giant or non-fusing brown dwarf? Would this trigger fusion or would this fail as well (presumably because the white dwarf is also degenerate)?

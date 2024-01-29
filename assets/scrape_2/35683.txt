@@ -1,0 +1,8 @@
+How can the radius of a star be measured using parallax?
+
+The radius of Betelgeuse was measured using parallax. From the Wikipedia article:
+
+the estimated parallax from the Hipparcos mission was 7.63±1.64 mas, yielding an estimated radius for Betelgeuse of 3.6 AU. 
+
+I understand how a distance can be determined using parallax, but I don't understand how the radius can.
+What is the math behind deriving a radius from a parallax measurement?

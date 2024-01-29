@@ -1,0 +1,4 @@
+What parameters about galaxies can be measured using SAO DS9?
+
+I am trying to determine and plot various parameters for galaxies on SAO DS9. RA & dec, angular size to a fair extent, and contour plotting are a few of the aspects which I could determine using the same. What else can I determine (specifically for galaxies) using DS9?
+Also, are there any other softwares that can help me determine various parameters of galaxies?

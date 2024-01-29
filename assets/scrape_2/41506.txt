@@ -1,0 +1,6 @@
+Why is Mercury's Density So Low?
+
+I know the title sounds odd.  You might be thinking "Doesn't Mercury have the highest uncompressed density of any terrestrial planet?  Much higher than a planet its size normally should have?" Here's the thing, though: Iron has an uncompressed density of $7.874\ \mathrm{g/cm^3}$ and silicon has an uncompressed density of $2.329\ \mathrm{g/cm^3}$. I know the distinction for planet composition is usually metals-silicates, not iron-silicon, but iron and silicon comprise the vast majority of those two categories.
+Mercury is said to be 70% metals 30% silicates with an uncompressed density of $5.4\ \mathrm{g/cm^3}$.1 However, if you run the numbers, 70 % iron and 30 % silicon gives you an uncompressed density of $6.21\ \mathrm{g/cm^3}$, or over $0.8\ \mathrm{g/cm^3}$ higher. My question is, why is Mercury's actual density lower than my proposed figure? I know that there are other materials in Mercury, like nickel, sulfur, etc., but can these things really make up the difference?
+
+1Wikipedia and NASA

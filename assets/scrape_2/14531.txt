@@ -1,0 +1,13 @@
+Conceptual Doubt regarding the calculation of the Solar Constant
+
+
+The Solar constant is the intensity of the solar radiation in the
+  upper atmosphere. It's value is about $1400$ $Wm^{-2}$.
+
+Now we begin by stating that the Power radiated by the sun is about $3.9*10^{26}$W. Then we using the Formula $I=\frac{P}{4\pi d^2}$, we compute the Intensity. (Here d is $1.5*10^{11}$m). 
+I understand the mathematics but have trouble in interpreting the meaning of the solar constant. The Intensity formula used above is generally depicted by authors as follows (as per my understanding): There is a sphere around the Sun of radius $d$ and if the power is radiated equally in all directions then each point on the Sphere receives an Intensity $I=\frac{P}{4\pi d^2}$. But the Earth is not a point object, so is this assumption valid? 
+Next, what do you mean by the upper atmosphere? I've come across another version: 
+
+The Solar constant is the intensity of the solar radiation in when the sun is directly overhead. It's value is about $1400$ $Wm^{-2}$.
+
+I guess my confusion is due to a lack of an intuitive understanding of this concept and I would be grateful if anyone could provide me with one.

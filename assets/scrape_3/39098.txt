@@ -1,0 +1,7 @@
+What do 5-sigma, r, and lowercase-delta mean in the physical descriptions of major telescopes?
+
+
+The typical 5σ point-source depth in a single visit in r will be ∼24.5 (AB). The project is in the construction phase and will begin regular survey operations by 2022. The survey area will be contained within 30,000 deg2 with δ<+34.5∘, and will be imaged multiple times in six bands, ugrizy, covering the wavelength range 320--1050 nm. About 90% of the observing time will be devoted to a deep-wide-fast survey mode which will uniformly observe a 18,000 deg2 region about 800 times (summed over all six bands) during the anticipated 10 years of operations, and yield a coadded map to r∼27.5.
+
+I believe 'five-sigma' refers to standard deviations in a Gaussian distribution (statistics), but am unclear what it has to do with a 'point-source depth'.
+And I am even more confused by 'r' and 'lowercase-delta'....

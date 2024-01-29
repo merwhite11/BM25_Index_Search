@@ -1,0 +1,3 @@
+Instantaneous gravity in equation of motion for ephemerides calculation
+
+The equation of motion used for the calculation of orbits of solar system objects (Eq(27) in https://ipnpr.jpl.nasa.gov/progress_report/42-196/196C.pdf ) is formulated in terms of instantaneous variables, that is the acceleration of an object is assumed to depend on the instantaneous positions, velocities and accelerations of all other objects in the solar system (this has been confirmed to me by the authors of this publication). Would this not mean that information travels infinitely fast and thus contradict Relativity?

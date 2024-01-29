@@ -1,0 +1,14 @@
+Formation scenarios for elliptical galaxies?
+
+I am trying to get an overview of the latest research on different formation scenarios for elliptical galaxies and filter out old scenarios in the literature that are today proved to be not sufficient/accurate.
+Following G. De Lucia, 2005 (https://doi.org/10.1111/j.1365-2966.2005.09879.x):
+-"classic" scenario:
+-collaps of a gas cloud
+-single, intense burst of star formation, followed by passive evolution
+-explains the tightness of the fundamental-plane scaling relations
+different scenarios:
+-hierachical formation (through observation of recent episodes of star formation), merging of 2 similar sized spirals, probably only for large ellipticals?
+-antihierachical formation, what is actually meant by that ?
+-formation in tidaltails of merging events from bigger galaxies, or deformation of smaller galaxies due to tidal forces, probably for dwarf ellipticals ?
+As I understood, large ellipticals (like those large cD Galaxies at the center of clusters) can form due to the merging of similar-sized spiral galaxies, where the merging causes the interstellar gas to be mixed and accelerated which causes a rapid burst of star formation, which uses most of the gas so this period is followed by a passive development.
+Can "normal" sized ellipticals also form through the collapse of a gas cloud, followed by a burst of star formation? How can dwarf ellipticals form? Another scenario I read is the formation of smaller ellipticals with the material in the tidal tails of large merging events. What other scenarios are there? Also, please correct me if I said something that has already been disproved. I am just trying to find some structure in this field of research as an outsider.

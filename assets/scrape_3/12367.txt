@@ -1,0 +1,7 @@
+Conversion between Astronomical Frames, ex. IRCF, FK5, FK4, etc…
+
+I'm a little bit confused about reference frames, and I was wondering if someone could help clarify a few things?
+So let's say I have equatorial coordinates that refer to the mean equator and equinox of an non standard arbitrary epoch. Now, if those coordinates are referred to the mean equator and equinox that epoch, then is the mean equator/equinox of the specific epoch considered the reference frame for those coordinates? 
+…and then how would you go about converting those coordinates to another reference frame like say the IRCF or FK5? I assume that I would need to precess them to J2000 accounting for any applicable proper motion (and if they referred to the true equator nutation). What else do you need to put them in either the ICRF or FK5 frames?
+Also, something else I'm confused about is the epoch of a reference frame. So, let's say I have the IRCF astrometric coordinates of a planet at JD 2456963.5 TDB (or any other arbitrary date). Since they're IRCF coordinates, then the epoch of the reference frame is still J2000, but the coordinates refer to the instant of 2456963.5 TDB correct? 
+Any clarification would be greatly appreciated, and thanks in advance!

@@ -1,0 +1,4 @@
+Is Hawking radiation detectable?
+
+Could Hawking radiation be detected with instruments available today? If not, what sort of instruments would be required to observe it? Would there be any way to confirm through observations the existence of Hawking radiation?
+I'm primarily asking about techniques that we could reasonably implement with current technology or something that could be implemented in the near future, but if you need to get close to a black hole to be able to observe the radiation and couldn't do it from a spacecraft in Earth or solar orbit, then that would be the answer.

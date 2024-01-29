@@ -1,0 +1,4 @@
+How Good Are the Upper Limits on Heavy Elements?
+
+There are between 90 and 254 stable nuclei all the way up to element number 82. In discussions and graphs about big bang nucleosynthesis nothing above lithium is even mentioned. It's a pretty safe bet that none of the heavier elements have been observed in reasonably primordial gases, since the implications would be profound enough to require mention in even popular level books about the big bang.
+That said, has anyone bothered to perform searches for all of the heavier elements? As in, do we have explicit experimental upper limits on the concentrations of some or all of these heavier elements, or just a more qualitative, "No evidence seen for anything else"?

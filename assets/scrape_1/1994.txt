@@ -1,0 +1,5 @@
+Why can primordial tensor perturbations of the CMB be ascribed to gravitational waves?
+
+Why can primordial tensor perturbations of the CMB be ascribed to gravitational waves? Is this attribution unique, or are there other mechanisms that could lead to the excitation of tensor modes?
+In an explanation I have read recently that gravitational waves turn the E-modes into the now observed B-modes somehow, but I don't understand this. So can somebody give a more detailed explanation of this interaction of gravitational waves with the CMB?
+LaTeX and equations are welcome and appreciated :-)

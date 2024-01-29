@@ -1,0 +1,4 @@
+How do we know that an exoplanet is tidally locked to the parent star?
+
+Often in discussing exoplanets we hear that they are close to the parent star (usually a red dwarf) but then there's a caveat that the planet is tidally locked to that star and that that fact severely decreases prospects for that planet to harbor life.
+But how do we know that an exoplanet is tidally locked to a star? I doubt that we can directly observe the rotation of that planet. Does that mean that we conclude that it's tidally locked because that's what our theoretical models tell us, and not that we observe it directly?

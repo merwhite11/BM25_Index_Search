@@ -1,0 +1,9 @@
+What is the abbreviation for solar time, hour angle of the sun?
+
+I understand that the hour angle and declination can be abbreviated as (HA Decl), and rectascension and declination as (RA Decl). The hour angle of a star is of course zero hours at the meridian.
+The Sun however does have solar time 12 hours at the meridian, and the "solar" hour angle would better be 12 hours. Therefore I look for an abbreviation for use in computer programming for the pair (solar time, declination) or (sun hour angle, declination), and I can't make up them. I didn't anywhere find them naturally, say in Wikipedia or through Google.
+I considered (SOL Decl), (SHA Decl), (ST Decl) or the german (SZ Decl). I don't want to use (HA Decl) for the sun, because HA is zero at the meridian, but as already said for the sun its hour angle should be 12 at the meridian and therefore for clarity and for programming purposes, another designation is needed.
+My angles are local, there is no need for a compulsary prefix L- (local) or G- (Greenwich).
+I know that in english usage is "apparent" sun hour angle, but in german it would be "true" sun hour angle, therefore the word element "apparent" should be absent.
+The question is not about the formulas proper for hour angle or solar time.
+Thank you.

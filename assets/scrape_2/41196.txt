@@ -1,0 +1,72 @@
+Looking for a routine to correct for Local Standard of Rest (LSR)
+
+I've been scanning the Milky Way with a Small Single Dish Radio Telescope, obtaining Spectral data with a Span of ~ 2 MHz, centered at the 21 cm line. With this information I can derive a relative velocity (due to Doppler shifted emission) between the observer (telescope, at lat ~ 33° South) and gas clouds in the line of sight. To study the position of this clouds relative to the Galactic Center, I know that the way to correct for this is subtracting our motion relative to this 'fixed' point: correcting by Earth's rotation, Earth motion on the Solar System plane and the System's motion itself (everything projected onto the line of sight), so my data is comparable to any other observation.
+I've been reading on related questions such as
+
+The Solar Motion and the peculiar velocities of stars
+
+What are galactic speeds measured against?
+
+How spectrographs that measure radial velocities manage to translate variations in the stars' spectrum lines into the “speed” of the star?
+
+
+I also looked on "Tools of Radio Astronomy", T.L Wilson, K. Rohlfs, S. Hüttemeister, 5ed., pg. 189. that briefly describes this procedure.
+
+The thing is I can't find any routine explained in detail, about this:
+
+So I wonder how this is really done in practice and if there's any, e.g., Python Package that does it (maybe in Astropy?).
+EDIT: Thanks to @ELNJ 's response and help I managed to get agreeable results. This is data from a Standard Region, particularly S9.
+def Freq_to_v(freqval, freq0, mjd_time = 59244.8, obs_ra = 268.1, obs_dec = -34.43):
+    
+    
+    
+    #https://docs.astropy.org/en/stable/api/astropy.coordinates.SkyCoord.html#astropy.coordinates.SkyCoord.radial_velocity_correction
+    
+
+    #This is the observation for S9, 30-01-2021, 16:34 hrs CL.
+    #S9 Std. Reg. Obs. time = 59244.8
+    
+    t = Time(mjd_time, format='mjd', scale = 'utc')
+    
+    #Obs. Location and height in GEODETIC coordinates (and not geocentric a X Y Z quantities tuple!!). 
+    
+    loc = EarthLocation(lon= 289.47, lat =-33.27, height = 1450)
+
+    sc = SkyCoord(1*u.deg, 2*u.deg)
+
+    vcorr = sc.radial_velocity_correction(kind='barycentric', obstime=t, location=loc).to('km/s')  
+    #####################################################
+    
+    
+    
+    #Regular Doppler Shift Calculation. Here are two conventions: optical and radio doppler shift.
+    
+    shift_opt, shift_rad = (freqval - freq0)/freqval, (freq0-freqval)/freq0 #shifting factor, no dimensions. 
+
+    v_opt, v_rad = const.c.to('km/s')* shift_opt , const.c.to('km/s') * shift_rad #velocities.
+    
+    
+    #################################################### To barycentric:
+    
+    
+    rv = v_rad - vcorr #corrected to barycentric w/o Special Relativity terms.       
+    
+    
+    #This is the observation for S9 Std, Region., 30-01-2021, 16:34 hrs CL.
+    
+    ################################################### To LSR:
+    
+    my_observation = ICRS(ra=obs_ra *u.deg, dec= obs_dec *u.deg, \
+     pm_ra_cosdec=0*u.mas/u.yr, pm_dec=0*u.mas/u.yr, \
+     radial_velocity= rv, distance = 1*u.pc)
+    
+    new_rv = my_observation.transform_to(LSR()).radial_velocity
+    
+    return new_rv
+    
+
+You can compare Williams' 1972 result
+
+with mine:
+
+and check that it's in fact consistent.

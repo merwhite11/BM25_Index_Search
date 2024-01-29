@@ -1,0 +1,3 @@
+Why is blue light extincted more strongly than red?
+
+We know that blue light suffers extinction more strongly than red (examples include ISM, atmosphere etc.), but why? Is it a property of the shorter wavelength itself? Can someone provide a conceptual explanation as to why this occurs? TIA

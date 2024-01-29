@@ -1,0 +1,11 @@
+What is the optimal escape trajectory from near a black hole?
+
+Consider a space ship that is being drawn closer to a black hole.  The crew begins to notice the effects, and discovers that they are nearing the black hole.  They then manage to halt their progression toward the black hole.  What would be the optimal escape trajectory, assuming they have not yet wandered too close?  I am thinking it would likely either be directly away from the black hole (figure 1), or parallel to the black hole (figure 2).  However, it is conceivable that there would be some other angle that would be optimal (e.g. 45 degrees in figure 3).
+Figure 1: Go directly away from the black hole
+
+Figure 2: Go "parallel" to the black hole
+
+Figure 3: Go 45 degrees from the black hole
+
+A follow up question is, would this answer be the same for other high gravity objects, such as neutron stars, or even regular stars?
+Let's say for simplicity sake that they have already managed to halt their advance toward the black hole and they are now still (not moving) in relation to the black hole. If distance factors in, it would be interesting to see what the answer is at different distances (e.g. fairly close to the event horizon where I realize a tremendous amount of energy would be required, and for far away).

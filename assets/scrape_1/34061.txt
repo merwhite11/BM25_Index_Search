@@ -1,0 +1,3 @@
+Rescaling a radio image
+
+After a radio image has been cleaned it is advised that the fluxes be rescaled if the source is near the galactic plane. Can someone explain why this is needed?

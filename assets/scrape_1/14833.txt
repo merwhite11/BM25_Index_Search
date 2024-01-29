@@ -1,0 +1,17 @@
+How can we explain high redshift numbers?
+
+I just finished an introductory astrophysics course$^1$ and I have a lingering question that I can't seem to resolve.
+We learned that for the first few hundred million years, the universe was pretty boring and not much interesting$^2$ happened. We also learned, correctly or not, that the first stars started forming somewhere between 500 million and 600  million years after the Big Bang.
+We also learned how to use redshift values to calculate age, and we talked about how the highest $z$-number we've discovered is some galaxy (GN-z11) at roughly $z=11$.
+Using this calculator, we calcultaed that this galaxy apparently formed about 410 million years after the Big Bang.
+So, this galaxy seems to be older than when astrophysicists think star formation happened. How can this possibly be? Clearly one of my assumptions is wrong, so is it:
+
+Stars actually started forming before 500 million years post-Big Bang.
+Using the UCLA calculator to calculate age is technically incorrect.
+A galaxy doesn't need stars to be considered a galaxy.
+Some other assumption I made is wrong which makes this post invalid.
+
+As a follow-up question, what happens if we keep finding galaxies at higher $z$-numbers? At what point do we need to reconsider our theory about what happened in the "early" universe?
+
+$^1$I'm not an astrophysics major, so forgive any blatant falsehoods in this post.
+$^2$On a macro-scale, at least.

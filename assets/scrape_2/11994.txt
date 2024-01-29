@@ -1,0 +1,6 @@
+Calculate Local Sidereal Time
+
+I am trying to follow this guide and move to a programming language
+but I have doubts.
+What means the strings A, B and C in this manual? 
+http://aastro.org/wp-content/uploads/2010/11/Calculation-of-Local-Sidereal-Time.pdf

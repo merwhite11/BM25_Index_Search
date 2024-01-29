@@ -1,0 +1,9 @@
+Scalar field displacement from the minimum of the potential gives rise to particles/dark matter, why?
+
+The paper Lyman-alpha Constraints on Ultralight Scalar Dark Matter by Kobayashi et al. says, at the beginning of Section 3.1:
+
+A light scalar field stays frozen at its initial field value in the early Universe. Hence, any initial displacement from the potential minimum gives rise to a scalar dark matter density in the later universe.
+
+I don't understand this statement. Can someone explain its meaning? Why would such a configuration give rise to matter later in the universe? Is it due to the fact that later in the universe the scalar field would oscillate and oscillations can be seen as particles?
+Sorry if the question is not clear, I studied physics quite a long time ago and study these things in my free time so there are many gaps in my understanding of fundamental physics and Cosmology. Feel free to be as technical as you wish but please remember I'm not expert or anything.
+This question is the same question I have posted here oh physics SE but it didn't receive an answer that I could really understand. My main doubt is how this field misalignment at early times becomes a non-negligible matter density at late times, how does this work?

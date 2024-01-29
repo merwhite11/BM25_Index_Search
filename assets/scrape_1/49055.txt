@@ -1,0 +1,8 @@
+Power law distribution for galaxy populations
+
+I've learned that observed galaxy populations exhibit single power-law clusterings within several tens of megaparsecs in comoving scale.
+I'm trying to sample some astronomical data from this project: Illustris simulations, and I'm beginning with star (baryonic) data from galaxy subhalo scale.
+
+Do cosmological objects exhibit a different distribution at this smaller, sub-halo, kilo-parsec, resolution scale?
+
+If so, how large should my sample be so I can observe this power law distribution, using the dataset from Illustris? Should I use dark matter halos, instead of baryonic sub-halos?

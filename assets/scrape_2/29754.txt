@@ -1,0 +1,6 @@
+How should I think about sunlight for the purposes of analyzing the angles it makes w/ earth?
+
+Most diagrams I see of sunlight look like something like this:
+.
+They show that for basic geometric analyses, the sun's radiation can be thought of as 'thin lines' that strike earth. Further, at an equinox, those rays strike hit the horizon of every point on earth (except the poles) directly from the east. So, the diameter for the earth does not matter at all it terms of the angle at which the rays strike.
+I'm curious - how far will this conceptual frame take me? What is a better way to conceptualize how the sun's light strikes the earth?

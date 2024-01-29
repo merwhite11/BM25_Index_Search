@@ -1,0 +1,3 @@
+Why Do Planets Revolve Faster When they Are Closer to Their Parent Star?
+
+According to Kepler's second law: A planet sweeps out equal areas in equal times (A simple definition). This means that if the orbit is somewhat eccentric, the planet will move faster when on the closest approach to it's parent star, and slowest when at aphelion. So why does this happen, is the curvature of space-time greater closer to the star?

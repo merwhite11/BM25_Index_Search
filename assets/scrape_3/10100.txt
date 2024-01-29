@@ -1,0 +1,4 @@
+Who discovered what set of factors is responsible for visibility of celestial bodies on Earth's daytime sky?
+
+Visibility of a celestial body on the sky during the day depends on a number of factors - if I recall correctly: the body's magnitude, Seeing, Sky brightness, and probably some others I have missed.
+Who was the first to discover/compile the set of variables responsible for determining, whether a celestial body remains visible with naked eye in certain (daylight) conditions?

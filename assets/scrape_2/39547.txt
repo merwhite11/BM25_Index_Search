@@ -1,0 +1,4 @@
+Photometry extinction correction magnitude
+
+I am learning photometry and I am wondering is the uncorrected extinction instrumental magnitude always less than the corrected extinction instrumental magnitude when applying transformation coefficients?
+For example suppose the uncorrected extinction instrumental magnitude is $m^A_V = 10.00,$ will the corrected extinction instrumental magnitude always be greater than $10$?

@@ -1,0 +1,4 @@
+How do you calculate the the z component of the vector that describes the position of L1, L2, L3, L4 and L5 (lagrange points)
+
+I'm using this resource (will download a .pdf) to calculate the positions of all the Lagrange points in a 2-body system, but it's only concerned with the x and y components of their position vectors (2D treatment of the problem, in other words), but reality is made up of three dimensions and I would like to capture that. In the case of most of the planets I guess Z is pretty close to the ecliptic plane, but for bodies with inclined orbits like Eris, I guess that is not a good approximation.
+Could somebody tell me how to calculate the z component of the vector that describes the positions of all the Lagrange points?

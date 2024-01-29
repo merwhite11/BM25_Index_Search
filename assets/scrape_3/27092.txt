@@ -1,0 +1,6 @@
+Determine full Moon position into sky from Sun position
+
+Soon a lunar eclipse will take place soon.
+I'm not sure if I will be able to see the moon during the eclipse (from 9:30 PM to 11:00 PM), because, I have some building, mountains... in my field of view.
+So, I wonder:
+On lunar eclipes, will the Moon position at 9:30 PM be the same than the Sun position at 9:30 AM ?

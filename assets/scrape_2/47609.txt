@@ -1,0 +1,9 @@
+Using Kepler's 3rd law to calculate $\mu$ (standard gravitational parameter)
+
+I'm trying to calculate $\mu$ (the standard gravitational parameter) with this formula
+$\mu = 4\pi^2a^3/T^2$
+I'm using Earth's orbit is $a=1$ and $T = 365.2564$
+for $a^3/T^2$ I'm getting $\approx7.496$ and I've looked that up and know that it's right.
+When I multiply it by $4\pi^2$ I'm getting $0.0002959130157235706$
+but from what I've read I should be getting $ 1.32712440018$
+I suspect I'm ending up with the wrong units, but I haven't had any luck trying to figure that out.

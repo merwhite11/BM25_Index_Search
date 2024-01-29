@@ -1,0 +1,4 @@
+Determining Stellar Activity
+
+I've been into exoplanets and the search for life for a few years now, but I'm still very much an amateur. The basics are fairly easy: habitable zone adjusted for planet/moon mass, no brown dwarves (for heat), no giants, PROBABLY no subgiants? But one thing I still struggle with is solar activity.
+If a star isn't labelled as a flare star, how do I determine whether it's 'quiet' enough for life? As far as I'm aware, there's metallicity (high metallicity likely means more activity), and the age of the star (Booth, R.S et al, 2017), but both are rough guesses.

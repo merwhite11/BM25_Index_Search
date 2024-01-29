@@ -1,0 +1,15 @@
+Spectrum features of main sequence and giant stars with the same spectral type
+
+
+Hence, the spectral features of the supergiant are different from those of the Sun-in accordance with the Saha equation- even though both stars are essentially at the same temperature. The pressure effect is somewhat less important than the temperature effect for it appears in the equation only linearly, whereas the temperature enters exponentially.
+A giant will exhibit almost the same spectrum as does a main-sequence star of the same spectral type, as long as the giant's surface temperature is lowered slightly to compensate for its lower electron density. Even in this case, however, the spectral of the giant will be sharper than those of main sequence star because the giant’s features suffer much less pressure broadening.
+
+According to Zeilik's astronomy and astrophysics book, spectrum features vary by electron density even at the same temperature. And even if it has the same spectral type, the spectral lines of giant stars come out narrower.
+
+If the spectral type is the same, does that mean that the spectral features are the same? Then, why is there a difference in the strength of the line?  Does it mean that even if the spectral type is the same, the features are different?
+
+What do spectral features include? I don't know the exact meaning.
+
+
+How can red supergiants be cooler than dwarfs of the same spectral type?
+I looked up what features mean in the link above, but I'm confused.

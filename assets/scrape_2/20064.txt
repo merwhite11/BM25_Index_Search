@@ -1,0 +1,9 @@
+What does Gauss' divergence theorem say about compression of a body under self-gravitation?
+
+Below this question there is a comment that caught my interest:
+
+First, there's a misconception. Compressing a body does not increase the force of gravity on outer-lying masses. That's Gauss's famous divergence theorem.
+
+I understand that one can use the divergence theorem to address (derive) the shell theorem - one consequence of quick is that a particle inside a spherically symmetric shell experiences no net gravitational force from the shell, but this seems different as it refers changes in average density of a body and gravitational forces on outer-lying masses.
+So I'd like to understand better: What does Gauss' divergence theorem say about compression of a body under self-gravitation?
+For reference, this answer covers the shell theorem nicely.

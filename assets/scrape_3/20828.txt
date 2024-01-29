@@ -1,0 +1,5 @@
+What affects the evolution curve of a star's luminosity as a function of time?
+
+Take a star of a given mass (say $1.0\ \mathrm{M_{\odot}}$ or $1.1\ \mathrm{M_{\odot}}$), what affects the star's luminosity as a function of time and how much? (metallicity?, rotation?)
+It seems to me that stellar evolution is basically set by the laws of physics; if we know certain parameters (e.g., mass). Of course, that's the trick since we can't directly measure the mass of a star with no companion(s).
+I have run across a few issues with published values being in conflict. For example, this study gives the age of Zeta Tucanae as being about $2.1-3.8\ \mathrm{Gyr}$. However, mass/radius/luminosity is given as 0.99/1.08/1.26 relative to sun (Wikipedia sources). If you look at an evolutionary plot of the Sun something is wrong here. (I'm guessing mass.) By the way [Fe/H] is given as -0.18.

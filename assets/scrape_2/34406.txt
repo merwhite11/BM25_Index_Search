@@ -1,0 +1,3 @@
+Optics: "Airy disc" and size of objects
+
+Jupiter has a minimum brightness that is brighter than stars. Is the reason an “airy disc”, concentric rings as a diffraction effect, is seen around stars and not Jupiter because Jupiter has an angular size that is thousands of times larger? With similar reasoning, if the field of view was scaled up a thousand fold, would the optical effects be similar to that around stars?

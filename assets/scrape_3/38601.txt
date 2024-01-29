@@ -1,0 +1,7 @@
+How to calculate the point on the globe with maximum magnitude with given Besselian elements and given time for a partial solar eclipse?
+
+I am currently working on improvement of an Android app that calculates solar eclipses. For many days now I have not been able to solve a mathematical problem concerning solar eclipses, so I decided to try to ask for help.
+I am working with the book "Elements of solar eclipses 1951-2200" by Jean Meeus. Calculating the central line of an eclipse from given Besselian elements already works good, so I am able to calculate the path of the central line of total and annular eclipses and the curves of equal magnitude.
+My problem now is that Meeus only describes the calculation of the central line, so for a given time, that means for given Besselian elements I can calculate the corresponding point of the central line on the globe. Using these algorithms I can not calculate the line of maximum magnitude for partial phases of total and annular eclipses or for partial eclipses. So my question is:
+How can I calculate latitude and longitude of the point on the globe with maximum magnitude with given Besselian elements for a time when eclipse is partial, that means, when no central line exists. As far as I understand the problem, this should be the point on the globe that is nearest to the shadow axis, which in the case of a partial eclipse or partial phase of an eclipse does not intersect the globe.
+I would very much appreciate any help.

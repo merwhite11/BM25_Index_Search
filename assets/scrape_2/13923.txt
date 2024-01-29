@@ -1,0 +1,4 @@
+What is the schedule for science runs of aLIGO (and VIRGO)?
+
+Advanced LIGO seems to operate only intermittently. Is there a schedule for at what times it will be able to register new gravity waves? Even if no formal schedule is available, what main factors determine the scheduling?
+I suppose VIRGO in Italy, to get started in 2016, will operate mostly simultaneously with aLIGO. Or would its design require another type of schedule?

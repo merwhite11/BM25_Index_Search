@@ -1,0 +1,4 @@
+Can a Ritchey–Chrétien telescope be collimated using a standard Newtonian laser collimator?
+
+Is it possible to use a standard Newtonian laser collimator, such as this one to collimate an RCT?
+If so, is the procedure any different than collimating a Newtonian (i.e. make the laser go into the hole by adjusting the mirrors)?

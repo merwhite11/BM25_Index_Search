@@ -1,0 +1,7 @@
+What fraction of the time is EM-L2 in darkness on average?
+
+This answer to the question How wide is the Moon's umbra and penumbra at EM-L2? calculates the widths of the umbra and penumbra at a distance from the Moon equal to the distance from EM-L2 from lunacenter. 
+However, EM-L2 spends most of its time in direct sunlight because the Earth-Moon line rarely coincides with the Sun-Earth line.
+Taking into account the inclination difference between the Earth's orbital plane and that of the Moon as well as the size of the umbra, roughly what fraction of the time is EM-L2 in total solar eclipse — within the Moon's umbra?
+
+Source

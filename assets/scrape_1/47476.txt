@@ -1,0 +1,10 @@
+At what time of the day of autumnal equinox the Sun's equatorial coordinates reach max value?
+
+I'm trying to solve this task:
+
+At what point in time of autumnal equinox day, at sunrise or sunset will
+a) the declination of the Sun
+b) the right ascension of the Sun
+reach the maximum value?
+
+I'm not really sure how they change during the day and how it differs on the autumnal equinox day. Any ideas?

@@ -1,0 +1,3 @@
+Is there a metallicity threshold past which star formation is impossible?
+
+I've learned that metallicity is a very important factor to consider when talking about a star's formation and lifecycle. That gets me wondering whether a high enough metallicity could prevent the formation of proper stars altogether. Would it happen when the metallicity is so high that the hydrogen concentration isn't high enough to initiate a self-sustaining fusion reaction?

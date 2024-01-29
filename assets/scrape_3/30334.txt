@@ -1,0 +1,6 @@
+Why not us interferometry to take a picture of Pluto?
+
+Interferometry is among the best ways (if not, the best way!) to have an image of a very distant object.
+Recently a picture of the black hole at the center of M87 was released. It is the result of several data collected by the Event Horizon Telescope, a series of arrays all across our world, working as one like a giant Earth sized telescope. The picture is not really cutting edge and high definition however it is still very surprising and in a way detailed enough, considering the fact that M87 is 53.49 million light years away... and this is where I arrive to Pluto which is just around 6 to 7 billion kilometers from us.
+If we used an interferometer, perhaps the same size as the EHT (or just a smaller one, the size of an entire continent), and point all the arrays at Pluto, then we should have a picture with a resolution that is at least higher as the Hubble Space Telescope, but likely not as high as the pictures from the New Horizons spacecraft which directly made a fly by of Pluto... right?
+If so then why don't we use interferometry to take pictures of Pluto from Earth?

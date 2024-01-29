@@ -1,0 +1,4 @@
+Meaning of $\cos H$ in the rising and setting formula
+
+In the rising and setting formula$$\cos H=-\frac{\left(\sin\nu+\sin\phi\sin\delta\right)}{\cos\phi\cos\delta},$$ $H$ is hour angle, $\nu$ is vertical shift, $\delta$ is declination and $\phi$ is the observer's latitude. If $\cos H>1$,the object never rises; if $\cos H<-1$, the object never sets. My question is why does $H$ not having a solution in the above formula imply an object either never rises or never sets?
+A little background. I understand the derivation of the above formula. It's a variation of $$\cos H=\frac{\sin a-\sin\delta\sin\phi}{\cos\delta\cos\phi},$$ where $a$ is altitude, and $\nu=-a$. The derivation was explained nicely by @HDE 226868 in the answer to this question. According to the diagram in that answer, no solution for $H$ implies some sort of failure of the spherical triangle PZX. But I can't visualise what such a failure actually means. Can anyone help? Thanks

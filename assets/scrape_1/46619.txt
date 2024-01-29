@@ -1,0 +1,12 @@
+How far can a star's visual colour deviate from black body radiation?
+
+The primary driver of a star's colour is its temperature, by way of black-body radiation.
+
+Black body radiation restricts stellar colour to a narrow slice of the full RGB spectrum.
+However, all stars have emission and absorption spectra that result in a small deviation from idealised black-body radiation, as can be seen below in the Sun's spectrum compared to an idealised 5777 K blackbody spectrum.
+
+(All images from wikimedia commons)
+There are some mentions in Wikipedia articles of unusual coloured stars. For instance, Mu Cephei is otherwise known as Herschel's Garnet Star, and Carbon stars are described as being 'ruby red'.
+It is unclear to me if this is poetic license or that these stars do indeed have a redness to them that lies outside the bounds of the normal blackbody radiation line.
+It stands to reason that certain absorption and emission lines, if strong enough, would alter the colour of a star to a perceivable extent.
+How far could a star's visual colour deviate from the black body axis as depicted in the first picture?

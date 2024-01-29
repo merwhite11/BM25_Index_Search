@@ -1,0 +1,4 @@
+How many photons does it take to determine the existence of a distant object?
+
+This applies to any object, but I see the recent discovery of the oldest, most distant galaxy and it started me wondering what the limits are. Presumably you can do better with a bigger telescope and longer exposure, but I'm curious about literally how many photons you need to collect to decide whether or not something is actually there. And then presumably you need a bunch more to determine its red-shift and angular size and rotation etc.  
+I have absolutely no feel for these numbers.  Is it tens of photons or a millions of photons?

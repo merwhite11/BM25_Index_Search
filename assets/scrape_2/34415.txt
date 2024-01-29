@@ -1,0 +1,3 @@
+Data for spectrum of Wolf-Rayet stars
+
+I'm looking for a way to access the data used to produce these plots for instance. These plots show the spectrum of various Wolf-Rayet stars. I found a few websites where you have some informations on those stars here for instance, but I'm not able to find and download a file containing the spectrum data of the stars.

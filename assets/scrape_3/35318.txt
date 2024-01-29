@@ -1,0 +1,4 @@
+What star is the closest to Betelgeuse?
+
+Based on this answer, I should be able to figure out this question, if I know the distance between Betelgeuse and its nearest neighbor. So what is Betelgeuse's nearest neighbor? 
+I do mean the nearest neighbor in 3D space, not in the plane of the sky. Since Betelgeuse is fairly close to the Sun, I'm guessing we should know its neighborhood with a pretty good precision.

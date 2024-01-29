@@ -1,0 +1,11 @@
+What are the minimum variables that determines the orbital velocity of a planet?
+
+I will try and be brief with this. I want to model a star system in a programming language. It has been a very long time since I did physics.
+This says that planets have a speed given to them by the dust and gas that were orbiting the star, but I don't understand how that gas and dust get their orbital velocity. This will play a role in my following observation.
+At first I thought "okay I just need $m$, $M$, and $r$ (since $G$ is a constant that we know). But do I need $m_v$?"
+If we assume for the sake of simplicity that we have a system that is 2D, that there's only the central star and an orbiting planet and nothing else in the universe, and both masses have zero velocity/acceleration, then I figure the planet and star would just fall towards each other using Newton's Universal Law of Gravitation, and that simulation would end that quickly.
+This means that an initial velocity is important for the planet, because like satellites that orbit Earth, we need some kind of velocity to keep them up as the pull of gravity allows the satellite to maintain its orbit if it's going fast enough.
+Does this mean I would need $m$, $M$, $G$, $r$, and some $m_v$, and then I could run a basic simulation?
+Or are there more things that I need?
+There are Kepler's Laws which I could use, but I don't know if they require an acceleration like $m_a$ as well and I've got 7 variables now that I must start off with, or if that is something else that I need.
+But this raises another question, what gives the dust and gas for a proto-star it's orbital speed? How do I know that whatever causes that movement is not something that starts the orbit of a planet in some star system? Because if that is the case, then maybe I don't need an $m_v$ or $m_a$ after all. Problem is, I don't know.

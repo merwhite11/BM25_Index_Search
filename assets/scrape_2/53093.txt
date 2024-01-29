@@ -1,0 +1,14 @@
+What equation tells you how far in space you can go from a point and return?
+
+We know that hubble expansion increases the distance between points in space, and that the cosmological event horizon represents the distance from the observer at which objects are receding faster than the speed of light. We also know that objects at a given proper distance recede over time, and thus traveling toward them will result in the traveler arriving at a point further away than the object's original distance due to the expansion which occurred in the time it took for the traveler to catch up to it.
+So is there an equation by which one can know (for a receding object's given proper distance in Giga-lightyears and a traveler's velocity in c) if:
+
+a traveler can arrive at an object within a finite amount of time
+
+the object will still be inside of the takeoff point's cosmological event horizon when the traveler arrives
+
+a round trip at the original approach velocity could occur within a finite amount of time
+
+
+In order of importance - 2, 3, 1.
+Of less pressing importance, but still of some interest to me would be an equation which could yield how long it would take a traveler to arrive at a distant object receding due to hubble expansion when traveling at some fraction of c.

@@ -1,0 +1,5 @@
+How come the Sun does not make the Moon crash on the Earth?
+
+As the Moon loops around the Earth, on one side of the Earth it moves toward the Sun (let's call it downward side) and on the other side it moves away from the Sun (let's call it the upward side).
+Now, I imagine the Sun's gravity attraction accelerate the Moon on the downward side and slows it on the upward side. This should raise the Moon's apoapsis on the upward side and lowers its periapsis on the downward side, gradually putting the Moon on a collision course with Earth.
+Yet, this does not happen. I am curious to understand why. I suppose even a very very slim effect should build up upon billions of years, so is there a fault in my reasoning or some tidal effect correcting the Moon's trajectory?

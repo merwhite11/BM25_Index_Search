@@ -1,0 +1,8 @@
+Approximating density of hydrogen in [observable] universe
+
+Let universe be completely made from hydrogen. And also we have redshift $z= 6$. with Hubble constant $H_{0} = 2.1941747572815535\times 10^{-18}\:\mathrm{s}^{-1}$. We also know that density of the universe $\rho =\frac{3H^2}{8\pi G}$ ($G= 6.67\times 10^{-11}\:\mathrm{m^3\ kg^{-1}\ s^{-2}}$).
+Is the following approach right to find the number density of hydrogen in universe?
+First we calculate density $\rho =\frac{3H^2}{8\pi G}$, then we have
+$1+z = \sqrt{\frac{1+v/c}{1-v/c}}$. From that we get $v = H\times R$ and from this we calculate $R$, the radius of observable universe. With that, we calculate volume of universe $V = (4\pi/3)R^3$ and we get Mass $M=\rho V$. Then we calculate number of Hydrogen atoms with $N = M/m_{\mathrm{hydrogen}}$. Now we have number density of hydrogen $\rho = N/V$.
+Is this solution right? Or we must solve it another way?
+The source of question is National Olympiad of Iran which is not available in English so the above is my translation for the question.

@@ -1,0 +1,11 @@
+Does a rotating moon experience greater tidal heating than a tidally locked equivalent?
+
+Tidal heating of a tidally locked moon is relatively straight forward to calculate, even though details of its internal structure is hard to work out in the first place.
+By contrast, tidal heating due to tides of a rotating body is much more involved.
+
+These two processes aren't completely equivalent. For instance, for a tidally locked body, the heating depends on the eccentricity, with no heating at zero eccentricity. By contrast, a rotating body can very much experience tidal heating even when in a completely circular orbit.
+As a naive assumption, a rotating body will still receive heating from the deformation caused by an eccentric orbit, with some additional heat added through the periodic deformation caused by the rotation. As such, a rotating body will always receive more heat than a non-rotating one.
+Which has the obvious use case that one can obtain a lower bound for the tidal heating through a simple calculation.
+But is this assumption anywhere close to the truth?
+
+Or, to put it in another way, two scenarios of moons in identical orbits. One tidally locked and the other not, which experience more tidal heating?

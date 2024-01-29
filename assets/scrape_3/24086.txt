@@ -1,0 +1,3 @@
+Change In Direction of Asteroid Approaching Sun
+
+A perfectly spherical asteroid on a straight line trajectory with no rotational movement at all, enters the gravitational field of the sun (from elsewhere far far away). When it exits on its hyperbolic path, does it still point in the same direction it entered, or does it rotate to face the direction of travel?

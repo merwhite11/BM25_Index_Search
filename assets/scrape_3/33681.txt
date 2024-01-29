@@ -1,0 +1,8 @@
+Which are stars and which are noise in this comet photo?
+
+The Forbes news article NASA's Hubble Telescope Snaps Best Images Yet Of Our First Interstellar Comet shows the image below (which I have since annotated) of comet 2I/Borisov (C/2019 Q4) and links to this series of Hubble images: https://archive.stsci.edu/proposal_search.php?mission=hst&id=16009
+Looking through the previews of those images, they all seem to have streaks of similar length and direction, so I am assuming that the telescope is tracking the comet's motion in each exposure and the streaks are stars, suggesting that all the small dots are noise and not stars.
+
+Is that right?
+Is the fuzzy one an extended object?
+What causes so many isolated pixels to be so much brighter than the background? Is this just the tail of a statistical distribution of shot noise, or are there other mechanisms that can produce single pixel noise many standard deviations above  the statistical shot noise distribution?

@@ -1,0 +1,4 @@
+how does redshift prove expansion is accelerating?
+
+My astronomy teachers never would answer this for me... Redshift obviously indicates an object (such as another galaxy) is moving away, but how do we know its acceleration from this? It's my understanding that the instantaneous redshift of an object is an indicator solely of its instantaneous velocity, and we have certainly not been observing redshift long enough to compare and determine a change in velocity
+If you can, please avoid using complex math in your answer.

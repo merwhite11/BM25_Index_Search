@@ -1,0 +1,3 @@
+How to get ellipticities of galaxies from SDSS using casjobs?
+
+How to get ellipticities of a list of random galaxies. I saw few programs written in SQL and they were only giving stokes parameters and isophotes values for ONE galaxy(for which we input the ObjID). I am not familiar with syntax of SQL. Is there any method to put the objid in a loop so that the program generates stoke parameters values for a list of galaxies?

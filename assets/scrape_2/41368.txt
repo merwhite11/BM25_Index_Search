@@ -1,0 +1,20 @@
+Effect of particulates on the visibility of stars?
+
+I am looking for a (mathematical) relationship - either empirical or theoretical - which quantifies how the visibility of celestrial objects decreases with increasing amount of particulates in the air. I would be already happy if somebody knows such a relationship for the atmospheric light attenuation effects of black carbon or soot. Those two are actually not the same as Alfred Wiedensohler from the Leibniz Institute for Tropospheric Research points out in a presentation on the topic:
+
+Soot is carbon particles resulting from the incomplete combustion of hydrocarbons. Soot contains polycyclic aromatic hydrocarbons (PAHs) and heavy metals. Black carbon (BC) itself is neither a toxic nor a carcinogen.
+
+What I expect (but I am happy to be proven wrong) is that I am actually after the three constants in the following expression:
+$$ f_{\rm attenuation}(d) =  \frac{1}{k_c + k_l \cdot d + k_q \cdot d^2}$$
+In this formula, $d$ is the distance between the light source and the observers, so in our case it would be the height of Earth's atmosphere (if we assume homogenous distribution of soot/ BC over the air column).
+$k_c$ is called the constant attenuation factor, $k_l$ is the linear attenuation factor, and $k_q$ stands for quadratic attenuation factor.
+Such an expression would already be very helpful, but if there is science on the overall effect of particulates, that would be much cooler. I am dreaming of having a formula for visible magnitude of stars with naked eye in dependence of particulate concentration (for ideal, pitch-black nights without clouds).
+Background
+My question is inspired by What effect do aircraft have on night-time visibility? which does not have an answer yet.
+I am aware that in the physical oceanography and in marine biology, there are extensive studies on light attenuation due to BC or other dissolved substances in water, and most search results are on that.
+References and related questions
+
+C.Liousse, H.Cachier, S.G.Jennings: Optical and thermal measurements of black carbon aerosol content in different environments: Variation of the specific attenuation cross-section (1993)
+H. Horovath: Atmospheric light absorption — A review
+(1993)
+ESA on Desert dust plume over the Atlantic observed by Aeolus and Sentinel-5P

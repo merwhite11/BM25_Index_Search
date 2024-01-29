@@ -1,0 +1,4 @@
+What is the brightest star (by absolute magnitude) that we can see by naked eye?
+
+Is it Rho Cassiopeiae or Mu Sagittarii?
+I see in the Stellarium 0.13.0 that Mu Sagittarii has absolute magnitude -11.43!!

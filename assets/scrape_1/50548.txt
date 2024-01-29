@@ -1,0 +1,3 @@
+How is the potential-density pair relation derived?
+
+How can it be shown that $$\nabla^2\phi = 4\pi G \rho(\vec{r})$$ ?

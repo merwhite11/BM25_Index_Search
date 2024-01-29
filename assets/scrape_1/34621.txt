@@ -1,0 +1,11 @@
+how to calculate the half-mass radius and tidal radius of a (simulated) globular cluster
+
+I am exploring a dataset of a direct N-body simulation of a star cluster, such that all particles have the same mass and
+
+G = M = −4E = 1
+
+for the whole cluster. The data available is the positions and velocities of all stars (at certain snapshots of the simulation).
+I'd like to be able to calculate some basic characteristics of the cluster. First I did the center of mass (which is just the mean of all coordinates since all masses are equal), but I am not sure how to proceed for these two:
+
+The half mass radius - I can't seem to find an established (i.e. most efficient) way to calculate this. My first idea is to use a bisection method with the center of mass and the total radius as starting points, and do window queries with a spherical envelope until it contains half the stars. Is there something more efficient than that?
+The tidal radius - what I've found so far always involves variables drawn from the galaxy the cluster is in (like the total mass of the galaxy and so on). However, this being a simulation, there is no such data. Yet the dataset states that some stars escape the cluster over the length of the simulation... I must be missing something here

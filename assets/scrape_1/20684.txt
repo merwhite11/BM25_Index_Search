@@ -1,0 +1,4 @@
+Are there more images with different filters available for the April 6 Hubble image of Jupiter?
+
+This recent HST image of Jupiter near opposition is described here and here and was made under HST proposal 14756. It was taken with WFC3/UVIS. It is made from three images using narrow-band filters at 395, 502, and 631 nanometers. 
+I am wondering if there were additional images recorded with filters at other wavelengths. If so, how could I go about finding them?

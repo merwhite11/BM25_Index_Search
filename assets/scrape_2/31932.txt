@@ -1,0 +1,4 @@
+Relationship between Periapsis and apoapsis longitude
+
+What is the relationship between Periapsis and Apoapsis longitude ? Are they 180° apart ? (ie) Periapsis + 180° = Apoapsis ? 
+Related question: if apoapsis is not known, what orbital elements are required to compute it ?

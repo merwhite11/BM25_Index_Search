@@ -1,0 +1,9 @@
+Python with image in fits format
+
+I'm trying to write a Python program that will do the following: take an image in fits format and a reg file with a list of regions in the sky, and determine which regions in the list are inside the fits image and which ones are outside. This can be done visually with ds9, but I have no idea of how I can access the fits file and determine the coordinates of the boundary of the image. 
+Any advice? I don't know much about the fits format, but it won't open with a usual text editor like gedit.
+Edit: Now I have a more specific problem. I have four points in the sky defined by their declination and right ascension. Is there a simple way to check if these coordinates belong to the image coded in the fits file? 
+Edit 2: This is what I see as the header of my fits file:
+
+I'm no expert in physics, just a mathematician, so I'm not sure how to proceed from here. Any help would be appreciated...
+Edit 3: Something seems to change when I put the terminal in full screen mode. Is there any useful info here?

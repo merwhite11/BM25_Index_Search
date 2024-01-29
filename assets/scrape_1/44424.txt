@@ -1,0 +1,4 @@
+How do the stars in the near-infrared (NIR) radiate?
+
+Let's say we are studying the integrated near-infrared (NIR) light of a distant spiral galaxy. We would expect most of this light to be dominated by red giants stars and dwarfs. I assumed these stars would radiate thermally but a source online states only the mid (MIR) and far (FIR) infrared radiate thermally. Can anyone clarify how objects in the NIR radiate? I would think it would be blackbody radiation but perhaps I am wrong.
+Source

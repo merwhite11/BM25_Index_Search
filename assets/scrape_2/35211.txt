@@ -1,0 +1,13 @@
+Up to 384 minor planets (including Pluto) qualify as planets?
+
+In 2006, the International Astronomical Union redefined the definition of planet in order to exclude Pluto, Eris, and several other objects whose category was disputed. This new definition of a planet featured 3 criteria:
+
+A planet must be massive enough to achieve hydrostatic equilibrum and
+become ellipsoidal. 
+A planet must orbit a star or brown dwarf (with the exception of planemo).
+A planet must be massive enough to clear any nearby objects.
+
+Pluto and the other objects apparently failed to meet the 3rd criteria, as they had not cleared the nearby Kuiper belt objects, so they were reclassified under the term "dwarf planets".
+But what if Pluto actually has met the third criteria? It's probably well-known by now that Pluto has 5 moons. The largest moon Charon is over half the size of  Pluto, and is frequently classed as a dwarf planet in its own right. The other 4 minor moons Nix, Styx, Hydra, and Kerberos, are much smaller then Charon, and are similar to the many asteroid-like moons found around gas planets. 
+The leading theory for how these smaller moons formed is that they are leftover debris from a collision between Pluto and another object, but it's just as likely that they were Kuiper belt objects that were captured by Pluto (just like the moons of Jupiter and Saturn). If they were captured, this means that Pluto has technically cleared 4 objects from its neighborhood, and so it meets the 3rd criteria. 
+The same logic can be applied to Eris, 2007 OR10, and the 400 other dwarf planets known to host moons. So should we have 392 planets, keep the current definition, or scrap or redefine the term "planet" entirely?

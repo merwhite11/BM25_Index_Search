@@ -1,0 +1,3 @@
+How to calculate the altitude of the Moon?
+
+With the known latitude coordinate of the observing position, how to find the altitude of the moon when it is high, i.e when it crosses the local meridian?

@@ -1,0 +1,5 @@
+How can the oblateness of Earth impart torque to change the longitude of ascending node of a satellite?
+
+I've read that you can change the longitude of ascending node of a satellite (i.e. changing the orbital plane without changing the inclination) to change its orbital plane by using the torque imparted by the oblateness of Earth. How does this happen exactly? I mean how does the oblateness of Earth cause a torque induced precession of a satellite?
+PS. I think I don't understand how torque induced precession works and that's why I am not able to understand this. So if any of you kind gentlefolk are willing to explain, I thank you in advance.
+EDIT: I just came across Nodal Precession. And from what I understood that due to Earth's equatorial bulge, the gravitational force vector is offset from its center, thus producing torque. I can visualize how the longitude of ascending node will change, but can't visualise how will the change in the torque caused by slightly offset gravitational force vector will cause it.

@@ -1,0 +1,5 @@
+different corresponding coefficients in formulae for a mean element
+
+why do they take λ₁ = 1 295 977 422.834 29ʺ from subsection 5.8.3.¹ (mean elements referred to the mean dynamical ecliptic and equinox J2000), and not λ₁ = 1 296 027 711.034 29ʺ from subsection 5.9.3.¹ (mean elements referred to the mean dynamical ecliptic and equinox of date), when they obtain the sidereal year of the Earth from its mean longitude at t = 0?
+
+Numerical Expressions for Precession Formulae And Mean Elements for the Moon And the Planets (Simon et al., 1994)

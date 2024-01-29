@@ -1,0 +1,15 @@
+How does the Sun orbit the Sun-Jupiter Barycenter?
+
+I got the Orbital Elements of Jupiter around the Sun, which describe how it orbits relative to the "fix" Sun.
+Jupiter
+Semi Major Axis (AU): 5.20336301
+Eccentricity: 0.04839266
+Inclination to Ecliptic Plane (deg): 1.30530
+Longitude of the Ascending Node (deg): 100.55615
+Longitude of Perihelion (deg): 14.75385
+Mean Anomaly at J2000.0 (deg): 19.65053
+I want to convert this One-Body Problem back into the Two-Body Problem to find out where the Sun is gonna be at a given time (i couldnt find the Orbital Elemens of Sun around Sun-Jupiter Barycenter).
+
+So the Semi-Major Axis depends on the Mass Ratio. The Eccentricity and Inclination should be equal for both, just like Longitude of the Ascending Node. The Longitude of Perihelion should be the one from Jupiter+180°, doesnt it?
+The main Problem is the Mean Anomaly at J2000.0. The two Ellipses are equal, besides of the Size. Thus, the True Anomaly at a given time should be the same for Each Coordinate System. Then the eccentric Anomaly will be the same too. Does that mean the Mean Anomaly for J2000.0 will be also the same for both?
+Thanks for reading and sunny greetings!!

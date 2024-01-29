@@ -1,0 +1,5 @@
+Regions and size of an AGN
+
+In this diagram of the regions and approximate scale of an AGN:
+
+which is from this paper, what do the x and y scales log(z/pc) and log(r/pc) mean? I'm guessing z is the z-direction ('upwards') and r is radius, but what is the meaning of the pc bit?

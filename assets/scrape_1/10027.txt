@@ -1,0 +1,7 @@
+Free source of printable star charts in the format of the Millennium Star Atlas?
+
+I've been looking for sources of printable electronic star charts - there seem to be many different ones available, either as part of planetarium software or just plain charting packages. But there's such a richness of offerings that I'm having trouble figuring out which of those, if any, can produce printable charts in the format that I'm looking for.
+I like the general format of the Millennium Star Atlas - black stars on a white sky background, and with horizontal lines representing 1 degree of declination and vertical lines representing 4 minutes of RA (see sample page at http://www.skyandtelescope.com/wp-content/uploads/GD-Sept2011-Chart.pdf ).
+I'd like to be able to specify a range of RA and declination and get that chart.
+Can anyone suggest any free star chart printing software that can print similar output for any desired sector of the sky?
+I'm looking at Cartes du Ciel (http://sourceforge.net/projects/skychart/) which might have that capability, but if so, I haven't yet figured out how to enable it.

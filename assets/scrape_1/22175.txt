@@ -1,0 +1,6 @@
+Based on the smallest number of photons that can deliver information about a star, what is the largest size of the universe?
+
+I was watching a summary video about the Banach-Tarski paradox and it led me to a question.
+If I (a) assume the universe is infinite and (b) assume it is possible to receive a single photon of light from any star within it that has a line-of-site to the Earth and (c) assume that the photon has travelled an infinite distance, then such a photon, if enough information could be extracted from it, would prove the universe is infinitely large.
+Today we have finite observational and recording capabilities.  I believe (not being a physicist or astronomer myself) that we can't prove the universe is larger than some size, X, because we cannot detect lower than a particular number of photons, Y, to ascertain the distance they travelled.
+So, assuming my assumptions aren't assinine (they very well could be), and ignoring our present observational limitations, what is the smallest number of photons from which we could discern information about the distance those photons travelled, and what distance would that represent?

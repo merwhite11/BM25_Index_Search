@@ -1,0 +1,6 @@
+Measuring misalignment between two positions on sky
+
+Let's say I have the (RA,Dec) for two positions on the sky. I want to measure the position angle between these two positions. In other words, if I had the Cartesian coordinate vectors for these two positions (say [x,y,z]) then I think the position angle PA would simply be the dot product of the two vectors, so basically cos(PA). However, RA and Dec are spherical coordinates (corresponding to $\phi$ and $\theta$ respectively), not Cartesian coordinates. How do I get cos(PA) between the two positions on the sky if I only have their (RA,Dec) instead of [x,y,z]? 
+https://en.wikipedia.org/wiki/Position_angle
+
+Position angle, usually abbreviated PA, is [a] convention for measuring angles on the sky in astronomy. The International Astronomical Union defines it as the angle measured relative to the north celestial pole (NCP), turning positive into the direction of the right ascension. In the standard (non-flipped) images this is a counterclockwise measure relative to the axis into the direction of positive declination.

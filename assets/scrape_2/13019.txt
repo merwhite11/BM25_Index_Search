@@ -1,0 +1,5 @@
+Gyrochronology?
+
+I recently became aware of the work of the Kepler Cluster Study. In January of this year it was announced that a long awaited method of finding ages of "cool" stars is now available. This is huge and I'm surprised that I just found out about it. 
+I wonder if there has been a little too much "extrapolation" and that more data is needed. I also wonder if they have gotten around the fact that it is vsini that is being measured and not the actual rotation velocity.
+The bottom line is that I want to see the catalogs of updated ages based on this new information. Does anybody know of any such publications in the works? It will be interesting to compare results to ages based on metallicity.

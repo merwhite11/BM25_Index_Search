@@ -1,0 +1,6 @@
+How to calculate the orientation of planets at current epoch
+
+For an application I am working on I am creating a simulation of the solar system. In this simulation, a user needs to be able to 'move' to any position on any planet, and have the sky be accurately simulated around him.
+Using the examples & calculations provided at http://stjarnhimlen.se/comp/ppcomp.html and the data provided at https://ssd.jpl.nasa.gov/txt/aprx_pos_planets.pdf I am able to compute the POSITIONS of the planets at any date, however, what I am still looking for is the ORIENTATION of these planets at that position (i.e. which way is Long 0 Lat 0 pointing, and which way is Long 0 Lat 90 pointing (with respect to the vernal equinox)). I need this orientation in order to figure out what the rotation (quaternion) of this planet needs to be..
+I have been looking around, but have so far not been able to find a source for any kind of information like this. The closest I've found was https://en.wikipedia.org/wiki/Poles_of_astronomical_bodies , but that only gives me an up-vector, not a 'forward' (and is for J2000, not the current Epoch).
+Can anyone be of assistance?

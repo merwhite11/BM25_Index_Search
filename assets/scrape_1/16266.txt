@@ -1,0 +1,4 @@
+How do I apply a velocity shift to a wavelength array with uniform logarithmic spacing?
+
+Suppose I have a wavelength array for a spectrum in units of Angstroms. Suppose further that the wavelength has "uniform logarithmic spacing" such that if I just take the difference in Angstroms between neighboring array elements i and i+1, this won't be the same as the difference in Angstroms between any other two neighboring elements j and j+1. However, if I first took the log10 of the wavelength array, then the difference between any two neighboring logarithmic array elements i and i+1 would be equal to the difference between any other logarithmic array elements j and j+1. 
+Now, I know a priori that this wavelength array has a velocity offset of X km/s, which I basically want to remove. How do I apply a velocity shift of -X km/s to this wavelength array which has uniform logarithmic spacing?

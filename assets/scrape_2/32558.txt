@@ -1,0 +1,8 @@
+Where can I find a good solar irradiance chart for the infrared?
+
+I'm trying to understand the results of the ExoMars Trace Gas Orbiter vs the Mars Express in terms of their abilities to find methane on the surface of Mars. The solution that I'm coming to is that it might be a result of the Sun's spectra masking what is actually there. Is there a place that has a complete infrared spectra of the Sun, focusing in on the region around 3-4 um? Specifically, I'm interested in wave numbers ($cm^{-1}$) 3000-3100 or so, something with a resolution of 1 wave number. Some things that would help would be anything along the following lines, so long as they apply to the true spectra, and not the one as seen from Earth.
+
+A generally accepted solar spectra (NASA, ESA, NIST, or some other body)
+A time varying solar spectra.
+
+Thanks!

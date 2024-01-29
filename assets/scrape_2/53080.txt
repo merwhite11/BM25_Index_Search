@@ -1,0 +1,6 @@
+Goldilocks Zone Temperature Range for Habitation
+
+Is there a generally accepted Kelvin temperature range for exoplanets habitable zone.  So for example, I can look at for example, http://exoplanet.eu/catalog/toi-2134_b/ and say the planet is in the Goldilocks Temperature zone?  I don't want to know if the planet is in the zone, I want to know how to determine if the planet is in the zone.
+305k TO 311.75K (converted from Celsius) seems a little narrow but is that right?
+https://body.io/the-goldilocks-zone-too-hot-too-cold-or-just-right-part-i-muscle-thermodynamics/
+Or should I be looking at other values as well such as Semi-Major Axis ?

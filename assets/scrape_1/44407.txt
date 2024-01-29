@@ -1,0 +1,4 @@
+What is the rate of change by day for a given right ascension?
+
+I am writing a small Julia app to get my feet wet in that language.  And I want to calculate "what's up tonight" based on a table of right ascension (RA)/Dec(lination) (table of stars), a terrestrial point of the observer, and the current date/time.
+My starting point is understanding at what rate does RA change for a given Deep Sky Object (DSO), I would appreciate some guidance here.

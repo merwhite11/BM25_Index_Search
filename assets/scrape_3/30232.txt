@@ -1,0 +1,6 @@
+Does the Sun's atmosphere have a scale height?
+
+Much of the Earth's atmosphere has a scale height $h$ of roughly 7 to 8 kilometers such that the local density varies as $\exp(-(r-r_0)/h)$ where r is the radius vector and $r_0$ would be some reference radius above the surface of the Earth. 
+This works approximately, at least up to 50 km (six or seven scale heights).
+The derivation of this approximation is based on a simple gas at constant temperature, and those probably don't apply to the Sun's atmosphere very well.
+Nonetheless, are there regions of the Sun's atmosphere where density varies approximately exponentially in such a way that a scale height characterization would work over the range of at least a few scale heights?

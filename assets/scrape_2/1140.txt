@@ -1,0 +1,6 @@
+How to calculate Longitude from Right Ascension?
+
+Considering that a star of certain declination is crossing the local meridian at the observer's zenith at an unknown location on the earth. Here, the declination of the star is equal to the observer's latitude. Knowing the Right Ascension of the star, how could the observer calculate his longitude? 
+Example: The star Miaplacidus (Dec: -69° 42' and RA: 9h 13m) crossing at the observer's zenith!
+Latitude = 69° 42' S 
+[ Longitude= RA(Decimal Conversion) X 15° ... I'm not sure how to proceed from here ... ]

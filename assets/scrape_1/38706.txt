@@ -1,0 +1,13 @@
+A simple echelle spectrograph for viewing solar spectrum
+
+On the Astrosurf website here, someone has designed a deceptively simple echelle spectrograph for viewing solar spectrum. Briefly, light from an optical fiber falls on an echelle grating and which is cross dispersed with a prism.
+
+In theory, an echellogram has a range of wavelengths (free spectral range) in various orders as follows:
+
+I tried to make a crude version of this (without an optical fiber or a collimating lens) for educational purposes.
+
+With a white LED (from an iphone or simple LED flashlight, or a LED bulb) shining on the echelle at a proper angle, one can generate a pattern as follows, which looks impressive and looks like a true echellogram. Unfortunately, this success is rather short lived. The moment we use a fluorescent lamp with a slit infront, we just get repeating images, which shows that this is not an proper echellogram! Does anyone know why this is happening? A senior spectroscopist has also tried it and no matter what orientation of slit or blaze direction (against or towards), grating angle, grating orientation... the result is just a repeating image.
+Questions:
+a) Is it just because there is no collimator in our crude version? Why is an LED working and line source not? I tried collimation with a lens, but there was no improvement (repeating lines were still there).
+b) If this were a proper echellogram of a line source, such as a fluorescent bulb, one should see one purple line in first row (higher orders), two green lines, two yellow lines (Hg doublets) and a few red lines. I cannot understand why there is a repetition of the same wavelength say purple line or the two green lines?
+Thanks.

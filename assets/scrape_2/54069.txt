@@ -1,0 +1,4 @@
+How to get target_id column from GAIA DR3 basic search?
+
+When using the GAIA search through the website, the target_id column seems to pop up without any displayed column specified and disappears just as mysteriously. Does anybody know how to trigger that column to display when downloading data?
+Thank you

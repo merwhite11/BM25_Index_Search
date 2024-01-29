@@ -1,0 +1,5 @@
+How to determine arrival time delay given dispersion measure?
+
+In an online textbook, the following formula is given to calculate the arrival time delay between two frequencies, $v_1, v_2$ in a dispersed radio pulse:
+$$t_1 - t_2 = 4.15 \cdot DM [(v_1/\text{GHz})^{-2} - (v_2/\text{GHz})^{-2}]$$
+Where does the $4.15$ come from, and what exactly is “GHz”? Do I divide by 1 GHz or?

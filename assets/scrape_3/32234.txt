@@ -1,0 +1,3 @@
+evaluate solar eclipse Besselian elements?
+
+I found this NASA website which says that to predict eclipse, we should solve the Besselian elements ..what does this mean, how can I solve for Besselian elements? Is there a numerical method? I need to find the circumstance (length of eclipse etc) at a given coordinate..Sorry I am  very new to astronomy so my question might be basic..

@@ -1,0 +1,9 @@
+Having some weird issues with my tracking (Advanced VX)
+
+I need your help! I am having some weird tracking issues with my tripod (Advanced VX). When I setup and calibrated my scope yesterday I took this picture of NGC6888 (90s exposure): 
+As you can see this image looks quite good tracking wise. 
+However due to unknown reasons it seems that 1 in 3 images is always bad and has tracking issues, like this one: 
+This movement always occours in the same direction, it seems that for some reason one axis of the mount is moving faster periodically, causing these tracking issues.
+Funny is that is seems to be occouring periodically. I always get 4 images good, 2 images bad, 4 images good, 2 images bad, ...
+I tried fiddeling around with the anti-backlash settings (I never touched them before) but that didnt fix it. My current anti-backlash settings are: RA +- 55, Dec +- 60
+Does anyone know where those tracking issues could come from and how to fix them? Note I also have a 5s mirror-lock so it should not come from vibrations of the camera.

@@ -1,0 +1,6 @@
+Uncertainities of orbital elements queried from JPL Horizons
+
+I'm trying to retrieve the orbital elements' uncertainities for asteroids queried from NASA JPL Horizons. However I'm not able to find them in the query fields returned in python. Nor am I able to find any reference to individual uncertainites of respective orbital elements in the Horizons website. The desired uncertainites are to be used later to populate a clone of particles for an orbital integration simulation.
+This seems to be straightforward, but I'm probably missing something.
+Any ideas and help highly appreciated.
+Thanks !

@@ -1,0 +1,8 @@
+Can't read documentation in pow, launched form fv: Error: can't read "env(POW_HELPDIR)": no such variable
+
+I'm launching the pow tool from fv version 5.5, installed via apt on Ubuntu 20.04.
+It is part of HEASoft's FITS software suite.
+I click on the menu Help/About and I get this error message:
+Error: can't read "env(POW_HELPDIR)": no such variable
+
+How can I get to the help files?

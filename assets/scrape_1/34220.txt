@@ -1,0 +1,6 @@
+Why does the Supernova 2006cm give a very different value for the Hubble constant? Why doesn't it increase error bars for the Hubble constant?
+
+The Supernova 2006cm has a redshift of 0.0153 which translates into a recession speed of 4600 km/s. 
+It has a distance modulus of 34.71 which translates into a luminosity distance of 87 Mpc.
+This gives a value of 53 km/s/Mpc for the Hubble constant.
+Why doesn't this anomalous observation create sufficient doubt in the value of the Hubble constant?

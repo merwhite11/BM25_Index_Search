@@ -1,0 +1,17 @@
+Finding the Laplacian of the deflection potential: I obtain 4(⃗ ), not 2(⃗ ). Why am I wrong?
+
+
+From the review paper Bartelmann and schneider, 1999) Weak Gravitational Lensing, page 48.
+
+Like above, the Laplacian of the deflection function is convergence, $\kappa(\vec{\theta})$.
+I tried to derive this below, but I obtain 4$\kappa(\vec{\theta})$, not 2$\kappa(\vec{\theta})$.
+Why am I wrong?
+--Solution process--
+Using $ \nabla^2\frac{\vec\theta-\vec\theta'}{\mid\vec\theta-\vec\theta'\mid^2}=4\pi\delta(\vec{r})$,
+$\nabla^2\psi(\vec\theta)=\vec\nabla\cdot\vec\alpha(\vec\theta)=\frac{1}{\pi}\int_{\mathbb{R}^2}d^2\theta'\kappa(\vec\theta')\vec\nabla\frac{\vec\theta-\vec\theta'}{\mid\vec\theta-\vec\theta'\mid^2}=\frac{1}{\pi}\int_V[\kappa(\vec\theta')\nabla^2\frac{\vec\theta-\vec\theta'}{\mid\vec\theta-\vec\theta'\mid^2}]dV$
+$=\frac{1}{\pi}\int_V[\kappa(\vec\theta')4\pi\delta(\vec\theta-\vec\theta')]dV=\frac{1}{\pi}\kappa(\vec\theta)4\pi=4\kappa(\vec\theta)$
+($\nabla^2 = \frac{\partial^2}{\partial^2 x} +\frac{\partial^2}{\partial^2 y}+\frac{\partial^2}{\partial^2 z} $ , because it's Cartesian coordinate).
+
+I realized something, so I write what I realized.
+It seems that applying the divergence theorem was wrong.
+Because $\mathbb{R}^2$ is open surface, not closed surface(because it is projected image on celestial sphere).

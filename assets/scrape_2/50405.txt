@@ -1,0 +1,15 @@
+Can we see atomic positronium lines in space? What could be learned from it and what are current challenges to doing so?
+
+This answer to Have we detected spectra of exotic atoms in stars?1 currently ends:
+
+Estimates for observing lines corresponding to transitions between different bound states of positronium are not very promising; e.g. https://ui.adsabs.harvard.edu/abs/1996A%26AS..120C.365B/abstract
+
+Since that paper is 1) nearly 26 years old and 2) doesn't really help me understand why it wasn't very promising then (my limitations) and there have been advances in technology, I'd like to ask:
+Question: Can we see atomic positronium lines in space? What could be learned from it and what are current challenges to doing so?
+According to Wikipedia's Positronium; Energy levels
+$$E_n = - \frac{1}{2} \frac{m_e q_e^4}{8 h^2 \varepsilon_0^2} \frac{1}{n^2} \approx \frac{-\text{6.8 eV}}{n^2} $$
+which means I'd expect the Lyman series n ≥2 → 1 transition in the UV at about 5.1, 6.0... eV (243, 205 nm) and a Balmer series n ≥3 → 2 in the near IR at 0.94, 1.28 eV (1312, 972... nm).
+The UV lines would necessarily require observation from space, but perhaps some of the near IR lines might squeak through the atmosphere at high elevations and be observed from the ground.
+
+1See this answer to What is a "hydrogen-like" or "hydrogenic" atom?
+more about "exotic" hydrogen-like atoms

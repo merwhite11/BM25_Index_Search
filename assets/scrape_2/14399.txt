@@ -1,0 +1,9 @@
+How does an absolute horizon form before the apparent horizon?
+
+If I understand it correctly, the apparent horizon is the boundary between where light directed outwards will move outwards, and light directed outwards will move inwards. Even if light is moving away from the black hole outside of the apparent horizon, it will not escape to infinity if it is within the event horizon.
+The event horizon is essentially the apparent horizon in the future, if the apparent horizon continues growing. Theoretically, the two horizons should eventually meet up...again, if I understand it correctly.
+My confusion is with how the two form. According to Wikipedia,
+
+In the simple picture of stellar collapse leading to formation of a black hole, an event horizon forms before an apparent horizon.
+
+My main question is, how can the event horizon form "before" the apparent horizon? I understand that one can slice the Schwarzschild geometry so that there is no apparent horizon at all, but if an apparent horizon exists, I still don't understand how or why it would form after the event horizon.

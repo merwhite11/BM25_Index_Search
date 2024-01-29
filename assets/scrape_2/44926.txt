@@ -1,0 +1,16 @@
+How does NASA estimate the size of the population of Near-Earth Objects (NEO) of diameter>140 meters?
+
+In 2018, the US Congress passed a bill to allocate budgets and mission goals to NASA.
+Section 321 of that Bill mentions a goal for detection of NEOs of diameter >140 Km. Quote:
+
+(1) The George E. Brown, Jr. Near-Earth Object Survey Act (Public Law 109–155) established the Near-Earth Object Survey program to detect, track, and catalogue the physical characteristics of near-Earth objects equal to or greater than 140 meters in diameter in order to assess the threat of such objects to Earth.
+
+
+(2) The goal of the Survey program is to achieve 90 percent completion of the near-Earth project catalogue (based on statistically predicted populations of near-Earth objects) not later than 15 years after the date of the enactment of the George E. Brown, Jr. Near-Earth Object Survey Act.
+
+I am interested in knowing (and possibly understanding) the methodology used to arrive at the "statistically predicted population(s)", without which Congress's goal (90% of the population) is a moving target.
+Subsidiary: Is this methodology accepted by astronomers worldwide?
+
+EDIT1:
+
+I am aware of the statistical technique called "Mark & Recapture", often used in wildlife studies. But I have doubts that it can be used for estimating the size of NEOs (of d=140m+). Asteroids do not "mix" back randomly in the population as fish would do in a pond.

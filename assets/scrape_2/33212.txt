@@ -1,0 +1,5 @@
+How Long Will Earth's Year be When Our Sun Goes Red?
+
+We live in a planet that orbits 93 million miles from a G-type main-sequence star, or "yellow dwarf".  That is far enough for a revolution of 365 days.  Such is the case of Kepler's Third Law of Motion--the farther a body is from its parent, the longer it'd take to revolve around it.
+But in the far-distant future, our sun will balloon into a red giant, a star big enough to swallow Mercury and Venus out of existence.  Earth and Mars will take their place, and the habitable zone (where liquid water is possible) will be moved from between Mars and Jupiter to between Saturn and Uranus.
+So, in the future, Earth will no longer be one AU from the sun, which means a far shorter year.  But has anyone made any calculations as to how much shorter a Terran year will be in this future scenario?

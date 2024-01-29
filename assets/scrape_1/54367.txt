@@ -1,0 +1,7 @@
+How would the symmetry of time dilation behave if a wormhole sent you near the rest observer?
+
+The scenario I'm envisioning is this:
+A spaceship ("the ship") departs from a rest position ("Point A" or "the planet"), and travels at a relativistic speed towards Point B. At point B lies a wormhole, which topologically connects to a position right next to the planet. The wormhole does not translate the ship in time, relative to the observer (the planet).
+By my understanding of the symmetry of velocity-induced time dilation, both the planet and the ship should regard the other as having aged unusually slowly during the trip. As soon as the ship arrives at Point B, it can pass through the wormhole and arrive next to the planet (still travelling at full speed).
+What are the relative dates/ages at the moment of this event? It seems like the ship should see itself entering the wormhole at an earlier date than the planet sees it enter. I can't wrap my head around the specifics well enough to make a prediction.
+Below is a diagram that assumes that the ship departed in 2000 CE, and that time dilation slowed clocks by 50% over a 2 year (planet time) journey.

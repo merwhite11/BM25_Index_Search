@@ -1,0 +1,15 @@
+The formation of new stars as depicted in Feynman's lectures
+
+I've stumbled upon this curious passage addressing the formation of stars in Feynman's lectures on physics:
+
+Whether we have ever seen a star form or not is still debatable.
+  Figure 7–12 shows the one piece of evidence which suggests that we
+  have. At the left is a picture of a region of gas with some stars in
+  it taken in 1947, and at the right is another picture, taken only 7
+  years later, which shows two new bright spots.
+
+While I fully agree with Feynman's later note† that it's extremely unlikely that this picture shows stars forming, what does it actually show?
+There is no reference to it, and no mention of filter used, the physical scale or even of the celestial object shown, and I've gotten rather curious as to what the seven-year change represents. Variable stars? Or is the displacement due to proper motions? Film artifact? Something else entirely?
+Figure in question (Source):
+
+† Feynman concludes the paragraph with "[has the star formation somehow occurred?] Perhaps, and perhaps not. It is unreasonable that in only seven years we should be so lucky as to see a star change itself into visible form; it is much less probable that we should see two!" - indeed, the star formation rate of the whole Galaxy would be of this order!

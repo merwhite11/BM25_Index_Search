@@ -1,0 +1,9 @@
+JPL Horizons - "highly accurate measurements of planetary positions" - how do they do it?
+
+According to JPL Horizons, with regard to their planetary position calculations,
+
+... we integrate the equations of motion in Cartesian coordinates
+($x,y,z$), and we adjust the initial conditions in order to fit modern,
+highly accurate measurements of planetary positions.
+
+So, for example, the $x$ component of Jupiter's position vector on 2027-Oct-06 00:00:00.0000 TDB is -760195921115.2376 metres. To this non-astronomer, that is a mind bogglingly precise figure. How on Earth (no pun intended) do astronomers make measurements of planetary position accurate to 0.0001 metres?

@@ -1,0 +1,4 @@
+RA and Dec of the Sun at J2000
+
+I'm in the somewhat awkward position of asking something that, despite me thinking there should be hundreds and hundreds of web pages and datasets showing this particular value, I've been unable to find anything about it.
+What, indeed, are the Right Ascension and Declination angles of the Sun for J2000 ? Wikipedia shows some values (RA = 286.13, Dec = 63.87), but it is not clear whether they are J2000 or not...

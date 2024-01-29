@@ -1,0 +1,4 @@
+Does precession flip the seasons?
+
+Does axial precession change what calendar months that the seasons are? Given a 26000 year precession cycle, will it be summer in December (2022 + 26000/2) in the northern hemisphere?
+Axial tilt is responsible for Earth's seasons. It is summer in the northern hemisphere when the Earth tilts "towards" the sun. I figure in 26000/2 years that tilt should be the opposite way, i.e. "away" from the sun, i.e. winter, whence summer in December, according to the Gregorian calendar.

@@ -1,0 +1,6 @@
+TESS sector of observations in RA/DEC vs lat/long
+
+I'm trying to figure out WCS & just generic astronomical coordinates system, in order to better understand/use TESS data. I've been reading the mit docs, but I can't understand the reasons for these 2 representations:
+
+I do not really understand how they arrived at this 2 different projections. Is the one on the left obtained "as if" moving with the earth? This would be my guess, since ra/dec does depend on the position of the earth relative to the sun?
+And what about the one on the right? Would it be centered on earth's lat/long at a given time? Or some sort of lat/long projection based on the sun?

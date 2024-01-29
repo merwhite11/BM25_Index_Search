@@ -1,0 +1,7 @@
+Spacing (2422 days) between solar eclipses - unrelated saros numbers
+
+I just made an observation that is very puzzling.  The observation concerns total solar eclipses and their spacing in time.
+I know that the saros cycle dictates recurrence of same saros eclipses roughly every 18 yrs 11 days apart.  However, the two American eclipses (Aug 21, 2017 and Apr 8, 2024) are spaced by 2422 days.  These are saros 145 and 139 respectively - seemingly unrelated eclipses.
+There is another pair of eclipses that are upcoming (Aug 2, 2027 and Mar 20, 2034), and they are also spaced exactly 2422 days apart.  These are saros 136 and 130 respectively.  Again, they are unrelated eclipses from each other - OK expected.  The only thing that these two pairs of eclipses have in common is that their paths CROSS each other 2422 days apart. So, here is my question:
+Why are these two pairs of totally unrelated eclipses "dancing" with each other with exactly the same spacing of 2422 days?  What mathematical phenomena could account for this? 
+Thank you for your time.

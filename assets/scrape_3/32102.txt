@@ -1,0 +1,4 @@
+How actively is Deep Learning being used in exoplanet identification?
+
+Papers, like this one from Google, show that Deep Learning and Machine Learning are effective in detecting exoplanets from luminosity data provided by telescopes like TESS or Kepler.
+These models seem extremely quick and lightweight. Has it become somewhat of a standard practice to use these on freshly obtained TESS data? If not, why, and what is done with the data instead? Are there drawbacks to using these seemingly accurate models?

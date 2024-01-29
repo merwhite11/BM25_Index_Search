@@ -1,0 +1,3 @@
+Why are diffraction spikes left in JWST public images?
+
+First released JWST images are amazing. However, given the amount of image processing, false colours, cleanup etc. that must have gone into these images, why not also remove or reduce the diffraction spikes on bright stars ? Since these are purely artefacts of the telescope construction and have nothing to do with what is being imaged.

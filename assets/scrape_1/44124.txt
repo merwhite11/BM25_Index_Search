@@ -1,0 +1,5 @@
+How to calculate rest-frame luminosity in a specific wavelength band?
+
+For instance, I have a set of templates whose y is in Jy and x is in Angstroms. I have both of their rest-frame and obs-frame wavelength (i.e.  redshift). I want to know their luminosity in one specific waveband like rest-frame UKIRT.H (i.e.,~1.6um, L1.6) or IRAC2 (i.e.,~4.5um, L4.5).
+I'm confused about how to calculate the rest-frame luminosity. For now, I convolve the rest wavelength and response curve so get an average flux density and times effective wavelength of the filter to get flux. And using redshift to get luminosity.
+Am I right? I'm a little concern that maybe I should convolve obs wavelength and response curve?

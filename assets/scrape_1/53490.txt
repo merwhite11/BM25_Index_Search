@@ -1,0 +1,7 @@
+Astropy time: is it possible to use negative dates?
+
+The goal is to find precessed coordinates for BCE dates.
+from astropy.time import Time
+equinox = Time('-0500-01-01') 
+
+is just not working, though '0500-01-01' works just fine.  Is there a time format that allows BCE dates or years before present or anything like that?

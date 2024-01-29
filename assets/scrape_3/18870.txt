@@ -1,0 +1,6 @@
+Which data should I use to take the fast Fourier transform (FFT) to find time period for eclipsing binaries?
+
+I am trying to use Kepler Data for Eclipsing Binaries to estimate time period, and then other parameters such as mass, eccentricity, semi-major axis, distance, etc. of the system. I want to write code in MATLAB which will use FFT. The available data has the following columns:
+bjd(date) | phase | raw_flux | raw_err | corr_flux | corr_err | dtr_flux | dtr_err
+Does the data require any cleaning?
+If I want to take the FFT of the data to find time period, which data should I use?

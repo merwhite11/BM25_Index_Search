@@ -1,0 +1,6 @@
+In layman's terms, why does the cold C-N-O process end in Carbon?
+
+I read up a little bit on fusion in stars, layman's articles only and the P-P chain makes hydrogen or Alpha particles.   (error removed on triple-alpha), then the C-N-O process adds hydrogen to the stars carbon (I'm limiting this to the cold C-N-O process for simplicity), this adds protons to the C-12s until it gets to N-15 then it fuses with a proton and from what I've read this becomes C-12 and He-4, not O-16.
+This seems odd to me, as O-16 is slightly lower energy and fusion likes to reach the lower energy state, but I'm guessing there's something about the super-stability of the He-4 and/or the velocity or energy of the incoming proton that splits the O-16.  But that's just a guess.
+Is that correct?   Does the final stage of the cold C-N-O process yield primarily Carbon + Helium or does it produce some Oxygen as well?
+This related question indicates that this might not be well understood.

@@ -1,0 +1,5 @@
+How many stars are in the Milky Way galaxy?
+
+So, I've always heard that the Milky Way hosts between 100 billion to 400 billion stars.
+My problem is very simple: I'm unable to find any research papers on that topic or giving those estimates. I'm starting to think that this has become common knowledge but all comes from a back-of-the-envelope calculation instead from a true attempt to obtain that number.
+Are there any scientific publication on this? Gaia data might have improved that number to some extent I guess thus there should be something recent in the ADS but I'm unable to find anything. Also more accurate IMFs in the last decade and estimates of the mass content should have probably improved the accuracy of this value.

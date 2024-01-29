@@ -1,0 +1,41 @@
+Schechter Luminosity Function fitting plot of galaxies
+
+I would like to plot the Schechter Luminosity function of galaxies. Here is my data(I have the Luminosity L[Ha] in erg/s).
+I would like to plot like this figure from this paper.
+In this paper, they used these equations for the plotting(there are four datasets in this case, but for my case, I want to plot only my data).
+
+
+I used python to plot the function. Here is my code. But, I am not able to plot it. Kindly do help me with this. Also How to do the fitting with my data to get the required parameters.
+import numpy as np, math
+import matplotlib.pyplot as plt
+from astropy.table import Table
+from matplotlib.colors import LogNorm
+from scipy.interpolate import interp1d
+
+data=Table.read('lum.fits')
+
+def Schechter_Lum(L, L_star=None, Alpha=None, P_star=None):
+'''
+Schechter luminosity function in LUMINOSITY  
+number per dex
+'''
+ratio = L/L_star
+f = P_star* np.exp**(-ratio) *(ratio)**Alpha *ratio*np.log(10.) 
+return(f)
+
+#For the reference, I used this value from the paper
+L_star=42.64
+P_star=-3.32
+Alpha= -1.75
+
+schechter_lf=Schechter_Lum(data['ha_luminosity_log'],L_star,Alpha,P_star)
+
+plt.plot(data['ha_luminosity_log'],schechter_lf)
+plt.yscale('log')
+plt.title('H$\alpha$ Luminosity Functions')
+plt.xlabel(r'Log (L[H$\alpha$]) erg/s', fontsize=14)
+plt.ylabel(r'$\varphi$(logL) per $Mpc$^{-3}$ per logL',fontsize=14)
+plt.tight_layout()
+plt.show()
+
+I am not able to get the figure properly and I am not able to perform fitting of my Luminosity function. Kindly do help with this. Thank You.

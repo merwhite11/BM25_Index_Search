@@ -1,0 +1,9 @@
+Calculating the position of stars at a given point in time
+
+Is there any particular methods that help us calculate the position of a star at a certain point in time? This question is what I am trying to achieve, but for me, I do not want to use the data because the data that we can access to calculate the position is limited to only a few years. I want a method which uses the current position, speed, velocity of stars and calculate its position for many years back (like in 11000 BCE to 13000 BCE). I am trying to use astropy and I am really new to this, so I just need a push in the right direction; helpful resources will serve a great deal as well, thank you.
+Edited:
+There are a few stars' positions that are recorded and mentioned in one of our history books. SO what I am trying to do is collect all the recorded stars' positions and try to map them in real-time at a particular year and see if the recorded data exists or not.
+Now out of this data, the one that stands out as puzzling as is was the movements of Alcor and Mizar in the sky.
+If we observe these 2 stars from earth, for a naked eye it would seem like Mizar is always in front and Alcor is always in following Mizar.
+But in one of our history books, there is a recorded event where Mizar follows Alcor (it looks like it is following, I know they just revolve around each other), so what I am trying, is to see if there was any particular period where this would be possible.
+This is the starting problem there are many observations like this so it would be really helpful if I could get any info on achieving this.

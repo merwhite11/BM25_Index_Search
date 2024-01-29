@@ -1,0 +1,4 @@
+What is a typical polar angle of a pulsar beam?
+
+I've found many articles on the geometry of pulsar beams, but I have not been able to find what would be a typical angle for the beam cone.  Illustrations I've found seem to look like it might be 1 or 2 degrees.
+What range of angles might you expect to find for the polar angle of a pulsar's beam cone?

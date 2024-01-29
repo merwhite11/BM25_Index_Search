@@ -1,0 +1,3 @@
+Does the ecliptic precess? Does the Sun's rotation precess?
+
+We know that the Earth, like a top, slowly precesses as it rotates. We know the Sun rotates, but does it precess as well? What about planetary orbits? Is the orientation of the ecliptic stable or will its inclination change over time? If so, would the orbital inclinations of the planets currently in the ecliptic change independently or in unison? We know the ecliptic is inclined with respect to the galactic plane. Would that have been a consequence of "residual" angular momentum when the solar system formed, or did it gradually take up its present orientation?

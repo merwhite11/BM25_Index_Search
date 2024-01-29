@@ -1,0 +1,3 @@
+How can I determine line luminosities from equivalent width measurements?
+
+I have a set of equivalent width measurements for different emission lines. How can I use them in order to determine the corresponding line luminosities?

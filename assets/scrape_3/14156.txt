@@ -1,0 +1,146 @@
+Create a signal to noise map from heatmap
+
+Recently, I obtained my heatmap from a sky survey. But now, I'm trying to get a signal to noise map from my heatmap.
+My heatmap looks like :
+
+My colour bar indicates the number of stars per pixel (I assume, but I'm not totally sure).
+There are several steps in order to get my "S/N" map, but firstly, I need to get mean value from pixels around pixel i. To do that, I must draw a circle around the pixel i (circle with a radius about 10 arcmin, for exemple).
+To know where I am, that's to say on which pixel I'm working. I scripted a red cross which indicates the pixel. I want to determine the mean value around this cross for each pixel in the heatmap.
+I searched on this website and I found this post: Get pixel value after a colormap. I think that it will be interesting in my case also.
+But I really haven't an idea to script this. After that, I need to calculate lots of things like gaussian RMS etc .. but for that, it will be easier.
+This is my script : 
+    # -*- coding: utf-8 -*-
+    #!/usr/bin/env python
+
+    from astropy.io import fits
+    from astropy.table import Table
+    from astropy.table import Column
+    from astropy.convolution import convolve, Gaussian2DKernel
+    import numpy as np
+    import scipy.ndimage as sp
+    import matplotlib.pyplot as plt
+
+
+
+            ###################################
+            # Importation du fichier de champ #
+            ###################################
+
+    filename = '/home/valentin/Desktop/Field169_combined_final_roughcal.fits_traite_traiteXY_traiteXY_final'
+
+    print 'Fichier en cours de traitement' + str(filename) + '\n'
+
+    # Ouverture du fichier à l'aide d'astropy
+    field = fits.open(filename)         
+
+    # Lecture des données fits  
+    tbdata = field[1].data             
+
+
+            #######################################
+            # Parametres pour la carte de densité #
+            #######################################
+
+    # Boite des étoiles bleues :
+    condition_1 = np.bitwise_and(tbdata['g0-r0'] > -0.5, tbdata['g0-r0'] < 0.8 )    # Ne garder que les -0.4 < (g-r)0 < 0.8
+    condition_final = np.bitwise_and(tbdata['g0'] < 23.5, condition_1)      # Récupere les valeurs de 'g0' < 23.5 dans les valeurs de blue_stars_X
+
+    Blue_stars = tbdata[condition_final]
+
+    RA_Blue_stars = Blue_stars['RA']                        # Récupere les valeurs de 'RA' associées aux étoiles bleues
+    DEC_Blue_stars = Blue_stars['DEC']                      # Récupere les valeurs de 'DEC' associées aux étoiles bleues
+
+
+    # Boite des étoiles tres bleues :
+    condition_2 = np.bitwise_and(tbdata['g0-r0'] > -0.5, tbdata['g0-r0'] < 0.2 )
+    condition_final2 = np.bitwise_and(tbdata['g0'] < 23.5, condition_2)
+
+    Very_Blue_stars = tbdata[condition_final2]
+
+    RA_Very_Blue_stars = Very_Blue_stars['RA']                      # Récupere les valeurs de 'RA' associées aux étoiles bleues
+    DEC_Very_Blue_stars = Very_Blue_stars['DEC']
+
+    # ==> La table finale avec le masque s'appelle Blue_stars & Very_Blue_stars
+
+            ##################################################################
+            # Traçage des différents graphiques de la distribution d'étoiles #
+            ##################################################################
+
+
+    fig1 = plt.subplot(2,2,1)
+    plt.plot(tbdata['g0-r0'], tbdata['g0'], 'r.', label=u'Etoiles du champ')
+    plt.plot(Blue_stars['g0-r0'], Blue_stars['g0'], 'b.', label =u'Etoiles bleues')
+    plt.plot(Very_Blue_stars['g0-r0'], Very_Blue_stars['g0'], 'k.', label =u'Etoiles tres bleues')
+    plt.title('Diagramme Couleur-Magnitude')
+    plt.xlabel('(g0-r0)')
+    plt.ylabel('g0')
+    plt.xlim(-1.5,2.5)
+    plt.ylim(14,28)
+    plt.legend(loc='upper left')
+    plt.gca().invert_yaxis()
+
+    fig1 = plt.subplot(2,2,2)
+    plt.plot(RA_Blue_stars, DEC_Blue_stars, 'b.', label =u'Etoiles bleues', alpha=0.15)
+    plt.title('Carte de distribution des etoiles bleues')
+    plt.xlabel('RA')
+    plt.ylabel('DEC')
+    plt.legend(loc='upper left')
+
+    fig1 = plt.subplot(2,2,3)
+    plt.plot(RA_Very_Blue_stars, DEC_Very_Blue_stars, 'r.', label =u'Etoiles tres bleues',alpha=0.4)
+    plt.title('Carte de distribution des etoiles tres bleues')
+    plt.xlabel('RA')
+    plt.ylabel('DEC')
+    plt.legend(loc='upper left')
+
+    fig1 = plt.subplot(2,2,4)
+    plt.plot(RA_Blue_stars, DEC_Blue_stars, 'b.', label =u'Etoiles bleues', alpha=0.15)
+    plt.plot(RA_Very_Blue_stars, DEC_Very_Blue_stars, 'r.', label =u'Etoiles tres bleues',alpha=0.4)
+    plt.title('Carte de distribution des etoiles bleues et tres bleues')
+    plt.xlabel('RA')
+    plt.ylabel('DEC')
+    plt.legend(loc='upper left')
+
+            ######################################################################
+            # Traçage des différents graphiques de la carte de densité d'étoiles #
+            ######################################################################
+
+
+    # Carte de densité des étoiles bleues pour 1 pixel de 1 arcmin^2 (bins = 180)
+
+    X_Blue_stars = Blue_stars['X']
+    Y_Blue_stars = Blue_stars['Y']
+
+    heatmap, xedges, yedges = np.histogram2d(X_Blue_stars, Y_Blue_stars, bins=180) # bins de 180 car 3° de champ en RA = 180 arcmin de champ en RA
+    extent = [xedges[0], xedges[-1], yedges[0], yedges[-1]]
+
+    RotatePlot = sp.rotate(heatmap,90)
+
+    plt.clf()
+    #fig = plt.subplot(2,2,1)
+    plt.imshow(RotatePlot, extent=extent, interpolation='none')
+    plt.colorbar()
+    plt.title('Carte de densite des etoiles bleues (non lisse)')
+    plt.xlabel("X")
+    plt.ylabel("Y")
+
+
+    # Carte de densité lissée (par convolution avec une gaussienne 2 sigma) des étoiles bleues pour 1 pixel de 1 arcmin^2 (bins = 180)
+    # ==> Avec Astropy
+
+    plt.clf()
+    fig = plt.figure(1)
+    smoothed_heatmap = plt.imshow(convolve(RotatePlot, Gaussian2DKernel(stddev=2)), interpolation='nearest')
+    plt.colorbar()
+    plt.plot(100,120,'rx', markeredgewidth=3, markersize=10)
+    plt.title('Carte de densite des etoiles bleues lisse (astropy)')
+    plt.xlabel("X (arcmin)")
+    plt.ylabel("Y (arcmin)")
+    plt.xlim(0,180)
+    plt.ylim(0,180)
+    print smoothed_heatmap.cmap(smoothed_heatmap.norm(X_Blue_stars[100],Y_Blue_stars[120]))
+
+    #plt.savefig('/home/valentin/Desktop/Final.png')
+    plt.show()
+
+    print "Création du Diagramme"

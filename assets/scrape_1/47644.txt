@@ -1,0 +1,9 @@
+Does one need to consider relativistic effects when simulating the (or any) Solar system?
+
+There was a question over at Physics asking how to improve a home-brew numerical simulation of the Solar system.
+Even though in that case the defects were likely numerical, I started to wonder whether a "Newtonian" approach to the system's dynamic is simply inadequate: Gravitation does not act in an "instantaneous action at a distance"1. Instead, its influence on spacetime and hence massive bodies progresses with light speed like everything else. The gravitational pull of a fast-moving body points to some location that body has long left, much like the apparent noise source is trailing a passing jet.
+Rømer's determination of the speed of light is a famous example for the significance of the light speed at interplanetary distances. Not only the light, also the gravitation vector of remote, fast-moving objects is ever so slightly off.
+Do these small differences accumulate to "observable" (say, with 19th century technology) deviations of a Newtonian model from the relativistic reality in human timescales (at most thousands of years)? Do modern simulations account for them?2
+
+1 Indeed, the theory of relativity has so thoroughly done away with the concept of "action at a distance" that "spooky" is the first thing that comes to mind when we hear the term  ;-).
+2 For some bodies coming close to the Sun general relativistic effects become relevant (and interact with Jupiter's influence) but that's not what I mean here.

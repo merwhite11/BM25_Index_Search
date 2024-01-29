@@ -1,0 +1,21 @@
+How did they measure the distance to the center of our galaxy to 0.3% accuracy?
+
+The abstract of A geometric distance measurement to the Galactic center black hole with 0.3% uncertainty (Open Access) says:
+
+We present a 0.16% precise and 0.27% accurate determination of R₀, the distance to the Galactic center. Our measurement uses the star S2 on its 16-year orbit around the massive black hole Sgr A* that we followed astrometrically and spectroscopically for 27 years. Since 2017, we added near-infrared interferometry with the VLTI beam combiner GRAVITY, yielding a direct measurement of the separation vector between S2 and Sgr A* with an accuracy as good as 20 μas in the best cases. S2 passed the pericenter of its highly eccentric orbit in May 2018, and we followed the passage with dense sampling throughout the year. Together with our spectroscopy, in the best cases with an error of 7 km s−1, this yields a geometric distance estimate of R₀ = 8178 ± 13stat. ± 22sys. pc. This work updates our previous publication, in which we reported the first detection of the gravitational redshift in the S2 data. The redshift term is now detected with a significance level of 20σ with fredshift = 1.04 ± 0.05.
+
+and figure 2 shown below provides an example of the error analysis post fitting.
+
+If you have the angular size of an orbit and a set of radial velocity measurements, even if it was viewed edge-on and the inclination was known, wouldn't this give only a parametric relationship between R₀ and the mass of the central object?
+I don't understand how they were able to state a specific value for R₀, I'm probably missing something obvious but I can't figure it out. According to this answer:
+
+We have reasonably good measurements of the mass of Sagittarius A*, thanks to measurements of the movements of stars like S0-2 over several decades. It's been well-established that the mass of the central object is $M\approx4\times10^6M_{\odot}$;
+
+so to me the whole situation appears on the surface to be circular referencing. I'm sure it isn't of course, I'm just missing something.
+Is the measurement really to the "Galactic center" as the first sentence of the abstract states, or really the distance to Sgr A* around which S2 orbits?
+"bonus points" Why is every instance of "Galactic" in this published paper (not a preprint) capitalized?
+
+
+
+
+Selected posterior densities as obtained from the MCMC sampler with N = 200 000, here for the noise model data set. The contour lines mark the 1, 2, and 3σ levels. We only show the diagrams with the strongest correlations. All parameters are well determined (see Appendix D). Source

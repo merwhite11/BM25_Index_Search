@@ -1,0 +1,5 @@
+Direction Names Within a Galaxy
+
+Are there commonly used names for objective directions within a spiral galaxy?
+Central and peripheral describe objective directions, because the observer's frame of reference doesn't affect whether something is closer or farther from the middle.  "Clockwise" or "counterclockwise" don't work, because they depend on which side you're viewing from.
+Are there names that can describe one object's location relative to another object, either in the galaxy's direction of spin or against it?  Or words to describe whether something is farther or closer out along a particular arm of a spiral galaxy?

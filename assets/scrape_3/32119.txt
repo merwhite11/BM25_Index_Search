@@ -1,0 +1,3 @@
+How do we measure distance in space?
+
+I know that you can calculate the distance to another star for example, by using the phenomenon redshift to determine how much it has redshifted because of the expansion of the universe. But how do you know what the original frequency/wavelength of the light was? (And if all of my above statements are wrong, how do you measure the distance?)

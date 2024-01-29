@@ -1,0 +1,5 @@
+Is there software to calculate/plot decomposed rotation curves from observational data (FITS, etc)?
+
+I have observation data of galaxies (in FITS format). From the FITS data, I want to calculate & plot the decomposed rotation curves as pictured below. Is there a software package that will do that (preferably in Python)?
+Context: I'm interested in finding the radial mass distribution of the dark matter in each galaxy. If there is already a database or catalog of this, then telling me that would be even better.
+[Image from: Roos, Matts. (2010). Dark Matter: The evidence from astronomy, astrophysics and cosmology. ]

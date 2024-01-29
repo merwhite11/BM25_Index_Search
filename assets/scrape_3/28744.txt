@@ -1,0 +1,13 @@
+Calculating the apparent magnitude of a satellite
+
+I'm writing a program that involves calculating the apparent magnitude of satellites from a ground location. I currently have the intrinsic magnitude of the satellites and the solar phase angle in degrees. I can't seem to find a formula that works.
+I tried
+magnitude = intrinsicMagnitude - 15 + 5 * Math.Log(distanceToSatellite) - 2.5 * Math.Log(Math.Sin(B) + (Math.PI - B) * Math.Cos(B));
+
+(B is the phase angle)
+...but it does not work (it's returning numbers like +30). I know it's wrong because I'm comparing it to heavens-above.com satellite passes.
+intrinsicMagnitude = Visual magnitude at 1000km away (Use -1.3)
+distanceToSatellite = Observer distance to the satellite in km (Use 483)
+B = This is what I am trying to figure out.
+In the paper it says what this is but it says some other things that I do not understand. The phase angle you use to get this should be 113.
+The target output of this equation should be around -3.

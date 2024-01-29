@@ -1,0 +1,9 @@
+Neptune's Internal Heat Source
+
+Unlike its sister planet Uranus,Neptune has a substantial internal heat source which gives rise to a dynamic atmosphere & weather. 
+Wikipedia says:
+
+As with Uranus, the source of this heating is unknown, but the discrepancy is larger: Uranus only radiates 1.1 times as much energy as it receives from the Sun; whereas Neptune radiates about 2.61 times as much energy as it receives from the Sun. Neptune is the farthest planet from the Sun, yet its internal energy is sufficient to drive the fastest planetary winds seen in the Solar System. Depending on the thermal properties of its interior, the heat left over from Neptune's formation may be sufficient to explain its current heat flow, though it is more difficult to simultaneously explain Uranus's lack of internal heat while preserving the apparent similarity between the two planets.
+
+Have plausible theories been proposed for the source of the heat necessary to keep Neptune's ocean liquid?
+Could there be sufficient methane in the atmosphere to produce a significant greenhouse effect?

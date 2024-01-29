@@ -1,0 +1,4 @@
+Celestial navigation from scratch
+
+Is it possible to establish one's longitude and latitude by observing the stars? Can you use observations of the stars to find the relative distance between two locations, which would be useful in map-making? What kind of crude tools would help (a sextant is too complex, but maybe a backstaff?)
+What difference would there be if you were doing this on a planet that was not the Earth, and had a different location in the galaxy, a different day and year length?

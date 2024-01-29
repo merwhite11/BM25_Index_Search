@@ -1,0 +1,6 @@
+Why do some solar eclipses' umbra cross arctic/antarctic regions?
+
+The ecliptic (Earth's orbital plane) is inclined 23.4 degrees. This is the same as Earth's axial tilt. The Moon's orbit is inclined 5.145 degrees to the ecliptic.
+Therefore, the maximum latitude where a solar eclipse produces an umbra should be 28.545 N and 28.545 S.
+But this is clearly not the case. Wikipedia has a huge list of solar eclipses with charts. Here's one that goes very near the south pole. How is this possible?
+Edit: Actually I missed something. Since the Moon and Sun must be in the same place, and the Sun can never exceed 23.4 degrees declination, solar eclipses must be bound by 23.4 N/S. I should not have added the two angles. Thanks to user:berrycenter for pointing it out.

@@ -1,0 +1,3 @@
+How to plot right ascension with time of the retrograde motion of mars?
+
+Measure the right ascension, declination of mars and sun. plot the variation of right ascension with time.

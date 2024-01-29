@@ -1,0 +1,11 @@
+Asteroid locations at the time of the crucifixion of Jesus
+
+I am interested in learning the locations and velocities of the near earth asteroids at the time of the crucifixion of Jesus Christ.
+ I would like to back-calculate the paths of all known near earth asteroids to find out if any was between the earth and the sun at the time of Jesus' crucifixion on Good Friday.  The Horizons system of NASA JPL only permits back calculations to about 1400AD.  
+I want to see if there was a clustering of asteroids on Good Friday between the earth and sun.  If so they could be the remnants of a gigantic collision that would have been capable of making a dust cloud in interplanetary space that could have produced a shadow on the entire earth which would account for the observations reported by the gospels and the Chinese astronomers and St. Dionysius and others.
+In other words if any asteroids are calculated to have been between the earth and sun on Good Friday they may be left-over debris from the possible collision that produced the dust cloud.
+My question is this.  Do you know of any available computer program like the JPL  Horizons program that will work to give asteroid positions back in the time period between 29AD and 35AD?  (I give a range of years because biblical scholars give a range of possible years for the Crucifixion of Jesus.  The determination of a debris asteroid would help historians know the timing of the Crucifixion better, also.)
+Thank you for your attention and assistance.
+Best Regards,
+Dr. Francis Kelly
+President, The Catholic Association of Scientists and Engineers

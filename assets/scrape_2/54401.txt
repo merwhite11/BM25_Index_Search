@@ -1,0 +1,4 @@
+How did the year 1904 not have 367 days?
+
+We know that the Earth completes a revolution around the Sun about every 365.25 days. But we consider each year 365 days and add one day to the year every four years in order to have the leap year and also to adjust the time: $4*0.25=1$.
+But there are some occasions where there is an 8-year interval between consecutive leap years. For example, the leap year after 1896 was 1904. 1900 wasn't a leap year. So why didn't they multiply 0.25 by 8 to have 2 as the number of additive days to the next leap year in this example(s)?

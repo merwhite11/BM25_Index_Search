@@ -1,0 +1,17 @@
+Conversion of Magnitude to flux using zero point in AB Magnitude
+
+I want to calculate the flux of the 5 sigma limited magnitude. It is given that the zero point magnitude of NB964 is 28.77 and 5sigma magnitude is 25.45. 
+The following example is from A large, deep 3 deg2 survey of Hα, [OIII], and [OII] emitters from LAGER: constraining luminosity functions
+
+…file to measure the auto magnitude per source. The measured zeropoints are 28.77 and 32.37 mag for the NB964 and DECam z band, respectively, and all source magnitudes further mentioned in this paper are based on 2” apertures. The 5 $\sigma$ limiting AB magnitudes are 25.45 and 25.84 mag for NB964 and DECam z, respectively.
+
+(original screen shot)
+What I am trying to calculate is to convert it to flux by using this equation 
+$$\text{flux} = 10^{-(48.6 + \ \text{mag} - \ \text{zero_mag})/2.5}$$
+But I am not getting the correct answer. I got 7.727e-19.
+They mentioned that the 5sigma corresponding flux is 8.2e-18.
+
+…of our survey. The $5 \sigma$ narrowband magnitude limit is 25.45 mag, corresponding to a limit line flux of $8.2 \times 10^{-18}$ erg s-1 cm-2.
+
+(original screen shot)
+How to get the correct flux?

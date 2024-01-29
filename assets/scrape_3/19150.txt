@@ -1,0 +1,4 @@
+Is the wind's intensity on Mars similar to Earth?
+
+I've read that in Mars' poles, the winds can be as fast as 400 km/h, when the poles are exposed to sunlight because the frozen $CO_2$ sublimes. I know that the Martian atmosphere is much thinner than Earth's atmosphere.
+So, by knowing the wind speeds on Mars, is there any way to get an idea of its intensity, or in other words, the intensity of a wind of x speed in Mars, to which speed of wind of Earth is comparable, for them to have the same intensity?

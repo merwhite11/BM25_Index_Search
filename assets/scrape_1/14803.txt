@@ -1,0 +1,3 @@
+Metalicity and age of bulge stars vs halo
+
+From what I understand of current models, the bulge of the galaxy formed first, and thus, would contain older population II like stars. Currently, however, the halo has a higher population of stars with lower metalicity than the bulge. Is this because the density  of stars in the bulge is much higher? My thinking is that this is a densely populated region of massive hot stars that die quickly and create a newer region of next generation population I stars that are metal rich. The inverse would be true for the halo where stars are less densely packed. Is this correct?

@@ -1,0 +1,6 @@
+Can virtual particles with zero energy and non-zero momentum contribute to dark energy?
+
+I know this is actually a physics question, but I can't ask anything there anymore and the same problem walks on my side on other forums... So, I take my chance to ask it here.
+A virtual particle is off-shell (i.e., $E^2-p^2=m^2$ doesn't apply). That means that we can assign it an $E$ and $p$ independently from one another (which is ideal for interactions, as they can deliver the $E$ and $p$ needed for external real particles). So if a virtual particle has zero energy and non-zero momentum, the mass is imaginary, and it's square negative. This seems to imply negative gravity.
+I'm aware that virtual particles are called virtual for good reason (I mean, how on Earth can a particle have zero energy and non-zero momentum, but the laws of QFT are just as strange as those of QM). They have an influence though, and if they can influence real particles, which can be seen to couple to the virtual field, you can envision the vacuum filled with quantum bubbles, virtual loops.
+So maybe they are not real (you can't observe them) but they no doubt have influence. Or not? The quantum vacuum is different from classical empty space. It's naturally expanding. So maybe this virtual turmoil (quantum foam) is the cause.

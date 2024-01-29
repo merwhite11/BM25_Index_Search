@@ -1,0 +1,4 @@
+Why Nyquist Sampling Rate depends on Bandwidth and not max frequency?
+
+Is the Nyquist sampling rate same for different bands if those bands have same bandwith? E.g. Would the Nyquist Sampling rate be same for 1000-1400 MHz band as for 100-500 MHz band because both the bands have same bandwidth (400 MHz)? This doesn't make logical sense to me as I guess Nyquist sampling rate should depend on the max frequency that we are measuring. E.g. I think sampling rate/frequency for 1000-1400 MHz band should be 2800 MHz.
+Can someone please help me understand this?

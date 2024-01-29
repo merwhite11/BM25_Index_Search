@@ -1,0 +1,4 @@
+Stuck with SDSS data
+
+I want to do project on astronomical dataset. Regarding that project, I try SDSS who give public dataset but it is quite complicated for me. I gone through public dataset and downloaded some .FITS file one is ~3.2mb and other one is ~3 GB but I don't know how to deal with this file and generate images or other files from .FITS files. 
+Please help me, this is my Master's project in computer science.

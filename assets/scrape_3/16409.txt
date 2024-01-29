@@ -1,0 +1,3 @@
+Does the retrograde movement affect the true angular distance between 2 planets?
+
+I need to calculate the relative angular path between two planets in the geocentric view or in other words the number of degrees of a circle one planet travels away from another planet around the Earth. In the heliocentric system I simply subtract the longitude of one planet from the longitude of the other and add n*360 if they made full cycles in between. Would the same work for the geocentric coordinates? Does the loop a retrograding planet makes in the sky actually count as its path? Should I consider the retrograde movement as an optical illusion or include it in the formula and how?

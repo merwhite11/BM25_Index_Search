@@ -1,0 +1,3 @@
+How to calculate the redshift of a line in a bunch of line spectra?
+
+If in a spectra, there are many lines, mixed with gravitational redshift and non-redshift lines. For example, in this paper, they identify lines both redshifted and no-redshifted. Then how can i distinguish those redshifted from those do not?

@@ -1,0 +1,9 @@
+Relation between initial mass and evolutionary phases lifetimes
+
+Consider the following image (Source: An Introduction to Modern Astrophysics):
+
+There seems to be a relation between the initial mass/mass at the beginning of the MS and the time spent during different evolutionary phases.
+Is the this relation empirical or can it be quantified? 
+For example, the MS lifetime is proportional to $M / L$ , I want to know whether a relationship like this exists for other phases.
+Edit 1: 
+See this image for more details, does there exist any quantitative relation from which these values can be obtained?

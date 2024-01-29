@@ -1,0 +1,12 @@
+Life cycle of a gas planet?
+
+I am interested in learning more about the (simplified) life cycle of gas planets which are not brown dwarfs (meaning less than 13 Jupiter masses). It obviously starts off with their creation within a protoplanetary disk. For Jupiter, things then happened quickly:
+
+Jupiter formed in a geologic blink. Its rocky core coalesced less than a million years after the beginning of our solar system, scientists reported Monday in the Proceedings of the National Academy of Sciences. Within another 2 million or 3 million years, that core grew to 50 times the mass of Earth.
+
+Source: Washington Post: Jupiter is oldest planet in solar system
+But what happens afterwards? How long would a gas planet like Jupiter live (assuming that the central star of the system would not consume it)? What will happen to the radual density distribution over time? On which parameters (mass, radius, initial density, ...) does the evolution depend?
+Related
+
+Terminology question: gas giant vs gas planet
+Will Jupiter eventually stop shrinking?

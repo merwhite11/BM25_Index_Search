@@ -1,0 +1,12 @@
+How do CMB photons 'gain energy when they pass through normal regions of space with matter' and 'lose energy when they pass through voids'?
+
+The Space.com article Huge Hole Found in the Universe says:
+
+The gargantuan hole was found by examining observations made using the Very Large Array (VLA) radio telescope, funded by the National Science Foundation.
+There is a "remarkable drop in the number of galaxies" in a region of sky in the constellation Eridanus, Rudnick said.
+The region had been previously been dubbed the "WMAP Cold Spot," because it stood out in a map of the Cosmic Microwave Background (CMB) radiation made by NASA's Wilkinson Microwave Anisotopy Probe (WMAP) satellite. The CMB is an imprint of radiation left from the Big Bang, the theoretical beginning of the universe.
+"Although our surprising results need independent confirmation, the slightly colder temperature of the CMB in this region appears to be caused by a huge hole devoid of nearly all matter roughly 6 to 10 billion light-years from Earth," Rudnick said.
+Photons of the CMB gain a small amount of energy when they pass through normal regions of space with matter, the researchers explained. But when the CMB passes through a void, the photons lose energy, making the CMB from that part of the sky appear cooler. (emphasis added)
+
+
+Question: How do CMB photons gain energy when they pass through "normal regions of space with matter" and lose energy when they pass through voids?

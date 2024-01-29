@@ -1,0 +1,6 @@
+Overhead (galactic North) view of the stars in and around the Vela Constellation with distance
+
+I am working on a project and would like to have a star map--seen from "above" (Galactic North?) that calls out the stars in the Vela constellation and shows their distance from sol / earth.
+I realize that any 2D map will not show the Z-axis, but I'm okay with that (especially if there's a notation).
+I want to be able to show which stars in the Vela constellation are closer to earth vs. further away.
+Is there anything like this? I've looked and can't find it.

@@ -1,0 +1,4 @@
+What does "O I" mean in the context of detected molecules?
+
+I've recently been analysing the Exoplanet Database, and have been looking at the 'molecules' field (molecules detected on the planet or in its atmosphere). They all make sense apart from "O I". It's not iodine oxide (which would be I2O), so I'm at a loss as to what it could be, especially since I'm very new to this field.
+Any help is very much appreciated!

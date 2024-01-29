@@ -1,0 +1,3 @@
+Why is there an extra peak in the Lomb-Scargle periodogram?
+
+I was messing around with some radial velocity data from NASA's Exoplanet Archive and the Lomb-Scargle periodogram for Pegasi 51 yielded two very sharp peaks. One corresponds to about 4.23 days which is the reported value for Pegasi 51b while the other is about 1.3 days. Existing archives and paper only account for one orbiting planet. Would anyone happen to know why or what caused this extra signal to be picked up? Thank you!

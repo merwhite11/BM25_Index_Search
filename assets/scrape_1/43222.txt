@@ -1,0 +1,18 @@
+Open source code for the maths behind a heliostat?
+
+Theoretically, using a Raspberry Pi, (at least) one mirror, and two motors, one should be able to build a heliostat, i.e. a device which redirects sunlight to a fixed spot, like a scrub in the shadow of a building.
+I am now searching for heliostat (open) source code, ideally in python, hopefully with enough comments. Also: Is my following rough approach correct?
+
+We need to know the exact geographical location of the mirror in terms of longitude, latitude. For simplicity, we assume that the mirror itself always has an obstacle-free view of the sun.
+For a given time, we can use celestrial mechanics to calculate the path of the sun on the sky.
+Using the reflection law from geometrical optics, we can determine the position of the mirror, since we know the vector from the mirror position to the spot we want to direct light to.
+
+That sound simple enough, at least theoretically. I read that for step 2, many use precalculated tables. Why? Is it numerically so challenging?
+References
+
+https://www.sunearthtools.com/dp/tools/pos_sun.php
+Jon Henley: Rjukan sun: the Norwegian town that does it with mirrors
+Renard Bleu: ICARUS: the Analog Heliostat
+Raspberry Forum: 2 axis Heliostat
+Open Source Sun Tracking Skylight
+Sadly mostly offline, but everybody is linking there: http://www.cerebralmeltdown.com/

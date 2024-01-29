@@ -1,0 +1,4 @@
+Why is final kinetic energy zero for escape energy calculations?
+
+When the question is about the minimum speed to reach a certain point, we would usually use conservation of momentum, i.e. $\mathrm{E_k + E_p}$(initial) = $\mathrm{E_k(0) + E_p}$(final). I am curious in why we take the final $\mathrm{E_k}$ to be 0.
+Senior high level.

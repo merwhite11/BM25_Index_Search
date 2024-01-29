@@ -1,0 +1,5 @@
+What is the distance of Earth from the 7 planets, moons and the Sun at a point of time?
+
+I wanted to know the distance of the 7 planets (Mercury, Mars, Venus, Jupiter, Saturn, Uranus, Neptune ) each (or at least 5 planets) from the earth and the angle that it will make with a line connecting the centers of earth and the respective planet at a point of time. Also I need the same for the earth and moon system and sun and earth as they are big influences. At point of time because in the course of revolution of planets the distances with respect to earth will vary. 
+Being an engineering student I have the wish :) to calculate the mechanical forces acting on the earth at a point of time due to nearby heavenly bodies.
+Basically I need the data or in case someone already attempted to calculate the force components I would be delighted to look at it.

@@ -1,0 +1,73 @@
+Is a Hertz ratio to 65M ☉ proof that Betelgeuse had a core collapse in 1491 from a gravitational wave on January 14, 2020?
+
+By analysis of gravity waves GW150914 to S200114f when compared to a ratio from the Black Hole merger of 65 M ☉ at 260 Hz with Betelgeuse frequency of 64.698303 Hz the gravitational release on January 14, 2020 illustrates Betelgeuse's actual total solar mass of about 16.17 M ☉. This fits neatly with a solar mass approximation article from newswise exactly as they say 16.5 to 19 solar masses. Since the information was limited for the gravitational wave of S200114f, does this new found information derived from the Hertz and timings ratios to mass indicate a core collapse of the star Betelgeuse?
+
+The exact value can be found using Table II in [52], where the leading harmonic ( = 2, m = 2, n = 0) for a black hole with a spin χ = 0.7 has G c3 MωGW = 0.5326 + 0.0808i, giving a ringdown frequency fGW|ringdown ≈ 260Hz 65M ☉ ,
+https://arxiv.org/ftp/arxiv/papers/1608/1608.01940.pdf
+Their analysis reported a present-day mass of 16.5 to 19 solar mass--which is slightly lower than the most-recent estimates. The study also revealed how big Betelgeuse is, as well as its distance from Earth. The star's actual size has been a bit of a mystery: earlier studies, for instance, suggested it could be bigger than the orbit of Jupiter. However, the team's results showed Betelgeuse only extends out to two-thirds of that, with a radius 750 times the radius of the sun. Once the physical size of the star is known, it will be possible to determine its distance from Earth. Thus far, the team's results show it is a mere 530 light years from us, or 25 percent closer than previously thought.
+
+Study of supergiant star Betelgeuse unveils the cause of its pulsations
+Betelgeuse is normally one of the brightest, most recognizable stars of the winter sky, marking the left shoulder of the constellation Orion.
+
+
+Betelgeuse's Net Solar Mass loss of Betelgeuse is 13.74M ☉ which settled into a Neutron star with a mass of 2.4255M ☉. The following is very important towards black hole theoretical science; moreover what about this 3 solar mass with the ratio? Well it must have been involved with the violent collision of the black holes warping space time contributing to the gravity wave. As the giant black holes collided in the first nanoseconds; I postulate the area field was not yet settled and it was in the process of forming the 65M ☉. Thus a shape at its fraction of second collision was different until it settled, moving forward as the smaller black hole when entering the larger may have had a 3 solar mass oblong shape at the instant it was swallowed by the larger then finally rotating at a speed with its new mass.
+
+
+
+Above image is of Orion with Red Star Betelgeuse and localization of gravity wave S200114f.  Also here is the associated Hertz and timings of the gravity wave.
+Group   Burst
+Detectors   H1,L1,V1
+Time of Signal  2020-01-14 02:08:18.230000 UTC
+Time Sent   2020-01-14 02:48:21 UTC
+False Alarm Rate    once per 25.84 years
+Central Frequency   64.698303 Hz
+Duration    0.013534 seconds
+Orion Gravitation Wave location
+Here is some code which supports a 5.2 light year delay for a visible Betelgeuse Supernova showing up in March of 2025.
+ import time
+ print('''Two to the power of Exponential growth of Gravities
+ Constant <G> multiplied by the fine structure contant multiplied
+ by 12 hours divided by n.
+ To obtain a light year delay from a gravitational wave on January 
+ 14, 2020 sourced at Betelgeuse enter these parameters:
+
+ divide Proton: 2489
+ Spin Number: .594
+ Enter Parsec's: 150
+ Add Parsec's: 19
+ Subtract Parsec's: 5
+ ________________________________________ ''')
+ while True:
+     n = int(input("Enter Number to divide Proton: "))
+     s = float(input("Spin Number: "))
+     Parsec = int(input("Enter number of Parsec's for Luminosity Distance: "))
+     Plus_Parsec = int(input("Add Parsec's for Luminosity Distance: "))
+     Minus_Parsec = int(input("Subtract Parsec's for Luminosity Distance: "))
+     start_time = time.time()
+     G_constant = (.00000000006674)
+     proton_width = (((0.00000000000001)*s)/(n))
+     gravity_wave = ((proton_width))
+     G = ((pow(2,((1 +(((.00000000006674*.0072973*(12/n))*((( 1 ))))))))))
+     Gravities_Geometry = ((G*3.14))
+     Distance_to_Gravity_Waves_Source = 
+     (((((((G))/(gravity_wave))*86400*365)/((Gravities_Geometry)- 
+     ((G/2))))/9461000000000000))/1000000
+
+     Ligos_approximation_Black_hole_merger_from_luminosity = (3.26*(Parsec+(Plus_Parsec- 
+     Minus_Parsec)))
+     difference = (Ligos_approximation_Black_hole_merger_from_luminosity- 
+     Distance_to_Gravity_Waves_Source)
+     print('{0:.14f}'.format(G_constant),'Gravitational Constant')
+     print('{0:.99f}'.format(proton_width),'Proton Width')
+     print('{0:.110f}'.format(gravity_wave),'Gravity Wave')
+     print(G,'G as exponential growth')
+     print('{0:.15f}'.format(Gravities_Geometry),'Gravities_Geometry')
+
+     print("{:,}".format(Ligos_approximation_Black_hole_merger_from_luminosity),'Ligos 
+     distance approximation from luminosity in light years')
+     print('{0:,.1f}'.format(Distance_to_Gravity_Waves_Source),'Distance Gravity Wave 
+     traveled going by ONeils Gravity Geometric')
+     print("{:,}".format(difference),'difference from Ligo and Geometric source in light 
+     years')
+     e = int(time.time() - start_time)
+     print('{:02d}:{:02d}:{:02d}'.format(e // 3600, (e % 3600 // 60), e % 60))

@@ -1,0 +1,6 @@
+How are heavier elements such as carbon and silicon distributed within the Sun?
+
+In a previous question I asked about the source of carbon and silicate dust that Solar Probe Plus will encounter in its close flyby of the Sun. It seems likely that most sources would include infall from outside the solar system or fragments resulting from collisions inside the solar system.
+But the Sun is believed to be about 0.4% carbon and 0.1% silicon by mass (see  here and here). I believe these represent the relative abundances during the formation of the Sun, but do not account for nucleosynthesis that early in the Sun's life.
+Is the distribution of carbon and silicon in the Sun is believed to be uniform, or does it have a radially dependent distribution? Is there be any kind of gravitational settling, i.e. heavier atoms tending to move toward the center as happens in planets?
+Since we can only directly measure elemental abundances directly near the surface using spectroscopic techniques, would the radial distribution come from some model or calculation?

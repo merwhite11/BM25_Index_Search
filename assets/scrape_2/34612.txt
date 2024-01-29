@@ -1,0 +1,16 @@
+Actual meteor sightings formula
+
+I'm trying to realistically approximate the value of meteor sightings during a meteor shower because I don't want to have high expectations going in. I have a couple questions about this formula I found from this site
+
+Number of meteors=ZHR×sin(θ)/(F×r^6.5−m)
+
+Question 1
+I would like to know for the calculation of F, where
+
+F=1/(1−k)
+where k is the fraction of the sky which is which you cannot see, because it is obscured by cloud or other obstructions such as trees.
+
+Assuming I am on a flat plain with no trees/building whatsoever and I have a clear view from 0-180 degrees (cross section view of the earths crust). Will k be 0.5 based on the fact that I cannot see whats below ground (180-360 degrees).
+Also will the limitation of the human eye affect this value? I.e If I am facing north my peripheral vision can only reach maybe north east to north west hence further increasing k value above?
+Question 2
+What value should I have for m in the above formula if I am at this location? I currently assume a value of 6 according to this wiki. Is this right?

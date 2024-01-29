@@ -1,0 +1,4 @@
+How can you derive equations between the Horizontal and Equatorial system if the two systems have different centers?
+
+This might be a dumb question.
+If the center of the celestial sphere is the center of the earth, and the center of the horizontal system is the observer, why do people use this diagram to derive transformation equations? Shouldn't the equatorial system and the horizontal system have different centers?

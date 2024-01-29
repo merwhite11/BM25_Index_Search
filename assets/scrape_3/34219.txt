@@ -1,0 +1,19 @@
+Did nobody in the Astronomy community think 12,000 new satellites in LEO might be a problem?
+
+This answer to Can / should the Starlink satellites be blackened? mentions Space News' SpaceX working on fix for Starlink satellites so they don’t disrupt astronomy where SpaceX chief operating officer Gwynne Shotwell is quoted as saying the following:
+
+Shotwell admitted that nobody in the company anticipated the problem when the satellites were first designed.
+“No one thought of this,” she said. “We didn’t think of it. The astronomy community didn’t think of it.”
+
+Question: Did nobody in the Astronomy community think ahead of time that 12,000 new satellites in LEO might be a problem?
+Did SpaceX sneak this in under the astronomical observer community's nose by starting "small" (SpaceX's 4,425 satellite constellation - what's the method to the madness?) and then "drifting" up to 12,000 satellites without anybody realizing it? Or did the community actually have some good idea that this was likely going to be a problem?
+
+fyi it may not stop at 12,000:
+Space News: SpaceX submits paperwork for 30,000 more Starlink satellites
+
+WASHINGTON — SpaceX has asked the International Telecommunication Union to arrange spectrum for 30,000 additional Starlink satellites.
+SpaceX, which is already planning the world’s largest low-Earth-orbit broadband constellation by far, filed paperwork in recent weeks for up to 30,000 additional Starlink satellites on top of the 12,000 already approved by the U.S. Federal Communications Commission.
+
+
+
+SpaceX could one day operate 42,000 Starlink satellites if it builds and launches 30,000 in addition to the 12,000 for which it already has FCC approval. Credit: SpaceX

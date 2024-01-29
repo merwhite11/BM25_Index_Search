@@ -1,0 +1,3 @@
+Binned of phase-folded light curve
+
+How I can bin a magnitude phase-folded lightcurve? I take mean values magnitudes and it's uncertainties but this is wrong.

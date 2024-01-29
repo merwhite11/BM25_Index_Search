@@ -1,0 +1,14 @@
+Likelihood of a stable system with a dwarf planet's orbit inside that of a gas giant
+
+I keep thinking of various planetary system configurations, and would like to know:
+
+What are the fundamental references based on Monte Carlo long-term simulation of planetary systems' evolution that put testable restrictions on the distribution of stable configurations around Sol-like stars (books, papers, software packages)?
+How rare is the configuration wherein a dwarf planet (Ceres, I'm looking at you) is located in the inner system?
+
+The main question is the first one, in the vein of "teach a man to fish...".
+
+Related Q&A's here that do not answer my question:
+
+ Is there a upper limit to the number of planets orbiting a star?
+ Can you explain the pattern of Hill sphere sizes of the objects of the Solar system?
+Could a habitable satellite of a gas giant have a stable subsatellite?

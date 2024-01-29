@@ -1,0 +1,6 @@
+What is the distance between 2 cities?
+
+Both Quito and Kampala lie on the Equator. The longitude of Quito is 82°30'W and that of Kampala is 37°30'E. What is the distance from Quito to Kampala?
+A) along the shortest surface path
+B) along a direct through the Earth path?
+Please help me visualize it with a figure. How to do it?

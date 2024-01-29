@@ -1,0 +1,4 @@
+True masses of exoplanets from Gaia
+
+At Wikipedia https://en.wikipedia.org/wiki/Methods_of_detecting_exoplanets#Space_telescopes it says "The Gaia mission, launched in December 2013, will use astrometry to determine the true masses of 1000 nearby exoplanets."
+Ten years later, how is progress going in determining the true masses of nearby exoplanets?

@@ -1,0 +1,11 @@
+LIGO: How can laser interferometry (wavelength >$10^{-7}$m) detect length changes of arms <$10^{-18}$ m?
+
+I'm trying to understand the sensitivity of the LIGO interferometer. I've been reading around lots of discussion of how they manage noise cancellation between the two detectors, achieving a very pure laser signal, the many reflections to change the effective length of the interferometer arms to over 1000km, and other impressive tricks of engineering to achieve this remarkable feat of measurement. What I still can't get my head around is how, even in a perfect world with no noise at all, a phase shift of I guess $10^{-7}$ - $10^{-11}$ cycles or so (depending on the sensitivity claim you are taking) can show up as a signal.
+From my fairly basic understanding of how an interferometer works. I am imagining that if both beams are initially in phase then a $10^{-7}$ phase shift would change combined amplitude by much less than this (1$0^{-14}$?) If they were at $\pi / 2$ then I guess the amplitude change would be approximately equivalent to the phase shift?
+I appreciate that the computational details of how all this works are going to be a whole lot more complicated, but I would really appreciate some pointers on how best to understand the sensitivity challenge here:
+
+Is it a case of measuring tiny amplitude variations in the combined laser signal?
+Is the size of these amplitude variations (as a proportion of amplitude) equivalent to the size of the length variations (x number of reflections and as a proportion of laser wavelength)?
+If yes to each of the above, am I right in thinking they are detecting laser amplitude oscillations down to $10^{-10}$ ish times typical amplitude?
+If no to the first two points, please set me straight in any way you can!
+Many thanks in advance.

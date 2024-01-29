@@ -1,0 +1,66 @@
+How can the Event Horizon Telescope image Sgr A* when it's not visible from all sites at one time?
+
+I went to https://eventhorizontelescope.org/array and read about the ten sites listed as part of the EHT, I have a mashed-up screen shot of them below.
+I made a little script also shown below with approximate coordinates, and saw that Sgr A* is at a declination of about -29.5 degrees (South).  I spun it around the earth, calculated the dot product between each of the sites' position vectors and all normals pointing to Sgr A* as it rotates around the Earth.
+I then plotted the elevation angle above the horizon for all ten sites. I was quite surprised!
+
+Sgr A* is never above the horizon for the Greenland telescope!
+Sgr A* is never simultaneously visible even to all of the remaining nine telescopes
+
+Have I made a mistake? If not, how do these ten sites combine their data to image Sgr A*?
+
+
+class Site(object):
+    def __init__(self, name, lat, lon, alt):
+        self.name = str(name)
+        self.lat  = rads * float(lat)
+        self.lon  = rads * float(lon)
+        self.alt  = km   * float(alt)
+        (clat, slat), (clon, slon) = [[f(x) for f in (np.cos, np.sin)] for x in (self.lat, self.lon)]
+        self.norm = np.array([clon*clat, slon*clat, slat])
+
+data = (('Northern Extended Millimeter Array', (44.634, 5.908, 2550.)),
+        ('IRAM 30 meter telescope', (37.066, -3.393, 2850.)),
+        ('The Greenland Telescope now near Thule Air Base', (76.531, -68.703, 10.)),
+        ('Combined Array for Research in Millimeter-wave Astronomy CARMA', (37.280, -118.142, 2196.)),
+        ('Kitt Peak National Observatory 12 meter Submillimeter Telescope (SMT)', (1.9583, -111.5967,  2096.)),
+        ('Mt. Graham International Observatory 12 meter ALMA prototye', (32.701, -109.892, 3191.)),
+        ('The Large Millimeter Telescope Alfonso Serrano', (18.985, -97.315, 4600.)),
+        ('ALMA', (-22.971, -67.703, 4800.)),
+        ('Caltech Submillimeter Observatory', (19.823, -155.476, 4140.)),
+        ('South Pole Telescope', (-90.0, 0.0, 2800.)))
+
+# https://eventhorizontelescope.org/array
+# https://astronomy.stackexchange.com/questions/26413/math-behind-a-uv-plot-in-interferometry
+
+datadict = dict(data)
+
+import numpy as np
+import matplotlib.pyplot as plt
+from skyfield.api import Topos, Loader, EarthSatellite
+from mpl_toolkits.mplot3d import Axes3D
+
+halfpi, pi, twopi = [f*np.pi for f in (0.5, 1, 2)]
+degs, rads = 180/pi, pi/180
+km         = 0.001
+
+sites = [Site(a, *b) for a, b in datadict.items()]
+
+Dec = rads * -29.5  # SgrA_star
+cDec, sDec = [f(Dec) for f in (np.cos, np.sin)]
+th         = twopi * np.linspace(0, 1, 100001)[:-1]
+cth, sth   = [f(th) for f in (np.cos, np.sin)]
+zth, oth   = np.zeros_like(th), np.ones_like(th)
+
+SgrA_star = np.stack([cDec*cth, cDec*sth, sDec*oth], axis=1)
+
+for site in sites:
+    site.elev = np.arcsin(np.dot(SgrA_star, site.norm))
+
+if True:
+    for site in sites:
+        plt.plot(degs*site.elev)
+    plt.plot(zth, '-k', linewidth=2)
+    plt.ylim(-90, 90)
+    plt.ylabel('elevation (deg)', fontsize=16)
+    plt.show()

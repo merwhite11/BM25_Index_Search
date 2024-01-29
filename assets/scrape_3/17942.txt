@@ -1,0 +1,7 @@
+Function for current distance between in light-seconds between Mars and Earth
+
+I'm looking for a function that given a time (for example Unix time) gives back the current distance between Mars and Earth in light-seconds.
+It can be a mathematical function or programming function (preferably in Python or pseudocode), but must not rely on an Internet connection.
+This question is similar to a question I asked erlier, but again I need to get the distance without an Internet connection.
+Thanks in advance!
+Sidenote: I'm planning on learning orbital mechanics, but I need this function earlier. :)

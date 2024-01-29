@@ -1,0 +1,3 @@
+How is Earth's gravity modelled?
+
+The Earth does not have a defined geometric shape. Then how do space scientists who want to put a satellite in orbit model the gravitational field of Earth? Do they assume a single object with minute variations from sphericity, or as a combination of multiple objects of defined shapes? Or, are there different ways of doing it right?

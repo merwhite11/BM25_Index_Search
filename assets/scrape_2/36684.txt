@@ -1,0 +1,7 @@
+Where do we define the "surface" of a gas planet?
+
+Since gas giant consist of most gas components, where do we establish their "surface"?
+My take is basically to take the limit in which all light is opaque. For example, in this photo:
+
+The surface, then, will be the limit of the black blackground with the planet.
+Any other way to formally define the "surface" of a gas giant?

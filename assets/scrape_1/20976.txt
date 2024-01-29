@@ -1,0 +1,4 @@
+Determining sunrise and sunset times based on azimuth and elevation
+
+If I observe the sun and measure the local azimuth and elevation, and I also have my latitude, can I calculate the local sunrise and local sunset times? If so, how would I calculate it?
+Further, can the same calculations be used for the moonrise and moonset?

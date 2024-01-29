@@ -1,0 +1,4 @@
+relation between angular velocity of planet and orbital velocity
+
+Can it be shown that angular velocity of a planet = (orbital velocity/h+Radius):
+$$\frac{v_{c,1}}{h + R_{⊕}} = \omega_e $$

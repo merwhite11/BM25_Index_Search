@@ -1,0 +1,24 @@
+vertical shift is equals to half of angular dimension plus parallax plus atmosphere refraction
+
+I'm developing a C++ computer library with the formulas in the book "Practical Astronomy with your Calculator or Spreadsheet 4th Edition" but I have a problem with the formula 49, "Sunrise and sunset". I have a problem with something called "vertical shift". In the book says:
+
+We shall take the Sun’s angular diameter to be 0.533 degrees, its
+horizontal parallax to be
+8.79 arcseconds, and the refraction due to the atmosphere as 34 arcminutes and, having added on half of the Sun’s angular diameter and
+a small correction for parallax, we arrive at a total vertical shift
+at the horizon of the upper limb of 0.833333 degrees.
+
+To compute the vertical shift I do the following (this is C++ code but it is easy to understand):
+// SunAngularDiameter value is in degrees.
+// SunHorizontalParallax value is in arcseconds.
+double angularDim = SunAngularDiameter * 60.0;  // arcminutes.
+double parallax = SunHorizontalParallax / 60.0; // arcminutes.
+
+// atmosphereRefraction value is in arcminutes.
+double verticalShift = ((angularDim / 2) + parallax + atmosphereRefraction) / 60.0; // degrees
+
+Using the values given in the book I get that the value of vertical shift (verticalShift variable) is 0.83560833333333329 but the book said that is must be 0.833333.
+I've been wondering how to obtain the value 0.833333 and, if I don't add the parallax I get it. In other words, to get the vavlue 0.833333 I have to this:
+double verticalShift = ((angularDim / 2) + atmosphereRefraction) / 60.0; // degrees
+
+Is this an errata in the book of the correct way to compute the vertical shift is without the parallax?

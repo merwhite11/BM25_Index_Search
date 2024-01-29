@@ -1,0 +1,16 @@
+How to accurately measure the temperature of red supergiants?
+
+I just (February 28th, 2021) heard the news on progress how to measure the temperature of super giants:
+
+Red supergiants are a class of star that end their lives in supernova explosions.
+Their lifecycles are not fully understood, partly due to difficulties in measuring their temperatures. For the first time, astronomers develop an accurate method to determine the surface temperatures of red supergiants.
+
+The original article by Daisuke Taniguchi and team is called Effective temperatures of red supergiants estimated from line-depth ratios of iron lines in the YJ bands, 0.97-1.32 μm but is not available (yet).
+Maybe somebody can help me understanding the following quote intuitively:
+
+However, by looking at the ratio of two different but related lines - those of iron - we found the ratio itself related to temperature. And it did so in a consistent and predictable way.
+
+How could the ratio between the intensity of spectral lines correlate with temperature? Furthermore: How could we actually show that correlation if we do not know the temperature in first place?
+References
+
+What are the possible solutions to the Red Supergiant problem?

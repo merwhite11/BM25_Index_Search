@@ -1,0 +1,8 @@
+Understanding laplace plane (satellite) orbits
+
+Working on a little project (with vex+python in houdini) to calculate the planet and satellite positions using the keplerian formulae and a database of orbital elements and progressions. Primarily relying on info+data from nasa 1 2 and stjarnhimlen.se 3
+everything is working out so far for ecliptic orbits (using jpl horizons to check my results). However, for some satellites (moons of Mars, Jupiter, Uranus) additional parameters for a laplace plane are given:
+r.a. + decl of the planes pole (relative to IRCF)
+tilt (angle between planets equatorial and the laplace plane)
+This seems to serve the purpose of providing a stable plane relative to the parent planets equatorial plane, in which the axis of the satellites actual orbit precesses (at the rate of it's sidereal rotation period?). It kinda makes sense but I do not understand how to construct the ('wobbly'?) current orbital plane from these extra elements and the planets ecliptic/equatorial planes, or whether that's even possible. Chapter 2.1 in this paper provides more background but adds to my confusion more than it helps me understand the problem....
+this older question is very similar

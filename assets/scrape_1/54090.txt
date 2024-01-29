@@ -1,0 +1,4 @@
+If someone were to create a lunarcentric solar system model, what would have to change about the math and model besides swapping Earth and the Moon?
+
+A story I wanted to think about has a society centred on the Moon in some colony, and for some reason didn´t have telescopes of their own. Why is not important.
+The Moon orbits the Sun in almost the same way the Earth does. It should be possible to construct a lunar-centric solar system as accurate in its predictions as a geocentric one would be, which is nearly perfect for figuring out where things are in the sky at any given point and should be virtually impossible to disprove without telescopes with reasonably precisely engineered mirrors (though the lack of atmospheric haze on the Moon would mean some differences in measurement of things).

@@ -1,0 +1,6 @@
+How do I get the change in angular diameter value?
+
+Given that I got the equation relating the angular diameter(θ) and $V$–$K$ band value, which is known as $\logθ_0=(0.262±0.004)(V−K)_0+(0.547±0.006)$ from this paper, how do I get the 'change' in angular diameter value from that equation?
+1) Can I just get the max and mix value of the $V$–$K$ value and insert each into the equation and get max θ and min θ and get the difference?
+2) Or I need to the whole lists of angular diameter value over each period and insert the lists of value into the equation and plot the graph and then get the difference?
+3) Or is there any other method to do this?

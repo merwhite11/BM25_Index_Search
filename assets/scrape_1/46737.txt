@@ -1,0 +1,4 @@
+How can we know if a star which is visible in our night sky goes supernova?
+
+Let's say there is a star about 3000 light-years away from earth visible in our night sky. If this star were to go supernova tomorrow(not relative to earth's night sky), we would know about it 3000 years later as all the information would take 3000 years to arrive at the least. At first, I thought detecting the supernova would be easy as we could use X-ray telescopes or other indirect methods to find out the composition of the stars and know if a supernova occurred or not.
+Still, unfortunately, this information would also travel at the speed of light, causing a delay in our process.My question is, how can we know for far-away stars whether they have gone supernova?

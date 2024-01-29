@@ -1,0 +1,24 @@
+Is it ever possible that the graviation from the mass of kinetic rotational energy will overcome centrifugal force?
+
+This is, I think, somewhat intuitively obvious, but this comment got me thinking about this:
+what is gravitational force?
+"Rotation speed can create centrifugal force opposing gravity and making things lighter," Rotation also stores energy, and energy is mass, per $E=mc^2$. A body spinning sufficiently fast will exert higher gravity, e.g. a slowly-spinning neutron star will have a weaker gravitational pull than equivalent neutron star that spins very fast."
+Intuitively, my answer is "no way", added mass by rotational velocity I would think, could never be extensive enough to counteract the "flicking off" or centrifugal force of very fast rotation.  Even with a Neutron Star I would think it's impossible, but I'm not 100% sure, so I thought I'd ask.
+If we ignore relativity from motion but not $E=mc^2$, as that's the crux of the question
+Centrifugal force = $m v^2/r$
+Kinetic energy of rotation = $1/2 I w^2 = 1/5 m v^2$
+Mass equivalent of kinetic energy = $1/5 m v^2/c^2$
+gravitational force $g=\frac{Gm}{r^2}$
+so if we apply the gravitational force of kinetic energy
+$g = G(1/5 m * v^2/c^2) / r^2$, or, simplified, $G*m*v^2 / r^2 c^2$
+and we compare the two equations 
+Centrifugal  $m v^2/r$
+additional gravitational   $G*m*v^2 / r^2 c^2$
+we can remove $m*v^2$ from both on the top and 1 $r$ from the bottom
+additional gravitation ratio to centrifugal force = $G/r * c^2$
+$G$ and $c$ are numerical.    $G$ is very small, $c$ is very big and the ratio grows smaller as the radius grows larger.
+gravitational constant:   $6.67408 × 10^{-11} m^3 kg^{-1} s^{-2}
+c = 2.998 x 10^8 m s-2
+the ratio, unless my math is broken, centrifugal force to additional gravity from added mass by kinetic energy of motion = $1/r * 1.35 * 10^{27}$, so you'd need a hugely small r, almost a plank length or a singularity where the added gravity from kinetic energy of rotation would overcome the "flicking off the surface" or centrifugal force.  
+When I work out the units, I get meters per kilogram, which I don't think is right.   The units should cancel out with a ratio of two forces in opposite directions, so I think I made an error, but I don't see where I made it.
+My question is two fold.    1) is my math broken? and if so, where?   and 2) is the added mass from kinetic rotational energy ever relevant, say in a very rapidly rotating Neutron star?   Could it ever assist the Neutron star in collapse or add gravity?, I can see how it could add to flattening, as rotation flattens objects naturally and perhaps, add a speck of gravity on the polls where centrifugal force is zero, but logically, I think, rotational energy would end up spinning any non black hole object apart, long before the added energy of rotation had enough mass to make a measurable difference on gravity.    Is my sense right or is there a situation where added mass from energy of rotation could overcome the centrifugal force?

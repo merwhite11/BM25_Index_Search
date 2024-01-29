@@ -1,0 +1,17 @@
+How do different formulas for calculating the mean anomaly of an elliptic orbit correlate?
+
+I need to calculate the mean anomaly of an elliptic orbit at a specific point in time. I found two different formulas for $M(t)$ and I'd like to know how they correlate and if they result in different ouputs.
+The first formular is:
+$M(t) = \frac{2 \: \pi}{T}\:(t-t_o)$
+and its taken from this book.
+The second formular is:
+$M(t) = M_0 + \Delta t \sqrt{\frac{\mu}{a^3}}$
+taken from this document.
+Inputs:
+$T$... Orbital Period
+$t_o$... Starting point in time (epoch)
+$t$... Point in time
+$\Delta t$... Elasped time: $t-t_0$
+$\mu$... Standard gravitational parameter $\mu=GM$
+$a$... Semi-major axis
+$M_0$... Mean anomaly at epoch

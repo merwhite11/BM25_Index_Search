@@ -1,0 +1,17 @@
+What value of density would a planet need to be classified as a mini-Neptune?
+
+EDIT: well, now I have more
+For reference:
+
+A terrestrial planet is a planet that is made out of silicates and metals.
+
+A Mini-Neptune is, as far as I know, the smallest type of giant planet (arguably, not even giant), and a miniature version of an ice giant.
+
+
+Mini-Neptunes differ from terrestrial planets in that their atmospheres are significantly more voluminous, often being made out of hydrogen/helium or volatiles. This means that, while they may be roughly as massive as some of the larger terrestrial planets, they are significantly less dense and therefore significantly greater in volume.
+However, what's the dividing line? Where, density-wise, does a planet stop being a terrestrial planet and start being a Mini-Neptune?
+For the lower limit of that, we have the density of water, at about 1 gram per cubic centimeter; from what I've read, water is one of the densest things to make up a gas planet's atmosphere, so this seemed like a good lower bracket - but Mini-Neptunes will still be denser than this, since they're not all liquid water, hence the ambiguity.
+For the upper limit, we have Mars, which is approximately 3.93 grams per cubic centimeter and yet is quite obviously not a Mini-Neptune.
+And, for a confounding quasi-middle ground, we have the density of silicate rock, which, depending on which one of the million online sources you believe, is around 2.5 to 3 grams per cubic centimeter, which makes me think that we could conceivably have a planet that's around those densities without having it be a mini-Neptune - but I, of course, am not well versed in such things, which is why I'm here.
+I'm of the impression that the density "cutoff" isn't a clear line, but instead a sort of hazy it-might-be-a-steam-atmosphere/it-might-just-have-a-massive-surface-ocean type of thing. However, give it your best shot.
+So, the question: what is the smallest value of density a planet have before it's no a longer terrestrial planet, and are there any boundary cases?

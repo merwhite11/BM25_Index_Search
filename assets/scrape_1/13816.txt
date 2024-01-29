@@ -1,0 +1,3 @@
+what is the percentage of stars with planetary systems?
+
+I'm having hard times understanding the equation of Drake, i can´t find the number of the variable that refers to the stars with planetary systems (fp)

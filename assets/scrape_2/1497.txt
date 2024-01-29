@@ -1,0 +1,4 @@
+Calculate latitude and longitude based on date and sun
+
+I can't seem to find this algorithm, if it exists. Can you calculate the longitude and latitude of where you are standing based on the date and the angle of the sun? Also, would the algorithm work for any date past or future?
+Thanks for any help, AD

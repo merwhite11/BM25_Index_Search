@@ -1,0 +1,8 @@
+Semi major axis of an hyperbolic orbit
+
+
+The semi major axis (a) is not immediately visible with an hyperbolic trajectory but can be constructed as it is the distance from periapsis to the point where the two asymptotes cross. Usually, by convention, it is negative, to keep various equations consistent with elliptical orbits.
+
+I was reading about hyperbolic orbit and found this in the wikipedia, what does it mean?
+Can we just make a distance negative just to keep various equations consistent?
+I am a high schooler beginning my prepartions for Astrophysics Olympiad so I don't have an in-depth understanding of central forces. Sorry if this question comes as if I didn't do enough research on the topic.

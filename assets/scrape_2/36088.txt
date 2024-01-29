@@ -1,0 +1,4 @@
+Does the luminosity of a star on its main sequence increase or remain approximately constant?
+
+From my understanding, the luminosity of a main sequence star should increase because, in its core, hydrogen is being burnt into helium which means that the number density of hydrogen decreases and the temperature increases and from the Stefan–Boltzmann law, the temperature is proportional to the luminosity so the luminosity of a star should increase while it's on the main sequence phase of evolution. 
+Please correct me if my reasoning is incorrect.

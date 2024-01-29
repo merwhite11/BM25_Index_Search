@@ -1,0 +1,3 @@
+Earth-Moon Barycenter Perihelion
+
+I am trying to implement an algorithm I created to get the sun rise, transit and set accurately, but in order to do that I need to get the Earth-Moon barycenter (EMB) perihelion, and not the Earth perihelion. I tried to get such time using the Horizons System, but it resulted in weird outputs (it showed that the perihelion is around December 1st, 2021, but it should be closer to the Earth perihelion at January 4th, 2022). Are there alternatives to get the EMB perihelion time?

@@ -1,0 +1,77 @@
+How does eyepiece exit pupil diameter affect image clarity and viewing experience?
+
+This answer to Not Able to View Objects with Barlow Lens includes a calculation of exit pupil diameter as a way to address the limits of useful magnification when observing planets with a small telescope. A comment there cites Sky & Telescope's Stargazer's Corner: Adventures Under the Night Sky's Simple Formulas for the Telescope Owner for the math.
+
+EXIT PUPIL
+The exit pupil is the diameter of the "light pencil" that emerges from the eyepiece. The pupil of fully dark-adapted human eye can dilate to about 7 mm diameter, so an exit pupil in excess of 7 mm is passing more light than the eye can accept. On the other hand, as the exit pupil decreases below 7 mm, lack of light becomes the basic limiting factor to what you can see at night. Exit pupils of less than about 0.5 mm are so small and pass so little light to the eye that they are functionally useless. Actually, I like exit pupils of at least 1.0 mm for decent viewing.
+Exit pupil can be calculated by dividing the telescope's clear aperture (in millimeters) by the magnification produced by the ocular in use. Thus:
+APERTURE / MAGNIFICATION = EXIT PUPIL
+For example, our 100 mm clear aperture telescope with a 10 mm ocular is operating at 100x magnification and therefore has a 1.0 mm exit pupil (100/100=1)
+Another way to calculate exit pupil is to divide the eyepiece focal length in millimeters by the telescope's focal ratio (f/stop).
+OCULAR FOCAL LENGTH / TELESCOPE FOCAL RATIO = EXIT PUPIL
+Thus, a 10 mm ocular in our f/10 (100 mm clear aperture and 1000 mm focal length) telescope has a 1.0 mm exit pupil (10/10=1). Either formula results in the same answer.
+
+I've always paid attention to eye relief of the exit pupil, which is how far it falls beyond the eyepiece. My reference point here are my binoculars which have large diameter eyepiece optics which allows them to have a long eye relief; passing them back and forth between an eyeglass-corrected vision person and someone without glasses is just a quick rotation of the eyecups to different distances.
+But I never looked at the diameter of the exit pupil, as it seems not to be an independently adjustable parameter of the optics; the exit pupil diameter is "baked in" to the choice of objective aperture and desired magnification.
+As a side note it's worth mentioning that our eye's entrance pupil diameter is often cited around 6 mm or 7 mm (in the block quote) so anything larger than that is wasted. That was the key behind the answers to:
+
+Can a telescope ever increase the apparent luminance of an extended object?
+Can large scientific telescopes observe the Moon without being damaged?
+
+Question: How does eyepiece exit pupil diameter affect image clarity and viewing experience?
+The block quote relates small exit pupil diameters to "so little light to the eye that they are functionally useless." That might apply to extended objects differently than it would to unresolved objects like stars, asteroids or even distant planets in modest telescopes.
+Astronomical seeing and diffraction may also come into play; these effects can spread even unresolved objects in to apparently extended objects.
+Related:
+
+What range of exit pupils work for observing the full moon?
+Eyepiece diameter for small focal length planetary viewing on a large dobsonian?
+Comparing Light Collection Between Pupil and Telescope?
+
+
+Nikon Monarch 42 mm binoculars (for which I have some familiarity but no affiliation)
+
+
+
+
+Magnification
+10x
+8x
+
+
+
+
+Objective Diameter (mm)
+42
+42
+
+
+Angular Field of View (Real)
+5.5°
+6.3°
+
+
+Angular Field of View (Apparent)
+51.3°
+47.5°
+
+
+Exit Pupil (mm)
+4.2
+5.25
+
+
+Eye Relief (mm)
+18.4
+19.5
+
+
+
+
+Borrowed from How far are space-walking helmet faceplates from the eyes? How far will I have to hold my "space binoculars" from my eyes during a space walk?
+:
+
+ 
+See also Nikon Monarch Binocular Eyecup Repair How-to DIY
+What it looks like when you are too far away from the eyepiece. From Wikipedia's exit pupil. If you were looking for something in a field of stars this "tunnel vision" would make it a lot more difficult.
+
+Cropped and annotated from here

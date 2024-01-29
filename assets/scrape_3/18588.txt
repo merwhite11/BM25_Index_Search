@@ -1,0 +1,4 @@
+Exactly what in Saturn has been located to within 4 km precision?
+
+Saturn has been located with fantastic precision thanks to Cassini and VLBI. The location of the 120,000 km diameter giant planet (when defining the 1 bar pressure level as its surface) is known to within 4 kilometers. This has already been helpful in the (preliminary) discovery and characterization of "planet nine".
+I suppose it is the Saturn system's barycenter which has been located gravitationally. At this level of precision I suppose that the moons', especially Titan's tidal effects must be considered. But also Saturn's flattened shape and maybe even weather systems. Saturn is known to be lumpy inside, this has been discovered by the effects it has on the inner rings. Such lumps have similar effects as a moon, so I wonder if these too are being considered at the 4 km precision level, and overall exactly how the point located is defined?

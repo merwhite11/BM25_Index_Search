@@ -1,0 +1,3 @@
+Name for 1-e and 1+e terms?
+
+In several equations of orbital elements (such as the determination of true anomaly from mean anomaly), the terms 1-e and 1+e appear. These are the ratios of the orbital periapsis and apoapsis to the semi-major axis, but do the ratios themselves have names?

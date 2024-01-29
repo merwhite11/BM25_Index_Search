@@ -1,0 +1,5 @@
+Explanation for Planck 2018 temperature fluctuations strongest peaks
+
+As it can be seen from Plank 2018 Cosmic Microwave Background temperature fluctuations data-
+
+There are 3 sharp peaks at multipole expansions $\ell \approx 250, 550, 800 $. Also as multipole expansion goes on and adds more details to angular sensitivity of temperature fluctuations,- these fluctuations are damped-down almost exponentially. First question would be,- Why there are exactly 3 sharp peaks of CMB temperature fluctuations and what they are mapped to with respect to universe evolution timeline / structures/matter formation ? Are these peaks somehow related to the fact that universe is composed of ordinary matter, dark matter and dark energy, or this is irrelevant information ? And second question would be Why temperature fluctuations are decreased almost exponentially as multipole expansion goes on ? Thanks.

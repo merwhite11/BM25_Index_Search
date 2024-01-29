@@ -1,0 +1,5 @@
+A couple of questions about Earth's hypothetical planetary rings
+
+From what little I know of this subject, It should be possible for Earth (Or a planet the size of Earth) to keep a system of Planetary Rings. However, looking around the internet only gives me info about the ring systems we know of, but not about the mechanics of actually having one.
+Are there limits to how far/close the rings could be? Could their upper limit be as far away as the moon, or would they have coalesced into a satellite at that distance? Could their lower limit be as close as a geosyncronous orbit? Must they be even closer than that?
+The reason I'm asking this is because I was wondering if planetary rings would have hurt or helped implementing space infrastructure. On one side, the easy access to rocky asteroids would have helped the development of space mining, and easy access to icy asteroids could help combat climate change (and implement some simple geoengineering). But having them too close would make geosyncronous orbits a huge risk for artificial satellites.

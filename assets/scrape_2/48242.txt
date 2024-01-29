@@ -1,0 +1,62 @@
+Discrepancy between my calculated planet JPL ephemerides and those by Horizons online app
+
+I'm currently using JPL DE440 ephemerides. Following the documentation here, verified with the header file (specially the records in GROUP 1050) for the DE440 ephemerides (file header.440 available here), and using the Clenshaw algorithm to calculate the sum of the Chebyshev approximation, as described in section 3.3.4 of Fundamentals of Astrodynamics and Applications by David Vallado, I was able to obtain my own calculations.
+I then aimed to compare with the values produced by Horizons online app. However, I am getting a strange discrepancy, where the X coordinate for each planet is exactly correct but Y and Z deviate substantially.
+As a test case, I am using the position of Mercury (in ICRF frame, with the center at the Solar System barycenter, i.e., as produced directly after calculating the sum of the Chebyshev polynomials). In particular, for Julian date $JD=2469776.5$ (corresponding to 2049-Dec-01 00:00:00.0000 TDB), equivalently Modified Julian date $MJD=69776$, the coefficients are found in the first data block of file named ascp02050.440 here. This is confirmed by the fact that the first value in that data block (i.e., the first float in the second line of the file, since the first one indicated the block number and the number of coefficients) is 2469776.5. The second float is 2469808.5, indicating that this block contains the data for Julian dates comprised in that interval.
+Furthermore, as indicated by the GROUP 1050 section of the header file, DE440 contains 4 time subintervals for Mercury (1st value of line 3 of GROUP 1050), each one with 14 Chebyshev coefficients (1st value of line 2 of GROUP 1050). Having 4 time subintervals, each one corresponds to a period of 8 days. But since we are calculating the position at the beginning date of the interval, we are in subinterval 1.
+Furthermore, there are Chebyshev coefficients for the X, Y and Z position. Overall, this means we need in total 42 coefficients, which would be the first 42 floats in the mentioned ascp02050.440 after skipping the first two that indicate the Julian dates for which the coefficients apply. Of that set, the first 14 would be for the X component, the next 14 for the Y component, and the final 14 for the Z component.
+I then obtain the following values from the Clenshaw algorithm (values in km):
+
+
+
+
+Component
+Value
+
+
+
+
+X
+46410910
+
+
+Y
+-33842102
+
+
+Z
+-22826642
+
+
+
+
+On the other hand, from Horizons Web app, for Mercury, for the same JD, and with coordinates also in ICRF and referenced to the Solar System barycenter, I obtain:
+
+
+
+
+Component
+Value
+
+
+
+
+X
+46410910
+
+
+Y
+-40129438
+
+
+Z
+-7481419
+
+
+
+
+Values are truncated in both cases to the units of km, but for the X component they match up to at least 0.01 mm, which is the last digit provided by Horizons app.
+I have verified the same occurs for other planets and dates.
+The only difference I see with Horizons app is that they use the DE441 ephemeris instead of DE440 even in the range of application of DE440, but it seems unlikely that this would lead to such a large difference (and also no difference in the X component).
+Furthermore, I checked the example provided here for Mercury, where they state explicitly the X, Y and Z coefficients for Mercury for $JD=2458850.5$. I compared these coefficients with those extracted by my implementation and, while some of them have slight differences due to the fact that the coefficients in the linked example are from DE405, they agree very well, which indicates that I seem to be extracting the correct coefficients.
+Does anybody have any idea what I could be possibly missing here?

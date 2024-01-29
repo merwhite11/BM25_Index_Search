@@ -1,0 +1,5 @@
+How do I reduce planetary photometry to standard viewing geometry using phase angle?
+
+I'm trying to make light curves for Pluto using old data. Most papers give magnitudes "reduced to standard viewing geometry" of r = 39.5 AU, Δ = 38.5 AU, and α = 1 degree, where r is heliocentric distance, Δ is geocentric distance, and α is phase angle. 
+When papers give apparent magnitudes, I'm left to perform the reductions myself. I'm fine with the adjustment for r and Δ, but how do I reduce to phase angle of 1 degree?
+I would also really appreciate a good source if you have it on hand.

@@ -1,0 +1,5 @@
+How can we install a radar on radio telescopes like FAST or GMRT?
+
+Recently I came across an article mentioning that ever since the failure of Arecibo telescope, we only have one asteroid radar imaging telescope which is Goldstone observatory.
+The article also mentions the need of Asian (or any other country) radio observatory to upgrade their telescopes to telescope + radar system to take the place of Arecibo.
+This made me wonder how can we upgrade such system instead of starting all over again (building a new telescope that could handle radar imaging as well).

@@ -1,0 +1,7 @@
+Date of solstices pre-0 AD
+
+I’ve written a script based on Meeus’s Astronomical Algorithms to calculate the position of the sun, moon etc. up to about 4000 BC.
+Everything looks good, except when I go to 4000 BC the solstice are about a month after expected dates (they fall mid-July and mid-January.
+I checked through this forum and came across this: https://astronomy.stackexchange.com/a/13009 . I looked at the results and saw that we have very similar dates.
+Does the precession mean the solstices and equinoxes can shift to this extent? Or have I forgotten a step?
+Many thanks.

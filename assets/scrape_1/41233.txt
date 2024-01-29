@@ -1,0 +1,19 @@
+How do comets' nuclei stick together?
+
+Comets are commonly called icy dust balls or dirty snowballs and as such rather light:
+
+Known comets have been estimated to have an average density of $0.6 {\rm g}/{\rm cm}^3$. Because of their low mass, comet nuclei do not become spherical under their own gravity and therefore have irregular shapes.
+
+I read about their live times, I learned that they can rotate, how they can be classified by their type. NASA summarizes the key facts as follows
+
+Comets are frozen leftovers from the formation of the solar system composed of dust, rock and ices. They range from a few miles to tens of miles wide, but as they orbit closer to the sun, they heat up and spew gases and dust into a glowing head that can be larger than a planet. This material forms a tail that stretches millions of miles.
+
+What interests me has to do with their formation. I know that comets are not spherical and rather small in size. I am now wondering how comets' nuclei stick together, more specifically if there is some empiral knowledge or even some theory I should know about. Obviously, gravitation is not strong enough, so it must be merely the structural stability of the material, but how can that be estimated?
+References
+
+Press Release of the Max Planck Society: Are comets more like "Icy Dust Balls" or "Dirty Snowballs"? (2005)
+The creation of comets
+Can two comets travel together as one?
+How big do comets get?
+Why did the Comet Shoemaker-Levy-9 fragments cause such large explosions on Jupiter?
+The article from the Scientific American If comets melt, why do they seem to last for long periods of time?

@@ -1,0 +1,8 @@
+Calculate the time when Arcturus passed through the meridian
+
+
+If the observer observes Arcturus passed through the meridian about 23:00:00 of 28 April. Find the time that Arcturus passed the meridian in 29 April. And what day does the Arcturus will pass the meridian about 01:00:00?
+
+I think that when Arcturus passed through the meridian, the hour angle will be 0 degree. Sidereal time equal hour angle plus right ascension. right ascention of any stars always be the same. So Sidereal time will be as same as every times while the star located at the meridian. And it doesn't matter because solar time equal sidereal time minus 12hr. Do I understand something wrong? And how do I do this question?
+Adding question;
+Your answer was very clear. But if I consider about the moon instead ex; the observer is at the equator and saw the moon which has a declination of 0 degree set at 11:00 PM yesterday, what time the observer will see the moon set today? I try to use the thinking process like this again. I know that the sidereal month of the moon is 27.32166 days. I calculate the solar month of the moon from 365.24219 of solar year divided by 12, and I get 30.43684 days per solar month. From subtracting both of these numbers, I get 3 days plus about 2 hours 45 minutes and 52 seconds. So to answer this question I will get 2 hours 45 minutes 52 seconds behind. My answer is that I will see the moon set at 13:45:52 PM. Do I right? I don't understand why the time I get is behind instead of earlier as the question about the Arcturus I asked before. I'm also not sure that does the declination of the moon and the position of the observer relate or not too. Thank you very much:)

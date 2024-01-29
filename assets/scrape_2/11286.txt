@@ -1,0 +1,5 @@
+Speed of light through the ISM and Wavelength
+
+Articles written about fast radio bursts describe the signal's short-wavelength components arriving before its longer-wavelength components, suggesting energy-dependent time delays in the interstellar medium (ex. http://www.scientificamerican.com/article/a-brilliant-flash-then-nothing-new-fast-radio-bursts-mystify-astronomers/).
+Why are lower-energy signals slowed slightly more than higher-energy signals when passing through clouds of electrons? Also, how do we know about this slowing effect if it appears to be so small (what objects or events have exhibited the time difference)?
+My first-order logic guessed that higher energy radiation is slowed more, remembering the mnemonic "Blue bends best" from optics. I assume these intergalactic clouds behave quite differently from a solid prism.

@@ -1,0 +1,4 @@
+Secondary maximum in SNIa lightcurves for near infrared
+
+Type Ia supernovae (SNIa) are thermonuclear supernovae that generates a lot of Nickel 56 which emits photons while disintegrating. 
+How is the secondary maximum in lightcurves for reddish bands (see I, J, H, K bands in the figure below) explained ?

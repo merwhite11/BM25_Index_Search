@@ -1,0 +1,11 @@
+What is a "jumping trojan"? And what do their orbits look like?
+
+I was googling Neptune's trojan companions and found on Wiki this claim about  ~200 km diameter (316179) 2010 EN65:
+
+" the object is actually a jumping trojan, is jumping from the
+  Lagrangian point L4 into L5 via L3."
+
+So some asteroids not only oscillate between L4 and L5, between being trojans or greeks, but even go via L3, on the opposite side of the Sun? Are their orbits circular as Neptune's (in this case) or highly eccentrical? How could an object in the same orbit as Neptune have another orbital period than Neptune? Or how else can it migrate between L3, L4 and L5?
+And are "trojan" objects expected to gather in L3 too?
+EDIT: 
+I'd like to add these illustrations because I think they illustrate well how a regularly orbiting object seems to "stay" longer at L3, L4, L5. (I'm not sure whether "jumping trojans" have some significant other characteristics, though).

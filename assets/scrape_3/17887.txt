@@ -1,0 +1,5 @@
+How to calculate a Galactocentric distance of another galaxy
+
+So I have two parameters, I have the distance to a galaxy of 879 kpc and the sky distance in degrees (0.131501). How would I then use these two bits of information to calculate the Galactocentric distance in kpc? 
+N.B. for the two objects within M33, i.e., the centre of M33 and an undefined region of M33 are separated by 0.131501 degrees. Both objects can assume to have a distance from us of ~879 kpc.
+So I want to convert the value for the distance between the two objects within M33 (0.131501 degrees) to kpc...

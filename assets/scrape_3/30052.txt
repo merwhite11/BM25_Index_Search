@@ -1,0 +1,8 @@
+What is the highest angle the moon ever makes above the horizon at the North Pole?
+
+The question is in the title. I'd like to find out the maximum angle the moon ever makes above the horizon at the North Pole. By "the horizon at the North Pole," I mean the tangent plane to the earth at that point.
+Note that I'm not asking for the highest angle that the moon ever appears to make above the horizon. Appearances are distorted by refraction, etc., although I'm not sure by how many degrees. Though I'd be interested in the exact distortion: is there a data repository where I can look up the highest observed angle? 
+I would make the following prediction. The moon's orbital plane is inclined to the earth's equatorial plane at about $23.5+5\approx 28.5$ degrees. Let $R_e$ denote the radius of the earth and $R$ denote the radius of the moon's orbit around the moon. A little geometry for the highest point suggests
+$$\theta_{\text{max}}=\tan^{-1}\left(\frac{R\sin(28.5^{\circ})-R_e}{R\cos(28.5^{\circ})}\right)$$
+But because $R>>R_e$ (about 385,000 compared to 6300 km), $\theta_{\text{max}}$ should be just a little less than $28.5^{\circ}$.
+Is this right?

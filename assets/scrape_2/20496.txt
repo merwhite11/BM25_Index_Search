@@ -1,0 +1,12 @@
+Is there a better explanation of Hawking radiation?
+
+I'm writing a piece on Hawking radiation, and find I have something of a problem. The "given" explanation which I find on Wikipedia and elsewhere is unsatisfactory: 
+
+"Physical insight into the process may be gained by imagining that particle–antiparticle radiation is emitted from just beyond the event horizon. This radiation does not come directly from the black hole itself, but rather is a result of virtual particles being "boosted" by the black hole's gravitation into becoming real particles[10]. As the particle–antiparticle pair was produced by the black hole's gravitational energy, the escape of one of the particles lowers the mass of the black hole[11]. An alternative view of the process is that vacuum fluctuations cause a particle–antiparticle pair to appear close to the event horizon of a black hole. One of the pair falls into the black hole while the other escapes. In order to preserve total energy, the particle that fell into the black hole must have had a negative energy..."
+
+It relies on virtual particles and an negative-energy particles. However vacuum fluctuations are not the same thing as virtual particles, which only exist in the mathematics of the model, and we know of know negative-energy particles. So I'm looking for a better explanation. The Wikpedia article also says this:
+
+"In another model, the process is a quantum tunnelling effect, whereby particle–antiparticle pairs will form from the vacuum, and one will tunnel outside the event horizon[10]."
+
+However that suggests pair production is occurring inside the event horizon, which seems to disregard the infinite gravitational time dilation, and that one of them a) appears outside of the event horizon and b) escapes as Hawking radiation when pair production typically involves the creation of an electron and a positron. Again it's unsatisfactory. So:
+Is there a better explanation of Hawking radiation?

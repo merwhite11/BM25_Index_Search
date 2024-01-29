@@ -1,0 +1,3 @@
+Move asteroid away with white color?
+
+If we find asteroid flying towards us, can we change it's direction with white painting? Will the ray from sun do something?

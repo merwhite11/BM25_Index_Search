@@ -1,0 +1,5 @@
+Using the "Lithium test" to distinguish low-mass stars and brown dwarfs
+
+Both low-mass PMS (pre-main-sequence) stars and young brown dwarfs can fuse lithium in their cores and the lithium can be depleted throughout the star/brown dwarf very quickly. Wiki. Then the Li I 6708A absorption line disappears from the object's spectrum. 
+Why and how can the Lithium test be used as an indicator to distinguish between young brown dwarfs and young low-mass stars?
+Can somebody summarise in what cases we can tell whether an object is a brown dwarf or a low-mass star?

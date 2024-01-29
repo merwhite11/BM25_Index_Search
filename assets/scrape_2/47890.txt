@@ -1,0 +1,6 @@
+Can I "see" nucleosynthesis in R Geminorum with a small telescope, a plastic diffraction grating and a cell phone? (famous technetium lines)
+
+R Geminorum is a magnitude +6 to +11 variable star notable for the discovery of technetium spectral lines. As the longest lived isotope is only a few million years, this was direct evidence that nucleosynthesis happens in stars via the s-process.
+How easy would one of those technetium absorption lines be to see by an amateur astronomer?
+Could I get a high dispersion plastic diffraction grating (say 1200 lines/mm) from a science store, hold it between the eyepiece of a telescope and a cellphone camera and have a snowball's chance on R Geminorum of seeing a technetium line?
+Or are they really weak and require a large aperture and long exposure and sophisticated spectrograph to detect?

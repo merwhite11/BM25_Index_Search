@@ -1,0 +1,4 @@
+Stellar data for data mining
+
+Where could I find detailed data from stars? Like spectrum, x ray and so on ?
+Because I would like to do some data analysis on it.

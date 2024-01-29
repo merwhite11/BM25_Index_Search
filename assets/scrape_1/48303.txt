@@ -1,0 +1,6 @@
+Is there an official recommended expression for Doodson arguments?
+
+I am following chapter 6 of this 2010 IERS note describing the calculation of a geopotential model.
+In the notes of equation 6.8, two expressions for the parameter called $\theta_f$ is given. One of them involves Delaunay arguments, for which I found the recommended expressions in chapter 5 of the same IERS note. This is fine for the case of calculation of solid Earth tides corrections, since multipliers for the Delaunay variables are given.
+However, for the case of ocean tide corrections, most tide models describe the frequency of the different waves with the Doodson number, from which multipliers for the Doodson arguments can be obtained. Unfortunately, I have not been able to find in the IERS note, or in any other similar source, a recommended expression for the Doodson arguments. This section of Wikipedia gives an expression as a function of Delaunay's arguments, and cites this article as the source. But after checking it, it does not seem to actually contain the expressions for Doodson arguments.
+So my question is, is anybody aware of a good source with expressions for the Doodson arguments?

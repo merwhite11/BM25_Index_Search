@@ -1,0 +1,7 @@
+Feasibility of radioastronomy in densely populated areas
+
+In general, radioastronomy as well as optical astronomy depend on a good SNR. This meant to position telescopes as far as possible from noise sources. Optical telescopes were built at elevated points to reduce diffuse light from Rayleigh scattering. Radio telescopes were put into service at similar locations benefiting from shadowing effects of surrounding mountains.
+Even radio quiet zones were established mainly to protect large single dish antennas.
+With rising computation power available interferometry gained momentum. There are interferometers consisting of very cheap components relying on massive computing power to retrieve the signals from noise. Still, professional interferometers like MWA or LOFAR are built as far as possible from civilisation. 
+I wonder, if evolvement of algorithms and computing power might it make feasible to build interferometers close or even within more densely populated areas.
+Of course one needs to increase the number of antennas in comparison to remote areas to reach a comparable SNR but this might be outweighted by the reduction of cost for installation and service.

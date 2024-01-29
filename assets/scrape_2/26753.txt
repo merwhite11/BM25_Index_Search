@@ -1,0 +1,3 @@
+In sky surveys, what does inverse variation really mean? How do we use inverse variation to remove noise?
+
+I am trying to work on data from a .fits file and it has an IVAR header. How can I use inverse variation information along with the actual signal data to get better results or reduce noise?

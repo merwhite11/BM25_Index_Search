@@ -1,0 +1,5 @@
+How to disentangle a very distant star's relative velocity vs. redshift distance
+
+We measure a star's relative velocity towards or away from us via its Doppler-shifted spectrum. This is also how we measure the distance of very distant stars: measuring the shifts in the spectrum tells us its relative velocity, which we interpret as a distance via Hubble's Law. 
+Suppose we knew the star's relative velocity and distance exactly. It seems to me that if the star were moving away from us slightly less than would be expected from expansion alone, it would be because it was moving towards us more than the matter surrounding it: it would have some additional velocity component towards us. If we were to try to infer that star's distance from expansion alone, we would measure its relative velocity via the Doppler shift and would conclude that it was closer than it actually is. Conversely, if it were moving away from us faster than it should based on expansion alone, we would estimate its distance further than it actually is. 
+Is there any way to disentangle this degeneracy?

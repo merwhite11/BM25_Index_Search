@@ -1,0 +1,8 @@
+Does the orbital velocity of a planet affect its escape velocity from the planet surfaces?
+
+I'm trying to write a hard sci-fi novel with good accuracy, but when it comes to astronomy, I'm a total amateur.
+Here's my fictional planet that orbit a black hole information:
+Star Mass = 10000 Solar Masses
+Planet Mass = 1 Earth Mass
+The planet orbit is around 23 AU from the black hole. I did some calculations and it seems it had orbital velocity of 621 km/s. (compared to Earth: 30km/s).
+But would it be harder for a rocket escape from the planet or otherwise?

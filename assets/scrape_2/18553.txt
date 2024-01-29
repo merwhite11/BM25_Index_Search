@@ -1,0 +1,5 @@
+What does less than one count from an x-ray detector mean? (Swift BAT detector)
+
+I'm reading a paper about a recent x-ray burst from a suspected magnetar (A. Dai et al 2016) where they show a light curve of a burst that lasted about 10ms. (Their figure 1). The value of count rate for the peak of the burst from the graph is $6\text{ counts/s}$ over a timespan of less than $0.01s$. This corresponds to about $6*0.01=0.06 \text{ counts}$ for that time period. What does this mean? Is it not counts of photons? What is 0.06 photons? Is there a step in the data analysis I'm missing?
+
+(Fig. 1 Swift/BAT mask-weighted light curves in different energy bands)

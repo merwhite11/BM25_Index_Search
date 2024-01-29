@@ -1,0 +1,12 @@
+Minimum size of closed universe that satisfies ΩK < 0.005
+
+According to this Wikipedia article: https://en.wikipedia.org/wiki/Shape_of_the_universe
+
+Results of the Planck mission released in 2015 show the cosmological curvature parameter, ΩK, to be 0.000±0.005, consistent with a flat universe.
+
+If we assume the curvature of the universe is in fact at the upper bound of this measurement (ΩK = 0.005) then what would the diameter of the universe be?
+More precisely, if we assume the universe is a closed 3-sphere with ΩK=0.005, then how far would a light beam travel before returning to its source?
+For reference, this article implies that the universe should be at least 14 trillion light years in diameter based on curvature estimates from the earlier WMAP mission:
+https://scienceblogs.com/startswithabang/2012/07/18/how-big-is-the-entire-universe
+
+If the Universe does curve back and close on itself, its radius of curvature is at least 150 times as large as the part that's observable to us! Meaning that -- even without speculative physics like cosmic inflation -- we know that the entire Universe extends for at least 14 trillion light years in diameter, including the part that's unobservable to us today.

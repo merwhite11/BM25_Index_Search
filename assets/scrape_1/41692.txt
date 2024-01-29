@@ -1,0 +1,4 @@
+Is a star with 2/3 solar masses and 9/10 solar radii still in the main sequence?
+
+As far as I know, K-type and G-type stars (among others) grow in radius as they age, eventually leading to red giant phases.
+My question is, would a star that is about 0.66 solar masses and 0.94 solar radii simply be an old star still in the main sequence, or would this radius be considered large enough relative to its mass to indicate rapid ballooning into the red giant phase?

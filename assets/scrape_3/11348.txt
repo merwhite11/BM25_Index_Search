@@ -1,0 +1,6 @@
+How to find the distance between two quasars
+
+I want to calculate the distance between two quasars of which I know the angular position and the red shift. Let $Q_1=(\alpha_1,\delta_1, z_1)$ and $Q_2=(\alpha 2,\delta 2, z_2)$ and suppose $z_2 > z_1$.
+I know how to find the angular separation $\theta$ between them by means of the angular coordinates. But how to find the comoving distance (at epoch $z=0$) from them ? I know how to find the comoving distance from the Earth of the two quasars, can we find the distance between them using these two distances?
+A related question is to find the redshift of $Q_2$ as seen by $Q_1$ at the epoch when $Q_1$ received the light emitted from $Q_2$ .
+There is some standard method to solve this problem ?

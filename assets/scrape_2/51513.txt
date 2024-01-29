@@ -1,0 +1,5 @@
+What is meant by " elliptical galaxies stabilize due to the chaotic motion of stars"?
+
+I read that elliptical galaxies stabilize due to the chaotic motion of stars. As I understand that means that the stellar motions are more nearly random in direction. So they perform independent movements along all major axes a,b,c (in case of a triaxial system). In contrary to spiral systems where they stabilize through orderly rotation. Are these statements correct? If yes, how can I understand the process of stabilization due to chaotic motion in ellipticals. What I think I understood is that the stars are considered as a collision-free gas that is relaxed through violent relaxation (redistribution of kinetic energy so that a thermal equilibrium is created).
+If the orbits of the stars are random in ellipticals, how is it that I can see rotation, through red- and blueshifts of the respected upper and lower parts of the observed galaxies in the post I made here: How to extract galaxy spectra for different radii in Python for spectra taken by long slit spectrograph?
+Thank you for your clarifications..

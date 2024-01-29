@@ -1,0 +1,8 @@
+Evaluating Potentials using Galpy
+
+I am trying to model galactic disks. From the past research we have discovered that the halo follows the logarithmic potential, the disk follows the Miyamoto-Nagai potential and the bulge follows the Hernquist potential. I have the $R$ and $z$ coordinates of a sample of stars divided into halo, bulge and disk stars and I am trying to compute the potentials of these potential using galpy's galpy.potential.evaluatePotentials(Pot, R, z, phi=None, t=0.0, dR=0, dphi=0).
+However, it looks like the potentials are defaulted as non axis symmetric during initialization since I am getting the error message as shown in the image.
+
+Is there a way to make this work?
+Coding the potentials is one way to get around the problem, however, before resorting to this option, I needed to check whether there are solutions available already.
+Cheers!!!

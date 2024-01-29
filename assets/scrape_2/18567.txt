@@ -1,0 +1,6 @@
+How much mass do the volcanoes of Io erupt past escape velocity?
+
+While trying to do some calculations to answer this quesion, I got stuck missing a crucial piece of data: I have no clue how much mass the volcanoes of Io manage to throw out of the gravity well of the Jupiter moon.
+It is clear that most of the erupted material falls back to the surface, and the various velocity estimates I have found are quite a bit lower than the escape velocity (~2.56 km/s). For instance "up to 1 km/s".
+One number that is possible to find is how much mass the magnetosphere of Jupiter strips of Io. Most are listing that as 1000kg/s (example). That is about as much as the wheat production of Canada.
+Are the volcanoes directly throwing away a lot more than that? A lot less? Not at all?

@@ -1,0 +1,7 @@
+What practical considerations are there for amateur observations of transiting exoplanets?
+
+Obviously, I am not referring to actual viewing of the exoplanets themselves, but detecting their effects on the brightness of the light emitted from the parent star (as in the diagram below from The Institute of Astronomy, University of Hawaii).  
+
+I would imagine that a good quality telescope, would be about to detect and record the effects of the exoplanet transiting the parent star.
+What practical considerations in terms of equipment, software etc. would be required for 'backyard' amateur observations of the effects of transiting exoplanets? 
+If anyone has actually tried this, what has been your experience?

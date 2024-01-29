@@ -1,0 +1,6 @@
+Would an object shot from earth fall into the sun?
+
+Would an object shot from earth fall into the sun?
+If an object is shot at 107,000 km/h via rocket or otherwise, in the opposite direction to our orbit about the sun, it will be traveling at 0 km/h relative to the sun. The moon is not close enough to the object to have a significant force for the purposes of this question.
+Will this object start accelerating towards the sun or will it somehow fall into another stable orbit?
+Could it instead get trapped in the L4 Earth-Sun Lagrange point?

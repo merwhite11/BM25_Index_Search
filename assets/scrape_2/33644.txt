@@ -1,0 +1,3 @@
+How was Cassini able to measure and use the Earth-Mars distance to get the Earth-Sun distance?
+
+How was Cassini able to measure and use he distance between Earth and Mars to get the Earth-Sun distance? How were the ratios of Earth-Mars and Earth-Sun calculated then? Given Kepler's laws all we need to now find is orbital period? How did they manage to do this without distance?

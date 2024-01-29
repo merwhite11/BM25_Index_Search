@@ -1,0 +1,5 @@
+In System KIC 9246715, How Far Does One Star Orbit the Other?
+
+I was going to ask if it's physically possible for one red giant to orbit another, but fortunately, I have just found such a thing--a red giant binary system known only as KIC 9246715.  In this article, all I could find of the distance between the stars is that one orbits the other in an orbit of 171 days.
+The only problem with that statement is that it doesn't tell how far one star orbits the other in miles.  In our solar system, a 171-day orbit would be midway between Mercury (orbital revolution:  88 days) and Venus (orbital revolution:  225 days).  Obviously, this couldn't be the case for two stars that are each bigger than our own sun.  But even binaries confer to Kepler's Third Law of Motion, that the farther one body is from its parent, the slower it'll complete one revolution.
+So in this real system, have there been any estimations of how far one star orbits the others measured in miles or kilometers?

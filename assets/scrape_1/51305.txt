@@ -1,0 +1,9 @@
+calculation of observers latitude, first vertical
+
+In an exercise, I have to calculate the observers latitude.
+Given are the altitude a of the star at the passage through the first vertical (Azimuth = 90°/-90°), the sideral hour, the right ascension, hour angle H and declination d.
+Our professor has given us two equations:
+cos(a-90°) = sin(d)/sin(phi)   for |phi|>|d|
+and
+cos(H) = tan(d)/tan(phi)
+when I use Excels atan2-function, the second equation gives me the same result as the first one, so I suppose that is the correct one?

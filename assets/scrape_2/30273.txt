@@ -1,0 +1,22 @@
+Expansion of space - how do we end up with an unobservable region?
+
+I've just been answering a question on this issue,in physics SE,and realised that my answer conceals a point I don't myself understand.
+I understand that
+
+The expansion of metric isn't affected by the SR speed of light/signal propagation, and that this resulted in objects placed at separations (as measured within spacetime) where they can't be detected or signals received from them in the 13.7 bn years since the Big Bang.
+The rough scale of expansion discussed is ~ 10^26 linearly (roughly 1nm -> 10 ly) and most of that took place in a tiny period of time, at about 10^-32 or so seconds, continuing much slower since then, and speeding up again in the last while.
+The expansion is theorised to be triggered by energies/effects of a phase change or decomposition of a unified field, meaning it didn't happen at all until it did. One implication seems to be that any expansion increased distance between objects in space which might have arisen before expansion, as modelled by current theories, would have been a result of some physical movement affecting the distribution of energy/transient particles/whatever existed, within spacetime, and was not due to any earlier episode of metric expansion. 
+
+So far so good.
+What I don't get is this:
+Suppose we model the dominant modes of expansion of the universe and separation of objects within it, like this:
+
+physical changes to distribution within spacetime (objects move apart within space) for first 10^-32 sec
+metric expansion instantaneously of the order 10^26, at 10^-32 sec or so.
+broadly, expansion in space since then - I know its a mix of that and continuing but slower metric expansion, but not sure if that's affecting the line of logic.
+
+Starting at a point at time zero, we find that two objects would be at most ~ 2 x 10^-32 light seconds apart at the start of expansion, or 2 x (3x10^8) x (10^-32) m apart = 6 x 10^-24 m. Therefore after expansion two objects could be at most (6 x 10^-24) x (10^26) apart = 600m apart. That's still a pretty trivial distance for light or signals to propagate, though
+(I agree, if objects had initially been 1km or 1 ly apart immediately prior to the expansion epoch, they would now be billions of light years apart after expansion, and unobservable. But by definition, before expansion they just  didn't have time to become that far apart, they could at most become a tiny distance apart, because only ~ 10^-32 sec had elapsed)
+So after initial expansion it seems that the universe could have been at most 600m diameter. Similar logic applies to the much slower expansion  since then.
+But a non observable universe effect seems to imply that after initial expansion, the universe was light years across, and objects in it were able to be far enough apart to be unobservable now, meaning > 13.7 ly apart. But that would imply a much larger expansion than 10^26, or a much larger size before expansion than there was time to achieve pre-expansion (which would have been predominantly SR limited and within spacetime, hence order of 10^-24m as above).
+What is the resolution of this paradox / point I'm missing?

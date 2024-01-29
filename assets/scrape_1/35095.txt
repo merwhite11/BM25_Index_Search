@@ -1,0 +1,5 @@
+Color index B-V of the dimming Betelgeuse
+
+Using AAVSO light curve generator I have plotted V and B magnitudes of Betelgeuse in the past 150 days to see trend of B-V color index. If dust would be the cause of the recent drop in the star brightness, I would expect redenning (in fact de-blueing) of the starlight, that is increase of B-V value. In fact, B-V changed only slightly and it the opposite direction. In case of interstellar reddening, I thinks that change of V magnitude is roughly 3 times greater than the change of B-V color index, which is not the case here.
+
+Is the change of B-V color index of Betelgeuse compatible with expected properties of circumstellar dust?

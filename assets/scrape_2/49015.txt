@@ -1,0 +1,23 @@
+Errors in photometric magnitudes from SDSS DR16
+
+I'm playing around with the data in the SDSS DR16, but the magnitudes have huge uncertainties:
+for i in ['umag', 'gmag', 'rmag', 'imag', 'zmag']:
+    print(max(dataset[i]))
+
+30.889
+26.3114
+26.5881
+29.9517
+24.465
+
+
+for i in ['e_umag', 'e_gmag', 'e_rmag', 'e_imag', 'e_zmag']:
+    print(max(dataset[i]))
+    
+2661440.0
+37.8006
+25.9054
+2392490.0
+113.926
+
+Why are the errors so large? Could they be millimags? But even then, e_umag and e_imag are enormous, compared to the measurements. A comment on this question states that errors should be ~0.01.

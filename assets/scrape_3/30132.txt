@@ -1,0 +1,3 @@
+Earth orbit around the Sun and its position in the Galaxy
+
+Given the orbit of the Earth around the Sun and the position of the Sun in the Galaxy, in which season are we (the Earth) closer to the galactic center?

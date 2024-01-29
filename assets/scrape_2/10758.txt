@@ -1,0 +1,11 @@
+Milky Way stellar number density : is the stated equation in this paper incorrect?
+
+The paper is :
+http://www.astro.washington.edu/users/ivezic/Publications/tomographyI.pdf
+The equation is equation #23 in the paper. It's a model for the density of stars in the Milky Way's disk. It has an exponential dependence on both $R$ and $Z$. $R$ is the distance from the center of the galaxy, and $Z$ is the distance above/below the plane of the disk.
+The relation is roughly this:
+$$\varrho=\text{constant}\times e^{-\frac{R}{L}-\frac{Z+Z_0}{H}}$$
+The problem I'm seeing is the $Z$-dependence of the formula. $R$ and $Z$ here are standard cylindrical coordinates. Thus, $Z$ can be positive or negative. The problem is that the formula blows up when $Z$ is negative. This is unphysical, since the number density must generally decrease going further away from the disk.
+Am I missing something? Or should the equation really have an absolute magnitude of $|Z + Z_0|$?
+[Added Later:]
+I finished making a 3D demo of the stellar number density of the Milky Way. Note that your browser needs to support WebGL.

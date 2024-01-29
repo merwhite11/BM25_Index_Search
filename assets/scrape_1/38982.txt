@@ -1,0 +1,10 @@
+How accurate is Stellarium at depicting the Earth, from the Moon, approaching a solar eclipse (from Lunar perspective)?
+
+This is how Stellarium depicts the positions of the Earth and Sun 24 hours before the solar eclipse (from Lunar perspective) on Jan. 13, 2131
+
+A close up of the Earth on that day (Jan 12) shows no indication of any crescent Earth visible.
+
+On Jan. 11, there is the barest of indications of a crescent Earth visible.
+On Jan. 10, more of a crescent Earth is depicted.
+
+Is there anyway of telling the accuracies of these depictions? Is there reason to think the human eye could see something of the Earth or its atmosphere on January 12, or would it appear entirely black?

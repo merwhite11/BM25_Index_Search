@@ -1,0 +1,5 @@
+Space telescope spectroscopic data for stellar classification using Wien's law
+
+My goal is to make a simple project which consists of classifying stars by applying Wien's displacement law.
+I need public spectroscopic data about different stars from a space telescope, so that I can find the stars' peak wavelengths. Also, I need the spectoscopic data to include wavelengths from 50 nm to about 860 nm.
+Here's my request: I'd like a recommendation for a space telescope that would be adequate for these purposes.

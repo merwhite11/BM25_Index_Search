@@ -1,0 +1,10 @@
+How did Michelson measure the diameters of jupiter's moons using optical interferometry?
+
+In Betelgeuse: How its Diameter was measured (Chant, C. A., Journal of the Royal Astronomical Society of Canada, Vol. 15, p.133, Bibliographic Code: 1921JRASC..15..133C) the author says:
+
+The paper in which this result was given was published in the Philosophical magazine  in 1890, and in it Michelson remarks that the method might be used in measuring the diameters of small planets, satellites and possibly the fixed stars. Next year, by invitation of Lick Observatory, he tested his method on the satellites of Jupiter with decided success, his results being near to the mean of the measurements made by astronomers with the micrometer. (See Michelson, Light-Waves and their Uses, p. 142.)
+
+This article is on pages 133-136 and I assume this means that I should turn several pages forward and look for Light-Waves and their Uses staring on page 142, but alas I'm not in a library, enjoying "old book smell" and leaving through 100 year old journals.
+I've tried several internet attempts to search for a link, and edited the url to the current article to try to move to page 142, but nothing works.
+Question: How did Michelson measure the diameters of jupiter's moons using optical interferometry, and how can I read further about it? What instrument did he use, what slit spacings, etc?
+Related, describing what the article linked above describes: What equipment and techniques were used to study Betelgeuse's diameter in 1920?

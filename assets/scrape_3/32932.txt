@@ -1,0 +1,5 @@
+Orbital Resonance
+
+First, let me verify that this statement is correct:
+Planets will tend to migrate toward stable orbital resonances with other planets around the host star. There are unstable resonances, also, where two or more resonances are very close together, and there will be gaps in these orbital distances like in our asteroid belt. Planets with more elliptical orbits will tend to migrate in this way faster than those with more circular ones.
+My question is: Is there mathematics that backs this up or just computer modeling? I suppose this is a multi-body problem that can only be solved with computer iteration, but are there basic mathematical principals to suggest this would happen?

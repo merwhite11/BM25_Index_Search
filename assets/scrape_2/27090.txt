@@ -1,0 +1,5 @@
+Total rotational angular momentum estimates for Jupiter?
+
+I wrote a quickie answer where I estimate the total rotational angular momentum of Jupiter as about 7E+38 kg m^2/s. However it bothers me because one of the sources gets this number assuming uniform density, and the other two cite 6.9E+38 kg m^2/s but it's not clear to me where this comes from.
+Are there better estimates that use reasonable models for Jupiter's density distribution?
+update: If not answerable due to uncertainties in density distribution and/or gradients in rotation rate (i.e. non rigid-body rotation) which I sort-of remember reading about recently, then an explanation why a better value isn't available would be an acceptable answer.

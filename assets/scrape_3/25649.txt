@@ -1,0 +1,8 @@
+How can a red giant grow so big?
+
+Supposedly when the sun becomes a red giant, it will grow big enough to swallow Earth.
+However, this requires the radius of the sun to expand by a factor of approximately 215×, meaning its volume would have to expand 10,000,000×.
+Maybe it's just me, but something about this doesn't feel intuitive :-) especially given that the sun isn't gaining much mass. Exactly what about fusing elements heavier than hydrogen implies that the reactants and/or products take up 10,000,000× as much volume? Nobody ever explains this when explaining the stellar lifetime, and I don't understand why it should be the case. (In fact, I would have expected fusion to result in a decrease in volume, given that nuclei are combining...)
+Edit:
+It seems there are 2 types of red giants, some that occur during hydrogen fusion, some helium.
+If the answer is different for these two types, I'd at least like to know the answer for the helium type (though of course I'd appreciate one that goes further and addresses both).

@@ -1,0 +1,8 @@
+Why temperature of dark side of moon is not 3 Kelvin
+
+The temperature of the space between Earth and the Moon is around 3 Kelvin ($\approx -270^\circ {\rm C}$). The moon has no atmosphere, therefore the heat convection is not possible from the bright side to the dark side on Moon.
+Now, if the temperature of the space around the moon is $3 {\rm K}$, then how the dark side of the moon is having a temperature of $100 {\rm K}$?
+References
+
+https://sciencing.com/temperatures-outer-space-around-earth-20254.html
+https://www.space.com/14725-moon-temperature-lunar-days-night.html

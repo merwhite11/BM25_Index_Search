@@ -1,0 +1,14 @@
+Reverse polynomial model for reverse astrometry
+
+I have a polynomial model that can transform pixel X,Y coordinates to standard $\xi, \eta$. This model looks like this:
+$\xi/\eta = a_1 + a_2x + a_3y + a_4x^2 + a_5xy + a_6y^2 + a_7x^3 + a_8x^2y+a_9xy^2 + a_{10}y^3 + a_{11}x^4 + a_{12}x^3y + a_{13}x^2*y^2 + a_{14}xy^3 + a_{15}y^4$
+where I know every $a_i$ cooefficent for both $\xi$ and $\eta$. I also know equatorial coordinates of center pixel so I can use those formulas to get equatorial coordinates of given X, Y pixel:
+$
+\tan\Delta\alpha = \frac{\xi}{cos\delta_0 - \eta\sin\delta_0} \\
+\sin\delta = \frac{\sin\delta_0 + \eta\cos\delta_0}{\sqrt{1 + \xi^2 + \eta^2}}
+$
+So right now I can get equatorial coordinates of given pixel. My question is how to reverse this polynomial model to get pixel X, Y coordinates from standard coordinates?
+EDIT:
+To answer concerns about relevancy for astronomy and inversing this using CASs: this equation is somewhat standard equation for plate solving, especially for wide field of views where you can tweak $a_i$ to reduce distortion. I don't want to use straight mathematical approach for inversing this function, because the results are quite complicated and I feel like, with how commonly SIP and WCS are used, there should be an easier way of calculating pixel X,Y coordinates from equatorial (or standard).
+EDIT2:
+Sorry for misunderstanding. I don't have corresponding image or valid FITS header. Only thing I have got is SIP (the $a_i$ coefficetns and $\alpha_0$ and $\delta_0$) model for converting from pixel to standard.

@@ -1,0 +1,3 @@
+Super massive black hole mass estimation in literature
+
+What is the most accurate method for SMBH mass estimation? In the literature I could find 5 methods : (1) Marconi & Hunt 2003, (2) Hu 2008, (3) Gultekin et al. 2009, (4) Graham 2007, (5) McLure & Dunlop 2002. Please tell me which is more accurate? Also, can you suggest other methods and concern references? Thank you.

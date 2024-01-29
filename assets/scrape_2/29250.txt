@@ -1,0 +1,9 @@
+Is this a coincidence?
+
+The smallest distance probed in any experiment so far conducted is $10^{-18}$m and the largest distance we can have is the radius of the universe, nearly $10^{26}$m. The ratio is $10^{44}$.  
+In another case, if we think about time, the shortest time studied is about $10^{-26}$ sec and the longest time is "the lifetime of the universe", which is estimated to be $13.7$ billion years, or nearly $10^{18}$ sec. The ratio is again $10^{44}$!
+Is this(the ratio belongs is of same order) a coincidence or there is some deeper explanation(probably space and time are related etc.)? I am an undergrad student, don't know much about astronomy. I wondering about this question while studying quantum mechanics from the book The Quantum World, which claims that it is not a coincidence. 
+
+The book explains it in the following way - 
+"This is not a coincidence. The outermost regions of the universe are moving at a speed near the speed of light, and the particles flying about in the subatomic world are also moving at such speed. On both subatomic and cosmological frontiers, the speed of light is the natural link between distance and time measurements."
+I haven't posted exactly what the book is saying because I wanted to hear what other people are saying about this and also because I haven't understood what the book is saying.

@@ -1,0 +1,3 @@
+How to the find radius of a galaxy given its inclination?
+
+If the semi major and semi minor axis of a galaxy are 3" and 1" respectively, how would you find the radius of the galaxy?

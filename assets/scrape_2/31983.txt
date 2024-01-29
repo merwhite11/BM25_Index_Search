@@ -1,0 +1,15 @@
+Could an Earth-like magnetic field protect life at exoplanet Proxima Centauri b?
+
+I took a look at Wikipedia's page for Proxima Centauri b, the exoplanet that orbits Proxima Centauri, where it is said it is expected to receive 2000 times of stellar wind pressures than on Earth.
+It does not say anything about Proxima b having a magnetic field, but I found this paper where a magnetic field for the planet is predicted:
+
+In our simulations, most Proxima b analogues develop intrinsic dynamos
+  that last for 4 Gyr (the estimated age of the host star). If alive,
+  the dynamo of Proxima b have a dipole moment . These results are not
+  restricted to Proxima b but they also apply to earth-like planets 
+  having similar observed properties.
+
+My question is if an Earth-like magnetic field, if Proxima b has one, could protect life as it does on Earth, or, conversely, habitability could not be possible due to stellar wind.
+
+Jorge I.Zuluaga, Sebastian Bustamante (2018): "Magnetic properties of Proxima Centauri b analogues". Planetary and Space Science.
+Volume 152, March 2018, Pages 55-67

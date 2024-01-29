@@ -1,0 +1,4 @@
+Solar system datasets for exoplanet analogs?
+
+Are there data from the solar system available, that are about quantities we regularly investigate in exoplanet searches?
+The only collection I know of comes from this paper: "A Catalog of Spectra, Albedos, and Colors of Solar System Bodies for Exoplanet Comparison".

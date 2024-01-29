@@ -1,0 +1,5 @@
+How are radio telescopes pointed?
+
+In the past, I worked as a programmer in a radio astronomy station, and since then I have a question on my mind.
+To observe a star with a telescope, we locate its location with our eyes and then we try to point the telescope using our eyes. We analyze light signals to point the telescope.
+How do we do it with a radio telescope knowing that our eyes cannot discern the radio waves emitted by a star in the sky ? How can we be sure that the radio telescope is pointed at the right object? With a classical telescope, it is simple, we have our eyes but how can we be sure with a radio telescope?

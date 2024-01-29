@@ -1,0 +1,6 @@
+What is the smallest possible planet with same sea level atmospheric pressure as Earth?
+
+Suppose there is a planet made of pure tungsten (a quite common and heavy element), with perfect spherical shape.
+Which should be its radius so that the air pressure and ground/sea level is the same as on earth ?
+I don't know if it is sufficient to have a 1G gravity, because the smaller radius could affect the density of the atmosphere as the gravity will decrease differently that from earth.
+For sake of simplificy, say that this planet is on the same orbit as Earth, orbiting around a twin of our Sun. Also magnetic field and atmosphere composition should be comparable to the Earth's one (altough this is not realistic, due to the lack of body of waters).

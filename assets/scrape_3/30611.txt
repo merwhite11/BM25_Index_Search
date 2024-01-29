@@ -1,0 +1,4 @@
+If a photon were 1 Planck length away from the event horizon of a blackhole, would it be able to escape the blackhole's gravitational pull?
+
+I understand that one could theoretically replace the sun with a blackhole without affecting the orbits of the planets. This leads me to believe that a blackhole isn't a "cosmic vacuum cleaner" so much as it is a concentration of mass that has the strongest gravitational field known.
+Intuitively, this must mean that there is a threshold beyond which escaping the blackhole's gravity becomes impossible even at light speed, which is the event horizon. Since a Planck length is the smallest unit known at which quantum gravitational effects become apparent, would it be reasonable to assume that a photon that is one Planck length away from the event horizon of a blackhole can escape its gravitational pull?

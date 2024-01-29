@@ -1,0 +1,5 @@
+About the formula for taking in count of the observer altitude in sunrise/sunset formula
+
+I'm new here and searched for solution but did not found one. I have found algorithms in order to calculate sunrise and sunset times for an observer on the surface of Earth with explanations of derivations of these formulae, but I want to improve it by including the altitude of the observer. I found an article in Wikipedia.
+Could one explain to me, from where is this "2.076 degrees" in the formula $-2.076^{\mathrm{o}} \sqrt{\mathrm{elevation\:of\:observer\:in\:meters}}/60^{\mathrm{o}}$ derived and calculated?
+Thanks in advance!

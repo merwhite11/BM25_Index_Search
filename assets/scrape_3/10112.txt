@@ -1,0 +1,5 @@
+Could we detect an earth-like planet around another star?
+
+Could we detect an earth-like planet (e.g. similar distance from star, and similar size) with current planet finding techniques?  If an earth-like planet were orbiting our nearest star, excluding the sun :-), would we have detected it by now?  
+It seems current techniques tend to find large planets orbiting close to their star, or for direct observation, find large planets further away from their star.  Likewise, we have found many very large planets very close to their star (e.g. hot Jupiters), and some rocky planets somewhat larger than earth close to stars, but not very many (if any) that are very similar to earth (e.g. distance from star and size).  It seems the current techniques available do not readily detect earth-like planets though, so it may be that there really are many earth-like planets, but we haven't seen them yet.  Here is an article on current planet detecting techniques.
+http://en.wikipedia.org/wiki/Methods_of_detecting_exoplanets

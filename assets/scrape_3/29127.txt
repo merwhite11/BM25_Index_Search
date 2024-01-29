@@ -1,0 +1,7 @@
+How to get ephemeris data for location?
+
+How can I obtain ephemeris data which fits to a specific location? Differently phrased: I need ephemeris data of satellites which orbited a specific location. Is there a document where I can look up references?
+Right now I am looking in ftp://cddis.gsfc.nasa.gov/gnss/data/daily/2019/ but the subfolders only contain weirdly named broadcast files which don't make much sense to me. 
+The reason I need these ephemeris files is that I want to test gps-sdr-sim with a USRP I got. I know that those ephemeris broadcast files contain data to every other satellite in orbit (but not in the same file as I understand). 
+I tried multiple ephemeris files with gps-sdr-sim but none of the data transmitted worked for the location I am in.
+Any help would be appreciated.

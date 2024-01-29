@@ -1,0 +1,3 @@
+Computation of magnitude of the secondary
+
+How to approximately compute the magnitude of the secondary in a binary when I know the magnitude of the primary, masses, radii, and approximate luminosities for both of them, please? Thank you very much.

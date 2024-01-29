@@ -1,0 +1,4 @@
+How far out would we need to travel to measure the "constant observer"?
+
+One hypothetical tenet of much astrophysics is that the Universe is uniform on large scales.  This actually hinges on many deep theoretical results from astrophysics, since what we actually observe is that the Earth is at the center of the observable universe, and that stuff near the edges of the observable universe is quite different than stuff near the center.  However, these theoretical results could be verified by, e.g. traveling to a different point in the observable universe and observing the universe from that point.
+Unfortunately, we are currently constrained to observation from Earth, so this concept of the "constant observer" is difficult to test directly.  At current technological levels, how far would we need to travel away from the Earth to perform an experiment directly verifying the "constant observer" effect?

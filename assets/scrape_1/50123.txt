@@ -1,0 +1,5 @@
+What physical process can Metallicity(Z) of a galaxy tell us?
+
+For example, if there is a galaxy and its metallicity increase or decrease from high redshift to present day (We can see it from simulation like TNG or EAGLE). What physical process we can know?
+Metallicity defined as (Mz/Mtot, where Z = any element above He)
+My answer is that if metallicity of a galaxy increase, that means this galaxy is star-forming because new stars are thought to be with higher metallicity. I don't know if it is right.

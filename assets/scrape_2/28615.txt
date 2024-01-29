@@ -1,0 +1,32 @@
+How does Canada's radiotelescope CHIME manage polarization-dependent apodization of the fast f/0.25 optics?
+
+CHIME, the Canadian Hydrogen Intensity Mapping Experiment uses four parabolic cylinder reflectors and a dense linear array of 256 x 2 polarization feeds along each focal line. Each feed is a dual polarization cloverleaf. The axes extend north-south (NS) and the cloverleaves appear to have their resolved polarizations EW and NS as well.
+My problem is the radiation reaching the cloverleaves from a source at the zenith, reflected from one tip of the parabola to the other is spread out over a 180 degree arc since the parabola is f/D of 0.25. The focal plane is the same height as the edges of the parabola.
+imagining the electric field in the NS direction and I imagine a significant cancellation of the electric fields scattered from the east and west tips of the parabolas. If the incident wave is coming down vertically and it's electric field is pointed E, the ray from the east tip may be pointed up, while that from the west tip would be pointed down, so these would tend to cancel leaving the effective aperture smaller for this polarization. (An NS polarized ray would not experience this interference.)
+I would call this a kind of polarization-dependent apodization.
+Why not simply rotate the cloverleaves by 45 degrees so that the two polarizations were matched and there was no polarization-dependent apodization?
+
+I haven't found any details about this in The CHIME Fast Radio Burst Project: System Overview nor in the reference below.
+below x2: from The cloverleaf antenna: A compact wide-bandwidth dual-polarization feed for CHIME
+
+Fig. 1. At left, the shape of each petal consists of two perpendicular straight
+lines, two 45 degree circular arcs with radius R and one half an ellipse. W is
+the major axis of the ellipse and L is the length from the intersection of the
+straight sides to the outer edge of the ellipse. The shape is illustrated here for
+the adopted values of gap, R, L, and W. Each of the four tabs shown at the
+centre is connected to one side of a vertical microstrip transmission line and
+in each case the full width of the adjacent petal is connected to the other lead.
+At right, CST simulated currents for one linear polarization at 600MHz are
+shown. Note the small asymmetry in the curent distribution near the centre
+becasue of the tab geometry.
+
+Fig. 3. A linear array of eight cloverleaf antennas installed at the focal line of
+the CHIME Pathfinder at the Dominion Radio Astrophysical Observatory in Penticton, BC, Canada. The picture is taken through the wire mesh reflective surface (mesh spacing 19 mm) illustrating a photonsview of the antennas and ground plane. Notice that each feed has an image-feed in the ground plane, 1/2 λ away at the passband centre frequency. Notice also the four slots cut to remove dielectric material from the gaps between the petals.
+
+below: From https://chime-experiment.ca/instrument
+
+CHIME consists of four adjacent 20m x 100m cylindrical reflectors oriented north-south. The focal axis of each cylinder is lined with 256 dual-polarization antennas, each of which receives radiation from a large swath of sky that nearly stretches from the northern horizon to the southern horizon. This gives CHIME its enormous field of view. The CHIME antennas are custom-designed to have good sensitivity from 400 to 800 MHz, in both linear polarizations. This gives CHIME its large frequency coverage. Signals from the antennas are amplified in two stages, using low-noise amplifiers developed by the cell-phone industry. This novel application of consumer technology makes CHIME affordable. The 2048 signals from these inputs (256 antennas x 2 polarizations x 4 cylinders) are fed to the F-Engine for the initial stage of digital processing.
+
+
+
+below: From SKA_telescope tweet I believe this is looking north.

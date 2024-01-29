@@ -1,0 +1,3 @@
+Did Gaia DR3 help figure out whether Albireo is an optical double?
+
+Based on the Wikipedia page of Albireo, Gaia DR2 had too much noise to determine whether the stars are physically associated or if they are just an optical double. Gaia DR3 was released last year. Does the DR3 make it possible to know whether both stars are physically associated?

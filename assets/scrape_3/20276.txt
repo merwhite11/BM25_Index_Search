@@ -1,0 +1,4 @@
+Maximum spin rate of a black hole?
+
+I have just been watching a podcast called "Deep Astronomy" and the discussion was about a super fast spinning black hole discovered with the NuSTAR space observatory. This black hole was modeled with high confidence to be spinning at about 99% of the maximum spin rate. They stopped short of saying that the tangential velocity of this spin rate is "c" (and how can a singularity have a "tangential velocity"?) They did say that the event horizon at maximum spin of a stellar black hole is about 1-1/2 km. and that if a black hole were to spin faster then the result would be a "naked singularity" that would defy the laws of physics (GR).
+Also, shouldn't all black holes spin extremely fast (conservation of angular momentum) or would a retrograde accretion disk slow it down. Could somebody clarify this whole "black hole spin thing" without getting too complicated??

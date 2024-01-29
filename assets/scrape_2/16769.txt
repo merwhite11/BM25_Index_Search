@@ -1,0 +1,31 @@
+What is the real position of the tidal bulge?
+
+The wikipage on "tidal accelaeration" has this picture of the tidal bulge:
+
+but says that:
+
+The average tidal bulge is synchronized with the Moon's orbit, and
+Earth rotates under this tidal bulge in just over a day. However,
+Earth's rotation drags the position of the tidal bulge ahead of the
+position directly under the Moon. As a consequence, there exists a
+substantial amount of mass in the bulge that is offset from the line
+
+On the other hand, this academical article
+states the opposite:
+
+as we move with respect to both tidal bulge and moon, the moon
+crosses our meridian before we experience the highest tide.] How
+early? Some books show misleading diagrams with the symmetry axis of
+the tidal bulges making an angle of 30° or more with the moon. In
+fact, the angle is only 3°, so the tides are late by about 24(3/360)60
+= 12 minutes
+
+through the centers of Earth and the Moon
+
+
+Can you say what is the real position of the bulge? it is surely a hard fact not open to interpretations. Do you have access to sites that say where is now the moon and where is the tidal bulge?
+According to the basic laws of conservation of momentum and energy, a mass moving to a greater radius should be slowed downm and if we add friction the lag of 12 minutes or more makes sense. If the highest point of the bulge is forward wrt to the vertical of the moon, can you explain what stronger force pushes the water in the direction of the spin?
+I found this site that gives the position of sun and moon, but doesn't show tides
+
+This animation, on the other hand, shows that there is no bulge
+The red areas experience a rise over 1 m, the blue one a depression of over 1 m:

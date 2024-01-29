@@ -1,0 +1,3 @@
+Is there a difference between Vis and V when analyzing the magnitudes of stars?
+
+I have a dataset of a binary star system's magnitudes taken over the past decade, obtained from AAVSO. These magnitudes are reported in B,V,R,I, and so on. Some magnitudes have their V magnitudes given, which are the Johnson V magnitudes. Other magnitudes, however, are taken in the 'Vis' band. Aren't these two bands the same? Doesn't the V in Johnson's classification stand for the visual band, centered at 551nm? AAVSO's website differentiates between Vis and V without providing an explanation. How do I resolve these magnitudes? Is there a way to convert a V magnitude to a Vis magnitude?

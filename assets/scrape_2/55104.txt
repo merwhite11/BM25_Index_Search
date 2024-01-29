@@ -1,0 +1,5 @@
+how to make postage stamps of galaxies
+
+I am trying to follow the work in this paper, Reproducible k-means clustering in galaxy feature data from the GAMA survey,  and I noticed that there are a few postage stamps of some galaxies. I am not familiar with how to go about making the postage stamps in Appendix C. What I am looking for is how to go about making these galaxy postage stamps (specifically, data and code). According to the paper, "The three-colour stamps are made using r- and g-band imaging from the Kilo-Degree Survey (de Jong et al. 2013), and a mean of the two bands as the central colour channel. The stamps enclose each galaxy to 2.5 times its Kron radius."
+I am trying to understand how one actually goes about making these postage stamp figures for any galaxy.
+My question has to do with how to get to a postage stamp from the data that they have about the bands. How do they combine and how they are made? The question is not about tiling or creating a grid. What is the calculation that goes into making one postage stamp image?

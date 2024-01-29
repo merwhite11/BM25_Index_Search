@@ -1,0 +1,8 @@
+Why would tidal forces on planets become more intense when a star becomes a white dwarf?
+
+I was puzzled by this press release by the Royal Astronomical Society: "Small, hardy planets most likely to survive death of their stars" - phys.org, May 14, 2019
+
+Astrophysicists from the Warwick Astronomy and Astrophysics Group modeled the chances of different planets being destroyed by tidal forces when their host stars become white dwarfs and have determined the most significant factors that decide whether they avoid destruction.
+
+According to the shell theorem, the gravitational forces of a spherically symmetrical body's regions, in terms of how they act on external objects, sum up to the functional equivalent of a point mass. A star therefore acts like a point gravity source both before and after becoming a white dwarf (albeit a lower-mass one after, due to casting off matter that becomes a planetary nebula — a drop in attraction that I'd expect to cause any remaining planets, those not close enough to have been slowed and swallowed by the red giant phase, to migrate outward).
+So why would a star, after turning into a white dwarf, exert stronger tidal forces on its planets?

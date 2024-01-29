@@ -1,0 +1,9 @@
+How massive can a cold solid object be?
+
+I understand that a neutron star is dense enough that adding more matter will increase the amount of degenerate matter directly, and the limit to its size is about 1.4 solar masses.
+But if an object were formed not by an explosion that crushes it down to neutron matter, is it necessarily so?
+Given normal atoms of any desired species, and it is piled up carefully so it does not get hot. When it gets around one solar mass, will it necessarily collapse into a neutron star, or can it get more massive?  Will such an object eventually collapse catastrophically or can it have a degenerate matter core and a substantial thickness of less-compressed matter on top and normal matter on top of that?
+What is the largest possible mass of a cold solid object?  Can it be several solar masses?
+By cold I mean that it’s not a star, puffed up by ongoing consumption of energy. Whatever it's made out of is not being “used up”.
+Edit
+I did not mean to side-track people about what is meant by cold.  I just mean that the object was not crushed down to degenerate matter in a separate step.  Cold here simply means it did not start undergoing fusion due to the heat of formation.

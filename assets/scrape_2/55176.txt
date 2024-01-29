@@ -1,0 +1,5 @@
+Longitude from different vantage points
+
+Given, the mean longitude L of the Earth-Moon barycenter, as seen from the Sun's center.
+From this, is the mean longitude of the Sun L+180°, or is it 360°-L, as seen from the Earth-Moon barycenter?
+Tried ChatGPT but this does not answer my question.

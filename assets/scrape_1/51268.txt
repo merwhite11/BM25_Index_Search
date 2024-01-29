@@ -1,0 +1,17 @@
+How to know if the star is on the west or east side calculating hour angle and sideral hour
+
+I have an exercise where I need to calculate the hour angle (H), declination (δ), latitude (φ) and the sideral hour at the moment the star passes through the 18 hour circle. Given are the right ascension (α = 5,153521), the sideral hour (S = 3,756094)  and altitude (h = 0,623082) at the passage of the star  through the first vertical (all angles in radian) I understand that the hour angle is given with
+H = S - α     for a star on the west side from the observer (horizontal coordinate system) and
+H = α - S     for those on the east side.
+How can I know on which side the star passes? Would it just be the side for which the result is positive, because the hour angle is counted westwards from the observers meridian from 0° to 360°? This seems like a very insufficient reason to me. I get an hour angle of +/- 80°4' 0''
+(-1,3974269 rad), with the positive result from the east side formula.
+
+After that I have calculated the declination using
+δ = acos[sin(A) * cos(h) / -sin(H)]
+This gives me 0,601579673 (~34°), the direct result with the values above is 145°, which is the complement angle, the declination is of course the same on both sides, so this result is unambigous.
+Then I calculated the latitude of the observer using
+φ = atan[tan(δ)/cos(H)]     for observations of an object passing through the first vertical
+This gives me -0,1196436 (~7°). Finally, I calculate the sideral hour at the moment the star passes through the 18 hour circle, which is the same as the -6h or -90° circle. As I can see from the following image of the 6 hour circle, with H = -90°, the star would be on the west side, as the hour angle is counted westwards.
+
+As for the hour angle, using the same formula, I get the 2 results for the sides 180° apart. (205.275° abd 25.275°). I am not quite sure if I my interpretation of the image is correct, or if it is of any use, as the image does not actually show the angle between the observers plain of the horizon and the equatorial plain resulting from the given numbers. An image with the equatorial plain would be great, though!
+thanks for any hint or idea ;) Please forgive me if this is very trivial.

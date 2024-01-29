@@ -1,0 +1,14 @@
+What is secular chaos?
+
+I have been reading about planet migration, and have seen secular chaos being mentioned a few times. There is no Wikipedia article on it so I am struggling to find a summary explanation of what secular chaos is. I can only find academic papers on it which go beyond my comprehension.
+All I know so far is that secular chaos can cause high eccentricity to occur leading to tidal migration of planets. And is a theory proposed for hot Jupiters.
+Can any one paint a picture of what secular chaos is and how it causes eccentric orbits to form ?
+One article i read : https://www.pnas.org/doi/10.1073/pnas.1308261110
+
+Secular chaos causes planets’ eccentricities to randomly wander. When
+one of the planets attains high enough e that it suffers collision,
+ejection, or tidal capture, the removal of that planet can then lead
+to a more stable system, with a longer chaotic diffusion time.
+
+It's a bit lacking in explaining secular chaos for the average person.  It dives into the theory showing the math which is then too difficult to understand or visualize what happens (at least for me)...
+Hoping some one can simplify and explain it.

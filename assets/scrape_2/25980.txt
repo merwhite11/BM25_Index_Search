@@ -1,0 +1,5 @@
+Is there an acceptable value for the absolute magnitude of horizontal branch stars?
+
+I'm writing a test for a gen-ed level astronomy class that I teach, and would just like a good reliable number to use as the basis for a distance calculation question.
+And yes, I know that real astronomers use the RR Lyrae stars, but the text were using hasn't introduced variable star standard candles yet.
+Looking at some H-R diagrams in textbook the answer seems to be vaguely around magnitude 0, and I'll use that value in the absence of something more definitive.

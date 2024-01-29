@@ -1,0 +1,6 @@
+Day and night temperature on an earthlike planet with longer rotational period
+
+I'm trying to understand the climatic effects of the far future scenario of an Earth-like planet with a reduced rotational speed caused by tidal locking with the moon (day-night period of 28 days, one hemisphere always facing the moon, the other never facing the moon).
+I understand that observations of the moon's surface temperature have shown day temperatures of 120°C and freezing cold nights of -230°C. 
+How would the day and night temperatures of tidal locked Earth vary? 
+I am also interested in climatic effects caused by the reduced tides, coriolis force, increased evaporation, but this may reasonably be outside the scope of this question and it's answers.

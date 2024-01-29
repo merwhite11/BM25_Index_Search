@@ -1,0 +1,4 @@
+Would the electron cyclotron-maser emission mechanism affect Proxima b's ability to retain an atmosphere?
+
+In a recent arXiv preprint, Pérez-Torres et al. "Monitoring the radio emission of Proxima Centauri" claim the detection of radio emissions synchronised with the orbit of the planet Proxima b. They explain this as the result of electron cyclotron-maser (ECM) emissions, making the Proxima–Proxima b system a scaled-up analogue of the Jupiter–Io or Jupiter–Ganymede systems.
+Would this mechanism make it more difficult for Proxima b to retain an atmosphere?

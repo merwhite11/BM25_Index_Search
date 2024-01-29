@@ -1,0 +1,3 @@
+FLWR and curvature
+
+The FLWR metric or model I believe results from Einstein's equations of general relativity if it is assumed the universe is 1. homogeneous and 2. able to expand (or contract). Solutions can have positive spatial curvature, negative spatial curvature or be flat. My problem is that negative curvature, termed hyperbolic, often depicted as a saddle, seems to be in no way homogeneous. For example as you move around a sphere, or through flat space, the curvature remains constant but as you move along a hyperbolic curve, the curvature varies - it can't be homogeneous. How is this resolved?

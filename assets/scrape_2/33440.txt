@@ -1,0 +1,5 @@
+mm-wavelengths Moon map, scientific case
+
+I would like to test a telescope with a Moon observation.
+It is a low spectrometer-imager at 110-300 GHz with a resolution of 4 arcmin@150 GHz.
+Is there any scientific target that concerns the Moon with such an observation?

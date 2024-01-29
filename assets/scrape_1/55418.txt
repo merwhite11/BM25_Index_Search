@@ -1,0 +1,28 @@
+Integration of Plank curve of the Sun
+
+Why I did not get the value of 1361 W m^{-2}, please? I am getting 2.0125538614437745e-47.
+from scipy import integrate
+import numpy as np
+k = 1.38e-23  # J K^-1
+h = 6.63e-34  # J s
+c = 299792458.  # m s^-1
+pc = 3.08567758e16  # m
+R_S = 6.957e8  # m
+pc = 3.08567758e16  # m
+R_S = 6.957e8  # m
+
+
+R = 1 * R_S
+
+d = 1 * pc
+
+T = 5780.  # K
+
+def B_lambda(lam, T):
+    return (2. * h * c**2) / (lam**5) * 1. / (np.exp(h * c / (lam * k * T)) - 1.)
+
+lambda_min = 0  # Lower limit for integration
+lambda_max = 2e+10  # Upper limit for integration
+
+result, error = integrate.quad(B_lambda, lambda_min, lambda_max, args=(T,))
+print(result*np.pi*R**2/d**2, error)

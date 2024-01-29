@@ -1,0 +1,7 @@
+What is the faintest magnitude a telescope can see?
+
+This website claims:
+
+The space telescope can detect objects as faint as 31st magnitude...
+
+It's referring to Hubble, but does not cite any source or math. How do you calculate the faintest (apparent) magnitude that a space telescope can detect?

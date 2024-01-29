@@ -1,0 +1,4 @@
+What is the specific heat capacity of interstellar clouds?
+
+Star forming molecular clouds and especially Bok globules are low temperature $\sim 10 $ K environments with density on the order of $10^{-18}$ kg/m$^3$, mostly hydrogen with about 1% dust. What is their heat capacity?
+I have tried to find good data for low-temperature heat capacities for hydrogen (which would be nice to have anyway), but most experiments also use dense hydrogen rather than the by-Earth-standard very low-pressure molecular gas of the clouds. Are there any decent estimates of how much a given increase in energy increases the cloud temperature? Or should one just use the ideal gas approximation for a diatomic gas and assume $C_v\approx (5/2)R$ per mole?

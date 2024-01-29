@@ -1,0 +1,7 @@
+Practice noon sight in Colorado?
+
+I'm looking to get started in basic celestial navigation, but I live in Colorado1. The first problem that gives me is the absence of an accurate horizon in any direction. To help address this I bought an "artificial horizon", which essentially consists of a small pot of water which creates an accurate reflection of the Sun such that determining the angle between the Sun and the image will give me exactly twice the altitude of the sun above horizontal. Unfortunately at this time of year and this latitude, the result is an angle far too great for the sextant to span at noon.
+I'm wondering if there is another mechanism that I might use for taking sights while I start to practice. So far the nearest I've come up with, which involves expense I would prefer to avoid, is to get a laser level and somehow use that. It's far from obvious to me how I would make this work however.
+Can anyone suggest something that I might be able to use to get a workably decent horizon reference under these circumstances? Or do I just have to wait until either the winter, or I find myself traveling to a place where ocean is visible?
+
+1for example The Front Range of the Rocky Mountains near Denver, Colorado

@@ -1,0 +1,5 @@
+What is Color Index?
+
+I found this Wikipedia page on this property called color index. Unfortunately, I could not find a source that explains this property well.
+My interpretation is that color index is the brightness difference of an object through some 2 different wavelengths. Is my understanding correct? If not, could someone explain it to me?
+Also, if my understanding is correct, why would there need to be a calibration table, as shown in the above link?

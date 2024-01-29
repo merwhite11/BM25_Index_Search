@@ -1,0 +1,4 @@
+Is it possible to use a laser to propel a spaceship?
+
+Reference: http://adsabs.harvard.edu/full/1968BAN....19..421H
+It would be necessary to aim a laser to the target star. How would the density of the laser compare with the interstellar radiation?

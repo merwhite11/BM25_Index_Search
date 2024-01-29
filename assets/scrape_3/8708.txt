@@ -1,0 +1,6 @@
+Why do we not use optical telescopes to study cosmic rays directly?
+
+HESS, CTA, and VERITAS are used to study cosmic rays. 
+
+What they receive are optical (maybe very blue) photons.
+So my question is: Why don't we use optical telescopes to study cosmic rays directly?

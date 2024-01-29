@@ -1,0 +1,6 @@
+Graphing the evolution of stars on an HR diagram with timesteps
+
+I have found countless images regarding the evolution of stars, plotted on an HR Diagram, like so (found on Wikipedia):
+
+Although this displays the time in each stage, it does not include any points plotted, relating to a timestep (i.e. 1 billion years), except for the zero age point. Is there anywhere I can find some .csv files that regard stellar evolution?
+NB: An example .csv file format would be temperature, radius, mass, luminosity, time.

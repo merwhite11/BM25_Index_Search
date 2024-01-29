@@ -1,0 +1,4 @@
+What is the percentage of ortho- vs. parahelium in the sun?
+
+Parahelium (P) has its 2 electrons with opposite spins and S=0. Orthohelium (O) has parallel spins and S=1. The energy levels of P are a little bit higher than O. Maybe this leads to easier building of P. But can lead also to easier ionization. I tried to find data on net but it doesnt work.
+Is there a difference or they are 50-50? If they are not can you tell why?

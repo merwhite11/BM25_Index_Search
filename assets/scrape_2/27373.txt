@@ -1,0 +1,3 @@
+Measure an angle in the sky from a photo?
+
+Let's say I have an picture of the sky or of an landscape and I want to measure an angle in the celestial sphere. Is there any software for that? In real life I would use the empirical hand gestures or a theodolite.

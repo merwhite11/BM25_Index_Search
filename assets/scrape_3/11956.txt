@@ -1,0 +1,6 @@
+Estimation of average rock and asteroid mass associated with different stars
+
+There is a lot of information on different star types and compositions. 
+Can we make estimates of the total mass of rock, ice, and non stellar matter that orbits stars based on star evolution models?
+Take, for example, the sun - are there studies of the total mass of non-solar material associated with the sun and it's composition regardless of accretion. What about nearby stars?
+Can we estimate how much non-incandescent material the galaxy contains aside from dark matter?

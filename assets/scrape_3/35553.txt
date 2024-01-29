@@ -1,0 +1,26 @@
+So, what, exactly, is a tropical period?
+
+From timezone.com's On the Units of Time Part III: The Year February 19, 2001, by Edward Hahn:
+
+Uh, Oh…He’s Going to Ask That Question Again…
+So, what, exactly, is a year?
+
+
+@PM2Ring's comment
+
+FWIW, that's a mean tropical year, which is slightly different to a Vernal Equinox year (~365.242374 days). See https://www.timezone.com/2002/09/25/on-the-units-of-time-part-iii-the-year/
+
+and that includes the following:
+
+(A side note: Some people out there might be wondering why I didn’t use the Tropical Year of 365.24219 days length? In Duncan Steel’s book Marking Time, he points out that both the US Naval Observatory and the Royal Greenwich Observatory make a mistake when saying that, “the tropical year is defined as the mean interval between vernal equinoxes.” This is not astronomically correct – the tropical year is the average time between consecutive occurrences of any date on the calendar. Since the earth on average orbits the sun in the same amount of time regardless of when you start your measurement, shouldn’t they be the same? Well…they aren’t – the vernal equinox year is an average over some number of orbits measured on a single calendar day, while the tropical year averages once more across all the days of the year. The difference is about 16 seconds a year – not much, but even so the people who designed the Gregorian calendar knew enough to aim for the vernal equinox year since they were trying to stabilize the date of Easter, and not the entire year.)
+
+Wikipedia's Tropical year does indeed refer to the Astronomical Almanac Online Glossary (2015) and while the link does not work for me sitting on a bus where I am Wikipedia quotes it:
+
+the period of time for the ecliptic longitude of the Sun to increase 360 degrees. Since the Sun's ecliptic longitude is measured with respect to the equinox, the tropical year comprises a complete cycle of seasons, and its length is approximated in the long term by the civil (Gregorian) calendar. The mean tropical year is approximately 365 days, 5 hours, 48 minutes, 45 seconds.
+
+Question(s):
+
+Is the US Naval Observatory wrong somehow here? Have mistakes been made? Or are there misquotes?
+Is it possible to explain in everyday English the geometrical difference between a "Vernal Equinox year" and a tropical year or a mean tropical year?
+
+The basis of an answer may be within the links I've included or it may not be; while "both the US Naval Observatory and the Royal Greenwich Observatory make a mistake" could be true, it's also possible that the blogpost may not have it right, and I can't access the Astronomical Almanac Online Glossary (2015) to resolve the difference.

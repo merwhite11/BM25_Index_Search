@@ -1,0 +1,6 @@
+Is there an all sky meteor watch with spectroscopy?
+
+I assume performing spectroscopy on meteors would give us information about the composition of the outer layers of meteoroids, which we can't study on finds because it has already burned up. This would increase our knowledge on the small bodies of the solar system.
+There are programs, like CAMS or FRIPON, that watch the entire sky to spot meteors. These are just regular cameras.
+We can perform spectroscopy for many points in the sky simultaneously, like with MUSE, so it would be possible to monitor most of the sky continuously to get spectroscopic data of meteors.
+Has this been done? If not, why not?

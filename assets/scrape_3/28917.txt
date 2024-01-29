@@ -1,0 +1,10 @@
+How does a star's rotation affect a star on the main sequence?
+
+I searched and have found that the questions mainly focus on neutron stars, white dwarfs and black holes. This was not what I want.
+Basically, the bigger the star's mass is, the more intense its fusion reaction is and the shorter its lifespan is in the main sequence. Now, imagine that a star spins much faster. There will be lower surface gravity at the equator than at the poles. How does a fast rotation affect the star's fusion reaction?
+
+Will the pressure of the star's mass on its core be lower at the equator and therefore reduce nuclear fusion rate?
+
+Will there be a deeper convection because of the Coriolis effect?
+
+What would we notice in term of longevity on the main sequence, luminosity and the emission spectrum of a fast rotating star compared to a slow rotating one of the same initial mass?

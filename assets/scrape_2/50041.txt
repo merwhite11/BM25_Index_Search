@@ -1,0 +1,22 @@
+Angular resolution of naked eye at night; type of vision used
+
+It appears that most sources quote the angular resolution of the eye as 1', regardless of day and night.
+For instance,
+Naked eye
+Seconds of Arc and the Unaided Eye
+However, the following websites give about 10' instead.
+Observing Visual Binary Stars
+Observing Naked (or I got 5.5 arcmins resolution)
+Adjusting to Darkness: How Our Eyes See at Night
+Clearly, there is a difference between acuity of scotopic and photopic vision. Hence, what is the angular resolution of the naked eye at night, specifically when observing?
+How about mesoscopic vision, for instance when the full moon is up?
+(This is not really mesoscopic vision as we are looking at light sources, not illuminated objects. Hence it depends on what source we look at. I suppose it would give 2 values: when looking at the stars, that of scotopic vision; when looking at the moon, that of photopic vision)
+But if we consider stars at point light sources, are they bright enough to activate cones (at least till 6th magnitude for good skies)? Then are we still using scotopic vision?
+So what type of vision are we actually using to observe, naked-eyed, the following?
+
+Moon
+Stars: bright vs dim (6th magnitude or below)
+Nebulous objects for instance nebulas, comets, globular clusters
+Open clusters (this is actually what got me interested in this question: M6 and M7 look like blobs even though they are formed of stars that are quite wide in angular separation, possibly due to the stars being dimmer than 6th magnitudes)
+
+Is seeing important at this level of resolution?

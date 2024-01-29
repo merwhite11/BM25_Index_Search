@@ -1,0 +1,11 @@
+How to find the distance between two galaxies from ra and dec and redshift
+
+I have ra and dec and corresponding redshift of galaxies. I would like to calculate the distance between two galaxies.
+I did like this to find the nearest neighbour galaxies.
+Suppose I am trying to find the nearest neighbour of galaxy A(which has RA,DEC)  and the target galaxy has ra1,dec1,
+so to find the distance between two galaxy, I did like this
+dist_sqd= sqrt( (RA-ra1)**2 + (DEC-dec1)**2 ) 
+#RA, DEC are in degree
+
+Is this the correct way to find the distance.
+As there is projection in 2D, Since, I already have redshift, Is there any best way to find the distance between two galaxies properly?

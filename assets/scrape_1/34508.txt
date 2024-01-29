@@ -1,0 +1,25 @@
+Lagrange points and the radius of the Hill sphere
+
+(Disclaimer: I know the "Hill sphere" is just an approximation of something which isn't genuinely spherical.)
+In a two-body system, the approximate formula for the Hill sphere radius of the smaller body is 
+$$r_{\mathrm{H}} \approx a (1-e) \sqrt[3]{\frac{m}{3 M}}$$
+where $a$ is the semi-major axis of the small body's orbit around the larger, $e$ denotes that orbit's eccentricity, $r_H$ is of course the radius of the Hill sphere, $m$ is the mass of the smaller body and $M$ is the mass of the larger one.
+If and when the eccentricity is negligible, this is approximated further to
+$$r_{\mathrm{H}} \approx a \sqrt[3]{\frac{m}{3M}}$$
+This formula is often used to approximate the distance between the smaller body and the L1 and L2 Lagrange points, although these distances are not in fact identical (L2 being further distant than L1.)
+The distance $r_1$ between the smaller body and L1 is obtained by solving this equation (which appears also to assume negligible eccentricity):
+$$\frac{M}{\left(a-r_{1}\right)^2}=\frac{m}{r_{1}^{2}}+\frac{M}{a^2}-\frac{r_{1}\left(M+m\right)}{a^3}$$
+Similarly, the distance $r_2$ between the smaller body and L2 is obtained by solving:
+$$\frac{M}{\left(a+r_{2}\right)^2}+\frac{m}{r_{2}^{2}}=\frac{M}{a^2}+\frac{r_{2}\left(M+m\right)}{a^3}$$
+As noted above, $r_H$ as obtained using the approximate formula approximates both $r_1$ and $r_2$.
+Various online sources use language such as "The Hill sphere lies between the L1 and L2 Lagrangian points" or "the Hill sphere extends somewhere between the L1 and L2 Lagrangian points". I find this language unclear, and can't tell which of the following these sources are saying:
+$r_H < min(r_1, r_2)$
+$r_H \leq min(r_1, r_2)$
+$r_H < max(r_1, r_2)$
+$r_H \leq max(r_1, r_2)$
+$r_1 < r_H < r_2$
+$r_1 < r_H \leq r_2$
+$r_1 \leq r_H \leq r_2$
+$r_1 \leq r_H < r_2$
+or something else.
+As I write this, I'm not sure how trivial a task it would be to work through the approximations for the L1 and L2 points to determine if the Hill sphere radius formula overestimates or underestimates each, so I apologise if this is something other users of Astronomy SE would find trivial.

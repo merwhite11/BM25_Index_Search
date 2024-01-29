@@ -1,0 +1,4 @@
+Understanding conversion to angular diameter
+
+I was trying to better understand the concept of angular diameter and was hoping for some clarification. Given some object's coordinates in RA and dec, is it possible to find that object's angular diameter in a different unit, such as degrees?
+EDIT: Thank you so much for the clarification! More specifically, if I know that a point is traveling in a circular path, is it possible to find that path's angular diameter from the equatorial coordinates?

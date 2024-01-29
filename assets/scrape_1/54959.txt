@@ -1,0 +1,4 @@
+Measuring magnitudes in ds9
+
+I'm currently working on a project which involves measuring several Cepheids to determine the distance to a galaxy. I have been using 12 images from the Hubble telescope taken over a period of about a month. I have been recording the data shown in the attached image using ds9 software. I'm unsure what to do with this data, does the 'sum' correspond to number of photons counted on the CCD? If so how would one convert this to a magnitude?
+Any help is greatly appreciated.

@@ -1,0 +1,4 @@
+Moon phase angle
+
+When I look at a visible moon in daylight its phase is shown at an angle. However textbook moon phase diagrams only show the phase vertically. What is it that determines the angle?
+The reason I ask this questions is the Moon's illumination is not in direct line with the position of the visible sun.

@@ -1,0 +1,36 @@
+How should I interpret this result obtained using lomb scargle?
+
+I used lomb scargle for periodic analysis.
+The time interval used is constant at 500 seconds.
+
+#My data (x=time, y=intensity values) is :
+x= (
+00:28,
+00:37,
+00:45,
+00:53,
+01:02,
+01:10,
+01:19,
+01:27,
+01:36,
+01:45,
+01:53,
+02:01,
+02:11,
+02:19  )
+y=(18264.682317  ,18720.708081  ,18476.409461  ,19592.046320
+,19166.021184 , 18984.852405 , 20971.112057  ,20946.024653
+21590.194169 , 21771.175308 , 21474.776018 , 20156.969939
+21688.756080 , 22570.152358  )
+--> The time interval of x data is equal to 500 seconds.
+and lomb scargle code is:
+frequency,power = LombScargle(x,y).autopower(nyquist_factor=1)
+ax.plot(frequency,power,'-')
+        #ax4.axvline(x=best_frequency)
+ax.set_ylabel('(4-2) band R₁(2.5) Intensity - Lomb Scargle Power')
+
+
+How should I interpret the lomb scargle results shown in the picture(below picture)?
+
+Why does the maximum appear near zero(below picture)?

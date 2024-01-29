@@ -1,0 +1,4 @@
+Why does radio astronomy offer higher resolution images than optical?
+
+According to this lecture,"Radio astronomy has several advantages over optical astronomy...We can make the highest resolution images, and see things happening on the smallest scales."
+Why is this? If resolving power, $r \propto \frac{\lambda}{B}$ then shouldn't shorter wavelength light result in smaller angular resolution i.e. better resolution?

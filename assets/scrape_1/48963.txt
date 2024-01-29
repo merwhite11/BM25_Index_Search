@@ -1,0 +1,14 @@
+Classifying 3C273 as a quasi-stellar object
+
+I am currently reading A Brief History of Time and Chapter 6 about black holes.
+Now, here it says
+
+He found it too large to be caused by a gravitational field: if it had
+been a gravitational redshift, then the object would have to be so
+massive and near to the Solar System that it would disturb the orbits
+of the planets
+
+My question is:
+Why would the object have to be near to us and very massive?
+Why couldn't we get the same redshift from an extremely massive, but far away object, or less massive and far (so that there might be some hindrance caused by astrophysical entities apart from the emitting ones [of radio waves from 3C273] that could cause gravitational effects and redshift?)
+I am unable to understand the logic of "massive and near to us".

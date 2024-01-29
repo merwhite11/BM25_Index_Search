@@ -1,0 +1,4 @@
+How to check what telescopes were looking at a certain portion of sky at a particular time?
+
+I have some data that I collected from observations at a specific RA, DEC and I am trying to figure out what telescope surveys were looking at that portion of the sky at that particular time? I am currently trying to use NAVO's python notebooks to query databases but I'm struggling. 
+Any help would be greatly appreciated!

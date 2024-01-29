@@ -1,0 +1,5 @@
+When does DSCOVR see the Moon transit Earth?
+
+In 2015, NASA published the first images of the Moon transiting the Earth as seen from DSCOVR. The text accompanying these images says such a transit would be captured on camera about twice a year.
+I cannot find explicit reference to any such images that have been captured since that day, though they may be in plain sight among the numerous daily images published from the probe (though the day when the 2015 images were taken is missing from that page).
+Am I right in thinking that if DSCOVR were stationed directly on L1, these transits would coincide with solar eclipses? And given the orbit that it actually follows, has it been calculated, or can it be calculated, when these (supposedly twice-yearly) transits have occurred?

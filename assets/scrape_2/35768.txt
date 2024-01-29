@@ -1,0 +1,8 @@
+How do we know that comets definitely mase and not just fluoresce? What is it about 18-cm lines that indicates that is really masing per se?
+
+Wikipedia's Astrophysical_maser#comets mentions some anecdotes of notable masers associated with comets, and Maser emissions from comets begins:
+
+The 18-cm lines of the OH radical are the only well-documented masers in comets. They have been observed in more than 65 comets since 1973. The good knowledge of their excitation mechanisms and their linear regime allow us to estimate the water production rate and its variation with heliocentric distance from radio observations of OH in comets…
+
+I'm guessing that OH around comets starts as water and is dissociated by UV light from the Sun. Either it's left in a metastable excited state or it's excited (pumped) up to one by other photons from the Sun.
+What is it about the 18-cm lines that allows one to conclude that this is masing; that there is microwave amplification by stimulated emission rather than just strong fluorescence?

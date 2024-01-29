@@ -1,0 +1,11 @@
+Has the iron core of Mars really solidified?
+
+In the Nova episode "Origins: Earth is Born", Neil DeGrasse Tyson states, "But Mars is just a fraction the size of the Earth, so it cooled more rapidly. And as it cooled, its molten iron core hardened. As a result, Mars stopped generating its magnetic shield." (February 28, 2004)
+see: http://www.pbs.org/wgbh/nova/space/origins-series-overview.html#origins-earth-born
+This comment from Tyson is consistent with what I have long believed. But I wonder.
+The melting point of iron (Fe) is around 1538 °C.
+see: https://en.wikipedia.org/wiki/Melting_points_of_the_elements_(data_page)
+The the geothermal gradient for Mars is estimated to be around 6 °C per km.
+see: What is the temperature 55 km beneath the surface of Mars?
+If the estimate of 6 °C per km is the ballpark, then I would expect that iron is molten as a mere 256 km of depth. At the core of Mars (over 3000 km in depth) I would expect the temperatures to be far higher than 1538 °C.
+It seems to me that it is impossible for iron to be in solid form at Mars' core.

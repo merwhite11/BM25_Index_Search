@@ -1,0 +1,15 @@
+How to calculate the various properties of a star?
+
+I am wanting to plot a velocity profile (a plot of velocity against the star's distance from the galactic core) from the Gaia DR2, but so far my efforts have been disappointing.
+The information I have for each star are the declination ($\delta$), right ascension ($\alpha$), radial velocity ($v_r$), parallax ($\theta_\text{parallax}$) and proper motion ($\mu$) (ra and dec).
+I tried to calculate the star's distance from the galactic core using the cosine rule:
+$$ d = \frac{1000}{\theta_{\text{parallax}}}$$
+$$\theta = \arccos{[\sin{\delta_\text{star}}\sin{\delta_\text{core}} + \cos{\delta_\text{star}}\cos{\delta_\text{core}}\cos{(\alpha_\text{star}-\alpha_\text{core})}]}$$
+$$ r = \sqrt{d_\text{core}^2+ d^2 - 2d \times d_\text{core} \times \cos{\theta}} $$
+Where $d$ is the distance from the Sun to the star. $d_\text{core}$ is the distance from the Sun to the galactic core. $\theta$ is the angular separation of the star and the galactic core. $r$ is the distance from the star to the core.
+And the star's speed using the equations:
+$$\mu = \sqrt{\mu_\text{dec}^2 + \mu_\text{ra}^2}$$
+$$ v_t = 4.7 \mu d $$
+$$ v = \sqrt{v_r^2 + v_t^2} $$
+But the plot doesn't show any kind of trend (just a kind of blob). Have I calculated correctly and, if not, how could I calculate the tangential velocities and radius from the galactic core?
+Basically, I want to make the kind of plot that helps us identify dark matter in galaxies.

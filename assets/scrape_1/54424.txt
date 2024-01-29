@@ -1,0 +1,21 @@
+Under which conditions could a planet's massive moon's orbit get closer to the planet?
+
+The recent question How do we know the Moon was much closer than it is now? has piqued my interest. The answers are numerous and clear. But I started to wonder. The question includes the following fragments:
+
+...is it an assumption based on the fact the moon is moving away right now, so it's a simple extrapolation backwards in time?
+Could it possibly be the Moon distance oscillates?
+
+I thought that there would also be a way to try to exclude the possibility of inwards motion based on the assumed composition of the Earth (core, mantle, crust, oceans) over billions of years to the extent that those assumptions might be true.
+I'm no geologist, geophysicist, planetologist, planetary scientist nor astronomer, but I have some ability to write Stack Exchange questions, so I'd like to ask:
+Question: Under which conditions could a planet's massive moon's orbit get closer to the planet?
+Different but related:
+
+Where do we have it from that the Moon is migrating away from Earth?
+Why do Earth and moon move apart but binary black holes move closer?
+
+For example, for certain combinations of planet/moon mass ratio, or their compositions and structures, or orbital altitude and plane (e.g. equatorial, inclined, polar, retrograde) or eccentricity, are there ways to obey conservation laws (energy and angular momentum) that can still get a moon to migrate inward?
+Could adding a second moon that eventually escapes to infinity help?
+I guess something vulgar1 like a direct impact from a rogue moon or asteroid could do it, but that feels like cheating.
+
+1"lacking sophistication or good taste. 'a vulgar check2 suit'" (Oxford languages via google)
+2cf. check suit from Walmart - https://i.stack.imgur.com/pGBw7.jpg

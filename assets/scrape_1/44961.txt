@@ -1,0 +1,11 @@
+Spectra of different stellar classes?
+
+I'm beyond an amateur, but I've been failing to find this information and it makes me think I'm missing something.
+Anyway: I am trying to write a procedurally generated simulation that includes different stars of different types. I want to be able to describe their output in different wavelengths, from radio to gamma rays. It doesn't need to be perfect or precise, I just want to have a vector for about how much of their energy is released as radio waves, infared, etc. I want to be able to make rough estimates of how much radiation of different types planets at different distances would be subject to. It would be great to also have some notion of the frequency and intensity of events like sunspots or flares.
+That seemed like an easy enough question, but I've been unable to find the information even for the sun, let alone a "typical" range for a star. (So far I've found one image that graphs sunlight, but only in the IR-UV range and it would be tough to translate to a vector.) I can find a lot of claims that such-and-such sort of star emits a lot of so-and-so radiation, but not hard numbers.
+For my purposes specific (narrow) spectral lines aren't important.
+So,
+
+Am I thinking about this completely wrong? Is there a reason I can't quantify light in this way?
+Does anyone know where I could find this information? Ideally a chart of proportional energy in each range for each star type, but anything I could build that from would be good.
+How can I relate "normal" energy output to specific events like flares?

@@ -1,0 +1,4 @@
+How do they keep lights from guided lasers in adaptive optics from interfering with the image?
+
+From amateur searching of the info, I can find no mention of the configuration of the lasers when they work. From these pictures, I imagine that those 4 lasers are just outside of the 4 corners of the telescope field of view. Since the lasers leave such strong reflections on the equipment, how do they keep those lights from messing with the result images? Also I think the artificial stars may somehow affect the final picture too, even if they're not in the FoV, simply because they're so bright.
+Maybe the scientists do it by simply filtering out the wavelength of the laser in their results? But that way they won't be able to see any sodium lights in the faraway stars, either.

@@ -1,0 +1,6 @@
+Stellar systems: what is the difference between virial, dynamical and thermodynamic equilibrium?
+
+I'm currently going through Binney & Tremaine (2008) on my own to learn about stellar dynamics. I also have been perusing additional online resources such as this scholarpedia wiki. 
+Often when distinguishing between collision-less vs collisional stellar systems, the virial theorem is invoked along with the equations for "crossing time" (also known as "dynamical time") and "relaxation time." A large galaxy is said to be collision-less because its relaxation time is many orders of magnitude higher than its age, whereas a dense stellar system (e.g., a globular cluster) is collisional because its relaxation time is less than its age. 
+But what is the relationship between this so-called "relaxed" state and virial, dynamical, and thermodynamic equilibrium? What do the three different kinds of equilibria intuitively mean? 
+For example, I have heard that large galaxies are assumed to be in virial equilibrium and then people derive "dynamical masses" (why not "virial masses"?). What would it take and/or mean for a large elliptical galaxy to be not just in virial equilibrium, but also in dynamical or thermodynamic equilibrium?

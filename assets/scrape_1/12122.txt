@@ -1,0 +1,7 @@
+What is projected separation and how can I make sense of its unit (h^-1 kpc)?
+
+I have been reading this paper on the separation of a binary quasar in which it states:
+
+At a projected separation of 8.3/h kpc (Omega_matter = 1), CTQ 839 would be the smallest projected separation binary quasar currently known.
+
+What is meant by projected separation and where does this unit come from?

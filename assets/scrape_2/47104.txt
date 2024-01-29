@@ -1,0 +1,5 @@
+How do Lagrange points L2 and L3 form?
+
+Five Lagrange points form between any two bodies in the space (say Sun and Earth). According to my understanding, Lagrange points L1, L4 and L5 can form because gravitation pull can cancel out here as these are between Sun and Earth (where gravitational pull is in two different directions).
+However, I could not understand why L2 and L3 Lagrange points form in the first place.
+I couldn't understand why would the gravitational pull cancel out at the L2 and L3 as they are not in between Earth and Sun and the gravitational pull (of Earth and Sun) at these points are at the same direction. As gravitation pull on L2 and L3 is in same direction shouldn't the gravitation pull at these points be high instead?

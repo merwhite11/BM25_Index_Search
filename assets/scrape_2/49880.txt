@@ -1,0 +1,35 @@
+What sort of exploratory procedures should be carried out on astronomical data?
+
+Upon downloading an astronomical dataset such as SDSS DR12 from VizieR, what kind of exploratory techniques should be performed? I start with the basics, like this tutorial, and how much missing data there is
+RA_ICRS         0
+DE_ICRS         0
+mode            0
+q_mode       4679
+class           0
+SDSS12          0
+m_SDSS12    20681
+ObsDate         0
+Q               0
+umag            0
+e_umag          0
+gmag            0
+e_gmag          0
+rmag            0
+e_rmag          0
+imag            0
+e_imag          0
+zmag            0
+e_zmag          0
+spCl            0
+zph             0
+e_zph           0
+<zph>           0
+redshift        0
+dtype: int64
+
+then a pairplot between the magnitudes.
+
+I can also do things like plot the sky distribution from the RA_ICRS and DE_ICRS columns, and a redshift distribution histogram.
+Edit based on a comment:
+My goal is to use a neural network to develop a photometric estimate of the redshift for the sources in SDSS12; that's why my first step was to plot mags vs mags as in the pairplot. I've also done each mag vs redshift.
+What other exploratory investigations are worth doing on a new dataset?

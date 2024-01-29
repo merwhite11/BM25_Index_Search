@@ -1,0 +1,44 @@
+Incorrect Mars orbital time while calculating using Kepler formula in Java
+
+Question:
+
+I am trying to make a simple java program to do planetary orbital calculation like how many days it takes to complete the orbital along with each Earth day data but I end up getting a 4 days error. Can anybody explain why?
+
+After fixing some problems after @PM2Ring's suggestion on other site.
+I have this code
+        double semiMajorAxis = 1.5237 * 149598000;
+        double eccentricty = 0.0934;
+        double current_time = 0;
+        double last_speed;
+        double angular_distance = 0; // unit : rad
+        boolean stop = false;
+
+        while (!stop) {
+            double radius = get_radius(angular_distance, eccentricty, semiMajorAxis);
+            last_speed = (get_speed(radius * 1000, semiMajorAxis * 1000) / radius);
+            angular_distance += last_speed;
+            distance_in_km = angular_distance * radius;
+            current_time += 1;
+            
+            if (angular_distance >= Math.PI * 2) {
+                System.out.println("Total days : " + current_time / 60 / 60 / 24);
+                stop = true;
+            }
+           }
+
+Functions used in the above program-
+   public static double get_radius(double theeta, double eccentricty, double a) {
+        // modern kepler formula
+        return a * (1 - Math.pow(eccentricty, 2)) / (1 + eccentricty * Math.cos(theeta));
+    }
+
+    public static double get_speed(double r, double semiMajorAxis) {
+        double mu = 1.32712440042 * Math.pow(10, 20);
+        // vis-viva equation
+        return (Math.sqrt(mu * ((2 / r) - (1 / semiMajorAxis))) / 1000);
+    }
+
+What am I trying to do? - I am trying to calculate time taken for each planet to complete its revolution and also collect daily data for it, in this case its the Mars. To do
+this I am using 1 second step to calculate angles displaced by using vis-viva to calculate speed and kepler formula to get radius.
+However seems like there is a problem as the output I am getting for Mars is 685.4825000000001 days which is nearly 2 days behind of actual time i.e 687 days and for Jupiter I am getting 4334.061006944444 days which is nearly 2 day ahead of actual time 4332 days.
+Can anybody help me fix the error or could guide me with some other way. It will really be helpfull.

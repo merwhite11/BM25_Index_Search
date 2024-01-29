@@ -1,0 +1,4 @@
+Is there a way to factor age into the mass-luminosity relationship for stars?
+
+I'm wondering if there's a way to formulate the luminosity of a star not only as a function of mass, but of age, too, and if so, what the formula for luminosity would look like. In the case of the Sun I'm aware it gets 10% brighter every billion or so years, but I doubt this relationship holds true for all mass ranges of stars, just like you have to adjust the formula for the luminosity mass relationship for stars of different masses. 
+If anyone could "shed some light" on this matter, it would be very much appreciated.

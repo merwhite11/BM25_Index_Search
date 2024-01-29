@@ -1,0 +1,4 @@
+Linear limb darkening coefficient, u
+
+I was wondering if anyone knew of any resources to understand the linear limb darkening coefficient, $u$. That is to say, how the $\theta$-dependent coefficient $u$ (or sometimes $b_{\nu}$) varies with wavelength and with stellar effective temperature.
+I've looked at a number of sources, such as Schwarzschild (1906), Milne (1921) and my own lecture notes and others, but nothing on this coefficient? Does anyone know where to even start looking for information of the properties of $u$?

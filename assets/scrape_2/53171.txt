@@ -1,0 +1,4 @@
+Moon's equation of the centre discrepancy
+
+According to the Wikipedia Lunar Theory article, the first term of the Moon's equation of the centre is
+$$22,639^{\prime\prime}\sin l,$$where $l$ is the Moon's mean anomaly. According to the Wikipedia Equation of the Centre article, the equivalent term of the equation of the centre is$$2e\sin M,$$where $e$ is the eccentricity of the Moon's orbit around the Earth, and $M=l$. Substituting $e=0.0549$ (from the Lunar Theory article) and converting radians to arcseconds gives$$22,648^{\prime\prime}\sin M.$$So I'm wondering why there is a discrepancy between the two coefficients. My best guess is that the $2e$ coefficient is an approximation and is itself part of a series expansion. Does that sound a reasonable explanation? Thanks.

@@ -1,0 +1,10 @@
+Can a brown dwarf accrete enough mass from red giant to become a star?
+
+Let's assume a brown dwarf is on orbit around a main sequence star. Than the star becomes a red giant.
+Let's assume the brown dwarf has "the right" orbit and can syphon matter from the red giant.
+Is it possible for the brown dwarf to accrete enough mass to become a star itself?
+By keyword search I could not find anything relevant. So I would not be surprised if the answer is "no". Maybe brown dwarfs have not enough gravity to accrete matter, and the evaporation by the red giant's radiation will prevail.
+But still, I could miss some results.
+So:
+Have anybody modeled such star systems?
+Have anybody observed candidates for such star systems?

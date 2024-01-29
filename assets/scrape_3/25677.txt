@@ -1,0 +1,17 @@
+When does a star rise with the sun?
+
+
+Problem: Suppose an observer's latitude is 45 S and a star's RA/DEC is
+3h15min/41S. On what date will the sun set with the star.
+
+I have been stuck on this problem for a while.
+I found out that the time of setting of a star is found using the formula:
+
+$$\alpha+\arccos(-\tan(\delta).\tan(\phi))$$
+$\implies3\frac{1}{4}^h+\arccos(-\tan(-41)\tan(-45)) = \alpha_{sun}+\arccos(-\tan(\delta_{sun})\tan(-45))$
+$\implies 47.8 = \alpha_{sun}+arccos(tan(\delta_{sun}))$
+
+I am not able to solve this any further.
+Is there something wrong in my approach? Something I am missing?
+If not how do I solve the above equation further?
+Thanks in anticipation!

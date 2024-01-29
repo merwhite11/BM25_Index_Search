@@ -1,0 +1,16 @@
+English Meaning for Abreviations (Easy Question)
+
+I see a lot of publications where they use "code"/abbreviations but don't give the Laymans equivalents.  Take https://academic.oup.com/view-large/127773013 from https://academic.oup.com/mnras/article/483/2/2300/5184501?login=false
+The columns are :-
+HD 
+Effective Temperature (Kelvin)
+Radius (Solar Radius)
+Solar Luminosity(?)
+Mass (Solar Mass)
+Unknown
+Unknown
+Age(?)
+
+What are the unknown columns, am not clued up enough to copy the notation?
+I have found https://en.wikipedia.org/wiki/List_of_common_astronomy_symbols but those above I can't find
+If anyone knows of anywhere which explains these codes, that'll be awesome.

@@ -1,0 +1,12 @@
+How to Find the Viewing Size of a Star
+
+The sizes of the stars in the picture below have more to do with their brigtness than the actual size of the star.  I'm looking for a formula that relates the viewing size of a star with its brightness.
+
+This is what I've worked on so far:
+From Wikipedia on Apparent Magnitude, History
+The viewing brightness can be related to the apparent magnitude by
+$$B=0.4^A$$
+Before I sit down and count pixels and try to do a curve fit to find the  the relationship, I'm guessing this work has been done before.  I wonder if anyone has any leads that would get me to a good equation that I can use to generate the view sizes of stars.
+
+Edit:
+My main goal is to make a reasonable 'cartoon' of the various constellations for the astronomy classes I'm teaching.  My rough work so far looks like this.  (I'm fairly certain the vertical scale is off.)

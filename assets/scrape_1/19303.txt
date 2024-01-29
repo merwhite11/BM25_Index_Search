@@ -1,0 +1,4 @@
+How can I calculate when the new moon will be observed from a particular meridian?
+
+I have read that Chinese months start on the day on which the new moon is observed from the 120th meridian east.  From this I am assuming that the new moon is observable from there each time and that it doesn't matter where on the meridian you are (although I suppose it's implied you're in the northern hemisphere).
+How can I calculate the time at which the moon is new from a particular meridian?

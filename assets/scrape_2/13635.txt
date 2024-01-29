@@ -1,0 +1,3 @@
+Determining distance from semi-major axis and eccentricity
+
+I am trying to obtain the distance covered by an object in orbit around the earth within a specified amount of time past its perigee passage. The object is in an elliptical orbit with eccentricity 0.2 and has a semi-major axis of 9600km. Where would I look to find the objects position 90 mins after it passes its perigee? Thanks for any advice

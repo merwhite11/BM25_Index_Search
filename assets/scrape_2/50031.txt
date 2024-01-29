@@ -1,0 +1,8 @@
+Since the Hubble Constant changes over time (it's a variable parameter), why can't the conflicting values of 67.4 and 73 both be right?
+
+Are the conflicting values from the 'early universe' (Planck) method and the 'late universe' (Distance ladder) method actually compatible?  Since during the latter period of the universe 'dark energy' has taken over and accelerated the universe's expansion?
+Are the values often given (67.4 vs. 73) actually averages over the lifetime of the universe?  Since the Big Bang, or since the CMB release?
+Even if the famously conflicting values of 67.4 and 73 are averages over the lifetime (or at least most of it) of the universe, why do all of the online Calculators giving an age of the universe based on your Hubble Constant input also insist you also input other parameters, especially the ratio of dark energy to all other mass and energy?  (See Ned Wright's pages at IPAC at Caltech, e.g.)
+Shouldn't an average lifetime Hubble Constant already take that into account?
+Think about it.... The rate of expansion of the Universe is constantly changing... And yet the Hubble 'Constant' gives a value per MegaParsec... Despite the fact that the Hubble Parameter has changed since the light from objects 3.26 million light years has reached us...
+I am confused....

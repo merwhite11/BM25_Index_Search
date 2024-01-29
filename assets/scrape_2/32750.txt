@@ -1,0 +1,5 @@
+Does Nickel show up in spectra of Nova?
+
+Does a nova, not a supernova, get hot enough that nickel is produced despite its formation by fusion being an endothermic reaction? If nickel is made, does it make it out of the star into the nebula?
+All I'm finding is this: Spectral Analysis of Central Stars of Planetary Nebulae which is not a very satisfying read.
+I'd expect some nickel synthesis even in the core of non-nova stars. there's some equilibrium constant for the reaction after all, but it does not appear to be much talked about.

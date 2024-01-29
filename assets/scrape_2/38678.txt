@@ -1,0 +1,6 @@
+How is angular momentum transferred between a neutron star and its accretion disk?
+
+Accreting neutron stars can either gain or loose angular momentum via interaction with their accretion disks. This leads to either spin-up or spin-down. Which of the two is the case, depends on the position at which the plasma couples to the magnetic field lines (see image). So far I kinda get it.
+My question is: How exactly is the matter accelerated/decelerated when it "couples" to the magnetic field lines and how does this lead to transfer of angular momentum with the NS?
+I guess, some magnetic fields lead to some Lorentz forces on some currents and eventually some torque will transfers angular momentum from the NS to the plasma (and the other way around); but how exactly?
+I suspect some of the answers are included in the original work by Ghosh & Lamb 1979 (image below), but I have to admit some parts of their papers go a bit over my head.

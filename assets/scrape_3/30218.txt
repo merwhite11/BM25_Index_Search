@@ -1,0 +1,3 @@
+How would I search within an angular distance of an object corresponding to a distance in parsecs?
+
+I'm interested in the learning about the local densities around galaxies. I've found myself a bit confused on how to relate angular distances (arcseconds) with physical distances (parsecs) when thinking about distances between two distant galaxies. For example, let's say the average distance between galaxies within clusters is a few megaparsecs. If I had ra, dec coordinates of a particular galaxy and could hypothetically query an all-sky catalog, let's say I'd want to search within a few megaparsecs to get a feel for its density field. But generally when querying catalogs you specify a search radius in some arcseconds. How would these relate here?

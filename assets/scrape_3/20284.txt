@@ -1,0 +1,32 @@
+Why is the moon phase not in sync with the moon's illuminated fraction?
+
+I am using the following R script to plot the moon phase and the moon's illuminated fraction:
+library(oce)
+
+X11()
+
+t_start <- as.POSIXct("2017-02-23", tz='UTC')
+t_end   <- t_start + 75 * 24 * 3600  # 35 days
+
+tm <- seq(from = t_start,
+           to  = t_end,
+           by  = 10000
+        )
+
+moon     <- moonAngle(t=tm, longitude=-8, latitude=47)
+fraction <- moon$illuminatedFraction
+phase    <- moon$phase - floor(moon$phase)
+
+plot (tm, fraction, type="l", col='blue')
+lines(tm, phase   , type="l", col='red' )
+
+grid()
+
+# wait for mouse click or enter pressed
+locator(1)
+
+This is plotted:
+
+The red lines indicate the phase (0 = new moon, 1/4 = first quarter, 1/2 = full moon etc.), the blue curve indicates the how much of the moon is illuminated.
+I have expected the illuminated fraction to be zero exactly then when also the phase is zero. However, this is not the case.
+So, is there something I am missing, am I doing something wrong in my script or is the implementation of oce inaccurate?

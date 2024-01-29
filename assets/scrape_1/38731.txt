@@ -1,0 +1,8 @@
+Is the rate of gravitational wave detection roughly what was expected?
+
+LIGO's first light was back in 2002 but it has only recently started regular observation. With roughy 50 events confirmed, is it possible to compare its detection rate to predicted rates?
+There were probably some wide ranges bracketed, and predictions may have evolved after construction began as the science evolved, so there can't be a precise answer. But is it possible to at least say if the rate is roughly in the same ballpark as what was anticipated?
+Are there any glaring deficiencies or surprisingly high rates for specific types of events at all?
+
+
+Observations are made in "runs". As of December 2019, LIGO has made 3 runs, and made 50 detections of gravitational waves. Maintenance and upgrades of the detectors are made between runs. The first run, O1, which ran from 12 September 2015 to 19 January 2016, made the first 3 detections, all black hole mergers. The second run, O2, which ran from 30 November 2016 to 25 August 2017, made 8 detections, 7 black hole mergers, and the first neutron star merger. The third run, O3 began on 1 April 2019; it is divided (so far) into O3a, from 1 April to 30 September 2019, and O3b, from 1 November 2019 until it was suspended in March 2020 due to COVID-19.

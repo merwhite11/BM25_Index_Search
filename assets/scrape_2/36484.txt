@@ -1,0 +1,134 @@
+problems finding rise set and transit times at high latitudes using Meeus' algorithms
+
+I am implementing Jean Meeus' algorithm from his book "Astronomical Algorithms", 2nd ed. for rise, set and transit times in Swift. It seems to provide very good results (no more than 1 minute difference) when comparing to timeanddate.com for example, including at high latitudes ( above 66 degrees).
+However, at times it does not work.
+I have traced this to circumstances where a) the sun rises on a particular UTC day but does not set, or vice-versa, b) where the sun rises twice on a given UTC day. A specific example of the latter occurs on April 16, 2020 in Longyearbyen (Svalbard) Norway. And finally c) when a rise time "moves" back from after to before midnight when looked at on consecutive days.
+Approximate rise, set and transit times, respectively m1, m2 and m0, can be calculated reasonably easily. They then need to be refined by a delta m value. This can/may/should be done iteratively.
+Looking closer, I find that for events described above, the values for m1 and m2, when adjusted for delta m as described on page 103, typically exceed 1. Meeus states that the m values "should be between 0 and 1. If one or more of them are outside of this range, add or subtract 1". A bit further, in Note 1 at the end of Chapter 15, there is a tantalizing note that says "if the time of setting [..] is needed in local time, the calculation should be performed using [...] m2 = 1.12113, which is larger than 1.
+This makes me suspect - I am not an astronomer, as you will have guessed - that values of m1 or m2 greater than 1 can probably help me to calculate rise times on a day where this happens twice, and also correct time of rise on a day where the sun does not set (and vice-versa).
+This took me to github, where I found some JavaScript code (and more) by onekiloparsec, which compares rise time to transit time, and if the first is later than the second, takes the rise time to be on the previous day. Similarly, if set time is before transit time, it is then taken to be on the following day.
+I have also looked at "Practical Astronomy with your calculator or spreadsheet" by Peter Duffett-Smith and Jonathan Zwart, but did not find an answer there. It did provide a very useful bit of information that Meeus does not provide, namely that the sign of the result of Meeus' equation 15.1, when the result in absolute value is greater than 1, allows to distinguish whether a star is permanently below (cos H0 >1)  or above the horizon (cos H0 < -1).
+It would be great to get an explanation or a reference and some details on how to interpret results for m1 and m2, as unfortunately Meeus' book, while describing the algorithms to a level where a non-astronomer can implement a lot of the calculations, does leave me with the odd question.
+Below is the (Swift) code I wrote to iteratively refine the values for m0, m1 and m2.
+
+func iterateForPreciseM(m_fractionOfDay:Double, desiredTime:DesiredTime, calculationMode:CalculationMode, debugmsg:String = "") -> (Double?, CalculationQualityLevel) {  //inline function. calculation mode allows to specify if rise/set or transit is to be calculated.
+//returns refined fraction of day and an indicator of result quality. Quality "good" means it was calculated with no more than 3 passes. Quality "problematic" signals that more than 3 passes were required before deltaM reached "convergence" limit, but in less than 20 loops. If more than 20 passes, quality is set to "bad" to indicate failure to converge. I arrived at those values (3 and 20) arbitrarily.
+
+//desired time is used to specify whether we are calculating transit, or rise & set time.
+//calculationMode specifies whether we are calculating civil twilight times or sun rise & set times. NB rawValue feature used.
+               
+var m_fractionOfDay = m_fractionOfDay   //shadow the passed-in value as I will need to modify it.
+                
+var loopCount = 1 , maxAcceptableLoopCount = 3 , maxLoopCount = 20     //arbitrary count limit for the loop.
+let deltamLimit = 0.0001    ///0.0001 is arbitrary. So far 2020-05-07 I observe that it very often is a little above this, but on the second iteration becomes infinitesimal
+    
+repeat {
+                    
+    var small_theta0_degrees = GAST0_degrees + 360.985647 * m_fractionOfDay  ///small theta0 is "sidereal time at Greenwich", per AA Meeus, top of p103. Don't know what the difference between that and Greenwich Apparent Sidereal Time means. Perhaps sidereal time at the observer's location, since that enters into the calculation of m-fractionOfDay ? Or, more likely, as in AA Chap 12 p87, small_theta_0 is defined as sidereal time at Greenwich for a specific instant UT.
+                 
+    small_theta0_degrees = normalizedDegrees360(degrees: small_theta0_degrees)
+    let n = m_fractionOfDay + ( deltaTseconds / constants.SECS_IN_DAY )
+    if abs(n) > 1 {
+       if verbose { wl(#function,#line,"  --**n \(n) outside of -1 to +1 range - \(debugmsg)") }
+    }
+    /* Right ascension always lies in the range 0 to 360 degrees, and continuously increases with an increase in date. However when it reaches 360 degrees, which happens once a year at the spring (or i believe more accurately at the vernal) equinox, it "wraps around" to 0.
+
+    Per Wikipedia, "https://en.wikipedia.org/wiki/Right_ascension", RA is customarily measured in hours, minutes and seconds, ranging from 0 to 24. Interestingly, the article also states that SHA is the 24h-complement of RA.
+Meeus' interpolation formula (eq.3.3) needs to be adjusted to handle this wrapping, (though this is not stated explicitly in AA - I discovered it during tracing). This means some of the RA values will need to be increased by 360 degrees.
+*/
+
+    ///copy the original RA values for the 3-day range obtained previously - since we are in an inline function which gets called multiple times and loops as well, we cannot modify the original values. I could modify them when I first calculate them - which happens outside this inline function, but doing this there makes it less obvious what I need to do.
+    let rightAscensionDegreesDay0 = rightAscensionDegrees[0]
+    var rightAscensionDegreesDay1 = rightAscensionDegrees[1]
+    var rightAscensionDegreesDay2 = rightAscensionDegrees[2]
+
+    //now adjust them if right ascension increases through 360 degrees during the 3 days for which we are interpolating.
+    if rightAscensionDegreesDay1 < rightAscensionDegreesDay0 {       //for the case ra[2]=1.6 ra[1]=0.7 ra[0]=359.8
+        rightAscensionDegreesDay1 += 360
+        rightAscensionDegreesDay2 += 360                            // now ra[2]=361.6, ra[1]=360.7, ra[0] unchanged 359.8
+    }                                                               // falling through to next check won't cause further modification to ra[] values.
+    if rightAscensionDegreesDay2 < rightAscensionDegreesDay1 {        //for the case ra[2]=0.7 ra[1]=359.8 ra[0]=358.9
+                 rightAscensionDegreesDay2 += 360                            // now ra[2]= 360.7, ra[1] and ra[0] unchanged.
+    }
+    
+    let a1 = rightAscensionDegreesDay1 - rightAscensionDegreesDay0
+    let b1 = rightAscensionDegreesDay2 - rightAscensionDegreesDay1
+    let c1 = b1 - a1
+                    
+    let alpha_degrees :Double = normalizedDegrees360(degrees: rightAscensionDegrees[1] + (n/2.0) * (a1 + b1 + n * c1 ))    //need to normalize as some cases of wrapping at the equinox may cause alpha to go slightly above 360.
+                                       
+    //interpolate declination using eq.3.3
+    /* Declination FOR THE SUN ranges from +23.4x to -23.4x degrees. It rises above 0 at the spring equinox, peaks at summer solstice, then descends through 0 at the fall equinox, bottoms out at winter solstice and rises again.
+       Tests reveal that Meeus' interpolation formula correctly handles inflection points at the solstices as well as passage from negative to positive and vice-versa, without requiring adaptation as was the case for right ascension.
+                     */
+    let a2 = declinationDegrees[1] - declinationDegrees[0]
+    let b2 = declinationDegrees[2] - declinationDegrees[1]
+    let c2 = b2 - a2
+                    
+    let delta_degrees :Double = declinationDegrees[1] + (n/2.0) * (a2 + b2 + n * c2 )
+    
+    //calculate H - this is the LHA
+    var H_degrees = small_theta0_degrees - observerLongitudeDegrees - alpha_degrees
+
+    //Bring H (LHA) back into the -180 to +180 range - Per Meeus Chap 15 p103
+    H_degrees = normalizedDegreesPlusMinus180(angleDegrees: H_degrees)
+    
+    //calculate the deltaM, for either transit or for rise/set
+    var deltam:Double = 0
+    
+    var sin_h:Double = 0; var altitude_degrees:Double = 0 //for tracing, define outside the switch. Otwz both can be defined inside switch, not needed outside.
+    switch desiredTime {
+        case .transit:
+        //deltaM for transit chap 15 p103
+        deltam = -H_degrees / 360
+                        
+        case .riseSet:
+        //calculate Sun's altitude
+        ///AA eq. 13.6
+        sin_h = sin(radians(degrees: observerLatitudeDegrees)) * sin(radians(degrees: delta_degrees)) + cos(radians(degrees: observerLatitudeDegrees)) * cos(radians(degrees: delta_degrees)) * cos(radians(degrees: H_degrees))
+         
+        if abs(sin_h) > 1 {
+            // FIXME:  asin may return NaN if abs(sin_h) is greater than 1. For now I will let this happen. Should find a way to handle this situation.
+        }
+        altitude_degrees = degrees(radians:asin(sin_h))
+     
+        // deltaM for rise and set Chap 15 p 103
+        
+        let geometricAltitudeOfCelestialBodyCenter_degrees = calculationMode.rawValue
+        deltam = ( altitude_degrees - geometricAltitudeOfCelestialBodyCenter_degrees ) / (360.0 * cos(radians(degrees: delta_degrees)) * cos(radians(degrees: observerLatitudeDegrees)) *  sin(radians(degrees: H_degrees)) )
+        // FIXME:  guard against division by 0 - everywhere in this class! If the observer latitude is 90N/S, div by 0!!!
+
+    } //endswitch
+                                
+    m_fractionOfDay += deltam
+    
+    if m_fractionOfDay > 1.0 { wl(#function,#line,"!!  --m_frac WENT ABOVE 1 = \(debugmsg) -: \(m_fractionOfDay) :- at loop #\(loopCount) \(calculationMode) \(desiredTime)") }
+    if m_fractionOfDay < 0.0 { wl(#function,#line,"!!  --m_frac WENT BELOW 0 = \(debugmsg) -: \(m_fractionOfDay) :- at loop #\(loopCount) \(calculationMode) \(desiredTime)") }
+               
+    if fabs(deltam) < deltamLimit {
+                        
+        if loopCount > maxAcceptableLoopCount {
+            // abnormally high loop count at exit - m:\(m_fractionOfDay) 
+             break
+        }     
+        if loopCount > maxLoopCount {   ///for debugging purposes only. 
+            // maxLoopCount EXCEEDED 
+             break
+        }
+        loopCount += 1
+                    
+} while true
+
+if loopCount > maxLoopCount {
+    return (m_fractionOfDay, CalculationQualityLevel.bad)
+}
+if loopCount > maxAcceptableLoopCount {
+    return (m_fractionOfDay, CalculationQualityLevel.problematic)
+}
+    
+return (m_fractionOfDay, CalculationQualityLevel.good)
+                
+} ///end inline func
+
+As a bit of background, I am a pilot, not an astronomer, and have in the past had to learn  navigation techniques in polar areas where the magnetic compass is unreliable. So we had to know how to use the sun as compass - by finding its true bearing and then pointing the aircraft nose into it we could establish a heading. The other technique involved use of an astrocompass installed on the aircraft. It worked, provided you had not forgotten to take an almanach or tables along!!
+Of course, I know, these days, GPS... This is mostly for the fun of it, and as backup. The sun's true bearing calculation I think won't be a problem since I can already calculate the sun's RA and declination (using Meeus' adaptation of VSOP87). But it would be good to know ahead of time if the sun is actually going to be up when I plan to point an astrocompass at it. And the reason why I am looking for the answer at high latitudes is that, after all, it should be useable "up north".

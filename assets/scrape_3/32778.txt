@@ -1,0 +1,5 @@
+Is there a standardized "Astronomical Alert" system?
+
+“Who saw” the binary neutron star merger first? What was the sequence of events? (GRB/GW170817) highlights a particularly notable astronomical alert, but I am sure that there are alerts triggered by various systems sent to various other systems.
+Question: Is there a standardized "Astronomical Alert" system? Or are there many decentralized and specialized systems for each of various specific scenarios, such as the one described in Does the Zwicky Transient Facility only run when triggered by a cell phone?
+The question occurred to me after posting Will LSST make a significant increase in the rate of astronomical event alerts? and reading the excelent answer(s) there!

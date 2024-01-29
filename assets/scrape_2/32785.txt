@@ -1,0 +1,9 @@
+Expected nature of LISA's data; will it be more like a forest of static peaks, or a series of individual events?
+
+@RobJeffries' clear answer to Which things “LIGO can see things that LISA can't”, and vice-versa? explains that the Laser Interferometer Space Antenna or LISA will only be sensitive to gravitational waves with frequencies below about 1 Hz and so will be sensitive to much slower rotating objects than those that LIGO records.
+
+Lower frequency GWs can only be seen with LISA. This would include stellar binary systems with orbital periods longer than about 10 seconds, merging supermassive black holes and maybe GWs from the big bang
+
+This can might include "event-like" signals, for example (possibly) a merger of two supermassive black holes that are so large in diameter that even during the merger their orbital frequency is below 1 Hz, but it can also include signals from the rotation of bodies not yet in contact but are slowly losing angular momentum though continuous GW radiation. While these would be much weaker, they would provide a very stable and very narrow peak in a spectrogram with an extremely slow drift, so you could accumulate data for years in order to bring them up out of the noise.
+While LIGO's detected events have lasted of the order of 1 second or less, it sounds like it is possible that LISA could potentially record continuous GW radiation from a large number of pairs at the same time since the "lifetimes" might be years or millennia rather than seconds, provided that the sensitivity to these weaker signals is sufficient.
+Question: What is the expected nature of LISA's data; will it be more like a forest of fairly static or slowly moving peaks in frequency space, or a series of individual events? Presumably this has been modeled based on some predictions of the number of different kinds of pairs at various separations expected to be found nearby.

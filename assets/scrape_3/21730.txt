@@ -1,0 +1,4 @@
+Challenges when trying to build a telescope using two lenses
+
+I have some lenses - a 10 cm and 7 cm convex lense and a 4 cm and 1 cm concave lenses. I am trying to make a telescope by combining one of convex and concave lenses, but I am struggeling to do so. The picture that is created using these two lenses doesn't show anything other than the thing that can be seen by eyes. Is it possible to make simple telescope using these lenses?
+PS: All of numbers are lense diameters.

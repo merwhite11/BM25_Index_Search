@@ -1,0 +1,4 @@
+Is there more dark matter than we previously thought?
+
+With the recent Nature publication showing that M dwarfs did not form in prior epochs as frequently as we had thought, what implications does this have on galaxy mass estimates and, by extension, the amount of dark matter necessary for galaxies to have the dynamics we observe?
+My understanding is that because of how faint red dwarfs are, we have had to rely pretty heavily on assumptions about the ubiquitous concentration of red dwarfs with some variability, but this article seems to suggest a pretty big discrepancy between what we previously believed the concentrations to be and what they actually are.

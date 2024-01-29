@@ -1,0 +1,5 @@
+Do “neutrino supernovae” exist?
+
+Core collapse supernovae release most of their energy in the form of neutrinos. About 1% of the neutrinos are absorbed by the thick outer envelope which powers a spectacular supernova explosion.
+Core collapse can also happen in white dwarfs. According to this answer, white dwarfs made of light elements (He, C) explode upon reaching the Chandrasekhra mass limit, while white dwarfs consisting of heavy elements (O, Ne, Mg) collapse into neutron stars. The collapse is not much different than the core collapse of massive stars, except that the white dwarfs are not buried under a thick atmosphere. As a result, neutrinos will just escape freely with little absorption.
+Does that mean such collapses will result in “neutrino supernovae” (in analogy with neutron bombs), with minimal electromagnetic emission?

@@ -1,0 +1,7 @@
+A question about using both the Simbad and the Gaia archive
+
+It seems a bunch of people, including myself, have got it into our heads to create a 3D visualisation of the stars around us - one where you get to fly around them rather than view them from the viewpoint of Earth.
+This means, obviously, that I'm limited to stars that have parallax values, which in the case of the Gaia archive is about 2 million whereas in Simbad 100 000. The reason why I'd like to use both is that Simbad appears to have more useful information, including names and types of star. Also, amazingly, the highest parallax (in milliarcseconds) in gaia is in the 200s, which suggests that alpha centauri is not in the archive! My hunch is that Simbad is the place to go for nearby and named stars, whereas Gaia has higher numbers.
+I imagine (perhaps incorrectly) that there is a way to identify a Simbad star on the Gaia database and vice versa. Gaia has a bunch of id values (solution_id, source_id, random_index) whereas on Simbad there's just the one (Identifier). I have the suspicion that Simbad may have more columns I'm not aware of.
+In any case, my plan would be to query both archives, and weed out multiples based on an identifier of some sort. Maybe there's a third database that links the two? Maybe I'm missing something obvious? Perhaps there's the perfect page out there that tells me precisely how to do this which has eluded my googling.
+Any help would be greatly appreciated.

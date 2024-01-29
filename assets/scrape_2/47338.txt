@@ -1,0 +1,10 @@
+How would the surface of Mars compare with the Atacama desert for millimeter wave (and shorter) radio astronomy?
+
+In this answer to What kind of experiments would a scientist do on Mars? I suggest that the resemblance of the ALMA array's site in the Atacama Desert to the surface of Mars suggests millimeter wavelength astronomy might work well there.
+Question: How would the surface of Mars compare with the Atacama desert for millimeter wave (and shorter) radio astronomy?
+
+
+Where on Earth do we find scientists living in a place like that?
+
+Source: Profesores y alumnos del Departamento de Construcción y Prevención de Riegos USM visitan Observatorio ALMA (google: "Teachers and students from the USM Department of Construction and Risk Prevention visit ALMA Observatory")
+Atmospheric water is the bane to short wavelength (millimeter wavelengths and shorter, all the way to infrared) radio astronomy. There's still the vibrational and rotational bands of N2, O2 and CO to worry about, but a second ALMA on mars, (MALMA, MLMA, ALMAM?) would be a wonderful idea. You could even to incredibly long baseline interferometry with Earth!

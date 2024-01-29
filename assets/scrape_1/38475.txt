@@ -1,0 +1,18 @@
+What does the Sun "look like" below 100 MHz?
+
+Radio2space.com's The Radio Sun says:
+
+At very low frequencies (below 0.1 GHz) and therefore at very long wavelengths (> 3m) the solar disk appears much bigger and brighter in the center, and its brightness gradually decreases and vanishes after several solar radii.
+
+and I guess if you sell dishes and feed horns, then < 100 MHz may seem like "very low frequencies".
+This page shows an image of the Sun at 4 GHz and it's relatively dark but lined with bright "spots" in two bands on either side of the equator.
+But what does the Sun "look like" below 100 MHz? Is it just a fuzzy, unresolved blob that fades to zero at several solar radii, or can one resolve the Sun's edge.
+Different but related:
+
+Do stars have "radio photospheres"? Are they different from their optical photospheres?
+What will it finally take to accurately measure the distance to Betelgeuse? (includes links to radio images of other stars)
+
+
+ 4 GHz. (click for larger)
+
+The radio Sun: radio image of the Sun recorded by VLA. The brightest regions are part of corona nearby but beyond sunspots. Courtesy (NRAO/AUI)

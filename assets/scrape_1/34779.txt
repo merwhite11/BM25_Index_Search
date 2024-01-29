@@ -1,0 +1,32 @@
+How to compute Ascension / Descension cycle of the Moon
+
+I am struggling to find out an information about how to determine ascending/descending cycle of the Moon.
+I can find from this source and a bunch of others, that Moon begins to descend when reaches Gemini and minimum when reaches Sagittarius.
+I tried to do a simple comparison using flatlib library:
+from flatlib import const
+from flatlib.datetime import Datetime
+from flatlib.geopos import GeoPos
+from flatlib.chart import Chart
+
+d1 = Datetime("2020/1/21")
+d2 = Datetime("2020/1/22")
+d3 = Datetime("2020/1/23")
+pos = GeoPos('50n06', '14e24') #I concentrate to a specific place on northern hemisphere
+c1 = Chart(d1, pos)
+c2 = Chart(d2, pos)
+c3 = Chart(d3, pos)
+
+m1 = c1.get(const.MOON)
+m2 = c2.get(const.MOON)
+m3 = c3.get(const.MOON)
+print(m1)
+print(m2)
+print(m3)
+
+Which prints:
+Moon Sagittarius +14:07:19 +13:16:13
+Moon Sagittarius +27:17:06 +13:03:28
+Moon Capricorn +10:14:25 +12:51:13
+
+Am I right that moon is ascending during these days (21-23rd Jan 2020) as it moves from Sagittarius to Capricorn and further to Gemini? 
+I am aware of this answer, but I am not exactly sure if it deals with same problematics.

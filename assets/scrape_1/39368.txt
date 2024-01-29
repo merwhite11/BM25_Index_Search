@@ -1,0 +1,5 @@
+Limit Magnitude divide 2 arcsec
+
+How can I derive limit magnitude in 5sigma/2arcsec ?
+I have the limit magnitude in 5sigma which derive from the magnitude with SNR reach 5.
+But I can not understand what the meaning of dividing 2arcsec.

@@ -1,0 +1,6 @@
+How bright could Gliese 710 appear in 1.35 million years?
+
+I read this article on Gliese 710 that stated it would come within about 1.1 ly (+/- 0.577 ly) of earth in 1.35 million years. Wikipedia states it would have an apparent magnitude of 0.5, and the original paper abstract states it would have a -2.7 apparent magnitude. 
+From reading the list of brightest stars, apparent magnitude of 0.5 would make it about the 10th brightest star, and -2.7 would make it the brightest (besides the sun). 
+I'm curious about the discrepancy between these sources.
+How bright would Gliese 710 appear if it were at the near end (0.523 ly) and far end (1.677 ly) of the expected closest approach to us?

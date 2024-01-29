@@ -1,0 +1,11 @@
+Is the appearance of accretion disks of M87 and Sgr A* in EHT image, related to the nucleus being active or non-active?
+
+I'm a newbie in this field so forgive me if I'm considering things wrong.
+As much as I can see, the newly published image of the Sgr A* looks pretty much the same as M87 released years ago. I'm wondering why the appearance of both nuclei are the same while M87 has a massive, active galactic nucleus with strong radio emissions and long relativistic jets, but the Sgr A* is not an AGN, is not as massive as M87 and doesn't have radio emissions as strong as M87 and yet the image of the accretion disks look quite the same?
+From Wikipedia:
+
+The comparatively small mass of this supermassive black hole, along
+with the low luminosity of the radio and infrared emission lines,
+imply that the Milky Way is not a Seyfert galaxy.
+
+Actually I was expecting a simple dark circle with a narrow accretion disk with somehow lower luminosity(temperature?) in the image.

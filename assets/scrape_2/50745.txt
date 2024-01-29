@@ -1,0 +1,3 @@
+Why is the colour-index measurement used?
+
+So I'm learning about the colour-index currently and what is confusing me is why this is useful. The colour of a star is dependent on the temperature, so wouldn't astronomers have a natural idea of what colour a star would be based on its temperature, making the colour index useless? My thought is that perhaps it provides more information about the contents of the surface of the star than the temperature does, but once again wouldn't we automatically know this based on the temperature alone?

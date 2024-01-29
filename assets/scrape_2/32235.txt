@@ -1,0 +1,14 @@
+Draw the celestial sphere for latitude, showing the star Sirius, Estimate the approximate date when Sirius rises with the Sun
+
+I'm having trouble understanding how to solve a certain problem.
+The problem is from the book Astronomy: Principles and Practice by Roy and Clarke. It is actually a solved example, but I am unable to understand parts of the solution.
+
+Draw the celestial sphere for latitude 30° N, showing the star Sirius (right ascension
+  6h 40m, declination 17° S) at rising and draw the ecliptic. Estimate from your diagram the approximate
+  date when Sirius rises with the Sun.
+
+
+This is the image from the solution. I'll copy the entire solution.
+
+
+Now, here's what I don't understand. If Sirius is at X, and if X is on a parallel of declination, why isn't this parallel parallel to the equatorial plane? Does the same go for the Sun? And how do we get the RA of the Sun?

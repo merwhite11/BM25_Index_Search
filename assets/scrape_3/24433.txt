@@ -1,0 +1,5 @@
+How can I calculate how far through the day the prime meridian is of different planets
+
+I'm trying to create a widget that shows the 'time' on different planets. It will show how far through the day/night cycle (as a percentage) a point on the planet is. It has been easy to scale down the cycle from 24 hr to eg ~10hr day of Jupiter however I am struggling to work out how I can 'set' the time. 
+For Mars this has been straight forward, using the comparison of MTC and UTC of when the Curiosity rover landed but I can't find similar data for other planets to anchor time from earth to the other planets. 
+Is there a data base for this kind of information?

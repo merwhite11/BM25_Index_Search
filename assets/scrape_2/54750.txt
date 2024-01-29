@@ -1,0 +1,6 @@
+On a theoretical young tidally locked planet and its relationship with temperature
+
+I have a question regarding tidally locked planets, regarding the length it takes to reach a certain temperature.
+How would one calculate the estimated temperature after a certain amount of time being tidally locked. For example, how hot would a planet be after 10,000 years of tidally locking as compared to millions or billions? As I understand it it would actually be far cooler, but I am curious as to how exactly one would calculate this in regards to distance to the source, luminosity, and the size and albedo of the planet. If such a formula exists.
+In short, how to find the surface temperature of a tidally-locked planet in regards to time. I am capable of doing the math myself, I simply require help finding a formula that describes what I am looking for. I only need an approximation, as long as it remains in the correct order of magnitude.
+Your help would be much appreciated.

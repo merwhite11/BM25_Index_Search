@@ -1,0 +1,7 @@
+Trajectory: What would happen if the sun disappeared one day?
+
+So, let's just assume, to no aspect explainable to humans, the sun just magically popped out of existence on January 1st next year (2022), that'll never happen, this is just a scenario to explain my question. If the sun disappeared, regardless of life on Earth, where would the Earth float off to? If it would come close to a gas giant, then a gravity assist would affect the Earth's path through space. Where would it go?
+In an answer, I want a feasibly explained way to calculate where Earth would go, not giving much thought to Gravity assists, since I got their calculations from this question, the first answer, and the answer in the link embedded in it.
+Also, in the comments section, I've seen comments claiming that my question is a possible duplicate of others. One other addresses what would happen here on Earth, while the other one is about how long it would take for us to stop orbiting the sun after its sudden disappearance. In contrast, I'm wondering about where the Earth would float off to, and where it would go.
+Now, this question can seemingly be applied to any celestial object, whether the sun is there or not, I want to figure out trajectory in space. I want to know about trajectory, and how it affects the motion of celestial bodies.
+Assuming this can be answered theoretically by the use of equations and mathematics, thanks in advance!

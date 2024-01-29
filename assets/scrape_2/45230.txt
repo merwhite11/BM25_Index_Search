@@ -1,0 +1,6 @@
+Not getting quality images in telescope
+
+I have a Newtonian telescope (Celestron 130 eq) with 5.2 inch (~132 mm) aperture with 650 mm focal length, Spherical mirror. And having 4mm, 10mm, 12.5mm, 20mm,20mm (erecting eyepiece), a 3x and 1.5x Barlow. All eyepieces are non-plossl.
+I am not getting crisp images when looking at planets like Jupiter and Saturn even when the magnification I used a setup of about 244x, (4mm + 1.5x barlow), not exceeding the 307x limit. When using 4mm (without and with 1.5x barlow) I am getting blur and highly chromatic images.
+I am pretty sure that the telescope is collimated, not absolutely sure though, I don't know how to find whether its collimated or not. And the 4mm, 12.5mm, 20mm (non erecting) are all 1 inch eyepieces where the telescope is of 1.25 inches, using an adapter to fit in. However 12.5mm, 10mm gives somewhat ok ok images.
+I am living in a Megacity with light pollution of Class 7. I am looking forward to have some tips and guidance on this. Cheers !!

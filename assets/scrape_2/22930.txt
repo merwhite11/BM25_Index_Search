@@ -1,0 +1,3 @@
+Could a moon orbit two planets at once?
+
+Let's say you had a binary planet system of two earth-sized worlds with about the same mass. Could a stable moon orbit around the barycenter of both planets? If so, is there a limit to the mass of such a moon? Would it have to orbit in a Lagrangian point?

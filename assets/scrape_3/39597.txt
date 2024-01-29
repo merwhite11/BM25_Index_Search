@@ -1,0 +1,7 @@
+How to explain the equation 'Altitude of a star at culmination = co-latitude + declination'?
+
+Altitude of a star at culmination = co-latitude + declination.
+I understand that the co-latitude is equal to the altitude of the celestial equator (since it is 90 degrees away from the NCP). I also understand that declination is the height of a star above the celestial equator.
+But I am just unsure why you can directly link altitude and declination at the exact point of culmination?
+And why is a star reaching its highest point as it crosses the meridian?
+thanks for any help.

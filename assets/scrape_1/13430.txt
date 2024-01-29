@@ -1,0 +1,6 @@
+Terminology: Is there a name for the points on the surfaces of tidally locked parent/satellite bodies that always face each other?
+
+This is purely a question about terminology, one that has eluded my googling efforts. 
+When a satellite and its parent body are tidally locked to each other, there is (in an ideal case) a single point on the surface of the parent body and on the surface of the satellite body that remain the closest two points on the two bodes at all times.
+Is there a specific name for those two points? If so, what is it? I think "antipodal points" is descriptive, but I wonder if there is a more specific term.
+Thank you!

@@ -1,0 +1,14 @@
+Can this ppxf fit work?
+
+I am trying to do kinematical analysis of spectra using ppxf-algorithm from Capellari. The velocity dispersion I get seems to be to high and I am not sure what the reason could be. On the website of the ppxf algorithm ( https://pypi.org/project/ppxf/#problems-with-your-first-fit), he suggests to plot galaxy spectra and template convolved with gaussian and try to make the parameters roughly fit by eye, which I tried:
+   sigma = 6  # Velocity dispersion in pixels
+shift = 40  # Velocity shift in pixels
+flux_temp = np.roll(ndimage.gaussian_filter1d(flux_temp, sigma), shift)
+plt.plot(loglam_gal,flux_gal, 'k', label ='galaxy')
+plt.plot(loglam_temp, flux_temp * np.median(flux_gal) / np.median(flux_temp), 'r', label='template convolved with gaussian')
+plt.legend()
+plt.show()
+
+Resulting in the plot:
+
+In the middle arround the Mg-triplet this is roughly a good match I would say, on the outer parts not so much. Just looking at the plot, are there any concerns about the applicability of the ppxf-algorithm ?

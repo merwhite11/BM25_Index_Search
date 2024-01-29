@@ -1,0 +1,4 @@
+Where can I find source data for the graph of metric expansion over time, as shown in this ESA web page?
+
+This web page from ESA/Hubble, shows the size of the universe over time. (I know that "size of the universe" is a gross simplification and open to multiple definitions and ambiguity, but this kind of graph is roughly what I'm after).
+But no source data is cited. This is the closest I can find to what I'm after - where can I find source data to match this graph?

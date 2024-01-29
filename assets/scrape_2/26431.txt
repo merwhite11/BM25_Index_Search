@@ -1,0 +1,4 @@
+Tests for code that computes two-point correlation function of galaxies
+
+I'm currently writing a code to compute the two-point correlation function of a set of galaxies. As I work with a loooot of galaxies, it was suggested to me not to do it in real space, but to compute the power spectrum in Fourier space and get the correlation from the power spectrum, as is explained e.g. in appendix B in this paper (arXiv:1507.01948).
+What I need are some very simple test cases with known results to test my code at each step in order to ensure that I really get what I want. Can anybody point me to any such simple tests? Or at least to a already existing code (preferably in Python or Fortran) that does exactly this, so I can cross-compare the results?

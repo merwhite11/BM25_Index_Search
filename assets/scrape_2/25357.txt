@@ -1,0 +1,4 @@
+Where can I find a database of elemental spectra?
+
+I know that spectroscopy can be used to analyze the light of stars to determine the elements causing their emissions in the visible spectrum, but this requires knowing the emission spectra of the elements themselves.
+Is there a standard source for this data?

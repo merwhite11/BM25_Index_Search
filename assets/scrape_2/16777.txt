@@ -1,0 +1,3 @@
+How was the acceleration calculated for this CME (Coronal Mass Ejection)?
+
+I am looking at data used in a project to get the velocity and acceleration of a CME (Coronal Mass Ejection). I understand how the velocity was calculated, and for the acceleration, I get the v2-v1 part of the formula for acceleration that was used (ex. 306.5-331.2), but what time intervals (t2-t1) were used to calculate the accelerations?

@@ -1,0 +1,14 @@
+Can Doppler shift make colors of two stars at same distance different?
+
+As you know, Doppler effect can change the wavelength of the light.
+Suppose there are two stars at same distance and same temperature. If one star is receding and the other star is approaching, their colors would look different.
+What I want to know is, how probable is it that two stars show different colors because of Doppler shift? In other words, if two stars at same distance have different colors, say blue and red, then is it safe to assume that two stars have different surface temperature?
+Actually, this was the question from the final exam for Wave & Heat.
+
+Q. Stars emit radiation whose spectrum is very similar to that of an ideal blackbody. Two stars, identical in size, are at the same distance from us. One of the stars appears reddish in color while the other one looks very blue. Choose the correct statement.
+(a) The red star is hotter.
+(b) The blue star is hotter.
+(C) They could both have the same surface temperature.
+
+I read that some stars near the galactic center moves very fast. http://en.wikipedia.org/wiki/S2_(star)
+If we only consider Planck distribution, only (b) is possible. I'm wondering whether (c) is also a realistic case, or it is only conceptually possible.

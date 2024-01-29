@@ -1,0 +1,4 @@
+Altitude of Polaris is latitude
+
+How to prove geometrically that the altitude of Polaris is equal to the latitude?
+I have seen in handouts that the altitude of the pole star gives the latitude of that place.

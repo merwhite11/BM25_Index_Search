@@ -1,0 +1,6 @@
+What color would stars have with an apparent magnitude of ~-30?
+
+The light of the Sun is white because our eyes are evolved to work with it as the primary light source. Other stars look white in the night sky because they are too faint to activate the color receptors in our eyes, but bright enough to activate the brightness receptors.
+But how red or blue would other other stars actually be if we could look at them from a distance that results in the same brightness as the Sun on Earth?
+I know that starlight is blackbody radiation, which is the same phenomenon as the glow from hot metal or carbon we see on Earth all the time. Small red dwarfs with temperatures of 2000K would be the temperature of molten iron, and as such glow orange-yellow. That's already quite close to white.
+Do K-type orange dwarfs look any different to the Sun at an equivalent brightness? Would the dominant wavelength of blue stars be able to overcome the brightness of the red to yellow wavelengths and actually cause blue sunlight?

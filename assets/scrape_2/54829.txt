@@ -1,0 +1,7 @@
+Confusion over habitable zone
+
+I am confused over the habitable zone, as I calculated the expected temperature of Earth (minus greenhouse effects), and it would be -17 C. Which is below the freezing point of water.
+I also made a fictional A-type star with a luminosity of 20, and its habitable zone would be 4.26401432711 to 6.14295116834 AU given the formulae of sqrt(L/1.1) and sqrt(L/0.53) to define boundaries. However, given the albedo of 0.08, it would be 121.5919576 to 55.72744259900003 C. So, the end of the habitable zone is past the boiling point of water, and the furthest reaches would still be far, far above the freezing point of water.
+Edit Additon: For context, the planet is a water planet (thus the Albedo of 0.08), with a relatively Earth-like atmosphere. If that can help find the habitable zone for it in regards to the star in question. Because I can't find one that works out well. Does 10.126 AU work out? That would make it recieve the same amount as Earth. It seems.
+The temperature formula I am using is 4th sqrt(L(1-a)/16πd2ơ) with d being distance from the star in metres, L being the luminosity in watts, and ơ being the Stefan–Boltzmann constant.
+This led me to questioning what exactly the habitable zone means, given it doesn't seem to actually follow the points where liquid water could exist. Can somebody try to elucidate me on what I am doing wrong here? Should I just try using the temperature formula for it and ignore the habitable zone calculation?

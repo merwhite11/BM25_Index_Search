@@ -1,0 +1,17 @@
+What causes the variation in the length of the synodic month, BESIDES the eccentricity of the Moon's orbit? And how much do they contribute?
+
+When explaining the reason for the variation in the length of the synodic lunar month, usually the only explanation given is that the Moon's orbit is elliptical, and the portion of its elliptical orbit which the Moon has to cover after finishing one full sidereal month, is different in different months. For example see here: https://eclipse.gsfc.nasa.gov/SEhelp/moonorbit.html#synodic.
+Lately I found here: Is the difference in time between the sideral and synodyc month - constant?, that the length of the sidereal month also varies, which would obviously be an additional cause for the variation in the length of the synodic month. In the source cited there (https://encyclopedia2.thefreedictionary.com/sidereal+month), there's no further explanation for the variation of the length of the sidereal month other than:
+
+Because of the irregularities of the moon’s motion—that is, deviations from the motion prescribed by Kepler’s laws—the length of a sidereal month is not constant and can vary by a few hours.
+
+I didn't find anywhere else mentioning these variations, let alone explaining it.
+So is it true that the length of the sidereal month is not constant? If yes, to what degree? What causes it?
+Another cause for the variation in the length of the synodic month, is probably the ecentricity of Earth's orbit. And although the ecentricity of Earth's orbit is less then that of the Moon's, it requires less percentage of a whole month (the time Earth traveled a portion of its orbit) to make a significant difference, than the percentage required of only two days (the time the Moon traveled the corresponding portion). The only place I found mentioning that effect was here: https://www.convertunits.com/from/synodic+month/to/sidereal+month (Edit: It's probably quoted from Wikipedia), stating the following:
+
+Due to the eccentricity of the lunar orbit around Earth (and to a lesser degree, the Earth’s elliptical orbit around the Sun), the length of a synodic month can vary...
+
+But they don't say how much it contributes.
+So I'm wondering how much of the variations are really due to the eccentricity of the Moon's orbit, which is viewed like the only reason.
+Also, are there any other reasons for the variation in the length of the synodic month that I didn't mention here? If yes, how big is their effect?
+As a bonus, how much does each of these causes add up to make the time real moon phases happen deviate from the average time?

@@ -1,0 +1,10 @@
+Gravitational Slingshot
+
+If a spacecraft slingshots around a planet P (with escape velocity V) at an angle $\theta$, I understand that the resulting velocity is $${ v }_{ 2 }=({ v }_{ 1 }+2u)\sqrt { 1-\frac { 4u{ v }_{ 1 }(1-cos(\theta )) }{ ({ v }_{ 1 }+2u)^{ 2 } }  } .$$
+However, this equation does not involve the mass of the assisting planet, nor the distance/altitude from which the spacecraft must slingshot from. After reading the answer to To what extent could a single Triton flyby slow down a direct Hohmann transfer to Neptune for NOI?, I have a few questions: 
+
+How is the formula for the bent angle and eccentricity derived?
+What exactly is the geometry behind the maneuver? More specifically, where does the hyperbola come from?
+How is the formula for the turning angle, $\delta =2\sin ^{ -1 }{ \left( \frac { 1 }{ 1+\frac { { r }_{ p }{ v }_{ \infty  }^{ 2 } }{ \mu  }  }  \right)  } $ derived?
+
+Please note that I'm a high school student with a knowledge of Calculus I & II, and that visual diagrams would be greatly helpful.

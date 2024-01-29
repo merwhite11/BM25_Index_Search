@@ -1,0 +1,8 @@
+What's the reason that we have a different number of days each month?
+
+It always was interesting for me to understand the answer for the question:
+
+What's the reason that we have a different number of days each month?
+
+If the month is fixed on the time that the moon circles the earth, then the time of the circling isn't equal each month? And if the month fixed by the time that the earth circles the sun and then divided by 12 (365:12=30.4), why one month has more days and the other month has less days?
+Before desktop computers, how did astronomers handle calculations of dates and times accurately, for example two plates taken decades apart, how would an astronomer calculate the time difference precisely?

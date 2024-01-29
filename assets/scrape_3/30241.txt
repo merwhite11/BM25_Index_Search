@@ -1,0 +1,11 @@
+Within a given image of a multiple-image producing gravitational lens, does Fermat's principle apply?
+
+The question Does gravitational lensing provide time evolution information? is excellent!
+
+When we see multiple images of the same object because of the phenomenon of gravitational lensing, do all the images show the lensed object at the same point in time?
+Does it take the same amount of time for light from the lensed object to reach us no matter what image we look at or are we watching the lensed object at different points in time and if so, how big can the difference in time typically be?
+
+The answer is generally no, different "images" are associated with substantially different time delays.
+But the lens and mirror-based optical systems we used to see those phenomenon pretty much strictly obey Fermat's principle where every ray entering the telescope's aperture reaching given point on a detector takes the same amount of time through the telescope.
+Of course gravitational lenses are not manufactured imaging systems, but usually wherever you see that an image is produced in nature, the thing producing that image will obey Fermat's principle.
+Question: So at least within one given image of a multiple-impage producing gravitational lens, does Fermat's principle apply at least approximately?

@@ -1,0 +1,3 @@
+What units are used for the Stefan-Boltzmann law?
+
+I have a star with given temperature in Kelvin and radius in solar radii. I tried to calculate the luminosity of the star using Stefan Boltzmann's law, and got an absurd number (over 1 million). What am I doing wrong, and are there any units that I should use instead of Kelvin and solar units?

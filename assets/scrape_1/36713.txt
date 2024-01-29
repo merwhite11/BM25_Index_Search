@@ -1,0 +1,3 @@
+Where can I get J2000 epoch initial mean longitudes for all planets and celestial bodies?
+
+I'm following this paper to calculate geocentric coordinates. The authors have provided the initial mean longitude values for the planets (provided in attached table) for  01.01.2000 @ 00.00 UT but I'd like Uranus, Neptune, Pluto and some asteroids also. Is there anywhere this information is freely available or did they calculate it? Many thanks.

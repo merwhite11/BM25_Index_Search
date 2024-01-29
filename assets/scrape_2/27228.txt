@@ -1,0 +1,17 @@
+Mars and 115 mm - which eyepieces?
+
+Today I could roughly see Saturn with ring structure for the first time with my Seben 114-1000 telescope.
+Then later I was dealing with Mars and found out that I must do something wrong, as with no eyepiece I could really see this planet closer.
+So, whether I take 20, 12.5, or 6 mm eyepieces, the size as I set sharp focus remains a small light orange circle of solid uniform colour.  The app sky view shows for today 64% clear view, maybe an explanation why I can't see more details.
+But is this possible to see Mars filling in the view field? And why there is no recognizable difference between 20 and 6 mm - do I need them in combination with something else? 
+Here it says, even the polar caps of Mars should be recognizable with this telescope model scale.
+UPD
+So far, it looks like that with up to 6 mm I can zoom in fairly well to such details as:
+
+large moon craters
+Jupiter (seen as small white illuminated blob) with the Galilean moons (seen as  stars)
+Solid white-coloured Saturn with its ring and some space between planet and ring visible
+
+Mars keeps being small to medium yellow-orange disk of solid color.
+Using 4 mm gives little bit more zoom but less detail.
+However, I can see with 6 mm that Moon contours are slightly jittering, maybe through light refraction in the night air (all observation done from the ground on a field). The temperature in the night has been 21°C.

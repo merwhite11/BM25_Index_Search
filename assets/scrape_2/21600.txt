@@ -1,0 +1,4 @@
+Fraction of circumpolar stars to all stars visible in a location
+
+We know that circumpolar stars are stars that don't rise or set. If we are in a location with $\phi = 35^o N$. What is the fraction of circumpolar stars to all stars visible in this location?
+I know the declination of this stars is $\delta > 90 - 35 = 55$ But I don't know what is the degree of all stars visible in this location and is the fraction as simple as dividing this two angles or not?

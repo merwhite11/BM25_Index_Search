@@ -1,0 +1,6 @@
+Angle formed between a satellite, a ground station, and then another Satellite
+
+I am trying to check my work on calculating the angle between two sats and a ground station observing those two sats. I have the az and elevation angles to each sat from the ground station. What would be the equation to get the angle Sat1-GS-Sat2?
+I know that it uses the law of Cosines, but not sure if I was using the correct equation.  Here is what I am using:  
+Angle = acos((abs(sin("V_Sat_1_EL")*sin("V_Sat_2_EL")))+(cos("V_Sat_1_EL")*cos("V_Sat_2_EL")*cos(abs("V_Sat_2_AZ"-"V_Sat_1_AZ"))))
+Thanks

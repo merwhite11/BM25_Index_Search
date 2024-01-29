@@ -1,0 +1,7 @@
+What would a 220km diameter asteroid impact do to Earth?
+
+I was looking at this chart,
+
+which shows that an order of magnitude increase in asteroid impactor diameter roughly corresponds with two orders of magnitude increase in it's rarity.  So if the K-T Impactor at 10km diameter is a 100 million year rarity impact, then a 100km diameter impact has a 10 billion year rarity (on the order of the lifetime of our planet).  On a large time scale, orbital perturbation allows for some chaotic orbits, so it might not be vanishingly likely that one of the big asteroids eventually hit earth. The asteroid 16 Psyche orbit overlaps in distance to the sun with Ceres, so it could potentially get a natural gravity assist into another orbit.
+What would happen to Earth if it got hit by the asteroid 16 Psyche at, say, 40 km/s in the Pacific off the coast of Japan?
+I am specifically looking for an answer to one or more of the following questions: How big would the crater be?  How much kinetic energy would be released?  What portions of that would be transferred into heat, ejecta, and deformation?  Would there be a secondary antipodal mountain formation like the Caloris impact on Mercury?  Would it cause magma oceans?  Would life on earth survive to reclaim the surface before the Sun went red giant?

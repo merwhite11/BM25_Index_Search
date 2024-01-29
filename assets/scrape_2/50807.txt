@@ -1,0 +1,24 @@
+Calculation of intersection point Q of planetary equator with ICRF equator for other planets
+
+I'm converting the W for each planet in this IAU report into Celestia's MeridianAngle, which is converted like this:
+$$
+\textrm{MeridianAngle}=W-Q
+$$
+Where Q is the point where the planet's equator intersects with the ICRF equator (aka Earth's equator), and W is the position of the planet's prime meridian in the J2000 epoch.
+I'm using ecliptic coordinates for the MeridianAngle, so setting it to 0 is the equivalent to Q.
+I think Q is calculated like this, according to the report:
+$$Q=90^{\circ}+\alpha_{0}$$
+Where $\alpha_{0}$ is the right ascension of the north pole.
+Earth's Q is 90°, which is correct because I checked it by setting the MeridianAngle to 0 in the equatorial reference frame, and then going to 90° East in geographic coordinates, where it intersected the ecliptic. (Red line is the ecliptic plane.)
+
+I also checked it by setting the MeridianAngle to 100.147 (Earth's W subtracted by 90°) and converting its rotational elements to the ecliptic reference frame. After converting them, the Sun was now shining near Earth's prime meridian in the J2000 epoch.
+
+For Mars, I added 90° to the right ascension of its north pole, which equals around 47°.
+The problem is, 47° doesn't intersect the ecliptic.
+
+But around 40° does.
+
+I'm not even sure if this diagram helps me calculate the Q for other planets:
+
+I think the pole's declination also affects Q. When I change it, the Q also changes.
+So, how do you calculate Q, the point where the equator of the planet and the ecliptic intersect, for other planets, when the RA and Dec of the planet's pole affect it? Do you have to convert those 2 to ecliptic coordinates first in order to calculate it?

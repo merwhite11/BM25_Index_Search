@@ -1,0 +1,5 @@
+Can visible wavelength spectroscopy study an exoplanet's chemical composition directly?
+
+I know spectroscopy of light in visible wavelengths is very effective for studying and determining the chemical composition of bodies within the solar system and bright objects outside of it. However, can this same method be used with exoplanets? 
+In looking about some related articles, I've learned that it is possible, if a planet passes between us and its star, to filter out the star's light leaving only what passes through the planet's atmosphere.
+But what if there is no such occultation? Can we filter out the star's light in other wavelengths like UV or infrared and look at just the planet via its own emitted radiation (assuming the planet is large and hot as these are what we are most able to detect at this time)?

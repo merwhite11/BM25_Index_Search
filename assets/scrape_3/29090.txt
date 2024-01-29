@@ -1,0 +1,7 @@
+Can weak gravitational lensing or microlensing-induced wavefront distortion limit resolution of absurdly large aperture telescopes?
+
+This is a theoretical question. 
+This answer to the question If we had the right technology could we see a distant star in detail? (presumably space-based) primarily addresses the scaling of diffraction-limited resolution with aperture $D$. For existing and near-future telescopes this is assumed to follow $\lambda/D$.
+Imagine a future optical or radio interferometric telescope of absurdly large effective aperture or baseline, say AU or even larger, operated similarly to the Event Horizon Telescope (local downconversion and timestamping, interferometry performed offline)
+Could weak gravitational lensing effects or gravitational microlensing result in wavefront distortion that if not corrected, would result in degraded resolution? Note I'm not asking about distortion of the field, but instead a limitation to the resolution; degraded point spread function.
+If so, would this problem be amenable to correction in the same way that atmospheric and ionospheric effects (visible and radio) are dealt with? Would it generally be static on the timescale of the observation?

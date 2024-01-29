@@ -1,0 +1,5 @@
+Could we see small objects like animals on an exoplanet using Solar Gravitational Lensing (SGL) if we could use any star or a black hole for lensing?
+
+Theoretically, if a telescope is positioned in a focal point of a supermassive black hole or a star much more massive than the Sun, would there be a limit to how far away an observable planet can be or/and in how much detail we can observe on it? Or are we only limited by the mass and the size of an object used for gravitational lensing?
+For example, would it be possible to clearly see single plants, animals or other small objects on a planet 500 light years away, provided the mass and the size of the celestial object we are using for lensing can be anything?
+Also would be interesting to learn about exposure time limitations -- i.e. can moving objects be captured provided the telescope is advanced enough, or is this not possible with the SGL method at all, regardless of technical capabilities?

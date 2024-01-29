@@ -1,0 +1,4 @@
+Is there a star simulation software that can handle mass ejections and supernovae?
+
+I use MESA right now to play around with stellar dynamics, but it can't do mass ejections and therefore, I can't think of a way to let the simulated stars explode as supernovae.
+What simulation software would I use for these?

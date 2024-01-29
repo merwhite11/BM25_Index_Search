@@ -1,0 +1,4 @@
+Sinusoidal Light curve of an eclipsing binary
+
+
+This light curve seems really weird to me, I'm used to seeing light curves where the barycenter is a straight line. It either stays at a place, moves at a constant speed or slowly increases its speed. But here it looks like the barycenter periodically changes its speed. Why is this happening? Can someone please explain the details of this graph.

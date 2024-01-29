@@ -1,0 +1,5 @@
+Why hasn't VLBI been used to try and image giant exoplanets?
+
+A Jupiter-sized object at 10 pc subtends an angle of 0.0001 arcseconds (100 micro-arcsec) at the Earth. The Event Horizon Telescope interferometry network is capable of a (demonstrated) angular resolution of about 20 micro-arcseconds.
+Why haven't we seen a picture of a giant exoplanet at microwave wavelengths yet? Is it just a sensitivity issue? If so, it's an interesting contrast to the situation at optical/near-IR wavelengths where such a planet would be bright enough but could not be resolved.
+For reference, the image below is Jupiter as seen by the Juno spacecraft at microwave wavelengths - showing that there is certainly imaging structure to be seen.

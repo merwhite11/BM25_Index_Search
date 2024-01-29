@@ -1,0 +1,5 @@
+Finding raw HST data for WFC or HRC?
+
+I'm doing a project that requires raw .fits images that contain a certain galaxy from the HST (F814W filter).
+I've been able to find the calibrated images of the WFC view using the MAST data portal. However, there is no raw data listed. I would also like to find any of the corresponding HRC data as well if possible.
+If anyone out there knows where to find the data, please let me know!

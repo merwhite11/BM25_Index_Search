@@ -1,0 +1,4 @@
+a random distribution of RA&Dec
+
+How to make random positions in Equatorial coordinate system?
+If I divide Dec between -90 and 90 evenly, the space distribution is not random.

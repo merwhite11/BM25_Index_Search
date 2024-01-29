@@ -1,0 +1,10 @@
+Using tail-fit Gaussian distribution to compensate for saturated sensors
+
+Main Question
+I have a project goal, where I have an image of light sources (stars or lamps doesn't matter). The image is split up into channels for each expected band of 'color'. There are occasional instances where the sensors become saturated at the highest intensities. I remember hearing at one point that astronomers "Tail Fit" a Gaussian distribution so that it strictly fits the unsaturated data, the saturated data is then ignored.
+How are these fits computed?
+To put in more specific terms:
+You can simulate this by taking a photograph of a lit lamp. Your image will likely result an RGB value per pixel, most home cameras map to color ranges in [0, 255]. When any channel that registers as (255) the sensor is considered saturated. When all channels register as (255, 255, 255) then this is "saturated white". Saturated regions are unable to provide useful information because true intensity measurements would not have a ceiling.
+Models of intensity (per channel) will allow for identification of types of light. In order to make realistic models of intensity we have to correct the saturated data. This would encourage us to fit a curve as informed by only the unsaturated tails.
+We want a curve that approximates the saturated section, informed by the unsaturated section. How do we "tail fit" this curve? Is this a strategy that exists or is it a fabrication I have remembered?
+I currently expect this to be a Gaussian curve on each channel, however I'm happy to be suggested a different known curve.

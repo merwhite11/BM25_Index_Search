@@ -1,0 +1,7 @@
+Why is T Tauri So Dim?
+
+I'm looking at stellar objects and doing some math here and...
+Now, I can't find these values directly listed, but from it's relative magnitude and distance, (10.27, 471ly,) I calculate T Tauri to have an absolute magnitude of 4.47, and when I convert that to solar luminosities I get 1.39.
+I've run that on objects for which I can find absolute magnitudes and solar luminosities listed, and I'm getting the correct values.
+But every description of T Tauri stars I find says they are brighter than main sequence stars of equivalent mass. A main-sequence star about twice the mass of the sun should be much more than 1.39 times the brightness of the sun.
+Now I must turn to people who actually know something about astronomy:  Is the prototype T Tauri star "weird" in some way, and not actually typical of the class of objects that were named after it, or do I have some bad math or bad data here? What else could be the problem?

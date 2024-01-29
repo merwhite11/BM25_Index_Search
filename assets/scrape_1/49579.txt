@@ -1,0 +1,4 @@
+How do I phase fold the light curve for a variable star?
+
+I have some observational data for a star where I've done aperture photometry to get a partial period. I understand that you need to use other techniques to estimate a period for stars whose period is longer than one night of observing. I know phase folding your data is quite popular. How does one go about phase folding data? Right now, I have multiple days of data plotted that look similar to the picture of the plot I've attached below.
+The X-axis is time (Julian date). T1 is the target star, and the c2, c3, and c4 are check stars

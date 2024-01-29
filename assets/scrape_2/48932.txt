@@ -1,0 +1,7 @@
+How to get high-quality sky image for specific location & date
+
+I'm working on an ink drawing album cover inspired by this Frank Hurley photo from the First World War,  and want to put an accurate starry sky behind it in my album artwork.:
+
+The tower in the image is the Ypres Cloth Hall, which was rebuilt after the war in the exact same location. I've got a google maps street view link from the camera's approximate location here. I have stellarium, and I think I can get some idea of the lat/long of the camera's location -- 50.8510759N, 2.8867492E --but I'm a bit fuzzy on how to determine the coordinates (azimuth + elevation?) of the camera in this image. I'm also wondering how to get a hi-res image of part of the sky. I can take a screenshot, but this would be at most 1920x1080, and I would like a very detailed image to avoid pixellation. An LP sleeve is quite large.
+I realize that the sky changes, and I want to capture the sky from April 19, 1915, approaching midnight. I know I can enter this date/time in stellarium and it seems to respond just fine. I've also figured out how to remove the labels and lines and stuff to just get the stars.
+Can anyone tell me what elevation/azimuth I'm looking at in this image? What sort of FOV is this image? Is there some way to get a higher resolution image? Any help or tips at all would be much appreciated.

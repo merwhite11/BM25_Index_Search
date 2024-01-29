@@ -1,0 +1,17 @@
+How to correctly create planetary orbits from kepler elements
+
+I would like to build a gravity model (with 3D graphics) that would build the orbit of the planets based on orbital elements input and the gravity calculation for each element. 
+My initial code is live here (Click the 0.005 to turn it into 0.05 and then click on restart time to run the orbits).
+The example above has all planets on Solar System (up to Neptune), the Sun and the asteroid Apophis. For clarity, the Sun and planets other than earth have been hidden, but are still considered for gravity calculations.
+However, the orbits do not match the correct estimate intersection date. In this article, it says that Earth-Apophis close-encounters will happen on 13 April (meaning that the earth should be in the orbit's intersection point every 13 April, or very close to it).
+The data from the program is taken from Nasa JPL.
+
+Apophis Data
+Planets Data
+The sun is positioned at the origin
+
+Start date is 2454441.5, as given in JPL Apophis data. Planets orbital elements have been corrected to this date, with the calculations in the above PDF.
+Why the orbits intersection date is wrong? Should I be doing something else? Am I doing something wrong?
+The above Apophis link also cites a "Standard Dynamical Model". If anyone knows how to correctly create one, I believe this would answer my question as well.
+TLDR: How can I correctly create planetary orbits from kepler elements?
+Thank you in advance if anyone can help me!

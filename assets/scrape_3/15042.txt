@@ -1,0 +1,8 @@
+Can I leave a planet without achieving escape velocity?
+
+I know that if you exceed orbital velocity, you will never fall-back to the planet.  My question is not about orbits.  It's about brute-force propulsion to achieve altitude.  I'm using an intentionally slow velocity to help illustrate my point. 
+Imagine I have a rocket with very efficient fuel storage.  My rocket can store enough energy to accelerate to 100kph shortly after leaving the ground, and continue to maintain that speed (100kph) for a very long period of time.
+My rocket just goes straight up.  It doesn't try to enter an orbit.  As it leaves the atmosphere, it can throttle-back because there's no air resistance.  As it continues to gain altitude in inter-planetary space, it can throttle-back even more because Earth's gravitational influence diminishes with distance.  It just maintains enough throttle to continue moving away from Earth at 100kph.
+At some point, Earth's gravitational influence would be moot, as other bodies (Jupiter, Sun), would gain relative influence.  Eventually, far outside the solar system, even the Sun's influence would be insignificant.
+My rocket never achieved escape velocity, but it sure did escape.
+Assuming that my fuel supply could last long enough, and I wasn't concerned about travel time, could this method allow my rocket to "leave" without achieving escape velocity?

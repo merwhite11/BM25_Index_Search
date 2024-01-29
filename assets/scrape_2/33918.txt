@@ -1,0 +1,5 @@
+Accuracy of Mercury transit calculations
+
+What is the error range for calculations for the time of 1st-4th contacts for a given GPS coordinate on Earth?
+I observed through a telescope the 3rd and 4th contacts and compared against SkySafari and Stellarium.  I found SkySafari showed contacts about 10 seconds earlier for the same location vs Stellarium.  Stellarium was very close to my measurements for 3rd contact (1-2 seconds).  To get the calculation I zoomed the GUI and tweaked the time until it was closest to the contact.  Estimates for 4th contact (transit end) are much harder to visually time.
+This got me interested to know if there is a gold standard for such calculations, and what is the range of error for it.   For forecasts n years out is the error range n times more?

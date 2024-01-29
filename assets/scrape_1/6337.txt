@@ -1,0 +1,7 @@
+Time-density and time-temperature functions of the Universe since the Big Bang
+
+I am looking for these... functions. I want to be able to say, "at a 1873. second there were around 54230000000 K temperature and 0.00435 kg/m^3 density".
+On the net I could find only tables or diagrams, as this: .
+(Here is a link to the page it accompanies: http://www.astro.ucla.edu/~wright/BBhistory)
+I am practically interested in the interval between the first seconds and the first some ten millions of years.
+Is it possible? Some simple formula were also enough (although I think, there are different formulas for the different eras after the Big Bang).

@@ -1,0 +1,5 @@
+Is there a threshold on distance/size for a tidal locking?
+
+I know that some systems tend to tidal locking (such as earth-moon), which occurs basically because the difference in the gravitational pull on one side is significantly different from the pull on the opposite side. (There's a lot of great answers here.) But what can be considered a significant different?
+In other words, is there a threshold on distance or size in order for systems to tend to tidal lock?
+Thanks!

@@ -1,0 +1,10 @@
+Sky view from Stellarium software vs. Sky view with naked eye
+
+I'm slowly starting to interest in astronomy. Currently I'm enjoying in stargazing but unfortunately place where I live is very light polluted.
+I'm planing my vacation in a couple of months and one of the attractive places on my list is Tenerife because I can combine both star-gazing and going to the beaches. As per my research, base of Mountain El Teide is perfect for star-gazing so I tried to simulate El Teide location and date in the Stellarium software to see what I can expect. Based on the light pollution index (2) which Stellarium picked for me based on the location I got following picture:
+
+Full resolution image
+My question is: How this rendered picture will match my naked eye in the reality at the same location and time (we can assume that there will not be any clouds and that I'll be stargazing when moon is couple of days from New Moon phase). Can I expect something like this or even something better?
+I'm aware of all the tips which can maximize my experience but I'm trying to just be sure that El Teide will not disappoint me. I really want have great star gazing-experience and try to see Milky way and much stars as possible because I don't have that luxury in the country where I live.
+Any personal star gazing experience from Tenerife location is more than welcome. For my first time I'll plan to not use any equipment (except maybe binoculars)
+Btw, there are stellarium settings used for picture that I attached (I assume that this is closest what you can see with naked eye).

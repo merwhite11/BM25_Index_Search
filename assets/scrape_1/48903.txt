@@ -1,0 +1,9 @@
+How the "precession of the ecliptic" can be distinguished from the "precession of the equator"?
+
+The precession of the equinoxes (AKA general precession) is composed from two components:
+
+A dominate component which is caused by the the tilt of the Earth's axis - which is called "precession of the equator", or "Lunisolar precession".
+a minor component which is caused by the very movement of the ecliptic plane itself. this component is called "precession of the ecliptic" or "planetary precession".
+
+I'm not sure I understand what is the nature of the minor component, but the impression I get is that it is equivalent observation-wise to the major component (in very much the same manner that static Sun and a moving Earth is equivalent to moving Sun and static Earth). Is this is the case?
+If indeed this is so, can we somehow distinguish between the components physically by actual observation, or it is only by theoretical gravity calculation that we know the correct share of each component in the precession of the equinoxes?

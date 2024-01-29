@@ -1,0 +1,13 @@
+Diameter of the moon from the diameter seen in the telescope
+
+I'm reading a chapter on convex lenses and it has this diagram:
+
+The chapter explains that triangles ABC and ADE are similar. Thus, ratio of CB to DE is equal to the ratio of BA to AD.
+Does this mean that
+
+if I look at the moon in the telescope that is 1 m long,
+and the moon appears to be (I will make up a number) 1 cm in diameter,
+knowing that the distance between moon and Earth is 384,000 km,
+
+I can conclude that the moon is 3,840,000 m in diameter?
+This is coming from 384,000 km / 1 m = X / 1 cm or, when converted to meters, 384,000,000 / 1 = X / 0.01

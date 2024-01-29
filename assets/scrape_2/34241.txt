@@ -1,0 +1,5 @@
+Position of a star on the HR diagram
+
+Does the position of a star on a HR diagram depend on the magnitude system/color index used? 
+I made a CMD of a particular cluster using HST WFC3/UVIS data, and when I plotted $F275W vs F275W - F606W$, a particular star (at a given RA and dec) was present near the blue straggler region, but now when I plot $F438W vs F438W - F814W$, this same star (at the same RA,dec) was found near the start of the RGB.
+Why is this happening?

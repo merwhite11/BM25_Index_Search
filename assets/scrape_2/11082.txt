@@ -1,0 +1,7 @@
+Is "Main Sequence" a temporal sequence?
+
+Stars plotted by luminosity and surface temperature fit into patterns in a Hertzsprung–Russell diagram.  A rough diagonal subset of this plot is called the main sequence.  Is this in any sense a temporal sequence?  There's a clue in the stellar physics section of the wikipedia article that the answer is no, but that it once was thought so:
+
+Contemplation of the diagram led astronomers to speculate that it might demonstrate stellar evolution, the main suggestion being that stars collapsed from red giants to dwarf stars, then moving down along the line of the main sequence in the course of their lifetimes.
+
+So does the word "sequence" in this case now mean just a particular ordering, and not a progression over time that any one star makes?  Is the main sequence just some kind of plateau in stellar evolution where stars spend a significant duration?

@@ -1,0 +1,5 @@
+Why are WIMP dark matter particles, if Majorana-like, expected to annihilate upon contact? But not neutrinos?
+
+I have heard a lot recently about so-called 'dark stars'; stars that are formed with the help of the gravitational pull of dark matter, or perhaps entirely from self-annihilating Majorana-type dark particles like WIMPs.
+I posted a question years ago on Physics SE about why gluons are not expected to annihilate constantly, despite (possibly) being Majorana particles. I also have asked somewhere about why neutrinos, also considered candidate Majoranas, do not seemingly constantly self-annihilate. But I still do not understand why some particle/antiparticles destroy each other upon contact, while others do not.
+Gluing and neutrinos do not interact via the electromagnetic force, so some people have said that that is why they do not become photons upon contact but dark matter particles, by their very definition, do not interact electromagnetically either. So I do not understand why WIMPs should be expected to turn into photons when forming a 'dark star'.

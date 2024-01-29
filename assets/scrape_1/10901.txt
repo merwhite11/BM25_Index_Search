@@ -1,0 +1,8 @@
+How did Meeus calculate equinox and solstice dates?
+
+In Astronomical Algorithms (2nd ed, ch. 27, 2009 corrected printing) Jean Meeus gives expressions to calculate the date and time (dynamical time, equivalent to Terrestrial Time) of equinoxes and solstices from the year -1000 to the year +3000. The expressions are accurate to 51 seconds or better for the years 1951-2050. First what Meeus calls the "instant of the 'mean" equinox or solstice" is calculated using a fourth degree polynomial; there are 8 expressions. There are different expressions for each solstice or equinox, and different expressions for the year ranges -1000 to 1000 vs. 1000 to 3000. Then two corrections are applied; the corrections are calculated the same way no mater which time period or equinox or solstice is being corrected. The first step is to calculate:
+$$T = \frac{(\text{mean JD of event} - 2451545.0)}{36525}$$
+$$W = 35999.373°T - 2.47°$$
+$$\Delta \lambda = 1 + 0.334 \cos W + 0.007 \cos 2 W$$
+Next, an additional correction is computed involving 24 periodic terms with various periods.
+Can anyone explain, in general terms, how Meeus derived these expressions? I'm especially interested in understanding what the "mean" value represents?

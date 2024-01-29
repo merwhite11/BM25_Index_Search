@@ -1,0 +1,4 @@
+How does general relativity explain gravity?
+
+General relativity explains that gravity is the curving of spacetime by massive objects. This makes sense, like when I throw a ball, it follows the curve of spacetime, which is towards the center of the earth.
+But what I’m struggling to understand is if something has no acceleration, why does it still fall towards earth? If gravity is just matter traveling through curved spacetime, then wouldn’t something with no acceleration just act like it’s in outer space (just floating)?

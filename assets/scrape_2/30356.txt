@@ -1,0 +1,7 @@
+Generate East and North unit vectors tangent to a point on the celestial sphere, using vectors?
+
+I am stuck and a little embarrassed. 
+I'm trying to implement this answer. I have a unit vector $w$ pointing in the direction of a radio source on the celestial sphere.
+$u$ and $v$ are the two other, mutually orthogonal unit vectors that point east and north from that point, tangent to the sphere.
+Without back-converting to R.A. and Dec or using trigonometry, is there a simple way to generate $u$ and $v$ vectorially?
+Slide 38 here may or may not be helpful, I think my description is sufficient by itself.

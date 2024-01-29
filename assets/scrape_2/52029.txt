@@ -1,0 +1,36 @@
+Periodic motions that affect earth axis tilt
+
+It is said that the earth axis changes its tilt with a period of 41 000 years. So used the image
+https://upload.wikimedia.org/wikipedia/commons/1/17/Obliquity_berger_0_to_1000000.png
+removed the grid so it became like this
+
+Then I used the following script
+function rasterwave(imagefile)
+    data=imread(imagefile);
+    x=[1:size(data,1)]';
+    X=repmat(x, 1, size(data,2));
+    colsum=sum(data);
+    y=sum(data(:, [1:size(data,2)]').*X)./colsum;
+    Y=abs(fft(y));
+    plot(Y(2:length(Y)/2), '.-')
+end
+
+To extract a spectrum (Frequency and intensity in arbitrary units):
+
+It looks like there are two dominant frequencies in the spectrum, or maybe there is one peak followed by a band. Can these frequencies somehow be derived from the orbital periods of other planets?
+Update:
+Since the original image marks the timescale, it is actually possible to compute a sample rate, and plot the period on the x axis:
+function rasterwave(imagefile, max_duration)
+    data=imread(imagefile);
+    x=[1:size(data,1)]';
+    X=repmat(x, 1, size(data,2));
+    colsum=sum(data);
+    y=sum(data(:, [1:size(data,2)]').*X)./colsum;
+    Y=abs(fft(y));
+    fs=length(Y)/max_duration;
+    f=linspace(0, fs, length(Y));
+    plot(1.0./f(2:length(f)/2), Y(2:length(Y)/2), '.-')
+end
+
+
+Now we see the 41 000 year period together with some 53 000 year cycle.

@@ -1,0 +1,3 @@
+How does a supernova occur when a massive star collapses into a black hole?
+
+My layman's understanding of a supernova explosion is that it's caused by a rebound when a massive star collapses. When the core collapses to a point where neutron degeneracy pressure dominates, the core collapse stops, and the matter falling in from the outer layers bounces back, causing a supernova (please correct me if I'm wrong). However, I've also read that the end result of the supernova can either be a neutron star or a black hole depending on the mass. When the star is massive enough to collapse into a black hole, what causes the supernova? What do the outer layers bounce off of? Shouldn't the whole thing just collapse into the black hole?

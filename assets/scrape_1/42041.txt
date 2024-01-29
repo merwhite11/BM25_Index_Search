@@ -1,0 +1,3 @@
+Software with simple representation of all stars
+
+Do you know any program similar to TheSky (astronomy software), which enables us to identify stars after clicking on them with a simple view (like in the figure)? Many thanks

@@ -1,0 +1,9 @@
+How come I can point to two places with telescope and have the same coordinates?
+
+Absolute beginner here.  I read through the telescope manual, watched many videos, and got a pretty decent understanding of DEC and R.A.
+However, I don't understand one thing (where theory doesn't match what I see).
+On the equatorial mount, you can change DEC by moving the telescope to the left or the right. The picture DEC was set to point to Polaris (~90), and DEC goes down to the left and the right.
+
+Let say I lock R.A. (so it's a constant), And I turn the telescope to the left to set DEC to 50. It points at some place.
+I don't release R.A. (so it's still constant) and turn the telescope to the right to set the same DEC (50) only on the right side. And now the telescope points to a different location.
+Per my understanding, DEC + R.A. is a coordinate system. As a result, I am puzzled how two points can have exactly the same coordinates.

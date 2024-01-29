@@ -1,0 +1,7 @@
+Why is the ring in this simulation of Sgr A* off center?
+
+In the recent releases of images of Sgr A*, simulated versions of what they expected were included along side the actual images they were able to get. What confuses me about these simulated images (and I believe this was the case for M87 as well) is that the shadow of the black hole seems to be off center from the ring that is visible on the image.
+So my question is why is that the case? My initial thoughts are that it might be related to the anisotropic nature of accretion disks and the fact that we are looking at it at an unknown inclination, but even then it still seems a bit odd. It reminds me of an Einstein ring in the sense that gravitational lensing is playing a role here for light found around the black hole, but the fact that it’s off center confuses me and I’m not sure if that’s the right term given this isn’t lensing in the sense that it’s normally used.
+Included is an image of what I’m referencing, taken from one of the videos from the press release from the other day.
+
+I got this image from a drive folder shared as ‘Additional visuals’ at the bottom of this website

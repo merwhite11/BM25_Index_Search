@@ -1,0 +1,10 @@
+What's still needed before we can observe orbits of exomoons thereby weighing exoplanets?
+
+Comments below this answer to How do we weigh a planet? point out that we currently cannot (or at least have not) detect moons around exoplanets, much less measure the sizes and periods of their orbits around their planets.
+I commented there that:
+
+...detecting exoplanets wasn't possible, nor did direct imaging of planetary systems, nor did making parallax measurements from the Kuiper belt, nor was the detection of gravitational waves...
+
+my point being that impossibly challenging observations keep getting done.
+So I'd like to ask what the most likely extension of observational Astronomy would be that would allow for the measurement of the period of exomoons thereby weighing exoplanets.
+Is it simply a pair of space telescopes in a halo orbit with laser interferometry between them and plenty of time? Could it be done from Earth? After all, exoplanetary systems are already imaged from Earth.

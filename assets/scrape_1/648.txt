@@ -1,0 +1,7 @@
+Inflation cosmology: slow-roll inflation versus tunneling between two vacua
+
+In slow-roll inflation models, the early inflation of the universe is driven by the flat non-zero part of the inflaton potential, and it ends as the ball rolls down the cliff and the potential energy released leads then to the formation of matter.
+
+However, as I have heard such slow-roll models are no longer deemed realistic today in inflationary cosmology, instead other models where the end of the inflation is explained by quantum tunneling of the universe from a state with higher vacuum energy density to another state with lower vacuum energy density are considered for example.
+
+Why (from a physical point of view) are slow-roll inflation models no longer considered to be realistic, what are their disadvantages? What can models that explain (the end of) the early inflation by a tunneling transition between to vacua explain or describe, that slow roll models can not do?

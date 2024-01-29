@@ -1,0 +1,5 @@
+Clarification of radio spectrum terminology
+
+For a radio spectrum, when is it called thermal emission, synchrotron emission, self-absorbed synchrotron emission and inverted spectrum? They are all power-law and their difference is power-law index?
+For a power-law $\nu^{\alpha}$, as long as $\alpha$ is positive, the spectrum is an inverted spectrum, right?
+Please recommend reference books which introduce these models and their corresponding astrophysical phenomena.

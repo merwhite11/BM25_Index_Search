@@ -1,0 +1,5 @@
+Are there any ways in which the light time difference between the center and the edge of the solar disk is noticeable?
+
+In the ABC News video New space discovery has astronomers buzzing at about 02:30 Dr. Hakeem M. Oluseyi explains that the shortness of FRBs (before dispersion) suggests a compact source size and illustrates this by using the Sun as an example. 
+I'd never though about this until just now, but the radius of the Sun is indeed about 2.3 light-seconds. It takes light from the edge of the Sun's disk over 2 seconds longer to reach us than light from the central area.
+Are there any ways in which this light time difference is noticeable, or needs to be taken into account?

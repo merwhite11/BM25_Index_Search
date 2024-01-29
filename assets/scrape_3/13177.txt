@@ -1,0 +1,6 @@
+What is the shape of the Sun's orbit around the Earth taking into account elliptical orbits?
+
+Consider the non-inertial frame that is at rest with respect to the Earth's revolution around the Sun.  (Ignore the Earth's rotation around its own axis.)  My question is, what is the shape of the Sun's orbit around the Earth in this reference frame?
+Now if we assume the Earth moves in a circular orbit around the Sun, then the Sun's orbit around the Earth will also be circular. (Just use geometric the definition of a circle - the set of all points a fixed distance from a given point.). Specifically it's the great circle formed by the intersection of the ecliptic plane with the celestial sphere.
+But the Earth does not move in a circular orbit - Kepler's first law states that the Earth moves in an ellipse around the Sun, with the Sun at one of the foci of the ellipse.  So if we consider the Earth's elliptical orbit around the Sun, what is the shape of the Sun's orbit around the Earth.  I doubt it's an ellipse, so would be it a more complicated-looking curve.
+Note that I'm not interested in gravitational influences from the moon and other planets - this is pretty much a purely mathematical question: if we assume the Earth moves in an ellipse, what would be the shape produced?

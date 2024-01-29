@@ -1,0 +1,12 @@
+Astrophysical particle spectroscopy; narrow-line particle sources (charged or uncharged) for things other than photons? Have any been detected?
+
+
+Is Cosmic Ray Astronomy a thing?
+Is there an equivalent of the red shift effect for cosmic rays?
+
+have got me thinking and under this answer I've commented:
+
+That's a good point; there aren't as many energy peak-producing process for particles as there are for photons, especially at high energy. For low energies there's alpha decay and internal conversion
+
+That makes me wonder:
+Question: Astrophysical particle spectroscopy; are there narrow-line particle sources (charged or uncharged) for things other than photons? Have any been detected? Have any instruments been built anticipating narrow peaks for things other than photons?

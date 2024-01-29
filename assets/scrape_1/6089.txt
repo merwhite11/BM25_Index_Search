@@ -1,0 +1,4 @@
+Are multiple geostationary satellites required to handle arbitrary locations?
+
+Do geostationary satellites need to have the equator as the plane of rotation, and the earth's centre to be the centre of rotation? Can it rotate over, say, the Tropic of Cancer, focusing on a single city?
+If not, in which case, we need a chain of geostationary satellites to do a function, why employ geostat satellites at all? Aren't there satellites at lower altitudes which could do a better job?

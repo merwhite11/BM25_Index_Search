@@ -1,0 +1,8 @@
+What is the difference between these various Angular Resolution formulas?
+
+I have recently learned about angular resolution and its dependence on the ratio λ/D. There seem to be three different equations for angular resolution that I have come across. One of these has the number 1.22 (radians), while the other contains the number 206,000 (arcseconds). A third equation states that angular resolution can be found just with the ratio λ/D. I have attached a picture of these three different equations - please pardon the bad merging!
+Naturally, this has caused some confusion on what situations each of these equations apply to. Would one of these be more relevant to an interferometer — while another is for a single telescope? I'd like to share that these equations come from the textbooks "Foundations of Astrophysics" (Ryden & Peterson) and "Understanding Our Universe" (Palen, Kay & Blumenthal). If anyone has come across these equations, I'd be grateful for some advice on how to distinguish them (i.e. what situations or conditions they apply to).
+
+$$\theta_\text{min}[\text{rad}] = 1.22 \frac{\lambda}{D}$$
+$$\theta = 2.06 \times 10^5 \frac{\lambda}{D}~\text{arcseconds}$$
+A telescope's resolution is determined by the ratio $\lambda/D$.

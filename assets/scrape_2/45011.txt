@@ -1,0 +1,3 @@
+Axial Tilt One or Two Angles
+
+Why is the axial tilt of a planet expressed as a single angle when two angles are necessary to specify a point on a sphere? Imagine if the Earth’s axial tilt were 90 degrees, then the axis of rotation could point anywhere along the circle in the orbital plane. In the extreme cases, either always point directly towards the sun or always point directly towards the direction of orbit. In the former case, half of the planet would have eternal day or night, and in the latter, each half would have equal length day and night.  A second angle could distinguish the two.

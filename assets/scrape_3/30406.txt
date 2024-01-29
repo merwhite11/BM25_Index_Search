@@ -1,0 +1,4 @@
+What else could the Event Horizon Telescope Observe?
+
+The Event Horizon Telescope was made possible in order to observe the details of supermassive black holes. This took a huge amount of work installing extra telescopes and developing the hardware and software needed to do VLBI at such short wavelengths. They have achieved spatial resolution around 25 micro arc seconds, comparable to the astrometric data from the Gaia space probe, but optimised for very different purposes.
+So my question is what else could they usefully observe? What scientific targets have interesting detail at that angular scale and emit enough radiation at that wavelength to be observable?

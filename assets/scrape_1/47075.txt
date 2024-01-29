@@ -1,0 +1,65 @@
+Are the dispersion directions of the prism and the grating in Hubble WFC3 UVIS G280 perpendicular? Can we call this a "grism"? With cross-disparsion?
+
+Prologue
+From Into the UV: A precise transmission spectrum of HAT-P-41b using Hubble's WFC3/UVIS G280 grism:
+
+The UVIS grism, however, comes with several quirks that make it difficult to observe with and challenging
+to analyze.
+Disadvantages:
+
+Curved spectral trace
+Multiple overlapping orders
+Geometric distortion
+Cosmic rays
+JWST challenges
+
+Advantages:
+
+Wide wavelength coverage
+Multiple spectral orders
+Throughput
+New calibration program
+
+
+
+Introduction and background
+Pushback against the idea that the Hubble Space Telescope's Wide Field Camera 3's UVIS G280 has it's refractive dispersion crossed with its diffractive dispersion, and that that would disqualify it from being called a grism (despite evidence to the contrary) under this answer to Why do space telescopes have GRISMS? Why a grating AND a prism for cross-dispersion in slitless spectroscopy? has lead me to examine this instrument even more closely.
+The image below from HST/WFC3 in-orbit grism performance (also here) shows slitless spectroscopic images of a star using each of the three WFC3 "grisms".
+The top one is from UVIS G280 and differs from the other two in that it is 2D; each grating order curves "up" apparently perpendicularly to the main dispersive direction.
+It is this curvature that caught my eye and lead me to post the linked question.
+
+A detail of the first few positive orders, from Hubble Space Telescope User Documentation 9.3.4 Spectroscopy with the WFC3 G280 Grism:
+
+
+Figure 9.9: Zoomed view of the G280 positive spectral orders. Overlap between the +1st and +2nd orders occurs for wavelengths greater than about 400nm.
+
+From Instrument Science Report WFC3 2017-20, Trace and Wavelength Calibrations of the UVIS G280 +1/-1 Grism Orders:
+
+
+Fig. 3.—: UVIS G280 spectrum of WR14. Several orders are labeled. As shown here, the dispersed spectra are highly curved at lower wavelengths (right hand side of panel (b) and overlap at longer wavelengths where they merge.
+
+In visible light glass prism dispersion dramatically increases at lower wavelengths due to the presence of strong absorption in the ultraviolet. It is a consequence of the Kramers–Kronig relations where the absorption in the UV is expressed as a series of poles. This leads to Cauchy's equation as a convenient approximation in the visible, far from the poles in the UV.
+$$n(\lambda) = A + \frac{B}{\lambda^2} + \frac{C}{\lambda^4} \text{...}$$
+
+Source
+Begin question
+ST-ECF Instrument Science Report WFC3 2009-01; The ground calibrations of the WFC3/UVIS G280 grism includes the following simulation based on a calibration polynomial, fit to measured positions of variably monochromated light, which is highly illuminating!
+
+
+Figure 2: Schematic representation of traces in orders +8 to -8 as derived from monochromator steps obtained during TV2. For each order, colours visualize wavelength from pale purple to green for wavelengths of 200 to 530nm, respectively.
+
+From the text:
+
+The Wide Field Camera 3 (WFC3) is fitted with three grisms for slitless spectroscopy. In the UVIS channel there is one grism, G280, for the near-UV to visible range (200 - 400nm). The NIR channel has two grisms (G102 and G141) for the shorter (800 - 1150nm) and longer NIR wavelengths (1100-1700nm).
+The fundamental design parameters of a grism are the deflection of the incident beam by the grism (defined by the prism angle), dispersion in the various orders and the energy in each order (defined by the groove frequency and profile). In order to extract slitless spectra from grism images it is necessary to know these parameters and their variation with position in the field.
+
+The expression "prism angle" could be the angle of the prism's wedge, or it could be the rotation of the prism about the optical axis of the prism; the angle between the diffractive and refractive dispersion directions.
+In the simulation shown in Figure 2 above, the behavior of the 0th order dispersion shows us the behavior of the refractive prism dispersion without any diffractive dispersion, assuming that the grating is linearly ruled.
+note the compression of the x-axis scale compared to the y-axis in this image, which distorts the angle between the diffractive and refractive dispersions. Here is what a bit of that figure looks like compressed 10:1 vertically to have roughly pixel spacing in both directions:
+
+Since the 0th order has no diffractive dispersion, the direction should represent purely the refractive dispersion direction (short roughly vertical line) and connecting the long wavelength endpoints of each order (roughly horizontal line) where refractive dispersion is minimal should represent the purely diffractive dispersion direction.
+They look substantially (though not perfectly) perpendicular!
+Questions:
+
+Are the diffractive and refractive dispersion directions of Hubble's WFC3's UVIS G280 close to perpendicular? Can we call this "cross-dispersion"? Even though it's not an Echelle spectrograph proper?
+Is Hubble's WFC3's UVIS G280 a grism? It has a grating and a prism, but they are dispersing substantially perpendicularly. Does that disqualify it from grims status?

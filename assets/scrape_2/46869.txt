@@ -1,0 +1,12 @@
+How to properly compare radio to optical/NIR images?
+
+I mainly work with radio continuum data and recently I started working on some HST hydrogen recombination line datasets to compare with the radio data that I have, but I'm very confused about what is the correct way to compare them. For me there are two main issues:
+
+For integrated line flux measurements in radio, I know it's common to have Jy/beam km/s as units (i.e. moment 0 maps) which then can be converted to luminosity after aperture photometry. However, HST line observations were done with a filter, so the final observed product is in a way already a moment 0 map (?), but the data handbook only talked about how to convert DN/s to Jy, which is not the unit for integrated line flux, and will result in a spectral luminosity (erg/s/Hz) instead of integrated line luminosity (erg/s). I know I must missed something basic somewhere but I don't know what that is. Specifically, I'm looking at Paschen line images.
+
+Radio images have beam information associated and photometry should only be performed with aperture larger than the beam size, and pixels within a beam is correlated. However, HST data don't have such beam/PSF information associated with it (..?). And in papers that use HST data, they only talk about the pixel scale as the resolution unit. Does the PSF/beam not matter in optical/NIR observations? If I want to compare the radio and HST NIR data, how do I make sure I'm comparing apples to apples?
+
+
+Sorry for the long wordy questions. I have not dealt closely with optical/NIR images, so
+I'm hoping anyone here with experience in optical data can enlighten me on this matter.
+Thanks in advance!!

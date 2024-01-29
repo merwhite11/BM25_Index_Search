@@ -1,0 +1,3 @@
+How and where can I get the continuum and/or FITS data for Jupiter and Saturn from ALMA, GMRT and VLA Telescopes?
+
+I intend to process and analyze the radio images and emissions from Jupiter and Saturn. I wish to get data from ALMA, GMRT and VLA Telescopes. Requesting you to please guide me as to how do I access this data.

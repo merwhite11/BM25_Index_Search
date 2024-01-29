@@ -1,0 +1,3 @@
+Have we Observed Continuum Emission from Neutron Stars?
+
+Have we detected continuum optical emission from any rotating neutron stars that do not have an accretion disk dominating the light? I ask because I know we have observed Doppler broadening of spectral lines from the rotation of even ordinary stars rotating at ordinary rates, but it seems to me that only the rapid rotation of a neutron star would be fast enough to make the Doppler broadening of the thermal continuum peak to be observable.

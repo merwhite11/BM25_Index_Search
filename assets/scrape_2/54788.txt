@@ -1,0 +1,25 @@
+True node (NN) calculation .. off by 10 seconds
+
+./swetest -b20.9.2023 -p0123456789tD -ut18:40 
+date (dmy) 20.9.2023 greg.   18:40:00 UT        version 2.09.03
+UT:  2460208.277777778     delta t: 70.859392 sec
+TT:  2460208.278597910
+Epsilon (t/m)     23°26'18.9927   23°26'10.2969
+Nutation          -0° 0' 7.8126    0° 0' 8.6958
+Sun              177°32'55.2395    0° 0' 0.0384    1.004319535    0°58'38.0199
+Moon             242°27'41.6119   -3°11' 3.5981    0.002584078   12°57'46.8459
+Mercury          159°53'37.1399    0°26'11.8783    0.898125059    0°45' 9.8822
+Venus            137° 1'59.4365   -4°30'28.2333    0.450741615    0°31'56.5439
+Mars             195°43'55.5582    0°27'15.3426    2.528949574    0°39'31.4422
+Jupiter           45° 8'36.6800   -1°22'31.3560    4.235172198   -0° 3'13.4098
+Saturn           332° 4'42.9064   -1°47'26.3721    8.850559234   -0° 3'51.2867
+Uranus            52°51'49.7044   -0°19'11.9385   19.040611635   -0° 1' 5.9782
+Neptune          356°14' 7.5378   -1°16'34.5167   28.902489526   -0° 1'39.4504
+Pluto            297°59'15.4867   -2°44' 5.3305   34.334942104   -0° 0'33.4653
+true Node         25° 6' 0.2192    0° 0' 0.0000    0.002435901    0° 1'35.1061
+Chiron            18°35' 3.2408    1°32'31.9378   17.812258643   -0° 2'29.8338
+
+Current Date and Time (Local): 2023-09-20 08:39:59.171635-10:00
+Longitude of North Node: 25° 6' 11.09"
+
+So, I managed to get all the planets down to a "T" or should I say "TT." However, when it comes to the true node, it's off by 10 seconds, which is not a big deal, but it would be nice if it were accurate. I remember reading somewhere that using "de441.eph" with the nodes is recommended. Now, that file is 2.6GB, and I have downloaded it. Can anyone tell me how to integrate that into my code? swe_set_jpl_file()? Maybe.

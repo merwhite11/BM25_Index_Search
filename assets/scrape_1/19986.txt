@@ -1,0 +1,9 @@
+Solar Spectral Types and Dwarf Stars
+
+On the following page, 
+http://www.uni.edu/morgans/astro/course/Notes/section2/spectraltemps.html
+It mentions Main, Giants and SuperGiants.
+However for Dwarf Stars (e.g. D, Sd) , do I apply Main Sequence to the solar type?
+For other types, IV, II, do I apply Main Sequence / Subgiant / Giant to the type?
+If you look at the linked webpage, you'll see it mentions Types (V,III,I) but for instance where would Procyon (F5IV-V), Sargas (F1II) fit or should there be a different table for types IV, II?
+Would groups (D, sd, IV,m II) have a different table?  Rigil Kentaurus (G2V) would clear fit into Main Sequence.

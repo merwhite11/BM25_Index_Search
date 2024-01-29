@@ -1,0 +1,4 @@
+Could the merger of two rotating black holes create another that breaks the rotational speed limit?
+
+The black hole GRS 1915+105 was observed to be spinning at near the theoretical maximum spin rate. 
+Assuming you had two such black holes spinning clockwise, and also orbiting each other clockwise, what would happen if they merged? How could the new black hole avoid breaking the rotational speed limit? Where would the extra angular momentum go?

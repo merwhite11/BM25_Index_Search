@@ -1,0 +1,7 @@
+Stellarium 0.10.4: planet orbits change over time?
+
+If I draw the orbit of Mars in stellarium 0.10.4 for 23 Sep 2015, it passes south of Chi Leonis:
+
+If I advance the date to 17 Oct 2015, however, the orbit of Mars correctly goes right through Chi Leonis (Mars will occult Chi Leonis on 18 Oct 2015):
+
+Is this a known bug in 0.10.4 that's been fixed? (I unfortunately can't upgrade)

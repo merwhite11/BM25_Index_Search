@@ -1,0 +1,8 @@
+Usage of $\sim$, $\approx$, $\simeq$, and $\cong$ in observational astronomy?
+
+My understanding is $\sim$ generally means "on the order of magnitude of" e.g. $T \sim 10^5$ K
+$\approx$ is obviously "approximately equal to" so for example one might write $d \approx 400$ pc rather than $d=4 \times 10^2$ pc
+$\simeq$ and $\cong$, are where I am more confused as their usage is rarer and less consistent.
+The below IAU resolution, for example, seems to use $\simeq$ for truncation $m_{\mbox{bol}} = -26.83199\ldots \simeq -26.832$, but I have also seen $\simeq$ used as "approximately equal to" in other works.
+http://arxiv.org/pdf/1510.06262
+How should one be using $\sim$, $\approx$, $\simeq$, and $\cong$?

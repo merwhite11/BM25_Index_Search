@@ -1,0 +1,16 @@
+What would happen if a Black Hole and White Hole Collided?
+
+Given our understanding of both black holes and white holes, what would be the outcome if they were both to suddenly collide?
+Black Holes:
+
+A black hole is a region of spacetime from which gravity prevents
+  anything, including light, from escaping. The theory of general
+  relativity predicts that a sufficiently compact mass will deform
+  spacetime to form a black hole. The boundary of the region from which
+  no escape is possible is called the event horizon.
+
+White Holes:
+
+In general relativity, a white hole is a hypothetical region of
+  spacetime which cannot be entered from the outside, although matter
+  and light can escape from it.

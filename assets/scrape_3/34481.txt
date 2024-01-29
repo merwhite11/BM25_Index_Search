@@ -1,0 +1,13 @@
+When are wedge prisms used to correct chromatic effects of atmospheric refraction? (atmospheric dispersion)
+
+Atmospheric refraction (shown below) happens because Earth's atmosphere has an index of refraction that differs from unity.
+@MikeG's comment mentions that this refraction would have a chromatic component (since the index of air varies with wavelength) and that observers sometimes use a wedge prism to correct for it.
+I suppose it would be more important for a wide spectrum image than for narrow band imaging.
+
+How often is this done in practice these days? 
+How often was this done in the past with emulsion rather than CCDs? 
+Are there any notable cases or observations where this is/was very important?
+Roughly how strong is the effect? If the average refraction is 2 arcminutes, roughly how many arcminutes would a glass wedge need to be to correct the chromatic aberation of the atmosphere?
+
+
+Plot of atmospheric refraction vs. apparent altitude, using G.G. Bennett’s 1982 formula. Author: Jeff Conrad

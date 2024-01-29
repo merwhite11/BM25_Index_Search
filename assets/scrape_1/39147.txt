@@ -1,0 +1,6 @@
+Does Halley's Comet travel past the outer bounds of the Oort Cloud?
+
+We know Halley's Comet returns every 75-76 years. We can reasonably compute its elliptical orbit.
+We know that the Oort Cloud is a cloud of predominantly icy planetesimals proposed to surround the Sun at distances ranging from 2,000 to 200,000 au. We divide it into  two regions: a disc-shaped inner Oort cloud (or Hills cloud) and a spherical outer Oort cloud.
+We know that some comets are thought to have originated from the Oort cloud.
+My question is: Does Halley's Comet travel past the outer bounds of the Oort Cloud?

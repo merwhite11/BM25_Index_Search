@@ -1,0 +1,4 @@
+Star brightness data to study exoplanets with the transit method?
+
+Can someone tell me how I can find the star brightness data to study exoplanet using transit method? The file should be in comma separated value (CSV) format or any other formats that can be latter converted to that format.
+The following sample data shows the star brightness along with time. By using this data we can plot the transit curve. I want such over of data for actual star:

@@ -1,0 +1,18 @@
+Abundance of an element Xi in mass fraction from its abundance by number
+
+How can I calculate the expression of the abundance of a given element Xi in mass fraction from its abundance by number Ni/NH, where log(NH) = 12 is the abundance by number of hydrogen?
+I've tried the following: suppose I have a star with, among others, an element Xi and hydrogen, then the mass fraction would be:
+$X_{i} = \frac{m_{i}}{m_{tot}}$
+and as the number of atoms is given by:
+$N_{i} = \frac{m_{i}N_{A}}{M_{i}}$     ((($M_{i}$ is the molar mass)))
+you can get:
+$\frac{N_{i}}{N_{H}} = \frac{m_{i}M_{H}}{M_{i}m_{H}} = \frac{X_{i}M_{H}}{X_{H}M_{i}}$
+so
+$X_{i} = \frac{N_{i}M_{i}}{N_{H}M_{H}}X_{H}$
+Now, let's take into account that $A = \log\left(\frac{N_{i}}{N_{H}}\right)+12$
+so, finally:
+$X_{i} = 10^{A-12}\frac{M_{i}}{M_{H}}X_{H}$
+However, here: Difference in stellar abundance numbers they obtain this:
+$X_{i} = \frac{N_{i}}{N_{H}}\frac{M_{i}}{M_{H}}\frac{1}{1-\frac{N_{i}}{N_{H}}}X_{H} = \frac{N_{i}}{N_{H}-N_{i}}\frac{M_{i}}{M_{H}}X_{H}$
+the only difference is that I get $N_{H}$ and they get $N_{H}-N_{i}$.
+Why do they get that and which is the correct way?

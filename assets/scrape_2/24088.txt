@@ -1,0 +1,5 @@
+Nature and mechanism of the short-term variability in radio strength of Sgr A*?
+
+The Phys.org article Cosmic filament probes our galaxy's giant black hole links to A Nonthermal Radio Filament Connected to the Galactic Black Hole? which discusses (among other things) the importance of achieving high dynamic range to study these filaments in the proximity of the strong emission associated with Sgr A*. It mentions the fluctuation of radio intensity from Sgr A* on time scales as short as five minutes (as well as to instrumental time-varying effects that also require attention and calibration).
+The paper refers to Zhao et al. 2016, which in turn links to Zhao et al. 1999. But so far I can't track down either the nature of the short term variations seen in the radio brightness of Sgr A* nor the mechanism.
+What is the nature of this variation (amplitude, power spectrum, any periodicity?) and what are the proposed mechanisms?

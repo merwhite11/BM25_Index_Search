@@ -1,0 +1,39 @@
+Formulae for gravitatitional equilibrium
+
+I am trying to calculate at which point gravitational equilibrium sets in for various bodies (planets stars neutron stars etc.) assuming they are perfect spheres. However, the radius I get is not equal to what it should be according to Wikipedia (I tried it for the Sun, a planet and a neutron star, but all of them were off by quite a bit).
+Below is the example of the neutron star radius I'm trying to get:
+My result (factor) is 1 at:
+Radius: $2228588\mathrm{\ m}$
+Density: $1.2768744892680034 \times 10^{11} \mathrm{\ kg/m^3}$
+The Wikipedia article about neutron stars says the radius of a neutron star is about 12 km and the density is about 10 times higher than mine. My result is 2228km, which is quite a bit off, so I have a second question:
+
+Am I calculating all the forces I need?
+Are the formulae I'm using correct?
+
+I took them from Wikipedia and university slides and I found multiple variations of almost all of them (most of which I actually didn't list below), so I'm quite confused as to what is correct.
+I know that I'm using iron as the element and I should split it up and convert the protons to neutrons, but that would only increase the degeneracy pressure and result in an even bigger radius, if I'm not mistaken.
+Here's how I calculated it:
+Mass of an electron: $M_e$
+Standard atomic weight of hydrogen: $M_h = 1.00782503223$
+Mass of a neutron: $M_n$
+Atomic mass of ${\mathrm{Fe}^{56}_{26}}$: $55.934936 \mathrm{\ u}$
+Number of atoms: $7.938 \times 10^{31}$
+Number of neutrons per atom: $(56-26) \times \text{number of atoms}$
+Number of electrons per atom: $26 \times \text{number of atoms}$
+Total number of particles: $\text{number of atoms} + \text{number of electrons}$
+Mass: $\text{atomic mass} \times \text{number of atoms} = 4.4400513610370694 \times 10^{30} \mathrm{\ kg} \approx 2.3M_☉$
+Radius: $2,228,588 \mathrm{\ m}$
+Temperature: $9.452 \times 10^{-7}° K$
+Force of gravity: $\frac{GM^2}{r}$
+Volume: $\frac{4\pi r^3}{3}$
+Particle density: $\frac{\text{number of particles}}{\text{volume}}$
+a: $\frac{4\sigma}{c}$
+Radiation pressure: $\frac{a T^4}{3}$
+Gas pressure: $\text{particle density} \times k_B T$
+Electron degeneracy pressure: $\frac{\pi^3 \hbar^2} {15 M_e} \times \frac{3 \times \text{number of electrons}} {V \pi}^{\frac{5}{3}}$
+Electron degeneracy pressure 2: $\frac{\pi^2 \hbar^2} {5 M_e \times M_h^{\frac{5}{3}}} \times \frac{3}{\pi}^{\frac{2}{3}} \times \frac{\frac{M}{V}}{1}^ {\frac{5}{3}}$
+Neutron degeneracy pressure: $\frac{\pi^3 \hbar^2 }{15 M_e} \times \frac{3 \times \text{number of neutrons}}{V \pi}^{\frac{5}{3}}$     
+Neutron degeneracy pressure 2: $\frac{3^{\frac{10}{3}} \hbar^2 }{ 15 \pi^{\frac{1}{3}} \times M_n^{\frac{8}{3}} \times r^5} \times \frac{M}{4}^{\frac{5} {3}}$
+Total pressure: $\text{gas pressure + radiation pressure + neutron degeneracy pressure + electron degeneracy pressure}$
+Total pressure force: $\text{total pressure} \times \text{volume}$
+If total pressure force = force of gravity, then the body is in equilibrium.

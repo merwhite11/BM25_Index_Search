@@ -1,0 +1,7 @@
+How to compute for Distance Modulus' uncertainty/ies?
+
+This is rather a short question. As we know of;
+Distance Modulus (DM) $\mu = 5 \log d - 5$
+If $d = 168_{-14.9}^{+27.5}$ pc ($3\sigma$ value), how can I possibly compute for $\mu$'s uncertainty?
+P.S. Perhaps I need to multiply those $\pm$ values to a 'some constant'(?)
+Thanks a lot and clear skies.

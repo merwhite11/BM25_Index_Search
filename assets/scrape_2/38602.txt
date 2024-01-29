@@ -1,0 +1,16 @@
+Is the "mean orbit" centered on ellipse center or ellipse focus?
+
+Mean longitude and mean anomaly of a body are calculated as the angle covered by the body along a fictious circular orbit, and this is ok.
+But where is this orbit centered? Five different sources say five different things:
+Wikipedia: circle center = ellipse focus
+
+University of Texas: who knows?!? No ellipse at all:
+
+University of California: who knows? Mean anomaly mentioned but not drawn; only eclipse shown, no circle:
+
+Britannica Enciclopedia: who knows? Both circle and ellipse shown, but mean anomaly not shown:
+
+Max-Planck-Institut für Sonnensystemforschung: circle centered on ellipse center
+
+Theory & formulas: longitudes and anomalies summed up together, no pictures at all.
+I am very confused.

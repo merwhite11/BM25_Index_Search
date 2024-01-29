@@ -1,0 +1,16 @@
+In an isolated binary system, can the expansion of the universe balance out collapsing orbit due to gravitational waves?
+
+We know that binary systems slowly lose energy due to gravitational waves from the objects moving through spacetime and that if the objects are compact and massive enough, the mergers happen in time scales within the age of the universe, and LIGO and friends can pick up their gravitational wave signals.
+We also know the universe is expanding, and that the geometry of this expansion is such that objects farther from us are expanding away at a higher relative velocity than objects close to us. We know that for gravitationally bound objects, this effect is not enough to keep objects from being in orbits or clusters.
+So my question is this: If you have an isolated binary system of two small objects that wouldn't normally be treated with relativity, and take the system evolution over immense timescales, could the expansion of the universe (as minute and small effect as it has) have a counteracting effect as to negate the incredibly slow (but inevitably present) infalling of the objects due to orbital energy being radiated away by gravitational waves?
+For starters, some ground rules, ideas and assumptions:
+
+Let's assume the binary system is composed of objects that aren't going to change a whole lot in time, maybe rouge exoplanets orbiting one another or a binary brown dwarf system, it doesn't really matter except that nothing about the bodies themselves are going to affect our solution here, and they are not intrinsically relativistic (e.g. no neutron stars or white dwarfs)
+
+Let's consider timescales much beyond the age of the universe; these processes to be considered only have measurable effects over immense time scales, but let's just say this system continues isolated and untouched by the rest of the universe for these time scales. There's no way this has ever happened, but I want to consider if it could in some distant, distant future
+
+I know gravitationally bound objects don't really expand away from each other practically, but it seems like the expansion would add just a little bit of energy to the system, and so I'm trying to figure out if that amount of energy negates the energy lost by gravitational waves. It definitely can't be more because we don't observe that, but we want to see if it's comparable.
+
+Let's ignore any ideas of a quantized gravitational field; let's assume a continuum of gravitational waves insomuch that these objects are emitting them from their orbit, as small as they may be.
+
+How these objects got here or anything leading up to this system is not relevant, although if I have made any physically incorrect assumptions, please point them out

@@ -1,0 +1,6 @@
+What is the name of a device for detecting moving objects?
+
+A while ago I saw a report on TV, where an astronomer described a device that was used for detecting movement of stellar objects (mainly asteroids, I think) before the age of computers. In order to detect such a movement, two photos of the region of interest were made, through a telescope, with a certain delay between these photos. 
+Afterwards, the photos have been placed into that device. The device had some sort of "peephole" through which one could see one of the photos, and some sort of lever/switch to quickly toggle between the photos - either by flipping them, or by tilting a mirror to show either of the photos. 
+Objects that had moved between the photos (relative to the other, "fixed" objects) could thus quickly and easily be identified with the naked eye, because they appeared as dots jumping forth and back when toggling between the photos.
+Does anybody know the name of this device, or a more detailed technical description?

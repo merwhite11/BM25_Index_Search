@@ -1,0 +1,8 @@
+Mystery CCD camera
+
+What I know: this is a Meade-brand CCD camera. I believe it to be relatively old (2004?). It does not have a model number, and the only pictures I can find on the internet call it a "USB PC-camera" which does not help.
+
+
+
+I am looking to figure out what was this camera marketed as in the US, what software it came with, and whether this can be somehow operated with Windows 10.
+USB Device Tree

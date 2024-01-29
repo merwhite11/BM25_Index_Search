@@ -1,0 +1,8 @@
+Which properties can we infer for cosmic ray particles hitting on an optical ccd?
+
+It is very common that we meet cosmic ray particles in optical images recorded by CCDs.
+You can see the "snowflakes" in the Hubble Space Telescope images below:
+
+Generally we should try to remove them in order to get photometry or spectroscopic information.
+However, there may be useful information we can derive; for example, can we get their directions or energies statistically before they arrive at a CCD?
+Is there some correlation between the ADU value of a cosmic ray point and its real energy?

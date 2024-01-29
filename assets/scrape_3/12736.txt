@@ -1,0 +1,6 @@
+When is it a good aproximation to consider a star to be an ideal gas?
+
+I am currently taking a first course on stellar astrophysics, and I noticed that in some cases we use the ideal gas equation of state for stars, so we also use $\gamma =5/3$. Of course it can only be applied where there is no nuclear reaction, so there is a limit in the temperature.
+Also, if the radiation pressure if relevant, you have to consider the parameter $\beta$ to calculate the total pressure and the adiabatic coefficient $\gamma$. It is also incorrect (I think) if there are degeneration or relativistic considerations.
+I don't know if I have to consider other factors before I can use this equation of state and value for $\gamma$, maybe it is important if it is a convective or radiative area, or other factors I didn't consider.
+My question is: can anybody tell me the limits of the ideal gas approximation? (quantitative better than qualitative but any help will be well received)

@@ -1,0 +1,10 @@
+Confusion when calculating the length of the day
+
+I'm trying to solve this task:
+
+Tula and Moscow are located on the same meridian. In which city length of the day is bigger on 22 of June? 22 of December?
+
+I was thinking like that: we need to calculate the height of the sun above the horizon and where it will be bigger there the length of a day is bigger. The formula of height is:
+$$\text{h = 90 - latitude + declination}.$$
+On 22 June the declination of Sun is maximum and equals 23,5. Latitude of Tula - 54,2 , latitude of Moscow - 55,3. It seems like in Tula the height of the Sun is bigger than in Moscow, so bigger is the length of the day. But in reality it is the opposite. The further from equator a city is located the bigger the length of the day in this city.
+Could you please tell me where am I wrong and how to solve this task correctly?

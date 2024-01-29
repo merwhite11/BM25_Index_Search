@@ -1,0 +1,4 @@
+Magnitude, satellite flare and the Heavens Above app
+
+On the Heavens above app for Android and maybe iOS, it shows negative magnitude values for Iridium satellites, but for other ones, it shows positive.  Here is a screenshot
+Why is this?

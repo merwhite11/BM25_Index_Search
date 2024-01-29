@@ -1,0 +1,7 @@
+Downloadable GCNS (Gaia Catalog of Nearby Stars)
+
+Has Gaia made the "Gaia Catalog of Nearby Stars" (GCNS) available for offline processing?
+Ideally I'd like the full 100pc data set in a format that doesn't require any specialized libraries to parse, e.g. something like CSV.
+I've found a pile of papers talking about work done with that data, and I think I've found a download link to a larger (~TiB) data set, as well as some online search tools (that are poorly documented and hard to use unless you already know how) but I've had no luck finding a copy of the 100pc GCNS.
+
+Alternatively: all I really need is 3D location (however described), spectral class and (ideally) masses for bodes larger than brown dwarfs. Are there any other catalogs that have near complete data for that out to ~100pc that are readily available for off line processing?

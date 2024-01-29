@@ -1,0 +1,7 @@
+How to calculate the altitude of the Celestial Equator from an observer's latitude? Exam question
+
+
+When observing from a latitude of 50 degrees North on Earth, the Celestial Equator will have a maximum altitude of:
+  Answer: 40 degrees
+
+I've looked this up and it says something about the observer's co-latitude. However, I do not understand why this is the case. Could someone explain this please?

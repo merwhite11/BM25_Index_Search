@@ -1,0 +1,5 @@
+How does the gravitation of Jupiter or other big planets affect Kepler's third law?
+
+Does anyone know a good reference for this?
+I once read how Jupiter's gravitation can be treated as a perturbation. I think they expanded Jupiter's gravitation as an infinite sum of one of the special functions (such as Bessel function, Legendre function, Hermite polynomial, I can't remember).
+I am not interested in how the motion of a planet at each time looks like, but just the overall effects on parameters such as period, semi-major axis, and eccentricity.

@@ -1,0 +1,5 @@
+Is there any positive N on which it's agreed among astronomers that 10^-N is accepted as 0 (zero)?
+
+Is there any positive N on which it's agreed among astronomers that 10^-N is accepted as, or treated as 0 (zero)?
+I think one of the sciences that most precision is required is astrophysics.
+I'm aware of my hardware capacity to lowest floating number, but that's not what I'm asking about.

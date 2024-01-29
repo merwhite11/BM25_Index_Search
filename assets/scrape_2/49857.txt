@@ -1,0 +1,4 @@
+How do astronomers distinguish between Cepheids and other types of variable stars?
+
+So my understanding of how Cepheid is used as standard candle to determine distance of galaxies is like this: Astronomers observe a galaxy, notice an object within that galaxy whose brightness pulsates periodically, measure its period, translate it into luminosity by using Cepheid period-luminosity relationship, and get the distance from the modulus.
+But how do they confirm that object really is a Cepheid and not another type of variable (say, RR Lyrae) that may have different (or even nonexistent) period-luminosity relationship? Is there any observable properties that is unambiguously unique to Cepheids?

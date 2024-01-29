@@ -1,0 +1,3 @@
+Converting Invariable plane to J2000 ecliptic
+
+I've been following the answer given by Mike G here: How to calculate the orientation of planets at current epoch to get planets to have the correct orientation in my program, but all the angles are in the Invariable plane, how is that converted to the J2000 ecliptic plane? I've been stuck at this for hours and it makes my head hurt, any help would very much be appreciated!

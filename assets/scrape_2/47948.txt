@@ -1,0 +1,3 @@
+Sun Moon earth Angle
+
+I want to do a theoretical prediction before trying out an experiment. I just noticed that the arc separating the illuminated side of moon and the shadowed side is an ellipse arc. So Is it possible to write down the angle between Sun and moon (as seen from earth) in terms of the semi major and minor axes of that ellipse.

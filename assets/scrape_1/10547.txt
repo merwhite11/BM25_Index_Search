@@ -1,0 +1,14 @@
+Calculating RA/dec from JPL ephemeris data
+
+I'm using JPL planetary ephemerides to calculate the position of planets. Using DE405 ephemeris (using a parser provided by Project Pluto with all tests passing). I am fetching the position of Mars with the observer set as the Earth (geocentric).
+My first assumption is that the result is a set of geocentric equatorial coordinates in rectangular form (x, y, z). This may be incorrect.
+My goal is to calculate RA/Dec. My second assumption is that I should use a formula converting from Cartesian to Spherical:
+$r =\sqrt(x^2+y^2+z^2)$
+$ra =\arctan(y/x)$
+$dec = \pi/2 - arccos(z/r)$
+Using Julian day 2457134 (21st Apr 2015, noon UTC), and cross-checking the result with NASA's Horizons service which apparently uses the same ephemeris (DE405) gets me almost there but my results are a little off:
+x 1.721427968227801 y 1.5802812301744067 z 0.6897426775298559
+RA 02h50m12.51s Dec +16°26'41.37"
+Horizons:
+RA 02h50m11.52s Dec +16°26'36.5"
+I'm not sure what I'm missing. Do I have to factor distance of the planet due to the time it takes for light to reach us? Am I not using the correct time? Are my assumptions wrong?

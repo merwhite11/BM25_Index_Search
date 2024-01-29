@@ -1,0 +1,5 @@
+How much solar UV radiation would someone get who were on the surface of Titan?
+
+The Saturn system is about 10 times as far from the Sun as the Earth. This question is concerning Titan for two reasons: Titan has an Earthlike atmosphere so you don't have to account for a higher radiation due to vacuum. Titan's surface pressure is 1.45 atm (21.5 psi) but imagine you're standing on the summit of a mountain where the pressure were 1 atm (14.7 psi). The 2nd reason is that due to Titan's Earthlike atmosphere you don't need a spacesuit but an oxygen mask and warm clothes only (that should cover your entire body if you don't wanna get frostbites).
+Compared to the average UV dose on the surface of the Earth, how much radiation would you get on a mountain peak on Titan? Since Titan is 10 times farther from the Sun, does this mean you get 10 times less the radiation on Earth, or does it decrease with the square so you get a 100 times less radiation of what you get on Earth? Or something else?
+Also, do you know a calculator that can determine UV radiation and account for all factors?

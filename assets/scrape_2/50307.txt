@@ -1,0 +1,4 @@
+Maximum mass of the observable universe
+
+As I understand it, the maximum radius of the observable universe will be about 62.9 billion ly (at t = ∞). Does it mean that the observable universe will reach a maximum mass (baryonic + dark matter)? And if so, is there an easy way/plot to find out what it will be and how it will change afterwards?
+And does it work the other way - was there a minimum mass just after the big bang? I'm asking because I'd like to create a plot of the mass of observable universe (dark + baryonic) vs time.

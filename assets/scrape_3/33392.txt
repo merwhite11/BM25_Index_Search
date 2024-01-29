@@ -1,0 +1,10 @@
+Cosmological redshift vs doppler redshift
+
+I'm reading Harrison's "Cosmology: Science of the universe" because Harrison focuses on the distinction between cosmological redshift (he calls it expansion redshift) and the Doppler redshift. 
+He states that "they [Doppler redshifts] are produced by peculiar and not by recession velocities"
+and
+"[expansion redshifts] are produced by recession and not
+peculiar velocities".
+I understand the concepts of both kinds of redshifts but have a hard time understanding this strict separation. Please correct me, where/if I am wrong:
+Suppose a galaxy has no peculiar movement. This means that its position will stay (approximately) the same in comoving coordinates. In fact though ( proper distance), it IS moving away from Earth with recession velocity V, caused by the expansion of the universe. So it should have a Doppler effect based on this recession velocity AND a cosmological (expansion) redshift should also take effect because the light gets stretched with the expansion of the universe. Even though the recession velocity is not due to a peculiar movement, it means that the source of light is moving away from the observer and hence the light should be redshifted and on top the light gets redshifted on its way through expanding space.
+Please correct me or tell me if I am right or wrong, I have spent a lot of time reading but still don't fully understand this. Thanks.

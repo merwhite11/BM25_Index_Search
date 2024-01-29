@@ -1,0 +1,4 @@
+Dish antenna as parabolic mirror for OPTICAL telescope?
+
+Can I use a chrome painted dish TV antenna as a parabolic reflector for my optical telescope? Given that glass mirrors are quite expensive, I am thinking of using a Dish TV antenna and coating its reflecting surface with chrome paint to give it a mirror finish. But I couldn't find any instance of it online. I did find several examples of people using a dish antenna for making an amateur radio telescope.
+I was wondering if there is a reason why we can't use it in optical telescope.

@@ -1,0 +1,3 @@
+Anatomy of a galaxy cluster: understanding the relationship between dark matter halos and subhalos and galaxies within the clusters?
+
+In my understanding, galaxy clusters contain dark matter halos, which in turn contain subhalos, and the subhalos are what surrounds individual galaxies. I know that is a simplified picture, but I am just trying to figure out if it is correct in general. Additionally, when people talk about "substructure," does that apply to halos or to subhalos (or sometimes both)? My question stems from reading different papers where these terms seem to be used in slightly different ways. For example, here they talk about substructures as being individual subhalos, but I have heard the term in reference to all structure smaller than the cluster itself.

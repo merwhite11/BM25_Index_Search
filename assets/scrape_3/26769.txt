@@ -1,0 +1,5 @@
+How far would EGSY8p7 be away now?
+
+Apparently EGSY8p7 is the object with the longest light travel distance, 13.2 gly or a redshift of z = 8.68 (Wikipedia). 
+So the light took 13.2 billion years to travel to us from that object, but we know that the universe has expanded since (I believe with an expansion rate that varied over time). So given our current theories of how the universe expanded, is it possible to calculate the theoretical distance of that object to us right now? 
+I assume it must be close to what is believed the radius of the observable universe (46.5 Gly) but how would one go about to calculate this?

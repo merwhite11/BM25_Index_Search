@@ -1,0 +1,5 @@
+Why do we observe spectral lines of specific energy?
+
+The basis of my confusion is that atomic orbitals, even when described accurately by quantum numbers, have definite energies, meaning they represent energy eigenstates of the wave function. They're stationary states, and thus separable solutions to the Schrödinger equation. The general wave function of an electron, however, is a linear combination of such states, so that general solution does not have a definite energy. Still, we observe discrete spectral lines at specific wavelengths (with some broadening).
+Why do we observe spectral lines of specific energy when the wave function of the electrons in an atom are linear combinations of energy eigenstates? 
+It seems like the spectral lines that are observed are just the energy eigenstates, while, according to quantum mechanics, the wave representation of electrons is a linear combination of those states.

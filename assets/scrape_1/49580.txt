@@ -1,0 +1,50 @@
+Calculating local solar time with python ephem library
+
+I was learning to calculate local solar time with ephem. I must admit, unit conversion between radians, hours and days, which are all represented by a float in the program can be somewhat confusing for first-timers.
+import ephem
+from math import pi
+
+sun = ephem.Sun()
+loc = ephem.city("Taipei")
+
+# Calculate the value of base_date, 
+# which is the start of a new (solar) day at 0:00 hrs
+# to which solar time hours can be added
+
+ref = round(loc.date)
+if ref > loc.date:
+    base_date = ref - 1.5
+else:
+    base_date = ref - 0.5
+
+sun.compute(loc)
+
+# Calculate solar time:
+
+# (A) Using the sun's hour angle
+# solar time = hour angle + 12 hrs
+# because ephem dates are stored as a float number 
+# indicating the number of (sidereal?) days counting from 1900/1/1 12:00:00,
+# I divide the radian value by 2pi (rad/day) to convert its unit to day 
+# and add that to the base date.
+
+loc_time_a = ephem.date(base_date + (sun.ha + ephem.hours('12:00')) / (2 * pi))
+
+# (B) Using UTC
+# solar time = UTC + longitude
+# Longitude is in radians, 
+# so we need to divide by pi and multiply by 12 hrs to convert its unit to hours.
+# Finally, we multiply by `ephem.hour` to convert the unit to days 
+# to add to the date.
+
+loc_time_b = ephem.date(loc.date + (loc.long / pi * 12) * ephem.hour)
+
+print(str(loc_time_a), str(loc_time_b), sep="\n")
+
+Output:
+2022/6/15 10:53:00 
+2022/6/15 10:53:26
+
+As can be seen from the output above, there is a discrepancy of about half a minute between the two calculations.
+I was wondering how best to make sense of this difference: Is it safe to say that loc_time_a is the apparent solar time while loc_time_b is the mean?
+I don't know how sun.ha is calculated in the ephem library behind the scene. I presume the above claim would stand, to the extent which sun.ha can represent the actual position of the sun at a given time, in a specific location. Am I missing something?

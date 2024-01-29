@@ -1,0 +1,14 @@
+Why does the moon not leave its orbit around the earth due to the gravitational force from the sun?
+
+See additional information below added after the answer to the question.
+When the moon is between the earth and the sun, the gravitational force on the moon from the sun is greater than the gravitational force from the earth, hence the moon should continue its path towards the sun instead of staying in its orbit around the earth.
+When the moon is at 90 degrees to the earth relative to the sun, the moon is moving almost directly towards the sun and then the gravitational force on the moon from the sun is roughly double the gravitational force from the earth, hence there is nothing to stop the moon's trajectory towards the sun and it should continue towards the sun away from the earth. What makes the moon "turn" back towards the earth and away from the sun at the point where it is right between the earth and the sun when at this point right when it turns, the gravitational force from the sun is roughly double the gravitational force from the earth?
+I am aware of the movement of the sun and also of the fact that the moon is moving on a different plane to that of the earth and I don't think that can explain my question above.
+Thank you for your time, I would like to understand this situation.
+
+Additional information:
+The answer does not address the question, let me explain. Although it is true that the moon orbits the sun as described in the answer, this does not explain why the sun does not pull the moon out of its orbit around the earth.
+For an object to change direction a net force has to be applied to it according to Newtons laws. a=F/m applied to the moon from the point in its orbit where the moon gets closer to the sun than the earth is to the sun, shows a force vector on the moon towards the sun applying twice the force as another force vector on the moon towards the earth. This results in a combined net force vector on the moon pointing away from the earth and this net force vector will progressively point further away from the earth and more towards the sun as the moon moves closer to the sun and therefore should pull the moon out of its orbit around the earth and pull it towards the sun.
+Newtons laws must be true on the three separate objects; the sun, the earth and the moon in the example above.
+I have a Master of Science in Engineering and know my physics. I have some friends who are convinced they can prove that the earth is actually flat and that a search on "flat earth" will prove it, and they have asked me the question in this thread to prove to me that the heliocentric model is not true. I took up the challenge, however when looking at this simple example I have not been able to find an answer that is in accordance with normal physical laws. 
+I hope somebody can come up with an explanation that is in accordance with physical laws.

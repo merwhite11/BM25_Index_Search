@@ -1,0 +1,16 @@
+What is the fraction of the time that the JWST could view a short transient event on-demand as a function of position on the celestial sphere?
+
+In this answer to Why does JWST have such a big Blind Spot? I argue that this space telescope primary relationship with time is that it strives to look way back in it and so as long as a given direction is visible sometime during the year and it doesn't matter that at any moment only about 40% of $4 \pi$ SR is viewable (polar angles 85° to 135° wrt the Sun, see below).
+But now I'm wondering
+
+If there are some types of transient events where an infrared telescope like this (0.6 to 28 microns I think?) could offer something that Hubble or ground observatories couldn't. For that I've already asked For what types of transient events would the JWST be ideal or even uniquely-suited for observing? (If it could look in time)
+
+But here I'd like to ask:
+Question: What is the fraction of the time that the JWST could view a short transient event on-demand as a function of position on the celestial sphere?"
+The author of that question gives a few examples just to illustrate the idea of transient events
+
+Over a 6 month half-orbit of the sun, the entire sky is observable. But what happens if an interesting event occurs in the “blind spot”? Like Shoemaker-Levy or the arrival of Rama? A gravitational wave event?
+
+and (at least) one of those really did "shine" in the thermal infrared!
+
+JWST's field of regard (FOR) from the linked question and originally from JWST field of regard (FOR) Also see How much of the sky can the JWST see?.

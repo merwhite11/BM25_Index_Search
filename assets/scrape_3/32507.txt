@@ -1,0 +1,17 @@
+Q: Calculating the luminosity of a galaxy
+
+I am currently working on a project on which I am calculating the luminosity of galaxies by using the SDSS data. They use a system of asinh magnitudes, and according to their website they use a system of softening parameters as it follows in https://www.sdss.org/dr12/algorithms/magnitudes/#asinh:
+
+
+I used their cmodel magnitude that they advise for galaxies' photometry. For example, I have the r magnitude of this galaxy that is 14.68, and I am trying to find its luminosity. They say that to convert to flux density, one must follow the following equation: 
+S = 3631 Jy * f/f0, where for the r band the AB conversion and shift is minimal.
+However, when I plug the numbers into the equation: 
+
+The distance of the galaxy is 63.3 Mpc
+But it seems that when I plug the numbers, the final value does not match, how is that? And yes, I converted to the units including the Jansky to 10^-26 W m^-2 Hz^-1 and the Mpc to m. 
+I wish to find the luminosity of the galaxy in terms of solar luminosity and I know that one solar luminosity unit is the same as 3.827e+26 W. 
+I was only able to find the correct answer when I did the following equation: 
+
+Where:
+
+If anyone knows what I am doing wrong point out, please. Is it because flux intensity is different from flux?

@@ -1,0 +1,7 @@
+SNR computation + noise correlation
+
+My question splits in two parts:
+
+If I have an image with N x N pixels, and an object in the center (star, galaxy what have you), spanning M x M, how do I compute its signal to noise ratio exactly?
+
+Now what happens if some (noise) pixels are actually correlated? How does that change the SNR computation?

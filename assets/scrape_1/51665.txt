@@ -1,0 +1,4 @@
+What is the diameter of a telescope lens that will capture the surface of Proxima Centauri b?
+
+I been trying to find the way I can calculate the telescope lens diameter needed to see a star by the distance of the star or the planet from the earth. Is there any mathematical relation we usually use to build our telescopes lens?
+Example : Proxima Centauri b is about 4.24 light years away from us. We need a telescope that will capture its atmosphere. How big would the lens of that telescope needed will be?

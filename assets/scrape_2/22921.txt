@@ -1,0 +1,14 @@
+Will universe's lakes get boiled by the CMBR?
+
+From what I can understand, Cosmic Microwave Background Radiation (CMBR) is microwave now, but was initially visible light emitted long time ago.
+
+The microwave is producing a wave that’s about 12 centimeters long. 
+Now CMBR has right now this (time changing) distribution (peak at 2mm):
+
+By Quantum Doughnut - Own work
+
+This diagram was created with gnuplot., Public Domain, Link
+So it looks to me that in some time, when its wavelength falls at around 12cm), some of its energy should be transferred to water molecules the way it is in a microwave oven. 
+
+Is it the case? Will some of the CMBR energy actually transferred to water molecules? 
+Will this energy be too faint to matter at our scale?

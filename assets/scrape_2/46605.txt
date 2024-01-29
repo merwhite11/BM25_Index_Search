@@ -1,0 +1,9 @@
+Have we indirectly measured GW driven orbital decay in anything besides binary pulsars?
+
+Binary systems decay for all sorts of reasons.  I'm asking specifically about orbital decay due to gravitational wave emission.
+All of direct GW detections of binary systems have come with orbit change measurements (the GW frequency chirp), but that's not what I'm asking about.
+Binary pulsar systems, usually binary neutron star or neutron star-white dwarf, are great for precise orbital measurements, and in a handful of these systems folks have measured the change in the system's orbital period $\dot{P}_B$ due to gravitational wave emission.
+
+Are there any other systems where GW driven orbital decay has been observed?
+Is it possible to optically observe a tight double white dwarf and get that kind of orbital evolution precision?
+What about galactic center objects orbiting Sag A$^*$?  Are the dynamics modeled as Keplerian orbits?  Do any of closer encounters require post-Keplerian corrections like $\dot{P}_B$?

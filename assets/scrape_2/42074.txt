@@ -1,0 +1,10 @@
+How to calculate center (not focus) of planetary orbit?
+
+I'm developing a website showing the movement of Solar System planets according to the passage of time. I'm using this reference to calculate all the necessary orbital parameters.
+These are two images some days apart.
+
+
+(Only planets up to Mars are shown here. The moon orbit has been highly exaggerated to become visible. Celestial bodies radii are not to scale either, except among themselves—except the Sun.)
+The images show the high eccentricity of Mercury's orbit, causing it to be very far from the Sun in the first image, and very close to it in the second.
+I want to draw the correct ellipse, instead of circles that constantly change radius. I have all the “orbital elements” given in the link above (N, i, w, a, e, M, r, v, x, y, z, lon, lat), but don't know how to extract an ellipse from them. I'm drawing the planets using x, y heliocentric coordinates. Even if I had the ellipse foci, JavaScript needs the geometric center of the ellipse to draw it, and I don't know either how to convert the former into the latter.
+How to calculate the ellipse center from the parameters given above?

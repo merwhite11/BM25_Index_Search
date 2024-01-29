@@ -1,0 +1,11 @@
+apparent and absolute magnitude of meteors and space debris
+
+I have a question regarding the apparent and absolute magnitude of space debris objects or meteors reentering the earth's atmosphere. I already understand the difference between apparent and absolute magnitude. The absolute magnitude is the brightness of the object if the object is at a distance of 100km and at zenith. And the apparent magnitude is how bright the objects appears to the observer.
+But how can I determine the apparent magnitude of an objects observed from an observer? The objects has the distance $d$, the zenith distance $Z$ and the height $h$. On the internet I found the following equation:
+$$
+M = m +5  \log(\cos(Z))
+$$
+$M$ = absolute magnitude, and $m$ = apparent magnitude. I posted a picture below.
+But how is this equation derived? I do not understand the equation. What can I do, if the height $h$ of the objects does not equal 100 km?
+The book where i found this is "The Observer's guide to Astronomy" (Volume 2) pages 659 to 660!
+https://books.google.de/books?id=TXc54LfKsSQC&pg=PA659&lpg=PA659&dq=zenithal+magnitude&source=bl&ots=fPeMVD1sOq&sig=ACfU3U26N79Xm-qsiC4ocoMHHcCw9Lc3jw&hl=de&sa=X&ved=2ahUKEwiP2Lf3v-bpAhVk-ioKHQ0oD5wQ6AEwAXoECAsQAQ#v=onepage&q=zenithal%20magnitude&f=false

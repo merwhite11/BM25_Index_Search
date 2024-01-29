@@ -1,0 +1,7 @@
+How can I improve the Field of View of my home-made telescope?
+
+I made my telescope, with two convex lens of focal length 1000mm and eyepiece (plano-convex) with 25mm focal length. But I can see only a very small field of view, with inverted image. Do I need to increase the diameter lenses for more area capture, and can I use concave as eyepiece for upright image?
+Or does some different solution exit?
+I can read all information related to telescopes and binoculars, ie. how lenses work, which lenses combination are for which purposes (terrestrial and astronomical), and increase or decrease area and magnification.
+Please note here I am talking about only refracting telescope, and binoculars.
+note: This is a follow-up question based on comments below this answer to my previous question.

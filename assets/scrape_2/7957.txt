@@ -1,0 +1,4 @@
+Standard practices and models for generating the ephemerides of the solar system
+
+I am familiar with the theory on generating the positions of the members of the solar system, but have been unable to find out the standard practices and methods of professional astronomers in acquiring this information. The basic methods of generating an ephemeris of the solar system can be found on the Wikipedia. Also, I have the book Astronomical Algorithms by Jean Meeus.
+How do practicing astronomers do it though? Are there standard programs or software that everyone uses, or do they access servers at some international body that returns positions at a given time, or does each astronomer have his own custom program that he made? What is the normal way an astronomer gets planetary positions?

@@ -1,0 +1,9 @@
+What allows WFIRST to have similar resolution to Hubble over a 100x larger solid angle?
+
+In the video linked in the Space.com article What Would It Mean for Astronomers If the WFIRST Space Telescope Is Killed?, (available in YouTube as WFIRST: The Best of Both Worlds) after 02:00 NASA astrophysicist Neil Gehrels says of WFIRST:
+
+It has the same image precision and power as the Hubble Space Telescope, but with one-hundred times the area of sky that is used.
+
+Looking at the crude drawing on this NASA page shows only a Cassegrain-like geometry, but there must be additional goodies to obtain a similar resolution with a 10x wider field. Does it have three, four, or five mirrors like the E-ELT or the LSST (cf. What is a quaternary mirror and why does the E-ELT need one? and answers therein) or corrector lenses? What is the magic sauce that makes this possible, and is there at least a schematic diagram of the optics somewhere?
+
+above: From NASA.

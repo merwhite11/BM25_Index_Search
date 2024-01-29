@@ -1,0 +1,7 @@
+How to find the numerical positions of objects in the sky?
+
+How do star locator applications such as SkyGuide, SkySafari and Stellarium get the current and future positions of
+moons, planets, stars and artificial satellites in the sky?
+Is there a public database that keeps track of all the positions of celestial objects in the sky that they call access to?
+If so is there an API that can be interacted in JavaScript or Python?
+For context I’m trying to make a website the tracks the positions of artificial satellites.

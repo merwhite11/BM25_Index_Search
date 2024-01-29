@@ -1,0 +1,25 @@
+Calculating right ascension for two planets and their separation using python
+
+I am experimenting with the Python library PyEphem for astronomy, and I am trying to recreate/understand some of the basic calculations there.
+There is a function called separation that, given two planets and a date/time, it calculates the separation (angle) between those 2 planets with respect to their "x" projection in a plane.
+So for 2018/1/1 for planets Mercury and Mars, we have:
+import ephem
+import math
+
+mercury = ephem.Mercury('2018/1/1')
+mars = ephem.Mars('2018/1/1')
+
+s1 = ephem.separation(mercury, mars)
+print(math.degrees(s1))
+
+Which returns
+33.792384499568264
+
+But if I wanted to calculate this without the separation function, then I think that the calculation would be as simple as the "right ascension" of 1 minus the "right ascension" of the other:
+math.degrees(mercury.ra) - math.degrees(mars.ra)
+
+Which returns
+35.114532008671574
+
+Why are the angles different? Since I am not including a latitude and longitude of the observer, all the calculations are supposed to be geo-centric, according to PyEphem.
+Is anybody familiar with the calculations going on behind PyEphem, or another library with built-in ephemeris that can produce consistent results for separation?

@@ -1,0 +1,3 @@
+Galactic coordinates input in DS9
+
+I have uploaded a h alpha photo in SAO Image DS9, but want to locate a particular region for which I have the galactic coordinates. How to input the coordinates in DS9 to view the particular zone?

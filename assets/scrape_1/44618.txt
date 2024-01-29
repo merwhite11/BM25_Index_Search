@@ -1,0 +1,11 @@
+Whether the comet is moving in an elliptical or hyperbolic orbit around the sun?
+
+The time of observation after the first observation (in years), the distance between the earth and the comet (in AU) and the angle between the sun and the comet (in radians) is given.
+How to find whether the comet is moving in an elliptical or hyperbolic orbit around the sun, and what the time period is (if elliptic) or the distance of closest approach to the sun (if hyperbolic). First of all, we have to find the eccentricity.
+For this problem, let us make the following three simplifying assumptions:
+
+The orbit of the earth is perfectly circular with radius = 1AU and time period = 1 year
+
+The orbit of the comet is coplanar to the orbit of the earth
+
+Gravitational effects of the earth on the comet can be neglected

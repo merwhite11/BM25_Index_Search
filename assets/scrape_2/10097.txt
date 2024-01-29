@@ -1,0 +1,6 @@
+Statistics of elements abundance in exoplanets
+
+Recently, I encountered the concept of carbon planets - planets, which would be, unlike the Earth, formed mostly by carbon, instead of oxygen, silicon and magnesium. (I am not counting iron, which is mostly locked in the core). Now, I am interested in the planetary chemical compositions in general. I found interesting articles investigating the topic of variance of the planetary chemical compositions (for example here or here), but it is quite hard for me to make an overall picture of the state in the field.
+I would like to ask on these things:
+1. What typical compositions of terrestrial planets are expected to occur? (I guess there will be plenty of correlations, some groups of elements occuring together as they are bound, for example to the CNO cycle or other nuclear cycle.)
+2. How much different the chemical compositions of terrestrial planets really are? (I.e. are all terrestrial planets mostly similar to each other, or should one rather expect that every planetary system has unique ratios of elements?)

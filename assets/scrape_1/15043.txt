@@ -1,0 +1,5 @@
+Why is the core of a gas giant supported by electron degeneracy pressure instead of nuclear fusion?
+
+After a Sun-sized protostar forms, its core will become denser over time due to radiation. The core eventually gets dense and hot enough for hydrogen fusion to take place. In the late phases of the star's life, the core will continue fusing hydrogen until it runs out and outer layers begin fusion hydrogen, while dumping helium into the core. The core will get massive enough that it will begin to contract, and it will eventually become electron degenerate due to the high densities.
+However, as the core became denser and denser, it reached temperatures at which fusion could take place, but it did not become dense enough for the matter to become electron degenerate, right? Only later in its life, when the star's hydrogen ran out, would it become dense enough for that.
+So then why would gas giant cores be electron degenerate, but not become hot enough for nuclear fusion? Shouldn't they start fusing before they can become electron degenerate, as stars do? Am I misunderstanding this concept entirely, or is there more to it than what I described?

@@ -1,0 +1,8 @@
+Are X-ray telescopes with glancing angle surfaces basically "funny-looking" Cassegrain telescopes mathematically?
+
+In this answer I included the image below of a reflective X-ray telescope. It is made from two elements; the first is concentric shells of glancing (high incidence) angle paraboloidal surfaces, and the second element is the same except that they are hyperboloidal surfaces.
+A "Classic" Cassegrain telescope is also a parabolic mirror followed by a hyperbolic mirror, except that the configuration looks very different since for visible light we can use near-normal incidence and are not restricted to high incidence angles.
+Question: Despite looking so different, are these basically the same thing? Is the mathematical relationship between the parabolas and the hyperbolas the same in both cases?
+Related in Space SE: How does this strangely-shaped horn at Honeysuckle Creek Tracking Station work?
+
+Source

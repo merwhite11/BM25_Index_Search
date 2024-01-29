@@ -1,0 +1,3 @@
+Why is the Earth-Moon distance not the same at each perigee/apogee?
+
+I wonder why the Earth-Moon distance is not the same at each perigee/apogee. Isn't the Moon's orbit a fixed ellipse with Earth at one of the foci? If it is so, shouldn't the distance at perigee/apogee be a fixed value?

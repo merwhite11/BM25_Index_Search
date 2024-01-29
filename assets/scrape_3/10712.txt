@@ -1,0 +1,6 @@
+What is a typical value for core-to-star efficiency?
+
+I was reading Unfolding the Laws of Star Formation: The Density Distribution of Molecular Clouds by Kainulainen et al., which discusses star formation rates and efficiencies.
+One variable used is $\varepsilon_{\text{core}}$, the core-to-star efficiency, describing how much gas above the critical value of $s$, the logarithmic mean-normalized density, forms a star.
+I'm using this parameter in some calculations, but I'd like to use an average value, as opposed to a value for a given molecular cloud.
+What is a typical value for $\varepsilon_{\text{core}}$?

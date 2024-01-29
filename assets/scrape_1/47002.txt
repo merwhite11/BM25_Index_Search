@@ -1,0 +1,5 @@
+How to predict future position of body in solar system (without Kepler's equations, N-body problem)?
+
+I have a solar system where each body interacts with each other by force $F = \frac{Gm_1m_2}{R^2}$
+Is it possible to predict future position of some random body after t seconds since bodies velocity and position measurement?
+I guess, it is possible only with numerical methods, but how to to it fast without calculating system state for each future frame? I don't need a big precise, just a rough estimation to target into sphere of influence of planet.

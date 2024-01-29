@@ -1,0 +1,25 @@
+What exactly is the relationship between the orbits of Neptune's moons Naiad and Thalassa?
+
+Scitechdaily's Wild Orbits of Neptune Moons a ‘Dance of Avoidance’ [Video] links to the YouTube video Neptune Moon Dance (Naiad and Thalassa) and says:
+
+In this perpetual choreography, Naiad swirls around the ice giant every seven hours, while Thalassa, on the outside track, takes seven and a half hours. An observer sitting on Thalassa would see Naiad in an orbit that varies wildly in a zigzag pattern, passing by twice from above and then twice from below. This up, up, down, down pattern repeats every time Naiad gains four laps on Thalassa.
+Although the dance may appear odd, it keeps the orbits stable, researchers said.
+“We refer to this repeating pattern as a resonance,” said Marina Brozovic, an expert in solar system dynamics at NASA’s Jet Propulsion Laboratory in Pasadena, California, and the lead author of the new paper, which was published Nov. 13 in Icarus. “There are many different types of ‘dances’ that planets, moons, and asteroids can follow, but this one has never been seen before.”
+[...]
+Reference: “Orbits and resonances of the regular moons of Neptune” by Marina Brozović, Mark R. Showalter, Robert A. Jacobson, Robert S. French, Jack J. Lissauer and Imke de Pater, 22 October 2019, Icarus.
+DOI: 10.1016/j.icarus.2019.113462
+arXiv: 1910.13612
+
+
+I think the term "choreography" was meant to be colorful, but not refer to an actual n-body choreography.
+Question: Orbital resonances are common enough, but what does "this one" mean in the last sentence "this one has never been seen before”? Some additional questions may help explain what it is that I'm having a difficult time understanding:
+
+What type of orbit does "this one" refer to? Is there a term?
+Is this truly resonant behavior?
+Are the two periods related by a rational number?
+Are there also some significant chaotic aspects to their relative motion?
+
+
+
+above: cropped second of a screenshot from the linked video. If I understand correctly this is at least approximately in Thalassa's synodic frame; Naiad slowly moves around Neptune and the planet is shown rotating underneath.
+below: more screen shots...

@@ -1,0 +1,8 @@
+Scaling Relations
+
+In this picture , Keplers third law is written in a scaling relationship with solar mass.
+$$a^3=\frac{G(m_1+m_2)}{4\pi^2}P^2 \rightarrow m_1+m_2 = \frac{4\pi^2a^3}{GP^2}$$
+$$m_1+m_2=(1 M_{\odot})\, \left( \frac{a}{1\ \text{AU}}\right)^3\,
+\left(\frac{P}{1\ \text{year}}\right)^{-2}$$
+original screenshot
+I'm struggling in these scaling relationships.How that worked?

@@ -1,0 +1,5 @@
+What fraction of starlight, seen from Earth, is actually reflected light?
+
+Thanks to reflected starlight, many planets and comets in the Solar System have been visible to humans since long before the development of modern astronomy.
+Some of the starlight from outside the Solar System should be reflected light as well. That is, light emitted by one star in the Milky Way may encounter another star, and be reflected toward Earth. Normally, stars are assumed to be perfect blackbodies, but in reality they must bounce off some radiation.
+Also, starlight should be reflected off exoplanets, moons, asteroids, meteors, comets, brown dwarfs, etc. What fraction of starlight, seen by the naked eye from Earth, is actually reflected light?

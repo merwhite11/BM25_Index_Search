@@ -1,0 +1,14 @@
+Observability of proper distance
+
+Hubble's law at current time is as follows.
+$$v=H(t_0)r$$
+But if you look at the explanation on Wikipedia:
+
+Strictly speaking, neither $v$ nor $D$ in the formula are directly observable, because they are properties now of a galaxy, whereas our observations refer to the galaxy in the past, at the time that the light we currently see left it.
+For relatively nearby galaxies (redshift $z$ much less than unity), $v$ and $D$ will not have changed much, and $v$ can be estimated using the formula $v=zc$ where $c$ is the speed of light. This gives the empirical relation found by Hubble.
+For distant galaxies, $v$ (or $D$) cannot be calculated from $z$ without specifying a detailed model for how $H$ changes with time. The redshift is not even directly related to the recession velocity at the time the light set out, but it does have a simple interpretation: ($1+z$) is the factor by which the universe has expanded while the photon was travelling towards the observer.
+
+My question is as follows:
+Current proper distance indicates where the galaxy should be by expansion when photons from the past start and reach us now.
+In the expression of Hubble's law, Hubble's law has a current proper distance. Therefore, Hubble's law at current time already has a meaning that implies information about photons in the past. It's strange to say that Hubble's law only holds close distance because of the inability to observe current information.
+Why does $cz=Hd$ exist only at a close distance?

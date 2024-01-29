@@ -1,0 +1,7 @@
+How does metallicity change the mass-radius and mass-luminosity relations in main-sequence stars?
+
+I'm building a star cluster for my space opera setting and I'd like to include some highly-metallic stars as anomalies and resources.
+Wikipedia defines stellar metallicity as the fraction of a star's composition that isn't hydrogen or helium (i.e. if a star is 98% percent hydrogen and helium and 2% heavier elements, it is 2% 'metallic').
+Also according to Wikipedia, all else being equal, a more metallic star will have a larger radius and cooler surface than a less metallic star. However, I can't find any information beyond this, even off of Wikipedia, save that it's a result of the star's interior being more "opaque" and hindering the transfer of energy from the core outwards.
+How exactly does metallicity affect the mass-radius relation (${M_\odot^{0.8}}$) in main-sequence stars?
+While a larger radius with the same luminosity would obviously lead to a lower surface temperature, does metallicity affect the luminosity relation as well? If so, how?

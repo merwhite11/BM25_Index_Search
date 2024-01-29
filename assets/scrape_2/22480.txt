@@ -1,0 +1,7 @@
+What is the physical geometry of this apparent "eclipse" of a tiny moon of Asteroid Florence?
+
+Below is a small GIF made from a small subset of images contained in the original 36MB GIF found at https://cneos.jpl.nasa.gov/images/news/florence.p5us.1Hz.s382.sep01.gif as I just found in the Sky and Telescope article Asteroid Florence Has Two Moons.
+Although it's tempting to interpret the image as an optical image, I belive this is pulsed-doppler data from the Goldstone Deep Space Network center. I am guessing that one axis is range (delay) and the other is doppler shift.
+Still I can't figure out the geometry that would produce an "eclipse" (in this case the moon passing behind the larger asteroid) with it disappearing so "far" from the asteroid.
+Could someone help me out here? Is one axis delay (time) and the other doppler shift? One can start with this description but there is more to it than is discussed there.
+below: "A radar image shows asteroid 3122 Florence and tiny echoes from its two moons. Here is an animation that shows them more clearly. The direction of the radar illumination (and thus the direction toward Earth) is at the top." From here. NASA / Jet Propulsion Laboratory. This is a small subset of the frames contained in the original 36 MB GIF, and the size has been decreased by a factor of 2 in order to fit in SE's 2 MB limit.

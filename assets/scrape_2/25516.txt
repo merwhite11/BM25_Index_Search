@@ -1,0 +1,10 @@
+Can a solar system exist where the second planet rotates fast, and the third planet is tidally locked to their star?
+
+Today I read about the Romulan home star system and it looks like it might be impossible for such a star system to exist.
+Memory Alpha describes Remus:
+
+Remus was tidally locked, with one hemisphere always facing its primary while the other always faced away from it. The civilization of the Remans was located on the night side.
+
+Remus is farther from their star than Romulus. Romulus rotates many times during a single orbit of their star while Remus is tidally locked and rotates once per orbit of their star.
+If a planet orbits even deeper in the gravity well of their star than Remus it should be even more likely to be tidally locked than plants further out.  
+Could tidal interactions with neighboring planets and/or its moons prevent a planet from becoming tidally locked while being unable to prevent planets further out from being tidally locked?

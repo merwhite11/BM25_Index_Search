@@ -1,0 +1,3 @@
+What's the slit and slot on EIS(EUV Imaging Spectrometer) instrument of Hinode?
+
+There are two slits and two slots on EIS, are they just four types of grating?

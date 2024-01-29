@@ -1,0 +1,8 @@
+Extract surface density profile from a temperature profile?
+
+I have a protoplanetary disk model which outputs a temperature vs. radius profile, based on radiative transfer. Looks something like this...
+
+One of the inputs to the model is the surface density profile of the dust, which essentially sets up the structure of the material in the protoplanetary disk for the radiative transfer. It is given by this standard equation:
+$\displaystyle \Sigma_\text{gas} = \Sigma_\text{c} \cdot \big(\frac{r}{R_\text{C}}\big)^{-\gamma} \cdot \exp\big[-\big( \frac{r}{R_\text{C}}\big)^{2-\gamma}\big]$
+(where all the variables are model inputs)
+Is there a simple way to recover the surface density profile $\Sigma_\text{gas}$ from the known temperature profile? (Ignoring the fact that I already know what it is, just wondering if theoretically it can be done?)

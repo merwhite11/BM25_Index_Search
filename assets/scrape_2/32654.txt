@@ -1,0 +1,8 @@
+What would happen if a Sun-like star were to consume a Jupiter-like planet?
+
+A substantial number of discovered exoplanet systems are likely contain more than one gas giant with distances far closer to the star than in our solar system.
+It is known that in solar system evolution gravitational effects between objects can lead to some of them migrating outwards while others migrate inwards.
+Has there been any study of what happens when a gas giant approaches its star close enough to start losing mass to it? In this case could the planet end up completely in the star?
+For the purposes of this question let's choose a solar-mass G-type star and a gas giant such as Jupiter, since we have so much first-hand knowledge of these objects.
+Jupiter has plenty of hydrogen and this would represent the addition of more nucleosynthetic fuel.
+Would this be enough to cause the Sun to become the red giant in this case?

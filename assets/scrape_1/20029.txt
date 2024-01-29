@@ -1,0 +1,17 @@
+To which extent is optically thick photon transport related to conduction?
+
+When speaking about energy transport, the textbook, physics-101 always lists three possibilities:
+
+radiation
+convection
+conduction
+
+Now when studying radiation transport in (stellar) atmospheres and of course astronomy & astrophysics in general, we are always concerned about the photon mean-free path $\lambda_{mfp}$. When $\lambda_{mfp}$ becomes too small compared to a scattering or absorption mean-free path, the equations of radiation transport turn into a diffusion equation for the photon intensity $I_{\nu}$ at frequency $\nu$, so that we get
+$$ \partial_t I_{\nu} \sim \nabla (D \nabla I_{\nu})$$
+where the diffusion coefficient $D$ in the optically thick limit is proportional to density $\rho$ and opacity $\kappa_{\nu}$, $D \sim (\rho \kappa_{\nu})^{-1}$.  
+Now I want to understand differences of this process to conduction, which is similarly modeled with a diffusion equation, but different underlying transport physics. In solid state physics lectures one often derives the heat and transport of crystals, which then is given by the properties of how well phonons can transport momentum inside the crystal.
+So finally, my question:
+As we go deep into a star, a white dwarf or a Jupiter-like planet, the efficiency of optically thick photon transport becomes less and less.
+So in our transport equations, do we need to replace photon transport terms at some point brute-force by phonon/sound wave energy transport terms, or do they arise naturally when photons are scattered off phonons?
+I'll add a TLDR:
+Is optically thick phonon transport and conduction like in solid state physics sometimes the same?

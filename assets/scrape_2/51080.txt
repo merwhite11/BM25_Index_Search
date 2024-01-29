@@ -1,0 +1,9 @@
+Does Earth's movement around the sun contribute to the angular distance between the moon and planets?
+
+
+This merged image shows the angular distance between the moon and Mars at 10 PM  (upper part) and the change in the angular distance at 10 PM the following day (lower part).
+My understanding is that the moon changes position in the sky by an average of 13 degrees/day because of its orbital motion around the Earth. The direction of this proper motion is eastward, opposite to the moon's apparent motion westward.
+So, if the angular distance between the moon and Mars was 10° at one time, it would be around 23° a day later.
+But planets also have proper motions of their own. Therefore, Mars would move eastward by an average of 0.5°/day, reducing the angular distance between itself and the moon to 22.5° instead of 23°.
+Earth also orbits the sun at about 1°/day.
+Does Earth's orbital motion affect the value of the angular distance between the moon and a planet over a period of time (24 hours for example)?

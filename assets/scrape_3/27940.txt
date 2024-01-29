@@ -1,0 +1,3 @@
+Why type Ia supernova reaches its peak absolute magnitude(~ -19.3mag) at around 15-20 days after the explosion?
+
+I'm not sure why type Ia supernova reaches its peak magnitude 15-20 days after the explosion. Is this luminosity generated only by the radioactive decay of nickel-56 to cobalt-56?(considering a half-life, I don't think the decay to iron-56 can be involved with it) Or is there any combination that produces the peak luminosity?

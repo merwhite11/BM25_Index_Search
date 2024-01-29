@@ -1,0 +1,5 @@
+Figure out the location of celestial objects relative to the Milky Way in x, y, z co-ordinates
+
+I am trying to place various celestial objects the correct distance from the Milky Way, using x, y, z co-ordinates.
+So assuming the centre-of-mass of the Milky Way is at 0, 0, 0 - how can I figure out where to place a galaxy or star given it's celestial coordinates?
+I'm just an amateur, and pushing 60 years old, so please excuse me if I have something wrong here...

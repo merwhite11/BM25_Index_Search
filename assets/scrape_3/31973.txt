@@ -1,0 +1,10 @@
+Extracting kinematics from stellar spectra. Why are template stellar spectra necessary?
+
+I am trying to understand how to extract stellar velocity and velocity dispersion maps from spectral cubes, but with no success so far. To be more precise, I do not understand why people use stellar spectra templates to do so.
+For gas kinematics (e.g., Ha emission), the usual approach is to fit a Gaussian function to each spectrum. Then, the means and sigmas correspond to the line-of-sight velocities and velocity dispersions.
+For stellar kinematics, most people use pPXF. To my understanding, in the simplest case, pPFX fits a parametric function (e.g., Gaussian) convolved with a template stellar spectrum to the data. Why is that? I tried to read the pPFX papers but there is no explanation for this. It assumes that the use of a template stellar spectrum is obvious and there is no justification for this. Actually the majority of papers that use pPFX assume that the use of a template is a de facto thing and provide no explanation.
+
+What is the rationale behind using a template stellar spectrum?
+Why can't we just use an inverted Gaussian and fit that to the absorption line of each spectrum?
+
+After some more reading, some papers imply (but do not explicitly say it) that the absorption lines of stellar spectra have complex shapes that can't be modeled with a simple Gaussian. But that is also the case for emission lines! Emission lines can be asymmetric due to multiple kinematic components or beam smearing. Yet, nobody uses templates when extracting kinematic maps from them. I do understand that fitting a single Gaussian to an asymmetric emission line can result in loss of information. But why is this acceptable for emission lines and not acceptable for absorption lines?

@@ -1,0 +1,22 @@
+Calculate the general appearance of the night sky over +/-15,000 years
+
+I want to see what the stars looked like up to 15,000 years into the past and future.
+I've chosen 15,000 years in order to see a full precession cycle.
+To make things easier, I would be satisfied with a relatively low precision of 60 arcseconds. I want to calculate the equatorial positions of bright stars, and show the path of the ecliptic. (I have no need to calculate the positions of the Sun or planets.)
+My source data is the Yale Bright Star Catalog, revision 5, for J2000,
+which includes proper motion data. My core reference is Astronomical Algorithms by Jean Meeus (1991).
+Precession. Is the algorithm in Meeus (equations 20.3 on page 126) suitable for
++/- 15,000 years? The non-linear terms get up to about 20 degrees. Is that a problem?
+Would it be reasonable to update Meeus with this paper from Capitaine et al 2003
+(page 572, equations 21)? It has a remark on accuracy:
+"The following series with a 0.1 µas level of precision matches the canonical 4-rotation
+series to sub-microarcsecond accuracy over 4 centuries." Those equations (21) are for accumulated amounts (subscript A for accumulated).
+Is it OK to simply drop the constant terms in these expressions?
+Meeus has no constant terms in his algorithm.
+Proper motion. The YBS catalog has proper motion in declination and right ascension.
+At what point would a simple linear treatment of proper motion start to be of dubious quality,
+given that I can tolerate a full 60 arcseconds of error? (I mean by this  using the simple 2D proper motion across the sky, with no 3D velocity vector.)
+Example: for the year -3200, the max proper motion for all of the stars in the YBS, between J2000 and that date, is +10°12' (using YBS data).
+The ecliptic. I would be satisfied with simply seeing the path of the ecliptic, without trying
+to calculate the Sun's actual position. I'm assuming that all I really need is the value for the obliquity of the ecliptic. Meeus (page 135, equation 21.3) has an expression
+for the obliquity of the ecliptic, but he says that it shouldn't be used outside of 10,000 years from J2000. Does anyone know of a replacement for this expression, which is valid for a longer period?

@@ -1,0 +1,14 @@
+Why does titanium oxide around Betelgeuse produce this particular sawtooth-shaped absorption spectrum?
+
+Betelgeuse Just Isn’t That Cool: Effective Temperature Alone Cannot Explain the Recent Dimming of Betelgeuse suggests that the recent dimming might be caused by increased optical absorption by dust around the star, based on a spectral analysis. 
+Question: The images below show absorption features assigned to titanium oxide (TiO) around Betelgeuse. Why are these features saw-tooth shaped? When I think of absorption edges the transmitted light drops when crossing from lower to higher energy photons, but here the measured light increases from lower to higher energy.
+note 1: A quick check shows that these shapes are typical, so it's really just a matter of me not understanding why these features have the particular shapes that they do. 
+note 2: There is some discussion of Betelgeuse's titanium lines in the second half of Scott Manley's Astronomers Think They Know Why Betelgeuse Got Dimmer
+
+
+Fig. 1.— Optical spectrophotometry of Betelgeuse from 2020 (black) and 2004 (red).
+
+
+
+Fig. 2.— Normalized and continuum-flattened spectra of Betelgeuse from 2020 (black) and 2004
+  (red dashed), illustrating the relative depths of the Teff-sensitive TiO bands (labeled) in both spectra.

@@ -1,0 +1,6 @@
+Sun or moon, finding the date and time of crossing a specific longitude
+
+the Sun is currently in Virgo ♍, 13°7'9" or longitude 56.0762 degrees
+how does one calculate when exactly the Sun will reach this position again. Since the moon is doing a spin in 29.x days lets use that as example also, "she" is in Gemini ♊, 1°33'23" or  56.1074 degrees
+,  can we calculate when will it reach Gemini 05° 45' 00" or 56.1263 degrees ( a random coordination)
+Any math or programming language will be just fine even tho I messed with swisseph ( solcross, mooncross) and skyfield and no result ...

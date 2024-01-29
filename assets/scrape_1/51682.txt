@@ -1,0 +1,11 @@
+Best resource for exoplanet statistics?
+
+While the number of detected exoplanets is still low, is there a model that, considering the number and duration of made observations, and the fact that (non)detections depend on orbital plane alignment and timing, can answer questions like
+
+what is the typical number of exoplanets for a star?
+
+what percentage of extrasolar systems can be expected to have at least one exoplanet?
+
+how many (Jupiter, Earth)-like planets do we expect in each solar system?
+
+which types of stars tend to have which types of planets?

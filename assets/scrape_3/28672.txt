@@ -1,0 +1,5 @@
+How are exoplanets with 10,000 day periods discovered with the radial velocity method?
+
+The radial velocity technique has apparently been used to discover exoplanets with extremely long orbital periods of ~10,000 days. For example, see this link:
+https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=planets
+If the period of a planet is ~10,000 days, then the period of the star must be the same. However, this would mean that observations would need to be made over ~30 years to get a complete picture of the radial velocity variation of the star, a time which is far too long. How then are radial velocity measurements used to discover such planets?

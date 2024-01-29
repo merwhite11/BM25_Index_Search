@@ -1,0 +1,3 @@
+How Does a Refractor Telescope Work?
+
+As I understand it, the difference between a reflector and a refractor is that a reflector uses mirrors on the back to reflect the light to the secondary mirror then the secondary mirror reflects the light to your eye focusing the image with each reflection. How then does a refractor use a lens to sharpen the image? Does it just sharpen the image and shoot it to the prism at the back, and into your eye?

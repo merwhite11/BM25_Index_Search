@@ -1,0 +1,6 @@
+Mars Ecliptic Latitude
+
+It's stated Mars orbital plane is 1.8 degree to the ecliptic.
+How then can Mars can ecliptic latitude went beyond 1.8 ?
+Example; Jan 8th 2023, Mars latitude at +2.8. 24th Jan 2025, +4.3.
+Isn't the concept of ecliptic latitude means how much Mars is above the ecliptic.

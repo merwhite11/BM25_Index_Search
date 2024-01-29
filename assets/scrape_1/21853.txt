@@ -1,0 +1,11 @@
+Equations of motion for Earth and Moon
+
+One of the simplest versions of Newton's equations of motion for the Sun, Earth and Moon can be obtained by making the approximation that the three bodies are perfect spheres. In this approximation, the pair potential between body i and j is  $$\frac{-G m_i m_j}{ r_{ij}},$$ where $r_{ij}$ is the distance between the bodies: one can solve the equations numerically and get the orbits. 
+This simple model does not include multiple, additional factors, such as 
+
+the fact that the Earth is not perfectly spherical (equatorial bulge),
+Earth's tides,
+the influence of other celestial bodies,
+
+and others.
+Amongst all these factors, what is the dominant one as for predicting the orbit of the Earth? In other words, what is the leading factor that should be included in the simple model above in order make its predictions for the Earth's orbit closer to the observations?

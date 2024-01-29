@@ -1,0 +1,5 @@
+What defines stationary vs spinning in space?
+
+To produce artificial gravity on a space station, we simply spin it around some central point, and the acceleration makes objects "fall" outwards. If our space station is so far in deep space that it cannot detect any light from stars whatsoever, we can still tell if we are spinning or not based on the artificial gravity produced.
+Why? What are we spinning relative to? If I were to take a stationary space station and spin everything else in the universe around it, would it produce the same effect?
+Or to put it another way, suppose I took all of the matter in the Universe and made it into a gigantic disk. Would it be possible to spin the disk? What would it be spinning relative to?

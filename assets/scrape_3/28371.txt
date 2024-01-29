@@ -1,0 +1,28 @@
+Solution for counting atmospheric layers of planets according to relational data
+
+This math states, that by multiplying the gravitational pull (we assume square of density of the planet), by its inclination (being how high and out it goes) and subtracting that loop from the velocity in a slope formula that measures to the borderline of being horizontal on the sun's x-axis, most parallel with the solar system's other planets, relegating the offset in order as to consign the preferred balance of the planet with the Sun. We can take then from the furthest point out once the Sun can lesser not take from the product and sum and difference of the clouds on the planet so that we may therefore continue on and calculate the priori aft dividing by 100 to delineate in a reciprocity to the true count, the atmospheric makeup of which the count of surface bars is.
+This site is were to get the constants for the planetary facts you will need to use the formula.
+https://nssdc.gsfc.nasa.gov/planetary/factsheet/
+n = Orbital Velocity - root of density * inclination to sun
+round((Apogee - n)/100) = Planet's Atmospheric layer count;
+This is an easy formula to figure out how many layers of atmosphere your favorite planets have on them. It's preliminary because I don't have the satellite data from each planet to synthesize with my data from this formula. 
+If this is wrong, please tell me. If it is not, I suppose tell me. But I am only in search criticism and laud.
+NASA Deg.   Real Deg.   Planet + Rank   Density Orbital Vel.    Apogee  Bars (Atmospheres)
+
+17.2        15.3        Pluto+4         2095    4.7             7375.9  6.6 Bars
+
+7           5.1         Mercury+3       5427    47.4            69.8    2.5 Bars
+
+1.8         3.7         Neptune+2       1638    5.4             4545.7  44.01 Bars
+
+1.3         3.2         Jupiter+1       1326    13.1            816.6   34.13 Bars
+
+1.9         -           Mars -0         3933    24.1            2492.2  2.1 Bars
+
+2.5         -0.6        Saturn -1       687     9.7             1514.5  15.07 Bars
+
+3.4         -1.5        Venus -2        5243    35.0            108.9   2.52 Bars
+
+0           -1.9        Earth -3        5514    29.8            152.1   3.22 Bars
+
+0.8         -2.7        Uranus -4       1271    6.8             3003.6  31.06 bars

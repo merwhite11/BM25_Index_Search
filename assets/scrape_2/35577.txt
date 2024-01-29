@@ -1,0 +1,23 @@
+Planetary phase angle of Hohmann transfer
+
+This is Question 23 from USAAAO First Round 2015. The answer is D. Can someone show how to get the answer?
+
+Calculate the planetary phase angle (counterclockwise from Earth, a =
+1.0 AU) that a probe may correctly complete a Hohmann transfer orbit to Venus (a = 0.7 AU)
+
+a. 141 degrees
+b. 17.5 degrees
+c. 121 degrees
+d. 241 degrees
+e. 343 degrees
+
+
+What I tried:
+
+Semimajor axis of Hohmann orbit: 0.85 AU
+Period of Hohmann orbit: 0.7836 yr
+Time of flight: 0.3918 yr
+Period of Venus: 0.5856 yr
+Angular distance travelled by Venus during flight: 241°
+
+The last one looks suspiciously similar to the answer, but using that angular distance the phase angle should be 61°. Feel free to correct me anywhere that I’m wrong

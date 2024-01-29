@@ -1,0 +1,17 @@
+Are stagnant-lid Earth analogues guaranteed to become Venus-like?
+
+In our current understanding of Venus, two things are generally accepted:
+
+Venus reached its thermal tipping point at least 700 Ma. As the Sun's luminosity gradually increased with age, its average surface temperature slowly escalated until a runaway greenhouse effect could occur, rapidly boiling away the planet's hydrosphere in a positive feedback loop.
+Due to having a stagnant lid, Venus goes through a cycle of widely separated mass-resurfacing events, the most recent of which occurred around 600 Ma. Its thick crust allows large reservoirs of magma to form, which eventually connect to the surface and release internal heat through spontaneous volcanism.
+
+Assuming the latter has been the case for most of the planet's history, Venus should have undergone several of these catastrophic resurfacing events long before crossing the threshold for runaway heating. Such episodes would release a substantial amount of heat and greenhouse gases into the atmosphere and oceans, greatly contributing to the global climate and greenhouse effect. From these observations I've began to suspect the runaway greenhouse effect was not triggered recently by increased solar luminosity, but early in its history by Venus's cycle of volcanic activity.
+If this is the case, I believe this may also apply to other stagnant-lid planets, with a similar or greater internal temperature. Episodic extreme volcanism could result in rapid, dramatic increases in global climate and atmospheric heating, potentially causing a runaway greenhouse effect.
+Is my theory about the evolution of Venus and similar planets correct?
+Additional details:
+
+I will assume Venus developed a water hydrosphere roughly 4.4 Ma, at the same time Earth did. This is the earliest date for the transition to its current conditions. In this timeframe, the Sun's luminosity was roughly 0.75-0.95L☉. From Venus, this would be about 1.434-1.817L☉.
+These catastrophic heating events are caused by the growth of large magma chambers formed by conduction at the bottom of the crust. When these chambers have not yet matured, this heating has a negligible effect on surface temperature, and is not the same phenomenon.
+This question does not consider stagnant-lid planets with lower masses and core temperatures than Venus. Though planets like Mars also undergo periodic volcanism, it is far less catastrophic than the planetwide resurfacing of Venus. Furthermore, they have higher difficulty holding onto light gases than Venus. Even if they don't undergo a volcanism-induced runaway heating, they may lose their atmospheres anyway.
+That being said, Venus also has difficulty holding onto lighter gases, having lost most of its water vapor. Perhaps a more massive planet with a stagnant-lid regime can retain a non-hothouse atmosphere for longer, assuming resurfacing events do not trigger runaway heating.
+It's occurred to me that atmospheric degradation may also contribute to runaway heating, as decreasing surface pressures lower the boiling point of water.

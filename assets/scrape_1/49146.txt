@@ -1,0 +1,13 @@
+Doubt regarding size and shape of black hole images published by the Event Horizon Telescope (EHT)
+
+The recent publications of the images of black hole shadow by the Event Horizon Telescope collaboration prompts us to study black hole images in more details. According to the no-hair theorem, the black hole space-time can be completely described in terms of only three parameters, namely, the mass, spin and charge of the black hole. However, astrophysically relevant black holes are considered to be neutral due to the existence of plasma environments that neutralizes the charge.  In the official website of the collaboration, they write:
+Query 1:
+
+The diameter of the shadow is proportional to the mass of the black hole and is mostly insensitive to the value of the black hole spin.
+
+We know that the location of the event horizon is directly related to the spin of the black hole, and its radius is given by $r_\mathrm{h}=1+\sqrt{1-a^2}$, where $a$ is the spin parameter of the black hole. So, how could the diameter of the shadow insensitive to the black hole spin?
+Query 2:
+
+General relativity predicts that the shadow of a black hole should be circular, but a black hole that violates the no-hair theorem could have a prolate or oblate shadow.
+
+I couldn't understand the reason behind this statement. What is the possible reason for this deviation from circularity depending on the validity of the no-hair theorem? Any links to relevant research papers would be sufficient.

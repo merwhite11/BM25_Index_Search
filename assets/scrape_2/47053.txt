@@ -1,0 +1,19 @@
+How sensitive are early universe abundance calculations to the neutron half-life?
+
+Phys.org's Physicists announce the world's most precise measurement of neutron lifetime discusses the accepted for publication Phys. Rev. Letter Improved neutron lifetime measurement with UCNτ (links in block quote) and says:
+
+An international team of physicists led by researchers at Indiana University Bloomington has announced the world's most precise measurement of the neutron's lifetime.
+The results from the team, which encompasses scientists from over 10 national labs and universities in the United States and abroad, represent a more than two-fold improvement over previous measurements—with an uncertainty of less than one-tenth of a percent.
+The work is reported in the Oct 13 issue of the journal Physical Review Letters. It was also the subject of a live news briefing at the 2021 Fall Meeting of the American Physical Society Division of Nuclear Physics. A pre-print version of the paper is also available (arXiv).
+
+The article begins:
+
+Introduction.
+The decay $n \rightarrow p + e^- + \bar{\nu}_e$ is the simplest example of nuclear β-decay. The mean neutron
+lifetime τn provides a key input for predicting primordial light element abundances 1.
+1Big Bang Nucleosynthesis with a New Neutron Lifetime (arXiv)
+
+The half-live was already known to better than one part in a thousand, the improvement is now substantially better than a part in a thousand.
+Question: How sensitive are early universe abundance calculations to the neutron half-life?
+For example, are there some abundances that are much more sensitive than others to the neutron half-life? If for example some processes involve neutrons after 10 half-lives, then the remaining neutrons vary by 10 parts per thousand for a one part per thousand in half-life.
+I understand that the neutron half-life measurement is important for several other reasons in particle physics, I'm just asking about the implications for abundances.

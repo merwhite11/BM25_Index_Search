@@ -1,0 +1,20 @@
+How do times of lunar standstills vary over time? If we folded them back into a lunar month plot, would they have "prograde and retrograde motion"?
+
+The recent question Are lunar phases and lunar standstills in sync with each other? brought me to a standstill because I don't fully know what a lunar standstill is. It's one of those words like "opposition surge" which sounds exciting but may not be.
+@JohnHoltz's answer says:
+
+A standstill occurs when the Moon reaches the northern most declination (or southern) in its orbit. That occurs approximately every 27.3 days.
+
+so I guess the Moon only "stands still" if you project it on to a 1 dimensional declination axis which is definitely not what we see.
+and a comment below it says:
+
+...the northern standstill occurs every 27.3 days, and the southern standstill occurs every 27.3 days. They are offset by approximately two weeks. (I'm not sure if it is exactly half the sidereal period!)
+
+Now the Moon's orbit is weird. It's substantially eccentric and inclined and the Earth's equator is bulged, and so the line of apses and the line of nodes both "do their own thing" over time. There's never a dull moment for the Moon's orbit.
+So I'd like to ask:
+Question: How do the times of lunar standstills vary over time? If we folded them back into a lunar month plot, would they have "prograde and retrograde motion"?
+Yes I know there are different kinds of lunar months! I will not pre-specify this, it's completely up to the answer author who knows more about this than I do to decide which folding time is most suitable.
+
+Is there a timekeeping word for the orbit of a moon?
+How many Moon's Topocentric Conjunction occurs per lunar month?
+Should the synodic period or the orbital period be used to determine the diameter of the Moon?

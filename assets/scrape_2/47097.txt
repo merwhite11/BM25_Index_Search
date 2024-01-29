@@ -1,0 +1,3 @@
+How is resolution defined?
+
+So I'm looking at a 1 meter square object in my digital camera.  What size of pixel is considered fine enough that the object is considered to be resolved?  Obviously a pixel size of one meter squared will 'notice' the object, but it will likely affect four pixels in varying degrees, so we can hardly call it an image.  A pixel size of 10cm will at least let me see that I'm looking at a square, but is that considered fine enough?

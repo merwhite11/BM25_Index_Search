@@ -1,0 +1,7 @@
+Are there python packages to calculate mean line of sight velocity, linewidth and other distributions from galaxy simulation snapshots?
+
+Does anyone know of any packages/functions in packages that can give mean line of sight velocities (losv) from a simulation snapshot (from the spatial and velocity coordinates or directly from the snapshot itself) that would be great. It could be in pynbody or other python packages. I was looking through them but could not find any functions that directly give the mean losv or variance of line of sight velocities.
+I asked a related question earlier where I described in detail what problem I was working on:How to calculate mean line of sight velocity of stars after rotation of galaxy?
+So, I am trying to calculate mean losv etc from a simulation snapshot both manually through my own code and also by using packages to check if my own functions give the correct answer.  I mainly want to plot the mean losv and variance with changing inclination of the galaxy.
+Also, how to use an integral field unit (IFU) mask on the galaxy coordinates in this context before calculating mean losv or variances? Any relevant literature would be great.
+Thanks a lot. I am new to astrophysics and astronomy and studying alone in pandemic can be challenging. So, I appreciate your support!

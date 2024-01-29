@@ -1,0 +1,9 @@
+uvotdetect sometimes doesn't make valid .fits files for DS9 to read (Swift UVOT, Heasoft)
+
+I have downloaded galactic center sky images from the Swift database (https://www.swift.ac.uk/swift_live/index.php#doSimpleSearch.php?catname=swiftmastr&searchpos=galactic+center&searchrad=10&searchepoch=2000&getWhat=2&sortBy=_r&dandr=on&coordType=0&retEpoch=2000&retType=0&retWhere=1).
+In particular, Galactic Center observation 00088962001 (radius 10, all columns, zip file).
+I want to detect persistent sources in all filters, except white, with uvotdetect. I installed Heasoft, CALDB and DS9 on Ubuntu WSL2 Linux subsystem on Windows 11. Everything seems to work fine, but sometimes uvotdetect gives a weird .fits file output. It's supposed to show a header with astronomical data but with some files I only see weird signs. This happened to 3 out of 6 images I processed with uvotdetect. I might be new to this but can somebody explain?
+Below are some pictures of what's happening.
+What it should produce:
+
+Unreadable file:

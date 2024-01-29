@@ -1,0 +1,3 @@
+Picking two random points in space and drawing a line between them, what is the chance the line intersects anything?
+
+I thought of this question after pondering how most of the observable universe is observable. If we can observe it, then the space between us and that object must have been unoccupied to allow the photons to travel uninterrupted.

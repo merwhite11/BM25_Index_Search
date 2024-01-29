@@ -1,0 +1,4 @@
+How well defined are the elemental shells in evolved stars?
+
+Most textbooks and popular science show highly evolved massive stars with an onion-like structure with layers or shells of different elements fusing. This is clearly approximate (as noted in the comments here), but how approximate is it?
+It would seem to me that even in a non-convective environment there would be significant diffusion over stellar timescales that would mix the layers, perhaps into a soft distribution with higher probability of finding heavy elements deeper. But what does actual models and simulations say?

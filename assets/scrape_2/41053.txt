@@ -1,0 +1,10 @@
+Equilibrium Temperature for Extremely Cold Planets: Incorporating the CMB and Intrinsic Radiation
+
+I want to check if I'm doing this right. I'm computing the equilibrium temperature for planets where the CMB and/or the planet's intrinsic radiation (as in weakly radiating jovians) matters.
+I start with the commonly quoted
+$$4\pi\sigma R^2 T^4=\frac{\pi R^2L(1-a)}{4\pi d^2}$$
+I note that the left side corresponds to outflux, and the right side corresponds to influx. It follows that we can add absorbed CMB $4\pi\sigma R^2 T_{\text{CMB}}^4(1-a)$ to the right side. We add intrinsic flux $L_{\text{self}}$ to the right side also, because it is equal to outflux when the star and the CMB are absent. So we have:
+$$4\pi\sigma R^2 T^4=\frac{\pi R^2L(1-a)}{4\pi d^2}+4\pi\sigma R^2 T_{\text{CMB}}^4(1-a) + L_{\text{self}}$$
+And the ultimate expression isolating $T^4$ is
+$$T^4 = \frac{L(1-a)}{16\pi\sigma  d^2}+T_{\text{CMB}}^4(1-a)+\frac{L_{\text{self}}}{4\pi\sigma R^2}$$
+Right?

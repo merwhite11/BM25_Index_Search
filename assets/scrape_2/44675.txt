@@ -1,0 +1,7 @@
+Mars is getting closer to Earth through its elliptical orbit becoming more eccentric. Do Earth and Mars keep getting closer?
+
+A NASA Mars article says:
+
+Mars' orbit is more elliptical than Earth's, so the difference between perihelion and aphelion is greater. Over the past centuries, Mars' orbit has been getting more and more elongated, carrying the planet even nearer to the sun at perihelion and even farther away at aphelion. So future perihelic oppositions will bring Earth and Mars even closer.
+
+Eccentricity of mars orbit currently = 0.093

@@ -1,0 +1,12 @@
+2017 Eclipse intersection with I-95
+
+I am excited to see the 2017 eclipse in South Carolina and would like to understand where exactly the eclipse-path intersects I-95, so that I can plan a day-trip.
+I have approximated at roughly Santee,SC, but would really like to overlay and pinpoint the eclipse-path intersection with I-95 in Google maps (blue line in .kml file).  Unfortunately, the KML file does not show I-95
+
+Hasn't someone already done this with the web version with Google maps?
+Is there a simple process to either embed I-95 in the Google Earth .kml or 
+Command Google Earth to overlay the blue eclipse path over the internet connected map data?
+
+I was able to plot Santee, SC (on I-95) on the .kml file:
+
+Any edits to sharpen or clarify questions are appreciated.  I pose this question to the astronomy community because I think that someone has already done this.  See you at the eclipse!

@@ -1,0 +1,14 @@
+Is it possible for us to have mistaken a few brown dwarfs and a few white dwarfs for a burning ethane-octane-oxygen planet?
+
+Is it possible that we humans may have missclassified a handful few but not all brown dwarf stars or white dwarfs, when there really could be possibly a burning planet?  Assuming a large enough planet is made of nearly molecular proportions of gaseous Ethane and gaseous 8x oxygen molecule for every carbon atom in the planet and was to be ignited by an asteroid impact, it would have a share few characteristics of brown dwarf and white dwarf.  The planet if large enough and have enough Oxygen-Alkane composition, could stay in the burning phase for a long time.
+As for the planet to burn as stated:
+C2H6 + 7 O2 -> 4 CO2 + 6 H2O
+CO2 (~44 g/mole) is heavier than the other three, thus during the burn it would go below the oxygen (~32 g/mole) layer and ethane (~30 g/mole) layer every time it was to be created.  As for H2O, it is 18 g/mole thus it would go above the Oxygen and Ethane layers.  Thus could one assume that there will be Oxygen molecules available for the ethane molecules, and thus the burning processes can continue indefinitely till either the Alkane has been converted to CO2 and water, or if oxygen becomes to little to continue the burning process.
+The reason why it would be hard to differentiate, is because spectral map of light from the object would have a hydrogen absorption line, as well as carbon and oxygen lines, which would be normal for both a brown dwarf and a white dwarf.
+Alkanes are known to also exist in brown dwarfs thus atomic spectrography would show Carbon and Hydrogen atoms in both a burning planet and a brown dwarf.  It is possible for spectral map of a white dwarf to have oxygen lines, and white dwarfs are known to have carbon.  As for the oxygen line, there have been research and possible discoveries that showed it is possible but rare for a white dwarf to have Oxygen dominant spectrum lines.
+
+Two White Dwarfs with Oxygen-Rich Atmospheres
+Defining the DS Spectral Type for Oxygen-atmosphere White Dwarfs
+
+Thus a spectral diagram may not be able to differentiate between a burning planet or a brown/white dwarf.
+Thus what could be used to differentiate a burning planet from a brown or white dwarf, other than waiting till the burning planet can no longer continue burning Alkanes with Oxygen due to the depletion of one of them?

@@ -1,0 +1,10 @@
+Why does the exoplanetary system TOI-178 challenges current theories of planet formation?
+
+I am excited reading the news about ESA's latest exoplanet discovery using CHEOPS. The system TOI-178 consists of (at least?) five planets, following a 18:9:6:4:3 pattern. In the press release, the authors write:
+
+But while the planets in the TOI-178 system orbit their star in a very orderly manner, their densities do not follow any particular pattern. One of the exoplanets, a dense, terrestrial planet like Earth is right next to a similar-sized but very fluffy planet ­­– like a mini-Jupiter, and next to that is one very similar to Neptune.
+
+
+In the few systems we know where the planets orbit in this resonant rhythm, the densities of the planets gradually decrease as we move away from the star, and it is also what we expect from theory.”
+
+My question: What exactly does "the theory" state exactly? And why exoplanets in orbital resonance necessarily imply decreasing density of the planets if the system did not collide with any other system after its formation?

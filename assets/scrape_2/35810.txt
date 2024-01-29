@@ -1,0 +1,6 @@
+What is meant by *topocentric* right ascension and declination?
+
+I'm looking up how to convert an azimuth/elevation measurement from a specific location on Earth's surface to right ascension/declination.  I'm coming across the terms "topocentric declination" and "topocentric right ascension", which I haven't come across before.
+What does the "topocentric" mean here? Is this different from "regular" RA and dec?
+My guess from the terminology is that, for objects that can't be treated as being infinitely far away from Earth, "topocentric" is used to differentiate a sky position of an object as seen from a specific place on Earth instead of from Earth's center.  (For very distant objects, like stars, the sky position seen from Earth's surface and Earth's center are for virtually all purposes going to be the same.)
+If my guess is correct, is there a convention specifying which equator and equinox the topocentric RA and declination use?  Is it supposed to always be true equator and true equinox, or something more along the lines of a J2000 epoch?

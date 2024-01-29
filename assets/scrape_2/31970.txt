@@ -1,0 +1,3 @@
+Is there a term for asteroseismology as applied to giant planets?
+
+Giant planets such as Jupiter have oscillations which enable analyses using the techniques of asteroseismology, for example Gaulme et al. (2011) detected global modes on Jupiter via radial velocity measurements. Is there a specific term for this technique as applied to giant planets instead of stars?

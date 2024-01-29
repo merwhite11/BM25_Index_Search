@@ -1,0 +1,5 @@
+Why doesn't the solar azimuth vary uniformly
+
+For the past few dates, I've been observing the rotation of the earth around the sun and noticed that the azimuth of the sun doesn't vary uniformly throughout the day. The azimuth varies faster during some parts of the day, depending on the position 
+link.
+Why does this happen? I've been thinking about the cause, but can't come up with a proper explanation.

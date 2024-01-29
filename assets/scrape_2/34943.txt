@@ -1,0 +1,10 @@
+What is happening with these solar particles detected near the Sun that is so newsworthy?
+
+Phys.org's Team identifies low-energy solar particles from beyond Earth near the Sun links to the open access ApJ article Properties of Suprathermal-through-energetic He Ions Associated with Stream Interaction Regions Observed over the Parker Solar Probe's First Two Orbits.
+It quotes "Dr. Mihir Desai, a mission co-investigator on the Integrated Science Investigation of the Sun (IS☉IS) instrument suite, a multi-institutional project led by Principal Investigator Prof. Dave McComas of Princeton University.. IS☉IS consists of two instruments, Energetic Particle Instrument-High (EPI-Hi) and Energetic Particle Instrument-Low (EPI-Lo)" as saying: 
+
+With EPI-Lo, we were able to measure extremely low-energy particles unexpectedly close to the solar environment. We considered many explanations for their presence, but ultimately determined they are the smoking gun pointing to interactions between slow- and fast-moving regions of the solar wind that accelerate high-energy particles from beyond the orbit of Earth. Some of those travel back toward the Sun, slowing against the tide of the outpouring solar wind but still retaining surprisingly high energies.
+
+I'm having trouble parsing this very long single sentence. Why are these "extremely low-energy particles" also "still retaining surprisingly high energies"? 
+The Phys.org article talks about Stream Interaction Regions (SIRs) and the formation of turbulent corotating interaction regions (CIRs) that produce shock waves and accelerated particles, not unlike those produced by CMEs. 
+Question: I think it is saying that particles from the Sun go beyond Earth and then are turned around by turbulence and move back into close proximity of the Sun, at which time they have "extremely low-energy" for some reason. Is that at least a rough understanding of what's happening?

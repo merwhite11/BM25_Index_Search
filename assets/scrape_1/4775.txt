@@ -1,0 +1,5 @@
+Naive star filter visible at night in certain country
+
+I have a HYG catalogue and I'd like to filter out stars visible at night and in Europe. 
+Doesn't have to be exact. I was assuming that it'll be all stars with positive declination, but I wasn't sure about RA values.
+Thanks, Michal

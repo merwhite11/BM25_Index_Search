@@ -1,0 +1,3 @@
+Find distance from star to star?
+
+How do you find the distance from a star/planet/black hole to another? I know people can calculate the distance from Earth to a star, but what about from one to another?

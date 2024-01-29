@@ -1,0 +1,4 @@
+What determines the surface material of the ALMA and Spitzer telescope?
+
+The transition between metal dish and mirror happens around hundreds of microns. For example, the shortest wavelength the ALMA(metal dish) can detect is about 0.3mm, while the longest wavelength the Spitzer(optical mirror) can detect is about 160 micrometer.  
+My questions is what determines the surface material of the ALMA and Spitzer telescope? Could a metal dish observe shorter wavelength than a mirror telescope?

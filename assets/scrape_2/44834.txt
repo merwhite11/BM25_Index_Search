@@ -1,0 +1,7 @@
+Was quantum metrology important for gravitational-wave astronomy?
+
+This article from 2010 titled Quantum metrology for gravitational wave astronomy, 6 years before the announcement of the first direct detection of gravitational waves from a binary black hole merger, states that:
+
+Recent advances in quantum metrology may now contribute to provide the required sensitivity boost. The so-called squeezed light is able to quantum entangle the high-power laser fields in the interferometer arms, and could have a key role in the realization of GW astronomy.
+
+My question: is that what happened? Are squeezed states of light used in the LIGO laser cavities? If so, did they lead to a boost in detector sensitivity that allowed for the ensuing detections?... or is it instead likely that the detections might have occurred without this application of squeezed light states?

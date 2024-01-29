@@ -1,0 +1,6 @@
+How does one convert between Modified Julian Date (MJD) and a standard (mm/dd/yr, hr:mm:ss)
+
+I looked online and couldn't see an actual formula or anything, so I figured I'd ask here.
+If I had an MJD like the following: 59145.6678
+How would I convert that to a month, day, and year with the hour and minutes?
+Thanks in advance!

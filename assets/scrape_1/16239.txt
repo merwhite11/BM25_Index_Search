@@ -1,0 +1,7 @@
+Have any co-orbital exoplanet pairs been discovered (and not subsequently retracted)?
+
+For this question, I think a good working definition of co-orbital configuration would be two bodies orbiting around a third much larger body in a 1:1 resonance and where neither mass is negligible. In other words, you can't really say that either one is at the other's $L_3$ because they are interacting with each other more as equals. 
+I found this article in the New Scientist in my first on-line search, but it has a retraction at the top.
+Just for example, here is a theoretical analysis of stability in an ArXiv preprint on the subject: Dynamics of two planets in co-orbital motion.
+With the caveats above (which I think are fairly standard for the term "co-orbital planet") have any been discovered? 
+edit: Have any new candidates been at least identified or proposed?

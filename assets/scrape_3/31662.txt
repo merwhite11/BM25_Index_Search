@@ -1,0 +1,3 @@
+How would I code to find the seeing of a binary star system in python?
+
+I have fit images of binary systems and want a program that will help determine which ones are highest quality, the seeing. The simplest way is apparently to equate it to the FWHM of the Gaussian of the point spread function of one of the stars. But I'm at a loss as to how to do this. I've searched for any helpful tutorials online but can't find an understandable method.

@@ -1,0 +1,6 @@
+Spectral analysis of AGN (velocity dispersion of galaxy absorption, doppler shifts)
+
+I was wondering what parameters I need to know/measure to calculate the velocity dispersion of a galaxy, specifically an AGN.
+Also, I have spectra where there are blueshifted and redshifted components to certain emission lines in units of km/s. 
+For example, I have [O III] 5007Å but I have a blueshifted component centre at 5002Å and a redshifted component at 5011Å. I was wondering how I calculate the doppler shift again in units of km/s.
+Many thanks.

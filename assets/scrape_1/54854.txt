@@ -1,0 +1,8 @@
+Could vacuum expansion arising from the Big Bang be a consequence of entanglement?
+
+The model assumed here is that the vacuum is a coherent 4-d manifold, embedded in a background of quantum spacetime “foam”, or bulk. It is further assumed the bulk is itself disentangled, possessing no coherent metric.
+In “Building up spacetime with quantum entanglement “ (M. van Raamsdonk, International Journal of Modern Physics D, 2010), the CFT/AdS correspondence is used to show that separate spacetimes emerge from complete quantum disentanglement.
+What if the converse was true, i.e. introducing quantum fields into a disentangled spacetime “foam" results in a single entangled spacetime, with a coherent metric (the vacuum). In the context of the Big Bang, the source of such intense energy fields might be a wormhole, or possibly a white hole.
+The expansion rate of the vacuum formed in this way could be effectively infinite, as no coherent metric is in place in the bulk to enforce a limit. Energy density in the resulting vacuum might also be uniform. This would require that field energy above a threshold is distributed evenly to the vacuum, as it is formed.
+The fundamental question asked is, is it possible for a coherent spacetime to arise from quantum foam, if sufficient entanglement energy is expressed by external fields?
+If so, might particle creation in high energy accelerators offer evidence of this, i.e. point particles (or strings) are fields hosted in local spacetimes, formed from the background “foam"? Could these local spacetimes themselves be an expression of the entrained field’s entanglement energy?

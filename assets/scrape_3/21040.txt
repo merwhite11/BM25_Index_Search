@@ -1,0 +1,10 @@
+Umbra, penumbra and antumbra
+
+I'm trying to understand following schema of the wikipedia page here.
+
+Image subtitle is "Umbra, penumbra, and antumbra, for a lunar eclipse".
+Distances and sizes are not to scale. 
+If distance Earth-Sun is about 150 Gm (gigameters) and Sun diameter is 1.4 Gm, $\arctan 1.4/150 = 0.57º$ (degrees). Thus, the Sun is seen from Earth with an angle of approx. 0.57º (0.01 radians). The Blue and red lines in schema should be near to parallel.
+That means the point where umbra and antumbra touch is (being 12 Mm the approx diameter of Earth) at a distance of about $\frac{150}{1.4\times0.012}=1.3 \mathrm{Gm}$ from Earth. 
+As distance Earth-Moon is only 0.400 Gm, it seems impossible that Moon was never in the antumbra zone of the Earth.
+I'm doing a basic error somewhere, but I do not know where.

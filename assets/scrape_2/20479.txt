@@ -1,0 +1,10 @@
+What caused instant jumps and exactly flat periods in Kepler's light curves?
+
+Last 65 days of Kepler's light curve for the infamous KIC 8462852 star is shown below from the published paper's graph. Skip the dips here, I wonder about two other features:
+
+Day 1559, during a period which is calm but also the very brightest, the light curve instantly and permanently drops by half of a percent.
+Days 1581 to 1587 the light curve is exactly flat (also days 803-809
+not shown here). Is the real data for those periods lost?
+
+Are such features commonplace or another particularity for KIC 8462852?
+How wide would a confidence interval typically be for a finished Kepler light curve when all adjustments for telescope movements and whatnot have been made?

@@ -1,0 +1,3 @@
+Regarding core fragmentation of a gas giant in the envelope of a red giant
+
+We know that large gas giants, such as Jupiter, have degenerate cores. Let's say there is a hot Jupiter ($5M_J$) that orbits an F-type star. When the star expands into a red giant, the hot Jupiter's gaseous envelope is vaporized. If the degenerate core (made of metallic hydrogen and some terrestrial material) fragments during the star's red giant stage, and the red giant quickly becomes a white dwarf after that, we'd get some solar system like Kepler-70. But what about those degenerate planets made of metallic hydrogen with metal impurities? Would they still be degenerate, or would they slowly/quickly lose their hydrogen to become a super-Earth mass object?

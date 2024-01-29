@@ -1,0 +1,5 @@
+Largest non-hot gas giants
+
+Excluding 'fluffy' or 'puffy' gas giants that are 'inflated by heat from their stars, what is the maximum radius of a gas giant planet.  I keep reading things like "...Jupiter is 'about' as big as they get...", but I can't seem to find a specific number to go with that word "about".  
+Assuming a gas giant was made up of the highest plausible ratio of Hydrogen, and the lowest plausible ratios of other elements (and not significantly heated by the star), just how big could a gas giant get before it started shrinking again under its own weight/gravity?
+Is it really just 1 Jupiter radius? 1.0001? 1.1? 1.3?

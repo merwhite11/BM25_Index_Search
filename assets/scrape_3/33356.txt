@@ -1,0 +1,5 @@
+Why does the outside edge of a Kerr black hole ergosphere rotate at the same speed as the inner edge?
+
+Reading through the Wikipedia on a Kerr black hole ergosphere, and this nice question on the maximal spin rate of a black hole leads me to ask: why does the outer edge of the ergosphere rotate at the same rate as the inner edge? 
+Imagine I'm flying into a spinning black hole and haven't yet crossed into the ergosphere. Space-time is rotating more and more as I approach the black hole. I'm rotating at 90% the speed of light, then 91% etc. until I cross into the outer edge of the ergosphere and am rotating at 100% the speed of light. My question is, how does this continue at exactly 100% for a while before I enter the Schwartzschild radius and fall in for good? 
+My intuition would be that rotation would be a continuous smooth function, rather than a 'step' function where there's a zone where I'm getting closer to the black hole, but not rotating any faster. Where is the extra energy going?

@@ -1,0 +1,9 @@
+Is there a significant population of neutron stars outside the galactic plane?
+
+Pulsar kicks originating from supernovae can impart neutron stars with speeds of 100-500 km/s, often at or close to the escape velocity of the Milky Way. Even if a pulsar fails to escape the galaxy, it can be launched into unusual orbits. Assuming that the velocity distribution is isotropic, a decent fraction of such pulsars should have large orbital inclinations after the kicks, such that they rise above the galactic plane.
+I have two questions regarding this:
+
+Is there a large - i.e. noticeable - population of such neutron stars, distinguishable by modern telescopes, or is the fraction of total neutron stars relatively small?
+Does observing a pulsar - at any wavelength - in such an orbit have any advantages over observing an identical pulsar firmly in the galactic disk? I would assume that some kicks could propel them high enough that scattering along the line of sight could be lessened, leading to a smaller dispersion measure smearing, and could also isolate the pulsars from ambient radio sources in the disk, such as a the galactic center.
+
+I understand that "noticeable", at the least, is a bit subjective, but I can't come up with any non-arbitrary criteria to change that.

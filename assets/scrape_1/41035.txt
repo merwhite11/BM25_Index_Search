@@ -1,0 +1,11 @@
+How often are electron-multiplying CCDs used in telescope focal planes? Will Nancy Grace Roman be the first use in a space telescope?
+
+Section I. of The Wide Field Infrared Survey Telescope: 100 Hubbles for the 2020s says:
+
+Table 1 summarizes the WFIRST instrument suite, and Figure 1 presents the effective area of the Wide Field Instrument (WFI) as a function of wavelength for the imaging filters, grism, and prism. Minor changes to these specifications are possible as the mission design evolves; in particular, the WFI prism bandpass and resolution and some CGI parameters are still being optimized. Substantial changes are not expected. Both CGI channels have a 1024 x 1024 pixel electron-multiplying CCD (EMCCD) in the focal plane. Three of the five CGI observing modes will be fully commissioned prior to launch; support for the other two modes will be on a best effort basis. The CGI imaging modes can all be used with linear polarizers. WFIRST will operate from a Quasi-Halo orbit around the second Sun-Earth Lagrange point (L2).
+
+For background see Wikipedia's Charge-coupled device; electron-multiplying CCD. Apparently within the silicon there are hundreds of stages of electron multiplication (similar to avalanche photodiodes) each with about a 2% probability of multiplication.
+Question(s):
+
+How often are electron-multiplying CCDs used in astronomical telescope focal planes?
+Will Nancy Grace Roman be the first use in a space telescope?

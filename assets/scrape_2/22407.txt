@@ -1,0 +1,9 @@
+calculate sunset in flight
+
+I found an answer at 
+https://physics.stackexchange.com/questions/26795/how-to-calculate-the-amount-of-night-time-during-a-flight
+but I was stuck at the part:
+$\cosθ_1=\sinφ_1\sinφ+\cosφ_1\cosφ\cos(λ−λ_1)$
+$\cosθ_2=\sinφ_2\sinφ+\cosφ_2\cosφ\cos(λ−λ_2)$
+from which  $ (λ(t),φ(t))$
+can be derived (after some tedious calculations).

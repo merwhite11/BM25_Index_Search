@@ -1,0 +1,5 @@
+Where can I learn these Astrophysical techniques? [Read below]
+
+Whenever I read any Astro papers in http://arxiv.org/ they usually talk about Data fitting or modelling or sentences like 'we fitted the spectral region by analytic functions  i.e. by multi-component Gaussian model plus continuum'.
+Is there any websites, online books or maybe YouTube videos which teaches these techniques in detail?
+Any info will be much appreciated!

@@ -1,0 +1,7 @@
+Do you know about any Image Processing Challenges known in Space Telescope like Hubble?
+
+For a computer science project  in University; 
+I need to find image processing problems on space exploration and Space Telescopes, only related to the image itself. 
+I have wrote a computer program that is able to separate every pixel of an image according to its pixel intensity (the whitest to the darkest) in 3 (or even more) big groups.
+I was thinking that this might be somehow useful in a space image processing situation in a well known challenge of the technology in the Telescopes or machine vision devices around space.
+Situation can be very specific, just as an example calculating the mass of a star by the look of the pixels which compose it, or something like this.

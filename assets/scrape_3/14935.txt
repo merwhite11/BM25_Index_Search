@@ -1,0 +1,6 @@
+How bad could we reasonably expect a solar flare to impact earth, and what can be done to mitigate the impact?
+
+According to numerous articles, solar flares have done damage to the power grid on Earth in the past: http://science.nasa.gov/science-news/science-at-nasa/2008/06may_carringtonflare/
+
+How bad can we expect a severe solar flare to impact the power grid / electronics?  Would a bad flare also break electronics (e.g. computers), or "just" the power grid?
+Is there anything that can be done to reduce the effects?

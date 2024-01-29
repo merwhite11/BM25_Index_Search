@@ -1,0 +1,10 @@
+I want a galaxy count database, also how do I use SDSS skyserver to fetch galaxies?
+
+I'm new to all this and trying to implement galaxy counting. For the initial stage I need raw image data, that is images with galaxies and stars along with a count of how many galaxies there are in the image.
+I came across this which seems to have a way to label galaxies 
+http://skyserver.sdss.org/dr13/en/tools/chart/navi.aspx?ra=179.68929&dec=-0.45438&opt=
+but I cannot figure it out at all, I used this page 
+http://skyserver.sdss.org/dr13/en/tools/chart/chartinfo.aspx
+to try to get it to label only galaxies are seen but I got nothing (put G in opt section, did not make a difference).
+Does anyone know how to operate the above or where I could get images with lots of galaxies (any number would do) in them along with a count of how many galaxies there are in the image?
+I found https://data.galaxyzoo.org/ but traversing it seems impossible

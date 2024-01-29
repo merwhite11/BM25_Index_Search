@@ -1,0 +1,10 @@
+How do bars form in barred spiral galaxies?
+
+I am aware this duplicate question exists, but its only answer is unfortunately a rather unsatisfying quote which I could not even find within the provided link. Also, that question is from 2017 so there might be more up-to-date information.
+For completeness, this is the quote in that link:
+
+"Galactic bars develop when stellar orbits in a spiral galaxy become unstable and deviate from a circular path. The tiny elongations in the stars’ orbits grow and get locked into place, forming a bar. The bar becomes even more pronounced as it collects more and more stars in elliptical orbits. Eventually, a high fraction of the stars in the galaxy’s inner region join the bar. This process has been demonstrated repeatedly with computer-based simulations."
+
+which raises many questions. Do stellar orbits really start out in a circular path? Why do they undergo those elongations, and why do the disturbances get locked into place forming a bar structure?
+It seems strange to me that a galaxy, which I imagine as a structure with some level of cylindrical symmetry, goes on to develop an elongated bar structure in its central region.
+In the Hubble classification of galaxies there are normal spirals and barred spirals. What is different between them so as for the bar structure to appear in the latter? Are barred spirals just a transient period of a normal spiral galaxy (since I have read bars eventually dissipate)? Do all spiral galaxies experience that transient barred period at some point, or do some normal spiral galaxies never develop a bar in their history?

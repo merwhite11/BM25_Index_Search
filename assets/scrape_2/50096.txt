@@ -1,0 +1,4 @@
+What is this object visible in the Chandra image of the Cartwheel galaxy that isn't visible in JWST image?
+
+In the below images I aligned an image from Chandra of the Cartwheel galaxy over the image from JWST. The first is the Chandra image pasted on top, fully opaque. The second is just the JWST image, and the third is the Chandra image over the JWST image with transparency so they blend together. I put yellow boxes around some of the purple blob features where there is a corresponding feature in the JWST image, and then I put a green box (upper left most box) around the purple blob in the Chandra image which has no associated visible feature in the JWST image.
+I guess what we are seeing is something which is emitting a lot of X-rays, but not a lot of infrared? Does this tell us anything interesting in particular?

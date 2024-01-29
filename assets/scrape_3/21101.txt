@@ -1,0 +1,6 @@
+How do we calculate heat flow or cooling rate for no fusion brown dwarf star?
+
+I was reading this article and it said something that didn't sit right with me.
+"SIMP0136 still gives off light mostly in the infrared wavelengths, as its temperature is now approximately 830° C (1,526° F)," Gagné told us. "It will take it approximately 10 billion years more before it reaches 0° C"
+SIMP0136 was classified as a brown dwarf star but when they just recently figured out its mass to be only 12.7 times that of Jupiter they downgraded it to a gas giant planet.  The threshold to qualify as a brown dwarf is 13 Jupiter masses.
+Like gas giant planets, brown dwarf stars do not gave enough mass for fusion to occur so the term star is a bit misleading.  Since there is no fusion, then it should eventually cool down.  The 10 billion year cool down time to go from its present 830 deg C to 0 deg C seems way too long.  How do they calculate this?

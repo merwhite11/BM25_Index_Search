@@ -1,0 +1,3 @@
+Critical density and Hubble parameter
+
+Is it possible for the Hubble parameter of an /expanding/ universe made of radiation, matter and cosmological constant to be increasing with time? I'm trying to figure out if any form of scale factor $a(t)$ would make $\frac{\dot{a}}{a}$ increases with time, which would mean the critical density ($\frac{3c^2}{8 \pi G}H^2)$ will have to be increasing in an expanding universe. Would that be possible at all?

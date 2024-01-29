@@ -1,0 +1,6 @@
+How to become proficient using the JWST pipeline?
+
+I am trying to obtain proficiency in reviewing and analyzing JWST data. To that end, I have installed python jdaviz environment and files and JWST python environment and files. I am tinkering with some of the apps and example data. I realize is it several months before any real data can be obtained but I'd like to develop some proficiency during the shakedown period.
+I wish to find a description of the final operational data acquisition pipeline steps for JWST. There are descriptions of a calibration reference (CRDS) data pipeline but I don't know if that is only for initial calibration or is that for the final data flow.
+Could someone point me to the final data pipeline scheme and needed software as well as to how to arrive at it from the initial efforts at startup and calibration.
+I need some technical detail - not layman level-  but I am also not an analytical astronomer either, just a broken-down engineer.

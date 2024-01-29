@@ -1,0 +1,4 @@
+Lunar Inclination
+
+Are there published tables for Lunar Inclination?
+I am interested because I believe this determines the degree of  "Diurnal Inequality" of tides. There are tons of publishes tables of tides and a NOAA site shows tides graphically. Can the inclination (maybe) be inferred from moon's rise and set times?

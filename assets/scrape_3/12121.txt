@@ -1,0 +1,4 @@
+relation between azimuth angle of the sun and angle of the shodow
+
+What is the relation between azimuth angle of the sun the bearing of an vertical object's shadow?
+For example if the bearing of the shadow is 75° can we conclude that azimuth angle of the sun is 195°? Is the diagram below correct?

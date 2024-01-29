@@ -1,0 +1,9 @@
+Vector analysis of Kepler's Third Law
+
+I want to prove Kepler's Third Law via Vector Analysis of motion. I know of other derivations, but want to know this as I think it will be interesting. I have been unable to prove it. But I know of proofs of 1st and 2nd law via Vector Analysis. Can anyone please tell me how to proceed on it, please? One equation can be
+\begin{equation}
+\frac{1}{2} \times \vec r × \frac{d \vec r}{dt}  = constant. 
+\end{equation}
+Please, can anyone help me go further?
+I tried using $\vec r= acosωt\hat i +bsinωt\hat j$,
+So the areal velocity came $\frac{1}{2} abω \hat k$. But then I tried integrating areal velocity over time thinking it would give total area, but the relation of 3rd law didn't come. So can anyone please help?

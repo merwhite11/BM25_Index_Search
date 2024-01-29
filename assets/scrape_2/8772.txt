@@ -1,0 +1,11 @@
+Entropy of black hole
+
+A line from one of the answers on a different question got me thinking:
+
+The simplest way to see this is probably that a black hole has a much
+  higher entropy than a star or even another type of stellar remnant of
+  even vaguely similar mass and so there simply could not exist a
+  spontaneous process by which a black hole develops back into a star.
+
+Now, I agree a black hole turning into a star seems far-fetched since it's a one-way trip (like you can't recover a block of sugar from a glass of water to that exact form). But as far as I know entropy is the amount of disorder. A black hole is denser than a star. For a density that high, I assume a certain amount of order (inverse entropy?) is required. It's an enormous amount of mass in a small amount of space, keeping itself together. Sounds to me like a system, not like a random collection of mass.
+How can the amount of order necessary for such dense objects as black holes be lower than that of the star they originate from?

@@ -1,0 +1,20 @@
+How to make a telescope for viewing planets, moon and DSOs using a convex lens of aperture 100 mm and focal length 200 mm and other lenses at home?
+
+I wanted to make a telescope with DIY things lying around in home. I read up that the aperture was a very important aspect and thus bought a convex lens with 100mm aperture and 200mm focal length, to use it as an objective lens. Apart from that, I have the following lenses lying around:-
+
+1 convex lens    -   focal length 20 cm             aperture - 10 cm 
+2 convex lenses  -   focal length 17 cm             aperture - 5 cm
+1 convex lens    -   focal length 2.2 cm            aperture - 2.5 cm
+1 concave lens   -   focal length 8.33 cm           aperture - 5.5 cm
+1 convex lens    -   focal length 200 cm            aperture - 5.5 cm
+
+I can also buy lenses of range of Power(In Dioptres) from (-14D) - (+14D) of aperture range of 5.5 cm to 7 cm, if suggested.
+I made a telescope using lens 1(as objective) and lens 3(as eyepiece) which on calculation, gave a magnification of 9x, but according to stellafane.org and http://skyandtelescope.com the minimum magnification is 14x and that I was 'wasting' the light gathered by the objective lens. This telescope showed me a bright Mars, Jupiter and Saturn, but as dots. Upon seeing the Moon, I could just see it a little bigger than what would be seen with the naked eye.
+I would like to know the way to make the telescope, which I would like to use to observe planets and DSOs if possible. I am ready to make separate telescopes also, if suggested.
+I would like to know which lenses should I use, or buy and the way to use it. I live in a suburb and it is not very lighted up.
+Is there any way I could use the lens 1 in a telescope which I could use to view the planets?
+[Edit]
+I have accepted @JamesScreech 's answer and am on my way to making it. Apart from that, I would also like to use the big aperture of lens 1, for viewing DSOs, But, it has a very short focal length(just 200mm), and therefore, I am finding it hard to get any eyepiece lens which can "completely accommodate the exit pupil of my scope"(as said on skyandtelescope )
+
+Any way to get such a lens, or make an eyepiece barrell sort of, using a combination of lenses mentioned above or buying. And how to use it?
+Thanks.

@@ -1,0 +1,9 @@
+Estimate the number of pixels required to map the full primary beam of a Radio Telescope station
+
+I am practising some exam questions for a radio interferometry exam, and I am struggling with this question:
+The physical size of a single LOFAR station, operating at 150MHz is about 50m.
+Estimate the number of pixels which would be needed to map the full primary beam if one wished to include all LOFAR stations (maximum baseline ~ 800 km) at full resolution.
+OK, so the resolution of the entire array is given by 
+Wavelength / Baseline Length which is 2m/800km = 2.5 x 10^-6 radians, or 0.52 arcseconds.
+I don't know how to relate this angular resolution to the image size which I think is a 50m square.  
+Can anyone help with this?

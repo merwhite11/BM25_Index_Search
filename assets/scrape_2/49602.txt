@@ -1,0 +1,11 @@
+Does "Angular Diameter Turnaround Point" solve the Great Wall Problem?
+
+According to Wikipedia,
+
+The Hercules–Corona Borealis Great Wall is the largest known structure in the observable universe, measuring approximately 10 billion light-years in length.
+
+But since it's very far away (9.612 to 10.538 billion light-years, given the farthest galaxy found is about 13.5 billion light years), the size of the universe should be relatively smaller back then, making the structure scaled or stretched when we look at it in the sky of today's universe.
+To elaborate more, say, when the universe was half its current size some N years ago, it must've taken light N years to travel to the present size of the universe. Now, when we look at it today, this light must look like coming from a distance (radius) proportional to N light-years. For N close to the universe's age, this radius $>>$ size of universe N years ago. Hence, these galaxies/structures should be scaled by some factor from their original size!
+(EDIT: I learnt that this is called Angular Diameter Turnaround from XKCD's Post)
+Question 1: Is this effect generally accounted for in Astronomical observations?
+Question 2: If yes, does it solve the apparent controversy that the discovery of the Great Wall contradicts the cosmological principle? If not, how does the Great Wall still break the homogeneity of matter distribution after accounting for this effect?

@@ -1,0 +1,6 @@
+Exact measurement of a light year
+
+What is the exact measurement of a light year? I searched google for the answer in meters and came up with $9.461\cdot 10^{15}$ meters. When I calculated the answer considering $299\,792\,458 \;\text{m/s}$ as the speed of light, I came up with:
+$$
+299\,792\,458 \times 365 \times 24 \times 3\,600 = 9\,454\,254\,955\,508\,926 \;\text{m}
+$$ Why is there such a gap? Did I miss something to add in the equation or is it just wrong?

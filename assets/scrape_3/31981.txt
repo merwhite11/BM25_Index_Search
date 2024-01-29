@@ -1,0 +1,25 @@
+How did Arecibo make radar images of ice on Mercury's poles?
+
+update: I still haven't been able to get my hands on the Icarus paper linked below (I'll try other libraries) but these are newer and quite interesting!:
+
+Constraining the thickness of polar ice deposits on Mercury using the
+Mercury Laser Altimeter and small craters in permanently shadowed
+regions
+nvestigating Mercury’s South Polar Deposits: Arecibo RadarObservations and High-Resolution Deter minationof Illumination Conditions
+
+
+How did Arecibo make radar images of ice on Mercury's poles?
+
+How were observations of the poles of Mercury geometrically possible from Earth?
+How was "high-resolution (1.5-km) imaging" possible from Earth?
+How was ice identified and imaged?
+
+
+From Chapter 6; Planetary Radar Astronomy in A Strategy for Active Remote Sensing Amid Increased Demand for Radio Spectrum (2015):
+
+Radar observations from Earth continue to provide new information about the terrestrial planets and the Moon despite the many spacecraft flybys, orbiters, and landers. The unique radar back-scattering properties of water ice led to the discovery by ground-based radar of ice deposits in the permanently shadowed portions of impact craters at Mercury’s poles. High-resolution (1.5 km) radar imaging of these deposits has mapped out their distribution with high precision9 (Figure 6.9).
+9Radar imagery of Mercury’s putative polar ice: 1999–2005 Arecibo results Icarus, 211, (1) January 2011, pp 37-50
+
+
+
+FIGURE 6.9 Arecibo radar image of the distribution of ice deposits at the north pole of Mercury (yellow), superimposed on a mosaic of Messenger orbiter images showing the coincidence of the ice deposits with the shadowed portions of impact craters. SOURCE: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington.

@@ -1,0 +1,4 @@
+Journal standard for plotting section of skymap?
+
+I'm a physics graduate student hoping to plot ~10°x10° sections of the sky in right ascension and declination (eventually I will want to plot points on this section at appropriate locations given RA and Dec, preferably in Python). I've seen square plots on the order of arcseconds, where curvature has a small effect, but that won't apply to these larger plots. I'm not familiar with astronomy journals or a module which aids in this sort of plotting.
+Is there a commonly accepted method for displaying intermediate-sized sections of a sky-map? How is it implemented?

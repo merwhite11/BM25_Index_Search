@@ -1,0 +1,6 @@
+Calculating the distance of objects using the Gaia DR1
+
+The Gaia DR1 was released middle of September with ~1.1 billion objects. The schema contains right ascension, declination and parallax, which could be used to calculate Cartesian co-ordinates (xyz).
+The overwhelming majority (>99.998%) of objects do not contain an entry for parallax. I suspect this needs to be computed using other columns (e.g. phot_g_mean_mag?).
+How do you compute the parallax for an object when its not included?
+The data model is documented here .

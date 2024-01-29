@@ -1,0 +1,4 @@
+How to calculate the apparent magnitude of sun?
+
+I know the apparent magnitude of sun is -26.74, but I wonder how to get this value if we don't know the absolute magnitude?
+Thanks!

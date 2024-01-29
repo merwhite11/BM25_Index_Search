@@ -1,0 +1,5 @@
+why the difference in resolution for images of Pluto?
+
+Pluto was explored by the New Horizons probe. The most detailed images of Pluto's surface come from this flyby. But if you look at the images, there is one hemisphere where the images have a much better resolution that the other. Why is this?
+
+On the left side of this image, there is a oblique line where the resolution is very high to the right of the line, but it isn't as high to the left of the line. The contrast between the two is rather stark. Why is there this difference in resolution? If it is due to the distance between the spacecraft and the planet, shouldn't the image become blurrier much more progressively?

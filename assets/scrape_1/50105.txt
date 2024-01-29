@@ -1,0 +1,12 @@
+"Holy grail" future observation to confirm presence of neutron stars in the centers of massive, otherwise conventional stars? (Thorne–Żytkow objects)
+
+Wikipedia's Thorne–Żytkow object begins:
+
+A Thorne–Żytkow object (TŻO or TZO), also known as a hybrid star, is a conjectured type of star wherein a red giant or red supergiant contains a neutron star at its core, formed from the collision of the giant with the neutron star. Such objects were hypothesized by Kip Thorne and Anna Żytkow in 1977.1 In 2014, it was discovered that the star HV 2112, located in the Small Magellanic Cloud (SMC), was a strong candidate.2 Another possible candidate is the star HV 11417, also located in the SMC.3
+1Thorne, Kip S.; Żytkow, Anna N. (15 March 1977). "Stars with degenerate neutron cores. I - Structure of equilibrium models".
+2Levesque, Emily M.; Massey, Philip; Zytkow, Anna N.; Morrell, Nidia (2014). "Discovery of a Thorne–Żytkow object candidate in the Small Magellanic Cloud". Monthly Notices of the Royal Astronomical Society: Letters. 443: L94–L98 (also in arXiv also Phys.org's Astronomers discover first Thorne-Zytkow object, a bizarre type of hybrid star
+3Beasor, Emma; Davies, Ben; Cabrera-Ziri, Ivan; Hurst, Georgia (2 July 2018). "A critical re-evaluation of the Thorne-Żytkow object candidate HV 2112". Monthly Notices of the Royal Astronomical Society. 479 (3): 3101–3105. (also in arXiv)
+
+Presumably any measurements that could be done with current astronomical instrumentation to further confirm that these (or similar) may be TZ objects have already been done, so I'd like to ask instead about what kinds of future observations would be most likely to better confirm the proposed Thorne–Żytkow objects in the small Magellanic cloud.
+The next say 50 years of technology development will likely bring completely new instruments and capabilities. I'm not an astronomer but I'm guessing that those may include gravitational wave detectors that are far more sensitive to low-level signals and their direction and in new frequency ranges, space-based optical interferometry for new levels of spatial resolution, new EM wavelength ranges for high resolution imaging, even far larger and more sensitive neutrino telescopes, etc.
+Question: Is there a "holy grail" for some future observation that could help to confirm the presence of neutron stars in the centers of massive, otherwise conventional stars? (Thorne–Żytkow objects)

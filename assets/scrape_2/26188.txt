@@ -1,0 +1,5 @@
+App that shows what's passing in sky?
+
+I'm not an astronomer but I enjoy looking up at the sky.
+So tonight I saw something moving in the sky. It looked like a star, and it was definitely not a plane (I checked in flightradar).
+Is there an app, similar to flightradar for planes, that will tell me what's traveling above me in the sky?

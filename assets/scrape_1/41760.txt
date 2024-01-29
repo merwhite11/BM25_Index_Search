@@ -1,0 +1,5 @@
+Absolute model ages of lunar craters
+
+I have been looking at several articles on the dating methods of craters, but I am wondering how exactly the "absoluteness" creeps into it. I came across several methods that link crater "freshness" (i.e. the 7 degrees of freshness by Pohn and Offield (1970), see e.g. Google ebook) to the number of superimposed craters to rock abundance to thermal inertia etc. and these are all supposed to be an indicator of age, but what is the gauge for that? How do you convert that to a number of years?
+The literature seems to call these "absolute model ages". I have seen it mentioned that you obtain them from fits to crater production functions.
+So how do you obtain absolute model ages, really?

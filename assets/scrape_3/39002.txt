@@ -1,0 +1,13 @@
+How often are radio telescopes used to measure parallax? When was this first done?
+
+The abstract of A magnetar parallax (also in MNRAS) says:
+
+TE J1810-197 (J1810) was the first magnetar identified to emit radio pulses, and has been extensively studied during a radio-bright phase in 2003−2008. It is estimated to be relatively nearby compared to other Galactic magnetars, and provides a useful prototype for the physics of high magnetic fields, magnetar velocities, and the plausible connection to extragalactic fast radio bursts. Upon the re-brightening of the magnetar at radio wavelengths in late 2018, we resumed an astrometric campaign on J1810 with the Very Long Baseline Array, and sampled 14 new positions of J1810 over 1.3 years. The phase calibration for the new observations was performed with two phase calibrators that are quasi-colinear on the sky with J1810, enabling substantial improvement of the resultant astrometric precision. Combining our new observations with two archival observations from 2006, we have refined the proper motion and reference position of the magnetar and have measured its annual geometric parallax, the first such measurement for a magnetar. The parallax of 0.40±0.05 mas corresponds to a most probable distance 2.5+0.4−0.3 kpc for J1810. Our new astrometric results confirm an unremarkable transverse peculiar velocity of ≈200km s−1 for J1810, which is only at the average level among the pulsar population. The magnetar proper motion vector points back to the central region of a supernova remnant (SNR) at a compatible distance at ≈70 kyr ago, but a direct association is disfavored by the estimated SNR age of ~3 kyr.
+
+This reports the first radio astrometric determination of parallax "for a magnetar".
+Question(s):
+
+How often are radio telescopes used to measure parallax? Is it done semi-regularly, or is this a rarity, used only in special cases?
+When was the first time that the parallax of a distant object (e.g. outside of our solar system) measured for the first time using radio astrometric techniques?
+
+Unfortunately "first time" is ambiguous, it could mean first time ever for this kind of measurement, or first time for a given object i.e. nobody knew the parallax of that particular object until the radio astrometric value was determined. It may be too much work to try to answer both. If that's the case, just indicate which kind of "first" is being reported.

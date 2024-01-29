@@ -1,0 +1,20 @@
+How well do planetary orbits fit with Johannes Kepler's in- & circumscribed Platonic solids?
+
+In Mysterium Cosmographicum (1596) Johannes Kepler proposed that the relative distances between the orbits of the six ancient planets (six because heliocentrism had recently added Earth as one of the planet) correspond to the geometry of the five Platonic solids. Each planetary orbit was assumed to be the grand circle of a sphere. Each Platonic solid would circumscribe an inner planet's orbitally defined sphere, and in same position inscribe the next outer planet's "orbital sphere".
+
+How well does it fit?
+Is it somehow mathematically related to the equally spurious Bode's law?
+I would appreciate some hints or links to the geometric calculation itself, for me to compare with my own exercise trying to solve part of it.
+
+Johannes Kepler proposed this order of matching planets with Platonics (I suppose because this order gives the best fit):
+Mercury <-- planet
+octahedron <-- Platonic solid
+Venus
+icosahedron
+Earth
+dodecahedron
+Mars
+tetrahedron
+Jupiter
+cube
+Saturn

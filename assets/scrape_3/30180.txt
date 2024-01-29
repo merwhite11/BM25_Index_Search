@@ -1,0 +1,4 @@
+Is there a theoretical minimum mass main sequence star that can become a red giant?
+
+Wikipedia's Red Giant page says they range in mass from 0.3 to 0.8 solar masses.   Which corresponds to an initial mass of a bit less than 1 solar mass, about 0.8 or so, if I was to estimate and a few solar masses.   Given that over half the mass is lost prior to the Red Giant stage.
+Any stars with less than 0.8 solar mass to begin with wouldn't have had enough time to go red giant, so it's possible that significantly smaller stars could eventually go red giant.   Is there an estimate for how light the main sequence mass can be where the star still becomes a red giant late in it's life?

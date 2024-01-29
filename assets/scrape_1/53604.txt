@@ -1,0 +1,56 @@
+Why I get slightly (but not acceptable) difference for my Local Sidereal time?
+
+I am trying to convert my UTC into LST by using formula for my astrophysics simulation. The problem is that I get something like difference of 1~2 min when I use known formula and python library called astropy.
+Before going on,I will mention that I am using following equation for getting my LST
+LST=100.46+0.985647⋅d+long+15⋅UT
+d is a number of date from J2000 long is longitude and UT is universal time
+The formula above gives me the local sidereal time in unit of degree. The difference between UT and UTC would be less than 1 sec and I used my longitude with 0.1 degree precision. If I treat uncertainty from UT to be 15 sec and uncertainty from the longitude to be 24 sec (0.1 deg = 24sec), then by making summation for two uncertainties with square uncertainty which I expect from the LST would be less than 30 sec in worst case scenario. (Actually I was expecting much less than this.)
+However, following python script which I made does not work as I intended.
+import numpy as np
+from datetime import datetime
+from datetime import timezone
+
+import astropy.time
+import astropy.coordinates
+import astropy.units as u
+
+
+
+epoch=1072959037
+J2000=datetime.utcfromtimestamp(946684800) #epoch for J2000
+
+lat=40.7 #Latitude of NYC
+lon=-74.0 #Longitude of NYC
+r=0.985647
+
+def UTC2LST(UTC):
+    YMDHMS=datetime.utcfromtimestamp(UTC)
+    strUTC=str(YMDHMS)
+    UTH=float(strUTC[-8:-6])
+    UTM=float(strUTC[-5:-3])
+    UTS=float(strUTC[-2:])
+    print(UTH,UTM,UTS) #Current UTC time in Hour Min Sec
+    UT=UTH+UTM/60+UTS/3600
+    d=(YMDHMS-J2000).days
+    val=100.46+r*d+lon+15*UT
+    LSTdeg=val%360 #val is in deg but we need leftover of large deg.
+    H=LSTdeg//15
+    M=(LSTdeg-H*15)//(15/60)
+    S=(LSTdeg-H*15-M*15/60)//(15/60/60)
+    print(H,M,S) #Current LST in Hour Minute Second
+    
+def astropyconvert(UTC):
+    time=astropy.time.Time(val=UTC,format="unix",location=(lon*u.deg,lat*u.deg))
+    print(time.sidereal_time("apparent"))
+
+    
+now=int(datetime.now().strftime('%s'))
+UTC2LST(now)
+astropyconvert(now)
+
+When I run it I get something like following
+19.0 29.0 33.0
+5.0 18.0 4.0
+5h19m18.10956548s
+
+The difference between two is more than what I have expected. Every time I try the conversion, I get between 1 ~ 2 min difference. Moreover, when I check it from the website where it shows current sidereal time (https://www.localsiderealtime.com/), result on the website matches with astropy result with less than 1 sec difference. This implies me that the result from the astropy is more precise. However, I want to increase precision not by relying on the astropy. In terms of running a simulation, using astropy seem to require more computing time and power compare to using a formula. Is there someting I am missing when I am looking for the conversion? Or is there any suggestion for improvement?

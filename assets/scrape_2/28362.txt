@@ -1,0 +1,9 @@
+Searches for dipole form of anisotropies (on luminosity distances) in the universe with type Ia supernovae
+
+There are many articles like this one Testing the isotropy of the Universe by using the JLA compilation of type-Ia supernovae (PDF, arxiv.org) trying to search for a dipole effect in cosmology with type Ia supernovae (used as standard candles). The idea of this kind of search is to do a test of the cosmological principle on a phenomenological approach independantly of some given models (e.g. Tolman-Bondi anistropic model). 
+They consider a dipole effect on the distance modulus $ \mu $: $$ \mu \leftarrow \mu \times \left(1+A_D (\hat{\textbf{n}}\cdot \hat{\textbf{p}})\right)$$ where $\hat{\textbf{n}}$ is unitary vector pointing in the direction $(l,b)$ of the dipole with an amplitude of $A_D$ and $\hat{\textbf{p}}$ points the direction of each Type Ia supernova.
+The distance modulus is related to luminosity distance $d_l$ as $ \mu =5 \log \left(\frac{d_l}{10 pc}\right)$.
+There is something that bothers me a bit:
+Our peculiar velocity to the universe is usually estimated with the CMB dipole measuments, right? And so the reshifts of SNIa are computed in the CMB frame using this correction. 
+So, supposing we have that kind of cosmological ansisotropy, how it is not mistakenly corrected with the dipole anisotropy of the CMB (and could also be why all searches of this kind give us an amplitude of anisotropy compatible to 0)?
+I mean, the CMB dipole implies a velocity of $369.5\pm3.0$ km/s in the direction of $l=264.4^{\circ}\pm0.3^{\circ}$ and $b= 48.4^{\circ}\pm0,5^{\circ}$ according to COBE measurments. But what if the CMB dipole is not just due to our peculiar velocity but also to an unknown "cosmological effect"? This effect would be corrected and nothing will be see when try to make a dipole fit on SNIa measurement, right?

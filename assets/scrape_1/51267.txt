@@ -1,0 +1,4 @@
+Are there any experiments or observations indicating that the Hubble flow can influence AGNs, quasars and galactic winds (outflows)?
+
+Galactic winds (or outflows) are produced by AGNs (Active Galactic Nuclei), quasars, supernovas...etc which basically eject matter usually in form of waves or spheres, sometimes even arriving to the IGM (intergalactic medium) composed by gas (which, it moves along the Hubble flow when "at rest").
+Knowing this, does the Hubble flow itself influence the energy content of these galactic winds? Does it add more kinetic energy to it (as this paper seems to say; see section 2.3)? Are therr any observations or experiments verifying this?

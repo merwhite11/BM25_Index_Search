@@ -1,0 +1,7 @@
+What is the meaning of ellipticity of a galaxy being more than 1?
+
+I was recently doing a project on calculating ellipticities of galaxies using SDSS data. I downloaded the stokes parameter values (q and u) from data
+$e  = 1 - \frac{b}{a} = 1 - \frac{1 - \sqrt{Q^2 + U^2}}{1 + \sqrt{Q^2 + U^2}} $
+ and for few values of stokes parameters, the value of ellipticity goes above 1.
+
+What could this possibly mean? Could this mean the data of random galaxies I've taken has irregular agalaxies in it and that's the reason for ellipticity being greater than 1? I would like to hear your opinions and answers.

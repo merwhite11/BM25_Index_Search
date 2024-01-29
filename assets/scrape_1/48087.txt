@@ -1,0 +1,24 @@
+Child-friendly freely available web-based tool to generate skymap
+
+I am intending to develop a free web-based tool where kids can plot a 2D skymap based on terrestrial coordinates and local time. I am aware of the fact that multiple sites provide already accurate sky maps, yet I'd like the output to be much more child-friendly (target audience between 6-12 years of age).
+Before diving into the specific calculations, I just wanted to check if this high-over step by step schedule is correct in order to create the required output:
+
+Input terrestrial coordinates (latitude, longitude) + local time
+
+Translate terrestrial coordinates into Angle of Declination
+a.  Latitude = Declination
+
+Translate longitude and local time into Right Ascension
+a.  [formula to calculate local sidereal time from longitude and local time]
+
+Translate Declination into Altitude coordinates
+
+Translate Right Ascension into Azimuth coordinates
+
+Plot the applicable celestial objects on a 2D map (Alt-Az grid lines), boundaries determined by:
+a. Alt = Lattitude -90 degrees, + 90 degrees
+b. Az = LST -6hrs, + 6 hrs
+
+
+I have noticed that already a lot of information has been provided on this particular subject. However, most are answers to questions which cover part of my puzzle. As a newcomer to astronomy with a background in finance and teaching, it is quite challenging from time to time.
+Many thanks in advance!

@@ -1,0 +1,3 @@
+How to complete the Hipparcos Catalog?
+
+I've downloaded hipparcos catalog from the Strasbourg Universe but whilst there is a lot of information, I can't find the names of the stars that the HipID relates to.  There is the wikipedia page which lists some but not all the stars, for instance Zosma (54872) is missing from the list and don't fancy searching for each and every star page to find out the missing details such as what the HIP's name is, how far away it is, etc.  Is there a downloadable list which lists the HipID, the name, how far away it is, the constellation etc?

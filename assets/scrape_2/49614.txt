@@ -1,0 +1,11 @@
+Is this scaling of JWST halo reasonably correct
+
+After thinking about accurately visualizing the size of the Andromeda galaxy I began to wonder about the halo orbit of the James Webb Space Telescope. Using an estimate of 1.5E6 km for halo width and 9.0E5 km for halo height and using 1.39E6 km from earth surface to L2' (JWST is actually inward from L2) I've put together this image of halo scaled to the Moon.
+halo width  56.6 degrees ( 108.8 x Moon's .52 deg )
+halo height 35.8 degrees (  68.8 x Moon's .52 deg )
+NEW halo Z 32.0 deg ( 61.6 x moon )
+Are these values and image reasonably correct?
+
+New view using 8E5 km height instead of 9E5 km
+
+NEW side view from current Horizons data, using Earth at farthest position using tool provided by PM 2Ring.

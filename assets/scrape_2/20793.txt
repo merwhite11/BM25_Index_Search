@@ -1,0 +1,9 @@
+Can IR sensitive cameras read signals from Venus's surface emissions?
+
+This question got me thinking about this.   
+I know that we measure the Earth's surface temperature by satellite (perhaps somewhat inaccurately, but it's done all the same).   Using Venus as an example, can we see see evidence of Venus' 800 degree surface from space or is Venus' temperature deduced more by modeling and the Russian ship that landed there.   
+All things with heat give off a thermal signature and that signature isn't a single wavelength but a range of wavelength.   I assume, by measuring the overall color emitted and/or the peak wavelength, it's a fairly straight forward calculation to work out the temperature.
+But when you have an atmosphere, and this is the main part of of my question.   I assume, an atmosphere is to some degree transparent, so you'd be seeing in a sense, heat through a medium and inside as well as on the upper surface.  But the heat you see diminishes depending on how opaque/transparent that atmosphere is to the specific wavelength.
+Are there any good ballpark estimates to how thick (or how dense or pressurized), we can see temperature signatures through an atmosphere?     In the case of Venus, does any of it's 800 degree surface temperature generated IR make it through it's atmosphere, where it would be observable by spacecraft, giving a good measurement of it's surface temperature, or was it's surface temperature deduced by different types of models and that mistreated Soviet spacecraft that didn't last long once it had landed.
+I imagine some atmospheric gases are more transparent than others.
+Just to clarify - a specific "yes/no we can detect IR from Venus' surface" and a more general answer as to how far we can see heat through an atmosphere, are both fine.

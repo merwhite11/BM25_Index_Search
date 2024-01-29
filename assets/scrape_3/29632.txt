@@ -1,0 +1,3 @@
+Asteroid identification in fits image
+
+I have a fits image, and I need to identify an asteroid. What characteristics  do I look out for?

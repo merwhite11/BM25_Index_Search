@@ -1,0 +1,3 @@
+Role of aerobraking in cometary orbits?
+
+I'm doing some research about comet perturbations, and have noticed that the outbound aphelion is often different from the inbound aphelion, particularly due to the gravitational influence of the giant planets. However, as many of these comets pass very close to the Sun, I am wondering how much influence the Sun's atmosphere has on aerobraking the comet, further lowering its perihelion. What percentage does this make up, and have there been any comets which have been affected by atmospheric drag?

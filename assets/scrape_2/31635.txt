@@ -1,0 +1,6 @@
+How exactly does Hawking radiation decrease the mass of black holes?
+
+From what I understand so far, when one of virtual particles crosses the event horizon and the other does not, they can not annihilate each other. The latter wanders off into the universe (btw, is it still virtual at this point, and what does 'virtual' mean at this point, if so?), while the other gets consumed by the black hole. I don't see how this event contributes to evaporation of the black hole (since the particles do not originate from the black hole). Shouldn't the consumed particle actually add-up to the black hole mass?
+The closest question to mine is Does Hawking radiation in fact bring mass into the universe?, but I don't find the answers satisfactory.
+I.e. "the escaped virtual particle is 'boosted' by black hole's gravitational field into becoming a real particle", rather adds to the question then answer it.
+EDIT: I am humbled by the knowledge presented in the answers and feel incompetent to mark any as the most suitable. I hope this is okay.

@@ -1,0 +1,5 @@
+Roche Limit for Earth-like body around Earth-like body
+
+In a discussion elsewhere about binary planets, it came the question.
+How near can a planet like Earth (maybe Earth itself) be to another planet like Earth before both of them tearing apart due to tidal forces?
+In other words: Which is the Roche limit for Earth, if it were orbiting (another) Earth?

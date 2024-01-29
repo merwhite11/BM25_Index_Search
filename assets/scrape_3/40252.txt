@@ -1,0 +1,8 @@
+How to manually locate a certain declination in the sky for a given location? (no sextant available)
+
+Consider this example. I am standing in a flat surface, at latitude X, looking to the equator, in a random day of the year. (For simplicity, let's assume X > 23.5º)
+I want to find the position of the sun at noon on the winter solstice (that is, the highest point in the sky of the sun, the day which this reaches the lowest altitude), location which has a declination of 23.5º.
+We know the sextant does exactly that. But say I don't have a sextant. I want to find an alternative method to do the same.
+If my latitude is X, then such position of the sun is X-23.5º above the horizon (looking North). I could then divide this result by 90, and get a proportion of the sky between the horizon and my zenit where that point is. But this is too rough.
+Perhaps one way would be to have a long stick and a measuring tape. For a given value of X-23.5º there must be some relationship between my eye, the vertical height of the stick and my horizontal distance to the stick which allows me to find exactly the position in the sky.
+Or perhaps another method?

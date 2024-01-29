@@ -1,0 +1,4 @@
+Orbital resonances and position of planets
+
+I am interested in quick generation of planetary systems for programs similar to Space Engine or Pioneer Space Simulator. As far as I understand, formation of planets is a complex process and the planet positions are to a great extend given by the orbital resonances, particularly with the gas giant planets. It is very clearly visible in this talk of Sean Raymond.
+My question is: How exactly do the orbital resonances affect the stability of the planet trajectories? Which resonances are stable, and which are unstable in the long term evolution of the planetary system?

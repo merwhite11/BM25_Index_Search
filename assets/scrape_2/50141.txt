@@ -1,0 +1,3 @@
+Can gravitational waves transfer energy or momentum to baryonic matter
+
+In essence I want to know if GW can affect the momentum of baryonic matter. I know that massive objects like planets, stars, galaxies, etc will not be "ripped apart" or even disturbed by even the most massive GW from a SMBH major merger. But what about gas in the ISM or IGM? Is there any way a particle, subatomic or larger, can be "carried" away by GW as they radiate outward? Any sources or resources that show the mathematical description would also be appreciated.

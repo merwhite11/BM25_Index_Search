@@ -1,0 +1,3 @@
+Code/Package for multiple planet simulation
+
+I want to do a quick study and some tests on the planet-star dynamics ( including the movement of the star). I'm looking for a code that simulates some planets orbiting a star. I've tried searching online and the ones that I found are either incomplete or do not seem to give realistic results. With that in mind I'm wondering if there is any code/package that does this already (in Python).

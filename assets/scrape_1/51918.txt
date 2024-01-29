@@ -1,0 +1,24 @@
+Effective radius from astropy sersic profile
+
+I would like to integrate the 2d Sérsic profile of the astropy library to check the half light radius, but I have some issues.
+First, I create a simple profile:
+theta_rad = 0
+r_eff = 4
+x_cen = 0
+y_cen = 0
+ellip  = 0
+Amplitude = 2
+model = Sersic2D(Amplitude, r_eff, 1, x_cen, y_cen, ellip, theta_rad)
+
+Then I want to calculate the total flux, so I do the integral over all the Cartesian Space:
+l = lambda x, y: model(x, y) *2 * np.pi * np.sqrt(x**2 + y**2)
+max_flux = integrate.dblquad(l, -np.inf, np.inf, lambda y: -np.inf, lambda y: np.inf)
+
+When I want to integrate only the flux inside the half light radius, I don't recover the r_eff = 4 I set initially. For example, I obtain this curve:
+
+with this code:
+inte= []
+for i in np.linspace(0,20,100):
+    inte.append(integrate.dblquad(l, -i, i, lambda y: -i, lambda y: i)[0])
+
+I think that the mistake is on the integral limits and how to define the x and y for doing the integral. In this case, this is easy because the ellipticity = 0 and x=y but what happens when it is not?

@@ -1,0 +1,7 @@
+Why does the earth's axis move in the opposite direction to its rotation?
+
+I know that precession appears when the axis of rotation of the planet is not perpendicular to the plane of the satellite's orbit and tidal forces applied to the equatorial belt tend to rotate the planet's axis of rotation. However I can't really understand why is it that Earth spins to the east and it's axis to the west:
+
+For example, top's precession goes to the same direction to which it spins:
+
+Could somebody please provide an explanation?

@@ -1,0 +1,4 @@
+What is a Keplerian frequency, why do we specifically say Keplerian?
+
+I am assuming that it means the frequency of a planet on its orbit.
+But why do we specifically say Keplerian? Is there some other kind of definition of frequency we use for astronomical bodies in space that requires us to emphasise that it is Keplerian?

@@ -1,0 +1,4 @@
+What is the apparent magnitude limit for the naked eye?
+
+If you only read the question, you will answer: ''That depends on the light pollution''. Yes, it does, but if you are in the darkest night sky (Bortle class 1), what magnitude would have the faintest star? In the Wikipedia article about the magnitude, it's written that +6.0 would be the typical limit, but in the article about the Bortle scale, I saw the fainter magnitude +8.0. So, what is the real limit?
+If the question has been already asked, please give me the link.

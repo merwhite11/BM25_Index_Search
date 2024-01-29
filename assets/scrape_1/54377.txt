@@ -1,0 +1,10 @@
+Could both the high incidence of supermassive Black Holes (BH) and the expansion of the universe be consequences of vacuum entanglement energy?
+
+The notion that spacetime may emerge from entanglement between factors comprising a Hilbert space decomposition of the vacuum has been suggested by many (for example, M. Van Raamsdonk “Building up spacetime with quantum entanglement” Gen Relativ Gravit 42 (2010)).
+One possible model based on this decomposition is that of a highly entangled vacuum embedded in a higher dimensional bulk. The bulk is assumed here to be disentangled from the vacuum. A large lambda assumption is also made, assigning a high value to the vacuum energy.
+A consequence of disentanglement is that the Hilbert space, for the bulk is orthogonal to that supporting the vacuum. Only null vectors are common to both spaces. As zero time elapses in such null vector reference frames, no net energy can be exchanged between the bulk and vacuum i.e. energy is conserved in the vacuum.
+As a BH accretes matter, spacetime quanta from the vacuum will cross the BH horizon. If the horizon acts to disentangle such quanta from the vacuum, then the high energy of vacuum entanglement can be released into the bulk. Energy conservation dictates that this energy must remain in the vacuum. It is hypothesised that this energy may take two forms:
+(1) Subsequent entanglement of bulk spacetime quanta outside the BH, resulting in an expansion of the vacuum (i.e. Dark Energy); and,
+(2) Bulk entrainment of gravitational energy within the BH (i.e. as Dark Matter).
+Both processes may occur with no time elapsing in the vacuum.
+The high incidence of supermassive BHs is consistent with positive feedback inherent in process (2). Process (1) may be testable from observations of the varying rate of cosmic expansion. There should be a positive correlation of the cosmic expansion rate with the overall rate of increase of Black Hole surface area.

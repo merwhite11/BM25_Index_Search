@@ -1,0 +1,3 @@
+Can single black holes be observed by its lensing effect?
+
+A comment on a question I asked left me confused. I asked about the possibility of observing a binary black hole by examining the lensing the binary produces. A binary has a different lensing effect as a single hole. My idea of lensing is turned upside down. I assumed it to be possible to see a hole by lensing. Which it is not, according to the comment. The hole is tiny indeed (only  3 kilometers in the case of a Sun mass hole) but does this mean the image of the stars behind doesn't change? Of course the hole must be moving wrt to the stars as seen from here. Is that not the case maybe?

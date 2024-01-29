@@ -1,0 +1,3 @@
+Where does Love's number come from in $\delta m = \frac{1}{2}k_2M_2\lbrace\frac{R_1}{r_\star}\rbrace^3$, the formula for the mass of a tidal bulge?
+
+My question refers to page 165 of this paper. Specifically, how does one derive the equation $\delta m = \frac{1}{2}k_2M_2\lbrace\frac{R_1}{r_\star}\rbrace^3$ for the mass of a tidal bulge? A full derivation would be much appreciated, and also an explanation as to where Love's number $k_2$ comes from.

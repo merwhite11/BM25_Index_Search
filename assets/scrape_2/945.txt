@@ -1,0 +1,6 @@
+Open data for satellites positions
+
+Is there a site / service where I can get the data for the positions of satellites (I mean artificial satellite, ISS, etc.)?
+I know that some sites provide a visualization of these positions, but I'm only interested in the data.
+Thanks.
+Edit, for clarifications: What I want is only the data. My final goal is to create my own site that displays the position of the satellite (I do that just for fun). That's why I just need the data, and not a service that displays the position on a map.

@@ -1,0 +1,10 @@
+Total luminosity of total population of galaxies!
+
+I'm trying to get the total luminosity of a total population of galaxies.
+I have the Schechter Function like 
+$$\Phi(L) = \frac{\Phi^{*}}{L^{*}} \left(\frac{L}{L^{*}}\right)^{\alpha} \exp \left(\frac{L}{L^{*}}\right)$$ 
+and I need to the total luminosity:
+$$L_{tot} = \int_0^\infty L\Phi(L)dL = \Phi_{0}L^{*}\Gamma(2+\alpha)$$
+but when I substitute the Schecter functions I don't get the $\Gamma$ function form. Could you have any tips for that?
+And I need to show that the galaxies that more contributed to the luminosity are those have $L^{*}$
+Thank you in advance.

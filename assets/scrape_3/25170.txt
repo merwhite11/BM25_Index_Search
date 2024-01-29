@@ -1,0 +1,3 @@
+What is tilt anisoplanatism for Laser-guide-star usage in adaptive optic systems?
+
+How does tip-tilt mirrors correct such issue? What is the physical origin of the error?

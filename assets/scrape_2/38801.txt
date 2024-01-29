@@ -1,0 +1,7 @@
+How did Jocelyn Bell Burnell discover the periodicity of CP 1919?
+
+According to Wikipedia,
+in 1967, a radio signal was detected using the Interplanetary Scintillation Array of the Mullard Radio Astronomy Observatory in Cambridge, UK, by Jocelyn Bell Burnell. The signal had a 1.337302088331-second period and 0.04-second pulsewidth.[4] It originated at celestial coordinates  19h 19m right ascension, +21° declination. It was detected by individual observation of miles of graphical data traces. Due to its almost perfect regularity, it was at first assumed to be spurious noise, but this hypothesis was promptly discarded. The discoverers jokingly named it little green men 1 (LGM-1).
+Also from Wikipedia,
+
+My question is the signal was just measured from the chart directly?

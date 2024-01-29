@@ -1,0 +1,10 @@
+How to locate helpful and instructive books and resources about numerical methods in cosmology?
+
+I am interested in the hydrodynamical and N-body simulations, and I want to use simulation results to examine the theoretical models.
+Hence I am searching for some helpful and instructive books and lectures for learning relevant numerical methods, such as:
+
+cloud-in-cell interpolation scheme
+the process of calculating the power spectrum
+data visualization
+
+and similar. How might I best find resources like these?

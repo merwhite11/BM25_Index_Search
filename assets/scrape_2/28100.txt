@@ -1,0 +1,4 @@
+Can one detect from earth that angular momenta of its axial rotation and its orbital rotation are "almost parallel"?
+
+I mean that the angle between these angular momenta is acute as opposed to obtuse (23.5 and not 180-23.5), so that the rotations are "roughly in the same direction". 
+Related but distinct question -- when was this actually discovered?

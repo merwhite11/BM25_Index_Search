@@ -1,0 +1,4 @@
+Do pulsar beams interact with the interstellar medium?
+
+Pulsars are rotating objects that emit a beam in a direction that is not aligned with the axis of rotation. Because of this, we see them as a periodic pulse. If the beam isn't towards us, we don't see it. Since we need to be on the path of the beam to see it and the beam is only a few degrees wide, it is believed that there are many objects that are pulsars, but that we see as ordinary neutron stars (or can't see at all). 
+Does the beam from a neutron star interact with the surrounding medium in such a way that we might see the result of this interaction? The same way you can't see a laser beam, but in a very dusty room, you can see the light from the laser bouncing off of the dust particles, making it possible to indirectly see the beam.

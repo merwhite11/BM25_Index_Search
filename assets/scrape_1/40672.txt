@@ -1,0 +1,4 @@
+What is the mass for a celestial body to definitely achieve hydrostatic equilibrium?
+
+While these posts (attempt to) answer what the minimum mass is to be able to achieve an ellipsoidal shape, my question asks for the mass at which a body definitely collapses into an ellipsoid. Meaning, from this mass on a body definitely won't be irregular nor borderline but clearly an ellipsoid due to hydrostatic equilibrium. The value will be different for ice dwarfs (like Enceladus and Pluto), terrestrial bodies (like the inner four planets, the Moon and Io) and gas giants. I'm curious on the mass for each of them, I guess in 2021 science has progressed enough to provide an approximate answer.
+The largest and most massive object I know of whose sphericity is questionable is Haumea in the Kuiper belt at 0.00066 Earth masses (~ 1/3 Pluto's) and an equatorial diameter at 2322 km (1443 mi).

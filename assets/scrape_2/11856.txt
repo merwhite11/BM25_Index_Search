@@ -1,0 +1,10 @@
+When is the belt of Orion slanted from right to left, going up? (Egypt)
+
+I am trying to match up a detail of the Senemut ceiling to the time of the year it might involve. In the detail (shown below), the belt of Orion is slanted upwards from right to left:
+
+Notice that the Orion Nebula is to the right. When I try to duplicate this in Stellarium, I can only get the belt to slant left to right, going up as shown below:
+
+Is there some particular time of the year when the belt of Orion is visible from Egypt (Banî Suwayf) and slants upward going right to left, as in the Egyptian ceiling?
+One answer below suggested that Orion's belt is like this when it rises, but I cannot duplicate it:
+
+In Stellarium, I found by experimentation that Orion seems to rise on the morning of July 18th at the latitude in question and date range in question. However, as can be seen in the screen shot the belt still goes left to right.

@@ -1,0 +1,4 @@
+How do I adjust the sunrise equation to account for elevation?
+
+I have been working with the sunrise and sunset formula, using the equations from Wikipedia. The problem is that, in my usage thereof, it seems that it only works for sea level; if I start with coordinates that correspond to any point above sea level (or below, for that matter), it will still output the sunrise and sunset for my coordinates at sea level.
+For example, today (21/01/2018), in Denver, CO (~1mi above sea level), sunrise was at 07:15:28. Yet my equations keep yielding 07:15:41, which is exactly on-target, were Denver at sea level. How do I account for the fact that higher altitudes experience sunrise earlier than lower altitudes of the same coordinates?

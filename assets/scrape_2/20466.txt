@@ -1,0 +1,17 @@
+Why don't astronomers use meters to measure astronomical distances?
+
+In astronomy distances are generally expressed in non-metric units like: light-years, astronomical units (AU), parsecs, etc. Why don't they use meters (or multiples thereof) to measure distances, as these are the SI unit for distance? Since the meter is already used in particle physics to measure the size of atoms, why couldn't it be used in astrophysics to measure the large distances in the Universe? 
+For example:
+
+The ISS orbits about 400 km above Earth.
+The diameter of the Sun is 1.39 Gm (gigameters).
+The distance to the Andromeda Galaxy is 23 Zm (zettameters).
+At its furthest point, Pluto is 5.83 Tm (terameters) from the Sun.
+
+Edit: some have answered that meters are too small and therefore not intuitive for measuring large distances, however there are plenty of situations where this is not a problem, for example:
+
+Bytes are used for measuring gigantic amounts of data, for example terabytes (1e+12) or petabytes (1e+15)
+The energy released by large explosions is usually expressed in megatons, which is based on grams (1e+12)
+The SI unit Hertz is often expressed in gigahertz (1e+9) or terahertz (1e+12) for measuring network frequencies or processor clock speeds.
+
+If the main reason for not using meters is historical, is it reasonable to expect that SI-unites will become the standard in astronomy, like most of the world switched from native to SI-units for everyday measurements?

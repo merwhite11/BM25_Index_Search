@@ -1,0 +1,3 @@
+Seeing a galaxy (quasar) greater than 46.6 billion light years away
+
+Assuming the Big Bang was 13.8 Billion Years ago: Is it possible to observe a Galaxy's redshift showing distances slightly greater than that, like 48 Billion Light Years away? I understand that in a static universe, light traveling in a straight line would only be visible at less than 46.6 Bly. But, can Hubble's constant distort this number? Also, do we assume some error due to the light taking a non-linear path because of lensing? If so, is it possible to have an error of several hundred million years?

@@ -1,0 +1,7 @@
+Nodal Precession of Planets
+
+It is obvious that the longitude of ascending node ($ \Omega $) of a planet gradually changes with time. For example, the VSOP planetary theory accounts for this. In Astronomical Algorithms (Meeus 1998), one finds for example that, for Mercury, $ \Omega = 48.330893 - 0.1254227 T - 0.00008833 T^2 - 0.000000200 T^3 $ (referred to the standard equinox J2000.0).
+While formulas to calculate the precession of the perihelion of a planet are easy to find (e.g., in “Calculation of apsidal precession via perturbation theory” by Barbieri and Talamucci), I am having a hard time finding sets of formulas pertaining to the advance (or regression!) of the ascending node.
+Can someone please give me a few references of where I could find them? Thanks in advance!
+(Reason: I’d be interested in calculating precise planetary orbits for an imaginary planetary system, or maybe even for known planetary systems such as TRAPPIST-1.)
+EDIT: Most of the formulas found online (including those given in answers and comments) are either restricted to the Solar System, or restricted to one body orbiting another one. I’m looking for something that would be in the form of $ \dot \Omega = \sum_{i = 1}^{\infty} k m_i m_0^x $ where $ m_i $ is the mass of the perturbing body, $ m_0 $ is the mass of the perturbed body, and k and x are, well, what I’m looking for! Their determination probably includes G (the constant of gravitation) and R (the distance between the two bodies) and so on…

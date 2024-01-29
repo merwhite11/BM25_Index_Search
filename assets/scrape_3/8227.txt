@@ -1,0 +1,3 @@
+Deriving Dark Matter; specifically looking for a table of stellar speed versus distance from center of galaxy to derive dark matter
+
+I'm trying to find some data that I can use to derive dark matter (in a loosey-goosey sort of way, I won't be too rigorous). I'm helping a friend out with a final project for his astronomy course and I'm tasked with doing the maths. Any idea where I can find a table of various stars distance from the center of our galaxy and their speed (how fast they are going around the center of the galaxy)? This does not need to be comprehensive but would ideally contain several data sources from various representative radii. Also some sort of formatted text would be SUPER cool so I could just tell my computer to do the calculations!

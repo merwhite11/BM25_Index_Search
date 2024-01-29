@@ -1,0 +1,16 @@
+Is there a flaw with the newer purposes and correlations attributed to the HR diagram? (And would a third axis of mass correct the enclosed flaw?)
+
+When I was younger, I was looking at HR diagrams, and began to experiment with the HR diagram. 
+I was looking at plotting different groups of stars on the HR diagram when I found RV Tauri stars.
+These are stars between 0.4 and 9 solar masses; they have reached the end of their "life" and the fusion shell of such a swollen star is advancing towards its surface (when it hits, the planetary nebula starts to form), thus its heats up and swells further. This phase occurs after the Asymptotic Giant Branch/Red Clump phases (AGB for high-metallicity stars, RC for low-metallicity stars).
+Taking into account the above information, RV Tauri stars are BOTH more luminous and hotter at the surface than red giants (and AGB/RC stars), they should appear to the upper-left of the latter of the aforementioned groups (given the inversion of the temperature axis). All seemed well.
+But then I saw this:
+
+My knowledge of astrophysics tells me that due to stellar winds and the equation E=MC^2, a star's mass (after "birth") will usually decrease over time (unless receiving matter from another star). But if RV Tauri stars are above and to the left of red giants, it means that according to the graph, an increase in mass occurs every time a star migrates to the RV Tauri stage.
+I know that all graphs have their limitations, but in my mind it was wrong to claim that these correlations were set in stone. Only axes could ever display data in a perfect way (they treat different units of data as separate simple measures, not "more unstable" compound measures). So I added a third axis of mass (as this is whole problem is to do with plotting the evolutionary "tracks" of stars); this is what is known to affect stellar evolution to the greatest extent. Here is what I came up with:
+
+I did this in order to show that the HR diagram shows general trends of stars (not the evolutionary ones that scientists claim).
+My question:
+Was this a valid flaw with the HR diagram - and if so, is mass the best axis to add to it?
+--EDIT--
+The HR diagram is not flawed, I respect that. I also know that there will always be outliers. But the extra correlation of mass seems to be too flawed for that (as detailed above). My new question: is the attribution of these extra correlations wrong?

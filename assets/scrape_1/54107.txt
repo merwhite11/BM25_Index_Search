@@ -1,0 +1,5 @@
+What is the mathematics needed for understanding DE440 and translating it into xyz coordinates?
+
+I would like to write my own code to process NASA's DE440/DE441 ephemerides, but I do not know the mathematics needed to do this.
+I understand packages such as pyephem have implemented variations of this, but I'd like to understand how to do this myself from the mathematics involved.
+Is there a good reference, or can someone please provide a guide on how I can proceed?

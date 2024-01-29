@@ -1,0 +1,7 @@
+How exactly is the Initial Mass Function (IMF) calculated?
+
+The Initial Mass Function (IMF) is the empirical function which describes the initial masses of a population of stars. My questions are,
+1) What are the various IMF's which are used?
+2) For each, what type of population do they describe? (e.g. - galaxy, dwarf galaxy, globular cluster, etc..)
+3) And how are they actually calculated? (meaning, do they come from simulations/observations, and what assumptions are made about each?) 
+Entire answers and pieces of answers are all welcome. Formulae (in latex, please) are encouraged.

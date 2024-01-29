@@ -1,0 +1,4 @@
+How to calculate the Earth's axial tilt (obliquity)
+
+How can I calculate the Earth's axial tilt in degrees. I tried Skyfield, Poliastro and PyEphem. I know it's changing -0.47"/year, and it was 23° 27' 00" in the year 1917; so I created a spreadsheet (Calc) with this information. However, I think it's not exact enough.
+In decimal degrees, in 1917 it was 23,45°, so I wanted to know when it was 23,44° and when it will be 23,43°. According to my Calc file, it was in 1993 and it will be in 2069 (-0,01 every ~76 years). According to an online tool, it was in 1992 and it will be in 2067 (-0,01 every ~75 years). Probably it's not a linear function. That's the reason I'm searching for an astronomy tool.

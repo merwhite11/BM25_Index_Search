@@ -1,0 +1,4 @@
+2 Earth-like planets in co-orbital configuration
+
+I am trying to set up 2 Planets in a co-orbital configuration around a Jupiter size planet similarly to Saturn's moons Janus and Epimetheus. I'm trying to do this in Universe Sandbox 2 but when I place these planets they mess with each others orbits too much. Is it possible to have such a system and how would it be done?
+Diagram showing what Epimetheus and Janus do.

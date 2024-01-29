@@ -1,0 +1,4 @@
+Why do we talk about metallicity in stars instead of more specific elements?
+
+Metallicity is important to a star's evolution, but why don't we talk about the abundance of specific elements? I don't imagine that the effect on a star's evolution would be the same if a its metallicity was comprised entirely of one metal as opposed to another. I also know that there are exceptions, like the effect of a certain isotope of nickel on a supernova's light curve.
+One answer might be that it's simply inconvenient to talk about each specific element, but does that mean that metals appear in stars in roughly the same proportions, at least most of the time?

@@ -1,0 +1,4 @@
+Variables in the Instability Strip
+
+I was thinking about the possibility of determining what phase of evolution a variable star is in when it is located in the instability strip (say, a Cepheid object). Can you differentiate whether it is evolving toward the blue (in HR diagram) or back toward the giant branch?
+I was looking at a figure recently in Carroll and Ostlie's Intro to Astrophysics text, which brought this to mind. It shows on the HR diagram where Cepheids lie, which is right in this strip.

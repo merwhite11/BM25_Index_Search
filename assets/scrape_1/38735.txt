@@ -1,0 +1,17 @@
+How to recognize exoplanet transit
+
+I am using Python package lightkurve for exoplanets searching by the transit method. When I download light curve of some star and apply periodogram, I find frequency and power of periodic components in the light curve. However, I noticed that multiples (0.5x, 2x, ...) of the original period are displayed too. Here is example for Kepler-6b.
+import lightkurve as lk
+import numpy as np
+
+light_curve = lk.search_lightcurvefile("Kepler-6", quarter=1).download().PDCSAP_FLUX
+light_curve.scatter()
+
+
+periodogram = light_curve.to_periodogram(method="bls", period=np.arange(0.5, 10, 0.0001))
+periodogram.plot()
+
+
+I could take only strongest period (3.24 d), but what if there are more exoplanets (1.08 d, 9.71 d, ...)? I thought that if I use the light_curve.fold(period) method, I can tell if it is a transit (there is only drop of flux) or not (there are more drops of flux). However, Kepler-20f has also multiple drops of flux after fold light curve (because of other planets?).
+
+How can I tell if it is a planet transit or not?

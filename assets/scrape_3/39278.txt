@@ -1,0 +1,4 @@
+What is the area of the Summer Triangle?
+
+I'm pretty sure spherical trigonometry comes into use here but I don't know how to calculate the area. I'm pretty sure Vega, Deneb, and Altair's declination and right ascension figures need to be converted to coordinates, but again, I have no idea how.
+Is there a formula for a general case like this? Not necessarily just the Summer Triangle, but a formula for the area enclosed by any 3 (or more) stars on the celestial sphere?

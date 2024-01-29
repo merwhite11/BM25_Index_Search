@@ -1,0 +1,10 @@
+How does the Event Horizon Telescope implement the interferometry?
+
+The BBC article Event Horizon Telescope ready to image black hole describes the Event Horizon Telescope, a coordinated observing technique with several radio telescope arrays across the globe forming a synthetic aperture with an Earth-sized baseline.
+$$\frac{\lambda}{r_{Earth}} \sim \frac{r_{Sag A*}}{D_{Sag A*}} \sim  10^{-11}$$
+...when plugging in 1 millimeter for $\lambda$, and with $r_{Sag A*}$ and $D_{Sag A*}$ the radius of, and distance from Earth to Sagittarius A*, the black hole in the center of the Milky Way Galaxy of 20 million km and 26,000 light years, respectively. (values taken from the article).
+The equation I've written shows that millimeter wavelength interferometry with an Earth-sized baseline has the possibility to resolve the existence of some structure with scale of the black hole's event horizon.
+My question is How does the Event Horizon Telescope implement the interferometry? It would certainly be impossible to bring all signals together to a central site and perform the interference there in real time as down-converted analog signals, and quite difficult/expensive to do it with dedicated, synchronized digital optical fiber lines. Is the massive amounts of data sent as IP packets over the internet to a central correlator (numerical interferometer)?
+The article mentions atomic clocks and lots of hard drives, and I have a hunch these have something to do with it.
+
+above: "The eventual EHT array will have 12 widely spaced participating radio facilities". From The BBC's February 16, 2017 Event Horizon Telescope ready to image black hole.

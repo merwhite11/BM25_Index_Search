@@ -1,0 +1,28 @@
+What exactly are infrared dark clouds and what is the significance of the orientation of their magnetic fields?
+
+In the video Why NASA's SOFIA Telescope On A Plane is "Perfectly Balanced" after about 10:04 SOFIA associate director James Jackson says:
+
+We have a spectrometer called GREAT, that’s our workhorse spectrometer that’s probably most popular. We have an imager called HAWC that does far infrared, and we have FORCAST, and we have another spectrometer EXES which is (for) shorter wavelengths.
+[…]
+Now… we’ve added a new wrinkle to our repertoire, we now have a polarimeter so we can measure the polarization of light, and that tells you how the magnetic fields are threading through these dust clouds or gas clouds. So HAWC does polarization as well, that’s a new capability
+[…]
+Well Orion for example… the galactic center… we’re looking at infrared… these snaky filamentary infrared clouds called infrared dark clouds. The basic question still is not answered because… does the magnetic field go “this way” with respect to the filament, or go “that way”; perpendicular, or parallel? What SOFIA is finding is that it’s more-or-less perpendicular, which is a surprise.
+
+The text of the Wikipedia article Infrared dark cloud says (in its entirety):
+
+An infrared dark cloud (IRDC) is a cold, dense region of a giant molecular cloud. They can be seen in silhouette against the bright diffuse mid-infrared emission from the galactic plane.
+Infrared dark clouds have only been recently discovered in 1996 using the ISO and therefore are in need of further research.
+Astronomers believe that they represent the earliest stage in the formation of high-mass stars and are therefore of great importance for understanding the star formation process as a whole.
+
+That's not much to go on. This link is cited in the Wikipedia article and it says a little more in a descriptive manner:
+
+Infrared dark clouds are cold, dense molecular clouds cores seen in silhouette against the bright diffuse mid-infrared emission of the Galactic plane.
+
+and here's one of the images from that page:
+
+
+8 micron image of G11.11-0.11 from MSX. It is seen in extinction against the bright diffuse mid-infrared emission of the Galactic plane.
+
+The Wikipedia article also links to The early stages of star formation in Infrared Dark Clouds: characterizing the core dust properties but there's no mention of magnetic fields there either.
+So I'd like to ask:
+Question: What exactly are infrared dark clouds and what is the significance of the orientation of their magnetic fields? I'm also wondering if they produce these fields, or are passively aligned to existing fields.

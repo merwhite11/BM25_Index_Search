@@ -1,0 +1,4 @@
+Is there a variation of ISO 8601 for julian calendar dates?
+
+If I want to write a date in the Gregorian calendar, I can write it in the ISO 8601 format; today would be 2016-02-20. The advantage is that there are many parsers available to let computers read in this kind of date. But what if I want to write a Julian calendar date, as astronomers often do? Is there a similar widely-accepted format, and selection of parsers, to use with the Julian calendar.
+While I'm at it, what if it's an ancient date where we don't know how many solar days ago it was; instead it is an astronomical phenomenon calculated in Terrestrial Time (more or less atomic time) or by dating decay of radioactive elements? Is there a standard way of writing such a date?

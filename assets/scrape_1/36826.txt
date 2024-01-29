@@ -1,0 +1,4 @@
+How many satellites orbit their planet faster than the planet rotates?
+
+Phobos is so close to Mars that it orbits Mars much faster than Mars rotates. This means that it rises in the west and sets in the east, even though its orbit is prograde.
+Are there any other known natural satellites that orbit their planet faster than the planet rotates, or is Phobos unique in this regard?

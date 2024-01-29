@@ -1,0 +1,6 @@
+The preferred way of binning (classifying) data for galaxy snapshots in Python
+
+Let's say I have a galaxy snapshot that I load with some package (pynbody etc) and I store my spatial coordinates of stars in the galaxy in x, y, z arrays and also velocity in array vz. Now I want to lay a grid of (N × N cells along x and y axis) onto my galaxy in the x-y plane (assuming my line of sight is z-axis) so that the values of vz of stars corresponding to the associated pairs of x,y of the stars will fall into each cell of this grid. Then I want to extract the set of vz values from every cell of the grid and do whatever I want with them, such as, fit a Gaussian or modified Gaussian functions that I define myself etc. I think this is a fairly common practice in computational astronomy.
+I was wondering what are the popularly used Python functions/codes for this among computational astrophysicists?
+For example, I think scipy.stats.binned_statistic_2d() is useful for getting some statistics like mean and variance (dispersion) but can we get access to the array of velocity values in every cell so that we can use self-defined functions on them and not just use the options available automatically in scipy.stats.binned_statistic_2d?
+Any examples/references to supplement the answer are welcome.

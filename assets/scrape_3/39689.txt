@@ -1,0 +1,15 @@
+How bright is the Sun in S-band?
+
+As far as I can tell when the Voyagers listen to Earth they have the Sun in the same beam. I never did calculate how bright a blackbody Sun would be because I have no idea if that's representative of the Sun's output in S-band
+
+How well can Voyager 1 separate Earth signals from Solar noise these days? shows that the Voyagers see the Sun and Earth separated by 0.2 to 0.5 degrees each year.
+
+I also don't know how wide of a slice in frequency the front end is exposed to, or if the Sun would be strong enough to saturate it.Frequency responses of Voyager's S-band high gain antenna's feed-horn and receiver front end & IF? remains unanswered.
+This is related Why is the operating temperature for the Voyagers' receiver noise calculation about 1550K? and answers there are informative.
+I assume the designers were optimistic that Voyager might survive this long and designed the system to be able to pick out transmissions from Earth from the Sun's output, but I'm not quite able to put the whole puzzle together yet.
+So I'd like to ask:
+Question: How bright is the Sun in S-band? Is there a measured value for power per unit frequency? How close is it to what a blackbody would produce at say 5800 K? At this frequency is there a big difference between when the sun is quiet and when it is active?
+See also Do stars have "radio photospheres"? Are they different from their optical photospheres?
+note: The linked questions and answers have a lot of Voyager-specific information which is relevant to Voyager's operation in S-band, but I have nothing on the Sun's behavior at 2.1 GHz Actually the first link gives the downlink frequency as
+
+2113.312500 MHz for Voyager 2

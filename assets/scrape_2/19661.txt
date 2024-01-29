@@ -1,0 +1,6 @@
+How does the length of the minor semi-axis of the moon's disc's inner terminator vary through the cycle?
+
+The curve that separates the bright and dark parts of the moon's disc as viewed from the earth is called the inner lunar terminator, which is semi-elliptical in shape. We can model the disc as a unit circle centred on the origin, in which the inner terminator runs from (0,1) to (0,-1) and its major semi-axis always has length 1.
+How does its minor semi-axis vary during the lunar cycle? Please assume that orbits are circular.
+In other words, if the point halfway along the inner terminator is X, what is the equation for the motion of X back and forth along the line-segment from (-1,0) to (1,0)?
+Note that the shape of the visible disc is not a lune, except in the two trivial cases.

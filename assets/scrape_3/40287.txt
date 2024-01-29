@@ -1,0 +1,4 @@
+Is a double quasi-binary system valid?
+
+I was messing around with 4-body problems, and discovered a system where a close binary and a regular binary pair orbit each other. The regular binary gets disrupted every few orbits and one star orbits the close binary, while the other orbits farther out. Then, as the outer star reaches periastron, the inner star gets captured by the outer star and the cycle begins again, shown in this video (the stars here are color-coded).
+Is this possible and is stable in the long-term (without any external perturbations), and have we discovered anything similar to this?

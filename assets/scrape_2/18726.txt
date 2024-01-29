@@ -1,0 +1,14 @@
+How could a 20 inch space telescope "be able to make out Earth-size planets" orbiting Alpha Centauri?
+
+The NY Times article Telescope to Seek Earthlike Planet in Alpha Centauri System describes a proposed effort to put a telescope into orbit fairly quickly with a narrowly defined purpose - to look for planets in the Alpha Centauri system, which is about 4.37 lightyears away from Earth.
+The funding, design, assembly and space deployment fairly quickly is made possible in part by the narrowly defined purpose and the compelling public interest in this particular question.
+I got out my box of envelope-backs and did the following. Since there is no air, there's no need for adaptive optics so  the standard diffraction limit applies. For an Airy disk:
+$$ \theta \approx 1.22 \frac{\lambda}{d} $$
+The article describes the telescope as washing machine-sized, with an aperture of 20 inches, or about 50 cm.  If I choose a visible wavelength of 500nm, I get a resolution of about 1.22 microradians ($\mu$R). 4.37 lightyears is about 4.13E+13 km or 2.76E+05 AU.
+That makes the airy disk about 0.34 AU at Alpha Centauri. The actual point spread function of a telescope depends not only on the theoretical diffraction of the aperture, but diffraction from secondaries and supports within the aperture, on aberrations due to imperfectly shaped optical surfaces and scatter and haze due to nano-roughness of mirror surfaces. (see below)
+Could a 20 inch telescope and associated experiment package be put together quickly that could actually resolve (or "make out" as the article says) an Earth-like planet in the Alpha Centauri system from space? If so, what is it exactly that it could do that can't be done from any existing telescope in orbit or on Earth?
+
+above: "A rendering of the compact exoplanet imaging telescope Project Blue plans to launch into orbit and aim at Alpha Centauri. Credit Project Blue" from here.
+It jumps out that the secondary is mounted off-axis, which can have mechanical and optical advantages (e.g. diffraction) but would probably limit the image quality to a narrow field of view, which might be OK for a single-target telescope if there are suitable calibration targets nearby.
+
+A nice discussion of the point spread function of the Hubble space telescope can be found here: 20 years of Hubble Space Telescope optical modeling using Tiny Tim (Krist et al 2011, Proc. of SPIE Vol. 8127 81270J-1), and the reduction of scatter and haze from mirror nano-roughness by using refractive optics (lenses) is addressed by the DRAGONFLY instrument. See also What (actually) is the " deprojected half-light radius" of this almost-all-dark-matter Galaxy?

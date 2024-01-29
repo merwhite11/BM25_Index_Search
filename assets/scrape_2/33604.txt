@@ -1,0 +1,3 @@
+Difference between 3D real space and 3D redshift space?
+
+With regards to cosmological simulations (e.g., N-body dark matter only simulations), I've seen people talk about the positions of objects (halos, galaxies) in the simulation in terms of 3D real space and 3D redshift space. The idea is that the positions of objects in 3D real space does not add the contribution of redshift space distortions, whereas 3D redshift space does. But since redshift space distortions are a real physical effect (i.e., the positions/velocities of objects will be affected not only by cosmological expansion but also gravitational interactions), why is 3D real space ever even considered? Is it some kind of highly idealistic cosmology-dependent only scenario, ignoring peculiar velocities?

@@ -1,0 +1,6 @@
+Examples of astrophysical objects NOT in virial equilibrium?
+
+Astronomers always talk about astrophysical objects being in virial equilibrium (e.g., a stellar system, or a disk of gas within a galaxy, etc.). But I never hear about thermodynamical equilibrium. 
+What are some examples of objects that are not in virial equilibrium?
+One example question: suppose that what you thought was a disk of rotating gas within a galaxy (as revealed by spectroscopy) is actually a bipolar outflow of gas. Would the bipolar outflow of gas be in virial equilibrium? 
+Is a radio jet (length of hundreds of kpc) from a supermassive black hole in virial equilibrium?

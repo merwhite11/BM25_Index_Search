@@ -1,0 +1,3 @@
+Plotting galactic latitude in Ra vs Dec plane
+
+I have an open cluster with calculated percentage of polarization and position angle. I want to have it's scatter plot in Ra vs Dec plane and superimpose a galactic parallel on it. How to plot the galactic parallel? Like the line b=-0.14 deg shown in the figure. I have used python for the scatter plot and also I have plotted the percentage of polarization and position angle but I am unable to the plot the galactic latitude line. Can anyone help me in this regard?

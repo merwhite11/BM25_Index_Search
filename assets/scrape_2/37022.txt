@@ -1,0 +1,3 @@
+How far from Betelgeuse is its habitable zone?
+
+Betelgeuse is a red supergiant or hypergiant in the constellation Orion. It is one of the biggest and brightest stars seen from the Earth, and is expected to soon go supernova. The habitable zone, or Goldilocks zone, is the distance from the parent star where the temperature allows for liquid water to exist on a planet's surface (in case the planet has an atmosphere of at least ~0.0061 atm (triple point of water)). How far is the habitable zone of Betelgeuse, in astronomical units? For comparison, the Sun's habitable zone is at about 0.7-1.7 astronomical units (other than Earth, Venus and Mars are on its rims).

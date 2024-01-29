@@ -1,0 +1,8 @@
+Understanding date of astronomical events
+
+I have a masters in chemistry but pretty much, a layman in astronomy.
+So, can you please explain to a novice like me, about this paragraph taken from the Wikipedia article on Makar Sankranti:
+
+There are two different systems to calculate the Makara Sankranti date: nirayana (without adjusting for precession of equinoxes, tropical) and sayana (with adjustment, sidereal). The January 14 date is based on the nirayana system, while the sayana system typically computes to about December 23, per most Siddhanta texts for Hindu calendars.
+
+Am I correct to understand that when the date was assigned in Hinduism some thousand (?) years back, the winter solistice used to be on 14th/15th January?

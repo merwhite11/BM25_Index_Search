@@ -1,0 +1,6 @@
+LLR & Orbital Motion
+
+As I understand it, light that is emitted from a source is not imparted with the motion of the source and so always follows a "straight line". If this is correct, I am having a difficult time conceiving how the Lunar Laser Ranger experiments can detect photons.
+In this experiment, a pulse of light is aimed towards a retro-reflector and it is reflected back. It takes about 2.5 seconds round trip and due to diffraction, the returning pulse covers a circle of approximately 20kms in diameter.
+The Earth's orbital velocity is approximately 30km/s and in the time the pulse takes to make the round trip, the detector would be 75kms further along the Earth's orbital path. If my first paragraph is accurate, and the light pulse is not imparted with the Earth's orbital velocity, then how is detection of the returning light pulse achieved?
+I hope this makes sense and thank you.

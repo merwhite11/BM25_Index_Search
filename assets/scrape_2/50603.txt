@@ -1,0 +1,6 @@
+How to look up "all things astrophysical" about A=9 (or other light isobars)?
+
+All the light isobars (group with same atomic number mass) are interesting and quirky, but let's use A=9 as an example. 9C and 9Li beta decay to particle unbound states in 9B and 9Be (except to 9Be's ground state), and those unbound states decay through both p/n + 8Be (which decays to 24He) + 4He) and 4He + 5Li/5He (which then decay to p/n + 4He).
+Of course the A=4,5 and 8 isobars are famous for their roles in nucleosynthesis, the short lived 16.6 MeV state in 8Be participating in the triple alpha process) being one example, but I'm curious to what extent 9C, 9B, 9Be and 9Li have astrophysical implications.
+Question: How to look up "all things astrophysical" about A=9 or other light isobars? Is there some kind of central clearing house for such information that can be queried by atomic number mass?
+Here "all things astrophysical" means all of the known, studied or proposed ways that a given nucleus participates in or has some specific implication in some astrophysical process.

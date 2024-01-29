@@ -1,0 +1,7 @@
+What abbreviations, letters, or symbols do we use to denote highly degenerate stars?
+
+We have OBAFGKM to denote the strength of hydrogen lines.
+Apparently we added S, N, C, and the W classes when we learned of new kinds of stars.
+We use T, L, and Y to denote brown dwarfs.
+The D classes refer to electron-degenerate stars (white dwarfs).
+I've looked around quite a bit and I haven't seen anything regarding neutron stars and black holes. Does this mean there's no common symbol or abbreviation? What do they use in star catalogs? (I've never found a catalog with stars of all degeneracies in it.)

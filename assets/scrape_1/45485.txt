@@ -1,0 +1,3 @@
+Can you subtract magnitude of constant source to get magnitude of variable source?
+
+Let's say I observe a source that is actually two sources (source A and source B) where each cannot be individually resolved. Source A is a variable source and source B is a constant source. I want to measure the magnitude of source A by "subtracting" the known constant magnitude of source B from the total measured magnitude. Can this be done through simple subtraction? I know with flux the subtraction is straightforward, but magnitude is logarithmic so I am unsure how to do this.

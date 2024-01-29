@@ -1,0 +1,26 @@
+Farthest observed protoplanetary disk observed at radio frequencies? Catalog
+
+This could be a naive question or maybe too easy to solve (I do not really know!).
+Brief context: I'm interested in a certain planetary system at $d \sim 300 \, \mathrm{pc}$. It would be really nice to estimate the disk surface mass $\Sigma(r)$ "observationally" from the infrared part of the spectral energy distribution, as Philip J. Armitage points out in "Astrophysics of Planet Formation" - Cambridge University Press (2020):
+
+In the mm/sub-mm region of the spectrum (i.e. λ ∼ 1 mm) the bulk of the emission comes instead from optically thin regions of the disk. Taking the limit where the entire disk is optically thin at the frequencies of interest
+
+$$F_\nu = \frac{B_\nu (\overline{T}_\mathrm{dust}) \kappa_\nu}{D^2} \int\limits_{r_{in}}^{r_{out}} \, 2\pi r\, \Sigma \, dr$$
+
+If we know the distance to the source, the opacity, and the disk temperature, a measurement of the flux density at optically thin wavelengths determines the disk mass
+
+I know there are a few systems resolved, e.g., by ALMA (see DSHARP)
+
+
+The researchers will use NASA’s James Webb Space Telescope to survey 17 of the 20 nearby protoplanetary disks observed by Chile’s Atacama Large Millimeter/submillimeter Array (ALMA) in 2018 for its Disk Substructures at High Angular Resolution Project (DSHARP)... Credits: ALMA (ESO/NAOJ/NRAO), S. Andrews et al.; N. Lira source
+
+but I have no information about distances of each one of the disks observed. A quick estimation would be considering
+$$\delta_{\mathrm{resol}}\sim \frac{D}{d}$$
+where $d \sim 300$ pc is the distance and $D \overset{?}{\sim} 100$ au is the system diameter.
+D = 100 * u.au
+d = 300 * u.pc
+(D/d).decompose() * u.rad.to("arcsec")
+
+returns 0.33333333
+then this might (or not) be possible.
+Question: is there any place where I can find observations sorted by distance? Thanks in advance!

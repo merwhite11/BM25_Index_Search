@@ -1,0 +1,11 @@
+What is the cut-off point of $\frac{\mathrm{d}F}{\mathrm{d}r}$ beyond which no tidal locking will occur?
+
+I am a beginner, please pardon my non-use of proper astronomical terms. I would appreciate proper edits to my questions.
+I have learned that when the $\frac{\mathrm{d}F}{\mathrm{d}r}$ is a very big negative number, that would mean that the far side will have much less gravitational tug than the near side of a satellite. The differential gravity or $\frac{\mathrm{d}F}{\mathrm{d}r}$ will be as follows
+$$\frac{\mathrm{d}F}{\mathrm{d}r} = \frac{-2 GMm}{r^3}$$
+If we compute $\frac{\mathrm{d}F}{\mathrm{d}r}$ of Earth-Moon system we get $-1.308 \times 10^{-5} \ \mathrm{M_o^2G/AU^3} $
+I was surprised to know that Ganymede, being almost 3 times as far away from Jupiter as our Moon is from Earth, still is tidally locked.
+If we compute $\frac{\mathrm{d}F}{\mathrm{d}r}$ of Jupiter-Ganymede system we get $-1.565 \times 10^{-6} \ \mathrm{M_o^2G/AU^3}$
+I then wondered what is the $\frac{\mathrm{d}F}{\mathrm{d}r}$ of Sun-Earth that our Earth is not tidally locked to it and I found $-2.422 \times 10^{-8} \ \mathrm{M_o^2G/AU^3}$ 
+Which is a very small negative number so the difference in tug is not significant.
+So what is the minimum $\frac{\mathrm{d}F}{\mathrm{d}r}$ (or I guess "maximum") value or a boundary value at which the object can be tidally locked and beyond that, the tidal locking won't occur?

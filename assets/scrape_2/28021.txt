@@ -1,0 +1,13 @@
+What does it mean that the Sun`s rotation axis is: RA 286.13° , Dekl: 63.87°?
+
+first post here.
+I found 1 related Question, which has not solved my Problem.
+SHORT QUESTIONs VERSION:
+Suns axis is 7,25° tilted from the ecliptic. But in which direction?
+LONG QUESTION:
+Nasa defines the Suns Rotation axis as described in the title:
+https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html
+
+Why is it described with (Ra, Declination)? Is this a (Earth) Aequatorial System placed in the middle of the Sun?
+If true, then this should work (What is the angle between the equator of the sun, and the plane of the Earth's orbit). As the best anwer says, the angle between ecliptical pole and sun Rotation axis should be 7.25°. I get 4°, what is going on here? Have I messed up the angle calculation?
+Thanks a lot, this is making my Brain burn : D

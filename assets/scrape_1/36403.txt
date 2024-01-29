@@ -1,0 +1,6 @@
+Distance and absolute brightness
+
+This is an exercise from a text, I’m learning from and I can’t understand it so I’m asking just to develop my knowledge:
+
+The explosion of V603 Aql (Nova Aquilae) took place in June 1918. The nova reached maximum brightness -1.1 mag. The nova's spectrum was observed to shift absorption lines corresponding to a radial speed of 1700 km/s. In 1926, a weak envelope was observed around the nova with an angle of 16''.
+Determine the distance and absolute brightness at maximum for V603 Aql.

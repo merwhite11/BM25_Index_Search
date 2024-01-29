@@ -1,0 +1,20 @@
+How can the Earth's rotation speed up?
+
+It is known as a fact that Earth's rotation is slowing every year, that's why we sometimes have 61 seconds long minutes.
+In the Java documentation of Time : http://docs.oracle.com/javase/7/docs/api/java/util/Date.html , it is said :
+
+Some computer standards are defined in terms of Greenwich mean time
+  (GMT), which is equivalent to universal time (UT). GMT is the "civil"
+  name for the standard; UT is the "scientific" name for the same
+  standard. The distinction between UTC and UT is that UTC is based on
+  an atomic clock and UT is based on astronomical observations, which
+  for all practical purposes is an invisibly fine hair to split. Because
+  the earth's rotation is not uniform (it slows down and speeds up in
+  complicated ways), UT does not always flow uniformly. Leap seconds are
+  introduced as needed into UTC so as to keep UTC within 0.9 seconds of
+  UT1, which is a version of UT with certain corrections applied. There
+  are other time and date systems as well; for example, the time scale
+  used by the satellite-based global positioning system (GPS) is
+  synchronized to UTC but is not adjusted for leap seconds.  
+
+Why is that so? How can this occur?

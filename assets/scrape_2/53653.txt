@@ -1,0 +1,53 @@
+Computing Algol's apparent magnitude from TESS observation data
+
+A helpful developer downloaded a light curve of Algol from STScI's MAST service of the TESS archive for me.
+Its content looks like this:
+# Time (BTJD),Normalized SAP_FLUX,Normalized SAP_BKG
+1791.7659704711036,0.9953357713196904,0.20449268441018317
+1791.7868043033843,0.9966320680638372,0.20297345806471756
+1791.8076381341903,0.9975026399246625,0.20580296858683853
+1791.828471963651,0.9983619224857635,0.20546566683189757
+1791.8493057916578,0.9992328214823062,0.20573661958168665
+
+He told me I could calculate the magnitude in the following way
+import juliandate
+import datetime
+import numpy as np
+
+def get_algol_magnitude(date): # python datetime
+    # read data from the text file
+    data = np.genfromtxt('hlsp_qlp_tess_ffi_s0018-0000000346783960_tess_v01_llc.txt', delimiter=',')
+
+    tess_start_date = 2457000.0
+    tess_algol_mag = 3.3684
+    
+    # calculate Julian Date and BTJD offset
+    jd = juliandate.from_gregorian(date.year,date.month,date.day,date.hour,date.minute,date.second)
+    btjd_offset = jd - tess_start_date
+
+    # find index of closest time to datetime_obj
+    index = np.absolute(data[0] - btjd_offset).argmin()
+
+    # calculate Algol magnitude
+    magnitude = tess_algol_mag - 2.5 * math.log10(data[1][index])
+
+    return magnitude
+
+But he also told me this method works only work if the intended query date is in the range of the observation dates of TESS for this object. If not, I need an eclipsing binary model to predict magnitudes on arbitary dates.
+There's been another helpful person who advised me how to calculate the phase of Algol for a given date.
+def get_algol_phase(time):
+     time_jd = juliandate.from_gregorian(date.year,date.month,date.day,date.hour,date.minute,date.second)
+     
+     epoch_minimum_jd=2460072.826389
+     algol_period=2.867328
+
+     days_from_epoch = abs(epoch minimum_jd - time_jd)
+     algol_phase = (days_from_epoch / algol_period) % 1.0   
+ 
+     return algol_phase
+
+
+time = datetime.datetime.now()
+algol_phase = get_algol_phase(time)
+
+Well since I don't really understand this, is there a way how to combine those 2 functions/datas together so I can have a function to obtain the magnitude of Algol for any date?

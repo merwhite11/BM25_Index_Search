@@ -1,0 +1,32 @@
+What is the meaning of a local solar eclipse start time before sunrise or end time after sunset?
+
+I was doing calculations for the forthcoming solar eclipse and the following question arose.
+All times below are in Indian Standard Time:
+For Chennai:
+Eclipse Start: 17:14,
+Sunset: 17:41,
+Eclipse End: 18:25
+For Mumbai:
+Eclipse Start: 16:49,
+Sunset: 18:05,
+Eclipse End: 18:31
+For Delhi:
+Eclipse Start: 16:28,
+Sunset: 17:38,
+Eclipse End: 18:25
+For Kolkata:
+Eclipse Start: 16:52,
+Sunset: 17:00,
+Eclipse End: 18:24
+These four major cities in mutually quite distant locations in the four directions of Bharat exhibit marked differences in the times of eclipse start and sunset as is expected.
+However the differences in the times of eclipse end are quite low. Kolkata in the east shows 18:24 and Mumbai in the west shows 18:31, just 7 mins.
+Among 400 locations across Bharat, the earliest computed eclipse end is 18:18 at Nagercoil at the southern tip of Bharat. This is still just 13 mins away from the most delayed time of 18:31 shown for Mumbai above.
+So I wonder if this is just an artifact of computation.
+In fact I seriously doubt what meaning there can be to show a local end time of a solar eclipse when it happens after local sunset. My reasoning is as follows:
+After sunset, there is no straight line from any point on the solar disc to the given location that light can travel through. In which case, such light cannot be blocked by the moon either. Which means that there is no meaning to saying that a solar eclipse continues at a given location after sunset. Which means that there is no meaning to an eclipse end time after sunset.
+Likewise it can be argued that there is no meaning to a local beginning time of a solar eclipse when it happens before local sunrise.
+To my mind, in cases when an eclipse starts before a given local sunrise the only start time that can be given is the time that the moon's shadow very first touches the surface of the earth (at some other location), and likewise when an eclipse ends after a given local sunset the only end time that can be given is the time that the moon's shadow finally leaves the surface of the earth (at some other location).
+Both these times are not local but global.
+In fact, IIANM prior to the local sunrise time or after the local sunset time, I believe the shadow of the moon will be partially on the earth's surface and partially off it. Only at those locations where the sun has risen but not set, it will be on the earth's surface.
+Hence certainly the locations where the sun has not risen cannot have a local eclipse start time and where it has set cannot have a local eclipse end time. So in such cases the local times computed seem to have no physical meaning.
+Is my thinking right or not? Please either corroborate or refute with sufficient arguments.

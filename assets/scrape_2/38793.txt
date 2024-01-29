@@ -1,0 +1,8 @@
+What is meant by the notation $A^{\times{B}}_{\div{C}}$; where A,B,C are real numbers?
+
+I have come across a few papers using the notation $A^{\times{B}}_{\div{C}}$; where A,B,C are real number. For example, $3000^{\times{3}}_{\div{4}}$.
+An example can be Eqn (4) in Stern & Laor (2012) "Type 1 AGN at low $z$ – II. The relative strength of narrow lines and the nature of intermediate type AGN", which reads as follows:
+
+$$\frac{L_{\rm bol}}{10^{43}\ \rm erg\ s^{-1}} = 4000^{\times 4}_{\div 4} \left( \frac{L_{\rm [O\ III]}}{10^{43}\ \rm erg\ s^{-1}}\right)^{1.39}$$
+
+What is the generic meaning of this notation?

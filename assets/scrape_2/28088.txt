@@ -1,0 +1,5 @@
+Looking for a celestial body that weights ~$10^{17} kg$?
+
+I am exploring the outcome of a problem assigned in a quantum mechanics homework where the mass of of some beam of "something" is insignificant to the result. So much so that something weighing approximately $1.2285 * 10^{17} kg$ would be needed to make a difference in respect to the problem. (that is, assuming I've solved the problem correctly). 
+I have been googling for quite a bit and I can't find anything that is in the $10^{17} kg$ range. Does anything come to mind?
+(I can't seem to find any good tags for this question)..

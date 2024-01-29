@@ -1,0 +1,6 @@
+an exercise from Spherical Astronomy by Smart
+
+I want to solve this exercise from Spherical Astronomy by Smart:
+Prove that, in latitude 45°, the interval between the moment at which a star's azimuth is 90° east and the moment of setting is constant.
+I can't understand it, it says prove that it is constant for a star, or it is constant for every star with different declinations?
+Thanks.

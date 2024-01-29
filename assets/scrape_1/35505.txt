@@ -1,0 +1,11 @@
+How to find Kepler/TESS data
+
+I have some basic understanding of the Kepler/TESS mission. The missions both look at the stars and try to find the dip in the light from the stars to find possible existence of exoplanets (exomoons as well). I was trying to find the dataset. I found one URL to retrieve the datasets. The URL is given below.
+http://exoplanetarchive.ipac.caltech.edu:80/data/ETSS//Kepler/005/141/63/kplr010666592-2009131105131_llc.fits
+But this URL contains the filename. But there should be several other files as well. To find the other files, I wanted to check the above URL without the filename (http://exoplanetarchive.ipac.caltech.edu:80/data/ETSS//Kepler/005/141/63/). But this URL shows error : "Forbidden
+You don't have permission to access /data/ETSS//Kepler/005/141/63/ on this server."
+
+
+
+I even created an user account in https://exoplanetarchive.ipac.caltech.edu/ but still I am receiving the same error. Please assist me, how I can get the keplar data.
+Also I found that the file mentioned above is very small only a few KB and after converting it to csv I found that it contains only less 2000 rows. But I know that it needs several hours of observation to find out that an exoplanet, that means the dataset cannot be such a small dataset. Please explain why the dataset is so small. Is it only a part of the dataset, in that case please let me know how to get the full dataset.

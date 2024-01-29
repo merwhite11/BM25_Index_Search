@@ -1,0 +1,24 @@
+How many observations does it take to determine the orbit of a TNO
+
+Several observations of a distant solar object must be taken before determining its orbit, but in the case of objects discovered beyond Neptune's orbit, just how many are required over what period of time (or what portion of arc) before a reasonably accurate orbit can be determined, sufficient, say, to be added to the Minor Planet Database or a JPL ephemeris?
+I'd be interested to know to what degree of certainty orbital elements for objects beyond 30 AU can be determined when we have only observed them for (so far) short portions of their orbits. What about 60 AU, or 90 AU?
+As an example, the Wiki for VNH004, a TNO that is a photo target for the New Horizons probe, states:
+
+The asteroid only was observed 12 times by the Mauna Kea and Las Campanas Observatory over a period of about 33.8 days between May 29th and July 2nd, 2011, so its current orbit is extremely uncertain.
+
+How uncertain? Here are orbital elements along with +/- values:
+
+Heliocentric elements and errors
+  Epoch . . . . . .  2455710.5000  =  2011/05/29
+  Mean Anomaly: . . .       309.75557 +/-    31.234
+  Argument of Peri: .     112.06593 +/-    54.010
+  Long of Asc Node:  .    247.74234 +/-     3.336
+  Inclination: .  . . . . . . . .   3.81106 +/-     0.396
+  Eccentricity: . . . . .     0.29886369 +/-    0.8050
+  Semi-Major Axis: .    37.47217640 +/-   14.2156
+  Time of Perihelion: 2467404.0720 +/-    2926.4
+  Perihelion: . . . . . . .   26.27310354 +/-   31.7695
+  Aphelion: . . . . . . . .    48.67124926 +/-   35.3678
+  Period (y) . . . . . . . . . . 229.3885 +/-    130.53  
+
+An orbital period of over 229 years, plus or minus over 130 years. How many more observations would be required to half the margin of error?

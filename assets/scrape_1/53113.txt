@@ -1,0 +1,11 @@
+Conditions in the Early Universe
+
+I am interested in how the large-scale properties of the Universe change over time.
+Does anyone know a trusted website which gives the temperature, density and radius (distance to the particle horizon) of the observable Universe at given points in time in its history? I have been unable to locate any website which gives this information.
+For example  in the Wikipedia article https://en.wikipedia.org/wiki/Chronology_of_the_universe . there is a  table labelled ‘Tabular Summary’ . This gives the temperature of the Universe at various times throughout its history, but it doesn't give  its radius or density.
+I am particularly interested in the epochs in the early Universe labelled in the Wikipedia article as:
+
+electroweak epoch,
+inflationary epoch,
+quark epoch
+hadron epoch

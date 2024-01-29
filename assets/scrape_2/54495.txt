@@ -1,0 +1,14 @@
+How to get the flux from a synthetic spectrum in a bandpass, when only given specific luminosity times frequency?
+
+I have some synthetic spectra of stars (M and K giants) with columns wavelength [Angstroms], continuum normalised flux and specific luminosity $\times$ frequency [ergs/s]; I also have some Euclid filter transmission curves.
+I wish to extract the flux within the filter, and then convert it into AB magnitudes. My process for doing this has been:
+
+convert specific luminosity $\times$  frequency into flux density by dividing by wavelength and area $4 \pi d^2$, assuming the star is at 10pc to end up with the absolute magnitude. After this step it now has units [erg/s/Å/cm2].
+Resample the data to match the wavelength grid of the system response.
+Calculate the flux in the bandpass according to
+
+$$f_\nu = \frac{1}{c}\frac{\int FT\lambda\,d\lambda}{\int T / \lambda\,d\lambda}$$
+
+Then finally calculate the magnitude as $m = -2.5log(f_\nu) + \text{Euclid zp}$
+
+However, I'm not getting sensible values (absolute mag around 12.5 in Euclid J-band). I've also tried using Pyphot, which gives me roughly the same values, and their source code is very similar to what I originally had. It makes me think there is something wrong with the assumptions I'm making about getting flux density from specific luminosity multiplied by frequency. I'd really appreciate it if anyone could set me on the right path.

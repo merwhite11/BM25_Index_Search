@@ -1,0 +1,4 @@
+Why does Saturn have a more prominent equatorial bulge and higher flattening ratio than Jupiter despite rotating slower?
+
+It is my understanding that a planet's equatorial bulge is caused by the centrifugal force produced by its rotation, and the faster a planet rotates the bigger the bulge and flattening ratio of a planet is. 
+Jupiter's rotational period is 9.925 hours while Saturn's is 10.56 hours. However, Saturn not only has a higher flattening ratio than Jupiter, but also has a bigger equatorial bulge (11,801 km vs. 9,276 km) despite rotating slower and being smaller. Am I missing something?

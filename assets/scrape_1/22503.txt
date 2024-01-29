@@ -1,0 +1,16 @@
+How did the object CO-0.40-0.22 get its name, and how is it distinct from CO-0.40-0.22*?
+
+There seems to be three things described in the recent Nature Astronomy paper Millimetre-wave emission from an intermediate-mass black hole candidate in the Milky Way:
+
+Molecular cloud CO–0.40–0.22 with an extremely broad velocity width, near the centre of our Milky Way galaxy.
+a compact object with a mass of about $10^5 M⊙$ is lurking in this cloud.
+a point-like continuum source called CO–0.40–0.22*
+
+Question: What are the objects CO–0.40–0.22 and CO–0.40–0.22* and what is the difference between the two. How did the originally discovered CO–0.40–0.22 get its name?
+The news of the paper is described in the Science item Long-rumored midsized black hole may be hiding out in the Milky Way.
+There is a nice writeup in Gizmodo for lay scientists: Astronomers Think They Discovered The Missing Link in Black Hole Evolution
+The paper is not paywalled and can be read here: https://www.nature.com/articles/s41550-017-0224-z.pdf
+
+Abstract:
+It is widely accepted that black holes with masses greater than a million solar masses (M⊙) lurk at the centres of massive galaxies. The origins of such ‘supermassive’ black holes(SMBHs) remain unknown, although those of stellar-mass black holes are well understood. One possible scenario is that intermediate-mass black holes (IMBHs), which are formed by the runaway coalescence of stars in young compact star clusters merge at the centre of a galaxy to form a SMBH. Although many candidates for IMBHs have been proposed, none is accepted as definitive. Recently, we discovered a peculiar molecular cloud, CO–0.40–0.22, with an extremely broad velocity width, near the centre of our Milky Way galaxy. Based on the careful analysis of gas kinematics, we concluded that a compact object with a mass of about 105 M⊙ is lurking in this cloud. Here we report the detection of a point-like continuum source as well as a compact gas clump near the
+centre of CO–0.40–0.22. This point-like continuum source (CO–0.40–0.22*) has a wide-band spectrum consistent with 1/500 of the Galactic SMBH (Sgr A*) in luminosity. Numerical simulations around a point-like massive object reproduce the kinematics of dense molecular gas well, which suggests that CO–0.40–0.22* is one of the most promising candidates for an intermediate-mass black hole.

@@ -1,0 +1,3 @@
+What is the average temperature of all planets at 1 bar?
+
+Jupiter's (and Saturn's) "surface" temperature is defined as that at 1 bar. It is inconsistent to say the other planet's surface is their hard surface. Applying the same measure what is the equivalent standard temperature of all the IAU defined planets?

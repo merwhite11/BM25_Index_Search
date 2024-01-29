@@ -1,0 +1,5 @@
+Is it possible to calculate the focal length of a refactor I built?
+
+I am trying to build a very low cost refractor telescope. It's for a project, so I need to be able to provide "data" about the telescope. But it seems I can't calculate anything (magnification, to be more specific) without knowing the focal length of my telescope. However, because I built it myself, I do not know what my focal length is. How can I find that out, or how can I calculate the magnification?
+On another note, what is the best combination for the best magnification? I am not looking for anything great, just the best magnification possible.
+I can have a 50mm lens with a fl of 50cm, 30cm, and 20cm and a 38mm lens with each of the same focal lengths. Which is the best pair?

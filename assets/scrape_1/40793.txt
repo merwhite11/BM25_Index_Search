@@ -1,0 +1,3 @@
+What about the magnetic field strength inside of an old accreting neutron star?
+
+As the magnetic field strength outside an old accreting neutron star is thought to be small (about $10^8-10^{10}$ Gauss), what about it inside the star? Because of the superconductivity and degeneration, can the strength reach $10^{17}$ Gauss or even more? Is there any article that describe such problem?

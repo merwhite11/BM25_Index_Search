@@ -1,0 +1,10 @@
+How does the Hubble Space Telescope measure the speed of the wind inside Jupiter's Great Red Spot?
+
+Space.com's Jupiter's winds of change show increased storm speeds in Great Red Spot and Hubblesite.org's Hubble Shows Winds in Jupiter's Great Red Spot are Speeding Up both link to the recent open access Geophysical Research Letter Evolution of the Horizontal Winds in Jupiter's Great Red Spot From One Jovian Year of HST/WFC3 Maps which probably contains the answer to my question or cites works that do.
+However, it looks like a pretty complicated analysis of the images that is producing a velocity field, the article is pretty challenging to read.
+Is it in any way akin to optical flow?  Is there a simple way to understand the basic idea of how it works?
+Question:  How does the Hubble Space Telescope measure the speed of the wind inside Jupiter's Great Red Spot?
+
+
+
+Figure 2: Great Red Spot velocity field data for the 2020.72 epoch, which is based on data from the OPAL program (Simon et al., 2015). The mean zonal wind field has been subtracted from the 2D velocity fields. (a) Color composite map, with a blue ring indicating the best-fit symmetric ellipse of high-speed winds. (b) Wind speed, after subtraction of the mean zonal wind profile. (c) Velocity vectors (104 vectors drawn from the full set of 5.9 × 106 vectors). (d) Relative vorticity, showing the “hollow” core. (e) Northward velocities along an east-west profile through the center of the ellipse. Individual north-south vector components within ±0.25° of the east-west line are shown in light red, with the mean profile shown in blue. A parameterized fit to the profile is shown in light grey. (f) As panel E, for eastward velocities along a north-south profile through the center.

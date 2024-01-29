@@ -1,0 +1,4 @@
+How do I know, mathematically rather than from observation, if a moon is full?
+
+I know about the equations to describe the orbit of a moon around a planet. I know the moon's semi-major axis and eccentricity, and the same for its host world with the star they orbit. 
+Is there any equation that tells me how much of the moon is illuminated at night, and possibly how bright, as seen from the planet?

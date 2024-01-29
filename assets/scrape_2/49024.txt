@@ -1,0 +1,8 @@
+What is the average angular distance between the Sun and the Moon?
+
+Naturally we would expect the average angular distance(*), to be exactly 90°, for although the Moon is not running in uniform speed (or rather, to be more precise, the relative angular speed of the Sun versus the Moon is not uniform), it is expected to average to 90° after some months.
+But I'm not quite convinced on this, since the Moon's orbit has many irregularities that are due to the Sun, so maybe those irregularities and different precessions cause it to be somehow to have angular distance less than 90° on average (say, in a time frame of 100 years to allow some cycles of the precessions)? For those precessions are not just random and arbitrary but are affected also by the Sun.
+(*) By the term angular distance, I actually mean the elongation - the  longitudinal distance on the plane on the ecliptic. i.e., let's assume the Moon is always on the ecliptic. Also to avoid other complications, like parallax, lets assume the viewing point is Earth's center.
+
+(**) This question was heavily edited and originally was about the average distance of Moon-Sun and Earth-Sun: are they equal.  It was triggered by another question about which of Mars and its moon is closer to Earth..
+In his answer to that question, Conor Garcia established that the Earth-Sun distance is shorter.

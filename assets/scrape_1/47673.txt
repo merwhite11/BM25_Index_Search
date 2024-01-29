@@ -1,0 +1,4 @@
+Which factor most affects the accuracy of Kepler's Third Law when applied to solar system planets?
+
+We know that Kepler's 3rd Law is not perfectly accurate due to gravitational perturbations of other planets, moons, etc., but which factors most affect the accuracy?
+Is it the semi-major axis, mass of orbiting object / object being orbited, proximity to other massive objects, or something else? From my calculations of orbital periods using NASA data and by comparing this to NASA data for orbital periods, Saturn's calculated period was the least accurate, so does this suggest that its proximity to Jupiter had the biggest effect?

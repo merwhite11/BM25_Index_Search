@@ -1,0 +1,6 @@
+Corresponding BV Value to a Hertzsprung–Russell
+
+I have an example BV value from an astronomical catalog of 1.04 (33 Psc, HD Catalog 28).
+Given only the number 1.04, can that be charted on the HR, or do I need the individual components of the value and/or temperature and luminosity?
+Edit:
+I should explain why I'm asking. I've written an application that displays data from one of several catalogs, and they only provide the BV value. I want to add a component to the application that would show an HR diagram with that star superimposed on it. The example of 33 Psc was semi-random, as it's the third entry in one of the catalogs (Yale Bright Star Catalog).

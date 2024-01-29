@@ -1,0 +1,22 @@
+How do I get cross-verification data for Gaia DR3?
+
+I've collected data having 1 million rows of Gaia DR3. I am trying to make a dataset suitable for Machine Learning. I need a target variable which is the stellar object type. My issue is I can't seem to find any object in the simbad database that exactly matches with the 'ra' and 'dec' coordinates in Gaia DR3. Whenever I run a query, it gives me result.
+This is what I use to query simbad in Python 3.11:
+Simbad.query_region(SkyCoord(ra=df['ra'].iloc[i], dec=df['dec'].iloc[i], unit=(u.deg, u.deg), frame='icrs'), radius=0.01*u.deg) 
+I am getting:
+          MAIN_ID                  RA      ...    OTYPE     SCRIPT_NUMBER_ID
+                                "h:m:s"    ...
+---------------------------- ------------- ... ------------ ----------------
+Gaia DR3 5952837905070694016 17 22 34.5927 ... LongPeriodV*                1
+     2MASS J17224991-4449366 17 22 49.9096 ...      HighPM*                1
+Gaia DR3 5953202251423606400 17 22 52.8099 ... LongPeriodV*                1
+                   HD 156919 17 22 23.9468 ...         Star                1
+Gaia DR3 5953201018811842944 17 23 10.2454 ... LongPeriodV*                1
+Gaia DR3 5952837355356355072 17 22 34.7870 ... LongPeriodV*                1
+                   HD 157063 17 23 12.7249 ...    alf2CVnV*                1
+Gaia DR3 5952825187656206464 17 23 00.8129 ... LongPeriodV*                1
+Gaia DR3 5953214071173664512 17 22 42.3904 ...       EclBin                1
+
+
+Where Gaia DR3 5953201637243132416 is the object ID in Gaia DR3 dataset and 260.6787873092191 -44.78877169277981 is the coordinate of the object in degrees.
+Is there any other way to get the correct object? I am aiming to get the object type of each stellar object that matches the coordinates in Gaia DR3.

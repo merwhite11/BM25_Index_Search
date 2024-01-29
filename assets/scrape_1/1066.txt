@@ -1,0 +1,9 @@
+iteration to cover the whole sky with right ascension, declination, angle
+
+I am sure I get parts of the terminology wrong but if anyone can shed some light in the following:
+I understand that for a given right ascension (RA) and declination (DEC), one has defined a ray (half-line) in the sky starting from the center of the earth towards infinity.
+Now, if I also provide a angle, say d degrees around that ray, I have essentially defined a cone in the sky. My question is the following:
+Which steps (RA_step and DEC_step) should I use in the following loop, as a function of d to ensure that I cover the entire sky and don't leave any patches anywhere?.
+for (RA = 0 ; RA <= 360 ; RA += RA_step)
+    for (DEC = -90 ; DEC <= 90 ; DEC += DEC_step)
+         examine-cone(RA, DEC, d)

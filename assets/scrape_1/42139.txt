@@ -1,0 +1,24 @@
+Frequency analysis on Semiperiodic object(s) using Lomb-Scargle
+
+So I already did a frequency analysis of the SRv-type's light curve  using Period04. I already have the 'periodicities' of the object/star of choice which is quite hard since the latter/other periods are tucked away by yearly aliases (thank goodness that's a rough week).
+The problem, however, is that the mentioned-software doesn't allow the user to acquire the Power Spectrum but only the Fourier data (as of the moment) which is important for visualizing the non-coherent signals. May I kindly ask if it's possible to deduce/extract the power spectrum from the fourier data using Lomb-Scargle periodogram? And if there's an existing python tool/code to it?
+The current code, which is below bog standard I'm afraid, just visualizes the Fourier spectrum;
+import pandas as pd
+import matplotlib.pyplot as plt
+with pd.option_context('display.float_format', '{:0.20f}'.format):
+    data = pd.read_csv('FLSP.csv')
+    print(data) #shows Frequencies/Amplitudes
+
+x = data['Frequency']
+y = data['Amplitude']
+
+plt.xlabel('Frequency')
+plt.ylabel('Amplitude')
+
+plt.plot(x, y)
+
+Which should give you something (as useless) like this;
+
+It's the Long Secondary Period (LSP) of the variable star at ~2350 days. Attach here is the fourier data if you want to check out.
+Help at this point is sincerely appreciated. Thnx a lot and clear skies.
+Note: I tried using Astropy's and Scipy's Lomb-Scargle, and their implementations require the observations; light curve, so I'm stuck on 'looking' at the fourier spectrum...suggesting to me that's its back to square one (hoping not lol).

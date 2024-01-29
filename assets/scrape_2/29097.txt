@@ -1,0 +1,5 @@
+Logarithmic scale for large distances?
+
+I understand this is an icky subject, but I recently got interested in units for large distances for applications in cosmology and what not (after hearing about the redefinition of the kilo and kelvin), and I was surprised to see many very weird units which seem difficult to use.
+So I was thinking in astronomy distances only get larger and larger, so I looked to see if I could find any logarithmic scale for distances and I couldn't find any. Then again, I'm not an astronomer and not suited to argue anything.
+Are there any logarithmic scales for larger distances, and if so why aren't they being used? And if non exist, is there a reason why(is it simply a bad idea)? Or is it simply a matter of keeping historical background?

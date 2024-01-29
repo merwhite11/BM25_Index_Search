@@ -1,0 +1,3 @@
+Stellarium software with DE431 for eclipse 10000 yrs ago
+
+Hi I am a novice in the field of astronomy. I want to find out the dates for lunar and solar eclipse 9000-11000 yrs ago. I found out that Stellarium is based on VSOP87 which is recommended for 4000 yrs ago. However, the software allows one to use DE431 which can provide planet ephemerides upto 13000 yrs ago. I am wondering if I can calculate eclipses observed in India accurately using DE431.

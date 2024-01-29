@@ -1,0 +1,8 @@
+Task about equinox and upper culmination
+
+I'm trying to solve this task:
+
+At what local time is the point of autumn equinox at its upper culmination three weeks after the vernal equinox?
+
+I think it has something to do with the sidereal day (23 hours 56 minutes and 4 seconds), but at what time should I start counting?
+Could someone please explain this? Thanks for any help.

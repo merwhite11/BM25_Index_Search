@@ -1,0 +1,15 @@
+How are image credits expressed in Astronomy presentations?
+
+Sorry if this is a stupid question. I'm preparing an astronomy presentation, and I want to make sure I give credits where credits are due. But I see credits appear in different formats, for example:
+
+ESA/Hubble & NASA, V. Antoniou; Acknowledgment: Judy Schmidt - a slash and an ampersand
+ESA/Hubble & NASA, B. Nisini - a slash and an ampersand
+NASA, ESA, and R. Humphreys (University of Minnesota), and J. Olmsted (STScI) - commas
+ESA/Hubble & NASA, L. Stanghellini - commas and ampersand
+
+If possible, I want all of the credits in my presentation to have the same format. So essentially, my question is: do a comma and a slash mean different things in image credits? Or can I write everything using the same format, e.g. for the four photos above:
+
+ESA / Hubble / NASA / V. Antoniou / Judy Schmidt
+ESA / Hubble / NASA / B. Nisini
+NASA / ESA / R. Humphreys (University of Minnesota) / J. Olmsted (STScI)
+ESA / Hubble / NASA / L. Stanghellini

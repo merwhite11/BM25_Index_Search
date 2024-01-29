@@ -1,0 +1,3 @@
+Do researchers create their own convolutional neural network models for their work or do they use existing ones (e.g. YOLO, detectron2, etc)
+
+When a researcher first decides to use AI to solve a basic classification problem, such as training a neural network to determine the morphology of a galaxy, are they more likely to start by using preexisting models, such as YOLO or detectron2 and train these on a custom dataset, or to create a new neural network from the ground up, with something like keras?

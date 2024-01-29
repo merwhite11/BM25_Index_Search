@@ -1,0 +1,5 @@
+Detect Passage of Massive Relativistic Object
+
+I came across an interesting article that speculates that we could detect an object of significant mass ("space-ship size") moving through our galactic neighborhood at a substantial fraction of the speed of light with existing technology.
+That got me wondering (for a sci-fi novel I'm writing) whether there would be evidence of such passage near the point in space where it occurred years or decades after such passage far from any star.
+The CMB interactions mentioned in the article would spread from the point of passage at the speed of light so would have long departed the area. Is it likely that some artifact of passage would still be present, such as a change to the interstellar medium (change to ionization rates, fusion of lighter elements, etc)? How quickly would any such changes disperse? For purposes of the question, assume that scientific observations are possible at the point of suspected passage.

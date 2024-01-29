@@ -1,0 +1,3 @@
+What is the contribution of star-produced axions to the dark matter budget of the Milky Way?
+
+I try to follow the discussion of axions since Peccei, Quinn, Wilzcek and Weinberg. What I still don't understand is how much the speculated stellar production of axions could add to the galactic dark matter budget and how much of the axions must be primordial to fit the bill. If the energy of the DM halo of the Milky Way is ≈2×10^59 kgm^2 s^(-2), about five times its baryonic matter content in terms of energy, how much can stellar axions have contributed to building up this halo without having radiated away the stars long ago?

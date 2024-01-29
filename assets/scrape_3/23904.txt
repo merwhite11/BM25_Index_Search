@@ -1,0 +1,5 @@
+Where can we find astronomical real world data (spectral radiance and wavelength particularly) of a star?
+
+I have my college project and I thought of finding the temperature of a star with the black-body curve of star but i need real data.
+I searched but can't find the thing what I want. all I am getting is ready-made graphs of it.
+I need the datas in numbers and not just graphs.

@@ -1,0 +1,12 @@
+How was Mars' very noticeable change in apparent magnitude explained by the Geocentric Model?
+
+In the geocentric model, the Sun, the Moon, and the 5 naked-eye planets (Mercury, Venus, Mars, Jupiter, Saturn) all orbited Earth.
+Today we know that the planets orbit the Sun, and thus they come closer to Earth at certain times than at others. This means that planets are noticeably brighter at opposition than when they're farther away.
+
+Mercury and Venus are inferior planets and thus their change in apparent magnitude over the course of one orbit is hard to notice.
+
+Jupiter and Saturn's orbital radii are much larger than Earth's and thus their closest and farthest approaches from Earth are not that different. This means that Jupiter and Saturn's apparent magnitudes over the course of one orbit does not change that much and is hard to notice.
+
+
+However Mars' apparent magnitude very clearly varies  over the course of one orbit. It is much brighter at opposition (reaching a maximum magnitude of -2.94) than even a month later, when it is noticeably dimmer. This is also further exacerbated by the opposition effect.
+How did the ancient cultures who believed in the geoentric model rationalize Mars' change in brightness? Surely they must have made the correlation that it is brightest when opposite to the Sun in the sky?

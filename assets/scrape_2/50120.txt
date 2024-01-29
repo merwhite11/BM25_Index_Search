@@ -1,0 +1,4 @@
+Mean Sunrise Time
+
+
+How did the author arrive to these numbers? How did he take the $\tan(\log(14 \deg 26 \text{ minutes}))$? I tried many times but I am not reaching to his numbers.

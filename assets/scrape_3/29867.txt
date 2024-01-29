@@ -1,0 +1,3 @@
+Data on galactocentric distances of various stars?
+
+I'm creating a project for my astronomy class (introductory course) that requires knowledge of the galactocentric distances for many stars. I'm struggling to find a good source on this, and I'd rather not parse through dozens of papers to compile it myself if possible. Is there a good table of stars (preferably around 100 or so) that includes their galactocentric distances? (Obviously you could calculate it using galactic coordinates but that's too complicated for my students to do for several stars)

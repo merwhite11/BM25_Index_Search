@@ -1,0 +1,12 @@
+Is this image of Sgr A* correctly labelled?
+
+This BBC article contains this "schematic description" of the EHT Sgr A* image:
+
+The source is described only as "EHT Collaboration" and I haven't been able to find the original image.
+The image shows a dotted ring labelled Event horizon, however it was made clear when the M87 black hole images were released that the central, dark area was the shadow of the black hole, not the event horizon.  ProfRob's answer to this question states that:
+
+When observed from a great distance, the central shadow appears to
+have a diameter of about 5 times the Schwarzschild radius of the black
+hole.
+
+So are we looking at the event horizon of Sgr A* in the above image, or is the diagram incorrectly labelled?

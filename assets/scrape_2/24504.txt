@@ -1,0 +1,10 @@
+What does Ptolemy mean by "a line drawn from the centre of the earth through the centre of the moon to a point on the ecliptic"
+
+This is from a translation of Ptolemy's Almagest:
+
+Hence it necessarily follows that the straight line drawn from the
+centre of the earth (which is the centre of the ecliptic) through the
+centre of the moon- to a point on the ecliptic, which determines the
+true position ([as it does] for all bodies).
+
+I don't understand what is means when is refers to "a line drawn from the centre of the earth through the centre of the moon to a point on the ecliptic. If the moon is on the ecliptic why must this line go through it. If it is not on the ecliptic how can a straight line go through its centre to a point on the ecliptic?

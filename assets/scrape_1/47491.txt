@@ -1,0 +1,3 @@
+Why aren't there eclipses every month when the moon's orbit is aligned with the ecliptic as a result of lunar precession?
+
+I can understand why we don't have eclipses every month when the inclinations of the ecliptic plane and the moon's orbital plane are different. But the inclination of the moon's orbital plane changes from 18.5 degrees to 28.5 degrees and back to 18.5 degrees every 18.6 years (as a result of lunar precession). In other words, once every 9.3 years, the inclination should be 23.5 degrees, aligning the moon's orbital plane with the ecliptic plane. And yet, we don't see eclipses happening at every new moon and full moon when the two planes are supposedly aligned. Why is that?

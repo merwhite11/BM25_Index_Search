@@ -1,0 +1,7 @@
+Limiting magnitudes for different telescopes
+
+I live in an extremely light polluted place. On a new moon night,  magnitude 3.5 stars are at the limit of  naked eye visiblity on clear nights, and the Orion nebula is visible as a smudge through my binoculars and I can see 6-7 stars of the Pleaidies (apparent magnitude about 5.5 I guess)
+If I buy a 130 mm reflector telescope, roughly what will be the limiting magnitude of the objects I can see?
+I used $5log(130/6.5)=6.5$, which means I would be able to see upto about magnitude 10 even from a light polluted city.
+This sounds too good to be true...
+Is my estimate roughly accurate and do you think spending a few hundred dollars on the telescope is worth it if I never intend to leave the city for a while?

@@ -1,0 +1,9 @@
+What determines which frequency range a radio telescope has?
+
+My simple understanding is that a parabolic dish focuses radio waves to a receiver. It is obvious that any parabola focuses visible light and heat, so I assume that it focuses all radio wavelengths too. So evidently the design of the receiver determines which wavelengths it is sensitive to.
+
+How is such a receiver designed in radio telescopes?
+What properties of the receiver determine the wavelengths it is sensitive to?
+Is the sensitivity range electronically adjustable?
+Why aren't different receivers used so that the same parabola, for example the huge Arecibo dish, could be used for all wavelengths? (Or is it?)
+What importance does the size and material of the parabola have for the sensitivity to different radio wavelengths?

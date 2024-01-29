@@ -1,0 +1,17 @@
+Basic celestial data
+
+complete beginner here, only got into star gazing a few days ago using my friend's telescope and I don't really understand at all what any of the measurements mean.
+Anyway, talk about jumping in the deep end, but I'm poking around Nasa's Intergalactic Database, but sadly it's all greek to me: http://ned.ipac.caltech.edu/
+Here's a galaxy: NGC 7590
+Here's its basic data:
+EquJ2000.0 RA
+EquJ2000.0 DEC
+Velocity km/s
+Redshift / z
+Magnitude / Qual Filter
+Separ arc min
+Now I'm afraid I don't really understand what any of these measurements and their values actually mean.
+I remember from school what Red Shift is, its the wavelength increasing becoming 
+'stretched' making the light seem to appear more reddish the faster an object is accelerating away from us. But what is that z unit?
+I'm afraid I really don't have a clue regarding anything else... spear arc min, magnitude / qual filter?
+Is there a book for a brief understanding of these units? Not out to solve problems regarding celestial mechanics, I just want the NED to make a bit more sense to me so I can visualize these objects.

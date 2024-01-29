@@ -1,0 +1,3 @@
+How can I obtain raw observation data of stars surrounding Sgr A*?
+
+Are there any publicly available telescope that offers the sensitivity to observe the stars surrounding Sgr A*? If not, is there any raw data available that I could download?

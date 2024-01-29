@@ -1,0 +1,16 @@
+Unit problem regards to proton
+
+In a textbook, we have an example:
+
+The density of matter in the interstellar medium is of order one
+proton per ${\rm cm^3}$, then the total mass of the interstellar
+medium is of order (The $10^6$ term accounts for the number cubic
+centimetres within one meter cubed). \begin{equation} m=1\times
+V_\text{galaxy}\times m_\text{P}\times
+10^6=3.3\times10^{40}{\rm kg}\approx 17 \cdot 10^9 M_{\odot}
+> \end{equation}
+
+So I was wondering, should the unit of the equation be:
+$\frac{{1}}{{\rm cm^3}}\times{\rm m^3}\times{\rm kg}$?
+And what exactly should be the unit of proton in the formula? Should it be unitless? Or ${\rm kg}$? Thank you.
+Source: Beech, M. (2019). Introducing the stars. Cham: Springer Nature Switzerland AG.

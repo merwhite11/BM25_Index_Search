@@ -1,0 +1,14 @@
+Can it be assumed that every star in an amateur astrophotograph has been cataloged?
+
+While I was looking at a wide-angle photograph of the Milky Way I wondered: Is it possible that some of the stars in the image have yet to be identified and/or cataloged?
+My answer to this is no, but I would like confirmation or counterexamples for my reasoning:
+
+The usual cited number of stars in the entire night sky that you can see with the naked eye (up to magnitude 6) is from 2500 to 10000 [1]
+With a telescope and long-exposure/stacking on a camera, stars of magnitude 10 to 14 can be seen, perhaps even fainter
+The Gaia star catalog (although not fully released [2]) contains data for 1.7 billion stars brighter than magnitude 20.7
+
+Assuming that a telescope/camera combination can detect 100 times as many stars than the naked eye can in the entire night sky, if we calculate the proportion of visible to cataloged stars: $$ \frac{n_{visible}}{n_{cataloged}} = \frac{100 \cdot 10e3}{1.7e9} \approx 0.05\% $$
+I would consider this a low enough value to conclude that every star above a certain magnitude has been detected and cataloged. Even seeing a thousand times more stars than the naked eye would give you 0.5% - a negligible proportion of the star catalog.
+Is this justifiable? Can these assumptions be challenged?
+[1] - https://earthsky.org/astronomy-essentials/how-many-stars-could-you-see-on-a-clear-moonless-night
+[2] - https://irsa.ipac.caltech.edu/Missions/gaia.html

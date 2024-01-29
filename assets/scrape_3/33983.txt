@@ -1,0 +1,9 @@
+How can a star be "thrown out of the Milky Way" by Sagittarius A*?
+
+A recent publication reports that a hypervelocity star on course to leave the galaxy was found, likely accelerated by the black hole at the center of the Milky Way in a process predicted by Jack G. Hills in 1988. A sentence from that abstract insightfully points out:
+
+The discovery of even one such hyper-velocity star coming from the Galactic centre would be nearly definitive evidence for a massive black hole. 
+
+The process involves a binary system coming close enough to the black hole that one of the stars is "captured" and the other one is flung out. 
+As far as I can see, the escaping star can at most end up with the kinetic energy of the other star on top of its own, accelerating it by a factor of $\sqrt{2}$ if the stars have the same mass. A "slingshot effect"  is impossible because the central black hole is stationary relative to the galaxy.
+Does that mean that this effect necessarily involves binary systems with very different masses so that more energy is available for transfer to the lighter star? Or are there other effects at play?

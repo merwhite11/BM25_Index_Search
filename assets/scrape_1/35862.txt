@@ -1,0 +1,3 @@
+Is there any thing special with an axial tilt of roughly 25°?
+
+Half of the planets in the solar system have an axial tilt of $25.5\pm 3^\circ$: earth (23.5°), mars (25.3°), saturn (26.7°) and neptune (28.3°). If random collisions in the early solar system caused the axial tilt of the planets, it seems like there should be a lot more variation in the planetary tilts. Is there some mechanism that favors tilts around 25°, or is this just a statistical fluke?

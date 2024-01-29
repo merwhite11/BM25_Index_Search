@@ -1,0 +1,3 @@
+Approximate spectral type and luminosity given apparent magnitude and distance
+
+I am looking at the data acquired from the Gaia DR2 survey. I found that most of the stars had their distance and apparent magnitude catalogued, but not their spectral type and luminosity class. Is there a way to approximate this?

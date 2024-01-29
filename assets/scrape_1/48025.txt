@@ -1,0 +1,16 @@
+How to calculate radial velocity from redshift?
+
+Ok, I know the question sounds silly, but please hear me out (at the very end it will probably still be silly though, albeit maybe differently).
+I'm trying to create a visualization of the galactic web on different distances measured in v. In 2d and 3d.
+I'm using Hyperleda datatabase as the source of data - there are over 2.8 million galaxies with data on redshift. HyperLeda doesn't provide redshift per se, but it provides v, which is cz, so getting redshift is just a question of dividing it by the speed of light. This seems correct, highest one in the database is 7.019723.
+The problem I encountered was when I tried to show distances on the visualizations - the radius of my universe was at over 2 times bigger then current estimations
+of the radius of the Observable Universe (30.3 billion parsecs compared to  estimated.14.3 billion parsecs).
+The problem seem to lie with the "v" (Mean Heliocentric radial velocity, in km/s) from Hyperleda, which I tried to use to estimate the distance in parsecs:
+df['d_v_pc'] = (df['v'] / cosmo.H(0)) * 1000000
+
+where cosmo.H(0)) is Hubble Constant, 69.32 km/Mpc s.
+I noticed that the higest v in the data is 2,104,460.
+At the same time, GN z11, galaxy with the higest redshift observed, has estimated helio radial velocity of 295,050 ± 119,917 km/s.
+So some of the galaxies seem to be moving away over 7 times faster then GN-z11, which doesn't look very correct.
+The question is, how can I (can I?) convert the current HyperLeda 'v' (cz) to actual helio radial velocity, that would be in the same order as the one of GN z11,
+and which I could in turn use to calculate distance? And why is there such a difference in those numbers?

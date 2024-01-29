@@ -1,0 +1,3 @@
+Amount of black holes over time
+
+Hello the number of black holes is much bigger than the number of black holes in the past right?Let $b$ be the number of black holes in the universe.Obviously $\frac{db}{dt}>0$ but what about $\frac{d^{2}b}{dt^{2}}$?

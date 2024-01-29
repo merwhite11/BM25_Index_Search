@@ -1,0 +1,8 @@
+Dynamics of red giant hydrogen shell
+
+From what I understood from this answer to How can a red giant grow so big?
+
+But this is not at all the way the shell fusing in a red giant self-regulates its fusion rate-- it cannot regulate its temperature, because the temperature is handed to it by the gravity of the degenerate core its sits upon. (This sets the temperature via the virial theorem, that is the key way the degenerate core affects the shell-- it sets its temperature.)
+
+For the fusing hydrogen shell, an increase in volume isn't accompanied by a decrease in temperature, which is how cores of main sequence stars stay in equilibrium. Consequently, this is why such a dramatic reduction in pressure is required for a red giant.
+Why doesn't thermal dynamics apply to the shell (or so I assume)? Why is the shell qualitatively different from a fusing core of a main sequence star? Is it because in a red giant, the core is massive and dense enough that the shell is degenerate?

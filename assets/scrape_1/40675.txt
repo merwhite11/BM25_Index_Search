@@ -1,0 +1,37 @@
+Deriving the first moment of Collisionless Boltzmann Equation in Spherical Polar Coordinates
+
+I am following these notes: Dynamics and Astrophysics of Galaxies.
+After equation 6.37, we have:
+\begin{equation*}
+    p_r\,\frac{\partial f}{\partial r} + \frac{p_\theta}{r^2}\,\frac{\partial f}{\partial \theta} +
+    \frac{p_\phi}{r^2\,\sin^2\theta}\,\frac{\partial f}{\partial \phi}
+    -\left(\frac{\mathrm{d} \Phi}{\mathrm{d} r}-\frac{p_\theta^2}{r^3}-\frac{p_\phi^2}{r^3\,\sin^2\theta}\right)\,\frac{\partial f}{\partial p_r}
+    +\frac{p_\phi^2\,\cos\theta}{r^2\,\sin^3\theta}\,\frac{\partial f}{\partial p_\theta} = 0\,.\\
+\end{equation*}
+This is the Collisionless Boltzmann Equation in Spherical Polar Coordinates.
+Then
+
+We now multiply this by $p_r$ and integrate over all $(p_r,p_{\phi},p_{\theta})$ using
+that $\mathrm{d}p_r\,\mathrm{d}p_\phi\,\mathrm{d}p_\theta = r^2\,\sin\theta\,\mathrm{d}v_r\, \mathrm{d}v_\phi\,\mathrm{d}v_\theta$ and using partial integration to deal
+with the derivatives of f with respect to the momenta
+
+\begin{align}\label{eq-spher-jeans-penult}
+    \frac{\partial (r^2\,\sin\theta\,\nu\,\overline{v^2_r})}{\partial r} + \frac{\partial (\sin\theta\,\nu\,\overline{v_r\,v_\theta})}{\partial \theta} & +
+    \frac{\partial (\nu\,\overline{v_r\,v_\phi}/\sin\theta)}{\partial \phi}\\
+    &
+    +r^2\,\sin\theta\,\nu\,\left(\frac{\mathrm{d} \Phi}{\mathrm{d} r}-\frac{\overline{v_\theta^2}}{r}-\frac{\overline{v_\phi^2}}{r}\right) = 0\nonumber\,.
+\end{align}
+I would like to arrive to this result myself. Multiplying the SPC CBE by $p_r$ & going ahead with the suggested volume element, considering the first term in the above equation, not being worried about the integration limits gives us:
+\begin{equation}
+\int p_r \frac{\partial f}{\partial r} p_r r^2 \sin\theta \mathrm{d}v_r \mathrm{d}v_{\theta} \mathrm{d}v_{\phi}
+=\int v_r^2 \frac{\partial f}{\partial r} r^2 \sin \theta \mathrm{d}v_r \mathrm{d}v_{\theta} \mathrm{d}v_{\phi}
+=r^2 \sin \theta \int v_r^2 \frac{\partial f}{\partial r} \mathrm{d}v_r \mathrm{d}v_{\theta} \mathrm{d}v_{\phi}
+\end{equation}
+Using 6.32 from the mentioned notes,
+\begin{equation}
+\frac{\partial (r^2\,\sin\theta\,\nu\,\overline{v^2_r})}{\partial r} = \frac{\partial}{\partial r} \left( r^2 \sin\theta \int v^2_r f \mathrm{d}v_r \mathrm{d}v_{\theta} \mathrm{d}v_{\phi} \right)
+\end{equation}
+Which is not equal to what I have found just a line above.
+What am I doing wrong?
+
+Some question on Math.SE & Physics.SE.

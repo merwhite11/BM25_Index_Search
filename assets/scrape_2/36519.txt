@@ -1,0 +1,14 @@
+How many times has the Milky Way rotated?
+
+I would think that is a highly naive question, but I still ask it. 
+Given current experimentally discovered numbers:
+
+the Milky Way galaxy is ~13-14 billion years old
+At the galactic radius where our sun is, the rotational period is about 240 million years.
+
+So, with nothing changing at all (the galaxy and stars pop fully formed into existence, the rotation period doesn't change), the galaxy has rotated roughly 
+
+~14/(1/4) = 50 to 60 times.
+
+Since the assumptions are naive, what is a better approximation for the number of times? How long has the mass that is recognizable now as the Milky Way been rotating (and what has been the speed by radius over time)? Is it a lot more than 50 times and if so, has it been slowing down as a whole or just at the Sun's position, or a less because the coalescence into stars rotating took a few billion years to translate into the faster rotation which it is now mostly set at? Or some other reason which is more articulate?
+Note: This question is similar to but distinct from The equation for how many times the Earth has revolved around the galaxy, as the title asks similarly what I'm asking but the content just asks for how to calculate rotational speed.

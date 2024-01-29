@@ -1,0 +1,3 @@
+Spectra from Temperature and Emission Measure
+
+Having the solar flare fluxes on the two bands of GOES (0.05-0.4 nm and 0.1-0.8 nm) I need to calculate the flux between 0.05 and 0.2 nm.

@@ -1,0 +1,3 @@
+Does the density in the core of a "higher mass" star stay generally constant while it evolves on the MS?
+
+We know the CNO cycle produces the majority of energy production in a "higher mass star" of approx. over 2 solar masses and the core is convective due to the large temperature gradient. My professor has noted that radius, luminosity, T_eff, and T_center all increase but rho_center (density) does not. I cannot find anything in my text that explains this, but I assume it is because convection works against gravity. If someone could clear this concept up (as to why rho_center) stays generally constant, I'd appreciate it. Conceptual explanations are helpful!

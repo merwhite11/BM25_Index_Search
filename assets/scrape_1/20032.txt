@@ -1,0 +1,3 @@
+Difference between luminosity, luminous flux, and radiant flux?
+
+I've looked this up, and was wondering the differences between them. Luminosity is the total energy emitted by a source, in watts. However, I'm confused about luminous flux and radiant flux. Since radiant flux is the total energy emitted by an object, would that make luminosity the same as radiant flux? Then how does luminous flux relate to luminosity? Is luminous flux just radiant flux, but only showing the visible light? And this website, https://www.ifa.hawaii.edu/~barnes/ASTR110L_S03/inversesquare.html, says lumens are a unit of luminosity, but how if lumens are candela times steradians?

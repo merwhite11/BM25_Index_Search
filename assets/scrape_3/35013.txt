@@ -1,0 +1,3 @@
+Is it possible to overcome the problem of blind spot(s) of current gravitational wave detectors?
+
+If gravitational waves (GWs) pass through specific points (which are known as blind spots), current GW detectors aren't able to detect the passing waves. In the future, will we be able to completely overcome this problem or will it always be there to a certain extent?

@@ -1,0 +1,10 @@
+Calculate Earth's distance travelled in a year
+
+This is probably more of a math question than astronomy, but I'd like to know the distance the Earth travels in one revolution around the sun (i.e. a year).
+According to the data in Wikipedia, I think there may be several ways for me to calculate this but I'm not sure whether they are correct or how to do them:
+
+Calculate by velocity and time: the average velocity is given as $107200\ \mathrm{km/h}$ (a suspiciously round number; imprecise?) and one revolution takes $365.256363004$ days. That gives $\text{distance} = 107\,200\ \mathrm{km/h} \times (365.256363004 \times 24\ \mathrm h) = 939\,731\,570.736691\ \mathrm{km} \approx 939.731\ \mathrm{Gm}$
+Calculate by semi-major axis and eccentricity: my math is too weak for that. I searched the web and didn't find a solution for that (calculating the circumference of an ellipse exactly seems to be a problem?)
+Any other way using the orbital data given in the Wikipedia article?
+
+In essence, this can be made into a pretty generic question: How do I calculate the distance an object travels in one revolution using the usual orbital parameters?

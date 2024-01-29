@@ -1,0 +1,8 @@
+Star System Formation questions
+
+I'm making a game in which I'd like to randomly generate star systems. Which is cool.
+The trouble I'm having is working out exactly what limits I need to place on the generation. So far, the wikipedia hasn't been all that helpful. So some questions:
+
+Rocky planets form within the frostline of a protostar. What's the radius of this line? What I'm sort of asking is that given a particular mass and density, what radius from that star is the line.
+If the jovian planets form outside of this line; why have so many been found within this line in other star systems from our own? Is this only selection bias or is it more likely that our models are incorrect at this point?
+How does the creation of the gas giants differ from the creation of the ice giants? Is it simply like a second "frost line" where there wasn't enough gaseous material to form a large jovian planet but plenty of ices to form ice giants? If so, how is the creation of the ice giants different to Dwarf planets?

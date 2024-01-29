@@ -1,0 +1,5 @@
+What's the difference between GSR and Grf
+
+I note there are two terms about Galactic rest frame in literatures:
+Galactic Standard of Rest (GSR) and Galactic Rest Frame (Grf). 
+Are they the same frame? If not, what's the difference?

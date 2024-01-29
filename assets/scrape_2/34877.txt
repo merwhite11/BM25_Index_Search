@@ -1,0 +1,5 @@
+How to calculate the true length of day on a celestial body?
+
+When I only know the sidereal rotation period, how do I determine the true length of day on a body? 
+We know the Earth's sidereal day doesn't have full 24 hrs unlike the true length of day. It's similar on Mars where the sidereal day isn't as long as a Sol (about 24 hrs 40 min) either. So how do we calculate the true length of day on a planet?
+Let's do it on the example of the planetoid Ceres: its sidereal rotation period is 9 hrs 4 min and 27 sec. How do we calculate the true length of day on Ceres?

@@ -1,0 +1,5 @@
+Redshift for gravitational waves?
+
+According to general relativity, would gravitational waves experience the same sort of redshift that electromagnetic waves experience due to the expansion of the universe?
+And are there astrophysical processes that would be expected to have a characteristic 'frequency signature' analogous to the lyman or balmer series of hydrogen which would enable a measurement gravitational wave redshift. 
+I'm thinking of processes like baryon accoustic oscillations, certain types of supernovae, neutron star mergers, etc.

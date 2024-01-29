@@ -1,0 +1,5 @@
+Tallest cliffs, by falling duration
+
+If you threw something over a certain cliff on a moon of Uranus, it would take over ten minutes to hit bottom.
+By this measure, local fall time rather than absolute height, what are the near contenders to the prize for tallest cliff on a body in hydrostatic equilibrium in the solar system?  Throwing the object horizontally at a few meters per second is ok.  Not ok is throwing it beyond a tiny body's Hill sphere.  Cliffs, not spheres.
+Simplifying assumptions about atmospheres and exospheres are ok.

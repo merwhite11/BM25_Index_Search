@@ -1,0 +1,3 @@
+What are the exact properties and evolution of a star with 1.23 Solar masses?
+
+I'm working on a project where the star at the centre of the planetary system is 1.23 Solar masses. What would it's properties and evolutionary track be (i.e. main sequence lifespan, length of the red giant phase), assuming a metallicity slightly but not hugely higher than the Sun?

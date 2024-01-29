@@ -1,0 +1,28 @@
+derivation of binary mass function for eccentric orbit
+
+When investigating methods to detect exoplanets, I learned about binary mass function(BMF) which could be applied to obtain radial velocity and the mass. I've derived BMF for a circular orbit, but I get wrong answer when it comes to an eccentric orbit.
+$$
+\frac{M_2^3}{M_{tot}^2}=\frac{4\pi^2}{G P^2}a_1^3 \\
+$$
+from:
+$$
+-\frac{GM_1M_2}{a(1-e)}+ \frac{1}{2}M_1v_1^2 + \frac{1}{2}M_2v_2^2
+=-\frac{GM_1M_2}{a(1+e)}+ \frac{1}{2}M_1v_1^{{'2}} + \frac{1}{2}M_2v_2^{'2} \\
+M_1v_1a_1(1-e)=M_1v_1^{'}a_1(1+e)\\
+M_2v_2a_2(1-e)=M_2v_2^{'}a_2(1+e)\\
+M_1v_1=M_2v_2\\
+a = a_1\frac{M_{tot}}{M_2}
+$$
+I got:
+$$
+a_1=\frac{1+e}{1-e}\frac{GM_2^3}{M_{tot}^2 v_1^2}
+$$
+so:
+$$
+\frac{M_2^3}{M_{tot}^2}=\frac{Pv_1^3}{2\pi G}(\frac{1-e}{1+e})^{3/2}=\frac{PK^3}{2\pi G \sin^3 i}(\frac{1-e}{1+e})^{3/2}
+$$
+However, result from Wikipedia is:
+$$
+f = \frac{M_2^3 \sin^3 i}{M_{tot}^2} = \frac{P  K^3}{2\pi  G}(1-e^2)^{3/2}
+$$
+I'm wondering what's wrong with my calculation...

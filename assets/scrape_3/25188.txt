@@ -1,0 +1,16 @@
+Can hot Jupiters cause solar flares?
+
+I'm very new at Astronomy, and my knowledge is sparse. I've tried to be conscientious about my Wikipedia research but there's going to be a lot of things I don't know. Thanks for your patience.
+
+BACKGROUND
+I had read that hot Jupiters can cause superflares due to magnetic recombination. But checking Wikipedia I came across the following:
+
+Not all planetary transits can be detected by Kepler, since the planetary > orbit may be out of the line of sight to Earth. However, the hot Jupiters > orbit so close to the primary that the chance of a transit is about 10%. > If superflares were caused by close planets the 279 flare stars 
+  discovered should have about 28 transiting companions; none of them 
+  actually showed evidence of transits, effectively excluding this 
+  explanation.
+
+- Wikipedia
+
+QUESTION
+Given this, and among modern astronomers in general, is the theory that hot Jupiters can cause superflares on the outs? Or is the article just saying that hot Jupiters can't explain these particular stars, while the model remains valid elsewhere? Do we have any solid evidence of a gas giant causing solar flares, super or otherwise?

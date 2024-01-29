@@ -1,0 +1,11 @@
+What percentage of the celestial sphere can the Moon cover?
+
+I was solving a task that said (paraphrasing):
+
+What percentage of the night sky can the Moon cover during the entire
+  year, when observed from all points on Earth (what percentage of the
+  night sky can be studied with the occultation method)?
+
+
+This is a task I read from a book, and the solution states that the Moon covers a "ribbon" of width $\alpha$ where $\alpha = 0.5 ^{\circ} + 2*1^{\circ} + 2*5.3 ^ {\circ} = $ angular diameter of the Moon + 2*the Moon's daily parallax + 2*the inclination of the Moon's orbit to the ecliptic; and length $360 ^{\circ}$.
+Why is this like this, I understand the diameter and parallax part, but I couldn't visualize the problem very well. Why is the third number the inclination to the ecliptic and not to the equator?

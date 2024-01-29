@@ -1,0 +1,13 @@
+Creating a basic "fixed" solar system to host a 3D space travel simulation
+
+I'm trying to simulate a virtual/imaginary "solar system" in software--just a hobby project for now. Unfortunately this has made me realize exactly how much math I've forgotten since college.  
+Complete accuracy isn't important, and I'm not looking to do anything sophisticated... no need for multi-body calculations, just a star and a planet will do. I just want something that a lightweight simulation or a game might do. 
+I'll have a configuration file with some basic starting parameters for each planet. At the start of the simulation, time=0 seconds, all planets would be lined up in a row (planning on just placing them on the same axis at their perihelion distance from the star). I'd like the planets to move around their orbits at the correct speed given the parameters supplied. So if I decide to set time = 1e10, I need to be able to calculate the x and y positions of each planet in their orbit at that precise time.
+I'm flexible on WHICH parameters need to be provided. So if this becomes easier using some other method of defining the orbit, I'm open to it. Right now I'm thinking perihelion, mass, and time elapsed.  
+(Since this is a 3D simulation, eventually I'd also like to work inclination in, but I'm trying to start off simple for now, so inclinations will all be zero.)
+Here's some sample parameter data below in case it helps provide a better example.  
+Star mass = 2.00e30
+Planet mass = 3.30e23
+Planet perihelion = 5800000
+(Ex. Where would this planet be, in X/Y coordinates, at time=x?)
+If someone posts a formula I can just plug in I won't complain. But if I could just be pointed in the right direction for what to learn or refresh my memory on, I'd like to try and figure this out myself. So far I've been looking at Kepler's 3rd Law equations but I'm not sure if that's a good place to start. Feeling a little guilty that I seem to have forgotten virtually all math I learned in college just over a decade ago, and I kind of want to reverse some of that decay.  Hopefully this makes sense!

@@ -1,0 +1,8 @@
+In how far is Hipparcos data still being used?
+
+I remember being excited when ESA launched Hipparcos in 1989 and was in operation until 15 August, 1993. Later, Gaia came into operation in 2013.
+Reading What is the overlap between the Gaia and the Hipparcos catalog? I started wondering whether any of the Hipparcos data is still being used and for what. Could somebody please guide me with a concise explanation?
+Reference
+
+https://www.cosmos.esa.int/web/hipparcos/catalogues
+https://www.cosmos.esa.int/web/gaia/data

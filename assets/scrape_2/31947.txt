@@ -1,0 +1,6 @@
+Given a star's mass, age, and composition, how do I calculate the rest of its properties?
+
+If I'm given a star's starting mass, starting composition (metallicity), and its current age, How do I calculate the star's luminosity, current mass, and radius?
+I want to know how to do this for any star, from the minimum size of 0.08 solar masses all the way up to stars 100-150 solar masses for a personal project.
+I know that there are equations that relate these things, but my desperate googling has only found bits and pieces of the answer I'm seeking. Also, many of the equations I've found only apply to stars within a certain mass range (usually near the sun.)
+I would seriously appreciate some guidance from an expert in the field.

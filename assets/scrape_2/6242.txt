@@ -1,0 +1,5 @@
+How LOFAR pass through the ionosphere?
+
+The LOFAR project open a new window in the universe's study because it allows to receive low frequences of the universe that we could not get because of the ionosphere. 
+But I'm wondering how can LOFAR pass through the ionosphere? Is it because of the large fields of antennas? Or it is something else?
+Thanks for any answers which can clear my mind.

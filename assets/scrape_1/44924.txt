@@ -1,0 +1,6 @@
+What is the (overall) half-mass radius of Milky Way
+
+I am doing some simulation and I need the half-mass radius of Milky Way (total mass: including all objects, dark matter, nebula...), but I cannot find the value and I don't know how to calculate it.
+I don't know whether it has some relation with half-light radius and the radius when the rotation curve get the apex or not.
+I just want to know an interval instead of accurate value.
+If it is impossible to get the value or the interval of total mass, half-mass radius that contains stellar is also okay.

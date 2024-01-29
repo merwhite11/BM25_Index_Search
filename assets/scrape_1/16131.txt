@@ -1,0 +1,5 @@
+Capability of observing transits with terrestrial telescopes of various sizes?
+
+I have access to my university's telescope, Dearborn Observatory, an 18.5 inch refractor on the shore of Lake Michigan, just north of Chicago (yes, it's an atrocious location, but the telescope still works fantastically given this), and I was wondering if it would be possible to detect exoplanet transits.  I have access to a CCD.  Obviously, normally this would take quite a while, but I was looking at Wikipedia's list of transiting exoplanets and several of them have periods of less than 10 hours or so.
+Are there any good resources about the math for this?  Or is the approximation that size of the change in light observed by the transit is just using the ratio of the area that the planet occludes to the area of the host star a reasonably good approximation?
+Or is observing the transits of any known exoplanets completely unfeasible with this size of telescope?  From previous nights of photographing the sky, it seems like the telescope's limit is roughly magnitude 13-15, beyond which the signal-to-noise ratio is just too low to get meaningful data.

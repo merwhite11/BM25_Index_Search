@@ -1,0 +1,31 @@
+How to compute a Flux through a filter using SYNPHOT in Python
+
+I am in the process of building an exposure time calculator to help nail down the exposure times I need for different targets in my observatory.
+In amateur astronomy imaging, we use a filter called Luminance filter, that lets all the light from a source pass through to the CCD sensor, from 400 nm to 700 nm. It is basically a very wide broadband filter. Online I found the fluxes for UBVRI filters but not for such a broadband filter, probably because it doesn't have any use for scientific work.
+For example with a V filter, mag=0 star (Vega), the Flux = 3.75e-9 ergs/sec/cm2/A.
+I would like to find the Flux for the Luminance filter for mag=0 star
+Recently I came across the SYNPHOT module for python, so I tried to simulate a filter, but I don't know how to actually compute the Flux for such a filter.
+Here is the python code:
+import numpy as np
+from synphot.models import BlackBody1D,BlackBodyNorm1D
+from synphot import units, SourceSpectrum, SpectralElement
+import matplotlib.pyplot as plt
+
+# create a source spectrum type like Vega (mag = 0)
+black_body = SourceSpectrum(BlackBodyNorm1D, temperature=10000)
+
+#create the filter with a central waveL of 5500 A and a width of 2500 A on either side
+L_filter = SpectralElement(Box1D, amplitude=1, x_0=5500, width=2500)
+
+#plot the filter waveL vs transmission, convert A to nm
+L_filter.plot(wavelengths=bp.waveset.to(u.nm), top=1.1, title='Luminance filter')
+plt.ylabel("Transmission")
+
+#Normalize the source spectrum to 1 Jy in a given box bandpass and integrate it:
+sp_rn = black_body.normalize(1 * u.Jy, band=L_filter)
+print(sp_rn.integrate())
+
+#Create an observation by passing the normalized source spectrum through the box bandpass:
+obs = Observation(sp_rn, L_filter)
+
+Any idea if this is the way to do it? And how should I continue to compute the Flux?

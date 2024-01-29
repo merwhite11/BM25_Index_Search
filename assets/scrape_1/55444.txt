@@ -1,0 +1,10 @@
+Why is there a difference between the ICRS and EME2000
+
+
+The International Celestial Reference System (ICRS) defines coordinate axes that are closely aligned with those of the J2000 (aka EME2000) reference frame. The International Celestial Reference Frame (ICRF) and later versions of it (ICRF1, etc.) are realizations of the ICRS. For brevity, we'll simply refer to ``the ICRF'' below.
+
+
+The rotational offset between the J2000 frame and the ICRS has magnitude of under 0.1 arcseconds.
+
+-Reference Frames
+I have found several references which show that there is a small difference between EME2000 and ICRS.  I've also found several references which show that EME2000 is defined based on the orientation of the earth while ICRS is defined by extragalactic objects.  However, I have not found any document describing why there is a difference between the two frames.  What is the reason for why these frames were not constructed to be coincident with each other?

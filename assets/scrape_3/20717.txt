@@ -1,0 +1,7 @@
+Publish data in the virtual observatory
+
+I study Computer Science and I need to understand perfectly how is the process of publishing data to the virtual observatory, since I will start a project that seeks to develop another platform to enter data into the virtual observatory (in a more intuitive way if it's possible)
+If I understand correctly I believe that this is currently done by means of http://cdsweb.u-strasbg.fr/publication-support#yourDataInVizieR and trough other web pages like http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/ or programs like http://aladin.u-strasbg.fr/
+Does anyone understand the topic or where can I find documentation?
+I feel a bit overwhelmed because in these web pages I see there are many concepts that I do not understand well catalogs, VOTable, I do not even understand very well what a virtual observatory, I do not want to ask my "thesis" adviser every 5 minutes about basic concepts.
+Any help will be well received.

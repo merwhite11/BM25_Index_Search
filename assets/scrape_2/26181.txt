@@ -1,0 +1,3 @@
+keplers third law
+
+does Keplers third law work if one were to, in some way use the semi minor axis instead of the semi major axis? and does the difference between the arithmetic, geometric and harmonic means play any role?

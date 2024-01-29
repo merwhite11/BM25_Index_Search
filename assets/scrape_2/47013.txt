@@ -1,0 +1,7 @@
+Is there a way to convert a list of stellar fluxes to a star type?
+
+If I look up a star on Simbad, (for instance this one), a list of fluxes in different bands might be given.
+Star classes (O, B, A, F, G, K or M) depend on the color of the star. The color of a star can be inferred by looking at the spectrum of the star, or by comparing its flux in different bands.
+Is there a way of converting this list of fluxes from Simbad into a star class? How can I deduce the star class based on the info given on the Simbad page?
+
+I know that stellar classes have precise subcategories based on the spectra (e.g. our own Sun is a G2V star), but I'm only interested in knowing if it is possible to obtain the most general star class (e.g. a G star)

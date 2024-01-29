@@ -1,0 +1,11 @@
+How to determine the color term for a filter with a systematically bluer offset than the standard
+
+This is a hypothetical scenario in an attempt to test my understanding of the color term when performing photometric calibrations:
+Imagine we are observing stars through a B filter with an offset towards the blue end of the spectrum (let's say about 50 Angstroms bluer than the standard B filter). Naturally, the stars we observe will appear to be bluer than they really are (there will be a systematic offset). In this case, a correction term would need to be added in order to effectively "dim" the star. We would want to add a positive number to make the magnitude larger (dimmer).
+This is where I am a bit confused. Say this offset is 0.25 magnitudes between the "our" hypothetical bluer B filter and a real blue filter for a star. Would the color term be negative or positive?
+I would think it would be positive since the color term appears on the right as follows:
+m_instrumental - m_B = C_B (B-V) + Constants (ZP + extinction)
+ie. We want to add a positive number to the instrumental magnitude so it would be negative. Is this correct or am I missing something?
+Here is a good resource link and or a refresher for those that want to take a look at what I am referring to:
+Update: for arguments sake, let's pretend all the stars appear bluer.
+Resource

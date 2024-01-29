@@ -1,0 +1,6 @@
+Variation in g acceleration due to gravity
+
+I want to find a routine which will enable me to calculate the variations in g
+as a result of the motion of sun and moon. I need to have the date as a variable.
+I realise that Dennis Milbert's earth tide routine must contain this information, but I
+am reluctant to try to unpick his work. Where to go, please ?

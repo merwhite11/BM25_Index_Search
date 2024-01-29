@@ -1,0 +1,5 @@
+Why are the magnetic poles of a pulsar so far off the rotational axis, yet stable?
+
+My understanding is that a pulsar is a neutron star whose magnetic poles don't coincide with the rotational poles and whose magnetic poles sweep through Earth (allowing us to hear radio noise).
+If we keep hearing pulsars, the polar offset must be very stable.
+Why is such an alignment offset so stable?

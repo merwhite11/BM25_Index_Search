@@ -1,0 +1,14 @@
+Why does the axis tilt (obliquity) of Earth change over time?
+
+I have recently learned that the polar axis of Earth moves in a complex fashion. There are both precession and nutation. I have learned that Earth's obliquity varies between 22.1 and 24.5 degrees on a 41,000-year cycle. My questions are:
+
+What accounts for the change of obliquity in the range of 22.1 to 24.5 degrees besides nutation, which I assume is a relatively high-frequency process consisted of many terms (like a Fourier expansion series)?
+
+Do the ecliptic or the invariant plane of the solar system rotate with respect to the distant stars, and if so, are they responsible for the variation of Earth's obliquity?
+
+Lastly, how should we understand the period of 41,000 years. The wiki says something I found confusing.
+
+
+
+This cycle is a combination of precession and the largest term in the
+motion of the ecliptic

@@ -1,0 +1,5 @@
+How close would the orbit of Mars have to be to that of the Earth to induce a collision?
+
+When the Earth passes by Mars they exert a slight gravitational pull on each other, but the force is so small that their orbits are not significantly disturbed.
+However, if we imagined that the orbits of the Earth and Mars were coplanar and much closer to one another, then there would presumably be some critical distance at which they would move together and collide.
+What is that critical distance? In other words, if we shrunk the radius of the orbit of Mars, how much would it have to shrink before a collision would occur by the natural force of gravity between the two bodies?

@@ -1,0 +1,25 @@
+Calculating AZ and ALT from RA and DEC: values are slightly different from Stellarium
+
+I'm developing my own planetarium software and I using Stellarium to check if the values a get from my software are correct or not.
+All values are roughly equal, being different only in the seconds.
+These are Stellarium coordiantes followed by my coordinates.
+Note, this is a CSV txt file. I don't know if I can attached to this question so I have pasted here:
+Star;RA J2000;DEC J2000;RA J2016;DEC J2016;Hour Angle;AZ;Alt.
+Betelgeuse (Stellarium);5h55m10.34s;7d24m25.6s;5h56m2.38s;7d24m22.0s;23h52m25.55s;+176d38m27.3s;+55d59m52.0s
+Betelgeuse (My software);5h55m10.34s;7d24m25.596s;5h56m2.32s;7d24m31.74s;23h52m25.6662s;+176d38m29.643s;+56d00m01.836s
+Rigel (Stellarium);5h14m32.28s;-8d12m05.9s;5h15m18.50s;-8d11m12.8s;00h33m09.44s;+190d42m52.5s;+39d51m52.8s
+Rigel (My software);5h14m32.279s;-8d12m05.9s;5h15m18.46s;-8d11m03.24s;00h33m09.5262s;+190d42m55.996s;+39d52m02.033s
+Bellatrix (Stellarium);5h25m7.86s;+6d20m58.7s;5h25m59.49s;+6d21m37.1s;00h22m28.45s;+189d40m43.7s;+54d38m14.4s
+Bellatrix (MySoftware);5h25m7.9s;+6d20m59s;5h25m59.42s;+6d21m46.71s;00h22m28.5662s;+189d40m48.830s;+54d38m23.685s
+Mintaka (Stellarium);5h32m00.41s;-0d17m56.7s;5h32m49.55s;-0d17m27.8s;0h15m38.38s;+185d52m14.8s;+48d11m30.9s
+Mintaka (MySoftware);5h32m00.42s;-0d17m56.6988s;05h32m49.51s;-0d17m18.1958s;00h15m38.4762s;+185d52m18.043s;+48d11m40.40s
+Alnilam (Stellariumm);5h36m12.82s;-1d12m06.9s;5h37m01.63s;-1d11m44.00s;00h11m26.31s;+184d13m21.1s;+47d21m31.3s
+Alnilam (My software);5h36m12.82s;-1d12m06.912s;5h37m01.57s;-1d11m34.2547s;00h11m26.4162s;+184d13m24.435s;+47d21m40.929s
+Alnitak (Stellarium);5h40m45.54s;-1d56m33.2s;5h41m34.07s;-1d56m16.6s;00h06m53.87s;+182d30m42,7s;+46d40m01.3s
+Alnitak (My software);5h40m45.55s;-1d56m33.2160s;5h41m34.03s;-1d56m06.8887;00h06m53.9562s;+182d30m45.212s;+46d40m10.931s
+Saiph (Stellarium);5h47m45.40s;-9d40m10.6s;5h48m31.01s;-9d40m03.7s;23h59m56.93s;+179d59m01.5s;+38d57m56.3s
+Saiph (My software);5h47m45.38s;-9d40m10.5960s;5h48m30.9500s;-9d39m54.0031s;23h59m57.0362s;+179d59m03.631s;+38d58m05.992s
+
+Is that different a problem? 
+I don't know which value is the correct one (the one from Stellarium or the one from my software). The maximum difference is about 10 seconds.
+And the difference between declinations (Stellarium and mine) is always greater that the difference between right ascensions.

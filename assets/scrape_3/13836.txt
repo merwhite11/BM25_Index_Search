@@ -1,0 +1,6 @@
+Astronomy Olympiad Gravitation Qn
+
+Question:
+Approximately once in 5 years people on Earth can observe bright comets whose nuclei have radius about 1km. The orbits of such comets are close to parabolic. Assuming that these nuclei are uniformly filling the volume of spherical Oort cloud with radius 10000 AU, estimate the number of large comet nuclei and mass of Oort cloud.
+I'm not sure how to even start this question because I don't get how the comets uniformly fill Oort cloud yet on Earth we can only observe comets once every 5 years (unless there are some things blocking our views of these comets?). Would appreciate any help.  
+P.S. Relativity should not be needed in this question...

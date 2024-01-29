@@ -1,0 +1,15 @@
+What are Stokes parameters for galaxy shapes, how do they compare to Stokes parameters in optics?
+
+I remember Stokes parameters as a way to completely define the polarization state of a well-defined beam of light. However several questions here refer to Stokes parameters used in characterizing the morphology of galaxies.
+In Optics it's $S_0, S_1, S_2, S_3$ and in Astronomy it's $Q, U$.
+I'm guessing that these are not exactly the same set of parameters. but there might (or might not) be some connection either historically or in the way some observations were made.
+
+How did they both end up being called Stokes parameters? Is there a relationship?
+How are they calculated (equation and/or short explanation please, not just a link)
+
+Related questions:
+
+What methods exist to calculate the ellipticity of galaxies
+How to determine the ellipticity of galaxies in SDSS
+What is the meaning of ellipticity of a galaxy being more than 1?
+How to get ellipticities of galaxies from SDSS using casjobs?

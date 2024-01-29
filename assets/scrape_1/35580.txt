@@ -1,0 +1,3 @@
+Why does half of a planet's radius end up being the radius of the core?
+
+This answer makes the assumption that the ratio between the radius of a planet and the radius of its core is roughly constant shortly after planetary formation. Why should this be the case? Do we know why, when a planet forms, it ends up with half of its radius being core?

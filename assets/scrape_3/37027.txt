@@ -1,0 +1,3 @@
+Are there ways to determine a star's spectral type without the spectrum itself?
+
+Because of the lack of available data online, I am trying to find other ways to determine an exoplanet's host star's spectral type.

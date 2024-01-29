@@ -1,0 +1,5 @@
+Can the Sun be used as a point source of light to achive better focus?
+
+There's a limit to how well sunlight can be focused by a parabolic reflector or a lens because the Sun is not a point source. I wonder if the sunlight could be engineered to work as if it was (much more similar to) a point source.
+If almost all of the Solar disc was covered by a coronograph, the light which gets through a small hole would be (almost) a point source. Is that correct?
+If then an array of such covered reflectors or lenses concentrated their light to one and the same point, would a better focus be achieved than without covers?

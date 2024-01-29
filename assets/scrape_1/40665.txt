@@ -1,0 +1,4 @@
+What is the average luminance of the star background?
+
+What is the luminance of the star background, i.e. of all the objects outside of the Solar system? E.g. if we measured average luminance of the sky from the far side of the Moon (so that solar and lunar contributions, as well as Earth's atmosphere, didn't count) with the brightest planets being below the horizon, what quantity would we get?
+If there haven't been any measurements of luminance, maybe illuminance in the similar conditions has been measured?

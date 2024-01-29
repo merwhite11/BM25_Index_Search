@@ -1,0 +1,18 @@
+Callisto's orbit: circular vs JPL is periodic 4 degree error, why?
+
+I am approximating the azimuthal angle of Callisto from Jupiter or the Jupiter+moons barycenter using a constant angular speed circular orbit. This differs from the JPL ephemerides by only about 4 degrees, and the error has a very pleasant shape with a period of around 14 days.
+However, none of the higher accuracy corrections I can find explain the 4 degree error (they seem to all be much less than a degree, and do not have the right time period). Is there a simple explanation?
+I used a very simple formula:
+angle = 21.57107 * time-in-days + angle-at-time-zero
+This can be found from https://ssd.jpl.nasa.gov/?sat_elem or Meeus's Astronomical Algorithms (Chapter 43, satellites of Jupiter).
+Meeus's book (I only have the first edition) list some corrections:
+
+eccentricity
+movement of the perijove (slow, less than 0.001 degrees per day)
+a list of terms, the largest is 0.84 degrees, the rest 0.03 degrees and quickly decreasing in size
+
+The eccentricity correction did not appear to help (it is listed with what appears to be an incorrect value of 21.487... instead of 21.57... but maybe this is my error). I used Kepler's equation (iterative solution, then cartesian form of ellipse, and arctan to return to the angle) to more directly handle the eccentricity, but Callisto's eccentricity of 0.0074 did not make much difference (the semi-major and semi-minor axis are the same length up to rounding on the JPL website).
+Here is the graph of the error over about 60 (Earth) days time. Let me know if python code would make the question more precise. The JPL data is used to compute the position of Callisto with respect to the Jupiter system barycenter, and then I just take arctan2(y,x) to get the azimuthal angle. This agrees fairly well with the simple linear function angle = 21.57107*days, but with a +-4 degree variation depicted here:
+
+Edit: I think I can explain away half (2 degrees worth) of the error by saying the orbit is tilted 25 degrees parallel to the equator. The reduced error still has a smooth periodic shape, but as far as I know, Callisto orbits around the equator of Jupiter. I checked that the JPL data does seem to include a 25 degree tilt.
+I'm having a hard time interpreting things as my terrestrial mind has just started to grapple with the idea that a day (a full day-night cycle) is shorter near the poles of Jupiter than at the equator, and so what do we even mean by longitude. Does Jupiter have an equator? Does a barycenter have an equator? What is tilt?

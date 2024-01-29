@@ -1,0 +1,15 @@
+Detecting the Chicxulub impactor, right now
+
+Say an asteroid identical in all ways to the Chicxulub impactor (size, mass, materiel, orbital type, etc) was about to hit us.  (Again!)
+As of exactly early 2018,
+given our known instruments and indeed our known watch-out-for-asteroid-collisions systems,
+in fact,
+
+when would it be a reasonable certainty, that we would know about it coming?  (Only days before hand?  Weeks - months - years - decades?)
+
+Are there any gotchya factors?
+(Such as ... we'd likely miss it if it came from 'above'? 'from the direction of the sun'?? etc.)
+Any perhaps current limiting use cases?
+(Something like ... "anything over K km we'd know for sure Y years ahead of time, smaller than that no chance...")
+I guess, some folks on this list are familiar on a day to day basis with our "known instruments and indeed our known watch-out-for-asteroid-collisions systems" ...  but to the layman it's an unknown!
+And technology is very topical, of course.  I guess the answer is changing in a Moore's Law -ish way from year to year.  (For example, would the JWST affect this calculation, or has nothing to do with the issue?  What about other systems or single instruments coming online soon?)

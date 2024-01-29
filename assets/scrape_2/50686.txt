@@ -1,0 +1,4 @@
+Positional astronomy - Speed of the sun in sky
+
+Let $\vec{r}$ be the position of the Sun in the sky, from Earth. How could I estimate the magnitude of $d\vec{r}/dt$, to measure the rate of change in time of the arc it traces? I suppose it would be proportional to Earth's rotation. I guess this has been already calculated before.
+I'd like to estimate this quantity to compare with ephemeris and, then, answer to: how fast should I be moving (e.g., travelling on a plane) to always observe the Sun in the same relative position in sky?

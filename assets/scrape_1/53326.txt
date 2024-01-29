@@ -1,0 +1,4 @@
+Earth's Rotation & Longitude
+
+I live in Townsville Australia which has a
+longitude of 146 degrees East. I'm trying to get my head around how long the Sun takes to move from Greenwich to my latitude. I have a world globe in front of me to help me understand. If the sun moves West to East and moves 15 degrees across the sky in one hour, it would need to move 210 degrees from Greenwich to Townsville which equates to a little over 14 hours. This can't be correct as Townsville time is 10 hours ahead of Greenwich time. I'm obviously missing something in my thinking. Can anyone help me out?

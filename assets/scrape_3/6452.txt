@@ -1,0 +1,6 @@
+Using Tully Fisher to measure Distance Problem
+
+Can anyone explain by looking at the solution in the pic, how did the cos (i) came about?
+I guess they are getting this from the major-minor axis info in the question, but I am not sure about the derivation.
+Also v=300/sin(i), what is this formula?
+Many thanks :)

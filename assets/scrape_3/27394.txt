@@ -1,0 +1,5 @@
+Eccentricity and Inclination of a Star
+
+I understand Planetary Eccentricity and Inclination.  However when it applies to a star, does the centre or ecliptic plane refer to the Sun or the Galactic Centre?
+The star Sirius for example, 136.336 ± 0.040° inclination, the angle at which it is inclined to Sun, Earth or Galactic Centre?
+The star Sirius has an Eccentricity of  0.59142 ± 0.00037.  The only thing the star orbits is the Galactic Centre (Sagittarius A*) so I guess that is the centre?

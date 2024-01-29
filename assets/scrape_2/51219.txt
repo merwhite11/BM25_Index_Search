@@ -1,0 +1,13 @@
+Mega Telescope using gravitational lensing and interferometry
+
+I have been thinking about this crazy telescope idea, but I am not smart enough to understand if it's technically possible. I understand from an engineering and practical point of view it's a long way off, but I am mainly interested in its technical possibility.
+
+Imagine 3 balls, 1 KM in diameter, a few KM apart from each other, "perfectly" absorbing light. The idea is they act like a mirror, but can do so in all directions. So the light is not reflected to a central sensor, but somewhat processed once absorbed.
+
+If this sounds too convoluted, replace the balls with normal 1KM mirrors.
+
+Put 3 of these 3 mirror/balls swarms around the sun, at least 500 AU away so we can take advantage of gravitational lensing.
+
+What I would like to know:
+a. is interferometry possible with this set-up? I know for that you require precise location details, is that theoretically possible at such distances? What about computational resources required to combine the light?
+b. what kind of details would we be able to observe using this kind of telescope, on an exoplanet for example?

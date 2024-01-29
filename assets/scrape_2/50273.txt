@@ -1,0 +1,4 @@
+How many massive black holes exist in AGN-type galaxies?
+
+Most galaxies have a massive (i.e., $m \gtrsim 10^5$ M$_{\odot}$) black hole in their center.
+Is it known 1) theoretically and 2) observationally what fraction of these massive black holes (maybe as a function of redshift) will/should/do exist in active-galactic-nuclei? I've seen numbers as low as 1% - 10%, but could not find a definitive source. References that lead to the answers of these questions are greatly appreciated.

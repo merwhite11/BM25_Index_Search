@@ -1,0 +1,9 @@
+What is the cause of all of these sharp, concentric rings around bright stars in this HST image?
+
+ESA's HST page heic1819 — Photo Release; Hubble reveals cosmic Bat Shadow in the Serpent’s Tail is of course beautiful and stunning, but my eyes are drawn to the diffraction artifacts of the bright stars.
+I'm assuming the crosses are due to four vanes supporting the secondary mirror, but are the tight concentric rings due to Hubble's large aperture, or it's smaller secondary mirror blocking that aperture, or something else, perhaps image processing?
+Without a scale for reference, it's hard to get an angular frequency and compare to an Airy-like diffraction pattern to get a diameter, and that's where it gets more puzzling, because you need a narrow wavelength range to get a coherent oscillation for so many cycles (I think I can see perhaps 15 or more sharp, distinct rings), and to zeroth order stars are mostly black-body.
+Is this a bit of a puzzle, or am I missing something obvious (e.g. filters)? Or both?
+Here's a cropped, monochromed, ROI:
+
+Further stretched in contrast and size:

@@ -1,0 +1,10 @@
+Beneficial astronomical uses of satellite constellations like Starlink?
+
+Has any thought been given to software that would use predictable occultations by Earth-orbiting satellites to improve (rather than degrade) astronomical observations?
+Potential challenges I could imagine might include:
+
+The satellites’ high angular velocity compared with typical occulters.
+Knowing enough about the outline and orientation of each satellite.
+Diffraction effects.
+
+Perhaps there are satellite design changes that could make them more useful, akin to star shades. Perhaps some camera or other sensor design changes could help capitalize on what seems an inevitable reality. And perhaps there are types of observations for which no amount of cleverness and computational resources could turn Starlink into a net win for astronomy.

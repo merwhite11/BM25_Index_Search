@@ -1,0 +1,10 @@
+What is k2, how does it relate to Io's volcanism and how can Juno constrain its value?
+
+This answer to Does Juno's UVS have any chance to spot Europa plumes? links to Juno OPAG REPORT by Scott Bolton, OPAG, September 2020. The slides detail past and future Juno flybys of Jupiter and some of its moons, and last slide (shown below) says:
+
+
+Juno will constrain $\boldsymbol k_{\boldsymbol 2}$ to help clarify the physical origin of Io’s volcanism
+Juno will monitor lo volcanic activity, including the polar region. Global mapping addresses where internal dissipation of tidal heating occurs.
+
+
+Question: What is $k_2$, how does it relate to Io's volcanism and how can Juno constrain its value?

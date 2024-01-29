@@ -1,0 +1,4 @@
+What makes small interferometers useful? Like NIRISS on JWST
+
+NIRISS is an instrument on the James Webb Space Telescope. It has a "non-redundant aperture mask" which obviously covers most of the area of the sensor. It seems to be advantageous for high contrast imaging (like finding an exoplanet next to a star) and an alternative to coronagraphs. But however does that work? Why is it good to cover most of a sensor?
+I have associated interferometers with creating as large as possible baselines for higher resolution, like the Very Large Baseline Array and the Spectr-R radio space telescope which gives up to a 390,000 km long baseline. So what is the magic with sacrificing sensor area to turn a single small telescope into an interferometer? Aren't all photons welcome? Would such an instrument do as well with a correspondingly smaller main mirror (maybe in separate fragments)?

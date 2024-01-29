@@ -1,0 +1,6 @@
+Are chirped gravitational wave events generally first identified by searching through libraries of chirps?
+
+Comments below What does "GPU-accelerated butterfly matched filtering over dense bank of time-symmetric chirp-like templates" mean? (GW170817) suggest that for this technique a library of strain "chirps" is built, then in real time a fast computer (in this case GPU-assisted) constantly compares the the most recent signals from a gravitational wave detecting interferometer to all of them, looking for matches above a chosen matching threshold.
+As long as the matching rate is not too high, these can be passed on to more sophisticated analyses to better decide if a chirped gravitational wave event might have been detected, and if so, to start figuring out where it was so that alerts can be generated and other instruments (e.g. optical and X-ray telescopes) can start looking for a signature for a source.
+Question: Are chirped gravitational wave events generally first identified by searching through libraries of chirps?
+Is this how they are first identified in general, or does the paper cited in the linked question describe just one possible method, and library searches are not always a part of the process?

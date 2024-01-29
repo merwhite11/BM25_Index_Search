@@ -1,0 +1,7 @@
+Do the Galilean moons' orbits around the Sun have loops (i.e. have concave parts)? And if so, how can their orbits be graphed?
+
+The shape of the Moon's orbit around the Sun has been discussed to death, and the answer is that the Moon's orbit has no concave "loops" whatsoever.
+I am relatively sure that the determinant factor in whether a moon has a "concave" orbit with loops or a loop-less orbit has to do with its orbital velocity. If the moon orbits its planet faster than the planet orbits the Sun, then the moon has the intuitively-expected looped orbit. If not, then it is loopless.
+From my calculations, Io and Europa orbit Jupiter faster than Jupiter orbits the Sun, while Ganymede and Callisto orbit slower than Jupiter orbits the Sun. Therefore, it's expected that Io and Europa make loops around Jupiter while it is orbiting the Sun, while Ganymede and Callisto don't.
+This is all great, except I have no clue how to verify this hypothesis. I originally thought the only way to see was to run a simulation, however I'm 90% sure it can be done by graphing parametric equations using WolframAlpha or Desmos.
+One problem: I have exactly zero idea how to go on doing that, and barely know parametric equations exist to begin with. So if someone smarter than me could graph the Galilean moons' orbits and verify if Io and Europa have loops while Ganymede and Callisto don't, I'd appreciate it.

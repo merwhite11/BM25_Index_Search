@@ -1,0 +1,5 @@
+Determining the shape of ʻOumuamua via stellar occultation
+
+As far as I know, our current knowledge regarding the exact shape and size of ʻOumuamua is based on the analysis of its light curve and the assumption that it has a uniform albedo.
+ʻOumuamua is very dark and too small to be resolved by even the largest telescopes as much more than a point of light. But so is Ultima Thule and we did manage to get a really good idea of its size and shape by observing stellar occultations caused by it.
+Could the same technique be used to get a better idea of what shape ʻOumuamua really is? Or does its hyperbolic orbit render this kind of observation impractical? Have any attempts been made to perform such observations?

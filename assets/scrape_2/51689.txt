@@ -1,0 +1,4 @@
+Is there an orbit around the earth that experiences a total solar eclipse by the Moon at least every month?
+
+Is there a way to design an earth orbit so that it passes through the Moon's umbra with greater frequency than total solar eclipses occur on earth's surface?
+What is the maximum frequency of eclipses that can result? I am not asking about the trivial case of a lunar orbit that obviously experiences the moon's full shadow every orbit.

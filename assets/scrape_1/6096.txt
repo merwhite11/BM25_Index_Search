@@ -1,0 +1,5 @@
+Estimating the tangential and cross component of the galaxy's shear using Gnomonic projection
+
+I would like to know how I can estimate the tangential and cross component of the galaxy's shear using Gnomonic projection
+of the right ascension and declination the galaxies relate to the center of galaxy cluster and estimate?
+Edit. Shear is the second order moment of a galaxy's surface brightness. You can find more on the topic in the following wiki on weak lensing.

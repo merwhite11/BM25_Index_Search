@@ -1,0 +1,5 @@
+What is germane doing in the atmosphere of Jupiter?
+
+Germane (GeH4) has been detected in the atmosphere Jupiter.
+Its formation from the elements seems to be thermodynamically unfavorable because its enthalpy of formation is positive and (I think) it has lower entropy than the free elements.
+So what the heck is it doing there, considering free germanium would sink and free hydrogen would float?

@@ -1,0 +1,5 @@
+Are there automatic methods to locate (stellar and supermassive) black holes?
+
+Black holes have been discovered using several techniques, as outlined by How are black holes found?. What I was wondering is: are there automatic methods for locating them (e.g., artificial intelligence or image analysis techniques), or does the discovery still rely on actual people analyzing, e.g., the movement of stars in a certain portion of the space?
+For instance, I remember one of Andrea Ghez's talks and it looked to me that the analysis was performed manually.
+Thank you in advance for your time.

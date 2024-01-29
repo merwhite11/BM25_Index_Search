@@ -1,0 +1,15 @@
+"Early" and "late" nomenclature regarding O, B & K, M stars
+
+The Wikipedia article Stellar Classification has a subsection "Early" and "late" nomenclature.
+It says:
+
+Stars are often referred to as early or late types. "Early" is a
+synonym for hotter, while "late" is a synonym for cooler.
+
+My lecture notes say:
+
+O and B stars are sometimes referred to as ‘early-type’, while K and M
+are ‘late-type’.
+
+If I look at a HR diagram, I see that main sequence O, B stars are hotter than main sequence K, M stars. So they are burning their fuel at a greater rate than K, M stars, so they run out of it early. So the stars which we are still able to observe now from the early universe are K, M stars, rather than O, B, which presumably formed rather *late**ly. Yet this is not consistent with the terminology above, so something is obviously wrong here.
+What is wrong with my argument that the early and late words should be used in the other way round?

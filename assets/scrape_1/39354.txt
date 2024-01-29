@@ -1,0 +1,15 @@
+How will they know when to start taking the picture of the black hole at the center of the Milky Way?
+
+@csm's answer to Why not take a picture of a closer black hole? points out that it's necessary for the supermassive black hole at the center of a galaxy to be actively feeding for it to generate a radio-bright accretion disk that we can image. M87 is always feeding, but our own black hole only nibbles occasionally as a dust cloud passes by.
+Question: How will they know when to start taking the picture of the black hole at the center of the Milky Way? Are there bits of food being tracked and they'll have all the EHT's telescopes ready when accretion begins? Or is it long enough that once it starts they can shuffle observing time around and still collect sufficient data?
+For background see
+
+What is it exactly about these flares of infrared light from Sgr A* that "confirms" it is a supermassive black hole?
+How did they make a video of the center of the galaxy, and what is it exactly that's flashing there?
+
+
+The ESA video ESOcast 173: First Successful Test of Einstein’s General Relativity Near Supermassive Black Hole includes a clip of images of stars at the center of our galaxy orbiting around SgrA*, a presumed supermassive black hole.
+GIF made from video at around 02:50:
+
+
+Six annotated frames from GIF highlighting the flashing that I'm seeing.

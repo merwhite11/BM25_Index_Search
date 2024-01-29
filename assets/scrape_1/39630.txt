@@ -1,0 +1,3 @@
+How to calculate the frequency of a gas giant eclipsing the sun from a moon?
+
+Say you have a moon around a gas giant which goes around a star. If the moon has an inclination of around 0° relative to the gas giant's orbit, the gas giant will eclipse the star every orbit of the moon. However, if the inclination is somewhat larger than 0°, not every orbit of the moon will contain a planetary eclipse. How would you calculate the amount of moon orbits in a row with a planetary eclipse?

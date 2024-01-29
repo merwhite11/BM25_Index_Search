@@ -1,0 +1,15 @@
+How do various astrophysical models deal with so many orders of magnitude in scale? Are there completely different models for different scales?
+
+If we just model our solar system's dynamics, one could use a straightforward numerical integrator with all n(n-1)/2 gravitational interactions along with some torques and non-gravitational forces. However it was found to be no less accurate (limited by the availability of measured data with with to fit) to treat certain tightly bound systems as somewhat isolated. For example, forces between the smallest moons of two widely separated planets don't need to be treated explicitly, and using the Jovian system's barycenter is sufficient to perturb Mercury's orbit.
+Similarly, in the dynamics within a single galaxy numerical models don't treat all n(n-1) two-body forces when n=1011. Instead models can use some hybrid techniques - treating each of a large number of small volumes of the galaxy as having an average density, while at the same time using different models that operate on what's put inside each of those volumes.
+Those are just examples of my meagre understanding of the topic.
+But I'd like to ask, and this is a hard question to formulate and may be hard to answer - how do various astrophysical models deal with so many orders of magnitude in scale? Have they sort-of settled on some standard ways of chopping things up?
+Just for a hypothetical example "class I" for solar systems, class II for stellar clusters or groups (IIa and IIb might be with or without a black hole) class III for entire galaxies, class IV for galactic clusters and class V for bigger/biggest?
+You might embed one class in another, a galactic model might also contain say 100,000 stars with randomly initiated solar systems as sort of "test particles" within a fluid representing the rest of the matter.
+Or is it better to characterize the current state of the art as still in the process of trying out all kinds of ways of dealing with scale?
+
+For a nice illustration of how many orders of magnitude are involved, have a nice experience zooming out at https://htwins.net/scale2/
+
+distance from Earth to Moon at 108.8 meters
+distance from Voyager to Earth at 1013.5 meters
+observable universe at 1026.5 meters

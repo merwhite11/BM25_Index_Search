@@ -1,0 +1,21 @@
+How to run MOOG on OS X Yosemite
+
+By what process can a user running the latest version of OS X Yosemite execute MOOG with $MOOG in bash? 
+Due to the removal of 32bit libraries in OS X 10.7+, the Fortran77 code for the MOOG installer cannot be compiled on OS X 10.7+. As a result, the pip installer will not work.
+I have followed the instructions in the above guide, except that:
+
+I cannot install scisoft because the link in the page does not work
+I have supermongo installed independently of MOOG, so $sm works for me
+I have made my computer compile Fortran code with the true version of gcc, not Apple gcc.
+
+Unfortunately, in addition to being unable to compile the code, the pre-compiled binaries aren't working for me right now on Yosemite 10.10.4. The error I get when I $MOOG is:
+open: No such file or directory
+apparent state: unit 35 named /.moog/Barklem.dat
+lately writing sequential formatted external IO
+Abort trap: 6
+
+But I do have .moog in my home folder, and it has the Barklem files inside, and both the directory and files have been made readable/writable with:
+$sudo chmod +rw .moog and $sudo chmod +rw Bark*
+
+Motivation: Astronomers try to solve the problem independently
+Justification: AstronomySE topics include: "Setting up, using and maintaining your astronomy related equipment"

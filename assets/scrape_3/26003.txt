@@ -1,0 +1,4 @@
+Can Two Stars of One Same Type Orbit Each Other?
+
+
+This is a simple, textbook definition of a binary star orbit.  One low-mass star orbits a higher-mass star in a narrow but definitive center.  For example, the high-mass star would be our own sun--a G-type main sequence star--being orbited by a smaller dwarf, like a red dwarf or a brown dwarf.  But what about binary orbits of two identical stars--like our sun orbiting another G-type main-sequence star?  Is this sort of orbit possible?

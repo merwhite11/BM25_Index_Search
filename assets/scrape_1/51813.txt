@@ -1,0 +1,3 @@
+How has the resolution of astronomical spectrographs improved over time?
+
+Is there something like a Moore's law for spectral resolution? Maybe a chart from which one could extrapolate?

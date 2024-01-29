@@ -1,0 +1,47 @@
+Does this black hole magnetohydrodynamics equation even superficially make sense?
+
+My question is about the journal paper mentioned in an Academia Stack Exchange post. Please understand that this paper has never been posted on arXiv, and I can provide only a link whose content is behind a paywall.
+Summary of my question: it boils down to "whether a spatial coordinate of a fiducial observer can have a nonzero partial derivative with respect to the coordinate time."
+I am interested in the validity of the central result of this paper. It is Eq. 4.24, which reads
+\begin{equation}
+\begin{split}
+&\nabla\cdot\left[\frac{\alpha}{\varpi^{2}}\left\{1-\left(\frac{\omega-\Omega^{F}}{\alpha}\varpi\right)^{2}\right\}\nabla\Psi\right]
+- \frac{\omega-\Omega_{F}}{\alpha}\nabla\Omega^{F}\cdot\nabla\Psi\\
+&+ \frac{4\pi\dot{\varpi}}{\alpha^{2}\varpi}\left(1-\frac{\dot{\Phi}}{4\pi}\right)\frac{\partial \Omega^{F}}{\partial z} + 4\pi \frac{\partial}{\partial z}\left[\frac{\dot{\varpi}}{\alpha\varpi}\frac{\omega-\Omega^{F}}{\alpha}\left(1-\frac{\dot{\Phi}}{4\pi}\right)\right]\\
+&+\frac{1}{\alpha\varpi^{2}}\left[\left(\frac{\dot{\alpha}}{\alpha}+\frac{\dot{\varpi}}{\varpi}\right)\dot{\Psi}-\ddot{\Psi}\right] + \frac{\dot{\varphi}}{\varpi}\frac{\omega-\Omega^{F}}{\alpha}\frac{\partial\Psi}{\partial\varpi}\\
+&-\frac{16\pi^{2}\xi}{\varpi^{2}}\left(1-\frac{\dot{\Phi}}{4\pi}\right) = 0,
+\end{split}
+\end{equation}
+where a dot on top of a symbol denotes a partial derivative with respect to the coordinate time $t$.
+The above partial differential equation is supposed to describe the magnetosphere of a Kerr black hole. The authors use the spherical coordinates $(r,\theta,\varphi)$ and define $\varpi$ as follows:
+\begin{equation}
+\varpi \equiv \frac{\Sigma}{\rho}\sin\theta,
+\end{equation}
+where
+\begin{equation}
+\rho^{2} \equiv r^{2} + a^{2}\cos^{2}\theta,
+\end{equation}
+\begin{equation}
+\Sigma^{2} \equiv (r^{2}+a^{2})^{2}- a^{2}\Delta\sin^{2}\theta,
+\end{equation}
+and
+\begin{equation}
+\Delta \equiv r^{2} + a^{2} - 2Mr.
+\end{equation}
+Note also that $\alpha$ is the lapse function defined as
+\begin{equation}
+\alpha\equiv \frac{\rho}{\Sigma}\sqrt{\Delta}.
+\end{equation}
+The functions $\Psi(t,\textbf{r})$ and $\Phi(t,\textbf{r})$ denote the magnetic and electric fluxes through an $\textbf{m}$-loop passing through $\textbf{r}$, where $\textbf{m} \equiv \varpi\hat{e}_{\varphi}$ is the Killing vector associated with axisymmetry.
+What confuses me is the following: $\varpi$, $\varphi$, and $\alpha$ are simply spatial coordinates or combinations thereof, and their (partial) time derivatives should all be identically equal to zero because space and time coordinates are independent variables. This would render many parts of Eq. 4.24 nothing but convoluted ways to express the number zero.
+I have also tried to follow the derivation of Eq. 4.24, and figured out that the authors implicitly assumed the following relations:
+\begin{equation}
+\dot{\Phi} = \dot{\varpi}\frac{\partial\Phi}{\partial \varpi}
+\end{equation}
+and
+\begin{equation}
+\dot{\Psi} = \dot{\varpi}\frac{\partial\Psi}{\partial \varpi}.
+\end{equation}
+Recall that a dot means a partial derivative with respect to time. As $\dot{\varpi}$ is identically zero, the above relations seem to be wrong.
+However, what makes me somewhat unsure about my conclusion is that this paper is published in The Astrophysical Journal, a renowned peer-reviewed journal in astrophysics. (I have little expertise in astrophysics.)
+Could someone verify whether my suspicion is well founded or correct me where I am wrong? Thanks in advance!

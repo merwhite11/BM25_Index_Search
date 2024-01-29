@@ -1,0 +1,7 @@
+Gravitational red shift vs Doppler redshift: Is the universe really expanding?
+
+Is it possible that the redshift observed by Edwin Hubble is really from a gravitational redshift and the universe isn't expanding as he has predicted?
+What I think I know thus far is this:
+
+Redshift due to the Doppler effect of a moving object is happening due to universe expansion. Galaxies further away are speeding away from us faster than those close to us, hence having a stronger redshift effect. 
+Gravitational redshift is happening due to light "escaping" the gravitational pull of the source (star) and it has nothing to do with the movement of such source.

@@ -1,0 +1,3 @@
+Largest body in the solar system that a baseball thrown by a professional pitcher could escape
+
+What is the largest (most massive) known body in the solar system that a professional pitcher could throw a baseball off of, i.e. that has an escape velocity lower than ~102 MPH? (45.33 m/s)

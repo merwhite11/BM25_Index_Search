@@ -1,0 +1,12 @@
+Is there a consistent missing mass ratio for Galaxy Clusters?
+
+The Coma Cluster is what famously lead Fritz Zwicky to the conclusion that Dark Matter exists. As the velocities of the galaxies within the cluster were too fast for them to remain within orbit of each other if their masses were only baryonic.
+So my questions are
+
+Have we seen this missing mass effect with (all) other clusters?
+From models, do we expect there to be missing mass outside of the galaxies themselves (inter galactic dark matter)?
+(Assuming #1 & #2 are yes) Is there a consistent measured ratio of the missing inter galactic mass vs the baryonic cluster mass?
+(Assuming #3 is yes) What is this ratio called and can anyone point to any papers?
+
+If #2 is no, I assume this means adding the dark matter halos to just within the galaxies to fix their rotation curves also fixes for their cluster velocities? And the answer #3 in this case is then just the Tully Fisher ratio?
+Massive thank you for your help!

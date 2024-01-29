@@ -1,0 +1,5 @@
+What could a cloud of mini radio dishes see?
+
+Suppose an astronomer gave a 1 m radio dish to 500 people scattered over the face of the Earth and connected them to the internet. The people are directed to set their radio antennae up in their backyard per given instructions. The astronomer would then control the array of radio antennae remotely via the internet.
+Could such an array of radio dishes be used to do any kind of meaningful astronomical interferometry? If so, what kind? If not, why not?
+I fully expect that the radio dishes wouldn’t hold a candle to the sensitivity other radio dish networks (EVT, VLA, EVLA, etc.) due to the tiny dish size. I expect time synchronization would be an issue, but perhaps they could find a clever way to synchronize. I imagine this array would have very high resolution due to the large number of large and small baselines — extended further by the Earth’s rotation. Between low dish sensitivity, large numbers of dishes and a huge baseline count, I’m curious what such a network could be capable of.

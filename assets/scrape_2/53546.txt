@@ -1,0 +1,8 @@
+Mysterious Object In The Sky
+
+On Stellarium (https://stellarium-web.org), I found this mysterious object floating in the sky.
+It is at 6h40m29s,-13º23'30" on the equatorial grid.
+It is surrounded by HD 47366, HD 47182, and HD 47667.
+The closest well-known star is Sirius.
+
+Can anyone explain what this is?

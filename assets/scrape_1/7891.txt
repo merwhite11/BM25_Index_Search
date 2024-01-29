@@ -1,0 +1,3 @@
+At what density does helium burning start in a star?
+
+I have seen several references that say that helium burning begins in a star once the core temperature reaches $10^8$K (such as here) but nowhere that says what density that corresponds to.  Does anybody know a reference that has this value?  And if it makes a difference, I would like to know the density for quiescent helium burning, not helium flash helium burning.

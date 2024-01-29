@@ -1,0 +1,5 @@
+Calculating object velocity at perihelion
+
+I would like to calculate the velocity of an asteroid orbiting around a star (Sun) at the perihelion of its orbit. I know the excentricity of the ellipse and its semimajor axis.
+I have found that the vis-viva equation is used to calculate the velocity of an object on an elliptical orbit and that the perihelion is at distance r = a(1-e). However I (simply enough) cannot see how to mathematically combine these two pieces of information in order to get the velocity at the perihelion. 
+(I am not so much looking for just a formula but rather a proof/intuition regarding how to get from the vis-visa equation for velocity to a perihelion velocity equation)

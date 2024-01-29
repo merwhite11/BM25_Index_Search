@@ -1,0 +1,3 @@
+What is the share of stars in total radiation input of Earth?
+
+Earth gets its radiation input primarily from Sun, then from reflected sunlight from Moon, and stars. Among these, what is the share of stars (or sources outside solar system) to this total radiation input of Earth. Is it negligible compared to solar radiation? (I am referring to top-of-atmosphere situation.)

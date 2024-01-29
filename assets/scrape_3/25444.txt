@@ -1,0 +1,14 @@
+What would the pressure and temperature of gas be, right above Jupiter's gas/liquid boundary?
+
+Older pages like this "Exploration of the Solar System" course page describe the transition as being a few hundred kilometers down.
+More recent findings seem to put the boundary deeper. See
+
+The result was a surprise for the Juno science team because it indicated that the weather layer of Jupiter was more massive, extending much deeper than previously expected. The Jovian weather layer, from its very top to a depth of 1,900 miles (3,000 kilometers), contains about one percent of Jupiter’s mass (about 3 Earth masses).
+
+- nasa.gov, March 7, 2018: "NASA Juno Findings - Jupiter’s Jet-Streams Are Unearthly"
+and
+
+Below whirling jet streams, 3,000 kilometres deep, lies a dense, rotating core of liquid hydrogen and helium.
+
+- abc.net.au, March 7, 2018: "Jupiter: Juno uncovers deep jet streams, dense liquid core — and cyclone mystery"
+Given the updated understanding of the mass of gas above it, what would the pressure and temperature be at that level?

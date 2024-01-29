@@ -1,0 +1,5 @@
+How would Earth's magnetic field change if the outer core was solid?
+
+A widely accepted theory for how the Earth's magnetic field is generated is the dynamo theory.  Dynamo theory describes how molten magma convection currents containing metal are locally spun the same direction by Coriolis forces, producing a magnetic field.
+
+If Earth's outer core was solid, this effect would go way.  However, the metals in the interior would still be moving (though all together) due to the Earth's rotation.  Would Earth still produce a magnetic field? If so, how would it compare to our current field?  Would it still help shield the atmosphere from charged particles?

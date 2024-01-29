@@ -1,0 +1,3 @@
+Can all astronomical signals be considered Gaussian noise?
+
+While studying the techniques astronomers use to mitigate radio frequency interference (RFI) I found it's often assumed that astronomical signals are (band-limited) Gaussian noise. Is this a reasonable assumption for every type of astronomical observation? Even when searching EM emission from specific elements (e.g. hydrogen line)?

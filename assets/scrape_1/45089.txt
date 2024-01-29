@@ -1,0 +1,4 @@
+How can we know where a gravitational wave comes from?
+
+When a gravitational wave arrives on Earth, a detector can observe tiny fluctuations of space metric. But there is no direction associated with this. Only when the second observation is made, far away from the first measurement, you have some more information. Assuming the speed of gravity to be the speed of light there is still insecurity about the the source of the wave. If the two signals are measured at the same time, there is still a whole plane of possibilities.
+Say the tell-tale signatures are indeed simultaneously found. How can you find out from where the signal came? How can you say where on the plane of possible sources the real source is located? What other observation can pinpoint it?

@@ -1,0 +1,37 @@
+How would water-ammonia oceans behave?
+
+Scientists strongly suspect that several moons in our solar system have frozen-over oceans of water-ammonia mixture. I've also read speculations on the possibility of surface water-ammonia oceans on exoplanets and exomoons. What I haven't seen a lot of is a discussion on how those oceans might behave differently than the water oceans of Earth.
+More specifically, how would the surface water-ammonia ocean behavior differ from our water ocean behavior in terms of: 
+
+Ice(s) formation
+Evaporation
+Surface and underwater currents
+Varying ratios of water-ammonia based on temperature or other
+factors
+
+I'd like to know if this has been studied and if these behaviors have been described in papers, books, or in-depth articles on this topic. Especially anyting that goes into the specifics of the water/ammonia ratios.
+
+I'll add some personal speculation here. While it is not part of the primary question stated above, it helps to explain the type of problem I'm trying to understand, so may be helpful to narrow down which resources may be most useful.
+
+When subject to increasing levels of heat would the ammonia molecules
+in the ocean evaporate before the water molecules, causing warmer
+areas of the ocean to have an increased amount of H2O relative to
+NH3? (And the cooler areas like the poles having an increasing ratio
+of NH3 to H2O).
+If the above was true, might the equatorial waters that have less NH3
+facilitate the formation of water-ice? If so I could imagine
+exoplanets having water-ice-covered equators because they were
+warmer, and the cooler poles might be ice-free thanks to the greater
+amount of NH3 in the ocean.
+Would the ice formed on the ocean be composed of a molecular mix
+matching that of the ocean (with H2O and NH3 in the same ratio as the
+ocean), or would some molecules freeze-out first, possibly causing
+different layers or areas of varying types of ices?
+Might the poles of some water-ammonia planets have "continents" of
+water-ammonia ices that are frozen from ocean bed up to the surface
+(thanks to the fact that frozen ammonia is more dense than liquid,
+allowing for entire sections of ocean to freeze solid)?
+
+If my speculation is correct (and I could be wildly wrong since I don't yet understand how a mix of water-ammonia actually behaves) then an exoplanet with an equatorial band of water-ice, mid-latitudes of liquid ocean, and solid polar-caps/continents of water/ammonia ices could be possible. The ammonia in the ocean would evaporate more quickly near the warmer equator, causing that area of a global ocean to have a greater ratio of H2O, and the ammonia precipitation and ocean might freeze at the poles, causing the build up of vast polar continents of ammonia/water ices. I would imagine the currents would function very differently than on earth, with surface and deep-level currents of varying ammonia-water ratios and temperatures. I I also see the possibility of frozen ocean beds in the more ammonia-heavy parts of an ocean, with the surface unfrozen. 
+Of course the ratio of ammonia to water will be very important. I'd love to see specific information on that!  
+Any informed clarification appreciated!

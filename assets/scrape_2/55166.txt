@@ -1,0 +1,4 @@
+Why does the metallicity of stars decrease with increasing galactocentric radius and height above the galactic plane?
+
+Metallicity decreases with the Galactocentric radius and height above the Galactic plane (Bergemann et al. 2014; Duong et al. 2018).
+https://www.aanda.org/articles/aa/abs/2014/05/aa23456-14/aa23456-14.html

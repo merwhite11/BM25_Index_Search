@@ -1,0 +1,11 @@
+Calculating the position angle of the moon (the rolling back and forth)
+
+I have been watching the the NASA Moon Phases Video of the year 2020. Pretty much everything makes sense and I know how to calculate it including the moon phases, declination, azimuth, apogee and perigee except one thing, the position angle of the moon. Its donated by Pos. Angle at the bottom right of that video. 
+
+Apparently when the Pos. angle is 0, that means when the azimuth of the moon reaches 180 looking from the northern hemisphere, the phase's north direction of the moon is going to be perfectly aligned with the north direction on earth(180 azimuth):
+
+
+
+Given the moon and sun current declination, How do you calculated the Position angle of the phase as it's described in NASA Moon phase 2020 ?
+I'm looking for an output that matches NASA's calculations or close to it at any given date.
+Any help would be much appreciate..

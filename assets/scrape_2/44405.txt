@@ -1,0 +1,3 @@
+Role of power laws in astronomy?
+
+I often see astronomers fitting data to power laws. What about power laws makes them so useful in astronomy? Why are so many astronomical observations well-fit by power laws? I know it's a relation between two quantities, but why is a power law the go-to model?

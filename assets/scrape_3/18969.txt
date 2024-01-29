@@ -1,0 +1,40 @@
+Attempting to determine astronomy values in a parameter file
+
+Recently I inherited quite a few old QuickBasic programs which perform various astronomical calculations.  I'm attempting to understand these programs and rewrite some of them in Python.  I do not have a deep background in astronomy.
+A number of the programs take a parameter file as input, YEAR.DAT.  Below are 5 years of these files (each column represents one file).  I need help in figuring out the various data values.
+YEAR.DAT
+year        2001         2008         2009         2010         2011 
+delta t      66           65           66           66           67 
+tilt         23.43909     23.43818     23.43805     23.43799     23.43786 
+dow           1            2            4            5            6 
+gst           6.71430      6.66860      6.71839      6.702509     6.68659 
+x1          105.690      330.340      310.959      291.631      272.303 
+bs           84           90           88           87           86 
+fs          301          300          298          304          303 
+x2          357.765      356.959      357.689      357.433      357.177 
+x3          354.289      193.159      335.720      105.105      234.489 
+jd      2451910.5    2454466.5    2454832.5    2455197.5    2455562.5 
+
+I believe that all the values which are time dependent are for 0:00 hours on Jan. 1 of the year given.  
+Here are the values I think I've figured out:
+tilt is the obilquity of the ecliptic
+dow is the day of the week, where Monday is day 1
+bs is the number of the day of the year when British Summer Time (BST) begins
+fs is the number of the day of the year when BST ends
+jd is the Julian day number (of 0:00 hours Jan. 1)
+
+Values I'm unsure about:
+delta t is some sort of time delta, but I don't know what
+gst seems to be Greenwich Mean Sidereal Time, but for what moment?
+x1, x2, and x3 I'm clueless about
+
+Here are my questions:
+
+What might delta t be?  
+Is gst in fact Greenwich Mean Sidereal Time?  For what moment?  
+What are x1, x2, and x3?  (This is low-priority question.)
+How can delta t, gst, and, perhaps other values, be determined for 
+    2018, 2019, ...?
+
+Any help will be greatly appreciated.
+Roger House

@@ -1,0 +1,4 @@
+Diameter of Astronomical Object Using Magnification
+
+I took a picture of Jupiter through my telescope, using an iPhone. I know the magnification of the telescope lens I used, and can Google to get the magnification of the iPhone lens (the magnification without zooming). Using a standard Photo Editor, I also know the pixels across of Jupiter in my image.
+Can I, using all of this information above, calculate how many kilometres one pixel represents, and consequently the diameter of Jupiter?

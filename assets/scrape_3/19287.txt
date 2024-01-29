@@ -1,0 +1,3 @@
+Angle from 2 point on celestial sphere
+
+I'd like to find the angle in radians between two  equatorial coordinate i.e from RA dec of point 1 and RA and dec of point 2.

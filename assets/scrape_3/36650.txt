@@ -1,0 +1,4 @@
+Calculating Solar eclipse magnitude with the besselian elements
+
+Calculating Solar eclipse magnitude with the besselian elements
+What is the mathematic formula for calculating the magnitude of a solar eclipse using Besselian elements?

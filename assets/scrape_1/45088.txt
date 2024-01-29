@@ -1,0 +1,7 @@
+Why are the radio images of the jet of 3C 273 different?
+
+At NASA/IPAC Extragalactic database, we can see images of the jet of matter being ejected from the quasar 3C 273. Here are a couple from the radio spectrum as examples:
+
+
+My question is: why are the images so different? Is it because the jet itself is changing between the images (which are taken on different dates)? Or are the images somehow showing static structure within the jet? Or is it an artefact of the image processing?
+EDIT: I've made a quick animation of the images spanning July 1998 to March 2001, in case it sheds any light, so to speak:

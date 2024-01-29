@@ -1,0 +1,22 @@
+Why is there free magnesium in the ecliptic (if there is) and why would some be orbiting within the ecliptic plane but retrograde?
+
+This answer to the question What direct or indirect observations of dust can one make by eye or with binoculars? mentions Brian May's thesis and it's connection to Zodical Light:
+
+Brian May (CBE):
+
+In 2007, Brian May, lead guitarist with the band Queen, completed his thesis, A Survey of Radial Velocities in the Zodiacal Dust Cloud, thirty-six years after abandoning it to pursue a career in music. He was able to submit it only because of the minimal amount of research on the topic undertaken during the intervening years. May describes the subject as being one that became "trendy" again in the 2000s.
+
+Brian May's Thesis: A survey of radial velocities in the zodiacal dust cloud
+And for good measure, Brian May's announcement of IAU's naming of the asteroid 17473 Freddiemercury YouTube: 
+
+
+
+I believe that MgI stands for neutral, atomic magnesium, and since this is optical (not X-rays) this would have to be free atoms, or perhaps molecular, but not bound magnesium in compounds or metals.
+Question: Why is there free magnesium in the ecliptic (if there is) and why would some be orbiting within the ecliptic plane but retrograde?
+
+Here is the abstract of the thesis in full:
+
+This thesis documents the building of a pressure-scanned Fabry-Perot Spectrometer, equipped with a photomultiplier and pulse-counting electronics, and its deployment at the Observatorio del Teide at Izaña in Tenerife, at an altitude of 7,700 feet (2567 m), for the purpose of recording high-resolution spectra of the Zodiacal Light. The aim was to achieve the first systematic mapping of the MgI absorption line in the Night Sky, as a function of position in heliocentric coordinates, covering especially the plane of the ecliptic, for a wide variety of elongations from the Sun. More than 250 scans of both morning and evening Zodiacal Light were obtained, in two observing periods – September-October 1971, and April 1972. The scans, as expected, showed profiles modified by components variously Doppler-shifted with respect to the unshifted shape seen in daylight. Unexpectedly, MgI emission was also discovered. These observations covered for the first time a span of elongations from 25º East, through 180º (the Gegenschein), to 27º West, and recorded average shifts of up to six tenths of an angstrom, corresponding to a maximum radial velocity relative to the Earth of about 40 km/s. The set of spectra obtained is in this thesis compared with predictions made from a number of different models of a dust cloud, assuming various distributions of dust density as a function of position and particle size, and differing assumptions about their speed and direction. The observations fit predominantly prograde models fairly well, but show a morning-evening asymmetry, different in the two observing periods. Models are investigated containing various components, including prograde and retrograde orbiting dust around the Sun, a drift of interstellar material though the Solar System, and light from distant emitting matter. The implications for possible asymmetries of the Zodiacal Cloud are discussed. Other researches on the Zodiacal Dust Cloud, before, during, and after my observations, are reviewed, including recent insights into its structure, orientation, and evolution, up to the present day, and my observations are evaluated in this context. Period of study, 1970-2007.
+
+
+Source

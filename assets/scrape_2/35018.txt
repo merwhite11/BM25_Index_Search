@@ -1,0 +1,14 @@
+Force to fix $\sigma_{8}$ or $A_{s}$ for Forecasts
+
+In the context of Forecasts with Fisher's formalism, I make vary cosmological parameters to compute the elements of the Fisher matrix.
+First, I generate with CAMB code a linear power spectrum. Then, from this, I am computing $\sigma_{8,\text{linear}}$.
+Secondly, Before relaunching the code CAMB in non-linear regime, I apply a correction on $A_s$ (amplitude of primordial power spectrum), by a simpe relation of proportionality on the 2 $\sigma8$ (fiducial and linear), to get a new $A_{s,\text{modified}}$  that will procude the same $\sigma_{8,\text{fiducial}}$ after the non-linear regime execution of CAMB code.
+For example, if $\sigma_{8,\text{linear}}$ is higher than $\sigma_{8,\text{fiducial}}$, I do the following correction before launching the non-linear CAMB regime :
+$A_{s,\text{modified}} = A_{s,\text{fiducial}}\,\bigg(\dfrac{\sigma_{8,\text{fiducial}}}{\sigma_{8,\text{linear}}}\bigg)^2$
+So, $A_{s,\text{modified}}$ will be smaller than $A_{s,\text{fiducial}}$.
+My main issue of understanding :
+1) Why have we got to do this correction ?, I mean to compute a new $A_{s,\text{modified}}$ that will give a new $\sigma_{8,\text{non_linear}}$ equal to $\sigma_{8,\text{fiducial}}$ (or maybe $\sigma8_{linear}$, I am not sure from the relation of proportionality above) ?
+For the moment, I think we want to keep a fixed value for $\sigma_8$ to be consistent with observations data where $\sigma_8$ doesn't change (does $\sigma_8$ always correspond implicitly to amplitude of fluctuations at $z =0$ ?) : but I am not sure to grasp this subtility.
+2) By the way, why we don't compute only once directly the non-linear regime instead of launching 2 times the code CAMB (first in linear regime and second in non-linear regime with this correction between both) ?
+Thanks in advance for your help, even a succinct answer would be nice.
+Regards

@@ -1,0 +1,8 @@
+Questions about Planck’s law
+
+Two questions:
+
+I read online that all objects emit the majority of their thermal radiation in the radio, and that this emission increases with temperature. Does this mean that all glowing bodies emit the majority of their radiation in the radio, regardless of their temperature?
+Wien’s law is used to find the peak wavelength of a black body. Does this mean that there is zero emission at any wavelength shorter than this peak wavelength?
+
+Thank you in advance for your help.

@@ -1,0 +1,23 @@
+PHOEBE 2.2 Documentation, components and semi-major axis definitions
+
+I'm looking at PHOEBE 2.2 Documentation, specifically at a tutorial about constraints
+
+What are Constraints?
+Constraints live in their own context of the Bundle, and many are created by default - either when you add a component or when you set the system hierarchy.
+Let's look at all the existing constraints for our binary system...
+
+and below that:
+
+To see what all of these constraints do, see the 'Built-in Constraints' section below.
+For now let's look at a single constraint by accessing a ConstraintParameter.
+b['constraint']['primary']['mass']
+<ConstraintParameter: {mass@primary@component} = (39.478418 * ({sma@binary@component} ** 3.000000)) / ((({period@binary@component} ** 2.000000) * (1.000000 + {q@binary@component})) * 2942.206217504418873431859537959099) (solar units) => 0.9988131358058302 solMass>
+Here we see the equation used to derive the mass of the primary star from its orbit, as well as the current value
+If we access the Parameter that it is constraining we can see that it is automatically kept up-to-date.
+
+Could you explain to me the difference between the following please?
+
+the semi-major axis of a component about the center of mass of its parent orbit
+the semi-major axis of the parent orbit
+
+The best would be a figure.

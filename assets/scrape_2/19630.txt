@@ -1,0 +1,4 @@
+What's the name of the point where you are closest or furthest from the ecliptic?
+
+Every 24 hour day, there is a point as the earth rotates about its axis, where a location on earth is the closest to the ecliptic and where it's the furthest. Do those two points have a name?
+What I mean is on the plane of the ecliptic, as the earth rotates around its axis, a point on the earth at 45 deg north is going to hit a low-point perpendicular to that plane, and will hit a high point perpendicular to that plane.

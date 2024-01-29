@@ -1,0 +1,21 @@
+Efficiently calculating power spectra from galaxy catalogs
+
+I am dealing with a problem which requires calculating either the correlation function or the power spectrum. At times, the 2-point-correlator seems the better route, at others, the PS. Right now I am having some questions about how to practically calculate a PS.
+Here is the basic setup: I have a mock galaxy catalog. Let's say I want the PS. I could Fourier transform the 2PC, but let's say I want to avoid working with a 2PC code. So instead, I make the assumption that the galaxies trace the density field (it helps that I have the DM halo masses from the underlying simulation which produced the mock).
+I bin the galaxy catalog, giving me a coarse-grained list of masses for each bin, $\{m_{ijk}\}$. It is trivial to turn this into a density contrast list $\{\delta_{ijk}\}$.
+There are a couple of options now to proceed to calculating the PS. Formally, the PS is given by
+$$
+P(k) \sim \langle \, |\tilde \delta(\vec{k})|^2 \,\rangle
+$$
+up to some normalization, with $\tilde \delta$ being the fourier transform of $\delta(\vec{x})$, the full density contrast field, and the angle brackets denoting volume averaging. The seemingly natural thing to do would then be
+
+FFT my binned list $\{\delta_{ijk}\}$
+get list of values $\{ P_{ijk} \}$
+average this list to get the PS $\{ P_k \}$, now just a function of $k$ instead of $k$-space position.
+
+This is potentially problematic for me, as unless I bin over large scales, the memory required to store the zeros present in the array of binned values is too large. With the data I have, binning at $
+\sim 10$ Mpc$/h$ spaces or greater is needed to get a managable array.
+My solution for calculating the 2PC was to avoid calculating an array entirely, and instead performing a regrouping operation to bin the catalog. This keeps the memory usage proportional to the catalog length instead of to the binning resolution cubed. However, it effectively means I am dealing with a sparse density array, which AFAIK cannot be used directly in most existing FFT codes.
+This leaves me with a dilemma. I can either coarse-grain my density array $\{ \delta_{ijk} \}$ even more, losing information at $\sim 1$ Mpc scales, or else I suppose I could interpolate the density, giving me a full function $\delta(\vec{x})$ that I could pass some coarser mesh into, and then pass into an FFT. The problem with interpolating is that this operation requires the (now implicit) knowledge of the empty cells in the sparse array.
+On the other hand, one SO post has a comment suggesting to merely calculate the Fourier integral instead of using FFT methods. I fear this would still present a problem, as this takes the time complexity from $O(n\log(n))$ to $O(n^2)$, and $n$ for me is $\sim 10^6$ or higher (becoming as high as $10^8$).
+Am I missing something? I feel like people calculate PS and 2PC's all the time for catalogs this large, and like my attempts at solving this issue could be flawed. My precise question is, are my options just as I have laid out, or is there another way of handling this calculation I have not described?

@@ -1,0 +1,7 @@
+What's different of power spectrum and correlation function of BAO?
+
+
+(source)
+There is the sentence "the harmonic sequence in the power spectrum correspond to a single peak in the correlation function and that the damping envelope corresponds to the broadening of this peak" in "Eisenstein et al. (2007) APJ_664_675".
+Before, I misunderstood that the BAO peak in the correlation function has many peaks but other peaks are so small that we cannot see these except for  the 150Mpc peak.
+But this paper states "a single peak in the correlation function", so I want to ask: Why are there many peaks in the power spectrum, but only a single peak in the correlation function?

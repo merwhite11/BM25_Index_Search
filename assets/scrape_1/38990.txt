@@ -1,0 +1,4 @@
+Is there a website out there where I can find/compare data on stellar parameters for the brightest stars?
+
+I'm looking for some kind of catalog/repository which lists stellar parameters (e.g. mass, radius, temperature) in a similar vein to NASA's Exoplanet Catalog (but except for stars), for the brightest stars in the sky, with $m_v<4$. I'd rather not have to refer to Wikipedia as they only list data from one source (or an average of several uncited sources).
+I'm aware of SIMBAD, but that site doesn't have a very intuitive UI and doesn't list mass measurements. I've also tried CDS (http://cdsportal.u-strasbg.fr/), but I can't find distance measurements from Gaia (although apparently Gaia doesn't measure distance and I need to put some kind of external study into a Gaia search query which I haven't got a clue how to use).

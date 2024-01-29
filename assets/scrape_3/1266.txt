@@ -1,0 +1,9 @@
+Internet Resource which register all Ultra-long Gamma-Ray Bursts
+
+I read in a scientific magazine there was new gamma bursts that last longer than usual. 
+
+One was detected during december 2010, also known as Christmas Burst: GRB 101225A 
+and another one in 9th of December 2011, GRB 111209A
+
+They were both detected by the "Swift" program and this article goes into detail. 
+I do not know if there is another programs for GRB detection and I would be curious to find a resource on Internet which registers/records all Ultra-long Gamma-Ray Bursts on one single page/site (across all research/programs).

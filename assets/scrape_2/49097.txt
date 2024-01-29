@@ -1,0 +1,3 @@
+Convert from spectral type to RGB color?
+
+I'm writing a night sky simulator and I want to render stars using the correct color. Is there a formula that converts a two-character code (as seen in the Yale Star Catalog) to a RGB value?

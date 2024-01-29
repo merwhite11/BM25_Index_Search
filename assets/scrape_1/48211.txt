@@ -1,0 +1,6 @@
+how to plot Gauss-Hermite moment maps from arrays of star velocity values in Python?
+
+I want to calculate Gauss-Hermite moments, such as h1,h2, h3, h4 moments from the values in an array of numbers which represent velocity distribution of stars in a galaxy. How would I fit a curve to these values that would be a Gauss-Hermite curve fitting and get the value of h1, h2, h3 and h4 using Python? For example, if I want to find standard deviation or mean of an array in python I can simply use np.std or np.mean. Is there any similar functions for Gauss-Hermite?
+Please also share links or articles if relevant. Feel free to ask me if anything is unclear in my question. Thanks a lot!
+EDIT:
+I found a post by MIchele Scipioni at https://mscipio.github.io/post/fitting-functions-to-data/  which is doing something similar to what I am looking for but in a more complicated manner. I just want to be ale to fit the Gauss-Hermite polynomial of the following form [also presented in the post I have linked] to an array of data and be able to generate initial guesses for the input parameters automatically and get output fitted values for skewness and kurtosis :

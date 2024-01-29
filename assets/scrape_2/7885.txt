@@ -1,0 +1,10 @@
+VSOP for exosatellites? (Io, Titan, Ariel, etc)
+
+VSOP87 (and the subsequent VSOP2000 and VSOP2013) provide reasonably 
+accurate planetary positions while still maintaining a small file size 
+compared to the Chebyshev polynomial files. 
+VSOP includes our moon, but has anyone created something similar for 
+other planets' moons (such as Jupiter's Io, Saturn's Titan, and 
+Uranus' Ariel)? 
+I'm thinking about trying to create something like this and wanted to 
+check that it hadn't already been done.

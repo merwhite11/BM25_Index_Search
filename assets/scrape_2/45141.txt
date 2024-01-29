@@ -1,0 +1,5 @@
+What are the oxygen or water vapor lines?
+
+I was reading the document Recommendation ITU-R P.676-11 (09/2016); Attenuation by atmospheric gases (P Series, Radiowave propagation) in order to calculate the atmospheric losses, and there were some terms that I did not understand.
+Specifically, in Annex 1; Line-by-line calculation of gaseous attenuation on page 4 equations 2a and 2b are presented, where they talk about the "imaginary parts of the frequency-dependent complex refractivities" of the oxygen and water vapor lines.
+What are these lines? How many should I take into account when computing the atmospheric losses?

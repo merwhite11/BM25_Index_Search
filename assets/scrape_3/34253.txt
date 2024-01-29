@@ -1,0 +1,5 @@
+How are galactic rotation curves determined from radial velocity measurements?
+
+I have been reading about the deviation of galactic rotation curves from the predicted Keplerian curve to a flat curve at large galactocentric distances.
+They were the first indicators of the existence of dark matter but I do not understand how the curve is obtained from Doppler shift data (as mentioned by some papers as the method of determination for the curve.)
+Doppler shift data would allow measurement of radial velocity but how can that alone be enough to extrapolate the rotation curve?

@@ -1,0 +1,15 @@
+Looking for feedback for my python GUI: visualise exoplanet transit and simulate atmospheric temperature
+
+This isn't necessarily an astronomy question (although there may be plenty of astronomy errors in my GUI), and I apologise in advance if this kind of thing is not allowed here and the question is to be taken down.
+I've been working on a Tkinter GUI (first try with these sort of programming) to make it as easy as possible to visualise light curves and look for exoplanet transits in TESS and KEPLER missions (these 2 in particular since the GUI takes advantage of the lightkurve python library; and I would love some general feedback. Is it unintuitive? Is it useless because you'd rather do this kind of stuff online? Is it straight up broken? I hope not and I would like to share it with you anyway: https://github.com/Britishterron/exoplanet_finder
+I'm not going to paste the whole code here, since it's over 700 lines, but you can see it in the main file of the github link, alongside screenshots of the GUI and the requirements.txt for the required libraries.
+Here are some pictures and the general idea:
+
+Load a file and just click analyse (you can load all LC or TPF files from the TESS/Kepler missions from the Mast Catalogue), no steps required to show and phase-fold the light curve. (This is real data for KEPLER6922244)
+
+Play around with atmospheric parameters to simulate surface temperature with no extra loading.
+Temperature is estimated as:
+
+Sample Product Group IDs for you to try:
+Random star with no exoplanet: 27240036 (48 Mb)
+Star with an actual confirmed exoplanet (star mass is like 1.15 solar masses, but default is 1 if you leave the entry blank): 602457 (942 Mb but you can cut it sooner no need for all the files...)

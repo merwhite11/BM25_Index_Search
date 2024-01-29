@@ -1,0 +1,6 @@
+Calculate viewing times at a location - when location has an obstruction
+
+My most convenient viewing location is my backyard.   It also has an obstructed view of the sky - trees.  This means that just knowing the rise and set times of a planet does not let me know when, or if, I can view a planet at my location.
+For example, let us say I look up my favorite planet, Saturn, and discover that it will rise at 9pm and sets at 4am.   The rise time will give me when it clears the horizon.
+This does not give me the information I need to know.   I need to know the degrees above the horizon it is at its zenith and at what time it will reach its meridian passage. This tells me if the planet will rise higher than my obstruction. The planet needs to rise higher than the red line in my graphic for me to see it.
+I have been trying to find a chart, either in book form or online, that includes the degrees above the horizon that a planet will culminate. Does anyone know of such a resource?

@@ -1,0 +1,6 @@
+How do you convert an uncertainty quoted in dex to a 1-sigma uncertainty?
+
+The black hole mass measurement uncertainties from this paper https://arxiv.org/pdf/2006.15150.pdf are quoted in "dex" and are said to be equal to 0.4 dex. I have seen from certain papers that 1 dex equals to one order of magnitude meaning $0.4$ dex $= 10^{0.4}$. But I'm not exactly sure what this means and how it translates to the scale on which the measurement was made (i.e. $log_{10}(M_{BH}/M_{\odot})$ ).
+As an example: how would I get the uncertainty in $log_{10}(M_{BH}/M_{\odot})$ units of measure on a measurement that is 5.80 $log_{10}(M_{BH}/M_{\odot})$.
+Also, would this be a 1, 2 or 3 sigma uncertainty?
+I hope my question is clear, thank you!

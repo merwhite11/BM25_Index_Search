@@ -1,0 +1,14 @@
+How much mass would have to be added to the Sun to significantly alter any of its characteristics?
+
+While this might at first sound like an XKCD What If? question, let's proceed with it because astronomical objects do occasionally merge.
+How much mass would have to be added to the Sun to significantly alter its characteristics (lifetime, spectral type, size, etc.)?
+
+As an example, from Wikipedia's Rogue planet:
+
+A rogue planet (also termed an interstellar planet, nomad planet, free-floating planet, unbound planet, orphan planet, wandering planet, starless planet, or sunless planet) is a planetary-mass object that does not orbit a star directly. Such objects have been ejected from the planetary system in which they formed or have never been gravitationally bound to any star or brown dwarf. The Milky Way alone may have billions to trillions of rogue planets, a range which the upcoming Nancy Grace Roman Space Telescope will likely be able to narrow down.
+
+...if one doesn't fall into the Sun first!
+Just in the last few years alone we've seen both a comet and an asteroid with extra-solar velocities enter the inner solar system, compare that to the 4.6 billion year age of the Sun.
+
+2I/Borisov 2.01 AU perihelion
+ʻOumuamua 0.255 AU perihelion

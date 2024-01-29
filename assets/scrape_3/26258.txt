@@ -1,0 +1,3 @@
+How many (or percentage) satellites of Solar system planets have their orbits synchronized like the Moon (always facing earth)?
+
+Mercury and Venus have no satellites. Then earth has moon (synchronized orbit). For Mars - both its satellites (Fobos and Deimos) also synchronized. Analyzing other planets is hard - too many satellites. Maybe someone knows percentage - all of them synchronized or which ones are not synchronized (if just a few ones are not synchronized). All 4 largest Jupiter satellites are also synchronized.

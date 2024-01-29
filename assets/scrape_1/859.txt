@@ -1,0 +1,5 @@
+What is the direction of a comet's dust tail before and after perihelion?
+
+I recently created a visualisation of comet ISON's orbit. However, I received a critique that the dust tail of the comet should be pointing away from the Sun after perihelion.
+As far as I know, the ion tail of the comet definitely points away from the Sun as it is blown away by the solar wind.
+I want to know what is the direction of the dust-tail of the comet, before and after the perihelion. Is it always trailing the path of the comet (to a fair degree of approximation) or are there other significant effects?

@@ -1,0 +1,4 @@
+What is the ugriz magnitude system?
+
+While studying photometric redshifts, I came across the ugriz (or u'g'r'i'z) system for classifying magnitudes of galaxies, but I didn't find much information on the internet about how it works. 
+Can somebody explain that? Do the letters "ugriz" have any special meaning, or is its just a nomenclature?

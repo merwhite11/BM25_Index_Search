@@ -1,0 +1,8 @@
+Understanding Scatter in Data collected for HR Plot
+
+I was recently asked a question for a lab I am doing for an astronomy class where we collected data from the M44 cluster (through Google Sky) and used information about the Hyades cluster to estimate the age and distance of M44. Anyways, I was asked whether there was more scatter in my M44 data or the provided Hyades data. There was definitely more scatter (see below) and I'm not sure how to explain it. I believe it is because of these reasons: 
+
+There is measurement error. 
+And I might be picking up background/foreground stars This would definitely lead to scatter. If I measure a foreground star and assume it is as far as the M44 star cluster, it would appear brighter than if it were truly in the M44 cluster.
+
+Am I on the right track or am I missing something? Any help would be great. Here is my data, the green is the collected M44 data.

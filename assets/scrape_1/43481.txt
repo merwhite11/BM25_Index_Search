@@ -1,0 +1,11 @@
+Is threre a relation between relative or absolute error and standard deviation for ratio of power spectra?
+
+I have to compute the variance on this ratio, that is to say on the observable $O$ :
+$$O=\left(\frac{C_{\ell, \mathrm{gal}, \mathrm{sp}}^{\prime}}{C_{\ell, \mathrm{gal}, \mathrm{ph}}^{\prime}}\right)=\left(\frac{b_{s p}}{b_{p h}}\right)^{2}\quad(1)$$
+where $C'_{\ell}$ are angular power spectra (or matter power spectra).
+Can I apply for this the computation of relative or absolute error like in electricity, we have $U=RI$ and the error on the quantity $R$ :
+$$\dfrac{\Delta R}{R}= \dfrac{\Delta U}{U}+\dfrac{\Delta I}{I}$$
+Is there a relation between absolute or relative error with the standard deviation of theses ratio ?
+I would like to apply it to equation($1$) to compute this error or variance : is the right method ?
+If not, which solution would be possible ?
+I have difficulties to grasp the subtilities between uncertainty and standard deviation : I just need to compute $\sigma_{o}^{2}$.

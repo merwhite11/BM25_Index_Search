@@ -1,0 +1,15 @@
+Are falling evaporating bodies (FEBs) and exocomets the same thing? How does one know they're falling and evaporating?
+
+Looking for a (short) list of comets with heliocentric escape velocity I stumbled upon Wikipedia's exocoments which like exoplanets, are bound to other stars. I should have been looking for "rogue comments".
+That aside, looking at the abstract of Transiting exocomets detected in broadband light by TESS in the β Pictoris system (and in arXiv):
+
+We search for signs of falling evaporating bodies (FEBs, also known as exocomets) in photometric time series obtained for β Pictoris after fitting and removing its δ Scuti type pulsation frequencies. Using photometric data obtained by the TESS satellite we determine the pulsational properties of the exoplanet host star β Pictoris through frequency analysis. We then prewhiten the 54 identified δ Scuti p-modes and investigate the residual photometric time series for the presence of FEBs. We identify three distinct dipping events in the light curve of β Pictoris over a 105-day period. These dips have depths from 0.5 to 2 millimagnitudes and durations of up to 2 days for the largest dip. These dips are asymmetric in nature and are consistent with a model of an evaporating comet with an extended tail crossing the disk of the star. We present the first broadband detections of exocomets crossing the disk of β Pictoris, consistent with the predictions made 20 years earlier by Lecavelier Des Etangs et al. (1999). No periodic transits are seen in this time series. These observations confirm the spectroscopic detection of exocomets in Calcium H and K lines that have been seen in high resolution spectroscopy.
+
+It's this part of first sentence that caught my eye: "falling evaporating bodies (FEBs, also known as exocomets)". "...also known as..." (also known as "aka") to me implies a 1:1 mapping, but maybe I'm wrong.
+
+Are all "falling evaporating bodies" also exocomets?
+Are all exocomets also "falling evaporating bodies"
+How does one know if a light dip is from a body that is falling, or evaporating?
+
+
+note: I've use the comets and exoplanet tags because we don't have an exocomet tag.

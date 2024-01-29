@@ -1,0 +1,16 @@
+What exactly is this VLA radio image of Jupiter showing?
+
+This VLA image is beautiful, and instructive, but I don't understand it fully. 
+
+This version is from an article in Gizmodo where the credit reads: A radio image of Jupiter captured by the Very Large Array. Image: Imke de Pater, Michael H. Wong, Robert J. Sault and which cites the recent article in Science: Peering through Jupiter’s clouds with radio spectral imaging. However, that paper does not actually show this image.
+Another version of the image can be found in Berkeley News: New radio map of Jupiter reveals what’s beneath colorful clouds and gives more information how the image was produced.
+
+
+A radio image of Jupiter from the VLA at three wavelengths: 2 cm in blue, 3 cm in gold, and 6 cm in red. A uniform disk has been subtracted to better show the fine banded structure on the planet. The pink glow surrounding the planet is synchrotron radiation produced by spiraling electrons trapped in Jupiter’s magnetic field. Banded details on the planet’s disk probe depths of 30-90 km below the clouds. This image is averaged from 10 hours of VLA data, so the fine details seen in the other maps are smeared here by the planet’s rotation. Image by Imke de Pater, Michael H. Wong (UC Berkeley), Robert J. Sault (Univ. Melbourne).
+
+I would like to know more about how the image was processed. What does it look like before the uniform disk is subtracted - is the radio emission from the region around the planet actually as strong as the planet disk itself, as this image suggests? If there is a reference for this image I'd also like to read it!
+In the mean time, it really is beautiful!
+The image is sometimes paired with the following image, taken here from Science News.
+
+Since this image resolves lateral detail, I'm guessing it might be the same 10 hours of data, but processed with a moving frame and corrected for distortion as it wraps around during the rotation of the planet, while the global image above is smeared by rotation
+Was it? Where can I read more about this?

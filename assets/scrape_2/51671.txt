@@ -1,0 +1,6 @@
+There is a decibel limit to sound based on the medium, what is the decibel limit in neutronium?
+
+I've been participating in many discussions online about the classic thought experiment on pressing a button a light year away with a light year long rod.  The solution boils down to the speed of sound in the material the rod is made of (if we ignore the problem of material strength and monstrous inertia of said rod).  It got me thinking about the speed of sound in denser materials and I read up on the speed of sound in neutronium which was calculated as
+$$\frac{c}{\sqrt{3}}$$
+in this answer to Is the speed of sound almost as high as the speed of light in neutron stars?.
+Knowing this and the nuclear forces holding neutronium together, is it possible to calculate the loudest sound possible in this medium in decibels?  Would adding more energy beyond this decibel limit end up creating additional nucleons due to the immense binding energy of nucleons in the same way that pulling apart quarks takes enough energy to create new quarks?

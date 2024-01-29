@@ -1,0 +1,9 @@
+How scientists estimated the number of near-Earth supernovae over the last 11 million years?
+
+According to this article on wikipedia,
+
+An estimated 20 supernova explosions have happened within 300 pc of
+  the Earth over the last 11 million years. 
+
+How did scientists determine that 20 near-Earth supernovae were within 300 pc over the last 11 million years? If this was empirically observed, then how do we know that there are not more supernovae that we haven't seen? If this estimate is obtained by some model, then what is the model and why do we trust this model - have there been enough observed supernova to trust that the accuracy of this model?
+The source for the statement quoted above is cited here. I skimmed through the introduction and conclusion section of the article. It appears to me that the authors of this paper use the geologic record of radioactive elements to determine this "magic" number of 20. To my understanding, if one knows the initial/final concentration of a radioactive isotope, the decay rate of said isotope, and the time-interval to be considered, then one can deduce the final/initial concentration. Using this logic, how was the initial concentration tied exclusively to supernova (as opposed to a combination of things)? I am inclined to think that no other mechanism exists that can produce these isotopes over these time-frames, but even if this is the case - why?  I don't know if this is correct, and would like to know more about this topic. If I double the time-interval from 11 million years to 22 million years, would the estimated number of near-Earth supernova also increase by a proportional amount (maybe double 20 --> 40, or by a factor of 2 * r^2 assuming spherical distribution), or would the "within 300 pc" metric change this number due to the acceleration expansion of the universe?

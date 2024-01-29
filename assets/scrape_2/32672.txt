@@ -1,0 +1,4 @@
+Kepler space telescope undetected planets
+
+The Kepler space telescope detects planets based on the dip in brightness caused by planets moving past the star.
+Wouldn’t that mean that there are an unknown amount of planets that have an orbit that wouldn’t be detected because their orbits don’t cross that path between the star and the telescope?

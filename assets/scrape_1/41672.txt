@@ -1,0 +1,11 @@
+Right Ascension of North Celestial Pole
+
+My scope simulator is pointing to the celestial north pole.
+My position is 41º 27' lat and 2º 15' long.
+At 12h 43m local time (11h 43m UTC) the coordinates read from the scope are:
+RA: 16h 14m 25s
+DE: 90º 00'00"
+There seems to be a constant 4h 31m difference between North pole RA and UTC time.
+What the relation is between UTC, my location and celestial North Pole Right Ascension ?
+I am making all kind of operations trying to relate these numbers to no avail.
+Sorry if it's too stupid a question. I try to create a model in my brain of how celestial movements work and at the moment I only manage to explode a few neurons. Getting a clear answer will help me get the puzzle together

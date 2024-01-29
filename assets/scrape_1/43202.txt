@@ -1,0 +1,7 @@
+Cosmology calculator where curvature density $\Omega_k$ can be independently set?
+
+I am looking for a cosmology calculator that does not have the default that
+$$\Omega_k = 1 - (\Omega_r + \Omega_m + \Omega_{\Lambda}).$$
+I particularly want to run
+$$\Omega_r = \Omega_m = \Omega_{\Lambda} = 0, \ \text{and} \ \Omega_k = -1.$$
+Can this be done?

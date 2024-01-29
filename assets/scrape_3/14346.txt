@@ -1,0 +1,5 @@
+Simulates Orbit
+
+I IT developer, and I would code a small program that simulates the orbit of two bodies, the problem of two bodies eventually. 
+I have no problem on the part programming but I have a little trouble with the calculations to be done to retrieve the position of the second body that is in orbit around the first. 
+Could someone expliqer calculations me or give me a site with a concrete example, such calculations to do to have the orbit of the moon around the earth or the earth around the sun?

@@ -1,0 +1,6 @@
+For lenses, what is the practical difference between plano- and bi-?
+
+I don't know if this is a trivially obvious question for astronomers. If so please forgive my ignorance.
+I've looked around at a lot of diagrams of lenses in telescopes. The plano-convex and bi-convex lenses both seem to converge light, but the plano-concave and bi-concave lenses both seem to diverge the light.
+What is the practical difference? Why would you choose a bi- instead of a plano- for any given purpose?
+The bi- is obviously twice as much work to manufacture so I would like to know what are its benefits. Note I'm assuming a thin lens in air for telescopes.

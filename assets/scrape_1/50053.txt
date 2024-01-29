@@ -1,0 +1,9 @@
+Question about plasma parameter
+
+As we know, the deflection angle in strongly ionized plasma can be written as $$ \tan \frac{\theta}{2} = \frac{l_0}{l}, $$
+where $\theta$ is the deflection angle, $l_0$ is the impact parameter when $\theta = 90^\circ$, and $l$ is the impact parameter.
+If $0 < l \le l_0$ and $\theta \ge \frac{\pi}{2}$, we call it a near-collision; if $l_0  <l\le \lambda_D$, (where $\lambda_D$ is the Debye length), we call it a far-collision. Their collisional cross section are noted as $S_n$ and $S_f$ respectively. Now that $ \lambda_D \gg l_0$, we have
+$$S_n = \pi l_0^2 \qquad S_f \approx \pi \lambda_D^2. $$
+Then we can define plasma the parameter $\Lambda$ as following
+$$ \Lambda^2 = \frac{S_f}{S_n} = \frac{\lambda_D^2}{l_0^2} \quad \Rightarrow \quad \Lambda = \frac{\lambda_D}{l_0} \approx n_e \lambda_D^3,$$
+What I want to ask is the final equation: How is $\lambda_D/l_0 $ approximately equal to $n_e \lambda_D^3$?

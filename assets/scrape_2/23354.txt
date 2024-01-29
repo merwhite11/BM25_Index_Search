@@ -1,0 +1,7 @@
+Units of integrated flux density (irradiance) along longitudes
+
+If I've taken an image of the Galactic bulge with the pixel units in MJ per steradian:
+
+and I've looked down each column of the image and added up the values:
+
+then do the units change? My thinking is that I'm taking something that is measured per steradian (which is a solid angle) and integrated it along a single axis, which would be in degrees. Would this make the units of my graph now MJ per radian? Or am I simply adding values in MJ per sr, so the units don't change?

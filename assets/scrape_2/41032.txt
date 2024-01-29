@@ -1,0 +1,3 @@
+How to connect my phone to a motorized telescope via a cable?
+
+Some motorized telescopes (e.g. Celestron NexStar Series) have no WiFi by default. Can I connect my phone to them to be used as a hand control via a cable? The telescopes have AUX port and phones USB C ports. Even when they have hand control or even WiFi, connecting the phone by cable can be better. I've heard that some telescopes have issues with WiFi connection and that the hand control does not provide the same level of convenience as an Android app (e.g. SkyPortal).

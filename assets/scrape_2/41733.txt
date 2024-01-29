@@ -1,0 +1,3 @@
+Why do degenerate objects get hotter as more mass is added?
+
+After reading this question, I decided to post a question about degeneracy. I've seen simulations on large, $15\text{+ }M_J$ objects that are accreting mass. They do not grow in radius, instead they shrink (that is something I know about degenerate objects). But why do they get hotter? I'm assuming it comes from the internal pressure, and at what mass does some sort of fusion occurs?

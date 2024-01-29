@@ -1,0 +1,9 @@
+Can a Thorne-Żytkow object be the progenitor of a modern quasi-star?
+
+I was reading some Wikipedia articles about astronomy, and came across an interesting line:
+
+The neutron star may also accrete sufficient material to collapse into a black hole.
+
+
+Now, here is my theory:
+If a massive supergiant star ($>20 M_\odot$) has a neutron star at its core, eventually the neutron star will pass the TOV limit, collapsing into a black hole. So if the new black hole is still in the star's core, and the outer envelope is not ejected, will a modern quasi-star be formed? If so, how long would it live for?

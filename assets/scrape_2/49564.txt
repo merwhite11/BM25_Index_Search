@@ -1,0 +1,6 @@
+How to calculate metallicity of a star that is made of iron of 20kg and Hydrogen 1000 kg?
+
+I want to know how to calculate star metallicity using only masses of metal and hydrogen of the star. I am attaching my working so far. I am not sure how to exactly calculate the log10(Fe/H) based on masses alone.
+Also, please note I am not sure how the log10(Fe/H) of the Sun is obtained either. I just found the value online. So, explaining one will help explain the other, I guess.
+
+Thanks!

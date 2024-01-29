@@ -1,0 +1,7 @@
+Why does the Gaia color-magnitude diagram have this shape?
+
+I was looking at the visualization tools of Gaia, and tried plotting a color-magnitude diagram. On the right hand side of the image, photGMeanMag (mag) (the amount of light) is plotted as a function of BpRp (mag) (the color). 
+
+I was surprised by the distribution of the points in the plot, since I was expecting to see something like the main sequence of the HR diagram, like in this plot: 
+
+Why are the points distributed in a sort of wedge, rather than along a diagonal line?

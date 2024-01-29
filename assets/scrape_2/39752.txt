@@ -1,0 +1,3 @@
+Does Jupiter rotate at the same speed at every depth?
+
+Jupiter rotates in less than 10 hours. Its rotation is differential, with the upper layers of the atmosphere spinning a bit faster at the equator than at higher latitudes. Do the inner layers of Jupiter rotate at the same (angular) speed as the outmost layers of the atmosphere?

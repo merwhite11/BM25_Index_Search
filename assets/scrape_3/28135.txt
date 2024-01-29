@@ -1,0 +1,3 @@
+How to convert quasar flux time series from observed frame to rest frame?
+
+I have flux time series of quasars in the observed frame and want to convert it in the rest or quasar frame. Any one who can help? Thanks

@@ -1,0 +1,15 @@
+The Solar System formation
+
+I've recently watched one conversation (I won't post a link since the conversation is not in english) involving a physicist (at least he claims so), who spoke about probabilistic estimates of the Solar System formation and the birth of life. Which are:
+
+There are approx. 2000 planetary systems discovered, and all of them, except the Solar System, have angular momentum mostly in a star, which agrees to Kant-Laplace theory (probably it's the Nebular hypothesis). But the Solar System is the only one amongst them with angular momentum mostly in planets. This was sort of explained by the Schmidt's hypothesis (it's about the Accretion as I understand), that the Sun was flying through some debris and "picked" some. But the probability of such an event is very low, given the speeds of participating celestial bodies, read quantity of moving stars with requisite speed (why those stars have that speed is also unknown), and also there should have been supernova explosion at the same time. So the Solar System formation explanation is based on the chain of unlikely events.
+Earth is the only planet in the Solar System that has continental crust and oceanic crust (I guess it is important for the water cycle and life formation on Earth in general). The only explanation of that fact also relies on the chain of low probable events:
+
+once Earth had an Lagrangian satellite (near Earth), comparable to Mars in size, which is itself unlikely, since Lagrangian satellites are typically much smaller;
+each of them were each other's Lagrangian satellites, which is also unlikely, nothing like that was discovered up to date;
+then some unknown power brought out that satellite from Lagrangian point. Such power could have resulted from an event of some wandering star or another massive object moving through the plane of the Solar System, which is nearly impossible since even at the event of galaxies collision, the probability of collision of stars is vanishingly small;
+as a result, that satellite "rubbed" Earth in an event of collision, tore off some amount of crust, that was how place for oceans was formed, also the Moon was formed from the resulting debris.
+
+Without the chain of events above the birth of life as ours is impossible, and since the aforementioned planetary systems have some consequences of formation according to Kant-Laplace theory, there is no intelligent life possible there.
+
+Are those statements true?

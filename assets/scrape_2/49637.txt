@@ -1,0 +1,9 @@
+Could "gravitational atom” black hole be detected using observation of gravitational microlensing?
+
+D. Baumann et al., published the article hypothesizing existence of "gravitational atom” black holes (not sure whether those are just stellar ones or also those could be supermassive black holes as well?), which have a cloud of hypothetical ultralight bosons formed around it.
+They suggested that existence of  "gravitational atom” black holes could be detected by registering specific quirks in the caption of gravitational waves caused by collision of such "gravitational atom” black hole with another stellar black hole (though the capture of such quirks is not possible now using LIGO, Virgo and KAGRA detectors but will be possible using LISA, the space-based gravitational-wave detector,
+which will be available in 2037).
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.221102
+Meanwhile Jessica Lu and Casey Lam from Berkeley announced that they found free floating stellar black hole by detecting (using Hubble) its gravitational microlensing effect.
+Lam, Casey & Lu, Jessica & Udalski, Andrzej & Bond, Ian & Bennett, David & Skowron, Jan & Mroz, Przemek & Poleski, Radek & Sumi, Takahiro & Szymanski, Michal & Kozlowski, Szymon & Pietrukowicz, Pawel & Soszynski, Igor & Ulaczyk, Krzysztof & Wyrzykowski, Łukasz & Miyazaki, Shota & Suzuki, Daisuke & Koshimoto, Naoki & Rattenbury, Nicholas & Terry, Sean. (2022). An isolated mass gap black hole or neutron star detected with astrometric microlensing.
+Is there any possible difference in the effect of the gravitational microlensing caused by a “gravitational atom” black hole vs gravitational lensing caused by a "regular" black hole, that doesn't have a cloud of hypothetical ultralight bosons formed around it and could such difference be detected?

@@ -1,0 +1,3 @@
+Orbital elements: Difference between longitude of perihelion and argument of perifocus
+
+I am learning orbital elements and one thing isn't clear to me. When I look at the Horizon's ephemeris data for Mars, this gives me argument of perifocus equal to roughly 286.53 degrees on epoch J2000. When I look up its longitude of perihelion for the same epoch here, I get roughly 336.04 degrees. I thought these two parameters are the same thing. What is the difference between them? Why are the two numbers not the same?

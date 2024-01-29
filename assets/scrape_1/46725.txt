@@ -1,0 +1,5 @@
+Why can't observatories just stop capturing for a few seconds when Starlink satellites pass though their field of view?
+
+Given that the positions and trajectories of the Starlink satellites are public, why can't the telescopes just ignore the photons they receive when the satellites pass through the field of view?
+It seems that they could "just" stop image capture for a few seconds before and restart a few seconds after.
+Is it that simple, or are there other complicating factors?

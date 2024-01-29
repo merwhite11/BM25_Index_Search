@@ -1,0 +1,3 @@
+Looking for planetary position calculation
+
+In Hindu astrology, for creating horoscopes (birth charts), I am looking for calculations of planetary positions. So, how could I calculate planetary positions according to given date, time and place?

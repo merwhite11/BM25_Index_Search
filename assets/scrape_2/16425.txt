@@ -1,0 +1,5 @@
+Would space-based telescopes need to remain in the shadow of Earth to avoid light interference from the sun?
+
+So I am thinking about orbiting telescopes tonight and I was thinking that it would probably be beneficial to keep them in the shadow of the Earth or some other space body to avoid light interference.
+Specifically, I am thinking about looking off in all directions around Earth. I would imagine staying in a shadow would help the most. But that at the very least there would be a range of degrees around the direction of the sun that you could not observe until the Earth changed orbital position so that the Sun's light was no longer interfering when looking in a specific astronomical direction.
+Am I correct in any of these assumptions? I believe there are telescopes that don't sit in the shadow of a body, but I do think that would greatly limit the range of area it could look at during a given timeframe.

@@ -1,0 +1,3 @@
+How can I calculate how long time a Galilean moon orbital configuration will take to repeat again?
+
+For illustrative purposes, if I assume that the Galilean moons, Io, Europa, Ganymede, and Callisto, have coplanar circular orbits, and their initial configuration are, respectively: 10, 20, 30, and 40 degrees, measured from an arbitrary axis, when this configuration will repeat again? Considering that the four moons have their actual periods.

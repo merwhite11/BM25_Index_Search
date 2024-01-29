@@ -1,0 +1,13 @@
+Black hole without singularity?
+
+My question is about the equivalence about having an event horizon and having a singularity.
+In one side the implication looks pretty obvious: 
+
+A singularity implies having an event horizon and therefore a black hole. Since the mass is compressed in a zero volume space, if you get close enough there will be a point where the escape velocity gets bigger than the speed of light so you will get a black hole by definition.
+
+But what about the opposite? Does having an event horizon imply the existence of a singularity?
+Could it be that you have a neutron star massive enough to reach a escape velocity equal to the speed of light but not strong enough to make the matter collapse?
+Even if such star can not exist because the strong force collapses before reaching an event horizon, this doesn't mean an equivalence. 
+It just means that for some specific value of the maximum strong force this is not possible, but image now an imaginary exotic matter that has a way bigger strong force.
+For such "science fiction" matter, it would be possible to reach an event horizon without collapsing to a singularity, right?
+Or is it really an equivalence between this two concepts, such that no matter how resistant matter is to collapse it will never reach an event horizon?

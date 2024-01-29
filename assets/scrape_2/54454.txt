@@ -1,0 +1,3 @@
+Are the rotational axes of Earth and Mars parallel?
+
+So I was stuck on a question involving the transformation of coordinates from geocentric to Mars-centric coordinates. The relative position of Mars and its orbital details are given. I thought that we may neglect the inclination of Mars' orbit with respect to the ecliptic (just have to approximate for this question). Also, inclination of Mars' rotational axis is almost identical to that of Earth. But the problem is, I don't know if the rotational axes are parallel or not, which makes a huge difference here. Have looked up some sources, but didn't get an answer to my question. Would appreciate any help.

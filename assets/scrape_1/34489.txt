@@ -1,0 +1,8 @@
+Does the dimming of Betelgeuse present any observational opportunities?
+
+Recent photometry suggests that Betelgeuse has been dimming over the past three or so months, reaching the faintest V-band magnitude seen in modern observations. The changes are apparently even visible to the naked eye, and appear to correspond to a temperature drop of $\sim$150 K relative to maximum brightness. The second Astronomer's Telegram on the phenomenon ends with
+
+This continues to be an opportune time to carry out complementary measures of Betelgeuse while it is in its current low state and is unusually cool and faint.
+
+This got me thinking. Obviously, continuing photometry will tell us more about the dimming itself. However, regardless of the mechanism behind the phenomenon, is there anything we can glean from the dimming about the star itself - e.g. composition, rotation, limb darkening, etc. - and its circumstellar environment (e.g. a binary companion, which I assume is unlikely, or circumstellar dust)?
+Essentially, are there any observations of Betelgeuse that would be made easier by the recent changes? Or am I being overly naïve, and they're really too minor to be of any use?

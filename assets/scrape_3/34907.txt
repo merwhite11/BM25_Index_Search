@@ -1,0 +1,7 @@
+Can a black hole with the density of water exist?
+
+During an outreach event, the speaker mentioned the fact that black holes weren't necessarily dense objects and that black holes of any density could exist, even black holes with the density of water. 
+Now indeed, the schwarzschild radius of such a black hole would be
+$R = c\sqrt{\frac{3}{8 \pi G \rho}}$
+with $\rho$ the density of water. 
+But could such a non-dense black hole exist in practice? If not, what would prevent it from forming or from being stable?

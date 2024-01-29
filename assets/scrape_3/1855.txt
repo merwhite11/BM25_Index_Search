@@ -1,0 +1,22 @@
+How to get the longitude/latitude from solar zenith/azimuth?
+
+How do I get the longitude/latitude from zenith/azimuth?
+Or how can I position my sun in a 3d application? 
+code extracted from here
+public static AzimuthZenithAngle getSolarAzimuthZenithFromLatLon(float lat, float lon) {
+   GregorianCalendar time = new GregorianCalendar(TimeZone.getDefault());
+   return PSA.calculateSolarPosition(time, lat, lon);
+}
+
+public static Vector3 getSolarPosition(float radius, AzimuthZenithAngle az) {
+    double a = az.getAzimuth();
+    double z = az.getZenithAngle();
+
+    float X  = (float) (radius*Math.sin(z)*Math.cos(a));
+    float Y  = (float) (radius*Math.sin(z)*Math.sin(a));
+    float Z  = (float) (radius*Math.cos(z));
+
+    return new Vector3(X, Y, Z);
+}
+
+this is my code, but it's not working very well.

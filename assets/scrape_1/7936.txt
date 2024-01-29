@@ -1,0 +1,6 @@
+Given a date obtain latitude and longitude where is the sun zenith
+
+Searching is easy to find terminator line (frontier between day and night) or the position of the sun in the sky given a position on the earth and a time; but I can't find how to obtain where is the zenith of the sun given a date (and time).
+I need to obtain the center of the illuminated zone of the earth (latitude and longitude) at a given time. (Well, actually I need the opposite, the Nadir, but with one you can calculate easily the other).
+Any knows the function?
+Thank you.

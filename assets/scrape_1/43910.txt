@@ -1,0 +1,4 @@
+Have all Wolf-Rayet stars evolved off the main-sequence?
+
+From what I've read from various sources, Wolf-Rayet stars are massive, evolved stars that typically are the hottest, most luminous stars known. They experience high mass loss, taking their mass from $\sim 100 M_\odot$ to only $\sim 20 M_\odot$. However, Wolf-Rayet stars like R136a1, 2, and 3 are still supermassive, at around $150-220 M_\odot$, and are about only 1 million years old.
+Does this mean that these stars already have burned their hydrogen and have evolved off the main sequence, or are these stars still on the main sequence but are classified as WN5h as a result of its high surface temperature and luminosity?

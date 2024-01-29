@@ -1,0 +1,5 @@
+Could a Jovian or Saturnian moon keep its atmosphere if the system was within the habitable zone?
+
+Currently the atmosphere of Titan is 1.5x thicker than Earth's atmosphere, but it's also much much colder. It's been said that an astronomical body can keep it's atmosphere if the escape velocity is more than six times the average speed of the molecules. 
+Does this mean if a moon like Titan was moved to the habitable zone and heated up to livable temperatures, then it's atmosphere would escape? 
+What is the minimum gravity necessary for a moon to hold onto an earth-like breathable atmosphere within the Habitable Zone?

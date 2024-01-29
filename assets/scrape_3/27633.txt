@@ -1,0 +1,4 @@
+Is it possible to mount a telescope on a plane? Is it beneficial?
+
+I was wondering if any planes had mounted telescopes with the intent to observe the stars. I understand that the atmosphere itself can warp and hinder incoming light and even completely obscure views on cloudy days. Would it be possible to have a telescope which could account for the speed of the airplane and remove motion blur? Would it even be worth it, seeing as the size of the lens would also be limited? Could we see anything interesting that a terrestrial scope of the same size would miss?
+Hobbes has mentioned SOFIA as a great example of this being done. Does anyone have more information on the benefits of a plane mounted telescope over one on the ground for noninfrared observation?

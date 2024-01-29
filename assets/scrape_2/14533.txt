@@ -1,0 +1,9 @@
+Estimating galactic dust extinction for medium band filters
+
+I have a set of medium-band filters and I would like to compute $A_{\lambda}/E(B-V)$ for each filter which are not reported in the literatures. The magnitudes of the objects in the photometry catalogue should be corrected for the galactic dust extinction using Cardelli et al. 1989 law.
+Update
+In appendix B of D.J. Schlegel, D.P. Finkbeiner, & M. Davis (1998, ApJ, 500, 525) estimating the $A_{\lambda}/E(B-V)$ for filters is obtained by using this equation 
+$$
+\Delta m_f=-2.5\frac{\int d\lambda W_f(\lambda)F(\lambda)10^{\frac{-A(\lambda)\Delta m_V}{2.5}}}{\int d\lambda W_f(\lambda)F(\lambda)}
+$$
+$\Delta m_V$ is the reddening magnitude of an elliptical galaxies and $F(\lambda)$ is the flux of source and $W_f(\lambda)$ is the response function of a filter. I am wondering how I can use  Cardelli et al. 1989 law to estimate these quantities for different filters or there is an alternative approach?

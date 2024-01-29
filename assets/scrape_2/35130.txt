@@ -1,0 +1,5 @@
+Was the Earth-Sun distance ever calculated based on the time difference between night and day?
+
+If we define sunrise and sunset as the time when the center of the Sun goes over the horizon then day time is a little bit shorter than night time because from a single point one cannot see a complete hemisphere. Computing backwards from a known Earth radius of around 6700km and a known Earth-Sun distance of around 150 million kilometers one can compute that the angle of the Sun shining on the Earth is 13,4/150.000 which comes to the day being roughly 5 seconds shorter than the night. 
+The radius of the Earth was already known to the ancient Greeks. You also need a clock that is accurate to at less than a second per day and a spot to observe the Sun rise and and Sun set at exact times. If you are not at the equator there will be differences in day time due to the tilted Earth axis but one could either measure directly at the equator or measure over a whole year and average it out.
+Question: was this method ever used to estimate the distance between the Earth and the Sun?

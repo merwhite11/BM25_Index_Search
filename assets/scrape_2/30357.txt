@@ -1,0 +1,6 @@
+Does the "photo of a black hole" taken by EHT actually depict a visible light-based scenario?
+
+I'm still at my bachelor of electronic and communications engineering, so I'm not an expert of radiotelescopes; however, I surely know that, typically, radio communications are characterized by a RX that has at least one bandpass filter. 
+As a result, I am led to think that the "photo" of the black hole, recently released to the public, is a reconstruction picture taken from various radiofrequency signal samples that got mapped to the frequencies of visible light spectrum (since the Event Horizon Telescope project is based on radio telescopes), hence it doesn't depict what we would actually see (neglecting any impossibilities in doing so), but rather, it shows the radio emission from whatever is close to the event horizon of the black hole. 
+Is this correct, or is it actually a photo capturing visible light?
+I mean, scientifically, this is a huge step; however, I have the feeling that the news got "boosted" a little too much, in medias, as they just talk about "photos" and "light" surrounding a black hole - not specifying anything else for a inexperienced audience.

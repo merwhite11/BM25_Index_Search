@@ -1,0 +1,3 @@
+Which Chandrasekhar Limit do I use? 1.39 or 1.44?
+
+Different sources online say that the Chandrasekhar Limit is either 1.40 or 1.39, or 1.44 solar masses. Why the discrepancy? I heard it might have to do with the composition of the white dwarf, but, correct me if I'm wrong, don't pretty much all white dwarf stars have the same composition?

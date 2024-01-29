@@ -1,0 +1,5 @@
+sun's core - how much x-rays get emitted
+
+We know from the sun, we receive x-rays, gamma-rays but at a very small number of photons.
+Question 1: why not much ? is it because most of the x-rays are absorbed in a process of ionization of the atoms in the outer layer of the sun ? If so, some x-ray photons still leave the sun. Is it because at some low probability, from the core, these x-rays didn't collide with anything and got very lucky ?
+Question 2: In the sun process, outer layer, where ionized plasma is, we know Bremsstrahlung takes place. can Bremsstrahlung in there produce x-rays as well ? we know it has continous spectrum, so i guess it can. Wouldn't these x-rays produced there leave the sun towards us ? This logic kind of makes me believe that there should be more x-rays leaving the sun than at the spectrum we see.

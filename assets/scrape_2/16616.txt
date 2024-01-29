@@ -1,0 +1,6 @@
+Could celestial coordinates be encoded into three-word combinations?
+
+I came across this cool tool which encodes geographic coordinates into 3 dictionary words - table.lamp.chair - for example. You can see their map here https://map.what3words.com/. It divides the world into a grid of 57 trillion 3mx3m squares and each one is assigned with one of these three-word addresses.
+It made me curious as to whether this sort of thing could work for communicating the locations of stars.
+It would be pretty simple to assign unique three-word addresses to stars in stellar databases. What would be even more powerful is if we could encode celestial coordinates into three-word addresses, and create an interactive "what3words" space map. But would this be at all useful?
+The finite surface area of the earth allows us to create the grid of 57 trillion squares. Can we work with the infinite nature of the celestial sphere to create something similar?

@@ -1,0 +1,8 @@
+Names of specific galaxies in Hubble's XDF
+
+I'm working on a little side project that traces and identifies galaxies in Hubble's XDF using OpenCV.
+This is my current progress with tracing the more prominent galaxies:
+
+
+I was wondering if there was some kind of database for the galaxies that appear in the XDF. Like their scientific names, coordinates, distances, and etc.
+Here's a link to the image I am using for the project: https://www.nasa.gov/mission_pages/hubble/science/xdf.html

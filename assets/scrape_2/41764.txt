@@ -1,0 +1,9 @@
+When examining an exoplanet's atmosphere is the star's emission spectra or planet's light used?
+
+My understanding of the main method we use to figure out an exoplanet atmosphere composition is that when a exoplanet transits their sun, visible light passes through the planet's atmosphere, and absorbed by the elements in the atmosphere. We then observe these absorption lines to figure out the chemical composition right? Or am I getting some details wrong here?
+My main question is, does the light that passes through the planet's atmosphere is the sun's light or the sun's emission spectra?
+Also will different stars starlight cause different absorption lines? As in say some planet X orbiting a M class star as opposed to the same planet X orbiting a G class star. Considering both the stars are different but the planet are same, would the absorption bands of the planet be different in each case?
+References
+
+ESA: Starlight yields clues to exoplanets’ atmospheres
+Lecture by  Michael Richmond: Spectroscopy of exoplanets/spectra/spectra.html

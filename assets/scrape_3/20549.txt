@@ -1,0 +1,6 @@
+How do we know how the Sun (or any star, for that matter) will evolve?
+
+The evolutionary path of the Sun has been described in some detail, and, subtle differences aside, it's been described as such for decades - the Earth-engulfing red giant stage, the helium flash, etc.. It would seem that the knowledge necessary to make such a prediction has been around since the 60s, if not earlier.
+How do we know it will happen, and on the timescales described? If we make some measurements/estimations of the mass and composition of the Sun, and use our understanding of nuclear physics - energy of fusion and so forth, and an understanding of Newtonian physics (or do we have to invoke Einstein?), do the predictions just inevitably fall out?
+Could the predictions be wrong? Is there any significant measure of uncertainty, perhaps due to sensitivity of certain calculations to initial conditions, etc?
+Is the red giant future of our Sun a firm conclusion, or just a likely possibility among a range of others and commonly talked about merely because it seems the most likely one?

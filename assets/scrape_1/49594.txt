@@ -1,0 +1,3 @@
+what will be the values of number of photons present on each spectral type of stars (O, B, A, F, G, K,M)how can it measure from the luminosity
+
+how can measure number of photons flux density of different spectral type of stars like O, B, A, F, G, K, M by integrating  Planck function with lowest and highest value of energy  .What will be the calculated  values for number of photons for each spectral type of stars?

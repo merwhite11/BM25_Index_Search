@@ -1,0 +1,8 @@
+Instrumental magnitude to "real" magnitude - Photometry with not enough data?
+
+I have a lot of data taken in R, B, V, Luminance and Halpha-bands which I want to analyse photometrically (one target in the frame).
+The frames are already reduced (with flats, darks etc.) and have a correct wcs-header. I also already have the instrumental magnitude of my target and other stars in the frame (using APT).
+My question now is, how do I calculate the real magnitude of my targets?
+The most simple way would be comparing the other stars' instrumental magnitude and real magnitude and then applying the (logarithmic/linear?) transformation to the instrumental magnitude of my target. But I don't know how exact that would be and how I could calculate the error of the photometric solution (by applying the same transformation to the error of the instrumental magnitude APT gave me?).
+For more exact photometry I don't have enough data, aka air mass or calibration fields.
+Do you have any ideas or solutions?

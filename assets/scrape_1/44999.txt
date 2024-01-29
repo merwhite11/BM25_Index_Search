@@ -1,0 +1,10 @@
+Vacuum and air wavelengths in spectroscopy
+
+In the SDSS page https://classic.sdss.org/dr7/products/spectra/vacwavelength.html, it is written
+
+Because the SDSS observes many quasars at rest-frame ultraviolet
+wavelengths, the data are stored in vacuum wavelengths.
+
+Does UV wavelength have something to do with storing data in vacuum wavelengths?
+Also, when looking for emission lines in the spectrum of extragalactic objects, such as supernovae, when should we use vacuum wavelength as the central wavelength of the line
+and when the air wavelength?

@@ -1,0 +1,9 @@
+Procedure to construct a spectral energy distribution and bolometric light curve of supernovae?
+
+Can anyone check the logic of this proposed workflow and/or point me in the direction of a guide and example to check my work?
+Proposed procedure to construct a spectral energy distribution and bolometric light curve of supernovae:
+
+Correct magnitude values for extinction (galactic and host)
+Convert magnitude to flux
+Plot flux against wavelength
+Integrate the SED over the wavelength range as a Planck function

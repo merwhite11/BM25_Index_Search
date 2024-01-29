@@ -1,0 +1,7 @@
+Is there any formulae to calculate whether the sun will depress 18 degrees or more below the horizon on a certain day / location?
+
+I'm trying to code a piece of software which will calculate some times for me that would greatly help me in my day to day but none of my formulae work if the sun doesn't go at least 18 degrees below the horizon.
+In this case, I have different formulae to use but I need to program the software to be able to use this other formula on these days. I have no way of determining the maximum the sun will depress below the horizon on any specific day or location.
+I am not an expert in any sense of the word in astronomy and literally only know what is relevant to what I need, but I think what I am trying to ask is if it is possible to determine the if the minimum solar elevation / altitude angle is less than -18 degrees on a day / location.
+I have attempted to search but was unsuccessful and am even unsure if what I am asking for is even possible.
+Thanks for any help!

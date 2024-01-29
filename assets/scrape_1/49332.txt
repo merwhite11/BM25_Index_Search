@@ -1,0 +1,12 @@
+What's the difference between an exoplanetary transit and eclipse?
+
+This article states
+
+Their data contained eclipses for all 25 exoplanets, and transits for 17 of them.
+
+This page from NASA explains the difference between an eclipse and a transit:
+
+Like an eclipse, a transit occurs when one object appears to pass in front of another object. But in a transit, the apparent size of the first object is not large enough to cast the second into complete shadow
+
+This must mean that for these 25 exoplanets, the star they orbit is completely hidden when the exoplanet passes along its line of sight. But for this to be the case, the exoplanet would have to be roughly as big as the star it orbits, because the exoplanet and the star are so far away from the Earth.
+This seems surprising to me. Am I interpreting the article from Hubble correctly?

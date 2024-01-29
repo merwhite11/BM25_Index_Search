@@ -1,0 +1,12 @@
+Is a Procyon - brown dwarf - Jupiter - superearth - Mars - Pluto system theoretically possible?
+
+I once conducted a thought experiment and with some amateurish calculations based around Hill sphere and Roche limit came up with semi-major axis distances like this: 
+Procyon-BD:  3.6 AU
+BD-Jupiter:  0.7 AU
+Jupiter-SE:  0.12 AU
+SE-Mars:     0.02 AU
+Mars-Pluto:  0.0033 AU
+
+Assuming respective masses of: 496 260 earths, 15 000 earths, 313 earths, 6 earths, 0.107 earths and 0.00218 earths.
+Clarification: I use names of specific bodies (Procyon, Jupiter etc) but a Procyon-like star, a Jupiter-like gas giant and so on would be more precise. Think of them only as examples of bodies with such masses.
+Could such a system be possible?

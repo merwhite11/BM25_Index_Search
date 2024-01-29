@@ -1,0 +1,6 @@
+Can I measure the moon's gravity?
+
+Since I learned about Newton's gravity law, I wonder if I can measure the moon's gravity using (almost) no special equipment. The best I could come up with is a pendulum, which is in a resting position. The moon (at the horizon) will pull on the weight at the bottom of the pendulum and cause it to shift. 6 hours later, with the moon above or below the pendulum, the weight should be back. Maybe we could detect the shift, just like we see the tides. 
+
+Running the math for a 5 meter long pendulum and 1 kg mass, I get an amplitude of 0,017 mm. I fear that external forces (wind, unstable surface, ...) will be bigger than this effect. 
+So my question is: is it possible (again, without specific equipment) to measure or detect the moon's gravitational force? What would be the best way to measure/detect it?

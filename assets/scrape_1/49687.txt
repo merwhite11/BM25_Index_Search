@@ -1,0 +1,7 @@
+What does "to within less than about thirty Schwarzschild radii" mean?
+
+In A Very Short Introduction: Black Holes by Katherine Blundell, the author discusses the imaging of plasma jets at the center of black holes:
+
+At 50 million light-years from Earth an object moving at the speed of light would move across the sky at four milli-arcseconds per year. When we consider that an arcsecond is 1/3600 of a degree, then four-thousandths of this may sound like a tiny angle to measure, but such separations are easily resolvable with an instrument like the VLBA. The VLBA has already imaged the base of this jet to within less than about thirty Schwarzschild radii of its supermassive black hole.
+
+What's exactly meant by that?

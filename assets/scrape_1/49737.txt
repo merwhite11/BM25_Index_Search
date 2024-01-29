@@ -1,0 +1,5 @@
+Using setting circles on a German Equatorial mount
+
+Recently I have been working on equatorial grid system consisting of the right ascension and declination coordinates. Even after understanding the concept behind those coordinates, I am puzzled by the idea of punching these coordinates on my equatorial mounted telescope.
+Declination is the angular distance of a body north or south of the celestial equator. It seems, after a few sessions of stargazing, that I am comfortable with aligning my telescope with the diurnal motion of the stars.
+Right ascension is the angular distance of an object measured eastward from the First Point of Aries, also called the Vernal Equinox. Thus, this coordinate can be used to find an object on its diurnal path (or its tract around the sky). Now, how do I achieve this? If the  ‘First point of Aries’ is the initial point (0 hr point) from where I can begin rotating my RA axis, then how can align with that point?

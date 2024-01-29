@@ -1,0 +1,7 @@
+Corresponding values for the Sun's ultra violet color maps?
+
+In my laboratory, we have an antenna to get data from the GOES-16 satellite and I want to reproduce NASA's nice visualization of ultraviolet images from the sensor SUVI.
+
+I can read the data without any problem and thanks to the project sunpy I got the color tables corresponding to each band. But I have not found a reference for the exact correspondence between values and color indexes, so my version is not remotely as nice.
+
+Where can I find a reference to know how to use this color map with my own software?  I will appreciate any hint.

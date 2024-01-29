@@ -1,0 +1,4 @@
+Tracing back OMNI data to the sun
+
+I have been reading the OMNIWeb data documentation in order to clarify one particular question without success. I need to associate each measurement in the OMNI dataset to a moment in time at the sun (at least to narrow it to a time interval). Therefore, I need to understand how long it takes for the solar wind to get from the sun to the point where it is measured. I understand that the solar wind velocity is variable, so this time interval is constantly changing.
+Could you please help me understand this question? Can the solar wind measurements be used to trace back into the moment at which it left the sun? I would be very grateful if you could explain or point me to some sufficient references.

@@ -1,0 +1,4 @@
+Information about known objects in the Universe
+
+I want to retrieve coordinates, photos, and information (size, atmosphere composition, distance from Earth, etc.) about every known object in the universe. Ideally, the information is available via an Application Programming Interface (API) for easy retrieval via a computer program.
+What is the best free source of this information? Thank you for your help.

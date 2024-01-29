@@ -1,0 +1,14 @@
+What was the "optical illusion" that led to erroneous metal concentrations in stellar atmospheres in the galactic center?
+
+Articles summarizing a recent result about certain heavy element concentrations in stars near the galactic center all say that earlier reports about high levels in stellar atmospheres were the product of an "optical illusion". Examples include
+
+UPI.com Study explains optical illusion at the center of the Milky Way
+Science Daily Mystery at the center of the Milky Way solved
+Phys.org High levels of scandium near the galaxy's giant black hole were illusory, astronomers find
+
+At least Phys.org goes on to explain with real "science words":
+
+According to the new study, the lower temperatures of the giant stars helped to create the optical illusion that appeared in the measurements of spectral lines. Specifically, it means that the electrons in the elements behave differently at different temperatures, which in turn can be misleading when measuring the spectral lines of elements in different stars. The conclusion is the result of a close collaboration between astronomers and atomic physicists. (emphasis added)
+
+Question: What was the "optical illusion" that led to erroneous metal concentrations in stellar atmospheres in the galactic center? Beyond just "electrons in the elements behave differently at different temperatures" (because how electrons behave in atoms at different temperatures should be at least fairly well understood by astronomers) what specifically is the source of the misunderstanding? Is it atomic physics, incorrect assumption just a mistake, something else?
+The mention of "close collaboration between astronomers and atomic physicists" suggests that the answer will turn out to be fairly interesting!

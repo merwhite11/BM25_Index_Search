@@ -1,0 +1,13 @@
+How do I download PSRCHIVE and Tempo2 for pulsar timing on Mac Mojave?
+
+I am fairly new to pulsar astronomy, and I need to download PSRCHIVE and then Tempo2. I have followed the instructions online here: 
+PulsarAstronomy.net
+I'm also pretty new to linux commands/Mac terminal in general, so I think I might be missing something obvious. 
+So far I have untarred the tar file, which gave me a directory 'psrsoft' in Downloads. 
+I also attempted to open a psrsoft bash profile, but I don't think it worked because none of the psrsoft commands worked. 
+The instructions mention '$PSRSOFT_DIR' a lot, and I am not sure where that is supposed to be or what it represents.
+Right now, my goal is to get the package installation options listed and then from there install Tempo2. 
+This is what psrsoft contains:
+Downloads/psrsoft>bin: pkg_files, psrsoft, psrsoft-selfupdate, psrsoft-shell, psrsoft-update-index, psrsoft.py, shell_files, usr
+Downloads/psrsoft>config: profile.example
+Any help would be greatly appreciated.

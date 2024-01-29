@@ -1,0 +1,9 @@
+When an object revolves around an oblate planet, in near-circular orbit, does the oblateness ALWAYS make it moves FASTER?
+
+tl;dr: The orbital period for a Keplerian orbit of a small body around a massive one with standard gravitational parameter $\mu=GM$ and semi-major axis $a$ is given by
+$$T = 2\pi\sqrt{\frac{a^3}{\mu}}.$$
+I'm asking if for near-circular orbits the rise times of the object will always come earlier than predicted by a Keplerian model when the central body is oblate, i.e. has a positive $J_2$.
+
+Assuming that we want to make a "long-term" prediction of the rise-time wrt any given observation point on a planet, of an object circling said planet, assuming that we want to make a rough estimate using the Kepler model. Is it correct to state that the said rough estimate is ALWAYS lagging because we ignore the oblateness of the planet? By "lagging", I mean we should observe the rise somewhat BEFORE the predicted calculation, but always before?
+A side question: Assuming we know the J2 zonal coefficient and the orbital elements at epoch (t0), is it correct to say that the prediction "error" at time t is simply linear with delta_t (t=t0+delta_t)? (the point is that if your answer is yes, then I can use the simplified model w/o making any error compared to a J2-aware model).
+Note: For now, I am not interested in a real-life situation, where the orbit is perturbed by other forces than J2.

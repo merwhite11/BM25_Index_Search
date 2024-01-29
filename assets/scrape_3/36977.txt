@@ -1,0 +1,6 @@
+How is the average distance between 2 objects orbiting around a third object calculated?
+
+I want to know the average distance between Io and Europa knowing that Io's semi-major axis (around Jupiter of course) is 421,800 km and Europa's semi-major axis is 671,100 km.
+At first I thought it's the average of the closest approach (671,100 - 421,800 = 249,300 km) and the farthest approach (671,100 + 421,800 = 1,092,000 km), but the average of those is exactly 671,100 km, which is Europa's semi-major axis, and I find that hard to believe.
+Assuming the orbits are co-planar and perfectly circular, which they more or less are, surely there must be a simple formula to calculate the average distance?
+I asked this on another site and the answer was "run a simulation!", which is a very good answer, and I would've already done that if I knew how lol.

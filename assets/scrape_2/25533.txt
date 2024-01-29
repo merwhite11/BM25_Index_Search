@@ -1,0 +1,8 @@
+Why do pulsars turn "off" from rotation?
+
+I was looking at the Pulsar wikipedia article
+and I came across an interesting aspect that said pulsars turn off from rotation:
+
+When a pulsar's spin period slows down sufficiently, the radio pulsar mechanism is believed to turn off (the so-called "death line"). This turn-off seems to take place after about 10–100 million years, which means of all the neutron stars born in the 13.6 billion year age of the universe, around 99% no longer pulsate.
+
+What I don't understand is why emission of EM waves would slow a pulsar down?

@@ -1,0 +1,6 @@
+How does one determine the effective temperature of a star from its spectrum?
+
+Determining effective temperature of a star is in general a non-trivial task. Simple reason for this is that we can only study the electromagnetic radiation from a star, but not the temperature directly. The complexity is due to the fact that the radiation is produced in stratified stellar atmospheres, which are only partially characterised by stellar temperature, but also by many other factors, such as stellar mass, elemental abundances, stellar rotation, etc. What is more, the temperature of atmospheres varies with depth, whereas effective temperature is just a number.
+From the other hand, temperatures and magnitudes are the most important quantities, characterising stars.
+So, the question: How exactly does one use the spectrum to extract the information about the temperature of a star? By temperature here I mean effective temperature, or even the temperature profile of the atmosphere.
+Note: This a rather textbook question. I created it because I have encountered a good existing answer by @Carl, previously posted in a bit less textbook discussion How well can we in principle determine $T_{\textrm{eff}}$ of a star? . This question seems to be a much better place for the answer.

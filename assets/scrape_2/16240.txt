@@ -1,0 +1,39 @@
+What is a radio "homology telescope" and is the 500m dish in China one?
+
+This question is about design aspects of large radio telescope dishes which allow them to flex under the influence of gravity as they change elevation angle, and still maintain good optical performance at short wavelengths - on the order of a centimeter or less.
+What is a radio "homology telescope" and is the 500m dish in China one?
+Background:
+I was reading about radio astronomy for background on How did single dish (or single receiver) radio telescopes originally generate images? and What is the highest granularity focal-plane array on a dish radio telescope? Or is this the ONLY ONE?
+In this informative and entertaining NRAO page I saw the term homology telescope for the first time, so I immediately select-right-click-serched it. At first I was confused by these Mathematics Stackexchange and Stanford Bio-X links:
+
+homology of mapping telescope of a monoid
+action of a monoid on a mapping telescope
+Genome Space Telescope: Bringing DNA Sequence Homology into the 21st Century
+
+until I realizes that these quit different usages of homology and/or telescope :-)
+I found the following explanation in Tools of Radio Astronomy by  Thomas Wilson, Kristen Rohlfs and Susanne Huettemeister (Hüttemeister) particularly concise and helpful:
+
+7.5 The Practical Design of Parabolic Reflectors
+
+
+7.5.1 General Considerations
+
+
+Measurements of the mechanical properties of an antenna are of importance for its performance. This is especially true if the antenna deforms homologously. By Homology it is meant that, at various elevations, the main reflector deforms from one paraboloid into another. Today, homology is an intrinsic part of the design of all symmetric reflectors.
+
+Later in the same subsection:
+
+The design of an offset paraboloid has, however, complications. Since the design has less symmetry homology is more difficult to achieve and therefore active, real time adjustments of the surface are needed if the design limit of 7 mm or perhaps 3mm wavelength is to be reached. This will be accomplished by an actuator system controlled in real time by a laser measuring system. But for longer wavelengths, the GBT will not require active surface adjustment (Fig. 7.10).
+
+Here is a screen capture of Figure 7.10 from google books
+
+
+
+note: There are a number of nice photos and some discussion of the Green Bank Telescope and discussion of it's homology (homologusness?) on the NRAO page where I started, as well.
+So here is the question-cluster that I'm currently stuck on.
+
+If off-axis telescopes require active mechanical adjustments to maintain a homologous paraboloid figure, do the on-axis telescopes mentioned do it passively - by mechanical design alone? They naturally droop - by design - differently at different elevations (different angles above the horizon) in order to retain a paraboloid figure?
+
+For the passive design, is it a) the same paraboloid but just a different section, b) or another paraboloid with the same focal point, or c) has a different focal point and therefore requires axial movement of the secondary mirror or feeds?
+
+is the nearly-completed 500m dish in China (FAST) a homology telescope? I know it has a lot of articulation and works off axis, but the word spherical is in the name and the receiver/feed translates laterally. Is it still using the principle of homology, but in a different way?

@@ -1,0 +1,4 @@
+What is the history of the average pressure, density, and temperature of the matter in the universe over time?
+
+This question is inspired by this more specific question where Cerelic wanted to know if conditions were suitable for liquid water to exist during an epoch when the characteristic temperature of the cosmic black body radiation was near room temperature. The answer is No, because the pressure was too low by then, but that raises the question of what the temperature of the medium was at a time when the pressure was near Earth sea-level pressure.
+A log-log graph of temperature, pressure, and density of baryonic matter starting at the Big Bang would be quite interesting, especially if it were annotated with familiar references. It might need to have a special scale during the inflation era. Does such a thing exist in the literature?

@@ -1,0 +1,4 @@
+Why levels of radio contours maps are given in mJy/beam and what does it mean?
+
+I know what a jansky is, but I don't understand what beam (in $\frac{1 Jy}{beam}$) is.
+If jansky is a unit of flux density, what kind of unit is $\frac{1 Jy}{beam}$?

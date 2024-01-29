@@ -1,0 +1,6 @@
+How to convert luminosity at rest frame wavelength of 1450 A to absolute magnitude at 1450 A?
+
+How do I convert the luminosity (erg sec$^{-1}$ Hz$^{-1}$) of a quasar at a rest frame wavelength of 1450 Angstroms to absolute magnitude at the same wavelength? 
+I know that the bolometric luminosity is related to absolute magnitude via this relation from Bolometric magnitude:
+$$M_{bol, ★} - M_{bol, ☉} = -2.5 log_{10} \left( \frac{L_★}{L_☉} \right)$$
+Should the same relation be valid for the 1450 A rest frame luminosity and I just used that luminosity instead of the bolometric luminosity?

@@ -1,0 +1,5 @@
+Appropriate NEO databases for preliminary orbit determination simulations
+
+I am a high school student that is currently writing an extended essay in physics. In my essay I compare the accuracy of Gauss method and double-r iteration method for determining the preliminary orbits of near earth objects. I have my simulations ready, but I need data that would provide me with the physical features (including coordinates) of relevant objects in time intervals so that I could activate my simulation for different NEOs and compare results. What are some databases that I can use?
+I have an MIT email address as well if that helps on logging into anything.
+Thanks.

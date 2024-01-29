@@ -1,0 +1,11 @@
+What is the name of the cycle whereby the lunar azimuth and altitude recur on a given day?
+
+Like the Metonic cycle, except for position in the sky, not phase.
+Original question: If I look up at the moon tonight, how long before it is in the same apparent position, and same phase, again?
+I realized I can calculate this myself, if only I know two piece of information. Unfortunately I do not know the name of the second.
+My question should be answered by the product of:
+
+the Metonic cycle, and
+the cycle where the moon's azimuth and altitude recur on a given day
+
+What is the name of this second cycle?

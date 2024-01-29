@@ -1,0 +1,5 @@
+Planets around O-type stars
+
+The paper https://arxiv.org/abs/0707.2895 says that solid planets up to thousands of Earth masses may be able to form around massive stars (B-type and O-type stars; 5–120 solar masses), where the protoplanetary disk would contain enough heavy elements. Also, these stars have high UV radiation and winds that could photoevaporate the gas in the disk, leaving just the heavy elements.
+What are the difficulties in detecting planets around O-type stars and will we ever be able to do so?
+If planets can't form around O-type stars then can you provide a reference for that?

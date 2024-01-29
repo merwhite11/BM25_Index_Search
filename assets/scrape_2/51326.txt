@@ -1,0 +1,3 @@
+Why can’t I get a red dot instead of spread out light when collimating the primary mirror
+
+Using a laser collimator, I have centered the dot for the secondary mirror, but all I see is spread out light when I go to adjust the primary mirror.  Shouldn’t I be able to see a dot, and move that to the center?  Thanks for help.  I am a beginner.  Using a Celestron 130 Star Sense reflector.

@@ -1,0 +1,4 @@
+Why do objects appear blue while on a neutron star?
+
+I was playing around in Space Engine recently, and I realized I hadn't yet landed on a neutron star. This seemed like a very sensible thing to do, so I did it and chose a (relatively) well-known one called Black Widow on which to conduct my adventure. As I landed, I saw mostly expected things-it bent space-time, was rotating very fast, etc. One thing I didn't expect, however, was that everything was blue. Everything. I don't mean the star itself appeared blue, I mean as I looked off the star into the galaxy all the stars appeared blue. I searched for a while but didn't find anything on the Internet. Anyways, does anyone here know why this is happening?
+Edit: I have a theory —probably wrong— but maybe because of the warping of spacetime near the neutron star, photons are getting compressed and blueshifted.

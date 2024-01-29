@@ -1,0 +1,22 @@
+Basic explanation of baryon acoustic oscillations; what if anything is actually oscillating?
+
+Sci-News' Sloan Digital Sky Survey Collaboration Releases New 3D Map of Universe links to the two videos
+
+The eBOSS 3D map of the Universe
+SDSS releases largest 3D map of the universe ever created
+
+and says
+
+The team’s results will be published in a series of 20 papers in the Monthly Notices of the Royal Astronomical Society.
+
+After 01:30 in the second video Jiamin Hou from the Max Planck Institute for Extraterrestrial Physics says:
+
+However the red shift has an additional component that is due to the galaxy’s own velocity, and which moves in response to the gravitational attraction of the surrounding matter, and these two components can not be separated from each other. But the statistical analysis of the eBOSS allows us to distinguish the effects of velocity from that of expansion.
+
+I've also looked at:
+
+Wikipedia: Baryon_acoustic_oscillations; Cosmic sound
+SDSS.org's surveys; eBOSS
+
+but I can't get a grasp of what the term "baryon acoustic oscillations" really means.
+Question: Is it possible to write or quote a basic explanation of what these are? For example, does oscillation mean there are things moving back and forth due to some restoring force? Is there something analogous to a "sound wave" out there somewhere? Or is there just a plot of something that shows a wiggly line that goes up and down?

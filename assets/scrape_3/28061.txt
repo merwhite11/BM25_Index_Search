@@ -1,0 +1,7 @@
+What exactly are the "ν6 secular Sun-Jupiter-Saturn" and the "1:4 Sun-Jupiter" resonances?
+
+In the recent Acta Astronautica article The edge of space: Revisiting the Karman Line, Harvard-Smithsonian Center for Astrophysics astronomer, Space SE contributor and "inverse namesake" of asteroid (4589) McDowell Johnathan C. McDowell lists a number of different boundaries in the solar system in section 3.2. One of them is described as the following:
+
+The ν6 secular Sun-Jupiter-Saturn resonance which marks the conventional inner edge of the asteroid belt at 2.06 astronomical units (308 million km) from the Sun (26); it coincides with the 1:4 Sun-Jupiter resonance (27) and asteroid orbits near this resonance are unstable, soon perturbed to enter the inner solar system. Although there is no generally agreed definition, this location is a reasonable place to mark as the boundary between the inner and outer solar system.
+
+What (the heck) are the ν6 secular Sun-Jupiter-Saturn and the 1:4 Sun-Jupiter resonances exactly?

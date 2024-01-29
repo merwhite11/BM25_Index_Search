@@ -1,0 +1,6 @@
+How Does Black Hole Evaporation Look From the Inside?
+
+Imagine you're inside a black hole event horizon. The curvature of spacetime is such that the direction towards the singularity becomes timelike, as reverse movement becomes literally impossible.
+How would Hawking radiative evaporation look like from inside the black hole? From the outside perspective, we know that black holes form (from our time dimension perspective) and then evaporate at a rate that is an inverse function of their mass.
+Hawking radiation is created when the vacuum state at the horizon looks as if it is transformed into a non-vacuum state for a distant observer, resulting in a negative energy 'input' to the black hole. If the energy loss this way is not compensated by inputs from outside, the black hole event horizon should gradually shrink, resulting in eventual evaporation. How if at all would that be perceptible by an observer inside the black hole horizon?
+Similar question, but no accepted answer.

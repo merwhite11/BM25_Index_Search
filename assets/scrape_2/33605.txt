@@ -1,0 +1,9 @@
+How to query a region on the sky when given only ecliptic coordinates?
+
+I am new at using the Python packages astropy/astroquery and what I want to achieve is to use it to find stars that lay on the TESS continuous view zone (CVZ).
+I know the CVZ is centered at the south pole of the ecliptic an I would like to use the function astroquery.mast.Observations.query_region() to query a region centered at the coordinates of the pole. Such function uses coordinates in the international celestial reference system (ICRS) so first I have to convert from the ecliptic frame the pair $(\text{lon}=0^\circ , \text{lat}=-90^\circ)$.
+I tried the conversion using the function transform_to(ICRS),however, it returns the following error: 
+
+UnitsError: The input HeliocentricTrueEcliptic coordinates do not have length units. This probably means you created coordinates with lat/lon but no distance.  Heliocentric<->ICRS transforms cannot function in this case because there is an origin shift.
+
+Could someone elaborate a bit more about the "distance" and "origin shift" mentioned in the error message and how to correct it?

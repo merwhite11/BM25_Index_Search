@@ -1,0 +1,5 @@
+How to calculate the local time of sunrise and azimuth of rising point of Sirius?
+
+I know that right ascension equals to $6^h45^m$ and declination equals to $-16°43'$. I need to calculate local time of sunrise and azimuth of rising point of Sirius on 23 of September for an observator located on the equator. So that means $\phi = 0$. Should I use sunrise equation:
+$\cos \omega _{\circ }=-\tan \phi \tan \delta$
+or is there another way?

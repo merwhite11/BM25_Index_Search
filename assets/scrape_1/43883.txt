@@ -1,0 +1,4 @@
+Searching for a modern AGN Catalog
+
+I am searching for a simple, modern catalog of Active Galactic Nuclei. I expected a catalog similar to this or this, but instead found that they contain observed spectra instead of properties like the mass, luminosity, SMBH mass, etc (take SDSS for example).
+So, my question is, Is there any modern catalog of AGN and their properties?

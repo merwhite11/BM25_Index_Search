@@ -1,0 +1,9 @@
+Do objects look larger the further away they are, beyond z=1?
+
+I stumbled upon this text which illustrates and says:
+
+We find that as the object is moved to higher redshifts its angular
+  size first decreases (as naively expected) but soon begins to increase
+  after passing through a minimum value.
+
+Is this correct for the mainstream standard model? What would an English language explanation be?

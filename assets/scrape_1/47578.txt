@@ -1,0 +1,6 @@
+Why can't Level replace Horizon when using a Sextant
+
+The title says it all.   Why can't I use a projected level mark on a sextant and bring down the Sun/Star/Etc. to the level mark instead of a horizon?  Assume that somehow I have figured out a way to hold the sextant level.
+So what I am thinking is to project out where level is and use that instead of the horizon.
+Wouldn't that actually be more accurate than a horizon or an artificial horizon?  The reason I think it would be more accurate is that I would have removed the variables of the viewer's height and the height of the artificial horizon from the equation.
+We are using the sextant to record in a sky-diary where we were looking when we saw an object.

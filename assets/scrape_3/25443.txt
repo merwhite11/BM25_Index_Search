@@ -1,0 +1,4 @@
+Could Hot Jupiter systems sustain Trojans?
+
+My understanding is that there is a gravitationally stable region between the Sun and Mercury where asteroids could - in theory - orbit for long periods without being perturbed. However these hypothetical vulcanoids are seemingly non-existent; it being likely that their orbits decay through other means besides the influence of a planet, such as the Yarkovsky effect. We also have trojan asteroids, which share the orbits of planets such as Jupiter but spend their time in the leading and trailing Lagrange Points, keeping their orbits stable.
+If a Hot Jupiter such as 51 Pegasi b were to host trojan asteroids, would their proximity to the planet allow their orbits to remain stable for longer, or would their orbits decay regardless? If a Hot Jupiter migrated inwards towards its star, is it more likely to have swept away any possible trojans?

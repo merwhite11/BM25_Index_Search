@@ -1,0 +1,13 @@
+How to reduce Hipparcos catalog star coordinates to another Epoch?
+
+Hipparcos catalog lists star equatorial coordinates (RA,Decl).
+The coordinates are 1991.25 positions on ICRS reference frame (epoch J2000).
+According to Astronomical Algorithms (J. Meeus) the following
+corretions must be applied when reducing the coordinates to another epoch.
+Precession, Aberration, Nutation, Proper Motion.
+In this case we have two base dates. The 1991.25 positions and the 2000 Equinox/Equator.
+Is it correct to calculate the corrections in relation to the dates below ?
+1.Precession- relation to J2000.0
+2.Aberration- in relation to J2000.0
+3.Nutation- in relation to J2000.0
+4.Proper Motion- in relation to 1991.25

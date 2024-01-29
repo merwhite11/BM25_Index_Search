@@ -1,0 +1,7 @@
+Finding the absolute magnitude of a star as a fraction/multiple of the Sun's absolute magnitude
+
+This is a homework-related question.
+I am trying to find the spectral class and luminosity (relative to the Sun) of a star using its absolute magnitude. The absolute magnitude is expressed as a fraction of the Sun's absolute magnitude, such as 0.3*M☉.
+Despite what has felt like extensive research through Google and other Astronomy Stack Exchange posts, I've been unable to find a clear equation for calculating the hypothetical star's magnitude from this presentation.
+EDIT: I have conferred with the professor on this topic, and the homework in question was poorly worded. Instead of M☉ meaning the Sun's absolute magnitude, it was meant to signify its mass. Using the mass-luminosity relation, I was able to find the spectral class.
+However, I am still curious whether there is any meaningful way to multiply a magnitude value by either a fraction or any positive number, or if even trying to do that would be self-defeating and silly. Would converting into luminosity first make this possible?

@@ -1,0 +1,15 @@
+SIMBAD TAP queries seem to indicate there are no distance measurements for a great many nearby stars, including Alpha Centauri or Barnard's Star
+
+I'm attempting to create a map of all objects within 50LY, including main-sequence stars, binaries, planemos, etc. As such, I'm trying to do it all from first principles, building a micro-ETL to scrape SIMBAD data and build a model. However - I'm experiencing some issues with getting distance measurements from ADGL queries. Watch the following:
+Using TAP (http://simbad.u-strasbg.fr/simbad/sim-tap)
+SELECT * FROM BASIC WHERE main_id like '%alf%Cen%'
+Returns 4 rows:
+
+However - when I check out the mesDistance table with this query:
+SELECT * FROM mesDistance WHERE oidref IN (3396297, 3396059, 3396054, 7880120)
+Returns empty.... So maybe there's a missing parent. Let's check h_link
+SELECT * FROM h_link WHERE parent IN (3396297, 3396059, 3396054, 7880120) OR child in (3396297, 3396059, 3396054, 7880120)
+Which yields no new objects. 3396059 is the top level object and it has no distance measurement.
+However, many other objects show up just fine, such as Proxima Centauri (OID = 3379714 )
+It's VERY hit or miss where distance measurements exist and where they don't, but it makes it impossible to query objects based on relative distance. I'm guessing that maybe this has something to do with the age of the catalogs or studies which create a new distance measurement. If a catalog is old enough, it probably wasn't digitized or forced into the SIMBAD ADQL model...
+Does anybody have some good suggestions on how to get distance data for nearby stars? Preferably something modern, or with the ability to join it to SIMBAD references. I'd like not to have to do a fuzzy join based on RA/DEC or scraping through alternate IDs. That can get messy or break table grain.

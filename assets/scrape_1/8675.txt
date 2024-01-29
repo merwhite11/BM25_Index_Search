@@ -1,0 +1,12 @@
+Is there a cosmic, rather than technological, upper limit to what a telescope can resolve?
+
+Space radio interferometers could have a baseline of millions of kilometers, but is there a point where a larger baseline doesn't improve the resolution anymore because the photons observed are distorted before they arrive? This question deals with technological limits of resolution. I'm instead asking about cosmic limitations due to for example interstellar and extragalactic gas which scatters light.
+This paper about results from the RadioAstron space/Earth interferometer is well above my pay grade, but it seems to be about this problem. The executive summary says:
+
+At longer baselines of up to 235,000 km, where no interferometric
+  detection of the scattering disk would be expected, significant
+  visibilities were observed with amplitudes scattered around a constant
+  value. These detections result in a discovery of a substructure in the
+  completely resolved scatter-broadened image of the pointlike source,
+  PSR B0329+54. They fully attribute to properties of the interstellar
+  medium.

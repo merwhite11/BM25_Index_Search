@@ -1,0 +1,4 @@
+Will all satellites get inevitably tidally locked to their planet?
+
+Are there cases or conditions in which an object orbiting another one (e.g. a satellite and its planet) does not get tidally locked to it?
+For example, in this question, it is mentioned that a large moon orbiting a planet could prevent it getting tidally locked both to its star and its moon? If there are situations where a planet getting tidally locked to its star can be prevented, can this happen in planets with multiple moons?

@@ -1,0 +1,3 @@
+How can I use Polar Alignment to find objects in the sky?
+
+I have a six inch telescope on an equatorial mount and I've been struggling to use the mount properly. For a couple months now, the only strategy I've used is just 'point and look.' I've watched some youtube videos on polar aligning a telescope, but none of the videos ever tell me how I can use polar alignment to find other objects after I've aligned. Is polar alignment even the right method of finding objects? If so, how can I use the degrees and minutes on my RA and DEC knobs to point directly at an object?

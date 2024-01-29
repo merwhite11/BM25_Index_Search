@@ -1,0 +1,25 @@
+Question about how it's possible for black holes to have gravity and a possible resolution
+
+1. Assumptions
+
+1.a: gravity propagates at c (maximum)
+1.b: gravitational fields cause time dilation
+1.c: escape velocity at the event horizon is c
+1.d: gravity "warps" space-time, but in the absence of it, space-time "snaps back" to flat
+
+2. The paradox
+I think you might already see where this is going.
+Consider a passing planet. It has a gravitational effect but once it has passed, the effect weakens. Space-time around you is "snapping back" towards a flatter geometry.
+Now consider matter falling into a black hole:
+Once it is beyond the event horizon, how can its gravitational effect continue to be felt outside?
+After all, it can only travel at c and therefore will be unable to exit the black hole, similar to light.
+Therefore, black holes should appear massless.
+3. Possible resolution
+As gravity wells cause time dilation, time "stops" at the event horizon. For an outside observer, matter never really crosses the horizon, just asymptotically approaches it. So its gravity can still be felt outside, similar to its light.
+4. Outstanding questions
+
+4.a: is there a Doppler-shift effect on gravity, similar to light?
+4.b: what happens to time beyond the event horizon? Does it reverse? If so, what happens when the escape velocity exceeds 2c?
+
+
+Please let me know if any of this makes sense, which assumptions and conclusions are wrong, etc.

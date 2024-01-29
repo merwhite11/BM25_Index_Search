@@ -1,0 +1,8 @@
+Are the darker blue/black areas in this picture what the atmosphere of Jupiter looks like without clouds?
+
+This is a picture (mosaic?) of Jupiter's south pole taken by Juno (also shown below). It has gotten a lot of press, but I haven't seen anything, even in the scientific paper that accompanied its release, that answers the first question that came to mind when I saw it : is this a view into the inside of Jupiter? I seem to recall seeing IR images of Jupiter where the poles appear quite hot, which would be consistent with a "clear sky" providing a view of deeper, hotter layers. But how deep can see in this picture?
+
+Edit: I am aware that this is a visible light image, and that visible light does not penetrate the cloud layer of Jupiter.
+My question is whether part of the south pole of Jupiter is cloud-free, at least to a depth where atmospheric extinction limits our ability to see the clouds. This interpretation of the picture would assume that blue light penetrates deeper than red light into the atmosphere (clouds not included) of Jupiter, and that this is the reason that some of the clouds, presumed to be deeper, look blue, while some areas between them are essentially black.
+Here is an example of a picture of Jupiter in IR, which shows the poles as being relatively hot. The troposphere of Jupiter (or any planet) is generally hotter the deeper you go, so the poles appearing hotter is consistent with less cloud cover at the poles. [
+I'm aware that perhaps no-one, including the Juno team, knows the answer to my question. Some useful partial answers would include an estimate of the depth to which visible light could penetrate Jupiter's atmosphere in the absence of clouds, and whether blue light would penetrate deeper than red.

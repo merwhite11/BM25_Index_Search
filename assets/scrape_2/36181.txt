@@ -1,0 +1,7 @@
+How do I plot field of view of an earth-based observatory in Galactic Coordinates?
+
+I would like to plot in Galactic Coordinate the sky field-of-view of an earth-based observatory (e.g. MAGIC). Something like this from Liu et 2016.
+
+I already know how plot source positions on a 2D projection of the sky (following this tutorial: http://learn.astropy.org/plot-catalog.html).
+Is there a simple way to plot the field of view using astropy and/or astroplan and/or matplotlib?
+Thank you very much for your help

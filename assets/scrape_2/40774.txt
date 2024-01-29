@@ -1,0 +1,3 @@
+Why do massive stars not undergo a helium flash
+
+I understand that for low-mass stars the helium flash occurs due to their degenerate helium cores. Thus the answer to this question is probably that more massive stars do not have a degenerate core, but I do not understand why they wouldn't. Due to their increased mass, I'd assume their central pressure is even higher, so surely their cores should also be degenerate?

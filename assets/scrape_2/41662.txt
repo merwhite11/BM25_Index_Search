@@ -1,0 +1,12 @@
+How to choose initial state vectors for a resonant orbit numerical simulation?
+
+How do higher numbers affect orbital resonance? is a really interesting question, and I thought I would try to do a simple numerical simulation of various resonance ratios to see if some are inherently stable or inherently unstable.
+I understand that numerical simulation is inexact and so it can introduce its own instabilities so attention will have to be paid to the choice of integrators and results taken with a large grain of salt.
+In order to get something to happen within say a hundred or a thousand orbits the masses of the orbiting bodies have to be large enough to have a significant impact on each other1, and so the state vectors I choose to initialize the calculation will not necessarily be those of circular orbits each body neglecting the other.
+Are there any guidelines or rules of thumbs for initializing resonant orbits?
+
+1I'll assume a central force, i.e. the orbiting bodies will not affect the position of the body they orbit, and so there won't be any indirect coupling through it.
+Related:
+
+Just how "locked" are resonant-chains of exoplanets thought to be? (e.g. K2-138 and TOI-178) (currently unanswered)
+Why does the exoplanetary system TOI-178 challenges current theories of planet formation?

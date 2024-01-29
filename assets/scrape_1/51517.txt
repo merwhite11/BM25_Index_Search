@@ -1,0 +1,5 @@
+The sky as seen from Ceres
+
+Am I correct in calculating that the "north star" for Ceres, or where the rotational axis points, is in Draco, more specifically somewhere between C Draconis and D Draconis?
+What software can I use to verify this?
+What software can produce a sky chart showing the heavenly sphere as seen from Ceres, using the Cerean celestial equator, showing the Cerean ecliptic (and hence the vernal equinox)

@@ -1,0 +1,5 @@
+Calculate Atmospheric Extinction Using Source Altitude Angle
+
+I am trying to code up the following article http://dl.acm.org/citation.cfm?id=2349512 (alternative free access version) to calculate the light reflected from the moon to a given point on earth at a given time. However I occasionally get a gross error when calculating the distance of the light path through the atmosphere (Figure 2. of the article.)
+
+The approximation given is to take the inverse sine of right ascension in radians, however whenever RA approaches pi, the number blows out to 8e15. Can you suggest a better method?

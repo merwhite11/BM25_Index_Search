@@ -1,0 +1,9 @@
+What radio frequency ranges are most beneficial for astronomy?
+
+I cannot get the idea of citizen radio astronomy out of my head, and choosing an antenna (design) heavily depends on the desired frequency range.
+The Arecibo telescope as my gold standard operated 300 MHz to 10 GHz. Jovian Whistlers as nice solar source are observable at around 20 MHz. Then, there also some frequency bands which are commercially not used for the sake of astronomy, as depicted e.g. in a presentation:
+
+I am now trying to figure out which frequency bands are important for astronomy for which purposes. My dream answer would contain a table with columns frequency range, benefits for astronomy, complications (like terrestrial use of the frequencies), and other remarks.
+Related
+
+Jupiter FM - What are practical and inexpensive ways for the amateur detection of signals from Jupiter, especially of the transit of her moons?

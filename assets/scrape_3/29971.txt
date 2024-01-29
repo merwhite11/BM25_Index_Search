@@ -1,0 +1,7 @@
+Does matter accelerate to the speed of light as it approaches the singularity?
+
+$$v_\mathrm e=\sqrt{\frac{2GM}r}$$
+If we understand the escape velocity to be the speed needed to escape from the 'surface' of a gravitational object described by the above equation.
+It is equally true that the escape velocity is the speed an object pulled from rest will reach when it hits a certain point in the gravitational field.
+Since the event horizon is defined as when the escape velocity reaches the speed of light for a black hole, would matter accelerate near the speed of light as it approaches the singularity? Accretion disks are known to move at relativistic speeds near the event horizon, but perhaps oddities occur beyond this point?
+The event horizon can be derived from setting the escape velocity of an object to the speed of light, it is a point of no return. I understand there are better definitions, but this is not really germane to the question at hand. How about from the perspective of another in-falling observer?

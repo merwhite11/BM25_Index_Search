@@ -1,0 +1,3 @@
+What's the differences between one-dimensional spectrum and two-dimensional spectrum?
+
+mostly, we use the one-dimensional spectrum. But sometimes we use two-dimensional spectrum, what's the differences between them?

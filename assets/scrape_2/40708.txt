@@ -1,0 +1,27 @@
+Stellar Aberration and Lorentz Transformation
+
+The aberration of starlight is claimed to result from the Lorentz transformation of Special Relativity, but I am having problems to understand this.  Assume we have two reference frames $x,y,z$ (the reference frame of the star) and $x',y',z'$ (the reference frame of the observer (assumed to be located on the $z'$ axis)). The reference frames move with constant velocity $v$ relative to each other along their $x$ axes. At $t=t'=0$,  the origin of both reference frames shall coincide and at this moment a light ray sent out along the $z$ axis i.e. along
+$$x=0$$
+$$y=0$$
+$$z=ct$$
+According to the Lorentz transformation
+$$x'=\gamma (x-vt)$$
+$$y'=y$$
+$$z'=z$$
+$$t'=\gamma (t-vx/c^2)$$
+this light ray travels in the observer's reference frame along the coordinates
+$$x'=-\gamma vt=-vt'$$
+$$y'=y=0$$
+$$z'=z=ct=ct'/\gamma$$
+This is generally interpreted to the effect that the apparent position of the star shifts by an angle $\alpha$ where
+$$tan(\alpha)=(-x')/z'=\gamma v/c$$
+However, the star emits light rays in all directions, therefore also in the direction
+$$x=vt$$
+$$y=0$$
+$$z=ct/\gamma$$
+and this ray travels in the observer's frame along
+$$x'=0$$
+$$y'=0$$
+$$z'=z=ct/\gamma=ct'$$
+The observer on the $z'$ axis sees the star therefore exactly at the origin i.e. the same position as for the stationary case. The only difference is that the star appears to be rotated about its axis, but there should not be any positional change of the star due to this.
+Is there any way to resolve this apparent contradiction?

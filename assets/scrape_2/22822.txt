@@ -1,0 +1,5 @@
+Why not use only one support vane for the secondary mirror, to avoid multiple diffraction spikes?
+
+Each vane holding the secondary mirror in front of the primary causes a diffraction spike. Couldn't the secondary mirror be held with only one vane?
+If stability is the issue, couldn't it be substituted be steering the vane to hold the secondary in place with precision, similar to active optics, regardless of winds? And why does the James Webb Space Telescope use three vanes when it will operate in undisturbed microgravity and shadow?
+(Maybe the star spikes are desired 'cause they make stars look nice?)

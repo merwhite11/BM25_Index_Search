@@ -1,0 +1,14 @@
+What consequences does a positive muon anomalous magnetic moment have for astronomy?
+
+On April 7th, 2021, the muon $(g-2)$ collaboration published Measurement of the Positive Muon Anomalous Magnetic Moment to 0.46 ppm, a result which made it to standard news, partly under headlines like Farewell to the Standard Model (German source: Abschied vom Standardmodell)
+The following quote from phys.org nicely summarizes what it is in general about:
+
+The experiment at Brookhaven indicated that g-2 differed from the theoretical prediction by a few parts per million. This miniscule difference hinted at the existence of unknown interactions between the muon and the magnetic field—interactions that could involve new particles or forces.
+
+I am now wondering if there are theoretical studies which illuminate what concrete effects a $g-2 > 0$ would have on astronomy, as e.g. Dominik Stöckinger states (translation by me):
+
+Some variants of supersymmetry, in which so-called superpartner particles also explain dark matter, are no longer tenable by this measurement.
+
+Related
+
+An answer to What is the closest candidate for Dark Matter currently? points out that WIMPS are currently the most appealing candidate for dark matter.

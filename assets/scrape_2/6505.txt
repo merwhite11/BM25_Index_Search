@@ -1,0 +1,6 @@
+Why can't the surfaces of stars be observed?
+
+If I'm correctly informed, only three stars: Sol, Betelgeuse and Altair have surfaces which have been resolved by telescopes. All other stars are only point sources of light, even in the greatest of telescopes. Is it just the huge distance to the stars which reduce them to dots? Or is there some other optical explanation? I mean, the Sun is about as large as the Moon on the sky, but I cannot see any details on its surface because it blinds me. However, the next nearest star is invisible to the naked eye.
+Some exoplanets have been directly imaged by removing the light from their star. It seems funny that we cannot detect any features on the photosphere of such a star, such as spots or flares or its shape. Plenty of photons are available.
+Actually, there are several stars which have been directly imaged, maybe my sopposition is quite wrong:
+https://en.wikipedia.org/wiki/List_of_stars_with_resolved_images

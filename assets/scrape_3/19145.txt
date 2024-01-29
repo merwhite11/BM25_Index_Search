@@ -1,0 +1,3 @@
+Declination of the Sun formula
+
+I encountered a book discussion that defines the Sun's declination as 23.5 degrees (inclination of Earth's equator to the ecliptic) times the sine of the Sun's longitude. Does this make sense? How do i visualize it?

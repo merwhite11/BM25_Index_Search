@@ -1,0 +1,15 @@
+Question about radiation pressure
+
+A spaceship with mass $m = 25\:kg$ is moving toward a red giant with $M = M_{sun}$ and $L = 1000\:L_{sun}$ (L: Luminosity). It is moving on a line (so this is not an orbital question). When it gets too close to the red giant, it's sensor open its solar sails (they get and then reflect the light completely), hence the radiation pressure help it to escape from the red giant (on the same line). Find the area of solar sail. (It is from National Olympiad of an Asian Country)
+My problem is with the radiation pressure formula. for solving this problem, somewhere said the radiation pressure is: ($c$: light speed, $\sigma$: Stefan-Boltzman Constant)
+$$P= \frac{4\sigma T^4}{3c} = \frac{4}{3}\frac{L}{4\pi D^2}$$
+Where $T$ is the equivalent Temprature in distance $D$.
+Somewhere else said:
+$$P= \frac{4\sigma T^4}{c} = 4 \frac{L}{4\pi D^2}$$
+In another book it is:
+$$P=2 \frac{4\sigma T^4}{c} =  2\times 4 \frac{L}{4\pi D^2}$$
+2 is because it gets the light and then reflecting it.
+At the final:
+$$P\times A = \frac{GmM}{D^2}$$
+I want to know what is the right solution for calculating radiation pressure?
+I must say that the below picture is also with the question but in the books, it was used for another part of the question which is not my problem and I didn't mentioned it above.

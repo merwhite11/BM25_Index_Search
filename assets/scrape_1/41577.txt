@@ -1,0 +1,4 @@
+What is the highest albedo of the earth's surface facing the sun ever measured?
+
+This website (page 26) claims that full-earth-shine on the moon is 100 times greater than full-moon-shine on earth. The figure 100 is made up of the difference between the size of the earth and the moon, multiplied with the difference of their albedos. The earth is 13.45 times bigger than the moon. 100 divided by 13.45 equals 7.43. 7.43  multiplied with 0.12 (the moons albedo) equals 0.8916. Thus, he must have calculated with an earth albedo of 0.8916. But that might be a miscalculation. To figure that out the following question needs to be asked:
+What is the highest albedo of the earth's surface facing the sun ever measured? Note, the question is not about the albedo of certain sections of the earth, but about the whole side of the earth that is facing the sun.

@@ -1,0 +1,11 @@
+Can an astronaut ever reach a Black Hole theoretically?
+
+Ok, bear with me, while I try to explain the question I have.
+I read that time slows as we approach a black hole.
+So, suppose,theoretically, as astronaut is approaching a Black Hole. And he gets near enough now that time starts slowing down.
+If you remember this equation: v=d/t  So, at the moment, t is going infinity, so it means 
+V is going zero.
+So the astronaut can never the reach the Black Hole because time is slowing down and its taking longer and longer for him to approach the Black Hole.
+But then again, we know, a Black Hole sucks everything and that light cannot even escape it.
+So, what's happening to the equation above then? [ this time it means v is going infinity and so, t is almost zero], so the astronaut will be sucked almost immediately.
+Which one is the correct theoretical answer?

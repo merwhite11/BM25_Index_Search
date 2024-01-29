@@ -1,0 +1,4 @@
+How to find out which Messier objects are in the Kepler/K2 fields?
+
+I am interested in figuring out which Messier globular clusters (plus 47 Tuc and Omega Cen) are in the Kepler/K2 fields, both fields that have already been observed and any that will be observed.
+Poking around online I was able to figure out that Campaign 2 of K2 observed M4 and M80, but I would like to get a complete sample of globular clusters that have fallen or will fall into the Kepler/K2 fields, especially the Kepler field.  Are there online tools that could help me figure this out?

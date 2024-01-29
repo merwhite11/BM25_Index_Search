@@ -1,0 +1,6 @@
+How to calculate distance between stars?
+
+I have data on nearby stars, including galactic coordinates and distance from Sun. And I have a dilemma.
+In a story I'm writing, I have two starfaring alien civilisations. One originates from a planet orbiting Delta Pavonis and has a few settlements on nearby (to Delta Pavonis) stars. The second civilisation originates from a planet orbiting a star near Delta Pavonis as it is attacking the first civilisation.
+But two stars that are at a similar distance from Sun, let's say, 12 light years, might be very far apart from each other as they are on opposite sides of the sky.
+Thus my question is, knowing the galactic coordinates of stars and distances from the Sun, how to calculate distances between the two stars?

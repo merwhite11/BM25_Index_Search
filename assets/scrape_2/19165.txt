@@ -1,0 +1,7 @@
+Does the redshifting of photons from the Universe's expansion violate conservation of momentum?
+
+The energy-momentum relation,
+$$E^2 = m^2c^4 +p^2c^2,$$
+lets us derive the momentum of a massless particle:
+$$p = \frac{E}{c} = \frac{h\nu}{c}$$
+However, the expansion of the Universe redshifts light. This should decrease the momentum of photons. Where would the momentum go, in order for conservation of momentum to hold?

@@ -1,0 +1,10 @@
+What are optical artifacts in source images?
+
+In Stellarium, there are two green squares in the constellation Sextans (close to the star Alpha Sextantis). The app doesn't provide any information as to what these are.
+
+I was curious and so I decided to contact the Stellarium team, who thankfully replied:
+
+These are optical artifacts in the source images we used for the background sky. We hope to clean these up at some point.
+
+Can someone please explain to me what optical artifacts in the source images means?
+Does Stellarium use real images (source images) of the sky and build on top of them the graphical interface?

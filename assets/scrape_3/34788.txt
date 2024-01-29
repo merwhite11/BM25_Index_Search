@@ -1,0 +1,4 @@
+Can there be a three-moon system where only two are visible most of the time?
+
+I am trying to build a moon system for a sci-fi work in collaboration with my boyfriend. He's the main writer and wants there to be three moons circling the planet in a way that most of the time, only two moons are visible and seeing all three or none of the moons is equally rare. I don't have much training in astrophysics (only a university level intro class to it), so my main consideration was that, in the case of Earth's moon, it is only fully/almost non-visible about 10% of its rotation (2-3 days of 28). What else should I consider? If it's possible, how long would each of their orbits be?
+For reference, the planet would be orbiting around a Sun-like star and be about 1.13AU away from it (still within the habitable zone, but with a slightly longer year). Each of the three moons rotates on itself as fast as it rotates around Earth, just like Moon does.

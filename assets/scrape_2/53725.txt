@@ -1,0 +1,8 @@
+How does a scalar field linked to dark matter affect the fine structure constant?
+
+Olive & Pospelov (2001) "[hep-ph/0110377] Evolution of the Fine Structure Constant Driven by Dark Matter and the Cosmological Constant" https://arxiv.org/abs/hep-ph/0110377 propose that the fine structure constant is affected by a scalar field that can change the permeability of space. Dark matter is also said to be linked to the scalar field.
+It is my understanding that permeability is a measure of magnetic field strength in a region of space. Does the scalar field change the permeability because it has a magnetic potential at each point in space, and how can dark matter which isn't electromagnetic affect the scalar field?
+Abstract:
+
+Bekenstein’s model of a scalar field, φ, that affects the electromagnetic permeability (usually identified with “changing α”) predicts tiny variations of the effective fine structure constant up to very high red-shifts, |α(z = 3.5)/α0 − 1| < 10−10, when the constraints from Eötvös-Dicke-Braginsky types of experiments are imposed. We generalize this model by allowing additional couplings of φ to both a dark matter candidate and to the cosmological constant. We show that in a supersymmetric generalization of Bekenstein’s model, the coupling to the LSP, which is assumed to contribute significantly to the dark matter density, can be up to six orders of magnitude stronger than the coupling to the baryon energy density.
+This allows one to evade the present limits on the non-universality of the gravitational attraction due to φ-exchange and at the same time accommodate the effective shift in α at the level of α(z = 3.5)/α0 − 1 ∼10−5, reported recently from observations of quasar absorption spectra.

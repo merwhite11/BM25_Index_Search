@@ -1,0 +1,45 @@
+To show perihelion precession motion of Mercury in Python with matplotlib
+
+I'm trying to make it more general code so I can trace even a parabola or hyperbola for $e=1, E=0$ and $e>1, E>0$ respectively. And after achieving that general code I want to make the same code working for perihelion precession motion of Mercury just by adding an additional term ($-A/r^3$) in the energy term. Feel free to change my entire code and energy term.
+from numpy import *
+import matplotlib.pyplot as plt
+
+
+L = 9.11*10**38     #L = angular momentum
+m = 3.28*10**23     #m = mass of mercury
+M = 1.99*10**30     #M = mass of sun
+a = 5.8*10**10       #a = semi-major axis
+G = 6.674*10**-11   #G = Gravitationl constant
+k = G*M*m
+E = -k/(2*a)        #E = energy
+##E = 0
+p = L**2/(m*k)   
+c = 1 + (2*E*L**2)/(m*k**2)
+e = sqrt(c)       #e = eccentricity
+print(e,c)
+def fx(x):
+    r = p/(1 + e*cos(x))
+    return float(r)
+
+n = 1000
+phi =linspace(0,2*pi,n)
+radius = zeros([n])
+theta = zeros([n])
+x = zeros([n])
+y = zeros([n])
+
+for i in range(0,n):
+    radius[i] = fx(phi[i])
+    theta[i] = 180*phi[i]/pi
+
+for i in range(0,n):
+    x[i] = radius[i]*cos(phi[i])
+
+for i in range(0,n):
+    y[i] = radius[i]*sin(phi[i])
+
+print('r =',radius)
+print('x =',x)
+print('y =',y)
+plt.plot(x,y)
+plt.show()

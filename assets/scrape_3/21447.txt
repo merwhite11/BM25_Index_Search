@@ -1,0 +1,3 @@
+Is there a difference between the solar elevation angle and sun declination?
+
+I need to use the sunrise equation but one of the variables is the sun declination. On the other hand, I have the values for solar elevation angle that I need. Are they the same thing?

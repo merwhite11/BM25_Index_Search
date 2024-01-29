@@ -1,0 +1,6 @@
+What size objects can be created from collision of two asteroids?
+
+Does collision of two asteroids necessarily create only very small objects? (and how big is it "very small"?)
+I am especially interested about collision of two asteroids with similar orbits (and thus relatively small difference of the speed vectors in the moment of collision).
+Can such a collision create big (say 1km, or maybe 100m) objects?
+Is it in this case likely that a created object would have something like a comet tail consisting of dust and small objects (probably gravitionally attracted to the resulting asteroid remnant)?

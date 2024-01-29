@@ -1,0 +1,9 @@
+Difference in creation of solar flares and CME?
+
+What is the difference in the creation process of solar flares and CME (coronal mass ejections)? How do they relate to sunspots and coronal holes? 
+Here there are some good explanations about the flares' and CME's differences. But my question focuses on how each of them is created, and what are the respective conditions at the corona. 
+Edit:
+In an effort to make the questions more clear, I could add that as far as I can tell both effects result from magnetic reconnection, but in one case we have only energetic particles emitted while in the other we have whole chunks of plasma. Do we know which is the determining factor about which of the two will happen? 
+Also, I understand that flares are mostly related to sunspots while ejections are to coronal holes. Is this correct? If yes then it sounds like a pretty big difference. 
+(Please be reminded that specifying that the answer is not known yet is an answer.) 
+Edit #2: Please see this comment for further clarification of what the question is about.

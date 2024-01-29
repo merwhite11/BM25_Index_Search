@@ -1,0 +1,10 @@
+What is the main source of opacity in sunspots?
+
+In the first version of my answer to Are sunspots vertically displaced from the surrounding photospheric plasma?, I naively used Kramer's law to attempt to show an inverse relationship between opacity $\kappa$ and temperature $T$ due to bound-free or free-free absorption in a region with density $\rho$:
+$$\kappa\propto\rho T^{-7/2}$$
+Rob Jeffries pointed out that this might not be accurate in the photosphere, even though it works well deeper inside most stars (though for high-mass stars, Thomson scattering dominates and $\kappa$ is approximately constant). After some more reading, I concluded that this was right. At lower temperatures, interactions with ionized hydrogen mean that $H^-$ is the major contributor to opacity, and it follows a law
+$$\kappa\propto\rho^{1/2}T^9$$
+I believe the transition of dominance happens around $\sim10^4\text{ K}$, meaning that $H^-$ opacity should be the major contribution in the stellar photosphere.
+At even lower temperatures, however ($\sim4000\text{ K}$), molecular scattering can be important (see Tennyson et al. (2007)). While this is not necessarily important at all points in the stellar photosphere, I think that it should be important in sunspots, which can have temperatures in this range.
+What is/are the major source(s) of opacity in sunspots? Does molecular scattering dominate, or is $H^-$ still important? If both are important, to varying degrees, how can the mean opacity be calculated?
+My knowledge of stellar atmospheres and atmospheric models is limited, so I apologize if this comes down to being a basic question.

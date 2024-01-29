@@ -1,0 +1,13 @@
+Have interference effects (in space) ever been observed by a single instrument, as opposed to interferometry?
+
+Not asking about:
+Interferometry can be done with multiple instruments who's light paths or signals are combined interferometrically, or even between different parts of a single aperture, e.g.
+
+What equipment and techniques were used to study Betelgeuse's diameter in 1920?
+How did Michelson measure the diameters of jupiter's moons using optical interferometry?
+Why does the Simbad page "A.A. Michelson's Jovian Galilean-satellite interferometer" show data for Betelgeuse?
+
+Asking about:
+For example comment under Is Diffraction of light observed in gravitational lensing/microlensing? links to Studying wave optics in the light curves of exoplanet microlensing At the longer wavelengths observed via radio telescopes, the authors propose that interference fringes (in time) between a lensed and un-lensed path for light from a given object can be observed at Earth, thereby increasing the amount of detailed information that can be modeled in order to better characterize the lensing event.
+That's an example what I would consider as "interference effects (in space)... observed by a single instrument, as opposed to interferometry".
+Question: Have any such effects been observed?

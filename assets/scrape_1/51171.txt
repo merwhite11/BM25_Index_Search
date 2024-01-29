@@ -1,0 +1,6 @@
+Can the Hubble expansion inject energy in AGN and quasar outflows?
+
+I found this article about the behavior of quasar outflows in cosmology and how they can create a magnetic field.
+In section 2.1.4., the authors say that when a quasar produces a "wave" or an outflow, the material will be emitted with energy coming from both the quasar itself and the Hubble flow of the expansion of the Universe itself.
+Does this really mean that the expansion of the universe can inject energy into these outflows? Are there any other papers acknowledging this?
+Then, is energy conserved in this case? Wouldn't the Hubble expansion be adding "new" energy to the system according to the article?

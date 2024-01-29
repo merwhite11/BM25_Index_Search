@@ -1,0 +1,12 @@
+How often do comet occultations of stars happen?
+
+By travelling to specific places, astronomers can see three thousand star comet transition events every year at m15 for the major (50km+) comets and asteroids averaging about 20 seconds, perhaps that's 25k transitions if they listed 2 seconds occultations by the same 50km comets, perhaps that's not an exhaustive survey, it may be 5/10/20k?
+Some easy and fun maths:
+There are about 500 >50km comets, and 100k >5km which would transition visibly at 40AU's, so that's 600,000 total eclipses of 
+
+There are 1000,000 >1km comets that cause eclipses of average m20 stars, and there are 100 times more m20 stars than the m15 ones, that's 60mn star dimming events at m20.
+Conversely, We can perhaps divide that number by 100 (difficult figure to know) for a static view, but you would have to run very fast with your telescope to see 60 million star dimming positions every year, Can we keep the figure at 60mn or is it logical to change that to 0.6?
+I must have misjudged it by 1-2 orders of magnitude, multiple times less for velocity or something. Can we surmise if it is 60k or 60million at m15 and m20? 
+If a comet of 11km at 40AU's travels through the disk of the galaxy, it can hide stars for at least 0.5 seconds. If the stars are N times distanced than the comet's diameter from a perspective, the comet would hide two stars every NxN frames, so for N = 5, a different star would dim every 25 frames. What is the real maths to say what the figure N is at the disk of the galaxy for something like Halley's Comet at m15 and m20? 
+this page sais: http://www.asteroidoccultation.com/asteroid_help.htm#hgm
+In reality there are probably hundreds of asteroid occultations every night.  However many cannot be observed for practical reasons (e.g. star too dim, event duration too short, etc.).

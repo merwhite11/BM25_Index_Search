@@ -1,0 +1,4 @@
+How can we learn the inclination of the orbiting plane of the exoplanets using radial speed method?
+
+I heard about the radial speed method to discover exoplanets a few years ago, however, these questions kept confusing me. If we know a planet star of mess $m$ is orbiting a star by interpreting the  radial speed of the central mass, how can we tell wether this is a even more massive object whose orbiting plane has a larger inclination? Further more, even if we know the angle of our sight and the axis of orbit, can we determine the direction of orbit?
+Thanks in advance.

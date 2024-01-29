@@ -1,0 +1,5 @@
+Doesn't gravity attract objects in space until they collide?
+
+If the formula to calculate the force of gravity between two objects is:
+$$F = GM_1M_2/r^2,$$
+why do planets stay in orbit? Or is there another formula at work?

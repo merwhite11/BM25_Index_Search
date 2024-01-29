@@ -1,0 +1,5 @@
+Regarding the VizierR catalogue
+
+I want to build a Machine Learning model to approximate effective temperatures of stars based on their B-V index but there aren't that many catalogues that include that. I came across the Vizier catalogue (http://vizier.u-strasbg.fr/viz-bin/VizieR-3?-source=V/19/data) and I wanted to be sure if that's a catalogue for individual stars that I can leverage.
+Or, do you know what other resources could help in that regard? Or suggestions?
+Thanks

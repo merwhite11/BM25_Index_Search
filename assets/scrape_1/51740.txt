@@ -1,0 +1,3 @@
+Why does the CMB conform to black-body formula for 2.71 degrees, when it's the stretched emission at a far hotter temp?
+
+Physicist Chad Orzel in "Einstein's Legacy" discusses Planck's Black-Body formula, stating that it fits perfectly to everything we see, from toasters to stars.  Fine. Then he says it perfectly describes the radiation curve of the CMB as belonging to a black body at 2.71 degrees. I'm confused, since the CMB was not EMITTED at that temp, but at one with a very different shaped curve.  How would stretching those original frequencies out by a factor or a thousand (or whatever it is) result in a curve representative of 2.7 degrees?

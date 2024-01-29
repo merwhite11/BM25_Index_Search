@@ -1,0 +1,3 @@
+What visual artifacts are expected from the JWST?
+
+What visual artifacts should we expect from the images that will be released from the James Webb Space Telescope? Specifically, do we expect 3-pronged diffraction spikes (any preview how they would look?)? Do we expect any artifacts due to the honeycomb-like structure of the main mirror?

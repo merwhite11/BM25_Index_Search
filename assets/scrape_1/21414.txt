@@ -1,0 +1,14 @@
+Are there any unmanned large telescopes located on Earth?
+
+I just read the answers to the question "Why are all space observatories in Chile?".  In addition to the reasons provided, one of the answers also mentions that
+
+...if the telescope should be manned by humans permanently, it cannot
+  be located to high due to the difficulty for humans to function at
+  extremely high altitudes, ...
+
+Which leads to my question:
+
+Are there any unmanned large telescopes located on Earth?
+
+I realize that, even if large telescopes are unmanned, they probably need to be serviced by humans on a regular basis. But are humans needed permanently on site? 
+I also realize that, even though there are humans monitoring the measurements from space telescopes, space telescopes are unmanned in the sense that there are no people at the space telescopes manning them.

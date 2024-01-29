@@ -1,0 +1,6 @@
+Do differentials in the Earth's density cause the flyby anomaly?
+
+The flyby anomaly is an occasional, unpredictable, and as yet unexplained discrepancy in acceleration of satellites when they pass close by the Earth.  It causes an increase of up to 13 mm/s during flybys but we have no understanding of it and how to predict it.
+The laws of centripetal force predict that due to rotation, the more dense molten material within the Earth might accumulate at the equator, since there it can move further from the axis of rotation.  This will, of course be counteracted by gravity.  Nevertherless, it will be an effect present at the equator more so than at the poles.
+This predicts that we should expect to see a flyby anomaly of some magnitude and that it will be correlated with proximity of a flyby to the equator.
+Can anybody provide anomaly data and / or correlate it with angle of incidence in order to test this hypothesis?

@@ -1,0 +1,3 @@
+What is "g-98" in plots of stellar spectra?
+
+I was looking to find some example carbon star spectra and came across this page on the Harvard website which shows several plots of carbon star spectra. The horizontal axis is labelled as wavelength in ångströms, but the vertical axis appears to be labelled with "g-98" which I am not familiar with - any idea what quantity this is?

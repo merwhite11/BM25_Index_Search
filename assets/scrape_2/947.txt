@@ -1,0 +1,17 @@
+How can the equation of state for cosmic strings and domain walls be derived?
+
+In this article which nicely explains why it is really the quantity $\rho + 3p$ which is relevant to determine if the expansion of the universe is accelerating or decelerating by making use of the for this question relevant second Friedmann equation
+$$
+\frac{\ddot{a}}{a} = -\frac{4\pi G}{3}(\rho + 3p)
+$$
+it is mentioned that for cosmic strings 
+$$
+p = -\frac{\rho}{3}
+$$
+which has the effect that they dont contribute to the "non-inertial" expansion of the universe, and for cosmic domain walls we have
+$$
+p = -\frac{2 \rho}{3} 
+$$
+which leads to an accelerated expansion of the universe.
+Whereas I understand the derivations of such equations of state for radiation, "ordinary" matter, and a constant source of dark energy, I have not yet seen analog calculations for cosmic strings and domain walls.
+So how can the equation of states for topological defects such as cosmic strings and cosmic domain walls be derived?

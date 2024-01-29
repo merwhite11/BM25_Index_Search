@@ -1,0 +1,3 @@
+Is it possible to calculate distance between two objects?
+
+For example: I want to know the distance between Alpha Orionis (Betelgeuse) and Beta Orionis (Rigel). Is this possible? You only know the distance from Earth. May be this is a math problem and not an Astronomy question.

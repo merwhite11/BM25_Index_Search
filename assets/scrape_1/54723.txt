@@ -1,0 +1,5 @@
+Doesn't Gregorian Calendar being started each year on 00:00 cause a huge error in the future?
+
+While Gregorian calendar is a solar year it always start on 00:00 each year. But for sure the Earth completes each orbit around the Sun on different times each year.
+So if we put January 1 as the start of the year we should calculate the exact time when the Earth completes its orbit around the Sun the Jan 1 of the next year.
+So why does Gregorian calendar insists on celebrating each year on 00:00? Doesn't it cause a huge error in the future?

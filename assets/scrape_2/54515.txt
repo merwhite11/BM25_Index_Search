@@ -1,0 +1,4 @@
+Elliptical galaxy classification
+
+The elliptical galaxy (Hubble) classification goes from E0 to E7, with E0 being spherical and E7 being the most flattened. I understand that the angle at which the elliptical is viewed affects this number (0-7) after E.
+Given that E0 and E7 are the two extremes of elliptical classification, does that mean that an elliptical is E0 if face-on and E7 if edge-on? Or vice versa? Or have I got this completely wrong and it means neither?

@@ -1,0 +1,13 @@
+The dominance of Gravity vs Strength and its dependency on crater size
+
+So I am trying to write a research paper (about 3700 words) for high school about the topic "The dominance of Gravity vs Strength and its dependency on crater size" or something similar. 
+I have found the following information which I am struggling to understand and has been holding me back from continuing the research : (Can someone explain what dominance is and how can I approach reading more about this topic?)
+
+Making a crater requires both material strength of the target and gravity to be overcome. 
+which of these dominates depends on the size of the crater 
+
+$$ \rho g d = \frac{1}{5} \rho g D = Y $$
+Where Y is the yield strength, ρ is density of the target material, d is the crater's depth and D is its diameter. 
+A related graph to this topic is this (Holsapple 1993) :
+  
+So please, can someone explain what all this means in simple terms ?

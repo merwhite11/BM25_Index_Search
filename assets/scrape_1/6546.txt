@@ -1,0 +1,3 @@
+Does the sky get darker faster during the winter?
+
+When one lives away from the equator, say at around 37° latitude, does the sky get darker faster after the sun sets in the winter as compared to the summer?  Why is this the case?  I believe that if you were to draw the path the sun traverses at different times of the year, the paths are parallel to each other but shifted, such that in summertime, the path is longer with a shorter section below the horizon and in winter it is shorter with a longer section below the horizon. I imagine that the angle of the path relative to the horizon is approximately the complement of your latitude.

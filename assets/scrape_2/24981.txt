@@ -1,0 +1,19 @@
+Musk's Roadster is now Russell's Teapot?
+
+Space Exploration Stack Exchange were not very fond of this question and closed it, so I think it might fit better here. 
+Summary: Assuming no foreknowledge of its existence, can Elon Musk's Tesla Roadster be detected and categorised from Earth? 
+Bertrand Russell argued the following, an argument that is now known as Russell's Teapot (emphasis mine): 
+
+Many orthodox people speak as though it were the business of sceptics to disprove received dogmas rather than of dogmatists to prove them. This is, of course, a mistake. If I were to suggest that between the Earth and Mars there is a china teapot revolving about the sun in an elliptical orbit, nobody would be able to disprove my assertion provided I were careful to add that the teapot is too small to be revealed even by our most powerful telescopes.
+
+Well now we have a midnight cherry red automobile, between Earth and Mars, in an elliptical orbit around the Sun. 
+
+Now assume that this civilisation we have falls. The knowledge of this automobile is lost. Then in some centuries/millennia later humanity has managed to work its way back to a level of technology comparable to what we have today. 
+Could this automobile then be detected by "our most powerful telescopes"?
+I guess that we could detect it as an orbiting object; it is large enough to be found. Can you confirm or refute this guess? 
+And if the automobile can be found as an orbiting object, could it then be determined that this is not an ordinary space rock, but that there is something very odd about it? That is to say: is it possible to do any kind of characterisation of the automobile that makes it stand out as an unusual space object. There is some uncertainty about the exact state of the automobile after such a long time, but there is no question that chemically and optically, this will be no space rock, even in several thousand years. The question is if we can detect that. 
+Digging some more I found about the (re)discovery of J002E3, which turned out to (probably) be the Apollo 12 Saturn-IVB upper stage. I quote from this paper (emphasis mine): 
+
+Additional spectral observations were completed in May 2003 at the Air Force Maui Optical Supercomputing (AMOS) site. Through the modeling of common spacecraft materials, the observations of J002E3 show a strong correlation of absorption features to a combination of human-made materials including white paint, black paint, and aluminum. Absorption features in the near IR show a strong correlation with paint containing a titanium-oxide semiconductor. 
+
+So, in short: could we do the same with this automobile and find that this is not a plain old space rock? How close would it have to be for this?

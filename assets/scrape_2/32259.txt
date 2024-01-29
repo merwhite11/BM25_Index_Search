@@ -1,0 +1,3 @@
+Exposure time for spectroscopy compared to photometry
+
+For a report I'm writing, I'm interested in comparing the exposure time required for spectroscopy versus photometry for a given magnitude. I found the figures on pages 7 and 8 of this lecture particularly informative. I tried emailing the author, but his email address is inactive. Where can I get similar information?

@@ -1,0 +1,4 @@
+How do telescopes "zoom" and change angle of view?
+
+Images from the Hubble Space Telescope have widely different angles of view. Is this only the result of composing multiple images, or can the telescope itself change its "zooming" optically, mechanically? How does the ability to change the angle of view differ between the major scientific telescopes of today and the near future, space and ground based?
+And what about cameras on interplanetary probes? Can for example New Horizons optically change its zooming as it passes Pluto?

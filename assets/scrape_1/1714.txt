@@ -1,0 +1,8 @@
+Why is the speed of light 299,792,458 meters/sec?
+
+Ok, I am majoring in physics (4th year) and I never understood this fundamental (kinda) question. Maybe I haven't explored it enough.
+For example, why does it take 8min20sec for the light from the sun to get to us?
+I know the answer to this question on a 'surface' scale. The sun is 1AU away, c=3E8 m/s, and d=v/t to get approx 8 min 20 sec. 
+my question is on a deeper level. 
+Say you could "ride a photon" I KNOW THIS IS IMPOSSIBLE, but just say you could. Or a better question: what does a photon experience? The photon, as per my understanding, would leave the sun and (if it is on the right trajectory) hit the Earth instantaneously. A photon leaving Alpha Centauri would see the universe all at once, in a infinitesimal small unit of time (if directed out to space). 
+If a photon sees everything all at once, why do we perceive it to have a speed? I am sure this has something to do with frames of reference, special relatively, Lorentz transforms? but just seems strange. why is the speed of light finite to us... if it was infinite would this be problematic?

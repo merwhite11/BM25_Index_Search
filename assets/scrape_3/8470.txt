@@ -1,0 +1,5 @@
+Working with high-magnification eye-pieces
+
+My telescope (Newtonian reflector) has a focal length of 900 mm. So, using a 25 mm eye-piece, I get 900 mm / 25 mm = 36X magnification. Using a 10 mm eye-piece, the magnification would be 90X.
+My problem is that I cannot see a thing with the 10 mm eye-piece. If I would insert the 25 mm eye-piece, find a bright star, and adjust the eye-piece distance from the secondary mirror, I would get the things ready after some trial and error. With the higher magnification eye-piece, it's just all black. What should I do to get around this?
+The aperture is 130 mm if it matters.

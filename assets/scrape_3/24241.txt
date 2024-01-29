@@ -1,0 +1,9 @@
+Altitude of Midnight Satellite?
+
+The other night, I observed what I believe must have been a satellite, however it was at 1:30am so I was not sure that this would be possible. Being in the Southern Hemisphere we are just past Summer Solstice, so theoretically it could have been reflecting the sun's light.
+There were no flashing lights, just a star-like point of light. As it slowly traveled in a NE direction across the sky, it began to gradually fade as typical of a satellite passing into Earth's shadow.
+Based on my observation, I'd like to get an understanding of the approximate minimum altitude of the object that I observed, allowing for it to be out of the shadow of the Earth sunlight. I'm not a mathematician, but using Space Engine with the correct time & location, I had to position the camera to some 7000km in altitude before the sun was visible over the horizon. The object was N to NE from where I observed it, whist the midnight sun would have been shining away at the South Pole.
+Date/Time: 27-Dec-2017, ~01:30 local time (GMT + 8)
+Location of observation: Perth, Western Australia (~32S, 116E)
+Position in sky : ~ 80 to 60 degrees elevation, moving north due northeast
+Duration of observation : ~2 to 3 minutes

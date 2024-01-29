@@ -1,0 +1,3 @@
+Angles in Ptolemaic Model
+
+I am about to work with Ptolemy's Model for the motion of an upper Planet (Mars). I use a epicycle rolling on the deferent. As a first step, I am just interested in the shape of the trajectory, which is why I can ignore the equant, because the uniform motion arount the equant does not change the fact, that the epicycle rolls on the deferent, which is why $\phi_0^*$ can be expressed in terms of $\phi^*$, $r_A$ and $r_a$. I want to express the angle $\phi^*$ or $\phi_0^*$ in terms of $\gamma$. I assume $r_A$, $r_a$ and $c$ (distance from Earth A to the center of the deferent $B$ and distance from this center to the equant as well). How can I express $\phi^*$ geometrically?

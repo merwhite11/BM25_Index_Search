@@ -1,0 +1,5 @@
+What could successive double dips in the light-curve mean?
+
+I was going through some analysis of the TESS light-curve data and I stumbled upon an interesting example (see below figures, where the blue line is simply a moving average), where the light-curve displays a double-dipping phenomena. Unfortunately, there is only one "transit" for this light-curve. I checked the data for the TIC number of the stars and it's reported to be ~0.6 solar mass, with no known exoplanet.
+I have encountered this pattern a couple of other times (out of roughly 30k stars).
+Anyone has encountered this before and could have some explanation as to what this may be?

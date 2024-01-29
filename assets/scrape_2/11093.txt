@@ -1,0 +1,6 @@
+If nothing can pass the schwarzschild radius, how can black holes even start?
+
+From our point of view, no object can fall into a black hole in finite time. The object will seem to be more and more red-shifted to us, but it will never quite pass the schwarzschild-radius / event horizon. (Of course the time frame of the falling object is another thing, but we are well away from any direct effects of black holes on us)
+Having said that, how can black holes come to existence? As soon as there would be a schwarzschild radius, nothing can cross it. To me this seems like a chicken-and-egg problem, so no black holes can possibly exist.
+Obviously the black holes in our universe do not seem to be aware of this, so what am I missing?
+Thanks in advance :-)

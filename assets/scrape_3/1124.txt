@@ -1,0 +1,8 @@
+Brightest Radio Source In the Universe
+
+I would have assumed that the brightest radio source in the Universe is a quasar of some kind (perhaps 3C 273) given that the average pulsar has luminosity of $~10^{40} \text{Watts}$ and this is the brightest (optically) and is radio loud.
+My professor seems to be of the opinion that the Arecibo message is louder, but that does not seem to pass the straight face test, given that it was only transmitted at a power of only $1\text{MW}$, and only a very small fraction of the pulsars output (a mere $1/10^{34}$th) would be sufficient to outshine the message.
+Is one of these the brightest radio source in the universe (excluding the Big Bang if it matters), or is it something else entirely?
+Additionally, is Watts even the right unit to be measuring this in?
+Update: Here is the text of the question (it was a true/false, and the answer is true):
+In 1975, Frank Drake and Carl Sagan sent a message in to the Universe, directed to extraterrestrials, from the radio telescope at Arecibo in Puerto Rico that, for a brief time, made the Earth the brightest radio object in the Universe.

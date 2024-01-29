@@ -1,0 +1,13 @@
+Is Jupiter's rotation slowing?
+
+According to Wikipedia, re Europa's tidal flexing:
+
+the tidal flexing kneads Europa's interior and gives it a source of
+  heat, possibly allowing its ocean to stay liquid while driving
+  subsurface geological processes.The ultimate source of this energy is
+  Jupiter's rotation, which is tapped by Io through the tides it raises
+  on Jupiter and is transferred to Europa and Ganymede by the orbital
+  resonance.
+
+https://en.wikipedia.org/wiki/Europa_(moon)
+Does this imply that Jupiter's rotation is slowing over time, since it is losing energy due to raising tides on Io?  (Or just generally, does raising tides cause rotation to slow?)

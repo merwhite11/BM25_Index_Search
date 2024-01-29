@@ -1,0 +1,9 @@
+Data on the composition and orbits of asteroids
+
+I am interested in the composition of asteroids from the perspective of determining potential targets for mining.
+I expect there already exists some data that can be used to identify reasonable targets for mining.
+The specific mining method I am looking to evaluate is to send a "collector" out and "grab" a target, bringing it back into LEO for mineral extraction.  Because of this I would like to identify targets that are < 20m diameter. The ideal material to mine/extract would be a precious metal of some kind. This would give the most "bang for the buck". (The buck in this case being the effort rather than Delta V).
+Considering the ideal material, I suspect a list of "M" type asteroids and their properties would be the data I am after.
+I saw a question that asked about using IR Spectroscopy to determine the surface composition of asteroids.  That gave some good insight - but no indication of where such data currently exists. A table of this data would be a reasonable starting point.  
+I am also wondering if we can determine anything about the relative density of an asteroid by the gravity it exerts on nearby objects.  If that data is available anywhere that would also be an interesting place for me to look.
+I am also interested in trying to determine the orbits of any target asteroids, so where would I look for data on the orbits of those that are selected?

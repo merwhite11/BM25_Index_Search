@@ -1,0 +1,5 @@
+Why does M101 search string have RA variable from 0 to 360 and Dec variable from -90 to +90 in the Hubble Legacy Archive?
+
+I was scraping some images off the Hubble Legacy Archive and I found that searching M101 with RA in range 0-360 and Dec in range -90 to +90 yields results. Now I understand that Messier 101 galaxy has the co-ordinates RA 14h 3m 13s | Dec +54° 20′ 57″.
+So what images am I getting if HLA has images for M101  RA = 52.000000  Dec = -13.000000  r = 1  [03:28:00.000 -13:00:00.00]
+Could someone explain what's going on?

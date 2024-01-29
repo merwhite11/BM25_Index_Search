@@ -1,0 +1,27 @@
+Units confusion while calculating flux of a star using distance and luminosity, Python
+
+I am trying to calculate the flux of various stars in Python. I am using the information from a database containing all stars in Hipparcos, Yale Bright Star, and Gliese catalogs (almost 120,000 stars).
+This is the database. The original source is here and it is also hosted on GitHub.
+The formula I am using to calculate the flux is 
+$F=L/(4\pi d^2)$ where L is the luminosity and D is the distance.
+In the database, the distance is provided in the 'dist' column and the luminosity is provided in the 'lum' column.
+This is the code I used to calculate the flux data:
+df["Flux"]=df['lum']/(4*np.pi*df['dist']**2)
+df['Flux'].head(10)
+
+And this is the output I received:
+0     1.587863e-05
+1     1.357072e-05
+2     1.572559e-04
+3     4.137163e-05
+4     2.635442e-05
+5     8.254667e-07
+6     9.653330e-06
+7     1.662834e-05
+8     2.539475e-05
+9     2.540078e-05
+
+My question is:
+
+What is the unit of luminosity provided in the database?
+Are the calculated flux values correct in terms of units, or does it require a unit conversion?

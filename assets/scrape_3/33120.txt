@@ -1,0 +1,9 @@
+Estimating the abundance of type-Ia supernovae using magnitude limited survey
+
+I would like to estimate the fraction of type-Ia supernovae in a magnitude limited survey (only including those supernovae that are brighter than a certain than a given fixed apparent magnitude). 
+I currently have the following information:
+
+Type-Ia supernovae are usually around 2.5 magnitudes brighter than core-collapse supernovae.
+Volume limited surveys found that 30% of supernovae within a fixed distance from us are type-Ia. 
+
+How can I solve this problem using the above information? The formula for apparent magnitude $m = -2.512\log_{10}(d/10\mathrm{pc})+c$ seems like an obvious starting point, but doesn't seem to lead anywhere. A worked solution would be very helpful.

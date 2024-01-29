@@ -1,0 +1,7 @@
+In terms of power delivered to Earth, what is the brightest object in the sky?
+
+I was reading about TXS 0506+056, a distant blazar. The Wikipedia article mentions it is one of the brightest objects in the sky at both gamma and radio frequencies. This got me wondering — if we consider brightness in terms of total energy delivered to Earth, which astronomical object is the brightest?
+I can find vague-ish almost-answers to this, but only for specific frequency ranges (e.g. Object X is rather bright at Y MHz, but incredibly dim anywhere else, etc.) and only for photons. I am interested in any mechanism of energy delivery (cosmic rays, photons, gravitational waves, etc.); although, I would imagine photons probably account for the majority.
+Let us also say that the energy doesn't have to be absorbed, so that forms of energy to which the Earth is more-or-less transparent (e.g. neutrinos) are okay too.
+You can define "source object" however you wish. Transient events are okay too. If you want to give numbers, flux densities at Earth or a total power integrated over its cross-section would be welcome.
+The obvious answer here in the Sun, so we shall exclude it. I suspect that the Moon and maybe some planets will also be contenders, so let’s just constrain ourselves to extrasolar sources. Consider this the only constraint on candidates.

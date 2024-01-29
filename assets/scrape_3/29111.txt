@@ -1,0 +1,4 @@
+What is the dimensions of the smallest object detectable by an optical fiber from a specific distance?
+
+Optical fibers are well-known to observe astronomical objects, say, galaxies, to generate massive spectroscopic surveys. The galaxies are often very far from the optical fibers of a telescope. However, I'm thinking about the possibility of using optical fibers to observe much smaller objects (compared to galaxies) like satellites in much shorter ranges like from earth to GEO orbit.
+In particular, given an object at the distance $r$ from an optical fiber mounted at the focal plane of a telescope, how big (in terms of dimensions) that object should be to be detectable by the signal coming from the optical fiber?  (I couldn't find any related specification in the web. Since I need to use the answer as a part of my research, any cited reference is extremely appreciated.)

@@ -1,0 +1,69 @@
+How to calculate the position of the sun in long/lat?
+
+I have a world map, and I want to know, given a timestamp, where is the sun located right now, in terms of long/lat.
+Here is a website that does that:
+https://www.timeanddate.com/worldclock/sunearth.html
+But they do not share the calculations.
+How can I calculate the sun's position in earth gps terms given a timestamp?
+Edit: some context
+I have a plane that is determined by 2 points on earth, and that plain is perpendicular to the earth in those points. I want to know where is the sun relative to that plane, so I can know if the sun is to the right of it, or to the left of it.
+Instead of working in 3 dimensions, I decided to work in 2. I already have that plane in 2D (just a line on the map), now I need to know where the sun is
+Edit2: Using the wiki page here, this is what I got so far
+Note: The interesting part is getCurrentPosition
+class Sun {
+    private julianTime(timestamp: number) {
+        // Source: http://stackoverflow.com/questions/466321/convert-unix-timestamp-to-julian
+        return timestamp / 86400 + 2440587.5;
+    }
+
+    private convertEclipticEquatorial(lambda: number, beta: number, R: number, n) {
+        const epsilon = 23.439 - 0.0000004 * n; // Obliquity of the ecliptic
+        console.log("epsilon", epsilon);
+        const alpha = Math.atan2(Degrees.cos(epsilon) * Degrees.sin(lambda), Degrees.cos(lambda));
+        console.log("alpha", alpha);
+        const delta = Math.asin(Degrees.sin(epsilon) * Degrees.sin(lambda)); // declination
+        console.log("delta", delta);
+    }
+
+    getCurrentPosition(timestamp: number) {
+        const JD = this.julianTime(timestamp);
+        console.log("JD", JD);
+
+        // Source: https://en.wikipedia.org/wiki/Position_of_the_Sun
+        const n = JD - 2451545;
+        console.log("n", n);
+        const L = (280.460 + 0.9856474 * n) % 360;
+        console.log("L", L);
+        const g = (357.528 + 0.9856003 * n) % 360;
+        console.log("g", g);
+        const lambda = (L + 1.915 * Degrees.sin(g) + 0.020 * Degrees.sin(2 * g)) % 360;
+        console.log("lambda", lambda);
+        const R = 1.00014 - 0.01671 * Degrees.cos(g) - 0.00014 * Degrees.cos(2 * g); // Distance
+        console.log("R", R);
+
+        this.convertEclipticEquatorial(lambda, 0, R, n);
+    }
+}
+
+class Degrees {
+    static sin(angle: number) {
+        return Math.sin(angle / 180 * Math.PI);
+    }
+    static cos(angle: number) {
+        return Math.cos(angle / 180 * Math.PI);
+    }
+}
+
+console.log(new Sun().getCurrentPosition(new Date().getTime() / 1000));
+
+Running this now, gives:
+
+JD 2457844.130512928 (can confirm, this is correct)
+n 6299.1305129281245 (simple math)
+L 9.181612328272422 (simple math)
+g 85.95292328111373 (simple math)
+lambda 11.09465308568091
+R 0.9990992788207762
+epsilon 23.436480347794827 (can confirm, that is roughly correct)
+alpha 0.17801325468993906
+delta 0.0766106706512887

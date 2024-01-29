@@ -1,0 +1,4 @@
+Orbital resonance 2:1
+
+I considered the motion of an asteroid around the sun, in a $2:1$ orbital resonance with Jupiter. Following the study of this resonance, it was observed that the angle between the major axis of the asteroid's orbit and the Sun-Jupiter direction varies rapidly and decreases linearly over time.
+I would like to ask you: how should I interpret the variation of this angle, in time?

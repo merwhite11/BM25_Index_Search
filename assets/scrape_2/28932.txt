@@ -1,0 +1,10 @@
+Why is it impossible to estimate the inclination of an exoplanet with the Radial Velocity Method?
+
+The formula of the radial velocity is:
+$$v_i= V - K(\sin(f_i+\omega)\ + e\sin\omega),$$ with
+$$K = \frac{m_p}{m_s+m_p}\frac{na\sin i}{\sqrt{1-e^2}}.$$
+Being $V$the systematic velocity of the system,
+$m_p$ the mass of the planet, $m_s$ the mass of the star, $n = \frac{2\pi}{P}$ the mean motion and $P$ is orbital period of planet, $a$ the length of the semi-major axis of the planet, $i$ the inclination of the orbital plane with the ecliptic,
+$e$ the eccentricity of the planet, $f_i$ the true anomaly at time $t_i$ and $\omega$ the longitude of periastron.
+It's well known the usual procedure. You have data about the instances $t_i$, the radial velocities $v_i$ at time $t_i$ and then you also have the measurements uncertainties $\sigma_i$. With that data, you can estimate 6 parameters: $V$, $K$, $e$, $\omega$, $T$ (the periastron passage time) and $P$. After you estimate these parameters, you can calculate (if you know the mass of the star and you assume that $m_p<<m_s$), $m_p\sin i$, which is known as the minimum mass. So, as far as this way shows, you got no way to estimate the mass of the planet and the inclination separately. 
+But what if instead of estimate this set of parameters, we introduce another one? Just one with all the parameters in the equation: $V$, $m_p$, $i$, $e$, $T$, $\omega$, etc.? Couldn't that be possible? But nonetheless, it's always assumed that it's impossible to know the inclination with the RV data. Is there some reason why?

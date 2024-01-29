@@ -1,0 +1,6 @@
+Is the gravity on Kepler 39b higher than on the Sun?
+
+According to the formula for gravitational acceleration $a = GM/r^2$ where $G=6.674 \times 10^{-11}$, Jupiter with mass 1.89813 × 10^27 kg and radius 69,911,000 m gives a gravity around 25m/s^2. The Sun with mass 1.989 × 10^30 kg and radius 695,510,000m will have a gravity around 270m/s^2.
+But using the data for Kepler 39B, mass 18 times that of Jupiter 3.416634 × 10^28, and radius about 5/4 of Jupiter's 87,220,000m, I get almost 300m/s^2, higher than the Sun's. 
+Is this right? 
+I did and redid it, and still concerned that I am doing something wrong.

@@ -1,0 +1,5 @@
+How to polar align equatorial mount if I see only small part of sky at south-east?
+
+My mount is located on balcony where I can't see the polar star. I have only one window here which points to the eastern south. I limited by small piece of sky near the ecliptic plane between 120 degree and 140 by horizontal and 20 degree and 60 degree by vertical.
+So, how can I align my mount in this case?
+I tried to align it by aiming jupiter and saturn one by another and rotate the mount between. I get good enough result, but objects in frame is slowly move to out of frame (so, can't use long exposures).

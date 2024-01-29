@@ -1,0 +1,12 @@
+Contradictory errors in python package VESPA
+
+VESPA is a python package that can calculate the False Positive Probability for Exoplanets. Here is the link to the repository
+
+https://pypi.org/project/VESPA/
+https://github.com/timothydmorton/VESPA
+
+I had installed it successfully but while importing the package I got an error in NumPy package. I found out that it was due to the older version of NumPy. So I updated it to the latest (1.22.1).
+But in that case I got an issue that the another package called Numba wants NumPy of version 1.21 or less.
+*I tried for NumPy 1.21 as well but again the same problem.
+Here I'm attaching the link to the  pdf that contains the traceback.
+https://drive.google.com/file/d/1KgA0xFAwWrao7KAoOfP7ZDOPQ3AuWyFa/view?usp=drivesdk

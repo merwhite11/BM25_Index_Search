@@ -1,0 +1,3 @@
+What are some formulas that are associated with the Schmidt corrector?
+
+I want to fully understand how an SCT works. Thus, I figured out I can use some formulas that describe how an incident ray that is parallel with the axis would act after refracting off a Schmidt plate. I presume that the formulas would depend on the vertical and horizontal distances from the center of the plate. My goal now is to make a ray tracing model of an SCT with certain specifications. Please make your answer as simple as possible.I will be thankful if a nontechnical source is provided at the end of the answer.

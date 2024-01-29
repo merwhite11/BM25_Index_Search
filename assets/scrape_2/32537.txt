@@ -1,0 +1,17 @@
+Validity of ephemeris time
+
+In the wikipedia article for ephemeris time as first adopted in 1952, it does not explain clearly how or why it was superseded. For example, it reads:
+
+In 1976 the IAU resolved that the theoretical basis for its current
+(1952) standard of Ephemeris Time was non-relativistic, and that
+therefore, beginning in 1984, Ephemeris Time would be replaced by two
+relativistic timescales intended to constitute dynamical timescales:
+Terrestrial Dynamical Time (TDT) and Barycentric Dynamical Time
+(TDB).[28] Difficulties were recognized, which led to these being in
+turn superseded in the 1990s by time scales Terrestrial Time (TT),
+Geocentric Coordinate Time GCT(TCG) and Barycentric Coordinate Time
+BCT(TCB). [16]
+
+So, from this it appears that ephemeris time was never superseded and it continues to be evolved with a different theoretical basis?
+From reading Robert Newton's books such as "Ancient planetary observations and the validity of ephemeris time", it would seem that ephemeris time is invalid because of non-secular accelerations in the motion of Mercury and Venus.
+So, I guess my question is: does current astronomical theory consider ephemeris time to be invalid or valid, and if it considers it to be valid, then what is current evaluation of Newton's calculations and their implications for the validity of ephemeris time?

@@ -1,0 +1,7 @@
+Difference of sunset and sunrise of two cities are different
+
+For 26 Nov 2016:
+Consider Tehran with 06:51 sunrise and 16:52 sunset.
+Another city is Rafsanjan in 850KM southeast of Tehran, sunrise is 6:21 and 16:45 for sunset.
+Time zone of two cities is +3.5
+Why difference of sunrise is 30 minutes while sunset is 7 minutes?

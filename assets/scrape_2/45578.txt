@@ -1,0 +1,5 @@
+Why is the sun not directly overhead at noon on the March equinox at N 0° 0' 0.00" E 0° 0' 0.00"?
+
+I'm trying to teach my sons the difference between using azimuth-altitude coordinates and ecliptic coordinates. In the course of setting up some demonstrations, using Stellarium, I set my location to N 0° 0' 0.00" E 0° 0' 0.00", the time to GMT, and the date/time to noon on March 20, 2021 (March equinox). I expected that the sun would be directly overhead at this time (altitude 90°), but it's not: the altitude is about 88° 08'. I examined several days before and after, and the altitude never reaches 90°. The highest altitude I could find on March 20, 2021 was at 12:07:25, 89° 57' 31.2".
+What's the gap in my thinking here? Why isn't the sun at the zenith at that time?
+I'm using Stellarium, but my question is conceptual, not about the software (which I assume to be working correctly).

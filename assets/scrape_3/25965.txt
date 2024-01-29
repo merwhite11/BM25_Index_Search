@@ -1,0 +1,7 @@
+Detecting habitable planets
+
+From my understanding we detect planets by measuring dips in light intensity from the star the habitable planet is orbiting when it passes by it. 
+There are 2 things I don’t understand about this method:
+
+Planets in a solar system tend to orbit their star in one disc like plane. Can we only detect planets if this plane is in-alignment with our sensors here on earth/ space. I assume if someone looked at our sun from the ‘bottom’ they would never see a planet cross it. If so this would exclude a big portion of the stars we are looking at? 
+Our orbit is 1 year. I assume the orbits of habitable plants can vary and having a short/ close to 1 year orbit is not a criteria for habitability. Even so we have to measure 1 dip every year or 10. How can we tell that this a planet with a regular yearly orbit or just anything passing between the star and us. So maybe a better question to ask for number 2 is what can we find out from these dips?

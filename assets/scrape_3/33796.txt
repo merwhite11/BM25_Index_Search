@@ -1,0 +1,11 @@
+L2 point ephemeris (celestial mechanics)
+
+I'm a master student and I am trying to get the L2 ephemeris for some calculations in my master's project. It was kinda hard to find a file with the L2 ephemeris, but once I found it, I tried the next syntax.
+from jplephem.spk import SPK
+kernel = SPK.open('L2_de431.bsp')
+position = kernel[3,392].compute(2457061.5)
+
+but I'm getting an exception: "Only SPK data types 2 and 3 are supported".
+I tried the same syntax with a planetary ephemeris file (de432s.bsp) and it works fine.
+Can someone help me with that or knows any other ephemeris file for L2?
+L2 file is here: https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/lagrange_point/

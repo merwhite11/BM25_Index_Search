@@ -1,0 +1,6 @@
+Infrared telescopes, magnitude and observations
+
+Currently 22-23 magnitude could be the limit to make a spectrum for ground based 10m class telescopes, 21-22 magnitude may be easy for them.
+4m class telescopes could possibly handle 20 magnitude, I am not sure.
+2m could be appropriate for stars brighter than 16magnitude generally.
+What about the infrared bands: J H K W1 W2 respectively? Are there any empirical values or references?

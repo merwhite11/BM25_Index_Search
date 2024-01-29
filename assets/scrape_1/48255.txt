@@ -1,0 +1,7 @@
+Is there a tool to convert N-body RAMSES simulation file formats to GADGET 2 format in Python?
+
+I am looking for a way to convert RAMSES files to GADGET-2 binary files because I want to use the package SimSpin (https://github.com/kateharborne/SimSpin/blob/master/R/make_simspin_file.R) which is used for generating mock galaxy IFS data cubes but it does not seem to take input files of RAMSES type. It only takes GADGET and HDF5 types. So, I want to find a way to convert my RAMSES simulation snapshots.
+Thanks a lot!
+
+Springel, V., 2005 MNRAS 364 (4) 1105 The cosmological simulation code GADGET-2  (open access) and arXiv
+Teyssier, R., 2002, year A & A 385 (1), 337 Cosmological hydrodynamics with adaptive mesh refinement. A new high resolution code called RAMSES and arXiv

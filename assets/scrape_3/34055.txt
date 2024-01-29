@@ -1,0 +1,3 @@
+Align multiple fits images without WCS for future aperture photometry analysis
+
+Recently I have got a bunch of raw fits images (2048x2048 pixels) of the same sky region without WCS to process in iraf. However, those images are not well-aligned. There would be around 4~5 pixels' deviation for a specific star, thus giving me choppy batch photometry analysis result. Are there any ways to add WCS coordinate using several reference stars or create a user-defined coordinate system so that the same star would have uniform coordinates?

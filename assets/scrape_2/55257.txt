@@ -1,0 +1,3 @@
+Where can i find dark frames in the ESO archive?
+
+I am doing an image reduction with data from ESO but I can't find dark frames when I download the zip-folder even though I downloaded the associated callibration files. The image reduction I am doing is on NGC2264 with program ID 106.21VY and even when selecting all the data I still have no dark frames. Am I supposed to find them somewhere else or am I doing something wrong?

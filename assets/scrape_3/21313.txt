@@ -1,0 +1,4 @@
+applying nutation to ecliptical coordinates (apparent position of star)
+
+I'm trying to calculate RA and DEC with nutation correction. The direct calculation in MEEUS Page 151 can't be used for stars close to celestial poles and I thought I'd turn RA/DEC into ecliptical longitude and latitude and then add delta psi to the longitude and transform back to RA/DEC. Unfortunately my calculations are wrong somewhere and I can't figure out where I made a mistake.
+You can find my spreadsheet here: https://1drv.ms/f/s!AukrJ2RhCvoHh0w8MygI0qajeoXt

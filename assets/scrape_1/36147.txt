@@ -1,0 +1,16 @@
+Correct units to use while plotting mollweide projection of sky chart with RA and Dec values, matplotlib
+
+I am trying to plot a mollweide projection of a sky chart in Python using the matplotlib package. I am using the RA and Dec values from a database containing all stars in Hipparcos, Yale Bright Star, and Gliese catalogs (almost 120,000 stars). 
+This is the database: https://drive.google.com/file/d/1sJGUxQpnsw93q48I1v8qo6rbDKCeGYOH/view?usp=sharing
+It contains the degree values of RA and Dec (column names are ra and dec respectively) as well as the radian values of RA and Dec (column names are rarad and decrad respectively).
+My code assuming I need to use the radian values of Dec and RA is:
+figure=plt.figure()
+figure.patch.set_facecolor('black') #setting plot background to dark colour
+ax = figure.add_subplot(111, projection='mollweide')
+plt.scatter(df['decrad'], df['rarad'], s=1, color='red')
+plt.show()
+figure.savefig("weird.png")
+
+And the output plot I get is:
+
+My question is: Why are all the datapoints plotted within that circle only and not throughout the entire elliptical surface of the celestial sphere? Is it because I have chosen the wrong units (radians instead of degrees) or is the nature of the plot supposed to be this way based on the given star data?

@@ -1,0 +1,15 @@
+What is the current understanding of the results of the merger associated with GW190425? Black hole? Neutron star? Something else?
+
+In an exhibit on gravitational waves I saw a display of events. Each event was in a box, two circles at the top represent the orbiting objects before merger, a single circle below them represent the "best guess" resulting object.
+The sizes (and numbers next to them) represent the masses of each, and the color (black or blue/gray) indicate assignment as a black hole or a neutron star. In cases where there is substantial uncertainty or near-even probability, the circle is divided in half, one side black the other blue/gray.
+I noticed that for the GW190425 event the two initial objects are 2.0 and 1.4 solar masses and shown as neutron stars, and the final object at 3.2 solar masses is shown with both black and blue/gray halves, indicating that the assignment wasn't made.
+I looked at Abbott et al. (2020) GW190425: Observation of a Compact Binary Coalescence with Total Mass ∼ 3.4 M⊙ which as far as I can tell doesn't say anything about the nature of the final object or even show a strain waveform.
+However this Max Planck Institute for Gravitational Physics (Albert Einstein Institute) page Simulation of the neutron star coalescence GW190425 says:
+
+Due to the large total mass of GW190425, the two stars form a black hole shortly after the merger, in contrast to GW170817. In addition, the mass of the ejecta matter and the debris disk mass is significantly smaller than for GW170817, which makes a detection of an electromagnetic counterpart very unlikely and might explain that no electromagnetic follow-up observation has been successfully detected an electromagnetic transient.
+
+which seems fairly conclusive, though I can't yet figure out why they think so or find a source.
+Question: What is the current understanding of the results of the merger associated with GW190425? Black hole? Neutron star? Something else?
+Wasn't there some way to analyze the ringdown in order to identify whether the result was a  neutron star or a black hole?
+
+For reference only: this is what got me curious enough to ask the question.

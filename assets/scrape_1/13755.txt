@@ -1,0 +1,62 @@
+How to determine the ellipticity of galaxies in SDSS
+
+What is the best approach to determine the ellipticity of galaxies in the SDSS DR12. I have read this page. Are those really good methods? 
+Do flux-weighted second moments (as given in the stokes parameters) really give the correct value for ellipticity? 
+Also I am not sure what table field they actually refer too (in the Galaxy view) when talking about the method using the Adaptive Moments. For example where can I find the m_rr_cc value for the method described here?
+Update
+I have calculated the ellipticity of a spiral galaxiy with two different methods using data from SDSS DR7. First I used the method using the stokes parameters and second I used the values for isoA and isoB. Both calculations where done in the r-band. 
+The data can be obtained with the following CAS Query:
+SELECT
+    g.objid as objId,
+    /*  stoke parameters*/
+    q_r,u_r,
+     /*  iso_a, iso_b */
+    isoA_r,isoB_r
+FROM Galaxy AS g
+WHERE
+    g.objid = 587722982832013381
+
+yielding the result
+objId: 587722982832013381   
+q_r : -0.1206308    
+u_r: 0.002988584    
+isoA_r: 169.3949    
+isoB_r: 84.78848
+
+The ellipticity by stoke parameters is given by
+$$
+e  = 1 - \frac{b}{a} = 1 - \frac{1 - \sqrt{Q^2 + U^2}}{1 + \sqrt{Q^2 + U^2}}.
+$$
+The ellipticity from isoA and isoB is very given by
+$$
+e  = 1 - \frac{isoB}{isoA}.
+$$
+But I get completely different results when I use isoA and isoB or the stoke parameters. I get:
+ellipticity from stoke parameters: 0.2153498356
+ellipticity from 1-(isoA/isoB): 0.4994626166
+
+The results can be reproduced with the following python code:
+import math
+
+def ellipticityStokes(q, u):
+    e = 1 - ((1-math.sqrt((q**2) + (u**2)))/(1+math.sqrt((q**2) + (u**2))))
+    return e
+
+def ellipticityNormal(a, b):
+    e = 1 - (b/a)
+    return e
+
+q = -0.1206308
+u = 0.002988584 
+
+isoA = 169.3949  
+isoB = 84.78848
+
+print(str(ellipticityStokes(q,u))) #0.2153498356239003
+print(str(ellipticityNormal(isoA,isoB))) #0.4994626166431221
+
+Looking at the image
+
+(and compare with this website from Buta) I would say the value 0.4994626166 (from isoA and isoB) makes more sense. The value calculated from the stokes parameters is just wrong I think. 
+What is the mistake here? I would expect both calculations to yield similar results.
+However for newer data releases isoA and isoB are not available any more because they seem not to trust those value? What should I do with newer data releases as DR12?

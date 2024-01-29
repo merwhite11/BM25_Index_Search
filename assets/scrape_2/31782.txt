@@ -1,0 +1,5 @@
+When will the number of stars be a maximum?
+
+There are very roughly a "mole" of stars in the universe. Wikipedia quotes an estimate of $3 \times 10^{23}$ though the number is associated with some debate and uncertainly.
+I'd like to know if there are estimates of when the number of stars in the universe will maximize. Is it expected to increase asymptotically to some maximum, or will it peak and then decrease.
+I suppose this could depend on what the definition of "star" is taken to be, if brown or black dwarf objects are counted or not. I don't want to pre-specify, it's more likely that a good, well-informed answer will include this information.

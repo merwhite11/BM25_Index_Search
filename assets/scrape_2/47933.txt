@@ -1,0 +1,7 @@
+Did astronomers ever use photographic plate rotation along with alt-az mounts?
+
+The video Earth's Rotation Visualized in a Timelapse of the Milky Way Galaxy - 4K (linked below) and discussion below this answer to Why does a timelapse video of a stationary Milky Way make the horizon appear to move from horizontal to vertical? about field rotators has got me thinking.
+In addition to the benefit of (essentially) single axis constant speed tracking for distant celestial objects, an equatorial mount also rotates the telescope tube about it's axis such that there is no rotation of the image on the focal plane during long exposures.
+This was probably essential for hours-long exposures of single emulsion plates.
+But for the very largest and heaviest reflecting telescopes equatorial mounts are massive and unwieldily and require huge counterbalances compared to alt-az mounts which can have the azimuth bearing right on the ground and the altitude bearing straight through the telescope's center of mass.
+Question: Did astronomers ever use photographic plate rotation along with alt-az mounts?

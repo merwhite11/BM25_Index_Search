@@ -1,0 +1,3 @@
+What objects can I search for using astropy.coordinates?
+
+The spectacular Python package astropy allows the user to search for a celestial object using astropy.coordinates, querying through CDS. The docs talk about how to use the package, but I can't see anywhere a list of the objects I could search for, even on the CDS website. Is there anywhere I could find such a list?

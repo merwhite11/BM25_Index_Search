@@ -1,0 +1,18 @@
+Did this satellite streak past the Hubble Space Telescope so close that it was out of focus? If so, how close was it?
+
+The new Nature Astronomy paper The impact of satellite trails on Hubble Space Telescope observations (Kruk et al. 2023) describes an AI-based object classification method used to find satellite trails in Hubble Space Telescope images.
+Hubble images with satellite trails are now in the popular news. I checked several links and this one from Gizmodo's Satellite Swarms Like SpaceX’s Starlink Are Increasingly Spoiling Hubble Telescope Images caught my eye.
+
+
+A particularly bad satellite streak appears in this Hubble image. Image: NASA/ESA/S. Kruk et al., 2023
+
+Two linear features stand out; the vertical one associated with the overexposed object looks to me to be a diffraction spike of some type, but half of the photo is overwhelmingly dominated by a huge fuzzy, diffuse bright streak crossing at an angle.
+The caption labels this only as a "particularly bad satellite streak" but I don't see any other way right now than to conclude that this satellite passed so close in front of Hubble that it was out of focus!
+It's not broad due to overexposure - we can confirm this by checking gray levels and by noticing we can still see stars behind it.
+Question: Did this satellite streak past Hubble so close that it was out of focus? If so, just how close was it?
+note: the caption for Figure 1 does call this a "broad out-of-focus trail (ja4tg4lsq)" because that's what it looks like, but without an identification of the satellite (position (within a few kilometers I suppose) and direction during the exposure time should make that fairly easy) there could be other artifact mechanisms that might be responsible.
+Since Hubble's aperture dimension is known, all we need is a plate scale for this image to estimate the distance due to DOF issues.
+Related, potentially helpful:
+According to @Roger Wood's answer to Has Hubble ever focused on something close enough that it had to move away from being focused at infinity?:
+
+Hubble's resolution is 0.014 arc seconds (6.8e-8 radian) and its mirror diameter is 2.4 m. So objects closer than (2.4/2)/6.8e-8 m ~= 18,000 km will become detectably blurred and would benefit from refocussing.

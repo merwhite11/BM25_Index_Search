@@ -1,0 +1,11 @@
+What "external illumination" source causes the heating of a quasar's accretion disc?
+
+In Section 3.4, UV-to-optical continuum flux ratio, Gaskell et al. (2023) Estimating reddening of the continuum and broad-line region of active galactic nuclei: the mean reddening of NGC 5548 and the size of the accretion disc states:
+
+...since the heating of the surface of the accretion disc
+comes from external illumination, geometric effects alone flatten
+the rise in temperature with decreasing radius as one approaches
+the disc centre.
+(Section 3.4)
+
+I thought the accretion disc was the part of the quasar which was emitting most of the radiation. What's causing the "external illumination" in this case? Is it from the narrow-line or broad-line regions? Or something else?

@@ -1,0 +1,7 @@
+I'm having trouble achieving sharp telescope focus
+
+I've been having trouble getting really sharp focus on my telescope. Using Saturn as a reference, with a 20mm eye piece it is very sharp. But when I go to 10mm or 6mm, it gets bigger and blurrier. I re-adjust focus each time I change eye pieces, but the best I can get at the stronger magnifications is still very blurry compared to 20mm. The 20mm will have nice sharp edges on the planet and rings, whereas 10mm and 6mm have fuzzy edges on the rings, and the planet itself.
+I'm using the Celestron NexStar Evolution 8 Schmidt-Cassegrain Telescope. I'm in a suburban area so I'm sure there is light pollution, could that be a factor?
+Last night I was observing for about an hour, which I believe would be enough time for the temperature of the telescope to match the temperature outside.
+I also tried combining the 20mm with a Celestron 2x Barlow lens, just with an idea that maybe it would make a difference, but it was pretty much the same.
+Is there something I'm doing wrong?

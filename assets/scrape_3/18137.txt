@@ -1,0 +1,13 @@
+How early could life supporting planets been formed?
+
+In thinking about exclusion options for where its not worth to look for habitable planets, the past came to my mind.
+Right at the beginning of the universe, there was no possibility for (carbon based) life supporting planets to form, simply because there was not enough material to do so.
+Population III stars burnt out within millions of years to leave some of these elements, but was it enough to form planets? I have some problem getting things into perspective, considering that
+
+there are so many processes that produce different kinds and amounts of isotopes
+these isotopes are spread out in various different ways (and thus also different concentrations from how they were created) throughout the interstellar medium
+it takes probably a lot of time to gravitationally condense enough metals into a planet once it was spewed out from e.g. a super nova
+the majority of stars are smaller so it would probably take a clustering of heavier stars to provide the conditions earlier in the universe.
+
+I would consider a similar distribution of metals like in earth as sufficient for life, and would concentrate only on those found in DNA (N,H,C,P,O), fats (C,H,O) and proteins (C,O,H,N) as well as most of the essential minerals (Ca,Cl,K,Na,Mg,P,S) and maybe at least a bunch of (possibly essential) trace elements (Co,Fe,I,Cu,Mn,Mo,Se,Zn,As,B,Cr,F,Rb,Te,V,Sn,Ni).
+So what is the best approximation that we can currently give on when these elements were abundant enough to condense into earth like rocks with earth like elemental distribution?

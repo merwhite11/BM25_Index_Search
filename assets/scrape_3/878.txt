@@ -1,0 +1,15 @@
+Most important feature of a telescope
+
+I was taking an astronomy test, the following question came up:
+
+The most important function of the astronomical telescope is:
+
+Resolving power
+Light gathering power
+magnifying power
+focal length
+
+
+The focal length obviously means nothing here, as well as the magnification (that can always be done later). As far as resolving power and light gathering power go though, they both seem to be "equally" important, in that without the first, there is no detail, and without the second, there is no image.
+It does seem that exposure time can compensate for a lack of light gathering power (what matters is the product between the two), but nothing can compensate for resolving power.
+My professor seems to think the answer is resolving power. Why is this? Is this some well known idea in astronomy?

@@ -1,0 +1,8 @@
+Galactic mass estimation from apparent magnitude and distance
+
+Can we estimate the order of the total mass of any galaxy from the apparent magnitude and its distance to us? Just like 
+\begin{equation}
+M_{galaxy}=c\times 10^{8}M_{\odot },
+\end{equation}
+where $c$ is a constant (can be arbitrary or ignored, the order is important).
+For example mass of the Tucana Dwarf of the Local group isn't known. But its apparent magnitude is 15.7 and average distance is $8.8\times10^{5}pc$. How can I estimate its approximate total mass?

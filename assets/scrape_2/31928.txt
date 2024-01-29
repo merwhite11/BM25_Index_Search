@@ -1,0 +1,7 @@
+A good definition of specific intensity?
+
+I’m studying specific intensity for a course on astronomical instrumentation. I can’t quite get my head around the proper definition of the term.
+One definition I’ve found in various lecture notes / books / powerpoint slides online is that specific intensity is the power per unit frequency INCIDENT upon a unit area INCIDENT from a unit solid angle. An often given example, for instance in the book of Lena, is that if a telescope records a power P from a star, incident from a solid angle S onto a pixel of area A, then the specific intensity of the source would be P/SA per unit frequency.
+Now the second definition I keep finding is that the specific intensity is the power per unit frequency, this time passing through a unit area falling into a unit solid angle.
+My question is, are these two equivalent? From the 2D geometry equivalent , I know that an incident pencil of rays through a point causes the same pencil to come out again on the other side. But this feels wrong to appeal to, since the physical interpretations feel so different: incident light is very different from emergent light. 
+If my above interpretation is true, shouldnt there at least be a sign difference between the emergent and incident definitions such that the integral of the specific intensity over all solid angles yields 0 if no absorption/emission takes place?

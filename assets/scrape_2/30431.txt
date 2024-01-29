@@ -1,0 +1,17 @@
+Superscript-subscript uncertainty notation
+
+While reading publications in astrophysics I've encountered this kind of notation (fictitious example):
+$$M = 6.1^{+0.6}_{-0.1} \times 10^{30} \textrm{ kg}.$$
+Several examples are here, p. 2.
+I assume that the superscript and subscript refer to the right and left uncertainty of the main magnitude. I have three questions:
+
+Can someone explain to me what these three numbers (main magnitude, superscript, subscript) refer to, in terms of the probability distribution for the true value? For example, are they the mean and 10% and 90% quantiles? Or maybe the median and 25% and 75% quantiles? Or have I misunderstood them completely?
+
+Can someone provide early (or the first) examples of this particular superscript-subscript notation? I only knew the "$x \pm \triangle x$" notation.
+
+Can someone provide a written reference – textbook, manual, article, or similar – where this notation is explained?
+
+
+I checked this question, but it didn't really help me. I also checked the Guide to the Expression of Uncertainty in Measurement, published by the Joint Committee for Guides in Metrology (JCGM), formed by various organizations (BIPM, IEC, IFCC, ILAC, ISO, IUPAC, IUPAP, OIML). It is a standard for nomenclature and practice in reporting uncertainty, and makes important distinctions, for example between "coverage intervals" and "confidence intervals" (see JCGM 101:2008 definitions 3.12–3.16). But I can't find anything about the superscript-subscript notation there.
+Cheers!
+Late addendum: the interpretation of the accepted answer (median and left & right 16th percentile) is valid for the Notes under Table 3, p. 10, and subsequent tables of Paper VI. However, the interpretation is "median [...] with stated uncertainties corresponding to the 25th and 75th percentiles" in Table 14, p. 44, of Paper IV.

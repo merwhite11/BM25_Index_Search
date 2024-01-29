@@ -1,0 +1,12 @@
+Astronomic objects (and their distribution functions) appearing in an old computer game?
+
+Many decades ago, when I learned coding, I was also reading a (red) book on the programming the 8080 processor which was full of code listings and their description. I was in particular fascinated by the astronomical objects references in a text adventure similar to Invasion Force, with a central map, and some navigation control on the right, similar to the following screenshot:
+
+I never played that game (I never had a computer with that processor), but I enjoyed reading the source code and its description. The idea was that you could travel around with your space craft (and non-realistic velocities, pun intended) and beside shooting other star ships, which was probably the actual goal, you had to avoid black holes, and make sure that once you are in a certain solar system, you are not too close to comets, etc. The later part was the thing I am after. There was some interesting distribution function in the code which randomly placed stars (with and without planets) into the game map, as well as comets, rogue planets, black holes (if I remember correctly).
+Does anybody know more about the game and the astronomical objects occuring there? Or even about the red book with the programm code listings?
+Losely related
+
+Theoretical Black Hole Mass Distributions is a nice starting point for one kind of object, but I did not find something about the overall black-hole-density in the universe (yet).
+Michael Sewell's bachelor thesis "Developing an interactive space
+simulation game featuring
+procedural content generation"

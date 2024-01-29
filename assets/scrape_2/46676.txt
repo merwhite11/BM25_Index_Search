@@ -1,0 +1,11 @@
+J2000 conversion to Position of date
+
+Having spent an inordinate amount of time comparing the LBR values of Meeus (Astronomical Algorithms 1998) vs. ELP82B (Chapront's ELP82b Fortran Program)
+I have figured out the data set I'm using is according to J2000 to wit:
+Lambda for the Moon on Julian day: 1241387.69306 is 179°30'48.3" acc. to Meeus
+Lambda for the Moon on J2000  is 225°45'0.3" acc. to ELP82b
+
+I would like to convert the position for J2000 for day: 1241387.69306 to be the position at the date and not J2000.  I thought I might convert my jde: thus:
+jde = (jde-2451545.0) / 365.25
+
+but alas I'm not getting the right numbers.... what am I missing?

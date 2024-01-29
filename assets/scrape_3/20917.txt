@@ -1,0 +1,4 @@
+Why the continued obsession in measuring the year as a multiple of days?
+
+Pick a any notion of year and any type of day measurement.  Outside of history and the common cycle of day an night, why are these viewed as integrally or even fractionally commensurate?
+Why all the stunts with leap days and leap seconds, etc... when we now have atomic clocks?  Why not decouple the two?

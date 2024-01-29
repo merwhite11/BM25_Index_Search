@@ -1,0 +1,5 @@
+How is it possible that we haven't discovered anything in the Oort cloud yet?
+
+The Oort cloud is a hypothetical cloud of small icy bodies surrounding the Sun at more than 1000 AU. It is thought to be a vast reservoir of comets that occasionally get disrupted, sending comets towards the inner solar system.
+I would guess that there are stellar occultations where a body from the Oort cloud passes in front of a background star, obscuring its light. This makes it surprising to me that we haven't detected any objects in the Oort cloud. Perhaps the sensitivity of our instruments is not high enough? Perhaps that in spite of the large number of objects that should exist in the Oort cloud, these occultations are actually infrequent, and you would have to wait tens of years before seeing one? Perhaps nobody has combed the data to find such signals?
+Would any of our existing telescopes have been able to pick up the occultation if it was pointed in the right direction at the right time?

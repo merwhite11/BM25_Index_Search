@@ -1,0 +1,10 @@
+How far do we have to go to leave the galaxy?
+
+How far is the sun from the edge of the galaxy in the following directions?
+
+Moving along the shortest path parallel to the galactic plane (outward radially)
+Moving along the longest path parallel to the galactic plane (radially presumably passing through the center)
+Moving along the shortest path perpendicular to the galactic plane ("up")
+Moving along the longest path perpendicular to the galactic plane ("down")
+
+I realize these distances may be somewhat fuzzy (edge of galaxy is probably hard to define exactly, galaxy isn't exactly an ellipse, computing distances like this are hard even if the boundaries weren't fuzzy), so ranges and uncertainties are fine. I don't expect precision like computing whether certain points on the edge might be closer than just going straight out from the center and the like.

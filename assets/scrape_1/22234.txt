@@ -1,0 +1,4 @@
+Does the sky darken proportionally during a partial solar eclipse?
+
+During a solar eclipse, some of the visible area of the sun is obscured by the moon.  The exact percentage varies with time and with the observer's location.  My question is, does the sky darken by this same percentage?
+In other words, suppose the sun is 80% covered.  Does sky light diminish by 80%?  Are objects illuminated by 20% of their normal amount?

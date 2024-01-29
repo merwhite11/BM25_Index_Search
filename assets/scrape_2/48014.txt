@@ -1,0 +1,7 @@
+Tips of Crescent
+
+
+Can it be shown mathematically that the line connecting tips of crescent is parallel to the North-South line and the line gives latitude of the plane ( When the Moon is sufficiently close to the horizon, we can approximate the surface of sky as a simple plane.)
+Sources :
+https://olympiads.hbcse.tifr.res.in/wp-content/uploads/ino20/INAO2020-Solutions-20200204.pdf
+https://www.naturalnavigator.com/find-your-way-using/moon/

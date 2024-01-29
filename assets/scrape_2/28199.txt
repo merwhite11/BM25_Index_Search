@@ -1,0 +1,3 @@
+Light pollution and apparent magnitude of objects in solar system
+
+Dust along the ecliptic scatters light, causing “light pollution” throughout the orbital plane of the solar system. If an object like, say, the sun's corona, had its brightness measured from above the ecliptic, would the measurement reflect that?

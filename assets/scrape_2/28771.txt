@@ -1,0 +1,23 @@
+How do they know how far out Farout is? (2018 VG18)
+
+The Carnegie Science article Discovered: The Most-Distant Solar System Object Ever Observed begins:
+
+Washington, DC— A team of astronomers has discovered the most-distant body ever observed in our Solar System.  It is the first known Solar System object that has been detected at a distance that is more than 100 times farther than Earth is from the Sun.
+The new object was announced on Monday, December 17, 2018, by the International Astronomical Union’s Minor Planet Center and has been given the provisional designation 2018 VG18. The discovery was made by Carnegie’s Scott S. Sheppard, the University of Hawaii’s David Tholen, and Northern Arizona University’s Chad Trujillo.
+2018 VG18, nicknamed “Farout” by the discovery team for its extremely distant location, is at about 120 astronomical units (AU), where 1 AU is defined as the distance between the Earth and the Sun.  The second-most-distant observed Solar System object is Eris, at about 96 AU.  Pluto is currently at about 34 AU, making 2018 VG18 more than three-and-a-half times more distant than the Solar System’s most-famous dwarf planet.
+2018 VG18 was discovered as part of the team’s continuing search for extremely distant Solar System objects, including the suspected Planet X, which is sometimes also called Planet 9.  In October, the same group of researchers announced the discovery of another distant Solar System object, called 2015 TG387 and nicknamed “The Goblin,” because it was first seen near Halloween.  The Goblin was discovered at about 80 AU and has an orbit that is consistent with it being influenced by an unseen Super-Earth-sized Planet X on the Solar System’s very distant fringes.
+The existence of a ninth major planet at the fringes of the Solar System was first proposed by this same research team in 2014 when they discovered 2012 VP113, nicknamed Biden, which is currently near 84 AU.
+
+That's great! But the next bit confuses me.
+
+The discovery images of 2018 VG18 were taken at the Japanese Subaru 8-meter telescope located atop Mauna Kea in Hawaii on November 10, 2018.
+Once 2018 VG18 was found, it needed to be re-observed to confirm its very distant nature. (It takes multiple nights of observing to accurately determine an object’s distance.)  2018 VG18 was seen for the second time in early December at the Magellan telescope at Carnegie’s Las Campanas Observatory in Chile.  These recovery observations were performed by the team with the addition of graduate student Will Oldroyd of Northern Arizona University.  Over the next week, they monitored 2018 VG18 with the Magellan telescope to secure its path across the sky and obtain its basic physical properties such as brightness and color.
+The Magellan observations confirmed that 2018 VG18 is around 120 AU, making it the first Solar System object observed beyond 100 AU.  Its brightness suggests that it is about 500 km in diameter, likely making it spherical in shape and a dwarf planet. It has a pinkish hue, a color generally associated with ice-rich objects.
+
+Question(s):
+
+How was the value of 120 AU actually determined?
+or at least, how could it be determined if the explanation isn't readily available?
+Is this measurement more of an orbit reconstruction, or a parallax measurement of current distance?
+
+below: "Discovery images of 2018 VG18, nicknamed 'Farout,' from the Subaru Telescope on November 10, 2018. Farout moves between the two discovery images while the background stars and galaxies do not move over the one hour between images. Image is courtesy of Scott S. Sheppard and David Tholen." Source

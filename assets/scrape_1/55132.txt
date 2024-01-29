@@ -1,0 +1,10 @@
+Space-based radio telescope array
+
+I’m wondering about the abilities of a technology: You may have heard of the Square Kilometer Array. The array is focused by adjusting the timing of the individual antennas.
+Q: Could this array be focused toward or through the Earth? Would it allow us to image structures on or in our planet?
+Q2 Follow-up question: If such an array was “placed” at/near L1, could it locate satellites? a flying plane? A landed plane? Ships? Underwater? The planet’s core? I’m asking specifically, because I think astronomers could get the best telescope they could imagine, and it would be funded by mostly non-astronomers and without government support.
+Follow-up to Q1: Assuming the cost of a telescope element fixture finds itself accessible to the hobbyist astronomer, could each ground-based astronomer be networked into a global array?
+I imagine it would take seconds to send a timing pulse to zero-out the detectors and time-shift the detector appropriately to orient the array in the desired direction. Record a few seconds of signal and send it to anybody who wants a copy for further analysis. A few larger organizations retain copies for longitudinal studies, and historical record.
+The software updates the array to align it for its next assignment: timing pulse, spectrum, and direction. Wait 3-10 seconds. Next. Time on this array would be plentiful. The cost of operating it, negligible.
+Thanks for reading. When I heard about this tech my mind went crazy with the potential and the possibilities!
+Thank you.

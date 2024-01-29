@@ -1,0 +1,6 @@
+How is spectroscopy used to deduce what an object is made of?
+
+Spectroscopy is an analysis of light (or other EM wavelengths) that is often used by scientists to examine what an object is made from or contains.
+Apologies if this is a stupid question, but this sounds effectively like saying “this thing is absorbing this wavelength or colour, therefore it is this substance”.
+I’m confused as to how this works in practice. As a familliar example: light bouncing off leaves in summer can be a completely different colour to leaves in winter. Water when frozen looks to be a different colour to when it is liquid. Copper is shiny brownish unless it gets a bit rusty, then it’s bright green, etc etc.
+Is it possible to explain how we can say with any amount of certainty that a given set of dips in EM wavelengths translates into identification of substances?

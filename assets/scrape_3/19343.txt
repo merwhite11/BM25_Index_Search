@@ -1,0 +1,5 @@
+How to calculate planetary position over vast time spans
+
+Ignoring the turbulent beginnings of our solar system I wonder if there is a meaningful way to calculate the relative position of the planets of our solar system 100 million years into the future using the standard parameters 
+N /  i  /  w /  a /  e   /  M / +- pertubations , {assuming no unannounced black hole or neutron star zips through our solar system in the meantime.} 
+How far can the orbital calculations be projected into the future before error accumulation make these calculations completely meaningless?

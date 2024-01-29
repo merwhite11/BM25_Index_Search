@@ -1,0 +1,4 @@
+How to measure the latitude of the moon?
+
+In the geocentric solar ecliptic (GSE) system of coordinates, the position of the Moon is described by its longitude and latitude. The former is, with great accuracy, the angular distance between the sun and the Moon, and thus can be determined by the Moon phase. If it is totally new moon, the longitude is 0°, and if it is a full moon, the longitude is 180°, and, with some geometry, the longitude can be determined for any phase and, therefore, with simple equipment, such as a camera.
+My question is: Is there also a simple way to determine the Moon's latitude, that is, it's angular distance to the ecliptic?

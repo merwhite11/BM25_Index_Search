@@ -1,0 +1,16 @@
+Betelgeuse, placing light bulb so that its apparent brightness is similar to that of Betelgeuse; wavelength where it shines brightest?
+
+The giant star Betelgeuse will develop into a supernova in the future. After this event, his remains will be far too dark to be observed from Earth. In order to maintain the view of the starry sky, it is considered to replace Betelgeuse with an appropriately positioned light bulb. In fact, a tungsten coil (coiled filament of wolfram) may be heated up to the current surface temperature of the Betelgeuse  ( surface temperature $T_B = 3600K$; radius $R_B = 760*R_{⊙}$; annual parallax $p=5.95$ mas). The coiled wire of the coil filament is 10 cm long and has a diameter of 50 μm. The entire heat output is delivered in accordance with the Stefan-Boltzmann law.
+a) How far from the observer should the light bulb be placed so that its apparent brightness is similar to that of Betelgeuse?
+b) At what wavelength would it shine brightest?
+My proposition for b)
+Wien's Displacement Law: $$λ_{max} = (b / T) = (2.898 \cdot 10^{-3} m K)/(3600 K) = 8.05 * 10^{-7} m$$
+My suggestion to a)
+The formula for apparent brightness ($B$) is given by:
+$B = L/(4πd^2)$, where $L$ is the luminosity of the light source and $d$ is the distance from the observer to the light source. On the other hand, the Stefan-Boltzmann law states:
+$$L = 4π(R^2)σ(T^4) \\ = 4π(760\cdot6.96\cdot10^8 m)^2(5.67 \cdot 10^{-8} W m^{-2} K^{-4})(3600K)^4 \\= 3.35\cdot10^{31} W$$
+The light bulb's apparent brightness needs to be similar to that of Betelgeuse, therefore
+$$B_{light bulb} = B_{Betelgeuse}$$
+So I need to solve for $d$, but I do not know how to describe mathematically the left side of the equation ($B_{light bulb}$). However, I know that:
+$$B_{Betelgeuse} = 3.35\cdot10^{31} W /(4πd^2)$$
+(...)

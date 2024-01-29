@@ -1,0 +1,7 @@
+Help converting Jansky/beam to erg s^-1
+
+I have some radio observation data in jansky/beam from NVSS at 1.4GHZ, and I want to convert these values into luminosity values (erg/sec).
+I have the distance data and I made a formula to convert it:
+$$L = \frac{4\pi d^2 F}{A_{\text{eff}} \lambda^2}$$
+Is it correct? I ask because my luminosity calculations look like they are wrong. But i think that the denominator was wrong. So I am stuck to convert Jasnky/beam to erg/s.
+How to proceed?

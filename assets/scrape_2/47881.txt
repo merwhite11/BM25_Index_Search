@@ -1,0 +1,4 @@
+Measuring the mass of the luminous matter in a galaxy
+
+The mass of total matter in a galaxy can be measured using the rotation curve of the galaxy. However, how do people determine the mass of luminous matter in the galaxy, as a function of the distance from the center of the galaxy?
+The luminosity function would be determined using photometry. Then do people simply assume a certain mass-to-light ratio for the stars in the galaxy and then convert the luminosity function to a mass function?

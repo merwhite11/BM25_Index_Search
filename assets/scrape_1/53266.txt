@@ -1,0 +1,5 @@
+Do astronomical datasets exist that receive duplicates or are there multiple datasets that contain the same entities (stars)?
+
+I am currently doing my PhD in computer science, and I have almost no astronomical knowledge. I am currently researching on duplicate detection in databases (so detection of multiple entries referring to the same real world object).
+For that, I put my focus on datasets consisting mainly of numerical data (e.g. measurement data). However, there are hardly any data sets in the computer science domain. An idea from me was to take data sets from the astronomy domain. I have seen that there are, for example, star catalogs (such as Gaia GDR-3 or USNO-B1.0), but the interpretation of these catalogs is difficult for me.
+Therefore, my question: Are there data sets in the field of astronomy that contain duplicates (for example, that the same star appears several times in the same database)? Or are there multiple datasets that contain/refer to the same star? If so, could you please point me to such datasets?

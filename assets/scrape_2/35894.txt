@@ -1,0 +1,4 @@
+How does diffraction occur in a reflecting telescope?
+
+It's understandable how diffraction occurs in refracting telescopes, because the lens itself is a small aperture for light to pass through.
+But what about reflecting telescopes? Since light is reflected, and a mirror is not exactly an 'aperture'? How can light diffract in a reflecting telescope?

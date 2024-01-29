@@ -1,0 +1,23 @@
+Why has Saturn stopped contracting gravitationally?
+
+The following text is from here:
+
+The Jovian planets get their heat from the Sun and from their
+interiors. Jupiter creates a lot of internal heat and releases this
+heat by emitting thermal radiation. In fact, Jupiter creates so much
+internal heat that it emits almost twice as much energy as it receives
+from the Sun. The only reasonable explanation is that Jupiter is still
+slowly contracting, almost as though it has not quite finished
+forming.
+Saturn and Neptune also appear to be emitting more energy than they
+receive from the Sun. While we are certain Saturn is not still
+contracting, it seems clear that Neptune is still contracting. Uranus
+is the only jovian planet not emitting excess internal energy.
+
+It make sense that the gas giants were formed from the force of gravity i.e. clouds of gas and dust particles contracted under their own weight, eventually becoming planetary bodies with solid core and gaseous atmospheres. For bodies whose bulk is mostly gas, it will contract towards its center and during such process, it will releases stored gravitational energy which will eventually convert into heat energy. Saturn is also a gaseous planet with rich gaseous atmosphere, so in theory, it should also contract under its own weight towards the center. So, why is it considered to have stopped contracting?
+It is written here that Saturn has a different process for this internal heat formation because astronomers believe that unlike Jupiter, Saturn's formation process is complete and so, the heat energy is due to the falling of helium from clouds. Now, luminosity of planet (total power emitted by a spherical body) comes from the release of potential energy due to the gravitational contraction.
+$${U = -\frac{GM^2}{R}}$$
+$${L = \frac{dU}{dt} = \frac{GM^2}{R^2} \frac{dR}{dt}}$$
+$${\frac{dR}{dt} = \frac{LR^2}{GM^2}}$$
+Since, all the terms has non-zero value, there should be a non-zero value for the differential, even for Saturn implying that Saturn should contract with time. So, why astronomers believe Saturn's formation process to be complete (implying no further gravitational contraction)?
+Related on physics.SE: What keeps a gas giant from falling in on itself?

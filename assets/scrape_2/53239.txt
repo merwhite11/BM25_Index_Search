@@ -1,0 +1,11 @@
+What is the declination of the Sun as a function of its angular distance to solstice?
+
+I will show my own answer, hoping that you guys either confirm it or show me where I went wrong.
+First, let's have in mind that we are not concerned with the distance Sun-Earth, only with the angle. Therefore, we may assume a circular orbit without any loss of accuracy.
+A circle on the ecliptic plane is projected onto the Earth's equatorial plane as an ellipse with semi-minor axis equal to the radius of that circle and semi-major axis equal to the same radius divided by $ cos \ 23,44^\text{o} $. Let's call this radius $R$, as shown below:
+
+The eccentricity $e$ of the projected ellipse is $ \sqrt{1-cos^2\ 23,44^\text{o}} = 0,39779 $.
+The angle $θ$ travelled by the Sun on this ellipse is the same as the one he travels on his circle (I must say I wasn't able to prove this part). From the equation of the ellipse, the distance from each point to the center is the semi-minor axis (in our case, $R$) divided by $ \sqrt{1-(e\cosθ)^2} $. This distance forms a hypotenuse for an adjacent cathetus always equal to $R$, at an angle equal to the declination $δ$ we are looking for.
+Thus, the formula is:
+$$ δ = ±\arccos\sqrt{1-(0,39779\cosθ)^2} $$
+I compared the results of this formula with the declinations shown at stellarium-web.org and found errors smaller than 3 arcminutes, which I find very satisfactory. What do you guys think?

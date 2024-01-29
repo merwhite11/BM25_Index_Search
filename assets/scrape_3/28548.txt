@@ -1,0 +1,26 @@
+What is a "differential chemical abundance"?
+
+Probably this is a extremely basic question, but after a lot of time searching about it without results (in all the sites/publications i've found they only use this term but there is no specific definition)i came here with the hope of get an answer to my question: in the context of chemical abundance in stars, what is a differential abundance?
+I already know what is a chemical abundance, the question is simply about the implication of the "differential" word.
+Specifically, my doubt emerged when i was reading this publication.
+In the second paragraph of the section 3.2 "Stellar Parameters" is the first encounter with this concept:
+
+We adopted the same line list as in Ramírez et al. (2014). The
+  EW  measurements  were  used  to  obtain  elemental  abundances
+  with the
+  abfind
+  driver of MOOG (Sneden 1973), using Kurucz
+  model atmospheres (Castelli & Kurucz 2004). Then, line-by-line
+  differential abundances were obtained.
+The stellar parameters
+  $(T_\text{eff}, \log g, {\rm[Fe/H]}, v_t)$
+  of HIP 68468
+  were determined by imposing a differential spectroscopic equilibrium  of  iron  lines  relative  to  the  Sun  (e.g.  Meléndez  et  al.
+  2014a), using as initial parameters the values given in Ramírez
+  et al. (2014). The solar values were kept fixed at
+  $(T_\text{eff}, \log g, v_t)
+= \rm
+(5777\,K, 4.44\,dex, 1.0\,km\,s^{-1})$. Our solution for HIP 68468
+  gives consistent differential abundances for neutral and ionised
+  species of different elements, and also for atomic and molecular
+  lines, as discussed in more detail in the next section.

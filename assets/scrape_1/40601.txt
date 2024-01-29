@@ -1,0 +1,6 @@
+How do HabEx's internal coronagraph and external starshade work together and complement each other? What is it that each can do that the other can't?
+
+Limits of space telescope? links to the video 4 Future Space Telescopes NASA wants to build and that page links to The New Great Observatories. These cover the four space-based instruments proposed by study groups for the 2020 Decadal Survey on Astronomy and Astrophysics.
+The first one mentioned is Habitable Exoplanet Observatory or HabEx which will be two spacecraft in a halo orbit around Sun-Earth L2 separated by perhaps 60,000 kilometers. One is a telescope equipped with an internal coronagraph and active wavefront modulation, the other is a passive starshade which is an occulting disk with diffraction-reducing apodization (petals).
+I can't understand how these two mechanisms for reducing/removing light from a star from the final image so that exoplanets around that start can be imaged.
+Question: How do HabEx's internal coronagraph and external starshade work together and complement each other? What is it that each can do that the other can't?

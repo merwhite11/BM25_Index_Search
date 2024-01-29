@@ -1,0 +1,6 @@
+Finding the number of stars n light-years from the sun
+
+The nearby stars seem homogenously spaced out enough to give a general "stellar density."
+Does there exist some kind of mathematical expression that can determine the number of stars n light-years from the sun?
+Or—
+Is there a rough value for this supposed stellar density idea? (Ex: 0.3 stars per cubic light-year.)

@@ -1,0 +1,3 @@
+converting rms to limit flux
+
+My question is simple: if I have an RMS value (the standard deviation for my background) at 1 sigma, and I also have the zero point of my observation, how can I transform that value into the limiting magnitude of my observation?

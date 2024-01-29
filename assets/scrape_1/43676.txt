@@ -1,0 +1,7 @@
+Rayleighs units conversion
+
+I have a question regarding the units conversion from photon counts on a detector to Rayleighs. I am pretty new to the subject but I would like to know more.
+The problem is the following :
+I know that $1\, \mathrm{R} = 10^6\ \text{photon}\, {\rm s}^{-1}\, {\rm cm}^{-2}$, but that area should I use in order to obtain the rights conversion. I have an example in which the full area of the HST aperture is used (ish 2.4m in diameter) as a reference but what if I have some optical elements, like a slit for spectroscopic observations?
+Should I still consider the same area?
+In specific I would be happy to have a systematic way of doing the conversion from counts to Rayleighs using the correct reference area.

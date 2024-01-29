@@ -1,0 +1,5 @@
+Massive star formation
+
+Imagine we have a stellar cloud sufficiently massive to generate N high mass stars, what is the reason for this scenario not to happen? Because I know that when the jeans instability happens a star is born. So the critical mass (Jean's) associated with this instability as a lower limit is the one which makes it more probable to form low mass stars or that is what I interpret from what I studied. If it not the case, please let me know.
+Another thing I have read is that the critical mass is proportional to  $1/\sqrt{\rho}$  so when the cloud is collapsing it can fragment in more stars because the density $\rho$ increases during this scenario, I think this is another reason why low mass stars are more common.
+So my question is, are these things I mentioned the fundamental reasons why more low mass stars are generated? or there is another reason? or is what I said wrong?

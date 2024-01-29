@@ -1,0 +1,7 @@
+Eyeball planets experiencing "catastrophic" flips
+
+This Youtube video by Anton Petrov shows research1 claiming that tidally-locked planets orbiting the same star in tight orbits may interfere with one another and one planet may cause the other to "flip" its side facing the parent star: A tidally locked planet may face the same side to its star for a few hundred millenia before flipping and facing its other side to the star. This is said to happen to planets around M-type stars, which have their planets in close proximity to the star (hence the tidal locking) and the planets are in tight orbits hence gravitationally acting on one another.
+No such planets exist in our solar system. However, we can search for equivalent examples involving planets and their moons instead of stars and their planets. In our solar system, Jupiter and Saturn for instance have several moons that are tidally-locked to them. Europa, a moon of Jupiter, experiences tidal flexing from Jupiter and the other moons. It is known that libration does occur, but does the observation confirm that the moons may have flipped their side facing the planet? Do we have a geological evidence such as increased geological activity that cannot be explained otherwise?
+EDIT: The term "Catastrophic" in this video refers to the effect of flipping on life evolving on such planets. My question does not tackle that issue.
+
+1 arXiv Day 'N' Nite: Habitability of Tidally Locked Planets with Sporadic Rotation

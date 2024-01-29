@@ -1,0 +1,3 @@
+What happens to the Fourier Transform of the Measured Spectrum?
+
+What happens when you double the width of the entrance slit of a spectrograph, in turn letting in twice as much light, would there be an improvement in the Fourier transform of the measured spectral profile d(f) following to higher frequency f?

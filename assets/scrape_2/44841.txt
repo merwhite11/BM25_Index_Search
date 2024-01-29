@@ -1,0 +1,10 @@
+How is Hubble? What role does the payload computer play for astronomic observations?
+
+Hubble seems to have a issues since weeks. Here what NASA says:
+
+July 13, 2021 - Formal Review Completed to Assess All Operations Related to Hubble's Possible Switch to Backup Hardware
+NASA completed a formal review to assess all operations related to Hubble’s possible switch to backup hardware, which may occur later this week. Investigation into the cause of the payload computer issue is ongoing.
+July 12, 2021 - Review to Assess and Minimize Risks for Possible Switch to Backup Completed
+NASA completed a review to assess all factors and minimize risks related to Hubble’s possible switch to backup hardware, which may occur later this week. Investigation into the cause of the payload computer issue is ongoing.
+
+I am bit worried about the telescope, since I heard somewhere that the next (robotic) mission which will move the telescope to its burning fate in Earth's atmosphere. I learned that there has even been a hook installed during the [last Space Shuttle mission[(https://en.wikipedia.org/wiki/STS-125) for that purpose. I am now hoping that somebody can point me to more details on the payload computer and its role for astronomy.

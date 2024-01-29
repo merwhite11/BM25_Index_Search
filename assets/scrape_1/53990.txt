@@ -1,0 +1,4 @@
+Definition for Day Angle
+
+I am searching for a proper definition for day angle.
+The day angle  $\Gamma$ is calculated as follows:$$\Gamma = 2\pi\cdot \frac{n_{day} - 1}{365}$$

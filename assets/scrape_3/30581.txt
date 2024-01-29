@@ -1,0 +1,6 @@
+Eddington luminosity in various plasmas
+
+So I know that the Eddington luminosity is given by:
+$L_{Eddington} = 4\pi GMc/\kappa$. 
+I want to calculate this luminosity for a plasma of purely ionized helium, as well as for an electron-positron plasma.
+How do I find $\kappa$ in each of these cases? I know sometimes this is approximated as $m/\sigma_T$, but I'm not sure when to invoke this approximation, and what the respective mass would be.

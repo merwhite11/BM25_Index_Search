@@ -1,0 +1,6 @@
+Star cluster absolute magnitude and color index
+
+I'm given a question where I need to calculate the absolute magnitude (Mv) and color index (B-V) of a star cluster consisting of 40 Vega type stars and 4000 stars, which have an Mv of +5 and B-V of 1.
+Is my presumption correct that a Vega type star has the same Mv  and B-V as a Vega star? If so, to get the total Mv is it correct to use:
+$$M = -2.5\log_{10}\sum_{i=1}^n10^{-0.4M_i}$$
+I'm unsure how to get the total B-V though. I thought about calculating the apparent magnitude V from Mv, but it feels like I would need the distance to the star cluster to calculate it, so there is another way?

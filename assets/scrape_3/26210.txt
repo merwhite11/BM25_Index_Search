@@ -1,0 +1,3 @@
+Calculating obital velocity from radial velocity
+
+I'm not really a physicist so I don't know if it's possible to get the real orbital velocity of a star from its radial velocity. I'm working on a paper for school and I want to get the mean velocity of selected open clusters to graph the galaxy's rotational curve, but in the databases I only encounter radial velocities. How do I get the real orbital velocity from those parameters? Thanks!

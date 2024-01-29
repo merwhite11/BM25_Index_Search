@@ -1,0 +1,6 @@
+What is the role of the random catalogue in calculating the two-point correlation function?
+
+To study clustering of galaxies and clusters, one makes use of
+the two-point correlation function. However, we can see that all 
+the estimators of $\xi(r)$ use a random catalogue. 
+What is the random catalogue used for?

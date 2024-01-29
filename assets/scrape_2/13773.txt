@@ -1,0 +1,16 @@
+Problem with denoising the BICEP2 data?
+
+This question pertains to this article which talks about why the BICEP2 measurements of B-mode polarization in Cosmic microwave background radiation turned out to be noise from galactic stardust. They go on to add that the Plank data of the noise does not lend to getting a good B-mode estimate from the BICEP2 data.
+
+However, the results of the joint assessment would suggest that
+  whatever signal BICEP2 detected, it cannot be separated at any
+  significant level from the spoiling effects. In other words, the
+  original observations are equally compatible with there being no
+  primordial gravitational waves. "This joint work has shown that the
+  detection of primordial B-modes is no longer robust once the emission
+  from galactic dust is removed," Jean-Loup Puget, principal
+  investigator of Panck's HFI instrument, said in the Esa statement.
+  "So, unfortunately, we have not been able to confirm that the signal
+  is an imprint of cosmic inflation."
+
+Can someone explain why(from a signal processing perspective) exactly the detection of primordial B-modes is not robust even after the emission from galactic dust is removed? And what are the proposed workarounds to tackle this problem?

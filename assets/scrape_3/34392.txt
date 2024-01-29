@@ -1,0 +1,5 @@
+What is the difference between spectroscopy, spectrography and spectrometry?
+
+Spectroscopy is the study of spectra, spectrography is the writing of the spectra, and spectrometry is the measure of spectra. So from an etymological perspective, there is no real difference between the three. On arXiv, there is for instance an article that uses the term "spectrometry" in the title, but "spectroscopy" in the abstract (several, actually) to designate what seems to be the same thing.
+But perhaps are there differences between the use of these terms in astrophysics?
+There are certain techniques that are designated with one term rather than the other (e.g I haven't seen any mass spectroscopy, but have seen mass spectrometry), but is there a conceptual difference between spectroscopy and spectrometry?

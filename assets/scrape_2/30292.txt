@@ -1,0 +1,15 @@
+Recreating Observer Ecliptic Lat/Lon from JPL Horizons using SPICE toolkit
+
+I apologise if this is the wrong place to ask. I am trying to recreate part of the calculations by the JPL Horizons system using SPICE. Specifically the Observer Ecliptic Latitude and Longitudes.
+I'd here's the inputs.  (1 = RA, 3 = DEC, 31 = Observer Ecliptic Lat/Lon)
+
+Here's the output...
+*****************************************************************************************
+ Date__(UT)__HR:MN     R.A._(ICRF/J2000.0)_DEC dRA*cosD d(DEC)/dt    ObsEcLon    ObsEcLat
+*****************************************************************************************
+$$SOE
+ 2019-Apr-05 00:00     23 18 17.44 -05 37 22.3 94.28997  10.27670 348.4729140  -1.0458502
+ 2019-Apr-06 00:00     23 20 55.85 -05 32 12.3 102.7090  15.59295 349.1112323  -1.2238769
+
+I've been going through the documentation for SPICE and trying a few bits and pieces appear to be likely functions, such as SPKPOS_C and SPKCPO_C trying to work out how to recreate the above. I'm using de430.bsp to try and get positions to then work out the lat/lon, but I'm getting lost.
+I'm wondering if anyone familiar enough with the SPICE toolkit to point me at the functions/methods that will lead me to what I need? Thanks.

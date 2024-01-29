@@ -1,0 +1,9 @@
+Have parameters been determined for the Fourier components of a Milky Way spiral density-potential model?
+
+Spiral arms in galaxies can be modeled by potentials of the form
+$$\Phi_{\text{spiral}}(R,\theta,z,t)=\sum_mA_m(R,z)\cos(m\theta-m\theta_0-\phi_m(R)-\Omega_pt)$$
+where $A_m(R,z)$ is the $m$th-order coefficient based on some potential - such as a Miyamoto-Nagai potential - $\phi_m(R)$ is a function typically of the form
+$$\phi_m(R)=\alpha_m\ln (R/R_{0,m})$$
+for some characteristic radius $R$, and $\Omega_p$ is some pattern speed. I've read that typically the $m=0$ component dominates, followed by the $m=2$ term. There may also be an $m=4$ term, though it is typically weaker.
+This model describes the disk component of a galaxy with two main spiral arms. The spiral arms of the Milky Way are more complicated; some consider it to have two major arms and two more subordinate arms, while others consider it to have four major arms.
+Have any potential or density models of the Milky Way been created using these Fourier components, and if so, what are the parameters used (the $m$s, $A_m$s, $\phi_m$s, and $R_{0,m}$s)?

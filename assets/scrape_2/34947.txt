@@ -1,0 +1,3 @@
+Factors included in the average density of planets
+
+When the average density for a planet is stated does it incorporate the mass of the atmosphere, when a planet has an atmosphere, or is the mass of the atmosphere ignored?

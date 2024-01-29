@@ -1,0 +1,4 @@
+To set up parameters for the sherpa tool
+
+How to set the parameters - photon index and metal abundance in the CIAO Sherpa tool for an x-ray source?
+I am trying to analyze a bright x-ray source using the data extracted from the Chandra archive. I have no idea about setting up the parameters for some models in the Sherpa tool.

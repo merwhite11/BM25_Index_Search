@@ -1,0 +1,6 @@
+What are the experimental limits to the residual charge of the Sun?
+
+The question Can a Neutron Star become charged? and the associated comments and answers started me wondering; Are there measurements of, or experimental limits to the residual charge of the Sun?
+Because the Sun has a complex atmosphere and a net solar wind, I there may be some subtleties related to what sphere is used to establish the net charge Q inside, so rather than me define a radius it may be better to see what evidence is available. 
+Since there is an ionized component of the solar wind and protons are 2,000 times heavier than electrons, I'm thinking that an initially neutral Sun would loose electrons more rapidly than protons, until a strong enough static field was produced that would add the extra "push" for the protons to leave at the same rate, but that's an extremely simplistic model.
+I'm asking primarily for some kind of measurement or experimental data rather than purely rationalization or hand-waving. Has there ever been an attempted measurement of the static residual charge of the Sun?

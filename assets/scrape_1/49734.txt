@@ -1,0 +1,5 @@
+The constellations in “Powers of Ten”
+
+I watched a video called Powers of Ten made in the 70s. It starts from a view of an area in Chicago and moves the "camera" away from the ground towards the space. At 3m15s of the video, the center of the "camera" points to the Sculptor constellation area. In particular, the center is close to Alpha Sculptoris, whose  declination is around -29°.
+However, the latitude of Chicago is around 42°N, so the star we "see" in the opposite direction should have declination -42° (Thanks to JohnHoltz for correction). So it seems that the center should lie in the Phoenix region instead.
+Did the video's author make a mistake, or am I missing something?

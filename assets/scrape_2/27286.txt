@@ -1,0 +1,3 @@
+Lunar orbit distance
+
+Can anyone calculate the distance the moon travels in a single year? I can calculate it as it is close to 2.4 million km, but I need adjustments as the earth is moving and so is the Sun. So, I need the absolute distance rather than distance from earth's perspective.

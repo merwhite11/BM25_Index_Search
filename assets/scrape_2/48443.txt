@@ -1,0 +1,7 @@
+Is it possible to observe the full Moon using this telescope?
+
+I'm trying to solve this task:
+
+For amateur observations, a small telescope with a lens focal length of 120 cm was brought to the Byurakan Astrophysical Observatory. If this telescope is directed strictly to the zenith and the guidance is turned off, then the time during which the star crosses the field of view of the telescope is 2 min 38 s. Is it possible to observe the entire disk of the Moon with this telescope?
+
+I was thinking like that: $2 min$ $38 s = 158 s$, one sidereal day is 23 hours 56 min 4 s (or 86164 s), so the star way is about 0.66 degrees (or 39') long. So it should be the field of view of the telescope. Does this mean that it is possible to observe Moon which diameter in the sky is maximum 32'? I am not sure as I didn't take in the account the focal length of the telescope that is in the task too, but I don't know where to use it. Could somebody help?

@@ -1,0 +1,4 @@
+How would a balloon structure of a universe look if we collected all mass together in a small region?
+
+Imagine a universe with an inflating balloon structure of spacetime. Matter is distributed uniformly.
+Now somehow we manage to collect all matter together within a small volume. What would happen to the balloon shape? For example, all mass within the universe has a Schwarzschild radius that lies outside the universe, and if there were no matter outside it, you couldn't travel towards the exterior. So if you gathered all matter from outside of the observable universe into our universe, there would certainly be a black hole structure from which you could not escape. If it's a closed structure though, the Schwarzschild radius would be an impossibility. How would the balloon look? Still a balloon, but with one supermegaheavy black hole?

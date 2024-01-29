@@ -1,0 +1,27 @@
+Azimuth and Altitude angle between two points in the sky
+
+I want to know how to correctly calculate altitude and azimuth difference, separately,  between two points in the sky. The same way will be with icrs coordinates.
+For the altitude difference, I simply subtracted altitude values of two points, but for the azimuth, the difference has to be multiplied with the cosine of altitude of one point, right?
+I tried to reproduce the results with the astropy spherical_offset_to() method, which returns dAz and dAlt but get quite different results. I tried to find corresponding literature but couldn't. Can someone explain to me how it should be calculated?
+Thanks
+Here is reproducible example for two points, a and b.
+import numpy as np
+from astropy.coordinates import SkyCoord
+a = SkyCoord(az=0, alt=30, unit="deg", frame="altaz")
+b = SkyCoord(az=90, alt=40, unit="deg", frame="altaz")
+print(a.spherical_offsets_to(b))
+print(b.spherical_offsets_to(a))
+print("dAz:",((b.az - a.az)*np.cos(np.deg2rad(a.alt))).value, "dAlt:", (b.alt - a.alt).value)
+print("dAz:",((a.az - b.az)*np.cos(np.deg2rad(b.alt))).value, "dAlt:", (a.alt - b.alt).value)
+
+And here are the results:
+(<Angle 67.23952373 deg>, <Angle 33.82584497 deg>)
+(<Angle -69.63942512 deg>, <Angle 22.52101212 deg>)
+dAz: 77.94228634059948 dAlt: 10.0
+dAz: -68.94399988070803 dAlt: -10.0
+
+EDIT: More details regarding the purpose of my question/request.
+Two devices, located on the earth, separated with some fixed azimuth and altitude angle between them. Both devices point in the sky.
+I have a series of RA & Dec coordinates(or equally AltAz) of their pointings, during some time range.
+Using that pointings data, I want to measure mentioned fixed angle offset between two devices.
+Why? If I know the angle offset, and the coordinates of one device, I can calculate the pointing for the second device and vice versa.

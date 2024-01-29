@@ -1,0 +1,16 @@
+How can redshifted light be detected?
+
+I've been reading about redshifts and it got me really curious. Basically, I want to figure out how we know light is redshifted and what's the original emitted light.
+I found the following question here: Link
+I understand the answer, but the answer focuses on an assumption that the light we get must have gone through hydrogen. You might say that we got the wavelengths calculated the same way for other elements and one of them will match. But my case is different.
+Imagine light came to us and imagine it came to us without scattering in the hydrogen or any other matter during its travel (vacuum).
+In that case, we got two different cases:
+
+case 1:  light came to us from an object that didn't move away from us.
+case 2:  light came to us from an object that moved away from us.
+
+
+
+Q1: How do we know that in case 1, it's not redshifted and in case 2, it is?
+
+Q2: for case 2, how do we determine the original wave?

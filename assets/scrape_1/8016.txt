@@ -1,0 +1,5 @@
+Is axial tilt direction correlated with semi-major axis direction?
+
+Earth comes closest to the Sun every year around January 3. Winter solstice is at 21-22 December, merely some 12-13 days away. That means projection of Earth rotation axis onto the plane of its orbital movement almost overlaps with its orbit's semi-major axis; the axial tilt direction coincides with the direction Earth orbit is elongated.
+I couldn't find corresponding data regarding other bodies in the Solar System.
+Is this merely a coincidence, or is there a regularity, with direction of the axial tilt coinciding with eccentricity of the orbit? How does that look like in case of other bodies than Earth?

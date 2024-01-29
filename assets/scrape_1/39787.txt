@@ -1,0 +1,3 @@
+Positions of planets before Christ?
+
+All the solar system simulations I've come across showing the positions of planets only show the positions in a certain time period, at beginning of the first millenium the earliest. There was just one exception where I could enter minus-years but it's unreliable (and in fact there never was a year 0). Do you know a simulation/planetary system map where I can learn the planet's positions before Christ? To make it clear: I mean the planet's heliocentric positions (when you look on our system from 'above' the Sun), not their location on the sky.

@@ -1,0 +1,8 @@
+Is it Possible to Calculate The Centre of Mass of the Visible Universe?
+
+It is easy to deduce that we appear to be at the centre of the visible universe, assuming the visible universe is approximately isotropic and homogeneous in all its properties, including expansion properties. Light has the same finite velocity in all directions, so we cannot see any light, from any outward direction, which would have to have taken any longer than the current age of the universe to reach us.
+Assuming that the finite speed of the gravitational force interaction is the same as that of light. What can we say about the location of the centre of mass frame of the visible universe. Locally the isotropic and homogeneous assumption does not apply, since in a centre of mass calculation, the earth has a small mass compared with the rest of the solar system, the Milky Way galaxy and a wider cluster of galaxies etc. There will be some distant scale where the isotropic and homogeneous assumption again becomes reasonable.
+The two related questions are:
+
+Can we in principle calculate the position of centre of mass (the centre of mass frame) of the visible universe (i.e. visible from earth) from the astronomical observations we have to date?
+If this is possible would there be any connection between this centre of mass frame and the frame that is stationary relative to the, earth observed, Cosmic Microwave Background Radiation (CMBR)?

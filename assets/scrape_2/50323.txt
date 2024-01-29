@@ -1,0 +1,6 @@
+Classifying stars using GEDR3
+
+Is there a way to take the Gaia Early Data Release 3 dataset and calculate a likely star size (radius and mass) (units not relevant), and emission spectra (hydrogen, helium) or light color?  Please note that this does not have to be precise or precisely accurate, just in the right ballpark (I will not be worrying about noise, errors, or error adjustments from the data set) (no +/- 0.1237610987564 luminosity will be used in the database I'm creating)
+I'm building a star map for a future project, and I'd like to be able to assign stars at their actual locations with a size and, preferably type, but I'll settle for color.
+Any assistance greatly appreciated as the maths is not my strong suit, although the Excel certainly is and once I know how to do it for one, it'll be (relatively) quick and easy to do it for all of them.
+Please try to keep answers in plain English at just below the Calculus level, as I never started Calculus.  Thank you.

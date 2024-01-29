@@ -1,0 +1,4 @@
+A plot of the Moon-rise/sets on the Horizon Location
+
+We have been trying to see where the moon rises/sets on the horizon.   Unfortunately, the moon is not cooperating.   Even when we know the moon rise/set times (timeanddate.com), we often cannot find the moon on the horizon.
+We are wondering if the moon wobbles back and forth along the horizon the same way the sun wobbles.  We cannot find any website that talks about where the moon is on the horizon.

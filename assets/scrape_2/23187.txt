@@ -1,0 +1,10 @@
+"Who saw" the binary neutron star merger first? What was the sequence of events? (GRB/GW170817)
+
+I'm trying to read Multi-messenger Observations of a Binary Neutron Star Merger the "cast of thousands" OPEN Access ApJ letter 848:L12 (59pp), 2017 October 20 https://doi.org/10.3847/2041-8213/aa91c9 and get a feeling for the sequence of events that took place as the gravitational waves and gamma ray burst reached Earth at about 12:41 UTC 2017-Aug-17.
+There seems to be five instruments involved in the first detection and direction determination; LIGO-Hanford and LIGO-Livingston, VIRGO, Fermi-GBM, and INTEGRAL. The first three are gravitational wave detectors and the last two are gamma-ray telescopes in Earth orbit. Figure 2 of the paper (part of which is shown below) provides a densely packed infographic of the early observations. In the top left one can see an inset that spans from twelve seconds before the merger during the gravitational wave (GW) ramp in frequency, to six seconds after, where the majority of the gamma ray burst (GRB) is detected.
+Somehow the combination of the GW and GRB set in motion a sequence of events that triggered a world-wide observation campaign to look for the event in all the remaining electromagnetic spectrum from radio through visible and UV to X-rays. Neutrino data streams were checked as well.
+Question: I'd like to ask about the sequence of events, the alerts, and the rapid automatic and manual analysis of the GW and GRB data which triggered the alerts. Which detector or combination first "saw" the event as some kind of flagged event? Did one trigger a rapid analysis of the other? Were these automated alerts triggering software to re-analyze, or SMS text messages to thousands of cell phones triggering everyone to sit down at their work stations?
+
+below: Figure 2 (partial) showing the timeline seconds before and hours and days after (logarithmic scale). The GW and GRB data were used (see Figure 1) to start the search for the rest of the electromagnetic search.
+
+below: Figure 1 showing the localizations made from different sets of GW and GRB detectors.

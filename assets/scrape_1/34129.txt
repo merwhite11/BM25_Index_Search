@@ -1,0 +1,4 @@
+Client-side JavaScript astronomy libraries which are not based on node.js?
+
+Are there any client-side JavaScript astronomy libraries? Almost every library I see appears to be server side for node.js. I realize some node.js libraries can be adapted for client-side use, so I'd also be happy with a server-side library that happens to work client-side as well.
+EDIT: I did find https://github.com/mourner/suncalc but it appears to be abandoned, has 35+ open issues, many related to accuracy, and, despite its description, appears to give only solar and lunar positions, not planetary positions.

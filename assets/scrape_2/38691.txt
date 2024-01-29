@@ -1,0 +1,4 @@
+Do the neutrons in neutron stars emit the radio waves?
+
+Neutrons can, especially in extreme circumstances (and large concentrations) emit electromagnetic radiation. I specifically asked about this in Physics S.E. Has a free neutron ever been shown to absorb/emit/interact with a photon?, the answer has to do with the fact that although neutrons have no detectable electric moment or dipole, they DO have a small, 'negative' magnetic moment.
+But little I have read about neutron stars says which particles in or around them emits the radio waves, except one brief article mentioning infalling electrons from a surrounding plasma.

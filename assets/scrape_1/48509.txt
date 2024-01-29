@@ -1,0 +1,6 @@
+Doppler Redshift vs. Cosmological Redshift ... or Both?
+
+There are several existing threads on the difference between cosmological and Doppler redshifts.  However, I don't see that any of them answered the  question below.
+@pela gave the following example:
+"In principle you could have a universe ... that were static when a distant galaxy emitted a photon, then at some point expanded quickly by a factor of 2, and then again is static. In this hypothetical case, the observer would still measure the photon to have been redshifted by a factor of 2 (i.e. =1)."
+That very nicely made a clear distinction between cosmological and Doppler redshifts.  However, suppose we modify this scenario so that the universe is already expanding when the light is emitted from some distant galaxy.  Then the distance between that galaxy and ours is increasing when the light is emitted, and therefore we should expect a Doppler shift.  Then, while the light is on its way to us, the universe is still expanding, and the light is  getting further redshifted due to the expansion.  So then it seems like the redshift we observe should be a combination of both a Doppler shift AND a cosmological redshift.  Is that correct?  And, if so, how does one disentangle the two and determine the contribution from each redshift mechanism?

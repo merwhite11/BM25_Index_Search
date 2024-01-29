@@ -1,0 +1,7 @@
+Converting Light curve to Luminosity
+
+So I'm currently working around a specific variable star, α Ori and I want to determine it's luminosity...I do only have the light curve (driven from V-optical photometric band - Johnson V from AAVSO)... Is it allowed to utilize it to compute for Luminosity L? The distance modulus doesn't seem to fit since it is for 'visual' magnitude (Using our eyes) so I guess it requires a different approach?
+I tried to check in SDSS tho for the other photometric system...But since it avoids the galactic plane and α Ori is "bright" enough, I'm sure the detectors will be saturated so I opted it.
+Since I'm new to this kind of stuff, I'm looking forward for your help/s, suggestions and others. Also, I may have missed out something so I apologize.
+Best regards,
+CGHA

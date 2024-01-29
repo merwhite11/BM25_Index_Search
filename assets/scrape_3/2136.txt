@@ -1,0 +1,7 @@
+Why do Jovian moons fade when transiting Jupiter's shadow?
+
+When reading an article on using Jovian moons to calculate longitude, I came across this passage:
+
+Periodically, Jupiter eclipses each of the four large moons as they pass into the planet's mammoth shadow. In a telescope, a moon's brightness takes several minutes to fade to black as it enters the shadow. Reappearances are just as gradual.
+
+How can the moons take this long to fade in and out? Is it simply the shadow creeping over the surface of the moons? What does this look like?

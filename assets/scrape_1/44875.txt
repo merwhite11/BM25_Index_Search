@@ -1,0 +1,5 @@
+Do telescope measurements (in meters, usually) measure in a straight line, from edge to edge, or follow the curve of the mirror?
+
+Somehow, no site or book or magazine has clarified this question for me....
+Perhaps I am an idiot, but,
+Is the parabolic primary mirror on the new James Webb Space Telescope (JWST) 6.5 meters from edge-to-edge in a straight line?  Or do they use an imaginary tape measure to follow the parabolic curve (or hyperbolic, for most modern telescopes) of the primary mirror?

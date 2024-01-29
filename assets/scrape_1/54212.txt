@@ -1,0 +1,6 @@
+Understanding PSF models and PFSEx output
+
+I understand that PSFs are models for spreading of light. When I visit Hubble website (https://www.stsci.edu/hst/instrumentation/wfc3/data-analysis/psf) there is PSF model for me to download. I could also get my own PSF model by running Source Extractor and PSFEx. In both of these cases, I see that the output PSF model is (n, 25, 25) where n is 9 for Hubble and 6 for PSFEx. Looking through the documentations for PSFEx, my understanding is that the first dimension is the basis vector for PSF. So is the "final" PSF that's used for convolving a point source simply the sum along the first axis? (I'm assuming the coefficients for the linear combination is already accounted for)
+I was looking at the documentations for Petrofit (https://petrofit.readthedocs.io/en/latest/correction_grids.html#Correction-Grid) and I see that the PSF used here is a 2D grid instead of 3D like the ones I get from PSFEx or Hubble's page and hence the confusion.
+Edit:
+I'm also guessing that I should normalize the (25,25) after summing along the first axis? Or do I have this completely wrong?

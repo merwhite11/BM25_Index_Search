@@ -1,0 +1,12 @@
+Can the explanation of Tabby's star KIC 8462852 be an intervening planet in orbit around another star?
+
+Can an intervening planet in orbit around a nearby star cause periodic occultation?
+Please excuse the crude text graphics:
+Tabby ...... PlanetP ......................................... Earth
+                |
+             StarX
+
+
+StarX and Tabby's star are close to each other (maybe part of some local cluster, like the Centauri brothers) so the line of sight with our Sun/Earth has maintained over the recent handful of years.
+PlanetP orbits StarX with a period of around 750 Earth days.  Its ecliptic is at an angle (somewhat perpendicular) to the line of sight with Earth.
+PlanetP's orbit rotates (precession?) a bit around StarX, so the amount of occultation of Tabby's star by PlanetP varies from 15% to 22% to whatever.

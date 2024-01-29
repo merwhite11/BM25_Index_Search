@@ -1,0 +1,7 @@
+World line coordinate finiteness
+
+If you trace two particles' world line backwards in time, according to current theory, both objects should converge at big bang.
+Would both objects arrive there simultaneously?
+Another way of asking the question:
+Is there any evidence that supports the idea that new matter is "introduced" into the universe as a continuous stream, as opposed to everything coming from a singularity both in time and space?
+The analogy would be from the inside of a black hole. For each particle in that singularity, they would all have a world line that starts at the same spacial coordinate, but the particles would not be "introduced" into the black hole simultaneously. You can argue that time stops having meaning in a black hole, but that's only true for an "outer observer" in my reasoning.

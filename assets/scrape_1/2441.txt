@@ -1,0 +1,17 @@
+Does matter accumulate just outside the event horizon of a black hole?
+
+My understanding is that time slows and approaches stopping when approaching the event horizon of a black hole.  I have seen this explained several places, including a brief explanation in the last paragraph under: http://en.wikipedia.org/wiki/Black_hole#General_relativity, quoted below:
+
+Oppenheimer and his co-authors interpreted the singularity at the boundary of the Schwarzschild radius as indicating that this was the boundary of a bubble in which time stopped. This is a valid point of view for external observers, but not for infalling observers. Because of this property, the collapsed stars were called "frozen stars",[17] because an outside observer  would see the surface of the star frozen in time at the instant where its collapse takes it inside the Schwarzschild radius.
+
+Does this mean then that no matter actually falls into a black hole (except possibly what was there at its formation)?  Would this also mean matter is accumulating just outside its event horizon?  As I understand it, this would be the perspective from outside the black hole.  If this is the case, I wonder if we would observe a tremendous amount of matter surrounding the event horizon, but it would be extremely red shifted?
+Edit:
+I noticed an answer to a different question, especially the end portion, provides some insight here as well:
+https://astronomy.stackexchange.com/a/1009/1386
+Edit:
+These YouTube videos someone put together explain the concept very well, and seem to indicate this idea is gaining traction!
+https://www.youtube.com/watch?v=yZvgeAbrjgc&list=PL57CC037B74307650&index=118
+https://www.youtube.com/watch?v=b1s7omTe1HI
+Edit:
+This new YouTube video describes this idea very well, and describes it as the way black holes work!
+https://youtu.be/mquEWFutlbs

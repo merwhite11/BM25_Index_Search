@@ -1,0 +1,6 @@
+How does angular resolution of a telescope translate to its parallax precision?
+
+We can often read in the scientific and also more casual reader literature and articles about the angular resolution of various telescopes and other optical equipment, be it ground based or onboard space probes. They would often list their angular resolution, or in other words, their ability to resolve or distinguish small, distant objects with today's digital era mostly on a per sensor pixel basis.
+            
+                Finding a star's distance from its parallax. Trigonometric Parallax method determines distance to star by measuring                its slight shift in apparent position as seen from opposite ends of Earth's orbit. (Source: Measuring the Universe)
+What I'm interested in is, is the precision in measurements of parallax and with it our ability to determine distance of observed objects directly analogous to mentioned radial resolution and how could it be calculated using data on angular resolution of a telescope alone, if we assume both ground based and in space observatories have more or less the same perihelion to aphelion distance (i.e. the space observatory is in Earth's orbit).

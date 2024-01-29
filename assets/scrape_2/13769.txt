@@ -1,0 +1,4 @@
+Angular distance/apparent separation between AE Aurigae and Orion's belt
+
+The title perhaps gives the question away, but would anyone know/be able to roughly approximate the angular distance/apparent separation between AE Aurigae and Orion's belt.
+I have the value of $42^\circ$, from visual estimation but would like a way to calculate this.

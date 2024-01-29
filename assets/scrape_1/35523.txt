@@ -1,0 +1,26 @@
+Latitude, longitude and altitude of Ckoirama Observatory; where can things like this be looked-up?
+
+This answer to Is Starlink 1130 (Darksat) really dimmer? links to the March 16, 2020 paper in arXiv First observations and magnitude measurement of SpaceX's Darksat which finds only a modest decrease in brightness:
+
+Results. The calibration, image processing and analysis of the Darksat Sloan g’ image gives an estimated Sloan g’ magnitude of 7.57±0.04 at a range of 976.50 km. For STARLINK-1113 an estimated Sloan g’ magnitude of 6.69±0.05 at a range of 941.62 km was found. When scaled to a range of 550 km, a reduction of (55 % ± 4.8 %) is seen in the reflected solar flux between Darksat and STARLINK-1113.
+
+The v1 preprint says 
+
+...using the longitude(24.1° west) and latitude (69.9°south) of the Ckoirama observatory...
+
+which puts the Ckoirama observatory under about 4500 meters of freezing antarctic water (first image).
+If I invert the latitude and longitude assignments it returns to the Atacama desert where it belongs. If I instead type "Ckoirama observatory" in maps.google.com I get a pin on a map near 24.0894 S, 69.9305 W but the satellite image only shows a hole in the ground. (second image)
+  
+click images for full size
+The sidebar says:
+Antofagasta, Chile W369+6Q Yungay, Antofagasta, Chile
+astro.uantof.cl
++56 55 263 xxxx
+Open now:  Open 24 hours
+
+That link leads to http://www.astro.uantof.cl/research/observatorios/ckoirama-observatory/ which is very informative but has no latitude, longitude or altitude information. 5 Awesome Observatories Around The World mentions that Ckoirama is;
+
+the first observatory built by Chilean engineers
+
+and links to Astrotourism in Chile but no specific information.
+Question: What are the latitude, longitude and altitude of Ckoirama observatory? Is there a central location where coordinates like these can be looked up?

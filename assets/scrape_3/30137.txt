@@ -1,0 +1,17 @@
+Why do these Hubble images of Neptune look like Cheela?
+
+The open access paper Formation of a New Great Dark Spot on Neptune in 2018 (cited in Gizmodo's Formation of Dark Vortex on Neptune Captured For the Very First Time and Phys.org's Hubble captures birth of giant storm on Neptune) shows images of Neptune taken by the Hubble Space Telescope.
+The projections are called "global cylindrical maps" and those usually result in weirdly stretched features near the poles but do not result in the spiky hairdo or Cheela-like appearance in the Hubble  images below.
+
+Source
+What causes this effect seen in these projections?
+
+
+Individual maps from Hubble images in 2017 through 2018, in the same filters and processing as Figure 1. These maps span ±90° of latitude and longitude, and tick marks indicate 30° latitude and longitude intervals.
+
+
+
+False‐color global cylindrical maps from Hubble, spanning 180° of latitude and 360° of longitude, from images at 845 (red), 547 (green), and 467 nm (blue), and all use the same contrast scaling with a light unsharp mask applied. The maps are centered on 180°W longitude, except 2015, which was centered on 0° longitude. Dotted lines are shown at ~10° and 35°N to indicate the active region prior to the discovery of NDS‐2018.
+
+
+Reference Cheela, from here:

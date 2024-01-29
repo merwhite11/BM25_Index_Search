@@ -1,0 +1,5 @@
+What are probabilities of finding a star with the specific stellar type?
+
+I am a programming tutor, and with my student we were writing a program simulating a flight through the cosmos.
+I thought that it would be great to make the circles representing stars more realistic. I have found the table showing size and colour of a star by its stellar type, but what is the probability that any given star is going to be of a specific type?1 The simple solution would be to just to select at random from the list, but that is too trivial.
+If there would be some data showing the total counts of stars by the type, it would be trivial to convert into the probability. But i cannot find such.

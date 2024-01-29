@@ -1,0 +1,3 @@
+How to calculate shape of orbit when projected onto the plane of the ecliptic
+
+I'm trying to generate an 'overhead' view of the orbits of the moons of Neptune, similar to Figure 4 in this paper, using values given here. I initially tried using both the Argument of Periapsis, and the Longitude of the Ascending Node separately but neither seems to give the correct results. After a bit more reading I now think I will need to combine both these values to derive the orientation of the major axis of the ellipse, but I can't find the formula anywhere. Am I correct? Could someone show me the correct calculation?

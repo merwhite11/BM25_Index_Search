@@ -1,0 +1,8 @@
+HR diagram x-axis (color) and redshift?
+
+I've read several articles and watched some videos on the HR diagram, but no-one seems to mention the effect of redshift on the color of a star. Is there some calibration step that needs to be applied when looking up the Luminosity for a star that you've observed the color of?
+For instance, if I observe a star a being a certain color then using the x-axis on the HR diagram I can find that observation's color and find a corresponding location in the HR diagram. However if the star I'm observing is redshifted the color I've observed is not the actual color of that star.
+I'm super-new at reading the HR diagram but it really fascinates me and I cannot find why redshift isn't mentioned in relation to it.
+Edit: it's not answered by the suggested
+Relationship between photometric colour and redshift
+as my question isn't so much about about spectroscopy or the types of redshift but simply if the HR diagram applies to far away stars or not.

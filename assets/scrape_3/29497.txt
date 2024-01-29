@@ -1,0 +1,19 @@
+Transform asteroid rotation to heliocentric ecliptic coordinates
+
+I'm working with data from the DAMIT database of asteroid shape models.  I'm adding them to a visualization in which the sun is at [0, 0, 0] and the X, Y axes constitute the ecliptic plane of the solar system.
+Each asteroid model comes with some attributes that define its orientation and spin:
+
+λ (ecliptic longitude), 
+β (ecliptic latitude)
+P (sidereal rotation period)
+φ0 (initial rotation angle)
+JD0 (initial date).
+
+I've applied the matrix formulas suggested by the folks at DAMIT:
+
+in which
+
+This is where I get confused.  My understanding is that my visualization uses a heliocentric ecliptic coordinate system.
+I set r_ast to the XYZ location of a vertex in my visualization.  I'm not sure this is correct.
+Then I compute r_ecl from the equation above.  But I think variables λ and β are angles in a geocentric ecliptic coordinate system and I need to do some transformation into heliocentric ecliptic coordinates.
+Is my approach correct and if so, how can I convert the asteroid's rotation to my visualization's heliocentric ecliptic coordinate system?

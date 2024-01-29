@@ -1,0 +1,8 @@
+Finding the diameter of a molecular cloud using period of intensity variation of hydroxyl maser
+
+So I have this problem (which I  translated to English as accurately as could):
+
+When studying a compact molecular cloud with radiotelescope, at a wavelength of 18 cm, hydroxyl (OH) maser(ic) radiation was registered. Radiation intensity changes at about 5 min cycle. Evaluate the maximum diameter of the cloud.
+
+Actually we learned very little about molecular clouds at high school and I have no idea how to solve this problem. 
+If the intensity change cycle is wave period, I can calculate wave velocity, which would be very low (as well as the frequency). I'm not asking for the answer, some hints would be enough. Thanks.

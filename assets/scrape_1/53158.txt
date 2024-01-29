@@ -1,0 +1,15 @@
+How do I estimate the difference in the speed of time flow between Earth and a distant star?
+
+I can use data from Gaia Mission to estimate radial velocity(from RVS) and proper motion(from parallax), to take into account special relativity. The remaining question is what data should I use to estimate gravitational effects on time flow.
+For example, how much faster/slower time passes for a star that is hundred light years closer to the galactic center than Earth?
+It is reasonable to assume that there are at least a few big components of the gravitational field there.
+
+The gravity of the star itself
+The gravity of the surrounding galaxy.
+
+The star's gravity is more or less possible to estimate, by estimating its mass. Good sources of data for this are very welcome.
+For the second component, I have no idea.
+This is not a research question, so the result should be believable, but not necessarily scientifically correct.
+The baseline is to use Neuton's gravity law for a massive disk with an average density close to the average density of the Milky Way. I suspect that there are some ways to improve this estimation.
+
+P.S. If there are better data sources for true velocities of the distant stars feel free to point them out.

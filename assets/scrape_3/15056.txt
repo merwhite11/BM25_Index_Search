@@ -1,0 +1,8 @@
+What does the filter name I+z' mean
+
+On the TRAPPIST telescope, the filter wheels are described to have a filter with the following description:
+
+NIR Luminance I+z' (>700nm)
+
+After a bit of googling, I wasn't able to find what the specifics of this filter are (its FWHM and mean wavelength).
+How would I go about finding these qualities of this filter?

@@ -1,0 +1,10 @@
+Population of excited H levels in a Strömgren Sphere
+
+In chapter 2.2 of Astrophysics of Gaseous Nebulae and AGN Ostriker and Ferland claim that, as far as ionization is concerned, one can assume all atoms to be in the ground state in a Strömgren Sphere setting (static, homogeneous $n\approx 10/\mathrm{cm}^3$, isothermal $T\approx 10^4\,\mathrm{K}$ pure hydrogen cloud around a single star). While I do not doubt the validity of this assumption, I have some trouble with how they justify it.
+They estimate the inverse ionization rate for ground state hydrogen at a typical distance from the star, which is of course the lifetime against ionization from the ground state $\tau_\mathrm{ion}^{1^2S}$. Then they say that the estimate also holds for ionizations from excited levels and they find
+$$\tau_\mathrm{ion}\gg\tau$$
+where $\tau_\mathrm{ion}$ and $\tau$ are the typical lifetime against excitation and the typical lifetime of excited states respectively.
+So far so good. In the next step, however, they end their chain of argumentation by saying that consequently any atom in an excited state will have enough time to decay to the ground state before it can be ionized, so all ionizations are from ground state. That is my understanding at least.
+My problem with this is the following: suppose I have some mechanism that keeps a good fraction of my atoms in an excited state. In that case, even if $\tau_\mathrm{ion}\gg\tau$, I will have ionizations from this excited level simply because it is always populated. So what one should really look at in my opinion is the lifetime of an atom against excitation.
+My first question is: Am I missing something or did I get something wrong?
+And secondly: If my argumentation makes sense, one has to compare the lifetime against excitation with $\tau$, right? Where can I find the corresponding cross sections for radiative and collisional excitation? I was only able to find ionization cross sections.

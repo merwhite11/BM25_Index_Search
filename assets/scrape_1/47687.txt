@@ -1,0 +1,4 @@
+What is the differential emission measure (DEM)? what are its physical significant in solar plasma?
+
+I'm trying to understand what differential emission measure (DEM) is, especially its physical significant in solar plasma.
+Is it possible to give a short description and perhaps suggest to me some paper(s) or book(s) related to DEM that go further?

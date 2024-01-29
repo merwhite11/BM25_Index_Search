@@ -1,0 +1,9 @@
+Has the plasma amplification of electromagnetic waves in solar type-III bursts (or otherwise in stars) been explored further?
+
+This answer to the SciFi SE question In the novel The Three-Body Problem, does the Sun's amplification of radio transmissions have a scientific basis? cites a 1995 paper published in Chinese Astronomy and Astrophysics.
+Direct amplification of electromagnetic waves by beam-plasma instability and its application to solar type-III bursts
+Question: It's been 25 years now, has anything like the amplification of electromagnetic waves in stars described been explored further or possibly even observed, in solar type-III bursts or otherwise?
+
+
+Abstract
+When a weakly magnetized, relativistic electron beam is injected into a plasma, the beam-plasma instability excited by nonresonant wave-particle interaction can amplify directly the electromagnetic waves. Results of calculation show that, in regions far from resonance, electromagnetic waves can still be amplified over a wide frequency range, and form plateaus under each resonance peak. As the harmonic wave number increases, the peak value of the growth rate decreases and the width of the peak also diminishes. This paper analyzes how the growth rate varies with the background parameter , and the direction of incidence of the energetic electrons and the direction of the radiation. Under typical solar coronal conditions, the size, bandwidth, directivity, polarization and harmonic modes of the waves so amplified can be used to explain the solar type-III radio bursts. The present study can also apply to plasma emission in other astronomical bodies.

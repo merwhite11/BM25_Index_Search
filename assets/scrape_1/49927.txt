@@ -1,0 +1,5 @@
+Orbital modelling - best choice for initial JPL Horizons data?
+
+I'm modelling planetary orbits using a spreadsheet and Feynman's numerical method given here. I have put together a spreadsheet (10,000 rows) to model Mars' orbit in three $\left(x,y,z\right)$ dimensions. I'm using SI units with a time interval of 3600 seconds. I'm using initial state vector data from JPL Horizons. I believe Feynman's method is called leapfrog integration. I've also tried the Runge-Kutta method, but with no significant improvement in accuracy.
+In terms of the orbit cycle, does it matter when I take the initial JPL Horizons data? Aphelion or perihelion, for example, or some other point in the orbit?
+EDIT. Just to be clear what I'm asking. The first row of my spreadsheet uses state vector data $\left(\mathbf{x},\mathbf{y},\mathbf{z},\mathbf{v_{x}},\mathbf{v_{y}},\mathbf{v_{z}}\right)$ from JPL Horizons for an arbitrary date and time. I've chosen 2000-Jan-01 12:00:00.0000 TDB. Will I get more accurate results if I use a date and time for a specific point in Mars' orbit? Aphelion or perihelion, for example? If the answer is yes, an explanation would be useful.

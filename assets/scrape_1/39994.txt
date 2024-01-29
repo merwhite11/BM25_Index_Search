@@ -1,0 +1,3 @@
+What is the RGB curve for blackbodies?
+
+I created a program to convert the temperature (in Kelvin) of a blackbody to RGB color. However, it is slightly inaccurate, and the deviations increase for values greater than 10000K and less than 1500K. Is there an accurate mathematical function that generates RGB values for given temperature, ranging from ~500K to 20000+ K?

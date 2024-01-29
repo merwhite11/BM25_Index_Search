@@ -1,0 +1,4 @@
+Orbitally convenient Mars-to-Earth transit times?
+
+Are there any peculiar solar system layouts that would result in highly efficient transits between Mars-to-Earth? I am aware of a Hohmann transfer orbit, but can other planets be used to "sling-shot" large quantities of cargo from Mars to Earth in an efficient manner?
+If these cannot be answered directly, what would be the best way to go about calculating interesting orbital positions within the next 1000 years?

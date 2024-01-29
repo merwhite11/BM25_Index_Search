@@ -1,0 +1,23 @@
+Observed sun/moon rise/set times to nearest second?
+
+Where can I find a list of observed (not computed) sun/moon rise/set 
+times to the nearest second, along with the location (latitude, 
+longitude, altitude [or enough information to find these three 
+values]) and, ideally, weather conditions (temperature/pressure)? 
+Since it's hard to tell where the "middle" of the sun/moon is when 
+it's setting, these would be the setting times for the lower or upper 
+limb of the sun/moon. 
+Reason: I'm trying to compute sun/moon rise/set to the nearest second 
+using high-precision data, and I'm curious to see if I can get 
+anywhere near the actual observed time. My technique: 
+
+Use NASA's Chebyshev approximations to find the positions of the 
+Sun and center of the Earth. 
+Use an elliptical (not spherical) model of the Earth to find the 
+ICRF xyz coordinates of a given location at a given time. This 
+includes compensating for altitude and precession. 
+Model refraction based on weather conditions, including adjusting pressure for altitude (weather stations report air pressure normalized to sea level, which isn't the same as actual air pressure, especially at higher altitudes).
+
+I realize down-to-the-second computations of sun/moon rise/set are 
+probably impossible, in part because refraction depends on more than 
+just local conditions, but I'm curious to try.

@@ -1,0 +1,9 @@
+How large does refraction become in radioastronomy?
+
+For atmospheric refraction of visible light, Wikipedia gives the order of 1 arc minute at 45° altitude above the horizon, and 5.3 arc minutes at 10°. This is caused by the dielectric polarizability of all of the bound electrons in all the atoms of the atmosphere.
+At the much lower HF frequencies of radio, the free electrons and ions will contribute, and some forms of radio communication have relied on refraction at large incident angles to deflect terrestrial signals back to the Earth at a distant ground station.
+So I expect that at the lower frequencies used in radio astronomy, corrections to the observed location of radio sources due to ionospheric refraction could be much larger than those at visible wavelengths, but I am not sure.
+How large does can this effect ever get? At what frequency? Are there ever corrections as large as 1 degree? 
+
+I started thinking about this after asking How many stations could one hear with an AM/FM radio in front of the ISS' cupola window? which includes the image below.
+below: from the Radio Jove Project's exercise The Effects of Earth's Upper Atmosphere on Radio Signals.

@@ -1,0 +1,3 @@
+If a captured moon has prograde, circular and equatorial orbit, can we know it is captured?
+
+As we know, Triton has retrograde orbit , which is an stong evidence it is captured by Neptune. Suppose if a moon is captured, but results in prograde orbit, and the orbit becomes circular and lies on equator of the planet after billions of years, can we still know(or find) it is captured?

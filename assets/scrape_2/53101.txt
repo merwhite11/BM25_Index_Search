@@ -1,0 +1,6 @@
+Supernova remnant spectral lines
+
+I have some trouble to find which spectral lines are the ones in this SNR N49 fitted spectrum.
+
+They are at 1.3 keV, 1.9keV, 2.5keV, 3.2keV, 3.95keV and maybe at 0.65keV and 6.8keV (approximately).
+They could be H, He, C, O, N, Ne, Mg, Al, Fe, Si, S, Ar, Ca, Ni.

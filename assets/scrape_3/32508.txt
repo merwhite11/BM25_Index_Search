@@ -1,0 +1,11 @@
+Unable to locate Big Dipper through Polar Axis Finder
+
+I have recently purchased a CG-4 Polar Axis Finder for my CG-4 mount. 
+This PAF has markings on the lens for aligning with Big Dipper or Cassiopeia, which looks like this:
+
+I have aligned the PAF to the mount during the day, and I am now attempting to use it at night. My understanding is that I need to rotate the mount in RA to match the image in the PAF to the actual stars in either Big Dipper or Cassiopeia. This will give me the correct position to then re-target at Polaris to find NCP.
+I have been trying for 2 nights, and still no luck! The Big Dipper and Cassiopeia are in front of me - I can see them very clearly with the naked eye. Yet when I look through the PAF, I cannot see any star patterns resembling either of my targets. There are stars, but it's like the magnification is too high, maybe? No stars forms the pattern I am looking for, in any orientation. I cannot derive the connection between what I see with the naked eye right in front of me, and what I see through the PAF. I understand that the image in the PAF will be mirrored vertically and horizontally - still no luck. I can easily find my target through the Finder Scope on my main tube, but not through the PAF.
+I have devised an experiment. I have positioned my tripod under a power line running high above me. I have aligned my view at Alkaid (western tip of the Big Dipper handle) with the wire, so I can see it in the PAF. Good news - I can see it in the PAF, and I can see Alkaid (it's the brightest in the area, so I am fairly sure that I can use it as a reference point between what I see with the naked eye and what I see through the PAF). 
+Bad news - no matter how I rotate my mount in RA while keeping the handle tip aligned with Alkaid, there's nothing that matches the rest of Big Dipper...
+What is going on? I can't even explain this with a 
+"Defective PAF Theory"...

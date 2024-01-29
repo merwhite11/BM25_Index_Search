@@ -1,0 +1,11 @@
+How far away was the binary black hole that produced GW170729?
+
+GW170729 was gravitational wave signal's detected by the Virgo and LIGO detectors. I read the following in a news report:
+
+Known as GW170729, in accordance with the date of its discovery (in US
+  format), the gravitational wave that astronomers can listen in to was
+  caused by the formation of a black hole more than 80 times as massive
+  as our sun and about nine billion light years away. (Source)
+
+I am specifically interested in the claim that it comes from 9-billion light years away. I have been unable to find a good source to back this claim up. 
+How accurate is this claim? Please provide a source for your answer and where applicable, a simple explanation of how the data backs this up. More information about this event can be found here.

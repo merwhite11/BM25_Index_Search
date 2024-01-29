@@ -1,0 +1,4 @@
+Can we use asteroseismology to study neutron stars?
+
+Asteroseismology study the propagation of sound waves inside a star to probe its internal structure. Could something similar be used to study the structure of neutron stars and put constraints on the equation of state of neutron matter?
+In case this is not yet possible, is it due to a lack of a theoretical model, or to the difficulty to observe vibrations on neutron stars?

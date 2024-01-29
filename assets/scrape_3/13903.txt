@@ -1,0 +1,6 @@
+How are the element abundances calculated for a meteorite in the Hydrogen log10 scale?
+
+In astronomy, solar abundances are often calculated or tabulated per $10^{12}$ H atoms. I understand that in case of the Sun this can be done because H atoms are in majority or are present for a scale comparision. 
+How can the same element abundance be calculated for an example meteorite which does not have any volatile gas such as H? In particular, I am referring to the table 1 of http://astro.uni-tuebingen.de/~rauch/TMAP/grevessesauval2001.pdf. It lists Solar abundance and lists meteorites abundance as a comparision. How have they calculated the element abundance for a meteorite in the $log_{10} \epsilon_{H} = 12$ scale?
+Finally, I have a sample rock which has its's composition given in Weight $\%$ of various oxides such as $SiO_{2}, MgO, FeO$ etc. I have to convert these into elemental abundances in $log_{10} \epsilon_{H} = 12$  scale. How should I do this?
+Thanks in advance!

@@ -1,0 +1,3 @@
+Are astronomers continuously monitoring exoplanetary systems?
+
+I'm reading many of the Wikipedia pages about exoplanets and the different methods they are using to detect them.  But I wonder, it seems that the emphasis is on detecting and finding new exoplanets, but are astronomers continuously monitoring the exoplanets that have already been discovered?  For instance, if there is a collision between a detected exoplanet and a previously unknown planet, this could cause a change in some of the orbital parameters, and could be potentially detected.  If this happens, would we learn of this change, or will it have to wait until astronomers again take another look at the system?

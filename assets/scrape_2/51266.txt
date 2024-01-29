@@ -1,0 +1,18 @@
+How to roughly calculate sunrise and sunset with a spreadsheet application
+
+I am looking for a way to roughly calculate sunrise and sunset for a given lon/lat in mid Europe for each day of a year using a spreadsheet application. The thing doesn’t need to be very precise, but it should give a rough idea like when to switch on street lights—earlier in winter than in summer.
+I have read various pages on that topic now, but they deal with the question in a more complicated (and surely, more precise) way than what I need. I have had such a spreadsheet in the past (which I did build myself), but I don’t have it anymore and the sources I used seem to have vanished from the internet.
+What I want is to make a spread sheet with one row per day, where column
+A = the date (here, input as spreadsheet date)
+B = lon (W is negative, E is positive)
+C = lat (S is negative, N is positive)
+D = time zone (here, input as spreadsheet time)
+What I needed is two formulas,
+E = true noon
+F = day length
+so that I can get sunrise and sunset as
+G = E - (F/2)
+H = E + (F/2)
+I think in the spreadsheet I once had, it took two sine calculations and some constants to get this done.
+
+Please help me get this working again or to find the sources where it is explained.

@@ -1,0 +1,11 @@
+Relationship between absolute magnitude of a star and its luminosity?
+
+
+Why does this relationship involves the absolute magnitude of the sun and its luminosity?
+How to derive an expression relating the absolute magnitude of a star to its luminosity?
+
+So according to the magnitude equation, $$m - M = 2.5\log\left(\frac{d^2}{d_0^2}\right)$$ 
+$$\Rightarrow M = m - 2.5\log\left(\frac{d^2}{d_0^2}\right)\ \ (eq1)$$
+and Luminosity is $$L = 4\pi(d^2) \times f$$
+ $$\Rightarrow d^2 = \frac{L}{4\pi \times f}\ \ (eq2)$$
+Plugging eq2 to eq1 would have seem reasonable, but how is absolute magnitude of the sun and its luminosity used?

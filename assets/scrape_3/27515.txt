@@ -1,0 +1,5 @@
+How to calculate how much a galaxy moves from its coordinate at redshift 0 to redshift 1?
+
+I have two simulation snapshots in my hand at redshift 0 and 1. I know x, y, z coordinates of the galaxies in both redshifts 0 and 1, however there is no way for me to identify a single galaxy in both redshifts, i.e., there is no tracker/tracer for the galaxies that will trace the position of galaxies from redshift 1 to 0.
+Now I have halo catalogue for both $z =0$ and $z=1$ and I am interested to trace a certain galaxy from z=0 to 1. I know that galaxy's exact x,y,z at $z =0$. My initial plan is to create a search with $\sqrt{x^2+y^2+z^2}\le r$ in kpc. So any galaxy at redshift 1 with coordinates less than r maybe a potential candidate. 
+My question is, is there any intelligible guess of what a potential value of r would be in kpc? In other words, I am interested to know with reduced Hubble parameter $h = 0.7$, how much far a galaxy might move from $z = 1$ to $z =0$?

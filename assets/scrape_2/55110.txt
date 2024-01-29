@@ -1,0 +1,6 @@
+Standard definitions (ISO?) about subjects related to light emitted by stars
+
+I'm a big fan of astrophysics and astronomy. However i'm quite confused by reading these last years plenty of books on the subject with various definitions (vocabulary) and notations for the same topic. For my personal usage - to not be lost again ... - i have tried summarizing the different bibliographic ressources vocabulary and definitions (cross-checking also with Wikipedia) in the table below:
+
+Is it correct or did i summarized something wrong? And by the way do we have in Astronomy an ISO standard that defines worldwide the vocabulary, units and mathematical definitions of all these concepts or not (like we do have in physics?) because actually it seems like a huge mess.
+Thanks for your help

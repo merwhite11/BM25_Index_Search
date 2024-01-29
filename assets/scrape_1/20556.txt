@@ -1,0 +1,15 @@
+Are there expanding-universe cosmological models that do not include inflation?
+
+I'm happy that the universe is expanding, because we have good scientific evidence in the form of galactic redshift. The Wikipedia Hubble's law article gives what I think is a fair explanation of that. It redirects from cosmological redshift and maybe gives too much emphasis to Doppler shift, but no matter. Because like I said I'm happy that the universe is expanding. Even if there was no evidence, my understanding of general relativity would be telling me that the universe just has to expand. For the life of me, I still don't know why Einstein didn't predict it.   
+But what I'm not happy about is inflation. I take note of articles like Physicist Slams Cosmic Theory He Helped Conceive where Paul Steinhardt is critical of inflation. He says things like this:
+
+"The whole point of inflation was to get rid of fine-tuning – to explain features of the original big bang model that must be fine-tuned to match observations. The fact that we had to introduce one fine-tuning to remove another was worrisome. This problem has never been resolved". 
+
+I empathize. I don't empathize with his cyclic universe, but I share his view that we have not explained any feature of the universe by introducing inflation. In fact, I would dispute the claims that inflation explains why the universe is isotropic, homogeneous, flat, and bereft of magnetic monopoles. I'd even say that I think inflation is a solution to a problem that doesn't exist. But as the Wikipedia article says:
+
+"The basic inflationary paradigm is accepted by most scientists, who believe a number of predictions have been confirmed by observation;
+
+I don't. I'm just some IT guy, but I'm like "the substantial minority of scientists who dissent from this position". Steinhardt is mentioned, as are John Earman and Jesus Mosterin. I can read their paper on SciHub. But what I'm struggling to find is any big-bang cosmological model or models that don't feature inflation. It seems to be included in all big bang literature and images, including this "wine flute" public domain image courtesy of NASA:
+
+Can anybody point some out to me? In other words my question is this:
+Are there expanding-universe cosmological models that do not feature inflation?

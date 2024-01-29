@@ -1,0 +1,22 @@
+How exactly will Trailblazer (the precursor to SatHub) help Astronomers plan their optical observations? Will it be open to the public?
+
+Space News' Astronomers back technical efforts to reduce impacts of satellite megaconstellations while seeking regulatory solutions
+ says:
+
+At the conclusion of the weeklong SATCON2 workshop July 16, astronomers announced a proposal to develop a virtual center called SatHub that will provide tools for astronomers to avoid satellite passes in their observations or correct observations affected by such passes.
+“The idea here is to have a one-stop shop for all of your different needs pertaining to low Earth orbit satellite constellation observations,” said Meredith Rawls of the University of Washington, chair of the workshop’s observations working group, at a press briefing about the workshop July 16.
+That would include tools to help astronomers more accurately predict satellite passes and other information related to satellite constellations. It would also host software that astronomers can use to both predict satellite passes are to correct images marred by trails from satellites.
+“We also really like the SatHub concept,” said Jonathan McDowell of the Harvard & Smithsonian Center for Astrophysics, co-chair of the algorithms working group, at the briefing. “We think that’s a natural home for people to go find the software, find the satellite catalogs, get access to the location predictions and find the documentation.”
+SatHub is still in its formative phases. “It will take some time to make SatHub a reality,” Rawls said. A precursor effort, called Trailblazer, may be ready later this year. Astronomers are also looking at funding models for SatHub that could include seeking support from the International Astronomical Union, which is soliciting proposals for projects to address the impacts of satellite constellations on astronomy.
+
+Question:
+
+How will Trailblazer (the precursor to SatHub) help Astronomers plan their optical observations?
+Are all these tools going to be available to the general public, or will some sensitive information be available to astronomers but not necessarily to the general public?
+
+Astronomers can already download satellite catalogs and two line element sets or TLEs for almost all satellites and major space debris objects (discarded rocket bodies) and this even includes TLEs for secret missions and spy satellites.
+
+How (the heck) are military satellites with (apparently) classified TLEs still showing up on sat map websites?
+
+What is it that Trailblazer will do that can't easily be done already? SGP4 propagators and Python packages like Skyfield are readily available.
+I haven't asked about SatHub because it is still in its early stage of discussion and development.

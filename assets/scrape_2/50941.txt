@@ -1,0 +1,4 @@
+How do you keep your astronomy computer precisely on time?
+
+I have two laptops running astronomy projects but the clocks are imprecise. I set the specialpollinterval to update the time to windows time once a day 86400s. This eventually worked after I set the minpollinterval to be less than specialpollinterval but it updates about 70 times a day and the clocks are still 2-3 seconds wrong compared with my phone and PC. Both laptops are connected to the web and all other settings in the time related registry are default.  Can anyone suggest why the clocks are still different and not the same as my other devices?  Is there a better way to get accurate time?
+The laptops are windows 7.

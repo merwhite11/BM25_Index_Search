@@ -1,0 +1,12 @@
+How to calculate exact angle to the moon?
+
+I am building some device as a gift for my girlfriend.
+For this device to work, I need to be able to calculate the angle to which I should look towards (3D angle), in order to see the moon.
+This angle is affected by (and maybe not only):
+
+The time of year.
+The hour.
+The location on earth from which I look.
+
+I'm sure there's some formula that approximates the angle.
+I don't need an exact value, I can live with +-1 degree.

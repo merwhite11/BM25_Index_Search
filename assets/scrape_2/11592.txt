@@ -1,0 +1,4 @@
+Gravitational lensing in Newtonian physics
+
+Famously, when Eddington attempted to measure gravitational lensing during the Eclipse, it was the measured magnitude of the lensing that gave gravity [pun, obviously, intended] to General Relativity - not the measurement of lensing itself. That is, Newtonian physics also predicted a lensing deflection, but only half of the deflection predicted by GR. 
+Question is: Why? I've read a lot about this, and I can see how when one integrates the Newtonian acceleration along the photon path with constant |v|=c this gives the 'correct' Newtonian value - but intuitively, I can't wrap my head around it. Why should a massless photon be affected by gravity at all in Newtonian gravity?

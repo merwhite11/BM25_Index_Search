@@ -1,0 +1,18 @@
+What's the exact story of jupiter and our earth, not becoming a super-earth?
+
+I've been watching the Cosmos documentaries by Neil DeGrass Tyson and the ones from Brian Cox, and in one episode (I don't remember from which series) there's something about the creation of the rocky planets in our solar system I don't understand. Let me first clarify what I understood from the explanation:
+At the beginning of our solar system, there were lots of gasses and dust, all over the solar system. Some of those coalesced into planets, who became bigger and bigger by attracting more gasses and dust. (That was also what I learnt as a child)
+However, when looking at exoplanets, there seem to be quite some "super earths": rocky planets, being quite larger than the rocky planets in our solar system. This created the question why the rocky planets in our solar system stopped growing, and then, a theory, involving Jupiter was formed:
+Apparently, Jupiter, being a big gass giant, spiraled towards the Sun, and being so heavy, Jupiter worked like a vacuumcleaner, sucking up the gasses and dust from between the rocky planets, and like this stopping the growth of the rocky planets.
+The spiraling movement of Jupiter was stopped, thanks to the formation of Saturn: that large planet pulled Jupiter back from further spiraling towards the sun, and like this, the planets in the solar system got, more or less, their current size.
+When I first heard this, I thought "Ok, that's an interesting theory", but later, I remembered something from my years at university:
+During my studies (I studied mathematics and mathematical physics), we have proven that the gravity, caused by a sphere with a mass, is exactly the same as the gravity, caused by a single point with the same mass.
+This gives me the following idea (about the creation of Saturn and its impact on Jupiter): first there was a ring of gass, floating outside the orbit of Jupiter. Then, some of that gass coalesced and formed Saturn. The mass of the ring and of the resulting planet are the same.
+So, the gravity, caused by that ring of gass, and the gravity, caused by Saturn as a coalesced planet, should be equal. Hence this could not have had any impact on Jupiter's movement, so the explanation of our rocky planets, not turning into super-earths because of Jupiter, spiraling towards them and being stopped by Saturn's creation, is wrong!
+There are three possible solutions to this:
+
+Either the theory is wrong indeed, but I would really be surprised that I, as a simple guy, am able to find an error in an official theory that simply.
+Either I missed something in the explanation. In that case, can somebody tell me what the correct explanation is?
+Either my reasoning is wrong: indeed a sphere and a point with the same mass have an identical gravitational impact, but my extrapolation towards a ring of gass and a coalesced planet is incorrect. In that case, can anybody point out the flaw in my reasoning?
+
+Thanks a lot for reading and answering this (I realise it's a long one).

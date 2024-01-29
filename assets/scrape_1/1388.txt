@@ -1,0 +1,8 @@
+Age and relativity
+
+This is a question, where I start with some assertions:
+Try to consider the universe as a four-coordinate system, x,y,z,t where t is time and where we view a change in t as a change in position, and as a velocity in the same way as any other change in either of the other components of the coordinate. Everything is then moving at the speed of c. The difference between a photon and another particle would be that a photon "spends" its velocity in any of the x, y or z dimensions - but not in the time dimension.
+This implies that all photons are on the same coordinate in the t-dimension - only the x,y,z values change while t remains 0. It also implies that time would appear to stop for something travelling in only the other dimensions, while it would pass fastest for something completely stationary.
+You can then also consider space-time as a function of acceleration. A physical objects' coordinate could be derived from its velocity, which would have to be derived from its acceleration. Acceleration would be a function of entropy, or "age" I believe.
+Is this the basis of general relativity? Is it at least an initial starting point for general relativity, or is it completely wrong?
+Would spin have to be part of the coordinate system?

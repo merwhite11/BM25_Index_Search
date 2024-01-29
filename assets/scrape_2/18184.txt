@@ -1,0 +1,4 @@
+Question about the Figure-eight periodic planar three-body motion
+
+
+If this is a posible periodic solution for a three-body problem, can anybody tell me where is the center of mass of the system? As we know, in a n-body problem the bodies orbit around their center of mass, but here I don't know where it is. Can anybody help me? Thanks.

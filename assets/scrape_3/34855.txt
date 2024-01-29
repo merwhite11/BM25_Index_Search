@@ -1,0 +1,9 @@
+How was the Messenger spacecraft used to measure Mercury's orbital precession to such accuracy? Could this have been done using radar?
+
+This comment under an answer to Path of Mercury and general relativity mentions that the Messenger spacecraft was used to measure the precession of Mercury's orbit to such accuracy that the tiny component due to the Sun's $J_2$ could be resolved from other components including relativistic effects and the gravitational pull of other solar-system bodies. The value of this component is given there as "about 0.03 arcseconds/century". 
+That rate corresponds to a motion of the apses of about 500 meters per year, which I roughly estimate translates to an error in Mercury's position that accumulates at about 100 meters per year.
+That seems to be within the a range that could be doable with an extended series of radar measurements. For comparison, in the 1960's Venus' diameter was measured to +/- 3000 meters way back in the 1960's and a precision measurement has such importance to general relativity validation.
+Questions:
+
+How was the Messenger spacecraft used to measure Mercury's orbital precession to such accuracy? 
+Why couldn't this have been done earlier using a series of radar observations, or could it have?

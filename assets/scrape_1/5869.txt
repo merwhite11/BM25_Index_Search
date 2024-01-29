@@ -1,0 +1,5 @@
+Is the influence of gravity instantaneous?
+
+When I was in college, I posed to my astronomy professor a thought experiment that had been puzzling my mind for some time: "If all the matter in the Sun magically disappeared instantly, how long would it take its gravity to stop having an effect on us?" His response was that the force of gravity is instant, unlike the speed of light, which appears instant.
+My big question is: "Do we know it's instant?" We can't possibly move an object large enough to have a noticeable gravitational influence fast enough to measure if it creates (or doesn't create) a doppler-like phenomenon.
+If he was wrong, how do we know it's not?

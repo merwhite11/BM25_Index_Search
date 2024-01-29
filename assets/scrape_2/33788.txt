@@ -1,0 +1,26 @@
+The recent results on Hubble constant measurements
+
+In recent news there is this announcement
+In the introduction they say:
+
+Distance measurement discrepancy: a $4.4σ$ tension on the value of $H_0$
+
+and I understand the discrepancy is with the value derived using the cosmic microwave radiation (CMB). There will be more publications to follow.
+These measurements are local, i.e. of the universe as it is now.
+By coincidence I was looking up baryogenesis and came upon the Sakharov condition  for generating the asymmetry between baryons and antibaryons which must have happened by the time the CMB map solidified.
+
+Any of the three necessary conditions that a baryon-generating interaction must satisfy to produce matter and antimatter at different rates: (i) baryon number violation; (ii) C-symmetry and CP-symmetry violation; (iii) interactions out of thermal equilibrium.
+
+iii) seems to me to be relevant to a measurement of the Hubble constant using the CMB data because it would affect what is presumed in the standard cosmology :
+
+The CMB is also used to determine the Hubble constant, where the temperature is analyzed as a function of frequency – a power spectrum – and a best fit analysis is made to constrain the Hubble constant.
+
+If interactions out of thermal equilibrium are responsible for baryogenesis, maybe the assumptions entering the fit should change, and maybe the discrepancy between the two methods tells something about baryogenesis.
+As  a particle physicist I am not up to astrophysical calculations. Is anybody familiar with this topic who could say  whether this is a possible suggestion?
+Edit:added
+This link says that the Sakharov conditions are necessary, and the standard model obeys all three:
+
+During a first order electroweak phase transition bubbles of the broken vacuum form in an unbroken phase. The expansion of these bubble walls is shown to lead to considerable departure from thermal equilibrium.
+Since Sakharov’s conditions are satisfied, the baryon asymmetry of the Universe could be created during the electroweak phase transition. Unfortunately, it has been shown that the amount of CP violation coupled with the strength of a first order phase transition is not sufficient to create enough baryon asymmetry in the SM
+
+Surely the standard model must be  used in estimating by fits to the CMB the Hubble constant, but not the extra baryogenesis mechanism necessary for the observed asymmetry. These could affect the thermal equilibrium estimates.

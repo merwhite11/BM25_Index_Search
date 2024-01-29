@@ -1,0 +1,12 @@
+What are the key coordinate systems used in Astronomy, and where are they used?
+
+Wikipedia describes the five following celestial coordinate systems each with rectangular/spherical variants:
+
+horizontal
+equatorial
+ecliptic
+galactic
+supergalactic
+
+What are the practical preferred uses of each, in relation to the others. If you were navigating within the solar system, which system would you use, or has been used by existing craft?
+For example wikipedia describes the ecliptic system as "still useful for computing the apparent motions of the [celestial bodies]", which seems pretty bloody obsolete. Even though it seems to me as the most intuitively useful system.

@@ -1,0 +1,3 @@
+Which parameters of stars could show they about to undergo a supernova explosion?
+
+I need to seek stars in our galaxy about to undergo a SN from catalogues. I can find stars in our galaxy by setting parallax to a certain value. However, I don't know how to find a parameter which tells me stars are about to undergo SN explosion. What can it be?

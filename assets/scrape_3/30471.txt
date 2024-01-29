@@ -1,0 +1,5 @@
+What is the force that changes a satellite’s inclination when orbiting a planet with an equatorial bulge
+
+I tried looking this up without success and I imagine there's a formula for it, with some ridiculous numbers like it drops off to the 5th power of the distance or maybe even more.
+Imagine a planet like Jupiter, large equatorial bulge and imagine an artificial satellite orbiting in a polar orbit, not an equatorial orbit.    Jupiter's enormous equatorial bulge should disrupt the satellite orbit and in time (perhaps a very long time), turn it into an equatorial orbit.
+Is that correct or incorrect thinking on my part and is there a formula that applies?    I imagine that some kind of measure for equatorial bulge would be needed as well and I'm not sure how that would be measured in a gravitational field from orbit.

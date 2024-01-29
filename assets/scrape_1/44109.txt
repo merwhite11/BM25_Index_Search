@@ -1,0 +1,4 @@
+What's the difference between minutes and arcminutes?
+
+I read in trigonometry class that 1 minute is equal to 1/60 degrees. So, 'minute' is an angular unit. But also 'arcminutes' are used to measure seperation between celestial objects and also equals to 1/60 degrees.
+Are they any similar? If not, then what's the difference?

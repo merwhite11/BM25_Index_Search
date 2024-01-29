@@ -1,0 +1,5 @@
+Does LIGO have a blind spot?
+
+If I understand the principle of operation of operation of LIGO, it detects relative distortions of the two perpendicular arms. So if both arms are distorted the same way, nothing would be spotted.
+In particular, any wave coming in the direction 45 degrees between the arms (both ways), or from above or from below - or generally any direction in the symmetry plane 45 degrees to the arms - would be completely invisible, and anything close to it would be very muted as the relative distortion would be minimal.
+Is that correct?

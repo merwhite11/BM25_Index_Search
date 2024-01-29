@@ -1,0 +1,8 @@
+Can someone explain to me the TEME reference frame in defining orbital coordinates?
+
+I am undertaking a project of developing a "surface station" for my desktop, which will track the position of different satellites as they fly overhead. I have zero background in astrophysics and the such, but I have learned a ton so far.
+I understand the importance of defining orbits to an ECI (earth-centered inertial) reference frame. From this, I can either translate my position on Earth to the ECI reference frame, or translate the satellites position from the ECI, to my ECEF (earth-centered, earth-fixed) reference frame.
+I followed this article here, where we determine my local sidereal time, by determining the Greenwich sidereal time, which from what I understand, is the conversion between the x-axis in the ECI reference frame, to the ECEF reference frame (with the prime meridian as the x-axis). This Greenwich sidereal time, we use (what I assume to be) an empirical formula to determine the angle, with some time from the J2000 epoch.
+Where I am getting confused now, is that apparently TLE (two-line element) data from satellites use a TEME (true equator, mean equinox) ECI reference frame, which a given epoch time with the TLE data.
+My question then is, how do I determine the Greenwich sidereal time from a given TEME reference time - it makes sense to me when we have a well defined J2000 epoch - but doesn't make sense to me if this epoch time is changing every time TLE data is published.
+Sorry if some of this doesn't make sense, I am trying to learn and any help would be greatly appreciated.

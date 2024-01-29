@@ -1,0 +1,5 @@
+What would happen to a gas planet if its core mass goes beyond the Chandrasekhar limit?
+
+Hypothetically, let's say we had a gas giant that continued to accrete mass. I've heard that the cores of gas giants are electron degenerate. So if the planet continued to accrete mass and the core mass went beyond the Chandrasekhar limit, what would happen?
+In white dwarfs, the result is dependent on the composition. Carbon-oxygen white dwarfs will undergo carbon fusion, leading to a type 1a supernova. Oxygen-magnesium-neon white dwarfs will undergo rapid oxygen fusion, leading to a rapid ignition and supernova but leaving behind a neutron degenerate core.
+So would the composition of a gas giant's core play a similar role, if it went beyond the Chandrasekhar limit? What would happen if, say, Jupiter somehow accreted a core mass beyond the limit?

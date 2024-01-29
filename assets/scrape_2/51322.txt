@@ -1,0 +1,18 @@
+What accounts for a Lyman-break for all wavelengths shorter than 91.2nm if the Lyman limit is the highest energy photon that neutral hydrogen absorbs?
+
+From this description of Lyman-break galaxies, I don't understand how:
+
+...radiation at higher energies than the Lyman limit at 912 Å is almost completely absorbed by neutral gas around star-forming regions of galaxies. In the rest frame of the emitting galaxy, the emitted spectrum is bright at wavelengths longer than 912 Å, but very dim or imperceptible at shorter wavelengths—this is known as a "dropout", or "break".
+
+But the wikipedia page for the Lyman series states that the highest limit of radiation absorbed or emitted by neutral hydrogen is 91.2 nm:
+
+the Lyman series is a ... series of transitions and resulting ... emission lines of the hydrogen atom as an electron goes from n ≥ 2 to n = 1 ... The greater the difference in the principal quantum numbers, the higher the energy of the electromagnetic emission.
+
+It then states that there is an asymptotic limit to this energy as the difference between transition levels approaches infinity:
+
+There are infinitely many spectral lines, but they become very dense as they approach n = ∞ (the Lyman limit)... "91.1753 nm"
+
+I don't understand how neutral hydrogen can absorb light from a photon emitted with wavelength shorter than 912 Angstroms if this wavelength is precisely the highest energy photon hydrogen can absorb.
+So my question is: How can there exist a wide drop-out in the spectrum of galaxies at wavelengths shorter than about 91.2 nm, if the highest-energy electromagnetic radiation a hydrogen atom can emit or absorb (at n = ∞) is 91.1753 nm?
+How is the hydrogen interacting with photons of higher-energies than this?
+It must be a conceptual issue I'm not understanding. Should I not view absorption energies as conceptually the same as emission energies?

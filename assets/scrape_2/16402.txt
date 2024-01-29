@@ -1,0 +1,4 @@
+Are white dwarf stars supported by proton degeneracy as well?
+
+In general, fermions form a degenerate gas under high density or extremely low temperature. It's clear that white dwarf stars are supported by electron degeneracy pressure. However, there are still a significant number of protons in a white dwarf. Under those high densities, do the protons form a degenerate gas?
+In addition, are white dwarfs supported by proton degeneracy pressure as much as they are by electron degeneracy pressure?

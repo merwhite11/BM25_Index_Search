@@ -1,0 +1,9 @@
+Seconds of Arc and the Unaided Eye
+
+I've been presented with this problem:    
+
+Say that Jupiter, with its diameter of 142,000 km, was located where Mars now orbits.  What would be the angular size of (the newly-relocated) Jupiter during a close approach, when its distance would be 79,300,000 km?  Would we be able to see Jupiter as a round object with our unaided eye, or only as a point of light?      
+
+The angular size is easy enough to calculate given $ \frac{Angular \space Size}{206,000} = \frac{Linear \space Size}{Distance} $.
+So $\frac{Angular \space Size}{206,000} = \frac{142000}{79300000}$ meaning Angular Size = 369 seconds of arc.     
+However, would the unaided eye be able to see this? Knowing that the eye can detect 1 minute of arc across, surely  it can detect 6.15? Any help appreciated, thanks!

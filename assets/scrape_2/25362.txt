@@ -1,0 +1,6 @@
+Where to get rate of change for calculating ephemeris from JPL Horizons
+
+I have a working implementation of Schlyter's method for calculating the Sun's position.   I would like to know how Schlyter got the 3.24587E-5_deg in the following calculation for Mercury.
+N =  48.3313_deg + 3.24587E-5_deg   * d    (Long of asc. node)
+
+I could not find this number in JPL Horizons.   I'm guessing it's the difference between the N at two epochs divided by number of days between the two epochs, but I'm not sure.

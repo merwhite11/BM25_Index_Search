@@ -1,0 +1,5 @@
+What measure should I use to help optimise the design of a telescope in a cubesat?
+
+I have started a project in Melbourne, Australia called nanosat eye in the sky to put a telescope in a cubesat and put it in LEO. The idea is then to add the telescope to itelescope. 
+I need to learn a heap about designing telescopes. I have limited space and want to understand how to measure the theoretical performance of our telescope.
+So my question is- how do I measure the performance of the telescope?

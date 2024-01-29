@@ -1,0 +1,5 @@
+Is there a more modern/updated paper than Hurley's 2000 SSE?
+
+I've implemented equations from Hurley's 2000 paper on Single Stellar Evolution (SSE) to model the stages of stellar evolution without having to use the full SSE code (or MESA for that matter). 
+Is there a more updated version of such a paper, where numerical formulae are given to model stages of stellar evolution? Has the knowledge base of the field of stellar evolution changed enough in the last 18 years to warrant an updated numerical formula recipe?
+Here's the arxiv of the paper.

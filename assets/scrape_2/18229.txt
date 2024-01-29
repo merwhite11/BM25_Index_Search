@@ -1,0 +1,6 @@
+Milky Way position on the sky
+
+I'm looking for some sort of boundary data to be able to render the milky way on a star map, as visible from Earth. Something that looks like this:
+
+For that, I need something like a collection of RA hours and DEC degrees of the "boundary points" of what's visible from Earth (technically the Galactic Center), possibly with proper motion too. I'm not looking for precise luminosity data or anything like that, just the points of the blob on the sky that most resembles the Milky Way's shape and position from the Earth. It's important that I want to render the sky map for any given surface point on Earth, for any given time (within the last 100 years at least).
+Do you know of a database like that? I've been looking on VizieR but I couldn't find what I was looking for.

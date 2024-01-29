@@ -1,0 +1,3 @@
+Are warm circumstellar debris disks still able to be detected at sub-millimeter wavelengths?
+
+At these wavelengths a survey is more sensitive to detecting relatively cool disks (T<100k), but would a telescope operating in the sub-millimeter be less sensitive to warm debris disk than say, a mid IR telescope?

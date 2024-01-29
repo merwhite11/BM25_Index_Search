@@ -1,0 +1,7 @@
+What does it mean when there are two plus-or-minus signs for a measurement?
+
+As far as I know, the plus-or-minus sign is used to indicate the statistical margin of error of a measurement. But what does it mean when there are two plus-or-minus signs in the same measurement?
+Some examples from Wikipedia:
+
+The mass of M87* is given as (6.5 ± 0.2stat ± 0.7sys) × 109 M☉ (as measured by the Event Horizon Telescope).
+The measured distance to Sagittarius A* is given as 7860 ± 140 ± 40 pc.

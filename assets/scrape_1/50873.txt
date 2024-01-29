@@ -1,0 +1,22 @@
+What is the equation for the radius of a star trail?
+
+I have been studying star paths, and have successfully used the following equations to map star paths in a multiple exposure photograph onto circles of a radius determined by the star's declination and my camera focal length and sensor size:
+
+I reason that the radius of a star trail in a photograph is the complement of the star's declination, or Abs(Nearest Pole Declination - Star Declination).
+The degrees / pixel of a digital photograph can be determined by the equation: Arctan( (Sensor Height * Object Height) / (Focal Length * Image Height) ), where the Object Height in this case is 1 pixel in order to get the value of 1 pixel in degrees.  The derivation of this equation can be found here, and I can go into more detail if needed.
+
+Combining these concepts, I calculate the arc length between the nearest pole and the star, and then multiply by the calculated Degrees / Pixel in order to overlay a circle of this pixel radius on the image.
+Here are some example annotated composite images.  Note that the Polaris picture was taken with a different focal length from the others, so its pixels cannot be directly compared.
+
+
+
+
+An example of applying these equations is Segin, in the second image, with declination 63 46' 54.7".  The star trail radius would be  about 26.21813889 degrees.  For this image, I used a focal length of 55mm, my camera sensor height is 15.4mm, and the resolution of the image was 3072px high.  Plugging this into the equations above resulted in a pixel radius of 5020px, which fit the progression of Segin quite nicely.
+Empirically, I've observed that the paths of stars where Abs(Star Declination) >= 12 degrees seem to match these estimated radii quite well, usually within a couple pixels.  However, this seems to break down near the celestial equator.  Intuitively, this makes sense to me, because a star path on the celestial equator would follow a great circle, which would appear to an observer as a straight line.  Indeed, the star trail of Mintaka, for example, which is within a half degree of the celestial equator, is very nearly straight, diverging from my estimated pixel circle radius quite obviously.
+Here is a comparison of the star trail circles I estimated in blue vs. straight paths in red.  It can be seen that Mintaka clearly follows the straight path more closely than the circle path.  However, by about 133 Tauri, the star is back on track with the blue circle.
+
+Incidentally, if I ignore the shape of the paths but just try to predict the speed of the stars, I have found that Hourly Speed = (23.9345 / 24) * Cosine(Star Declination) is quite accurate even around the celestial equator, but I'm not sure if this will be related to the problem of the shape.
+So, my two questions are:
+
+If to the observer on Earth, a star trail near the poles is a circle, and a star trail on the celestial equator appears to be a straight line, is the shape of everything in between still a circle (even within 12 degrees of the celestial equator), or is there some other shape in between?  What I'm hoping to narrow this down to, is whether I can accurately say that "all star paths form a circle in a photograph except those on the celestial equator, which form a straight line."
+Is there an equation that would describe the radius of star paths, including those within 12 degrees of the celestial equator?  It would seem to me to have to approach infinity as it approaches 0 declination.

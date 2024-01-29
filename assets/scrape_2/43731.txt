@@ -1,0 +1,4 @@
+Why is magnitude of Beta Lyrae given as 30.0 in Henry Draper catalog?
+
+Beta Lyrae (HD 174638) is ascribed visual magnitude 30.0 in the Henry Draper catalog. There are hundreds of other stars in the catalog also given magnitude 30.0. What was meant by these nominal magnitudes? Is there a resource in Vizier or elsewhere that provides corrected magnitudes?
+https://vizier.u-strasbg.fr/viz-bin/VizieR-3?-source=III/135A/catalog&-out.max=50&-out.form=HTML%20Table&-out.add=_r&-out.add=_RAJ,_DEJ&-sort=_r&-oc.form=sexa

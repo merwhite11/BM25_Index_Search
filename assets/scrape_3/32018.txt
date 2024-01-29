@@ -1,0 +1,24 @@
+What maintains the high orbital eccentricity of many exo-planets near their sun?
+
+Over the last decade we've discovered that many exoplanets not only have highly eccentric orbits, but also orbit very close to their sun. This is true of many classes of stars.
+I definitely have a gap in my understanding, because I'm perplexed as to why the orbits don't circularize when the planets are so close to their star. The tidal forces can be immense, yet the proportionally large number of eccentric planets indicates that many are likely not circularizing (at least over time periods of a handful of giga years). 
+Why? 
+I don't understand the physics of this well enough to say. Could it have something to do with with spin-orbital resonance of the planet? A paper I found from Anthony R. Dobrovolskis titled Spin states and climates of eccentric exoplanets indicates that highly eccentric planets in the tidal-lock zone would likely lock into spin states other than 1:1. This could be 2:1, 3:2, etc. Much like mercury. Does the achievement of this spin-orbital resonance do something to preserve the eccentricity? 
+I'd appreciate any help that could be provided! 
+Update: 
+Because it was asked for, I've included a list of some exoplanets that have both short orbital periods as well as highly eccentric orbits (varying from ≈0.15 all the way up to around 0.5). Ages of systems vary widely or is not known, from possibly as low as about 2gy up to over 10gy. 
+http://www.openexoplanetcatalogue.com/planet/CoRoT-16%20b/
+http://www.openexoplanetcatalogue.com/planet/HD%2011964%20A%20c/
+http://www.openexoplanetcatalogue.com/planet/HD%20109271%20c/
+http://www.openexoplanetcatalogue.com/planet/HD%2017156%20b/
+http://www.openexoplanetcatalogue.com/planet/HD%2017156%20b/
+http://www.openexoplanetcatalogue.com/planet/KOI-1299%20b/ - VERY eccentric
+Possibly highly eccentric, but measurement delta is too large to confirm eccentricity above ≈0.11:
+http://www.openexoplanetcatalogue.com/planet/Kapteyn%20b/
+Update 2: 
+More sources showing the existence of near-orbiting highly eccentric planets. While higher eccentricities are common farther out from a star, it looks like moderately high eccentricities (0.2, 0.3, 0.4) are not infrequent close-in to a star, particularly if the system lacks many other planets. Very high eccentricities are also possible close-in. 
+
+
+From: https://academic.oup.com/mnras/article/425/1/757/1004680
+
+"Eccentricity versus semimajor axis going from low (left) to high multiplicity (right). A red dot is shown for where Jupiter would appear on the one- and two-planet distributions, and for Saturn on the two-planet distribution."

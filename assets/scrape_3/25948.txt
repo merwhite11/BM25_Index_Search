@@ -1,0 +1,4 @@
+"Ideal" primary thickness in a Dobson
+
+I plan to buy a 12" or 14" dobson, the choice depending on my final budget and on the total weight of the instrument. I have several options for the primary mirror. I tried to find a formula that would give the acceptable range for mirror thickness depending on the diameter, maybe also on the material (BK7, pyrex, ....). Is there such a formula, or a back-of-the-enveloppe calculation, which could help me? If not, what do people go with usually (for these diameters, I mean)?
+Thank you for your help.

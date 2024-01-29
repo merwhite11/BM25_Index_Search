@@ -1,0 +1,6 @@
+How is the total mass of all the Solar System's small asteroids and meteoroids estimated?
+
+This diagram from wikipedia (shown below) graphs asteroid Diameter against Number of asteroids, for the Solar System.  (Graphic is courtesy of the Marco Colombo, DensityDesign Research Lab).
+Presumably the Diameter data for the larger asteroids is strongly supported by observations.  But for progressively smaller bodies direct observational data is presumably less available.
+The pattern shows a strong, but not perfect, linear inverse correlation between log(Diameter ) and log(Number).  This seems quite reasonable for large bodies. It also sounds plausible that such a pattern continues into the realm of small asteroids and meteoroids.  
+But what is the physical justification for extending the log:log pattern into the realm of small bodies which are too small to see from Earth?  Presumably the current estimate of the total mass of the Astroid Belt (4% of the mass of the Moon) is consistent with this distribution model.  But can we confidently rule out the possibility that the linear log:log pattern breaks down for small objects allowing, for example, a much larger number (and mass) of small bodies to be present in the Asteroid Belt, sufficient say for the total combined mass to equal 100% of our Moon's mass?

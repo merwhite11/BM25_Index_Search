@@ -1,0 +1,20 @@
+First satellite of an asteroid (or double asteroid) ever imaged by delay-Doppler radar?
+
+In comments about my previous bounty on the Space SE question Which deep-space spacecraft flew closest by Earth during a gravitational assist?, I started to look at the Galileo mission and ran across the following factoid. From here for example:
+
+On August 28, 1993 Galileo came within 2,400 kilometers of Ida, the second asteroid ever encountered by a spacecraft. They passed each other at a relative velocity of 12.4 km/sec (28,000 mph). At the time of the encounter, Ida and Galileo were 441 million kilometers from the Sun.
+The greatest discovery from the Galileo fly-by was that Ida has a natural satellite. The moon has been named Dactyl by the International Astronomical Union. Dactyl is the first natural satellite of an asteroid ever discovered and photographed. The tiny moon is about 1.2 by 1.4 by 1.6 km across.
+
+From Wikipedia's 243_Ida; Discoveries:
+
+The discovery of Ida's moon Dactyl, the first confirmed satellite of an asteroid, provided additional insights into Ida's composition.36
+36Chapman, Clark R. (October 1996). "S-Type Asteroids, Ordinary Chondrites, and Space Weathering: The Evidence from Galileo's Fly-bys of Gaspra and Ida". Meteoritics. 31 (6): 699–725. https://ui.adsabs.harvard.edu/abs/1996M%26PS...31..699C/abstract and https://onlinelibrary.wiley.com/doi/10.1111/j.1945-5100.1996.tb02107.x
+
+Delay-Doppler radar can also generate images of (rotating) asteroids and detect and image any satellites they may have. So I'd like to ask:
+Question: What was the first satellite of an asteroid (or double asteroid) imaged by delay-Doppler radar?
+
+From this answer to What causes "North-South ambiguity" when doppler radar imaging a planet surface equator? in Astronomy SE (see also What is the physical geometry of this apparent "eclipse" of a tiny moon of Asteroid Florence?)
+
+Left: A very slow GIF from Emily Lakdawalla's How radio telescopes get "images" of asteroids
+Right: A radar image shows asteroid 3122 Florence and tiny echoes from its two moons. Here is an animation that shows them more clearly. The direction of the radar illumination (and thus the direction toward Earth) is at the top." From here. NASA / Jet Propulsion Laboratory. This is a small subset of the frames contained in the original 36 MB GIF, and the size has been decreased by a factor of 2 in order to fit in SE's 2 MB limit. From the question What is the physical geometry of this apparent "eclipse" of a tiny moon of Asteroid Florence?
+Note: These two images do not necessarily have the same orientation.

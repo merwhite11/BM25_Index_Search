@@ -1,0 +1,3 @@
+What would the HR diagram look like if the axes were scaled linearly instead of logarithmically?
+
+The Hertzsprung-Russell diagram typically has its axes scaled logarithmically, and with good reason. The hottest stars are about 20 times as hot as the coldest ones (at least at the surface), and the brightest stars are millions of times more luminous than the dimmest ones. With temperature and luminosity among stars having such wide ranges, logarithmic axes are the best way to show all the different star bands on the same chart. What would this look like if the temperature and luminosity axes were scaled linearly?

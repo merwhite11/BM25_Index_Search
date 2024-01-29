@@ -1,0 +1,5 @@
+How would white light cavities (WLC) work for gravitational wave detection?
+
+A study done by Michael A. Page, Maxim Goryachev, Haixing Miao, and peers states that WLCs can be used to improve the sensitivity of LIGO. LIGO currently uses photons (for very constant speed at which they travel in a vacuum), but if the phononic crystals were integrated into the structure of LIGO itself how would the phonons travel in a vacuum (considering they're mechanical waves). My physics teacher mentioned something about it travelling on the g-wave but refused to elaborate.
+Link to Study (https://www.nature.com/articles/s42005-021-00526-2)
+Link to Article (https://theconversation.com/a-tiny-crystal-device-could-boost-gravitational-wave-detectors-to-reveal-the-birth-cries-of-black-holes-155125)

@@ -1,0 +1,14 @@
+Minimum apparent magnitude of galaxy
+
+currently I'm working on astronomy problem which deals with finding redshift of a galaxy. But the first part asks to derermine apparent magnitude of a galaxy:
+
+Find what should be the minimum apparent magnitude of a spiral galaxy, whose distance could be calculated with sufficient accuracy from Hubble-Lemaître law and it's spectrum observations.
+
+This apparent magnitude should be used later on together with given absolute magnitude (in visual band) to find the distance to the galaxy and in turn it's velocity from Hubble law.
+I know how to solve the rest of the problem, but I cannot find the answer to this question. It seems to be theoretical question - with no calculations involved. I tried to think about it in to diretions:
+
+There's some limiting brightness below which spectroscopy becomes impossible. But after searching it seems as long as there's light, it's spectrum can be analyzed. So the answer could be minimu magnitude observable from our telescopes? It seems to be about 30 but I doubt it's the answer because it's too much dependent on sources you use.
+There's some limiting distance after which Hubble's law no longer holds. This direction leads to very difficult topics of cosmology, relating to general relativity and geometry of universe. My problem should be solvable even without special relativity. But as I understand, as long as you know the geometry of the universe, Hubble law holds. O have found that Hubble law works up to about z=1, after that you need know geometry and other advanced cosmological stuff. But again, numbers vary, so no defininte answer here.
+
+Also it's worth noting that I probably need to find visual magnitude (because visual absolute magnitude is given). I assume it could redshift to invisible part of spectrum - maybe that has something to do with the answer.
+Any help would be appreciated.

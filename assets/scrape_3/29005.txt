@@ -1,0 +1,10 @@
+Calculation of Eccentricity of orbit from velocity and radius
+
+For a school project I am making a gravitational computer model. As I want to Milankovitch cycles, I need to calculate the eccentricity of an orbit after the model has completed its simulation.
+I have thought about calculating the eccentricity using the aphelion and parohelion height, but these are not available as it is a simulation and as it therefore stores the data for one point on the ellipse.
+The data I have after the model has completed:
+X,Y,Z coordinates of points that it has saved
+X,Y,Z velocities of points that it has saved  
+I have been able to calculate the semi-major axis using the vis-viva equation. I have tried to get the value using the vis-viva equation but I got stuck as I think I need at least the Aphelion or Parohelion to calculate the eccentricity.
+My question: Does anyone know how  to calculate the eccentricity at any given point in the orbit using the velocity and coordinates (without simulating all points around it)? 
+If not, does anyone maybe have a better idea/suggestion that I can try to gain the eccentricity values?

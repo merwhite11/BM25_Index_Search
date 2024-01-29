@@ -1,0 +1,10 @@
+Can a habitable planet be smaller than 0.58 Earth radii?
+
+According to the below image, the lowest escape velocity a planet can have in order to still be able to retain water on its surface and have a temperature above freezing is 6.5 km/s minimum.
+With Earth density (which is already a pretty high density to have for a planet smaller than Earth), 0.58 Earth radii has an escape velocity of 6.488 km/s, 0.585 Earth radii has an escape velocity of 6.544 km/s, and 0.59 Earth radii has an escape velocity of 6.6 km/s.
+More narrowly, 0.581 Earth radii has an escape velocity of 6.499 km/s, while 0.582 Earth radii has an escape velocity of 6.51 km/s.  Thus, hypothetically, the smallest habitable planet has between 0.581 and 0.582 Earth radii.
+My question is, is this true?  Is it impossible for a planet smaller than ~0.58 Earth radii to maintain liquid water on its surface?
+This chart implies that a planet smaller than this can only retain water on its surface in its frozen state, or otherwise a lower escape velocity even if the planet were in the habitable zone would cause the planet to lose its water over cosmological timescales.
+The only alternative would be to have a higher density than Earth which would increase its mass, gravity, and escape velocity, but as I said, Earth density is already quite high for such a small planet.
+
+(source)

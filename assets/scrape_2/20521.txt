@@ -1,0 +1,9 @@
+Kepler - Creating the Ellipse (Astronomia Nova)
+
+In Chapter 58 in Astronomia Nova, Kepler made his final step to finally create the ellipse (for the orbit of planets) 
+http://science.larouchepac.com/kepler/newastronomy/part4/58/index.html
+In the given source there is written: 
+"Dissatisfied with so large an error, Kepler writes that he rejected his hypothesis of chapter 56, which was supported by the distances of chapters 51 and 53 as well as the physical arguments of chapter 57"
+For his hypothesis of chapter 56 he made use of the distances of chapters 51 and 53. And now, he rejects this hypothesis. Does that mean the distances he calculated were wrong? Or did he just use these (correct) datas for a wrong suggestion for orbits?
+Here you can see the determination of the distances:
+http://science.larouchepac.com/kepler/newastronomy/part4/51/index.html

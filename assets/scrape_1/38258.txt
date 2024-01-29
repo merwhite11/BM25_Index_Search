@@ -1,0 +1,55 @@
+How to approximate the distance at which the thin disk peaks along a given LOS from Earth for a given galactic coordinate per 1 sq deg?
+
+The density of stars drops off exponentially from the center of the galaxy and can be approximated as follows using a cylindrical coordinate system:
+$$ \rho(R, z) = \rho_0 \exp \frac{-R}{h_R} \ \exp  \frac{-|z|}{h_z} $$
+screenshot
+The radial scale length and height of the thin disk are ~ 3000 pc and ~ 200 pc respectively. At the moment rho_0 will just be taken as 1. We observe at a given l and b of 90 and 15 respectively using the galactic coordinate system (just look at l and b for now, the rest are annotations I added that I will describe shortly). The galactic coordinate system uses spherical coordinates:
+
+We want to know where the density of stars peak along at given LOS (from Earth) per 1 sq degree at a given l and b. There are 41253 sq degrees in the entire sky, so 1/41253 will be the fraction we want to multiply the density equation by. However, we must also consider how the volume element changes by distance along the given LOS, so we need to also multiply rho and 1/41253 by this change in volume. This volume element can be represented by $4 \pi r^2 dr$ (the surface area of the sphere and the small change in the distance along the LOS). We are almost done but need a way to transform between coordinate systems by relating galactic coordinates to distance r and R (as seen in the diagram above). Mathematically, they are related as follows (Eq. 3 in Where Does the Disk Stop and the Halo Begin? Kinematics in a Rotation Field Morrison, Flynn and Freeman 1990 Ast. J. 100 (4) 1191-1222):
+$$ r^2 = R_☉^2 + R^2 - 2 R R_☉ \cos b \cos l $$
+screenshot
+So, for a given r (distance from star or LOS to sun), l and b, we can find R (the distance from the G.C. to the star or LOS). This is in cylindrical coordinates, so we need to use cos(b)R and sin(b)R to find R and z in the density equation above (note these are different r's). The volume element needs to be the LOS from Earth, which corresponds is the R in the diagram and equation for the paper (for the given l,b, and r). Putting this all together, I have the following code. Please let me know if this attempt seems reasonable, or if not, where I went wrong.
+import numpy as np
+import matplotlib.pyplot as plt
+
+C=8500 #Distance from center of galaxy to sun (R_sun_
+
+#Galactic Coordinates
+b=np.deg2rad(15) #above plane
+l=np.deg2rad(90) 
+
+#Scale heights for the thin disk
+h_R=3000
+h_z=200
+
+nsqdeg_in_sky=41253 #square deg in whole sky
+
+
+#R: Distance from star to sun
+R=np.arange(0,15000,1)
+
+#distance from star to G.C.
+#r: distance from star to G.C. kpc
+r=np.sqrt(C**2+R**2-2*R*C*np.cos(b)*np.cos(l))
+print(r)
+
+#Spherical Galactic Coordinates to cylindrical coordinates
+#z component of R
+R_z=np.sin(b)*r
+#r component of R
+R_r=np.cos(b)*r
+
+
+#density equation describing thin disk
+rho_thin=np.e**(-R_r/h_R)*np.e**(-np.abs(R_z)/h_z)
+
+#desnity equation combining volume element and portion of sky
+N_thin = (1./nsqdeg_in_sky)*(4*np.pi)*R*R*rho_thin
+
+plt.title("Number of stars per 1 square degree")
+plt.plot(R,N_thin,color='blue',label='thin')
+plt.legend(loc='best')
+plt.xlabel(r'$distance$ [pc]')
+plt.ylabel(r'$N_\ast$ [pc$^{-1}$]')
+
+edit to add plot for given l and b above:

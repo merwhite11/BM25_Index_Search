@@ -1,0 +1,9 @@
+Fusing and buring of Helium core/shell
+
+In the book "Horizons_ exploring the universe-Cengage learning (2018)", p196, it states that
+
+The nuclear reactions in a main-sequence star’s core fuse hydrogen to produce helium. Because main-sequence stellar cores are
+cooler than 100,000,000 K, the helium can’t overcome the Coulomb barrier to fuse in nuclear reactions, so it accumulates at the
+star’s center like ashes in a fireplace.
+
+But if the temperature is not high enough to fuse helium, then how does the ending stage of a main sequence star is by burning its helium shell? Is fusing different from burning? If so, why doesn't a helium core star burning its core, even if it cannot reach the temperature about the Coulomb barrier?

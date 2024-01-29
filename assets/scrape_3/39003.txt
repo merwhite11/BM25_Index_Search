@@ -1,0 +1,21 @@
+What does "unremarkable transverse peculiar velocity" mean exactly, and how is it calculated here?
+
+The abstract of A magnetar parallax (also in MNRAS) contains the following:
+
+Combining our new observations with two archival observations from 2006, we have refined the proper motion and reference position of the magnetar and have measured its annual geometric parallax, the first such measurement for a magnetar. The parallax of 0.40±0.05mas corresponds to a most probable distance 2.5+0.4−0.3kpc for J1810. Our new astrometric results confirm an unremarkable transverse peculiar velocity of ≈200km s−1 for J1810, which is only at the average level among the pulsar population
+
+This reports the first radio astrometric determination of parallax "for a magnetar".
+The peculiar phrase "unremarkable transverse peculiar velocity" is vernacularly dissonant, but parenthetical clarifications in the body of the paper help with that:
+
+5 DISCUSSION
+As is shown in Table 1, our new proper motion significantly improves on the previous value inferred from the two year-2006 positions; the new distance D = 2.5+0.4−0.3 kpc is consistent with 3.1 ± 0.5 kpc estimated using red clump stars (Durant & van Kerkwijk 2006), while in mild tension with 3.1−4.0 kpc constrained with neutral-hydrogen absorption (Minter et al. 2008), suggesting the  distance to the neutral-hydrogen screen was over-estimated. In models of NS kicks from the electromagnetic rocket effect (Harrison & Tademaru 1975) one might expect magnetars to have higher velocities (Duncan & Thompson 1992). Our new parallax and proper motion corresponds to the transverse velocity vt = 198+29−23 km s−1. Using the Galactic geometric parameters provided by Reid et al. (2019) and assuming a flat rotation curve between J1810 and the Sun, the peculiar velocity (with respect to the neighbourhood of J1810) perpendicular to the line of sight was calculated to be vb = −54 ± 8 km s−1 and vl = −175 ± 26 km s−1. Our refined astrometric results consolidate the conclusion by Helfand et al. (2007) that J1810 has a peculiar velocity typically seen in “normal” pulsars, unless its radial velocity is several times larger than the transverse velocity.
+
+My understanding of that is limited, but I think that "peculiar velocity" is the velocity relative to some larger structure in which it is found and/or believed to be gravitationally associated with, and the "perpendicular peculiar velocity" component comes from some model that includes the assumption of "a flat rotation curve between J1810 and the Sun". But I haven't a clue what that means.
+See also Wikipedia's Peculiar_velocity; Galactic_astronomy for a short description.
+
+In galactic astronomy, peculiar motion refers to the motion of an object (usually a star) relative to a Galactic rest frame.
+
+Questions:
+
+How is the transverse component of said peculiar velocity determined here, and what does "a flat rotation curve between J1810 and the Sun" refer to?
+Have I got this right, and in general "peculiar velocity" is a velocity relative to some larger structure in which it is found and/or believed to be gravitationally associated with?

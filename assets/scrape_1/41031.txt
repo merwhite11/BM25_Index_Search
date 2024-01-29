@@ -1,0 +1,3 @@
+Radial Velocity Graph and Rossiter Mclaughlin Effect
+
+I am trying to understand the effect of the Rossiter–McLaughlin effect on radial velocity plots. Can someone help me and explain what exactly is happening in the red circle?

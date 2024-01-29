@@ -1,0 +1,10 @@
+What is the official classification and naming system of objects in the universe(, or what would my URI look like)?
+
+Poetic human centric approach:
+Universe/Laniakea/Virgo/MilkyWay/Sol/Earth/Humans/AndreasT
+
+Little bit more technical:
+Universe/0/SuperCluster/0/GalaxyCluster/0/Galaxy/0/StarCluster/0/Star/0/Planet/3/../HomoSapiensSapiens/2834929849289
+
+More ... multiversal?
+Or is there something in the spirit of the rebasing of SI units to universal concepts that makes us not be the origin(hah!) of the system?

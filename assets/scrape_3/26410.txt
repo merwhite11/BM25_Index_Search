@@ -1,0 +1,5 @@
+Position of specific stars in the sky as a function of time
+
+I'm a beginner in astronomy and I'm trying to figure out how to model the positions of stars in the night sky mathematically (ie a function which spits out azimuth and altitude as a function of time). I was wondering if anyone knew of any such function, I understand it would vary with your position on earth. 
+Furthermore, does anyone know anything about the mathematics of star movements, I'm trying to learn all I can. 
+Thanks!

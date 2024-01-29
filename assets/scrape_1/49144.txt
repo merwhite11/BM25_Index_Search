@@ -1,0 +1,10 @@
+What is being said here about the strange precession of DI Herculis?
+
+The binary star system DI Herculis was brought to the astronomy community by Edward Guinan because it has an observed precession which is far lower than the one predicted by General Relativity.  In 2009, a research team "Solved the Problem" by pointing to DI Herculis misaligned spin and orbital axis.  Zimmerman, Guinan, & Maloney (2010) later replied with The Eclipsing Binary Di Herculis: One Mystery Solved, But Another Takes Its Place1
+They state:
+
+Further, we find evidence that the projected rotation axes of the stars may be precessing, since it appears that the value of V(rot)sini has increased over the past 30 years
+
+Are they saying DI Herculis precession is changing?
+
+1American Astronomical Society, AAS Meeting #215, id.419.34; Bulletin of the American Astronomical Society, Vol. 42, p.282

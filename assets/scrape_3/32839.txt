@@ -1,0 +1,4 @@
+How does the orbit of a 2-body system evolve as it orbits a more massive 3rd body?
+
+I have been reading up on how multiplicity of star systems decline with star mass, which implies a relatively common occurrence of binary star systems orbiting more massive stars. I would imagine this would also mean the orbital plane of such multi-star systems aligning with the orbital plane of the system and the star it orbits as time passes, which I believe is in line with how disc accretion is such a common pattern.
+What I am wondering is how such a realignment would affect behavior of the orbit of a hypothetical binary system? Would the stars get closer to the barycenter or further as this realignment occurs? How about periodicity or heat?

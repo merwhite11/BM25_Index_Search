@@ -1,0 +1,14 @@
+How to determine the formula to calculate this position of reflected Sun?
+
+I created a geometrical simulation of how the Sun is reflected on a wall along the day and along the year, using Geogebra:
+
+https://www.geogebra.org/classic/dckhbc8h
+Playing with parameters, I found an oddity: in some specific cases, changing the "season angle", i.e. inclination of su circle w.r.t. horizon, I can see the "sun reflection line" always passing in same point on the wall along whole year:
+
+
+
+Overlapped:
+
+Is this a real behaviour or just an error in my simulation?
+Does it happens always at same time of the ay? My simulation currently does not show the times along the "sunLine" segment.
+How could I build a Geogebra formula to directly draw the "convergence point" of all the sunLine lines along the year?

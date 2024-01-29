@@ -1,0 +1,4 @@
+Gravitational lensing
+
+I was reading about gravitational lensing. I was just curious to know if there are any formulae or methods to find the angle at which the light deflects due to strong gravitational lensing? 
+And how far should that massive object be present so that we can observe multiple images of the observing object?

@@ -1,0 +1,8 @@
+Help understanding ring diagram analysis used in helioseismology
+
+I need help understanding something. In global helioseismology we study the modes directly (stationary waves characterized by 3 integers numbers: $n$, $l$ and $m$). As the angular degree $l$ becomes bigger, the acoustic waves don't form a stationary wave (mode) anymore (they don't have enough lifetime anymore).
+But, I'm working with ring diagram analysis (one of the techniques of local helioseismology) for these waves that don't form a mode. And in the data we still have and integer number $n$ (number of nodes in radial direction) and a non-integer number of $l$ (because the wave is not stationary).
+I don't understand, what does that mean?? I have an $n$ and $l$ describing a propagating wave? What is the physical mean of that?
+
+https://iopscience.iop.org/article/10.1086/306765/fulltext/38895.text.html
+https://www2.mps.mpg.de/projects/seismo/NA4/NiceMeeting/proceedings/antia/electronic/ring.pdf

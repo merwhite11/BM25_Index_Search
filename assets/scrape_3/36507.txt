@@ -1,0 +1,6 @@
+Is there a relation between mass, radius, and luminosity in deuterium-burning brown dwarfs?
+
+I'm a worldbuilder and my setting has a lot of brown dwarfs. 
+While I'm trying to keep my setting as science-compliant as possible, I can't seem to find any resources for brown dwarfs like there are for main sequence stars, just basic encyclopedia pages describing what brown dwarfs are.
+I do know that brown dwarfs undergo deuterium fusion for a short period of time after they form, cf. Wikipedia's Brown dwarf; deuterium fusion. 
+Does that process lead to a mass-radius-luminosity relation like hydrogen fusion does in main sequence stars?

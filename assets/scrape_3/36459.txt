@@ -1,0 +1,6 @@
+Understanding the JPL Ephemerides
+
+I'm working on an animation that replicates our Solar System. I know this has been done before, but I'm working on something that requires me to make one myself. With that being said, I'm having a tough time deciphering the JPL Ephemerides. Particularly for the Moon because I have already figured out how to work the VSOP Ephemerides, which gives me the positions for the planets. 
+Does anyone know of a source I could use to learn how to utilize the ASCII JPL Epehemerides file that are found here? It would be a huge help and I think a step by step walk through would probably help others in the future.
+Thanks!
+Link to Epheremerides files

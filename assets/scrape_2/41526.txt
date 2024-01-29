@@ -1,0 +1,3 @@
+How do pressure, temperature, and gravity affect a smaller body than Earth with the same bulk composition?
+
+Earth has a density of about ${\rm 5.513 ~g/cm^3}$ with one Earth radius and one $g$.  Venus, a very similar planet to Earth and likely with about the same bulk composition, has a density of about ${\rm 5.24 ~g/cm^3}$ with 0.95 Earth radii and $0.9 \cdot g$.  How does this scale?  If a planet has 0.5 Earth radii, how would the lower core pressure, lower temperature, and lower gravity impact the density based on the same bulk composition?

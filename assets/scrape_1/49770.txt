@@ -1,0 +1,4 @@
+Why was the NVSS(NRAO VLS Sky Survey) conducted at 1.4 GHz continuum?
+
+I am observing the nature of some galaxies looking at their radio images and contours from NVSS. So, the data collected have radio flux at other wavelengths but I am studying it at 1.4GHz. I have been told it's because some flux at the 1.4 GHz continuum confirms it to have radio emission at other wavelengths too. On the NVSS site they only mentioned what they did, not why.
+I don't understand the exact reason. Can someone please help in this?

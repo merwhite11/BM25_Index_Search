@@ -1,0 +1,13 @@
+Why does the tropical year have a ~161 years cycle?
+
+Using PyEphem, I calculated the time difference between consecutive summer solstices in the south hemisphere for the last 4000 years, and plotted them in a graph. It seems like random noise around the mean, but the amplitude seems to oscilate with a period of around ~161 years. What explains this behavior?
+
+Code used:
+import ephem
+
+date = ephem.Date("2023/01/01")
+solstice = ephem.previous_winter_solstice(date)
+for i in range(4000):
+    previous_solstice = ephem.previous_winter_solstice(solstice)
+    print(solstice - previous_solstice)
+    solstice = previous_solstice

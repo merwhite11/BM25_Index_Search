@@ -1,0 +1,5 @@
+Is there a preference for orbital planes of planetary systems to be aligned with the galactic disk?
+
+I'm not sure for how many planetary systems we have a fairly good idea of the inclination and "argument of periapsis" of the orbital plane. I'm assuming there are a number of them that we can estimate due to co-planar assumptions in a multi-planet system or some other means.
+I am asking if there are enough "known" orbital planes that we can have some statistical idea whether or not the orbital planes are somewhat aligned with the galactic plane or whether local forces would dominate galactic orbit angular momentum. (I'm thinking the latter is true.)
+We would have to keep in mind of course that a system "directly above" us and parallel to the galactic plane would be "face on".

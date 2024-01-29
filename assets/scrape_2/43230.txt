@@ -1,0 +1,17 @@
+What's the largest angle that light has been "seen to bend" by gravity? (of one object by a separate object)
+
+Gravitational lensing is everywhere! because it falls off so slowly with $r$:
+$$\Delta \phi \approx \frac{4GM}{c^2r_0}.$$
+That's the first order term. For a nice derivation see Viktor Toth's The bending of light by gravity "...square rooted expression in the denominator can be simplified to first order..."
+Wikipedia's gravitational lensing breaks it up into three general categories
+
+strong lensing
+weak lensing
+microlensing
+
+Questions:
+
+What's the largest angle that light has been "seen to bend" by gravity? (of one object by a separate object)
+Was it large enough that a higher order term in this expansion was at all significant?
+
+I'm going to arbitrarily exclude seeing the accretion disk behind a black hole or other strong local phenomenon like that, so I've added "of one object by a separate object" to the title, otherwise the now famous Event Horizon Telescope image seems like a winner. (To my understanding the dimmer part across the top is light from the accretion disk behind the black hole "bent over the top and towards us" Is the angular size of the black hole in the movie "interstellar" completely overblown?) As an aside, certainly the first order equation above would no longer apply in this case.

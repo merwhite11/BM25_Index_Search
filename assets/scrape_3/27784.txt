@@ -1,0 +1,4 @@
+Planning observation: determine dates where moon is within 30 degrees of my object?
+
+I'm planning an observation for a proposal and I need to determine which dates the moon is within 30 degrees of an object so I can ask to not be scheduled for those dates.  This object is near the ecliptic so it is guaranteed the moon will pass close by at times.
+In the past I've used skycalc to manually figure out such dates, but now I need to figure out dates over a several month period, and I was hoping there was some more automated tool I could use for this purpose.

@@ -1,0 +1,3 @@
+Why are O III lines so prominent in the spectra of emission nebulae when the amount of oxygen relative to hydrogen is a million times smaller?
+
+Looking at spectra of emission nebulae like the Lagoon Nebula, the $[\text{O III}]$ lines are prominent in intensity. However, the abundance of oxygen is minuscule compared to hydrogen. How then are the $[\text{O III}]$ spectral lines of such high intensity?

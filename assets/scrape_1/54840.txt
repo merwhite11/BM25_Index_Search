@@ -1,0 +1,7 @@
+How would we tell the difference between low mass objects that formed by direct collapse or in an accretion disk?
+
+In this question about rogue planet/sub brown detection there are a couple of comments about classification of non-stellar, low mass, free floating objects. Part of one of the answers is -
+
+Some "free-floating planets" may have been ejected from their birth systems. This is a hazard that is theoretically predicted in any dense, clustered phase of the star forming environment. Others may have been born as isolated objects and simply represent the low-mass tail of the initial mass function.
+
+The question is, what observational differences would there be between these two classes of objects?  What would show us that an observed object formed at the center of the contracting cloud and not out in the accretion disk?

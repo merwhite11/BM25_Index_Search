@@ -1,0 +1,9 @@
+What is the maximum speed in which a human jumping away from Deimos and towards Mars would actually fall back down rather than enter Mars' gravity?
+
+Imagine a universe in which Deimos and a human are the only objects in the universe. It doesn't matter if the human jumped even 1 nanometer per second slower than escape velocity, they would still eventually be drawn back to Deimos even if they traveled vast distances during that time.
+But in our universe Deimos happens to be pretty close to Mars. Imagine a human standing at the sub-Martian point on Deimos so that Mars is directly overhead.
+If said human jumped perpendicular to the ground at slightly less than escape velocity, even though they should theoretically fall back to Deimos, they would instead come close enough to Mars to the point where they will either crash into it or enter an orbit.
+
+My question is: What is the maximum velocity in which a human jumping towards Mars at the sub-Martian point on Deimos could be going and still end up falling back to Deimos rather than get overwhelmed by Mars' gravity?
+NOTE: Feel free to pretend the human, Deimos, and Mars are the only bodies in the universe and that they're all spheres of uniform density to eliminate any complications. This is less of a question about Deimos/Mars in particular and more about the real escape velocity of a very small satellite orbiting close to its planet like Deimos.
+Also don't worry about how a human can somehow achieve speeds near Deimian escape velocity with a simple perpendicular jump. Assume they're superhuman ;)

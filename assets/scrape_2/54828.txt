@@ -1,0 +1,8 @@
+Is there an assessement of chemical element availability in other star systems?
+
+This question is linked to my previous question about star metallicity’s link to the chemical element availability in that star’s planetary system: Is there a link between a star's metallicity and the availability of chemical elements in its system?
+Quick reminder: I’m doing this inquiry to world-build how interstellar trade would function in my story. The premise is that if one star system has an abundance of one element that is in short supply in others and is of high demand, it would be this star system’s prime export commodity.
+You have provided excellent answers about nucleo-synthetic pathways. The only problem is that I don’t understand this process. My approach instead would be much simpler: look at resources available in our own Solar System, look at the difference in metallicity in the target star, and adjust element abundance numbers accordingly (lower metallicity - lower element abundance and vice versa). And it probably is incorrect.
+But there is this website publishing assessments of TOP5 chemical elements available on planets and other notable celestial bodies of our Solar System: Top 5 elements in the atmosphere of Venus (usra.edu). As well as this database assessing all known asteroids in Solar System and estimating element availability on each, in addition estimating required Delta-v and returned profit from potential astromining operation: Asteroid Database and Mining Rankings - Asterank.
+So I have got the question:
+Are there maybe similar assessments about other star systems?

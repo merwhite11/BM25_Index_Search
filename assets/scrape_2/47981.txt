@@ -1,0 +1,15 @@
+Infrared ozone line detection
+
+I was recently reading Jack R. Woods' response on this forum: Could the James Webb Space Telescope detect biosignals on exoplanets?
+
+In an ideal situation (say looking at absorption lines of a
+super-earth) there are many "bio-signatures", but one of the easiest
+to detect would be an ozone line in the infrared. By itself, this
+would not be proof, even though there would need to be a constant
+replenishing source of O2 in the atmosphere to maintain the O3. If
+methane could also be found we could rightly get VERY excited since
+methane and oxygen don't co-exist very well.
+
+Question: Why wouldn't O3 detection be proof? Is there any non-biological process - already observed or theoretical - capable of generating O2 on a planetary scale with sufficient constancy to maintain an O3 layer?
+Apparently there are theoretical processes that could actually generate O2 in the absence of life. I just don't know if it's proven:
+Titania may produce abiotic oxygen atmospheres on habitable exoplanets | Scientific Reports

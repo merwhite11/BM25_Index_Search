@@ -1,0 +1,47 @@
+Moon position differences on JPL Horizons, GMAT, Skyfield (using DE421)
+
+I found a relevant difference in the positions for the Moon when calculating its Geocentric position with GMAT and Skyfield (https://rhodesmill.org/skyfield/), in both cases with JPL DE421. Additionally, I got the Moon position from JPL HORIZONS.
+The euclidian distances between Skyfield/GMAT and Skyfiled/HORIZONS look as follows for 28 days (starting at JD TBD=2456021.501534172):
+
+The average difference between Skyfield/HORIZONS is around 3 meters, whereas the Moon position output from GMAT shows a difference up to almost 60 meters. Looking at the distinct differences in x/y/z (all in ICRF):
+
+Some screenshots from GMAT:
+
+Ephemeris file
+
+Data output: asking for Moon position in geocentric ICRF
+
+
+I calculate the Moon position through Skyfield at the Julian Dates provided in the GMAT report file:
+# preload Skyfield database / planets
+planetsEphemeris = load('de421.bsp')
+earth = planetsEphemeris['Earth']
+moon = planetsEphemeris['Moon']
+ts = load.timescale()
+
+# load GMAT output
+GMAToutput2 = '/Users/thibault/Desktop/GRAILA-Report.txt'
+GMATcsv2 = pd.read_csv(GMAToutput2, sep='\s+', skiprows=0)  
+GMATcsv2.loc[:,'JD_TBD'] = GMATcsv2.loc[:,'Luna.TDBModJulian'] + 2430000.0 # add JD-offset (ModJulian)
+
+# add Skyfield Moon
+MoonPos = moon.at(ts.tdb_jd(GMATcsv2.JD_TBD.values)).position.m - earth.at(ts.tdb_jd(GMATcsv2.JD_TBD.values)).position.m
+GMATcsv2.loc[:,['MoonX','MoonY','MoonZ']] = MoonPos.T/1000
+
+# differences
+GMATcsv2.loc[:,['dX','dY','dZ']] = GMATcsv2.loc[:,['MoonX','MoonY','MoonZ']].to_numpy() - \
+                                    GMATcsv2.loc[:,['Luna.EarthICRF.X','Luna.EarthICRF.Y', 'Luna.EarthICRF.Z']].to_numpy()
+GMATcsv2.loc[:,['dXYZ']] = np.linalg.norm(GMATcsv2.loc[:,['dX','dY','dZ']] ,axis=1)[:,None]
+
+
+
+For JPL HORIZONS, I simply used the state vector in ICRF, xy plane from reference frame, Geocentric position and Moon as target body. That's sufficient to get almost identical (~3 meters difference) results for Skyfield and HORIZONS.
+Where could this difference come from?
+
+Is GMAT having its own definition of Earth-centered ICRF (aka GCRF)?
+Are there different ways to use DE ephemerides?
+Wrong settings in GMAT?
+
+Any idea and input is appreciated!
+Best,
+Thibault

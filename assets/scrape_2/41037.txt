@@ -1,0 +1,3 @@
+Why can't ESA/NASA build a handful of Gaia telescopes and launch them into different positions in space for better accuracy?
+
+I've noticed that many stars in GAIA DR2 have highly uncertain distances. Why can't a space agency send multiple Gaia spacecraft into orbit around different places (One in L2 Earth, one in heliosynchronous orbit, and one around Jupiter) so the accuracy  of observations can be greatly improved?

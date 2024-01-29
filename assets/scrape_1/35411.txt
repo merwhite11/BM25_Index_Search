@@ -1,0 +1,7 @@
+Binary planet orbital distance
+
+From reading various sources online, I see that some people talk about binary planets in very tight orbits (around 1 or 2 planet radii). I am wondering if it is possible for a binary planet (Double planet) system to exist at a much greater distance from eachother.
+Setup: Binary planets orbit their star at 1.19AU. Planet 1 is 1.254 Earth masses and planet 2 is 0.8087 Earth masses. They orbit eachother with a apoapsis of 750,600km and a periapsis of 742,500km. 
+According to calculations, they are within the sweet spot of each other's hill sphere and of course far from the Roche limit. 
+Bonus info to further complicate the situation, the star system is a binary star system, Alpha Centauri. The planets orbit the A star and are well within the stable orbital region of that star and should theoretically not be majorly affected by the B star.
+Is this a stable planetary system? Any reasons why it wouldn't work would be great.

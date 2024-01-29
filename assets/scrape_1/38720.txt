@@ -1,0 +1,4 @@
+What are the effects of using non-spherical lenses in refracting telescopes?
+
+Non-spherical (or non-circular) mirrors for reflecting telescopes are common and discussed in many places...
+But what about elliptical, parabolic or hyperbolic lenses?

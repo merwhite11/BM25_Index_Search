@@ -1,0 +1,21 @@
+JPL Horizons sending too many emails
+
+I submitted a job that, I think, should have returned 100 emails from JPL Horizons.
+I now have over 6000 emails and they are coming in at about four a minute.
+Anyone else had this problem?
+Anyone know how to stop the deluge?
+I have emailed JPH Horizons default email address.
+
+Details
+
+Initial PID = 3073788 Thu May 4 09:40:31 2023 UTC
+Request started: COMMAND = '1;' '2;' '3;' '4; at 09:38
+
+Latest email to arrive starts:
+Automated mail xmit by MAIL_REQUEST, PID= 272715 Thu May 4 04:16:09 2023
+++++++++++++++++++++++++++++++++ (part 1 of 1) +++++++++++++++++++++++++++++++   
+*******************************************************************************
+JPL/HORIZONS 10 Hygiea (A849 GA) 2023-May-04 04:16:08
+
+Initial request was for the first 100 asteroids ('1;' '2;' etc.) with these parameters:
+OBJ_DATA = 'YES' MAKE_EPHEM = 'YES' EPHEM_TYPE = 'ELEMENTS' CENTER = '500@0' REF_PLANE = 'ECLIPTIC' START_TIME = '2351-JUL-1 00:00' STOP_TIME = '2352-JUL-1 00:00' STEP_SIZE = '1 years' CSV_FORMAT = 'NO' ELM_LABELS = 'YES' TP_TYPE = 'ABSOLUTE' !$$EOF

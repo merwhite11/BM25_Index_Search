@@ -1,0 +1,5 @@
+How to predict the radius of a Red giant
+
+I am working on a sci-fi that goes over such a large length of time that I will be having stars dying out, and this raises a question that I would need to find an answer to.
+How can one predict the radius and luminosity of a star in its Red Giant phase compared its qualities (mass, radius, luminosity, metallicity) during the main-sequence phase. As I definitely need to find a way to find reasonable specs for a star after it leaves main-sequence. I don't want to make numbers that are completely unreasonable and unrealistic.
+I tried finding information on this, but I am having difficulty finding anything that describes how the size of a red giant is predicted, despite the fact that methods of prediction obviously do exist given we have predicted the size the sun would be as a red giant. Information seems pretty scarse on this topic.

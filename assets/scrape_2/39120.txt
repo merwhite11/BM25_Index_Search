@@ -1,0 +1,120 @@
+Cannot identify mistake in calculating orbital eccentricity vector; magnitude equals one instead of zero (with python code)
+
+I have a gravitational nbody simulation, for which I would like to determine various orbital parameters. For each body, I have 3-D vectors (x,y,z -space) for position, velocity, and acceleration. I am trying to follow the steps laid out in this post to obtain the eccentricity of each orbit. Before throwing n bodies into the simulation, I am testing the algorithm on simpler systems, such as a 2-body system in which the orbital path of the Earth around the Sun is nearly a perfect circle. Because the orbit is circular, I expect the eccentricity to be zero; this is not the output I get, so I am hoping someone can help me identify my errors (either in understanding or in code). Specifically, I would like to know what I am doing wrong in trying to calculate the eccentricity.
+Sorry ahead of time for the length of this post; most of the code below is to show that the methodology works to obtain vectors of position and velocity; the last part of code (skip down to PROBLEM) is to "show my work" in using these parameters to calculate the eccentricity vectors. Aside from visual inspection, methods from this post were used to ensure that the orbit is circular.
+Create circular orbit via Sun-Earth system
+First, we'll initialize the initial conditions of our coupled ODEs and relevant simulation parameters.
+import numpy as np
+import matplotlib.pyplot as plt
+
+## simulation parameters
+ndim = 3 ## x,y,z
+gravitational_constant = 6.67e-11 ## SI units
+nbodies = 2 ## sun, earth
+duration = 365*24*60*60 ## duration; 1 years --> seconds; day/yr * hr/day * min/hr * sec/min
+dt = 2 * 24 * 60 * 60 ## time-step; 2 days --> seconds
+t = np.arange(duration/dt)
+
+meters_to_au = 1.496e11 ## 1.496e11 meters = 1 AU
+
+## BODY 1 (sun)
+m_sun = 1.989e30 ## kilograms
+x_sun = np.zeros(ndim) ## position (x,y,z); meters
+v_sun = np.zeros(ndim) ## velocity (x,y,z); m/s
+
+## BODY 2 (earth)
+m_earth = 5.972e24 ## kilograms
+x_earth = np.array([meters_to_au, 0, 0]) ##
+_v = np.sqrt(gravitational_constant * m_sun / meters_to_au)
+v_earth = np.array([0, _v, 0])
+
+## standard gravitational parameters and reduced mass
+mu = np.array([m_sun, m_earth]) * gravitational_constant
+mred = (m_sun * m_earth) / (m_sun + m_earth)
+
+Then, we solve the coupled ODEs using a simple Euler method.
+## initialize SOLUTION SPACE
+X = np.zeros((nbodies, ndim, t.size))
+V = np.zeros((nbodies, ndim, t.size))
+xi = np.array([x_sun, x_earth])
+X[:, :, 0] = xi ## position of bodies at time t=0
+vi = np.array([v_sun, v_earth])
+V[:, :, 0] = vi ## velocity of bodies at time t=0
+
+## ITERATE (i --> k=i+1)
+for ti in range(1, t.size): ## t=1, ..., t=end
+    ak = []
+    for j in range(nbodies):
+        dacc = 0
+        for k in range(nbodies):
+            if j != k:
+                dpos = xi[j, :] - xi[k, :]
+                r = np.sum(np.square(dpos))
+                dacc -= mu[k] * dpos / np.sqrt(r**3)
+        ak.append(dacc)
+    ak = np.array(ak)
+    vk = vi + ak * dt
+    xk = xi + vk * dt
+    X[:, :, ti] = xk
+    V[:, :, ti] = vk
+    xi, vi = xk, vk
+
+## GET POSITION VECTORS PER BODY
+Xs = X[0, :, :]
+Xe = X[1, :, :]
+
+## GET VELOCITY VECTORS PER BODY
+Vs = V[0, :, :]
+Ve = V[1, :, :]
+
+To verify that the simulation ran as expected, we plot.
+## VERIFY -- SHOW POSITION VECTORS
+fig, ax = plt.subplots(figsize=(7,7))
+ax.scatter(Xe[0, :] / meters_to_au, Xe[1, :] / meters_to_au, marker='.', color='steelblue', s=2, label='Earth')
+ax.scatter(Xs[0, :] / meters_to_au, Xs[1, :] / meters_to_au, marker='*', color='darkorange', s=5, label='Sun')
+ax.set_aspect('equal')
+ax.set_xlabel('X (AU)', fontsize=8)
+ax.set_ylabel('Y (AU)', fontsize=9)
+fig.legend(mode='expand', loc='lower center', ncol=2, fontsize=8)
+plt.show()
+plt.close(fig)
+
+
+PROBLEM
+I am more familiar with seeing angular momentum expressed as $L = \vec{r} x \vec{p}$, where $\vec{p} = m\vec{v}$, though I suppose one can interpret the angular momentum below expressed in units of angular momentum per unit mass. In Cartesian coordinates, $\vec{r} = \vec{x} + \vec{y} + \vec{z} = x\hat{x} + y\hat{y} + z\hat{z}$.
+## GET ANGULAR MOMENTUM VECTORS PER BODY
+Le = np.cross(Xe, Ve, axis=0)
+Ls = np.cross(Xs, Vs, axis=0)
+
+## GET ORBITAL ECCENTRICITY PER BODY
+Ee = np.cross(Ve, Le, axis=0) / mred - Xe / np.sqrt(np.sum(np.square(Xe), axis=0))
+Es = np.cross(Vs, Ls, axis=0) / mred - Xs / np.sqrt(np.sum(np.square(Xs), axis=0))
+mag_Ee = np.sqrt(np.sum(np.square(Ee), axis=0))
+mag_Es = np.sqrt(np.sum(np.square(Es), axis=0))
+
+## VERIFY -- SHOW ORBITAL ECCENTRICITY VECTORS PER BODY
+fig, ax = plt.subplots(figsize=(7,7))
+ax.scatter(Ee[0, :], Ee[1, :], marker='.', color='steelblue', s=2, label='Earth')
+ax.scatter(Es[0, :], Es[1, :], marker='*', color='darkorange', s=5, label='Sun')
+ax.set_aspect('equal') ## x- and y- scales are equal; nearly perfect circle
+ax.set_xlabel(r'eccentricity $\hat{x}$', fontsize=8)
+ax.set_ylabel(r'eccentricity $\hat{y}$', fontsize=8)
+fig.legend(mode='expand', loc='lower center', ncol=2, fontsize=8)
+plt.show()
+plt.close(fig)
+
+
+## VERIFY -- SHOW ORBITAL ECCENTRICITY MAGNITUDES PER BODY
+rescaled_t = t * dt
+fig, ax = plt.subplots(figsize=(7,7))
+ax.scatter(rescaled_t, mag_Ee, marker='.', color='steelblue', s=2, label='Earth', alpha=0.5)
+ax.scatter(rescaled_t, mag_Es, marker='*', color='darkorange', s=5, label='Sun', alpha=0.5)
+ax.set_xlabel('Time', fontsize=8)
+ax.set_ylabel('Eccentricity', fontsize=8)
+ax.set_ylim(bottom=-0.1, top=1.2)
+fig.legend(mode='expand', loc='lower center', ncol=2, fontsize=8)
+plt.show()
+plt.close(fig)
+
+
+It is my understanding that eccentricity varies as $0 ≤ e < 1$ for elliptical orbits (circular orbits being $e=0$), $e=1$ for parabolic orbits, and $e>1$ for hyperbolic orbits. So something must be off. Do I need to consider the coordinates from a specific reference frame? Or maybe I missed an assumption for the equations used to hold? Can someone point to the cause of this error? Less importantly, is the equation used to calculate eccentricity generalizable to all orbits or just elliptical ones?

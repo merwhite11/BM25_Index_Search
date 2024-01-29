@@ -1,0 +1,11 @@
+How Can I Interpolate Ephemerides?
+
+I have two ephemerides for orbital elements—that is, each contains $a$ (semi-major axis), $e$ (ecc.), $i$ (incl.), $\Omega$ (long. asc. node), $\omega$ (arg. of peri.), $\tau$ (time of peri.), $T$ (period), and a timestamp $t$.
+I want to compute a new ephemeris at a point somewhere between these two ephemerides.  For example, the timestamp ($t$) of the new ephemeris can be calculated by a linear interpolation of the start ($t_0$) and end ($t_1$) ephemerides' times as:$$
+    t = \text{lerp}(t_0,t_1, x) = t_0 \cdot (1-x) + t_1 \cdot x
+$$
+Unfortunately, I can't seem to get an interpolation for the other parameters that doesn't have discontinuities in it.  My question: how should I be interpolating ephemerides?  Maybe I need to do this through some intermediate parameters, like $\varpi$, $\lambda$, or $\nu$?
+
+
+For example, if I take $\tau$ from the first ephemeris and lerp everything else, I get a strong discontinuity when mean anomaly is calculated (as $M:=n (t-\tau)=(2 \pi/T) (t - \tau)$).  I suspect this is because the mean anomaly calculation is only valid at the ephemeris, and as e.g. $T$ changes due to interpolation, $M$ changes erroneously.
+Here is an example for Mercury.  The first three ephemerides come from NASA HORIZONS and are correct.  Interpolating the first two ephemerides produces $M=328^\circ$.  However, two seconds later, the interpolation (which is now interpolating from the last two ephemerides) produces $M=294^\circ$.

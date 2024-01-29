@@ -1,0 +1,4 @@
+Focal ratio importance for planetary viewing
+
+It seems that almost every article online regarding planetary viewing recommends a telescope with a high focal ratio (f/8 or more), for revealing the finer details of the planets. But I find this a bit confusing because the resolving power of a telescope is solely a function of the aperture, or at least that is my understanding.
+Given the above, shouldn't it be a matter of a large enough aperture and then the eyepiece to use to zoom on the detail of choice in formed image?

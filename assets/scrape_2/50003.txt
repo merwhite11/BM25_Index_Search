@@ -1,0 +1,5 @@
+Measurement of Planetary Aberration (similar to stellar aberration)
+
+It is often stated that, "Planetary aberration is a combined result of the observer's motion and the time taken for light to travel from a body in the Solar System to the observer". I am not aware of any authoritative reference to the origin of this statement; does anybody know?
+Also, does this statement imply that the observed planetary aberration will be proportional to some power of the distance between the observer and the planet? However, (as we know) as the planet is further away from the sun, the orbital velocity of the planet decreases. Are there any reported measurements on aberration for any planets?
+I have posted this question in Physics Stackexchange as well, as this post is about an inter-disciplinary topic.

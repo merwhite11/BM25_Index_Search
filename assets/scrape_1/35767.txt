@@ -1,0 +1,6 @@
+Comparing orbits between a planet and Red Dwarf
+
+I have a MATLAB problem, so I have an earth like planet orbiting around a sun like star and then there is a red dwarf on an elliptical orbit around the star that passes close to the planet. I want to show that sometimes when the Red Dwarf is at it's closest approach the planet may not be there so it won't gain any heat from the red dwarf. 
+To do this I was told to compare the orbital periods of the two. So for the planet it's orbital period is just like the earth 365 days and the red dwarf's period is 1896.59 days. 
+I was thinking is there a way I could plot the orbits of these two and run it for say like 100 years and see the if there is points when the earth could miss the red dwarf? If this is wrong please let me know a better way of tackling this problem. 
+Below is an image of the orbit, with the black line being the red dwarf's orbit and the  blue line being the planet's orbit. The eccentricity of the Red Dwarf's orbit is 0.866 since a=3 Au and b=1.5 Au.

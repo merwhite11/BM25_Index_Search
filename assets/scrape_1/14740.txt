@@ -1,0 +1,7 @@
+Why does the Chandrasekhar limit affect white dwarfs differently?
+
+The Chandrasekhar limit is the maximum mass of a stable white dwarf star. Beyond this, a carbon-oxygen white dwarf will typically explode in a type 1a supernova, due to the nuclear reactions at those temperatures.
+I've heard that oxygen-neon-magnesium white dwarfs, on the other hand, will not ignite. Rather, electron capture becomes energetically favorable and they become neutron stars. If I understand correctly, this also happens for carbon-oxygen white dwarfs in binaries, if the white dwarf has most of the mass in the system.
+Why is this? Can anyone walk me through, step by step, what happens if a white dwarf (of both compositions) exceeds the Chandrasekhar limit, and how each differs?
+
+Source: https://arxiv.org/abs/astro-ph/9701225

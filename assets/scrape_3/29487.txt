@@ -1,0 +1,9 @@
+Just how fast is a Fast Radio Burst thought to be?
+
+According to Wikipedia's Fast Radio Bursts; Features are recorded they
+
+The component frequencies of each burst are delayed by different amounts of time depending on the wavelength. This delay is described by a value referred to as a dispersion measure (DM). This results in a received signal that sweeps rapidly down in frequency, as longer wavelengths are delayed more.
+
+The time between the arrival of the pulse at two different frequencies can be used to generate a kind of measure of distance, based on a dispersion constant. The measure does not have units of length, but of integrated electron density over the path from source to observer.
+Using some fancy Fourier tricks one could first undo the $1/\nu^2$ delay and then try to reconstruct what the original pulse might have looked like before dispersion.
+Has this been done? If so, how fast (narrow in time) might the original disturbance be? A millisecond? Less?

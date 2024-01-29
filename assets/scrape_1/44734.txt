@@ -1,0 +1,4 @@
+Estimate the shape of an object based on flux curve
+
+Is there an aproximation to know the shape of a dust cloud,etc based on the magnitude/flux curves of stars they transit? Example, can I know if the shape is (at least in 2 dimensions) elliptical, round or just irregular? 
+Source of image: https://science.thewire.in/the-sciences/betelgeuse-dimming-stellar-lifecycle-hypotheses/  (it's from AAVSO)

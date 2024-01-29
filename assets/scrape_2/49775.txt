@@ -1,0 +1,5 @@
+How are the lines from objects onto the ecliptic called?
+
+See this screenshot from SpaceEngine:
+
+Many other examples from websites etc. Do they have a name? I couldn't find anything. If I'm not mistaken, those should be the z-coordinate of galactic coordinate system.

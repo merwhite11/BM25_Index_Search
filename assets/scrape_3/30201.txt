@@ -1,0 +1,6 @@
+Is there a database of all known star names/identifiers?
+
+I am looking for a list of all known identifiers used for stars. I'm not sure on the terminology. While I do want the "proper names", I also want whatever identifier is used for each star detected, even those without proper names. I am assuming there are far more of the latter.
+If possible I would also like to have the coordinates and brightness (and any other interesting info) for each of these star. But just the list of identifiers would be great.
+Does such data exist somewhere? Ideally I can just download a simple file (like a csv) and I can write my own software to process it without fiddling with some other software. However, it may be too large for that. 
+I'm not sure what to expect... 1 million entries?

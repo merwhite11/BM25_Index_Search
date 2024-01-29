@@ -1,0 +1,5 @@
+Could there be additional Neptunian satellites between Larissa and Hippocamp?
+
+Plotting the moons of Neptune in terms of semimajor axis and eccentricity using the values given on the Wikipedia page for the moons of Neptune, there appears to be a fairly large gap between the orbits of Larissa and the newly-named satellite Hippocamp.
+
+Are there stable orbits within the gap, and are there likely to be additional moons there?

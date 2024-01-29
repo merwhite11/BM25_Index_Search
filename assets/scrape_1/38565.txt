@@ -1,0 +1,4 @@
+Do retrograde spin-orbit resonances exist?
+
+The end state of rotation of an initially fast-spinning prograde terrestrial planet (in the absence of additional forcings such as "thermal tides" in an atmosphere, e.g. Venus) is a spin-orbit resonance of the form $n + 1 : 2,\ n \in \{1,2,3,...\}$. Examples being the common 1:1 resonance ($n=1$), and the 3:2 resonance of Mercury ($n=2$). See also this paper (Correia & Laskar, 2001) discussing the probability of Mercury's capture into higher-order resonances, e.g. 2:1 or 5:2.
+What about the case for a planet with retrograde rotation? Do there exist retrograde spin-orbit resonances, e.g. extending the sequence to negative $n$, giving resonances such as $-1:1$ or $-3:2$, and would there be any probability of capture into such a state?

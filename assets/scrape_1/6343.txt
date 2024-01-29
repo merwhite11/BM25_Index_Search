@@ -1,0 +1,9 @@
+Can you explain the pattern of Hill sphere sizes of the objects of the Solar system?
+
+I found this image on calculations of Hill sphere for planets/dwarf planets of the Solar system.
+
+ From http://en.wikipedia.org/wiki/File:Hill_sphere_of_the_planets.png 
+I found it interesting that variation of Hill sphere is intuitive for the first five planets, as the variation is similar to variation of mass/radius of those planets. Mercury has the smallest Hill sphere, Venus/Earth/Mars quite similar, and a giant leap from Mars to Jupiter.
+But, Saturn has its Hill sphere bigger than Jupiter, even it is smaller than Jupiter. and this anomaly continues to Uranus and Neptune: They have progressively larger Hill spheres.
+And Hill spheres of Pluto and Eris are quite larger than Mercury, Venus, Earth, and Mars.
+This was quite surprising for me. Could someone explain why this—for the lack of a better word—anomalies are there?

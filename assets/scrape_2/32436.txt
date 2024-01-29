@@ -1,0 +1,11 @@
+How are "parallel fields" implemented on the Hubble Space Telescope?
+
+The Phys.org news item Hubble is the ultimate multitasker: Discovering asteroids while it's doing other observations mentions the Hubble Space Telescope's use of parallel fields:
+
+A couple years ago, the NASA/ESA Hubble Space Telescope was observing very distant galaxies, some of them billions of light years away. It was part of the Frontier Fields Project (FFP,) an ambitious observing program which aimed to observe six massive galaxy clusters. The FFP pushed Hubble to its limits.
+[...]
+This image is a couple years old now, and it shows what's called the parallel field for the Abell 370 galaxy cluster, about 4 billion light years away. It's called a parallel field because of the technique used to capture it.
+A press release explains parallel fields this way:
+"While observing each cluster with one of the cameras on Hubble, the team also used a different camera, pointing in a slightly different direction, to photograph six so-called 'parallel fields." This maximised Hubble's observational efficiency in doing deep space exposures, imaging a myriad of far away galaxies."
+
+Question: How are "parallel fields" implemented on the Hubble Space Telescope? How are two cameras able to take different exposures in different directions at the same time? What optical components points them in different directions?

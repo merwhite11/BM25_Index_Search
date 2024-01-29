@@ -1,0 +1,43 @@
+Angular distance calculation in Equatorial and Galactic coordinates
+
+I calculated the angular distance between the Galactic Center and Andromeda in Equatorial and Galactic coordinates and observed that the distance is calculated differently depending on the coordinate system.
+In Equatorial coordinates their locations are
+Galactic Center 
+    Ra 271.087458 degrees
+    Dec -29.519139 degrees     
+Andromeda 
+    Ra 00h 42m 44.3s  (10.6845833 degrees)   
+    Dec +41° 16′ 9″   (41.2691667 degrees)
+
+In Galactic Coordinates
+Galactic Center
+    latitude 0.0
+    longitude 0.0
+Andromeda
+    latitude 121.174329 
+    longitude -21.573309
+
+This is my Python codes for calculating the distance.
+import numpy as np 
+
+def get_psi(Ra1, Dec1, Ra2, Dec2):
+    psi = np.arccos(np.sin(Dec1)*np.sin(Dec2) \
+                    + np.cos(Dec1)*np.cos(Dec2)\
+                    * np.cos(Ra1-Ra2))
+    return psi
+
+GC_ra = np.radians(271.087458)
+GC_dec = np.radians(-29.519139)
+
+M31_ra = np.radians(10.6845833)
+M31_dec = np.radians(41.2691667)
+
+psi_GC_to_M31 = get_psi(GC_ra, GC_dec, M31_ra, M31_dec)
+print(np.degrees(psi_GC_to_M31))
+print(np.degrees(get_psi(0,0, np.radians(121.174329), np.radians(-21.573309))))
+
+The results are
+115.72397726560764
+118.77568027887287
+
+Why would the values differ by 3 degrees?

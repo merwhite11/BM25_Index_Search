@@ -1,0 +1,5 @@
+Using masers to measure rotational velocity of a galaxy
+
+When measuring the rotation velocity of a galaxy, most of the times we can only directly measure radial velocity, by looking at the redshift.
+I read in a lecture slide that some times it is possible to measure the total velocity (not just radial) if the galaxy is in the local group and presents masers. The teacher didn't give more details, but I'm curious of how can it be done.
+What properties of the masers allow for such a measurement and why the same can't be done with stars or gas clouds?

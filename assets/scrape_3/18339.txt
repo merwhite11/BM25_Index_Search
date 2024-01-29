@@ -1,0 +1,10 @@
+Average number and type of planets orbiting given star types
+
+I don't need "exact" numbers, but I'm trying to create an auto-generator for a stellar map to crate stars that are "somewhat" accurate.
+I'm looking for numbers on the average number and type of planets around each type of Star, and whether they could be a good source for mining or are they good places for life?
+So, like, I need an idea of how what is the average number of planets that are expected around a G class star, how many are expected to be Gas giants or terrestrial and what is the likelihood of them being in the habitable zone and containing life. 
+If I base it on Sol I would suspect about 10 planets, 50% terrestrial and 50% gas giants, with 1 to 3 in the habitable zone and a 30% chance of life developing. I'm looking for something similar to this type of information.
+I assume this wouldn't be good for across the board or even for G class stars in general.
+So I guess I'm looking for estimated planetary statistics based on spectral type? I don't want a list of exoplanet and stars that I have to look through and then make a bad guess at, but a good estimation of these numbers based on known facts.
+This Question doesn't have a simple enough answer for me to grab onto to use effectively without just making too much stuff up anyways.
+This Question seems to have pieces of information that I'd use to work something out, but it would likely by far more inaccurate than what other people would come up with and there might be better answer than that so I ask my question.

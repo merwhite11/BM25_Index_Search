@@ -1,0 +1,6 @@
+Why do other galaxies have such a low surface brightness?
+
+Why do we need to take exposure photos of other galaxies, considering their stars should have roughly the same luminosity per square degree as the ones in the milky way? I'm not saying it should be like a mini-sun, but it doesn't make sense unless we're mostly seeing through them.
+Edit: It looks like I didn't do a good job of making my question clear, so I'll try rephrasing it.
+Let's take the Andromeda Galaxy. Its stars should have roughly the same surface brightness (flux per unit solid angle) as the Milky Way's. With this in mind, you would think the Andromeda Galaxy would have a high enough apparent surface brightness that it would be able to be seen with the naked eye.
+Also, as I was editing, I realized that I hadn't considered how far apart stars are. I'm pretty sure now that the reason galaxies don't have an apparent surface brightness equal to that of a star is that the vast majority of lines of sight aimed at a galaxy would go right through it without hitting a star. In other words, much more of a galaxie's "area" in the night sky is space than stars. I hope this makes things clearer.

@@ -1,0 +1,7 @@
+How to interpret skewness and kurtosis plots of galaxy snapshots?
+
+What I did:-
+I am analysing some simulation snapshots of the Milky Way and it is modelled as a dark matter halo – bulge – disc system. I produced some skewness (using scipy.stats.skew() in python) and kurtosis (using scipy.stats.kurtosis)  plots of line of sight velocity (LOSV)that I am attaching here. To produce these plots I simply extracted the $v_x,v_y,v_z$ components of the velocities of the stars and I picked the $z$-axis as the line of sight. I overlaid a grid on the galaxy snapshot, and at different inclinations ($\theta=0,45,60,90$ degrees) of the galaxy I plotted the skewness and kurtosis in the grid cells ($v_z$ is the $z$-component of the velocities).
+[![enter image description here][1]][1]
+My question:
+I want to now understand and interpret my plots. What can I deduce from the plots for the different angles of inclinations? My model galaxy has a halo, bulge at centre and disk. What can we tell about the losv distributions or the components of the galaxy? I'm new to astrophysics so these kind of plots and concepts are new to me. Any help is much appreciated, thanks so much!

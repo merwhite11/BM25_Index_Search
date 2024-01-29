@@ -1,0 +1,6 @@
+How do eyepiece mm values equate to telescope tube extension mm values?
+
+I'm trying out a DSLR on my Celestron 70EQ refractor telescope with a DSLR T-ring.
+The first try didn't magnify very much, and I learned that I need to extend the focus length to magnify the image; I've found both fixed-length and variable-length tube extenders.
+Question:
+How does the "tube extension length" in millimeters compare to an "eyepiece focal length"?  For example, if I have a 10mm eyepiece, how long does the tube extension need to be approximately equivalent when it hits the DSLR CCD?

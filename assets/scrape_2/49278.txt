@@ -1,0 +1,21 @@
+How to fit LOSVD of a galaxy with gauss hermite parametrization
+
+I have recovered the following LOSVD from an elliptical galaxy, that I now want to fit a gauss-hermite-parametrization to and derive the kinematical parameters rotational velocity, velocity dispersion and hermite moments h3 and h4. 
+The gauss hermite parametrization consists of a classical gaussian and hermite polynoms. I am only looking at the hermite moments h3 (skewness of the curve, asymmetric) and h4 (kurtosis, symmetric). The parametrization I want to use has the following formula (everything is a function of velocities v).
+
+I have written this function in python:
+    def losvd_param(v, v_rot, v_disp, h3, h4):
+    """parametrized LOSVD, to create a synthetic galaxy spectrum"""
+    y = np.asarray((np.asarray(v)-v_rot)/(v_disp))        # define new variably y for compact notation
+    return (np.exp(-0.5 * y**2) * (1 + h3*((2*np.sqrt(2)*y**3-3*np.sqrt(2)*y)/np.sqrt(6)) + h4*((4*y**4-12*y**2+3)/np.sqrt(24))))
+
+This parametrization should work fine plugging in approximate values reading off the data:
+plt.plot(vel_corr_peak, losvd_param(vel_corr_peak, 1318, 300, 0, 0), label='read of fit')
+
+Resulting in the plot:
+
+If I know try to fit using curve_fit from the scipy.optimize library, I dont get the values that I expect at all (saying I get 1s for all parameters).
+gh_moments = curve_fit(losvd_param, vel_corr_peak, broadening_func)[0]
+print(gh_moments)
+
+Output: [1. 1. 1. 1.] and not as expected roughly [1318, 300, 0, 0] h3 and h4 can have small positive or negative values. Can anybody tell me what could be the problem here ?

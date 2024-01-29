@@ -1,0 +1,5 @@
+Different times of sunset at the same location due to elevation
+
+Me and my friend were watching the sunset on the same location (at my country the latitude is approximately 40 degrees). I am at sea level and my friend is at an elevation. He observed the sunset with a difference of about 4 minutes than me. He is a physicist so he challenged me to find out his elevation. Any ideas on how to use these information and win the challenge? 
+I found some information on Wikipedia here but cannot understand a lot.
+Any idea on how to solve this will be appreciated. Thanks in advance for your help.

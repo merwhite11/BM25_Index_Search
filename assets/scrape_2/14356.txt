@@ -1,0 +1,5 @@
+How can cosmic inflation make an infinite universe homogeneous?
+
+As it is explained in this video, one of cosmic inflation's observable effects is the homogeneity of our universe. Inflation allows two points on the different sides of the observable universe to be causally connected at some point in time, so they may exchange their mass densities and temperatures, which are then going to be about the same for both of them.
+While I do understand, that this effect doesn't have to end on the edge of the observable universe and might go on for whatever distance the rate of inflation will make it to, I do not understand how this could be valid for the entire Universe if it is infinite. From my guessing, if the Universe is infinite, there will allways be two points, that was never causally connected, no matter how fast it expanded at the inflation period. That will mean, that, while the Universe should be homogeneous on the sufficiently large scales, it doesn't have to on the scales even larger.
+I guess I either don't fully understand the idea of cosmic inflation or don't get the particular way the Universe is infinite in.

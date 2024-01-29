@@ -1,0 +1,4 @@
+How to convert magnitude to spectral luminosity?
+
+In the Gaia catalogue I have the magnitude of several stars in the G band. I also have the distances to these stars (parallax is known). Additionally, I oftentimes have the effective temperature in Kelvins.
+Is there any way to convert this magnitude to an approximate spectral luminosity (units of W/Hz) at some frequency band? You may assume that we are in the Rayleigh Jean's regime (Intensity proportional to frequency2).

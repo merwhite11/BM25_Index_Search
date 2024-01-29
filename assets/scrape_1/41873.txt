@@ -1,0 +1,4 @@
+How much matter was ejected when the Solar System formed?
+
+Assuming the accretion disk model for the formation of the Solar System, the most important problem, according to wikipedia, is "how the material, which is accreted by the protostar, loses its angular momentum."
+If angular momentum is conserved, then as our Sun lost angular momentum in formation, excess gas and dust in the disk must have gained angular momentum.  How much matter (if any) reached escape velocity and was ejected from the Solar System?  When compared to the total mass of the Solar System, was this a significant portion?

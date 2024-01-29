@@ -1,0 +1,4 @@
+J2 perturbations and orbits
+
+I am trying to solve a problem where I need to calculate a satellite's orbit, but first I would like to ask for some clarifications from someone here that might know this stuff. I need to design an orbit so that no maneuvers (one part of the problem) are necessary to maintain it, and the hint is that there are J2 perturbation only and that the orbit is elliptical. I don't really understand this, so can someone explain what they mean with only J2 perturbations and how it is relevant here? (just asking for an explanation) 
+Thanks!

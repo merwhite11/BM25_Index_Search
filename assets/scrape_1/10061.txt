@@ -1,0 +1,9 @@
+Assumptions necessary for the strong form of Olber's Paradox
+
+From Wikipedia, here's Lord Kelvin's statement of Olbers' Paradox:
+
+Were the succession of stars endless, then the background of the sky would present us a uniform luminosity, like that displayed by the Galaxy – since there could be absolutely no point, in all that background, at which would not exist a star.
+
+This is one form of Olbers' Paradox I've heard, which is that with infinitely many stars scattered in an infinite volume, every ray must eventually intersect a star. I call this the "strong form" because it seems to me stronger than the statement that infinite stars imply an infinite amount of light hitting every point, though not necessarily from every possible direction.
+The strong form of the paradox doesn't hold if each star is a point mass and there are countably many stars, since the number of rays from any given point is uncountably infinite. Or imagine instead that stars are balls with small positive radius. If there is such a star at every lattice point in $R^3$ (an assumption that is consistent with my crude understanding of the cosmological principle), I can easily find a ray that intersects no star. I start from (0, 0, 0.5) and choose the ray in the direction of (1, 0, 0.5); the z coordinate will always be 0.5 and therefore my ray will never come close to a lattice point.
+Is there another, palatable assumption we can add to make the strong form of Olbers' Paradox true, perhaps an argument that the distribution of stars must be more random than what I've described?

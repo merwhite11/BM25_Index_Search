@@ -1,0 +1,3 @@
+Where can I download the historic sunrise and sunset times for a location?
+
+As the question indicates, I would like to know the sunrise and sunset times of a location. This is to evaluate the impact of day and night variations of a time series. Is there a way to download this data? Is there some other way to divide the aforementioned time series into day and night for this purpose. I am new to this and any help would be greatly appreciated. It would be fine even if this is a paid service. Thanks.

@@ -1,0 +1,4 @@
+How was the First Point of Aries measured in ancient times?
+
+According to Wikipedia, usage of the Sun's position as the basis for a celestial coordinate system dates back at least to Babylonian times, and the current "First Point of Aries" system dates back to 130BC.
+My question is, how did they measure the position of the Sun with respect to other stars?  By definition, any attempt to measure the Sun's position would be in the day time when no other stars were visible.

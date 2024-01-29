@@ -1,0 +1,9 @@
+Special case of rotation period
+
+Rotation period is either prograde, like the Earth, or retrograde, like Venus. How likely is it for a body orbiting its parent object (either a planet around a star or a moon around a planet) to have a rotation period that is neither prograde nor retrograde?
+By that I mean, this body has an infinite rotation period, and behaves like the Hubble space telescope when imaging distant stars, it doesn't rotate relative to distant stars.
+Seen from the surface of the parent body, this object would look like it spins retrograde. (Seen from the Earth's surface, the Moon looks like it doesn't spin, yet it spins prograde.)
+Seen from the object's surface, the night sky would be identical each night, and each day/night cycle is also a year.
+Is this kind of infinite rotation period likely to exist and what would be the ideal conditions for it to be stable for a long period of time? What could be the shortest stable year or day duration for such a body?
+i.e. avoiding short term tidal locking.
+(for instance, Earth won't ever be tidally locked to the Sun because the Sun will become a supernova billions of years before it could happen.)

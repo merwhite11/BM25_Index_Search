@@ -1,0 +1,11 @@
+Calculate Luminosity of Vega
+
+I want to calculate the Luminosity of a star e.g. Vega but can be any star and came across the formula for Luminosity at the University of Oregon (http://pages.uoregon.edu/soper/Light/luminosity.html).  
+I'm not an expert on Maths, could anyone help me with the figures to put into the formula.  
+$$L = (4\pi d^2)b$$ 
+$d$ is the distance but the page doesn't say Parsecs or Light Years.
+$b$ is the apparent brightness. 
+I'm thinking 
+$$L = ((4\times3.141) \times (25.04^2) ) \times 0.026 = 204.81 \mathrm{(light\ years)}$$ 
+$$L = ((4\times3.141) \times (7.68^2)) \times 0.026 = 19.26 \mathrm{(parsecs)}$$
+Which gives me 204.81 which is different to Luminosity which is quoted (40.12) on the Wikipedia page.  Is this the right formula for what I'm after.  Please no scientific equations like what you see on the page linked above.  Any calculations would need to be the type you would put into a non-scientific calculator.

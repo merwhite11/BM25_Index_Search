@@ -1,0 +1,9 @@
+Error in "Efficient Method for Calculating the time of Sunrise and Sunset" by Robin G Stuart
+
+I've been implementing this paper in python.
+"Efficient Method for Calculating the time of Sunrise and Sunset" by Robin G Stuart.
+The sun's equation of centre is incorrect no matter what I try.
+it's
+$\nu - M = 0.3342 \sin (l + 1.3450)$
+where l is the sun's mean longitude.
+Where does this equation come from, and is it correct?

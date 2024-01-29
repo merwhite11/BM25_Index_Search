@@ -1,0 +1,4 @@
+Radio Astronomy Data Handling (Filtering What One Needs)
+
+Suppose we have some radio astronomy data for some specific moment (not a time series). Can we, using some computer program, filter out and get, say, only the data (EM radiation), whose sources are at a specific distance (e.g., 1 light year or 10 light years, etc)?
+I hope I put it more or less clearly. Sorry if the question is stupid:-). Thanks in advance!

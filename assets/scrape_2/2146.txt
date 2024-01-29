@@ -1,0 +1,8 @@
+Satellite/Planetary Orbits
+
+
+All planetary orbits contain 5 unusually stable points. These points are particularly important because they allow man-made satellites to orbit the Sun with a period equal to that of Earth’s. 3 of these points are collinear. Suppose that   is the distance between the centers of mass of Earth and the Sun. Find the distance from Earth’s center of mass to either one of the other stable points in the Earth-Sun system in terms of...
+
+(I'm not looking for a full solution; I just want to know what these points are called)
+What are these points it talks about, and what's their mathematical relation to Earth's orbit?
+This still isn't homework; I'm just looking for the name of these points.

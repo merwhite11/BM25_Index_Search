@@ -1,0 +1,12 @@
+How to convert between surface density in JY/beam*KM/S / arcsec2 to mass surface density in Solar masses / pc2
+
+I am interested in studying the gas kinematics of atomic hydrogen (21cm line) for a galaxy and have output I'd like to convert after assuming a model for my data using BBarolo.
+Map units: unit = JY/BEAM*KM/S
+Pixel area: 0.56250 arcs2
+The Face On Surface Density (corrected for inclination) is 2.418e-02 unit/arcs2
+The Mass Surface Density is 1.869 MSun/pc2
+
+(The face on SD can be found by taking the Sum of the unit 4.859 JY/BEAM*KM/S divided by the number of pixels 106 and the pixel area 0.56250 arcs2. This value is then multiplied by cos(72.614 degrees) because the galaxy is inclined.)
+What I don't understand is how the Face On Surface Density is converted to the mass surface density in Msun/pc2. The value reported is 1.869 Msun/pc2. Mass surface density is conserved so I am told I do not need the distance to determine this value (the distance to the galaxy is ~30.42 Mpc). I understand that it is conserved, but wouldn't I need the distance to figure out the physical area of a pixel in parsecs?
+My goal is to figure out how the Mass surface density in Solar Masses per square parsec is calculated for a sanity check. The numbers seem reasonable but this conversion is not found in their paper or documentation. I should be able to recover this quantity myself.
+If relevant, the beam is circular and 8 arcseconds.

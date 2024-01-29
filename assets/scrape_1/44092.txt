@@ -1,0 +1,5 @@
+Filtering local region in SIMBAD
+
+I am completely new to astrophysics and currently writing a paper on Cepheid variables for high school physics.
+I would like to filter out all Cepheid variables in the local system which I would ideally query in python using astroquery. I find the Cepheid variables using otype and wanted to ask what the most efficient (in terms of putting minimum strain on the database) way to specify the local group would be.
+Also, what are the coordinates for the local group I can use for a query in this style: 'region(circle, gal, 123.5 -17.8, 0.5d)'?

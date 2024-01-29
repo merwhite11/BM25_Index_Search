@@ -1,0 +1,9 @@
+How big is the Lorentz force on the Sun?
+
+The LOFAR observations have made an estimate of the magnetic field of the Milky Way. The value in our region is very small. About 1/1000 of the Earth magnetic field.
+The Earth and the Sun move at a cosiderable speed around the center of the Milky Way though. Both move with a speed of around 828 000 km/hr around the center of the Milky Way.
+Now currents moving in a magnetic field experience a Lorentz force:
+$$F_{l}=-qv\times B$$
+Where $q$ is the charge, $v$ the speed of the charge, and $B$ the magnetic field the charges move in. The force is always perpendicular to the velocity.
+Now on the Sun, as well as inside the Earth, there is a net current giving rise to their magnetic fields. This means there is a net current in the direction of motion around our galaxy.
+How big would be the force on the Sun moving through the magnetic field of the Milky Way?

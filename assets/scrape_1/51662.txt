@@ -1,0 +1,10 @@
+How to use SExtractor to calculate Petrosian Radius?
+
+I'm using Sextractor to run some benchmarks on the code I'm working on.
+I'm mainly focused on Petrosial Radius (PETRO_RADIUS).
+I have two main questions that I could not find in the documentation:
+
+Usually, Petrosian Radius is calculated on a fixed fraction of the total flux of the galaxy given by ETA function. The most common value of the fraction is 0.2. It seems that it is not possible to set this value as the input parameter. What value is used internally in Sextractor? Is it possible to influence it with some input parameters?
+Regarding units of PETRO_RADIUS. The documentation states that "Petrosian apertures in units of A or B". Im a bit confused in a sense, how can I convert it to pixels? Do I multiply by A or B? Or sqrt(A*B)?
+
+Thanks ahead for the help.

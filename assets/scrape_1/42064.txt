@@ -1,0 +1,13 @@
+What is the density of the solar system per cubic light second outside the Jupiter ecliptic?
+
+I have been unable to find any research on particle density over 1 cSecond above or below the ecliptic in regions with a gravitational field with an acceleration less than 1/1000 of meter per second squared. Any help would be appreciated.
+Is there any research to determine the distribution of this material related to the the Massive objects in the the system ?
+It would seem logical that there is some amount of material falling from the Oort cloud toward the Sun and other mass concentrations in the Ecliptic disc defined by Jupiter's rather than Earth's Orbit.
+Typical regions of interest would be the volume not dominated by the Sun's, Jupiter's or any other planet's gravitational field.
+This question came from an analysis of material which enter into orbits far from the center of mass.
+The most likely, common, particles are those emitted by the Sun which are between escape velocity and its (1/(root2 = 1.414) = 0.707) related orbital velocity. If the direction of the resulting orbit is random (or even partially random), particles going in opposing directions will collide and some will drop out of orbit.
+The question came up in relation to a ion drive based space craft powered by mirror concentrated light beams, received by a large collector.
+The cross-section of the collector is large enough that even at the low velocity of 1 c Seconds per hour it would encounter drag from the interplanetary medium.
+The solar wind would assist acceleration, so that is not an issue,
+Mapping the density outside significant mass concentrations and Ecliptic defined by Jupiter's orbit might find lower density volumes.
+Thanks for the help.

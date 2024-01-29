@@ -1,0 +1,4 @@
+Electron Degeneracy Pressure
+
+The Z/A term for calculations of degeneracy pressure for white dwarfs is given as 0.5. But I can't find an explanation as to why. For my assignment, I am trying to find the degeneracy pressure for the core of the sun. I am given R = 0.1Rsun and M = 0.1Msun. I am also told that the core contains 50% hydrogen and 50% helium.
+I need to find Z/A for this scenario in order to find the degeneracy pressure, but I don't know how to approach it.

@@ -1,0 +1,3 @@
+Galactic winds/outflows: why and how are they detected via blueshifted absorption lines in spectra?
+
+I know that galaxies can eject gas due to supernovae, accreting black holes, etc. These galactic "winds/outflows" are often defined/detected observationally using blueshifted absorption lines in spectra. But why is it always blueshifted absorption -- what about redshifted absorption? Does it have something to do with the outflow velocities being measured relative to the galaxy central/systemic velocity, such that redshifted absorption implies inflow instead of outflow? But what's the geometrical picture?

@@ -1,0 +1,3 @@
+What's the easiest way to get 3D-positional data of galaxies
+
+Is there a database with cartesian coordinates (x, y, z) of galaxies? I only need positional data and calculating that using degrees and redshift for all galaxies could take a while and would be complicated.

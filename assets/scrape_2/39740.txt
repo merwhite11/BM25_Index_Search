@@ -1,0 +1,19 @@
+What is the highest point on Mercury?
+
+Continuation of "Gravity on Mercury's highest elevation?"
+
+Because when you Google that, you see "Caloris Montes" which is actually a mountain range consisting of mountains 1-2km tall from base to peak (Wikipedia). However, the previous question noted a value of 4.48 km "from what is considered a sea level". But mercury doesn't have sea, does it? Moreover, this value is confirmed here:
+
+This new model reveals a variety of interesting topographic features,
+as shown in the animation above, including Mercury’s highest and
+lowest points. The highest point on Mercury is at 2.78 miles (4.48 km)
+above Mercury’s average elevation, located just south of the equator
+in some of Mercury’s oldest terrain.
+
+A certain discrepancy is noted for our planet Earth. Mt. Everest is considered the tallest mountain (8848 m) when considered from sea-level. But, when we consider the height from base to peak, Mauna Kea/Loa is the highest mountain (of volcanic origin) (Total height=10.2 km, 4.2km above sea level). But, Mercury doesn't have "a sea level". So, why this discrepancy?
+Questions:
+
+What is the highest point of Mercury? Why is it "Calores Montes" even if it is a mountain range consisting of many mountains? Even if that peak of height 4.48 km is considered the highest point, why doesn't it have a name (since it is the tallest point, it should be notable and should have a name)?
+What should be considered the base for planets which doesn't have a "sea" (sea level is only possible for Earth and Titan)? Wikipedia says " peak elevations above an equipotential surface or a reference ellipsoid could be used if enough data is available for the calculation, but this is often not the case". Where is it not applicable? Doesn't it lead to discrepancy like for instance, Mercury?
+
+*This video says something called Mt. Hermes as the highest point of mercury.

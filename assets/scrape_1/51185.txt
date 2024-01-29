@@ -1,0 +1,6 @@
+Orbital Stability of a Double Planet System
+
+I recently found an article claiming a double planet system needs to be at least .5 AU from its parent star to be stable for billions of years. It was specifically talking about two same-mass bodies, though I'm curious about the stability of differently-sized ones.
+My system consists of a 2M planet with a companion that is 10.4M☽ (.1279M). They are tidally locked to each other, with a semi-major axis of 79,250 km and an eccentricity of .00986. They both orbit their parent star at .4 AU, with an eccentricity of .0196. The star is .64M☉.
+I would like to know how long this system would last given its orbital distance. The companion body is well within the main one's hill sphere, though I'm not sure if the star's tidal influence would make it destabilize within the first few billion years.
+update: Here's the article I found. Unfortunately, it does not cite the original study from the physicists it interviews. also, the planet's hill sphere is roughly 875192 km, 11x the second body's semi-major axis. Space.com's November 21, 2014 Binary Earth-Size Planets Possible Around Distant Stars See also Phys.org's December 3, 2014 Can binary terrestrial planets exist?

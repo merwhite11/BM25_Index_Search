@@ -1,0 +1,216 @@
+Need help with the math in Python program to flag Jovian radio emissions
+
+A few days ago I decided to take on the little project of converting a Qbasic program into Python (as a side project to my Radio Jove project), and I've managed to get it to run, but the math is definitely off. I was hoping for a fellow astronomer or astrophysicist to assist in the mathematical side of my Python code. Obviously something is wrong with the math aspect of the code since most of the values in the python program are very skewed. My apologies in advance for the single character variables. I would make them better if I knew everything going on.
+Qbasic code:
+'Program to flag Jovian Decametric windows
+ m$ = "JANFEBMARAPRMAYJUNJULAUGSEPOCTNOVDEC"
+     wi = 42.46 / 360
+     pi = 3.141593
+     kr = pi / 180
+     f$ = "###  \ \ ##   ##.#     ###      ###    ##.##     \  \"
+ OPEN "jovrad.txt" FOR OUTPUT AS #1
+ INPUT "Year for which predictions are required"; yy
+ e = INT((yy - 1) / 100)
+ f = 2 - e + INT(e / 4)
+ jd = INT(365.25 * (yy - 1)) + 1721423 + f + .5
+ d0 = jd - 2435108
+ incr = 0
+ IF yy / 400 - INT(yy / 400) = 0 THEN incr = 1
+ yyly = yy / 4 - INT(yy / 4)
+ yylc = yy / 100 - INT(yy / 100)
+ IF yyly = 0 AND yylc <> 0 THEN incr = 1
+ ty = 59 + incr
+ dmax = 365 + incr
+ tx = ty + .5
+ PRINT #1, "******************************************************"
+ PRINT #1, "  JOVIAN IO-DECAMETRIC EMISSION PREDICTIONS FOR"; yy
+ PRINT #1, "******************************************************"
+ PRINT #1,
+ PRINT #1, "Day   Date   Hr(UT)  Io_Phase   CML   Dist(AU)  Source"
+ PRINT #1,
+ th = 0
+ DO
+   GOSUB Compute
+   s$ = ""
+       IF L3 < 255 AND L3 > 200 AND U1 < 250 AND U1 > 220 THEN s$ = "Io-A"
+   IF L3 < 180 AND L3 > 105 AND U1 < 100 AND U1 > 80 THEN s$ = "Io-B"
+       IF L3 < 350 AND L3 > 300 AND U1 < 250 AND U1 > 230 THEN s$ = "Io-C"
+   IF s$ <> "" THEN GOSUB Outdat
+   th = th + .5
+ LOOP UNTIL INT(th / 24) + 1 > dmax
+ PRINT "Program completed - results in file JOVRAD.TXT"
+ END
+
+Compute:
+ d = d0 + th / 24
+ v = (157.0456 + .0011159# * d) MOD 360
+ m = (357.2148 + .9856003# * d) MOD 360
+ n = (94.3455 + .0830853# * d + .33 * SIN(kr * v)) MOD 360
+ j = (351.4266 + .9025179# * d - .33 * SIN(kr * v)) MOD 360
+ a = 1.916 * SIN(kr * m) + .02 * SIN(kr * 2 * m)
+ b = 5.552 * SIN(kr * n) + .167 * SIN(kr * 2 * n)
+ k = j + a - b
+ r = 1.00014 - .01672 * COS(kr * m) - .00014 * COS(kr * 2 * m)
+ re = 5.20867 - .25192 * COS(kr * n) - .0061 * COS(kr * 2 * n)
+ dt = SQR(re * re + r * r - 2 * re * r * COS(kr * k))
+ sp = r * SIN(kr * k) / dt
+ ps = sp / .017452
+ dl = d - dt / 173
+ pb = ps - b
+ xi = 150.4529 * INT(dl) + 870.4529 * (dl - INT(dl))
+ L3 = (274.319 + pb + xi + .01016 * 51) MOD 360
+ U1 = 101.5265 + 203.405863# * dl + pb
+ U2 = 67.81114 + 101.291632# * dl + pb
+ z = (2 * (U1 - U2)) MOD 360
+ U1 = U1 + .472 * SIN(kr * z)
+ U1 = (U1 + 180) MOD 360
+RETURN
+
+Outdat:
+ dy = INT(th / 24) + 1
+ h = th - (dy - 1) * 24
+ IF dy > ty THEN
+   m = INT((dy - tx) / 30.6) + 3
+   da = dy - ty - INT((m - 3) * 30.6 + .5)
+ ELSE
+   m = INT((dy - 1) / 31) + 1
+   da = dy - (m - 1) * 31
+ END IF
+ mn$ = MID$(m$, (m - 1) * 3 + 1, 3)
+     PRINT #1, USING f$; dy; mn$; da; h; U1; L3; dt; s$
+RETURN
+
+Sample output:
+******************************************************
+  JOVIAN IO-DECAMETRIC EMISSION PREDICTIONS FOR 1994 
+******************************************************
+
+Day   Date   Hr(UT)  Io_Phase   CML   Dist(AU)  Source
+
+  4  JAN  4   11.0     228      205     5.81     Io-A
+  4  JAN  4   11.5     233      224     5.81     Io-A
+  4  JAN  4   12.0     237      242     5.81     Io-A
+  6  JAN  6    6.0     233      325     5.78     Io-C
+  6  JAN  6    6.5     237      343     5.78     Io-C
+  7  JAN  7    6.5      81      133     5.76     Io-B
+  7  JAN  7    7.0      86      152     5.76     Io-B
+  7  JAN  7    7.5      90      170     5.76     Io-B
+  9  JAN  9   20.0     241      203     5.73     Io-A
+  9  JAN  9   20.5     246      222     5.73     Io-A
+ 11  JAN 11   12.5     225      232     5.70     Io-A
+ 11  JAN 11   13.0     229      251     5.70     Io-A
+ 11  JAN 11   14.5     242      305     5.70     Io-C
+ 11  JAN 11   15.0     246      323     5.70     Io-C
+ 12  JAN 12   15.0      90      113     5.68     Io-B
+ 12  JAN 12   15.5      94      131     5.68     Io-B
+ 12  JAN 12   16.0      98      150     5.68     Io-B
+ 14  JAN 14    8.5      82      179     5.66     Io-B
+ 16  JAN 16   21.0     234      214     5.61     Io-A
+ 16  JAN 16   21.5     238      232     5.61     Io-A
+ 16  JAN 16   22.0     242      250     5.61     Io-A
+ 18  JAN 18   15.5     234      315     5.59     Io-C
+ 18  JAN 18   16.0     238      333     5.59     Io-C
+ 19  JAN 19   16.0      82      124     5.57     Io-B
+ 19  JAN 19   16.5      86      142     5.57     Io-B
+ 19  JAN 19   17.0      91      160     5.57     Io-B
+ 19  JAN 19   17.5      95      178     5.57     Io-B
+
+Python code:
+#!/usr/bin/env python
+from __future__ import print_function, division
+import math
+print('Program to flag Jovian Decametric windows')
+month = ['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC']
+week = 42.46/360
+pi = 3.141593
+kr = pi / 180
+form = "###  \ \ ##   ##.#     ###      ###    ##.##     \  \\"
+num1 = open('jovrad.txt', 'w')
+yy = int(raw_input(("Year for which predictions are required ")))
+e = math.trunc(((yy-1) / 100))
+f = 2 - e + math.trunc(e/4)
+jd = math.trunc(365.25 * (yy - 1)) + 1721423 + f + .5
+d0 = jd - 2435108
+incr = 0
+dmax = 0
+tx = 0
+ty = 0
+yyly = 0
+yylc = 0
+if yy / 400 - math.trunc((yy / 400)) == 0:
+    incr = 1
+    yyly = yy / 4 - math.trunc((yy / 4))
+    yylc = yy / 100 - math.trunc((yy / 100))
+if yyly == 0 and yylc != 0:
+    incr = 1
+    ty = 59 + incr
+    dmax = 365 + incr
+    tx = ty + .5
+print("******************************************************", file=num1)
+print("  JOVIAN IO-DECAMETRIC EMISSION PREDICTIONS FOR ",yy, file=num1)
+print("******************************************************", file=num1)
+print("\n", file=num1)
+print("Day   Date   Hr(UT)  Io_Phase   CML   Dist(AU)  Source", file=num1)
+print("\n", file=num1)
+th = 0
+def compute(d0, th, dmax):
+    global U1, L3, dt, s
+    d = d0 + math.trunc(th / 24)
+    v = (157.0456 + .0011159 * d) % 360
+    m = (357.2148 + .9856003 * d) % 360
+    n = (94.3455 + .0830853 * d + .33 * math.sin(kr * v)) % 360
+    j = (351.4266 + .9025179 * d - .33 * math.sin(kr * v)) % 360
+    a = 1.916 * math.sin(kr * m) + .02 * math.sin(kr * 2 * m)
+    b = 5.552 * math.sin(kr * n) + .167 * math.sin(kr * 2 * n)
+    k = j + a - b
+    r = 1.00014 - .01672 * math.cos(kr * m) - .00014 * math.cos(kr * 2 * m)
+    re = 5.20867 - .25192 * math.cos(kr * n) - .0061 * math.cos(kr * 2 * n)
+    dt = math.sqrt(re * re + r * r - 2 * re * r * math.cos(kr * k))
+    sp = r * math.sin(kr * k) / dt
+    ps = sp / .017452
+    dl = d - dt / 173
+    pb = ps - b
+    xi = 150.4529 * math.trunc((dl)) + 870.4529 * (dl - math.trunc((dl)))
+    L3 = (274.319 + pb + xi + .01016 * 51) % 360
+    U1 = 101.5265 + 203.405863 * dl + pb
+    U2 = 67.81114 + 101.291632 * dl + pb
+    z = (2 * (U1 - U2)) % 360
+    U1 = U1 + .472 * math.sin(kr * z)
+    U1 = (U1 + 180) % 360
+    s = ""
+    while math.trunc(th / 24) + 1 < dmax and math.trunc(th / 24) + 1 == dmax:
+        if L3 < 255 and L3 > 200 and U1 < 250 and U1 > 220:
+            s = "Io-A"
+        if L3 < 180 and L3 > 105 and U1 < 100 and U1 > 80:
+            s = "Io-B"
+        if L3 < 350 and L3 > 300 and U1 < 250 and U1 > 230:
+            s = "Io-C"
+        if s != "":
+            outdat()
+        th = th + .5
+    print("Program completed - results in file JOVRAD.TXT", file=num1)
+compute(d0, th, dmax)
+
+def outdat(th,tx,ty):
+    dy = math.trunc((th / 24)) + 1
+    h = th - (dy - 1) * 24
+    if(dy > th):
+        m = math.trunc((dy - tx) / 30.6) + 3
+        da = dy - ty - math.trunc((m - 3) * 30.6 + .5)
+    else:
+        m = math.trunc((dy - 1) / 31) + 1
+        da = dy - (m - 1) * 31
+    mn = month[(m-1)*3+1:(m-1)*3-1+3]
+    print(dy, mn, da, h, U1, L3, dt, s, file=num1)
+outdat(th,tx,ty)
+
+My current output:
+******************************************************
+  JOVIAN IO-DECAMETRIC EMISSION PREDICTIONS FOR  1998
+******************************************************
+
+
+Day   Date   Hr(UT)  Io_Phase   CML   Dist(AU)  Source
+
+
+-12.9775 1.0 ['AUG'] -0.5 0.0 135.325782651 10.6054462674 5.7071322535

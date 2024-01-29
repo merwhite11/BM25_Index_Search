@@ -1,0 +1,33 @@
+Can General Relativity indicate phase-dependent variations in planetary orbital acceleration?
+
+In a previous question about differences in Newtonian and GTR gravitional force for the case of star-planet gravitational interactions an approximate relationship was noted between the expressions for the gravitational force exerted by a star on an orbiting planet (the solution is valid situations with low gravity, slow orbital speed, and spherical source).  This was based on texts in Walter 2008 and Goldstein et al 2001.
+Walter derived an approximate relationship assuming a circular orbit.  Goldstein focussed on deriving an orbit-average expression for perihelion precession.
+On re-examining these texts it seems to me that GTR (General Theory of Relativity) provides more than just an orbit-averaged approximation.  Rather it provides a phase-specific formula for total acceleration (in Scwharzschild space-time).
+The equation of motion for a Newtonian orbit is
+$$u''_\theta + u_\theta =\frac{\mu}{h^2}$$
+where $u_\theta = 1/r_\theta$ and $u'_\theta =$ d$(u_\theta)/$d$\theta$ and $h$ is specific angular momentum which is constant, $\mu = GM$ the gravitational parameter, $G$ is Newton's Universal gravitational constant, $M$ is mass of the star, $r$ is distance from star to planet, $\theta$ is the True anomaly.
+Using $h^2 = Vt_\theta^2 \,r_\theta^2$ where $Vt$ is the instantaneous transverse component of velocity (in vector terms = full velocity minus radial velocity) we can  obtain
+$$u''_\theta + u_\theta = \frac{1}{Vt_\theta^2} \left( \frac{\mu}{r_\theta^2} \right)$$ where the term in brackets is the Newtonian acceleration.
+Walter presents the following equation for a GTR orbit (Schwarzschild model)
+$$u''_\theta + u_\theta =\frac{\mu}{h^2} + \frac{3\mu}{c^2}\,u_\theta^2$$ 
+Now, using $h^2 = Vt_\theta^2 \,r_\theta^2$ and $u_\theta^2 = 1/r_\theta^2$ we get
+$$u''_\theta + u_\theta 
+=\frac{\mu}{Vt_\theta^2 \,r_\theta^2} + \frac{3\mu}{c^2 \,r_\theta^2}
+=\frac{1}{Vt_\theta^2 } 
+\left( \frac{\mu}{r_\theta^2} \,+ \frac{\mu}{r_\theta^2} \,\frac{3\,Vt_\theta^2}{c^2 } \right)$$ 
+where the terms in brackets are the Newtonian acceleration and the extra acceleration according to GTR.  And so the ratio of Newtonian acceleration to GTR-specific acceleration, at any angle $\theta$ is 
+$$1 \, \mathrm{to} \, \frac {3 Vt_\theta^2}{c^2}$$.
+Goldstein emphasises that the GR acceleration does not indicate a velocity-dependence, so an alternative, more palatable, distance-dependent form of the ratio of accelerations, at any angle $\theta$, would be:-
+$$1 \, \mathrm{to} \, \frac {3 h^2}{c^2 \, r_\theta^2} \equiv 
+1 \, \mathrm{to} \, \frac {3 GM.P}{c^2 \, r_\theta^2}
+$$
+where $h$ (specific angular momentum) and $P$ (semi-latus rectum) are the values for the orbit of the particular subject planet. 
+And so (ignoring other massive perturbing bodies) the magnitude of the total instantaneous radial force on the planet (of mass $m$) towards the Sun is given by:-
+$$ \mathrm{F/m} \,=  \, \frac {GM}{r_\theta^2} + \frac {3 GM.GM.P}{c^2 \, r_\theta^4}
+$$
+N.B. The GTR/Schwarzschild equations relate to proper time and Schwarzschild radial distance, not their Newtonian equivalents so strictly the ratio of accelerations is still an approximation.
+Is this analysis valid, or have I missed something?
+Update
+I have accepted Stan Liou's answer as being very helpful in (a) providing a derivation from GTR/Schwarzschild of the formulae presented by Walter and Goldstein et al. and (b) indicating the imperfect correspondence between GTR terms/concepts and Newtonian terms/concepts.
+My understanding is as follows. In a Newtonian central-force elliptical-orbit model the addition of an extra centre-directed acceleration ($dV/dt$), which varies through the orbit as $(+3 V_t^2/c^2\,\equiv \, +3 h^2/r^2c^2)$ times the co-temporal standard Newtonian centre-directed gravitational acceleration, can be shown (by first order perturbation analysis or numerical modelling) to produce apsidal precession at a rate (radians per orbit) defined by a Newtonian formula $$\epsilon = 24 \pi^3 \frac{a^2}{T^2 c^2(1-e^2)}$$ .  This formula is well-known (see for example Wikipedia Apsidal precession). According to, but not clearly referenced by, this article, the formula (or an algebraic equivalent using other terms) was well known c. 1895 (i.e. before the publications of Gerber 1898 and Einstein 1915).  The formula predicts very well the long-term values of apsidal precession determined using Newtonian models from observations of solar planets. 
+Various writers (Einstein, Goldstein, Walter, presumably many others) present mathematical arguments indicating how an identical formula can be derived from Einstein's GTR.  The presented arguments may involve approximations (e.g. Walter's use of near-circular orbits, Goldstein's use of orbit-averaged precession) and non-mathematical "correspondences" between the concepts/terms of the GTR model and the concepts/terms of the Newtonian model.

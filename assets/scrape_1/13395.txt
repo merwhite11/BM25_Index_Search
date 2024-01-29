@@ -1,0 +1,3 @@
+How is the mass of solar system objects calculated?
+
+When I go to the wikipedia page for any planet in our solar system, the exact mass and volume are reported. How is it possible to do this with them being so far away? I suppose after hundreds of years we can observe them going around the sun, but this doesn't really give any information since we need both the mass and distance from the sun for it to be of any use.

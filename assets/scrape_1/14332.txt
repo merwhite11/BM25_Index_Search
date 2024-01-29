@@ -1,0 +1,7 @@
+Why are radar images of comets shaded only on one side?
+
+NASA published a picture of a comet the other day. The image shows the comet being lit from above. See NASA's picture below.
+
+However, since it is a radar image, I would have assumed to get a shading on all sides and grazing angles, like velvet or scanning electron microscopy. Or alternatively to have the sides facing the radar dish being shaded, and the edges being dim. For the velvety look, compare to this picture from Wikipedia:
+
+So why is the comet's image shaded only from above?

@@ -1,0 +1,6 @@
+Creating a small data pipeline
+
+I wanted to create a small data pipeline such that it consists of images of sky in the filters  F125W, F160W, F606W and F850LP. The 4 images for a single object should be in a single FITS File which is later to be used for analysis purposes. An example of what I want this data pipeline to resemble could be found here1
+Can anyone please outline a way for me to do this ?
+
+1 https://drive.google.com/file/d/16y2oYZU_R8BJFUNs_73UNMjiDbe6m2H3/view?usp=sharing

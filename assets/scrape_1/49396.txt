@@ -1,0 +1,18 @@
+How do neutron stars maintain inhomogeneous surfaces and migrating "hot spots"? (e.g. SGR 1830-0645)
+
+News item NASA's NICER Tracks a Magnetar's Hot Spots and Phys.org's Properties of magnetar SGR 1830−0645 inspected with NICER reference the January 14 2022 arXiv Pulse Peak Migration during the Outburst Decay of the Magnetar SGR 1830-0645: Crustal Motion and Magnetospheric Untwisting an object that seems to first be reported in the October 13, 2020 Astronomer's Telegram NuSTAR observation of the newly discovered magnetar SGR 1830-0645.
+The abstract for the arXiv preprint is shown below, but I'm wondering if a simple explanation is possible.
+We hear about how amazingly smooth a neutron star's surface must be due to the incredibly high gravity; it should be within millimeters or less of a hydrostatic equilibrium shape.
+Until now I've also assumed that the composition and nature of the surface would also be uniform, or perhaps have a slight pole-to-equator variation. And of course there are two pairs of poles; rotational and magnetic.
+But now I see there are believed to be wandering "hot spots" observed on this magnetar's surface moving on the scale of days or months, which is probably a geological timescale for something made of nuclear matter (cf. Dragon's Egg and Did they ever deal with non-relativistic kinematics on Dragon's Egg?).
+So I'd like to ask:
+Question: How do neutron stars maintain inhomogeneous surfaces and migrating "hot spots"? (e.g. SGR 1830-0645) What keeps their surface from equilibrating to a uniform or at least a static nature?
+
+
+Abstract
+Magnetars, isolated neutron stars with magnetic field strengths typically ≳1014 G, exhibit distinctive months-long outburst epochs during which strong evolution of soft X-ray pulse profiles, along with nonthermal magnetospheric emission components, is often observed. Using near-daily NICER observations of the magnetar SGR 1830-0645 during the first 37 days of a recent outburst decay, a pulse peak migration in phase is clearly observed, transforming the pulse shape from an initially triple-peaked to a single-peaked profile. Such peak merging has not been seen before for a magnetar. Our high-resolution phase-resolved spectroscopic analysis reveals no significant evolution of temperature despite the complex initial pulse shape. Yet the inferred surface hot spots shrink during the peak migration and outburst decay. We suggest two possible origins for this evolution. For internal heating of the surface, tectonic motion of the crust may be its underlying cause. The inferred speed of this crustal motion is ≲100 m day−1, constraining the density of the driving region to ρ∼1010 g cm−3, at a depth of ∼200 m. Alternatively, the hot spots could be heated by particle bombardment from a twisted magnetosphere possessing flux tubes or ropes, somewhat resembling solar coronal loops, that untwist and dissipate on the 30-40 day timescale. The peak migration may then be due to a combination of field-line footpoint motion (necessarily driven by crustal motion) and evolving surface radiation beaming. These novel dataset paints a vivid picture of the dynamics associated with magnetar outbursts, yet it also highlights the need for a more generic theoretical picture where magnetosphere and crust are considered in tandem.
+
+
+From the NASA video below:
+
+NICER tracked these spots as they drifted across the star and changed size. Two of them even merged - a behavior not seen before.

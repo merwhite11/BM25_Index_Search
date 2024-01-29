@@ -1,0 +1,5 @@
+Why do heavy mid-sized stars become more luminous as they leave the subgiant branch entering the red-giant branch?
+
+Wikipedia says:
+For stars heavier than the around a solar mass the "outer layers cool sufficiently to become opaque" which "cause the hydrogen shell to increase in temperature and the luminosity of the star to increase, at which point the star expands onto the red-giant branch."
+To my understanding, the source of luminosity is the H shell burning. If the outer layers become opaque (ie not transparent), why does the star become more luminous in this process?

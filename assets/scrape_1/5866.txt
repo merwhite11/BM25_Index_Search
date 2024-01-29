@@ -1,0 +1,3 @@
+how to measure temperature of the distant star
+
+As part of small project i want to measure temperature of the distant star on basis of optical observations. so by what exact method i can do it? which instruments will be necessary? what is the precision of the experiment?

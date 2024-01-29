@@ -1,0 +1,115 @@
+Horseshoe orbits and integration in C
+
+I'm studying a particular case of the restricted three-body problem. It's been found that some objects follow a horseshoe orbit pattern, and I'm trying to sort out something through an integration code in C. I'm following some advice in the article Families of periodic horseshoe orbits in the restricted three-body problem, which gives me ideal initial conditions and the equations in the centre of mass system. (m is the mass of Earth, and consequent position of the sun in the center of mass reference system, (x,y) are the coordinates of the third body, assumed massless (as the restricted problem requires).
+$$ O=(x^2+y^2)/2+\dfrac{(1-m)}{r1}+\dfrac{m}{r2}+\dfrac{(1-m)m}{2} $$
+$$r1^2=(x-m)^2+y^2$$
+$$r2^2=(x-m+1)^2+y^2$$
+$$ a(x)=\dfrac{\mathrm{d}{O}}{\mathrm{d}x} + 2v(y)$$
+$$a(y)=\dfrac{\mathrm{d}{O}}{\mathrm{d}y}-2v(x)$$
+The positions of the "sun" and "earth" are fixed to (m,0) and (m-1,0), in the same reference system. (rotating reference system, assuming the earth has a circular orbit.)
+From all this I've calculated the equations to describe the system:
+$$a(x)=x+\dfrac{(m-1)(x-m)}{((x-m)^2+y^2)^1.5}-\dfrac{2m(x-m+1)}{((x-m+1)^2+y^2)^1.5} + 2v(y)$$
+$$a(y)=y-\dfrac{y(1-m)}{((x-m)^2+y^2)^1.5} -\dfrac{2ym}{((x-m+1)^2+y^2)^1.5} -2v(x)$$
+I've used the algorithm of Runge-Kutta 4 to integrate those equations.
+(I know the code is quite mind-twisting, but I just can't use pointers and I use structs everywhere).
+#include<stdio.h>
+#include<stdlib.h>
+#include<math.h>
+
+#define dt 0.0001
+#define N 100
+
+typedef struct{
+    long double x,y;
+}vec;
+
+typedef struct{
+    vec k1,k2,k3,k4;
+}runge;
+
+typedef struct{
+    runge r,v;
+}big;
+
+double dS,dE,m;
+
+double accx(double,double,double);
+double accy(double,double,double);
+void rad(vec);
+big rungekutta(vec,vec);
+vec moto(vec,runge);
+double jacobi(vec);
+
+int main(){
+  vec r,v;
+    big f;
+    double J,t;
+    int i,Num;
+    FILE* s1;
+    s1=fopen("HorseShoe.dat","w");
+
+    Num=(int)N/dt;
+    scanf("%Lf",&r.x);
+    scanf("%Lf",&r.y);
+    scanf("%Lf",&v.x);
+    scanf("%Lf",&v.y);
+    scanf("%lf",&m);
+
+    for(i=0;i<Num;i++){
+        t=(i+1)*dt;
+        rad(r);
+        f=rungekutta(r,v);
+        r=moto(r,f.r);
+        v=moto(v,f.v);
+        J=jacobi(r);
+        fprintf(s1,"%lf\t%Lf\t%Lf\t%Lf\t%Lf\t%lf\n",t,r.x,r.y,v.x,v.y,J);
+    }
+return 0;
+}
+
+void rad(vec r){
+    dS=pow(r.x-m,2)+pow(r.y,2);
+    dE=pow(r.x-m+1,2)+pow(r.y,2);
+}
+
+double jacobi(vec r){
+    return pow(r.x,2)+pow(r.y,2)+2*(1-m)/dS+2*m/dE+m*(1-m);
+}
+
+double accx(double x,double y,double v){
+    return x-(x-m)*(1-m)/pow(pow(x-m,2)+pow(y,2),1.5)-m*(x-m+1)/pow(pow(x-m+1,2)+pow(y,2),1.5)+2*v;
+}
+
+double accy(double x,double y,double v){
+    return y-(1-m)*y/pow(pow(y,2)+pow(x-m,2),1.5)-m*y/pow(pow(y,2)+pow(x-m+1,2),1.5)-2*v;
+}
+
+big rungekutta(vec r,vec v){
+    big f;
+    f.r.k1.x=v.x;
+    f.r.k1.y=v.y;
+    f.v.k1.x=accx(r.x,r.y,v.y);
+    f.v.k1.y=accy(r.x,r.y,v.x);
+    f.r.k2.x=v.x+f.v.k1.x*dt/2;
+    f.r.k2.y=v.y+f.v.k1.y*dt/2;
+    f.v.k2.x=accx(r.x+f.r.k1.x*dt/2,r.y+f.r.k1.y*dt/2,v.y+f.v.k1.y*dt/2);
+    f.v.k2.y=accy(r.x+f.r.k1.x*dt/2,r.y+f.r.k1.y*dt/2,v.x+f.v.k1.x*dt/2);
+    f.r.k3.x=v.x+f.v.k2.x*dt/2;
+    f.r.k3.y=v.y+f.v.k2.y*dt/2;
+    f.v.k3.x=accx(r.x+f.r.k2.x*dt/2,r.y+f.r.k2.y*dt/2,v.y+f.v.k2.y*dt/2);
+    f.v.k3.y=accy(r.x+f.r.k2.x*dt/2,r.y+f.r.k2.y*dt/2,v.x+f.v.k2.x*dt/2);
+    f.r.k4.x=v.x+f.v.k3.x*dt;
+    f.r.k4.y=v.y+f.v.k3.y*dt;
+    f.v.k4.x=accx(r.x+f.r.k3.x*dt,r.y+f.r.k3.y*dt,v.y+f.v.k3.y*dt);
+    f.v.k4.y=accy(r.x+f.r.k3.x*dt,r.y+f.r.k3.y*dt,v.x+f.v.k3.x*dt);
+    return f;
+}
+
+vec moto(vec r,runge rk){
+    r.x+=(rk.k1.x+2*rk.k2.x+2*rk.k3.x+rk.k4.x)*dt/6;
+    r.y+=(rk.k1.y+2*rk.k2.y+2*rk.k3.y+rk.k4.y)*dt/6;
+    return r;
+}
+
+Plotting the results I just get a spiral, while using the given inputs I should get a horseshoe orbit. I've tried many different inputs, (m=0.0001 and m=0.000003, the latter is in scale with the actual values of Earth and Sun masses (sun mass is 1-m)).
+I just can't see what's wrong (probably everything :D), can anyone please help me?

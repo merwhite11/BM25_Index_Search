@@ -1,0 +1,5 @@
+What are the biggest problems about the numerical, finite-element GR models?
+
+As I know, for example the modelling of the collapse of a neutron star (to a black hole) wasn't done correctly until now.
+Why? Yes, I know, the Einstein Field Equations aren't really easy to solve. But, for example, the situation is very similar in the case of the QCD, but there are already fruitful results existing ( http://physicsworld.com/cws/article/news/2008/nov/21/proton-and-neutron-masses-calculated-from-first-principles ).
+Is there any theoretical obstacle in the way? Or we simply didn't have enough fast computers/physicist/programmer manyear until now?

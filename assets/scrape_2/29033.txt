@@ -1,0 +1,8 @@
+Could stellar occultations be used to survey Kuiper belt objects?
+
+The first hint we had as to the shape of Ultima Thule was via an occultation study using an array of small telescopes. Has anyone investigated the feasibility and effectiveness of conducting a survey campaign using the same technique?
+Given that this was managed for an arbitrarily selected object in a window of few years, it would seem that, if you just wanted to do the same thing for as many Kuiper belt objects as you can manage, that you should be able to get similar data for a significant number of objects a year at relatively low cost.
+
+Edit: the kind of project I'm wondering about would be targeted at getting detailed shape (e.g. what fraction of KBOs are contact binaries?) and size data. For example a line of a few hundred 0.5m class instruments at 100m to km spacing.
+
+Edit 2: I guess I kind of didn't actually say what the target of the survey would be. To clarify, the objective would be to collect fine detail on the shape of KBOs. E.g. how common are contact binaries?

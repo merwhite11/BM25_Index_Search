@@ -1,0 +1,3 @@
+How do you determine whether a certain object can be detected by an observatory based on coordinates?
+
+If I am given the latitude and longitude of an observatory or observation point, how can I determine whether a given object, based on its equatorial coordinates, is observable from that observatory?

@@ -1,0 +1,28 @@
+How long does the "eclipse" last on a space station at the L1 point between a moon and a planet last when the moon blocks the sun in front?
+
+
+The situation I am asking about is as depicted in the picture. Supposing I have a space station staying perpetually at the L1 point, the moon will completely block the space station from all sunlight as it moves between the space station and the sun. Given the distances between all the objects and the sizes of all the objects, how long (percentage of the moon's orbital period is fine) will the space station be in complete darkness?
+I think that unlike the situation on the other side of the planet, where the planet is blocking the sun (i.e. a normal lunar eclipse), this situation is complicated by the special positioning of the space station of it always being directly "behind" the moon (due to it being parked on L1).
+Here is the numerical data for all the objects in question.
+The star:
+
+Radius = 585 000 (84% that of the Sun)
+
+The planet:
+
+Radius = 87 500 km (125% that of Jupiter)
+Semi major axis = 1.4 AU = 210 000 000 km
+
+The moon:
+
+Radius = 3400 km
+Semi major axis = 911 000 km
+
+The space station:
+
+Located at L1 point, which I have calculated to be about 28 000 km from the moon.
+
+However, just in case I have messed up the calculation, here are the masses of the moon and the planet as well:
+
+Mass of planet = 3.8 x 10^27 kg (two Jupiter masses)
+Mass of moon = 3.4 x 10^23 kg

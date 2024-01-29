@@ -1,0 +1,3 @@
+Does the ecliptic plane change relative to the galactic plane?
+
+The equatorial plane moves over time with respect to the plane of the ecliptic (that's precession!). The ecliptic is at an angle with the galactic plane, but does this angle change over time? Does the ecliptic plane have a precession of sorts with respect to the galactic plane?

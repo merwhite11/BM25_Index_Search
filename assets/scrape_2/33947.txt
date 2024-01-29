@@ -1,0 +1,7 @@
+Are the orbits of all triple star systems at least technically unstable?
+
+Background:
+In the Circular Restricted Three Body Problem (CR3BP, CRTBP) some halo orbits are mathematically stable. That means that the orbit of the third body is closed, periodic, and stable against small perturbations as long as the two primary bodies are in circular orbits around their common center of mass. See answers to Are some Halo Orbits actually Stable?
+Question:
+But for three massive bodies such as stars, if they are interacting only with each other and only gravitationally, are all orbits still at least technically unstable? 
+Yes some systems may last longer than the lifetime of the individual stars, or even the age of the universe, but strictly mathematically are there some stable configurations or are they all mathematically unstable, i.e. one member can eventually be ejected like this?

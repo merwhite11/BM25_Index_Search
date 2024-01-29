@@ -1,0 +1,6 @@
+Why are the high density regions in outer space black holes?
+
+The escape velocity of an object is given by the following formula.
+$$v_e=\sqrt{\frac{2GM}{r}}=\sqrt{\frac{2 \mu}{r}}= \sqrt{2gr}$$
+As far as I am aware, the mass of the star which formed the black hole is the same as the black hole itself, the only difference is the black hole's density. 
+Now, the escape velocity of the star which formed the black hole is not as high because light can escape the star. Considering the equation above, $G$ is constant, $M$ is constant, however, $r$ changes resulting in a much smaller region as compared to the star. Consequently, it's the radius which determines the high escape velocity of a black hole, not its density. Then why is it that I always hear that black holes behave the way they do because they are highly dense regions in spacetime? What am I getting wrong? Thanks.

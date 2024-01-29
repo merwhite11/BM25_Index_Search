@@ -1,0 +1,13 @@
+How to calculate geocentric conjunction time and moon altitude at a given time
+
+Umm al-Qura calendar of Saudi Arabia determine the new moon if these criteria meet at 29th day:
+
+The geocentric conjunction occurs before sunset.
+The moon sets after the sun.
+
+I've got the formula to calculate when the sun (seen by the observer) sets, considering observer's latitude, longitude, height (altitude from sea level), and the date (Julian Day). I would like to ask the formula to calculate:
+
+When (the time) geocentric conjunction happens.
+How much (the angle) the altitude of the moon (seen by the observer) at a given time is.
+
+Thank you

@@ -1,0 +1,4 @@
+What exactly is a fortney grid transmission spectra modeling
+
+I am trying to model some exoplanets and I don't understand how this model works. Below is a link of the model. What I don’t understand is how does graphing the transit depth  vs wavelength provide information. I am trying to determine the atmospheric chemistry/atmosphere/properties of planets.
+https://exoctk.stsci.edu/fortney

@@ -1,0 +1,12 @@
+Do large telescopes, especially plans for the LSST, avoid saturation artifacts from the brightest stars and planets? If so, how?
+
+This interesting answer to What is the LSST's plan to address frequent satellite trails in data? quotes:
+
+From the LSST webpage:
+
+The first group of Starlink satellites are sufficiently bright during dawn and dusk (when LSST would be surveying) that the trail would exceed sensor saturation, generating uncorrectable artifacts in the data. If instead these satellites were painted flat black making them a factor of 25 fainter, satellite trails should be less of a challenge for LSST due to its specific design.In that case LSST's frequent imaging of the same region of sky will provide enough data to correct for unsaturated satellite trails or other anomalies.
+
+
+But now I'm wondering about something a little different. How do large telescopes doing surveys avoid saturation-induced artifacts caused by the brightest stars and planets? Their positions are of course absolutely predictable, so I suppose it's possible to keep their images slightly off of the silicon, and "walk around" them with a series of exposures, is that what the LSST will do?
+There are other possibilities, for example a small, mechanical obscuring disk that can be introduced ahead of the CCD to cast a small slightly diffuse shadow, or in the case of multiple CCDs one could put the object between two sensors.
+Question: If this is this done in practice, how? Is the LSST planned to have a way to avoid this problem?

@@ -1,0 +1,6 @@
+What does it exactly mean for spacetime to have no global symmetries?
+
+Are there spacetimes or metrics with no global symmetries? Spacetimes/metrics with no global Poincaré, Lorentz, diffeomorphism, CPT, translational and gauge invariances?
+And if there are, what does it exactly mean?
+For example, I know that in certain expanding spacetimes (like the one representing our universe) the global time translation invariance is broken and therefore energy is not conserved (globally, or at cosmological scales)
+If there are spacetimes with no global symmetries, would it mean that all these symmetries would break (or be violated) at global scales?

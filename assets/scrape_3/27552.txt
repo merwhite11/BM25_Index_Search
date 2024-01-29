@@ -1,0 +1,46 @@
+Code for getting the pixel coordinates of an object with known RA DEC not working
+
+I’m working on a project of which one of its functions is determining the XY pixel coordinates of an object given the object RA DEC coordinates and a platesolved image (this assumes that the target is near the image center).
+I didn’t base this code on any algorithm, I thought it would just be basic vector manipulation. I’m aware that this basic approach doesn’t correct field flatness and stuff, I need it to be only roughly accurate.
+'PS_DEC,PS_RA,PS_NORTH_ANGLE,PS_PIXEL_SCALE are retrieved from a platesolve
+'Target_dec and Target_ra are the coordinates of the target
+'VectorRotate(vector,angle) is a function that rotates a vector
+
+'PS_DEC = 3.3026014754
+'PS_RA = 278.7921661190
+'Target_dec = 3.136138
+'Target_ra = 278.65
+'PS_NORTH_ANGLE = 99.89
+'PS_PIXEL_SCALE = 3.15
+
+Dim lengthTotal As Double = (90 - PS_DEC) * 3600 / PS_PIXEL_SCALE ' gets the length of the vector towards the celestial north pole in pixel
+
+Dim InitVector As PointF
+InitVector.X = 0
+InitVector.Y = -CSng(lengthTotal) 'Casts the length to a vector
+
+Dim FirstRotation As PointF = VectorRotate(InitVector, PS_NORTH_ANGLE * -1) 'rotates the vector towards the celestial north pole using north angle from the Plate Solve
+Dim FlipVector As PointF
+FlipVector.X = FirstRotation.X * -1
+FlipVector.Y = FirstRotation.Y * -1 'flips the vector so that it points from the north pole to the image center
+
+Dim Multiplier As Single = CSng((90 - Target_dec) / (90 - PS_DEC)) 'multiplier for applying the DEC difference
+Dim FlipVectorTrim As PointF
+FlipVectorTrim.X = FlipVector.X * Multiplier 
+FlipVectorTrim.Y = FlipVector.Y * Multiplier 'after this the vector should have the length of the Target dec
+
+Dim Finalvector As PointF = VectorRotate(FlipVectorTrim, (target_Ra - PS_RA)) 'rotates the vector by the difference of the target ra and the ra from the plate solve
+Dim Pixeloffset As Point
+Pixeloffset.X = CInt(Finalvector.X - FlipVector.X)
+Pixeloffset.Y = CInt(Finalvector.Y - FlipVector.Y) ' by subtracting the vectors I should get the relative offset from the image center in pixels
+
+When I use the coordinates from the star marked green I get the yellow circle as a result, to the bottom left of the star.
+
+Fiddling around with the code I found out that if I multiply the RA correction angle by 0.67 the target is correctly found.
+Dim Finalvector As PointF = VectorRotate(FlipVectorTrim, (target_Ra - PS_RA) * 0.67)
+
+
+I’ve tried this on another star where I got the same results. What I figure from this is that DEC is correctly handled, but the RA rotation is for some reason too much, by about one third.
+I’ve looked at other possible error sources(placement of the circle in the image, star coordinates, the plate solve itself) and I’m confident that they are all correct, so the error has to be somewhere in this code.
+I can use the fix I found, but I’d much rather know what I’m doing wrong.
+Here is a link to the platesolved image.

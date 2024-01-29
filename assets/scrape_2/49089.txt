@@ -1,0 +1,14 @@
+Stellar connectivity for different cosmological redshifts
+
+I'm creating models of stellar connectivity, for a range of cosmological redshifts (z=9, z=7, z=5, z=3, z=1, z=0, z=0.5).
+For that I'm doing the following steps:
+
+Sampling simulation sub-halos for each redshift, with their cosmological coordinates
+Converting coordinates from comoving distances into physical distances (in kpc)
+For each sample, calculating a radius by multiplying a percolation parameter b=0.2 by the mean physical distance between stellar objects
+For each sample, connecting stellar particles (only) if they lie within this radius
+Creating a connectivity matrix which I will then turn into a graph object to study
+
+
+I ask if each sample connectivity will end up accounting for the diminishing star density at lower redshifts, or if the scale factor applied at convertion (item 2) will smooth that difference out.
+Ideally I would like to have less connectivity for lower redshifts, for the same simulation block size.

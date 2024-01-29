@@ -1,0 +1,3 @@
+Single axis solar tracker tilt angle calculation
+
+I'm working on single axis solar tracker project. Solar panels will towards the sun with maximum angle from sunrise to sunset. the panel direction is east-west or near east-west. I need to make angle formula that can give optimum angle in a day between sun and panel. I'm using NREL solar position algorithm document to calculate angles. I don't understand how to formulate tilt angle. İf i choose direction east-west, can I use directly hour angle for tilt angle? Is it enough to calculate tilt angle using zenith and azimuth angle?

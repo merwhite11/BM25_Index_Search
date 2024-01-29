@@ -1,0 +1,4 @@
+Requirements for an amplifier and filter for a horn antenna-based 21 cm radio telescope?
+
+We are looking into the possibility of building a low budget horn antenna for detecting 21 cm hydrogen line radiation (~1420 MHz) and and possibly measuring its spectrum.
+What are the types of parameters and specifications we should look for in an amplifier and filter that would be connected to the input dipole at the end of the horn?

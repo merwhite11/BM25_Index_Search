@@ -1,0 +1,7 @@
+why is it impossible to infer the surface temperature of Venus by spectroscopy observation from earth？
+
+It is well known that the surface temperature of the sun is determined by fitting the sunlight with the black-body spectrum.
+Why is this inappropriate for Venus?
+I have the question because of the History SE question When did we figure out that Venus was too hot for humans?1. It seems that it is impossible to determine the surface temperature of Venus as we did for the Sun on earth.
+
+1while it looks like it should have been asked on HSM, it predates that site.

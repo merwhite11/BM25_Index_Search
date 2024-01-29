@@ -1,0 +1,21 @@
+Did they ever figure out why Parker's WISPR cameras were able to see the surface of Venus? Mischaracterized filter, or unexpected atmospheric window?
+
+
+Credit: NASA/Johns Hopkins APL/Naval Research Laboratory/Guillermo Stenborg and Brendan Gallagher
+Also refer to the technical material cited in the Space Exploration SE question
+
+How brightly does Venus's hot surface glow at night? Could you see it? Could you see well enough to walk around?
+
+and see
+
+At high temperatures, do planets glow like blackbodies?
+
+
+Phys.org's Parker Solar Probe offers stunning view of Venus includes the image above taken by the Parker Solar Probe.
+My previous question Has Hubble photographed Venus in near IR? If so how does it compare to the new and exciting Parker Solar Probe image? provides extensive specifications and details and several links that I won't copy/paste here. Basically Parker Solar Probe's WISPR cameras have long wavelength cutoffs of 740 and 725 nm implemented by filters.
+There was "surprise" that surface features on the dark side of Venus were imaged by one of these cameras during a Parker Solar Probe flyby (gravitational assist) of Venus.
+With what was known about the camera filters' band passes, Venus' atmospheric optical transmission windows, and the available light, it was not expected to see anything originating from the surface.
+At the time it was suspected that either the filters or Venus' atmosphere had some unexpected transmission at wavelengths that had not been characterized, and so thermal infrared light radiated by Venus' surface was reaching the camera's imaging chip. (With a bandgap of about 1.1 eV, silicon can detect out to about 1100 nm or so depending on doping)
+Of course anomalous emission of Venus' surface due to unexpected temperature might also be part of the explanation.
+So I'd like to ask:
+Question: Did they ever figure out why Parker's WISPR cameras were able to see the surface of Venus? Mischaracterized filter, or unexpected atmospheric window? Or maybe something else?

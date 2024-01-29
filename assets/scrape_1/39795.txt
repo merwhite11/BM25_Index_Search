@@ -1,0 +1,10 @@
+How does an object at L1 stay at L1?
+
+I've recently been reading about the DSCOVR satellite, and I'm confused about it's orbit.
+According to NOAA
+
+A million miles away, DSCOVR orbits a unique location called Lagrange point 1, or L1. This point is a gravity neutral point in space, allowing DSCOVR to essentially hover between the sun and Earth at all times.
+
+With it being at L1, it's orbit around the sun is slightly shorter than Earth's. So my uninformed gut feeling tells me it should orbit the sun in a few days less than Earth does, but it clearly doesn't.
+How is this object at L1 kept at L1?
+Could it be that the gravity of the Earth acting on it in a really convenient way? Or does it use fuel? What fuel? Or is it a property of the L1 point that I have misunderstood that an object will naturally stay there once in position?

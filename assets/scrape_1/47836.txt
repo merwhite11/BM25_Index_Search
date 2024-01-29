@@ -1,0 +1,7 @@
+How close to escape velocity are most Oort-cloud comets?
+
+User @antlersoft wrote a nice answer to my question on the difference between barycentric and heliocentric models of the solar system when applied to comets (edge cases of the systems). In a comment, @DavidHammen mentions that
+
+Planetary perturbations near perihelion will change the aphelion for most highly-eccentric objects, regardless of the coordinates used.
+
+Because most comets have inclinations different than that of the ecliptic plane and do not intersect the orbit of a planet, with the famous exception of Comet Bowell in a close swingby of Jupiter, with an inclination of only 1.66 degrees. As a result, why are such small perturbations of planets several AU away enough to take a comet from a closed to an open orbit? How close to escape velocity are most Oort-cloud comets?

@@ -1,0 +1,4 @@
+Are occultation observations used/useful for orbit determination?
+
+The IAU Minor Planet Center lists $(486958)\space 2014 \space MU_{69}$ "Ultima Thule" as having an uncertainty parameter of 2, based on the observation arc of 851 days, from its discovery in 2014, to the last observation submitted from Hubble in 2016.
+Other sources indicate that there have been a number of ground-based observations of Ultima Thule occulting various background stars. Are these "observations" purposely not included/submitted as further sightings to increase the observation arc?

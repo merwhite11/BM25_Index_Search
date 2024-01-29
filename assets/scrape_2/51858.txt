@@ -1,0 +1,8 @@
+How to reproject a fits file using MontagePy
+
+I am fairly new to image reprojection so I am trying to use MontagePy to go from a bigger fits file to its smaller subsection (which is in a different observation, therefore header) but the output doesn't seem to be matching with the cropped fits file I already have.
+This is image header to be reprojected.
+
+And this is the header of the smaller section that I am trying to fit the first image into.
+
+Is there information that I am missing? MontagePy doesn't seem to work for this reprojection. Do you recommend other softwares/codes?

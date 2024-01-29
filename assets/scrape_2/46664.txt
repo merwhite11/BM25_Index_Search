@@ -1,0 +1,16 @@
+Straightforward conversion from Gaia GDR3 photometry to RGB values
+
+I'm a non-astronomer, but I'm working on a project for which I need to produce CGI renderings of as complete a starfield as I can find. The latest Gaia catalogue release has an impressive 1.5 billion sources with photometry, so I'd like to use that. However, I'm struggling with figuring out how to convert the photometry data into rgb colour values. My understanding is that the sources are photographed through bandpass filters which each transmit a particular range of frequencies, and that this can be used to determine the colour temperature of the stars, but I don't know which pieces of data I need or what formula I need to convert them into colour values or temperatures.
+I think that the following fields in the dataset are probably what I need:
+
+phot_g_mean_mag: G-band mean magnitude (float, Magnitude[mag])
+phot_bp_mean_mag: Integrated BP mean magnitude (float,
+Magnitude[mag])
+phot_rp_mean_mag: Integrated RP mean magnitude (float,
+Magnitude[mag])
+bp_rp : BP - RP colour (float, Magnitude[mag])
+bp_g : BP - G colour (float, Magnitude[mag])
+g_rp : G - RP colour (float, Magnitude[mag])
+
+Is it as simple as stuffing the G mean magnitude into the green channel, the BP into the blue and the RP into the red?
+I'd welcome any advice on how to go about doing this, or links to resources or code that does something similar. I don't need the results to be scientifically accurate, just visually plausible.

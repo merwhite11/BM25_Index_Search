@@ -1,0 +1,7 @@
+Warm and Hot dark matter density profiles
+
+For cold dark matter, density profiles are well known and easy to find information about - eg. NFW, Burkert, Einasto, and others.
+But for some reason I couldn't find explicit expressions for the density profiles for Hot and Warm dark matter.
+I need to know what are $\rho_{_{HDM}}(r)$,$\rho_{_{WDM}}(r)$.
+I'm interested in the differences between cold/hot/warm dark matter and why do we use Cold dark matter ($\Lambda$-CMD  model) and not Hot or Cold dark matter. I need to back my claims with formal quantitative analysis and not just a qualitative explanation.
+If you can recommend about other aspects which differentiate the models, or a good review paper on the subject, I would welcome it.

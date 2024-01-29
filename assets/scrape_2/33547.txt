@@ -1,0 +1,8 @@
+What might some examples be of radio telescope interferometric arrays made from "cheap components relying on massive computing power"?
+
+This answer mentions that there are some interferometric radio telescope arrays
+
+...consisting of very cheap components relying on massive computing power to retrieve the signals from noise...
+
+The radio interferometers that normally come to mind for me are the VLA and especially ALMA type, where there are only dozens of dishes, each one extremely high-tech and chock full of analog and digital electronics, often linked by high speed fiber optic cables.
+What might examples of arrays made from "cheap components relying on massive computing power" be?

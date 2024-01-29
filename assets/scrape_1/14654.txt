@@ -1,0 +1,6 @@
+Why does shell fusion produce more energy than core fusion?
+
+Stars go from the main sequence phase to the red giant branch due to the depletion of hydrogen in the core. As a result, the star contracts and shell hydrogen fusion begins, which apparently produces much more energy. Why does this produce more energy than core hydrogen fusion? The Wikipedia article on red giants says that this is because of higher temperatures, but why does shell hydrogen fusion occur at higher temperatures than core hydrogen fusion?
+After the helium flash in low-medium mass stars, does shell hydrogen fusion continue to occur? If so, then why does there a drop in luminosity from the helium flash to the horizontal branch? And if not, then why not?
+Similarly to the first question, in the AGB phase, why does shell helium fusion produce so much more energy than core fusion?
+Why does the early AGB phase derive most of its energy from shell helium fusion and not shell hydrogen fusion?

@@ -1,0 +1,18 @@
+Is Sofia a radio telescope proper?
+
+I usually think of SOFIA, the Stratospheric Observatory for Infrared Astronomy as an infrared optical telescope:
+
+SOFIA uses a 2.5 m (8.2 ft) reflector telescope, which has an oversized, 2.7 m (8.9 ft) diameter primary mirror, as is common with most large infrared telescopes. The optical system uses a Cassegrain reflector design with a parabolic primary mirror and a remotely configurable hyperbolic secondary. In order to fit the telescope into the fuselage, the primary is shaped to an f-number as low as 1.3, while the resulting optical layout has an f-number of 19.7. A flat, tertiary, dichroic mirror is used to deflect the infrared part of the beam to the Nasmyth focus where it can be analyzed. An optical mirror located behind the tertiary mirror is used for a camera guidance system.
+
+and one thing that makes that happen is that it looks just like a "normal" telescope with shiny polished and metal coated mirrors.
+I've just seen Phys.org's Stellar feedback and an airborne observatory: Team determines a nebula to be much younger than previously believed (which links to Stellar feedback and triggered star formation in the prototypical bubble RCW 120) which talks about a "1.9-THz fine-structure line".
+As far as I can tell this is done with little antennas as pixels, a heterodyne down-converter and radio receivers just like the Atacama Pathfinder Experiment data at 345-GHz it compares to.
+In other words, it sounds just like a low granularity focal-plane array on a dish radio telescope.
+I am not asking about the difference between the overlapping labels of radio and infrared as they apply to the electromagnetic spectrum, though that could well be part of an answer. These days radio astronomers call what they receive "light" as often as optical astronomers do. However the equipment used is different. Radio offers the possibility of recording phase for off-line interferometry, whereas optical detector arrays are generally intensity based only. So instead, am simply asking:
+Question: Is Sofia a radio telescope proper?
+
+
+Source
+
+
+A) SOFIA [CII] integrated intensity, scaled from 0 to 260 K km/s. The red circles indicate the approximate inner and outer PDR boundaries defined from Spitzer GLIMPSE 8-μm emission (55), and the red star shows the location of the ionizing source, CD −38°11636. The yellow “+” indicates “Position 1” (see the Supplementary Materials). (B) Spitzer GLIMPSE 8-μm emission. The contours are of [CII] integrated intensity, scaled from 40 to 160 K km/s in 40 K km/s increments. (C and D) APEX 12CO(3-2) and 13CO(3-2) integrated intensity, scaled from 0 to 260 K and 0 to 90 K km/s, respectively. The contours are the same as in (B). The areas enclosed by the dashed yellow lines in (A), (C), and (D) were used to extract the position-velocity diagrams shown in Fig. 2.

@@ -1,0 +1,6 @@
+How would I measure that I'm at a pole?
+
+How would a person measure that he is at a planetary pole? My first inclination is to use a sextant to ensure that the Sun remains at a constant inclination. However, due to the orbit around the Sun and a possible planetary axial tilt, the Sun's inclination may vary over the course of the year and that could affect measurements if the length of the day is a significant portion of the length of the year.
+A second inclination is to try to identify a pole star or at least the point about which distant stars rotate during the course of a planetary rotation. The observer could then (at least in theory) measure the inclination of this point assuming that planetary precession takes a long enough time (as on Earth). However, in the most likely chance that there is no bright star near the pole, I don't see how a sextant could measure reliably the inclination of a blank point.
+Perhaps the first method could be used, but with other objects in the sky (stars) in place of the Sun. Thus, if a given star's inclination does not change as it (apparently) revolves around the horizon, we are at the pole.
+Are there any better methods, assuming a completely self-contained system (i.e. no external satellites)?

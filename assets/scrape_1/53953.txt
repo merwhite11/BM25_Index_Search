@@ -1,0 +1,17 @@
+What crystal structures are predicted for the crystalline phase of matter inside crystalizing white dwarfs? Does it depend on the carbon/oxygen ratio?
+
+The abstract of Venner et al. (2023) A Crystallizing White Dwarf in a Sirius-Like Quadruple System includes the following:
+
+The location of HD 190412 C on the eff − mass diagram implies it is undergoing crystallization, making this the first confirmed crystallizing white dwarf whose total age can be externally constrained. Motivated by the possibility that a cooling delay caused by crystallization can be directly detected for this white dwarf we employ a variety of methods to constrain the age of the system; however, our empirical age anomaly of +3.1 ± 1.9 Gyr is ultimately too imprecise to reach statistical significance, preventing us from making strong constraints to models of white dwarf crystallization. Our results are nonetheless compatible with the recent hypothesis that 22Ne phase separation is responsible for the excess cooling delay of crystallizing white dwarfs.
+
+The "pile-up" of white dwarfs in the eff − mass plot suggests temporary halt in the rate of apparent cooling and this is interpreted as an exothermic phase change. The phase change is further interpreted to be from a dense ionized plasma(?) to a very dense solid of primarily carbon with perhaps oxygen. If I understand correctly the solid phase is considered to be an actual crystal. Sciencealert.com's White Dwarf Star Enters Its Crystallization Era, Turning Into A 'Cosmic Diamond' puts the density at of the order of 106 kg/m3 (which would make the interatomic distances of the order of only 0.5 Angstroms1) so these crystals will not be something found or even reproducible on Earth.
+
+Whether or not that white dwarf crystal is diamond is unknown; the density of white dwarfs is over around 1 million kilograms per cubic meter, while the density of diamond is about 3,500 kilograms per cubic meter. Denser allotropes of carbon do exist; on the other hand, there's plenty of diamond floating around out there in space.
+
+1per ProfRob's comment the density should be another 103 higher still, making the interatomic spacing more like 0.05 Angstroms!
+Question: What kind of crystal structures are predicted for the crystalline phase of matter inside crystalizing white dwarfs? Does it depend on the carbon/oxygen ratio?
+note: I'm looking for the crystallographic primitive unit cell as well as the conventional cell, but if it's for example diamond cubit then that term covers both.
+
+Further reading:
+
+Wikipedia's White dwarf; Radiation and cooling

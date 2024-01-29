@@ -1,0 +1,5 @@
+How frequently does a comet drastically change its orbit in the Solar System (like 67P did in 1959)?
+
+Comet 67P/Churyumov–Gerasimenko flew by Jupiter at only 0.05 AU distance in 1959. This encounter lowered its perihelion from 2.7 to 1.3 AU (almost becoming an Earth crossing comet). Since it happens to be the target of the Rosetta mission (and was picked only because of a launch delay), I wonder if it is as common as it seems that a 4+ billion year old comet shifted its orbit drastically less than 60 years ago?
+How often does Jupiter do something like this?
+How many known comets are known to have had their orbits substantially changed by a single flyby?

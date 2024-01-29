@@ -1,0 +1,4 @@
+Would we be able to feel the acceleration of a planet with a highly eccentric orbit?
+
+Even though our Earth moves on average 67,000 miles per hour around the Sun, we cannot feel its movement since its speed is fairly constant. More precisely, its change in speed is very low and our bodies cannot detect that low of acceleration.
+What if instead a hypothetical human observer were placed on a planet with a very eccentric orbit, say 0.99? Would that human be able to feel the planet's acceleration as it approached its host star, and as it receded from its host star? And if a human observer would not be able to feel any acceleration even at e=0.99, what is the minimum eccentricity, if any, that a planet must have in order for a hypothetical human observer to feel the effects of its acceleration and deceleration?

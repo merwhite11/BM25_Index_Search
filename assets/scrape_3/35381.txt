@@ -1,0 +1,4 @@
+Why does the Sun move slower during the solstices?
+
+A comment under this answer states that the apparent angular speed of the Sun is 8% slower during the solstices. This is rather counter-intuitive, since the rotation speed of the Earth is constant (or close enough for the timescales considered).
+Why does the Sun appear to move slower in the sky at the solstices?

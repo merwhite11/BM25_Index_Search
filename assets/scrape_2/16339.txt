@@ -1,0 +1,4 @@
+What is the Galactic Latitude and Galactic Longitude? How is different from the latitude and longitude we use on Earth?
+
+It has to something with the positioning of sun and galactic center of the milky way but I wasn't able to understand how for a given star, its co-ordinates are calculated.
+Some explanation would be appreciated.

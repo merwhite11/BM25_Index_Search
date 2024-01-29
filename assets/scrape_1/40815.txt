@@ -1,0 +1,14 @@
+Stellar life cycle flow chart with mass conditions and time scales
+
+I remember that in my nuclear astrophysics lecture a decade ago, our lecturer drew a large flow chart like diagram of stellar evolution in dependence of the mass of the star (in solar units) on the black-board. I found one from Wikipedia which is close to the one I remember, but less detailed than the one I remember. The content of the linked chart is summarized in my following sketch:
+
+Sadly, neither me nor my former classmates recall which text book or publication the diagram came from, we suspect it was a composition of many sources. The diagram came with a brief explanation of each mass threshold, and it also outlined the governing equations in the respective stellar state. I also remember that there were rough approximates of the time scales of the respective state given.
+Maybe somebody can help me out with alternative search terms, references, or a textual answer briefly summarizing the conditions and the state-of-the-art error bars for the mass thresholds and timescales?
+Related
+
+The life course for a massive star from birth to death using the HR Diagram and it comments are helpful, but only slightly related
+What are the equations governing stellar evolution (Luminosity, Mass, Temperature, Radius) touches one aspect of what I am after
+A flowchart from Stephan et al. 2019 outlining the outcomes of binary stellar evolution in the galactic center comes with the right amount of details, but is not for general star evolution.
+
+Edit from 2021-01-22
+To make answering easier, I quickly layed out the existing diagram as BPMN which is editable e.g. with this freely available editor. The source code is available via https://pastebin.com/mrafLWa0 - please feel free to reuse, expand and distribution my diagram, just make you comment here where and what for.

@@ -1,0 +1,9 @@
+Why does the sun appear 13x bigger through diffraction in Voyager 1 image from 1990, but not from Earth?
+
+The sun in the Voyager 1 photo here from 1990 appears 13x bigger than its diameter, diffraction of course. On Earth, photographs of the sun do not make it appear 13x bigger. Why?
+A description of the photo from jpl.nasa.gov,
+
+"The wide-angle was taken with the camera's darkest filter (a methane
+  absorption band), and the shortest possible exposure (5 thousandths of
+  a second) to avoid saturating the camera's vidicon tube with scattered
+  sunlight. "

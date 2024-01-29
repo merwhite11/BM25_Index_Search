@@ -1,0 +1,3 @@
+How much delta-v does a typical geostationary satellite carry?
+
+I'm wondering - how much delta-v do typical geostationary satellites carry with them once they get into the orbit for things like orbital adjustment or movement to the graveyard orbit?

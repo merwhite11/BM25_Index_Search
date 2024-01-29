@@ -1,0 +1,8 @@
+Can the collapse of a gas cloud lead to an elliptical structure?
+
+Is it likely, unlikely, or impossible for an elliptical structure to form when a gas cloud collapses?
+Due to the conservation of angular momentum, one would expect that disk structures are much more likely to form than elliptical structures. Elliptical galaxies then formed by merging of disk structures (or of earlier elliptical structures, which themselves must have originated from disk structures). The presence of mostly very massive elliptical galaxies in the centers of galaxy clusters (with high mass densities) would support such a merging history.
+Were the first galaxies all disk-like and are old large ellipticals the result of continuous merging events?
+On the other hand, the majority of stars in ellipticals seem to have formed in a relatively short rapid burst of star formation.   If elliptical structures were the results of mergers, wouldn't it be unlikely for the stars in these merging galaxies to have all formed at the same time?  Shouldn't we, therefore, find various stellar populations in ellipticals that are old but do not have the same age?
+Or perhaps the currently observed old populations in ellipticals were formed during the merging process, and the remaining gas of the merging partners was used up then.  Still, then we should be able to detect some older stars from before the merging.
+An interesting question then is what proportion do these "pre-merger stars" represent in ellipticals?

@@ -1,0 +1,6 @@
+How to evaluate the fit of an isochrone to a stellar population?
+
+Consider that I know the extinction, distance modulus, reddening, and metallicity for a particular star cluster.
+I need to determine it's age from isochrone fitting.
+After generating the required isochrones, what should be a parameter for the goodness of fit for the isochrone? 
+Is there something like a 'best fit line' that also exists for general curves?

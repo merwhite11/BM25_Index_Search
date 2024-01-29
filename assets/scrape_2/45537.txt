@@ -1,0 +1,11 @@
+Comparing Observing Techniques to Quantify the Effects of Starlink Satellites on Astronomical Observations
+
+To take pictures of satellites I think I could use these methods listed below (are there more?)
+Method 1
+The satellites are tracked and their positions predicted. By utilising software tools and code libraries (such as Skyfield) available online, the satellites’ ephemerides are computed from their two line element (TLE) set. These software programs compute all the observable satellite passes for the forthcoming night. Next, the satellites’ images are captured. This will be done by pointing the telescope towards a satellite’s predicted location and tracking siderally.
+Method 2
+A possibility could be that of using an OpenAstroTracker (OAT) mount. Depending on the latitude of the observations, different versions of an OAT would be needed to be printed. The OAT would be controlled using a laptop interface via planetarium software. This would allow to download satellite TLE and tracking of which.
+Both methods yield images of satellites:
+Method 1 --> fixed stars with satellite streak
+Method 2 --> streaked stars with fixed satellites
+Now, to the question... Would it be feasible to compare these two methods? Perhaps capture the same satellite with these two methods. This would require two cameras however that could introduce some error as well.

@@ -1,0 +1,5 @@
+How much larger will the "observable by us" universe be when JWST becomes operational?
+
+Right now, using all our various current means of observing, we can "see" a sphere of X diameter around us. Webb will increase that to Y diameter. So our observable volume will increase by some percent (Volume Y - Volume X) / Volume X.
+I'm not sure I can rely on any values I find for X and Y using google searches.   As of April 2022 what is the diameter of what we can presently observe and what is the expectation for JWST?
+ADDITION: my apologies for not having enough subject matter expertise to frame my question as well as it might have been. I was thinking along the lines of pela's response. With JWST having a better set of instruments etc our practical ability would have farther reach. I've known there were physics limits to what could ever be observed that could not be changed. the CMB is not the type of observation I had in mind when asking the question.

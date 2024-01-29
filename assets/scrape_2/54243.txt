@@ -1,0 +1,9 @@
+Using Gaia Passbands with L_nu coordinates
+
+I am trying to find the coordinates of my bundles of gas on the gaia ($G, G_{bp}-G_{rp}$) hr diagram. I have its spectrum in $\nu L_\nu$ coordinates. Thus far, my attempts have mainly been to integrate to find the passband ($x = G, G_{bp}, G_{rp}$) luminosity
+$$L_x = \int B_x \frac{\nu L_\nu}{\nu}d\nu = \int B_x L_\nu d\nu$$
+Where $B_x$ is the response, and then use D = 10 parsecs to get the flux
+$$F_x = \frac{L_x}{4\pi D^2}$$
+Then, using the zero points $Z_x$ to get the magnitudes
+$$G_x = -2.5 \log F_x + Z_x$$
+However, this results in my gas being extremely dim in the visible, G comes out to be as large as 100 in some cases. Am I using the passbands incorrectly? Theoretically, as a crude approximation, the Bremsstrahlung (free-free) radiation alone should be within a few orders of magnitude of white dwarfs, completely disagreeing with these results.

@@ -1,0 +1,4 @@
+What is the most distant observable White Dwarf known?
+
+I attended a talk last week about Type 1a supernovae with the focus being on double-degenerate systems as potential progenitors for them. We were shown a graph of White Dwarf (WD) mass distribution like the one below (source), and it got me thinking, because even though they are very faint objects they are also very numerous in our galaxy. 
+So this led me to wonder what is the furthest known WD from Earth given that they are so faint but so numerous. I have looked for an answer online but the closest I got was a Type 1a progenitor at redshift 2 called "SN UDS10Wil" but this is not what I am looking for because this is not observable from Earth, it is just inferred from the supernova classification.

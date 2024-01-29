@@ -1,0 +1,32 @@
+How can I crop a fits file and get correct WCS header info without a new plate solve and WITHOUT USING PYTHON?
+
+While my question is similar to this one, the suggestions offered there won't work for my specific situation.  For over a month I've been trying to find software capable of this but it's been an unsuccessful search.  I don't think the software exists; however, I haven't asked this group yet. I sure hope I'm wrong.
+The Problem
+
+if I crop a fits image, the WCS is lost (which makes sense, the image has changed) but the cropping software won't recompute the WCS for the new area and add it back into the new header
+
+The Data Set
+
+a collection of .fits image files created by a CCD (not tables or any
+other kind of .fits file)
+each individual image is large in terms of degrees of sky
+minimum number of files in set: ~1,150 and max number is: ~15,000
+each image has the WCS info in the header
+each image is registered on a sub pixel level to the others
+
+Software Requirements
+
+IS NOT PYTHON unless it has a GUI interface hiding all evidence of Python code
+runs in local Windows environment, not cloud based
+works in a batch or bulk mode
+copies the header from the original but updates the WCS entries
+updates the other headers as necessary such as NAXIS1
+
+Additional info: why standard methods don't work
+
+the images can't be plate solved by astrometry dot net (they are very out of focus (on purpose with a diffuser) or the plate scale is extreme at over 20 arc-secs per pixel which looks out of focus but isn't)
+while the crop with WCS update could be done in Python, this project requires a GUI
+
+I've tried SAOimageDS9, AstroImajeJ, PixInsight, Mira, and MaxIm DL 6 Pro but they don't recompute the WCS entries. My goal is to create a procedure to do aperture photometry on special data sets without using Python but first I need to determine if it's possible.  A crop is required before all else due to the size of the data.
+When working with other data sets, cropping issue isn't a problem.  The images are registered, then the crop is performed (as well as any 'rotate 180 deg' or mirror left/right/top/bottom).  It removes the WSC headers but plate solving the new, smaller, postage stamp image puts the corrected ones back in.
+If anyone knows of software to crop fits images and return correct WCS headers, it would help tremendously.

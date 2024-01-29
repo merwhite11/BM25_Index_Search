@@ -1,0 +1,15 @@
+Differences between alt/az in Stellarium and Astropy
+
+I've just started to learn Astropy. It's a nifty tool. Using some tutorials, I wrote and then made modifications to a little script that finds the Alt/Az of an object at a certain place and time. I then checked Stellarium's calculation for the Alt/Az of the same object (at exactly the same place and time) and found it to be slightly different. I suspected this was due to slight differences in the underlying coordinates, so I tried manually hard coding the coordinate data for the star from Stellarium; it still came out different. Here is the data without the hard coding:
+Object: Rasalhague (alf Oph)
+Time: 2018-08-28 23:00 (converted to universal in the script)
+Latitude: 35
+Longitude: -79
+Stellarium reported Az/Alt: +247 35 12.3 / +48 00 57.8
+Astropy reported Az/Alt: +247 35 37.4939s / +48 00 08.7586
+
+Manually coding:
+RA/Dec on date from Stellarium: 17 35 48.82, +12 32 55.9
+Astropy reported Az/Alt: +247 22 42.0379 / +48 09 43.0755
+
+I'm guessing that the difference stems from the conversion algorithm to alt/az.

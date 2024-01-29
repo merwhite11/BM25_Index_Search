@@ -1,0 +1,5 @@
+How can the next supermoon be analytically predicted?
+
+The lunar motion can be predicted with basic celestial mechanics, but the perigee and apogee are not always the same, basically because the attraction of the Sun makes some oscilations in the semi-axis of the orbit (https://en.wikipedia.org/wiki/Perturbation_(astronomy)). 
+My question is: how do they know when the full moon will get as close as it got in the recent supermoon? For example, the Dailypost article Biggest Supermoon in 68 years will light up the November sky claims that the full moon won't come this close to Earth until November 25th, 2034.
+How do they kow that? Are they using the perturbation theory equations to predict this? If so, can anybody give me some source or explanation of how it's done analytically?

@@ -1,0 +1,10 @@
+Explanation about the resonance, mean motion resonance and libration
+
+I am studying for a project the dynamics of multi-planetary system in resonance. I have two questions about this domain.
+
+In many articles they speak about 'mean motion resonance', what is the difference with a classic orbital resonance?
+How can we define that two exoplanets are in resonance? Scientific articles are using the ratio of the orbital periods being related by an integer ratio, but in a book (exoplanet handbook-Michael Perryman) I saw "mean motion resonance: definition is via the librating or oscillating behaviour of
+some linear combination of resonant arguments". What is the difference between this or the ratio of periods to define the resonance?
+
+Also, if you have any recommandation of books/articles about this topic, I would be glad to hear it.
+Thank you!

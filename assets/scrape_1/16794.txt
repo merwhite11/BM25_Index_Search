@@ -1,0 +1,4 @@
+What information will SETI have access to from the SKA (Square kilometer array)
+
+I read on on the website of the SKA (https://www.skatelescope.org/) that SETI will sort of have "passive" access to the data that they capture on the array, sort of like a "pigyback" concept and search the data for signals.
+How much of the data will they have access to? Everything? That would be literally petabytes of data per day that they would have to process. If so how do they plan to process all that data? Like a more effecient SETI@Home?

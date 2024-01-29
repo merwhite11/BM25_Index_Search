@@ -1,0 +1,4 @@
+Composition and Proton Flux from the Solar Wind
+
+I am taking a class on the space environment and I have a few questions about the solar wind.  A number of sources list the composition as (approximately) 4% He$^{++}$ and 96% H$^{+}$.  What exactly does this mean?  Does it mean by mass or by number of ions?
+Also, when discussing proton flux due to the solar wind at Earth:  What exactly is included in the flux numbers quoted (e.g., one source I have says 2e12 m$^{-2}$s$^{-1}$).  Is that the flux due to only the H$^{+}$ and excluding the He$^{++}$ and other minor constituents?  Or, are they including all the protons from the other ions as well?

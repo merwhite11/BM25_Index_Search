@@ -1,0 +1,3 @@
+Can red dwarf stars have a spectral type of L?
+
+We have the "normal" main sequence stars, OBAFGKM. Below K and M are the brown dwarfs, L,T, and Y. Zooming into the area at the edges of M and L, we have spectral types M9, M9.5, L0, and L1. So I am wondering, is there any red dwarf that has a spectral type of L?

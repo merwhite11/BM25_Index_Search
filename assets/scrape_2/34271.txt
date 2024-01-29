@@ -1,0 +1,5 @@
+How do I calculate the Hill radius of a star in a binary system?
+
+Is there an easy way to calculate the Hill radius of a star in a binary system at different orbital radii where both stars are of the same mass and in circular orbit around one another’s centre of mass?
+I have seen a formula for calculating Hill radii but it’s meant to address the stability of orbits around a small body which itself orbits a large one, an example of which would be the effect of the Sun's gravity on the orbit of an object around the Earth. 
+Can the same formula be used if both major bodies are of similar or the same size, for example to address the stability of planetary orbits around one star in a binary system?

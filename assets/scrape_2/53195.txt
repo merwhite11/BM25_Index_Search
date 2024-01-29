@@ -1,0 +1,8 @@
+Display the lines of solar altitude on the map
+
+Following this question:
+Calculate lines of equal solar altitude
+I would like to have the possibility of displaying the lines of equal solar altitude on the map as per the image below:
+
+including also the values below the horizon.
+Is there any software or (for example) Pythin library, which could do something like this?

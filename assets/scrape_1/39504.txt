@@ -1,0 +1,8 @@
+SDSS - getting separate u, g, r, i, z frames from SWARP tool and astropy
+
+I am following this paper to extract the u,g,r,i,z image frames from the SDSS image fits files. I have the fits files downloaded (using the bulk data download option from SDSS) and tried to run the SWARP tool to get the resampled image as output, which I will access through astropy. I am still unclear on the exact parameters that will make up the entire SWARP command. So far I have:
+swarp frame-i.fits[0] frame-r.fits[0] frame-g.fits[0] frame-u.fits[0] frame-z.fits[0] -SUBTRACT_BACK N -RESAMPLE Y -RESAMPLING_TYPE LANCZOS3 -IMAGE_SIZE 64,64 -IMAGEOUT_NAME attempt.fits
+
+This is written with the description of it in the paper, which is:
+
+With the command that has been run, I am getting quite noisy images as output that do not relay any sort of information. What am I doing wrong in this process?

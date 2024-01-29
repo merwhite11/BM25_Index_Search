@@ -1,0 +1,11 @@
+Examples of the oldest "precoveries"; objects that were first discovered in recent data but then looking back are confirmed in much older data
+
+Example from Ars Technica's Radio astronomers scouring the archives spotted black hole devouring a star:
+
+Astronomers found another TDE in 2020 (dubbed AT 2019qiz), which provided the first direct evidence that outflowing gas during disruption and accretion produces the powerful optical and radio emissions previously observed.
+However, these powerful bursts of light are often shrouded behind a curtain of interstellar dust and debris, making it difficult for astronomers to spot or study them in greater detail using optical or X-ray telescopes. "This study demonstrates the power of radio surveys to discover TDEs," said co-author Vikram Ravi of Caltech, by picking up powerful jets shining in the radio-frequency regime. The events are potentially powerful tools for studying the inner workings of black holes.
+The new TDE candidate has been dubbed J1533+2727. Two of Ravi's high school interns first spotted it when he was a postdoc at Harvard University. Poring over the archives, they noticed that the image of a bright radio object taken in the mid-1990s had faded dramatically by 2017. They found images of the same object in the archives of the Green Bank 300-foot telescope, which showed the object had been even brighter in 1986/1987.
+
+For optical Astronomy this would not be a record; it's notable because it was done with old radio data.
+Question: What are examples of the oldest "precoveries"; objects or phenomenon that were first discovered in recent data but then looking back are confirmed in much older data.
+Different but somewhat related (and currently unanswered): Longest time after an image was taken when a new solar system body was discovered from it?

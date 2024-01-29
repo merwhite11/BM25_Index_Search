@@ -1,0 +1,3 @@
+Why is it that lithium and deuterium are burned before hydrogen?
+
+Protium ($^1H$) has a nuclear binding energy near 0. Meanwhile, lithium and deuterium have higher binding energies. Why is it that they are burned first (or at lower temperatures)? Is it perhaps related to the fact that hydrogen fusion is very difficult to achieve since over 99.99% of fusion attempts result in the diproton to undergo fission instead of beta decay?

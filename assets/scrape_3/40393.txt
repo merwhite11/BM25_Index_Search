@@ -1,0 +1,9 @@
+Does "spectral type" and "stellar classification" refer to the same thing?
+
+Should the tags stellar-classification and spectral-type be merged? has been asked in meta two weeks ago. It requires some careful consideration but so far no response has been forthcoming, so I'm asking this question here to get a definitive answer that can then be applied there.
+Wikipedia's Stellar classification begins
+
+In astronomy, stellar classification is the classification of stars based on their spectral characteristics.
+
+and while there is one subsection labeled simply Spectral types to my untrained eye it looks like there may be other classification schemes besides O, B, A, F, G, K, M, L, T.
+Question: Do the astronomical terms "spectral type" and "stellar classification" refer to the same thing? Or at least always when applied to stars? Might "spectral types" also refer to a way to classify asteroids?

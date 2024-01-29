@@ -1,0 +1,4 @@
+Question re distribution of the baryonic matter in the Universe
+
+In https://phys.org/news/2021-09-universe.html it says:"Scientists thus discovered some of the universe's missing baryons, thereby confirming that 80–90% of normal matter is located outside of galaxies, an observation that will help expand models for the evolution of galaxies."
+What is the basis for the estimate of the total amount of the Universe's "normal" baryonic matter (as referred in the above article's quote), which gave the authors of the article the grounds to claim that 80–90% of it is located outside of galaxies?

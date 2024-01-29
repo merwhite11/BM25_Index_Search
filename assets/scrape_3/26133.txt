@@ -1,0 +1,3 @@
+Photometric redshift
+
+I have decided to do undergraduate thesis on "estimating photometric redshift" or something related to this using machine learning. Reading previous papers, I have come to know that work has been done on this topic using support vector machine, artificial neural network, Bayesian approach and even deep learning. Can you suggest what are the  modifications or additions that I can possibly make?

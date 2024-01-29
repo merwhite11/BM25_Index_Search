@@ -1,0 +1,7 @@
+Can you find your own location in space by measuring angles between stars?
+
+Imagine you have 3 star points in 3D space A,B and C.
+From your unknown position P in space you can measure the angles APC, APB, BPC and you know coordinates of A,B and C and therefore the distances between AB,BC,CA. Is there a way to calculate your own position P? Imagine you are floating in space and you're not on a sphere like earth.
+Perhaps this is a frequent problem in astronomy and am wondering if there are any techniques to solve it. If you think there is, please point me in the right direction!
+Greetings,
+Matlab M.

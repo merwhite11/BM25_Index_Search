@@ -1,0 +1,4 @@
+Does the luminosity of a star have the form of a Planck curve?
+
+Figure shows the intensity of the radiant energy emitted from stars A and B over a unit time according to the wavelength. The area between the graph and the horizontal axis is S and 4S, respectively. 
+Is the distribution of radiation energy emitted per unit time by wavelength only affected by temperature or by star size and temperature?  In other words, does the intensity of each wavelength of the radiant energy per unit time not take the form of a Planck Curve, but a form of multiplying the area of the planck function?

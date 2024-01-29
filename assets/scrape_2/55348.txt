@@ -1,0 +1,25 @@
+Plotting scatter graphs with fits binary file?
+
+Basically I'm trying to create code in python which will allow me to open a Fit's binary file, read it and create a scatter diagram with it. Hopefully plotting LogG vs Teff. But it seems like whichever way I do it,I just get one error or another. This is my code any ideas on how to fix it?
+from astropy.io import fits
+
+import matplotlib.pyplot as plt
+
+b=fits.open("C:\\Users\\Robsh\\Documents\\VAC_GC_DR17_synspec_rev1-v1_1.fits")
+
+teff=b[1].data["TEFF"]
+
+logg=b[1].data["LOGG"]
+
+plt.scatter(teff,logg,s=1000,color="blue",alpha=0.5)
+
+plt.xlabel("TEFF")
+
+plt.ylabel("LOGG")
+
+plt.title("Scatter plot of astrophysical data")
+
+plt.show()
+
+This yields
+AttributeError Traceback (most recent call last) Cell In[6], line 5 2 import matplotlib.pyplot as plt 4 fits.open=('VAC_GC_DR17_synspec_rev1-v1_1.fits') ----> 5 teff=b[1].data['TEFF'] 6 logg=b[1].data['LOGG'] 8 plt.scatter(teff,logg,s=1000,color="blue",alpha=0.5) AttributeError: 'str' object has no attribute 'data'

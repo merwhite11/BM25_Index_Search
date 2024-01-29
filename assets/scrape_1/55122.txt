@@ -1,0 +1,37 @@
+How is a Planet's Moment of Inertia Measured Remotely?
+
+In the July 2023 issue of Sky & Telescope there is an article titled Sights Set on Uranus.  In that article the following statement is made:
+
+Since the 1930's we've suspected that Uranus and Neptune are made
+mostly of ice. (Ice refers to materials that are typically liquids or
+gases on Earth but are frozen in the outer solar system, including
+water and other lightweight molecular compounds like methane and
+ammonia.) But that time, astronomers had measured each planet's mass,
+volume, and moment of inertia, a measure of how concentrated the
+mass is towards the planet's center.
+
+I can easily imagine how one would estimate the mass and volume of a planet remotely in the 1930s, but how was the moment of inertia estimated?  I would have thought this would have required an orbiter or a fly-by to measure the shape of the gravitational potential.
+
+Information below is more background information that I was able to dig up:
+Wildt, R., 1939. The Constitution of the Planets. Proceedings of the American Philosophical Society, 81(2), pp.135-152.
+
+The greatest moment of inertia, $C$, of a planet can be computed
+from its oblateness on the Radau-Darwin theory of the
+ellipticity of the> Earth.*  For a homogeneous body
+the dimensionless quantity, $C/Ma^2$, has the maximum value,
+2/5. The values of $C/Ma^2$ given in Table I for the
+terrestrial planets have been taken from H. Jeffreys $\dagger$;
+they correspond to his models of these bodies which will be
+discussed in Section II. The other values have been calculated
+from the dynamical ellipticities of the giant planets
+determined by N. Lvoff.$\ddagger$ Since the deviations of the
+individual values from Lvoff’s mean, 0.24, are not well
+established at present, only this mean will be used in the
+further discussions; but there is evidence that the quantity
+$C/Ma^2$ is decidedly less for Saturn than for Jupiter.
+
+Note: $C$ - greatest moment of inertia; $M$ - mass, unit 5.966x1027 g; $a$ - equatorial radius, unit 6278.388 km
+* G. H. Darwin, M.N., 60, 82, 1900; H. Jeffreys, M.N., 84, 534, 1924.
+$\dagger$ H. Jeffreys, M.N., Geophys. Suppl., 4, 62, 1940.
+$\ddagger$ N. Lvoff, Russ. Astr. J., 9, 68, 1932.
+There three references I am currently struggling to track down.

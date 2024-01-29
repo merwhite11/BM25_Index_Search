@@ -1,0 +1,7 @@
+What is the maximum latitude from which a satellite in a geostationary orbit around Saturn would be visible to an observer on the planet?
+
+This question is part astronomy and part mathematics. I'm aware it involves “basic” trigonometry, but my brain is short-circuiting.
+From my calculations, the distance from the center of Saturn where a satellite orbiting over the equator would have an orbital period equal to Saturn's rotational period is $112,240$ km.
+If Saturn were a perfect sphere, simple trignometry would suffice to find out at which latitude the planet's curvature gets in the way and stops the satellite from being visible. (If I'm not mistaken, 58.74° North or South is the maximum latitude from which said satellite would be visible if Saturn where spherical. This was calculated using Saturn's mean volumetric radius of 58,232 km as given by the NASA fact sheet.)
+Unfortunately, Saturn is very much not spherical and is noticeably wider at the equator than at the poles. Since Saturn is an oblate spheroid, the maximum latitude from which a geostationary satellite  over the equator would be visible is less than 58.74°. But by how much, exactly?
+I don't know, and that's why I'm asking. I have a very limited understanding of trignometry and it completely breaks apart when discussing an oblate spheroid instead of a sphere. This question probably fits better in the mathematics substack, but since its inception is completely based in astronomy I figured this is a good place as any to ask.

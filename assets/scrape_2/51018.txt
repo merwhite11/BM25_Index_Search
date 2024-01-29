@@ -1,0 +1,4 @@
+I am trying to find the dates for a solar eclipse where the Earth and Ceres are in line
+
+In the game i'm working on a particular event happens during a solar eclipse while the Earth and Ceres are in line, or a few days before. I'm looking for dates between 2100 and 2300.
+Anyone know a way to calculate when or even if that will happen in that time frame?

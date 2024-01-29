@@ -1,0 +1,6 @@
+Determination of orbital elements for Trans-Neptunian Objects, how?
+
+How are orbits calculated for Trans-Neptunian Objects?  I understand there are six standard parameters for defining an orbit (link) but I am not sure how telescope observations translate into these parameters.  Telescope observations tell us where the object is on the Celestial Sphere but can't even tell us (without a good spectroscopic line to do a redshift analysis with) how fast the object is moving towards or away from us.  
+Additionally, the motion of these objects on the sky is dominated by Earth's motion relative to the objects rather than the motion of the objects themselves.  This seems to me to offer additional complications.
+My question is: how do 2-D observations get fit with a reasonable degree of accuracy to a 6-D parameter space with the additional complication of Earth's motion relative to the object?
+Don't be afraid to be mathematical in your response.

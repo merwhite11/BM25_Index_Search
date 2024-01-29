@@ -1,0 +1,4 @@
+Parking a telescope at a Lagrange point: is this a good idea from a debris point of view?
+
+The James Webb space telescope is supposed to be located at the Earth-Sun L2 Lagrange point. 
+Do we expect the region around that point to have a higher concentration of space debris, asteroids, dust, etc...? Would this be a matter of concern for bringing the telescope safely in position (i.e. require extra dust shield)? Do we expect however the exact Lagrange point to be free of any matter since it would take an acceleartion/deceleration for matter to actually reach that exact location? How large would be this 'debris-free' zone?

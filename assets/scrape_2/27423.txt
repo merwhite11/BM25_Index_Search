@@ -1,0 +1,3 @@
+What is the difference between the Yarkovsky effect and YORP effect?
+
+As far as I understand, both the Yarkovsky effect and the Yarkovsky–O'Keefe–Radzievskii–Paddack (YORP) effect exert forces upon bodies as a result of thermal photon radiation. How do both effects differ from one another?

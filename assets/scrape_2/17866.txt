@@ -1,0 +1,4 @@
+Are gas giants supported by thermal pressure?
+
+I've heard gas giants are supported because there is an equilibrium between thermal pressure and gravity. That is, if Jupiter were to suddenly begin compressing, temperatures would increase to the point that it would expand to its original size. Since it is in equilibrium, both the compression and thermal pressure counter one another, so its size never fluctuates.
+However, Jupiter's average temperature is extremely low, so much so that its gases are electron degenerate. Is this a contradiction, or has the information above been just hearsay?

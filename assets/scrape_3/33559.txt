@@ -1,0 +1,5 @@
+Could someone please explain to me how I can extract velocity component values from Stellarium, for a given planet?
+
+For a project that I am currently working on, I would like to know how one could extract velocity component values ($v_x$, $v_y$ and $v_z$) for a planet from the Stellarium software. The current information panel for a planet does show its orbital velocity (which is the resultant velocity, $v$) but does not give the individual $v_x$, $v_y$ and $v_z$ values that result in that velocity. 
+What I essentially need, is to establish a velocity heading for the planet.
+Any help (code-based/mathematical) would be much appreciated! Thanks in advance!

@@ -1,0 +1,4 @@
+What is the largest object on which the Yarkovsky effect has been observed?
+
+The Yarkovsky effect is responsible for changes in the rotation and orbit of some celestial bodies, most notably asteroids. It has been measured on asteroids, such as 6489 Golevka and 1999 RQ36.
+What is the largest object on which the Yarkovsky effect has been observed? Scholarpedia has an excellent article and list of asteroids, but the list isn't necessarily complete, and I don't know if the effect has been detected on other (non-asteroid) bodies.

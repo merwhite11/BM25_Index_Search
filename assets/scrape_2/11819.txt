@@ -1,0 +1,3 @@
+Calculate Dec and RA of a star from Euler angles and GPS data
+
+I have 9DOF sensor (accelerometer, gyroscope, and magnetometer) that gives orientation via Euler angles (yaw, pitch, roll). Along with GPS data (latitude, longitude, elevation, time) this is passed to a PC application that has to calculate Dec and RA of a target (e.g. star). Sensor and GPS receiver are mounted on a telescope, so it should give the celestial coordinates of a star. The problem is that I don't know how to get Dec and RA from those data. I would very much appreciate a detail explanation of how I could get this.

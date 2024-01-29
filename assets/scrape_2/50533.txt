@@ -1,0 +1,6 @@
+Are apparent magnitudes corrected for extinction at zenith?
+
+For example, according to Google, the apparent magnitude of the sun is $-26.74^m$.
+Is this the apparent magnitude viewed through Earth's atmosphere when the object is at zenith?
+(Assuming most favorable conditions, sea level, zenith extinction is about $19\%$ or $0.23^m$, at least according to the IAO table of constants)
+Might it be an extra-atmospheric value instead, i.e. corrected for any form of extinction?

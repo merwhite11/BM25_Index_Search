@@ -1,0 +1,11 @@
+How can we estimate distance of galaxies by only redshift when there are other several factors other than distance to cause redshift
+
+There are different factors for red appearance of different objects in the night sky. Two reasons which I know are
+
+Star red by nature
+Example: red supergiants
+They emit red light because of their surface temperature.
+Object moving further away from us
+Let's assume there is a galaxy which is close to us but still moving away from us very fast so even it appears red.
+
+So do we depend on only the red appearance of galaxies to find distance?

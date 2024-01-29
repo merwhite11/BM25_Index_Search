@@ -1,0 +1,26 @@
+Why is the magnetic axis of Uranus and Neptune off center?
+
+
+
+It(Uranus) rotates on its side, tilted almost 98 degrees from the plane of its
+orbit around the sun. The axis of its magnetic field is tilted too, at
+a 59-degree angle from the rotational axis. The magnetic field is also
+off-center, with the field lines emerging about a third of the way
+toward the south pole. (source)
+
+
+Neptune's magnetic field is tilted 47 from the planet's rotation axis
+and is offset at least 0.55 radii, about 8,500 mi (13,500 km) from the
+physical center. The dynamo electric currents produced within the
+planet, therefore, must be relatively closer to the surface than for
+Earth, Jupiter, or Saturn. Because of its unusual orientation, and the
+tilt of the planet's rotation axis, Neptune's magnetic field goes
+through dramatic changes as the planet rotates in the solar wind. (source)
+
+So, it is well established that the magnetic axis of Uranus and Neptune is off-center and due to this, the planets faces the following consequences:
+
+the magnetosphere  is irregular
+the strength of magnetic field varies, almost opening and closing periodically as the magnetic field lines disconnect and reconnect
+the orientation of magnetic field changes constantly.
+
+But, why is the magnetic axis off-center in the first place? I found no source answering that. Is it due to alignment/orbit/internal heating mechanism of the planets?

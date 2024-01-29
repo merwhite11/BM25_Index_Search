@@ -1,0 +1,4 @@
+What is the bluest narrow band filter mounted on ground based telescopes?
+
+If we want to check a QSO's lyman alpha narrow band image, could a ground based telescope do that?
+I mean under the circumstance that its lyman alpha shifts to 3300A.

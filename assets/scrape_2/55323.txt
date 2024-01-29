@@ -1,0 +1,4 @@
+Equation for calculating boolean answer to "is this Earth satellite in eclipse"
+
+I have found plenty of math for determining duration of satellite eclipse, but I am having trouble finding an equation that produces a simple boolean answer to the question "Is this Earth satellite in eclipse?", given either position and velocity vectors or a TLE + epoch.
+Does there exist an equation for determining if any given Earth satellite is in eclipse, given its position/velocity at epoch?

@@ -1,0 +1,4 @@
+B-V to U-B colour index
+
+Is there a formula to convert the B-V index to U-B index or are they totally different and separate observations and can't be convert like you can with Fahrenheit->Celsius?  (Updated)  
+I know F->C is not astronomy related directly but there is a formula to convert between the two measurements.

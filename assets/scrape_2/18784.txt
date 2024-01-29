@@ -1,0 +1,17 @@
+Which measurements have shown that 2014 MU69 is red? (New Horizons' next target)
+
+The recent NASA feature article New Horizons: Possible Clouds on Pluto, Next Target is Reddish
+
+MU69 is actually the smallest KBO to have its color measured – and scientists have used that data to confirm the object is part of the so-called cold classical region of the Kuiper Belt, which is believed to contain some of the oldest, most prehistoric material in the solar system.
+“The reddish color tells us the type of Kuiper Belt object 2014 MU69 is,” said Amanda Zangari, a New Horizons post-doctoral researcher from Southwest Research Institute. “The data confirms that on New Year’s Day 2019, New Horizons will be looking at one of the ancient building blocks of the planets.”
+
+Gizmodo elaborates on the significance of the red color:
+
+Speaking today at the the American Astronomical Society Division for Planetary Sciences (DPS), mission scientists talked about the Pluto flyby, but they also looked ahead to the Kuiper Belt encounter. Recent observations made by the Hubble Space Telescope suggests MU69 is red—if not redder—than Pluto. MU69 is now the smallest KBO to have its color measured, and it’s our first sense of what this mysterious object actually looks like.
+The reddish color of MU69, like the iconic red splotches on Pluto and its moon Charon, suggest the presence of tholin, a class of molecules that’s formed through the ultraviolet irradiation of simple organic compounds such as methane and ethane. Tholin doesn’t form naturally on Earth, but it’s abundant on the surface of icy bodies in the outer solar system. Using Hubble, scientists have confirmed that MU69 is part of the “cold classical” region of the Kuiper belt, which contains some of the oldest objects in the Solar System.
+
+How was the "redness" of 2014 MU69 detected? The second link mentions that it is Hubble data - is it just photometric (images through different filters) or is there also spectroscopy?
+I'm curious, just how red is it? What exactly are the numerical data that are being interpreted as "redness"? Is this exclusively the assumed visual appearance, or is there excess infrared as well?
+Also, I wasn't sure if 2014 MU69 is considered a comet or an asteroid. So far everything I've read just calls it a Kuiper Belt Object (KBO). So I've used both tags.
+
+above: graphic from NASA blogs. It looks like they are all red! (joke).

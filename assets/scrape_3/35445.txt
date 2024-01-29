@@ -1,0 +1,5 @@
+What is a stellar component?
+
+I have a question where I have to calculate the orbital inclination of a planet, so that it isn't a exoplanet but a stellar component. The mass of the star it is orbiting is 1.1 $M_☉$. Does the exoplanet has a special mass if it is a stellar component (for example 0.5 $M_☉$) or is there another relation?
+The question was made out of a few sub-questions. It is about 51 Peg b. In the first question, I had to calculate the half long ax (=0.05284 AU), the eccentricity (=0.013) and the $mass*sin(i)$ (=0.500 $M_J$)
+In the second question, I had to calculate the inclination at which the mass of the planet is 4 $M_J$ (=7.18°) and the inclination at which it wasn't a planet, but a stellar component.

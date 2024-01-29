@@ -1,0 +1,3 @@
+Can a high enough density ignite a gas giant into a brown dwarf?
+
+I wonder whether the nuclear fusion of brown dwarfs and more massive stars really depends on their mass only or if it could also start nuclear fusion if it is dense enough but not as massive as brown dwarfs usually are (they need more than 12 Jupiter masses to ignite deuterium). It is like with a nuclear fusion bomb. Since hydrogen bombs explode because of their density and not only their mass, can this also happen to stars? Or did I miss something? Or is a density to ignite deuterium at lower masses simply impossible? If I'm right, what would be the critical density to ignite deuterium at 1 Jupiter mass?

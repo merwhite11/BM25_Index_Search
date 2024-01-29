@@ -1,0 +1,7 @@
+Why argon instead of another noble gas?
+
+I noticed that the atmospheres of Earth and Mars have a little bit of argon in them (1% to 2%). I checked Venus, too, which has 0.007% argon, but that's still more than any other noble gas in the Venusian atmosphere.
+I checked the 4 outer gas planets, plus the moon Titan, and for the most part could not find Argon listed in their atmospheric composition. Jupiter is listed as having a very tiny trace amount of Argon that is hard to interpret because it's listing it as relative to helium and then relative to Jupiter/Sun, whatever that means. The moon Titan is listed as having trace argon without specifying any numbers. The others did not mention Argon.
+So why do the rocky planets tend to have argon, but the gaseous planets don't?
+Why argon specifically? Presumably helium is too light and will float to the top and get knocked away by the solar wind. However, there is one noble gas between helium and argon, namely, neon. So why don't we have neon in our atmosphere instead of argon?
+Edit: Maybe the outer planets do have Argon, but it all sank to the bottom and thus we don't detect it? I'm also curious about where Argon lies in the "food chain" of nuclear fusion for an average star like our Sun. I have a hard time seeing how Argon-40 would be more populous than Neon-20 though.

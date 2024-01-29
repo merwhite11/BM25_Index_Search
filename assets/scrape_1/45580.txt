@@ -1,0 +1,4 @@
+Frequency of planet masses in any given star system?
+
+This question is a follow-up to the expected distribution of planet masses in a given system. I am wondering, what is the distribution of various planet masses in any given system?
+I am expecting a bimodal distribution with peaks at $5M_\oplus$ and somewhere near the $1-3 M_J$ range, with an intermediate minimum near the super-Neptune mass range. Is this an accurate description of said distribution or am I completely off?

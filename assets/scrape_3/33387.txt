@@ -1,0 +1,9 @@
+What is a black hole's "shadow" and the best angle to view it to measure the spin?
+
+This excellent answer mentions several ways to try to observationally measure the spin of a rotating black hole. The third one is intriguing, but I don't understand how this works:
+
+
+The spin of a black hole also affects how it deflects light. Consequently, the pictures of a black hole's shadow such as taken by the event horizon telescope can be used to determine the spin of the black hole (if we happen to view it under the right angle).
+
+
+Question: What is a black hole's "shadow" and the best angle to view it to measure the BH's spin?

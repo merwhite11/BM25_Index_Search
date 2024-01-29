@@ -1,0 +1,8 @@
+Mass estimate for cluster NGC2516?
+
+The Wikipedia entry on NGC2516 mentions a mass value in the range $[10^5 - 10^6]\; M_{\odot}$. This seems like a rather enormous value for an open cluster.
+In Jilinski et al. (2009) the authors state that:
+
+The total mass of NGC 2516 is presently not well known. Values as low as 170 solar masses have been proposed by Pandey et al. (1987) and as high as about 1000 $M_{\odot}$ by Dachs & Kabus (1989). More recently a mass of ∼250 $M_{\odot}$ for this cluster has been quoted by Piskunov et al. (2008)
+
+Anybody has a better/more recent estimate?

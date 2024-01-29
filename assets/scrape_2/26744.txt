@@ -1,0 +1,7 @@
+Do gravitational waves have distinct bands or parameters from which a source redshift can be inferred?
+
+In optical astronomy, much (most?) electromagnetic radiation is emitted at well defined frequencies, and this can be used to infer a redshift for the source, and hence its recessional velocity, age, or distance.
+I haven't read anything specifically suggesting well defined source frequencies for gravitational wave astronomy, which would allow a redshift to be calculated the same way. I assume there would be a redshift effect since like EM radiation a gravitational wave propagates at (or exceedingly close to) the speed of light. But then again it propagates as a ripple in spacetime rather than a phenomenon embedded in spacetime, so perhaps not.
+
+Do gravitational waves exhibit a frequency shifting effect akin to a redshirt, due to cosmic expansion, and which can be used to infer distance/time? 
+If so, do they also exhibit some kind of discreet originating frequencies, or some way that we can infer their originating frequencies, to compare the received signal and deduce the amount of redshifting they have undergone?

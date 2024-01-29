@@ -1,0 +1,6 @@
+How to deal with the celestial meridian?
+
+The book “Foundations of Astrophysics” by Ryden and Peterson states that one measures azimuth in the horizontal coordinate system eastwards starting on the northernmost point of the horizon circle. Thus, east becomes 90 degrees, et cetera. Wikipedia and other sites back this up.
+However, it seems as if the position of the vernal equinox is always given relative to the southern part of an observer’s celestial meridian. During the vernal equinox, the sun culminates in the south, setting the siderial time to 0h0min. Knowing the difference between the local siderial time and a star’s right ascension gives you the current position of a star, relative to the southern half of the celestial meridian.
+This website describes this too: http://www.polaris.iastate.edu/NorthStar/Unit4/unit4_sub2.htm
+Did I miss something? We so explicitly defined azimuth as being relative to the most northern point on the meridian. Now we’re doing all our measurments relative to the south. I’m not complaining: stars culminate in the south, so this makes it easier. But where did we switch? And when must I switch? Did I make a mistake somewhere?

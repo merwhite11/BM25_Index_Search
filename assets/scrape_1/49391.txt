@@ -1,0 +1,9 @@
+Are there tidally locked bodies where the "far side" is denser?
+
+It makes sense that tidal forces lead to tidal locking. Celestial bodies have varying densities and shapes, so some orientations have a lower gravitational potential, and eventually the tendency will be for the body to settle into the orientation of lowest potential, similar to how dice with imperfections, when buoyant in water, will roll until the denser side faces down.
+For the Earth and the Moon, it seems like the story is that the denser side faces earth:
+
+The mass of the Moon is not evenly distributed; mass concentrations, called Mascons, lie beneath many of the lunar basins, and the center of mass of the Moon is displaced several kilometers towards the Earth.
+
+However, unlike the die floating in water, in a system of two orbiting celestial bodies (like the Earth and Moon) each body has two gravitational wells. These two areas of lower gravitational potential cause, for instance, the two high tides on earth. The explanation straightforward: Bodies oribiting around their mutual barycenter experience a centripetal acceleration which is equal to the gravitational force only at the center of mass. There is a net inward force on the near side of each body (where the acceleration is less than the gravitational force), and a net outward force on the outside (where the acceleration is greater than the gravitational force).
+Since there are two areas of locally lower gravitational potential, it seems equally likely (or at least quite possible) that the mass concentrations of the Moon would end up on the far side of the Earth. Is this reasoning correct? Are there examples of such systems?

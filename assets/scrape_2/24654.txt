@@ -1,0 +1,3 @@
+Extra-solar identification of binary planets
+
+Pluto and Charon orbit about a common barycenter that isn't inside of either planet. Let's assume that this relationship was scaled up to the point where it could be detected by a search for extrasolar planets. Could any of the methods we currently use tell us the difference between one massive body vs two bodies of nearly identical mass?

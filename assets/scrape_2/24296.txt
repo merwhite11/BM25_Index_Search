@@ -1,0 +1,6 @@
+What a grating on GAIA RVS spectroscope?
+
+What size of the grating on GAIA RVS spectroscope ?
+How many lines on mm, or what defraction angle for 850 nm wavelenth light ?
+I find some more details here: http://sci.esa.int/gaia/44092-gaia-rvs-grating/ and http://sci.esa.int/gaia/44093-state-of-the-art-grating-for-gaia/
+The GAIA RVS grating has dimensions of 20.5 cm × 15.5 cm and 302.11 grooves per mm.

@@ -1,0 +1,14 @@
+Clarification on calculating IR Dust Extinction $A_K$/$A_V$
+
+So I'm calculating V_Alf Ori's Luminosity (or Betelgeuse) using Davies et al. (2013) SED fitted formula from Near-Infrared/NIR K-Band magnitudes and it requires the subtraction of 'extinction'. However, the conventional prescriptions for extinction in the NIR K-regime is a little way off for a massive star with a very dusty environment (likely thick as well due to stellar mass loss and winds enriching it). So instead of using those, I may need to do a quick approximation of it.
+This maybe a rookie stuff but as I scour in, which needs some quick clarification or validation, I kept seeing this "$A_K$/$A_V$" which I presume came from this one?
+$\frac{A_λ}{A_V}$ = $\frac{R_λE_{(λ-V)}}{R_VE_{(B-V)}}$
+where;
+
+$R_V$ is the canonical Cardelli redenning value of 3.1.
+$A_V$ is optical extinction.
+E(B-V) is conventional color excess.
+While the remaining upper variables are 'almost' the same depending on the bandpass of choice λ.
+
+Edit (1): Is that 'correct'/applicable or there's something else on that like applying power law etc.?
+Edit (2): Already got the idea of $\frac{A_λ}{A_V}$. Then how about $A_K$?how can I get that?

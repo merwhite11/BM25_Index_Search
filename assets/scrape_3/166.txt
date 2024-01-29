@@ -1,0 +1,13 @@
+What percent of planets are in the position that they could be viewed edge-on from Earth? (and thus able to undergo transits)
+
+
+Star number 12644769 from the Kepler Input Catalog was identified as
+  an eclipsing binary with a 41-day period, from the detection of its
+  mutual eclipses (9). Eclipses occur because the orbital plane of the
+  stars is oriented nearly edge- on as viewed from Earth. During primary
+  eclipses, the larger star, denoted “A,” is partially eclipsed by the
+  smaller star “B,” and the system flux de- clines by about 13%
+
+From http://www.sciencemag.org/content/333/6049/1602
+Here's the thing though: out of all possible edge-on configurations, there are far more configurations where a planet can never be in the position to be edge-on, rather than configurations where a planet could potentially be in the position to be edge on. (I'd guess that it happens in fewer than one in several hundred cases)
+So why are we able to observe so many transits?

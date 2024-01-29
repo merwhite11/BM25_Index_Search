@@ -1,0 +1,10 @@
+Difference between J2000, FK5 and ICRS coordinate systems? Which one does the Yale Bright Star Catalog use?
+
+I have no background in astronomy. I have been wanting to write code to make star charts for a given location and time, which led to this question.
+I figured out that I would need to convert the coordinates of stars from the equatorial coordinate system to a horizontal coordinate system defined by a time and place of interest.
+I decided to use the Yale Bright Star Catalog for this purpose.
+From what I could gather, the Yale Bright Star Catalog does not explicitly mention the coordinate system it uses, it mentions the epoch to be J2000 frequently though and reports RA, DEC. So, it is my understanding that the coordinate system should be an equatorial one with J2000 as the equinox.
+As a novice, I could understand the horizontal, equatorial and ecliptic coordinate systems. However, when I started using an astronomy library to write the code, I realised that in practice, there are equatorial coordinate systems such as FK5 and ICRS with minute differences; and that ICRS is the coordinate system adopted by the IAU.
+So, which coordinate system is the YBSC catalog in, exactly? 
+I have noticed that mentioning the epoch, but not the exact coordinate system is the somewhat confusing, but standard way to report coordinates. Example: coordinates in M33's Wikipedia Page, or CDS name resolver. 
+So, in general, which equatorial coordinate system should be considered 'default' when just the epoch is mentioned as in the examples above? Should it be FK5, ICRS, or something else?

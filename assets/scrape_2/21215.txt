@@ -1,0 +1,4 @@
+relative distance and right ascention
+
+The redshift-distance relation is $cz=H_0d$. So if we have $z$ we can calculate $d$. But is there a way to calculate or covert or write this $d$ in terms of right ascension (RA) and declination (DEC) ?
+Thanks in advance

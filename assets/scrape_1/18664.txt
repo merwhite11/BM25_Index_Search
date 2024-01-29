@@ -1,0 +1,9 @@
+Cosmology: about the equations of expansions
+
+Suppose we assume that the gravitational constant is varying with time:
+$$G=G_0 e^{-\frac{t}{t_0}}$$ where $t$ is the time from the Big Bang, and $G_0, t_0$ being some constants.
+Assuming matter-only universe, which one of the expansion equation should we use to obtain the Hubble's parameter $H$?
+Equation 1:
+$$H^2=\left\{\frac{\dot R}{R}\right\}^2=\frac{8\pi G}{3}\rho_0\frac{R_0^3}{R^3}$$
+Equation 2:
+$$\frac{\partial (H^2R^2)}{\partial (R^2)}=\frac{\ddot R}{R}= -\frac{4\pi G}{3}\rho_0\frac{R_0^3}{R^3}$$

@@ -1,0 +1,3 @@
+How to obtain the SDSS’s five-part imaging ID number for a list of galaxies whose Ra Dec is known?
+
+I am trying to obtain the FITS file of a few hundreds galaxy from SDSS DR12 Survey. SDSS tries to download the FITS File with the link that contains the information about SDSS’s five-part imaging ID number (run-rerun-camcol-field) to download the file. I have a python program to do this job at once, only if I know the corresponding ID number for all the galaxies I have in the sample.

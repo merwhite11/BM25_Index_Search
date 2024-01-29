@@ -1,0 +1,5 @@
+What are these data in light curve generator
+
+I'm generating light curves for some variable stars on the AAVSO website (see https://www.aavso.org/lcg ) . I can choose what type of data must be plotted. Can you explain what they are?
+
+Thank you in advance!

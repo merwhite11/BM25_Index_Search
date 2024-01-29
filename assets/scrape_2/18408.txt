@@ -1,0 +1,6 @@
+Measurement precision of celestial events
+
+The local weatherman declared that fall starts at exactly 10:21am (local time). Ignoring the fact that seasonal boundaries have multiple definitions (meteorological, astronomical, etc.), what he perhaps means to have said is that the fall equinox occurs at that moment.
+Presumably, that is the moment at which Earth's axis of rotation is exactly perpendicular to the Sun-Earth line.
+My question is: to what degree of precision can this be measured? The weatherman's statement was to the minute. But is it actually measured to a finer precision? If so, plus or minus how many seconds? 
+What about the the solstices? Can they be measured to the same degree of accuracy? Are there factors which uniquely affect the accuracy of either measurement?

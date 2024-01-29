@@ -1,0 +1,3 @@
+How was Kepler's field of view chosen?
+
+The Kepler space telescope points to a single place in the sky, and a quarter of a percent of the sky. How was this field of view chosen? Why did the Kepler team choose to point the telescope there rather than anywhere else?

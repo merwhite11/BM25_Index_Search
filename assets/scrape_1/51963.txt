@@ -1,0 +1,19 @@
+How would the "Fluidic Telescope (FLUTE)" next generation telescope make and control a smooth, correct concave optical surface figure in microgravity?
+
+The January 10, 2023 NASA Ames Research Center news item Fluidic Telescope (FLUTE): Enabling the Next Generation of Large Space Observatories discusses a proposed project to study the feasibility of a 50 meter space telescope based on "fluidics" that is "(t)heoretically scale-invariant" and "has produced optical components with superb, sub-nanometer (RMS) surface quality":
+
+With mission costs depending strongly on aperture diameter, scaling current space telescope technologies to aperture sizes beyond 10 m does not appear economically viable. The 6-m Astro2020 flagship would already strain NASAs budget and its launch date is expected to be later than most astronomers would like (first half of the 2040s), largely driven by the substantial expected cost. Without a breakthrough in scalable technologies for large telescopes, future advances in astrophysics may slow down or even completely stall. Thus, there is a need for cost-effective solutions to scale space telescopes to larger sizes.
+We propose a mission concept for a space observatory with a large-aperture (50-meter) unsegmented primary mirror suitable for a variety of astronomical applications. The mirror would be created in space via a novel approach based on fluidic shaping in microgravity, which has already been successfully demonstrated in a laboratory neutral buoyancy environment, in parabolic microgravity flights, and aboard the International Space Station (ISS). Theoretically scale-invariant, this technique has produced optical components with superb, sub-nanometer (RMS) surface quality. In the Phase I study we will analyze suitable options for the key components of the 50-m observatory, develop its detailed mission concept, and create an initial plan for a subscale small spacecraft demonstration in low Earth orbit (LEO).
+
+On Earth using mercury or eutectic liquid metals, and perhaps in the future on the Moon using more exotic, reflective ionic liquids, a natural, fixed paraboloid can be formed by slowly spinning a "dish" of liquid about a vertical axis, providing a field of view near the zenith that slowly scans as the Earth or Moon rotates, sort-of "Arecibo-like".
+
+this answer to Why can't we build a huge stationary optical telescope inside a depression similar to the FAST?
+Limits of space telescope?
+Why are we building larger land-based telescopes instead of launching larger ones into space?
+
+But in space, in orbit (geocentric, lunacentric, heliocentric, etc.) there is no uniform gravity gradient to speak of, so you can spin away but as far as I can see you don't get a natural parabola or any other well-behaved, useful focusing surface.
+Question: How would the "Fluidic Telescope (FLUTE)" next generation telescope make and control a smooth, correct concave optical surface figure in microgravity?
+
+
+
+Graphic depiction of Fluidic Telescope (FLUTE): Enabling the Next Generation of Large Space Observatories. Credits: Edward Balaban

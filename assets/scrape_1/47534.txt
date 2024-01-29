@@ -1,0 +1,5 @@
+Hubble constant from GW events
+
+I am trying to get the Hubble constant from gravitational wave events. On the GWOSC website, for all events, redshift and Luminosity distances are mentioned. Now, by this information, I can get my Hubble constant by the equation $cz=H_0 D_l$. By the above logic, I applied it to some events, but I am getting $H_0$ to be around $47$ km/s Mpc, which is very far away from around its actual predicted value. For example taking the GW190413_134308 event, on GWOSC, the redshift for this event is given as $0.71$ and the luminosity distance is given as $4450$. By the above equation, I am getting the $H_0$ value to be $47.86$ km/s Mpc.
+GWOSC website: https://www.gw-openscience.org/eventapi/html/GWTC-2/GW190413_134308/v1/
+I know I am doing something horribly wrong, can anyone please point this out to to me?

@@ -1,0 +1,3 @@
+Where can the public stream live astronomical data from?
+
+I am looking to find some resources on public streaming of astronomical data. Does such a thing exist? In my explorations so far, I came across lots of nice answers linking to data in archives, but no resources that offer to stream astronomical data live to a client. Does anyone here have some resources to share in terms of this?

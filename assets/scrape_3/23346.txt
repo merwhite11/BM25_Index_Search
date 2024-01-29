@@ -1,0 +1,7 @@
+How do you convert an observed magnitude to a flux?
+
+For a series of supernovae I have the observed magnitude and I want to convert these values to flux.
+I understand that I need to apply:
+$m - M_r = -2.5\log_{10} \frac{F}{F_r}$
+where $M_r$ is a 'reference magnitude' with corresponding known 'reference flux'.
+What exactly should I use as my reference values?

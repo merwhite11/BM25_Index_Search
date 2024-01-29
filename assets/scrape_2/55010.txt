@@ -1,0 +1,12 @@
+Are there some (simple) mathematical models which can simulate the cellular/web structure of the universe?
+
+To visualize the structure of a solar system we have some simple mathematical model: Planets orbiting around a Star in circular motion. 
+If we want to be more precise the circle becomes a ellipse, the center of motion shifted slightly to the planet and so on.
+Q: Is there also a (simple) mathematical model to visualize the cellular/web structure of the universe?
+It doesn't need to be very precise. It could be as simple as the model for solar system using circular motion. 2D is fine too.
+Here some picture what I'm looking for:
+(It doesn't need to be that precise, just look similar too this)
+
+(picture from wikipedia, could not find how they made it)
+In best case the mathematical model uses a 2D/3D field (array) of initialization values for generation.
+Edit: It won't need to represent every step from big bang to now. The current state is sufficient.

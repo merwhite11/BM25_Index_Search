@@ -1,0 +1,3 @@
+How can I determine the location of an object for one observer given the location for another?
+
+I know an object exists at the location of the beam-pointing-center of a radio telescope. I know the elevation/azimuth of the beam pointing center, as well as it’s “location” in galactic coordinates. I want to determine at what elevation/azimuth I’d need to point the beam-pointing-center of radio telescope, on another point on earth, to also “point at” the object. For now, I’ll be doing this with pencil/paper, but it will eventually require an implementation in Rust.

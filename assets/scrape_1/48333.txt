@@ -1,0 +1,7 @@
+Convert Earth-centered coordinates to rotating libration point (RLP) coordinates?
+
+I'd like to plot the path of an object near L2 (like the Webb space telescope) in a rotating libration point coordinate system. That makes it is easy to distinguish halo orbits from more general Lissajous forms, etc. I expect to get Earth-centered coordinates from Horizons (see e.g. nealmcb/jwst_orbit: Explore the orbit of the James Webb Space Telescope in Python).
+Here are details on the RLP coordinate system I'm looking for:: Technical Notes - Rotating Libration Points
+Putting the origin at L2 as they suggesst seems good.
+I was hoping to find an implementation in astropy, but it doesn't seem to be there.
+Has anyone implemented it for astropy or another open-source framework?

@@ -1,0 +1,6 @@
+Is this "lunar theorem" known?
+
+About a month ago I concieved the following "lunar theorem":
+Whenever the moon is visible at dusk (strictly speaking, to an equatorial observer, if eg. the planet is very large compared to the distance to its moon), it is waxing.
+This is because at dusk, the observer standing on the Earth and looking up is facing against the direction of the Earth's motion, and if the moon is then visible, it is therefore exactly in the semicircle where it is waxing.
+I suspect the probability that it is already known is rather high. Pity!

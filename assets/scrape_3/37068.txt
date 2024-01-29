@@ -1,0 +1,5 @@
+How to calculate how much of the Earth's (or another planet's) surface is visible?
+
+My latter three questions remain unanswered but I won't wait with this one, I'd like to learn the formula and hope this question gets an answer.
+As you're going higher respectively farther away from the Earth, more and more of the Earth's surface is visible. At infinite distance the percentage of the surface that is visible would be 50%. Now I'd like to know how you calculate the percentage that is visible from altitude/distance, and how you calculate the altitude/distance from how much of the surface is visible.
+For example, how much of the Earth's surface is visible at 3,000 mi (4,800 km) altitude or at what altitude do you see 38% of the Earth's surface?

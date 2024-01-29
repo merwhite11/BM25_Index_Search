@@ -1,0 +1,5 @@
+Birthdate differences calculation relative to earths orbit duration
+
+I have got a question as I am trying to figure out what the real difference between the birth date of my friend and me is.
+I am born on 1983 6th February 7 am. My Friend is born on 1984 7th February 1 am. 
+1982 was a leap year as the real duration of earths orbit around sun is ca. 365 1/4 days. Okay... But I am struggling to figure out if need to add/subtract 8 hours to my or my friends birthday to figure out what the real difference in our birth dates is, in relation to how long earth orbits around the sun. That leap year is at end of February makes it even harder to me as I don't know how that fits in into the calculation.

@@ -1,0 +1,5 @@
+Do planetary rings have geometric bounds?
+
+Are there any bounds on where a planetary ring can form and maintain orbit relative to the planet?
+Do they have to be in a circular equatorial orbit?
+Is there a min or max altitude, say with respect to the Roche limit, geosynchronous orbit, or other points in space?

@@ -1,0 +1,3 @@
+Why does the Hubble flow does not carry photons with it?
+
+I have this naive question. We know that the expansion of the universe "takes" or "carries" the galaxies with it, separating them, but this doesn't apply to photons. My guess is that it has to do with the fact that photons are massless (i.e. they always move with c), but I am not sure and would like a more physical explanation or insight.

@@ -1,0 +1,7 @@
+What is the range of the zenith angle between velocity and position vectors?
+
+I'm coding on a space simulator and I want to draw a predictable orbit for a satellite. I have read about orbits on http://www.braeunig.us/space/ and under the section "Launch of a Space Vehicle" they describe how I can obtain the orbital elements like eccentricity, true anomaly etc. given that you have the position vector, velocity vector and the zenith angle between them.
+I have two questions that I need to understand:
+
+What is the range of the zenith angle (0-180 degrees or 0-360 degrees etc.) ?
+Can the angle tell which "half side" of the orbit the satellite is? I.e. if it's onwards to periapsis or apoapsis?

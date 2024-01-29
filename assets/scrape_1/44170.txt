@@ -1,0 +1,12 @@
+In any particular space or universe, is the shape of its metric the same as the shape of its geodesic (perhaps the sum of its geodesics)?
+
+Perhaps I mean the curvature tensor, not the metric.
+I suspect it is not.
+
+I think the metric is a 4-dimensional object whereas the sum of the geodesics is 3-dimensional (probably 3+1 but not 4).
+
+Take Minkowski space. As I understand it, its metric is hyperbolic while its geodesics sum to produce flat, Euclidean, 3-dimensional space.
+
+
+This leads to a supplementary question. The FLWR formulae define a metric. Cosmology calculators such as iCOSMOS allow you to investigate this. You get an extremely interesting universe if you set all of the densities to zero, when the curvature parameter, K, defaults to 1. This curvature is negative or hyperbolic. A nice picture of a saddle is shown. I assume this curvature refers to the metric or to the 4-dimensional curvature of the universe (are they the same thing?) because I think geodesics in such a universe must have positive curvature (ie the resulting 3-dimensional universe has positive curvature). Is this allowed? The alternative would be to have a curvature-only universe with positive curvature, K=-1, but this doesn't seem to be allowed.
+So, following comments and the first answer - is it possible that a FLWR universe with negative curvature can have geodesics with positive curvature?

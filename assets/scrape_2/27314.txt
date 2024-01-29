@@ -1,0 +1,4 @@
+Why are gravitational perturbations stronger at larger semi-major axes?
+
+Why are mechanisms such as the Kozai-Lidov effect more prominent at at large semi-major axes?
+If we had a binary system of a primary and secondary body, with the third perturber as the Sun. Why is it that the secondary feels more perturbations from the gravitational influence of the sun the further away it is from the primary?

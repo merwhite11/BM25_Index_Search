@@ -1,0 +1,7 @@
+What was the energy/wavelength/frequency of the CMB when first emitted/released?
+
+Given the z redshift of 1089, and the temperature difference between then and now of about 1089, I tried scaling the ev, freq. and wavelength by 1089....
+Is that right?
+I get a freq. of about 240 Terahertz, 1.25 micron wavelength and almost exactly 1 ev of photon energy.....
+Does that correspond to a blackbody
+temperature of just under 3000 K?

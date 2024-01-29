@@ -1,0 +1,8 @@
+Can it be that the formula for calc vlsr for sun have a part beginning with cos270 for Calculate sun/VLSR.cos 270=0?
+
+I am working radioastronomy and have a formula for sun/earth calculation.
+The formula for sun begin with $20(\cos270 \cos 30 \ldots\ldots+$
+Question:
+The first part is $\cos270=0$ and is that correct in the formulas attached.
+https://advlabwiki.johnshopkins.edu/images/Vlsr.pdf
+Vr(sun) = 20.0 [cos 270° cos 30° cos α cos δ + sin 270° cos 30° sin α cos δ + sin 30° sin δ] (km/s)

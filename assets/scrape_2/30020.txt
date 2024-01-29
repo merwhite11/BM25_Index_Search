@@ -1,0 +1,11 @@
+How to understand this multi-day exposure photograph of Jupiter and the Moon
+
+This answer includes a stunning photo of the Moon and Jupiter "Trails of the Shifting Moon" by photographer Jin Lu.
+The caption reads:
+
+From the photographer: "I spent 4 days capturing the trail of the moon from the balcony of my house. This is a composite of 90 pictures, showing the shift of the path of the waxing Moon from crescent phase to near first quarter. Random floating clouds decorated the trails. The interval between each day's sequence of pictures ranges from 1.5 to 2 min. Besides the Moon, the most obvious celestial object in the composite is Jupiter. The trail of Jupiter is from pictures of Jan 9, the day the moon appeared closest to Jupiter in the evening sky. Although Jupiter looks closer to the Moon on Jan 8, that is not how it actually appeared then." - Jin Lu
+
+I'm confused by two things:
+
+The Moon is shown for January 7, 8, 9, 10 and the caption says "The trail of Jupiter is from pictures of Jan 9". I'd expect Jupiter to have contributions from all four days, not just one day. How can that be?
+"Although Jupiter looks closer to the Moon on Jan 8, that is not how it actually appeared." If I measure the distance in pixels from the top-left Jupiter to the top-left Jan 8 and 9 Moons, the Jan 8 Moon is closer. How could that not be true in reality then?

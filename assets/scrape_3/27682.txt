@@ -1,0 +1,12 @@
+Stellar core mass as a function of metallicity
+
+Using Hurley's 2000 paper on Single Stellar Evolution, I have graphed the core mass of a star at three stages as a function of metallicity, Z, for a chosen ZAMS mass: at the beginning of the HG (MS), at the end of the Hertzprung-Gap (HG), and at the Base of the Asymptotic Giant Branch (BAGB). 
+All three functions have a cusp at Z = 0.0005 which I 1) do not understand physically and 2) wonder if it is incorrect? Is this expected? I would have expected that the core mass is monotonic in metallicity, Z. The cusp is present for any ZAMS mass chosen. 
+EDIT: The equations I use are...
+Core mass at beginning of HG:
+$Mc_{MS}$ is the product of equation 29 and the core mass at the end of the HG described below ($\rho$ is always $< 1$).
+Core mass at end of HG:
+$Mc_{HG}$ is, using equation 28 over the relevant mass range the HG ends at Helium Ignition, given by equation 44, where I solved for the time, $t$, in equation 35 and substituted that into equation 34 to find that $M_{c} = \Big(\frac{L}{D}\Big)^{1/5}$, and following the procedure given in the paragraph below equation 65 (where it references equation 44). I used equation 49b for the Luminosity here.
+Core mass at BAGB:
+$Mc_{BAGB}$ is equation 66.
+I'm only interested in stars above $10 \odot{M}$, so I do not consider the possibility of a Blue Loop phase for simplicity.

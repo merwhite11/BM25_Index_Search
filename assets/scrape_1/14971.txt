@@ -1,0 +1,9 @@
+How much heat emanates from the planets after formation?
+
+The 2nd answer to this question by MBR got me thinking about this.
+Is there some general guideline for residual heat a planet should emit, say 4.5 billion years after formation.   I'm defining heat by the radiant energy that leaves the planet, not internal heat or surface temperature for rocky bodies and assuming little or no solar input.   
+Wikipedia lists an estimate of planet 9's temperature to be 47 degrees K based on remaining heat of formation, but I think that would depend pretty significantly on it's size as well as whether it had any recent impacts.   I can't help but wonder if that's an accurate estimate.   
+Jupiter, as one example, emits about twice as much energy as it receives from the sun, and it's temperature is about 128 degrees Kelvin.  Is it safe to assume that Jupiter's upper cloud temperature would still be ~ 100 Kelvin even if it was in deep space, but otherwise having the same formation and history.  
+Neptune is also a few degrees warmer than Uranus, so has got to be putting out a fair bit of internal heat as well.
+Obviously there's a few factors at play - size, whether there was a recent large impact, abundance of radioactive elements, efficiency of circulation (solid layers are likely more efficient at trapping heat than circulating fluid layers).
+I'm tempted to guess that there's too many unknowns on gas giant circulation, inner layers, composition and mass for there to be any good simple charts on this stuff, but I was curious if there was anything.   I tried google without success.

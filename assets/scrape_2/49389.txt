@@ -1,0 +1,14 @@
+Is it coincidence that the change in GPE when falling from deep space into the largest know neutron star is approximately mc squared Joules?
+
+We can calculate the change in GPE in falling from a very long distance to the surface of a star or planet from
+$$\Delta{GPE} = \int_{r}^{\infty}mg\,dh $$
+But taking into account that g will change with h according to the inverse square law as
+$$g=g_{0}r^2/(h+r)^2$$ Where $g_{0}$ is the surface gravity
+$$\Delta{GPE}=mg_{0}r^2\int_{r}^{\infty}1/(h+r)^2\,dh$$
+After integrating this by substitution with the limits you should get
+$$\Delta{GPE}=mg_{0}r^2/(r+1)$$
+So provided r is significantly greater than 1, a good approximation will be
+$$\Delta{GPE}\approx{mgr}$$
+That means for a mass falling to the surface of Earth from space we will get a potential energy reduction of $9.81\times{6371000}$ which is approximately $62.5 MJ/Kg$ (which agrees pretty well with what I have read elsewhere)
+But for the largest known neutron star, the surface gravity is about $7*10^{12}m/s^2$ which means that if its radius was $12.9km$ (a rough approximation of what it is thought to be) $gr$ would equal $c^2$ and GPE of a mass falling into it would reduce by $mc^2$ Joules on the way down.
+Is that just coincidence, or does mass lose (nearly) all of its energy while falling into the largest known neutron star?

@@ -1,0 +1,16 @@
+Motion equation of a space engine in low-earth orbit
+
+My goal is to simulate the movement/motion of a space capsule from low-Earth orbit with initial conditions emulating an initial thrust. Here is the code, Is it right? I know that the next step is to implement a Runge Kutta algorithm (to solve the ordinary differential equation), but shouldn't I go to the state-space representation (knowing that the end goal is to implement a Kalman filter)?
+r = sqrt (X.^2 + Y.^2 + Z^.2); % calculates the distance from the spacecraft to the origin                                                                                       (which could be the center of the Earth or some other reference point).
+rm = sqrt (Xm.^2 + Ym.^2 + Zm^.2); %calculates the distance from the spacecraft to the Moon.
+delta_m = sqrt ((X-Xm).^2 + (Y-Ym).^2 + (Z-Zm)^.2); %calculates the distance between the spacecraft and the Moon.
+delta_s = sqrt ((X-Xs).^2 + (Y-Ys).^2 + (Z-Zs)^.2); %calculates the distance between the spacecraft and the Sun.
+mu_e = 3.986135e14; %sets the gravitational parameter for the Earth.
+mu_m = 4.89820e12;%sets the gravitational parameter for the Moon.
+mu_s = 1.3253e20;%sets the gravitational parameter for the Sun.
+a = 6.37826e6; %the equatorial radius of the Earth.
+J = 1.6246e-3;%sets the Earth's second dynamic form factor.
+
+X_2dot = -((mu_e*X)/r^3 ) * [1 + (J(a/r)^2)*(1-(5*Z^2/r^2))] - (mu_m(X-Xm)/delta_m^3) - (mu_m*Xm/rm^3) - (mu_s*(X-X_s)/delta_s^3) - (mu_s*Xs/r^3);
+Y_2dot = -((mu_e*Y)/r^3 ) * [1 + (J(a/r)^2)*(1-(5*Z^2/r^2))] - (mu_m(Y-Ym)/delta_m^3) - (mu_m*Ym/rm^3) - (mu_s*(Y-Y_s)/delta_s^3) - (mu_s*Ys/r^3);
+Z_2dot = -((mu_e*Z)/r^3 ) * [1 + (J(a/r)^2)*(1-(5*Z^2/r^2))] - (mu_m(Z-Zm)/delta_m^3) - (mu_m*Zm/rm^3) - (mu_s*(Z-Z_s)/delta_s^3) - (mu_s*Zs/r^3);

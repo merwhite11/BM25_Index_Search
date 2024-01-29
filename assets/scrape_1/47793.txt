@@ -1,0 +1,4 @@
+Radar technique for distant objects
+
+If we want to detect the distance to an object using radar, we can do it only for objects inside the solar system, otherwise the returning signal would be too weak to detect. On the other hand, we are able to detect signals from very far away, for example at redshift z=1000. How are the two things consistent?
+If we will use radar for distant objects, would we be able to detect single photons of the returning signal?

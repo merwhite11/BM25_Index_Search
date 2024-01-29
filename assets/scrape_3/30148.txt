@@ -1,0 +1,6 @@
+Relationship between photometric colour and redshift, part two
+
+In the graphs in my previous question here, there are negative-sloped regions as the colour-z relationship oscillates. So if I look at how the I-W2 and W3-U colours change with redshift, as I've done here:
+
+with I-W2 and W3-U both getting lower (bluer, is that right?) does that mean that my graphs indicate one of the upward-sloping regions?
+What else does the redshift evolution of I-W2 against W3-U indicate?

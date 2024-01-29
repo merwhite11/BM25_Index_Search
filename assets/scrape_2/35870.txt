@@ -1,0 +1,3 @@
+Estimating the virial mass of a galaxy cluster from its $M_{500}$ measurement
+
+In this paper, the authors seem to calculate the virial mass of the Fornax cluster by using its $M_{500}$ value. In the section 4.1, they say its mass was measured to be $M_{500}=6.4\times 10^{13} h^{-1}M_\odot$ and then adds that the corresponding virial mass is $M_{\text{vir}}=1.2\times 10^{14}h^{-1}M_{\odot} $. I don't understand how such a calculation is possible. Could someone please explain how it is done?

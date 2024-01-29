@@ -1,0 +1,6 @@
+Calculating the luminosity of a comet
+
+Assuming a 9-km comet is heading towards the Earth and it is at distance 5.2 AU away from the Sun, what is its luminosity? Assume that it has an albedo of 0.5?
+For now, I have calculated the Sun's flux at the comet's location.
+$$F=\frac{3.8\times10^{26}W}{4\pi\left(7.78\times10^{11}m\right)^2}=50.74\frac{W}{m^2}$$
+I have used the flux of the Sun and the distance of the comet from the Sun to the in meters. I was thinking that I could calculate the area of the comet seen  from the Earth and then calculate the luminosity of the comet. However, I have no idea how to calculate the effective area of the comet.

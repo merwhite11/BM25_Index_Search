@@ -1,0 +1,9 @@
+Can a star have one forbidden line or does it have to have many?
+
+My question is: Can a star have one forbidden line, or does it have to have multiple?
+Some Examples
+I'll be using the O ᴠɪɪ line as an example.
+ζ Puppis is a well studied O4Ief star with the O ᴠɪɪ forbidden line and I found this paper that says the star has the lines S xv, Si xɪɪɪ, Mg xɪ, Ne ɪx, and O ᴠɪɪ.
+Another star, β Crucis, this time with the spectral type B0.5 III, also has the O ᴠɪɪ line. Using this other paper, I found that the star has many forbidden lines including O ᴠɪɪ, Ne ɪx, Si xɪɪɪ, Mg xɪ, N ᴠɪɪ, and Fe xᴠɪɪ.
+I see that both stars share (besides the O ᴠɪɪ line) the Ne ɪx, Si xɪɪɪ, and Mg xɪ lines, so I'm leaning towards a star with one forbidden line, provided it has a high enough concentration of the various elements (in this case, neon, magnesium, and silicon), should have multiple lines.
+Thank you for reading this question.

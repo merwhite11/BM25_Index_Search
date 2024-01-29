@@ -1,0 +1,9 @@
+A question about calculating the radius of a comet
+
+A Comet is orbiting around the sun with period of $T= 5.5$ years. The comet has radius $R$. After 5.5 years (A period) we understand that its radius has decreased about $20cm$. How can we calculate the R. We know that comet is approximately a sphere and it is made of Ice. We have the $G = 6.67 * 10^{-11}$ SI_Unit, $M_{sun} = 1.99 * 10^{30} Kg$, $\sigma = 5.67 *10^{-8}$ SI_Unit (Stefan-Boltzmann constant) , $L_{sun}=3.85 * 10^{26} w$, $l_f = 333 KJ/Kg$ , $l_v = 2260 KJ/Kg$. It would be fine that if the solution doesn't need the numerical value of density of ice but if it can't be solved without density of ice, you are allowed to use it.
+I can calculate the distance to sun ($a$) with formula:
+$T^2 = 4 *\pi^2 a^3 /(GM_{Sun})$.
+$a= 4.66* 10^{11} m$
+I also can calculate $F= L_{sun} / (4 * \pi * a^2)$.
+I also approximated the power that the comet gives is: $P = F * Area$ (think ice don't reflect any light)
+But I don't know how to calculate the R and formulate how it decreases every moment (because it affects the area).

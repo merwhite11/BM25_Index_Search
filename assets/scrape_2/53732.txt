@@ -1,0 +1,4 @@
+How to align iOptron Skyguider Pro with iPolar camera without computer?
+
+I’m considering the iOptron Skyguider Pro star tracker with the iPolar camera, but this requires a computer.
+How do you align this star tracker if you have a problem with the computer, don’t have the computer with you, etc? The camera replaces the scope, so you can’t just switch to the scope on the fly. Is the star tracker useless without the computer because you can’t accurately polar align it? Or is there another way?

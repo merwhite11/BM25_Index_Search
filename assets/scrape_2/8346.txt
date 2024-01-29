@@ -1,0 +1,3 @@
+The role of gravity during planetesimal accretion
+
+As far as I understand, during the formation of a planetary disc, grains of dust stick together due to collisions and chemical bonding. Considering the size of the grain - say, 1 mm - and the speed - 1cm per sec - it would seem that gravity plays a minor role during accretion. My question is, to what extent is gravity a factor during accretion? To what extent is it related to fragmentation? In other words - how does gravity affect whether the fragments return and stick to the main body? Is there a size barrier, or is it dependent only on the speed?

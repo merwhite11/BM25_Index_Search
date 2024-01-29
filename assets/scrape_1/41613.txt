@@ -1,0 +1,7 @@
+Are red dwarfs really 30-100 times our Sun's density?
+
+This article by K. E. Edgeworth claims red dwarfs tend to be around 30-100 times our Sun's density.  However, this seems a bit high.
+With smaller stars, mass tends to be proportional to radius but have a notably smaller volume, leading to higher densities.  This Wikipedia article labels red dwarfs as massing between 0.08 and 0.45 solar masses.
+However, following mass being proportional to radius, a 0.25 solar radii star with 0.25 solar masses has a density of 22.5003 g/cm³, or about 16 times our Sun's density.
+A star 1/4 the size and mass of ours is smack in the middle of the red dwarf range, but is only about halfway to the 30 times our Sun's density minimum the above article outlines, while based on the above article I would expect a red dwarf 1/4 the size and mass as our Sun to have a density more like 60 times our Sun's.
+What is the cause of this discrepancy?

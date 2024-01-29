@@ -1,0 +1,4 @@
+Am I miscalculating distance to Moon?
+
+The Moon's orbital period is generally given as 27.3 days, and the radius of Geostationary orbit as 26,200 miles. However, using Kepler's Third Law, if I raise 27.3 to the power of 2/3, and multiply the result by 26200, I get a value of a bit over 237,500 miles - about 1000 miles less than the actual value - for the distance from Earth to Moon.
+Am I making a silly mistake somewhere?

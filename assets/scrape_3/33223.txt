@@ -1,0 +1,9 @@
+Period of pulsation of a star and its relation to free fall and acoustic waves
+
+In this paper, the period $\Pi$ of pulsation for a star can be obtained by means of the virial theorem:
+$$\Pi = 2\pi\sqrt{\frac{sR^3}{(3\gamma - 4)qGM}}$$
+where $s$ and $q$ are constants relating to the star and $\gamma = c_P/c_V$ is the ratio of specific heat capacities at constant pressure and volume. I would like to know how one can relate $\Pi$ to: 
+(a) the time of free fall 
+and 
+(b) the acoustic travel time 
+from the surface of the star to its center.

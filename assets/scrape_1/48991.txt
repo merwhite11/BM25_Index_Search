@@ -1,0 +1,3 @@
+Is there any well-populated list or database of pulsar "glitches"?
+
+Besides listing which pulsars have ever actually glitched, it would hopefully also include some historical data on their periods before and after they glitched.

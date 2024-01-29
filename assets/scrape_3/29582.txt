@@ -1,0 +1,9 @@
+nonagesimal in Kepler's parallax computation
+
+I'm starting to learn Kepler's Astronomia Nova using William Donahue's translation . In the translator's introduction, it is demonstrated how Kepler did his parallax computation. I failed to understand the following paragraph:
+ 
+specifically: 
+1) nonagesimal's definition: there are 2 points of intersection between the ecliptic and the horizon: one in the East, the other in West. another ambiguity is the direction of the $90^\circ$
+2) I can't see why the altitude of the nonagesimal is "the same as the angle between the ecliptic and the horizon". It does make sense to me, but I'm missing a kind of "proof" for that. 
+3) Actually I also failed to understand what follows in that paragraph - but maybe your explanation for the points above, will clarify that for me.
+your help is very much appreciated

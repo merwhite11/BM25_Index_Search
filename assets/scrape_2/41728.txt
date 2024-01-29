@@ -1,0 +1,7 @@
+Why can't ptolemaic Venus be fully lit?
+
+In wikipedia's article on the phases of Venus it says:
+
+The Ptolemaic system would never allow Venus to be fully lit from the perspective of the Earth, as this would require it to be on the far side of the Sun, which is impossible if Venus's orbit in its entirety is between the Earth and the Sun,
+
+But the moon's orbit "in its entirety is between the Earth and Sun", and is "fully lit from the perspective of the Earth" once a month, so how can we conclude that Venus revolves around the Sun?

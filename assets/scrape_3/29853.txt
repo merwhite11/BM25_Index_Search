@@ -1,0 +1,14 @@
+Why does the author believe that the central mass that gas cloud HCN-0.009-0.044 orbits is smaller than our solar system?
+
+Phys.org's Hiding black hole found says:
+
+A research team led by Shunya Takekawa at the National Astronomical Observatory of Japan noticed HCN-0.009-0.044, a gas cloud moving strangely near the center of the galaxy 25,000 light-years away from Earth in the constellation Sagittarius. They used ALMA (Atacama Large Millimeter/submillimeter Array) to perform high-resolution observations of the cloud and found that it is swirling around a massive invisible object.
+Takekawa says, "Detailed kinematic analyses revealed that an enormous mass, 30,000 times that of the sun, was concentrated in a region much smaller than our solar system. This and the lack of any observed object at that location strongly suggests an intermediate-mass black hole. By analyzing other anomalous clouds, we hope to expose other quiet black holes."
+
+The paper is Indication of Another Intermediate-mass Black Hole in the Galactic Center and is open access.
+The quote in the second paragraph is all over the internet. I have found that sciencedaily and iflscience both link back to the same quote on an official NAO page here.
+
+Takekawa explains, “Detailed kinematic analyses revealed that an enormous mass, 30,000 times that of the Sun, was concentrated in a region much smaller than our Solar System.”
+
+Questions: How do they know that the central mass is "concentrated in a region much smaller than our Solar System"?
+This answer about the paper and subsequent discussions below it don't seem to shed any light on this particular question. The NAO page does not indicate the origin of the quote, I'm wondering if it is a translation of a corresponding Japanese language page on the same site that explains further.

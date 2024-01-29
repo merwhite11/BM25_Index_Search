@@ -1,0 +1,7 @@
+Why doesn't sunrise shift as we revolve around the sun (ignoring seasonal variations - so at the equator)
+
+If the Earth rotates at a constant speed why doesn't sunrise change as we orbit the Sun?
+For example if viewing the Earth's orbit from above at time N let's assume the Earth is at the 3 'o' clock position and so the point on the Earth's surface at the equator perpendicular to the Sun would be in daylight (~12pm local time) let's call this point X (would be at the Earth's 9 'o' clock position).
+Six months later the Earth would be at the 9 'o' clock position in its' orbit and assuming the Earth has completed exactly 182 full rotations that point X will again be at the Earth's 9 'o' clock position but would now be facing away from the sun therefore it would be dark but exactly 182 days have passed so it should be (~12pm local time).
+I'm probably overlooking something obvious but hoping someone can explain why this obviously isn't what happens in reality.
+Many thanks.

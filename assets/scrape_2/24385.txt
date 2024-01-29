@@ -1,0 +1,3 @@
+What is known about the angular momentum distribution within galaxy clusters?
+
+I recently saw a 3D-plot of proper motions of galaxies within the Laniakea super-cluster (https://sketchfab.com/models/754cb85550fb42588175f8a215718521). Is a similar 3D map of the vector field of angular momentum possible? Would it be rather random, or would close galaxies within a cluster have strongly correlated angular momenta? Can we even estimate the axis of rotation from visual / spectroscopic data?

@@ -1,0 +1,8 @@
+Why is SPT0418-47 ("the most distant Milky Way look-alike") expected to evolve into an elliptical galaxy?
+
+Phys.org's ALMA sees most distant Milky Way look-alike describes the image reconstruction of a strongly and very nicely lensed z = 4.2 galaxy by a by a foreground galaxy at z = 0.263 and says:
+
+"What we found was quite puzzling; despite forming stars at a high rate, and therefore being the site of highly energetic processes, SPT0418-47 is the most well-ordered galaxy disc ever observed in the early Universe," stated co-author Simona Vegetti, also from the Max Planck Institute for Astrophysics. "This result is quite unexpected and has important implications for how we think galaxies evolve." The astronomers note, however, that even though SPT0418-47 has a disc and other features similar to those of spiral galaxies we see today, they expect it to evolve into a galaxy very different from the Milky Way, and join the class of elliptical galaxies, another type of galaxies that, alongside the spirals, inhabit the Universe today.
+
+and links to Rizzo et al. (2020) in Nature: A dynamically cold disk galaxy in the early Universe. Also see (YouTube and ESO)
+Question: Why is SPT0418-47 ("the most distant Milky Way look-alike") expected to evolve into an elliptical galaxy? Is there something about this particular observation that indicates that, or is that just what galaxies "back then" did, even if they had a disk-like phase?

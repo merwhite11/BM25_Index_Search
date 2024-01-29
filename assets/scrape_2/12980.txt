@@ -1,0 +1,4 @@
+How could we detect planets orbiting black holes?
+
+Detecting planets orbiting around stars can be made with several methods, transit photometry seems to be by far the most popular method nowadays. 
+I wonder how we could detect planets orbiting black holes. Which methods are we left with? Has it been done before?

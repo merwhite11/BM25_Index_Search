@@ -1,0 +1,5 @@
+Absolute magnitudes with dust extinction
+
+I have a distant $z\sim3$ galaxy with absolute AB magnitudes $M_B$ and $M_I$, where the central wavelengths of the $B$ and $I$ passbands are $\sim0.4\,\mu\text{m}$ and $\sim0.8\,\mu\text{m}$, respectively.
+If this galaxy was to experience $1\,\text{mag}$ of $V$-band extinction due to dust within it, where the central wavelength of the $V$ passband is $\sim0.5\,\mu\text{m}$, how do I work out what the absolute magnitudes $M_B$ and $M_I$ would be?
+Thanks for any help with this issue.

@@ -1,0 +1,5 @@
+Spectral Energy Distribution (SED) characteristics of Disk and Elliptical Galaxies
+
+Quick questions about the spectral energy distributions of galaxies:
+What characteristics do we look for in SEDs that provide information on that galaxy's morphology?
+For example, in spiral galaxy SEDs, we tend to see an increase in flux density around sub-mm range, which would represent high amounts of dust emission (thermal). Since elliptical galaxies are known to have significantly less gas, this leads us to assume the galaxy is spiral. (there are obviously other factors, but assuming an SED is the only information available). I am particularly interested in elliptical / lenticular galaxies.

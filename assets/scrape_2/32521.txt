@@ -1,0 +1,6 @@
+Are digital adaptive optics possible?
+
+Adaptive optics generally apply slight changes to mirrors to account for atmospheric turbulence. These generally require either a mirror to be broken up into smaller mirrors, each with their own actuator, or for a single large mirror to be slightly deformed by many different actuators.
+Is it possible to do much of this digitally? 
+Couldn't software slightly attenuate or amplify each pixel at each time-slice collected from a passive mirror? These changes would depend on the distortions measured by a guide star or laser (this digital system would still require a guiding light)? I suspect this would probably be less accurate than true adaptive optics, but it would also be far less expensive (as you wouldn't need so many actuators).
+Has this approach been studied and dropped? Is it ridiculous and not even theoretically possible? I'm curious if anything has researched this idea.

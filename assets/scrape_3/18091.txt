@@ -1,0 +1,9 @@
+Binary stars of different ages?
+
+In an answer on a different SE someone raised the point that “common” explainations published never discuss stars being captured.  Presumably binaries are formed as pairs, or team up while still in the birth cluster.
+It seems quite plausible that an aged star (or stellar reminant) can be paired with a main sequence star in its prime, having paired up well after the old supernova was completed.
+Is this mechanism of multi-body reassortment known to occur, presumed, or thought to not occur?
+Another mechanism implied but not detailed in popular works is the possible situation with Proxima Centauri: a star going with the flow in the galaxy may find itself loosly attached to another star (or system), and this bond is so tenuous that it can easily be broken by another passing star, so the distant star do-si-dos to different partners over the course of billions of years.  Is this an accurate depiction of the real situation?  This loose attachment out of the general flow can occur with stars of any mass, right?
+In any case, a star can be captured with planets, right?  Naturally a close-enough encounter between stars (and reminants) could seriously disrupt a planetary system, but I want to check on the possibility that capture with planets is also a possibility.  I think that’s not a problem for the “loose attachment” case, and Proxima Cen may indeed have a planet.  How about the necessary mechanics of binary reassortment?  Is that necessarily so close and tight thatbplanets would be seriously disrupted, or is it plausible that planets would simply go along for the ride?
+
+Update: PSR B1620-26.  A neutron star captures a star with planet, trading off its original companion.

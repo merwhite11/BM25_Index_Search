@@ -1,0 +1,12 @@
+What is the Chołoniewski method of estimating galaxy luminosity functions?
+
+This paper describes a method to estimate the reddening of AGN using various methods, mostly to do with the intensity ratios of different absorption lines. It also mentions the Chołoniewski method, which is used to describe the luminosity function:
+
+Chołoniewski (1981) made the important discovery that if the
+apparent brightnesses of an AGN in different passbands – for
+example, the fluxes FB and FV in the Johnson B and V bands
+are plotted against each other as fluxes rather than as magnitudes,
+the curvature seen when plotting in magnitudes disappears.
+
+Reading the original paper doesn't enlighten me as to what the Chołoniewski method actually is, or why it's important. Can someone please help me understand the method?
+EDIT: it makes a lot more sense now that I'm looking at the right paper! Thanks Peter Erwin (comments).

@@ -1,0 +1,4 @@
+During aperture photometry when simulating an undetected star, why must an upper limit and standard deviation need to be calculated?
+
+I am trying to learn aperture photometry using python
+I noticed the following logic in the image below, where an upper limit was determined by simulating an undetected star and the standard deviation was calculated. Why is this logic needed during photometry? What is the purpose of finding an upper limit and calculating the standard deviation for it?

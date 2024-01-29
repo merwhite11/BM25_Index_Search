@@ -1,0 +1,4 @@
+How do I calculate the elevation angle to the horizon?
+
+I'm creating an app to visualize the southern area of the moon from a first-person perspective. I'm trying to determine if a point on the surface is a "checkpoint," where the elevation angle to Earth is greater than the elevation angle to the horizon at the same azimuth angle (basically if the Earth if visible). However, I don't know how to calculate the elevation angle to the horizon. I initially thought of using the slope at the current point, but this doesn't work because there could be a point up ahead with a much larger slope, which would block the visibility of the Earth.
+All help is appreciated!

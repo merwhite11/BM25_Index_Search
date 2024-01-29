@@ -1,0 +1,3 @@
+Map planetary eccentricity on a perfect circle?
+
+What is the formula to plot an eccentric orbit on a perfect circle? I have estimated the full degrees each planet would occupy on a 360 degree wheel (natal chart) but how do I take into account a planet's ellipses not being perfectly circular?

@@ -1,0 +1,3 @@
+Understanding the difference between local time and local sidereal time
+
+I am currently attempting to understand different systems of telling the time: particularly, distinguishing local time (LT) from local sidereal time (LST). I understand that they often differ; despite this, is it possible to tell on what day of the year the two will be the same? How would I go about doing so?

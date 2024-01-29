@@ -1,0 +1,10 @@
+What are the black spots/blobs in JWST Jupiter's images?
+
+Consider these two recent JWST images of Jupiter:
+
+
+Europa is shown as the black circle. In the second image, Europa's shadow can be seen near Jupiter's big red spot (white in the image, since it is in IR wavelengths).
+However, there is an irregular big black "blob" easily noticeable in the first photo just below to the planet's ring. It can also be seen in the second photo, with the same size, position, shape and orientation, although not so easily noticeable.
+What is that black blob? Is it a defect?
+If it is indeed a defect, does it have something to do with the telescope being hit by a micrometeoroid in late May, 2022? Like as it is the hole punched in one of the mirrors? Or it does not have anything to do with that?
+Also, if you click in the second image to see it in full resolution, it is noticeable that it is "peppered" with black spots and even a few "salt" white spots near the bottom. Why?

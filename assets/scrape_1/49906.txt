@@ -1,0 +1,5 @@
+What causes the sharp if irregular boundary line in the "Cosmic Cliffs" JWST Carina image?
+
+In this recently released JWST image:
+
+we can see a relatively sharp, if irregular, boundary line between a region appearing mostly bluish and a region appearing mostly reddish or orange (understood that these are assigned, not natural colors). What is the process that produces such a distinct boundary, or at least a sharp enough transition that it can appear to us that way in an image? If there is a material flow, which way is it moving? What do we understand about the composition or other properties of the material on either side of the boundary?

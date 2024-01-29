@@ -1,0 +1,10 @@
+Can you calculate the radius of a galaxy from Angular Size?
+
+Is there a formula for calculating the size of a galaxy or even a nebula if you have the Angular Size.  For example, M31 has an angular size of     199.53 70.79 35 (Opt) D
+M31 should be 200,000 light Years or Whirlpool Galaxy 10.00 7.59 163 (Opt) D should equate to 30,000 Light Years.
+Or Even the Orion Nebula 5.5 5.5 90 (Rad) D to be 12 Light Years.
+The angular sizes come from Simbad as sources.
+https://simbad.u-strasbg.fr/simbad/sim-id?Ident=Andromeda%20Galaxy
+https://simbad.u-strasbg.fr/simbad/sim-id?Ident=Whirlpool%20Galaxy
+https://simbad.u-strasbg.fr/simbad/sim-id?Ident=Orion%20Nebula
+Any help on the formula if there is one or if not, is it based on observation?  Thanks in advance

@@ -1,0 +1,10 @@
+Star data format explained
+
+I am looking for a formal explanation of the following star database format:
+Akamar,f|S|A3,02:58:15.696|-44.6,-40:18:16.97|19.0,3.2,2000,0
+Menkar,f|S|M2,3:02:16.8|-11.81,4:05:24|-78.76,2.54,2000,0
+Mirfak,f|S|F5,03:24:19.37|24.11,49:51:40.25|-26.01,1.8,2000,0
+Aldebaran,f|S|K5,4:35:55.2|62.78,16:30:35|-189.36,0.87,2000,0
+Rigel,f|S|B8,5:14:32.3|1.87,-8:12:06|-0.56,0.18,2000,0
+
+I know most of the values, but can anyone send me a link to the formal description?

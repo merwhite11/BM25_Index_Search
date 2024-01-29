@@ -1,0 +1,4 @@
+Approximate formula to find velocity from cosmological redshift
+
+From IOAA 2013 (Greece) Theory question no. 15, they stated that the approximate formula to find velocity from cosmological redshift is $$v = c*log_e (1+z)$$ and that it is often used by cosmologists. I did a quick google search but found nothing similar to this formula.
+So, where did this equation come from and is it really often used by cosmologists?

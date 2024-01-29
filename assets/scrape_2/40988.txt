@@ -1,0 +1,4 @@
+Does a star's rotation always match a planet's orbit?
+
+For a planet orbiting a star, is it ever possible for a star to be rotating in the opposite way on it's own axis compared to the planet that is orbiting the star?
+Or do gravitational forces mean the planet will always orbit a star with the same rotational direction as the star's axis rotation ?

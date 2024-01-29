@@ -1,0 +1,4 @@
+If a white dwarf collides with a giant star, could it create a TZO?
+
+Thorne–Żytkow objects (TZOs) form from collisions between neutron stars and main sequence or giant stars. Ultimately, the neutron star becomes the "core" of the giant star.
+However, could this also happen with white dwarfs, if the combined mass is below the TOV limit? White dwarfs are degenerate stars, just like neutron stars, so would they be able to replace the star core in the same way? Would anything happen to the white dwarf if the combined mass is beyond the Chandrasekhar limit?

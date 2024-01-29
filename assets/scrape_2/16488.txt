@@ -1,0 +1,11 @@
+Inverse of the sunrise equation - finding locations with a given sunrise time on a given day
+
+I'm working on a project for fun where I represent some sleep data geographically. For a given day, I have a date, a time for falling asleep that night, and a time for waking up the next day. The idea is something like this xkcd comic. My attempts at taking the inverse of the sunrise/sunset equations I've found online have not been fruitful.
+Basically, I would like to find an equation or algorithm to give a rough location on Earth with a specific sunset time on some specific day and a specific sunrise time the next day. I am not too concerned with accuracy since this is just for fun, so I'm hoping elevation information isn't necessary.
+I'm a programmer, so the goal is really to be able to type something like 
+>>>> locate(date = '2014-08-27', sunset = '10:00 PM', sunrise = '7:30 AM')
+
+and get back
+Latitude: 49.887, Longitude: 96.141
+
+I could program it myself if I just understood enough astronomy. Any help is greatly appreciated.

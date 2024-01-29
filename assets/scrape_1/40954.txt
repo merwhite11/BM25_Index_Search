@@ -1,0 +1,10 @@
+Cross-matching astronomical catalogs
+
+A project I'm working on involves getting data from SDSS DR12, and cross-matching it with NED, as described in Section 2 of this paper:
+
+2.1 The sample
+From the SDSS Data Release 12 (DR12, Alam et al. 2015), we extracted the first 33 643 QSOs with accurate spectroscopic redshifts (δz/z < 0.01), which span the magnitude range r = 14.667 − 22.618. We then used the source coordinates to obtain the nearest source within a 6 arc-second search radius in the NASA/IPAC Extragalactic Database (NED), which usually resulted in a single match. As well as obtaining the specific flux densities, we used the NED names to query the Wide-Field Infrared Survey Explorer (WISE, Wright et al. 2010) and the Two Micron All Sky Survey (2MASS, Skrutskie et al. 2006) databases. For each of the bands3, the photometric points which fell within ∆ log10 ν = ±0.05 of the central frequency of the band were averaged, with this then being converted to a magnitude.
+
+(screenshot)
+I can find the SDSS DR12 on VizieR, and I know there are tools for cross-matching catalogs (I have TOPCAT) but I'm not sure of what steps to follow.
+Can anyone give me some guidance on how to do the cross-match as per the paper, please?

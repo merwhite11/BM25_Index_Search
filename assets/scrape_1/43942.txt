@@ -1,0 +1,24 @@
+What new instruments "so sensitive that we can see (large circumgalactic winds) have only been on telescopes for a few years"?
+
+The Rhodes College press release Prof. David Rupke and Team of Astrophysicists Make Major New Discovery About Galaxy Evolution links to
+
+Astronomy Community/Nature.com: The Making of Makani; The story of how we encountered an enormous galactic wind surrounding the Makani galaxy illuminates the scientific process of discovery and collaboration.
+Vimeo: Makani 360-degree rotation of KCWI spectral cube
+
+and references the new Nature paper A 100-kiloparsec wind feeding the circumgalactic medium of a massive compact galaxy (viewable in  arXiv)
+and includes the video below, in which Prof. Rupke says near the end after about 03:43:
+
+While I’m hopeful that it’s the tip of the iceberg, and that we will find many other galaxies in which we see these large winds extending into the circum-galactic medium, but of course we have to go out and look.
+These new instruments that are so sensitive that we can see these things have only been on telescopes for a few years.
+There’s more galaxies that we haven’t looked at than we have.
+
+The last sentence (taken by itself) is probably an understatement :-)
+Question: What "...new instruments so sensitive that we can see these things have only been on telescopes for a few years"? I'm guessing that "instruments on telescopes" means these are image sensors or imaging spectrometers on visible or IR telescopes on the ground, and not related to radio telescopes, but that's just a guess.
+
+
+
+
+
+
+
+Figure 1 The giant galactic wind surrounding the massive, compact galaxy Makani, observed by emission from the [O II] line at λ=3726 A and 3729 A. The colour scale and white contours show observed-frame surface brightness, and the axes are labeled in kiloparsecs from the galaxy nucleus. Contours are 2–16% of peak flux, spaced by factors of 2. A rest-frame V-band image of the galaxy (Hubble Space Telescope/WFC3 F814W filter) is superimposed on the center of the [O II] image taken with KCWI at the Keck II telescope. The small circle at the centre illustrates the radius of the compact core (400 pc). North is up and east is to the left.

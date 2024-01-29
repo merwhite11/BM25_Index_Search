@@ -1,0 +1,4 @@
+how to calculate ecliptic coordinate of moon's ascending node?
+
+Assume we have the ecliptic coordinate of moon; how can we calculate the ecliptic coordinate of its ascending node?
+I think one approximate way is to use the moon's coordinate for two subsequent days and then we can calculate the cross product of both vectors to get the plane' normal which can be used to calculate the intersection coordinate. Is there a better accurate way?

@@ -1,0 +1,21 @@
+What is the science behind the polar light shapes
+
+Is there any scientific explanation that causes polar lights (aurora borealis/australis) to have their unique shapes?
+Specifically:
+
+Rayed Arcs
+Dual Bands
+Corona
+
+(Images on NASA Pdf)
+This site (by NASA) proposes:
+
+The different shapes of auroras are a mystery that scientists are still trying to 
+  unravel. The shape seems to depend on where in the magnetosphere the electrons 
+  originate, what causes them to gain their energy, and why they dive into the 
+  atmosphere.
+
+(Subsection: Why do auroras come in different colors and shapes?)
+I am specifically asking if there are any scientific observations (formulas or even simulations) that could describe such patterns (or even similar observations from fluid or gas dynamics). Furthermore, if it forms a rippled ring for instance, there should be a wave-like function, right?
+Afterall, they could also be in a straight line..
+Aurora - NASA Pdf

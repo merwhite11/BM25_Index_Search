@@ -1,0 +1,13 @@
+Why does the neutral hydrogen velocity have this characteristic behavior in the galactic plane?
+
+The recently released map of galactic neutral hydrogen density and velocity is really beautiful. The work has been relased by the HI4PI collaboration (HI = neutral hydrogen, $4\pi$ = complete spherical coverage).
+My question is fairly simple. Looking at the image near the galactic plane, why do I see near the center a green bump on the left and a blue bump on the right, then near the edges of the image a much stronger blue bump on the left and a green bump on the right. In other words, there is a major and a minor peak in the positive radial velocity gas, and a major and a minor peak in the negative radial velocity gas. 
+Does this have some simple geometrical explanation?
+
+
+above x2: neutral hydrogen density/velocity map from here with inset indicating color scale expanded.
+
+above: for those who can not distinguish the green and blue in the image, this plots the average green (solid) and blue (dashed) intensity within the central equatorial band.
+There is a nice article at phys.org with a video, which can also be seen in YouTube. It shows the intensity of HI as a cut in radial velocity is slowly scanned through the data set.
+https://www.youtube.com/watch?v=Q2mgpsTFuV8
+Since the stackexchange YouTube option is not turned on in astronomy stackexchange, here is a GIF of screenshots at -30, -20, -10, 0, 10, 20, and 30 km/sec:

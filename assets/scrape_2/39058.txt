@@ -1,0 +1,6 @@
+SpaceX's Starlink Megaconstellation and its Effect on Earth-Based Astronomy
+
+SpaceX's Starlink project is already greatly impeding scientists ability to make good Earth-based observations. With the planned launch of 12,000 satellites total, the future is uncertain.
+Is there any hope that "DarkSat" or the new "VisorSat" will make any noticeable difference in the brightness of the sat constellation? DarkSat was observed to decrease the brightness of the satellites by 50%, but they are still highly visible to telescopes. Has SpaceX maximized its ingenuity?
+Some have proposed "lowering" the orbit of the satellites ( I'm assuming to decrease the angle the Sun has to catch them as they orbit). Is there any LEO orbit that could actually fix the issue of the Starlinks ruining precious observation time?
+Is there any future in which SpaceX AND companies who hope to launch their own megaconstellations can eliminate or greatly mitigate the impact the sats have on Earth-based astronomy?

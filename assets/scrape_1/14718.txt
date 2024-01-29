@@ -1,0 +1,16 @@
+Magnification of a telescope
+
+
+I took an image of Jupiter through my 8" Dobsonian Telescope, attaching a DSLR and a 1.25" Barlow Lens where the eyepiece goes, as shown in this video: https://www.youtube.com/watch?v=reFxoF3XoaU
+Through numerous online sources, I learnt that to find the angle of view of my image, the magnification of my image needed to be calculated, and that this value along with the given field view for my eyepiece.
+http://www.rocketmime.com/astronomy/Telescope/Magnification.html:
+The above website answers the following question, the calculations of which I attempted to mimic.
+
+My first telescope was a Meade 6600 -- they don't make it any more -- it's a 6-inch f/5 Newtonian scope. It came with a 25mm eyepiece. So... what was the magnification I was getting with this scope?
+
+Here are the calculations I did in hopes of getting the above result:
+$$\textrm{Diameter} = 8'' = 203.2\ \textrm{mm}$$
+$$f_{\textrm{ratio}} = \frac{\textrm{focal length of objective}}{203.2\ \textrm{mm}}$$
+$$\therefore \textrm{focal length of objective} = 203.2 \cdot 5.9 = 1200\ \textrm{mm}$$
+$$\textrm{Magnification} = \frac{\textrm{focal length of objective}}{\textrm{focal length of eyepiece}} = \frac{1200}{x}$$
+As shown in the video (the first link above), I didn't use an eyepiece to take my picture - I used a barlow lens, a couple of adapters, and a DSLR. So at this point, I am not sure what value to use for the "focal length of the eyepiece." How can I proceed to calculate the magnification?

@@ -1,0 +1,17 @@
+Why do some call the no-hair conjecture the no-hair theorem?
+
+This excellent answer to Why would a black hole's magnetic hair being short-lived not violate the no-hair conjecture, but long-lived hair would? How long is “long-lived”? has got me thinking because it references no-hair as a theorem rather than a conjecture.
+Wikipedia's No-hair theorem says:
+
+There is still no rigorous mathematical proof of a general no-hair theorem, and mathematicians refer to it as the no-hair conjecture.
+
+Wikipedia's Theorem says:
+
+In mathematics and logic, a theorem is a non-self-evident statement that has been proven to be true, either on the basis of generally accepted statements such as axioms or on the basis of previously established statements such as other theorems. A theorem is hence a logical consequence of the axioms, with a proof of the theorem being a logical argument which establishes its truth through the inference rules of a deductive system. As a result, the proof of a theorem is often interpreted as justification of the truth of the theorem statement. In light of the requirement that theorems be proved, the concept of a theorem is fundamentally deductive, in contrast to the notion of a scientific law, which is experimental.
+
+Astronomers, astrophysicists and cosmologists are celebrated for using a bit of artistic license when naming things and concepts; Big Bang, Hanny's Voorwerp, Dark Doodad, Gomez's Hamburger, The Great Annihilator1, European Extremely Large Telescope, Massive Monolithic Telescope, Kilodegree Extremely Little Telescope, etc.2
+But I'm not sure that promoting a conjecture to a theorem sans proof falls into this category.
+Question: Why do some call the no-hair conjecture the no-hair theorem?
+
+1several of these are from Make Your Day Better With These 8 Cool Space Things That Have Totally Ridiculous Names
+2several of these are from The silliest names scientists have given very serious telescopes

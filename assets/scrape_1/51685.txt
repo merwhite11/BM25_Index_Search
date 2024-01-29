@@ -1,0 +1,9 @@
+Probability of exoplanet transit
+
+An exoplanet is in a circular orbit around its star.
+The radius of the star is $r_{star}$
+The radius of the exoplanet is $r_{planet}$
+The radius of the orbit is $r_{orbit}$.
+The orbital period of the planet is $T$
+What is the probability that, from the perspective of a distant observer who is viewing the system from a random angle (in 3D, alternatively and equivalently, the orbital plane is randomly oriented), the (full) disk of the exoplanet occludes the disk of its star during an observation duration $t$ (randomly offset)?
+Is there an analytic solution for this problem?

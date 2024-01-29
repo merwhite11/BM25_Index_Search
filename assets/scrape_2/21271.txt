@@ -1,0 +1,4 @@
+What is the difference between equatorial and ecliptical coordinate system?
+
+Of course, I know what the ecliptic is and what equator is. The problem is I still can not understand why we need two systems for measuring the same thing - are each of them useful only in specific occasions? For example, which is preferred in marine navigation? I am interested in this practical side of the question
+Can you give an example which positions a star, using both coordinate systems?

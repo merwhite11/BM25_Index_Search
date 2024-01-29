@@ -1,0 +1,14 @@
+In a reflecting telescope (Cassegrain), is there a difference between using a concave or convex secondary mirror?
+
+These are two diagrams of Cassegrain reflecting telescopes.
+One uses a concave secondary mirror, and the other uses a convex one.
+Is there any difference between the two?
+For example, does one cost more? Does one produce a better image?
+Thanks!
+===
+EDIT: These images came from:
+
+http://astro-canada.ca/les_telescopes-reflecting_telescopes-eng
+http://www.a-levelphysicstutor.com/optics-telescs.php
+
+===

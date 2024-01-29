@@ -1,0 +1,5 @@
+can gravity be faster than light in some specific cases?
+
+This is a follow up question from 
+If an event occurs at a point in space time what will an observer experience first, it's gravity or the light from it?
+This https://en.wikipedia.org/wiki/Alcubierre_drive article on Wikipedia about Alcubierre drive says that faster than light travel is possible by manipulating space, though physically not possible, but if we transport a massive object using this drive, will the disappearance of the object's gravitational field be observed first or the disappearance of the object (EM Radiation) observed first? In simple words can gravity be faster than light in some cases?

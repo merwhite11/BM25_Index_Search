@@ -1,0 +1,5 @@
+How to determine sidereal time just looking at the picture?
+
+I have this picture:
+
+I need to determine what sidereal time it is (in hours), or how long has it been since the upper culmination of the point of the vernal equinox. How can I do that?

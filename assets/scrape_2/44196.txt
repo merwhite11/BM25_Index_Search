@@ -1,0 +1,5 @@
+Does the sun have a notable frame-dragging effect on the planets?
+
+Frame-dragging is a general relativistic effect that can be imagined as the effect that the momentum of mass-energy has (the stress elements in the stress-energy tensor) on mass-energy in the surroundings of the moving mass-energy.
+For example, a large moving sheet of mass will cause particles to be dragged along in the direction of motion of the sheet (on top of gravitating towards the sheet).
+So I was wondering. Does the sun have a noticeable frame-dragging effect on the planets?

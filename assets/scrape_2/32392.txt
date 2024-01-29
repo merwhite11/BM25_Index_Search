@@ -1,0 +1,5 @@
+What does cz mean?
+
+Take DS Geminorum for example, it has a cz of -2.33 [2.96]
+My question is what does cz mean, what does is represent? and what does the value in the brackets mean?
+http://simbad.u-strasbg.fr/simbad/sim-id?Ident=ds%20gem

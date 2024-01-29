@@ -1,0 +1,3 @@
+Do stars become more metal-rich as they evolve?
+
+Since we determine the metallicity of a star ([Fe/H] or Z) from surface emission, does this change as it ages? For instance, can a young star with a measured [Fe/H] of -0.02 have a higher value when we hypothetically look at it 10 billion years from now? Do metals dredge up?

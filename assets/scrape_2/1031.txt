@@ -1,0 +1,3 @@
+Does the radio signal decay when it travels through the intergalactic space?
+
+When you emit the radio signal it starts moving at the speed of light. Radio beam is diffusing with each kilometer the signal has traveled. To the nearby receiver the signal is strong. But if the receiver is far away, the signal will become weaker and weaker until it becomes a noise. So the question is does the same happen in deep space and what distance radio signal (or any electromagnetic wave frequency) could travel until it becomes noise?

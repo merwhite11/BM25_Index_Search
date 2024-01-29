@@ -1,0 +1,5 @@
+How certain are we about the universe's flatness?
+
+The universe is thought to be flat: $\Omega = 1 \pm 1\%$. As I understand it we can determine this by measuring triangles against the CMB.  
+Yet during inflation dark energy made the universe grew much larger than the radiation universe, of which the CMB is the limit. Isn't it possible then that at the "smaller" scale of our visible universe it appears flat, but at the universe's full size it's curved? A bit like a square of 1 meter sides on the surface of the earth also looks flat, while at larger scale the earth is curved.
+What are the chances that the 1% uncertainty could lead us to a universe with $\Omega \ne 1$?

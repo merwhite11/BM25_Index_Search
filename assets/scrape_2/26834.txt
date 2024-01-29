@@ -1,0 +1,9 @@
+Calculation of RA and DEC
+
+I'm currently stuck on a problem. 
+I have the RA and DEC for JD2000:
+RA = 17 57 48.49980
+DEC = + 04 41 36.1114
+I want to calculate the RA and DEC for 01.01.2017, how can I do it? 
+The solution might be easy but I'm totally stuck right now.
+Thanks in advance.

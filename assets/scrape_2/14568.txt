@@ -1,0 +1,7 @@
+Question regarding the Milky Way when calculating galactic space velocities for galaxies
+
+I have been calculating galaxy space velocities (where proper motions are known) in order to measure their orbits of the Milky Way using the method proposed in the appendix of http://www.aanda.org/articles/aa/pdf/2011/01/aa13415-09.pdf
+The question I have is: Do we put the Milky Way through the same calculation process to get an initial velocity, or do we have that it's (0,0,0) as it is essentially our origin point (ie the U velocity component would mean that the Milky Way is moving in the direction away from its own galactic centre which doesn't really make sense to me as this could be any direction)? 
+I have put it through the process and found an initial space velocity of the Milky Way of (-11.1,232.24,7.25) (my method differs slightly from the link since I have used an updated velocity vector for the motion of the sun with respect to the Local standard of Rest) which essentially just comes from correction solar and galaxy rotation motions.
+So, is this calculated vector correct for the Milky Way or should it be (0,0,0)?
+Thanks

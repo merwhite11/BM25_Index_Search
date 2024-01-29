@@ -1,0 +1,5 @@
+What is 5 in 5log10 the value of?
+
+I know what 2.5 stand for in $2.5 \log_{10}$, but what does the number 5 in $5\log_{10}$ stand for and what application does it have.
+Thus, why is the number a five and not a four, or a three, or something else?
+2.5 stands for the logarithmic step in apparent magnitude. There must be something similar for the 5 in 5log10. Does it stand for the logarithmic step in absolute magnitude?

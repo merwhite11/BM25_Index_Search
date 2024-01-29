@@ -1,0 +1,4 @@
+Is there a relationship between stars' absolute magnitude, spectral class and relative location in a cluster?
+
+I am interested to know whether a pattern has been observed with regard to the characteristics of a star (in particular, its absolute magnitude and spectral class) and its location relative to others in the same cluster. For example, do older, cooler stars tend to occupy the centre or edges of a cluster with greater frequency than younger, hotter stars? And do stars of a certain class and magnitude tend to appear together?
+I have found no specific mention of it, but the question surely relates with theories of the formation and evolution of galaxies.

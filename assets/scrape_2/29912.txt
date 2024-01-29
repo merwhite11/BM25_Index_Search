@@ -1,0 +1,12 @@
+Determine distance from the galactic center in DS9
+
+I have a list of coordinates of black hole/neutron star systems in decimal degrees (ie. {(266.416,-29.009), (266.418,-29.009),...} from DS9 and would like to determine the distance from SgrA* in parsecs. To my knowledge, 25.8 parsecs ~ 1 degree, but the distance I calculate do not agree with values previously determined by a colleague. 
+For example, I have a list of nine very faint X-ray transients (VFXTs) and their coordinates, one of which is (266.4191667, -29.0101111). Using the distance formula, I estimated the degree distance from SgrA* - from Wikipedia, in decimal degrees, (266.4168371,-29.0078106) using the Euclidean distance formula and multiplied my value to get
+
+(25.8 pc/deg)(0.00327404 deg) = 0.0844702 pc
+
+from the center; but this value does not agree with any previously determined values of the VFXTs offsets.
+The list I received from my colleague for VFXT offsets is 
+"vfxt_d = [.7209, .8605, 1.0233, 3.1395, 3.1628, 10.4651, 14.8372, 25.6744, 29.2093] " 
+
+I would appreciate some pointers to complete this project sometime today. Thanks in advance.

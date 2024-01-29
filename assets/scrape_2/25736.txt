@@ -1,0 +1,9 @@
+Why did the distribution of asteroids discovered in 2010 have a radial modulation?
+
+This answer links to one of Scott Manley's excellent asteroid videos Asteroid Discovery - 1970-2015 - 8K resolution. The animation highlights the positions of the meteors at the moment of their discovery, and by watching one can see the technology improve and notice patterns as instruments are pointed in different directions to avoid the light from the Sun and (at least sometimes) the Moon. (there is music, adjust volume accordingly)
+There are often fan-shaped patterns showing the directions that more sensitive telescopes with modest fields of view are pointed.
+However, I noticed that only during the year 2010, roughly between asteroid numbers 500,000 and 520,000 there are radial striations at certain distances from the Sun. I don't see this happen at any other time during the video.
+Is this just a rendering artifact, or is it real? If real, what would cause the periodic radial modulation of sensitivity, and only in 2010?
+note 1: YouTube allows for playback rates between 25% and 200%, and variable video resolutions. I found 25% and 1080p optimal for my current internet connection and screen.
+note 2: For those with GIFs disabled, one image is a GIF.
+note 3: 2nd image contains several cropped screenshots highlighting the "periodic radial modulation of sensitivity" in asteroid detection during 2010, for clarification purposes.

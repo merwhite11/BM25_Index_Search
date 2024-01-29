@@ -1,0 +1,6 @@
+Determining the area of Lagrange Points
+
+I have looked into Lagrange points a decent amount and I see many images that show the L4 and L5 locations as wide sweeping areas. Jupiter's Trojan asteroids are a good example of this. As well, L3 sometimes is shown inset of the Hill Sphere [but that is another question]. I assume that each point is an infinitely small point in space at the exact mathematical position (ignoring any other gravitational affects that might be there).
+My question: is there a way to determine the "stable" region in each Lagrange location?
+Particularly in the L4 and L5 regions.
+Essentially, I would like to be able to know how much additional thrust a craft might need to stay at these locations depending on how far away they are from the center of the Lagrange point.

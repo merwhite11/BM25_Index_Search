@@ -1,0 +1,31 @@
+Are there simplified M-L, M-R, and lifetime equations for non main sequence stars?
+
+To give some context - I am trying to create a simple program that outputs the stellar properties of a star when given its initial mass and current age.
+e.g. 
+Input
+
+Initial Mass = 2e30kg
+Age = 4.6 Billion years
+
+Output
+
+Type = Main Sequence
+Class = G2V
+Radius = 7e5km
+Surface Temp = 5778K
+
+or
+Input
+
+Initial Mass = 2e30kg
+Age = 10.2 Billion years
+
+Output
+
+Type = Red Giant
+Class = K4V
+Radius = 4e7km
+Surface Temp = 4000K
+
+My issue is that the equations I have used to calculate these output properties are only applicable to the main sequence so cannot be used for other types such as red giants, super giants, or white dwarfs (e.g. The Mass-Luminosity relationship).
+I have not had any luck finding the equivalent equations after many hours of googling so I would really appreciate any help or even a google keyword I can search for to put me on track.

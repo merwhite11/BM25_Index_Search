@@ -1,0 +1,4 @@
+Why does Newtonian physics give the right radius for a black hole?
+
+When computing the distance at which the escape velocity is equal to the speed of light, the result is equal to the Schwarzschild radius. Is this just a coincidence, or is there a physical reason why the Newtonian approximation give the correct result?
+If this is not a coincidence, then why is it OK to use Newtonian physics here?

@@ -1,0 +1,4 @@
+Meaning of "variables of date" in VSOP87 files
+
+When I read the description of VSOP87, I find out that there is a file with "variables of date" and a file with "variables J2000". In Astronomical Algorithms of J. Meeus I can find out how to use the variant "Variables J2000". But I don't know, for what is "variables of date" good.
+The description just says "apply for each term the formulae (1) or (2) with T=(JD-2451545)/365250". So I have always to calculate the JD for both variants.

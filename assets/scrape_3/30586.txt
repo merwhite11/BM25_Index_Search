@@ -1,0 +1,5 @@
+Could an object, assuming possible, escape black hole by travelling above constant speed?
+
+I am always hearing that after travelling inside a given BH's event horizon, the escape velocity is greater than c, which makes it impossible to escape. 
+Suppose an ship is inside a BH. Assume it is possible to travel faster than c. If the ship applied the faster-than-light travel, would it be able to escape a black hole?
+Furthermore, it seems to me that above event horizon, the escape velocity is less than c, while inside event horizon, the escape velocity is greater than c. This leads to a further question: Does the escape velocity increase the closer you get to a BH's singularity?

@@ -1,0 +1,7 @@
+ds9 configuration issue
+
+I'm trying to use DS9 for X-ray image analysis. Before that I have to configure it for use, I need to click on option using web proxy.
+
+Beside use internal web browser checkbox there should be another checkbox with name using web proxy that I have to check in to use this software specifically.
+I using windows 11.
+I tried to configure my system for proxy control pannel>Network and Internet>Internet Options>Connections>Lan settings then checked in at use a proxy server for your LAN.

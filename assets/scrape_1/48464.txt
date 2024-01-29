@@ -1,0 +1,5 @@
+Camera adaptor won't focus
+
+I'm trying to use my DSLR camera (Canon EOS-40D) with my kids' Celestron First Scope.
+I bought a 3x Celestron 1.25" barlow, Celestron 1.25" T-adaptor, and the Canon ring. These things all fit together just fine, but when I try to take pictures, I can't get anything into focus if it is further than ~10 meters away. It seems like the T-adaptor is too long, but I don't see any alternatives.
+When I take the T-adaptor out and use a regular eyepiece with the Telescope and Barlow, it all works just fine and I can get the moon or Jupiter into focus. I just can't get the image to focus on the camera. Can anyone offer me some advice?

@@ -1,0 +1,5 @@
+Why is the number of Long Gamma Ray Burst (LGRB) event occurrences greater than the number of Short Gamma Ray Burst (SGRB) event occurrences?
+
+I collected  from NASA this histogram plotting the number of GRBs vs the duration of GRBs.
+
+Now my question is, why is the number of Long Gamma Ray Bursts (LGRBs) events occurrences greater than the number of Short Gamma Ray Bursts (SGRBs) event occurences, since on that plot the area covered by the long duration GRBs is greater than short duration GRBs?

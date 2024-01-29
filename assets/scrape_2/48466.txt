@@ -1,0 +1,10 @@
+What exactly did ALMA observe at 20 AU from the "Mega Comet Arriving From the Oort Cloud" that will pass in 2031?
+
+Gizmodo's Mega Comet Arriving From the Oort Cloud Is 85 Miles Wide
+ says:
+
+For the new study, Lellouch and his colleagues used the Atacama Large Millimeter Array (ALMA) in Chile to refine the comet’s size and reflectivity, or albedo. They did so on August 8, 2021, when Bernardinelli-Bernstein was 20 au from the Sun (1.86 billion miles). The team honed in on microwave radiation leaking out from the comet’s nucleus, while taking care to exclude radiation produced by the surrounding cloud of dust.
+These thermal emissions pointed to the 85-mile (137 km) diameter, with a lower bound of 75 miles (120 km) and an upper bound of 96 miles (154 km). The large error bar is on account of uncertainties having to do with the object’s shape and reflectivity. Future observations should refine these estimates further.
+
+Question: What exactly did ALMA observe at 20 AU from the "Mega Comet Arriving From the Oort Cloud" that will pass in 2031?
+Did ALMA actually image the comet and spatially resolve the surrounding cloud of dust to separate it from the nucleus, or was all of that done without resolving the object?

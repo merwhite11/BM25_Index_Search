@@ -1,0 +1,9 @@
+What should I consider in order to accurately calculate the moon phase?
+
+Although this question apparently addresses the topic, it does not tell appropriate factors involving the moon phase.  
+I found two distinct algorithms. this one and also this one. I am less than a newbie, less than a layman, to astronomy - but I am not to programming, but I would like to skip testing the algorithm for a couple of years before choosing either.
+After unsuccessfully finding a comparison of different algorithms, I'd like to know of either of these algorithms is less error-prone, or if there is someone less error prone-to these (I know there is no stuff like a perfect algorithm, but I'd like to have a good one), or having appropriate ways to judge an algorithm.
+So my question comes like this:
+Do these methods have a small error, enough to accurately calculate the moon phase?
+Or...
+Can you give me the most precise algorithm -or concepts / underlying theory I should know- astronomers would use as of today to calculate the moon phase?

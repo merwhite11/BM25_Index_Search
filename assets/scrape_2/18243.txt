@@ -1,0 +1,6 @@
+What is the density of stars in our region of the galaxy, up to say, 1000 light years distant?
+
+If we imagine a sphere of radius one light-year centered on Earth, it contains only one star - our Sun.
+If we imagine a sphere of radius ten light-years centered on Earth, it contains about 10 stars, according to this wikipedia page.
+If we imagine a sphere of radius one hundred light-years centered on Earth, about how many stars would it contain?
+If we imagine a sphere of radius one thousand light-years centered on Earth, about how many stars would it contain?

@@ -1,0 +1,7 @@
+What is the gravitational lensing focal distance of a white dwarf star?
+
+I tried looking this up, but I couldn't find any formula on gravitational lensing distance.   I know that our Sun's is about 550 AU, though further distances work too, as it's not a single focus due to the gravitaional field diminishing over distance from the focusing body.
+Is there a reasonably simple formula for calculating distance for a gravitational lens.   I'm specifically curious for white dwarf stars as there's one just 8 light years away and they see like a good object with a good lensing but not super tight focusing like a neutron star or black hole.   
+For example, if a telescope was built using Sirius B as a focus, how far would the telescope have to be and how powerful might it be (Maybe how powerful should be a separate question but I'll leave it here for now?    
+Would Sirius B's binary orbit be a hindrance or a benefit, allowing a greater area of focus? 
+Pure curiosity.   I don't expect we'll get there anytime soon.

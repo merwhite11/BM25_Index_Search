@@ -1,0 +1,3 @@
+What is the goal of predicting gravitational microlensing?
+
+I know that gravitational lensing is a geometric effect that occurs when light changes direction because a massive object causes space-time to warp and consequently the radiation rays change the path they are taking. And I also know that thanks to Gaia it is possible to predict gravitational microlensing events, but what would be the objective of predicting this type of event?

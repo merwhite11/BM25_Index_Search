@@ -1,0 +1,3 @@
+Alfven Radius of mainsequence stars
+
+Is there any average value for the Alfven radius of main-sequence stars? if there are no such values, then how may I calculate it??

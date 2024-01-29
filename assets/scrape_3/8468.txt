@@ -1,0 +1,5 @@
+Is there an element of chance/chaos in stellar evolution?
+
+Since stars are an ideal example of macroscopic objects, is their evolution  determined by their initial mass and metallicity?
+Are there any non-trivial random internal processes going on that may significantly affect a star's development and eventual fate? (It is quite evident that capture of another star or a brown dwarf is an external, exogenous event.)
+EDIT/clarification: I'm looking for things that may shorten/extend the lifetime of a star beyond the "norm" prescribed by nuclear physics/gravity, change its composition, surface temperature. Solar flares/quakes and other instabilities come to mind first.

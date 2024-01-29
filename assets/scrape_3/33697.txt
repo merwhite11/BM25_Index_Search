@@ -1,0 +1,7 @@
+Fastest recorded apparent motion of a comet or asteroid seen from Earth (degrees/day)?
+
+If I've done my maths correctly in this answer comet 2I/Borisov (C/2019 Q4) was seen to move about 0.2 degrees in 7 hours, which is almost 0.7 degrees per day.
+I'm assuming this is pretty rapid motion for a comet, but I'm wondering if comets (or asteroids) have been observed to move even faster than this relative to the celestial sphere.
+Yes I know the speed of apparent motion depends on incidentals like how close the comet happens to pass to the Earth. I'm just wondering if any particular comet stands out as been particularly fast, possibly even difficult to track because perhaps some software didn't allow such a large offset in tracking relative to the stars.
+Question: What is the fastest recorded apparent motion of a comet or asteroid, seen from Earth (degrees/day) relative to the celestial sphere?
+note: @JamesK's comment reminds me that I would like to exclude meteor tracks. For the purposes of this question the recorded tracks should be produced reflected light, either of the Sun or of radar illumination, and not be something burning up in our atmosphere.

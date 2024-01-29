@@ -1,0 +1,3 @@
+Contradiction between Theory of Relativity and Newton's Law of Universal Gravitation?
+
+Newton's Law of Universal Gravity states that an object will accelerate constantly as it falls. Let's assume an object falling into a black hole. According to Newton's Law, when it reaches the event horizon it must be traveling at c, because c is the escape velocity at the event horizon. Therefore, after it passes the event horizon, it must continue to accelerate past c, yet theory of relativity states that it's never gonna happen. So, in this condition, what will the object do?

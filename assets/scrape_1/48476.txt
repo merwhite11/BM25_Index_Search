@@ -1,0 +1,5 @@
+James Webb hot temperature
+
+The warmest part of JWST is still hotter (41 $^\circ$C) than me.
+What I don't understand is where it became so hot (it's been well over 50 $^\circ$C for a long time), and why the hottest point doesn't cool faster.
+Is there a napkin friendly calculation to understand how much heat escapes JWST?

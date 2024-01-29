@@ -1,0 +1,8 @@
+Sidereal time and right ascension
+
+I'm new to astronomy and have to make a star map that displays the stars above a current location. From the information I've pieced together I understand that declination is equal to the current latitude of the observer, however I am slightly confused about right ascension. My two quesions are;
+
+If I work out GMST using the equations here; http://www2.arnes.si/~gljsentvid10/sidereal.htm will the answer be the current right ascension above Greenwich or are there more steps I've missed?
+If I want to find the sidereal time of, for example, Sydney, Australia, do I need to account for daylight savings at either location or do I simply add 11 hours to GMST?
+
+Thank you for your help.

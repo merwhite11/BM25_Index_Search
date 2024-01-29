@@ -1,0 +1,12 @@
+How to determine the age of a star using asteroseismology?
+
+I keep reading that a standard way to determine the age of a star is asteroseismology, and I tried to learn more about it. I am wondering if somebody could help me to describe the method in simple terms for a primary school kid. That should be easier for experts of that field.
+I found a review article Asteroseismology of High-Mass Stars: New Insights of Stellar Interiors With Space Telescopes a good starting point for myself, but that is not yet at the layperson level I am aiming for:
+
+The study of stellar structure and evolution using stellar oscillations—asteroseismology—has undergone a revolution in the last two decades thanks to high-precision time series photometry from space telescopes. In particular, the long-term light curves provided by the MOST, CoRoT, BRITE, Kepler/K2, and TESS missions provided invaluable data sets in terms of photometric precision, duration and frequency resolution to successfully apply asteroseismology to massive stars and probe their interior physics. The observation and subsequent modeling of stellar pulsations in massive stars has revealed key missing ingredients in stellar structure and evolution models of these stars.
+
+My question in other words: What observation variables does one need from a star in order to calculate the age using asteroseismology? Following what recipe will bring me from the observations to a number for the age? What accuracies are possible?
+Related
+
+Wikipedia on Stellar Age Estimation
+Can someone calculate the age of the KOI-4878 star?

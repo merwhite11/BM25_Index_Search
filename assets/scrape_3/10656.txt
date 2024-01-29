@@ -1,0 +1,3 @@
+Is it possible to get the distance to a star in the IPHAS DR2 catalog?
+
+I'm looking at the IPHAS DR2 catalog. It has the Right Ascension and Declination but I'm not seeing any distance information (lightyears or parsecs). I'm wondering, given the columns in the dataset, if the distance can be calculated.

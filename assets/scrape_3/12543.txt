@@ -1,0 +1,6 @@
+How small a star can provide Sun-level illumination to its planets?
+
+...or how small can a solar system be, to sustain an Earth-like planet?
+Sun is not really small, and 1AU is pretty far when you look at orbital radii of exoplanets and size of their stars.
+How small a star can be, to still provide Earth's equivalent of 1.36 kW/m2 above its own Roche Limit (of Earth-sized planet)? What would the star's diameter and the orbit providing such irradiance be in such a case?
+I guess a Brown Dwarf wouldn't be enough to give that much within its Roche Limit, meaning any planet receiving enough light would be torn apart by tidal forces, and likely stepping up to smallest Main Sequence stars would step up the energy output enough that a planet at the Roche Limit would be scorched like Mercury, so its orbit would need to be considerably larger... but I don't quite know how to perform the needed calculations.

@@ -1,0 +1,3 @@
+What is the minimum strength of a magnetosphere needed to sustain life?
+
+On Earth, the magnetic field intensity is roughly between 25,000 - 65,000 nT. Assume for a second that we have a planet with double the atmospheric thickness of Earth but with a similar composition. How weak can such a planet's magnetic field be, yet still be capable of protecting the planet's atmosphere and the life that lives on it?

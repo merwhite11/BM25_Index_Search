@@ -1,0 +1,5 @@
+What is exactly the "longitude of the perigee"
+
+Some moon phase calculation algorithms (apparently derived from Duffet-Smith's book, example here) seem to use a parameter called "longitude of perigee at epoch". What exactly is this?
+Can I assume this is the same as the longitude of the periapsis? Can I just calculate it adding the longitude of the ascending node and the argument of periapsis together?
+Unfortunately, all the data that I find on this parameter is either related to Duffet-Smith's book or algorithms based on it. So, I have no idea on how this can be calculated for a specific epoch.

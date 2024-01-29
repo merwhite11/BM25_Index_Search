@@ -1,0 +1,4 @@
+Are there standard algorithms and procedures for creating unique sky maps based on latitude/longitude/date/time?
+
+I am trying to build an astronomy app that will use the user's latitude and longitude, along with the current date and time, to create a 3D view of the celestial sphere as seen based on that data.  However, the information I've found so far has been very general and less-than-practical, and has included virtually nothing about how to take date and time into account.
+Does anybody know of a more concrete source of information on sky mapping in this way?

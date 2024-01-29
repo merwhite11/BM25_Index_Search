@@ -1,0 +1,10 @@
+How is the Lithium Depletion Boundary used to determine the age of a stellar cluster?
+
+According to my understanding of Soderblom et al. (2014), lithium ages of stars are determined as follows:
+
+Determine lithium abundance from equivalent width measurement of Li$_{\mathrm{I}}$ transitions at 6708 angstroms for all stars in a coeval group.
+Plot all stars in group on color-magnitude diagram, with each star labeled as Li-rich or Li-poor.
+On plot, look for the boundary where the stellar population transitions from depleted to undepleted. That is the Lithium Depletion Boundary (LDB).
+Use the luminosity of the LDB and the age-LDB luminosity relationship to determine the age of the stars in the group.
+
+What is the age-LDB luminosity relationship, and what are its physical origins?

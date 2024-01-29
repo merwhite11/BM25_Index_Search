@@ -1,0 +1,7 @@
+Why one cannot escape from a black hole
+
+The usual explanation is that escape velocity of a black hole is above speed of light, therefore nothing can escape because nothing can move faster than light.
+This is however a fallacy, because escape velocity only pertains to bodies "without propulsion", or in other words without any force other than gravity acting on them. As an example I could theoretically escape Earth's gravity at a walking speed, just give me a staircase and I could walk all the way to the Moon. No need to accelerate to 11 km/s at any point.
+How does this affect black holes? Why cannot I have a staircase and climb out?
+I know the staircase idea must be wrong, but I would like to know why. My guess is that I am applying Newtonian mechanics to a problem which requires general relativity approach, because Newtonian mechanics approximation fails badly around such massive gravity fields?
+Anyway, according to Newtonian mechanics one can easily escape a black hole, even if we assume that speed of light cannot be exceeded.

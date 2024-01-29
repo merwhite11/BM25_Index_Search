@@ -1,0 +1,4 @@
+How can we calculate velocity of an object given the distance from an object in parsecs?
+
+If you had the distance from a celestial object, in parsecs, how would you calculate the velocity of the said object?
+Edit: I'm sorry I don't have more context, the specific questions is: "A galaxy that is 10 million parsecs away will be moving at what velocity?"

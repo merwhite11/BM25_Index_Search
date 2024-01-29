@@ -1,0 +1,3 @@
+Is rayleigh's criterion only applicable to refractive telescopes?
+
+Can we apply Rayleigh's criterion for the resolution of a primary mirror of a reflective telescope?

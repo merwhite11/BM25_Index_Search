@@ -1,0 +1,5 @@
+Are exoplanets at dwarf stars less likely to have super-rotating atmospheres or asynchronous tidal locking?
+
+Dwarf stars have terrestrial sized planets orbiting in habitable zones very close to them. These exoplanets are often said to be tidally locked to their star, like the Moon is to Earth, and that they thus have one hot hemisphere and one cold.
+But in the Solar system there's only one tidally locked planet, and that is Mercury which is asynchronously locked in a 2:3 relation. It does rotate relative to the sun anyway. And only one known planet which practically doesn't rotate at all, Venus. But Venus has a super-rotating atmosphere that distributes heat from insolation all around anyway.
+Are there reasons to believe that asynchronous tidal locking and super-rotating atmospheres are less common for planets with a dwarf stars than in a planetary systems with a Solar like star?

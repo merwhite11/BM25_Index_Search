@@ -1,0 +1,3 @@
+If we built one hundred 3m telescopes and point them to a single star what would be the final resolution?
+
+We'll mount all of them in a same location and connect them to each other (like VLT) so they will combined all the results and will produce some staggering images however my question is, would they be able to produce an image close to the resolution of a 300m optical telescope?

@@ -1,0 +1,5 @@
+Ptolemy’s understanding of the planet’s whereabouts
+
+I imagine that Ptolemy’s epicycles were performed as real circles - around equants - in two dimensions, e.g that he was able not only to give the angles to planets and the Sun as seen from the Earth, but actually able to point out the location in space in a projection in two dimensions or otherwise, of all then known planets in the system.
+He would then have had the same type of knowledge as Kepler had, at least in principle, albeit with lower accuracy.
+Is that actually the case?

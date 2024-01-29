@@ -1,0 +1,3 @@
+Stabilizers/dampers for refractor telescope
+
+I have a basic refractor telescope. It's pretty light and so it catches vibrations and they never really settle down. Can I attach some dampers on it to cushion these?

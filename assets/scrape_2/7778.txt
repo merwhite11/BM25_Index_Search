@@ -1,0 +1,6 @@
+Is it possible to break apart a neutron star?
+
+I was inspired by this question on Physics, as well as this question right here on Astronomy. Neutron stars are tightly bound together as neutron degenerate matter. They're very massive and have a strong gravitational field. Is it possible to break one apart into sizable chunks? How would you do this?
+
+The answers given are good and answer my question; I'll just clarify some one thing (based on the comments) for posterity.
+I would define "broken" as when any significant amount of mass is removed from the neutron star, as in mass shedding, as Mitch Goshorn wrote. The resulting object, however, should contain a significant amount of neutron matter - that is, it should largely retain its prior composition.

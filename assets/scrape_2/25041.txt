@@ -1,0 +1,3 @@
+How is it ensured that a parabolic shape forms while polishing a telescope mirror?
+
+I understand polishing the mirror with a successively finer abrasive can create a curvature, but how is it possible to obtain a uniform curve that forms a parabola while polishing by hand?

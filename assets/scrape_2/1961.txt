@@ -1,0 +1,11 @@
+Why do stars become red giants?
+
+Disclaimer: I’m not a career astronomer.  I don’t own a telescope.  I have no professional credentials.  But I do find this stuff fascinating, and I consume all the astronomy documentaries I can.  
+
+So, I’ve watched lots of documentaries describing stellar evolution.  I understand that below a certain threshold, stellar death does not involve supernovae.  I understand that above that threshold, supernovae may create neutron stars, magnetars, or (if the supernova qualifies as a hypernova) black holes.
+However, for a long time, I was curious about why stars below the supernova threshold—like our own Sun—become Red Giants.
+
+From documentaries, I have been instructed that (for stars below the supernova threshold), when the star’s core’s fusion cannot continue…fusion ceases, and the star begins to collapse under gravity.  
+As gravity crushes the star, I understand that the star heats up as gravity crushes it.  As a result, although the stellar core remains “dead” (no fusion occurs), a “shell” of gas around the stellar core becomes hot enough to begin fusing helium.  Since the fusion occurs as a “shell” around the stellar core, the outward-push from the fusion is what pushes the star’s outer layers further.  The result is that the star grows into a Red Giant.
+
+My question is this:  Why does fusion cease in the core?!  It seems to me that as gravity crushes the star, stellar fusion would reignite in the core itself—not in a sphere around the core.  Why does the stellar core remain “dead” while its “shell” begins fusion???

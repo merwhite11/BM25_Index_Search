@@ -1,0 +1,4 @@
+Relation between angular resolution and aperture?
+
+The angular resolution of a telescope is given by $\frac{1.22\lambda}{D}$.
+This should mean that the smaller the aperture D, the higher the angular resolution. But it is exactly the opposite - why?

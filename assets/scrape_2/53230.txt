@@ -1,0 +1,26 @@
+How (the heck) does an astronomical Celescope work? And how did it get its name?
+
+Here's an exceprt from the recent question
+
+The claim may refer to the band labeled U4 in the Celescope Catalog of Ultraviolet Stellar Observations, which refers to a filter with a spectral response centered around 1500 Angstroms and sensitive over a range from about 1200 to 1900 Angstroms. Of the four ultraviolet filters used in that catalog, U4 covered the "most extreme" ultraviolet span.
+
+I thought that "Celescope" might be a typo but checking the link, its title is
+
+Celescope catalog of ultraviolet stellar observations
+
+While the report is about 250 pages long, the first line of the abstract tells us:
+
+The catalog contains the observational results obtained by the Celescope Experiment during the first 16 months of operation of NASA's Orbiting Astronomical Observatory (OAO-2).
+
+and there is even a Wikipedia section Orbiting Astronomical Observatory 2 - Celescope: Smithsonian Astrophysical Observatory which explains that it's an array of four telescopes equipped with UV-sensitive vidicon photocathodes. The article's link to the Uvidicon's page at the Smithsonian Museum has gone dead.
+There are two questions about potentially similar UV astronomical telescopes of the same period (early 1970's) in Space Exploration SE:
+
+How did Skylab's electrographic ultraviolet camera work?
+How was the Moon's first telescope used? (Apollo 16)
+
+so possibly the technology of the imaging system itself is similar.
+Question(s): But I'd like to ask
+
+How were these four telescopes used? Were they pointed as a cluster, near the same direction as the main telescope, or in four very different directions (eg. every 90°, or tetrahedrally?) Did the observatory spin, where they scanned?
+
+How was the name "Celescope" coined exactly? Who thought it up?

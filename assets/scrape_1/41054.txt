@@ -1,0 +1,29 @@
+Why wasn't CHEOPS data taken during passage through the South Atlantic Anomaly downlinked in this case, resulting in gaps in photometry?
+
+Section 4.1.2. CHEOPS in Six transiting planets and a chain of Laplace resonances in TOI-178 says
+
+Due to the low-Earth orbit of CHEOPS, the spacecraft-target line of sight was interrupted by Earth occultations and passages through the South Atlantic Anomaly (SAA), where no data were downlinked. This resulted in gaps in the photometry on CHEOPS orbit timescales (around 100 min). For our observations of TOI-178, this resulted in light curve efficiencies of 51%, 54%, 65%, and 86%. For all four visits, we used an exposure time of 60 s.
+
+CHEOPS is in a ~700 km dawn-dusk sun-synchronous 92.8° inclination orbit aligned with local sunset/sunrise (06:00, 18:00) and an image of the South Atlantic Anomaly at 560 km in the 1990's is shown below. It is also discussed in Space SE's
+
+What is the South Atlantic Anomaly, and what can I do to protect satellites from it?
+Why would Space Cube 1.0 have so many On-Orbit Upsets over South America?
+
+We can probably assume that the enhanced energetic charged particle flux due to Earth's lower magnetic field in that region of space has something to do with it, but what exactly?
+Questions:
+
+Why wasn't CHEOPS data taken during passage through the South Atlantic Anomaly downlinked in this case, resulting in gaps in photometry? Is this out of an abundance of caution at each investigator's discretion, or is it standard, or at least recommended to do so?
+Is the problem enhanced noise in the focal plane due to charged particle tracks in the CCD itself, or the potential for digital disruptions like flipped bits in registers or solid state memories? In other words, is the problem mostly analog or digital?
+
+note: CHEOPS observations are already constrained by needing to shield its cryogenic focal plane from radiative heating from both the Sun and the Earth in low Earth orbit:
+
+For a given 48 hour observing period, what fraction of the celestial sphere is available to CHEOPS?
+Will CHEOPS use DSN or ESA ground stations, or both?
+How many flavors do dawn-dusk Sun-synchronous orbits come in?
+Wikipedia's CHEOPS Instrument System (CIS):
+
+
+he required photometric precision will be achieved using a single frame-transfer, back-illuminated CCD detector from Teledyne e2v with 1024 × 1024 pixels and a pixel pitch of 13 µm. The CCD is mounted in the focal plane of the telescope, and will be passively cooled to 233 K (−40 °C), with a thermal stability of 10 mK.
+
+
+South Atlantic Anomaly at 560 km in the 1990's from source

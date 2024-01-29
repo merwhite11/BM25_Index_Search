@@ -1,0 +1,15 @@
+What is the spectral power output of a typical galaxy?
+
+I'm looking for a function which gives the typical isotropic spectral power of light emitted by an entire galaxy on the whole electromagnetic spectrum (in watts per frequency unit), as a function of frequency:
+$$\tag{1}
+\mathrm{d}\mathcal{P} = \mathcal{Q}(\omega) \, \mathrm{d}\omega = \; ?
+$$
+The total bolometric power emitted (in watts) is then
+$$\tag{2}
+\mathcal{P}_{\text{tot}} = \int_0^{\infty} \mathcal{Q}(\omega) \, \mathrm{d}\omega.
+$$
+What would be the function $\mathcal{Q}(\omega)$, for an "ideal" (theoretical) spherical galaxy?
+As a candidate, how can we justify a function like the following one, where $\alpha$ and $\omega_0$ are two adjustable positive parameters, and $\mathcal{P}$ is a constant (the total bolometric power)?
+$$\tag{3}
+\mathcal{Q}(\omega) = \frac{\mathcal{P}}{\Gamma(\alpha + 1)} \; \Big( \, \frac{\alpha \, \omega}{\omega_0} \, \Big)^{\alpha} \; e^{-\, \alpha \, \omega / \omega_0} \; \frac{\alpha}{\omega_0}.
+$$

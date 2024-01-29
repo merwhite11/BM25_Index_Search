@@ -1,0 +1,8 @@
+Gamow Energy, Peak, Width and Window?
+
+I am trying to wrap my head around Gamow energy and it’s various terms.
+To put it simply I understand higher Gamow energy reduces the chance of penetration relating to the Coulomb barrier.
+For the width/window would it be fair to say that a higher value indicates a bigger window so therefore more chance of fusion occurring?
+To be clear i am not asking for equations or help with any specific problem sets in nuclear fusion but I hoped some more knowledgeable people than myself could guide me on some simple understanding of the process.
+I hope that makes sense?
+Thank you in advance.

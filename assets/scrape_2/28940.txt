@@ -1,0 +1,13 @@
+How did they make a video of the center of the galaxy, and what is it exactly that's flashing there?
+
+The ESA video ESOcast 173: First Successful Test of Einstein’s General Relativity Near Supermassive Black Hole includes a clip of images of stars at the center of our galaxy orbiting around SgrA*, a presumed supermassive black hole. This isn't visible light because it's obscured by dust, so it may be radio or long wave infrared, but I don't know.
+In the middle, I can see something flashing at whatever wavelength this image has been produced from.
+Question: 
+
+How are these images obtained, and
+what process is it that is believed to be causing that flashing?
+
+GIF made from video at around 02:50:
+
+
+Six annotated frames from GIF highlighting the flashing that I'm seeing.

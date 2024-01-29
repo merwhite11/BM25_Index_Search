@@ -1,0 +1,3 @@
+If 42000 Starlink satellites interfere with telescope observations from Earth would someone observing from another solar system detect them too?
+
+SpaceX's Starlink constellation could place up to 42000 satellites around the Earth. Would aliens with their own telescopes notice them? They would be about 150 km apart and could reflect light of this wavelength produced by the Sun's corona. Waves bouncing off the ionosphere could perhaps form a detectable diffraction pattern.

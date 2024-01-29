@@ -1,0 +1,17 @@
+How does the Moon look like from different latitudes of the Earth?
+
+I have heard, that on the northern hemisphere, you can estimate a direction of south if you imagine a line going through the tips of the border between illuminated and shadowed part of the Moon, and where this line crosses the horizon, that is estimated direction of the south (and vice versa from the southern hemisphere).
+
+This inspired me to think about how much information could one get simply by observing the Moon. I think you can estimate the latitude of your location. I live in the northern hemisphere and never have been anywhere else, so it's all just an imagination. That's why I need somebody to confirm or correct my conclusions.
+I think the angle of the tilt of the Moon will be different as seen from different latitudes. Specificaly near the poles you would see the line between illuminated and shadowed part of the Moon very verticaly. At the equator horizontaly. And somewhere in the middle between the equator and the pole tilted under some angle. 
+You would also see the Moon much lower on the horizon when standing near the poles and going near the zenith when standing on equator.
+I also think you can use observation of the phase changes througout a month to find out whether you are at the southern or the northern hemisphere.
+
+So this is what I imagine the Moon looks like. I have searched the internet for relevant information, but nobody seems to discuss the whole thing in detail. There is only one picture somewhat depicting the tilt of the Moon as seen from 3 different latitudes of the Earth and that's it.
+
+EDIT
+A software for simulation of the skies (Stellarium) have been recommended to me by @barrycarter and after few hours playing with it, I can clonclude, that the graphics I provided above are accurate.
+An interesting observation made while seeing the Moon during daytime. In the real life at the surface of the Earth this observation would not be possible, but the software allows it. Since the Sun is no longer positioned "under horizon", it illuminates the Moon from different angle, than depicted in the grapics.
+I made few screeenshots from view from the France (northern hemisphere) of this situation to illustrate what I mean.
+
+It is possible to see, that at nighttime, the moon looks exactly as in the graphics, but as soon as the Sun rises, the illumination direction changes.

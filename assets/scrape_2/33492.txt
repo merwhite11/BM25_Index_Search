@@ -1,0 +1,8 @@
+How do we know Nemesis is not a black hole (or neutron star)?
+
+Nemesis, the hypothetical "death star", is supposed to be a massive body that orbits the Sun at long distances and periodically sends comets from the Oort Cloud into the inner solar system. These comets impact the Earth and cause extinction events. It hasn't been found, and the theoretical case for it is not compelling anyway.
+My question here is about this curious line from Richard Muller's page at LBL.
+
+Fortunately, several all-sky surveys are underway that should find Nemesis in the next few years, if it is there, and rule out Nemesis if they don't. (Nemesis could hide if it were a black hole, but that is not very plausible.) These surveys include Pan-Starrs and the LSST.
+
+How do we know it's not plausible for Nemesis to be a black hole? For that matter, how do we know it's not a neutron star?

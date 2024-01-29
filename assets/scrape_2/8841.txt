@@ -1,0 +1,6 @@
+What uncertainty does an error bar signify in astronomy?
+
+When an astronomer talks about her/his topic and shows an X/Y-plot with error bars. What should one assume that those error bars represent?
+1 standard deviation? Or 2? Or some specific significance level like 95% or 99%?
+Is there a generally understood convention for this, or does it vary depending on topic? I've noticed that it is very rarely explicitly stated what the meaning is of the range which the error bars cover.
+And how are the cases treated, where exact observations reveal a variation in the actual population? Not "errors", but natural true certain variation. Are there other bars to illustrate that range of true values, as opposed to the variation due to observational uncertainty?

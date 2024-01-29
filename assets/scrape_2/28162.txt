@@ -1,0 +1,4 @@
+Synodic period of planets
+
+Many books explain the difference between synodic and sideral periods. The synodic period of planets are tabulated for centuries and it is defined as the time interval between two consecutive repetition of phase, phase in this case meaning the terrestrial measure of its angular position and speed relative to the Sun.
+My question is, how do astronomers measure the angular position of a planet relative to the Sun if the major observations are made during the night?

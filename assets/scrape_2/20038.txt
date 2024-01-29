@@ -1,0 +1,4 @@
+Is the centre of axial precession perfectly perpendicular to the ecliptic?
+
+It is my understanding that the Earth's axial precession is such that the direction of the North pole pointing to the celestial sphere traces out a circle with a period of roughly 26,000 years. My first question on reading this was, where is the centre of that circle? In other words, what axis is the Earth precessing about? I had assumed this would be somewhat arbitrary but have since learned that it points towards the north ecliptic pole. Am I then correct to assume that planets naturally tend to rotate in the same plane as their orbits, but the effects of precession caused by other massive bodies cause the axis of rotation to oscillate around the north ecliptic instead?
+If so, then what is going on with Uranus and it's unusually high axial tilt? Is this another phenomenon or does Uranus' rotation axis also precess about it's own ecliptic north pole? Albeit with a much larger amplitude.

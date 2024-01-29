@@ -1,0 +1,15 @@
+How to find the the diameter of the moon during a total solar eclipse?
+
+I am not able to find the diameter of the moon. I have the following question in my physics textbook:
+
+During a total solar eclipse the moon almost entirely covers the sphere of the sun. Write the relation between the distances and sizes of the sun and moon.
+
+Similar question from my textbook:
+
+It is a well known fact that during a total solar eclipse the disk of the moon almost completely covers the disk of the Sun. ,determine the approximate diameter of the moon.
+
+I have been provided the following information:
+
+Earth-Moon distance = $3.84\times10^{8}m$
+Sun-Earth distance = $1.496\times10^{11}m$
+Sun's diameter = $1.39\times10^{9}m$

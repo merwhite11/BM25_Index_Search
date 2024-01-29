@@ -1,0 +1,16 @@
+Simple mathematical models of solar systems
+
+I’m a hobbyist programmer with a profound love for procedural content generation.  I’m working on a 2D space exploration game and while it’s not meant to simulate anything real, I’d like to give it a natural feel.  I have no real knowledge in astronomy, so I figured someone here should have an answer.
+I was wondering if there are a few simple mathematical models I could use to determine some parameters for my generation algorithm.
+
+the orbital radius of the planets
+the size of the planets (is it more likely that gas giants and the likes will show up closer to the sun or further away, etc.)
+the number of planets orbiting a star
+
+Also, a few questions come to my mind too:
+
+is it a common occurence to have a star with nothing orbiting it?  Like just a single lone star sitting there in the middle of space.
+IIRC, Earth is kind of a weird thing (besides the fact that it hosts life) because our moon is way bigger than the average moons and also the only satellite of the planet.  Is there any usual correllation between the planet size/density and the size or number of moons around it?
+Is an asteroid belt something common in solar systems?
+
+Thanks a lot for your help!

@@ -1,0 +1,5 @@
+Why don't we see the gas behind the black hole?
+
+In computer simulations of what a black hole might look like and many artist renderings of black holes, they all seem to show the brightly glowing gas BEHIND the black hole due to gravitational lensing.  In all such images (with a "horizonal" accretion disk) this light appears as a thin band on (the "top" or "bottom" of) the event horizon, that appears more and more intense as it gets closer to the event horizon.
+But in the recently released image of the black hole in M87, no such lensing effect is visible.  Rather, it looks more like a hazy version of plain ol'Saturnian rings.  Why is that?
+This link (http://rantonels.github.io/starless/) contains several images, and some math on what I was expecting to see.  This animated gif of a black hole from various angles, I think, best shows what I was expecting:

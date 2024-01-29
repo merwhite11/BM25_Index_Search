@@ -1,0 +1,4 @@
+Specific impulse of cometary outgassing?
+
+Note: This question is related to Average DeltaV applied to a comet during outgassing?
+Rocket engines have a parameter called "specific impulse," which is the measurement (in seconds) of how efficient the propellant consumption is. As comets propel themselves via geysers near perihelion, I am wondering how efficient this process is in terms of specific impulse. Has this been directly measured?

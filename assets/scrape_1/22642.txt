@@ -1,0 +1,7 @@
+where to obtain ephemeris data for geodesy satellites?
+
+Is anyone aware of where one can obtain ephemeris data in Geocentric Celestial Reference Systems (GCRS) coordinates for a geodesy satellite such as LAGEOS (It doesn't really matter which mission)? Or, alternatively, simulated data in GCRS coordinates. Specifically, Cartesian position and velocity coordinates. I can't seem to find them anywhere. 
+Update: My confusion has increased. I will try and rephrase my question.
+Is it possible to obtain an ephemeris file and perform a transformation such that the ephemeris data can be expressed in GCRS coordinates? And if so, what is the process?
+Purpose of question:
+What I am interested in is ephemeris data for a satellite (doesn't really matter which mission) that is subject to classical Newtonian acceleration plus relativistic corrections as recommended by the IERS such as Schwarzschild, Lense-Thirring and Geodetic accelerations.

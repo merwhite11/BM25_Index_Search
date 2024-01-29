@@ -1,0 +1,10 @@
+By dint of some 'reverse engineering' I have produced the equation below. Does anyone recognise it? Does it come from general relativity?
+
+The equation is
+$$a = \frac{\sqrt{2} \cdot c^2}{k}$$
+where a is the acceleration due to gravity, c is the speed of light and k is the radius of curvature of the geodesic. The equation is dimensionally consistent and predicts that the more highly curved is the geodesic, the greater is the acceleration due to gravity.
+The source of the equation is as follows. If the universe is modeled as a 3-sphere expanding at the speed of light, paths of light (geodesics) always follow logarithmic (equiangular) spirals with an angle of 45 degrees. The radius of curvature of such a logarithmic spiral is 20.5 times the radius of the spiral.
+In addition there is a cosmological acceleration due to gravity in such a universe equal to
+a  =  c2/r
+(I think this equation may also hold for the event horizon of a black hole)
+Substituting for r gives the equation of the question. The 3-sphere model often seems to correctly predict features of our universe. I was wondering whether it had done so in this case, perhaps some feature of general relativity.

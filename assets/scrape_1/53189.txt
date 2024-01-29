@@ -1,0 +1,6 @@
+2D Galaxy Spectrum taken by long-slit-spectrograph
+
+I have the 2D data (shape(1125,2058) taken by a long slit spectrograph, which looks as follows:
+
+The y-axis corresponds to the distance from the center, where the center is at the most bright green part (y_index about 595). The x-axis corresponds to the wavelengths. The data shows the long-slit-spectra of an elliptical galaxy. And here is where I am getting a bit confused, I expected the red end of the spectrum (i.e. longer wavelengths) to be more bright, since ellipticals have a red continuum, due to their old stellar population. In the plot, the spectrum is clearly more bright on the left, does that mean that the wavelength goes from right to left? Of course I also extracted the wavelength array from my fits file, if I include it into the plot, it runs from left to right. But I guess since my wavelength range does not extend into the red part of the spectrum only until yellow (570 nm) this resolves the problem?
+After some changes one can see the absortpion lines as well as the rotation of the galaxy.

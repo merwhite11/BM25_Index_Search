@@ -1,0 +1,4 @@
+Calculate telescope orientation based on RA, DEC and Lat/Long
+
+I'm parsing FITS files for a project based on data from a telescope. These files include 'DEC', 'RA' and lat long values. I understand roughly the concept of celestial coordinates and I assume that these values are sufficient to calculate the direction that the telescope is facing and the angle that it's at but my trigonometry is not up to the task.
+I am using astropy for the project so any answers which reference that would be great.

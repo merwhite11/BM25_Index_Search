@@ -1,0 +1,7 @@
+Population density of stars within $13$ light-years of us
+
+This item from Fox News refers to "over 600 stars that came within 13 light-years of the sun". Because of the past-tense "came", they could have meant stars that are not now within 13 light-years of us but were at some time in the past. But that is not made explicit in the article.
+It is said that the nearest neighboring star is $4.3$ light-years from us. And $13$ light-years is about $3$ times that. So the volume within that distance of use is about $3^3=27$ times the volume within $4.3$ light-years of us. If there are $600$ stars within that larger volume, then the average number of stars within that smaller volume should be $600/27 \approx 22.$ But we don't have anywhere near $22$ stars within $4.3$ light-years of us.
+So are we in a neighborhood that is unusually sparsely populated compared with what is typical in that larger volume?
+Or is this about stars formerly near us that aren't now?
+Or just confused journalists?

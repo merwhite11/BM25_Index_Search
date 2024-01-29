@@ -1,0 +1,9 @@
+How can there be 1,000 stellar ancestors before our Sun?
+
+I've heard from a few sources* recently that the Sun is a 1,000th generation star, meaning it had a thousand stars that came before it based on its heavy-element content.
+I understand that earlier stars' supernovae created the heavier elements and those were incorporated into the Sun when it formed and we can calculate the generation based on that. 
+My question is based on the age of the universe and the age of the Sun and the average age of stars in the galaxy.
+Basically, the universe is ~13.7 billion years old, the sun is ~4.6 billion years old (and has ~5 billion years of life left), which means it was formed when the universe was ~9.1 billion years old.
+For 1,000 stars to live in that span of time, those stars would have to have an average lifespan of ~9 million years (not including time between stars). This equates to each of those thousand stars having an average mass of ~100-150 solar masses so their lives would be sufficiently short to not go over that ~9 million-year lifetime.
+So basically, there were 1,000 stars that lived and died before our Sun, all of which were huge monsters. This just all seems so improbable. How can this be?
+* TV shows, I don't remember which ones

@@ -1,0 +1,5 @@
+How does one actually fold a light curve?
+
+I'm studying the variable stars (periodic variables with brightness changes repeating over time), and to examine the shape of the light curve it is useful to fold the data points at this period and study the folded light curve.
+I couldn't understand how one actually folds a light curve. What is the process to do it?
+Is it possible to give a simple explanation of the process, and give an example to clarify?

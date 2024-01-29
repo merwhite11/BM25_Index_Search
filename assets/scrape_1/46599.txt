@@ -1,0 +1,9 @@
+What image analysis approaches/algorithms are used to detect near-Earth objects?
+
+Disclaimer: I am not an astronomer or astrophysicist. I'm a computer scientist.
+Astronomers collect vast amounts of image data through astronmical surveys.
+The data is then analysed for signs of asteroids and comets.
+
+What are the most common algorithms used in this process?
+What characteristics does software 'look' for?
+Are there any relevant open-source tools?

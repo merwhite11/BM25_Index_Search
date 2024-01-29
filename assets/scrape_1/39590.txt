@@ -1,0 +1,7 @@
+Where can I look up assigned origins of gamma ray bursts events? (GRBs)
+
+Gamma ray burst GRB170817A is believed to have originated from the merger of Neutron Star(NS)-Neutron Star(NS). From this article on the associated gravitational wave detection GW170817:
+
+The gravitational wave signal, designated GW 170817, had a duration of approximately 100 seconds, and shows the characteristics in intensity and frequency expected of the inspiral of two neutron stars. Analysis of the slight variation in arrival time of the GW at the three detector locations (two LIGO and one Virgo) yielded an approximate angular direction to the source. Independently, a short (~2 seconds' duration) gamma-ray burst, designated GRB 170817A, was detected by the Fermi and INTEGRAL spacecraft beginning 1.7 seconds after the GW merger signal. These detectors have very limited directional sensitivity, but indicated a large area of the sky which overlapped the gravitational wave position. It has been a long-standing hypothesis that short gamma-ray bursts are caused by neutron star mergers.
+
+Are there lists or compilations or reviews of all reported gamma-ray bursts (GRBs) together with an assigned or hypothesized event or source that produced it?

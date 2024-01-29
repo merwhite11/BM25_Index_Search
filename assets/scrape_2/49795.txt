@@ -1,0 +1,18 @@
+Conversion from au to mas
+
+I am trying to verify whether the third column is correct. The second column is radius of orbit with period corresponding to Gaia DR2 observing window duration.
+d_pc         OrbG2  Orb_mas
+99.32459277  1.905  0.356777803
+431.7789292  2.689  6.227724
+7751.937984  5.74   0.74046
+35.25471532  1.583  0.835263191
+346.2603878  2.631  7.598328
+
+What is wrong with this conversion, please?
+
+I obtained this instead of the third column:
+0      19.179401
+1       6.227679
+2       0.740455
+3      44.901469
+4       7.598273

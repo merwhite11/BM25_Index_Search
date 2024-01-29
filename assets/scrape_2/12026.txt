@@ -1,0 +1,7 @@
+Low precision GMST formula clarification
+
+According to the website http://aa.usno.navy.mil/faq/docs/GAST.php, a low-precision way of calculating the GMST is via the following formula:
+GMST = 18.697374558 + 24.06570982441908 D 
+The website doesn't actually state where the numbers come from. Another website tries to do this:
+"To compute of sidereal time with low precision use of the low precision formula: GMST = 18.697374558 + 24.06570982441908 D, where 18.697… is sidereal time of the reference time 2000-01-01 at 0 UT, 24.0657… is a ratio of synodic and sidereal periods of Earth and D is days (and its fractions) since the reference time."
+but I don't understand what this 'ratio of synodic and sidereal periods' means. I know what the sidereal and synodic days are and their values, but how do we use those to end up with the number 24.0657...? If anyone could help me out that'd be much appreciated!

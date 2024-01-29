@@ -1,0 +1,11 @@
+How is the diameter of a gas giant calculated?
+
+As we know atmospheres of celestial bodies don't just stop at a given distance. They gradually become less dense as you move away from the center. 
+I understand that the diameter of stars is typically given to be that of their photosphere (i.e. the boundary where a laser shined from behind the star toward an observer would just barely be visable). 
+I assumed that a similar method using optical depth also applied to gas giants. However wikipedia currently has the somewhat confusing explanation:
+
+As Jupiter has no surface, the base of its atmosphere is usually
+  considered to be the point at which atmospheric pressure is equal to 1
+  MPa (10 bar), or ten times surface pressure on Earth.
+
+Which isn't quite the same thing as diameter, but it got me thinking: When wikipedia or a textbook or whatever lists a diameter for a gas giant how is that figure arrived at?

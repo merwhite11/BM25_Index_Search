@@ -1,0 +1,3 @@
+safeguards against comets?
+
+I read one of the related questions here, but what i'm curious to know is how do we deflect imminent collision courses of comets, if we detect them at a later stage? I read somewhere else that there are systems which use powerful lasers (radiation pressure) to deflect them, but honestly, i don't understand why something like radiation pressure will work on something travelling at about 40km/s through space, and still manage to cause a large enough deflection. Are there other methods ?

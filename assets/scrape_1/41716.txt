@@ -1,0 +1,26 @@
+Can circumstances exist such that as seen from some solar system all stars are obscured?
+
+I am mostly active on Physics Stack Exchange but a question occurred to me that I think is best submitted here.
+This question is about a thought experiment: whether the circumstances of the intended thought experiment are physically possible. For this thought experiment it's not necessary for the circumstances to be physically possible, but it would be nice bonus.
+
+In the history of astronomy the fact that the fixed stars were available as reference of celestial motion was hugely helpful.
+For example: my understanding is that Kepler's approach to finding the shape of the orbit of Mars was as follows. From astronomical records extending over a long time the period of the orbit of Mars can be reconstructed. Kepler would take pairs of Mars position observations, spaced one Mars year apart. These pairs of Mars positions were from two different Earth positions, allowing Kepler to triangulate.
+The intended thought experiment:
+A solar system in a region of its galaxy with such a density of interstellar gas that all the stars are obscured. Without the fixed stars as reference of celestial motion the Kepler problem would be much harder.
+(The purpose of this thought experiment is to argue that while it would have been harder to obtain the inverse square law of gravity, it would not be impossible. This can then serve as demonstration as to what theory of motion is.)
+
+Some of my guesses:
+My understanding is that all parts of the galaxy can be observed, it's just that for some parts the observed luminosity of the stars is diminished because the light coming from those stars traveled through regions with interstellar gas. That would make it very unlikely that interstellar gas can be dense enough to obscure absolutely all stars.
+That brings me to guessing that this thought experiment would require rather contrived circumstances. For instance, maybe it would require a star to be out in intergalactic space. That would mean that star has had the misfortune, in its distant past, of being ejected from its originating galaxy.
+
+
+
+[Later edit]
+Assuming the planet is rotating and that the axis has an inclination with respect to the orbital plane:
+Once the astronomers make the transition to a heliocentric model:
+The astromers have the measurement of duration of the solar day, and from the fact that the duration of the year is constant over time they can, it seems to me, infer the ratio of the solar day to the intrinsic day.
+The astronomers can opt to use the line of intersection between the plane of the equator and the planet's orbital plane as a reference of zero rotation rate. (Of course, a rotating planet that has an inclination will undergo gyroscopic precession. However, the precession of the equinoxes is slow enough that on the assumption that the reference is stationary highly fertile science will be possible.)
+It seems to me that once such a reference system is in place a Kepler has the opportunity to find Kepler's laws of planetary motion.
+The purpose of the thought experiment is to demonstrate this: the very motion of the planets of a solar system is sufficient to establish a reference of motion. I submit that the conservation of the angular momentum of a rotating planet is sufficient to provide a solar system wide reference of orientation. Over time astronomers can iterate to an ever more accurate reference of motion.
+Summerizing:
+Motion itself is sufficient to provide reference of motion.

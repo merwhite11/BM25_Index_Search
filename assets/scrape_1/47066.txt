@@ -1,0 +1,7 @@
+Sudden spikes on the light curve of a Quasar from K2 mission
+
+I obtained the optical light curve of 3C 273 QSO from the MAST repository off the K2 mission and plotted it by making the FITS into a CSV file through Pandas dataframe and plotting the obtained columns using lightkurve package in Python.
+The SAP_FLUX and the PDCSAP_FLUX vs the Time gives a gradual steep slope but when the steepness is over and the slope is climbing up, the steepness is very dramatic, in the sense, that it's very precipitous and not gradual like how it should be.
+I am attaching the image of a part of the light curve. My teacher was quick to spot that but I totally missed it while including it in my project. Thanks.
+EDIT: Since my question is not clear as pointed out in the comments (apologies for it!), I will reformulate it.
+My question is that why are the curves rising so precipitously (as seen in the image) and when they are coming down from the peak the change is gradual and slow. Shouldn't both of them be rising and falling gradually?

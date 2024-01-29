@@ -1,0 +1,5 @@
+How long does an over contact binary star system last?
+
+I read recently about VFTS 352, an overcontact binary star system where both stars have roughly equal mass. All of the reports I've read (in mass-media type publications) have said that the system has one of two fates: either the two stars will merge, or they'll supernova. But when will this happen?
+The wikipedia page for contact binaries says that they have a lifespan of millions to billions of years, but doesn't say if that's different for overcontact binaries. It also says that they're often confused with common envelopes, which have a lifespan of months to years, and I'm not sure where in that spectrum an overcontact lies (or really what the distinction is, since the page for contact binaries says they share an envelope, which sounds the definition of a common envelope). I'm also not sure whether the fact that both stars have roughly equal mass affects the lifespan.
+The mass-media articles I've read have implied that the merger-or-supernova is happening soon, but I don't know if this is on a human scale (months) or galactic scale (millions of years).

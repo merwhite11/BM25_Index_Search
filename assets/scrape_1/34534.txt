@@ -1,0 +1,6 @@
+What is the current angle of motion of the sun with respect to the Galactic Plane?
+
+I understand that the solar system oscillates in its motion around the Milky Way. However at any given time, there must be a specific angle between the current direction of the solar apex and the galactic plane. This is the angle - in degrees - I am looking for.
+To be specific. I'm not looking for the angle of the solar system with respect to the galactic plane, nor the angle between the celestial pole and the galactic plane, nor the angle between the plane of the ecliptic and the galactic plane. I am only looking for the current angle of motion between the solar apex and the galactic plane.
+Also, is there more clear terminology for this? I've spent a few hours searching and it seems that I can't find an answer to what I would imagine is a relatively obvious question. Am I searching with the wrong terminology?
+Thanks.

@@ -1,0 +1,13 @@
+Solving Friedmann equation for specific conditions
+
+In Friedman equation:
+
+the case k < 0, with a Universe containing only matter (pressure = 0)
+  so that $\rho = \rho_0/ a^3$ . What is the solution a(t) in a
+  situation where the final term of the Friedmann equation dominates
+  over the density term? How does the density of matter vary with time?
+
+The question from an introduction to modern cosmology from Andrew Liddle.
+Friedmann Equation:
+$$(\dot {a}/a)^2 = 8\pi G \rho / 3 - k/a^2$$ 
+My problem is I don't even understand the question? what does the first question mean? the answer of the book is $a(t) \alpha t$. I am not even sure that it is the only answer. Can anyone say what the question wants and is the answer of the book, the only answer?

@@ -1,0 +1,19 @@
+Calculating the angular momentum of stars from Gaia archive (Gaia DR3)
+
+I am trying to calculate the angular momentum for a subset of stars from Gaia DR3. I have scanned the available fields in their database and could only find out the below fields that specifies the position of the stars,
+
+ra, dec: In barycentric coordinates
+l, b: Galactic longitude and latitude respectively
+ecl_lon, ecl_lat: Ecliptic longitude and latitude respectively
+
+Similarly, we have the following fields that specifies velocities of the stars,
+
+pmra, pmdec: Proper motions along ra and dec respectively.
+radial_velocity
+
+From elementary mechanics, angular momentum,
+$L_{ang} = mv\times r$ and if I am interested in the specific angular momentum, I divide the angular momentum by $m$ giving me a the expression $L_{ang} = v\times r$ where $r$ is the distance of the object (stars in my case) from the center of mass (LSR and galactic center in my case).
+I must calculate the angular momentum in both the LSR frame (Local Standard of Rest frame) and Galactocentric coordinates. I have the below questions,
+
+Any idea how do I map the available data in Gaia to the expressions from mechanics?
+Assume that my reasoning is not right, is there an alternative way to calculate the angular momentum of the stars from the available stars?

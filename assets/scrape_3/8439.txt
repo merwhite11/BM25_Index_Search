@@ -1,0 +1,5 @@
+Question: calculating orbit using another orbit
+
+
+A satellite which is moving around a planet of mass $M$ in a circular orbit of radius $R$ is given a sudden thrust into the center of the planet, so that it deviates an angle $a$.
+Find the latus-rectum $l$ and the eccentricity $e$ of the new orbit.

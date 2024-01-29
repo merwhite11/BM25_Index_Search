@@ -1,0 +1,5 @@
+Why are wavelengths shorter than visible light neglected by new telescopes?
+
+The diagram below, which I stole from this post by @HDE226868, shows that angular resolution as a function of wavelength suddenly drops by three orders of magnitudes from visible to UV-light. The resolution of wavelengths shorter than what the Very Large Telescope Interferometer or the European Extremely Large Telescope detect, in the near UV, suddenly cuts off to a factor of a thousand.
+This is obviously because of the properties of Earth's atmosphere. But major space telescopes like the JWST and WFIRST will fill in the far infrared gap. Why aren't there any as ambitious space telescopes planned for UV and shorter wavelengths? (Or is the sudden cut off in that diagram misleading?)
+Is it because it is more difficult, even from in-space observatories, or is it because the angular resolution of UV and shorter wavelengths are of lesser scientific value?

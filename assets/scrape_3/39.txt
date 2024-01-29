@@ -1,0 +1,6 @@
+How to calculate the movement of the object passing near other object in space?
+
+Assume object A is moving through the space and is passing near the other object (B). Assume the gravitational influence of other objects can be ignored. How to find the equation describing the movement of the object B? 
+There are 2 cases, object A is moving straightforward or it's moving on orbit (around other object). 
+I think the problem is quite elementary, but I couldn't find anything that could help solve that problem using the physics on the level of basic university course (I've studied computer science, so I've got only 1 semester of physics, and basic mathematical knowledge - integrals, algebra etc.). 
+I know the problem can be solved numerically, but I'm interested in finding the equation describing the movement.

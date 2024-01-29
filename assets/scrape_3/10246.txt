@@ -1,0 +1,6 @@
+Is there a simple, analytical formula for the lunar phase brightness curve?
+
+Brightness of the lunar disk varies as a function of phase angle. This phenomenon is very well established, as is the increase in brightness at low phase angles.
+Is there a simple analytical formula that describes this function? It looks like brightness could be modeled as an exponential as a function of phase angle, modulo the opposition surge.
+Thanks.
+EDIT: I realize that these effects depend on the wavelength of the reflected light. I'm looking for an average curve, though.

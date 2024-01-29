@@ -1,0 +1,5 @@
+How does the entropy diffusivity changes with radius in the Sun?
+
+Could you please explain - How does the entropy diffusivity changes with radius in the Sun?
+As far I know, In the convection zone, the entropy diffusivity increases as the temperature and density decrease further.
+But I am not able to find a graph that shows relationship between entropy diffusivity and radius of the sun. Could you please let me know if you are aware of any such graph?

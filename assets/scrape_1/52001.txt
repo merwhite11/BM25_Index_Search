@@ -1,0 +1,5 @@
+Is "monochromatic source" different than "monochromator" in astronomical instrumentation?
+
+I got a comment to replace "monochromator" by "monochromatic source" for a paper on an astronomical instrument. The latter seems less specific for no reason.
+Is there an agreement to use one term rather than the other in the context of astronomy?
+(I have found no evidence for this but I may have missed something significant)

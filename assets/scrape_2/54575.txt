@@ -1,0 +1,10 @@
+Is the object mass distribution different for galaxies of different diameter?
+
+Let's say we compare two elliptic/spiral galaxies with the bigger having a diameter 100 times the smaller.
+Now we count every separated object inside them and classify them into mass categories e.g. $10^i$kg with $i = -40..50$.
+(Finally we divided the number of each category by the total number of counted objects)
+Q: Will the proportion of each mass category (in mean) be different for different galaxy diameter sizes?
+
+E.g. have galaxies with a large diameter a higher proportion of more massive objects?
+Or for example let's pick a random star inside the small and large galaxy. How likely will it be a red dwarf or a blue giant? Is the Probability different for a small/large galaxy?
+Big galaxies might have bigger black holes in their center. Would it change if we just count the objects which are at least e.g. 10% of the diameter away from the center?

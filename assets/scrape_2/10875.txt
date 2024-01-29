@@ -1,0 +1,7 @@
+Focusing light through fiber optic cable to extend telescope viewer
+
+I want to build a system to view my telescope without being uncomfortable. Currently I have to stand up and bend over to view the eye piece.
+I want to build a system that allows me to 'pipe' the output of the view piece in a non-digital format along a flexible fiber optic cable to my eye and possible split the view into two for a sort of VR headset. 
+I know the cable will transfer the light, but will it be just burly light or break down too much (one meter or less) or will I be able to focus it into view-able picture? 
+I could just try it, but the cable itself is really expensive to get, and I want to know if this is worth trying before I spend. 
+I'm thinking of using this 14 mm 'solid core' cable

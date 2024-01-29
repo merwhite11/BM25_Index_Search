@@ -1,0 +1,8 @@
+What can be learned from low frequency radio astronomy available outside of Earth's ionosphere?
+
+As discussions and answers to How large does refraction become in radioastronomy? point out, it is difficult to do radio astronomy much below 30 MHz (or 10 MHz depending on how aggressive you are in correcting for ionospheric effects like wavefront distortion and scintillation) from Earth's surface due to our ionosphere, which has made AM and short-wave radio listeners and ham radio operators happy for almost a century by being so reflective.
+But that doesn't necessarily mean that there's no interesting radio astronomy way below 30 MHz. 
+Question(s):
+
+What can be learned from low frequency radio astronomy available outside of Earth's ionosphere?
+Are there currently any proposed or planned space-based low-frequency radio-telescope efforts?

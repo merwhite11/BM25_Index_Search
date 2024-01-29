@@ -1,0 +1,7 @@
+The moon rises at a different time each day, but that difference changes. Why?
+
+Let's say the moon rose at 5pm yesterday and 5:30pm today. The difference is 30 minutes – but that difference changes from day to day and can be  anywhere between twenty-some to seventy-some minutes. It is also usually a different value than the difference in moonset time.
+I plotted the progressions of the change in both over the course of 2022 (according to rise and set times given by timeanddate.com), and a pattern emerged:
+
+(To be clear, this is a graph of the changes in rise and set time, not the actual rises and set times themselves.)
+I'm curious as to what causes this pattern, why they mirror each other, and what causes the lull in the slope of each line. I thought it could be related to the moon's phase, but after adding the data for illumination, it seemed that there was no correlation.

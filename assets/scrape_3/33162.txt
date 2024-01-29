@@ -1,0 +1,11 @@
+Are there any to-scale diagrams of the TRAPPIST-1 system?
+
+Recommended to cross-post from SpaceEx: https://space.stackexchange.com/questions/38397/are-there-any-to-scale-diagrams-of-the-trappist-1-system
+
+I was recently told that the planets in TRAPPIST-1 are close enough together that you can see them from each other, as visible, discernible planets "hanging in the sky". i.e. much like the moon.
+This assertion is compatible with this question: How many things are wrong in this "artist view" of the TRAPPIST-1 system?
+
+I'm trying to understand the implications of the claim, and started by trying to find a to-scale astronomic diagram of some, or all, of the TRAPPIST-1 system, showing the star, the planets, their sizes and orbits, to scale.
+Obviously such a diagram of the (Sol-Terra) Solar System would be completely useless - a few pixels in the centre, surrounded by a 8 other single-pixel-dots around the diagram.
+But if the claim is true for TRAPPIST-1, then I would expect such a diagram to be actually "usable".
+But I couldn't find such a diagram. Does one exist?

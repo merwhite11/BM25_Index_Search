@@ -1,0 +1,4 @@
+How can I find the radius of a exoplanet using doppler spectroscopy
+
+I have the stellar and planet mass, planet velocity, radial velocity of star, stellar semimajor axis.
+How should I go about to find the radius of this exoplanet?

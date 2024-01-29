@@ -1,0 +1,11 @@
+Angles of sunrise and sunset viewed from a surface anyway oriented
+
+I need to understand how to calculate the angles of the sunrise and sunset viewed from a surface oriented against the azimuth and  the horizon plane, and for any day of the year.
+For example, I have a surface at this position 40° 43' 30.2"N 73° 59' 37.5"W, oriented towards north with an azimuth angle of 174°(O° is exactly the geometric south), and with a tilt angle of 90°,so the surface is vertical, or perpendicular to the horizon. 
+How could I calculate when it get the sun and when it doesn't during the day? 
+What are these angles against the azimuth axis?
+In my example, sun should hit the surface when it rises, then it disappears, it reappears at the end of the day before of its set, mainly in the summer season. So in this case, I need to know four angles: -ws,w1,w2,ws, where -ws, and ws are the regular angle of rise and set, but how to calculate when sun disappears (w1), and appears again to the surface (w2)? 
+Do you know the complete formulas to these calculations? 
+Do you know any websites, or any web app to do exactly these type of calculations? 
+What about the regular case when the same surface in the same place and position but with its normal towards south? 
+I'm not very interested in the theory but in the practical calculation. I tried the formulas on this website (http://www.itacanet.org/the-sun-as-a-source-of-energy/part-3-calculating-solar-angles/) but it is not clear what happens if Azs=0°, that is when the surface is towards north. In the calculation of a and b for the formula 3.7 I get at the denominator sin(0)=0, times tan(beta=90°)=inf, if the surface is vertical!! How could I solve this problem?

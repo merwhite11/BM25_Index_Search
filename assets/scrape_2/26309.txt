@@ -1,0 +1,4 @@
+H-R diagram, Double stars
+
+Can someone help me? I have a case, like, we have H-R diagram and two stars on it. One of them is a blue star on main sequence, another is a red giant. They have equal luminosity. If they are in a double star system and seen from Earh as one star, then where on the diagram should I place this star? What luminosity amd temperature will it have?
+Maybe I should sum up their luminosity and then, using Stefan Boltzmann law, calculate the temperature? But does the law work for red giants? And can I sum the luminosity?

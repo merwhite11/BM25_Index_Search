@@ -1,0 +1,8 @@
+How did Ptolemy prove in the following excerpt that the Earth is not cylindrical?
+
+I have trouble interpreting the following excerpt: 
+
+“Nor could it [the Earth] be cylindrical, with the curved surface in the east-west direction, and the flat sides towards the poles of the universe, which some might suppose more plausible. This is clear from the following: for those living on the curved surface none of the stars would be ever-visible, but either all stars would rise and set for all observers, or the same stars, for an equal [celestial] distance from each of the poles, would always be invisible for all observers.” 
+
+I understand that if the Sun rotated around the curved side of the cylinder, no one living on the curved side would see any ever-visible stars because their view of the celestial views is blocked. However Ptolemy states that “all stars would rise and set for all observers,” which I believe would be wrong because the two poles and the curved surface would be oriented in different directions on a cylinder. He also states that the other possibility is that “the same stars, for an equal [celestial] distance from each of the poles, would always be invisible for all observers.” However, I don’t understand how his explanation in the excerpt directly above would prove that “the same stars… would always be invisible for all observers.”
+Here’s the link to my source (page 41, chapter 5:) https://isidore.co/calibre/get/pdf/Ptolemy%26%2339%3Bs%20Almagest%20-%20Ptolemy%2C%20Claudius%20%26amp%3B%20Toomer%2C%20G.%20J__5114.pdf

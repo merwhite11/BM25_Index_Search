@@ -1,0 +1,3 @@
+Small orbital body detection
+
+What technology is required to detect a coconut-sized sphere in Earth orbit, at average altitude of communications satellites?

@@ -1,0 +1,8 @@
+How to build functional sunspot model on the ground with high-power plasma burners in the strong magnetic field as conference paper?
+
+I need to build functional sunspot model on the ground with high-power plasma burners in the strong magnetic field as conference paper.
+What I get is light-weight  plasma, as exactly plasma is.
+But I need to generate dense structure fluid, as depicted in the following images:
+
+
+--

@@ -1,0 +1,5 @@
+Plotting Histograms of stellar mass and gas mass given a halo mass
+
+I am an undergrad doing a first course in astronomy. I am working on a small project. In it I have been assigned a halo mass (1.444e12 $M_{sun}$). I want to plot histograms of possible stellar masses and gas masses for 100 galaxies having mass close to the given halo mass.
+Now I have studied the stellar-halo mass relation and figured out that the possible stellar mass for given halo mass can range between 1e10 to 1e11 $M_{sun}$. But I don't know the exact distribution of stellar masses in this range.
+It would be helpful if anyone could give me a headstart on how I could do this?

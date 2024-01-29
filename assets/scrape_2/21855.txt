@@ -1,0 +1,13 @@
+Half of the Milky Way's baryonic mass is from other galaxies - when did this happen?
+
+The recent Phys.org article Milky Way's origins are not what they seem explains the recent MNRAS article Anglés-Alcázar et al. 2017; The cosmic baryon cycle and galaxy mass assembly in the FIRE simulations DOI:(https://doi.org/10.1093/mnras/stx1517), also in ArXiv.
+
+Using supercomputer simulations, the research team found a major and unexpected new mode for how galaxies, including our own Milky Way, acquired their matter: intergalactic transfer. The simulations show that supernova explosions eject copious amounts of gas from galaxies, which causes atoms to be transported from one galaxy to another via powerful galactic winds. Intergalactic transfer is a newly identified phenomenon, which simulations indicate will be critical for understanding how galaxies evolve.
+
+This is quite a sizable paper about quite a sizable simulation, and I'm having difficulty even getting started to read it.
+Question I wanted to know, for a Milky Way-like galaxy, was most of the influx from other galaxies early on, or is this something that is predicted to happen somewhat steadily throughout the galaxy's lifetime?
+Galaxy m12i in the simulation represents a Milky Way-mass galaxy, and so I show a screen shot of one of the figures for that galaxy below. Already I am stuck because I don't understand what $z$ represents. It seems to be related to time, rather than red-shift and $z=0$ has a special meaning, but I don't know if that's the present, or the beginning of the simulation.
+
+below: Selected parts of Figure 3 from here. The selected column is data for galaxy m12i, which is representative of a Milky Way-mass galaxy in the simulation.
+
+Figure 3. Top panels: contribution of different processes to the evolution of galaxies m11 (left), m12i (middle), and m13 (right) from early times down to z = 0. Total stellar mass (top), ISM gas mass (middle), and gas accretion rate onto the galaxy (bottom) are indicated by the thick gray lines for each galaxy. Lines of different colors show the contributions from fresh accretion (purple), NEP wind recycling (blue), intergalactic transfer of gas (green), and galaxy mergers (ISM gas: orange; stars: red). All quantities represent average values over a timescale of ∼ 200 Myr. Bottom panels: fraction of stellar mass, ISM gas mass, and gas accretion rate contributed by each process as a function of redshift. Fractions are represented in terms of ranges, so that the contribution of each component at any redshift is given by the vertical extent of the corresponding color at that redshift.

@@ -1,0 +1,8 @@
+Longest line of sight on Mars
+
+It is said that the slope of Olympus Mons is so gradual that the peak cannot be seen from the plain; it is hidden by the planet's curvature.  That provokes questions:
+
+How steep is the steepest of the great volcanic peaks?
+What is the longest line of sight between two points on the surface of Mars? (Perhaps it's between rims of Valles Marineris?)
+
+I do not assume that the latter is known.

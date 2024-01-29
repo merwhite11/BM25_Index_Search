@@ -1,0 +1,18 @@
+Question: By design, JWST cannot observe in the anti-sun direction. Is this due to Gegenschein backscatter?
+
+This question has been reposted from Space Exploration
+Gegenschein is a faint bright spot in the zodiacal light, centered at the antisolar point.
+
+By ESO/Y. Beletsky - ESO, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=22975456
+It is analogous to Heiligenschein, the bright spot on the ground, at the antisolar point, commonly seen from aircraft.
+Gegenschein is backscattered sunlight from interplanetary dust. There is a concentration of these particles centered at the Earth-Sun L2 point. https://en.wikipedia.org/wiki/Gegenschein
+The JWSTs field of regard excludes 45* around the antisolar point. It cannot aim at targets in the Gegenschein field.
+
+https://jwst-docs.stsci.edu/jwst-observatory-characteristics/jwst-observatory-coordinate-system-and-field-of-regard
+Answers to the question "Why the JWST blind spot?" https://space.stackexchange.com/questions/56076/why-does-jwst-have-such-a-big-blind-spot explained JWSRs blind spot in terms of technical challenges.
+Yet renderings of the proposed VUVOIR telescope show full articulation between telescope and sunshield. Presumably a steerable sunshield is achievable if desired.
+
+https://spaceflightnow.com/2017/07/21/study-teams-comb-through-nasas-wish-list-for-a-new-telescope
+Gegenschein backscatter could potentially decrease the quality of JWST observation in the anti-sun direction. Six months later, the Gegenschein would have moved 90* across the celestial sphere, allowing unobstructed observation.
+Thus, resources devoted to increasing JWST field of view to include the anti-sun direction, would only provide lower quality observation than what is already available. It would be wasted money and effort. However, this argument depends on the relative intensity of backscattered IR vs target IR, something I could find no information on.
+Question: By design, JWST cannot observe in the anti-sun direction. Is this due to Gegenschein backscatter?

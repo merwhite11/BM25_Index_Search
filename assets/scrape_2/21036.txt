@@ -1,0 +1,4 @@
+Orbital Period of an Asteroid
+
+What's the orbital period of an asteroid which has synodic period of 429 days?
+I know that the formula of orbital period for inner planets is $$P_{orb} = \frac{P_{syn}}{P_{syn} + 1}$$ and for outer planets is $$P_{orb} = \frac{P_{syn}}{P_{syn} - 1}$$ where $P_{syn}$ is the synodic period of the planet measured in years. However, I don't know whether the asteroid should be counted as an inner planet or outer planet.

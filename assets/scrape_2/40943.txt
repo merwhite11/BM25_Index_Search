@@ -1,0 +1,16 @@
+About coordinate systems and angle differences
+
+If I want to measure the beam-width of a radio telescope sweeping through a ~ puntual object (the Sun) with a ~ constant flux output when measured:
+
+The value measured sweeping in one frame of reference (and coordinate system), will be the same if it's measured using another frame, right?
+
+If I point to the Sun and sweep in alt-az, I suspect that measurement will be at least roughly similar to a measurement w.r.t e.g., a star on the plane of the Milky Way (using l,b). This because the same principle should be applied for a radio (or any other signal) emitter: a measured angle difference $\Delta \theta$ should be the same in another frame.
+
+What puzzles me is to think that an arbitrary frame could scale any measured quantity but I'm not sure at all.
+
+EDIT
+This could be seen in stellarium as:
+
+
+
+I apologize if this is a weird, vague or naive question.

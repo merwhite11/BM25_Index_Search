@@ -1,0 +1,6 @@
+What is the difference between Terrestrial Time (TT) and International Atomic Time (TAI)?
+
+The equation which relates Terrestrial [Dynamical] Time (TT, or TDT) and International Atomic Time (TAI) is the following, according to the U.S. Naval Observatory:
+$TDT = TAI + 32.184$
+As I have understood, both TT and TAI are continuous time systems (differently from UTC, which has leap-second gaps) and described by the same unit (the SI second), but counted from a different epoch (the origin T0 of one is 32.184 seconds after the other).
+It appears that both time systems are essentially the same. So what is the actual difference between them? If the difference between them is the nature of how they are computed (e.g., TT is a theoretical timescale; and TAI is a statistical timescale based on several clocks), why the 32.184 shift?

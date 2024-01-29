@@ -1,0 +1,7 @@
+Why does the angular size of the Moon change?
+
+I know that the orbit of the moon is elliptical.
+But I cannot understand this graph:
+
+The number of 'bumps' in the graph is around 13~14 in a year, so I concluded that the each 'bump' indicates one lunar month.
+But why aren't these bumps symmetrical? Since the moon revolves around the Earth once in one lunar month, shouldn't they be symmetrical?

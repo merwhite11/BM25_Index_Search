@@ -1,0 +1,7 @@
+What is the physical reason of the mirror principle in the stellar evolution?
+
+I understand that stars transition into the red giant phase by obeying the mirror principle, as written here:
+
+Shell-burning stars obey something called the mirror principle, which is an observation gleaned from the models that when a shell contracts, the envelope of the star will expand and vice versa.
+
+However, I read that this information was gleaned from observation. Could anyone explain the reason or the physics behind why this happens?

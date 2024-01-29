@@ -1,0 +1,3 @@
+Moon and Sun UV Light
+
+How much ultraviolet light comes from the moon at night and from the Sun during the day? I am interested in using a UV camera on a robot to see the UV from the sun/moon to do robot localization.

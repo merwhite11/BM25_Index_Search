@@ -1,0 +1,16 @@
+Two species of dark matter?
+
+At this point in time, evidence for the existence of dark matter has accumulated in many ways: 
+
+it affects galactic rotation curves
+plays a major role in cosmology, and the evolution of structure in the universe
+is predicted in copious amounts by gravitational lensing on a wide range of scales
+influences the dynamics of galaxy clusters
+
+to name a few.
+There are many known candidates for dark matter particles: WIMPs, axions, WISPs, neutrinos, etc (in fact, even bricks, though some other considerations would exclude them).
+The question then is: 
+Why do we expect that only one type of dark matter particles is responsible for phenomenological dark matter? 
+For example, $\Lambda$CDM cosmology, the standard cosmological model, requires dark matter to be cold (slow, non-relativistic), which is used to constrain the possible properties of dark matter particles. However, this doesn't actually imply, that dark matter is cold for all the astrophysical systems. For example, galactic halos could be made of warm dark matter, and halos of dwarf galaxies could be made of cold dark matter.
+One might of course say that one-species model is the simplest one. The counter-argument would be that in reality there well may be many species. This in turn might have profound implications for astrophysical models. 
+To summarize the question: Is there any good reason, preferably supported by observations, to think that only one species of dark matter is present in all the models currently used?

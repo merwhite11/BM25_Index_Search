@@ -1,0 +1,11 @@
+rotate right ascension, declination based on delta time
+
+Assuming I was observing a source at a given right ascension $\alpha_0$ declination $\delta_0$ at a given time $t_0$ under a certain azimuth $A$ and elevation $a$ angle.
+If I now change my time to $t_1$ (e.g. 1 hour later), how can I determine which $\alpha_1$ and $\delta_1$ will be observed based on the same azimuth $A$ and altitude $a$ values?
+I suppose one way would be to really go the route and transform $(\alpha_0, \delta_0)→(t_0,A, a)→(t_1,A, a)→(\alpha_1, \delta_1)$.
+My question is: Is there a simpler, more elegant solution to the problem?
+Can I rotate $(\alpha_0, \delta_0)$ directly to $(\alpha_1, \delta_1)$?
+If so, what steps/rotations are necessary for it (and is this supported in astropy?).
+I have a bigger source list thus, going via azimuth/elevation is a bit time-consuming and I think it should be possible to simply rotate the sky-sphere based on a known earth rotation (expressed through delta time)?
+The "source" is an extragalactic radio source -> I do not have to bother about its distance, movement or about refraction etc.
+Currently, I was only applying a nutation model but maybe this is even unnecessary...

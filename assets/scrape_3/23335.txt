@@ -1,0 +1,5 @@
+How is the redshift of starlight precisely measured?
+
+When galaxies move away from us (caused by the expanding spacetime) their light seems to show a redshift. But what is really needed for this?
+What time lap is for example needed to see a difference in frequency, and how does this precisely work?
+Is this also possible for gravitational waves, or are amplitudes the only solution to derive the redshift from?

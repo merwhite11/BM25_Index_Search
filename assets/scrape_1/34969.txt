@@ -1,0 +1,6 @@
+How does gravity affect a physical clock?
+
+In all the explanations for time dilation and how gravity affects time a common example which is used is "Clock near to the ground will tick away faster than clock away from the ground due to gravity".
+But what exactly does this mean ? How does a regular clock gets affected by gravity, does the second hand slows down ?
+If it has to do something with gravity affecting the inner working of wind up and pendulum clock will this also affect digital clock ?
+** I realize I am missing the fundamentals of lotta things in this question, apologies for the stupid question in advance **

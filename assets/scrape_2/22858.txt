@@ -1,0 +1,4 @@
+What causes the raise of temperature in the outer layer of a red giant when the core gets contracted?
+
+A star emits energy through the fusion of hydrogen to helium in the core through the proton proton cycle or the carbon nitrogen cycle. Over time, hydrogen in the core is increasingly burned, which causes the fusion process to decrease over time. As a result, the star cools down and decreases the radiation pressure in the core. As a result, the core draws a little more together under the influence of its own weight, which increases the temperature. This temperature rise leads to a hydrogen fusion in a shell outside the core.
+But how is the temperature increased as the radiation pressure is decreased? Is this increase caused by conduction or convection or....?

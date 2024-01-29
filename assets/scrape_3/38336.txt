@@ -1,0 +1,40 @@
+What is wrong with my calculations of Jupiter's apparent magnitude?
+
+I was searching for a formula to calculate the apparent magnitude of a planet knowing its physical characteristics and stumbled upon this answer.
+The final formula given is:
+$$m_{planet} = V_{planet} + 5 \log_{10}\left( d_{e-p} \right) - 5$$
+In which,
+$$ V_{planet}=-2.5 \log_{10}\left(a_p \frac{ r_p^2 }{ 4 d_s^2 } \right) - V_{sun}$$
+where:
+
+$m_{planet}$ is the planet in question's apparent magnitude,
+
+$V_{planet}$ is the planet's absolute magnitude,
+
+$a_{p}$ is the bond albedo of the planet,
+
+$r_{p}$ is the radius of the planet,
+
+$d_{s}$ is the distance of the planet from its star,
+
+$d_{e-p}$ is the distance between the planet and the observer (here on Earth) in parsecs, and,
+
+$V_{sun}$ is the star's absolute magnitude.
+
+
+
+To test it out I tried to calculate the apparent magnitude of Jupiter as seen from Earth at an average opposition. The values then are:
+
+$a_{p} = 0.343$,
+
+$r_{p} = 69,911,000$ m,
+
+$d_{s} = 778.57 \times 10^9$ m (5.204 AU),
+
+$d_{e-p} = 628.97 \times 10^9$ m $= 0.0000203835294968$ parsecs (4.204 AU)
+
+$V_{sun} = 4.83$
+
+
+All the above values were taken from NASA's Jupiter fact sheet.
+Plugging in the numbers and I get $m_{planet} = -10.38$, which is much brighter than the actual apparent magnitude of Jupiter at average opposition of $-2.x$. Where did I go wrong?

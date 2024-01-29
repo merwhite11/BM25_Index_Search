@@ -1,0 +1,3 @@
+Is the Vernal Point a fixed point on the sky?
+
+The Vernal Point is a reference point in the Equatorial Coordinate System, from which R.A. is measured. My book says that the zero point of Right Ascension, i.e. the Vernal Point keeps moving in the sky. How can this be? If it moves then how can it be used as a reference point? Also why doesn't the dates of Vernal Equinox keep changing over the years?

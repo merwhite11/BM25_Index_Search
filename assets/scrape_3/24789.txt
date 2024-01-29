@@ -1,0 +1,3 @@
+What is the cosmic mean density?
+
+I know cosmic mean density for baryons is around $(2\ \mathrm{to}\ 5)\times10^{-31}\ \mathrm{g/cm^3}$, assuming that Hubble's Constant is $100\ \mathrm{km/s/Mpc}$. But what is the current cosmic mean density including all particles in the universe (dark matter etc.)?

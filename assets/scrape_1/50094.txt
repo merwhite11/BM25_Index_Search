@@ -1,0 +1,7 @@
+integration of velocity distribution f(v)
+
+The fraction $f$ of stars with velocities $v$ between $v$ and $v + \Delta v$ is given by
+\begin{equation}
+f(v) \propto 4\pi v^2 e^{-\frac{m \phi(\vec{x}) + \frac{mv^2}{2}}{k_\mathrm{B}T}}
+\end{equation}
+What does it mean when we integrate this function, please? I integrated from 0 to 1000 and obtained about 60 000. Is it the total number of stars?

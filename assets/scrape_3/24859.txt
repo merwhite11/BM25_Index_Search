@@ -1,0 +1,8 @@
+Local Sidereal Time
+
+I am trying to understand how to calculate local sidereal time and have found the following formula:
+$$\text{LST} = 100.46 + 0.985647 \cdot d + \text{long} + 15 \cdot \text{UT}$$
+Here, $d$ is the number of days from J2000, including the fraction of a day
+UT is the universal time in decimal hours
+long is your longitude in decimal degrees, East positive.
+They don't explain what the two constants are (100.46 and 0.985647), could anyone please explain what those constants are and how they were calculated in the first place?

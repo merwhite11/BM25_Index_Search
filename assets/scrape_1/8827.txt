@@ -1,0 +1,4 @@
+Estimates for how many Trans-Neptunian Objects there are
+
+The Minor Planet Center shows that we know of about 1350 Trans-Neptunian Objects (TNO's).  I think it is safe to assume that we have not found all the TNO's there are to find, even the ones that we are capable of detecting with current telescope technology (simply because we haven't looked at them yet).  Are there any estimates for how many TNO's exist (not just how many we've discovered)?
+I know such estimates probably are for numbers of objects with a radius greater than a certain amount and for objects belonging to a certain group (Plutinos, Kuiper Belt Objects, scattered disk objects, etc.).  I am fine with estimates that make such size cuts and group specifications.

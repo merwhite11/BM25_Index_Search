@@ -1,0 +1,26 @@
+Are asteroids 2012 PM35 and 2020 OG106 aliases?
+
+As a sequel to my asteroid's conjunctions search, I found those two bodies
+having very similar Kepler orbital elements and being so extremely close that they might be duplicates in JPL's database.
+  Epoch 2459800.5 (2022-Aug-09.0) TDB
+  === (2012 PM35) ======    == (2020 OG106) ======= 
+  e     0.1114673778344789  0.111467202270581   
+  a     2.368103484829207   2.368103879548678    
+  i     6.564051123394182   6.56406129126973
+  node  317.5306353047584   317.5306844449651
+  peri  334.683913931502    334.6841827413451
+  M     286.3201551706982   286.3197653149981
+
+As of 2021-01-01 they were 195 kilometer apart according to NASA Horizon system.
+As of 2022-06-24 they were 415 kilometer apart.
+They seems to travel together for long period.
+Here is (2012 PM35) s' data for an observer in Montreal, Qc on June 26. Delta is distance in kilometer from observer and with a distance of 415 km to (2020 OG106), with got a separation of 0.7 arsec which probably is the maximum separation power for a very good amateur telescope with best viewing conditions. And with an apparent magnitude of 21.84 is a good photograph possible?
+ Date__(UT)__HR:MN       APmag   S-brt             delta      deldot       phi  PAB-LON  PAB-LAT  Sky_motion  Sky_mot_PA  RelVel-ANG
+************************************************************************************************************************************
+ 2022-Jun-26 00:00 *    21.840    n.a.  3.6283468145E+08  18.5392017   24.4089 181.4255  -5.5312   0.8078623   111.56965   38.051087
+
+Could an high end amateur equipment take a photograph of so close companions?
+Link for positions of (2012 PM35) on 2022-06-24
+Link for positions of (2020 OG106) on 2022-06-24
+
+NASA 's orbit viewer

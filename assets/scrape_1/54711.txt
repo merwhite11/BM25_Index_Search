@@ -1,0 +1,8 @@
+Formula to calculate time of day from shadow direction on Earth and latitude?
+
+Web search found how to calculate shadow length and others but not my specific question. I have a photo. I found location on a map (so I know directions to objects: north/west/... and latitude). There is a shadow visible with clear direction, I want to know time of day as correctly as plausible from the photo.
+I've found out for https://en.wikipedia.org/wiki/Gnomon the Sun's shadow "travel" by 15 degrees each hour (and to North during actual midday in Northern hemisphere, but later understood Gnomon has to be parallel to Earth's axis (is it correct BTW?).
+I think there is already written formula to use shadow on Earth, not on parallel to axis sundial. TIA
+On this site there is similar QA: Is it possible to tell the time of day by shadows on the photo. Well, I'm almost sure it is possible (that QA's answers do not explain how; there is link to some app but I want simpler thing - a formula), it is as I see it some geometry to convert to plane perpendicular to Earth's axis. Just hoping formula is known to somebody here already, if not maybe worth asking on Math...
+Edit:
+Now I realize shadow on equatorial subdial indeed might be different for same shadow on the ground. I know date approximately (in the comments it is mentioned that by date one can find azimuth). Alternatively and more generally, I also noticed length of the shadow is about same as height of vertical object - I can get azimuth from that, can't I?

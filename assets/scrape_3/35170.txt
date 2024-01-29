@@ -1,0 +1,4 @@
+How variable does a star have to be, to be a variable star?
+
+Variable stars are stars whose apparent magnitude varies. But there are so many phenomena that can cause a star to be variable, that I would expect all stars to be variable. A rotating star has a starspot? It's variable! A planet is transiting? It's variable! A cloud of dust passes in front? It's variable! 
+This makes me wonder what exactly distinguishes a variable from a non-variable star? Must the variations in brightness be larger than a given magnitude? Must the variations in brightness be periodic? Do dips (or peaks) in brightness be observed more than once?

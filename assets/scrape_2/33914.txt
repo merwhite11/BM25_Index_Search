@@ -1,0 +1,21 @@
+Will the Magdalena Ridge Optical Interferometer be able to image extended objects like the surface of the Moon?
+
+Inspired by several questions:
+
+When will a moon landing site be visible via telescope?
+Could the E.H.T. produce an image of the human artifacts on the moon?
+Picture of equipment left on the Moon?
+Were the Apollo lunar activities observed from Earth?
+
+If one wanted to resolve 1 meter or smaller detail on the surface of the Moon from the surface of the Earth (about 2.6E-09 or 0.5 mas) at say 1 micron wavelength one would need a baseline of order 400 meters.
+The longest current optical baselines are only 40 to 80 meters and the longest one currently under construction is the Magdalena Ridge Optical Interferometer which
+
+will have ten 1.4 m (55 in) telescopes located on three 340 m (1,120 ft) arms. Each arm will have nine stations where the telescopes can be positioned, and one telescope can be positioned at the center.
+
+This is sufficient to have of the order of 1 meter resolution at the Moon's distance, but being optimized for star-like sources it's not clear if it will be able to image extended objects like the surface of the Moon.
+Question: Will the Magdalena Ridge Optical Interferometer be able to image extended objects like the surface of the Moon, or is it designed only to separate a few star-like objects, e.g. binary stars or star + planetary systems?
+note: If information on this specific observatory isn't available, it would be certainly informative to extrapolate from existing imaging work from long baseline optical interferometers. The Moon presents a big challenge since its surface brightness extends over quite a large solid angle, so pinholes at the focus of each telescope in the array would generate a lot of diffracted/scattered light, whereas imaging star-like objects against a dark field would be less susceptible.
+
+
+
+Magdalena Ridge Observatory Interferometer computer graphic overlay of the BCF building and the ten telescopes Source

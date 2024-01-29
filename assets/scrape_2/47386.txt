@@ -1,0 +1,56 @@
+predicting angular seperation between planetary objects and earth satellites
+
+I am struggling to calculate the angular separation between a satellite in earth orbit and a planetary object using the Skyfield library.  It's equivalent to calculating the angular separation between the moon and the sun that can be used to predict solar eclipses, except that the satellite APIs build geocentric vectors from TLE data while planetary objects are barycentric vectors based on ephemeris data.  I’m interested the angular separation when the observation point is at the center of the earth, and also when the observation point is on the surface of the earth.  In general, I seem to be unable to  correctly place both objects in the same reference frame.
+Specific questions are:
+
+Does the code below correctly calculate the angular separation between a satellite and the sun, and
+Is there a way to cast both objects in the same reference frame so that the tools in Skyfield can be used.
+
+
+from datetime import datetime
+from math import sin,cos,acos,degrees
+from skyfield.api import Topos, load, EarthSatellite,utc,wgs84,N,W
+from pytz import timezone
+
+ts = load.timescale()
+
+# get satellite data
+url = '/home/…/TLE-2500km.txt'
+satellites = load.tle_file(url)
+sat = by_model = {sat.model.satnum: sat for sat in satellites};
+sat1 = by_model[99990]
+
+# get ephemeris data
+eph = load('/home/…/de422.bsp')
+earth = eph['Earth']
+sun = eph['Sun']
+
+# get dates
+tStart = datetime(2021,10,30,19,19,12,tzinfo=utc)
+print(tStart)
+ti = ts.utc(tStart)
+
+# earth position on equator
+posLat = -25
+posLong = -8
+posAlt = 0.0
+posTopo = wgs84.latlon(posLat, posLong, posAlt)
+
+# generate where the satellite is in the sky with respect to posTopo
+diff = sat1 - posTopo
+diffAtTi = diff.at(ti)
+satAlt, satAz, satDistance = diffAtTi.altaz()
+
+# generate where the sun is in the sky with respect to posTopo
+diff2 = earth + posTopo
+astro = diff2.at(ti).observe(sun)
+app = astro.apparent()
+sunAlt, sunAz, sunDistance = app.altaz()
+
+#generate angular separation
+temp = sin(satAlt.radians)*sin(sunAlt.radians) + cos(satAlt.radians)*cos(sunAlt.radians)*cos(satAz.radians-sunAz.radians)
+delta = acos(temp)
+print("Angular Separation = %4.2f"%(degrees(delta)),'degrees')
+------------
+2021-10-30 19:19:12+00:00
+Angular Separation = 5.23 degrees

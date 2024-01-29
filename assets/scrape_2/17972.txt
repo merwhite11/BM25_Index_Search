@@ -1,0 +1,6 @@
+Using the surface-brightness relation for Cepheids
+
+I'm a high school student who is doing research about Cepheid variables. 
+I'm in the process of deriving distance to Cepheid using the Baade-Wesselink method, which utilises the surface brightness relation. The surface brightness relation is used to derive angular diameter variation of the cepheid from its V-K band data in this method. I found the equation relating angular diameter and the V-K band of Cepheid variables from the research paper The projection factor, period-radius relation, and surface-brightness colour relation in classical cepheids, which is apparently:
+$$\log{θ}=(0.2672+0.0016)(V-K)+(0.5354+0.0012)$$
+My question is, to derive the angular diameter variation what kind of raw data that I should use for V-K band? May I directly use the maximum V-K value and minimum V-K value and put them into the equation individually, and interpret their difference as an angular diameter variation? Or do I need to get lists of V-K band value varying over time and put it into the equation to get angular diameter variation over time and graphically measure the maximum and minimum angular diameter variation?

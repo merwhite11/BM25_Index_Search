@@ -1,0 +1,11 @@
+How to plot orbit of binary star and calculate its orbital elements?
+
+I have a set of dates, position angles ($\theta$) and angular separations ($\rho$) for visual binary star. For example:
+1994.3132  57.0    0.097
+1996.1783  73.4    0.051
+2006.1938 182.0    0.126
+2009.2597 192.9    0.152
+etc.
+
+What are algorithms to calculate orbital elements and to plot the orbit of the binary star?
+Are there available codes (or programs) for this calculations?

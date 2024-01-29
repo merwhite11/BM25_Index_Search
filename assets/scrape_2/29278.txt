@@ -1,0 +1,7 @@
+Star rising times in a different place given the latitude and time of one place
+
+I don't know astronomy that well, but I am preparing for the second stage of IJSO, and here in India they do add some questions like these ones.
+
+A star is seen rising from Kolkata (23.5N 92 E) at 7 pm IST. What time can it be seen rising from Mumbai (19N 72E)?
+
+If someone could explain how I might go about solving this, and some surrounding theory so I can grasp the concept, I'll be really grateful.

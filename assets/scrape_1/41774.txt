@@ -1,0 +1,10 @@
+How can a very old star be formed among Population III stars?
+
+After looking at some articles about old stars, (this, that, and this Wikipedia article), I thought about how such an old and small star could have formed. As the early universe had very massive, early-type stars and (no? almost none?) smaller, late-type stars. So how could a ~$1M_\odot$ star have formed in the early universe, where massive Population III stars dominated?
+Here are my theories, if you may find them helpful.
+Mass loss via a long-dead companion
+Star Foo and Star Bar are both $300 M_\odot$ stars closely orbiting each other. Star Bar is slightly more massive than Star Foo, causing Star Foo to lose mass to Star Bar. Now, Star Bar is $580 M_\odot$ and Star Foo is now drained to $20 M_\odot$. As Star Bar ages and becomes a supergiant, Star Foo gets engulfed by Star Bar, reducing Foo's mass to $\text{1-2} M_\odot$. Star Bar then goes supernova, ejecting Star Foo. 13 billion years later, Star Foo ages and becomes a subgiant, what we see today.
+Formed in a massive star's disk
+When the universe was young, there were plenty of materials to create stars. One massive star, star Foo, formed. It had a vast disk of gaseous material, weighing over $2 M_\odot$. In the disk, perturbations caused a massive clump of gas to form together, causing the ignition of hydrogen and creating a small, yellow dwarf of mass $0.8 M_\odot$, called star Bar. When Foo went supernova, Bar was ejected. 13 billion years later, we see an ultra-metal poor, very old, late-G type borderline-subgiant.
+Split off from a massive star's envelope
+A massive star forming region creates a star, Foo. Foo is very massive and large, and begins losing mass through the stellar wind. In a massive eruption, over $1 M_\odot$ is ejected from the star's envelope. This gas clump collapses under its own weight to form a small, Sun-like star. As the universe ages, we see a metal-poor, very old red giant.

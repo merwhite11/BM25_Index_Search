@@ -1,0 +1,4 @@
+How does a neutron star emitting magnetic-dipole radiation lose angular momentum?
+
+Is the ultimate reason that the neutron star loses angular momentum that the magnetic-dipole radiation is not spherically symmetric and photons have momentum?
+Just for the loss of angular momentum, particles emitted from the neutron star surface are not necessary, right?

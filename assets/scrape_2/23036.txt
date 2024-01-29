@@ -1,0 +1,12 @@
+How to find if a set of objects lies within a given resolution (5 arcsec) on a telescope?
+
+I am new to astronomy and I was given the task of finding out if there are objects which can't be resolved by a telescope of resolution 5 arcseconds.
+I was given the values of RA and Dec of these objects in degrees. 
+   RA              DEC
+ 201.1999388    27.49294258
+ 201.2048319    27.49212959
+ 201.1984702    27.4978016
+ 201.2025157    27.51610266
+ 201.1997827    27.51743447 ...etc
+
+How can I find these in the simplest way? Is there any simple formula which can be used to achieve this which is computationally efficient as well?

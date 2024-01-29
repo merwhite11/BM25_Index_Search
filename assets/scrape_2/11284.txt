@@ -1,0 +1,3 @@
+Why are retrograde orbits more stable than prograde ones?
+
+Regarding solar system dynamics, i.e. planets in stellar systems and moons in planetary systems, this is often mentioned in the literature, but it is difficult to find a good analysis/explanation of this phenomenon.

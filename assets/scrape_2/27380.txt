@@ -1,0 +1,5 @@
+Radial Velocity Clarification Sought
+
+According to Google, radial velocity is "the velocity of a star or other body along the line of sight of an observer".
+The radial velocity of Sirius according to Google is    −5.50 km/s. 
+If the number is positive, does that mean it's moving away or towards us?

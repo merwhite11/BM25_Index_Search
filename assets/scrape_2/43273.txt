@@ -1,0 +1,8 @@
+Size of crosshair
+
+TL;DR: Does anybody know the width of a single crosshair as a fraction of the full field of view on a Skywatcher 1.25 inch 12.5mm illuminated reticle?
+Explanation (in case there's a different question I should have asked instead).
+I'm doing drift alignment. Apparently, my particular camera + telescope combination means that each pixel is approximately 1.06 arcseconds wide/long. Therefore, if I want to take an exposure of length T minutes, I need to achieve a drift of less than 1.06/T arcseconds in declination per minute.
+I have an eyepiece with illuminated crosshairs. Apparently, the field of view is approximately 2400 arcseconds. If I can keep a star sitting within the crosshair for t minutes, and the crosshair is taking up a fraction c of the total field of view, then I've got the drift down to at most 2400c/t arcseconds per minute.
+This is why I want to know the value of c. I estimated it by eye to be around 1/500 (i.e. about 1/10 of the inter-crosshair distance, which is about 1/50 of the full field of view - it's a double cross-hairs), but I wondered if this was a known quantity.
+Clearly, the smaller c is, the less time I need to spend checking for drift, so extra points for anyone who can tell me that c < 1/500.

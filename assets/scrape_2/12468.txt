@@ -1,0 +1,6 @@
+What would be the maximum theoretically possible angular resolution?
+
+I have studied some basic astronomy, but I have difficulty conceptualizing the physics of luminosity and optics.  We use electromagnetic spectra to detect existence and properties of distant planets, but I am curious about the extent of what could theoretically be optically captured.  
+(I am unsure if optical is the correct term, but I'm referring to what could be directly captured vs. computed.)
+Assuming the use of technology far beyond what we currently are capable of, what is the maximum possible optical angular resolution we could theoretically obtain of a distant sky object?  Or, for example, of the surface topography of an outer planet/moon/dwarf planet?  
+What would be the limiting factor at the extreme end of possible angular resolution?

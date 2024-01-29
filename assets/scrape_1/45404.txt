@@ -1,0 +1,9 @@
+How distant were the furthest currently-observable cosmic events when their currently-observed radiation was emitted?
+
+(Edited for clarity. Thanks to James K and Connor Garcia.)
+This question about the most distant, observable cosmic objects made me wonder if we know the distance that was between us and them at the time (13.4 billion years ago, in the example linked) of the initial emission from them of the light that we can now see.
+(Answer: Thanks to Connor Garcia for pointing out that the answer of 2.66 billion light-years was in the notes of the wikipedia page of the galaxy (GN-z11, currently the oldest and most distant known galaxy in the observable universe) that I linked to in my own question.
+I can always count on stack exchange users to helpfully point out that the answer I was looking for was just a bit more effort away, lol. But seriously, thanks for the help Connor.)
+I can understand how expansion has caused them to travel a current distance of 30+ billion light years from us (or I can at least understand how the distance is larger than light could travel in 14 billion years), but I haven't been able to find a statement about their distance from us when they originally emitted the light we're seeing today.
+Can anyone give me insight into how close this 13.4 billion year-old galaxy was when it emitted the light we're seeing today?
+Is it as simple as the galaxy being 13.4 billion light years away at the proposed time of 400 million years after the Big Bang? And if so, did space really expand so fast in just 400 million years that objects could be 13.4 billion light years away from each other (and some much further, I'll venture to assume)?

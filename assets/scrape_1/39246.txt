@@ -1,0 +1,3 @@
+Easy interactive visualization of orbital elements
+
+To get a grip on orbital elements, I'd like to play with a ready interactive visualization like in Universe Sandbox. E.g. drag the inclination slider and see immediately what happens to the satellite orbit. Are there any free tools capable of doing this? I wasn't able to find such a function in Celestia or Stellarium so far.

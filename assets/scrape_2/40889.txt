@@ -1,0 +1,6 @@
+How to find the moons maximum culmination at a location
+
+Forgive me if my terminology is incorrect, but is there someway or somewhere when I can calculate based on my location when the moon will be at the highest point in the sky overhead based on my location?  Per year for example?  I've been searching around the internet and haven't found a calculator or something that could do that.
+For context.. I'm working on an architectural project and looking into if the moon will ever be visible through a certain skylight, even if it is for only a short period of time per year.  I'm located in Calgary, 51.0447° N, 114.0719° W
+I'm currently using some parametric software to show the moons location within the 3D modeling software, but I can only input dates and get the location, not search for the highest point etc, so I can't really pin down when it will be the highest.
+Thanks!

@@ -1,0 +1,5 @@
+Options for first time astrophotography w/ 80/900 refractor?
+
+Recently I bought a telescope and I started to take pictures of my observations. The most basic solution, I'm using a smartphone adapter and my Xiaomi Mi 6 camera to do that but the images (except for the Moon sometimes) is too bad and Jupiter and its moons not even show in my screen. So I thought in use a more serious device to take the pictures.
+I have in my personal finance control a monthly quota to "astronomy", but to start I think in spend about 200€ (~$230,00).
+I work with programming for 10 years (C#), so I can use something more "crude" if needed (like Raspberry Pi or Arduino). You guys can suggest something to start take decent shots of  Jupiter and its moons?

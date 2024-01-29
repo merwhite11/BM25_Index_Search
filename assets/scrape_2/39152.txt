@@ -1,0 +1,15 @@
+How to calculate the moon's illuminated fraction tilt?
+
+I use "Astronomical algorithms" book by Jean Meeus for programming algorithms for the moon data calculations. I've already created a lot of methods but stuck on the calculation of the moon's illuminated fraction tilt.
+Here is the example of how the moon tilt looks like (when you switch date the moon disk turns and so does the illuminated fraction).
+I've already calculated: illumination (48.1), phase angle (48.4), position angle of the illuminated bright limb (48.5), parallactic angle and etc. So I think I'm pretty close but still can't get the sufficient result.
+I think that the tilt depends on the position angle of the illuminated bright limb but the tilt looks almost the same during the day and the position angle changes its value rather drastically.
+I would appreciate any assistance.
+UPD
+I think I've found the right formula for the tilt calculation (page 347, and in the image attached):
+ZenithAngle = MoonPositionAngle - ParallacticAngle.
+
+But I'm not sure if I understand where ZenithAngle exactly is. I made a picture where I marked ZenithAngle (ZOC) and AlphaAngle which is actually the angle I need to calculate.
+So if ZenithAngle is ZOC then AlphaAngle = ZenithAngle - 90.
+
+Also I created a sample page with angles values, moon illumination and limb turned by the angle.

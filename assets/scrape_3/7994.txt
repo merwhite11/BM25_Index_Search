@@ -1,0 +1,13 @@
+How can there be anything "beyond" the CMB?
+
+Two things we take, for this purpose, to be axiomatic:
+
+The CMB is the oldest thing we can observe directly
+The cosmological red shift tells us how "old" something we are observing is
+
+Yet we also have a third axiom:
+
+There are some parts of the universe we can never observe because they are receding away from us at a superluminary speed.
+
+But this surely also implies that we can see beyond the CMB if we see anything which has a red shift indicating an expansion speed very close to $c$.
+This suggests axiom 2 is incorrect - so what should it be instead?

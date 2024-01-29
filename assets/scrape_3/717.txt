@@ -1,0 +1,3 @@
+Crab Nebula Time Period
+
+I've learned that the time period for a rotating neutron star, i.e., a pulsar is very accurate and can be used as an interstellar clock. But according to Walter Lewin's 8.01 Lec 19 on classical mechanics, he says that the rotational time period of neutron star in the Crab Nebula loses up to 364 ns everyday in the form of neutron star emissions (this comes from rotational kinetic energy of the neutron star). So, how are pulsars used as precise clocks?

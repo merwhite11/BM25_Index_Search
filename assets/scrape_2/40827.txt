@@ -1,0 +1,7 @@
+When (yyyy-mm-dd) does the north pole of uranus most nearly point towards the sun?
+
+When (yyyy-mm-dd) does the north pole of uranus most nearly point towards the sun?
+The information I've found suggests this happened in 1944 or 1945, but would like to find a more precise date or alternately what the heliocentric longitude is.
+The "Poles of Astronomical Bodies" article on Wikipedia lists the RA and Dec, but doesn't include the Geocentric distance (otherwise, I think I could just translate between geocentric and heliocentric coordinate systems and have my answer).
+Thanks
+Tim

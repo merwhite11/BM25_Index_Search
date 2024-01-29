@@ -1,0 +1,15 @@
+Calculate how many days left for synodic period from particular planet
+
+One of the many tools used in Astronomy are the formulas used to determine Orbital Motion. There are two basic forms of orbits:
+
+Sidereal Period
+Synodic Period
+
+For Jupiter:
+$$\mathrm{\frac{1}{P} = \frac{1}{E} - \frac{1}{S}}$$
+where
+P = sidereal period in both equations
+S = synodic period in both equations
+E = Earth's orbit in both equations
+Synodic period in this case, for Jupiter is 398.88 days.
+Query: Is there any formula to calculate how many days left for Jupiter to reach its next synodic period from Earth? or how many days left until Jupiter is in opposition?

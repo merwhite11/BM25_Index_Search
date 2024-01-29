@@ -1,0 +1,17 @@
+Why (the heck) is the basic angle of GAIA 106.5°?
+
+This answer to Why does the Gaia space telescope have two main mirrors says:
+
+According to the GAIA FAQs which does an excellent job: http://www.cosmos.esa.int/web/gaia/faqs:
+
+Why is there an angle of 106.5 degrees between Gaia's 2 telescopes?
+The choice of the so-called basic angle of GAIA was a non-trivial one. On the one hand, it should be of order 90 degrees to allow simultaneous measurements of stars separated by large angles on the sky. On the other hand, it should not be a harmonic ratio of a 360-degree circle (e.g., 60 deg, 90 deg, or 120 deg). Taking these considerations into account, acceptable ranges for the basic angle are 96.8 +/- 0.1 deg, 99.4 +/- 0.1 deg, 100.5 +/- 0.1 deg, 105.3 +/- 0.1 deg, 106.5 +/- 0.1 deg, 109.3 +/- 0.1 deg, 109.9 +/- 0.1 deg, etc. Accommodation aspects identified during industrial studies subsequently favoured 106.5 deg as the value finally adopted for Gaia.
+
+
+I don't understand any of that.
+Questions:
+
+"On the one hand, it should be of order 90 degrees to allow simultaneous measurements of stars separated by large angles on the sky." Well any large angle is a large angle, why should it be 90?
+"should not be a harmonic ratio of a 360-degree circle" I can imagine for instrumental reasons, but why are "acceptable ranges for the basic angle are 96.8 +/- 0.1 deg, 99.4 +/- 0.1 deg, 100.5 +/- 0.1 deg, 105.3 +/- 0.1 deg, 106.5 +/- 0.1 deg, 109.3 +/- 0.1 deg, 109.9 +/- 0.1 deg, etc." and what does "etc." mean here? Is there a pattern I'm not seeing?
+
+Any angle with an uncertainty of +/- 0.1 deg can be reached with some rational number with a denominator of 1800 or less, that's as far as I've gotten.

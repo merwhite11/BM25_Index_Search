@@ -1,0 +1,3 @@
+If an orbit is shifting due to orbital precession, is it still a Keplerian orbit?
+
+I was thinking about orbits a few days ago, and realized that orbits shift/precess naturally. Given that a two-body problem with a star and a planet, if the planet has an eccentric orbit that precesses, would we still call it a Keplerian orbit?

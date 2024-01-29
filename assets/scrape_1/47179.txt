@@ -1,0 +1,9 @@
+How to access the raw time-series dataset of GOES X-Ray Flux?
+
+I would like to access the time-series dataset of X-Ray Flux obtained by GOES. I expect that the flux units to be Watts / square-meter; this is because of the figure below (obtained from this Nature paper).
+
+I first tried accessing the GOES-R dataset, which contains netcdf (aka .nc) files. I followed the steps in this post on stackoverflow but was unable to open any of the netcdf files.
+I also tried accessing the flux dataset from NOAA SWPC; I clicked the "data" tab and click the "json" link, but this only contains data from the last week or so. I prefer to have the full dataset spanning a few decades. The same site hosts an FTP link; the text files present here have data fields for "year", "month", and "day", but not "hour", "minute", and "second".
+I notice that most of the data products available are fluxes averaged over a time-interval; I prefer the raw time-series if possible.
+I am hopeful that a representation of this dataset exists in the form of a text-file (such as this one provided by RHESSI). Regardless, I am not sure how to access this dataset. I wonder if the data I am seeking is in the netcdf files that I am unable to open, or if there is another way to do this - perhaps with astroquery or astropy?
+TLDR: I am looking for the GOES dataset containing the time-series (containing year, month, day, hour, minute, and second) of flux (measured as Watts / square-meter). How can I access this raw data?

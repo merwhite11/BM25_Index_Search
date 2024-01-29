@@ -1,0 +1,12 @@
+Can a planet in our system eclipse the sun as seen from another one?
+
+When the Sun, Earth and Moon get properly aligned, we get eclipses, where the Sun is partially or totally hidden by the Moon when seen from Earth.
+Is it possible for one planet of the solar system to produce an eclipse on another one?
+There are two underlying questions in this:
+
+are alignments of the Sun and two planets actually possible (and if so, how frequent)? Given the slightly different orbital planes of the planets, this seems difficult?
+
+even though planets are much smaller than the Sun, with appropriate distances between the three bodies considered, is it actually possible for one planet to partially or completely hide the Sun like we see in the Sun-Moon-Earth case, or does it only happen for planet-satellite combinations given the relative distances (i.e. in all other cases if would just be a tiny point transiting across the Sun)?
+
+
+I understand that the Earth would not be able to project a shadow far enough to get such a phenomenon on other planets, but are there other combinations where it’s possible/did happen?

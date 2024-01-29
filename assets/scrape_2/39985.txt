@@ -1,0 +1,3 @@
+Can we make reliable models to estimate what the angular momentum was in preplanetary stellar disks?
+
+I have recently become aware of how important the angular momentum of a preplanetary disc may have been in determining what type of a planetary system a star may have. We are able to measure the spin rate of many stars (to what error factor I'm not sure). I'm wondering if, through modelling, we can estimate what disc angular momentum may have been based on remaining angular momentum in the star. Have we looked at systems where we have found multiple planets and also have a good idea of the spin rate of the star to see if there are any correlations?

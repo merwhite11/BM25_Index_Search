@@ -1,0 +1,32 @@
+Why would a planet form a cometlike tail under conditions of weaker rather than stronger solar wind?
+
+This question is prompted by one posted on the worldbuilding stack exchange:
+https://worldbuilding.stackexchange.com/questions/189701/could-this-planets-tail-be-visible
+I understand that the ionized gas tails of comets are formed by the effect of solar radiation on the comet followed by a push from the solar wind.
+In the article on Venus I found and then an article on a gas giant exoplanet linked in the comments, both planets formed a tail under conditions of low solar wind.  Text and links to these sources below.
+http://www.esa.int/Science_Exploration/Space_Science/When_a_planet_behaves_like_a_comet
+
+The observations were made in August 2010 when NASA’s Stereo-B
+spacecraft measured a drop in solar wind density to 0.1 particles per
+cubic centimetre, around 50 times lower than normally observed; this
+persisted for about 18 hours.  As this significantly reduced solar
+wind hit Venus, Venus Express saw the planet’s ionosphere balloon
+outwards on the planet’s ‘downwind’ nightside, much like the shape of
+the ion tail seen streaming from a comet under similar conditions.
+“The teardrop-shaped ionosphere began forming within 30–60 minutes
+after the normal high pressure solar wind diminished. Over two Earth
+days, it had stretched to at least two Venus radii into space,” says
+Yong Wei of the Max Planck Institute for Solar System Research in
+Germany, lead author of the new findings.
+
+ A giant comet-like cloud of hydrogen escaping the warm Neptune mass exoplanet GJ 436 
+
+According to our simulation, the stellar radiation pressure
+counterbalances ≲70% of the star’s gravity pull on escaping atoms,
+which is much less than in hot Jupiter systems, in which radiation
+pressure takes over stellar gravity by factors of 3 to 5 (ref. 20).
+The low stellar radiation pressure at GJ 436b allows the formation of
+a large coma and tail of escaping atoms, co-moving with the planet
+although not gravitationally bounded to it (Fig. 4).
+
+When I think of wind forming a tail I think of a smokestack on a windy day.  More wind = longer tail.  I do not understand why weaker solar wind would allow a planetary tail and stronger would prevent it.

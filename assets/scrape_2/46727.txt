@@ -1,0 +1,3 @@
+How can eclipsing binaries be used to gauge distances?
+
+I understand that we can infer much about the parameters, such as the radius and mass, of stars in eclipsing binary systems. But how can eclipsing binaries be used to gauge distances? The current Wikipedia entry, for example, for binary star mentions that eclipsing binaries can be used to gauge distances, even to nearby galaxies, but I don't understand exactly how.

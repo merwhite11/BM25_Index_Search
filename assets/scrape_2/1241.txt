@@ -1,0 +1,7 @@
+How would the night sky look from inside a globular cluster?
+
+When the weather is clear, we can look at the stars. And we normally would see several thousands of them, they all being more than a $\textrm{pc}$ away from us.
+Now, there are globular clusters, which consist of some $10^5$ stars concentrated is a few $\textrm{pc}$ area. From oustside they look like this:
+
+Now, how do they (and the whole sky) look from inside? Imagine that solar system is inside such a cluster. Would it be a big change? Would there be a significant difference between night and day? Would it be easier or harder to study astronomy there?
+P.S. The credits for the question go to Ross Church.

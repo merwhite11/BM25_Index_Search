@@ -1,0 +1,4 @@
+How do I get from Star Atlas to real life?
+
+This question is about finding the elevation and bearing of a given star at a particular time at Latitude 52N.
+I look up the RA and Declination of my star. How do I calculate its bearing and elevation at hourly intervals?

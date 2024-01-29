@@ -1,0 +1,3 @@
+Is the eccentricity of a planets orbit relevant to finding whether the distance between said planet and its host star determines seasons?
+
+The tilt of the Earth is the main factor that determines the seasons. It's also true that the eccentricity of Earth's orbit is very close to zero, implying that aphelion and perihelion distances are relatively close. If the eccentricity of Earth's orbit were close to but less than one, then would the distance between the Earth and the Sun become a dominant factor in determining the seasons?

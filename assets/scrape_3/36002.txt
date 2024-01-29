@@ -1,0 +1,5 @@
+How to create 3D animation of particles position vs time in python?
+
+I am trying to make a 3-D animation of stars' position vs time. I have the information of the stars' x, y and z co-ordinates over time. I was looking at the example of Matplotlib and did understood what I need to do but I don't want the connecting lines between different times. All I need is to show the position of the stars at different time and make a movie of it. This is the example I was looking at 
+https://matplotlib.org/gallery/animation/simple_3danim.html
+After that I want to make it a bit complicated. I have the stars size and mass as well. I was wondering if I can change the size of the circles in the plot according to the radius and use different Colors for different mass range?

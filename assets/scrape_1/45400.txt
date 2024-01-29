@@ -1,0 +1,8 @@
+What happens inside a massive collapsing shell?
+
+I have already asked this on the physics site. I am not sure where it fits better.
+Consider a massive spherical shell collapsing under its own gravity. Say the mass is that of one galaxy. The Schwarzschild radius is, say, 300 billion kilometers.
+The mass will collapse accelerating. So there are gravitons (or in any case gravitational waves) sent inward and outward. Or will there be not? A rotating spherical mass will not send gravitons, unless accelerated.
+In the center of the shell, time will go slower and slower wrt faraway observers outside the shell, if there is no mass present there. This doesn't happen in Newtonian gravity. According to Newtonian gravitation, the inside will always stay without gravity.
+What happens if the shell passes the event horizon? Will the whole singularity be formed? For a far away observer it looks as if the shell stops there. But for a free falling observer inside the shell will the singularity be there already at that moment? It falls on towards the center where nothing is yet. It takes little time, while for an outside observer it takes pretty long before the horizon is met (all seems to slow down).
+Basic question: What will someone at the center see or feel? His time runs slower and slower but the space around him will get stretched and stretched. Because the inward accelerating mass will send a stationary (standing)  gravitational wave. Will he get torn apart before the mass hits him, even though the spacetime around him stays flat?

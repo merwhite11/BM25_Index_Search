@@ -1,0 +1,5 @@
+How do I get started in astronomy data analysis?
+
+I am learning some machine learning (I have previous background in statistics) on my own, and I am interested in getting some hands-on practice by doing some ML analysis in R and Python. 
+Given how mad I am about astronomy, I would love to get my hands dirty on doing some ML using open data. I am aware that organisations like NASA have lots of open datasets. What I am less clear about is the kind of analysis that needs to be done. 
+So, I'd like to know if there is any website where I can get a repository of space data (images, signals, whatever) and which asks what analysis is required; kind of like Kaggle where one gets the dataset and has the required question which one can attempt.

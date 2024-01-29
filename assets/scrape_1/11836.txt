@@ -1,0 +1,4 @@
+Why you use log to measure metallicity in galaxies?
+
+For example, I saw the next expression for matallicity in a paper: $\log(O/H) + 12$.
+I understand O/H is the O(Oxygen) to H(Hydrogen) ratio but why is there the number 12? And why the logarithm?

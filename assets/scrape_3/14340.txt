@@ -1,0 +1,5 @@
+Photodetector Question: Does converting an RGB image to grayscale produce the same result as using a grayscale image detector?
+
+FYI my application is not astronomy related, but I know astronomy folks have a lot of knowledge of photodetection and spectrometry instrumentation, so I am seeking this community's help. 
+I'm interested in doing both spectral and RGB imaging. I'm wondering if I can do both with just an RGB CMOS camera... The way I would approach the spectral imaging is to illuminate my sample with monochromatic light one wavelength at a time and then convert the images to grayscale. Each grayscale image would represent the intensity of light reflecting from my sample at a particular wavelength. I would love for this to work, but I am doubtful that the converted image will actually represent what a grayscale camera would record. 
+Bit of an odd scenario... Wasn't sure how to search the web for this. Any help is appreciated! Thanks!

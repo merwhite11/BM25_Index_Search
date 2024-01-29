@@ -1,0 +1,5 @@
+math tool to compute time of sunrise and sunset
+
+What is the mathematical tool that enable to compute time of sunrise and time of sunset at a specific geographical location in the same part of a year, say given month and day exactly?
+I have noticed that the time of sunrise and the time of sunset is the same every year in a given month and day, say February 4th for example (at a specific geographical location of course).
+Thank you.

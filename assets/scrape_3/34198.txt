@@ -1,0 +1,5 @@
+What is the horizontal distance needed to observe an object just as badly as if it where in space at the zenith?
+
+When I see an object in space (let's say the ISS) above my head, my line of sight traverses ~$100\; km$ of atmosphere. The vast majority of the extinction, absorption and turbulence happens closer to the surface of Earth (since the density of air follows an exponential decay with altitude).
+If I tried to observe another object, this time on the surface of Earth, the line of sight towards it would have to traverse huge amounts of air and the density would in principle be constant throughout the entire optical path.
+My question is: How should I calculate the maximum distance of an object on the surface of Earth such that the image I can get from it is still better than the image I can get for any object outside the atmosphere in the zenith of an observer located on the surface of Earth? What is the distance for an object on the surface of Earth at which anything I photograph in space looks crispier than this object?

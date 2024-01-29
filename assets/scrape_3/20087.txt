@@ -1,0 +1,12 @@
+How can maser emission be unpolarized?
+
+I was reading that:
+
+However, unlike Galactic sources such as W3(OH), the emission is unpolarized and the 1667 MHz line is stronger than the 1665 MHz line.
+
+but how is this possible? Does not the 1665 MHz line and 1667 MHz line correspond to a particular transition and dipole moment? Won't emitted photons naturally have a polarization? 
+Furthermore, they state:
+
+The characteristics of the λ18 cm OH mega-maser emission differ from those of Galactic maser sources, such as the main line intensity ratio (T1667MHz/T1665 MHz > 1), large linewidth (>100 km s^−1), and unpolarized emission.
+
+But why is unpolarized emission expected from extragalactic masers (arising near AGN) and not galactic ones (arising in circumstellar and interstellar environments)?

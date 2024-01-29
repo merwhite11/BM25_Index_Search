@@ -1,0 +1,6 @@
+Largest projected images (such as shadows) observed
+
+
+Serpens Nebula around the star HBC 672 (source: heic1819b)
+Which are the largest observed images projected onto interstellar bodies (such as nebulae) by means of electromagnetic radiation? By “largest” I assume their own size, not angular size for the observer.
+These should not necessarily be shadows (as shown above). They may be, for example, beams from directional sources or scattering from transient sources (light echo), but trivial spherically symmetric “images” (such as H II bubbles around hot stars) don’t qualify.

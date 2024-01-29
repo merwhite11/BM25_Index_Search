@@ -1,0 +1,8 @@
+Jupiter, Saturn, Uranus, Neptune system GM
+
+I'm modelling the solar system. I'm using data from Nasa.
+To do this I'm using the barycenter of the planets Jupiter, Saturn, Uranus, Neptune. However the website fails to give the Gravitational Parameter $\mu$ for these barycenters, even though it does do so for Pluto's barycenter.
+To make matters more confusing, the $\mu$'s given at Wikipedia are slightly different, though I assume these are just out of date.
+So I'd like to know if there's an as up to date resource as possible available for these parameters. Paywalls should be OK as long as they are of major publications.
+$$\frac{\mathrm{AU}^3}{\mathrm{M}_\odot\cdot\mathrm{day}^2}$$
+-form also good.

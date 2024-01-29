@@ -1,0 +1,4 @@
+Does the 500 rule apply to astrophotography with a telescope?
+
+On clear nights, I mount my Samsung Galaxy S10 to my 130mm aperture telescope and take pictures of certain deep-sky objects. Recently, I took pictures of the Orion Nebula. In order to get the optimal single-exposure pictures, I set the ISO to 320 and the shutter speed to 4 seconds. The shape of the nebula's cloud and the colors were relatively apparent, but unfortunately, I noticed streaks just beginning to appear in my pictures. The 500 rule says that the exposure time is not enough to create streaks, but I'm looking through a telescope instead of just a DSLR with a lens attached to it.
+Does the 500 rule apply to photography through a telescope?

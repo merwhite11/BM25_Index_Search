@@ -1,0 +1,5 @@
+Calculation to Convert from Equatorial to Heliocentric coordinate systems
+
+Can anyone help me with the formulas to convert Equatorial coordinates (Right Ascension / Declination) into Heliocentric coordinates (Angle and Distance in relation to the Sun) ?
+i.e. Ra/Dec of 6.7659/18.4563 ---> 281.98 degrees and 0.4562 AUs
+It feels like this is possible with no other inputs, but I can't figure it out.

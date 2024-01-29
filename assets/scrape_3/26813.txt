@@ -1,0 +1,4 @@
+How does one measure vector magnetic field of astrophysical object?
+
+Magnetic field strength is measured using Zeeman splitting. This is the one of the way Sun's magnetic field strength is measured. Now, how one measure vector magnetic field?
+Vector magnetic field = Magnetic field and it's components.

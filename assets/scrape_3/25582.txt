@@ -1,0 +1,12 @@
+How significant are the recent results that Scholz’s Star has perturbed several observed hyperbolic objects?
+
+The Gizmodo article A Visiting Star Jostled Our Solar System 70,000 Years Ago refers to the the three year old ApJ. paper The Closest Known Flyby of a Star to the Solar System (also arXiv) which describes Scholz’s Star and it's pass close to our solar system about 70,000 years ago.
+The Gizmodo article then discusses the newly published paper in MNRAS Where the Solar system meets the solar neighbourhood: patterns in the distribution of radiants of observed hyperbolic minor bodies. However, while I can access the earlier paper, the new result is paywalled and I'm not able to access it (at least not soon).
+The second half of the abstract in particular is confusing me.
+
+Here, we perform a systematic numerical exploration of the past orbital evolution of known hyperbolic minor bodies using a full N-body approach and statistical analyses to study their radiants. Our results confirm the theoretical expectations that strong anisotropies are present in the data. We also identify a statistically significant overdensity of high-speed radiants towards the constellation of Gemini that could be due to the closest and most recent known fly-by of a star to the Solar system, that of the so-called Scholz's star. In addition to and besides 1I/2017 U1 (‘Oumuamua), we single out eight candidate interstellar comets based on their radiants’ velocities.
+
+I've heard of a radiant of a meteor shower - it's an apparent position of the source of meteors referenced to the position of the Earth at the time of the shower. But I've= never heard the term applied to the orbit of a minor body unrelated to the Earth's position. What is the "radiant" of a minor body with a hyperbolic orbit in a simulation? Could it be the asymptotic incoming direction of the hyperbola?
+But my main question is simply how "statistically significant" is this result in reference to the enhancement in the direction of Gemini? I can't see the data. Is it just a tiny fluctuation, or a fairly obvious and robust feature?
+A screen shot of the data would be most welcomed!
+Possibly helpful: List of hyperbolic comets.

@@ -1,0 +1,8 @@
+Encode place and date in star pattern
+
+Disclaimer: I'm an astronomy noob
+You sometimes see in (B?) movies, that they infer dates from sky patterns. 
+I was asking myself if you can encode a place and date in a mostly meaningful pattern? How would you do it? Would it be possible?
+I was looking at 1 and maybe the relation between the visible planets? 
+(Moon, Mars, Saturn)
+Why: I want to make something special for my girlfriend (who likes "stars"), the date is special to us.

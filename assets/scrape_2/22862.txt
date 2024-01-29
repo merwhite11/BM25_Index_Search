@@ -1,0 +1,6 @@
+Is there a computer simulation that anyone knows of that describes the loss of a moon as it's orbit extends beyond the Hill Sphere of the planet?
+
+Let's imagine a moon orbiting a planet at 75000km distance (assume circular orbit). Now let's say that the Hill Sphere of this planet only extends to 78,000km (small planet in the habitable zone of a small star).
+As with the moon/Earth situation, this moon is slowly drifting farther away from the planet. (ie Deimos and Mars).
+What factors effect the time frame of this moon being lost so that it would be in orbit of the star and not the planet.
+Does anybody know of a computer simulation showing this happen? Wondering what the trajectory and duration of the transition period would look like.

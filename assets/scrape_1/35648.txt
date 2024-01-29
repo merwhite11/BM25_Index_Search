@@ -1,0 +1,4 @@
+Astronomical Term *Mezzocielo*
+
+What is the name of the point of intersection of the great circle passing through the celestial north pole P and the Zenith Z, with the celestial equator? (Point T in the figure)
+In Italian this point is called "Mezzocielo" (English machine translation), which translates into mid-sky, since it is located halfway between the Zenith and the horizon for an observer in Italy ($\phi \approx 40^{\circ}$).

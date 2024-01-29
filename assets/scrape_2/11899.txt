@@ -1,0 +1,4 @@
+What is the format of the data from the JPL's HORIZONS system?
+
+I'm looking for accurate positions and velocities of the planets in the solar system over several decades. I want to simulate their trajectories using Newtonian laws of motion, and compare the precession of Mercury's perihelion with observed data. I used the JPL's HORIZONS system but I can't manage to find these positions and velocities in the output data. 
+Could you explain how the data is formatted? (The HORIZONS web-interface Tutorial didn't help.)

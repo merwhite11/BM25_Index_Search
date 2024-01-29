@@ -1,0 +1,6 @@
+Can air pollution affect the observed positions of stars?
+
+I live in a big suburban area where pollution is quite high, and I have been testing a sextant by measuring the angle between pairs of stars. I compared the measured angle with the one obtained from ephemerides, where the latter takes account of the alteration of the body altitude due to refraction in the atmosphere.
+For instance, I measured the angle between Castor and Pollux, both at apparent altitudes of ~ 39 degrees.
+The comparison works pretty well, but the sextant appears to systematically overestimate the angle by ~ 1'. Can the air pollution in my area (not light pollution) alter the refraction index of the surrounding air mass and thus be responsible for this discrepancy?
+Thanks!

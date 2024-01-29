@@ -1,0 +1,8 @@
+What aliphatic compounds were found on Ceres, and how where they identified?
+
+Los Angeles Times's article NASA's Dawn mission finds life's building blocks on dwarf planet Ceres says;
+
+While the scientists aren’t sure exactly what the compounds are, the fingerprint is characteristic of material containing carbon-hydrogen bonds, and may include components like methyl and methylene.
+
+I've located the mentioned Science article Localized aliphatic organic material on the surface of Ceres but it is paywalled.
+What was found? Is it some spectroscopic feature? Aliphatic compounds are hydrocarbons that are not aromatic. Is there a spectral feature that says "I am not aromatic" specifically, or does this just mean that aromaticity was not detected?

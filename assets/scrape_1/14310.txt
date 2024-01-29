@@ -1,0 +1,5 @@
+Calculating Right Ascension and Declination from Latitude / Longitude / Time
+
+I have a latitude / longitude / time of a location on Earth, I need to calculate the Right Ascension / Declination that's overhead at the time provided.
+So far I've found out that Right Ascension is the same as the sidereal time for the location but I haven't found any information about declination.
+I'm trying to set my overhead viewing location in the web portal of World Wide Telescope.  It defaults to "now" but I want to show 10PM and there's no way (that I've found) to set time through the javascript interface.  I can however set Right Ascension and Declination, hence my question.

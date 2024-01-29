@@ -1,0 +1,9 @@
+Is the Sun prograde or retrograde with respect to the rotation of the Milky Way?
+
+I recently learned about the terms prograde and retrograde. I've seen these terms used to describe the rotations and orbits of moons with respect to their planet, and planets with respect to their star. But I haven't been able to find what the relationship is between the rotation and orbit of the Sun with respect to the rotation of the Milky Way.
+So, basically what I'm trying to do here is ask two questions:
+
+Is the orbit of the Sun around the center of the Milky Way prograde or retrograde with respect to the rotation of the Milky Way?
+Is the axial rotation of the Sun prograde or retrograde with respect to the rotation of the Milky Way?
+
+Regarding question #2, I know it might be considered a slightly weird question to ask, simply because the plane of the Solar System is significantly tilted relative to the plane of the Milky Way (by about 60°), and furthermore the Sun itself has its equatorial plane tilted by a few more degrees relative to the plane of the Solar System (about 7°). But if we mentally "flatten out" the Solar System such that the Sun's equatorial plane aligns with the plane of the Milky Way, then we can talk about whether its axial rotation is in the same direction as the rotation of the Milky Way, so I think this is a valid application of the concept.

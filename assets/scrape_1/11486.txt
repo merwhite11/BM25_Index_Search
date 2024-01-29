@@ -1,0 +1,8 @@
+What's the difference between the Julian and the Julian Ephemeris Day?
+
+I'm making a code where I calculate the sun position in a given time. But I also want to learn astronomy with it. I'm following a .pdf to make the program, and in this .pdf it says 
+
+The Julian Day (JD) is calculated using UT and the Julian Ephemeris
+  Day (JDE) is calculated using TT.
+
+Is it the only difference?

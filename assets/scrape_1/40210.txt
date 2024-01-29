@@ -1,0 +1,4 @@
+Question about redshift and effective gravity at the rotating neutron star surface
+
+For a rapidly rotating neutron star, if consider the star as a sphere, redshift at the equator surface will be larger than at the pole. But if consider the star as an obsolate sphereiod (the ellipsoid varies according to the rotation velocity), then how about the redshift at equator compare to the pole surface? Whether the obsolate decrease the redshift at equator?
+Similar is the effective gravity, if consider the obsolate effect, how about the gravity difference between the equator and the pole compare to that a sphere?

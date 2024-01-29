@@ -1,0 +1,4 @@
+On orbital mechanics of evaporating planets
+
+A planet orbits around its sun on an elliptic orbit, and loses mass slowly due to evaporation. How will the parameters of the orbital ellipse change as a function of time?
+Could we do a generalisation and mathematically model it?

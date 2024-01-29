@@ -1,0 +1,14 @@
+Where will the planned Deep Space Atomic Clock orbit "after" Earth?
+
+I've seen multiple sources repeat the information that the Deep Space Atomic Clock will 'at first' orbit Earth, before moving on out of Earth orbit.
+
+The Deep Space Atomic Clock (DSAC) is a miniaturized, ultra-precise
+  mercury-ion atomic clock for precise radio navigation in deep space.
+  It is orders of magnitude more stable than existing navigation clocks,
+  and has been refined to limit drift of no more than 1 nanosecond in 10
+  days.
+
+Wikipedia: "Its development will include a test flight in low-Earth orbit"
+JPL: "the instrument will be tested in Earth orbit for one year, with the goal of being ready for future missions to other worlds"
+What would it then orbit? The Sun? Or some L point? Other planets? Or will multiple ones orbit all of the above?
+Edit: for those wanting to close based on "not astronomy", have you considered astronomy does not have to be done from earth and indeed much of the data astronomers use often comes from probes and satellites in space.  Therefore 'how/where will this space beacon be used?' has strong impact on future of astronomy.

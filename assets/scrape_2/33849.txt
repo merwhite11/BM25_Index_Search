@@ -1,0 +1,75 @@
+Jean Meeus - calculating moon rise, transit and set times - help isolating error in logic
+
+I've been working my way through the Jean Meeus Astronomical Algorithms book for a few weeks, to implement some of the key algorithms for a personal project. This task has been a little more complex on the basis I have no astro or mathematics background. That said I've made a lot of progress but I've hit a problem which I cannot resolve - I think there's some assumed maths/astro conventions which I'm unaware of given my limitations therein. 
+To calculate the moon rise, transit and set times in chapter 15 I'v implemented the steps in ruby code - but I'm not sharing code as yet, as I'm hoping that the community of experts may be able to isolate the step in which I'm going wrong by looking at a good and a bad iteration as per the tabulation below?
+For the majority of date/times/locations I have what seem to be correct results which correlate to other sites within 1-2 mins of variance which at this stage I'm accepting at this stage as implementation differences. 
+For example:
+    Date: 2019-03-18
+Location:  -0.093439 Longitude (pos=west, neg=east of greenwich)
+           53.670404 Latitude (pos north)
+   Rise @ [2019-03-18 14:29:14 +0000]
+Transit @ [2019-03-18 22:17:04 +0000]   CORRECT
+    Set @ [2019-03-18 05:19:36 +0000]
+
+    Date: 2019-03-19
+Location:  -0.093439 Longitude (positive west, negative east of greenwich)
+           53.670404 Latitude (pos north)
+   Rise @ [2019-03-19 15:56:36 +0000]
+Transit @ [2019-03-19 23:14:52 +0000]   CORRECT
+    Set @ [2019-03-19 05:52:12 +0000]
+
+But then if I step to the next day there are problems:
+    Date: 2019-03-20
+Location:  -0.093439 Longitude (positive west, negative east of greenwich)
+           53.670404 Latitude (pos north)
+   Rise @ [2019-03-20 16:37:59 +0000]   WRONG TIME
+Transit @ [2019-03-21 01:09:54 +0000]   WRONG DAY
+    Set @ [2019-03-19 22:15:00 +0000]   WRONG DAY
+
+As you can see the range of event dates spans 3 days, and this is clearly incorrect.
+The steps/results as per the Meeus Chapter 15 are as follows:
+                            Status: CORRECT                      INCORRECT
+                             Date : 2019-03-19                   2019-03-20
+      moon standard altitude (h0) : 0.125                        0.125
+                               JD : 2458561.5                    2458562.5
+  D-1 (Yesterday) Right Ascension : 137.01106495635904           152.0944122662908 
+      D-1 (Yesterday) Declination : 18.2193887474612             14.518563964332268
+          (Today) Right Ascension : 152.0944122662908            166.75563154781935 
+              (Today) Declination : 14.518563964332268           9.843091724045754
+   D+1 (Tomorrow) Right Ascension : 166.75563154781935           -179.0311021513076 
+       D+1 (Tomorrow) Declination : 9.843091724045754            4.558782463778083 
+         (F 15.1) Approx Times H0 : 110.38644846740502           103.4269126435807
+           --------------References below to m0 is Transit, m1 is Rise, m2 is Set-------------
+             Sidereal @ Greenwich : 176.25537825981155           177.24102563038468
+        Delta_T (taken from USNO) : 69.34                        69.34
+                                         ----------------Rise----------------
+         (F 15.2) Approx Times m1 : 0.6260085903712865           0.6833284046859307
+          Interplate Factor m1, n : 0.6268111366675828           0.684130950982227
+   (F 3.3) Intrplate m1 Ascension : 161.3335996586275            -30.862132317267736
+      (F 3.3) Intrplate m1 Declin : 11.701920142830645           6.293715763821567
+                    Sidereal time : 42.23549428254836            63.91277190941321
+                                        ----------------Transit----------------
+         (F 15.2) Approx Times m0 : 0.9326376138918561           0.9706253842514326
+          Interplate Factor m0, n : 0.9334401601881523           0.9714279305477289
+   (F 3.3) Intrplate m0 Ascension : 165.79289646958304           -164.14901582079125
+      (F 3.3) Intrplate m0 Declin : 10.184567649150054           4.718215465725156
+                    Sidereal time : 152.9241707270994            167.62285795901175
+                                          ----------------Set----------------
+         (F 15.2) Approx Times m2 : 0.2392666374124255           0.2579223638169346
+          Interplate Factor m2, n : 0.2400691837087218           0.2587249101132309
+   (F 3.3) Intrplate m2 Ascension : 155.65262487970153           111.85648516249893 
+      (F 3.3) Intrplate m2 Declin : 13.485032537642851           8.534292594792108
+                    Sidereal time : 262.6272001716504            270.3472970086102
+          ----------------From this point I will only illustrate Transit---------------- 
+             Local Hour Angle (H) : -12.775286742483644          -28.13468722019701
+      Transit delta_m (-(H/360.0)): 0.03548690761801012          0.07815190894499169
+    Adjusted Transit (m0+delta_m) : 0.9681245215098662           1.0487772931964243
+             Convert to hrs (x24) : 23.23498851623679            25.170655036714184
+                    Base time (D) : 2019-03-19 00:00:00 UTC      2019-03-20 00:00:00 UTC
+                                    CORRECT                      PROBLEM          
+              Transit time (D+m0) : 2019-03-19 23:14:05 UTC      2019-03-21 01:10:14 UTC
+
+The upshot here is that the first column (for the date 19th March 2019) is correct. But on the 20th, the day after, there is something which is leading to skewed results - the reason being the adjustment applied to sidereal time is too large and moves into the previous/next day when offset from transit... 
+The clue I see is that as per the Meeus book, he states that the Right Ascension results calculated should be in the range -180..+180. It is this, on the second column of the results which skews into the negative range for the step (D+1 (Tomorrow) Right Ascension), and may then be skewing the subsequent results whereby the resulting time adjustment to transit is 25.170655036714184 hours....
+So I would be hugely grateful if anyone could help me isolate the specific step in relation to Meeus calculations, such that I may then be able to get past this challenge.
+Again please bear in mind I have no math/astro background and have come at this with a coding ability and the Meeus book... :-)

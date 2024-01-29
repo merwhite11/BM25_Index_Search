@@ -1,0 +1,3 @@
+When calculating absolute magnitudes of distant objects, do you use the light-travel distance or the comoving distance?
+
+I want to calculate the absolute magnitude of GN-z11. Its light-travel distance is 13.4 billion ly (4.1 Gpc), its comoving distance is 32 billion ly (9.8 Gpc), and its apparent magnitude is $25.8$. Calculating its absolute magnitude, we get $M=-76.86$ for light-travel, and $M=-94.09$ for comoving. Which one do I use? I am assuming it is the former. Is this correct, or is there a different formula for this?

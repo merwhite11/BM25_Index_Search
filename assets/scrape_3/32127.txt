@@ -1,0 +1,6 @@
+Do all stars of a given age and mass have relatively the same emission spectrum?
+
+My understanding is that much of the visible light that we see during the day is given off from the Sun, and that means that most of the colors that we see are dictated by (with the exception of atmospheric effects) the particular wavelengths of color that the Sun emits, which does not include the entire continuous color spectrum.
+Here is an image of the wavelengths emitted by the Sun
+My understanding is also that, at least during a particular part of the life cycle of a star, all stars are burning balls of hydrogen and helium. If that is the case, then do all stars at that point in their life give off emission spectra of visible light that is similar to our own? Is it possible that an observer on a planet with an atmosphere similar to that of Earth might see different ranges of color than we do, simply due to, perhaps, the composition of their star? Could there be planets similar to Earth where the sky would appear purple rather than blue?
+Let me know if any of my assumptions are incorrect.

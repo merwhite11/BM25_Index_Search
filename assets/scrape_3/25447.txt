@@ -1,0 +1,5 @@
+Newtonian reflector collimation question
+
+After an initial collimation, I took my scope (150mm/750mm) out for a star test. While I could see concentric circles when the bright star is at the centre of the video, when the star is on the side of the view, I get an image typical of an uncollimated scope. Please refer the images below. The left image is how it appears when the bright star is at the centre. The right image is how it appears when the star is on the upper portion of the view.
+
+Does my scope require further collimation, or is it fine the way it is now?

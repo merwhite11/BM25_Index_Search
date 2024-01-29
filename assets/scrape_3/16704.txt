@@ -1,0 +1,10 @@
+Why does the Moon appear gray when passing between the Sun and the Earth?
+
+Shouldn't the Moon appear as bright as a full Moon seen at midnight from Earth?
+
+The photo was taken by DSCOVR at Lagrange point 1.
+In the picture, The Moon appears dark gray. Of course the Earth appears bright, reflecting sunlight from clouds and water. The Moon's surface is gray and should reflect less light than the Earth.
+It should be irrelevant that we see the far side, since the reflectivity of the Moon's surface should be the same on the far side as the side that faces the Earth.
+The midnight full Moon appears much, much brighter as seen from Earth than it does in this picture, despite the fact that the amount of sunlight reflecting from the surface of the Moon is the same in both instances.
+I understand the photo was taken with 3 separate exposures of red, blue and green, but this should not affect the brightness.
+So why does it appear so dull?

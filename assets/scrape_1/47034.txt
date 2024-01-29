@@ -1,0 +1,4 @@
+How will be changed Hill's radius and Kepler's formulas in case of 2D space instead of 3D?
+
+Imagine that Flatland habitats go into space. All stars and planets are the circles instead of spheres and gravity law is $F=Gm_1m_2/R$ instead of $F=Gm_1m_2/R^2$.
+How the other formulas will be changed in this case?

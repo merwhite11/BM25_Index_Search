@@ -1,0 +1,4 @@
+Can redshift be measured using fourier?
+
+Are there pictures that contain high enough dynamic width, so that amateurs can use fourier spectrum analysis to observe the redshift themselves? 
+I know pictures usually are encoded using RGB and/or CMYK and therefore lose a lot of color information from a physical perspective, but I'm wondering if there exists a picture format that could store that much information, and if so, could amateurs then use fourier spectrum analysis to actually see the red-/blueshift?

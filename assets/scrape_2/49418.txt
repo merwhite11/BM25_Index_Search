@@ -1,0 +1,6 @@
+Orbital speeds of Components of Binary System
+
+How does one calculate the orbital speed s of the members of a binary system?
+Iirc, the average separation of Alpha Centauri A and B is 23 AU, but the orbit is highly elliptical, so that the separation varies from 11.2 AU to 35.6 AU. Iirc their combined mass is 1.93 times the Sun.
+From other things I've read, this means that at maximum separation the components will be moving at a bit less than one-third the speed at closest separation, but despite browsing I'm far from clear how to find what the actual speeds are. I'm sure it will be something obvious after it has been explained but right now I'm stumped.
+Can anyone help?

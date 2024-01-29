@@ -1,0 +1,7 @@
+If months are based on the moon, then why are the months longer in the Gregorian calendar than lunation?
+
+What I have always thought / known is that:
+Days are based on the period of rotation of the earth.
+Months are based on the moon.
+Year is the time taken by the earth to make one revolution around the sun.
+But if we take a look at the lunation it takes on average 29 days, 12 hours, 44 minutes, and 28 seconds. Why is it that the months then in the Gregorian calendar have 28-29 / 30 / 31 days?

@@ -1,0 +1,4 @@
+How can I Mathematically Calculate the Luminosity of a Post-Main-Sequence Star from Mass and Age?
+
+So, I saw this question (which is quite old) and that's all well and good, but what if I need to (very) roughly calculate the luminosity of a star from the end of the main sequence? Let's assume that this is a non-extreme mass star (K-A) and can use $10M^{-2.5}$
+To calculate (roughly) when the star will exit the main sequence. Would there be a way to include the expansion into a red giant? What about simulating the planetary nebula? Simplify as much as is needed.

@@ -1,0 +1,5 @@
+How to calculate the distance to galaxies with standard candles?
+
+I was wondering how the distance in Mpc could be calculated between Earth and a galaxy using the luminosity provided? Do not be shy to use all math necessary :)
+Clarification:
+Luminosity is inversely proportional to the distance squared. I am wondering how that is used to calculate the distance to distant galaxies. They take the intrinsic luminosity of various stars within the galaxy to find the distance. But I wonder how.

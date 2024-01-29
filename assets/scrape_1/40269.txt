@@ -1,0 +1,16 @@
+How long do thunderstorms on Venus last?
+
+A while ago, I learned about field of exometeorology (the study of other planets ' atmospheres) which fascinates me. In particular, I read about thunderstorms on Venus, e.g. about the results from ESA's Venus Express Mission in 2006, or according to Universetoday.com: Lightning Storms on Venus Similar to Those On Earth:
+
+“We have analyzed 3.5 Earth-years of Venus lightning data using the low-altitude Venus Express data, which is about 10 minutes per day,” Russell said. “By comparing the electromagnetic waves produced at the two planets, we found stronger magnetic signals on Venus, but when converted to energy flux we found very similar lightening strength,” said Russell. Also it seems that lightning is more prevalent on the dayside than at night, and happens more often at low Venusian latitudes where the solar input to the atmosphere is strongest.”
+
+This is mainly a statement about the intensity and time distribution of the lightning on Venus. I am now wondering whether there is more known about the mesocale convective systems on Venus. My search gave me the impression that there is not much literature on that topic (yet), or am I mistaken?
+The main question I am after: How long do storm cells on Venus last? Is any mean or median known? Can thunderstorm systems live for multiple (Venus) days?
+References
+Although I did not find any answer to my question, here some references I found:
+
+C. C. Covey & G. Schubert: Mesoscale convection in the clouds of Venus, Nature 290, pages 17–20 (1981)
+M. Nakamura, T. Imamura, et. al. Overview of Venus orbiter, Akatsuki, Earth, Planets and Space volume 63, pages 443–457 (2011)
+List of all missions to Venus according to Wikipedia
+NASA's In-Depth Page about Venus mentions the clouds and their lightnings briefly.
+Akatsuki (あかつき, 暁, "Dawn") as Venus-orbiter, is currently (as of 2020) the only existing artifical Venus satellite, I suppose.

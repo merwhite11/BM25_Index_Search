@@ -1,0 +1,3 @@
+Does an umbrella reflector telescope exist?
+
+I searched for use of an umbrella mechanism for a reflecting telescope but have not found anything. I was imagining that use of enough actuators on enough umbrella arms would allow fine tuning an inner mirrored umbrella surface to enough accuracy to serve as a primary telescope reflector - has anyone any refs or alternatively a 'showstopper' ?

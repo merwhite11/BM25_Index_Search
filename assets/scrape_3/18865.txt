@@ -1,0 +1,6 @@
+How to calculate the current distance between two planets
+
+I'd like to add a feature to one of my apps that calculates the current distance between the Earth and Mars (or any other planet, for that matter). My google searches have led me to statistics of average distances (as a planets orbit is elliptical, and therefore the distance can vary greatly), as well as articles about Keplers laws of Planetary motion and more. I have also seen some mentions of HORIZONS, but looking over it I did not see anything to fulfill my questions.
+I haven't found any readings explicitly describing how to calculate the current distance between two planets. So, how is this done?
+Please explain your answer and the steps needed, so that I may understand better. Pseudocode is welcome.
+Thanks!

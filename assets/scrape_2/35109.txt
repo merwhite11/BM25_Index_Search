@@ -1,0 +1,3 @@
+Where can I download processed data of the Kepler telescope?
+
+I search for lightcurve Kepler data: time $t_i$, flux $F_i$ and measurement uncertainties $\sigma_i$ I need processed data (after removing trends, normalized, etc.).  Where can I find it?

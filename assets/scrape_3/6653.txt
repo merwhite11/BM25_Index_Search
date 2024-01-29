@@ -1,0 +1,5 @@
+Detecting Deep Impact
+
+There have been several accounts in media articles of asteroid near misses, many describe that the asteroid was not seen before the near miss.
+After reading the question and answer to How can we tell if the asteroid 2013 TV135 will hit Earth in 2032?, where it was discussed about determining the orbits of known asteroids.
+The question here is what is the furthest practical distance that a previously undetected asteroid, capable of an extinction level event, can be observed to have a trajectory that will result in a collision course with Earth?

@@ -1,0 +1,5 @@
+Distribution of spectral types of "giant" stars
+
+I'm looking for the distribution of spectral types in the "giant" star category. This category is defined as basically B and O main sequence stars and any star that is larger than main sequences outside of it.
+My first thought was that the M, K, G, F, and A type distribution were the same as they are in the main sequence but then I realized M has to be dropped, and then i'm not quite sure how K, G, F, and A types evolve and usually only Red Giants are mentioned and I couldn't find numbers for the giants so I'm stuck. 
+To be clear, I want to know the percentage of giant stars that are in each of the spectral types. So if there are 1000 stars in a given area and 100 giant stars in that areas I only want to know the percentage of each spectral type of the stars in that 100.

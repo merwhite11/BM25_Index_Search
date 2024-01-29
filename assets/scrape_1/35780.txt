@@ -1,0 +1,40 @@
+Galactic Equator zenith transit
+
+I need to find the two times of zenith passage of the Galactic Equator for a given Earth Lat/Lon on any day between 3500 BC and 1500 AD.  Since the Galactic Equator is a line and not a point, I try to use PyEphem to create a zenith point for my geographic location (see code below), then find the Galactic coordinates of that point.  When the Galactic latitude of this zenith point is zero, that's the time of zenith passage of the Galactic Equator.
+However, I think I need my zenith point to be in Equatorial coordinates (not Ecliptic) to accomodate the geographic location and the date/time, but I can't figure out how to make that work.  
+Here is my Python script based on PyEphem: 
+import ephem
+from math import *
+
+D = (input("Enter date (yyyy/mm/dd): "))
+d = ephem.Date(D)
+print(d)
+
+location = ephem.Observer()
+location.lon = '-87.0'
+location.lat = '20.0'
+location.elevation = 12
+location.pressure = 1013.0
+import csv
+my_list = []
+with open(r'C:\Users\Mark\Desktop\PYTHON\gzt.csv', 'w', newline='') as f:
+        for T in range(1,1440):
+                dm = ephem.Date(d + ephem.minute*T)
+                location.date = dm
+                ra, dec = location.radec_of('0', '90')
+                ec = ephem.Ecliptic(ra, dec, epoch = d)
+                eq = ephem.Equatorial(ec)
+                #print(eq.ra, eq.dec)
+                z = ephem.FixedBody()
+                z._ra = eq.ra
+                z._dec =eq.dec 
+                #z._epoch = d
+                z.compute()
+                #print(z.ra, z.dec)
+                zg = ephem.Galactic(z.a_ra, z.a_dec)
+                dmt = (('%s') % (dm))
+                #print(dmt, 'Zlat = ', zg.lat)
+                AZ = (('%s  %s') % (dmt, zg.lat))
+                my_list = [AZ]
+                writer = csv.writer(f, dialect='excel-tab')
+                writer.writerow(my_list)

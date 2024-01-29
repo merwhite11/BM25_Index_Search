@@ -1,0 +1,3 @@
+How to find out if a galaxy is in a specific cluster
+
+I am trying to find out how to find out if a certain galaxy is located inside a cluster. For the famous ones this is quite easy (sometimes even on wikipedia!), but I haven't been able to do it for some less-known galaxies. I have tried to look them up on Simbad, but I couldn't find it written down anywhere (even for the ones I know to be in clusters). Also generic "googling" has not helped me. Do you have any suggestions?

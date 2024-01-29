@@ -1,0 +1,8 @@
+Rising and setting time of planets in relation to the sun
+
+
+If Venus set about 2 hours after the Sun,then it should be about
+30degrees to the east of Sun.
+
+Is there any mathematical formula to get these thing or it's just a pattern?
+Source :https://olympiads.hbcse.tifr.res.in/olympiads/wp-content/uploads/2017/09/INAO2018-Solution-20180130.pdf

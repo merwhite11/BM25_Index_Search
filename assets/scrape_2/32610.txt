@@ -1,0 +1,23 @@
+Comparing info for WISE and GALEX
+
+I'm trying to compile a table showing the wavelengths and flux at m=0 for WISE, Spitzer and GALEX, but I can't find the right data for GALEX. Here's what I have so far:
+        Band    Wavelength      F_0
+                micrometers    Jansky
+        ------------------------------
+        FUV     0.152   
+        NUV     0.227   
+        U       0.365           1810
+        B       0.445           4260
+        V       0.551           3640
+        R       0.658           3080
+        I       0.806           2550
+        J       1.220           1600
+        H       1.630           1080
+        K       2.190           670
+        W1      3.4             309.54
+        W2      4.6             171.787
+        SPIT8   8               64.13
+        W3      12              37.674
+        W4      22              8.363
+
+I got most of the info from here. The information I found for GALEX on page 687 of this paper gives m_0 for NUV and FUV, but no F_0. How can I change m_0 to F_0?

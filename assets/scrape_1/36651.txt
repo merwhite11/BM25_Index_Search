@@ -1,0 +1,5 @@
+Does time flow in a Minkowski spacetime?
+
+In a spacetime where the stress-energy tensor is null (no energy, no matter, no entropy), I wonder whether any motion of the variable time in the phase-space is well defined.
+The arrow of time, meant as parametrisation of succession of changing events, might lose validity, since no events can occur without actors (particles or fields) that can generate them, right?
+Could this be a paradox, when using the Minkowski approximation to propagate information?

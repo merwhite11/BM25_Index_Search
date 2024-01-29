@@ -1,0 +1,13 @@
+Physical properties of the stellar corona?
+
+I am after the basic physical properties of the corona of a star, here some questions for which I would like to have an answer, even only for a subset of them:
+
+I know some things about the corona of our sun, but how typical is the solar corona?
+Is there any rule of thumb for the average dimensions of the corona, possibly depending on the mass of or other parameters of the star? Is it possible to estimate to at least an order of magnitude how thick a shell around a star would be which would be most likely be filled with plasma?
+What are the main constituents of the coronal plasma?
+If I intend to model the corona as an homogenous shell (which definitely is a strong assumption), what are the ranges of the number densities of the abundant particles?
+
+Related
+
+In the closest stars, can you see the stellar corona?
+What is the dielectric constant of a star?

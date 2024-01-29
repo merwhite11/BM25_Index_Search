@@ -1,0 +1,6 @@
+Why do blue horizontal branch stars turn downwards on the HR diagram as opposed to red horizontal branch stars which remain fairly constant?
+
+Horizontal branch stars (HB) burn helium at their cores. Red horizontal branch  (RHB) stars experience an increase in temperature while their radii decrease so their luminosity remains somewhat constant. Blue horizontal branch stars (BHB) appear to drop in luminosity quite rapidly. What is going on physically that causes blue horizontal stars to turn downwards?
+I keep reading that they are population II objects often found in globular clusters but I don't find any information regarding the physical mechanism that causes them to not remain "horizontal".
+Here are examples of globular cluster CMDs with the labeled axis.
+Link to source: Encyclopedia of A&A : Globular Clusters

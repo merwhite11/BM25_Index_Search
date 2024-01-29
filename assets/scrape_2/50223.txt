@@ -1,0 +1,4 @@
+Are there any probabilistic models for the likelihood of finding a rogue planet closer to us than Proxima Centauri?
+
+There are some articles that claim there could be more rogue planets than stars in our galaxy such as this one.
+Now if this were true one might expect that there is a rogue planet closer to the earth than the star Proxima Centauri. Have any models been built regarding the probability of this? And/or perhaps a curve of mass of rogue object, distance from Earth, and probability?

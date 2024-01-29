@@ -1,0 +1,5 @@
+Luminosity of the Milky Way compared to Seyfert galaxies
+
+This page lists the total luminosity of the Milky Way (MW) Galaxy to be $4\times10^{10}$ $L_{\rm sol}$, and $L_{\rm sol}=3.86 \cdot 10^{33} {\rm ergs.sec}^{-1}$; this gives a total luminosity for the MW of $1.54\cdot 10^{44}{\rm ergs.sec}^{-1}$.
+But Seyfert galaxies can have luminosities of $\sim 10^{40} - 10^{42}{\rm ergs.sec}^{-1}$, and this is due to the high luminosity of the galactic core of a Seyfert.
+Since the MW doesn't have an active SMBH, does this mean that the MW is particularly bright due to a high luminosity stellar population? Or am I missing something?

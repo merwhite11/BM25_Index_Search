@@ -1,0 +1,9 @@
+Infall velocity in core-collapse supernovae
+
+In this article Neutrino Transport in core-collapse supernovae, in the description of core-collapse supernova mechanism, it is stated that
+
+The velocity of infalling matter in the core increases as we move out
+from the core center.
+
+I initially thought this velocity is the free-fall velocity. Since free-fall time varies as 1/sqrt(density) and density decreases as we move outwards from core centre, so free-fall time will be higher, and hence the free-fall velocity will be smaller.
+But the infall velocity shows an opposite trend. What sets this 'infall velocity' and why it increases as we move out from the core centre?

@@ -1,0 +1,8 @@
+What is the projection of Earth's axis on the sphere with the Sun in center (see explanation)
+
+Seems like it is the most convenient SE community for this question.. 
+Imagine the sphere, witch center is the Sun and radius is, say, ~1.5 distance from Sun to earth (in arbitrary time, precise number doesn't matter much).
+EDIT: the center of sphere is 'attached' to the Sun.
+Then, imagine, the Earth's axis projection on that sphere in time. It leaves some trace.
+What will be the picture? Will it repeat itself through some period? What will be the "scansion" for different time periods?
+EDIT: as reply to comments I'll add, that my interest is purely out of curiosity, and degree of required accuracy is low. I don't want high precision here, just rough pattern. As I understand this could be done, using mentioned Milankovitch cycles, but I'm not much into mathematics. Though, if I'll not find answer here, I will be forced (by myself) to figure this out, when i'll get some spare time heh.

@@ -1,0 +1,6 @@
+What are Native coordinates in the World Coordinate System?
+
+i am writing my first paper about our solar telescope, and i need to explain the optical transformations in terms of World Coordinate Systems. I am not sure if i got the following right, and would be appreciated if someone could help understanding it(Paper II from https://fits.gsfc.nasa.gov/fits_wcs.html):
+Are native coordinates just normal (in my case (az,alt)) spherical coordinates, with its origin in the pole/reference point (in my case, the sun center) of the linear transformation?
+Are Projection Plane coordinates measured in arcsec? (i dont need this, but would like to understand: why isnt the projection plane of a camera a sphere?)
+Would really appreciate an answer! Have a nice day.

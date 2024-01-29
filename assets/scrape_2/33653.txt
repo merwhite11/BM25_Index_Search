@@ -1,0 +1,6 @@
+Spectral Class Breakdown
+
+Where can I get a more detailed breakdown of Spectral Classes.  Wikipedia only has it at Letter level rather than sublevel. 
+For example, https://en.wikipedia.org/wiki/Stellar_classification has B ranging from 10,000 - 30,000K.  B0 is different to a B9, what would be the temperature range for a B0 or a B9 but not limiting to B but for all letters?
+I'm not just looking at Temperature, I'm after Mass, Radius, Luminosity, Hydrogen Lines etc.
+The closest that I've come is https://sites.uni.edu/morgans/astro/course/Notes/section2/spectraltemps.html  but it doesn't mention types II or IV and doesn't have Radius or Mass.

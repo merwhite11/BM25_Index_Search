@@ -1,0 +1,3 @@
+Theoretical measure of distance to black hole?
+
+Would it be possible to measure the distance to a black hole of known mass by measuring the radius of the most redshifted radiation that is detectable? The idea is that since the point where that radiation vanishes is related to the gravitational potential difference between the observer and the point of emission of that radiation, we should be able to get an estimate of how far we are by observing how far into the black hole we can see (assuming that for a given mass and an observer at infinity that radius is fixed).

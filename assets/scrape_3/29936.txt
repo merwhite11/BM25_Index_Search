@@ -1,0 +1,14 @@
+What percentage of Helium-3 is primordial vs produced in stars
+
+I tried to research but what I found is pretty limited.    A very tiny but non zero percentage of primordial matter was Helium-3 or 3He.
+Stars produce 3He as part of the proton-proton chain but they also consume 3He.   It has about a 400 year half life in our sun.   From Wikipedia.
+
+In the Sun, each helium-3 nucleus produced in these reactions exists
+  for only about 400 years before it is converted into helium-4.[6] Once
+  the helium-3 has been produced, there are four possible paths to
+  generate 4He
+
+My question is 2-fold.   Is the primordial amounts of 3He significant or insignificant compared to what stars produce and eject by coronal mass ejections or blowing up into nebulas, and are there specific stars, due to the internal heat and rate of reaction that product and eject more 3He into their mass ejections.
+For example, would airless, rocky, magnetic field free worlds around red dwarfs be more saturated with 3He or would you find more around larger, hotter stars that undergo fusion faster.    If I wanted to go He3 mining, would I set my ship to a red dwarf system or a blue star system or a nebula?
+It's not for a book or anything, I'm just personally curious, as 3He is potentially very useful stuff.
+I'm aware that primordial isn't particularly easy to collect, as anything gaseous and primordial would spread out and only collect in large gravity wells, gas giants or larger.   But primordial 3He could, for example, exist in Jupiter or Saturn from formation, though the formation of their magnetic fields probably prevents them from absorbing any ejected from stars.  Hence the primordial vs star ejected ratio and the type of star that produced the most question are somewhat related, so I thought one question rather than two, but I can split into two questions if desired.

@@ -1,0 +1,4 @@
+Given that Kepler's Third Law as stated on most websites doesn't include mass, how does it work for planets in other star systems?
+
+Kepler's Third Law as stated on websites I found while searching for "how to convert between a planet's orbital period and semi major axis" is $P^2 = A^3$ where P is the orbital period in years and A the semi major axis in AU.
+However, why is mass of the central body not included?  If Earth was orbiting at the same distance around a star with more or less mass than our Sun, surely its orbital period would be different?

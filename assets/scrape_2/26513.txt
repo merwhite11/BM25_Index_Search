@@ -1,0 +1,5 @@
+Formula for sun's atmospheric refraction below the horizon
+
+I have searched in Google and found interesting articles for atmospheric refraction influence on sun's elevation above the horizon (from 0° till 90°).
+eg. Bennett G.G. etc.
+I would like to know if there is a formula that approximates the refraction when the sun's center is below the horizon (from 0° to ca. -3°) and taking in account for temperature and air pressure.

@@ -1,0 +1,3 @@
+How is solar radiation pressure included in the SGP4 orbital propagator?
+
+TLE sets serve as input elements for the SGP4 orbital propagator. Several orbital perturbation effects are considered in the SGP4. However, it is not obvious to me how (or if) the solar radiation pressure is accounted for in the SGP4.

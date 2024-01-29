@@ -1,0 +1,3 @@
+Estimating Sun luminosity from first principles
+
+In a lecture, it was claimed that luminosity can be estimated by dividing how much energy there is in the Sun with the typical time it takes for a photon to get out from the centre of the Sun to its surface. I don't see how that argument holds. Why would that give me luminosity?

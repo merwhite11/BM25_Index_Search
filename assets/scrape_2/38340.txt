@@ -1,0 +1,6 @@
+Are all solutions of the 3-body problem restricted to 2 dimensions?
+
+I am not a physicist.
+Suppose there are two massive bodies orbiting each other. Their orbit will presumably define a plane.  As far as I know, the existing solutions to the 3-body problem are limited to a plane.
+Has any work been done on 3-dimensional orbits? For example two bodies are orbiting one another and a third body enters the system at right angle to their plane?
+Specifically (1) Are there any solutions even for special cases of this? (2) Would such 3-D systems inevitability decay into 2 dimensions?

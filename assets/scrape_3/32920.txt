@@ -1,0 +1,15 @@
+On the consistency of different well-polished astronomy software
+
+I have purchased a custom wedding band from a seller that claims the ring will show the constellations visible at the horizon on a specific date at a certain date and time. 
+However, I have fired up Stellarium and set it up to look at a specific example shown in the product page - and I cannot find any set of parameters which looks like it: Jupiter's not in the right place, some constellations are under the horizon (Virgo, Libra, Leo), some others very high in the sky (Andromeda, Perseus)... Although it's the first time I use Stellarium, I don't see how I could make a mistake:
+
+Location set to London Bridge (even the preset London to be sure)
+Date and time set just like in the example (double-checked 5 times)
+Cylindrical projection (tried all of them though), offset -30%
+FoV 210° (to have the 360° mapped to the entire screen - I have
+absolutely no idea why 180° does not work)
+Elevation lines horizontal (although I tried moving around to align everything like in the pictures for every projection method - in vain)
+
+Here is the example:
+
+Am I missing something, or is their sky map wrong? If yes, is it possible that two pieces of well-polished software like Stellarium and this one (looks just as good as Stellarium) have different star locations? How come (isn't there a standard star almanach?)?

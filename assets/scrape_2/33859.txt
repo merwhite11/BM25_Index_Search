@@ -1,0 +1,6 @@
+Why is there "modulus" word in the "distance modulus" term?
+
+The difference of apparent (m) and absolute (M) magnitudes of an object is called "distance modulus", which is related to the distance $d$ to the object in parsecs with equation
+$$m - M = 5 \log \Big(\frac{d}{10 \ \textrm{pc}}\Big) \tag{1}.$$
+I'm trying to understand why $m - M$ is called "distance modulus". The word "distance" makes sense, because there is a distance d term in Eq. (1). But what is "modulus" word doing there? In math, modulus means the remainder after division of two numbers. For example, modulus of 5 and 3 is 2. 
+Another meaning of "modulus" is length of a vector. I don't see how either of these two meanings can be relevant to Eq. 1.

@@ -1,0 +1,33 @@
+Why is it called "The LOFAR 'superterp'"? What is a terp, and what's so super about this one?
+
+Wikipedia's Low-Frequency Array (LOFAR) includes the image below with the caption:
+
+The LOFAR core ("superterp") near Exloo, Netherlands. The bridges give an idea of the scale.
+
+Question: Why is it called "The LOFAR 'superterp'"? What is a terp, and what's so super about this one?
+B. W. Stappers et al. (2011) Observing pulsars and fast transients with LOFAR may offer clues:
+
+A schematic diagram of some of the LOFAR stations in the inner core
+of LOFAR − the “Superterp” as it is known − is shown in Figure 1.
+
+
+
+Fig. 1. Three successive zoom-outs showing the stations in the LOFAR core. The different scales of the hierarchically organised
+HBA elements are highlighted and their respective beam sizes are shown. The large circular area marks the edge of the Superterp,
+which contains the inner-most 6 stations (i.e. 12 HBA sub-stations: where there are 2 sub-stations, each of 24 tiles, in each HBA
+core station); other core stations can be seen highlighted beyond the Superterp in the third panel. Left: a single HBA tile and
+associated beam. Middle: A single HBA sub-station with three simultaneous station beams. Right: The 6 stations of the Superterp
+plus 3 core stations in the background are highlighted. Four independent beams formed from the coherent combination of all 24
+core HBA stations, most of which are outside this photo, are shown. For the LBA stations, a similar scheme applies except that
+each LBA dipole can effectively see the whole sky. Fields of the relatively sparsely distributed LBA antennas are visible in between
+the highlighted HBA stations in all three panels.
+
+
+
+Source: File:LOFAR Superterp.jpg
+
+
+Description, English: The LOFAR 'superterp'. This is part of the core of the extended telescope located near Exloo, Netherlands.
+Date: 23 May 2010
+Source: http://www.jb.man.ac.uk/news/2011/LOFAR-pulsars/
+Author: LOFAR / ASTRON

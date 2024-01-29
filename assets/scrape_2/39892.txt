@@ -1,0 +1,71 @@
+Usage of the standard solar system (astronomical) symbols
+
+
+Note: this is a follow-up question based on answers I've received in TeX SE on Packages for standard solar system (astronomical) symbols on the off-chance that some here may have actual hands-on experience with both TeX and these astronomical symbols.
+
+
+Recently, I have been looking for specific LaTeX packages for generating the following symbols of the solar system.
+
+Photo source: https://solarsystem.nasa.gov/resources/680/solar-system-symbols/
+I have tried using the packages mathabx and wasysym. But I have found that they both have some issues and I need to use both of them to generate the above symbols. I have discussed it on TeX SE here and got this solution:
+\documentclass[a4paper,12pt]{article} 
+
+\usepackage{amsmath,amssymb} 
+
+% wasysym redefinitions
+\newcommand*{\wasyfamily}{\fontencoding{U}\fontfamily{wasy}\selectfont}
+\newcommand*{\astrosun}{{\odot}}
+\newcommand*{\mercury}{{\text{\wasyfamily\char39}}}
+\newcommand*{\venus}{{\text{\wasyfamily\char25}}}
+\newcommand*{\earth}{{\oplus}}
+\newcommand*{\mars}{{\text{\wasyfamily\char26}}}
+\newcommand*{\jupiter}{{\text{\wasyfamily\char88}}}
+\newcommand*{\saturn}{{\text{\wasyfamily\char89}}}
+\newcommand*{\uranus}{{\text{\wasyfamily\char90}}}
+\newcommand*{\neptune}{{\text{\wasyfamily\char91}}}
+\newcommand*{\pluto}{{\text{\wasyfamily\char92}}}
+
+% mathabx definitions
+\newcommand*{\mathabxbfamily}{\fontencoding{U}\fontfamily{mathb}\selectfont}
+\DeclareFontFamily{U}{mathb}{\hyphenchar\font45}
+\DeclareFontShape{U}{mathb}{m}{n}{
+      <5> <6> <7> <8> <9> <10> gen * mathb
+      <10.95> mathb10 <12> <14.4> <17.28> <20.74> <24.88> mathb12
+      }{}
+\newcommand*{\Sun}{{\text{\mathabxbfamily\char"40}}}
+\newcommand*{\Mercury}{{\text{\mathabxbfamily\char"41}}}
+\newcommand*{\Venus}{{\text{\mathabxbfamily\char"42}}}
+\newcommand*{\Earth}{{\text{\mathabxbfamily\char"43}}}
+\newcommand*{\Mars}{{\text{\mathabxbfamily\char"44}}}
+\newcommand*{\Jupiter}{{\text{\mathabxbfamily\char"45}}}
+\newcommand*{\Saturn}{{\text{\mathabxbfamily\char"46}}}
+\newcommand*{\Uranus}{{\text{\mathabxbfamily\char"47}}}
+\newcommand*{\Neptune}{{\text{\mathabxbfamily\char"48}}}
+\newcommand*{\Pluto}{{\text{\mathabxbfamily\char"49}}}
+
+\newcommand*{\astrosymbolsA}{\Sun\Mercury\Venus\Earth\Mars\Jupiter\Saturn\Uranus\Neptune\Pluto}
+
+\newcommand*{\astrosymbolsB}{\astrosun\mercury\venus\earth\mars\jupiter\saturn\uranus\neptune\pluto}
+
+\newcommand*{\astrosymbolsC}{\Sun\Mercury\Venus\Earth\Mars\jupiter\saturn\Uranus\Neptune\pluto}
+
+\begin{document}
+\begin{align*}
+   \text{mathabx: } \astrosymbolsA \\ 
+   \text{wasysym: } \astrosymbolsB
+\end{align*}
+Taking \jupiter, \saturn, \pluto  \, from `wasysym' and others from `mathabx': 
+\begin{align*}
+        \Sun\Mercury\Venus\Earth\Mars\jupiter\saturn\Uranus\Neptune\pluto
+\end{align*}
+
+\end{document}
+
+
+Still, they don't exactly match the symbols of the first photo.
+I guess the MWE of LaTeX codes is related to TeX SE. But I have not found any better way to cross-advertise questions of interest in multiple topics. That's why I share the codes here too.
+Here in Astronomy SE, I want to know how these symbols are used in the astronomy communities/academia.
+
+How is the frequency of using them in the technical/research publication?
+How do publishers handle them when submitting articles?
+Do they use any other dedicated/updated LaTeX packages available for generating these symbols?

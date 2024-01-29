@@ -1,0 +1,16 @@
+Is a Gas Giant a Perpetual Motion Machine?
+
+I know there's no such thing like a perpetual motion machine but I missing something in my reasoning.
+Assume there's a gas giant planet where the immense pressure of the core causes it to heat and create a convection current of its gases.
+If there's no atmosphere gases losses to space that means we have a perpetual motion machine?
+Is work being done to move all that gas (or not?). The energy to compress gases is coming from gravity but the total energy of the system remains the same?
+Now assume some heat is being dissipated in space, that means the system is losing energy.
+Can this possible go forever or will the planet reach a equilibrium where all gases and heat will be distributed in a way the convection cease?
+Or even can possible it loss energy enough to loss mass (and cease the heavy gravity effects)?
+Bonus:
+Consider we got two kinds of life forms: one breathing XY and exhaling X+Y and another doing the inverse and using the heat from some (goldilock zone) atmosphere layer (some kind of XY + Energy => X + Y, X + Y + Energy => XY cycle). Will life perse consume the energy and cooldown the planet (eventually in billions years)?
+Edit
+There's a bit of confusing about this question due to my difficult in express my doubts. Sure it's impossible to achieve total "isolation". I'm just pondering about an hypothetical scenario.
+I see now the forever convection is just equivalent to a frictionless object spinning foerever in the void.
+Any energy removed from the system will "slow down" it.
+The true question is: What if the energy of this isolated system is used to fuel life and this life is inside the system and is part of the system? It still means energy is lost?

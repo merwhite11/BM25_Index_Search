@@ -1,0 +1,8 @@
+Loading contour file in ds9
+
+I have an ASCII file (.con) with the coordinates of vertices of different contours. This file is obtained from Matlab. Now after every set of contour ends there needs to be a blank row in the contour file. In place of this, I have a row with Nan Nan in it when Matlab writes the file. What I do is simply find and Replace the Nan with nothing. But when I load the contour file in ds9 it gives me weird contours. I'm also posting the result I expect (fig 1) and the result I'm getting (fig 2). The problem here that I've understood till now is that if I copy and paste every contour block of coordinates separately into the .con file the result is as expected but I want the whole process of writing the contours from Matlab into the file such that it gives me the expected result in ds9 to be automated (basically I don't want to copy and paste every block). Can somebody help with this?
+This is what I expect:
+
+
+Link for the .con file that gives the right result: https://drive.google.com/open?id=1tDMXtmywJnSjpi_CzCI5-F85oFpebnl4
+Link for the .con file that gives the wrong result: https://drive.google.com/file/d/18rgN1UVtvcyfJSuh1mmbqOVQCna_aAUM/view

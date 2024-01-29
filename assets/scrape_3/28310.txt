@@ -1,0 +1,3 @@
+Moonkeps PC program
+
+Does anyone know where I could obtain a program called Moonkeps? It was an old MsDos based program that produced, I believe, the Keplerian elements for tracking the Moon and also the Sun. I wish to control a rotator for tracking the Sun for a project I am messing with. Dave.

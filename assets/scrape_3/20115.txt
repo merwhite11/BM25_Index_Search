@@ -1,0 +1,6 @@
+Polynesian wayfinding techniques - how does this work?
+
+In Disney's "Moana", we get a hint of a Polynesian wayfinding technique of holding your hand to "measure the stars" (note, you're not giving the sky a high-five). We get to see two different constellations measured: Crux (the Southern Cross), and Orion.
+By matching the positions of the stars either in real life or on Stellarium, I was able to figure out something of how the Southern Cross is used. You place your fingers against the four brightest stars (two pointers plus the two brightest of the cross itself), and then the south celestial pole is right in the curve of your outstretched thumb. (Aside: It makes an awesome demo in Stellarium to place your hand on the screen, do the measurements, and then turn on the grid, highlighting the south pole beautifully.)
+What I haven't managed to do, though, is match the corresponding measurement in Orion. The fingers are placed near Orion's belt and heel, but I can't figure out what is being measured. Can anyone provide either certain information, or plausible guesses?
+(I can provide a screencap if there's an appropriate way to include it in the question.)

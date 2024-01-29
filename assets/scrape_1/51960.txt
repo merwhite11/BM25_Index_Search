@@ -1,0 +1,5 @@
+How to calculate the distance from earth and Vega in 1000 years?
+
+Hello I read that Vega is getting closer to earth.
+I would like to learn how to calculate its displacement and calculate the galactic coordinates that it will have next year or in 1000 years.
+Knowing that it will not be accurate or true ^^

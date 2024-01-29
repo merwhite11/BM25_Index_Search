@@ -1,0 +1,4 @@
+What is the most accurate measurement of the Astronomical Unit?
+
+I am using the Earth-Sun distance to teach kids the usefulness of trigonometry. This site is helpful.
+But one of the more engaged asked what the most accurate measurement is. After some research, I found that elapsed time measurements of reflected radar returns seems to be the way we do it now. By measuring the distance to another planet this way and combining the parallax method, we can calculate accurate distance to the sun. But is this THE most accurate way to measure the AU? What is the error margin? If the AU were changing by .0000001 percent annually, could we detect it?

@@ -1,0 +1,9 @@
+What does "additive fringing from the (multiplicative) twilights" mean?
+
+The question How can I make the fringing pattern visible in my flat (twilight) images for filter i? includes:
+
+I have a bunch of twilight flats that have been preprocessed (dark, bias, overscan etc.) and need to remove the additive fringing from the (multiplicative) twilights. I normalized each one by dividing by the mean and then combined them using ccdproc in astropy. I then divided the normalized flats by this "new" flat and viewed them in DS9 but I still cannot see the fringing.
+
+and the OP went on to post an answer where fringes are visible.
+But I haven't any idea what causes "additive fringing" (which I assume means it's a fringing pattern that is additive to an otherwise corrected image) nor what "multiplicative twilights" means.
+Could someone explain the basics behind both?

@@ -1,0 +1,14 @@
+Mismatch between Nasa Horizons Alt & Az data and theskylive and other star maps
+
+I am trying to use NASA's Horizons systems to create a tracker for planets but I am running into a problem related to the returned ephemeris data, particularly with the altitude and azimuth. When comparing the values of a planet like Mars from Horizons to other star maps like theskylive I get values that are incredibly different.
+Planet: Mars 
+
+Lat/Long: [43.0000N, 79.0000W]
+
+Date: 24/07/23 21:00 pm EST
+
+Horizons Az&Alt: [223.53, 48.51]
+
+theskylive Az&alt: [268.8, 14.6]
+
+Am i doing something wrong?

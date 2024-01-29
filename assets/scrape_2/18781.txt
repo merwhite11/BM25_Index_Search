@@ -1,0 +1,16 @@
+What's the difference between apparent brightness and apparent magnitude? Are they the same?
+
+I know that the equation for the difference in apparent magnitudes can be represented as: 
+$\Delta m=-2.5\log\left(\dfrac{I_{1}}{I_{2}}\right)$
+and the apparent brightness of a celestial object is shown as:
+$\ B=\dfrac{L}{4\pi\ D^2}$  
+Some people in my class told me that$\ B$ and$\ I$ were the same thing but used in different cases. This explanation didn't help me though. While playing around with the equations, I found this nice relation:
+$\ \dfrac{B_{1}}{B_{2}}=\left[\dfrac {\left(\dfrac{L}{4\pi\ D_{2}^2}\right)}{\left(\dfrac{L}{4\pi\ D_{1}^2}\right)} \right]$
+$\ \space\ \space\ \space\ ={\dfrac{4\pi\ D_{1}L}{4\pi\ D_{2}^2L}}$
+$\ \space\ \space\ \space\ ={\dfrac{D_{1}^2}{D_{2}^2}}$  
+So if$\ {B_{1}}={I_{1}}$ and$\ B_{2}=I_{2}$holds true, is this following equation also true?  
+$\ {\dfrac{D_{1}^2}{D_{2}^2}} \space\ = 10^\left(-{\dfrac{\Delta {m}}{2.5}}\right)$
+$\ \space\ \space\ \space\ \space\ =\dfrac{1}{10^\left({\dfrac{\Delta {m}}{2.5}}\right)}$   
+
+However, if$\ B$ and$\ I$ are not the same, what is the difference between the two measurements? And can either one be used to accurately measure how bright a non-luminous celestial body (ie. a planet) appears from Earth?  
+Also... does $\ m$ have an SI unit? I've never used any units when I solve for it

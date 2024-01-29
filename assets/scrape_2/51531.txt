@@ -1,0 +1,5 @@
+Python Program for Synodic months
+
+I am trying to make an astronomical program for celestial bodies in our solar system (and beyond!).
+However I want it to show how many Synodic months since New moon. Example: Since last 2022 there happened 0.50794789457 Synodic months.
+So is there any API/library to get such data (it's not a necessity that a module would be required)? .

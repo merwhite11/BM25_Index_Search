@@ -1,0 +1,17 @@
+What produces all of these small radial striations in this very overexposed image of a star by Hubble's WFC2? (the four big ones are from the vanes)
+
+In a recent astrometry question in Space SE I needed to check Proxima Centauri's position and the article contained the image below.
+I've saturated the colors, cropped it, and added a "retroactive coronagraph" (black dot in the center) to show that the color scheme of the dozens of small radial striations is similar to that of the four major spikes coming from the vanes holding Hubble's secondary mirror.
+Hubble's point spread function should contain diffraction from various things including:
+
+the primary aperture
+the central occlusion of the secondary
+the four vanes holding the secondary
+the three holes in the mirror (!!!) used to mount it
+
+but there must certainly be more items in this list.
+Since this is an intensity map rather than amplitude, there is no phase information so I can't perform an inverse Fourier transform to see what's causing this, so instead I'll ask here.
+Question: What produces all of these small radial striations in this very overexposed image of a star by Hubble's WFC2? (the four big ones are from the vanes)
+It seems that this image can be found at https://esahubble.org/images/potw1343a/ which says that this image contains two wavelengths: Optical R 675 nm and Infrared I 814 nm. Since diffraction is purely chromatic we can indeed expect any diffraction effects to demonstrate strong dispersion (i.e. those colorful two-and-not-three-color patterns in this image).
+ 
+Source click the right one for larger

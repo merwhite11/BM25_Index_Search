@@ -1,0 +1,122 @@
+The path of a particle in planet's magnetic field doesn't not seem to change with the charge of the particle. Can someone please check what is wrong?
+
+I am trying to plot the path of a charged particle in a planet's magnetic field. For positive and negative charge (β=charge/mass) different solutions/paths are expected. But,I got the same solution (values). In the plots of the variables with time in 2D it too show the same graphs. However, plots in 3D clearly shows different solution/trajectory. Please somehow help me review the code.
+import numpy as np
+import matplotlib.pyplot as plt
+from math import sin, cos, pi
+from scipy.integrate import odeint
+scales = np.array([1e2, 0.1, 1, 1e-15, 10, 0.1])
+
+β =  9.67e7   # charge/mass
+def odes(p, t):
+# assigning each ODE to a vector element
+r,x,θ,y,ϕ,z = p*scales
+    
+# constants
+R = 60268e3;     g_10 = 21141e-9;     Ω = 9.74e-3
+B_θ = (R/r)**3*g_10*sin(θ)
+B_r = 2*(R/r)**3*g_10*cos(θ)
+β = + 9.67e5
+
+# defining the ODEs only Lorentz Force
+drdt = x
+dxdt = r*(y**2 +(z+Ω)**2*sin(θ)**2-β*z*sin(θ)*B_θ)
+dθdt = y
+dydt = (-2*x*y +r*(z+Ω)**2*sin(θ)*cos(θ)+β*r*z*sin(θ)*B_r)/r 
+dϕdt = z
+dzdt = (-2*(z+Ω)*(x*sin(θ)+r*y*cos(θ))+β*(x*B_θ-r*y*B_r))/(r*sin(θ))
+
+return np.array([drdt,dxdt,dθdt,dydt,dϕdt,dzdt])/scales
+
+# initial conditions
+r0 = 6.8e+07
+x0 = 0.002
+θ0 = 80.0*1.745e-2; y0 = 0.0*1.745e-2;  ϕ0 = 0.0*1.745e-2; z0 = 0.0202*1.745e-2
+
+# time window
+t = np.linspace(0,3600,4000)
+p0 = np.array([r0,x0,θ0,y0,ϕ0,z0])
+p = odeint(odes,p0,t, atol=1e-8, rtol=1e-8)
+
+r,x,θ,y,ϕ,z = p.T*scales[:,None]
+print (p.T)
+
+#plot the results
+fig,ax=plt.subplots(2,3,figsize=(8,4))
+plt.xlabel('time in seconds')
+plt.ylabel('parameters')
+#plt.title('EM for Negative Charge ( β = - 9.67e5) ')
+plt.title('EM for Positive Charge ( β = + 9.67e5) ')
+for a,u in zip(ax.flatten(),[r,x,θ,y,ϕ,z]):
+    a.plot(t,u); a.grid()
+plt.tight_layout(); plt.show()
+
+
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import axes3d
+import matplotlib.pyplot as plt
+from mpl_toolkits import mplot3d
+
+# 3D Cartesian
+fig = plt.figure()
+
+# spherical to cartesian
+x = (r * np.sin(θ)* np.cos(ϕ))/1000
+y = (r * np.sin(θ)* np.sin(ϕ))/1000
+z = (r * np.cos(θ))/1000
+print ("x =", x)
+print("y =", y)
+print ("z =", z)
+
+ax = plt.axes(projection="3d")
+ax.plot3D(x,y,z, color="red",linewidth='0.5')
+ax.set_xlabel('X-Axis')
+ax.set_ylabel('Y-axis')
+ax.set_zlabel('Z-axis')
+
+#plt.title('EM for Negative Charge ( β = - 9.67e5)')
+plt.title('EM for Positive Charge ( β = + 9.67e5) ')
+plt.show()
+
+ **Solutions for Positive beta ( +q/m):**
+ [[ 6.80000000e+07  6.80025533e+07  6.80102123e+07 ...  2.35930802e+09
+   2.35989788e+09  2.36048774e+09]
+   [ 2.00000000e-03  5.67230607e+06  1.13433370e+07 ...  6.55236454e+08
+   6.55236597e+08  6.55236740e+08]
+ [ 1.39600000e+00  1.39600663e+00  1.39602652e+00 ...  1.56554064e+00
+   1.56554189e+00  1.56554314e+00]
+ [ 0.00000000e+00  1.47303014e+10  2.94505438e+10 ...  1.38803448e+09
+   1.38734094e+09  1.38664793e+09]
+ [ 0.00000000e+00  3.15050355e-06  6.16484138e-06 ... -3.35040490e+00
+  -3.35128101e+00 -3.35215712e+00]
+ [ 3.52490000e-04  3.44925730e-04  3.22240365e-04 ... -9.73211386e-02
+  -9.73211780e-02 -9.73212174e-02]]
+x = [ 6.69638146e+06  6.69664074e+06  6.69741848e+06 ... -1.16679833e+08
+ -1.18501460e+08 -1.20314886e+08]
+y = [ 0.00000000e+00  2.10977904e+02  4.12885226e+02 ... -2.05055169e+08
+ -2.04076079e+08 -2.03080807e+08]
+z = [1182571.48669918 1182571.48610586 1182571.4845813  ... 1239972.95449587
+ 1239988.16352907 1240003.37257228]
+
+
+
+****Solution for Negative charge****
+
+[[ 6.80000000e+07  6.80025533e+07  6.80102124e+07 ...  2.35332758e+09
+   2.35391578e+09  2.35450398e+09]
+ [ 2.00000000e-03  5.67236481e+06  1.13434496e+07 ...  6.53392994e+08
+   6.53393123e+08  6.53393253e+08]
+ [ 1.39600000e+00  1.39600663e+00  1.39602652e+00 ...  1.56601504e+00
+   1.56601630e+00  1.56601755e+00]
+ [ 0.00000000e+00  1.47299932e+10  2.94499349e+10 ...  1.39926205e+09
+   1.39856314e+09  1.39786474e+09]
+ [ 0.00000000e+00  3.15047326e-06  6.16459918e-06 ... -3.35041308e+00
+  -3.35128919e+00 -3.35216529e+00]
+ [ 3.52490000e-04  3.44915637e-04  3.22200020e-04 ... -9.73209613e-02
+  -9.73210008e-02 -9.73210403e-02]]
+x = [ 6.69638146e+06  6.69664074e+06  6.69741849e+06 ... -1.16401081e+08
+ -1.18218003e+08 -1.20026744e+08]
+y = [ 0.00000000e+00  2.10975876e+02  4.12869006e+02 ... -2.04526354e+08
+ -2.03549583e+08 -2.02556671e+08]
+z = [1182571.48669918 1182571.48749931 1182571.49009402 ... 1125190.09460013
+ 1125174.89571226 1125159.69681527]}

@@ -1,0 +1,22 @@
+With only seemingly two measurements 30 minutes apart, how were astronomers able to determine that asteroid 2022 EB5's trajectory intersected Earth?
+
+Earthsky.org's Asteroid discovered hours before Earth impact begins
+
+Hungarian astronomer Krisztián Sárneczky at the Piszkésteto Mountain Station – part of Konkoly Observatory near Budapest – discovered a small asteroid on March 11, 2022, just two hours before it struck Earth’s atmosphere. The asteroid is believed to have started out about 10 feet (3 meters) wide. Now labeled 2022 EB5, this object entered Earth’s atmosphere north of Iceland at 21:22 UTC on March 11. Orbit simulation expert Tony Dunn on Twitter (@tony873004) commented:
+
+When 2022 EB5 struck the Earth north of Iceland this morning, it became the 5th asteroid to be discovered prior to impacting Earth.
+
+The other four are 2014 AA, 2018 LA, 2008 TC3 and 2019 MO.
+
+It then links to the
+Stefan Kurti's tweet as @KurtiStefan:
+
+5th Earth impactor from Piszkéstető Obs: 2022 EB5 Yesterday at 19:24 UT an unknown moving objects of 17 mag was found by K. Sárneczky on images from 0.6-m Schmidt telescope. Acquired data 30 min later showed that it was going to collide with Earth in 2 hours time.
+
+The Earth isn't such a large target, though it is attractive both aesthetically and gravitationally, but one would need fairly good estimate of the trajectory from that first half hour for it to be fairly certain it would strike the Earth.
+Question: With only seemingly two measurements 30 minutes apart, how were astronomers able to determine that asteroid 2022 EB5's trajectory intersected Earth?
+Just fyi; a quick check of the internet suggests that the impact with at least the atmosphere may have been confirmed by global infrasound measurements.
+From University of Western Ontario Meteor Scientist and Planetary Astronomer Peter Brown's tweet as @pgbrown:
+
+Infrasound detection from 2022 EB5 impact off the coast of Iceland at I37NO between 2223-2227 UTC. Below is I18DK infrasound data in Greenland. Arrival near 2340 UTC. From this data yield is approximately 2-3 kT TNT. At 15 km/s, this is roughly 3-4 m diameter.
+@WesternU #2002EB5

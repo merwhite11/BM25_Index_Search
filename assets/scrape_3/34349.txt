@@ -1,0 +1,3 @@
+What reference frame do age-of-the-universe calculations assume?
+
+I'm thinking, in particular, about general relativity. When we speak, for example, of neutrino decoupling, what do we mean when we say this happened in the first second after the Big Bang? Do we mean one second from the point of view of an imaginary observer subject to the same relativistic effects on time? How much can we even say about the affect of relativity in this context?

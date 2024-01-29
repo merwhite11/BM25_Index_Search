@@ -1,0 +1,24 @@
+Are Saros series separated by "40" in numbering related in any way?
+
+Can anyone help with this question? My question arose from an eclipse related observation that I made while looking into lunar Saros series 129. It is the Saros series number for the lunar eclipse that occurred on this past July 27, 2018.
+First I saw that this Saros 129 series was "born" June 10, 1351 and the series will end June 24, 2613 (70 saros cycles of 18 years = roughly 1260 years). So, I became curious to see if another Saros series had ended just before Saros 129 began. I saw that Saros 89 (less by 40 in series numbering) had ended just four years earlier on July 23, 1347. Investigating further, I learned that there are roughly 40 different Saros series that are "active" at any one given time. So then I looked back further to lunar Saros 49 and observed that there does indeed seem to be a pattern involving roughly "40" less in the numbering (i.e. yes indeed, series 49 also ended just as series 89 began). These observations do seem to me as more than mere coincidences.
+So, my question now is - Are these particular lunar Saros series (separated by "40" in numbering) related in any way? - series 49, 89, and 129. Is there another cycle or a "greater" cycle also at work here that I am unaware of?
+Please see the comments below if what I am asking seems unclear - my comments might rephrase the question for clarity.
+
+Edit - I checked several other Saros series numbers separated by 40. I am adding additional information below - hoping that it might help find an answer to this question about relatedness of the "40
+apart" series.
+
+Checking other series spaced by 40 numbering, these Saros series (that are numbered 40 apart – i.e. 40, 80, 120 etc.) always contain eclipses that are separated by ~1418 days between eclipses in each respective series (i.e. exactly 4 lunar years/48 lunar months).
+Small Saros series (those containing fewer cycles - i.e. 70-74 saros cycles in the series) contain saros cycles that overlap minimally (Saros 129 which is only 70 eclipse cycles in length has no overlap and began just after Saros 89 came to an end 1418 days earlier). Note - zero eclipse cycles between them overlap.
+Large Saros series (those containing more cycles – i.e. 80-84 saros cycles in the series) contain saros cycles that overlap accordingly (Saros 120 which is 83 cycles long thus began 13 cycles before Saros 80 came to an end with the overlapping eclipses each gapped by 1418 days). Note - 13 eclipse cycles overlap accordingly - again about 70 eclipse cycles with no overlap between these series.
+It seems like about 70 eclipse cycles (constituting ~1262 solar years or ~1300 lunar years) is the standard length of each adjacent Saros series – considering the non-overlapping portion only – each non-overlapping portion separated by 4 lunar years.
+
+Edit - Thanks to anyone who can shed any additional light on this.
+Additional Edit - In response to the given answer concerning the "puzzling" 1418 days observed between every "standard saros series of
+70 cycles", I have also noted that the observed "1418 day difference"
+between them appears to be the same difference that exists between
+every "4 Saros cycles of approx 18.03 years and 4 Metonic cycles of
+approx 19.00 years" - i.e (4 x 19.00 x 365.25 days) - (4 x 18.03 x
+365.25 days) =  1417.17 days - equaling four lunar years difference (which is the actual basis for reconciling the solar and lunar
+cycles). I suspect that these two distinct observations are therefore
+somehow related.

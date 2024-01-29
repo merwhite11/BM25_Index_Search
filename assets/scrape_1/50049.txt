@@ -1,0 +1,4 @@
+Is there a general way to plot the evolutionary track of a star on HR diagram?
+
+HR diagrams for stars are available on the internet and it is also easy to plot this for thousands of stars from their absolute magnitude and color index values (obtainable from any catalog). However, we don't see many evolutionary tracks on HR diagram for a particular star. Even if we see one, that is probably a schematic diagram rather than a plot from data.
+Is it not possible to plot the evolutionary track of a star given its mass, temperature, luminosity, etc? Is there any such software/packages where you can achieve this?

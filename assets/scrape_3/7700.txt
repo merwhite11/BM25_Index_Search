@@ -1,0 +1,71 @@
+What is the correct ratio of Newtonian to General Relativistic gravitational effects for Sun + single planet orbital system
+
+For a hypothetical orbital system (Sun + single planet) the Newtonian model and the General Relativity (GR) model produce different expressions for the gravitational effect of the Sun on the planet. This is well known.
+The ratio between the Newtonian and GR effects is expressed in different ways by different writers.
+I am having trouble reconciling two such expressions of the Newtonian:GR ratio.
+Firstly Walter (2008) (equation 12.7.6, page 482) presents  the following expression for the equation of motion produced from the GR model
+$$\frac{d^2\,u}{d\theta^2} + u = \frac{GM}{h^2} + \frac{3GM}{c^2}u^2$$
+where $u= (1/r)$, $h=vr$, $G$ is the universal constant of gravitation, $M$ is mass of the Sun, $c$ is speed of light.  Here the term $GM/h^2$ is the ordinary Newtonian term and the term $3GMu^2/c^2$ is the additional term introduced by GR.
+From this Walter derives the approximate ratio between Newtonian and GR effects as
+$(1)$ to $(1 + 3v^2/c^2)$ where $v = \sqrt{GM/r}$ is the orbital speed of the planet in a circular orbit (with distance $r$ = $a$, the semi-major axis).
+Secondly, an alternative presentation (referring to the so-called Schwartzchild solution) is given by Goldstein in Classical Mechanics (3rd Edition) pages 536-538.  The GR potential $V_{GR}$ is given by
+$$V = -\frac{GMm}{r} -\frac{b}{r^3}$$
+where $m$ is the target body mass and $b$ is a constant (Goldstein uses $h$ instead of $b$, see below, but I have already used $h$ to mean something different in Walter above,)
+ differentiating the potential with respect to distance $r$ to give force we derive
+$$F_{GR} = \frac{GMm}{r^2} + \frac{3b}{r^4}$$
+Now Goldstein defines the constant $b$ thus :-
+$$
+b = \frac{k\,l^2}{m^2c^2} \qquad\text{ Goldstein eqtn [12.48]} 
+$$
+where
+$$
+k=GMm 
+$$
+and 
+$$
+l^2 = mka(1-e^2) \qquad\text{ Goldstein eqtn[12.50]}
+$$
+So
+$$b = \frac{GMm\, m\, GMm\, a(1-e^2)}{m^2c^2}
+= \frac{GMm \, L^2}{c^2}
+= \frac{GMm \,m^2 v_c^2 a^2}{c^2}
+$$
+So the GR force equation becomes
+$$
+F_{GR} = \frac{GMm}{r^2} + \frac{3GMm m^2 v_c^2 a^2}{r^4c^2}
+$$
+substituting $a$ by $r$ we get
+$$
+F_{GR} = \frac{GMm}{r^2} + \frac{3GMm m^2 v_c^2}{r^2c^2}
+= \frac{GMm}{r^2} \left( 1 + \frac{3 v_c^2 \, m^2}{c^2} \right)
+$$
+So the Newtonian:GR ratio derived from Goldstein is the same as the ratio derived by Walter except that the former has the additional term of $m^2$ in the numerator.
+Even if we tried to fudge this numerically by invoking a unit mass target, it would still be dimensionally incorrect.
+ So what is the correct ratio?
+$$$$
+UPDATE ---------------------------------------------------------------------
+In the refactoring of $b$ I used angular momentum $L$ when I should have used specific angular momentum $\mathfrak{l}$. After correction the extra $m^2$ disappears. Goldstein agrees with Walter. My thanks to Stan Liou for illumination.
+Corrected analysis:-
+$$b = \frac{GMm\, m\, GMm\, a(1-e^2)}{m^2c^2}
+= \frac{GMm \, \mathfrak{l}^2}{c^2}
+= \frac{GMm \,v_c^2 a^2}{c^2}
+$$
+So the GR force equation becomes
+$$
+F_{GR} = \frac{GMm}{r^2} + \frac{3GMm v_c^2 a^2}{r^4c^2}
+$$
+substituting $a$ by $r$ we get
+$$
+F_{GR} = \frac{GMm}{r^2} + \frac{3GMm v_c^2}{r^2c^2}
+= \frac{GMm}{r^2} \left( 1 + \frac{3 v_c^2}{c^2} \right)
+$$
+So the correct ratio of Newtonian to GR gravitational force is:-
+$$
+F_{Newtonian}:F_{GR}
+\approx  1: \left( 1 + \frac{3 v_c^2}{c^2} \right)
+$$
+NOTES
+This ratio is approximate and only applies in the "low velocity, weak field" sub-domain of the GR model.  
+Goldstein also emphasises that the GR effect is not a velocity effect (presumably as in the velocity of the target body through any kind of aether or flux).
+Coincidentally (in the same sub-domain e.g. Mercury orbitting the Sun) a modified Newtonian radial force of magnitude $f=GMm/r^2 * [1 + 3v_t^2/c^2]$, where $v_t$ is the instantaneous transverse velocity of a small target planet, produces non-Newtonian apsidal rotation ("perihelion precession") of the same magnitude (within 1%) as GR.  
+Goldstein needs to be read with care. Here he uses $l$ to denote angular momentum elsewhere (e.g. eqtn [1.7]) he uses $L$. He often refers to $V$ as "potential" when he is clearly referring to "potential energy" (e.g. eqtn [3.49]).

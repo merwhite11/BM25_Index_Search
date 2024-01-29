@@ -1,0 +1,3 @@
+Question about stellar remnants
+
+I know that after a star undergoes the process of mass loss, depending on the mass of the core the stellar remnants gets converted into a white dwarf star, neutron star or a black hole. Hence, if the mass of the stellar remnant exceeds the Tolman–Oppenheimer–Volkoff limit, then it gets converted to a black hole. So is there currently any equation which helps us to calculate the amount of time taken by the leftover core to get converted to a black hole or the rate at which the mass is gravitationally collapsing?

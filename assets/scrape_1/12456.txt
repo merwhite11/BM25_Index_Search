@@ -1,0 +1,4 @@
+Estimates of exoplanets distribution consistent with current data
+
+I am interested in current estimate of distribution of planets of various radii in various distances from their parent star. There is many sources, where one can find database of presently known exoplanets, for example exoplanets.org, www.openexoplanetcatalogue.com and others. However, the known exoplanets are, of course, subject to conditional probability of detection by various methods. One cannot take the database as representative distribution, because, for example, hot Jupiters or big planets in general would be greatly overestimated.
+What are the best resources to obtain current unbiased estimates of exoplanet radii and distances?

@@ -1,0 +1,5 @@
+How much radiation would something need to output to sufficiently affect the CMB?
+
+Let’s say that I had some device capable of outputting insane amounts of radiation, across the entire EM spectrum. If I wanted to affect the CMB to the point that, were Earth-based scientists to know that the device existed, they would be unable to gather any useful data from the CMB regarding the early universe, how much radiation would this theoretical device have to output? Peaking in what frequency? Where would be the optimal place to put it? Or multiple copies of it?
+If someone who actually knows stuff about the CMB is scratching their head thinking I’m nuts, I probably am. I don’t know much about the CMB, except that it’s random EM waves that are leftovers from the Big Bang, peaking in the microwave frequency range. So if what I’m describing is absolutely implausible across all frequencies and amplitudes, I would appreciate if you could explain why, given my low level of knowledge on the topic. 
+In the event that for certain waves what I’m describing is possible, I would be curious to know if there’s actually anything in the known universe that could do it.

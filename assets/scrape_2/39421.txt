@@ -1,0 +1,12 @@
+Cross-correlations between Lagrange and Fourier synthesis
+
+In the context of forecast for large surveys, I have to make cross-correlations between 2D (with angular coordinates of Lagrange transformation for GC photometric and Weak Lensing) and 3D (Fourier transform with radial coordinates for GC spectroscopic).
+For the moment, only cross-correlation for 2D is achieved (GCph+WL+XC), or what we call 3x2 points (with XC representing the cross-correlations).
+For example, a Fisher matrix element for 3x2pt is expressed as :
+
+where $\epsilon$ ranges over G(Galaxy), L(Weak lensing) and GL(Galaxy,Weak lensing)
+Could anyone tell me or give links plese about the full cross-correlations between 2D and 3D, i.e GCsp+GCph+WL+XC (4x2 points) in the litterature ?
+Beyond a complicated theorical formula, I prefer to know more about the state of the art.
+I mean, I would like to know what has been already done in this attempt of cross-correlation 2D+3D.
+One told me there are been Bessel-Fourier works or some similar stuff but I would like to have more informations about this.
+Any help is welcome

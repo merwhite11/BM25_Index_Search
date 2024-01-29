@@ -1,0 +1,9 @@
+How do we define temperature in outer space?
+
+I was recently reading an article on space.com about : What's the Temperature of Outer Space.
+They said :
+
+Some parts of space are hot! Gas between stars, as well as the solar wind, both seem to be what we call "empty space," yet they can be more than a thousand degrees, even millions of degrees.
+
+But here is my question - "How do we define temperature in outer space?"
+We perceive temperature as the average translational kinetic energy associated with the disordered motion of atoms and moleculules, so how can the temperature be so high at some places, if there isn't any (or very, very few) molecules out there in vacuum?

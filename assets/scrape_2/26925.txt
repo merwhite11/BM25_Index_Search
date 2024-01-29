@@ -1,0 +1,3 @@
+Number of planets in a habitable zone with large moons
+
+Excluding gas giants, roughly what percentage of planets in the habitable zones of their stars would have large moons like Earth does, as opposed to Mars and its small moons/captured asteroids?

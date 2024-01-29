@@ -1,0 +1,13 @@
+What is meant by "vastness of space, which now filled a volume of a hundred million light years"?
+
+I am reading the book Cosmic biology: How life could evolve on other worlds (citation below) and do not understand the meaning of the following paragraph from page 4 (emphasis mine):
+
+It took 200,000 years or more for the universe to cool to 2700 °C, a temperature at which the protons and neutron-proton aggregates could start capturing the free flying electrons to form the first atoms of hydrogen and helium.  As the dense fog of electrons condensed into newly formed atoms, the opaqueness cleared and photons could stream without interruption across the vastness of space, which now filled a volume of a hundred million light years.
+
+I am under the assumption that a light-year is a unit of measurement for distance and spatial volume is expressed as though it fills a cube (e.g., 100 ly^3).  Even if this practice of denoting volume was unintentionally omitted, the claim does not satisfy my attempt to calculate the spherical volume:
+Given 200,000 years of elapsed time since Big Bang -> photons could have traveled a distance of 200,000 ly in any direction.
+Formula for radius of a sphere: $$\frac{4}{ 3} \pi r ^ 3 = \frac43  \pi  (200,000 ^ 3) = 3.35\times 10^{16} ly.$$
+This result is much larger than "[one] hundred million light years."
+Am I misreading this paragraph?
+
+Irwin, Louis Neal, and Dirk Schulze-Makuch. Cosmic biology: How life could evolve on other worlds. Springer Science & Business Media, 2010.

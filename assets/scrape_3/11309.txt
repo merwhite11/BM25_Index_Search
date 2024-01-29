@@ -1,0 +1,4 @@
+How significant is a planet's density to the formation of life?
+
+I'm doing some writing set on a fictional earthlike planet that for reasons needs to be substantially larger than Earth but can't have substantially higher gravity. I've been able to compromise with a planet that's 6x the circumference, having a surface gravity of 1.5G, yielding a density of about 4700kg/m^3. 
+This is quite a bit (~15%) less than Earth and Venus, but (20%) more than Mars. It would proportionally have less heavy metal, meaning less iron for a protective magnetic field. I would like this planet to have some basis in reality - could such a planet be earth-like, and is there a definitive range of planet densities where life as we know it could exist?

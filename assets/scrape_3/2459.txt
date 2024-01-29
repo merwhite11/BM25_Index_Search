@@ -1,0 +1,6 @@
+how steady over time are right ascension and declination values?
+
+I understand that astronomers use right ascension and declination for the position of stars. However both these values strike me as very anthropocentric and, more importantly, unreliable over time as I understand that the Earth wobbles a bit over time so the celestial equator shifts and I guess Sun's rotation around the galaxy and Milky Way's own trajectory should play a role in depreciating the accuracy of those values over time.
+So my questions are:
+[1] how steady are right ascension and declination values for distant stars over time?
+[2] is there a more stable coordinate system or do we lack an absolutely fixed frame of reference?

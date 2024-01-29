@@ -1,0 +1,3 @@
+Is "Zero Shadow Day" necessary to perform Eratosthenes' experiment?
+
+Eratosthenes experiment to find the circumference of the Earth is usually said to be performed on the Zero Shadow Day at Syene. Is it necessary? Can this experiment be performed on any day for two locations lying on almost same longitude?

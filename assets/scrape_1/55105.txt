@@ -1,0 +1,6 @@
+Clarifications on Planetary Magnetic Fields
+
+I believe I understand this equation for the dynamo effect of planets as far as iron-nickel cores go, where ρ is density in kilograms per cubic meter, Ω is rotation speed in radians per second, σ is electrical conductivity in the inverse of ohm-meters, and B is the magnetic field on the surface of the core in teslas (e.g. as described on wikipedia's page on dynamo theory):
+$$B \propto \sqrt\frac{\rho\Omega}{\sigma}$$
+However, what I do not understand is, assuming there's a fluid in the core, energy is provided by rotation, and convective motion occurs in the core, why can only conductors in the core form magnetic fields and not insulators?
+From what I understand, conductors have a relatively high conductivity, which would mean the denominator is high, so the magnetic field would be comparatively weak. Insulators like sulfur have a low conductivity, so the denominator would be low and the magnetic field would be strong. Could someone tell me if there is another effect that I am unaware of in comparing a conducting core and an insulating core?

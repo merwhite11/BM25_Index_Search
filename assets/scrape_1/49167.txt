@@ -1,0 +1,15 @@
+What else can we learn from a Foucault pendulum? Have they ever been used to determine anything more than that the Earth rotates on its axis?
+
+Background
+Each semester we have to make up projects for each course. This semester I took Cosmology and Astrophysics and we covered a vast amount of topics, from luminosity of stars to Einstein's field equation (we barely scratched the surface).
+Now originally I made an idea for a basic presentation, in which I would solve for the Foucault pendulum equation using classical mechanics and using that we could talk about basic proofs about how earth rotates (I know this is basic but it was pretty fun). Then we made a small app for visualizing the path of Foucault pendulum using an animation and a graph, when one can vary the latitude. You can also actually switch to different planets and see how the path changes.
+Main point of discussion - I think this is too basic and want to modify it a bit. Like perhaps by analyzing the Foucault pendulum by some other method or in some other situation. Or some way to make the simulation more cool or yield some additional information.
+Question
+Wikipedia's Foucault pendulum begins
+
+The Foucault pendulum or Foucault's pendulum is a device named after French physicist Léon Foucault, conceived as an experiment to demonstrate the Earth's rotation. The pendulum was introduced in 1851 and was the first experiment to give simple, direct evidence of the Earth's rotation. Foucault pendulums today are popular displays in science museums and universities.
+
+It's a relatively simple experiment, with a sufficiently low loss pendulum suspended from a single point, the plane that the pendulum oscillates seems to rotate as seen in the local laboratory frame.
+This allows us to see powerful evidence that the Earth is rotating without looking up.
+Question: What else can we learn from a Foucault pendulum? Have they ever been used to determine anything more than that the Earth rotates on its axis?
+With rigorous analysis, can additional information be gleaned?

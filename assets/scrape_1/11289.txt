@@ -1,0 +1,15 @@
+which pulsar has the longest spin period so far?
+
+Vela X-1 has a 283s spin period, while this one may have a 2.7hr spin period.
+However neither of them is included in ATNF catalog.
+They are not included in $p-\dot{p}$ diagram either. The longest period is just about 10s in this diagram.
+My question is since Vela X-1 is definitely a pulsar, why is it not accepted? 
+Which one has the longest spin period so far?
+
+When this diagram is mentioned in textbooks, we do not say which kind of pulsars are included at all. Why?
+$p-\dot{p}$ diagram only shows radio pulsars?  no!
+you can see magnetars,radio quiet pulsars and pulsars which are only active in $\gamma-ray$
+Except magnetars, there are no single pulsars only pulse in X-ray band?
+If a pulsar pulses in X-ray band, that does not necessarily mean it is an X-ray pulsar?
+Only pulsars in binaries and accretion-powered pulsars could be called X-ray pulsars? They should be radio-quiet?
+In binaries, there are no pulsars which pulse in radio and x-ray band simultaneously?

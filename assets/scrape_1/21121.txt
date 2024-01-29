@@ -1,0 +1,23 @@
+How do ASKAP's focal plane phased array feeds interact with the entire array phasing?
+
+Sky & Telescope's ASKAP Joins the Hunt for Mysterious Bursts says:
+
+A new telescope, the Australian Square Kilometre Array Pathfinder (ASKAP), has joined the search for energetic and elusive fast radio bursts. And in just a few days of looking, it’s already had success!
+
+Later on, the article goes into some detail about ASKAP:
+
+A new player is now on the scene, however, and it’s already had huge success. ASKAP is a wide-field radio telescope made up of an array of 12-meter antennas. Using phased-array-feed technology, ASKAP is able to instantaneously observe an effective area of 160 square degrees — an enormous field compared to Parkes’ 0.6 square degrees! This capability significantly increases our chances of being able to detect fast radio bursts.
+
+The article links to The Detection of an Extremely Bright Fast Radio Burst in a Phased Array Feed Survey which is not paywalled and contains some discussion of the array.
+This sounds really interesting! It is a phased array of dishes, but at the focal plane of each dish there is also a phased array of receivers.
+This is different than just adding an array of feed horns and independent receivers as I've discussed in my surprisingly robustly unanswered question What is the highest granularity focal-plane array on a dish radio telescope? Or is this the ONLY ONE? where receivers measure intensity as pixels, in a similar way to a camera (thus the counterintuitively placed astrophotography tag there).
+Here, each focal plane is equipped with a true phased array, where if I understand correctly, phase relationships between elements in the focal plane are maintained and recorded.
+According to Wikipedia's Australian Square Kilometre Array Pathfinder and CSIRO's Australian Square Kilometre Array
+Pathfinder – Fast Facts there are 36 separate 12-meter dishes in the entire array, and the focal plane of each dish is equipped with a 188 element focal-plane phased-array. 188 $\times$ 36 = 6768 channels, not counting polarizations because I don't know if they are separate channels in this case.
+That would require quite a hefty correlater if the analysis was done flat, without any heierarchy in the calculation. This is a pathfinder for the SKA so pushing limits is important, but I'd like to know how this large number of signals is handled. Is there pre-processing?
+
+Question: How do the phased array feeds on each dish of the ASKAP interact with the entire array phasing?
+I'm not sure of the "focal plane array" is located precisely at the focal plane or not. If it were, then a given source in the sky would produce signals in only one, or a small group of receivers, and not the whole focal plane array! One normally uses a phased array instead of an imaging system so there must be something more interesting going on here, perhaps only nearest and next-nearest neighbor correlations within the focal plane array but full correlation between the dishes?
+How does this thing really work?
+
+below x2: Cropped from CSIRO ScienceImage 2161 Close up of a radio astronomy telescope with several more in the background.

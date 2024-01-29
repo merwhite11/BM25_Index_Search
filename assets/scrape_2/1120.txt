@@ -1,0 +1,35 @@
+Is sundial time entirely dependent on solar azimuth?
+
+I've visited several "how sundials work" sites and can't seem to get a 
+clear answer to this: is "sundial time" just a linear function of 
+solar azimuth? More specifically: 
+
+When the sun is due south (northern hemisphere), it is sundial 
+noon. All sites I've visited agree on this. 
+When the sun is due west (azimuth 270 degrees), I say the sundial 
+time is 6pm, a quarter turn/day from noon. However, I can't find a 
+site that actually says this, and some sites seem to disagree with 
+this. Same for it being 6am sundial time when the sun is due east. 
+
+I know there are different types of sundials, but had always assumed 
+they would give the same sundial time. Is that not true? 
+As a note, the sundial I describe above can be fairly inaccurate at 
+times, which makes me question whether I'm correct.
+EDIT (to clarify question): Forgetting entirely about clock time for a 
+moment, suppose I build a sundial. When the sun is due west, my 
+sundial reads 6pm. When the sun is due east, my sundial reads 
+6am. When the sun is due south, my sundial reads noon. My question: 
+have I built my sundial correctly? The type of answer I'm hoping to 
+get: 
+
+No. When you build a sundial, it should read (something else) when 
+the sun is due west. 
+There are many different types of sundials. Depending on type, 
+your sundial may or may not read 6pm when the sun is due west. 
+It depends on your latitude: sundials are 
+latitude-specific. There's no such thing as a global sundial. 
+Yes, your understanding of a sundial is correct. Sundials can be 
+off by as much as (some number/formula) from mean solar time, 
+depending on your latitude. They can be as much as (some 
+number/formula) from clock time, depending on your longitude and 
+time zone.

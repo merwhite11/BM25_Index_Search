@@ -1,0 +1,3 @@
+What is the relation between column density and surface density of neutral hydrogen gas HI?
+
+I know the column density distribution of neutral hydrogen gas (units: cm^-2). I want to calculate the corresponding surface density distribution of the neutral hydrogen gas (units: M_solar/pc^2). How can I achieve the same?

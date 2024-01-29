@@ -1,0 +1,13 @@
+Why are helium resonance lines called "resonance lines"?
+
+Examples of the use of the term:
+
+Formation of the helium extreme-UV resonance lines
+On the Formation of the Resonance Lines of Helium in the Sun (unpaywalled)
+Formation of the helium EUV resonance lines.
+
+When I hear of a resonant state I think of a free particle incident on a potential where it spends a lot of time then leaves, but the electrons responsible for these lines (HeI 584 Å, HeII 304 Å) start in bound states below their binding energy and are just transitions from one bound state to another. 
+Since most emission lines from atomic transitions are not called resonance lines:
+
+Why are these lines different?
+What is particularly resonant about them?

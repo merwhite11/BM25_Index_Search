@@ -1,0 +1,13 @@
+In between Classical Gravitational Deflection (2GM/rv^2) and General Relativity (4GM/rc^2)
+
+While researching online I've found two expressions for the angle of deflection by gravitational lensing:
+
+$\dfrac{2GM}{rv^2},$ Classical(Newtonian) prediction
+$\dfrac{4GM}{rc^2},$ Relativistic prediction
+
+I know the Classical definition is accurate for small $v$, and the Relativistic prediction is accurate for light(and particles traveling close to the speed of light, presumably). However, what's in the middle ground? For instance, what would the deflection be for a particle traveling at $0.5c$?
+Sources:
+The Wiki (Relativity)
+Web article (Relativity/Newtonian)
+ Publication (Relativity/Newtonian)
+And more

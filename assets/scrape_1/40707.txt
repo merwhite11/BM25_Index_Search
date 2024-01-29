@@ -1,0 +1,14 @@
+Current best-known Drake Equation values?
+
+Frank Drake's equation is used to estimate $N$ the number of civilizations we might be able to communicate with in our galaxy:
+$$N = R_\star f_p n_e f_l f_i f_c L$$
+where:
+$R_\star$ is the average rate of star formation in the galaxy
+$f_p$ is the fraction of stars with planets
+$n_e$ is the average number of goldilocks planets per planetary system
+$f_l$ is the fraction of goldilocks planets that actually develop life
+$f_i$ is the fraction of life bearing planets that develop intelligent life
+$f_c$ is the fraction of civilizations that broadcast their existence into space
+and $L$ is the length of time for which a civilization broadcasts their existence
+Question
+Have the many exoplanets we've discovered in the last several decades improved our estimates of $f_p$, and $n_e$?  Are these values different than what was guessed about prior to the discovery of the first exoplanets?  What is our current best estimate for $R_\star$ for the Milky Way?

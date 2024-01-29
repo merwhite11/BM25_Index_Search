@@ -1,0 +1,3 @@
+Have non-periodic radio signals been analyzed for shannon entropy or put on a Zipf plot?
+
+If aliens did exist, they would probably compress their communications. And they might use a fault tolerant infrastructure like TCP/IP. In either scenario, real communications would not be periodic but closer to random noise. Has anyone performed a Zipf plot or calculated shannon entropy of non-periodic radio signals?

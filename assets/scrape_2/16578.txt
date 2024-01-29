@@ -1,0 +1,4 @@
+Will Gaia detect inactive neutron stars?
+
+Will the astrometric precision of the Gaia space telescope be able to detect the gravitational influence of cold old solitary neutron stars on the movements of stars? At least in a statistical sense to estimate how common they are around here, which could say something about how large the population III stars were.
+And if an inactive neutron star could be precisely located thanks to its gravitational influence, would it be possible to observe it directly?

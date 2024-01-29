@@ -1,0 +1,13 @@
+Question on Equatorial and Galactic coordinate systems
+
+I'm currently working with proper motions and have needed to convert my galactic longitude and latitude into right ascension and declination (ie from galactic to equatorial coordinates). This is fine since NED have a tool to do this, however once I convert into Cartesian coordinates I do not get the same results as I had for the galactic-cartesian conversion.
+I understand that the conversion from galactic to cartesian is
+x = Dcos(l)cos(b)
+y = Dcos(b)sin(l)
+z = Dsin(b)
+where D is the distance to the galaxy in question in my case.
+Also for the equatorial to cartesian transformation
+x = Dcos(RA)cos(DEC)
+y = Dcos(DEC)sin(RA)
+z = Dsin(DEC)
+I have done this for both my galactic coordinates and converted equatorial coordinates, but I do not get the same x,y and z. Should this be happening?

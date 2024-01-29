@@ -1,0 +1,3 @@
+Which force makes planets to continuously revolve around their parent star?
+
+We know that planets revolve around their parent star (or specifically Barycenter), they maintain a specific speed of revolution so that they don't end up smashing into their planet star. Which force or energy do that, so that they maintain their speed? If we have infinite amount of time, would planets smash into their parent star ?

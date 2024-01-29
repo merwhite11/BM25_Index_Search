@@ -1,0 +1,6 @@
+How can you determine the initial volume of a planet's atmosphere?
+
+Since the surface pressure of a planet is determined by the mass of the column of gasses above it one would surmise that to determine the pressure you must know the volume and mass of the atmosphere.
+Knowing the composition and volume of the gasses in the atmosphere would allow you to calculate their mass but how do we determine what that volume is?
+Assuming we are only concerned with initial conditions when the primary atmosphere (created through accretion) was formed would the volume be arbitrary?
+I hope this isn't too broad of a question. I'm trying to pin down a possible initial state that would be created when a new planet is formed and the conditions stabilize.

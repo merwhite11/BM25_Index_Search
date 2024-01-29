@@ -1,0 +1,23 @@
+MOOG 2019 and gfortran
+
+I've been trying to install MOOG Nov2019 (utexas, Wiki) on my desktop running OpenSUSE 13.1. I have the SM and X11 library paths copied into the makefile, and I am 3-sigma confident that they are the correct pathways. I'm using cc as the C compiler, and gfortan for Fortran. When I run the makefile, I get a string of errors that looks like this:
+gfortran -Wall -g -std=legacy Abfind.o Abpop.o Abunplot.o Batom.o Begin.o Binary.o Binplot.o Binplotprep.o Blankstring.o Blends.o Bmolec.o Boxit.o Calmod.o Cdcalc.o Chabund.o Cog.o Cogplot.o Cogsyn.o Correl.o Crosscorr.o Curve.o Damping.o Defcolor.o Discov.o Doflux.o Drawcurs.o Eqlib.o Ewfind.o Ewweighted.o Fakeline.o Findtic.o Finish.o Fluxplot.o Gammabark.o Getasci.o Getcount.o Getnum.o Getsyns.o Gridplo.o Gridsyn.o Infile.o Inlines.o Inmodel.o Invert.o Jexpint.o Lineinfo.o Lineabund.o Linlimit.o Makeplot.o Molquery.o Moog.o Mydriver.o Nansi.o Nearly.o Number.o Obshead.o Oneline.o Opaccouls.o OpacHelium.o OpacHydrogen.o Opacit.o Opacmetals.o Opacscat.o Params.o Partfn.o Partnew.o Plotit.o Plotremember.o Pltabun.o Pltcog.o Pltflux.o Pltspec.o Pointcurs.o Prinfo.o Putasci.o Readobs.o Rinteg.o Setmols.o Smooth.o Specplot.o Stats.o Sunder.o Synpop.o Synspec.o Synth.o Tablepop.o Taukap.o Total.o Trudamp.o Ucalc.o Vargauss.o Vmacro.o Voigt.o Wavecalc.o Weedout.o Writenumber.o -o MOOG -L/usr/local/lib/X11  -lX11 \
+        -L/usr/local/pkg/sm/2.4.36-F90/lib -lplotsub -ldevices -lutils
+
+Abunplot.o: In function `abunplot_':
+Abunplot.f:(.text+0x624): undefined reference to `sm_defvar__'
+Abunplot.f:(.text+0x64e): undefined reference to `sm_window__'
+Abunplot.f:(.text+0x66c): undefined reference to `sm_limits__'
+Abunplot.f:(.text+0x6c6): undefined reference to `sm_ticksize__'
+.
+.
+.
+
+Running the nm command in the sm library yields:
+> nm /usr/local/pkg/sm/2.4.36-F90/lib/libplotsub.a | grep ylabel
+0000000000001cc6 T sm_ylabel
+                 U sm_ylabel
+0000000000000dae T sm_ylabel_
+                 U sm_ylabel
+
+Based on the readme for MOOGStokes (https://www2.mpia-hd.mpg.de/homes/deen/Software/MoogStokes/MoogStokes.README.txt), it looks like this error arises from how gfortran and SM handle underscores. I've tried using the gfortran flags listed in the MOOGStokes readme, but the problem persists. Are there other flags I should use, or is there another way to resolve this?

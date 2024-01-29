@@ -1,0 +1,9 @@
+On a log-log plot of surface gravity to planet mass, what is the meaning of the y-intercept?
+
+I am playing around with data from exoplanets.org, and am interested in the plot of surface gravity to planet mass. I reproduced this plot:
+
+after downloading their data and performed a non-linear regression model to fit the curve. Unfortunately,the covariance matrix of my fit has infinite values, so I am now trying out a linear fit on a log-log plot, shown below:
+
+My fit, for $y=ax+b$, is $a=0.9511$, $b=0.8631$.
+I am now thinking about what I am plotting. I suspect there may not be anything interesting in $\log \frac{GM}{R^2}$ vs. $\log M$, but, regardless, I am trying to understand if there is any meaning in the y-intercept.
+What are possible explanations for the value $b$?

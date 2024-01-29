@@ -1,0 +1,4 @@
+Can a tidally-locked planet maintain an obliquity
+
+If a planet is tidally-locked, can it have an obliquity (an axial tilt greater than 0°)?
+e.g. the Earth's rotation is being slowed by tidal forces.  A long way in the future it will be tidally locked.  As it slows, will the obliquity also be eroded or will other forces (such as the orbit of the moon) allow it to maintain an obliquity?

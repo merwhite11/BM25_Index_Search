@@ -1,0 +1,13 @@
+What calculations show that Comet Shoemaker-Levy 9 orbited Jupiter for several decades before its spectacular impact? (Chodas, Sekanina & Yeomans)
+
+This answer to A moon in eccentric orbit dipping below Roche limit includes the following about Comet Shoemaker–Levy 9
+
+Here is a nice figure of its last passes:
+
+
+I looked up "fragment A" in JPL's Horizons and it provides a modeled trajectory only between 1992-07-15 and 1994-07-17 but the link cited above says
+
+Computations by Paul Chodas, Zdenek Sekanina, and Don Yeomans, suggest that the comet has been orbiting Jupiter for 20 years or more, but these backward extrapolations of motion are highly uncertain. See "elements." and "ephemeris." at SEDS.LPL.Arizona.EDU in /pub/astro/SL9/info for more information.
+
+If I paste some of that into a search engine I get http://spider.seds.org/sl9-list.html with lots and lots of links, but now I'm in way over my head.
+Question: What calculations show that Comet Shoemaker–Levy 9 was orbiting Jupiter for several decades before its spectacular impact? (Chodas, Sekanina & Yeomans) Where can I read about these calculations? Have there been further refinements since, based on any subsequently discovered historical precovery data?

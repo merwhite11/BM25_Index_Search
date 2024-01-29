@@ -1,0 +1,20 @@
+Why do the Centaurus A radio jets have two "arms" each? (Event Horizon Telescope image)
+
+
+
+Fig. 2: Image analysis of the final model: a, Model image corresponding to the image from Fig. 1 with a pixel size of 2 μas. Here, the tentative position of the jet apex is indicated with a circle. The size of the circle indicates the uncertainty in the apex location. b, Central brightness temperatures along the jet ridgelines from the model in four quadrants as a function of distance to the jet apex. The quadrants I, II, III and IV correspond to the similarly marked regions of the jet in a. Negative values for the distance to the jet apex are assigned for the counterjet region. Brightness temperatures of the fainter northwest (orange line) and brighter southeast (blue line) arms are shown in the top and bottom panels, respectively.
+
+From the body of the paper:
+
+The Cen A λ 1.3 mm jet exhibits three types of brightness asymmetry ($R$): between the jet and counterjet, the sheath and spine, and the northwest versus southeast ridgelines (‘Brightness asymmetries’ in Methods). We take the two bright radiating streams of the approaching jet and counterjet as jet ‘arms’ and denote the maximum intensity region along each arm as ‘ridgeline’. The jet-to-counterjet intensity ratio $R_{j/cj}$  can naturally be explained for a relativistic outflow with an inclination angle θ ≠ 90°, where jet emission will be Doppler boosted and counterjet emission de-boosted. We find $R_{j/cj}$≳5, which is in agreement with centimetre-wave VLBI observations3 and suggests that the initial acceleration of the jet occurs within the inner collimation region imaged in this study.
+
+Above is from Nature Astronomy (Open Acces) Event Horizon Telescope observations of the jet launching and collimation in Centaurus A found first in The Observatory.
+Question: Why does this Event Horizon Telescope image the Centaurus A radio jets show that both the brighter jet moving towards us and the dimmer (Doppler de-boosted) jet moving away from us have two arms? Are these two actually separate jet-like structures on each side, or an artifact of observation and processing?
+
+From Wikimedia Commons RadioCenA-EN.png:
+
+
+Overview over the radio structure of Centaurus A.# First picture shows the overall radio emission of Centaurus A, extending over 2 million light years (assuming distance of 3.8 Mpc
+
+
+Radio structure of Centaurus A, redrawn with Powerpoint, exported to PNG. Basic Source: 'https://ned.ipac.caltech.edu/level5/March01/Israel/Israel2.html / Published in Astronomy and Astrophysics Review 1998, Vol. 8, pp. 237-278 Outer/Middle lobes: Parkes 5.0GHz Inner Lobes: VLA 4.9 GHz Jet: VLA 1.5 GHz Inner Jet: VLBI?

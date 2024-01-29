@@ -1,0 +1,9 @@
+How to fit lorentzian to lyman alpha cross section?
+
+
+This is my data and purpose of this assignment is to fit a lorentzian to this data.
+And.. i dont know how to do that....:(
+First, there is sharply lowered region.
+Couple of hours of googling isn't helpful..
+Second, should I fit lorentzian for 2 times? 
+There are two peaks.

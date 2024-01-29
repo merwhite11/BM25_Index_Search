@@ -1,0 +1,4 @@
+How to calculate declination of Moon?
+
+Is there any way to calculate declination of Moon for any day?I'll subtract inclination of Earth on the ecliptic from the result. I'll get Moon's the shortest angular distance from Sun.
+Thanks for all answers!

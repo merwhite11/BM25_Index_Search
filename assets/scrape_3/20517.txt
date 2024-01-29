@@ -1,0 +1,9 @@
+Ionization Fraction of Helium in alternate, He dominated early universe
+
+I'm asked to verify an expression for the ionization fraction of helium in a universe in which helium dominates baryonic matter.
+I'm given that the ionization fraction $X = \frac{n_{He^+}}{n_{He^+}+n_{He}}$ with a given ionization energy $Q_{He}$, and number densities by the formula $n_i=g_i(\frac{m_ik_BT}{2\pi \hbar})^{3/2}\exp(-\frac{m_ic^2}{k_BT})$. Also the baryon-photon ratio in this case is $\eta=\frac{4(n_{He^+}+n_{He})}{n_\gamma}$.
+I'm trying to show that by putting all this together I get something with the form:
+$\ln(\frac{1-X}{X^2})=A+\ln(\eta)-B\,\ln(\frac{Q_{He}}{k_BT})+\frac{Q_{He}}{k_BT}$. where $A$ and $B$ are constants.
+When I plug everything in, I got $\frac{1-X}{X^2}=\frac{n_\gamma}{8}\eta \, \exp(-\frac{Q_{He}}{K_BT})$, which gives:
+$\ln(\frac{1-X}{X^2})=\ln(\frac{n_\gamma}{8})+\ln(\eta)+\frac{Q_{He}}{k_BT}$
+Any ideas of where I might have gone wrong?

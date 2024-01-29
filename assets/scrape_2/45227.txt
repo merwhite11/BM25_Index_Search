@@ -1,0 +1,4 @@
+Precision of orbital period of exoplanets vs solar system planets (Extrasolar Planets Encyclopedia)
+
+I noticed that the Extrasolar Planets Encyclopedia lists the orbital period of L 98-59 b in days to 7 decimal places. Can astronomers really measure orbital period of exoplanets to greater precision than planets of the solar system?
+Here's a screen shot including some other entries, the number of digits varies by object:

@@ -1,0 +1,5 @@
+What is the formulat to compute King tracking rate for a given set of topocentric coordinates?
+
+Canbury Tech has a good background on King tracking rate, which approximates the average sidereal motion of a refracted star across the sky. Most amateur telescope mounts have some sort of notion of this "average" rate, which is generally about 15.037 arc seconds per second.
+However, King actually produced a formula that would allow the rate to be precisely calculated for a given set of sky coordinates. Modern microprocessor controlled mounts ought to be able to make use of this technique, but many don't. As the author of telescope drive software, I'd like to incorporate this feature into my work, but I don't seem to be able to locate the forumula. BBAstroDesigns has a calculator for this on their web site, but the don't show the formula anywhere.
+Can anyone enlighten me as to how to compute this value?

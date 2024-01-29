@@ -1,0 +1,7 @@
+What does "by an amount" mean here?
+
+In A Very Short Introduction: Black Holes by Katherine Blundell, the author discusses the emptiness pf the space:
+
+One of the surprising consequences of this new theory was that there were fleeting moments when it seems like energy needn’t be conserved. The first law of thermodynamics, the grand and seemingly unbreakable principle of physics, insisted that at every moment and at every place there had to be a strict accountancy between energy debits and energy credits. ‘Energy must always balance!’ thunders the Cosmic Accountant. In fact, it seems that the Universal accountancy rules are more lenient and it is possible to obtain credit. It is perfectly acceptable to borrow energy for a short period of time as long as you pay it back quickly afterwards. The amount you can borrow depends on the duration of the loan, by an amount described by the Heisenberg Uncertainty principle.
+
+What's exactly meant by that? the degree of dependence?

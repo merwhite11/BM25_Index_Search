@@ -1,0 +1,12 @@
+How does gas in accretion disks of supermassive black holes create orbital torques on smaller black holes within the disks causing them to migrate?
+
+This answer to What enhances the capture and merge rates of pairs of small black holes orbiting around supermassive black holes? links to Migration Traps in Disks Around Supermassive Black Holes which includes the following sentence in the introduction:
+
+Migration toward trapping orbits may be such a mechanism. Objects orbiting within differentially rotating disks exchange angular momentum with the gas around them as they orbit, which results in a torque, typically causing the objects to migrate.
+
+Question: How exactly do density gradients in accretion disks of supermassive black holes create torques on smaller black holes orbiting within the disks? Is it through simple gravitational forces, GR effects (maybe some "spin-orbit coupling" thing?), aerodynamic drag, accretion by the small black hole in a velocity gradient, something else, or some combination of these?
+One sentence in the linked answer is
+
+These "migration traps" (Bellovary et al. 2016) are caused by torques exerted on the orbiting objects (in this case black holes) caused by gas accretion.
+
+and I think it means that the orbital torque (torque on the small black hole about the SBH's center) comes from gas accretion by the small black hole. If this is the case, is it possible to elaborate a bit?

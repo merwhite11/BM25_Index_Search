@@ -1,0 +1,3 @@
+When black holes such as those detected by LIGO merge, in what ways does the Schwarzschild Radius warp?
+
+I was reading the paper about LIGO's detection of gravitational waves, and I wanted to know what the Schwarzschild Radius did. For example, I feel like the simulation here is oversimplified, and that reality wouldn't actually have that simple bump together of the two radii.

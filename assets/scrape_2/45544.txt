@@ -1,0 +1,7 @@
+What is the maximum possible peak power during a black hole merger?
+
+The peak power output of the GW150914 black hole merger was 3.6e49 Watts.  These black holes were around 30 solar masses each and about 3 solar masses were converted to gravitational waves during the final 20 ms.
+This question on the physics site contains a claim from LIGO that two black holes of equal mass will have approximately the same peak power output.  This seems believable to me, because both the energy output AND the inspiral time will both increase as the black hole masses increase.
+What I would like to know is... Is the peak power achieved when the two black holes are equal in size?  Or, will the peak power be higher when one of the black holes is larger than the other?
+Also, would the peak power output depend on the shape of the orbit, the black hole spin, or the black hole magnetic charge?
+Has the maximum possible peak power been calculated, or is there even a limit on the peak power?

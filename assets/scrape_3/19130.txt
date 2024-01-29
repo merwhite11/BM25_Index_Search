@@ -1,0 +1,8 @@
+What is the average Ni-Fe crystal length in iron meteorites?
+
+Iron-core meteorites display an awesome criss-cross pattern known as the Widmanstätten pattern, shown below:
+
+(photo by Dr. Patrick M. Len, taken from Wikipedia)
+I TA for an intro-level astronomy/planetary science class, and today we discussed meteorites. A student asked me what the average length of these crystals is for iron meteorites, but I hesitated. The samples we had available (and the image above) made it look like the average length was on the order of a centimeter, but with great variation. I'm curious as to whether there is a more quantitative answer. 
+My question:
+How long is the average length of a given linear crystal in a typical iron meteorite? How much variation is there from sample to sample?

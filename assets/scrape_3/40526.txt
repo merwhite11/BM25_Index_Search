@@ -1,0 +1,4 @@
+Why are asteroids with circular orbits rare?
+
+Regarding this excellent question by Swike: Why are asteroids with zero orbital inclination rare?, I recently proposed that orbits with zero inclination are rare as a natural result of the statistical distribution of orbital revolution axes extended onto the celestial sphere.
+In the below graph we see a similar sparsity of orbital eccentricities near zero. If asteroid orbital eccentricities were normally distributed about zero, wouldn't we expect them to be densest here?  What is the explanation?

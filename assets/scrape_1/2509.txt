@@ -1,0 +1,6 @@
+Instrument aperture sizes on Hubble Telescope
+
+When looking at the diagram of the focal plane of the Hubble Space Telescope I noticed that the aperture sizes of most of the scientific instruments are very small. They occupy a very tiny fraction of the focal plane.
+I understand that for a spectrograph (like the COS) you need a very small aperture to look at point sources. But why the Advanced Cmaera for Surveys or Wide Field Camera 3 also have so small apertures? Most of the focal plane is not used and it must be very tedious for the guidance system to move the target object exactly into the small aperture of the selected instrument. Even though the WFC3 is called "wide field", its field of view is less than 3 arc minutes.
+What were the reasons behind selecting these aperture sizes? Is HST designed to observe details of small targets? Are the sizes optimized for majority of observations?
+On the other hand the HST is taking images of large objects like nebulae and usually it is necessary to stitch a number of individual frames to create the whole image of a bigger object. For example the Carina nebula (stitched from 48 frames) or the Crab nebula (24 frames).

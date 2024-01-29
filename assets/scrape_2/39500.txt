@@ -1,0 +1,26 @@
+Can lightning occur in stars like the Sun?
+
+In the Wikipedia article about lightining, the following explanation is given about the electrification process in clouds:
+
+The details of the charging process are still being studied by
+scientists, but there is general agreement on some of the basic
+concepts of thunderstorm electrification. The main charging area in a
+thunderstorm occurs in the central part of the storm where air is
+moving upward rapidly (updraft) and temperatures range from −15 to −25
+°C (5 to −13 °F); see Figure 1. In that area, the combination of
+temperature and rapid upward air movement produces a mixture of
+super-cooled cloud droplets (small water droplets below freezing),
+small ice crystals, and graupel (soft hail). The updraft carries the
+super-cooled cloud droplets and very small ice crystals upward. At the
+same time, the graupel, which is considerably larger and denser, tends
+to fall or be suspended in the rising air.
+The differences in the movement of the precipitation cause collisions
+to occur. When the rising ice crystals collide with graupel, the ice
+crystals become positively charged and the graupel becomes negatively
+charged; see Figure 2. The updraft carries the positively charged ice
+crystals upward toward the top of the storm cloud. The larger and
+denser graupel is either suspended in the middle of the thunderstorm
+cloud or falls toward the lower part of the storm.
+
+This mechanism seems to rule out the possibility of lightning in absence of a condensed phase (liquid droplets/solid crystals). That makes me wonder, is lightning truly impossible in stars hot enough to be fully gaseous, like our Sun? Or could a alternative mechanism generate lightning in such environment.
+Even in absence of any alternative mechanisms, I think lightning still could form at least in small, cold stars, or in old brown dwarfs. What would be the size/age threshold?

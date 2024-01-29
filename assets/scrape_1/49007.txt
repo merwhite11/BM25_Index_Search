@@ -1,0 +1,10 @@
+Airy's Water Filled Telescope: help required to fully understand the calibration procedure followed
+
+I am reading/studying the instrument description of Airy's Water Filled Telescope (Airy, G. B., "History and Description of the Water Telescope of the Royal Observatory, Greenwich", Greenwich Observations in Astronomy, Magnetism and Meteorology made at the Royal Observatory, Series 2, vol. 33, pp.CXVII-PI). Needless to say this was a significant experiment in the history of Physics and the subsequent development of the Theory of Special Relativity.
+I am unable to fully understand the calibration procedure Airy used. Any clarification which will help me understand the procedure used is greatly appreciated.  Here is the problem:
+To calibrate the instrument, Airy measures the time required for the star $\gamma$-Draconis to traverse 26 wires (25 gaps, total width one inch) placed in the focal plane of the telescope. The time interval measured was $9^m 39.97^s$. Airy take half of the time measured (to find the half angle) and converts it to the corresponding polar angle $1^o 12^m 29.775^s$. So far, so good.
+In the next step, Airy in his own words, (page cxxx)
+
+The mean of the declinations of $\gamma$-Draconis on July 23 and July 24 is $51^o 30^m 31.64^s$. Hence the half-arc of great circle, joining the mean of the first five wires with the mean of the last five wires, expressed in seconds of arc, is equal to $$\frac{sin(1^o 12^m 29.775^s)*cos(51^o 30^m 31.64^s)}{sin(1^s)}$$
+
+Why is Airy projecting the measured angle to the great circle (equator)? Didn't the transit time measurement and the subsequent polar angle calculation gave him the focal length of the telescope which may be used to figure out the angles prospective stars are subtending? (Of course, for the measurement of aberration angle, Airy would have rotated the telescope by $90^o$, an action which will not change the focal length of the telescope).

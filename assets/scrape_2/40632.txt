@@ -1,0 +1,22 @@
+How many streetlights should we turn off to decrease light on the ground by about 2.512 times?
+
+I am looking for some guidance for a back-of-the-envelope-calculation to show that turning off street lights can make a difference for light pollution in the style of a Fermi problem.
+My first step is to abstract all urban area as a concrete or asphalt patch with a grid of streetlamps on it.
+
+The illuminance on the ground is probably 10 lux.
+Street lamps are of the order of 10m appart (1m would be too close, 100m too far). This is not necessary for the light balance, but would later allow to estimate how many street lamps we have, and how much energy we could save.
+The reflectivity of concrete is around 0.2-0.3, see arch.ethz.ch
+Google claims that 3% of the Earth's area is urban area. Let us be optimistic and assume everything else is pitch black at night. Let us further simplify and say that at each point in time, 1.5% of the Earth dark side is emitting light.
+For simplicity, I would assume all urban area on sea level.
+Finally, let us assume for the moment that there are no clouds above our huge hypothetic shining concrete parking lot.
+
+But how do I proceed further? Is there some easy formula to relate light emitted on from the surface into the atmosphere with the magnitude of stars one could observe?
+Edit 1
+First we should calculate which magnitude one would see on average with the assumptions above and see whether that makes sense. I hope/expect the answer would be something like magnitude 3 or 4 with light pollution.
+Background
+Since reading the German website "Godfathers of the night" (Machine translation) I keep thinking how to make the idea of turning off street lamps (at least partially when nobody is there) more attractive for everybody, not just for sky or animal lovers. To convince people, numbers usually help.
+References
+
+European Guideline EN 13201-1-5 - Road lighting
+
+How can I make Stellarium match the magnitude of stars visible in London, UK?

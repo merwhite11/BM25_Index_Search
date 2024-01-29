@@ -1,0 +1,22 @@
+TPoint software, INDAT command - Format 4 (ALTAZ)
+
+I am working (in fact, trying to work) with TPoint for improving a solar telescope pointing calibration (SST, in Casleo, AR) and stumbled on the input data for INDAT command. SST is a multibeam solar observation telescope with Alt-Az support.
+INDAT Observation record Format 4 is described as follows on the documentation:
+star "observed" Az/El (°,°)
+telescope raw Az/El (°,°)
+[up to 2 auxiliary readings]
+
+And the sample file for an AltAz support is mmt.dat, whose heading and 1st observational data row are follows:
+!
+!  Sample data from the Multiple Mirror Telescope
+!
+
+MMT 1987 July 8
+: ALTAZ
++31 41 19.6 1987 07 08 +15.0  734.5  2608.0 0.30
+
+02 59 39.744 +03 53 41.15 -0.00082 -0.0743 B1950 03 01 32.220 +04 04 05.72 23 01
+
+On the data rows, what would be the "column headers"?
+MTIA,
+Myrna

@@ -1,0 +1,6 @@
+Does the galaxy look like a Web or a Tree?
+
+Suppose we have a distance cutoff $r_0$.
+Let's say that any two stars in the galaxy with a relative distance below $r_0$ have a path between them.
+Would the path-connected Milky Way look like a Web in which every star is potentially connected to all of its neighbors or would we form a type of branched Tree structure with junctions and bottlenecks?
+I understand that for a high enough $r_0$, it will always look like a web. But my doubt is whether the standard-deviation of interstellar distances in the Milky way is such that there exists a value of $r_0$ for which the topology is unequivocally a Tree.

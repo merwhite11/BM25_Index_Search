@@ -1,0 +1,3 @@
+Defining a nautical mile
+
+Astronomy is new to me so my question might be stupid: I read that a nautical mile is defined as one minute of latitude along any line of longitude. What if it was the other way round, i.e. one minute of longitude along any line of latitude? Would it make any difference?

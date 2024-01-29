@@ -1,0 +1,5 @@
+What special auxiliary equipment / modeling are needed for ground-based sub-milliarcsecond astronomy?
+
+I'm not asking about the astronomical equipment itself. I'm asking about the auxiliary equipment and modeling needed to enable the primary astronomical equipment to work properly at the sub-milliarcsecond level. Things such as clocks, software models of the Earth's rotation, etc. How accurate does the timing need to be? How accurate does the modeling of the Earth's rotation need to be? Do Earth tides need to be taken into account?
+Some astronomers are claiming to perform microarcsecond astronomy. I would assume that that is even more stringent than milliarcsecond astronomy. How much more stringent?
+This answer suggests timing accuracy (UT1) needs to be in the tens of milliseconds for arcsecond astronomy. That suggests tens of microseconds accuracy for milliarcsecond astronomy, and tens of nanoseconds accuracy for microarcsecond astronomy.

@@ -1,0 +1,12 @@
+Icy moons: why hasn't the ice sublimated away?
+
+Let's take Europa for example:
+The predominant model suggests that heat from tidal flexing causes the ocean to remain liquid and drives ice movement similar to plate tectonics.
+The heat generated from the tidal flexing has to go somewhere. Is it all carried away by the water vapor plumes we recently detected? Is more water from the ice cover melting away? Is it just radiated away?
+I would expect it to cause sublimation as well: There is hardly an atmosphere (molecular oxygen at 0.1 micro Pascals, or 10-12 times that of the Earth), and a tenuous ionosphere.
+And that same article suggest that the surface ice is also broken down by radiation:
+
+the oxygen [...] is formed through the process of radiolysis, where ultraviolet radiation from the Jovian magnetosphere collides with the icy surface, splitting water into oxygen and hydrogen. The same radiation also creates collisional ejections of these products from the surface, and the balance of these two processes forms an atmosphere.
+The hydrogen, meanwhile, lack the mass needed to be retained as part of the atmosphere and most is lost to space. This escaped hydrogen, along with portions of atomic and molecular oxygen that are ejected, forms a gas torus in the vicinity of Europa's orbit around Jupiter.
+
+Or do we have reason to believe that any losses are compensated by ice being deposited from external sources?

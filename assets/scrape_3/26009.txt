@@ -1,0 +1,5 @@
+Scattered Intensity of Light vs Angles of Incidence and Emission
+
+So I just derived an expression for the scattered intensity of light from an atmosphere with ideal isotopic scattering: $I/F=\frac{cos(i)}{4(cos(e)+cos(i))}$, where $I$ is intensity, $F$ is flux, $i$ is the angle off incidence, and $e$ is the angle of emission ($i,\ e=0$ are normal to atmosphere).
+When I plot the scattered intensity as a function of $i$ with $e$ constant, it decreases while the angle increases. Why is this? My theory is that at a large incidence angle, the light encounters a larger surface area, so reflected light will have a higher variation of emission angle, meaning that scattered light at a given emission angle will be lower. Does this make sense? Or is there another reason for this?
+Next, I plotted scattered intensity as a function of $e$ with $i$ constant. This time, the intensity increases with increases emission angle. I don't have a theory as to why this is the case, nor an intuition to back it up. Why would this be the case?

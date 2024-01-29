@@ -1,0 +1,6 @@
+2001 VB - when will it be reacquired?
+
+2001 VB's orbit is poorly known but has a two-in-a-billion risk of a collision with the earth in 2023.
+Assuming that it were on a collision course, when would it be likely to be reacquired? Which telescopes would be most likely to do this? Would the likely reacquisition date change significantly if it is not on a collision course?
+https://cneos.jpl.nasa.gov/sentry/details.html#?des=2001%20VB
+https://ssd.jpl.nasa.gov/horizons.cgi?find_body=1&body_group=sb&sstr=2001%20VB

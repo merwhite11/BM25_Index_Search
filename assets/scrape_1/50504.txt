@@ -1,0 +1,6 @@
+M Dwarf radiation and habitability at the terminator of a tidally-locked planet?
+
+I know that M Dwarf stars emit intense solar flares, which is thought to pose a potential problem for the emergence of life on planets that orbit them. But I was wondering if the life that might exist in the terminator region could be protected from these flares, simply by the angle that the photons would hit the atmosphere, making it so that those higher energy wavelengths would be filtered out.
+If the planet were tidally locked to the star, the terminator would be in a (relatively) fixed position, providing some stability to the presence of visible light but shielding from shorter wavelengths and radiation via "$\sec(\theta)$ shielding".
+These terminator regions would basically be in a state of perpetual sunset.  During evening on Earth, only the longer wavelengths reach us, and we aren't exposed to much (if any?) UV.
+Has such a "life at the terminator" scenario ever been addressed scientifically? Are there any obvious problems that would make it impossible?

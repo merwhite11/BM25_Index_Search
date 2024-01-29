@@ -1,0 +1,9 @@
+What does the BinTableHDU store?
+
+I'm just getting started with very primitive analysis of FITS data, and I have a 'raw' FITS file which I don't know how to get different wavebands of data from (if this is even possible).
+Filename: casa_raw.fits
+No.    Name         Type      Cards   Dimensions   Format
+0    PRIMARY     PrimaryHDU      33   ()
+1    EVENTS      BinTableHDU    793   14621280R x 19C   [1D, 1I, 1I, 1J, 1I, 1I, 1I, 1I, 1E, 1E, 1E, 1E, 1J, 1J, 1E, 1J, 1I, 1I, 32X]
+2    GTI         BinTableHDU     28   2R x 2C      [1D, 1D]
+Could anyone explain what exactly this information conveys?

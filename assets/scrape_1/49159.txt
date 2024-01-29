@@ -1,0 +1,5 @@
+Expansion rate of an infinite universe at the Big Bang
+
+If the universe is infinitely large, then any two arbitrarily distant points must have been arbitrarily close together at some earlier point in time. Doesn't that mean that the expansion rate of the universe must approach infinity as you go back in time? With each successively earlier time interval, there is less and less time for any two nearby points to reach a given distance from each other, so the expansion rate would have to get faster the farther back you go, without limit.
+A finite universe, if I understand correctly, has no such requirement. Because there is always an upper limit to how far apart any two points can be, there's no need for the expansion rate to go to infinity.
+Doesn't this result in radically different expansion profiles for a finite versus an infinite universe?

@@ -1,0 +1,33 @@
+What is frequency range?
+
+Using the NED, you can search via frequency range corresponding to the selected pass band filter. I'm a beginner here and don't really understand. Here's the quote:
+
+NOTES: Objects with observations in the frequency range corresponding to the selected passband filter will be returned. For
+example, selection of Spitzer MIPS 24 µm will also return objects with
+photometry from IRAS 25 µm because these filters overlap. This feature
+permits the location of objects with photometry in the selected region
+of the spectrum, while cutting across multiple surveys, detectors and
+filters that have been cross-correlated by NED. A future upgrade will
+include an option to restrict the search to only the selected passband
+filter.
+
+There are then a list of 'passbands', all the way up to gamma. What is this actually mean? The amount of radiation given off by a celestial body?
+I'm looking at the categories I'm more familiar with:
+Helio. Radial Velocity
+Redshift
+Major Diameter (arcmin)
+Minor Diameter (arcmin)
+Magnitude and Filter
+Classifications
+And I'm not sure where this radiation fits in. Is it
+Spectral Energy Distribution (SED) 
+
+? Could someone explain the following terms to me if this is the case:
+
+Observed Passband
+Uncertainty Units
+Freq (Hz)
+Mode Aperture/Qualifiers
+Reference Code   No.
+
+Wnad what about published and homogenised variables? Are homogenised variables the avarage of all observations?

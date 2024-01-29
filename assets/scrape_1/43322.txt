@@ -1,0 +1,4 @@
+Orbits of Trojan Asteroids
+
+I understand that the Trojan points are located 60 degrees ahead and behind a planet in its orbit.  However, since there are quite a number of Trojans in Jupiter's orbit, they cannot all be exactly at that point. Presumably they orbit around it.
+So what sort of orbits do they have? Are they circular or anywhere near so, or are they elongated along the orbit of Jupiter? If the latter how far can they get from the 60 degree point?

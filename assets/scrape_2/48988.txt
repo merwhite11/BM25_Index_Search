@@ -1,0 +1,4 @@
+Is the flux density independent of source-observer distance?
+
+A particular observatory is providing the flux density of an astronomical source and only from this information, is it implicated that this particular parameter is unaffected by the distance between Earth and the source?
+Edit: Removed a wikipedia link

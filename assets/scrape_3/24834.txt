@@ -1,0 +1,7 @@
+Webcam set up small circle tunnel vision type view
+
+I've just adapted a webcam for my telescope.
+I'm new to astronomy so I'm not sure if the view I get is right.
+When I attached the webcam to my Barlow lens, the view on my laptop becomes a tiny circle of light, like a tunneling effect.
+Is this normal? How could I make the view I see on screen lager?
+Here is what I'm currently seeing:

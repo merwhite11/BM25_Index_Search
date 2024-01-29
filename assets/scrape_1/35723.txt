@@ -1,0 +1,7 @@
+What is the most appropriate way to estimate the helium composition of a star?
+
+Say we have to estimate the helium content in Proxima Centauri.
+We begin by calculating the content of helium in the Sun (source): $24.85$% of $2.10^{30}$ kg.
+Mostly all the energy is generated due to the product of nuclear fusion of hydrogen into helium by way of the proton–proton (PP) chain mechanism and the luminosity of Proxima Centauri is $0.00005\ L_☉$.
+Thus, would it be a good approximation to say that the helium content is $0.00005 * 0.2485 * 2 * 10^{30}$?
+Would you suggest a better way of estimating the helium content?

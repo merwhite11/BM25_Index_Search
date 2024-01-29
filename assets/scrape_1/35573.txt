@@ -1,0 +1,6 @@
+"Real time" Stellarium Scripting?
+
+I'm getting into scripting in Stellarium, and it's fairly similar to the scripting language used in a real Planetarium I used to work in, which used DigitalSky2, if memory serves. In the Planetarium I was able to write code "in real time" as such - meaning I could write one line and run it, like writing Python code into Terminal, and in doing so I was able to learn a lot about how it worked (and break it - all. the. time.)
+This having to write a script, upload it and run the whole thing is less than efficient, and doesn't suit my learning-a-new-language style. Especially when I'm really just wanting to play around with the script, one line at a time, and see how I can best break it... I mean, tests its limitations! 
+Is there any way of doing this? Or is it a pipe dream I have to let go of for the time being?
+Cheers!

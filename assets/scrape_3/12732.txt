@@ -1,0 +1,15 @@
+What is the illuminance of Tau Ceti?
+
+As part of my physics project, I investigated the relationship between a light bulb's illuminance and the distance from the measuring device to it.
+Illuminance was measured in flux, and distance in metres.
+I derived an inverse relationship. First of all, can I check if this is the relationship I was supposed to get? (I understand that there is an inverse square relationship between luminosity and distance, but since illuminance is measured in lumens/sq metre, then I think an inverse relationship is correct...)
+Next, using this relationship, I need to extend my project so that I can find distances to stars using this relationship.
+As long as 2 stars have a similar mass/size/density, then I can use this relationship to find the distance to the 2nd star as long as the illuminance of the stars are known, and the distance to the 1st star is known.
+So I tried to do this with an example - the Sun and Tau Ceti, as they are reasonably similar.
+I have values for the Sun's distance/illuminance - $1.5\!\times\!10^8 $km, $1.2\!\times\!10^5$lux.
+I now am trying to calculate the distance to Tau Ceti using this method.... But nowhere can I find a value for its illuminance.
+Please can someone help me with this? Is there a way to convert from apparent magnitude or luminosity to illuminance?
+Thank you
+EDIT: The method I want to use from the inverse relationship is:
+$$d_2=d_1l_1/l_2$$
+where $d_1$ and $l_1$ are the known distance and illuminance of the 1st star, whilst $d_2$ and $l_2$ is that of the second, and $d_2$ is unknown.

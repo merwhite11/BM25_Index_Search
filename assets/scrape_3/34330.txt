@@ -1,0 +1,20 @@
+Using a differential force in the derivation of hydrostatic equilibrium in a star
+
+I've been banging my head against this particular derivation of hydrostatic equilibrium in a star for the last few days, from Carroll and Ostlie's Introduction to Modern Astrophysics (2nd ed. p. 286):
+The authors consider an infinitesimal cylinder of gas (dimensions $A, dr$) aligned on an r-axis pointing away from the center of the star. Equilibrium demands that acceleration be zero, so we get 
+$$F_{bottom}  + F_{top} + F_G = 0,$$
+Where the first two terms are the forces, taken normal to the surface, due to pressure, and $F_G$ is the gravitational force on the cylinder. The top of the cylinder is away from the center.
+Alternative derivations I have found from this point onward make perfect sense- substitute $-\rho A dr$ for the cylinder mass $dm$ in the $F_G$ term, substitute $P_{bottom}$ and $P_{top}$, the rest is straightforward (this is the derivation on Wikipedia).
+However, Carroll and Ostlie take an approach I haven't been able to understand. At this point they define 
+$$F_{top} = -(F_{bottom} + dF_P)$$
+where $dF_P$ -I'll write it $dF$ hereafter- is called the differential force caused by the change in pressure due to a change in $r$. Substitution into the first equation and a few other steps here ($dF = A dP$) lead to $dP/{dr} = -\rho g$ as needed.
+I have had trouble with the following: $dF$ needs to be negative because otherwise $F_{top}$ is greater in magnitude than $F_{bottom}$ which makes no sense- if $|F_t| > |F_b| $ then pressure isn't acting against gravity, is it? Pressure itself would be pushing the cylinder down in that case. ($b$ is 'bottom', $t$ is 'top'.)
+But if $dF$ is negative, then the way the (second) equation is written makes no sense. Wouldn't it make more sense to say $F_t = -F_b + dF$ ? 
+Partially motivated by this question and partially trying to approach the problem from a slightly different angle, I decided to define $dF = F_b + F_t$ as the net outward force due to the infinitesimal change in pressure between the top and bottom of the cylinder. Then, as $F_{net} = 0,$ we get $dF + F_G = 0$, but this leads to an incorrect equation, namely $$ dF + F_G = 0 \implies dP/dr = \rho g . $$
+My main issue is that I do not understand why trying to define a positive $dF$ fails to produce the correct hydrostatic equilibrium equation. Furthermore, if we view $dF$ as an infinitesimal quantity, trying to ensure its sign is consistent with the directions of the forces (outward being positive), we once again get the wrong answer.
+Can we only take $dF$ as an inward force? If so, why? If not, how can I establish a positive/outward differential force that will let me derive the correct hydrostatic equilibrium equation?
+Edit:
+I think I can illustrate my dilemma a bit more succinctly.
+Considering the equation $F_t = -(F_b + dF)$, we can try out 2 different possibilities: $dF$ being positive or negative. 
+If $dF > 0$ then $F_t$ is bigger in magnitude than $F_b$, in which case I don't understand how the pressure gradient creates an outward force because $|F_t|>|F_b|$ implies the downward force is stronger.
+If $dF < 0$ then $F_t = -F_b + -dF = -F_b + |dF|$ but as far as I can understand, this form cannot, like any of my attempts to define a positive $dF$, output the correct sign in the final equilibrium equation. So computing the signs (that is, saying $(-dF) = |dF|$) somehow makes the equation incorrect. (Additional edit: For me, this also begs the question, if $dF = A dP$ then is $dP$ negative, and what does that signify?)

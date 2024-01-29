@@ -1,0 +1,6 @@
+In a multi-planet system, what mechanism can cause the innermost planet's semi-major axis to increase?
+
+I've been toying around with n-body simulations (using research-grade software) and I've noticed a particular effect in many of my simulations: In many arbitrary multi-planet systems I simulate, there is a good chance the innermost planet's semi-major axis will significantly increase over time (~1-10% increase in 'a' after ~10-100 million orbits, and growing). I'm totally puzzled by this. I can't find a rhyme or reason as to why this occurs—I haven't identified any consistent variables in resonance, distance, eccentricity, or any other parameters of the planet.
+At first I thought it might be a tidal effect between the star and the innermost planet. But I tested that assumption by removing all the other planets and re-running several of the simulations: no increase in the semi-major axis occurs. This indicates to me some mechanism between the planets themselves is "pumping" the semi-major axis of the innermost planet.
+Anyone have an idea what is going on? And if so, what parameters in orbital architecture between the planets avoids this mechanism?
+Thanks!

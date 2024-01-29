@@ -1,0 +1,6 @@
+Filtered Gaia DR3 datasets
+
+I'm a programmer who'd like to process some of the smaller Gaia DR3 datasets. I ultimately want to use the Gaia Sky 15M default dataset, but decided to start with a smaller 1.9M dataset as a prototype.
+I'm currently unable to find a spec on how these binary files are encoded and structured.
+I'm aware there are CSV files available for download, but they appear to be massive dumps of all Gaia data. I'm really only interested in stars this side of the galaxy, particularly to complement the BSC5P and fainter stars in-between BSC5P stars we cannot see with the naked eye. These pre-prepared binary datasets are therefore really attractive.
+Does anyone know where I can find either a specification doc for the pre-prepared binary files, or CSV files that have been similarly culled?

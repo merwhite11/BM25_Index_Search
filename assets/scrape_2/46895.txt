@@ -1,0 +1,4 @@
+Would tidally locked Earth-like exoplanets necessarily have hot pole/cold pole atmospheric circulation?
+
+A tidally locked planet orbiting a red dwarf star in its habitable zone would have a rotational period equal to its orbital period, on the order of days or weeks.
+Given a thick enough atmosphere wouldn't this rotational period be sufficiently fast for latitudinal circulation as on Earth and Venus? (And therefore avoid the fate of water vapor and other atmospheric gases freezing out at the cold pole?)

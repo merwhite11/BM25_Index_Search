@@ -1,0 +1,4 @@
+Why is the Oort cloud presumed to be spherical?
+
+Most descriptions of the Oort cloud depict it as a mostly spherical distribution of planetesimals, with occasional allowance for an inner component that is more donut-shaped. This is slightly at odds with the fact that most protoplanetary clouds and their derivative objects - planets, asteroids, comets and dust - will collapse to a fairly well-defined plane relatively early in a stellar system's evolution.
+What evidence is used to postulate this? Does it come from numerical simulations of the solar system? Or does it help account for observed orbital inclinations of real comets?

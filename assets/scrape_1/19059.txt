@@ -1,0 +1,7 @@
+Could we parallax measure stars just based on the Earth's size?
+
+Imagine two major surface observatories, perhaps the "northermost" and "southernmost" such (ideally on a similar longitude).
+For nearby stars, could they each take a photo at the same time, and achieve a distance measurement to that star, based on about the size of the Earth as the baseline?
+(I appreciate that either of the scopes need only wait a few days, for their viewpoint to have moved a much longer baseline distance!)
+Or is that distance far too short?
+What then is about the minimum baseline we could parallax-measure the nearest stars, with our currently best telescopes?  100,000km, a million? Far more?

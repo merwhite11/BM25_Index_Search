@@ -1,0 +1,4 @@
+Luminosity value to use for the calculation of the habitable zone?
+
+I'm currently studying the star system of Gliese 570  and I´m trying to calculate the habitable zone of the component A from the luminosity value in relation of the Sun´s. I´ve read that the needed value of luminosity is the value of the bolometric luminosity (here 26%), but the calculations of the HZ that I found is about 0.40 AU, which seems to be calculated from the visual luminosity (about 16%). 
+So, the questions are: Which of these 2 values do I have to use to calculate the habitable zone? Does the stellar class of the star affect the selection of it?

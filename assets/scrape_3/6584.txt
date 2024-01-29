@@ -1,0 +1,5 @@
+Is there a lower limit for the altitude of orbiting objects?
+
+As I understand it, one object can orbit another at a variety of altitudes, and the stability of the orbit is determined by (among other things) the speed of the orbiting object.  Go too slowly and you'll fall into the larger object, go too quickly and you'll fly off into space, but go at just the right speed and you'll orbit indefinitely.  And while an object could be in a stable orbit at Altitude X by going Speed A, it could also be in an equally stable orbit at Altitude Y by going Speed B.
+If that's true (and given my limited understanding, feel free to say it simply isn't), is there a lower limit?  An atmosphere would obviously cause drag, but given a lack of atmosphere, could you theoretically have an asteroid stably orbiting an Earth-sized planet at an altitude of 50 feet, if it were going fast enough?
+If not, why not?  What forces limit the closeness of an orbiting object?  Also, simple explanations would be most appreciated: I've heard of things like Lagrange points and such, but I don't have a good understanding of them.

@@ -1,0 +1,4 @@
+Roll, Pitch and Yaw of Orbital Planes
+
+I have been reading about celestial mechanics and particularly about planetary orbits. I understand that a planet's orbit can be tilted (pitched) with respect to the Earth's ecliptic and that it might precess (yaw) over time. But I have not come across any indication that another planet's orbital plane might be rolled with respect to the Earth's.
+I have also found references to Keplerian orbital elements, but I don't see that any of them indicate roll. Am I misunderstanding the situation? If not, would someone point me at an elementary resource where I can learn about this?

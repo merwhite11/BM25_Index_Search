@@ -1,0 +1,10 @@
+Thought experiment about our location in the Universe
+
+[I am sorry if this isn't the best place for this - it was either here or maybe on the Worldbuilding SE.]
+I recently re-read one of my favourite childhood sci-fi books (Chocky by John Wyndham), and in it a young boy is asked by an alien being, where in the Universe our planet is.
+It occurred to me that this is almost impossible to describe.
+Nowadays, with Wikipedia and the Internet, we can get some of the way by stating that we're in a galaxy that is approximately 10 billion years old, light takes approximately 100000 years to cross it, and which is part of a local group, itself part of a cluster, and that part of a super-cluster.
+Unfortunately the alien might then ask a follow-up clarification question such as what is a year?
+So we go to basics - in base 60 (as opposed to binary or base 10), our basic unit of time is called a second, and there are 60 seconds in a minute, 60 minutes in an hour and 24 hours in a day - which is the time our planet takes to rotate once completely. Our planet orbits a local star (that we call the sun) and each complete orbit takes approximately one year, and light takes around 8 minutes to get from our local star to our planet.
+Unfortunately our alien might then ask, but how long is a second? - so we then get into atomic clocks, caesium 133 and phases of radiation, followed by the next inevitable question: what is caesium. So we have to get down to the Periodic Table of the Elements and decribe an atom, atomic weight, and how to define caesium in a way that a far off advance civilization could relate to - not to mention perhaps a tangent about Prime Numbers.
+So if our alien was lucky enough to be in contact with someone like Professor Brian Cox, or a physyicist with astronomical leanings, how would such a description and conversation go?

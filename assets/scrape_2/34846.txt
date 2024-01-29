@@ -1,0 +1,9 @@
+Path of Mercury and general relativity
+
+I have read that many physicists challenge the theory of general relativity, and it has been proved many times that it is correct; my question is on Mercury's orbit. And we know that many of astronomers know that Mercury orbit does not precess, and astronomers said that result would, t be same because  quoting the article from my chat discussion. 
+
+If we calculate the orbit of Mercury using Newtonian gravity then in fact we find it does precess. This precession is caused by interactions with the other planets. But when you calculate the precession using Newtonian gravity you find it gives a value that is too low.
+  That is when we observe Mercury we find it precesses faster than Newtonian gravity predicts,it is Because of the gravitational filed of other planet ''. 
+
+So my question do we have another proof other than assumptions of calculation - I mean do we have some significant events that prove that we were correct?. 
+Edit:) due to some close request I clear again the my question is not based that how GR proof mercury orbit precession. So that duplicate question doesn, t answer my question.

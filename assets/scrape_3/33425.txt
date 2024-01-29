@@ -1,0 +1,9 @@
+How many Moon's Topocentric Conjunction occurs per lunar month?
+
+It is clear that only one Moon's Geocentric Conjunction occurs per lunar month, what about the Topocentric Conjunction for a given location?
+without scale I can imagine many Topocentric Conjunctions as shown in the pictures below:
+yellow disk : Sun
+gray disk   : Moon
+blue disk   : Earth
+yellow box  : Observer's Location
+red line    : Conjunction's Line

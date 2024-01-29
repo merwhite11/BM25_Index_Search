@@ -1,0 +1,3 @@
+What unit of year in JPL Small-Body Database Lookup?
+
+I'm new to astronomy and therefore probably missing the obvious here, but what type of year (tropical, sidereal?) is used for the orbital periods in the JPL Small-Body Database Lookup? For example, the data for Halley's comet here gives the period as 75.91006173810142 years. But I can't see a note detailing their definition of "year". Thank you

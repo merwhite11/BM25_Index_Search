@@ -1,0 +1,4 @@
+Temperature gradient in stars
+
+It is a well known fact that in stars, there exists a temperature gradiënt. The 
+observational reason is because we perceived spectral lines in the otherwise continuous spectrum of a star. If this wasn't the case, and thus if the temperature were uniform, then the absorption and the emission would cancel each other out and we would observe a net effect that results in a continuous spectrum. Now my question is: what is the physical explanation for this temperature gradient?

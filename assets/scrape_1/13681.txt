@@ -1,0 +1,5 @@
+The black hole binary that was detected by advanced LIGO - how do such hypergiant binaries form?
+
+With today's announcement of the historic detection of gravitational waves from the merger of 36 solar mass and 29 solar mass black holes 1.3 billion light years away, one can not help but wonder how such a black hole binary system was formed.
+Has there ever been any observation of a hypergiant (class 0 or Ia star) binary system in the optical or other EM radiation? I would expect that these observations would be rare give the short lifespan of these stars.
+If a black hole binary formed from a binary of population 3 stars with masses over 600 solar mass, how long would one expect that they would remain in orbit around one another before they merge?

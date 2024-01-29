@@ -1,0 +1,6 @@
+Would Adaptive Optics be Useful in Radio Astronomy?
+
+The question Why is this video showing radio waves transmitted from a radio telescope? and this answer to it got me thinking. If atmospheric seeing at visible wavelengths is the result of refractive index inhomogeneity, would it also be a similar problem for mm to cm wavelengths? From a quick search, the index of refraction of air at STP is about 1.0003 (visible) and 1.0002 (radio).
+If it is not, is there a way to understand quantitatively why it is not a problem?
+ 
+Sources: 1, 2

@@ -1,0 +1,4 @@
+How to convert TEME (or ITRF) to horizontal
+
+I have TEME coordinates from sgp4 propagation. I can convert those (in python) to ITRF given date and time of observation. How to convert coordinates from one of those two frames to horizontal azimuth and altitude frame given latitude, longitude and elevation of observer?
+Preferably I don't want to use (unless I have to) any other third-party  libraries (except sgp4 and pyErfa) as I am really short on disk space for this project. I've tried using skyfield but every tutorial I've found is using somewhat heavy de421.bsp ephemeris file which is kinda slow to load and takes too much space for my use case.

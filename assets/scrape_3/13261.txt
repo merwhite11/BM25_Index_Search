@@ -1,0 +1,3 @@
+how to get image coordinates of source points in saoimage ds9?
+
+I loaded my fits image to saoimage ds9. Then, Analysis->Catalogs automatically brought up source locations.  how can i get xy image coordinates of this source locations?

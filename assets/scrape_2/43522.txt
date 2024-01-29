@@ -1,0 +1,12 @@
+Planets orbit fitting
+
+I would like to fit planets orbits. To do this, I need a set of mock observations. I can get them from right ascension/declination obtained from the Horizons interface:
+
+EDIT:
+Horizons gives me a list {time,right ascension [hms],declination[dms]}. I need to reconstruct at least one observed orbit, for example of Mercury, around the Sun. My confusions is: how to convert the output coordinates from Horizons? Is it sufficient to convert them from equatorial to ecliptic?
+Is there any suggestion to implement the correct procedure?
+EDIT 2:
+I changed the settings in Horizons in this way
+
+To have {X,Y,Z} in AU and the Sun as body center. Then I tried to overlap simulated orbit with Newton's equation with the horizons coordinates. 
+Is this the right way to make the coordinates comparable for a fit?

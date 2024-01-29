@@ -1,0 +1,17 @@
+Cancelling out earth rotation speed, Altazimuth mount
+
+I have a Dobsonian telescope.
+It is using Altazimuth mount.
+Basic idea of using it is to target the object by moving telescope vertical axis perpendicular to the ground, and an elevation axis that is parallel to the ground.
+I have installed two step motors to automate the movement along both vertical and elevation axis.
+I would like to find out how can I cancel out earth rotation speed by simultaneously moving both vertical axis and elevation axis motors.
+Idea behind it is to point telescope at the object and press the button.
+Then the step motors driver software would follow the object as the earth rotate.
+I will quote few lines from The Basic Astronomical Telescope Mounting Designs to help me explain what I am trying to achieve:
+[Using altazimuth telescope...:]
+
+If you happen to be observing from the North or South Pole, the vertical axis would be aligned with the Earth's spin axis. The nice thing about that would be that when you found an object to observe, rotation in only the vertical axis would be needed to keep the object in the field of view. Rotating at the Earth's spin rate in the opposite direction as the Earth's rotation would keep and object motionless in the eyepiece.
+However, for any other latitude on the planet, the vertical axis is not aligned with the Earth's spin axis. This means that to keep an object in the field of view requires motion in both axes. The motion rates will change over time as the elevation angle changes. Tracking objects near the horizon requires mostly changes in elevation, and tracking objects more straight up requires mostly changes in azimuth.
+
+I need to find mathematical algorithm that will help me solve the problem described in the second paragraph.
+Hope this is clear.

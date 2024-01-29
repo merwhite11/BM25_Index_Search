@@ -1,0 +1,12 @@
+How can I estimate the M/L ratio from a fitted SED on a galaxy?
+
+This answer (here in the forum) provides background to my question: https://astronomy.stackexchange.com/a/5953
+I am trying to understand the process in which a stellar population synthesis (SPS) is created, in order to calculate the stellar mass of a galaxy. (This is my main goal: understand how the stellar mass is calculated via SPS and broadband photometry)(Section 2.5:  https://ned.ipac.caltech.edu/level5/Sept14/Conroy/Conroy2.html)
+Ok.
+I have already understood the process to obtain a stellar population library (SPL). Such SPL will be fitted to observational data in order to create a SED (Spectral Energy Distribution)
+Ok. Now I have the fitted SED on a galaxy, here are my questions:
+
+How can I estimate the M/L ratio of that galaxy?
+How can I estimate the L?
+
+I feel it is an easy and direct answer, but I don't get it.

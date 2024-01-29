@@ -1,0 +1,5 @@
+How are various orbital period measured?
+
+How are the sidereal periods and synodic periods of celestial bodies measured from earth? The usual definition of the sidereal period of a celestial body is the time it takes to complete one revolution around the sun, relative to some other fixed point outside the solar system. I assume that relative to a fixed point here means the references frame of that point.
+Is there a way to measure this sidereal period while still staying in the reference frame of the earth? For example, a sidereal day can be measured by noting the time between the first appearance of a distant star on two consecutive nights.
+Similarly, what are the ways for measuring synodic periods?

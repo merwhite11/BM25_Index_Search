@@ -1,0 +1,5 @@
+What is the difference between a Cassegrain telescope and a Gregorian one? Which one is better?
+
+Of the three giant (or 'Extremely Large') new telescopes being built, the Thirty-Meter (TMT), the the Giant Magellan (GMT) and the Extremely Large Telescope (ELT), only the Magellan, from what I understand, will not feature a Cassegrain-type telescope, or some variant thereof.
+Instead, the GMT will have a 'Gregorian'-style telescope, which is supposedly a predecessor of the Cassegrain....
+But... What, exactly, is the difference?

@@ -1,0 +1,14 @@
+How much mass does the Sun lose as light, neutrinos, and solar wind?
+
+In this answer I estimate the loss of gravitational mass of the Sun to be about 1.3E+17 kilograms per year using $E = m c^2$ and 1360 W/m^2 at 1 AU.
+While writing that answer I realized that solar neutrinos also carry away a lot of mass equivalence in the form of kinetic energy. The strongest component seems to be from the first step in the process; deuteron formation from proton–proton fusion.
+Am I right so far?
+Questions: 
+
+How much mass equivalent is lost per year by the sun via neutrinos?
+Is my estimate of 1.3E+17 kg for loss per year via electromagnetic radiation close? 
+Are there any other comparable loss mechanisms? I'm assuming that the solar wind is lower, but I could be way wrong on that!
+
+"bonus points:"
+
+Are these rates likely to have been at least similar 4.5 billion years ago? Or would there have been large changes over this time? ("large" = factors of 2 or so)

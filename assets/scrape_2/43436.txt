@@ -1,0 +1,10 @@
+Are astronomers still using photomultiplier tubes for optical photometry?
+
+In Time domain astronomy and fastest eclipsing binary ZTF J1539+5027 (+20 mag, 6.91 minutes) How to measure it's minimum brightness? I've written
+
+A logarithmic magnitude scale might tend to show just how deep but noting that the minimum is dimmer than -21.5 mag and probably lasts only a tiny fraction of the orbital period (i.e. a few seconds) makes a good measurement of the minimum quite a challenge.
+It seems to me like this might be a situation where a photomultiplier tube and photon counting might be competitive with photometry based on CCD imaging and clever readout schemes.
+
+This has lead me to wonder more broadly:
+Question: Are astronomers still using photomultiplier tubes for optical photometry?
+These include position-sensitive PMTs but excludes other electron multiplication devices like channel plates and image intensifiers. I'm asking about vacuum tubes with one photocathode, a series of dynodes, and an anode where the multiplied photocurrent can be read out either as a DC average level for higher fluxes (possibly using lock-in techniques) or shaped pulse counting for low flux rates.

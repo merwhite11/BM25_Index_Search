@@ -1,0 +1,3 @@
+Is the surface of Venus red hot?
+
+I was wondering, is the surface of Venus so hot that it would glow red in the dark (e.g. on the dark side of Venus)?  I am working on making a solar system simulator, and that would make for a great level if it is accurate.

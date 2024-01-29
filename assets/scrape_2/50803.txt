@@ -1,0 +1,16 @@
+How to determine the amplitude of RV curve for eccentric orbit?
+
+How to determine the amplitude of RV curve $$K_1$$ for eccentric orbit when the anomaly is not known, please? Thank you very much
+
+Edit:
+I thought that |RV_min-RV_max|/2 holds for circular orbits $e = 0$.
+I saw the following relations for $K_1$ and $K_2$ in the case of a triple star where the outer system has an eccentric orbit:
+$$K_1 = \frac{\sqrt[3]{\frac{(M_1+M_2) \sin^3 (i)}{1.036149\cdot 10^{-7} P(1-e^2)^{3/2}}}}{1+\frac{M_1}{M_2}}$$
+$$K_2 = K_1 \frac{M_1}{M_2}$$
+I was searching for the original source and maybe found this (page 5), but I do not understand the meaning of $M_{1,2}$ and $K_{2,1}$. Are these two equations? Does the first have $M_1$, $K_2$  and does the second use $M_2$ and $K_1$?
+
+$$v_k = \frac{G(M_1+M_2+M_3)}{a_2}$$
+$$v_{12}=\frac{v_k M_3}{M_1+M_2+M_3}$$
+$$K_{12} = v_{12} \sin(i_2)$$
+$$K_{3} = v_{3} \sin(i_2)$$
+Here I am not sure for what $v_k, v_{12}$, and $K_{12}$ stands.

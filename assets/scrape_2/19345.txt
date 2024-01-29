@@ -1,0 +1,6 @@
+Will JWST be as durable as the hubble telescope?
+
+JW Space Telescope is designed for a 5-10 year mission duration. Seeing as Hubble and other space missions have paved the way for JWST for reliability issues, It even has zero friction gyro's with 100+ years mean time before failure. Is it reasonable to think that JWST can last longer than Hubble?
+JWST will orbit a Lagrange point in earth's shadow and will be 4 times further than the moon, around 10 days of travel away, and NASA states that JWST won't be serviceable. Why?
+Why are JWST's fuel limitations so short? Are there no provisions for refueling? even a refueling craft? How many gallons of dinitrogen tetroxide ($N_2O_4$) as oxidizer and hydrazine ($N_2H_4$) will it contain?
+Surely NASA are secretly hoping for a 20 year mission?

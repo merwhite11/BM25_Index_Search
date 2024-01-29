@@ -1,0 +1,4 @@
+Which KBOs would one have to merge in order to have more than half the Kuiper belt's mass?
+
+I wonder how many and which Kuiper belt objects' masses would one have to merge so that the resulting mass is more than half the Kuiper belt's mass. The total mass of the Kuiper belt is reportedly about 0.02 Earth masses. I couldn't find a graph like this one depicting the main asteroid belt.
+I don't know if one should include Eris and Pluto, as both (dwarf) planets leave the belt throughout their orbit (Eris for most of its orbit), but if we include them, then Pluto has 0.0022 M♁ and Eris 0.0028 M♁ resulting in 0.005 M♁ or a quarter of the belt. Makemake, Gonggong, Haumea, Orcus, Quaoar and Varuna combined have 0.00331 M♁ if the values are correct, resulting in a total value of 0.00831 M♁. That's the closest I got for now. Which other KBOs might we add?

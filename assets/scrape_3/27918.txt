@@ -1,0 +1,16 @@
+What is the planet relative to earth that shows the greatest change in apparent brightness?
+
+What is the planet relative to earth that shows the greatest change in apparent brightness?
+I think the answer is Mars, and a quick google search reveals it is Mars.
+I have my reasoning here, but I am not sure if I am correct.
+One way to do this problem is to get all the planets and collect their perihelion and aphelion distances from the sun, and see the different.
+However I want to be able to explain this without the extensive use of numbers. 
+
+Here is my explanation:
+The closest planet to us is Mars, both in terms of its aphelion and its perihelion distances
+The Earth-Mars distance varies between 2.66 AU and .38 AU
+Mercury is almost always blinded by the sun, so we rarely see it in the sky
+Venus is frequently viewed as a crescent, and thus its apparent brightness also dimishes
+Jupiter and rest of the superior planets are simply too far away for us to notice a big differene
+
+Are all my points correct here?

@@ -1,0 +1,6 @@
+Is it possible to have a positive rational number of months (more than 1) in a year?
+
+It is possible for a planet to have orbital resonance with a sun (e.g. Mercury has a 3:2 spin resonance with the sun). It is also possible for a moon to have orbital resonance with a planet (e.g. our moon has a 1:1 resonance with earth).
+Is it possible for there to be a resonance such that there is an integer ratio between the time it takes for the moon to go around the planet (a month) and the time it takes for that planet to go around the sun (a year)? a) Is this possible in the case that there is a spin resonance with the planet as well (length of a day)? b) Is it possible if there is no spin resonance with the planet? (i.e. a day can be any length of time).
+A similar question was asked here where it was shown that it is possible to have a one-month year. But there wasn't an answer to the general question of any positive rational number.
+(This was original posted as a World-building question here.)

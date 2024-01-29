@@ -1,0 +1,14 @@
+Does General Relativity predict anything about the creating of a singularity, once enough matter collapses inward to form an event horizon?
+
+Ignoring quantum gravity, which we don't know much about, current theory (GR) states that an event horizon forms when there is enough matter/energy density to create it, and logically, a singularity I guess forms a tiny fraction of a second later.
+I know from other reading that in GR:
+
+the event horizon forms when enough matter/energy density occurs in a region of space that all futures point inward (this is the point we can say a BH comes into existence)
+that infalling matter at a black hole reaches the singularity after finite time as it perceives time, but can't see it in advance, as its never in their past light cone.  I'm not sure what the terminology/adjective is, for their time in this context, but finite time seems an intuitive term
+that the notion of time and really any spacetime coordinates is complex and need choosing with care,and an easy source of confusion
+that the apparent slowing/dimming/redshifting of an infalling object is effectively as perceived by outside observers, rather than the "experience" of the infalling matter, and can probably be ignored in this issue (mentioned for clarity, rather than because relevant per se)
+that the singularity isn't as much a "point", as a gap or absent part of spacetime geometry.
+
+Logically, imagining a spherical collapse, matter density and EH are achieved before the originating material reaches the "centre", so the EH presumably predates the creation of the singularity by some tiny amount of time.
+So I'm curious about what GR has to say, about after an event horizon comes into existence as matter collapses inward (say), and up to/including the singularity coming into existence (if other effects don't prevent it).
+Beyond the rather trite "it happens", that is.

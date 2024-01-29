@@ -1,0 +1,6 @@
+How to compensate the effect of tectonic activity in devices like LIGO?
+
+In late 2015, the LIGO project team announced the detection of gravitational waves. The detector is (very basically) a laser measuring the distance between two mirrors in vacuum, over a large-enough distance to detect very small changes.
+The two mirrors are installed on Earth, and a couple kilometers apart.
+I believe, perhaps mistakenly, that tectonic activities (if only vibrations) may change the mirror distance over time, so the LIGO project has probably used some model and technology to nullify their effects.
+How can that be done? If there is any mistake there, I wonder about how to validate the experiment results.

@@ -1,0 +1,4 @@
+Closest point on Earth to a planet?
+
+I'd like to be able to find the latitude and longitude on Earth (assuming a sphere is fine) which is closest to Pluto at the current time (or where Pluto is directly overhead). 
+Is this possible with PyEphem?

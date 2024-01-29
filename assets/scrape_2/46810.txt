@@ -1,0 +1,4 @@
+Maximum distance at which planetary atmospheres can be analyzed during transits?
+
+Is there a limit for how far away you could make a spectroscopic analysis of a planet when it transits its star, to detect bio markers and industry markers?
+What would the limit be with current technology, and is there a hard limit for what might be possible with (forseeable) future technology?

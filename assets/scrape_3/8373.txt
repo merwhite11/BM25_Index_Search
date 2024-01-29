@@ -1,0 +1,7 @@
+How do we know an event is a gamma-ray burst?
+
+How do we know an event is a gamma-ray burst (grb)?
+There are two kinds of grbs, long burst and shot burst, which are caused by supernova explosions explosion and the merger of two neutron stars, respectively. However, at least one grb, J1644, is a tidal disruption event. Is there any other grb which was not caused by a supernova or the merger of two neutron stars?
+When can we say that a supernova explosion is a grb after observations? How do we know an event is a grb especially when we missed its explosion?
+Can we tell that the afterglow is caused by a grb?
+Please give me some reference papers since I am a layman of this field.

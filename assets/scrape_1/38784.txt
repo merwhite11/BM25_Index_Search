@@ -1,0 +1,12 @@
+Why was the Vera C. Rubin Observatory LSST Camera tested with a broccoli and a pinhole?
+
+The SLAC National Accelerator Laboratory video Vera C. Rubin Observatory LSST Camera (caution! annoyingly loud music, lower volume before playing) shows a Romanesco broccoli (which I'd assumed was a 3D printed mathematical surface of that name until I checked and found out that this is the name of an actual vegetable i.e. Brassica oleracea) as the object of a pinhole camera projecting its image on to the astoundingly large CCD array.
+There are likely several advantages to using the pinhole rather than a well-corrected projection lens, is it possible to say what they are?
+Is it also possible to elaborate on the choice of object for the camera?
+See also:
+
+slac.stanford.edu Sensors of world’s largest digital camera snap first 3,200-megapixel images at SLAC
+BBC: Vera Rubin: Super telescope's giant camera spies broccoli
+What is the LSST now? Where does LSST end and Vera C. Rubin Observatory begin?
+
+Caution! annoyingly loud music, lower volume before playing:

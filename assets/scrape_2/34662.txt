@@ -1,0 +1,4 @@
+Metal lines in Lyman-alpha forest
+
+I need to find metal lines in the Lyman-alpha forest of quasar spectra, without the red side of lyman alpha emission line.
+Can you guide me how to do this?

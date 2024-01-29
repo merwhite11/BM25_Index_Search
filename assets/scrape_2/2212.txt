@@ -1,0 +1,4 @@
+Which type of telescope should I make?
+
+I am not very much interested in observational physics but I just like to look at the night sky. It gives me a lot of inspiration. So, i was thinking about making a telescope for basic observations. I googled about the design and found two models. One consisted of two convex lenses of different focal lengths and the other one consisted of a concave lens as the objective lens and a convex lens as the eye-piece(that's called a Galilean one I guess). 
+I am confused about which one should I make. Can anyone give me some insight into both these types?

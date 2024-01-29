@@ -1,0 +1,11 @@
+Will pulsars stop spinning eventually?
+
+In the book "Horizons: exploring the universe-Cengage learning (2018)", page 224, it states that:
+
+When a pulsar first forms, it is spinning fast, perhaps a hundred times a second. The energy it radiates into space comes from its energy of rotation, so as it blasts beams of radiation outward,
+its rotation slows.
+
+
+The average pulsar is apparently only a few million years old, and the oldest are about 10 million years old. Presumably, older neutron stars rotate too slowly to generate detectable radio beams.
+
+So will pulsars eventually stop spinning due to the energy it radiates into space? As there are no extra energy sources that give pulsars to spin. And I know the space is basically empty space, but will air resistance be a factor that slows the spinning of pulsars or other stars?

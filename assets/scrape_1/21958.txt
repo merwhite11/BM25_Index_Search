@@ -1,0 +1,16 @@
+Why would there be no day/night cycle even though the firmament would still be rotating, according to Copernicus
+
+In chapter 6 of "The Revolutions of the Heavenly Spheres" where Copernicus maintains that the heavens are immense compared to the size of the Earth, the Edward Rosen translation of the book states this 
+
+"The upshot of the argument, then, is the claim that the earth as a part of the
+  celestial sphere shares in the same nature and movement so that, being close to the
+  center, it has a slight motion. Therefore, being a body and not the center, it too will
+  describe arcs like those of a celestial circle, though smaller, in the same time. The
+  falsity of this contention is clearer than daylight. For it would always have to be
+  noon in one place, and always midnight in another, so that the daily risings and
+  settings could not take place, since the motion of the whole and the part would be
+  one and inseparable."
+  To add context. Copernicus is debating the classical point which assumes that "the center is at rest, and the nearer an object is to the center, the slower its motion." Copernicus in the previous paragraph states that this assertion could be translated into a sphere. Where the center are the poles, and the constellations around those poles (i.e. Ursa Minor, Draco, etc...) would be rotating slower as they are closer to those poles. Yet Copernicus refutes this by saying that if those constellations truly moved slower than the rest, they wouldn't be able to make a full 360° rotation in a year.  
+
+Copernicus then in the paragraph above, argues that the Earth too must orbit around the center in order to account for the "slowness" in the poles. However Copernicus further refutes this by stating that there would be no day/night cycle in this case.  
+To elaborate on my question asked in the title. Why would the Earth need to orbit in order to account for this "slowness." And why would there be no day/night cycle even though the firmament would be rotating and not the Earth along with it.

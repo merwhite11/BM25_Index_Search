@@ -1,0 +1,5 @@
+3C273 jet mass estimate
+
+In this picture of 3C273, we can see a jet—estimated to be around 200,000 light-years long—being emitted.
+
+I'm trying to find an estimate for the mass of the jet. It's a stream of electrons, accelerated through synchrotron radiation (see here). There seems to be lots of information on its spectroscopic properties and the mass of the quasar (886 million solar masses), but I can't find an estimate for the mass of the jet itself. Does anyone know of a source I could look at to give me some idea?

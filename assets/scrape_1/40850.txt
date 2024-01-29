@@ -1,0 +1,18 @@
+Issues in dimensions and slicing while plotting contours over a FITS Image in Astronomical Plotting Library in python (APLpy)
+
+I have been trying to plot the contours of a FITS image over itself in APLpy. The image was created in AIPS, and has dimensions (1024,1024,1,1), viz., right ascension (RA--SIN), declination (DEC--SIN), frequency (FREQ), and Stokes (STOKES). I tried to load the FITS image and plot the contours of this image over itself, using the following commands -
+baseimg = aplpy.FITSFigure('FILENAME.FITS') 
+baseimg.show_contour('FILENAME.FITS') 
+
+This returned the error WCS has more than 2 pixel dimensions, so 'slices' should be set.
+So, I specified the dimensions and slices while loading the FITS image, as-
+baseimg = aplpy.FITSFigure('FILENAME.FITS', dimensions=[0,1],slices=[0,0])
+
+i.e., specifying RA and DEC as the x and y axes respectively, and using the only available value of Frequency and Stokes as the slice. Trying to plot contour again as-
+baseimg.show_contour('FILENAME.FITS') 
+
+or
+baseimg.show_contour('FILENAME.FITS', dimensions=[0,1],slices=[0,0])
+
+again gives the same error WCS has more than 2 pixel dimensions, so 'slices' should be set.
+I am stumped as to what I am doing wrong here. I am absolutely new to APLpy. Any help is immensely appreciated.

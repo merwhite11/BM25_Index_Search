@@ -1,0 +1,8 @@
+Ceres is spherical, Vesta isn't – is it the largest non-spherical solid body in the solar system?
+
+I was showing a recent video about Ceres to a friend and we looked up asteroids. Ceres has attained a fairly spherical shape, but Vesta still has a way to go. From Wikipedia:
+
+Vesta's shape is close to a gravitationally relaxed oblate spheroid, but the large concavity and protrusion at the southern pole (see 'Surface features' below) combined with a mass less than $5×10^{20}$ kg precluded Vesta from automatically being considered a dwarf planet under International Astronomical Union (IAU) Resolution XXVI 5.
+
+I don't know the proper term to use here. Perhaps it is "hydrostatically relaxed" or something similar – I'm looking for the term that would suggest a body has reached a fairly round shape without major excursions, under the influence of its own gravity.
+I think Ceres meets this criterion, and Vesta doesn't. Is Vesta the largest such body (by dimension or volume, not sure which would be the most reasonable measure)?

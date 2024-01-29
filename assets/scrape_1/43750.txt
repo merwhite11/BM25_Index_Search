@@ -1,0 +1,5 @@
+Is there anything different about the gravitation around a non-spinning black hole and a neutron star of the same mass?
+
+If we perform a simple experiment by orbiting identical spacecraft around a non-rotating black hole and a non-rotating neutron star of equal mass at a "safe" distance, and ignore differences other than gravitation (e.g. magnetic fields and charge) would there be any differences in their orbits predicted by general relativity?
+"Safe" distance means far from the event horizon of the black hole and where tidal forces don't disrupt the spacecraft.
+After writing this answer I am now wondering if it's 100% correct.

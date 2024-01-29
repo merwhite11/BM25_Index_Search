@@ -1,0 +1,4 @@
+How do I deduce my latitude and longitude from N obervations of occultations from the same place?
+
+I think it would be an interesting exercise to measure the latiude and longitude of my house using N occultation timings. I would like to see how precisely I can measure it using that technique, and compare it with the GPS readings from my phone.
+I'm looking for a reference which will tell me how to do the calculation of inferring my position from occultation timings, as accurately as possible.

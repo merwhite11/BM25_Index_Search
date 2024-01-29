@@ -1,0 +1,16 @@
+Is there any free stacking program that stack images which are not aligned?
+
+I liked to photo deep-sky-objects and planets with my camera Canon sx130. But I have never stacked images because they were too much apart. I was looking for some free astronomy stacking program for stacking photos that aren't perfectly aligned, like doing the mosaics, but I found just Deep Sky Stacker. It does not stack images that aren't aligned and I have some troubles with it.
+For examples, I want to stack this image:
+¸¸¸¸¸¸¸¸¸¸
+¸¸¸¸¸¸¸¸×¸
+¸¸¸¸¸¸¸¸¸¸
+¸¸¸¸¸¸¸¸¸¸
+and this image:
+¸¸¸¸¸¸¸¸¸¸
+¸¸¸¸¸¸¸¸¸¸
+¸¸¸¸¸¸¸¸¸¸
+¸×¸¸¸¸¸¸¸¸
+¸¸¸¸¸¸¸¸¸¸
+("¸" is the dark sky and "×" is a planet.)
+Any help?

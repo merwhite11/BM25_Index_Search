@@ -1,0 +1,6 @@
+Increase in Luminosity of the star
+
+The Luminosity of a star is proportional to the 4 th power of its temperature and square of its radius. Also the mass-luminosity relationship says that the luminosity of star is proportional to approximately M^3.5.
+Consider a star in main sequence. It is in hydrostatic equilibrium so there is no collapse or expansion. Thus the Radius does not change much. Also the star is thermal equilibrium so the energy it generates equals the energy it radiates away. Thus the temperature must not change significantly.
+Moreover the star is losing mass as energy due to fusion. Now if we consider the mass luminosity relationship here, then why is there a slight increase in luminosity in star during its stay in the main sequence. If it's losing mass then it should lose its luminosity as well, right?
+Please tell me where I am going wrong in my reasoning.

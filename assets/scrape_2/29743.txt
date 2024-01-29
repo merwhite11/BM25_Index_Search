@@ -1,0 +1,5 @@
+Has stellar evolution ever been modeled analytically?
+
+I'll still remember the handout my astronomy professor gave us more than several decades ago; Our Friends the Polytropes. We spent a lot of time learning how polytropes, simple analytical power-law models could reproduce some basic thermodynamic properties of stars, and how those properties would tend to vary with mass (and perhaps other parameters, I don't remember now).
+Have polytrope models of stars (or other simple analytical models of stars) ever been "evolved" analytically in time? In other words, in addition to variations on radius, have a set of equations ever been written which also included a $\frac{\partial}{\partial t}$ in such a way that they were amenable to an analytic solution?
+note: I've added the history tag since I'm asking about the "gold 'ole days" rather than about modern techniques.

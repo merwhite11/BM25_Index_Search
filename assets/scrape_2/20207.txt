@@ -1,0 +1,8 @@
+On the geodesics of the metric $ds^2=-\rho^2d\alpha^2+d\rho^2$ and the constant $l=\rho^2\frac{d\alpha}{d\tau}$
+
+In my assignment I have to deal with the 2D spacetime metric $$ds^2=-\rho^2d\alpha^2+d\rho^2.$$ During this assignment we have shown that the constant $$l=\rho^2\frac{d\alpha}{d\tau}$$ is a constant along the geodesics in that space. After this we found an expression for $\rho$ in terms of $\alpha$, for which $\rho(\alpha=0)=l$, namely: $$\rho(\alpha)=l\frac{2e^\alpha}{e^{2\alpha}+1}.$$
+We plotted this function for various values of l, which gave:
+
+Finally, we showed that in the close neighbourhood of the Schwarschild radius, i.e. $0<r-r_s\ll 1$, the metric $ds^2=-\rho^2 d\alpha^2+d\rho^2$ corresponds to the metric $ds^2=-(1-\frac{r_s}{r})dt^2+(1-\frac{r_2}{r})^{-1}dr^2$.
+Now what we need to do is, use the result that the metric is approximately the schwarzschild metric at the schwarzschild radius to interpret the plots we found in the figure shown above and give a possible interpretation for l. And I really have no idea how to interpret these figures or what l might be.
+Any ideas are welcome!

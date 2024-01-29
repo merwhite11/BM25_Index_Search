@@ -1,0 +1,18 @@
+Coasting universe Hubble parameter behaviour
+
+I’ve recently been trying to wrap my head around the potential behaviours of the Hubble parameter over time for various cosmological models but I’ve run into a little snag when it comes to a coasting universe.
+So, my understanding is that there are 4 basic cosmological models:
+
+Decelerating universe that re-collapses
+Decelerating universe that becomes static after infinite time
+Coasting universe
+Accelerating universe (dark energy/cosmological constant)
+
+Now the way I’ve been delineating between these scenarios is by considering how the Hubble parameter changes over time. In other words, how the slope of a graph of recessional velocity (V) vs. distance (R) varies with time... i.e. a graph like this:
+
+For scenario 1, the slope starts out positive (expanding) but over time gets less steep, momentarily becoming flat when it crosses the horizontal axis (static), and then eventually becoming more and more negative (collapsing). This would ultimately culminate in a big crunch.
+For scenario 2, the slope starts out positive and remains positive (expanding) but is getting less and less steep over time, asymptotically approaching a slope of zero when it becomes flat and coincides with the horizontal axis (static). This would asymptotically result in a universe where all other objects are stationary from your perspective (ignoring peculiar motions of course).
+For scenario 4, the situation is a lot like scenario 2, with the slope starting out positive and remaining positive (expanding), but instead of it approaching a slope of zero, it asymptotically approaches some non-zero positive slope (expanding forever) that is dictated by the value of the cosmological constant. This would asymptotically result in a universe where all other objects are uniformly and isotropically moving away from you with some constant ACCELERATION (once again ignoring peculiar motions).
+My question is, how exactly does scenario 3 fit into this picture? My best guess is that scenario 3 would correspond to the graph levelling out with a slope of zero but at a constant recessional velocity of V = v (with the caveat of a discontinuity of V = 0 at R = 0, i.e. my location). This is in contrast to scenario 2, where the slope levels out at V = 0 for all values of R. If true, this would asymptotically result in a universe where all other objects are uniformly and isotropically moving away from you with some constant VELOCITY (once again ignoring peculiar motions). This is similar to the asymptotic eventuality of scenario 4, where the universe expands forever, but the recessional velocities are now constant everywhere rather than being proportional to distance. Is this the correct interpretation? If not, then what is the correct interpretation in this context?
+Assuming it is the correct picture though, then I have a follow on question... does it even make sense for a universe to asymptotically approach a state like this over time? I ask because in scenario 3, I struggle to envision a "continuous" transformation of the graph over time that doesn't point towards questionable physical interpretations.
+P.S. I’m aware that a coasting universe is one in which the expansion rate is usually considered constant, meaning the concept of a changing/“levelling out” Hubble parameter in this context might not entirely be physical. For the sake of the question though, I'm assuming transient behaviour is even possible in the case of an eventual coasting universe.

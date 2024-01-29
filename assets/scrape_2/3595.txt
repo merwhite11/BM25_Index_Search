@@ -1,0 +1,7 @@
+Is there a ceiling for stable L4 or L5 masses?
+
+L4 and L5, the Lagrange points 60 degrees leading and trailing an orbiting body, are famous for being stable.
+A well known example is the Trojan asteroids at the Sun-Jupiter L4 and L5. Nodding to these bodies I label the central mass S, orbiting mass J and the L4 mass T:
+
+It's said S/J needs to be equal to or greater than 24.96 for the system to be stable. For a stable system there's a ceiling on J, it can't be more than 4% of S.
+My question: Is there a ceiling on mass T? If T were as massive as J, could the system still be stable?

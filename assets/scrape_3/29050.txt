@@ -1,0 +1,18 @@
+Doppler Spectroscopy - Finding mass of an exoplanet
+
+An astronomer, T observed the spectrum of a distant star X. The spectral lines were observed to have tiny blueshifts and redshifts regularly with a period of 1.27 years. T concluded that the star is wobbling slightly due to a planet orbiting it. Let the estimated mass of the planet when                                                     
+(a) eccentricity of the orbit e = 0 be k*10^23 kg
+(b) and for e = 0.6 be x*10^22 kg.
+Assume that there is only one major planet and the axis of rotation of the system is perpendicular to the line of sight.
+Mass of Star = 23.86163 x 10^30 kg 
+Time Period = 463.55 days 
+Shift in wavelength = 1.7627 x 10^-5 nm
+You have to find out 'k' and 'x'                       
+I studied about the Doppler Spectroscopy method.
+I know that the relation
+$$
+K = \left(\dfrac{2\pi G}{P_{orb}}\right) ^{1/3}\dfrac{M_p}{(M_{*}+M_p)^{2/3}}\dfrac{1}{\sqrt{1-e^2}}
+$$
+holds where K = radial velocity half amplitude.
+How can I use the doppler shift given into this?
+Thanks.

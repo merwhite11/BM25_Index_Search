@@ -1,0 +1,9 @@
+What happens if a black hole is produced inside another black hole?
+
+Similar question here.
+The question I linked got me thinking. 
+It is known that a black hole doesn't let anything escape its event horizon, not even light. Thus, naturally, anything that passes the event horizon would get "eaten". 
+Now, assume a supermassive black hole(small Roche limit, large event horizon) was in the path of a high eccentricity, massive, dying star. Assume the star is travelling in a straight line at 5% the speed of light, and the black hole is stationary. The star would be swallowed by the black hole, and also swallowed intact. Now, the star goes supernova inside the black hole, but since its mass is very high, it too, creates a black hole. What would happen?
+Would the supermassive black hole gain the mass of the star and things would go as normal for an outside viewer(everyday common things: black hole swallowing objects)? Would the black hole inside the larger one pull the larger one in? Or something else?
+Thanks!
+Max0815

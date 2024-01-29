@@ -1,0 +1,3 @@
+What is the length of time for each fusion process in a massive star?
+
+In a massive star (i.e. an O5 star), first hydrogen is fused into helium, then helium is fused into carbon. This process continues to neon, oxygen, and finally silicon burning. So I am wondering, how long does it take for each process to commence?

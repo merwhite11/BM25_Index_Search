@@ -1,0 +1,58 @@
+How to find the Orbital Period of two Binary Planets around a Single Star?
+
+This is kind of a weird one. Bare with me! :) 
+
+Background: (Skip to the math below if you just want to answer questions)
+In my favorite game, Elite: Dangerous, I "own", or occupy I guess, a system named "59 Virginis", based on the real life counterpart inside the Virgo Constellation.
+The game itself houses a unique, very close to life-like system called "Stellar Forge", which uses as close to real life accuracy with physics as possible.
+In this system, my own group's "Home" is the Earth-Like planet "59 Virginis 4", which is in a binary (tidally locked) orbit with 59 Virginis 3 (a class III gas giant). 
+I am trying to create an "Alien Calendar" of sorts, and a key component of calendars is the year, or how long it takes to rotate the sun once. This is semi-important, seeing as the home planet itself is titled on it's axis, meaning the Earth-Like will have seasons! Meaning having a yearly cycle of seasons would be awesome, and making a calendar would be lots of fun! 
+
+This is where I'm incredibly stuck. The game doesn't outright tell us how long it takes for these two objects to circle the sun, but it does give a lot of extras on possibilities of finding it! 
+I've tried a few different methods, but I don't think I know enough math to be able to find such a thing. 
+Here is the information we have currently:
+59 Virginis 3 (the Gas Giant)
+
+"distanceToArrival": 964 light-seconds, (this value changes based on where the planets are in binary orbit at the time of information update),
+"earthMasses": 2027.9021,
+"radius": 72755.136 km,
+"orbitalPeriod": 80.53994791666666 d,
+"semiMajorAxis":  5.898593314670755e-5 au,
+"orbitalEccentricity": 0.114867,
+"orbitalInclination": 0.071319°,
+"argOfPeriapsis": 246.659607°,
+"rotationalPeriod": 1.7743948929398148 d,
+"rotationalPeriodTidallyLocked": false,
+"axialTilt": -1.236412°
+
+59 Virginis 4
+
+"distanceToArrival": 989 light-seconds,
+"earthMasses": 1.795525,
+"radius": 7228.5435 km,
+"orbitalPeriod":80.53994791666666 d,
+"semiMajorAxis": 0.0666149271869282 au,
+"orbitalEccentricity":0.114867,
+"orbitalInclination":0.071319°,
+"argOfPeriapsis":66.659615°,
+"rotationalPeriod":80.57560763888888 d,
+"rotationalPeriodTidallyLocked":false, (it's pretty damn close tho) 
+"axialTilt":-0.293082°,
+
+The above information can be taken from here which is the most accurate version that can be given. If you want it in an easier to read format, click on the bodies 3 and 4 here
+I know that the orbital period of a binary object is this:
+$T= 2\pi\sqrt{\frac{a^3}{G \left(M_1 + M_2\right)}}$
+Which only describes the orbital period of the two objects around eachother, right? 
+Ideas that have been thrown around: 
+
+Using Kepler's Third law, which states "The square of the orbital period of a planet is directly proportional to the cube of the semi-major axis of its orbit."
+Using the two object's "distance to arrival" to find the distance between the two objects, then finding where on that line the center of mass is, and then using that center of mass point to find the distance to the star again from that point, then using that distance to find the orbit. (This sounds like the most reasonable from my point of view, but possibly the hardest) 
+
+Here is a really bad paint drawing of what I think the one above could look like:
+
+
+Possibly finding the sidereal period somehow, or synodic period in relation to the giant and the sun?
+
+
+If you've gotten this far, you've already helped me more than most! Any advice in relation of where to go next would me MUCH appreciated! Thank you!! 
+The next step after finding how long it's sun's orbital period is to find how many years to reset the whole cycle, kind of like a leap year, but with the binary orbits. That should be slightly easier, but I'm stuck on this for now! :)

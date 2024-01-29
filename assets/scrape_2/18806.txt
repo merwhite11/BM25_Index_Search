@@ -1,0 +1,8 @@
+Questions about convolving/deconvolving with a PSF
+
+A point spread function (PSF) has many different uses. Consider for instance the following quote:
+
+To  extract  the  maximum  information  out  of  an  observation, even the smallest details of the PSF are important. Some examples include: deconvolving the PSF from an observed image to remove the blurring caused by diffraction and reveal fine structure; convolving a model image by the PSF to compare to an observed one;
+
+My question about this is the following:
+If we know the PSF of a system, and use this to deconvolve the raw image (purpose 1 from the quote above), why would we convolve a model with the PSF to compare it to an image (purpose 2 from the quote)? That is, can't we just compare the original, unconvolved model, with the deconvolved image? In terms of maximizing the information that seems like the way to go.

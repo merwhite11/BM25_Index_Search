@@ -1,0 +1,126 @@
+Discrepancy in Horizons planet ephemerides for equivalent times in TT and UTC in dates during 1969
+
+I have recently been experimenting with JPL Horizons planet ephemerides web App, and found a puzzling discrepancy.
+Horizons allows to specify the time at which the planet ephemerides should be calculated in several ways. If we just want one or a few time points, in the Time specification tab we can choose "Specify a list of times" mode. We can then choose as Time-form "MJD (Modified Julian Day)". Then, we can choose the time-type, of which we have 3 available: Universal Time (UT), Terrestrial [Dynamic] Time (TT) and Barycentric Dynamical Time (TDB).
+As a test case, let's work with Mars Barycenter as the target body, with Coordinate Center: Solar System Barycenter (SSB) [500@0] 3, and with the following output settings:
+
+Output quantities: 1. Position components {x,y,z} only
+Reference frame: ICRF
+Reference plane: x-y axes of reference frame (equatorial or equatorial-aligned, inertial)
+Vector correction: geometric states
+Output units: km and seconds
+
+As a first example, let us calculate the ephemeris for Mars Barycenter for MJD=51544.5 TT, which is the same as JD(Julian Day)=51544.5 + 2400000.5=2451545 . Using this tool from JPL we can verify that this corresponds to 2000-01-01 12:00:00 TT. We get the following position:
+
+
+
+
+Component
+Value
+
+
+
+
+X
+206980433.8363662
+
+
+Y
+-186417.0131760761
+
+
+Z
+-5667227.498321475
+
+
+
+
+We can also find out the equivalent MJD in UTC, by taking into account the following:
+
+TT (TDT; to be completely precise, it seems TT was used before TDT and TDB were defined as 2 different things) differs from TAI by 32.184 seconds
+TAI differs from UTC by the leap seconds, which started being introduced in 1972, plus an initial accumulated difference of 10 s before the introduction of the 1st leap second.
+
+From this source we can see that, for the year 2000, the difference between TAI and UTC was 32 seconds (i.e., 22 leap seconds plus the initial 10 seconds difference). Overall, the difference at that point between TT and UTC was of 32.184+32=64.184 seconds. So, we can calculate the corresponding MJD in UTC as follows: 51544.5 - 64.184/86400 = 51544.499257129631587 (note the division by 86400 is to convert seconds to days).
+If we then input this target time in Horizons web App, and specify that it is a UT time, we should get the same ephemeris. And indeed, that is the case (well, there is tiny differences of less than a couple meters, but I guess we can ignore those for now; might be due to some rounding errors somewhere):
+
+
+
+
+Component
+Value
+
+
+
+
+X
+206980433.8363839
+
+
+Y
+-186417.0128144659
+
+
+Z
+-5667227.498156091
+
+
+
+
+I then tried to perform the same test for an older date, in particular, for 1969-07-19 04:48:00 TT (during the Apollo 11 mission). Using the same Time conversion tool I linked before, we can see this is JD=2440421.7 TT, which is MJD=40421.2 TT. We need to make a note here, which is that TT/TDT was not defined until 1984. Before then, we have ET (Ephemeris Time), but according to this source they can be regarded as a continuous time scale. In the rest of this question, I use TT always, but it technically means ET for dates before 1984. Inputting this value (and remembering to specify that it is in TT), we obtain the following ephemeris for Mars barycenter:
+
+
+
+
+Component
+Value
+
+
+
+
+X
+29480552.64364658
+
+
+Y
+-193577194.1755700
+
+
+Z
+-89579659.90450171
+
+
+
+
+Let us now calculate the equivalent UTC time. For dates before 1972, this source provides the difference between UT and TT (technically ET), under table named Delta-T 1620-1972. We need to go to row 1965, column +4 (because we are dealing with the year 1969) to obtain a value of +39.20. We can then calculate the equivalent UTC time as MJD= 40421.2 - 39.2/86400 = 40421.199546296295011 UTC. If we then input this value in Horizons (remembering to tell it it is an UT time), we get this for Mars barycenter:
+
+
+
+
+Component
+Value
+
+
+
+
+X
+29480566.46219511
+
+
+Y
+-193577191.3534565
+
+
+Z
+-89579658.98486346
+
+
+
+
+As we can see, the differences are of quite a few kilometers now! This might seem small, but I am currently trying to simulate the trajectory of the Apollo 11 mission. At a point during the simulation, I perform a change of the center of coordinates from Earth to Moon based on JPL ephemerides, so an error of kilometers here will lead to very wrong trajectories from that point on.
+Interestingly, it does not happen for a date in 2000, as shown above. I have tried different other procedures (wrong in principle, but I tried just to see if Horizons was doing that internally) to convert from TT to UTC time:
+
+Using a difference between TAI and UTC of 8 seconds for 1969, leading to a difference between TT and UTC of 8+32.184=40.184 seconds. The choice of 8 seconds is based on the value given in CelesTrak Earth Orientation Parameters aggregated file.
+Using a difference between TT and UTC of 32.184 seconds for 1969, i.e., assuming that TT and UTC were equal.
+
+None of these led to the same ephemeris as with the corresponding TT value.
+Does anybody have any idea from where this difference in ephemerides obtained with equivalent TT and UTC for 1969 is arising? I guess internally Horizons is converting times as follows: UTC -> TT -> TDB, since TDB is what actually needs to be input together with Chebyshev coefficients to calculate the ephemeris. Somehow, the conversion between UTC and TT for 1969 is different than what expected, but I cannot figure out how.

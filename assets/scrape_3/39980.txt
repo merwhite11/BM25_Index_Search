@@ -1,0 +1,3 @@
+How much do stars brighten as they age?
+
+There's a fair amount of info out there about the mass-luminosity relation, i.e. giving some approximate equations for the luminosity of a main sequence star as a function of its mass, e.g. $L_* = M_*^4$ (relative to the Sun's mass and luminosity, for stars close in mass to the Sun). But main sequence stars grow brighter as they age. Are there any resources that give some approximate equations for a star's luminosity (and other parameters like diameter and temperature) as a function of both mass and age?

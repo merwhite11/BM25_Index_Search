@@ -1,0 +1,4 @@
+How much does the communications frequency of JWST vary?
+
+This question (How many light seconds away is the JWST?), or rather one of its answers, got me thinking.
+Since the communications time is about 5±0.75 seconds, it varies by about 1.5 seconds per 3 months. At times it is moving further away from us, at other times it is moving closer to us. How much of an effect does that have on the carrier frequency? Was it enough to affect the design of the telescope?

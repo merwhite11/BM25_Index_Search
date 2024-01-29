@@ -1,0 +1,18 @@
+What is the brightest nameless star?
+
+Bright stars in the night sky traditionally have their own proper names, like "Sirus" or "Canopus".
+Most stars don't have names, but instead catalogue identifiers, like the Bayer designation, Flamsteed number, Hipparcos id, etc. Those are not proper names.
+What is the brightest star to not have a name?
+Some findings and qualifiers, found through initial research:
+
+The IAU has a Working Group on Star Names, with some 449 approved names, but this is still rather incomplete and does not reflect the full body of star names that are in regular use. "Official" is not a requirement for names to exist!
+Another collection I found is the NASA technical memorandum 33-50 from 1971 containing 537 star names, by necessity including names not on the IAU list. Cited sources: "Becvar, A. , Atlas of the Heavens — II Catalogue 1950.0. Sky
+Publishing Corp. , Cambridge, Mass. , 1964.", "Smithsonian Astrophysical Observatory Star Atlas of Reference
+Stars and Nonstellar Objects. The M. I. T. Press, Cambridge,
+Mass. , 1969.", "Allen, R. H. , Star Names, Their Lore and Meaning. Dover
+Publications, Inc. , New York, 1963."
+Names need only apply to naked eye inseparable systems as a whole. For instance, Capella B is one of the brightest stars in the sky, and does not have it's own name, but is visually indistinguishable from Capella A, and would thus be covered under the name "Capella".
+The brightest star that is missing from lists with some regularity is Gamma Velorum, but this has the name "Regor" in common use. It's not an old name, merely half a decade and coined by the Apollo 1 astronauts. All names are ultimately "just made up by someone",the important part is whether other continue to use the name. A more traditional Arabic name is "Suhail al Muhlif", even though the "Suhail" name itself is rather ambiguous this would also count as a name.
+Epsilon Centauri is called "Birdun" and Alpha Lupi is called "Men", both missing from many lists.
+
+My best candidate so far is the star Eta Centauri, the 82nd brightest star in the sky according to the HYG database. Its Chinese name 庫樓二 does not count, since this is simply a catalogue number. But it may very well have a traditional name, I have just not been able to find it.

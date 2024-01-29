@@ -1,0 +1,6 @@
+Intuition about Hubble's Law
+
+I have recently learnt about Hubble's Law and this is my understanding of it:
+Galaxies move away from us at a rate that is proportional to their distance from us. So, considering an arbitrary unit of distance d, if a galaxy at a distance d from us is moving away from us with a velocity v, then a galaxy at a distance 2d is moving away from us with a velocity 2v. This proves that the universe is expanding.
+But the part that I can't quite visualize is the fact that it doesn't matter where you are in the universe. Regardless at what point in space we are standing, it will look like the galaxies are moving away from us. How is this possible? Are the galaxies moving outward? Should I visualize this as the galaxies being on the surface of a sphere whose radius is increasing?
+How do I gain intuition about this and better visualize this?

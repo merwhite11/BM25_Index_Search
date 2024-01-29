@@ -1,0 +1,7 @@
+how far away could we detect that Earth has life?
+
+My guess is that life bearing planets are too far apart to be detected. I think we can only find the ones within a sphere around our planet that is 100s of light years in diameter but I suspect life bearing planets may be much farther away than that.  
+I would like to estimate the diameter of the sphere within which we could detect life on another planet and then estimate the probability that there is life within that sphere. 
+For example, give our current technology what is the furthest distance would be able to detect life on Earth? 
+How many stars like our sun are in that sphere? 
+How long would it take for SETI to rule out each of those stars?

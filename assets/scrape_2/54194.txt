@@ -1,0 +1,15 @@
+Where to find data about as many stars as possible?
+
+I need computer-readable data about as many stars as possible, with their:
+
+distance to the Earth (or Sun),
+their masses,
+
+and if possible:
+
+coordinates,
+age,
+brightness
+distance to the center (Sagittarius-A) of the galaxy.
+
+What is available? Which source of such data would be most recommended?

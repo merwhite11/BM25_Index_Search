@@ -1,0 +1,7 @@
+How exactly does inflation convert random gravity fluctuations into coherent gravitational waves?
+
+In the course of this very enjoyable press announcement, it is mentioned that inflation can create gravity waves by amplifying gravity fluctuations.
+I do not properly understand this statement. I always thought that quantum fluctuations (fluctuation of the metric in this case?) should occur pretty randomly whereas waves are rather coherent motions.
+So I understand somehow that inflation can amplify quantum fluctuations, but I don't see how it can convert these random "microscopic" processes into "macroscopically" observable coherent phenomena called gravitational waves.
+For example, how are the sources of these gravitational waves distributed? Does each point in space-time behave as some kind of a point source? And what is observed at a specific point as the superposition of all these excitations?
+In addition, in the same video it is said that not all inflation models produce gravitational waves, the ones that have them are favoured by the data now, etc.

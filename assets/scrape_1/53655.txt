@@ -1,0 +1,3 @@
+How to convert Flux Density to Flux?
+
+I have a radio catalogue with flux density values. (Jy/bm) I'm confused converting this value to flux. Because I want to calculate luminosity, I need flux values. The unit made me confused. Since I know the distance values converting flux to luminosity will be easy. I only need to convert flux density to flux

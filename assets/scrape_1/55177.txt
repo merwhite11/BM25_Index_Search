@@ -1,0 +1,23 @@
+What would be the new Equation of motion if the magnetic field's origin is shifted from the origin of a co-rotating spherical polar coordinates?
+
+The equation of motions due to the dipole magnetic force of a planet in a frame corotating with the planet and origin at the centre of planet assumed to be sphere components wise are given as below:
+\begin{alignat}1
+\dot r& = x &
+\\
+\dot x &= r[y^2 +(z +Ω)^2(\sin\theta)^2 - \beta z\sin\theta B_\theta)] &
+\\
+\dot \theta &= y &
+\\
+\dot y &= \frac{1}{r}[- 2xy - r(z+ Ω)^2 \sin\theta \cos\theta + \beta r z \sin\theta B_r] &
+ \\
+\dot \theta &=z &
+\\
+\dot z &= \frac{1}{r \sin\theta}[-2x(z+Ω)\sin\theta - 2ry(z+ Ω)\cos\theta + \beta(xB_\theta - ryB_r)]&
+\end{alignat}
+The magnetic field components are :
+\begin{alignat}1 B_\theta = (\mu_0/4\pi)(R/r)^3 g_{10}sin(\theta)&
+\end{alignat}
+\begin{alignat}2 B_r = (\mu_0\theta_0/4\pi)2(R/r)^3g_{10}cos(\theta)&
+\end{alignat}.
+The azimuthal magntic component assumed to be zero.
+If, the magnetic field is now displaced along the north by say 'a' meter, what would be the new equation of motion? If the whole co-ordinate were to be shifted,it is easy to see that the only change will be the radial components which can be The new radial coordinate (r') will be r' = r - a. But, I dont know how to incorporate the effect  magnetic field (Lorent force)  in the shifted spherical polar co-ordinate which is also co-rotating with planet and the old/orignal spherical polar coordinates with origin centre of the planet? The particle is the old frame of reference. Thank you

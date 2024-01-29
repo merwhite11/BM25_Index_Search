@@ -1,0 +1,36 @@
+Plot several FITS files in one graph
+
+At the moment, I get three separate graphs.  Ideally I would like to overlay all graphs, so that I only have one plot with multiple FIT files.
+I have a folder on my desktop with the HARPS-N data, the extension is
+~/Desktop/harpn_sun_release_package_ccf_2018/2018-01-18/r.HARPN.2018-01-18T14:25:36.145_CCF_A.fits
+This is my code so far.. with just three of the fits
+import numpy as np
+import matplotlib.pyplot as plt
+from astropy.io import fits
+from astropy.wcs import WCS
+%matplotlib widget
+
+file_path = [
+    '~/Desktop/r.HARPN.2018-01-18T14:25:36.145_CCF_A.fits',
+    '~/Desktop/r.HARPN.2018-01-18T14:20:10.645_CCF_A.fits',
+    '~/Desktop/r.HARPN.2018-01-18T14:31:00.875_CCF_A.fits']
+
+def plot_fits_file(file_path):
+    hdul = fits.open(file_path)
+    data = hdul[1].data
+    h1 = hdul[1].header
+    flux = data[1]
+    w = WCS(h1, naxis=1, relax=False, fix=False)
+    lam = w.wcs_pix2world(np.arange(len(flux)), 0)[0]
+    
+    plt.figure(figsize=(5, 5))
+    plt.plot(lam, flux)
+    plt.ylim(0, )
+    plt.xlabel('RV')
+    plt.ylabel('Normalized CCF')
+    plt.title(file_path)
+    plt.show()
+
+    
+for file_path in spec_list:
+    plot_fits_file(file_path)

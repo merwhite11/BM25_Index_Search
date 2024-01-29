@@ -1,0 +1,11 @@
+Orekit converting to galactic coordinates
+
+I started using OreKit in a 3D star charting app I am writing in JavaFX. I wanted to convert from equatorial to galactic coordinates.
+I can do it simply by using the transformations, but I wanted to use Orekit, so I'm not writing code when a library will do.
+The docs in Orekit aren't very good, so I did a search and found this:
+   Frame icrf = FramesFactory.getICRF();
+   Frame galactic = FramesFactory.getGalactic();
+   ... more code
+
+Frame galactic = FramesFactory.getGalactic(); doesn't seem to exist anymore in Orekit, and I can't seem to find what replaces it.
+Anyone know?

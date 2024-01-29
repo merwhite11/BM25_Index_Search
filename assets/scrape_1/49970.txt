@@ -1,0 +1,9 @@
+Database of distant stars
+
+I'm writing a report on using machine learning techniques in astrophysics. I'd like to perform 3 tasks:
+
+Generating a Hertzsprung-Russel diagram and clustering the results into the main types of stars using age, radius, absolute magnitude, luminosity and temperature.
+Using network analysis to cluster distant stars into the galaxies they're a part of using their distance, radial velocity, and direction. Potentially using this to find what type of galaxy it is (elliptic, irregular etc)
+Using time series data to classify variable stars into intrinsic vs. extrinsic, this is a long shot but I'm trying to find an application of time series analysis to use in astrophysics.
+
+Now I've used the GAIA database for the first, but as a data scientist with minimal knowledge of astrophysics I'm finding it quite hard to understand the columns and what they represent. If there's an introductory database, preferably with as many stars as possible for a Hertzsprung-Russel diagram along with their a label on which type of star, another database of distant stars, along with a label on the galaxies (doesn't have to have many different galaxies just 3+) and a small sample for the last point, if you could point me in that direction it would be much appreciated. Also if you have any advice for resources I can use for computational astrophysics it would also help a lot.

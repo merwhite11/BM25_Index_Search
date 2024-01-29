@@ -1,0 +1,3 @@
+Why do small mirror imperfections matter with modern computers
+
+Modern telescopes go to great lengths to have perfectly shaped parabolic mirrors. My question is, why go to the trouble of having a perfect mirror? Why not take a mirror roughly the right shape, and then correct for the distortion using computers?

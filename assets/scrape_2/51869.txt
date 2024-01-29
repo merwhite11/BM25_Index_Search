@@ -1,0 +1,25 @@
+Calculation of solar energy lack during Venus transit
+
+The task
+The solar constant in Earth's orbit is $k$ ($k=1.37\text{ kW/m}^2$). Evaluate the solar energy lack due to the transit of Venus through the Sun diameter. Radius and orbit radius of Venus are $R_V$ and $r_{SV}$, respectively. Consider the orbits of Earth and Venus circular.
+My additional notation
+$R_\oplus$ is Earth's radius
+$D_\odot$ is Sun diameter
+$D_V$ is Venus diameter
+$r_{SE}$ is distance from Sun to Earth
+$r_{EV}$ is distance from Earth to Venus
+$T_\oplus$ is orbital period of Earth
+$T_V$ is orbital period of Venus
+My calculations
+The solar constant is $k=\displaystyle\frac{E}{St}$, where $E$ is the total solar energy, $S$ is sphere area of radius $1\text{ au}$, $t$ is time of solar energy radiation. Let $t$ be the time of Venus transit, then Earth gets energy $E=4\pi kR_\oplus^2t$ (without Venus). The Sun unit angular area gives $\displaystyle\frac{E}{\alpha_\odot^2}=W$ energy, where $\alpha_\odot^2$ is angular area of Sun. During Venus transit Earth gets solar energy $E'=W(\alpha_\odot^2-\alpha_V^2)$, where $\alpha_V^2$ is angular area of Venus. The energy lack is:
+$\Delta E=E-E'=W\alpha_\odot^2-W(\alpha_\odot^2-\alpha_V^2)=W\alpha_V^2=E\left(\displaystyle\frac{\alpha_V}{\alpha_\odot}\right)^2=4\pi k\left(\displaystyle\frac{\alpha_V}{\alpha_\odot}\right)^2R_\oplus^2t$.
+Then we have:
+$\alpha_V=\displaystyle\frac{D_V}{r_{EV}}$;
+$\alpha_\odot=\displaystyle\frac{ D_\odot}{r_{SE}}$;
+$t=\displaystyle\frac{\alpha_\odot r_{EV}}{v_V-v_\oplus}$;
+$v_V=\displaystyle\frac{2\pi r_{SV}}{T_V}$;
+$v_\oplus=\displaystyle\frac{2\pi r_{SE}}{T_\oplus}$.
+And substituting it all we obtain:
+$\Delta E=\displaystyle\frac{kD_V^2R_\oplus^2r_{SE}}{2 D_\odot r_{EV}\left(\displaystyle\frac{r_{SV}}{T_V}-\frac{r_{SE}}{T_\oplus}\right)}$.
+I'd like to clarify if this evaluation is correct.
+And, I'm wondering how to use (type) astronomical symbols of planet here (if it's possible)?

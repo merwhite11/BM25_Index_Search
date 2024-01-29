@@ -1,0 +1,4 @@
+Electrical potential difference between planets
+
+In dealing with electricity, we usually refer to Earth as the electrical neutral or ground. Is there any evidence that other planets' ground is at the same electrical potential level as the Earth's?
+If somehow, there was a lossless conductive connection between two planets, would current flow accros It? Would this be theoretically a source of energy?

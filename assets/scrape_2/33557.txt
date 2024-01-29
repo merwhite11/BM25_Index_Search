@@ -1,0 +1,10 @@
+Why is a giant planet around a tiny star unusual when binary stars are common?
+
+Inspired by this BBC article and the corresponding journal article about the M dwarf star GJ 3512.
+
+The Jupiter-like world is unusually large compared with its host star, contradicting a widely held idea about the way planets form.
+
+On the other hand, binary stars are very common, comprising (according to Wikipedia) about one third of star systems.  
+Naively, the same processes that create binary star systems could be expected to also create star systems comprised of a single star and a Jupiter-like "failed star" - the only difference being that in the latter case the would-be second star wasn't large enough to ignite.
+What is the difference between these scenarios?  What makes the small-star-and-large-planet, according to the standard models of planet formation, unlikely, when binary stars are common?
+(In non-technical terms if possible, please.)

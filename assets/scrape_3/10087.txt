@@ -1,0 +1,6 @@
+Does rotation affect gravitational lines of force
+
+I was reading about rotating pulsars and other more-massive objects spinning at absurd speeds (hundreds of revolutions per second), and there was one point of which I was not clear.
+Does a rotation of a mass change the gravitational lines of force? In other words, does a body which is rotating change the direction of gravitational pull from this:
+
+to this?

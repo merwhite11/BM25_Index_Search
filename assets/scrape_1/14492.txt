@@ -1,0 +1,19 @@
+Need Simple equation for Rise, Transit, and Set time
+
+I've been looking, unsuccessfully, for hours for a simple set of equations:
+Input: 
+RA and Dec of an object
+Observers Lat and Lng
+Current Time
+Output: 
+Rise Time 
+Transit Time
+Set Time
+(and, hopefully) max elevation at transit 
+(and, hopefully) current alt and az of object
+It seems like this should be a simple relationship, but I haven't been able to find it.
+If an equation simply gives the current alt/az for an object, I guess I could solve for az and then find the maximum for a given time range. 
+Questions: 
+1. Anybody know of such equations? Or, even better, some sample code. 
+2. If not, can anybody point me in the right direction?
+Thanks

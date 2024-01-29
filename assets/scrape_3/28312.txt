@@ -1,0 +1,3 @@
+Does Earth changes angular velocity in 24 hours evaluation?
+
+I am trying to detect tidal forces influence on a pendulum. I use a laser interferometer that is able to detect very tiny space changes. The pendulum never stops even after long times quiet and protected from wind by a kind of plastic box. The pendulum is 2,60 m,  long, 10Kg and one of the mirrors of the interferometer is placed in the Iron cable near to the pendulum hanging point. I can see that the top energy of the pendulum changes but I am not sure of the causes.

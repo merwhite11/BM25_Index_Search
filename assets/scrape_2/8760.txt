@@ -1,0 +1,8 @@
+Galaxy rotation curve and dark matter
+
+I am reading "The Essential Cosmic Perspective" by Jeffrey O. Bennett, Megan O. Donahue, Nicholas Schneider, Mark Voit.
+In Chapter 14, it is stated that an evidence of the presence of dark matter in our galaxy is that the rotational curve does not match that obtained from calculation.
+In the calculation, the following formula is used
+$$M_r=\frac{rv^2}{G}$$
+where $M_r$ is the mass enclosed inside a radius $r$ from the galactic center.
+My understanding is that the above equation is a result of the shell theorem. But we know that shell theorem applies to spherically symmetric mass distribution only, and most galaxies are disks. So why can we still do this?

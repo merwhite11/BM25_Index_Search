@@ -1,0 +1,8 @@
+The energy density of phantom dark energy increases with time. Does it violate the concept of accelerating universe?
+
+Dark energy with equation of state parameter $\omega<-1$ is called phantom dark energy. Its energy density increases with time.
+My question is whether this model violates the concept of accelerating universe, because the energy density turns out to be negative. If we use these values in the acceleration equation, we see the acceleration of the universe (second derivative of the scale factor) is negative.
+My derivation is as follows. Let's set $\omega=-2$, so the equation of state is $p=-2\rho c^2$. From the fluid equation,
+$$\dot{\rho}+\frac{3\dot{a}}{a} \left(\rho + \frac{p}{c^2} \right)=0\Rightarrow\rho\propto a^3$$
+From the Friedman equations, $a=-k_1 t^{-2/3}$, so the energy density is $\varepsilon=\rho c^2=-kt^{-2}<0$. Hence the acceleration is
+$$\ddot{a}=-\frac{4 \pi G}{3} \left(\rho + \frac{3p}{c^2} \right)=\frac{4 \pi G}{3} \times 5\rho = \frac{4 \pi G}{3c^2} 5\varepsilon$$ Since $\varepsilon <0$, this implies $\ddot{a}<0$.

@@ -1,0 +1,15 @@
+Accurate way to programmatically generate a main sequence star?
+
+I am working on a (personal) programming project, part of which involves generating random stars and their parameters.
+In order to create a procedurally generated star, I want to randomly select as few parameter values as possible, and then extrapolate the rest using formulas.
+For instance by interpreting the Stefan-Boltzmann law I can derive the star's luminosity based on the surface temperature and the star's radius:
+$$
+L = 4 \pi R^2 \sigma T_{e}^4
+$$
+There are however other parameters that I would like to generate, such as the mass of the star. What seems to be able to help me is the mass-luminosity relation:
+$$
+\frac{L}{L_{\odot}} = \left(\frac{M}{M_{\odot}}\right)^a
+$$
+By knowing $a$ (based on my randomly selected mass) it seems that I can derive the star's luminosity. By glancing at the Hertzsprung–Russell diagram (e.g. this one) I can see that I can perhaps somehow calculate the radius of the star, but I'm not entirely sure how.
+There is an existing star "generator" which can be found here, however this one interpolates existing data using logarithms.
+My full question would be, is there a way to "generate" a "regular", main sequence star, starting from one or two parameters and extrapolating the rest using formulas? Is there a sensible relation between the mass of the star and its radius that can be used to generate a "realistic" star? Or would most parameters need to be interpolated from existing data?

@@ -1,0 +1,21 @@
+How do I code the formula for the minimum mass of a stellar fragment from Whitworth & Stamatellos, 2006?
+
+I was researching the formation of brown dwarfs, and I stumbled into the paper "The minimum mass for star formation, and the origin of binary brown dwarfs", and I am attempting to code a function in Python for equation (42), where c is the speed of light, h is the Planck constant, a is the isothermal sound speed, K(T) is the mean opacity (given by equation 3 in the paper), G is the gravitational constant, and m is the mean molecular weight.
+
+My functions are:
+def opacity(temp):
+    return (1e-4)*((temp)**2) #divide by a factor of 10^-3 and multiply by 10^-4 because of conversion to km
+
+def minmass(molweight, temperature, soundspeed):
+    cons = 60/(np.pi**7)  #constant
+    numer = (scipy.constants.c**2)*(scipy.constants.h**3)*((soundspeed*1000)**5)*opacity(temperature) #numerator
+    denom = (scipy.constants.G**5)*((molweight*0.001)**4) #denominator
+   
+    total = cons*(numer/denom) #putting it all together
+    final = (total**(1/3))/(1.989e30) #division by constant converts kg to solar mass
+    return final
+
+print(minmass(4.0e-24, 10, 1.8e4))
+
+As you'll notice, I've attempted to run my function with the test case of contemporary star formation described in the paper (T ≃ 10 K, ¯m ≃ 4.0×10^−24 g, a ≃ 1.8×10^4 km s^−1, κ1 ≃ 10^−3 cm^2 g^−1 and β ≃ 2.) I have also multiplied the inputs in the function so that all lengths are in terms of meters and so that all masses are in kilograms. However, even after extensively combing over the function, I keep achieving an answer that is thousands of magnitudes greater than the expected output, 0.001 M.
+I would appreciate it a lot if anyone were to were to assist me on this issue and possibly guide me to a solution.

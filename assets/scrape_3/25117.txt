@@ -1,0 +1,32 @@
+Where might astrometric observations of the Roadster spacecraft be catalogued?
+
+
+above: (see small red lines near center of image) Tesla Roadster. 18 Feb. 2018, 11:28 UT. The image above comes from the average of ten, 300-seconds exposures, remotely taken with the 16”-f/3.75 robotic unit (“Pearl”) of Tenagra Observatories in Arizona. The Tesla Roadster is marked with two red lines. At the imaging time, the car was about 3.5 millions of km from the Earth, that is 9 lunar distances. The object was at mag. 21.0. Image by Gianluca Masi (The Virtual Telescope Project) and Michael Schwartz (Tenagra Observatories, Ltd). From Virtual Telescope Project.
+below: Zoomed in and cropped showing Roadster's image.
+
+
+This excellent answer from @MikeG shows exactly how to find a list of observations for a minor planet. But I'd like to ask about a list of observations of an artificial object.
+Currently the NASA JPL's Horizons site is also providing predicted trajectory of an unusual spacecraft which is referred to as Roadster. It is the cherry-red Tesla Roadster attached to a roughly 3.6 x 8 meter white rocket body in heliocentric orbit, and it has been tracked by many different observatories because of its unique circumstances. (some GIFs in this answer) Roadster's 4.6 minute rotational period was also recently reported.
+Currently Horizons is reporting solution #7. They have been updating their solutions regularly as new observations are made and reported because as Roadster recedes from Earth it is rapidly dimming and will soon pass magnitude +20, so each new solution helps for the reacquisition of the object as it dims.
+
+This trajectory is based on JPL solution #7, a fit to 269 ground-based optical astrometric measurements spanning 2018 Feb 8.2 to 13.4.
+
+Would these observations still be catalogued in an astronomical database of observations? Since it's not a natural minor planet, it seems the Minor Planet Center would not be hosting this information, but it seems it should still be made available to astronomers for identification purposes.
+But where?
+
+
+The header of the Horizons output includes this:
+*******************************************************************************
+Revised: Feb 13, 2018          Tesla Roadster (spacecraft)             -143205
+          (solution #7)
+
+ Tesla Roadster (AKA: Starman, 2018-017A)
+
+and this:
+TRAJECTORY:
+  This trajectory is based on JPL solution #7, a fit to 269 ground-based 
+  optical astrometric measurements spanning 2018 Feb 8.2 to 13.4.
+
+  Trajectory name                       Start (TDB)          Stop (TDB)
+  --------------------------------   -----------------   -----------------
+  tesla_s7                           2018-Feb-07 03:00   2048-Jan-01 00:00

@@ -1,0 +1,3 @@
+Sunlight intensity during a day
+
+What simple mathematical function would reasonably well simulate sunlight intensity (disregarding weather) from dawn till dusk in relative numbers, 0-100 %. Are there significant differences (apart from maximum power and daylight duration) between temperate winter, summer or tropical days? The goal is more natural LED lighting for captive wild animals.

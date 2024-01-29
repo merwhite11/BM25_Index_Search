@@ -1,0 +1,7 @@
+Convert Stellarium video capture to 360 for youtube
+
+I am wanting to capture video of Stellarium (I can already do this with CamStodio) and somehow convert this into a video usable for the YouTube 360 (or VR!) capability. 
+Even if it can be converted into 180 and I need to add an image of the ground or spaceship to fill the rest of the image, that would still be super helpful!
+I have found this, which gives a good overview of the maths of converting various projections (I haven't gone through it in detail yet), but I was wondering if someone has already written something to do this, before I go and write my own code for it?
+I already use Davinci Resolve for my video editing, and I'm on a Windows 10 Pro (with access to various Linux machines).
+Cheers!

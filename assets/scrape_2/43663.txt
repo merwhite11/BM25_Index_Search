@@ -1,0 +1,7 @@
+How can you determine the date using nothing but a star chart from the day and the time?
+
+I'm doing a science olympiad event called Reach for the Stars, and one question that I've encountered provides a star chart and time of day, and you must figure out what month of the year it is from. The strategy that I developed includes figuring out which direction is west (usually a star chart from the night and the Sun sets in the west), then going in that direction estimating which zodiac constellation in Sun is in (and in turn approximately what month it is).
+However, I realize that this method would not work if it was taken late at night, much after the Sun sets, because although I am fairly sure that each hour the sky rotates about 15 degrees, I can't estimate what constellation the Sun would be in.
+Is there a more definite way to figure this out?
+Edit: The time in the example chart is 8:30 PM in the time zone of the observer
+Example star chart:

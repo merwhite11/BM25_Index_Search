@@ -1,0 +1,4 @@
+How to correct observed flux densities for redshift
+
+Say I have a spectrum of a galaxy at a redshift $z$, in flux density units of erg/s/cm^2/Angstrom. I'd like to recover the spectrum (in the same flux density units) at z=0, i.e. at its rest wavelengths. How do I do this? 
+I saw this paper (Distance measures in cosmology, Hogg (2000)) but am still confused, because of their use of luminosity and luminosity densities, and in my class I only have fluxes.

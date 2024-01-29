@@ -1,0 +1,9 @@
+Data base of exoplanets with common names to use beside Nasa Exoplanet Archive
+
+For a project I am working on, I use data from the NASA Exoplanet Archive at
+https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=select+*+from+ps&format=json
+I take this json data down and import it to an sql database.
+What's missing is the common planet name. The kind of name I find at https://en.wikipedia.org/wiki/List_of_proper_names_of_exoplanets.
+I am looking for a table of common names keyed with the official designation so I can run a 1-to-1 match, e.g. "TRAPPIST-1 b"
+As a bonus, it would be nice find a table witgh exoplanet type, i.e. Hot-Jupiter, super-earth, etc.
+Thank you

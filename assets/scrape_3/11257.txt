@@ -1,0 +1,7 @@
+How to calculate a planet's current position within the solar system
+
+I'm making an application that needs to calculate a planet's current position within the solar system - I don't want to calculate its position in the sky.
+For example, what I want to do is exactly what this website does:
+http://www.theplanetstoday.com/
+I want to create an overhead view of all the planet's positions in the solar system.
+Where do I start? Is there a latitude/longitude coordinate system for the solar system? Everything I've found seems to calculate a planet's position in the sky from the observer's point on earth.

@@ -1,0 +1,12 @@
+Fate of lone spiral galaxies?
+
+I know Hubble's galaxy classification scheme and the bifurcation from elliptical galaxies into two types of spiral ones. I am also aware of different theories on how spiral galaxies form e.g. through collision with another one. I was always wondering in how much any kind of galaxy morphological classification actually relates with the dynamics of a galaxy. The following paragraph of the Wikipedia article seem to support my uncomfort:
+
+To this day, the Hubble sequence is the most commonly used system for classifying galaxies, both in professional astronomical research and in amateur astronomy. Nonetheless, in June 2019, citizen scientists through Galaxy Zoo reported that the usual Hubble classification, particularly concerning spiral galaxies, may not be supported, and may need updating.
+
+Differently put: Would a lone elliptical galaxy eventually become a spiral one? And if so, how to define the transition point? For me, it does not appear obvious how to set a threshold after which density fluctuations within an elliptical galaxy deserve to be called spiral arms. More technical: Which confidence band around the average radial density distribution of a given galaxy has to be breached in order for the galaxy to be called spiral?
+Related
+
+Evolution of galaxies with time
+How small can a spiral galaxy be?
+How do disk-shaped galaxies then form at the sites of spherical galactic halos? Do the halo stars start orbiting or just sit in place?

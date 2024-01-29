@@ -1,0 +1,4 @@
+Is a trefoil orbit around a trinary star valid?
+
+Recently, I have been experimenting with weirdly-shaped orbits with a program called "My Solar System 2.04." While looking for interesting orbits of a spacecraft in a trinary star, I found an type of quasi-orbit called of a trefoil, as shown in this clip. Is this orbit possible in real life, and are there any examples of them that we know of?
+Edit: The objects in the video are color-coded.

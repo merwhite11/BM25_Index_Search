@@ -1,0 +1,10 @@
+Stellar parallax
+
+I am doing a project on "how astronomers measure distance" where i came about with stellar parallax.
+i realized how it  works with trigonometry but i am having a slight doubt
+tan p=distance between sun and earth/distance between sun and star
+where i can find out distance between two star.
+but why do we have to wait for six months?
+we can measure the distance simply staying in june
+why do we need to go to december again??
+we can only work with triangle ACD

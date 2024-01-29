@@ -1,0 +1,4 @@
+Affect of leap seconds on the prediction of an eclipse
+
+There seem to be irregularities in the motion of the earth, so we add "leap seconds" to adjust our time accordingly. Since 1972 there have been 26 leap seconds I think. If we extrapolate that backwards 0.5 leap seconds per year, it would be 1 leap minute in 120 years and 5 leap minutes in 600 years.
+Would this be enough to throw off a prediction of an eclipse? In other words, could someone in 1416 predict an eclipse right now given the unpredictable errors caused by leap seconds?

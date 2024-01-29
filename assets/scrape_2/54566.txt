@@ -1,0 +1,20 @@
+What could these LMC objects in this color-color diagram be?
+
+I have performed a color-color and colour-magnitude plot of various sources detected in an LMC image (JWST NIRCAM F200W, F150W and F115W filters). I then also queried SIMBAD to collect relevant photometric data (UBVRIJHKLMN system) on various stars of different spectral types. Moving between the 2 different filter systems was done via an initial estimate through the effective wavelength midpoints for which UBVRIJHKLMN system filters to use for each JWST filter, and then a regression through sets of standard stars to move as accurately as possible between the two filter systems. Plotting both sets of data creates the graph below - there is a clear trend for the SIMBAD data, but the LMC data simply doesn't follow it in the slightest. Any ideas of what these LMC objects might be?
+color-color:
+
+Color-magnitude:
+
+Key:
+O = red
+B = blue
+A = orange
+F = yellow
+G = pink
+K = purple
+M = green
+LMC objects = black
+files on MAST:
+f200w file = jw01476001011_02101_00001_nrca4_i2d.fits
+f150w file = jw01476001007_02101_00001_nrca4_i2d.fits
+f115w file = jw01476001005_02101_00001_nrca4_i2d.fits

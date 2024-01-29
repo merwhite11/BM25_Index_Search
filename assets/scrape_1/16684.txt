@@ -1,0 +1,22 @@
+Using SkyChoord to read in multiple coordinates.
+
+so I recently wrote a basic code to analyze the distance between two points which are stored in two separate excel files. Now that I have that code working its time to apply the legitimate use and use this code to analyze not just 2 dimensions (x,y) but three (ra,dec,z). In the data sheets now I have stored the coordinates of two separate galaxies.  Heres the amended code below:
+import math
+import pandas
+file1 = pandas.read_excel('Book1.xlsx')
+file2 = pandas.read_excel('Book2.xlsx')
+file1['RA_diff'] = file2['RA'] - file1['RA']
+file1['DEC_diff'] = file2['DEC'] - file1['DEC']
+file1['Z_diff'] = file2['Z'] - file1['Z']
+dist = file1.apply(lambda row: math.hypot(row['RA_diff'], row['DEC_diff', row['Z_diff']]),   axis=1)
+if dist.values >= .5:
+    print 'no match'
+elif dist.values <= .5:
+    print True, dist
+
+This code works great with just the RA and DEC but not no much with the Z added in. 
+My hope is that somebody please give me some pointers on how to shorten this whole process by using the method:
+from astropy.coordinates import SkyCoord
+
+Basically: How do I use this tool to my advantage in reading in (from two separate excel documents) two separate coordinates of (ra, dec, z) to determine if the objects have any proximity to one another?
+My research has turned up rather fruitless to analyze the points in this way specifically as I mostly simply don't understand the help pages. This is my first ever coding project so please be gentle in your advice, recommendations, help, feedback or ANYTHING else you might be able to offer. Thanks in advance.

@@ -1,0 +1,82 @@
+[
+  {
+    "filename": "15.txt",
+    "content": "What is the most extreme weather found on another planet?\n\nOn Venus, there is really inhospitable weather, as well as within the gas giants in our solar system. Are there examples of even more extreme weather on planets found in other solar systems than ours?",
+    "metadata": {
+      "filename": "15.txt",
+      "size": 259
+    }
+  },
+  {
+    "filename": "14.txt",
+    "content": "Are astronomers researching or trying to find signs of worm holes?\n\nIn many movies and in the popular culture wormholes are often referenced, as well as \"faster than light travel\", which seems almost to be the same thing, is possible. \nAre astronomers seriously considering and researching this phenomenon? What could be the signature of wormholes? Would next generations telescopes as ELT able to detect such signatures?",
+    "metadata": {
+      "filename": "14.txt",
+      "size": 421
+    }
+  },
+  {
+    "filename": "16.txt",
+    "content": "Why is only one side of the Moon visible from Earth?\n\nWhy do we only ever see the same side of the moon?\nIf this is to do with gravity are there any variables which mean we might one day see more than we have before?",
+    "metadata": {
+      "filename": "16.txt",
+      "size": 216
+    }
+  },
+  {
+    "filename": "9.txt",
+    "content": "Could someone explain RA/dec in simple terms?\n\nThe equatorial coordinate system isn't too complicated. However, for people new to this, it seems rather intimidating at first.\nIs there an easy way to explain it?",
+    "metadata": {
+      "filename": "9.txt",
+      "size": 210
+    }
+  },
+  {
+    "filename": "4.txt",
+    "content": "Why do sunspots appear dark?\n\nSunspots, such as this one, appear dark:\n\nWhy?",
+    "metadata": {
+      "filename": "4.txt",
+      "size": 76
+    }
+  },
+  {
+    "filename": "7.txt",
+    "content": "Why can't light escape from a black hole?\n\nI've heard that light can't escape from a black hole. Can it? If not, why?",
+    "metadata": {
+      "filename": "7.txt",
+      "size": 117
+    }
+  },
+  {
+    "filename": "3.txt",
+    "content": "Amateur observing targets for binary star systems?\n\nAre there any easily resolvable, binary star, observing targets visible from ~N40\u00b0?\nI'd like to be able to show, in one observing session, Mizar and Alcor (naked eye resolvable), another with binoculars, and finally one in a small (say, 4 to 6\" reflector) amateur scope.",
+    "metadata": {
+      "filename": "3.txt",
+      "size": 323
+    }
+  },
+  {
+    "filename": "2.txt",
+    "content": "How are the compositional components of exoplanet atmospheres differentiated?\n\nHow are exoplanetary atmosphere compositional spectra distinguished from those of the parent star(s), from the composition of the planetary surface or any other factor?  Is it actually possible to determine the atmospheric composition precisely using this method?\nAre there any specific examples of such an analysis having been performed on an exoplanet?",
+    "metadata": {
+      "filename": "2.txt",
+      "size": 433
+    }
+  },
+  {
+    "filename": "1.txt",
+    "content": "How do I calculate the inclination of an object with an amateur telescope?\n\nSuppose I would like to calculate the inclination of a satellite from the ecliptic. Would it be possible to do this with an amateur telescope? How would I go about doing so?\n\nNote: A good answer should tell what kind of telescope an amateur would need, what measurements they would need to make, then what calculations they would have to perform to get the inclination (or the \"instantaneous angular measurement from the ecliptic at the time of measurement\").",
+    "metadata": {
+      "filename": "1.txt",
+      "size": 535
+    }
+  },
+  {
+    "filename": "24.txt",
+    "content": "How are black holes found?\n\nBlack holes have so much gravity that even light can't escape from them. If we can't see them, and the suck up all  electromagnetic radiation, then how can we find them?",
+    "metadata": {
+      "filename": "24.txt",
+      "size": 197
+    }
+  }
+]

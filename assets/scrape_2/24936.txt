@@ -1,0 +1,4 @@
+Calculating Local Sidereal Time
+
+When calculating local sidereal time, 100.461 "is the value needed to yield the correct value of GMST" - David Hammen (left as comment on my previous question). How is this value calculated?
+If (hypothetically) I wanted to use January 1st 12:00 (noon) 2010 as my epoch, how would I calculate this number?

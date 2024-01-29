@@ -1,0 +1,45 @@
+How do you know that the remnants of the explosion of a Star are of a Hypernova?
+
+Some Background?
+There are many types of Supernovae that can be classified into the following categories :-
+(This list is available here.)
+Type 1A supernovae
+
+• Their spectra show very little hydrogen and a lot of carbon; they also show silicon, calcium, and elements up to iron (due to fusion during the intense explosions).
+
+
+• Astronomers believe this type of supernova results from a white dwarf (the carbon-oxygen remnant of a once Sun-like star) that has collected too much material for its internal pressure to withstand. Once its mass reaches 1.4 times that of our Sun, the white dwarf collapses, which causes its internal temperature to rapidly rise. Then, the carbon fuses, and the entire star explodes as a carbon-detonation supernova. The initial white dwarf can collect material from a company red giant star or from colliding with another white dwarf.
+
+Type 1B supernovae
+
+• Their spectra contain very little hydrogen; they also show helium.
+
+
+• Scientists think this type of supernova results from the death of a star at least 25 times the Sun’s mass. The star sheds material from its gaseous envelope late in its life (hence the lack of hydrogen in its spectrum). The star then implodes, bounces back, and explodes.
+
+Type 1C supernovae
+
+• Their spectra contain very little hydrogen or helium.
+
+
+• Scientists believe this type forms like a type 1B supernova; collectively, these objects are called “stripped core-collapse supernovae.”
+
+Type 2 supernovae
+
+• This type of supernova has a lot of hydrogen and helium in its spectrum.
+
+
+• Astronomers think this type results from the death of a star larger than eight times our Sun’s mass. Such a star can fuse elements up to iron. Its core then heats up, implodes, and bounces back to explode, spewing heavy elements into space. The enormous explosion leaves behind a neutron star or a black hole, depending on the mass of the initial star. Type II supernovae are called “core collapse supernovae.”
+
+Hypernovae
+(I found this here)
+
+SUPERLUMINOUS SUPERNOVA (Hypernova): A burst 5 to 50 times more energetic than a supernova. A hypernova may or may not be associated with a powerful burst of gamma radiation.
+
+So, What's the Question?
+I was reading this article by NASA that showed that some scientists discovered what are suspected of being the remains of Hypernovae. This lead me to wonder how astronomers differentiate between Supernova remains and Hypernova remains.
+Question(s) -
+
+How do you know that the remnants of the explosion of a Star are of a Hypernova?
+What techniques and equipment are used to do so?
+What is the main difference between Supernovae and Hypernovae remains when it comes to observing them?

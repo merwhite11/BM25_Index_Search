@@ -1,0 +1,25 @@
+Do ASKAP and ALMA have "fast dump" interferometric modes? Can they see and perhaps report Fast Radio Bursts in real time?
+
+Chatterjee et al 2017 The direct localization of a fast radio burst and its host nicely shows a VLA detection of a repeating FRB in 5 millisecond steps nicely demonstrating the dispersion slope matching that of FRB 121102 and when de-dispersed providing a precise epoch for the particular event that could be potentially matched to other simultaneous observations while simultaneously providing the spatial resolution of an interferometric radio telescope array.
+
+VLA fast-dump observations.
+The VLA fast-sampled interferometric data were recorded with 5 ms integration time, 256 channels, and bandwidth 1024 MHz centred at 3 GHz.
+
+Kumar et al. 2019 Faint Repetitions from a Bright Fast Radio Burst Source show ASKAP measurements of repeating FRB 171019 with 2.62 and 1.26 millisecond resolution. However the array was operated in fly's eye mode with each dish pointed in a different direction, so if I understand correctly, interferometric resolution from the array was not available.
+I haven't found any reports of or references for ALMA FRB detections.
+Questions:
+
+Do ASKAP and/or ALMA have "fast dump" interferometric modes? Or do they have at least some way to extract dispersion of transient events at the millisecond level?
+Can either see and perhaps report Fast Radio Bursts in real or near-real time?
+
+
+
+
+Figure 1 VLA detection of FRB 121102. (a) A 5-ms dispersion-corrected dirty image shows a burst from FRB 121102 at MJD 57633.67986367 (2016 Sep 02). The approximate localization uncertainty from previous Arecibo detections (3' beam FWHM) is shown with overlapping circles. (b) A zoomed in portion of the above image, de-convolved and re-centered on the detection, showing the ~0.1" localization of the burst. (c) Time frequency data extracted from phased VLA visibilities at the burst location shows the $\nu^{-2}$ dispersive sweep of the burst. The solid black lines illustrate the expected sweep for
+DM = 558 pc cm^−3. The de-dispersed lightcurve and spectra are projected to the upper
+and right panels, respectively.
+
+
+
+
+Figure 2. Dynamic spectra for both repeat bursts detected at GBT and ASKAP FRB 171019 dedispersed at their optimal DM. From the left: repeat burst 1 (resolution = 1.31 ms), repeat burst 2 (resolution = 2.62 ms), and ASKAP FRB 171019 (resolution = 1.26 ms). For each burst, the top panel shows the flux density averaged over frequency channels.

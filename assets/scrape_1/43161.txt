@@ -1,0 +1,5 @@
+Has anyone back-calculated previous close encounters between the Apophis asteroid and Earth?
+
+The Apophis asteroid was only discovered in 2004, and shares an orbit similar to Earth's orbit, leading to many close encounters on the scale of decades.
+Most of the stories about this asteroid are about predicting future encounters between Earth and Apophis.  It occurs to me that you can use the same models that predict future encounters to show past encounters as well.
+Has anyone done this, and shown any past events when the asteroid has come extremely close to the Earth?

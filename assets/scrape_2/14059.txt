@@ -1,0 +1,5 @@
+How to calculate B-V colour index value percentage difference
+
+I need to calculate a percentage difference of a B-V colour index between its estimated and actual value. So I tried doing this by difference between values/actual value x 100. However as B-V values can be on either side of zero this did not give representative answers.
+So if anyone knows a way of calculating percentages of values close to zero or on either side of zero their help would be appreciated.
+Thanks

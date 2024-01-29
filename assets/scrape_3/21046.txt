@@ -1,0 +1,12 @@
+Does a White hole lies behind a Black hole?
+
+While reading about a White holes, I stumbled upon a question "Where does the matter emitted by a White hole come from?" There seems to be 2 possible candidates:  
+
+It was the matter engulfed by a Black hole.  
+Matter was created inside the White hole.  
+
+My search on wiki stated that:  
+According to Penrose Diagram of Schwarzschild radius, objects first leave the White hole and then may enter into a Black hole. But, due to Hawking radiation, a Black hole can achieve thermal equilibrium with gas of radiation. This equilibrium state is reversal invariant, implying that time reversal of a Black hole is again a Black hole. This means that a Black hole and a White hole are same objects.
+My 2nd candidate suggests that the big-bang was a white hole. I thought of ruling this out because it requires the existence of a white hole before the big-bang.  
+This forced me to draw the conclusion that a white hole must either be inside a black hole or behind it. 
+Is this correct (provided that we haven't yet proven the existence of a White hole)? Where am I wrong?

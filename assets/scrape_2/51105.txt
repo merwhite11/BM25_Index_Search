@@ -1,0 +1,9 @@
+How can I calculate evolutionary timescales of low mass stars?
+
+How can I calculate how long a star of a given mass will spend on an evolutionary branch before evolving off it?
+I'm thinking about the evolution of low mass stars from the subgiant branch to the red giant branch and beyond. I know of timescales such as dynamic and nuclear etc, and I want to learn how I can calculate how long a star of a given mass will spend on a branch before evolving off it.
+I've tried using the nuclear timescale equation, but this relies on having Hydrogen in the core, and evolved stars may not have any H in the core.
+I've seen on the internet I'm aiming for a value between 1000 and 1 billion years, but don't know how to work this out.
+Thanks for your help.
+I also posted here:
+https://physics.stackexchange.com/questions/737825/how-can-i-calculate-evolutionary-timescales-of-low-mass-stars

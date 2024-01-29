@@ -1,0 +1,18 @@
+plotting stars in cartessian coordinates using the stars ra and dec produces the wrong location of the stars
+
+I am currently running into some problems with plotting some stars locations in a Cartesian coordinate system.
+The stars aren't in the right order and I'm not sure where I am going wrong.
+I first use the equation (where S is a vector)
+S = [cos(ra)*cos(dec), sin(ra)*cos(dec), sin(dec)]
+
+to obtain a vector S of the star.
+I now want to obtain the x and y positions of the stars In terms of a 2d coordinate system so I use
+c * sx = S * px / S* pz
+c * sy = S * py / S* pz
+
+where C is the scale ratio of pixels to tangent of the angle of the camera and P is the vector center of the camera.(Im using this because I'm trying to find the distance between each pair of stars when a photo of the stars is taken by a camera)
+px = unit vector X
+py = unit vector Y
+pz = unit vector Z
+
+and I solve for sx and sy. When I plot the stars location with sx and sy however I do not get the right locations of the stars. Any guidance?

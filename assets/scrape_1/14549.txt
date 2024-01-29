@@ -1,0 +1,13 @@
+How do I get focussed images with my T-adaptor and 6mm eyepeice?
+
+I have a Celestron 5se + canon 650d. They are mated with the celestron t-ring and the 93625 t-adaptor. 
+I want to take magnified photos of planets with the camera. But if I add an eyepiece to the t-adaptor, everything gets blur.
+Here are some scenarios that highlight the problem:
+
+look at Jupiter with 25mm eyepiece in telescope: clear and focused image
+look at Jupiter with 6mm eyepiece in telescope: clear and focused zoomed image
+look at Jupiter with camera and no eyepiece inside the t-adaptor, in telescope: clear and focused image but small.
+look at Jupiter with camera and 6mm eyepiece inside the t-adaptor, in telescope: large unfocused ball
+
+I dont know how to solve this.
+Clearly, the 93625 t-adaptor was made to accept an eyepiece and lock it with the thumbscrew, but why does it not result in focused images?

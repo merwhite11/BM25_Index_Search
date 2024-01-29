@@ -1,0 +1,28 @@
+What is the current accepted theory for the fate of hot Jupiters?
+
+It is well established that one main feature of many hot jupiters is their close proximity to their parent star, usually the equivalent of being within the orbit of Mercury.  So, these planets are gas giants and are very hot (hence their category).
+However, a few discoveries have lead to questioning about what is the fate of these planets.
+example 1: HD 209458b  a.k.a. "Osiris"
+According to the NASA page "Dying Planet Leaks Carbon-Oxygen", Osiris is doing more than 'evaporating', it is leaking carbon, oxygen alongside hydrogen in an envelope behind the planet that has been detected from Earth.  The significance of carbon and oxygen is stated from the article:
+
+Although carbon and oxygen have been observed on Jupiter and Saturn, it is always in combined form as methane and water deep in the atmosphere. In HD 209458b the chemicals are broken down into the basic elements. But on Jupiter or Saturn, even as elements, they would still remain invisible low in the atmosphere. The fact that they are visible in the upper atmosphere of HD 209458b confirms that atmospheric 'blow off' is occurring.
+
+It is stated in the article that Osiris is likely to become a hypothesised class of exoplanet known as a Chthonian, which is defined in "Evaporation rate of hot Jupiters and formation of Chthonian planets" (Hebard et al. 2003) as
+
+new class of planets made of the residual central core of former hot
+  Jupiters
+
+These would be similar in size to Earth, but considerably denser.
+example 2: CoRoT-7b
+According to the NASA article "Most Earthlike Exoplanet Started out as Gas Giant", CoRoT-7b is an Earth-sized planet where a hot Jupiter usually is found, they describe it as
+
+is almost 60 times closer to its star than Earth, so the star appears almost 360 times larger than the sun does in our sky," Jackson said. As a consequence, the planet's surface experiences extreme heating that may reach 3,600 degrees Fahrenheit on the daylight side. CoRoT-7b's size (70 percent larger than Earth) and mass (4.8 times Earth's) indicate that the world is probably made of rocky materials. 
+
+The high day time temperature means that the star-facing side of the planet is likely to be molten, any tenuous atmosphere is also blasted away.  Scientists estimate that many Earth-masses may have been boiled off.  It also seems that the decreasing mass is causing the planet to be drawn closer to the star  -cause more material to be boiled off, hence the mass to decrease.
+To summarise on of the scientists in the article:
+
+You could say that, one way or the other, this planet is disappearing before our eyes,"
+
+The question
+As these are only 2 examples of a possible process, the question is, what is the current accepted theory as to the fate of hot Jupiter exoplanets?
+Could this also be the reason a hot Jupiter does not exist in our solar system?

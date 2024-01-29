@@ -1,0 +1,5 @@
+2D Distorted Star Map for Pasting on Sphere Surface
+
+Are there printable 2D star maps that are distorted such that, when printed, they can be cut (along printed lines) to be applied to the outside of a sphere to represent the celestial sphere, as seen from the center of the substrate sphere?
+Is there a term for this type of map?
+If they don't exist, how can one be created?

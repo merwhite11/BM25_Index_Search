@@ -1,0 +1,5 @@
+Calculate right ascension in Zenith at this moment in my location
+
+I've been searching on Internet about how to calculate which RA is in zenith at a given location in a given time but I haven't find anything (or maybe I don't know how to search).
+Using my star finder I have not draw any conclusion.
+How can I calculate which RA is on zenith on a given location in a given time?

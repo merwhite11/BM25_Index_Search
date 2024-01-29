@@ -1,0 +1,5 @@
+Sidereal times occuring twice a day question
+
+I'm reading Practical Astronomy With Your Calculator Or Spreadsheet by Duffett-Smith and Zwart. Discussing the conversion of GST to UT, the authors mention that because the sidereal day is slightly shorter than the solar day, for a given calendar date there is a small range of sidereal times that occur twice. (approximately if $0h\leq\mathrm{UT}\leq03m\,56s$ and $23h\,56m\,04s\leq\mathrm{UT}<0h$).
+I can't find much online about this and, as far as I can see, it's not mentioned in the Wikipedia Sidereal Time article.
+So my question is, in their day-to-day working lives is this ambiguity a practical problem for astronomers or is it only of theoretical interest?

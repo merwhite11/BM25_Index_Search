@@ -1,0 +1,8 @@
+Is the difference in time between the sideral and synodyc month - constant?
+
+According what I read, the sideral month isn't constant (here)1, as well as the synodic month that isn't constant (here)2. Now, as far as I understood, because the sideral month isn't constant therefore the synodic month isn't constant too.  
+My question is: Is the difference in time between the sideral and synodyc month (around 30 degrees) - constant, or it may be various too? 
+
+The information above was taken from here: 
+1) synodic month. (n.d.) The Great Soviet Encyclopedia, 3rd Edition. (1970-1979).
+2) sidereal month. (n.d.) The Great Soviet Encyclopedia, 3rd Edition. (1970-1979).

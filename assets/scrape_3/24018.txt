@@ -1,0 +1,10 @@
+How does Ptolemy prove in the following excerpt that the Earth could not be outside of the axis spanning between the poles of the celestial sphere
+
+I have trouble interpreting the following excerpt:
+
+“Against the first of these three positions militate the following arguments. If we imagined [the earth] removed towards the zenith or the nadir of some observer, then, if he were at sphaera recta, he would never experience equinox, since the horizon would always divide the heavens into two unequal parts, one above and one below the earth…”   
+
+For context, when Ptolemy is speaking about “the first of these three positions…” he’s speaking about the position that holds that the Earth is equidistant from both poles of the celestial sphere, but is not on the axis spanning between both poles. 
+He states that he’s arguing against the first proposition, and suggests that if an observer were at sphaera recta (which I’ve taken to mean that the observer is at the equator with direction/horizon being perpendicular to the equator,) then he would never experience equinox because his “horizon would always divide the heavens into two unequal parts, one above and one below the earth…”  
+I assume that in this case, while the Earth is displaced from the center of the celestial sphere, the Sun is still orbiting the true center. However, if it was equinox, and the Sun was orbiting on the same plane as the true center. Wouldn’t this observer still experience equinox because the Earth is still on the same plane as the true center?
+Here’s the link to my source (page 41, chapter 6:) https://isidore.co/calibre/get/pdf/Ptolemy%26%2339%3Bs%20Almagest%20-%20Ptolemy%2C%20Claudius%20%26amp%3B%20Toomer%2C%20G.%20J__5114.pdf

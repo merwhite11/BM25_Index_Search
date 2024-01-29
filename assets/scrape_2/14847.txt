@@ -1,0 +1,18 @@
+Moving-Cluster method for determination of the distance of Hyades. A starter problem
+
+I am currently following a class of observational astronomy lab. I will present a brief description of the method in first and then proceed to the question, so anyone is welcomed to read the entire post or move directly to the problem. The current question is about the Moving-Cluster method, for which I quote from Wikipedia
+
+In astrometry, the moving cluster method and the closely related convergent point method are means, primarily of historical interest, for determining the distance to star clusters. They were used on several nearby clusters in the first half of the 1900s to determine distance. The method is now largely superseded by other, usually more accurate distance measures.*
+
+
+One can find more here http://pages.uoregon.edu/soper/Stars/movingcluster.html . A brief description of the method is like that:
+From photographs taken, say, 10 years apart, we can see that a star of the cluster has moved. (It has proper motion.) Let us suppose that the proper motion is an angle μ. Then the angle θ is the angle between the convergent point and the star or equally the angle between the radial and tangential speed of the moving star
+
+If one knows the angle θ, he/she will be able to find the movement of the star and in the end, calculate it' s distance, through deduced relations beginning with $ v_t =v_r \tan θ.$
+Question
+I know the declination and the right ascension of both the star and the convergent point.
+My problem as is to find the angle θ. In the exercise I have it is requested to find the angle between the star and the convergent point, that is θ , using spherical trigonometry. My mind goes on to using the cosine relationship:
+$$ \cos a = \cos b \cos c + \sin b \sin c \cos A ,$$ for the triangle
+
+But, although it may be simple, I cannot understand where this triangle is to be implemented. What are it' s angles in my problem. Wherever I have looked, the angle θ is taken as granted.
+So, should I use something like the triangle? If yes, what the triangle should be? Should the Sun be on one angle as the image above with the convergent point? Should I define another triangle? In the end, for whatever triangle I have thought, how will I calculate the needed sides? Note that I know the right ascension and the declination of both the convergent point and the star's.

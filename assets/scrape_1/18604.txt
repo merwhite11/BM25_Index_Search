@@ -1,0 +1,22 @@
+Multiple Star-system percentages
+
+What are the percentages of systems that have x number of stars in them?
+What I have found thus far is something like:
+
+Single Star Sytems = 69%
+Double Star Systems = ~10%
+Triple Star Systems = <20% 
+Quadruple Star Systems = ???
+Quintuple Star Systems = ???
+Sextuple Star Systems = ???
+Septuple Star Systems = ???
+
+Also... Is there any way to get these percentages for systems that have primaries that are Giants (more than 2 Solar Masses) Major Stars (0.5 to 2 Solar Masses), and Minor Stars (0.5 Solar Masses... red dwarfs)
+I have found an article that says...
+Giant Stars = 80% have companions
+Major Stars = 50% have companions
+Minor Stars = 25% have companions
+Sources:
+http://www.space.com/1995-astronomers-wrong-stars-single.html
+http://boards.straightdope.com/sdmb/showthread.php?t=499261
+http://www.skyandtelescope.com/astronomy-news/surprise-most-star-systems-are-single/

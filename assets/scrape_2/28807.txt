@@ -1,0 +1,5 @@
+How to convert Log(g) vs T_eff to y vs (v-y)?
+
+I have a plot in Log(g) vs T_eff coordinates from my stellar evolution model. The parameters of the model are M=0.8 M_solar, [Fe/H]=-1.19, Y=0.245. I want to convert it to the y vs (v-y) coordinates (Strömgren photometric system) in order to compare my model with observations of NGC 6752 globular cluster. How do I make this conversion?
+This paper provides a table that includes the following columns: Log(g), T_eff, V, (B-V), (b-y), m1, c1.
+I think I could use this if I can figure out how to calculate y and (v-y) from these data. Is it possible?

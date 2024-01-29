@@ -1,0 +1,3 @@
+orbital angular momentum and the longitude of ascending node
+
+Consider the motion of a planet around an oblate star. Because of the oblateness the star has a non-zero quadrupole moment which causes the orbital angular momentum of the planet to precess around the symmetry axis of the oblate star. My naive question is: is this precession rate exactly the same as the precession rate of the longitude of the ascending node or are there subtle differences between the two?

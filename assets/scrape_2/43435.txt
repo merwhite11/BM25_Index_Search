@@ -1,0 +1,24 @@
+Time domain astronomy and fastest eclipsing binary ZTF J1539+5027 (+20 mag, 6.91 minutes): How to measure its minimum brightness?
+
+Per Wikipedia's ZTF J153932.16+502738.8
+
+ZTF J153932.16+502738.8 is a double binary white dwarf with an orbital period of just 6.91 minutes. [...] The light curve shows eclipses. One dip in the light curve is 15%, and the other is close to 100%.
+
+Below is a light curve plotted on a linear scale in Fig. 1a of Burdge et al, (2019) General Relativistic Orbital Decay in a 7 Minute Orbital Period Eclipsing Binary System. The dip at 0 phase is deep.
+A logarithmic magnitude scale might tend to show just how deep but noting that the minimum is dimmer than +21.5 mag and probably lasts only a tiny fraction of the orbital period (i.e. a few seconds) makes a good measurement of the minimum quite a challenge.
+It seems to me like this might be a situation where a photomultiplier tube and photon counting might be competitive with photometry based on CCD imaging and clever readout schemes.
+Questions:
+
+What are the technical challenges to measuring the minimum brightness of this eclipsing pair?
+If it could be measured, would such a result even be particularly useful in this case?
+
+
+
+
+Figure 1: Lightcurve of ZTF J1539+5027 a) The binned CHIMERA g' lightcurve of ZTF
+J1539+5027, phase-folded on the 6.91 minute orbital period. At phase 0, the lightcurve exhibits
+a deep primary eclipse, indicating that the hot primary star is producing most of the observed
+light. Outside of eclipse, there is a quasi-sinusoidal modulation because the primary star heavily
+irradiates one side of its companion. At phases ±0.5, the secondary eclipse occurs as the hot
+primary transits the irradiated face of its companion. b) The phase-folded ZTF g-band lightcurve
+of the object. We were able to discover the object because of its periodic behavior. c) A binned g' lightcurve obtained with KPED, phase-folded on the orbital period. Error bars are 1σ intervals.

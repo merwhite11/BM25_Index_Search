@@ -1,0 +1,13 @@
+Dynamical modelling of galaxies with counter-rotating components using the Schwarzschild method
+
+I am currently trying to understand dynamical modelling using Schwarzschild's method. I have been doing some reading the past days, but I suspect that I am getting something really wrong. According to my current understanding, the Schwarzschild method for dynamical modelling using spatially-resolved kinematic data works like this:
+
+Fit one or more 2D profiles (e.g., Gaussian) to the image or zeroth moment of the observation.
+De-project the above fitted model to 3D space and create a 3D luminosity distribution.
+Convert the 3D luminosity distribution to mass using a bunch of mass particles.
+Create a series of possible orbits for the above mass particles and calculate the resulting velocity vectors.
+From the above velocity vectors create velocity and velocity dispersion maps and calculate the chi-squared between them and the observed velocity and velocity dispersion maps. 
+
+The last step is what troubles me. To my understanding, the orbits of the particles in a Schwarzschild model can be counter-rotating. Right? In a galaxy observation, when we have two collisionless components (e.g., stellar components) that counter-rotate, it is possible that we will observe double-peaked spectral lines. Right? This information is impossible to be stored using a velocity and a velocity dispersion map, but it can be stored in a spectral cube. Yet, all papers on dynamical modelling using the Schwarzschild method fit models to velocity and velocity dispersion maps instead of a spectral cube.
+So, from the above I have concluded that my understanding of the Schwarzschild method is not correct. I would really appreciate if someone could help me to understand what I am getting wrong. 
+Thank you in advance.

@@ -1,0 +1,3 @@
+Catalog of Galaxies in the Visible Universe
+
+I have seen the Gaia project from here which is about mapping the stars in the Milky Way galaxy. But I'm wondering if there is any open data on the positions (or something like "positions" since it probably not calculable now), or "coordinates", of the galaxies in the visible universe, as opposed to the stars. I wonder how animations such as this (a time=1m30s point it shows the galaxies zooming out from the Milky Way) get their data on the positions of the galaxies.

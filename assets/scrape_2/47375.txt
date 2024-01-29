@@ -1,0 +1,16 @@
+Why would radio astronomers choose ¹³CO and C¹⁸O spectral lines instead of the most isotopically common combination?
+
+Wikipedia's T Tauri explains that this system is an atypical example of T Tauri stars.
+It says:
+
+As typical for the young stars, all three stars of T Tauri system are surrounded by a compact disks trimmed by star-star interaction. The disk around T Tauri N has a gap around 12 AU radius, indicating a presence of orbiting Saturn-mass planet within a gap.13
+13ALMA Super-resolution Imaging of T Tau: r = 12 au Gap in the Compact Dust Disk around T Tau N
+
+That article says:
+
+We reanalyzed the ALMA archival data obtained for T Tau on August 18, 2017, as part of the project 2016.1.01164.S (PI: Herczeg), including the continuum at 225.5 GHz and  13CO (J = 2−1) and C18O (J = 2−1) line data. Continuum data have already been published in Long et al. (2019); Manara et al. (2019); Beck et al. (2020). The
+observations were performed with a 12-m array consisting of forty-three 12-m antennas (C40-7 antenna configuration with the baseline length extending from 21.0 m to 3637.7 m) and the on-source time of the target source was 8 min.
+The data consisted of four spectral windows (spws). Two of the spws were used for the continuum observations and had center frequencies of 218 and 233 GHz. The average observation frequency was 225.5 GHz (wavelength of 1.3 mm). The other spws were used to cover 13CO and C18O with a velocity resolution of 0.16 km s−1 . In this study, we used continuum spws to reconstruct images by employing two different techniques, namely CLEAN and SpM. The  13CO and C18O data were analyzed, but emissions associated with T Tau S and N were not identified in the two lines.
+
+Question: Why would radio astronomers choose ¹³CO and C¹⁸O spectral lines instead of the most isotopically common combination?
+The only reason I can think of is that they are less strong and so might be more similar to the strength of the continuum bands in their spectral windows. One is even, the other odd, I'm guessing these are molecular rotational/vibrational lines and there's nothing to do with hyperfine splitting here.

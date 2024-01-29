@@ -1,0 +1,4 @@
+How does one calculate inclination from a graph of radial velocity?
+
+If a binary star system has a non-zero inclination, how would that show up in a graph of radial velocity?
+How could I then extract the inclination from the graph?

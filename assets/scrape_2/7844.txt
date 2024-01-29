@@ -1,0 +1,19 @@
+What is the reason for high lithium concentrations in Sun-like stars?
+
+In reading the European Space Organisation paper Lithium depletion in solar-like stars: no planet connection (Baumann et al. 2010), several conclusions based on their observations include:
+
+Lithium depletion in Sun-like stars is independent of having planets (an earlier theory), but rather is a function of the star's age.  From the article:
+
+
+For solar-like stars, the lithium vs age trends for planet-hosts
+  and stars where no planets have been found are statistically
+  identical. Thus, the presence of a planet does not influence
+  the observed surface lithium abundance.
+
+However, they observed that
+
+A number of solar-like stars with unusually high lithium
+  abundance for their age are present in the field.
+
+and that these stars also have an anomalously low surface gravity.
+What is the current theory as to why some Sun-like stars have a relatively high lithium abundance and low surface gravity?

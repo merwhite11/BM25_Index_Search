@@ -1,0 +1,9 @@
+Can mechanical angular momentum be transferred by gravity?
+
+At PSE there are a few answers that explain that since the moon is responsible for tides and tides slow down spinning, L must be transferred to the moon.
+This implies that if earth's L were reduced by an asteroid, this would not influence the moon's orbit.
+Can you  clarify:
+
+does the change of $\omega$ of the Earth alter the orbit of moon only when that change is attributable to the moon or in any case?
+would there be tides if there were no moon?
+what is the mechanism through which angular momenta can exchange magnitude? This is apparently impossible since there is no connection or, we we consider the obsolete Netwonian gravity, the connection is radial and never tangential?

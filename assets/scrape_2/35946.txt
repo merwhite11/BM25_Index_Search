@@ -1,0 +1,3 @@
+Would magnetic reversals on Ganymede affect radiation levels at the surface?
+
+Currently the intrinsic magnetic field of Ganymede is anti-aligned with respect to the Jovian magnetic field. If this situation changed to become aligned, either due to magnetic reversals of the Ganymedean dynamo or due to the reversal of Jupiter's magnetic field (which has been predicted to undergo solar-like reversals on timescales of the order of centuries), would there be any changes to the radiation levels at the surface?

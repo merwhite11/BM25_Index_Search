@@ -1,0 +1,20 @@
+Question about Hubble parameter (Hubble constant) and measuring it
+
+I see this question in "An introduction to modern cosmology - Andrew Liddle - Wiley Publication":
+
+In the real Universe the expansion is not completely uniform. Rather,
+galaxies exhibit some random motion relative to the overall Hubble
+expansion, known as their pecuLiar veLocity and caused by the
+gravitational pull of their near neighbours. Supposing that a typical
+(eg root mean square) galaxy peculiar velocity is 600 km/s, how far
+away would a galaxy have to be before it could be used to determine
+the Hubble constant to ten per cent accuracy, supposing
+(a) The true
+value of the Hubble constant is 100 km/s Mpc?
+(b) The true value
+of the Hubble constant is 50 km/sMpc ?
+Assume in your
+calculation that the galaxy distance and red-shift could be measured
+exactly. Unfortunately, that is not true of real observations.
+
+I really don't know how to start solving this. What do we need to find Hubble constant. I know $v=H.r$ but I don't know how to calculate the effect of peculiar velocity. we don't know $v$ and $r$ in Hubble formula, how to find $H$?

@@ -1,0 +1,3 @@
+Telescope showing high chromatic aberration
+
+Hi i have made a telescope with 1100 mm focal length objective lense and 21mm plano convex as eyepiece. Both these lenses are not achromatic. But when is looked through it , the images were completely blurry. Is this because I have not used achromatic lense.?? Can it be resolved if I used any coated eyepiece.? The diameter of objective is 7.5 cm and eyepiece is 1cm. Is this issue is because the size of eyepiece is so small.

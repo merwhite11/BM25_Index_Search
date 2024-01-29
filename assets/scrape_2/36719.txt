@@ -1,0 +1,23 @@
+What effects besides "mass defect" cause the alpha ladder beyond iron-56/nickel-56 to be endothermic?
+
+Many sources state that fusion beyond iron-56/nickel-56 (and certainly beyond nickel-62) is impossible due to them being among the most tightly bound nuclei. For example, in the Wikipedia article on the iron peak (https://en.wikipedia.org/wiki/Iron_peak), it is said that:
+
+For elements lighter than iron on the periodic table, nuclear fusion releases energy. For iron, and for all of the heavier elements, nuclear fusion consumes energy.
+
+However, when you actually compute the mass defect, the alpha ladder would be exothermic up to Tin.
+$$ Q=[m(Ni_{28}^{56})+m(He_{2}^{4})-m(Zn_{30}^{60})]c^2 $$
+$$ Q=[55.942132022u+4.00260325415u-59.941827035u]m_uc^2 $$
+$$ Q \approx 2.709 MeV $$
+$$$$
+$$ Ni_{28}^{56} + He_{2}^{4} \rightarrow Zn_{30}^{60} (+2.709 MeV)$$
+$$ Zn_{30}^{60} + He_{2}^{4} \rightarrow Ge_{32}^{64} (+2.587 MeV)$$
+$$ Ge_{32}^{66} + He_{2}^{4} \rightarrow Se_{34}^{68} (+2.290 MeV)$$
+$$ Se_{34}^{68} + He_{2}^{4} \rightarrow Kr_{36}^{72} (+2.151 MeV)$$
+$$ Kr_{36}^{72} + He_{2}^{4} \rightarrow Sr_{38}^{76} (+2.728 MeV)$$
+$$ Sr_{38}^{76} + He_{2}^{4} \rightarrow Zr_{40}^{80} (+3.698 MeV)$$
+$$ Zr_{40}^{80} + He_{2}^{4} \rightarrow Mo_{42}^{84} (+2.714 MeV)$$
+$$ Mo_{42}^{84} + He_{2}^{4} \rightarrow Ru_{44}^{88} (+2.267 MeV)$$
+$$ Ru_{44}^{88} + He_{2}^{4} \rightarrow Pd_{46}^{92} (+2.276 MeV)$$
+$$ Pd_{46}^{92} + He_{2}^{4} \rightarrow Cd_{48}^{96} (+3.030 MeV)$$
+$$ Cd_{48}^{96} + He_{2}^{4} \rightarrow Sn_{50}^{100} (+3.101 MeV)$$
+I ended my calculation here because I wasn't able to find the masses of other isotopes that would, theoretically, follow the chain. I understand that these are highly unstable and their fusion would need an immense amount of energy to overcome the Coulomb barrier. However, my point is that, according to the calculations above, once the barrier is overcome, the fusion would actually release energy, not consume it. So, is the notion of fusion beyond the iron peak elements being endothermic false or am I missing something?

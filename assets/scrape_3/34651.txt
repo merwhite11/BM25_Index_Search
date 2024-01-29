@@ -1,0 +1,9 @@
+Exposure details for this now (in)famous image from Lowell Observatory?
+
+IAU's announcement 19035 IAU Statement on Satellite Constellations, 03 June 2019 links to 19035a Trails made by Starlink satellites which contains the image shown below.
+Question: Is it possible to track down the exact start time and exposure duration for this image, and which telescope was used?
+
+
+An image of the NGC 5353/4 galaxy group made with a telescope at Lowell Observatory in Arizona, USA on the night of Saturday 25 May 2019. The diagonal lines running across the image are trails of reflected light left by more than 25 of the 60 recently launched Starlink satellites as they passed through the telescope’s field of view.
+Although this image serves as an illustration of the impact of reflections from satellite constellations, please note that the density of these satellites is significantly higher in the days after launch (as seen here) and also that the satellites will diminish in brightness as they reach their final orbital altitude.
+Credit: Victoria Girgis/Lowell Observatory

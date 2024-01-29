@@ -1,0 +1,3 @@
+What are mag_a, mag_i, mag_z, a*, and sin_i * from the SDSS Moving Objects Data?
+
+I'm currently working on the SDSS Moving Objects data sets and came across the column names mag_a, mag_i, mag_z, aprime, and sin_iprime. Can someone describe what these attributes mean, or where I can read more about them?

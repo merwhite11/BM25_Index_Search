@@ -1,0 +1,10 @@
+How can red supergiants be cooler than dwarfs of the same spectral type?
+
+The Stellar Classification Wikipedia article has a sentence:
+
+Red supergiants are cooler and redder than dwarfs of the same spectral
+type
+
+Which seems to be true, my course has a similar statement. However, here is an HR diagram:
+
+Spectral Class varies on the same axis as Temperature (see top horizontal axis). Does the claim that "red supergiants are cooler than dwarfs of the same spectral type" only says that since they are in the same spectral type, their temperature is roughly the same, but the red giant is a bit cooler, or is there more to the story and I am misusing the HR diagram?

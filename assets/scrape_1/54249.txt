@@ -1,0 +1,36 @@
+Sidereal time of rising and setting of the sun on the arctic circle
+
+
+$$
+cos(h)= -tan(\delta)tan(\phi) 
+$$
+$$
+\Theta = h  + \alpha
+$$
+if these two equations are the correct equations to solve the following question why doesnt it yield the same answer for the sideral times at rising on June 22 and December 22 (for part a)
+Declination ($\delta_{june}$) of the sun on June 22 or the summer solstice is +23.44°
+Declination ($\delta_{dec}$) of the sun on December 22 or winter solstice is -23.44°
+For the right ascension I dont know if there is some specific right ascension formula for the right ascension of the sun on any given date. So for just solving this question ill take it from the table of right ascnesions for 2022. which give us the right ascension.
+$\alpha_{june}$ = 6 hours 5 minutes
+$\alpha_{dec}$ = 18 hours 3 minutes
+latitude ($\phi$) of the artic circle is 66.5°
+using this if for june first I find the Hour angle ($h$)
+$$
+h = arccos(-tan(23.44)tan(66.5)) = 175.6°
+$$
+$$
+h = \frac{175.6°}{15} = 11 \:\text{hours}\: 42 \: \text{minutes}
+$$
+adding this to the 6 hours 5 minutes in the right ascension we get around 18 hours
+but doing the same thing for December 22nd.
+$$
+h = arccos(-tan(-23.44)tan(66.5)) = 4.33°
+$$
+$$
+h = \frac{4.33°}{15} =  17 \: \text{minutes}
+$$
+adding this to the answer gives us around 18 hours 20 minutes.
+which is close but its not the same. Behind the book the answer is given 18 hours exactly (Book is fundamental astronomy 5th edition springer publication)
+is there a right ascension formula I'm missing or is the right ascension of the sun pre-defined on a solstice like the declination is(to a reasonable degree)
+plus I had to get the right ascension of of a table which I wont be given in the exam so how does one calculate the right ascension on any given date.
+and also one further question why does this only happen at the arctic circle, is there something special about this latitude.

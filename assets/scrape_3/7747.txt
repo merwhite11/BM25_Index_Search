@@ -1,0 +1,15 @@
+How to compute satellite coordinates (lat,long) given antenna's coordinates, angles and satellite height
+
+Given an Earth station (antenna) coordinates (in lat,long) ant its Elevation (El) and Azimuth (Az), how to compute the satellite coordinates (lat,long), known its height?
+For simplification purposes, the Earth can be considered as an sphere.
+So its given:
+Earth Radius = 6371000 meters
+Satellite Height, in meters (perpendicular to the Earth's)
+
+Station lat, long (as parameters)
+Station height (0 = Zero, for simplification purposes)
+Station Elevation (angle, radius or degrees)
+Station Azimuth (angle, radius or degrees)
+
+In summary: I'm trying to calculate satellite's coordinates projected on celestial sphere. I.e. it's current ground track position from the horizontal coordinate system values and the position of the observation.
+The problem can be shown in this two figures:

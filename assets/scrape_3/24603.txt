@@ -1,0 +1,4 @@
+How do we measure the mass of a star?
+
+I recently came across the book intro to cosmology by j.v. Narlikar, where it mentions about quarks and other star and inadvertently uses mass of sun as reference. I want to know how me measure mass of a star?
+I guess from the parallax method we could calculate distance?

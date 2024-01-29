@@ -1,0 +1,12 @@
+How to calculate magnitudes in photometry?
+
+I have a passband filter $b$ and a spectrum (SED) $f_{\lambda}(\lambda)$. Often the formula I find to get the flux in that filter $F_b$ is
+$$F_{b}=\dfrac{\int f_{\lambda}(\lambda) T_{b}(\lambda)d\lambda}{\int T_{b}(\lambda)d\lambda}\,,$$
+where $T_b$ is the filter response in band $b$, which is similar to the filters shown in figure 2 of The PLAsTiCC team et al (2018).
+However, when I try to compute a apparent magnitude, I get the formula
+$$m_b=-2.5\log_{10}\left(\dfrac{\int f_{\lambda}(\lambda)\,\lambda\,T_{b}(\lambda)d\lambda}{\int T_{b}(\lambda)\,\lambda\,d\lambda}\right)\,.$$
+I don't understand from where does the $\lambda$ in the second formula arises, since I thought that
+$$m_b=-2.5\log_{10}\left(\dfrac{F_b}{F_{\mathrm{reference}}}\right)\,.$$
+For example, Casagrande & VandenBerg (2014) show both expressions in equations 1 and 3. However Bessell & Murphy (2012) (eq. 2) and Hogg, Baldry, Blanton, & Eisenstein (2002) (eq. 4) only show the second approach. Additionally, Hogg (2000) shows the K-correction without the added $\lambda$'s:
+$$K=-2.5\log_{10}\left(\dfrac{1}{(1+z)}\dfrac{L_{\lambda/(1+z)}}{L_{\lambda}}\right)\,.$$
+I don't know how to reconcile these different views. Can you help me?

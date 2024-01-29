@@ -1,0 +1,3 @@
+Practicing image processing and analysis
+
+I'm just getting into image processing and analysis using Python, and I'm looking for astronomical images (preferably raw, unprocessed images) to practice on. Can anyone suggest some places I can download public-access telescope images from?

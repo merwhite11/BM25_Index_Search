@@ -1,0 +1,4 @@
+Stellar temperature ~ frequency relationship?
+
+According to Wikipedia, 76% of all stars are of spectral type M, 12% are of K, 7.5% are of G, etc. (see this section on Stellar Classification). This is very helpful, but is too vague, as the temperature span is too large and irregular to derive an accurate distribution formula for the temperature frequency of a zero-age main sequence star.
+Is there such known distribution histogram for zero-age main sequence stars, plotted as $x=T_{eff}$ and $y=\text{percentage of stars}$?

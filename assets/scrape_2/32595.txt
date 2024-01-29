@@ -1,0 +1,9 @@
+Why do these astronomers say that "Carbon chains with more than nine atoms are unstable"?
+
+The Phys.org article Interstellar iron isn't missing, it's just hiding in plain sight links to the paywalled article On the Structure, Magnetic Properties, and Infrared Spectra of Iron Pseudocarbynes in the Interstellar Medium (Tarakeshwar, Buseck and Timmes, Arizona State University), and says:
+
+The new work may also solve another longstanding puzzle. Carbon chains with more than nine atoms are unstable, the team explains. Yet observations have detected more complex carbon molecules in interstellar space. How nature builds these complex carbon molecules from simpler carbon molecules has been a mystery for many years.
+Buseck explained, "Longer carbon chains are stablized by the addition of iron clusters." This opens a new pathway for building more complex molecules in space, such as polyaromatic hydrocarbons, of which naphthalene is a familiar example, being the main ingredient in mothballs.
+Said Timmes, "Our work provides new insights into bridging the yawning gap between molecules containing nine or fewer carbon atoms and complex molecules such as C60 buckminsterfullerene, better known as 'buckyballs.'"
+
+Question: On Earth we don't see a big difference between hydrocarbon chains with lengths below and above 9 (think kerosene, wax...), why is there such a cutoff in stability in interstellar space? What is it about hydrocarbon chains longer than 9 atoms that makes them unstable there but not here?

@@ -1,0 +1,12 @@
+If an object 1 billion light years away emits light, does it take more than 1 billion years to reach us because of the expansion of the universe?
+
+From page 7 of the recent (September 26, 2020) edition of Science News Magazine:
+
+Detected May 21, 2019, the gravitational waves came from a source about 17 billion light-years from Earth, making this the most distant
+confirmed detection.  Because of the universe's expansion, that
+distance corresponds to a travel time of about 7 billion years,
+meaning the gravitational waves were emitted when the universe was
+about half its current age.
+
+But that means the object(s) were only about 4 billion light-years or so away when the merger of two black holes occurred, right?  But it take 7 billion light-years, rather than approximately four, for the gravitational waves to reach us because of the expansion of the universe itself?
+Is there an online calculator that can calculate this?  Does anybody know the equation(s) interconverting current distance, original distance and travel time of the radiation?

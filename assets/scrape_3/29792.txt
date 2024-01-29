@@ -1,0 +1,7 @@
+What percentage of a lunar meteor strike is blown back into space?
+
+Reading a discussion on another website, it was proposed that if a large meteor struck the moon, that a few days later, Earth would receive a meteor shower.
+I thought about that and it seemed to me that one of the big unknowns would be what percentage of the impact would reflect back into space, away from the lunar gravity well.
+The moon, having no atmosphere, then velocity out, could be pretty close to the velocity in, minus whatever's lost in heat and pressure waves and perhaps phase transition, though that could increase the explosive rebound and maybe other energy changes I'm not considering.  
+My question is simply, is there a fairly simple formula or estimate of what percentage would blow back into space following a lunar impact.  I'd suspect that it would depend on both the velocity and mass of the meteor and perhaps, composition.  If it was large enough and a direct hit, it could blow the entire moon into space, for example, but I'm thinking more standard asteroid size impacts not giant impacts.
+Say, for example, a fairly large impactor like 99942 Apophis, about 27 billion kg, 370 meters in diameter.

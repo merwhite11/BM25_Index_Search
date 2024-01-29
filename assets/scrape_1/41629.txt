@@ -1,0 +1,5 @@
+Fate of a planet orbiting a Lagrange point behind a star?
+
+Let's say there is a planet orbiting at L5 behind a star, which is in turn orbiting a more massive star, like so:
+
+What is the ultimate fate of this planet? I'm predicting that it will spiral into the star, or end up in some sort of horseshoe orbit. Is this prediction right? If so, why? If not, where did I go wrong?

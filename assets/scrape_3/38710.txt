@@ -1,0 +1,17 @@
+Apparent magnitude of a spherical body with specular, rather than diffuse reflectivity? How bright were Sputnik 1 and Vanguard 2?
+
+How bright are geostationary satellites due to reflected sunlight? and Did Sputnik 1 tell us more than “beep”? What science was improved by information gained from its orbiting the Earth? now have me wondering how bright and visible Sputnik 1 would have been.
+Sputnik 1 was a smooth, shiny, reflective metal sphere 58 cm in diameter with an initial periapsis and apoapsis of about 200 and 900 km altitude.
+Vanguard 2 was similar, with a 51 cm diameter and a 560 x 2,953 orbit.
+Normally we treat asteroids with an albedo and some  model for diffuse reflectivity based on phase angle. See answers to the questions linked below.
+But in this case it's probably a good approximation to use geometrical optics and assume specular reflection. The problem is that I don't know how to do that!
+Question: Apparent magnitude of a spherical body with specular, rather than diffuse reflectivity? How bright were Sputnik 1 and Vanguard 2?
+
+Calculating the apparent magnitude of a satellite
+Why is Enceladus's albedo greater than 1?
+What is the difference between albedo, absolute magnitude or aparent magnitude?
+When would we detect a tiny meter size natural satellite in a geostationary orbits?
+Venus' magnitude during inferior conjunction
+
+
+Screen shots from the PeriscopeFilm video "Science in Space" Early 1960's Space Exploration Film Sputnik & Explorer Vanguard Rocket 12494 The photographic negative contains an image of Vanguard 2 from a tracking camera. Click for full size:

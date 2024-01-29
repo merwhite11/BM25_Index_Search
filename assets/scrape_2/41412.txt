@@ -1,0 +1,3 @@
+How to track orbit of an exoplanet?
+
+I was wondering if there is an established method to keep track of the orbit of an exoplanet assuming we know a - the semi-major axis of the orbit, e - the eccentricity of the orbit, and i - the inclination of the orbit. Can we track its position once a month?

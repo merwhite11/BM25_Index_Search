@@ -1,0 +1,5 @@
+Translating a zenith position to the nadir
+
+What would be the easiest way to translate a zenith position to a nadir on the celestial sphere?
+For example I have a position from the azimuthal grid in Stellarium; 3h44m32.64s/+50°50'16.2"
+which was obtained based on my location at +50°54'13.9" -2°34'19.1" and a time of ; 15/03/2019 16:24:20.

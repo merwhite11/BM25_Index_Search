@@ -1,0 +1,22 @@
+Transit probability calculation
+
+I'm trying to calculate the transit probability for a planet orbiting a star. Here's what I know:
+Mass of planet: 1.8 Jupiter masses
+
+Period: 2.2047 days (0.0332 years)
+
+inclination, i: 80.8 degrees
+
+Eccentricity, e: 0.0
+
+Radius of star: $2.05R_\odot$
+
+Radius of planet: $1.51R_{Jupiter}$
+Here's what I've tried so far, but the result is too high for me to believe it's correct :')
+$p_{tr} = \frac{R_{st}+R_{pl}}{a(1-e^2)}$ (this is a formula from the book)
+
+finding a from $P^2=a^3$ to be 0.0331659 (I think this is where I might be wrong)
+
+$P_{tr}=\frac {2.05*R_\odot+1.51*R_{Jupiter}}{a*(1-e^2)}=4.64E10$
+It's assumed that the orbit is circular.
+I've already looked through similar questions asked in here without success

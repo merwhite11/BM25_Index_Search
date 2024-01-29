@@ -1,0 +1,11 @@
+What is a "limited array"?
+
+I'm reading about the history and making of ESO's Very Large Telescope and I've found this article that says the scientific community had a choice between three suggestions: a one-piece 16m-telescope, four 8m-telescopes or 16 4m-telescopes. They chose the second solution (four 8m-telescopes), because
+
+there was a clear trend that some form of limited array was the right direction for the VLT.
+
+I don't understand what limited array means. Is it just a name they picked up from radio interferometry, or is it some special method of interferometry being used at the VLT? The article says, that
+
+the study group [for the VLT] concentrated its efforts on the scientific advantages one could draw from the limited array concept and particularly on interferometry."
+
+Could anyone clear this up for me?

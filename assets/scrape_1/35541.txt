@@ -1,0 +1,8 @@
+Why is the TESS spacecraft finding fewer exoplanets than expected?
+
+Judging from the Wikipedia page, I got the impression that TESS is underperforming, being expected to detect about 20000 candidate exoplanets in its primary two-year mission, but with only a few weeks left, it is now clear that it won't come close to that figure. I am just curious to know why that is.
+From Astrobio.net's April 2018 article The Astrobiology Magazine Guide to TESS:
+
+“The number of Earth-sized and super-earth planets that TESS should find over the course of its two-year primary mission will be in the range of 500 to 1,000 new planets, and overall the number of planets that will be established is likely to be in excess of 20,000 all together,” enthuses MIT’s George Ricker, who is TESS’ Principal Investigator.
+
+That is roughly 10 times greater than the updated total as of March 20, 2020 being in the 1700-1800 range according to NASA's status tracker.

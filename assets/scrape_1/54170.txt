@@ -1,0 +1,4 @@
+Why is the dark matter component of MOND important in central regions?
+
+A lot of papers say that even the theory of MOND requires the existence of dark matter, particularly in the central regions. However this is a bit counterintuitive to me considering that rotation curves become flat only far from the galactic centre. I would love to have more insight on this.
+One example is this paper.

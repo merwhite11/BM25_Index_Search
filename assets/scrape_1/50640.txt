@@ -1,0 +1,3 @@
+How bright does Venus appear from the moon if it replaced Earth?
+
+If you were standing on the moon, Earth will appear mostly around -17.7 at maximum brightness. However, since Venus has a higher albedo than Earth, Venus would be brighter. What would be Venus's apparent magnitude from the moon if it replaced Earth? (Assuming the moon is at perigee and Venus is at its full phase)

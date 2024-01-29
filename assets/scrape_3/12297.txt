@@ -1,0 +1,19 @@
+A universal reference point
+
+I would like to use a system of co-ordinates (x,y,z,t) based on a specific well known point. My original choice (the center of the universe in the big bang theory, Bigbang0), was wrong as the universe did not explode everything moved apart from everything else and is still doing so.
+So I would like a reference position useful to an observer within at least 100,000 light years, and valid for 250,000 years. I will call it Bigref0 to remind me of my error.
+From Bigref0 I would have a position - x y z.
+The time value I would like to use as an origin is based on the following criteria.
+
+The centers of the Sun and Earth are most closely aligned to the Bigref0.
+The time point t0 should be the closest point within 256 tera (2 to the power 48) seconds or about 8 million years which provides a reasonable accuracy. I doubt we can do better than 1 part in 25,000 or +/- 2 to the power 15.
+
+The questions are
+
+When was/will be t0 ?
+What is the distance (r0) to Bigref0 from the center of the Sun at time t0?
+The x y z position of the Earth relative to the center of the Sun at time t0 ?
+The accuracy/stability of the 5 values (t0,r0,x,y,z) ?
+
+Example
+The point in space time where the line through Earth and Sun is the closest to a line running from the Our Galactic center to the center of the local cluster.

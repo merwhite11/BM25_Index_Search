@@ -1,0 +1,4 @@
+Is it possible to detect lyman alpha blobs (LABs) with the lyman-break method?
+
+LABs are luminous extended nebulae of hydrogen gas in the early universe (z ≥ 3) found in overdensities of LAEs (lyman-alpha emitters) and LBGs (lyman-break galaxies). I was wondering if LABs could be detected using JWST data, but the only narrowband observations with exposure time long enough to find LABs and wavelength short enough to realistically find these objects have been concentrated in observations towards one supernova–nowhere near the survey volume to find these objects, especially at a narrowband at 12.5 redshift for Lya emission.
+I was wondering if it was instead possible to use the commonly-used Lyman-break method (in which you can use narrowband images to identify LBGs) to also identify LABs. What would be the challenges with this method and is it even feasible?

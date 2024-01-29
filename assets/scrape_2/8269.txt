@@ -1,0 +1,4 @@
+How often and over what period is Earth’s rotation averaged to compute UT1?
+
+I understand that UT1 (and for that matter UT0, UT2, etc.) are based on averages of actual earth rotation, and serve as a form of mean solar time. However it’s not clear to me when these averages are taken and over what range? Certainly the average is taken over at least a year; but beyond that I can’t tell. Daily over the year? Yearly over the year; over several years?
+How often and over what period is Earth’s rotation averaged to compute UT1?

@@ -1,0 +1,4 @@
+How do we know that objects that appear in duplicate or triplicate, etc. due to strong gravitational lensing aren't actually multiple objects?
+
+If we are looking at faraway objects, there is no parallax view, correct?
+So isn't there a chance that an object that appears multiple due to strong foreground gravitational lensing is actually several distinct objects?

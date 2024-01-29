@@ -1,0 +1,12 @@
+Trying to find the source of these three orbital elements
+
+I'm working through section 65 “Calculating the Moon's position” in Practical Astronomy with your Calculator or Spreadsheet (fourth edition) by Duffett-Smith and Zwart. They begin the calculations with the following stated orbital elements:
+
+Moon's mean longitude at the epoch – 91.929336 degrees
+mean longitude of the perigee at the epoch – 130.143076 degrees
+mean longitude of the node at the epoch – 291.682547 degrees.
+
+The epoch they are using is 2010 January 0.0, which as far as I can make out starts at the midnight between 30 and 31 December 2009.
+My question is, where do they get these three orbital elements from? Looking through the JPL HORIZONS Web-Interface I can find no reference to anything resembling these elements for the epoch date in the ephemeris types ELEMENTS and OBSERVER. I admit I'm a complete novice with this sort of thing so I might have well missed the obvious. Thanks.
+MY EDIT - 7 Sept 2021
+I would have thought the Moon's mean longitude at the epoch would equal longitude of the ascending node + argument of perifocus + the Moon's mean anomaly (all at 2009-Dec-31 00:00:00.0000 TDB). According to the HORIZONS data this equals $$290.93+188.66+332.60=92.19,$$ which is pretty close to the given figure. I would also have thought that the Moon's mean longitude of the perigee at the epoch would equal longitude of the ascending node + argument of perifocus. According to the HORIZONS data this equals $$290.93+188.66=119.59,$$ which is not so close to the given figure. I have no idea how to find the mean longitude of the node at the epoch.

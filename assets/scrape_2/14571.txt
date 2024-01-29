@@ -1,0 +1,15 @@
+Cosmological redshift and comparing past galaxy sizes
+
+If you were to divide the present-day
+universe into cubes with sides 10 million light-years long, each
+cube would contain, on average, about one galaxy similar in size
+to the Milky Way. Now suppose you travel back in time, to an era
+when the average distance between galaxies is one quarter of its
+current value, corresponding to a cosmological redshift of z = 3.
+How many galaxies similar in size to the Milky Way would you
+expect to find, on average, in cubes of that same size? In order to
+simplify the problem, assume that the total number of galaxies of
+each type has not changed between then and now. Based on your
+answer, would you expect collisions to be much more frequent at
+that time or only moderately more frequent?
+I am very confused with this question. From my intuition, I take that volume would equal to distance^3. They have given us that the past distance would be 1/4 of current. Therefore, do I cube 1/4distance? Also how does the redshift of 3 play a part in the solution. Thanks for any help! I do not need an answer, just how to start.

@@ -1,0 +1,13 @@
+What explains this puzzling radio signature from a fireball?
+
+September 21, 2017 a bright fireball over Holland was reported by hundreds of people. Several all-sky cameras recorded it as well as a special radio beacon set up to capture radio signatures of meteors - the BRAMS beacon at Dourbes, Belgium.
+I'm puzzled by what I see in the radio spectrogram from one of the BRAMS stations at Ophain, Belgium :
+
+The orange blob in the center is the radio signature of this fireball.
+The horizontal line is the beacon signal (0 Hz), time runs horizontally, frequency runs vertically, positive above and negative below the beacon line.
+What is displayed are Doppler shifts.
+The track for this fireball has been computed since and relative to the radio receiver at Ophain and radio beacon at Dourbes it is receding from both.
+However, the Doppler blob is above the beacon line which is only possible when the fireball recedes from Ophain but approaches the beacon, approaches both, or approaches Ophain but recedes from the beacon - NOT when it recedes from both!
+The only way I can make sense out of this is to assume that the ionized
+gas trail from the fireball reflecting the radiowaves was NOT receding from the receiver and transmitter beacon - only the fireball was?!
+Or are there any other explanations?

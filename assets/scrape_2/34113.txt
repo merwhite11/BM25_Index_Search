@@ -1,0 +1,13 @@
+Why would a black hole have a disk, but not emit x-rays?
+
+There's a recent paper in Nature about LB-1, a B-class star orbiting a massive black hole.
+I don't understand how these two parts of the paper can be reconciled. On page 2, the authors argue that the broad $H\alpha$ line indicates there's a disk in the system, and then that the disk is around the black hole (as opposed to the star or the entire binary).
+
+This supports the $H\alpha$ emission line not coming from a circumbinary disk, but from a disk around the black hole.
+
+However in the last paragraph, they also say that this system doesn't emit X-rays:
+
+Unlike every other known stellar black hole, LB-1 has not been detected in X-ray observations. We searched for X-ray emission from this system with a 10-ks observation with the Chandra X-ray Observatory, placing an upper limit for the X-ray luminosity of $\geq 2 × 10^{31} {\rm erg s}^{−1}$ (see Methods). This upper limit corresponds to about $10^{−9}$ of its Eddington luminosity, and suggests a mass accretion rate ̇$M \leq 10^{-11} M_{\odot} {\rm yr}^{-1}$ for a conversion efficiency of approximately $10^{−4}$ at such low luminosity.
+
+Naively it seems to me that this non-detection is actually an argument that the $H\alpha$ line isn't coming from a disk around the black hole. If there's a disk around a black hole, it's presumably accreting. If it's accreting, the material presumably gets hot and produces X-rays. If it's producing X-rays, Chandra should have detected them.
+What am I missing?

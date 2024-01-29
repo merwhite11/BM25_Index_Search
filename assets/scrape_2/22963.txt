@@ -1,0 +1,5 @@
+Binaries consisting of a black hole and a non-black hole?
+
+Are there any known binary systems in which one member is a black hole and the other is not a black hole (main sequence star, giant, neutron star, white dwarf, whatever)?
+Googling seems to turn up only discussion of binaries in which both components are black holes. Is there some astrophysical reason why the kind of system I'm talking about cannot form? I think I remember that gravitational wave observatories have talked about black hole-neutron star mergers, but are such systems purely hypothetical so far?
+I guess Sagittarius A* is sort of close to being an example, if you count it and the stars orbiting it (or orbiting their common barycenter) as a multiple star system.

@@ -1,0 +1,4 @@
+In the Cambridge Star Atlas 2000.0, two of the horizon line labels are flipped on one side of the page. Typo, or is there a reason?
+
+I recently acquired the Cambridge Star Atlas 2000.0, and noticed something odd when taking it out observing. On the north side of the month-to-month star charts, the Mercator latitude indicators at the 20 degree marks appear flipped on the right hand side - what seems like it should be 20 deg N is listed as 20 deg S, and vice versa.
+To my best understanding, this must be a typo - I can't imagine why I'd need the horizon to be diagonal on this map, and it seems like it would break the 'circle' of the horizon to draw a line from N-N or S-S as listed on this image. Still, I want to confirm: is this a typo?

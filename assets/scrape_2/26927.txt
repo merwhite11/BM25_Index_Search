@@ -1,0 +1,7 @@
+Methodology for size of Universe
+
+I understand that the Universe could be either finite or infinite and that it is, at the least, "very large". :)
+My question is, why doesn't the math involved in making the CMB and other predictions, in effect, tell us the size of the Universe? We know how hot it was then and how cool it is now. Does scale not affect these calculations?
+In other words if a given volume is a million degrees on "day" one and it's now 2.5 degrees don't those temperatures change if you make the volume 200 times larger?
+The calculations make the Observable Universe, the CMB and the temperatures then and now all come out right and validate the Big Bang theory. How can they do that with both a smaller Universe (Observable Universe) and the much larger actual Universe?
+Is it just because whatever the size of the Universe is, it was all 1 million degrees (example) at one point? Otherwise, it seems the predictive math involved would produce different numbers for different volume.

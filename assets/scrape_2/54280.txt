@@ -1,0 +1,5 @@
+How to get star position from the Gaia data set?
+
+I’m trying to recreate the Milky Way as a particle system inside Houdini, and I wanted to explore using the Gaia data as a starting point.
+I’ve downloaded an example source file from the data set but I’m having difficulty figuring out how to translate the data into Cartesian coordinates inside my 3D software. It’s not immediately clear from all the descriptions of the headings in the CSV which pieces of data I could use for this - there doesn’t seem to be simply ‘position’ or anything like that. I understand that the stars positions must be relative to our own solar system. I see that there is data for galactic latitude and longitude, and from reading the Wikipedia page on that system, it seems I could combine those two values with a distance to create a position, but I can’t figure out which value represents the distance.
+I’m not an astronomer and have never worked with astronomical data, so this is all new to me and may be extraordinarily simple and right under my nose, but would appreciate any help figuring this out!

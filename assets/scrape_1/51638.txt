@@ -1,0 +1,6 @@
+In the context of stellar nucleosyntheis, is Xenon-130 a primary or secondary isotope?
+
+With the definitions: 'a primary isotope is any isotope which can be synthesised in a star which starts its life containing only hydrogen and helium', and a secondary isotope is any isotope which requires a higher metallicity at the start of the stars life in order to be synthesised.
+Is xenon-130 therefore a primary or secondary isotope? Ive read conflicting answers. My reasoning is that to produce xenon-130 you just need a star which can produce iron-56 (therefore just a sufficient mass), and then the s-process, which simply requires an abundance of neutrons, both situations can occur in a first generation star. However many people say that it is secondary.
+Can anyone shed any light to clarify?
+(im also realising that this may not be the correct forum to ask this question, if not can anyone point me to a relevant place to ask this)

@@ -1,0 +1,12 @@
+Where is the center of the Milky Way located?
+
+I have downloaded a star database from this page (The HYG Database):
+http://astronexus.com/node/34 
+And all the stars have (among other parameters) their XYZ coordinates in parsecs according to this definition:  
+
+X,Y,Z: The Cartesian coordinates of the star, in a system based on the
+  equatorial coordinates as seen from Earth. +X is in the direction of
+  the vernal equinox (at epoch 2000), +Z towards the north celestial
+  pole, and +Y in the direction of R.A. 6 hours, declination 0 degrees
+
+The problem is: I cannot figure out how to calculate the XYZ coordinates of the center of the galaxy (the Milky Way). So the question is: What are the coordinates of the Milky Way center? (Or is it not possible to calculate it just with that information?). This is an example of the data:

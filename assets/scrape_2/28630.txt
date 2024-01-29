@@ -1,0 +1,3 @@
+What are the present, and potentially the future roles of data scientists in Astronomy?
+
+I am a data scientist and curious about their roles in modern Astronomy, both now, and in the near future. What are type of roles and projects where data scientist are most active in Astronomy? What are the basic solutions provided by data scientists in astronomy. Are there data scientists as principle investigators, or are they at least team members in research efforts?

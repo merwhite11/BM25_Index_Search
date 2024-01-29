@@ -1,0 +1,5 @@
+How accurate and complete is the Hubble sequence diagram?
+
+The Hubble sequence sorts and characterizes or classifies galaxies by their shape. It was suggested by Edwin Hubble back in 1926.
+One drawback, or criticism, of this scheme is that Hubble had a limited data set of galaxies at hand, compared to today's data. He "only" had a few hundred galaxies in visible light from which he could build the sequence.
+So, adding today's knowledge of way more galaxies imaged in all different kinds of spectra how correct is Hubble's scheme? Is it skewed because of this originally limited selection of data? Are there other shapes missing in the sequence?

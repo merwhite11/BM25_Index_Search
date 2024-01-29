@@ -1,0 +1,4 @@
+Can large scientific telescopes observe the Moon without being damaged?
+
+When I look at the full Moon through my 10cm telescope, it is so bright that it hurts. Can large scientific telescopes observe the moon at all? Does that require special protection equipment? Or dedicated telescopes (or none at all)?
+In particular, the E-ELT (European Extremely Large Telescope) will have a mirror with a 39m diameter. If it were pointed at the full moon, would that damage the science instruments? Would that generate a significant temperature at the focal point?

@@ -1,0 +1,17 @@
+Calculating "maximum" distance to an alien civilization
+
+I'm planning on making a video related to Fermi Paradox, and I've used Omni Calculator's Alien Civilization calculator as a reference. I noticed they have a field that calculates the "maximum" distance to an alien civilization based on the amount of civilization in the Milky Way.
+I've attempted to recreate the equation used for calculating this as their calculator doesn't explain how this is calculated, but my number doesn't exactly match theirs. I used the following equation:
+$$d_{max} = \sqrt[3]{\frac{6\left(\frac{1}{N_{civilizations}}V_{galaxy}\right)}{\pi}}$$
+What it does is take the number of civilizations in the galaxy, then find how large a sphere volume one civilization would take up assuming they were evenly distributed, and then finds the diameter of such a sphere, and that diameter is the maximum distance to an alien civilization. So, by definition the Earth would be at the center of our volume, and to get to the next civilization you would have to leave our volume, so the distance to the next volume is the radius of the volume, and to get to the planet at the center of the next volume you'd have to cross another radius of distance, meaning the total distance is the diameter of the volume. To be clear, I'm not sure if this equation even calculates a meaningful number even assuming the civilizations are evenly distributed, which they are not.
+So, if I take the number of civilizations in a galaxy as 928, and the volume of the Milky Way as 8.333 trillion cubic light years:
+$$d_{max} = \sqrt[3]{\frac{6\left(\frac{1}{928}\times8.333\times10^9\hspace{1mm}\mathrm{ly^3}\right)}{\pi}} = 2579\hspace{1mm}\mathrm{ly}$$
+the result of 2579 light years is about 1.29 times lower than the Omni Calculator's result of 3320 light years.
+Does this equation even work assuming the civilizations are evenly distributed across the galaxy, and does anyone have a better equation for calculating the maximum distance to an alien civilization?
+EDIT 1: I might have found the equation in the scientific paper
+The Astrobiological Copernican Weak and Strong Limits for Intelligent Life, but I'll have to read it thoroughly to actually understand it, so I'll update here when I do that.
+EDIT 2: I believe I have found the exact equation used in the scientific paper The Astrobiological Copernican Weak and Strong Limits for Intelligent Life, and on the Omni Calculator's page, the equation is (I slightly modified it to add the civilization volume, which was in the paper a separate equation) as follows:
+$$d_{max} = 2\times\sqrt{\frac{\frac{1}{N_{civilizations}}V_{galaxy}}{0.3 kpc\times\pi}}$$
+where N is the number of civilizations in the galaxy (you can derive that number either from the Drake Equation or from the equation used in the mentioned paper), the V is the volume of a galaxy (Milky Way's is approximately 8 trillion cubic light-years) and kpc is the distance unit (1 kpc = 3261.56 light years).
+The results match almost 1:1 to Omni Calculator's. I believe the very slight difference is due to the different galaxy volumes used. I used 8 trillion cubic light-years when calculating, and Omni Calculator might have used a more specific number), or potentially due to Omni Calculator more precisely calculating the civilization volume based on the given parameters (the latter is likely correct).
+Note: The number given by the equation has a very large uncertainty.

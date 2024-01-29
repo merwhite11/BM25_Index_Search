@@ -1,0 +1,6 @@
+Is it possible to calculate a star's apparent magnitude in another photometric band knowing its visual magnitude?
+
+Or, in other words, is it possible to know a star's luminosity in a certain photometric band?
+Proxima Centauri's Wikipedia page provides the apparent magntiude in each UBVRIJHK band (getting progressively brighter) as well as the bolometric luminosity and the luminosity in visual wavelengths.
+But this amount of information seems limited to Proxima Centauri and a few select other stars.
+Is there a way to calculate a star's apparent magnitude/luminosity in another photometric band knowing its visual apparent magnitude/luminosity? Other factors like distance, size, and mass are also known.

@@ -1,0 +1,13 @@
+What natural astronomical object is rare on a Hubble volume scale?
+
+There are some milestone objects on different scales of the universe.
+
+The star is a notable feature on a solar system scale
+The supermassive black hole is a feature on a scale of a galaxy
+??
+
+The tricky part is that I am looking for something localizable. Great attractors, galactic filaments, and other easily findable objects are features alright, but they are, unsurprisingly, very big and hardly bounded.
+Are there any rare objects that appear only on a Hubble volume scale (a proper volume of $\sim (c/H_0)^3$), but have definable boundaries?
+EDIT: The lifetime of these objects should be at least millions of years.
+EDIT': Red spirals fit the kind of objects I am looking for, but unfortunately, they are not rare enough. As @ProfRob pointed out they are only two orders of magnitude less frequent than usual galaxies.
+I think that as long as an object is more frequent than a quasar it is too common.

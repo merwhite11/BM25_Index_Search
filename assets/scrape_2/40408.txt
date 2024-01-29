@@ -1,0 +1,19 @@
+How to attach binoculars on starwatcher tracker?
+
+I am a complete newbie on trying to figure out how to attach the binocular on the starwatcher tracker.
+I am having problem with the angle. This is the issue I am having:
+
+I align the skywatcher tracker to the north star (Polaris), (I am at 40 degree longitude)
+
+I attach the L shaped bracket on the skywatcher tracker. This L shaped will be able to support my binocular.  Once I attach the binocular which it sits parallel on the short leg of the "L" shaped bracket i.e. parallelly aligned to the pole star.
+
+Now the problem is as as follows: I have the polar axis. Also consider a plane which is perpendicular to the polar axis passing through my center of my tripod. I am able to view objects on the side of the plane which has the north star. But I am unable to view any objects on the opposite side. If I turn my binocular around it will have towards the ground instead of the sky.
+
+
+Am I missing an attachment here, or do I have something wrongly configured? Any help or comments is much appreciated.
+Thanks in advance.
+
+photo added. Say the binocular is focused at the north star. But the object I am trying to watch is behind the plane which is defined by the green L-bracket in the photograph. the binocular can rotate about the polar axis (which is perpendicular the plane defined by the green L-bracket)
+
+I have two degrees of freedom without disrupting the polar alignment. I can rotate along the x or y axis. If I try to rotate anything using the parts in the circle I will loose polar alignment.
+In order to observe something right of the plane (defined by: on which the y axis lies that is the y-z plane): First I will have to rotate the binocular along the y-axis by 180 (but that makes it point to the ground). Second I will have to rotate along a z-axis to point it to the sky -- which I have no controls to do.

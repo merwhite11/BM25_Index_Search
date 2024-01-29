@@ -1,0 +1,3 @@
+CMB maps analysis (Planck, ESA, FITS)
+
+I wanted to analyze Planck mission FITS files and was wondering about the parameters. So the map uses color coding for temperature-based anisotropies right? So the maximum angular resolution is roughly 5 arc minutes on the CMB maps and the sensitivity is said to be on the order of 10^5 - does this mean that the FITS files provided would precisely contain data for each pixel down to 100,000:1 in color code? Can anyone please help - I am new to this...?

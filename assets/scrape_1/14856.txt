@@ -1,0 +1,8 @@
+Do stars tend to fuse all hydrogen even when the mass is small?
+
+Suppose a brown dwarf requires only one more hydrogen atom to become massive enough to start fusion, what will happen if we add a hydrogen atom to it?
+
+It fuses until the mass is dropped and then fusion stops suddenly
+It starts to fuse until all hydrogen use up
+
+Which one is correct?

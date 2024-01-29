@@ -1,0 +1,3 @@
+Are there stars with an average density greater than the central density?
+
+Are there likely to be stars for which the average density is greater than the density at the centre? Intuitively, I would say not, as density tends to decrease outwards, but ideally I would appreciate a clear mathematical justification for this.

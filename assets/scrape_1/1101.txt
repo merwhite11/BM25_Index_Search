@@ -1,0 +1,5 @@
+Is the rotation of the Sun and the rotation/orbit of the Moon around the Earth a coincidence?
+
+While looking at sunspot information in connection with Amateur Radio, I found that the Sun rotates on a period from 27 days to 31 days.  Its rotation is differential, at the equator it spins at a rate of about 27 days, while at the poles it's closer to 31 days.
+Earth's moon also rotates at a rate of 27.3 days.
+I suspect this is nothing more than coincidence, but was wondering if there is more than a coincidental connection between these two rates of rotation, similar to how tidal locking forces the moon's rotation and orbit around earth to be the same rate.

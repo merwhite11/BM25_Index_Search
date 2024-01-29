@@ -1,0 +1,13 @@
+What do these statements about interstellar magnetic fields really mean?
+
+Quanta Magazine's The Hidden Magnetic Universe Begins to Come Into View is a fascinating review of a rapidly evolving field in astronomy.
+It contains some statements that I feel are important to understand, but I don't.
+
+However, once a “seed” magnetic field arises from charged particles in motion, it can become bigger and stronger by aligning weaker fields with it. Magnetism “is a little bit like a living organism,” said Torsten Enßlin, a theoretical astrophysicist at the Max Planck Institute for Astrophysics in Garching, Germany, “because magnetic fields tap into every free energy source they can hold onto and grow. They can spread and affect other areas with their presence, where they grow as well.”
+Ruth Durrer, a theoretical cosmologist at the University of Geneva, explained that magnetism is the only force apart from gravity that can shape the large-scale structure of the cosmos, because only magnetism and gravity can “reach out to you” across vast distances. Electricity, by contrast, is local and short-lived, since the positive and negative charge in any region will neutralize overall. But you can’t cancel out magnetic fields; they tend to add up and survive.
+
+Questions:
+
+What does the phrase "...magnetic fields tap into every free energy source they can hold onto and grow..." refer to in the astronomical context of interstellar space?
+
+What does the phrase "...only magnetism and gravity can “reach out to you” across vast distances. Electricity, by contrast, is local and short-lived, since the positive and negative charge in any region will neutralize overall. But you can’t cancel out magnetic fields; they tend to add up and survive." refer to in the context of interstellar space? Is it the lack of free magnetic monopoles, or the dearth of polarizable ferromagnetic material?

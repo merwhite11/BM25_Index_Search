@@ -1,0 +1,3 @@
+How to convert apparent visual magnitude to SI units?
+
+How do I convert the apparent visual magnitude of astronomical objects to SI units (lumens)?

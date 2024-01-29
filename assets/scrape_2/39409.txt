@@ -1,0 +1,25 @@
+Radial velocity exoplanet search - can mathematical details be explained? (Bayesian periodogram MCMC)
+
+Radial velocity (RV) is one of main methods for exoplanet search.
+The popular description of the method sounds simple - one should measure periodic Doppler variation of a spectral line of a star and determine characteristics of orbiting planet (period, minimal mass, etc).
+But if you read scientific articles (like this about Proxima b) - the picture is different.
+Image from the article:
+
+My current understanding:
+A telescope with high-resolution spectrometer observes a specific spectral line of a star. The result is in pairs (Vi,Ti), i=1..N. Here Vi are Doppler variations of radial velocities and Ti are times of observation. Ti are transformed to barycentric times.
+Astronomers then use a model to search for a hypothetical planet such that it has a much higher Bayesian probability than model without planet. Much higher usually means 10000 higher in modern publications. If some Keplerian solution (planet's period, mass, eccentricity) satisfies the threshold - one "planet candidate" is found. Let's subtract it from the observations and search is there still high Bayesian probability of another planet.
+But I still can't figure out how the math in done.
+Questions:*
+
+Can mathematical details of the method be explained in simple terms? This work contains some details, but from it I can't understand what is being done.
+
+Does complete review of RV method exist online in free access?
+
+How exactly is the math done?  How does Markov chain Monte Carlo (MCMC) "scan" possible parameters of planet's orbits?
+
+How exactly are Bayesian periodograms built?
+
+
+EDIT
+Question:
+Does complete review of RV method exist online in free access to read about the details?

@@ -1,0 +1,28 @@
+Could this three moons system be stable?
+
+In my fictional world I have selected all parameters to maximize the Hills Sphere of my planet. The planet has three times Earth's mass and it is located in 2 AU from its star that's 1.4 times more massive than our Sun. I assume that there are more planets on the system but in such way to have minimum interaction with my planet.
+I want to have three  moons on a 1:2:4 resonance. I also want:
+
+the first one to be as large as our moon to the sky
+the second 1.5 times larger
+and the third, half our moon's size.
+
+To achieve this I have assumed:
+
+the first moon having 1.1 lunar radius,
+the second 2.3
+and the third 1.1.
+
+Their orbits are 18, 36, 72 days.
+I don't really care about their density and I assumed that their masses are
+
+1 lunar mass (probably rocky)
+3 lunar mass (water or ice world)
+0.3 lunar mass (probably ice world)
+
+ I guess that to be more stable i should have eccentricities smaller than 0.05 and inclination equal to zero.
+ I am not sure about the spin of my moons, is there a chance being tidal locked?
+This is my effort to achieve maximum stability of the system, what parameters should I reconsider to make it more stable? I am willing to change almost everything even the resonance, but I want them to be visible from my planet in similar way moon is to Earth.
+Have in mind this question is about a fictional world for a fantasy story so even the minimum possibilities for that senario to happen is enough for me.
+So any ideas?
+P.S I have asked a similar question on worldbuild.stackexchange but they directed me also here for a better answer.

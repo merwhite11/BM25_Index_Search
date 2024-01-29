@@ -1,0 +1,7 @@
+Image processing techniques to distinguish between stars and galaxies in an image?
+
+Say I have an arbitary image of stars and galaxies without any extra information (no other spectra info other than image itself). Can you help me distinguish them? 
+Are there any specific features / properties I could look for? Say for eg the R G or B value or maybe values in some other color space (YUV etc.) be more or less for stars than galaxies, etc.
+EDIT:
+I dont have any "special" data (no sensor or spectral data), I only have data from the internet (common images). The point is to detect stars and galaxies from images commonly found on the internet.
+One of them is this: https://cdn.spacetelescope.org/archives/images/large/heic0916a.jpg

@@ -1,0 +1,3 @@
+Mass resolution in cosmological simulations
+
+I've been reading papers about different cosmological simulations and they all talk about the "mass resolution" of those. Can someone please explain what does "mass resolution" mean in this case? I know it has something to do with the number of particles employed in the simulation or something like that? But I can't seem to grasp a full understanding...

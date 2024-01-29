@@ -1,0 +1,11 @@
+How well conserved is etendue in extreme gravitational lensing scenarios?
+
+This excellent answer to Could dark matter exist in the Universe in the form of sufficiently dense objects? includes the following image and description:
+
+Light from the background galaxy circles a black hole an increasing number of times, the closer it passes the hole, and we therefore see the same galaxy in several directions (credit: Peter Laursen).
+and illustrates three strong gravitational lensing light paths from a source to an observer. In this not-drawn-to-scale illustration, each path is shown reaching the observer from a close, similar direction, but they represent very different trajectories; one is a simple bend, the second makes a complete ~360° loop around the black hole, and the third a double ~720° loop-de-loop.
+Conservation of etendue is how optics folks view conservation of phase space (Liouville's theorem).
+Familliar examples might be understood from the impossibility of concentrating blue sky with a magnifying glass, or that a wall does not appear darker when you walk away from it despite $1/r^2$.
+Question: How well conserved is etendue in extreme gravitational lensing scenarios?
+In "normal lensing scenarios" like the use of telescopes, they can never increase the apparent luminance of an extended object no matter how large the aperture. But in some gravitational lensing scenarios and real-world searches, dramatic brightening of objects occurs.
+Are those, or the scenario in the illustration examples of breakdown in conservation of etendue?

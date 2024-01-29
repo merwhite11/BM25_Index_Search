@@ -1,0 +1,13 @@
+Early (high density) Universe's event horizon
+
+Taking into consideration the big bang theory and the followed expansion of our Universe, was there a time when density of the Universe created an event horizon?
+If so, then for how long and how is it that it kept expanding despite such an enormous density and space-time deformation?
+I did a very brief estimation for only barionic and dark matter taking into account that there are about 1e11 estimated galaxies in observable Universe and there are about 1e11 stars per galaxy (red dwarfs are most common, but I used the Sun's mass) and that the dark matter equals about 4 time barionic matter - the online calculator showed an event horizon as ~1e11 ly.
+Was this result in the right ballpark and what does it imply if so?
+PS. I've seen similar questions here, so pointing to some articles will be fine, explaining consequences will be even better
+PS. My question does not seem to be answered by the one mentioned in the closing comment, as suggested to me I edit to reopen it.
+Edit (3/25)
+As far as I understood the "duplicate" question is about potential event horizon if the Universe's density was at a point, i.e. if the Universe was a black hole, which it obviously is not (as I read somewhere), my question was that some time in the past the Universe had to be dense enough to be one, if not why not, if yes, why it kept expanding and what happened to the event horizon.
+I see it as either eternal inflation is the case and there has never been a singularity or the early Universe had something black holes do not, which made it to keep expanding, or simply just the fact that space-time arose from the singularity it has never been a black hole.
+Just wanted to ask what the current theories (especially GR) can say about it.
+thanks

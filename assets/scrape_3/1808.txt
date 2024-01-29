@@ -1,0 +1,3 @@
+How can I calculate the orbital periods in a binary star system?
+
+I have two stars, with known masses and known orbital radius. How do I calculate the orbital periods of both stars?

@@ -1,0 +1,4 @@
+Difference between fluid Love number and tidal Love number
+
+I'm trying to understand more about tidal deformation in planets, and I frequently encounter Love numbers. However, sometimes the fluid Love number is mentioned, and sometimes the tidal Love number is mentioned. As I currently understand, the fluid Love number is the long-term behavior of the body and the tidal Love number is related to tidal frequencies.
+Does it mean that the fluid Love number assumes the whole body is fluid and the tidal assumes a viscoelastic behavior? If someone can expand on the physical differences between the two I would really appreciate it.

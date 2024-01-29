@@ -1,0 +1,7 @@
+What is the smallest possible radius for a neutron star?
+
+According to the Chandrashekhar limit, the minimum mass of a neutron star is about 1.44 solar masses; however I found some examples of neutron stars less massive than that.
+Additionally, I thought that the minimum radius of a neutron star of a given mass would be greater than the Schwarzchild radius of a blackhole with the same mass.
+Still, Wikipedia lists some small neutron stars like CXOU J085201.4-461753 as having a radius of 1.2 km which I would not have thought possible?
+So my question is: what is the smallest radius a neutron star can have? And, what is the smallest neutron star we have discovered?
+Additionally, is the surface temperature of a neutron star in any way dependant on its radius and/or mass?

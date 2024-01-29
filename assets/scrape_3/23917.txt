@@ -1,0 +1,11 @@
+Can you translate a GPS coordinate to a Galactic coordinate?
+
+I am a complete newbie to astronomy and all the related.
+So if i say something stupid i am sorry. 
+But i was wondering if it is possible to translate GPS coordinates like the following: 
+lat: 41.420042122273024 
+long: 2.1533203149999736 
+
+to its corresponding Galactic coordinates?
+I am grateful for all insights that you may offer me :)
+PS: if this is the wrong exchange to ask this could you refer me to the right place to ask this question.

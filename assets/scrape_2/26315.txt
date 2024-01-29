@@ -1,0 +1,31 @@
+Computation of mean sidereal time at Greenwich using solar position algorithm
+
+Using Equation 28 in Section 3.8.1 of Solar Position Algorithm (Reda, I. and A. Andreas, Jan. 2008), I computed the mean sidereal time at Greenwich for 2003 October 17 for four different times (UT), using a Casio fx-991MS. The computed values were cross-schecked online using the URL Computation of GAST, GMST, and ERA
+Equation 28 used to compute GMST is:
+v0=280.46061837 + 360.98564736629*(JD - 2451545) + 0.000387933*JC^2 - JC^3/38710000
+
+JC is computed as:
+JC = (JD - 2451545)/36525
+
+The computed values of JD and JC are as follows:
+1. 00:00:00 UT: 2452929.5   (JD) & 0.037905544 (JC)
+2. 05:30:00 UT: 2452929.729 (JD) & 0.037911818 (JC)
+3. 11:00:00 UT: 2452929.958 (JD) & 0.037918083 (JC)
+4. 19:21:00 UT: 2452930.306 (JD) & 0.037927611 (JC)
+
+However, there is a clear offset between the computed values and the values provided by the aforementioned URL. For example:
+1. 00:00:00 UT: 22.32738 hour    (Computed) & 1.6726265 hour (URL)
+2. 05:30:00 UT: 16.7231 hour     (Computed) & 7.1960077 hour (URL)
+3. 11:00:00 UT: 11.30528667 hour (Computed) & 12.702743 hour (URL)
+4. 19:21:00 UT: 2.93042 hour     (Computed) & 21.075605 hour (URL)
+
+Moreover, if I subtract 22.32738 hour from 24.0, I will get 1.67262, which is the value provided by the URL.
+At the same time, using the same set of equation , if I compute GMST for 1987 April 10 at 00:00:00, the computed and URL values are the same.
+April 10 at 00:00:00:
+JD=2446895.5
+JC=-0.127296372
+GMST = 13.18 hour (Computed) & 13.17954 hour (URL)
+
+Kindly help me to understand where exactly lies the problem. If the problem lies with the concept regarding the interpretation, please help for a better understanding.
+Note: Knew gmst is now deprecated , but since i am a beginner thought of understanding gmst foremost and then will dwell into current scenario.
+Thanks.

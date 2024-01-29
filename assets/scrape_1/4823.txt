@@ -1,0 +1,4 @@
+Finding the radius of an eccentric orbit at any point
+
+Knowing the apoapsis, periapsis and therefore period of an orbit, how can I find the radius of an object in an orbit at a given angle or time, whichever is needed. 
+For example, if I have an object m orbiting around object M with an apoapsis of 100m and a periapsis of 50m, what is the distance between m and M after t seconds, or at $\theta$ degrees. Which ever is needed. I say 'or' because I don't know what you would use to find the radius.

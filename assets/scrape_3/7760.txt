@@ -1,0 +1,11 @@
+Is there a standard mapping of symbols to terms for celestial and orbital mechanics
+
+Is there a standard mapping of symbols to terms for celestial and orbital mechanics (and physics in general)?
+For example here are some ambiguities
+Angular Momentum: L, H, J, $\Gamma$,
+Orbital period: T or P,
+M: mean anomaly or mass of the Sun,
+E: energy or eccentric anomaly,
+p: linear momentum or length of semi-latus rectum,
+a: acceleration or length of semi-major axis,
+e: eccentricity or base of natural logarithms,

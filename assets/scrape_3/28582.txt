@@ -1,0 +1,8 @@
+What is the apparent magnitude of the weakest stars we can see in one telescope on the ground with a diameter of 2.4m?
+
+All I know is its main mirror diameter; 2.40 m
+I also know that the eye, which its pupil is 5mm in diameter can see up to an apparent magnitude of 6.
+How can I calculate the apparent magnitude that the telescope can see?
+I have used the equation of 
+$5⋅log(\frac{D_1}{D_0})$
+However, it gave the answer of 13.40, while the answer should be 19.40

@@ -1,0 +1,12 @@
+Calculate change in spectral line intensity for a change in temperature
+
+I am trying to do some simple modelling of spectral line emission. I am starting with some ALMA observations of a protoplanetary disk, where the emission from a particular molecule at frequency 344GHz has been measured to be 0.03 Jy km/s. I want to know how the intensity of the emission would vary for a given change in temperature, assuming the line is optically thick. The emission is unresolved ie. fits entirely within one beam (where the beam size is 0.03 arcsec$^2$). I have made an attempt, but am not sure whether my procedure is correct.
+What I've tried:
+
+Start with the Planck function $B(\nu, T)$ in units W m$^{-2}$ sr$^{-1}$ Hz$^{-1}$
+Convert the beam area in arcsec $\Omega_\text{arcsec}$ to steradians $\Omega_\text{sr}$
+Calculate the Planck function over a range of temperatures, then convert to Jy using: 
+$B(\nu, T)_\text{Jy}$ = $B(\nu, T)$  x   $\Omega_\text{sr}$  x  10$^{26}$
+Plot the results (see below), which suggests that the observed emission of 0.03 Jy km/s corresponds to a gas temperature of ~15 K.
+
+Is this the correct way to determine the integrated emission? One problem may be that I'm comparing the observations in units of Jy km/s to the model in Jy. My reasoning was that the Keplerian motion of the gas in the disk 'smears out' the total intensity across some frequency range, whereas when using the Planck function we compute the intensity at the precise frequency of the line, so no need to integrate across some frequency range?

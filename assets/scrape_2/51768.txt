@@ -1,0 +1,20 @@
+Making RGB image using FITS files with different dimensions
+
+I want to make an RGB image using 3 FITS files: one IR image from Spitzer and the other two from UVIT. I tried to make them using make_lupton_rgb in Astropy, but it doesn't work in the case of FITS files with unequal dimensions. I tried to use DS9, but I cannot export the resultant RGB image due to different dimensions. How do I get around this?
+hdu1 = fits.open('fuv_.fits')
+fdata = hdu1[0].data
+w1 = wcs.WCS(hdu1[0].header)
+    
+hdu2 = fits.open('nuvcrop.fits')
+ndata = hdu2[0].data
+w2 = wcs.WCS(hdu2[0].header)
+
+hdu3=fits.open('_IRAC_3.6.fits')
+datat = hdu3[0].data
+
+fig = plt.figure(figsize=(40, 40))
+ax = plt.subplot(projection=w2)
+
+rgb_default = make_lupton_rgb(0.5*ndata, 0.5*ndata,3*fdata)#, filename="qw.jpeg")
+plt.imshow(datat, origin='lower')
+```

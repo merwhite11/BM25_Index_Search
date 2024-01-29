@@ -1,0 +1,8 @@
+How can a gas planet become tidally locked with a star?
+
+Supposing a planet is made entirely of gas, is it possible for the planet to become tidally locked with the star it orbits? 
+I know when a terrestrial planet orbits a star in a different amount of time than the length of its day, the planet warps continuously, resulting in tidal heating. This heating takes energy from the planet's rotation until it stabilizes in a tide-locked formation. 
+I believe a purely gaseous planet would also have some sort of internal heating for the same reason. But because the "surface" of a gas planet is fluid, it must also obey thermodynamic principles.
+As a basic example, the side of the planet facing a star gets hot, and the side facing away gets cold. The hot gas expands and the cold gas contracts and you get convection, Hadley cycles, prevailing winds, and chaotic weather patterns.
+So it seems like there's a battle between gravity, which wants the gas to stop moving and become tide-locked, and thermodynamics, which wants the surface to roil with convection.
+Does one process dominate over the other? Does one process slowly take over as the other fades away? Can it go either way?

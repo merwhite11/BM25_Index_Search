@@ -1,0 +1,20 @@
+Correct longitude from longitude over 180°
+
+Last week, one of my exercise tasks was about determining the an observer's position on Earth, when in their zenith is a certain star with known right ascension and declination. We were supposed to use this relation for the hour angle $\tau$ to determine the longitude $\lambda$: $\tau = \text{GST} - \lambda - \alpha$, which would transform to $\lambda = \text{GST}-\alpha-\tau$. Everything to here is clear to me, including calculating $\lambda$.
+My problem is that in the case of our exercise, the calculated longitude is bigger than 180°. For simplicity, let's say $\lambda=230°\text{E}$. My naive thought process last week was, that this would mean that the longitude would simply continue going an additional 50° into the Western hemisphere, such one could say the true $\lambda$ on the Western side is 360° minus the calculated value. In my example: $\lambda=130° \text{W}$.
+However, this week, I was told this is wrong and that we should still calculated 360° minus the calculated value, but instead on the Western hemisphere, we still would be on the Eastern one. Thus, $\lambda=130°\text{E}$. Can someone explain to me, why this is the case? I've asked our tutor, but they couldn't explain this, without confusing me (and my fellow students) even more.
+EDIT:
+Exercise task
+After an emergency landing, you find yourself on an unknown beach. Directly above you, you can locate the star $\Psi$ Leo. You know that for this star $\alpha=9^\text{h} 43^\text{m} 54^\text{s}$ and $\delta=14^\circ1'15"$. The time is $17^\text{h} 17^\text{m} 12^\text{s}$ UT. In addition, you know that for the current day at 0 UT, we have $8^\text{h} 19^\text{m} 50^\text{s}$ GMST.  Where are you located? Determine the longitude and latitude, as well as the name of the location.
+EDIT 2: Detailed Calculations
+Relation between hour angle and right ascension is given by
+$$\tau = \theta_\text{G}(t=0) + t\left(\frac{366.24}{365.24}\right) - \lambda - \alpha.$$
+Since the star is directly above us, it's in the zenith and thus, $\tau=0$. It follows for the longitude that
+$$\lambda = \theta_\text{G}(t=0) + t\left(\frac{366.24}{365.24}\right) - \alpha.$$
+It is given from the exercise that
+$$\theta_\text{G}(t=0) = 8^\text{h} 19^\text{m} 50^\text{s} = 8.33056\text{h},$$
+$$t = 17^\text{h} 17^\text{m} 12^\text{s} = 17.28667\text{h},$$
+$$\alpha = 9^\text{h} 43^\text{m} 54^\text{s} = 9.73167\text{h}.$$
+Plugging everything into the equation for $\lambda$ leads to
+$$\lambda \approx 15.93289\text{h}=238.99335^\circ E.$$
+Until this point everything was marked as correct (and matches with the sample solutions of the lecturer).

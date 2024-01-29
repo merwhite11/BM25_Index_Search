@@ -1,0 +1,5 @@
+Planned telescope to detect alien waste-heat
+
+I remember watching a talk by someone who designed a telescope to view a single star at a time.
+The purpose of the telescope was to detect waste-heat which would presumably be emitted by any civilization utilizing a large percentage of their planet's solar energy, due to the second law of thermodynamics. By focusing on a single star, it would be able to detect when the planet crossed the path of star-light, and the additional energy emitted by the planet - or something like this.
+Anyone know who this might be?

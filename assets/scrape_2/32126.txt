@@ -1,0 +1,5 @@
+Short term changes in celestial coordinates of stars
+
+The right ascension and declination of stars change on a day to day basis. Some of the changes are quite large. The right ascension of Polaris, for example, changes by more than a degree over the course of some years. The excursions are irregular. Their time and extent differ from year to year. I know that precession will change coordinates of all the stars over tens of thousands of years, but I can't find an explanation for these short term changes. 
+Polaris started 2017 with a sidereal hour angle of 316 deg 23.9 min. The SHA increased monotonically to 317  3.6 by the end of April, then decreased in small steps to 315  58.3 by November 9, then increased again, ending the year at 316 
+ 6.2.

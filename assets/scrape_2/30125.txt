@@ -1,0 +1,7 @@
+How to calculate the thickness of the ice crust on a frozen ocean planet/moon?
+
+How do I calculate the thickness of the upper ice layer on cold ocean worlds like Europa, Enceladus, Ganymede, ...? I'm asking this for a programm I'm currently writing.
+Given/Known is: mass, radius, average density of metal (assume Fe) core, rock (assume MgSiO3) layer, ice (assume H2O) layer; internal heat from tidal heating, radioactive decay and residual formation heat; external heating from solar radiation (assume equal constant heating distributed over the entire surface or ignore it if it is irrelevant/minuscule); pressure of the atmosphere above (assume pure N2 with variable pressure or no atmosphere)
+Wanted is: thickness frozen (crust) and molten layer
+Bonus stuff: If easy adaptation of the formula for the calculation of the rocky layers crust thickness is possible I would appreciate it. Should it be possible, an adaptation to find the rocky crust thickness and the ice crust thickness on wolds where both are needed would be helpful.
+Thanks for any answer and time spent of solving this.

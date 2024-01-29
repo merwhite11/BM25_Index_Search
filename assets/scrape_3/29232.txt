@@ -1,0 +1,8 @@
+What was the process of calculating how much darkmatter/matter/dark energy the observable universe consists of and how did it come at this conclusion
+
+In 2015 the Planck satellite consortium released an analysis of data collected by the Planck satellite that showed this percentage break down of the universe’s mass/energy.
+Ordinary matter: 4.9%
+Dark Matter: 26.8%,
+Dark Energy: 68.3%
+How did they calculate the "stuff" of the observable universe and how did they come to this conclusion?
+I assume  this took some tough calculations and some work with a supercomputer but i wonder what the entire process was.

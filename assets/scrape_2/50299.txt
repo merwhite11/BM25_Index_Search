@@ -1,0 +1,5 @@
+How to know if an exoplanet is terrestrial?
+
+NASA exoplanet archive, open exoplanet catalog and exoplanet.eu are some of the most famous catalog of exoplanet discovered by all techniques. However, all of these catalogs are missing the terrestrial flag column, i.e., whether an exoplanet is terrestrial or not.
+NASA has its own exoplanet database where it lists 188 terrestrial exoplanets but it's not downloadable like NASA's exoplanet archive. Also, many others have their own habitable zone exoplanet catalog but it includes many less than 188.
+My question is can we calculate/answer if an exoplanet is terrestrial or not from all the data given, let's say in NASA exoplanet archive? Or is determining terrestriality completely a different field? Lastly, can we download the NASA terrestrial exoplanet catalog in any way? (I know I can scrape the data using python but I am looking for some prepared csv, if possible).

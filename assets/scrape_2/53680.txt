@@ -1,0 +1,5 @@
+Is there any observational evidence for dark matter vortices?
+
+The paper here "Vortices and waves in light dark matter" https://arxiv.org/abs/2004.01188
+says that in dark matter halos vortices arise. In a vortex some particles move faster than others - the velocity depends on 1/r according to the paper.
+This should lead to an uneven relativistic mass increase increase. Is this enough to bend light from stars as it approaches the Earth so telescopes detect it?

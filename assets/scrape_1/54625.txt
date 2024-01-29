@@ -1,0 +1,12 @@
+Stellarium and the Taurids
+
+Hi I am running Stellarium 23.2
+Meteor showers only appear on the dates they should be visible in the sky
+I set the date as -9800 (9800BC) and I see the Taurids appear in Gregorian date May/June.
+In -4500 they are in July
+Is this due to orbital changes over time, such as orbital precession, or is there an error of some kind?
+I have checked the solstice date in 9800BC and that looks OK(ish)
+So in -9800 I have the Taurids at the time of the summer solstice
+Martin
+Think I have my answer - the radiant point does precess 
+This is the source https://arxiv.org/pdf/2207.04506.pdf

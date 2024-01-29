@@ -1,0 +1,4 @@
+Geocentric Planetary Configurations
+
+An asteroid is orbiting the Sun in a circular orbit of radius 4AU. Calculate the ratio of its angular diameters at opposition and quadrature.
+I have tried using the idea of elongation but it does not work for me.

@@ -1,0 +1,5 @@
+Does the Earth orbiting around the Earth-Moon barycenter cause a measurable centrifugal force?
+
+I just realized the Earth is not a stationary object with the moon orbiting around it.  As shown in this minimalist animation from Wikipedia, the Earth actually orbits a common barycenter with the moon.  If this was a carnival ride, people sitting in the moon and on the far side of the earth would certainly feel the centrifugal force acting on them.
+
+However, this is a very large system in reality, and the Earth also has quite a strong gravitational force felt on the surface anyway.  So when it comes to accurately measuring gravity or doing experiments that rely on gravity, how big of a factor is this centrifugal force?  Does the apearant force of gravity fluctuate from 9.9 m/s^2 to 9.7 or is it more along the lines of 9.800001 to 9.799999 (assuming the average is exactly 9.8, which is a simplification).  Or is there something I'm missing that means the force is non-existent?

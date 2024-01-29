@@ -1,0 +1,7 @@
+What do the acronyms in "AT 2017 gfo" mean?
+
+About 11 hours after the detection of GW170817 by Ligo/Virgo and the quickly succeeding detected GRB170817, a transient afterglow in the optical-nIR frequency appeared which showed many signs of r-process nucleosynthesis. This transient was given the identification AT 2017 gfo.
+
+"SSS17a, now with the IAU identification of AT 2017 gfo"
+
+My questions are simple. What do the acronyms "AT" and "gfo" mean? And for that matter, what does the acronymn "SSS" stand for? I tried to do a quick search through the IAU website but all I could find were general instructions on how to come up with your own astronomical identifier. I suspect "AT" means astronomical transient, but I can not confirm.

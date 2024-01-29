@@ -1,0 +1,4 @@
+Photometry data from Gaia
+
+I am trying to get data from Gaia. Especially for Cepheids or RR Lyrae. On Gaia websites it say they have released some of the data however I cannot find it. I am looking for two columns with time and magnitude(light curve).
+Thanks for help

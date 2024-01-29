@@ -1,0 +1,12 @@
+I was finding the period of crab pulsar using efsearch(xronos)
+
+I was finding the period of crab pulsar(one orbit data from ASTROSAT/laxpc) using efsearch (heasarc/xronos). Despite considering period = 33ms, I am not getting sharp peaks at higher Resolution for period search(10^-8). I guess I am making mistake in selecting various inputs like Phasebins/Period.
+I got the Best period at :
+1e-8 = 0.03299998000000 , with no sharp peak
+1e-7 = 0.03300007000000 ,  no sharp peak
+1e-6 = 0.03229730000000 ,  no sharp peak
+1e-5 = 0.03302100000000 ,  no sharp peak
+1e-4 = 0.03340000000000 , sharp peak
+I am new to this.
+So, What is the relation between time-bin, no. of phase bins, and the specified period while folding a light curve using efsearch?
+Also, What is a phase bin?

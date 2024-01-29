@@ -1,0 +1,6 @@
+In CMB data analysis, when calculating the signal-to-noise ratio for a binned power spectrum, do we use the bin centers in the SNR calculation?
+
+The signal-to-noise ratio for angular power spectrum signal $C_l$ under theoretical noise $N_l$, where $C_l$ and $N_l$ are functions of multipole $l$, is given as
+$$(S/N)^2= \sum (2l+1) (C_l/N_l)^2$$
+To increase the $S/N$ we bin the power spectrum signal, if bin width $\Delta l$, this in principle decreases $N_l$ by a factor of $1/sqrt(\Delta l)$.
+Now, in $(S/N)^2$ should we replace the sum over multipoles with the sum over bin centers?

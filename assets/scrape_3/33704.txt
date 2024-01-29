@@ -1,0 +1,3 @@
+How spectrographs that measure radial velocities manage to translate variations in the stars' spectrum lines into the "speed" of the star?
+
+Like ESPRESSO or CARMENES, for example. I just don't understand the process or the way these spectrographs manage to obtain the velocity of the "wobble" of the star (due to the presence of another companion such as an exoplanet) just by analyzing variations on spectral lines.

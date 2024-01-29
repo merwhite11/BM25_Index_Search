@@ -1,0 +1,3 @@
+Does the Lagrange L1 point have a 'size'?
+
+Like in cubic kilometers, what is the size of L1 "area of influence"? being unstable I guess that size can vary?

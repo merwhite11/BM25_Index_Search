@@ -1,0 +1,40 @@
+How do you calculate the position of the True Node
+
+this is the code i am using for the "Mean Node" even tho even this one is off by a couple of minutes
+import datetime
+import swisseph as swe
+
+swe.set_ephe_path('/usr/share/ephe')
+
+# Get the current date
+current_date = datetime.date.today()
+
+# Calculate the Julian Day
+jd = swe.julday(current_date.year, current_date.month, current_date.day)
+
+# Calculate the position of the North Node (10 represents North Node)
+pos = swe.calc_ut(jd, 10)
+
+# Extract the ecliptic longitude of the North Node
+ecliptic_longitude = pos[0][0]  # Access the correct value within the tuple
+
+# Calculate astrological sign and degrees
+zodiac_signs = ['Aries', 'Taurus', 'Gemini', 'Cancer', 'Leo', 'Virgo',
+                'Libra', 'Scorpio', 'Sagittarius', 'Capricorn', 'Aquarius', 'Pisces']
+
+# Calculate degrees, minutes, and seconds
+degrees = int(ecliptic_longitude)
+remaining_degrees = (ecliptic_longitude - degrees) * 60
+minutes = int(remaining_degrees)
+seconds = (remaining_degrees - minutes) * 60
+
+# Calculate astrological sign index
+sign_index = (degrees // 30) % 12
+
+print(f"Current Date and Time: {datetime.datetime.now()}")
+print(f"Longitude of North Node: {degrees}° {minutes}' {seconds:.2f}\"")
+print(f"Astrological Sign: {zodiac_signs[sign_index]}")
+
+swe.close()
+
+I am yet to find any info on how to calculate  this thing. The one in the example uses python by any language is fine. Also even tho this code uses "swisseph" skyfield is also fine as long as it works

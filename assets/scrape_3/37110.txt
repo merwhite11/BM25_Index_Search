@@ -1,0 +1,3 @@
+Ecliptic coordinate ranges in radians
+
+In ecliptic coordinates, what are the ranges of ecliptic longitude and latitude in radians? Do they both go from $-\pi$ to $\pi$?

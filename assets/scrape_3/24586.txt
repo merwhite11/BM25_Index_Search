@@ -1,0 +1,16 @@
+If the earth was not tilted, what would be the north star?
+
+What is earth tipped toward? The simple answer is Polaris.  The axis (one end of it) points at Polaris, so that's what it's tipped to point at.  But when we saw "toward" what do we mean? When it is tipped "toward" one thing, what is it being tipped "away from"?
+If earth were not tipped then the equator would lie in the same plane as earth's orbit.  Earth being tipped 23 degrees means it is tipped 23 degrees "away from" alignment with its orbit.  So a 0 degree tip would be "not tipped" and a 23 degree tip is tipped 23 degrees in some direction.  What direction is it tipped in?  Another way to ask this would be, what would it be tipped at if it was tipped a full 90 degrees in the general direction in which it is currently tipped 23 degrees?
+Imagine a coordinate system with two axes in the plane of earth's orbit and one axis perpendicular to that plane.  Earth's orbit stays in the plane, and the angle that earth is tipped points to, let's say, negative X.  So the line through the north pole and south pole lies in the XY plane and the earth's orbit lies in the XZ plane.  I want to look at stars and be able to see those axes, so I want to know what stars they roughly point at.
+A cleaner way to ask this might be, what would be the north star if earth wasn't tipped? What would be the south star? What if it was tipped 90 degrees? That gives four of the six stars I'm looking for. I'm not sure how to phrase the question for the other two.  I want to call these stars "untipped north", "untipped south", "winter", "summer", "spring", and "fall" because the direction of the stars would be the same as the direction earth is from the sun during the extremes of those seasons (northern hemisphere).
+[EDIT]
+The plane of earth's orbit is aligned with a celestial (infinitely distant) great circle called the ecliptic.  It inversely happens to also be the path through the sky that the sun takes over the course of a year.  There is a latitude/longitude coordinate system where the equator is the ecliptic called "ecliptic coordinates".  So the question is actually:
+Using ecliptic latitude and longitude, what 6 stars are at:
+
+0, 0
+0, 90
+0, 180
+0, -90
+90, 0
+-90, 0

@@ -1,0 +1,7 @@
+Stellar structure equations - mass continuity
+
+Out of the four stellar structure ODEs, I would like to understand why the mass continuity equation was named this way. It reads
+$$ \frac{dm}{dr}=4\pi r^2\rho \tag{1} $$
+and I understand what it means, but in the Wikipedia entry they also reference the (mass) continuity equation given as
+$$ \frac{\partial\rho}{\partial t}+\nabla\cdot(\rho\vec{v})=0 \tag{2} $$
+I do not understand how these two are related - which assumptions do I have to make to transform eq. $(2)$ into eq. $(1)$?

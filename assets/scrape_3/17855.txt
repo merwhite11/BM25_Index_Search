@@ -1,0 +1,7 @@
+Integrating radial velocity with respect to time
+
+I'm a highschool student who is writing a research paper about plotting Period-Luminosity graph of the Cepheid variables by deriving distance through independent method such as trigonometric parallax and Baade-Wesselink method:
+$$∆R = R(t) - R(t_0) = -p \int_{t_0}^t v(t)dt$$
+While trying to understand and use the Baade-Wesselink method, I faced some difficulties in terms of calculating linear radius variation. According to some papers, I need to integrate radial velocity with respect to time to get the linear radius variation from $t_0$ to $t$, where $t = t_0$ $+$ its period.
+I got the linear radial velocity from the SIMBAD database. For example, for the V* AQ Pup (one of classical Cepheids), its radial velocity is 56.9km/s. Then how do I integrate this value from $t_0$ to $t$? Does this mean [56.9t]^t_t0 and after all $56.9t_1 - 56.9t_0$?
+And also, may I ask how can I get the value of $t_0$ and $t$? Does this mean "proper motion" in here?

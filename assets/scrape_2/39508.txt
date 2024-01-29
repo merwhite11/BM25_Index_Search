@@ -1,0 +1,5 @@
+Question on the singularity theorem
+
+I have just started studying Cosmology and we have been asked to prove that in an expanding FRW Universe which obeys the strong energy condition: $$\rho + 3P >0$$
+Then there must exist a Big Bang singularity. I can see that this condition implies $$\ddot{a}/a \leq 0$$
+which when you plot against t gives an always decreasing rate of expansion over time. This when plotted then shows that if you extend the curve far back enough will cross the t axis at some finite t-value representing a Big Bang singularity. My question is why can't the universe begin with some finite non-zero a value? is there some physical reason that we expect the Universe to begin with a=0?

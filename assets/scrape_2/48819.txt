@@ -1,0 +1,13 @@
+Is there a simple way to get $T_{\mathit{eff}}$ estimates for Gaia EDR3?
+
+For just hobbyist purposes (3D starmap) - I'm trying to infer temperature from EDR3 data to make a rough assessment of stellar type.
+I tried applying figure 2 from this doc:
+https://arxiv.org/pdf/1008.0815.pdf
+$ \log(T_{\mathit{eff}}) = 3.999−0.654(C_{XP})+0.709(C_{XP})^2−0.316(C_{XP})^3 $
+Where $C_{XP} = G_{BP} - G_{RP}$ (from Gaia TAP over Astroquery)
+However, it seems to only work for G type stars when comparing for known $T_{\mathit{eff}}$ for the same stars identified in SIMBAD. So with that formula I get 5619 from SIMBAD but 5630 for the G type star.
+However, for M stars, with temperature in SIMBAD of 3111, I'm getting values less than 1.
+Is there another formula to use for dimmer (and brighter) stars? Or perhaps someone has done preprocessing that is available via TAP somewhere else?
+Similarly, I'm curious if there are any groups out there that have identified possible binary/multi-star systems.
+https://gitlab.com/godotuniverse/galaxygen/-/blob/main/run_data.py
+Thanks for any pointers!

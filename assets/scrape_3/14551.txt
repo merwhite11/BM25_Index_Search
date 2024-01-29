@@ -1,0 +1,6 @@
+Open source alternative for RegiStar (align, rotate, and combine images into single frame)
+
+I'm looking for a free, open-source and Linux compatible alternative to the RegiStar software.
+I need it to automatically combine several images into a single frame, where each individual image shows a portion of a large observed region.
+Individual images also overlap by some amount, and need to be aligned and possibly rotated before superimposing them onto the final frame.
+I believe RegiStar does all this but: a- it is not free, b- it is not open-source, and c- it seems to run on Windows only.

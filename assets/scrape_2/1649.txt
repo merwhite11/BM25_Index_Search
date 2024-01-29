@@ -1,0 +1,12 @@
+Adjust axis labels in ds9
+
+How can I adjust the axis labels in ds9?
+I'd like to have something like:
+
+So far I only managed to get floating points (tl h%f3):
+
+or the leading hours are missing (tl h%f1 m):
+
+
+Edit:
+I tried "tlhm.1" as kindly suggested by Jeremy, but unfortunatly it still does not work:

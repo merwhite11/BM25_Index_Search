@@ -1,0 +1,16 @@
+Lightkurve nan values after bin light curve
+
+I am using lightkurve 2.0.2 library with Python 3.8.5 and astropy 4.2 for processing exoplanet transits. However when I want to bin light curve to fixed number of points, all values in light_curve.flux except first two are nan. What I am doing wrong?
+The purpose of code bellow is to obtain transit of Kepler-10 a from light curve of Kepler-10.
+import lightkurve as lk  # Import lighkurve package
+
+tp = lk.search_targetpixelfile("Kepler-10", mission="Kepler", exptime="long", quarter=1).download()  # Download target pixel for Kepler-10
+lc = tp.to_lightcurve().flatten().remove_outliers()  # Convert target pixel to light curve
+fold = lc.fold(0.837)  # Fold light curve to period of Kepler-10 a (0.837 days)
+bin = fold.bin(n_bins=101)  # Bin light curve, so it should contains only 101 points.
+
+print(bin.flux)  # [0.99999749 0.99999977 nan nan nan nan nan nan nan ... nan nan nan nan]
+
+lc and fold are valid light curves without NaN values. E. g. fold looks like this:
+
+So if there is any problem, it should be on line with fold.bin. Also, this is not problem only for Kepler-10.

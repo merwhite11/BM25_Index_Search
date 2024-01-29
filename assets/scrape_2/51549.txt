@@ -1,0 +1,9 @@
+How exactly is defined elevation on the Moon?
+
+In a recent image by Pavel Gabzdyl, the highest (+10.7 km) and lowest (-9 km) points on the Moon are marked.
+
+Detailed info about these extremal points can be found at the following links:
+Highest Point on the Moon!
+Great Wall!
+My question is how are elevations on the Moon exactly defined? A 1973 paper on lunar altimetry  made by Apollo 15 and 16 missions defined elevation with respect to a 1738km sphere about the center-of-mass.
+Is the same principle used today? What is the accepted radius of the sphere? How is measured (not defined) center-of-mass of the Moon, and how is that all related to equipotential surface (in analogy with sea level)?

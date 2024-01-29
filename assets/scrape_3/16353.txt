@@ -1,0 +1,5 @@
+How close would merging black holes have to be to feel gravitational waves?
+
+Recently LIGO discovered gravitational waves caused by two black holes that were orbiting each other, and then collapsed into one black hole. A few months later, we find out that this actually happens quite often. However, these collisions are far enough away from Earth that no one can feel the gravitational waves, and it actually takes very precise measurement to even determine that they happen. So my question is, how close would a black hole collision have to be for us to feel the gravitational waves pass through Earth?
+Secondly, is this even possible? As in, would the distance have to be so short that we'd get swallowed up before the black holes collided? And, if we were to feel such gravitational waves, what would they feel like?
+EDIT: Let's say that the black holes have the same mass as Earth, giving their event horizons a radius of about 9 mm (the size of a dime). So two Earth-sized black holes that are stuck in an orbit finally collapse is the scenario here.

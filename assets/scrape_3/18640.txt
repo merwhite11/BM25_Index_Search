@@ -1,0 +1,13 @@
+How could lithium burning take place in a quasi-star?
+
+According to Begelman et al. (2008), one of the most distinguishing features of the hypothetical quasi-star is that it's supported by radiation pressure from the accretion disk of the black hole in its core. The paper suggests that these stars form from Population III stars.
+What's more, while almost all of the star's luminosity is from the accretion disk (which is far more luminous than thermonuclear reactions), temperatures around the central black hole are hot enough for fusion:
+
+Although we do not model the non-hydrostatic region of quasi-stars in any detail, in our case high temperatures are attained in the immediate vicinity of the black hole. However, even in this region the neglect of nuclear reactions is justified, first because black hole accretion is energetically much more efficient than fusion, and secondly because on-going accretion limits the time-scale over which inflowing gas is exposed to high $T$.
+
+That's all fine, but what surprised me is the footnote on the third page:
+
+In the most massive quasi-stars, the central temperature may be high enough (a few million K) to initiate lithium burning. This is energetically negligible, and although the presence or absence of lithium does affect the opacity, the effect is small for the photospheric temperatures and densities of interest here.
+
+Even though this part dismisses lithium burning as an important factor, since it's energy output doesn't compare to that of the accretion disk's, it still mentions that lithium burning can take place. Considering that these form from Population III stars, how is it that much lithium burning can happen in the first place?
+Although lithium is a relatively light atom, it is considered a metal and lithium burning depletes the amount of lithium in a star. Since Population III stars are supposed to be nearly metal-free, shouldn't only hydrogen or helium fusion be a factor here, even if they only have a small effect?

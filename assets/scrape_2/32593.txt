@@ -1,0 +1,6 @@
+Converting the log (Stellar Luminosity/Solar Luminosity) and the log of the plus and minus variation
+
+There are some stars in the NASA Exoplanet Archive that I am interested in but I am confused by the physical meaning of the terms.
+For example, there's a star BD+15 2940 with a log10 of Solar Luminosity of 2.01 +/-0.75 where the variation is also a log.
+So is the linear equivalents 18.2 to 575.44 with most likely value 102.33?
+I went to the citing paper Nowak et al. 2013and they quote it as log L*/LSun 2.01 +/- 0.75 as per the NASA archive.

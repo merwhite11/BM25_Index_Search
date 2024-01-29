@@ -1,0 +1,9 @@
+What is the unit for durations on the AAVSO website?
+
+The AAVSO website has a page for observers with binoculars. On this page, there is a table with stars of interest, and the period of each variable is indicated. However, the unit for the period is not.
+First line of the table:
+
+Name  N/S     AUID    Coords  Const   Type    Period  Mag     Min FOV/ Lim Mag
+EG  And   North   000-BBC-010     00 44 37.19     And     ZAND+E  482.57  6.97 - 7.8 V    180 arcmin/ 9.5
+
+So EG And has a period of 482.57. But what is the unit for the period?

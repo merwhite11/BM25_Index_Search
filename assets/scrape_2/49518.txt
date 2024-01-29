@@ -1,0 +1,5 @@
+Plotting equatorial grid circles onto stereographic projection
+
+I'm trying to find a set of formulae that allows me to plot equatorial grid circles (latitude and meridian sets) onto a stereographic projection of the night sky. I've already worked out how to project stars (i.e. points) onto the circular chart for an observer at a given time and location (thanks to this answer: https://astronomy.stackexchange.com/a/35888), but I'm struggling to work out how to do the same for the equatorial grid.
+I can plot the special case at the poles where the latitude circles are concentric, but I'm struggling to ascertain what the general formula looks like to plot non-concentric latitude circles. I can see that it must take the observer's latitude and translate the circles origin toward infinity on the y-axis (and tend the radius to infinity) in order, for example, to achieve a straight line bisecting the sky when the observer is at the equator.
+Any help would be appreciated :)

@@ -1,0 +1,21 @@
+How does the rock Simurgh Saxum (-25.32°, 4.05°) on 101955 Bennu define its prime meridian and serve as the basis for its coordinate system?
+
+Spaceref's NASA's "Tour of Asteroid Bennu" Selected for Prestigious Computer Graphics Film Festival says:
+
+It's hard to imagine what the surface of asteroid Bennu might look like - it's shortest distance from Earth still 250,000 miles away - but the video "Tour of Asteroid Bennu" brings us on a journey to see this landscape up close.
+On August 9 and 11, 2021, the video produced at NASA's Goddard Space Flight Center in Greenbelt, Maryland, will be featured in the SIGGRAPH Computer Animation Festival Electronic Theater - a high honor for those in the graphic visualization field.
+
+While the graphics are fantastic and the "tour of Bennu's rocks" is illuminating, the narration is... well... mostly serial mythology factoidisms.
+Nonetheless the serial factoids about various rocks on Bennu make it worth a listen.
+
+The first stop is Simurgh Saxum. This prominent boulder defines the asteroid’s prime meridian, and serves as the basis of its coordinate system.
+In Persian mythology, the Simurgh is a large and benevolent bird, and the possessor of all knowledge.
+Saxum is Latin for “stone.”
+
+Question: How does the rock Simurgh Saxum (-25.32°, 4.05°) on 101955 Bennu define its prime meridian and serve as the basis for its coordinate system?
+
+Considering that its 4.05° longitude (shown in the video) is not on the prime meridian, how does it define it?
+Either (at least) a second point is necessary to establish a coordinate system, or the spin axis is used to define poles, which is used in this case?
+
+
+[

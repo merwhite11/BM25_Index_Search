@@ -1,0 +1,9 @@
+Calculate the diameter of a galaxy
+
+With reference to this
+Diameter of any galaxy question.
+I need some help to calculate an estimate for NGC 1792. I need to calculate a few galaxy diameters so looking for help on one to then work out the rest on the others. I know the megaparsec is  15.33 to 2 dp.  https://www.eso.org/public/images/eso0338b/
+What I don't know is the the radians.  I get Angular size from Simbad as
+6.17 3.02 136 (Opt) D 
+
+but which is if any is the radian or how to calculate the radian.  In the answer, Dieudonné says "you can get the actual diameter D from: D = d tan A".  What is D measured in?  Parsec etc?

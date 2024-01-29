@@ -1,0 +1,7 @@
+Existence of planets larger than their host star?
+
+The mass region of objects between ~ 0.5 Jupiter masses and 80 Jupiter masses (gas giants through to brown dwarfs and red dwarfs) is typified by an almost flat relationship with object diameter. There are planets out there which are larger in diameter than some of the smallest stars.
+The smallest (currently fusing) star known, EBLM-J0555-57, is estimated to be slightly larger than Saturn (at about 59000 km radius with 85 times Jupiter's mass).
+One of the largest planets known that isn't a suspected brown dwarf, WASP-79b is estimated to be twice Jupiter's diameter at 0.9 times Jupiter's mass. Many Hot jupiters and puffy planets with similar measurements are known.
+How likely are there to be systems where a planet is larger in diameter than its host star? Are there any examples known?
+I am looking for currently fusing stars only, which rules out pulsar planets, etc.

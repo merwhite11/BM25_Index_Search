@@ -1,0 +1,6 @@
+What is the degree of ionization is the solar photosphere?
+
+I am wondering how many free electrons per baryon and how many free electrons per atom there are in the solar photosphere.  This number depends on the abundances of the various atoms found in the photosphere as well as each atom's ionization potential.
+The book "Introduction to Stellar Astrophysics" by Boehm-Vitense, vol. 2, 1997 reprint, on page 76 claims that one out of every $10^4$ hydrogen atoms are ionized, so hydrogen is mostly neutral in the photosphere; however, there are other heavier elements with lower ionization potentials.  Boehm-Vitense goes through and calculates the fraction of ionization of iron but calculations for only two species present in the photosphere can hardly be considered comprehensive.
+Whether you calculate these numbers yourself or provide a summary of a reference (with a link to that reference if possible) that has more details about ionization in the photosphere it will be appreciated.
+My guess is that, since hydrogen has such a low degree of ionization, the number of electrons per baryon and per atom will be small, since hydrogen is the majority constituent of the photosphere.

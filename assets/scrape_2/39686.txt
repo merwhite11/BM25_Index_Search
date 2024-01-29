@@ -1,0 +1,3 @@
+Intuition about why gravity is inversely proportional to exactly square of distance between objects
+
+What is the intuition behind why gravity is inversely proportional to exactly square of distance between two object and not cube or not some multiplier.  Basically how Newton came up that its exactly square of distance? How it was validated it is in fact square of distance ?

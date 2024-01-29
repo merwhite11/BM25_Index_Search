@@ -1,0 +1,3 @@
+How would one calculate the synodic period between 3 planets?
+
+I don't know if this is the correct term, but how would one calculate the time it takes for 3 planets to lie on the same line?

@@ -1,0 +1,10 @@
+Clarity on dust extinction terms and implementation: $R_V$,$ A_V$, and $E(B-V)$
+
+I have created a model galaxy spectrum using STARBURST99 and want to compare it to an observed spectrum of a particular galaxy. I understand that I need to redden my model spectrum to do this, so I am following the Cardelli et al. (1989) parameterization, which returns $A(\lambda)/A(V)$ for different wavelengths. I understand that the extinction correction in magnitudes is $A_V$, and I know that $$R_V = \frac{A_V}{E(B-V)}.$$
+However I don't know how these terms relate to each other to apply them to my model spectrum (flux density).
+
+I've read that the commonly adopted $R_V$ value for the Milky Way is 3.1, but what is the $E(B-V$) value?
+
+If I want to apply extinction to a model galaxy for both the Milky Way AND the other galaxy's internal extinction, how would I go about this?
+
+For the external galaxy, I have a measured $E(B-V)$ value to use (or does this only apply to the MW extinction?), but in this case I don't know what to use for $R_V$.

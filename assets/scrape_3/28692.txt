@@ -1,0 +1,5 @@
+Is there a name for this type of orbit of a natural satellite?
+
+Is there a name for the orbit of a natural satellite of a planet who's period is the same as the rotational period of the planet, but the orbital motion has the opposite sense than the planet's rotation?
+If there isn't an existing term or name, how would it at least be described, technically?
+How much does the tidal effect affect satellites in a retrograde orbit?

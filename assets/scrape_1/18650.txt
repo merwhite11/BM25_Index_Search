@@ -1,0 +1,4 @@
+Local sidereal time interpretation
+
+I am new to this domain and trying to understanding the fundamentals of local sidereal time.
+Through an online available calculator https://www.iiap.res.in/personnel/reks/software/javascript/calclst.php ,I am noting down the local sidereal time for my longitude of interest. I have repeated the exercise for same time for five consecutive days. What I observe is that the local sidereal time is advancing by 0.06/07 hours per day for the same time.Like 21.88 Hours for current date and time , 21.94 Hours for the same time next day ,22.01 Hours for next to next day and the pattern continues. Kindly let me know how this increment is happening?

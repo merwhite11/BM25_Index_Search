@@ -1,0 +1,5 @@
+How does 67P rotate?
+
+What can be said about 67P/Churyumov-Gerasimenko axial tilt?
+Is it fixed (if so, at what value), only changing with precession (at what rate?) or does 67P "tumble" with axial tilt changing over time? (and if so, at what rate?)
+I'm interested in estimating the 'polar night' area of the comet, and how it changes over time - but without knowing the rotation properties this is quite hard to do.

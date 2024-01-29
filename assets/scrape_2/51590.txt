@@ -1,0 +1,3 @@
+Reduced chi square value
+
+I am currently plotting a continuum of observed data. I need to check the effectiveness of the fitted continuum with the reduced chi-square method. Ideally, should the reduced chi-square value increase or decrease when the polynomial fit increases degree? Like I fit a polynomial fit with n=1 up to n=10 so should I expect a decrease in the reduced chi-square values with increasing n

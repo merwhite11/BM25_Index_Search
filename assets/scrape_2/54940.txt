@@ -1,0 +1,3 @@
+Is the magnetic permeability (mu_0) necessary in the expression for planetary magnetic field?
+
+To numerically analyse the Lorentz effect due to the magnetic field, say, radial component on a charge particles which of the expression would be correct, $\{ B_r = \frac{2R}{r^3} g_1^0 \cos(\theta) \}$ or $\{ B_r = \mu_0 \frac{2R}{r^3} g_1^0 \cos(\theta) \}$ ? Assuming there are no other particles and the particle is in the gravitational and magnetic field of the planet?

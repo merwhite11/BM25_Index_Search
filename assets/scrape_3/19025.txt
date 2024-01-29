@@ -1,0 +1,3 @@
+Is there a MATLAB equivalent of PyEphem?
+
+Many people on the Astronomy stack exchange use the PyEphem  package for the Python  programmimg language to perform astronomical computations.  Are the underlying numerical routines (from XEphem) also available for MATLAB?

@@ -1,0 +1,16 @@
+Serious alternate form of the Drake Equation, or graffiti?
+
+Where I live it is very common to see jackets and T-shirts with familiar yet casually garbled or modified content (example)
+I recently spotted what looked a lot like the Drake equation on the back of a motorcycle, shown in the photo.
+Here is the equation from Wikipedia (more here):
+$$N \ = \ R_* \ f_p \ n_e \ f_l \ f_i \ f_c \ L$$
+and here is what I can make out from the photo
+$$N \ = \ R_* \ f_p \ n_e \ f_l \ X \ X \ L \ B_X$$
+where $X$ represents something I can't read, and note that there is a $B$ at the end that doesn't appear in the Wikipedia version.
+There are also unspecified callouts on the $N, n_e, B$ and the first "$X$".
+The sleeve also contains text which is only partly visible:
+...CATING
+...TIONS
+...ALAXY
+
+Question: Does this representation seem to reflect a serious new or alternate version of the Drake equation, or is it better or more likely characterized as "art" or graffiti?

@@ -1,0 +1,8 @@
+Causes of emission of accretion disk
+
+As far as I can see, there are two main sources for the emission of energy from an accretion disk:
+
+release of gravitational potential energy of the infalling matter;
+friction from differential rotation within the disk.
+
+How much of the emitted energy is due to each process? For that matter, are there any other processes that contribute to the spectrum?

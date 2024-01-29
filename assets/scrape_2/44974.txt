@@ -1,0 +1,4 @@
+Calculate the habitable zone of a star based on NASA Exoplanet Archive
+
+I am completely new to this! I am trying to find if an exoplanet in the Exoplanet Archive is the habitable zone of its host star. My intention is to create a new boolean column in a Pandas Dataframe to see if the particular exoplanet resides in the habitable zone of its host star.
+I do not mind limiting myself to single main-sequence stars.

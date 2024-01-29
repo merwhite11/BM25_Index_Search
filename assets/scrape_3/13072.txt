@@ -1,0 +1,3 @@
+Number of galaxies per redshift
+
+Does exist something like a distribution of number of galaxies per redshift interval? I'm studying galaxy formation and evolution, and I'm curious to know how many todays' galaxies (with redshift <0.01 I would say) we see.

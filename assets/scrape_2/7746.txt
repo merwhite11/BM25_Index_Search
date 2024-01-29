@@ -1,0 +1,11 @@
+How are stellar elemental abundances quoted?
+
+Close to the bottom of page 4 of this article (marked as page 164 in the upper left corner) states 
+
+Values are given in the logarithmic scale usually adopted by astronomers, A$_{e\ell}$ = log N$_{e\ell}$/N$_H$ + 12.0, where N$_{e\ell}$ is the abundance by number.
+
+I have never used stellar elemental abundances in this way, so I want to check a few things.
+First of all, is the logarithm used by this paper log$_{10}$ or log$_e$ (often written ln)?  My guess is log$_e$ because of what follows.
+Let's say I want to calculate the elemental abundance of He relative to H.  I believe the correct math would be to do the following
+$$\frac{\textrm{N}_{He}}{\textrm{N}_H} = \textrm{exp}(\textrm{A}_{He} - 12.0)$$
+Is this the correct way to calculate the relative abundances?  This equation gives a value of 0.343 for the helium abundance relative to hydrogen, which seems to be the correct value for the sun (the sun is usually quotes as being about 70% H and about 25% He, which gives a relative abundance of 0.357).  This correct value is what leads me to believe that the log is log$_e$.

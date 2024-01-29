@@ -1,0 +1,10 @@
+Why do we see a cosmological redshift at all if space is not expanded in our solar system?
+
+It is generally accepted that the large scale redshift of galaxies (as given by the Hubble law) is due to the expansion of the universe. According to this theory, the fabric of space itself stretches during this expansion, hence increasing the wavelength of light (as qualitatively explained at A Model of the Universe).
+However, there is also a general consensus that atoms, objects or systems held together by gravitational forces like our solar system do not take part in this expansion (see If the universe is expanding, does that mean atoms are getting bigger?).
+In terms of the scale factor $a$ of the metric, the redshift $z$ is given by
+$$1+z=\frac{a_{\text{now}}}{a_{\text{then}}}$$
+(see Redshift – Mathematical derivation).
+The above equation for the redshift is derived for a scale factor $a$ that is merely a globally identical function of time, but it should be evident from the derivation that it actually relates the scale factors at the time/location of the emission to the time/location of the observation. We can therefore generalize the equation to
+$$1+z=\frac{a_{\text{now-and-here}}}{a_{\text{then-and-there}}}$$
+So as the fabric of space has not expanded in our solar system since the light was emitted by some remote galaxy (i.e. $a_{\text{now-and-here}}=a_{\text{then-and-there}}$), does this not mean that the light should revert to its original wavelength as soon as it enters our solar system (i.e. there should not be any cosmological redshift observed at all ($z=0$))? If not, why not?

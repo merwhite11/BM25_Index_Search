@@ -1,0 +1,21 @@
+Average velocity of stars in globular cluster
+
+This article explains how to calculate the mass of a globular cluster. The first equation is
+\begin{equation}
+v^{2}_{1D} = \sigma^{2}_{r}
+\end{equation}
+Can someone please elaborate why this is the case? I get that you can measure the radial velocities of many stars and calculate the average their velocity-squared. So, I assume $v_{1D}^{2}$ means
+\begin{equation}
+v_{1D}^{2} = \frac{1}{N}\sum_{i=1}^{N} v_{r,i}^{2} 
+\end{equation}
+where $v_{r,i}$ is the magnitude of the radial velocity for star $i$, $N$ is the number of stars (let's say $N = 10^{6}$).
+Also, if we define $\hat{x}, \hat{y}$ directions to be perpendicular to the radial directions ($\hat{r}$), then
+\begin{equation}
+v_{1D}^{2} = \frac{1}{N}\sum_{i=1}^{N} v_{r,i}^{2}  = \frac{1}{N}\sum_{i=1}^{N} v_{x,i}^{2} = \frac{1}{N}\sum_{i=1}^{N} v_{y,i}^{2}.
+\end{equation}
+Question 1. Then what is the physical meaning of this $\sigma_{r}$ and why is this equal to $v_{1D}^{2}$?
+The second equation also puzzles me.
+\begin{equation}
+v^{2}_{3D} = 3v^{2}_{1D}
+\end{equation}
+Question 2. What would be the definition of $v^{2}_{3D}$ and why does the equation hold?

@@ -1,0 +1,12 @@
+Why is the difference from a perfect sphere the same for the Earth and the Moon?
+
+Wikipedia gives the following physical dimensions for the Moon:
+
+Physical characteristics
+Mean radius        1737.1 km  (0.273 of Earth's)
+Equatorial radius  1738.1 km  (0.273 of Earth's)
+Polar radius       1736.0 km  (0.273 of Earth's)
+
+
+In all cases, the proportion of Earth's equivalent measurement is 0.273. If these figures are accurate, why aren't these numbers (0.273) different from each other at this scale? Obviously, if measured to enough decimal places, differences will appear.
+The Moon has less gravity and rotates at a different speed from the Earth. Why don't these cause variability in the different radius measurements? Do they cancel out? It is a coincidence? Is there something about the Earth-Moon dynamics that means over millions of years these proportions gradually equalise?

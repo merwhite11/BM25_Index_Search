@@ -1,0 +1,8 @@
+Webb data pipeline explanations e.g. using the first five images?
+
+The first 5 stunning results from the Webb Space Telescope are now available!
+And the raw data is available for them, e.g. via bulk download scripts or via the Mikulski Archive for Space Telescopes (MAST) Portal.
+So the initial data pipelines are now in operation.
+Are there any detailed walk-thrus of how the raw data was processed for any of the images or analyses that have been reported? I'd love something that showed how the rawest data looked, then how the many steps functioned to subtract the dark field, apply calibrations, association steps to combine sometimes thousands of observations into a final image and so-on. That would help people appreciate the intricate process involved in this stunning achievement, which relies on computer scientists, as well as rocket scientists, engineers, artists, bureaucrats and of course astronomers.
+After all, thousands of datasets have already been made made available to the public and continue to arrive via the Director’s Discretionary Early Release Science Programs and other programs with no exclusive access for the proposers, and preprints are already showing up from researchers accessing the public archive. The floodgates are open, and the opportunity to drill down into how this works is nearly unprecedented.
+Update: Note that the pipeline I'm talking about goes from raw stage 0 data to the calibrated stage 3 results. There is a separate process for taking monochrome stage 3 results and combining them to get color images, and of course tons more kinds of later combinations and analyses. This question is about the initial Webb pipeline itself.

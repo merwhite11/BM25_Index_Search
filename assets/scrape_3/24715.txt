@@ -1,0 +1,11 @@
+total energy and apparent bolometric magnitude
+
+So I have been given this question:
+
+A typical Type Ia Supernova emits $10^{44}\ \mathrm{J}$. All nuclear weapons
+  tested by humans have released a total of about $2\times10^{6}\ \mathrm{TJ}$ of energy. Assume the Supernova energy is released at the distance of the Sun. Determine how close to your retina the nuclear weapons energy would have to be released to make both appear to have the same apparent bolometric magnitude. 
+
+The issue I'm have is normally apparent magnitudes I would have to have joules per second where this is in just total joules.
+So is it that with bolometric magnitude there is an automatic assumption that when total power is mention you assume joules a second?
+Could someone please advise?
+I would just like to point out I am not looking for a direct answer to this question, I am just confused with why total energy has been used. I have read posts on wiki which seems to confuse me even more. I have just used the above question as an example from a book.

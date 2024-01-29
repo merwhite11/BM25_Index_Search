@@ -1,0 +1,5 @@
+Which is really larger, Big Dipper or Small Dipper, in 3D
+
+If we take the convex hull of the 3D coordinates of the stars in Ursa Major and Ursa Minor: which hull has larger volume?
+This is meant semi-humorous but we might also learn some interesting points from good answers, e.g. which metric to use when mass distorts space or how to measure with respect to frames of reference.
+Update: to those asking about which stars to consider, just choose e.g. the canonical 7 stars of each. But this question is less about one arbitrary number and more about which things to consider, e.g. to show beginners that a bright star is not always close (and the other way around), and that size can be different in 3d than our arbitrary 2d-perspective.

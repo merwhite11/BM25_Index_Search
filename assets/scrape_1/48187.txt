@@ -1,0 +1,9 @@
+How does IXPE measure polarization, and why does it have three identical X-ray telescopes?
+
+From The Observatory:
+
+Anyone who missed any of the AAS 239 press conferences can see them on the AAS Press Office's YouTube channel! Here's the full program.
+
+From there I found the Monday, January 10, 2022 presentation NASA’S Newest X-Ray Eyes: an Update on the Imaging X-ray Polarimetry Explorer (IXPE) by Martin C. Weisskopf, IXPE Principal Investigator NASA/Marshall Space Flight Center
+Below is a screenshot from page 4 which shows a diagram of IXPE and indicates that it has three parallel and identical X-ray telescopes.
+Question: How does IXPE measure polarization, and why does it have three identical X-ray telescopes?

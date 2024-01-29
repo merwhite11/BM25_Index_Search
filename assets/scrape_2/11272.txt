@@ -1,0 +1,3 @@
+Planets and moons positions in cartesian coordinates?
+
+Is there freely available and reliable source, where one can find positions of planets and moons of the Solar system at given time in cartesian coordinates? (I am writing a simple gravity simulator and it would save me a lot of work with conversion.)

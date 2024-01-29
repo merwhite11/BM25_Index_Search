@@ -1,0 +1,7 @@
+When exactly does a sub giant become a red giant?
+
+A simple, but interesting question I think.
+I understand that after the hydrogen exhaustion on the main sequence the post main sequence starts with the SGB where they burn hydrogen in a shell around the Helium core.
+We also know that stars under $ 2 M_{\odot }$ experience a Helium flash and start Helium core fusion after the Red giant tip. Whereas stars greater than $2 M_{\odot }$ do not experience this Helium flash and starting the He-core burning immediately after the SGB without a helium flash (very massive stars burn Helium on the main sequence).
+My question is now what specific physical process happens in a sub giant, which makes it a red giant afterwards?
+I am very open for mathematical/physics explanations as well, since I study physics myself.

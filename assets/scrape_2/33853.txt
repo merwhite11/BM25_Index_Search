@@ -1,0 +1,6 @@
+Why are telescope mirrors made of glass?
+
+Optical telescope mirrors are typically made from endlessly polished glass surfaces that have been aluminised to provide a very smooth surface of reflective aluminium.
+But why the need for glass at all? Why can't mirrors be made of pure metal, or of metal deposited onto some other surface?
+Is there something special about the glass grinding process that means no other surface can be made as smooth and still have aluminium deposited on the surface?
+Or is it to do with the thermal expansive properties of the glass used?

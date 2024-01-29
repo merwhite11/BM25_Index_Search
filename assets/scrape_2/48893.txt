@@ -1,0 +1,10 @@
+How to determine the scale on astronomical images?
+
+I've always been amazed at the many beautiful images of objects in the night sky.  The Andromeda galaxy is a superb example.  But it was only a few years ago that I discovered that Andromeda in those images is about six times bigger than the Moon. It is very very much fainter, of course, but it's actually a huge object in the night sky - covering more than three degrees.
+The image below is NASA's Astronomy Picture of the Day for 2020 September 25 Moon over Andromeda, Composite Image by Adam Block and Tim Puckett.
+
+
+Explanation: The Great Spiral Galaxy in Andromeda (also known as M31), a mere 2.5 million light-years distant, is the closest large spiral to our own Milky Way. Andromeda is visible to the unaided eye as a small, faint, fuzzy patch, but because its surface brightness is so low, casual skygazers can't appreciate the galaxy's impressive extent in planet Earth's sky. This entertaining composite image compares the angular size of the nearby galaxy to a brighter, more familiar celestial sight. In it, a deep exposure of Andromeda, tracing beautiful blue star clusters in spiral arms far beyond the bright yellow core, is combined with a typical view of a nearly full Moon. Shown at the same angular scale, the Moon covers about 1/2 degree on the sky, while the galaxy is clearly several times that size. The deep Andromeda exposure also includes two bright satellite galaxies, M32 and M110 (below and right).
+
+I've been looking at that very recent JWST focussed image of a test star with the beautiful diffraction pattern and the faint sprinking of background galaxies. Again, there's no scale. I'm guessing from the diffraction pattern arising from that vertical boom that the largest of those background galaxies is about 5 microradians (that boom looks about 10 cm thick and at 1 $\mu$m wavelength will produce a pattern with $10^{-5}/2$ radians between peaks - about the same size as that largest galaxy).
+What is the scale on the image, officially?  Where is it listed?

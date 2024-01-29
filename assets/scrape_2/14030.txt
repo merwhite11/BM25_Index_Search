@@ -1,0 +1,6 @@
+How do solar winds affect the atmospheric composition and density of planets?
+
+Here is a bit of a newbie question, if you please. 
+The sun is constantly ejecting small particles via solar winds that come into contact with planets and other objects in our solar system. Do these particles contribute to the planets's atmospheres? Or do they do more harm than good? (define: good = contribute).
+Do solar winds contain any larger atoms than helium. For instance, Oxygen? 
+My intuition on this issue is mixed since we have Mars with a very thin atmosphere, but Venus with a very thick atmosphere, neither having a very strong magnetosphere to protect them from solar winds.

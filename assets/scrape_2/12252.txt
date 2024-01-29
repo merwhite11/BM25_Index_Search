@@ -1,0 +1,3 @@
+Inclination in Kepler's laws
+
+So, you can determine the location of an object in an orbit at any given time via Kepler's laws, but how do you determine the orbital inclination at any given point in time?

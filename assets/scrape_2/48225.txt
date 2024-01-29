@@ -1,0 +1,4 @@
+How do telescopes avoid blurry images?
+
+Telescopes rotate with the Earth. If a telescope isn't fixed on something like the North Star then everything in its field of view is moving pretty rapidly, yet photos from these devices are crystal clear.
+I'm very curious how these are taken. The light from distant galaxies is extremely faint - and they must be whizzing by given their relatively minuscule size in the sky. I've been googling this but either I'm asking a very dumb question or it's not easy to find an explanation online.

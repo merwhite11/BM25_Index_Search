@@ -1,0 +1,3 @@
+$v_{GW}$ near a binary star?
+
+In empty space, at large distances from masses and at small amplitudes, GWs propagate at the speed of light. This does not apply near the source, because there is a large mass and the amplitude of the GW is very large. How large is $v_{GW}$ at a distance of 1 AU from Algol? There, two suns orbit each other within 2.87 days.

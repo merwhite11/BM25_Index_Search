@@ -1,0 +1,11 @@
+Data Analysis: Image Sharpening through Posterisation
+
+I had this image, a picture of Jupiter:
+
+I wanted to measure the pixel diameter of Jupiter. As evident, the image is quite blurry, and thus, many value of equally justified pixel diameters can be obtained. To eliminate this I posterised the image (which is technically, quote from Gimp, "designed to intelligently weigh the pixel colors of the selection or active layer and reduce the number of colors while maintaining a semblance of the original image characteristics"):
+
+With the above result, I obtained three pixel diameters of Jupiter (one from each of the coloured circles), and with a little bit of calculation, realised that the yellow circle gave rise to the most accurate value of Jupiter's diameter (which was surprisingly off by less than one percent!). 
+My questions are:
+1) Why is my original image like that? Is it due to some form of light scattering?
+2) Is there a better method of obtaining an accurate pixel diameter than posterising the image
+3) Is the posterised result expected? Are there names that can be given to the three distinct spherical objects (which seem to resemble shadows, like the umbra, prenunbra, antumbra, etc.)? Is there a reason why the middle posterised object gives the most accurate value?

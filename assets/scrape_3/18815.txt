@@ -1,0 +1,6 @@
+Stellar catalogues stars in specific sky regions – without downloading the catalogs
+
+I’m interested, to give a scientific realism to a project I’m working on, in finding a picture of all stars belonging to a star catalogue such as Tycho 2 or Hipparcos for some very specific sky regions.
+Since I have little time available, I’m wondering whether there’s a quicker way (maybe online?) than downloading the whole catalog and browsing through it via some dedicated software.
+Thank you
+D.

@@ -1,0 +1,7 @@
+The question regarding ZTF20acigmel space event detection
+
+I have a question re аrXiv preprint article:
+https://arxiv.org/pdf/2110.05490.pdf
+It describes the detection of a space event, dubbed ZTF20acigmel, which was a massive explosion in a galaxy located several billion light-years from Earth.
+It was recorded in October 2020, then it reached its maximum brightness, but disappeared within a month.
+Should such event generate gravitational wave and if "yes", why it wasn't registered by LIGO/Virgo?

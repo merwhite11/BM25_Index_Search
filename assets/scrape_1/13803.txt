@@ -1,0 +1,6 @@
+Frequency of gravitational wave detection
+
+You may have heard in the news that the LIGO experiment recently detected a gravitational wave.
+Though I'm not an astronomer, the paper is a good read and mostly accessible. The detection of the gravitational wave is one thing, but the black hole merger is quite new to me. From the data I could collect in the paper and this site, the source is estimated at 1.3 billion years, and the chirp lasted only a few milliseconds.  
+My question: what is the frequency of events of this size order?
+Is there any estimate of the density of such events in the universe?

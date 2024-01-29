@@ -1,0 +1,3 @@
+Relation between core mass and red giant mass?
+
+Yes, the title might be confusing (I'd appreciate some more clarification on it :D ). I have an estimated mass of hydrogen in the core of a star, and how much hydrogen will be in the core when the star leaves the main sequence. Is there a relationship between these or a defining or approximate equation, and are there any known values for given overall mass of a star?

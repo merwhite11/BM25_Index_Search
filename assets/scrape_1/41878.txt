@@ -1,0 +1,3 @@
+Why don't we detect planets around OB stars and no terrestrial planets around A or early F stars?
+
+Looking at an exoplanet database, I noticed that there are very few planets detected around main-sequence OBA stars, and most of them are gas giants/brown dwarfs. Why can't we detect low-mass planets around these stars?

@@ -1,0 +1,8 @@
+Medium sized Black Holes
+
+For many years the existence of medium sized Black Holes (IMBH$^1$) have eluded scientists. BH of several times the mass of our sun have been found, as well as SMBH with millions of sun masses. SMBH's and small ones mass grows with time, as matter gets transferred to the accretion disc and later gets absorbed or by merging. Quoting a paper from 2018:
+
+Although many IMBH candidates have been identified, none are accepted as definitive; thus, their very existence is still debated.
+
+My question is: If we know BH grow, where are the medium sized Black Holes? How come small sized ones are easier to spot than medium ones? Why is their mere existence being debated on?
+$^1$ For the purposes of this question we could define an IMBH to be one of mass between about $10^2$ and $10^5$ solar masses (https://en.wikipedia.org/wiki/Intermediate-mass_black_hole).

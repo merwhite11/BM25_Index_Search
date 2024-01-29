@@ -1,0 +1,5 @@
+What are the equations for an orbit with time as parameter?
+
+I am preparing a talk on the Equation of Time, and I want to produce an animation of the movement of the earth around the sun, in an exaggerated ellipse, to illustrate the speeding up and slowing down in different parts of the orbit. Ideally I would like to have x and y as functions of time, e.g x = f(t) and y = g(t). Accuracy is not the prime consideration, a reasonable approximation will do.
+I will use a Processing sketch to produce the animation.
+Can anyone please tell me what these equations are?

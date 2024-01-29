@@ -1,0 +1,19 @@
+healpix: creating isometric tiles for flat map of survey
+
+I am currently tasked with creating a visual of a recently completed survey which is in HEALPix1 format. I am also required to use the DSS and Planck skymaps also in HEALPix, and would like to flatten the sky across an image which can be scrolled.
+I found HIPS which is a python module which does projections and stitches tiles together depending on the below parameters:
+
+width, height (in pixels)
+RA, DEC
+icrs or galactic frame
+fov
+projection (of which there are 28)
+
+Am I to assume that since healpix has equal pixel area in the sky, so generating tiles at intervals between {0, 360} and {-90, 90} at say 45 degree fov using a particular projection will give me tiles that can be stitched into a large 2D image?
+So far I've tried the aitoff projection which does not work, and am looking at cylindrical or mercator but I am not an astrophysicist so would like some pointers.
+note: I've read the HEALPix primer (linked below), and it makes sense from flat to spherical, but the other way around will create warps unless one uses some affine transforms.
+
+
+documentation
+The HEALPix Primer
+https://healpix.jpl.nasa.gov

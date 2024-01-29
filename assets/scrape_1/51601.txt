@@ -1,0 +1,5 @@
+Proportion of dark energy, dark matter, matter
+
+According to the article "Dark Matter" https://en.wikipedia.org/wiki/Dark_matter the current Lambda-CDM model estimates the total mass-energy content of the universe consists of 68.2% dark energy, 26.8% dark matter, and 5% baryonic matter.
+Are there accuracy estimates for each of these quantities (perhaps derived from observational errors, such as measurement errors of the Planck spacecraft)?
+Are there hypotheses which try and explain why this particular distribution (or something close to it) makes sense? To the extent that the hypotheses are based on observed quantities, can we derive goodness-of-fit estimates for them -- do these fit within the accuracy estimates of the energy proportions in Lambda-CDM?

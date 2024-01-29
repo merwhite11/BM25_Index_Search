@@ -1,0 +1,5 @@
+Observatory control software
+
+I'm setting up an observatory and I'm wondering what user-facing software would be best to use in terms of hardware control. There is a German mount, dome, focuser, filter wheel, various switches etc. All devices have / will have ASCOM drivers. For simplicity I'm setting up the operator PC to run Windows, but that is not set in stone (yet).
+I have tried MaxIm DL and found it a pleasant surprise with all features it has available (e.g. dome slaving or autofocus).
+What are some other software packages that I should try before deciding on (i.e. buying) one?

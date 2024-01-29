@@ -1,0 +1,10 @@
+How to calculate true equinox position?
+
+I'm trying to calculate the state of the Earth at a given time using Keplerian orbital elements from this page. It has the following instruction:
+
+
+Compute the coordinates, $\mathbf r_{ecl}$, in the J2000 ecliptic plane, with the x-axis aligned toward the equinox:
+
+
+So after this calculation we are supposed to know direction of some equinox. But there exists the phenomenon of precession of equinoxes, so this direction shouldn't in general be fixed. I assume the equinox mentioned in that document is some "mean" equinox for the range of dates the data are valid for.
+So, how do I calculate the true equinox position/direction, given these data?

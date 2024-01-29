@@ -1,0 +1,9 @@
+Do neutron stars have something like a gamma-ray photosphere? Are gamma rays from below it limited more by the nuclei or electrons?
+
+@RobJeffries' answer to Is there evidence of super-heavy elements in the x-ray and gamma-ray spectrums of neutron stars? includes the sentence:
+
+However, the only things that contribute to a neutron star's observable spectrum are materials within a few cm of the neutron star surface.
+
+and that reminds me a little bit of the Sun's photosphere. For our Sun, visible photons produced below the photosphere don't make it out, at least not without their spectrum being altered by scattering.
+I think a similar thing can be said about the X-rays and gamma rays from inside a neutron star.
+Question: Do neutron stars have something like a gamma-ray photosphere? Are gamma rays from below it limited more by the nuclei or electrons?

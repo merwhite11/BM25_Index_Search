@@ -1,0 +1,10 @@
+How many Supernovae have been Imaged in the Hubble Ultra-Deep Field?
+
+The Hubble Ultra-Deep Field is an image showing about 10.000 galaxies:
+2
+Image Credit: NASA
+Consider Victor Buso's spectacular discovery of an early supernova in NGC 613 (named SN 2016gkg):
+4
+Image Credit: Carnegie Institution for Science/Las Campanas Observatory/UC Santa Cruz
+This got me wondering about how many supernovae the Hubble Ultra-Deep Field may contain without us knowing because we would need a light curve or reference image to identify one with certainty. Some supernovae also would be only a pixel or less and impossible to identify.
+Is it possible to calculate a meaningful lower bound?

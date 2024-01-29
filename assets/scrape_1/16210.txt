@@ -1,0 +1,7 @@
+Luminosity L(t) for a homologously contracting star
+
+I'm dealing with a homologously contracting star with Mass M, Radius R and a gravitational binding energy of 
+$E = -a GM^2 / R $ 
+(a is a constant). 
+I was looking for a way to find an expression for L(t), the luminosity as a function of time. Unfortunately, my attempts using time derivatives have not taken me far. 
+Thank you for your help!

@@ -1,0 +1,9 @@
+How is the roll of the Hubble telescope around its axis and the dispersive direction(s) of it's spectrometer(s) managed?
+
+Reading Dupree et al. 2020 Spatially Resolved Ultraviolet Spectroscopy of the Great Dimming of Betelgeuse (also in arXiv and summarized in Phys.org's Hubble finds that Betelgeuse's mysterious dimming is due to a traumatic outburst) it finally dawned on me that at least in the UV Betelgeuse is so big and close that it can be barely resolved by a single 2.4 m aperture in space, at least in the UV!
+At 280 nm the Rayleigh criterion is 29 mas and the star's disk is probably 1.5  times larger than that (~44 mas). Of course the paper's spatial resolution applies to the much larger halo of material around the star.
+Figure 3 shows the visible and UV continuum disks and the orientations of the 25x100 mas slit and dispersive direction for each of the observations discussed. I noticed that for all except one the dispersive direction was at either about +90° or -90° relative to the star's rotational axis, but one of them (2019 Nov 28) was off by roughly 36° from the average of the other seven (also see Table 1).
+Questions
+
+How is the roll of the HST around its axis and the dispersive direction(s) of it's spectrometer(s) managed? Can observers request any orientation as a standard part of their observing time, or is a special request necessary and a penalty in time and/or cost for not using whatever orientation the telescope is in at the time?
+Is there any hardware that can rotate the spectrometer's dispersive direction relative to Hubble's axis internally, or does one always need to specify the orientation of the whole spacecraft?

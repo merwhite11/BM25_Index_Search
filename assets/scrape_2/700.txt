@@ -1,0 +1,22 @@
+Why don't Neutron Stars form event horizon?
+
+Trying to compare density of Black Holes and Neutron Stars I came up with the following:
+
+A typical neutron star has a mass between about 1.4 and 3.2 solar masses1[3] (see Chandrasekhar Limit), with a corresponding radius of about 12 km. (...) Neutron stars have overall densities of 3.7×10^17 to 5.9×10^17 kg/m^3 [1]
+
+and
+
+You can use the Schwarzschild radius to calculate the "density" of the black hole - i.e., the mass divided by the volume enclosed within the Schwarzschild radius. This is roughly equal to (1.8x10^16 g/cm^3) x (Msun / M)^2 (...)
+The value of the Schwarzschild radius works out to be about (3x10^5 cm) x (M / Msun) [2]
+
+Let's take a neutron star from the top of the spectrum (3.2 Msun) and same mass black hole.
+Converting units:
+
+Neutron star: 5.9×10^17 kg/m^3 = 5.9 × 10^14 g/cm^3
+Black hole: 1.8x10^16 g/cm^3 x (1/5.9)^2 = 5.2 x10^14 g/cm^3
+
+The radius of the black hole would be (3x10^5 cm) x ( 5.2 ) = 15.6km
+The 3.2Msun Neutron Star of this density would have volume of 1.08 x 10^13 m^3 which gives radius of 13.7 kilometers
+According to Shell Theorem, spherical objects' gravity field strength at given distance is the same for spheres as for point masses so at the same distance from center of same mass (point - black hole, sphere - neutron star) the gravity will be the same.
+That would put the surface of the neutron star below the surface of event horizon of equivalent black hole. Yet I never heard about even horizon of neutron stars.
+Either I made a mistake in my calculations (and if I did, could you point it out?) or... well, why?

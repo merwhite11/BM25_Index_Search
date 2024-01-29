@@ -1,0 +1,6 @@
+How did Parker Solar Probe take what looks like 2D cross-sections of the solar wind in photographs; high contrast streaks in focus from volume effect?
+
+The new NASA Goddard video NASA's Parker Solar Probe Touches The Sun For The First Time shows what looks like they might be photographs of the solar wind.
+I'm having a hard time understanding how such clear 2D images can be taken of a 3D volume effect. I see high contrast bright and dark streaks and other structures as if a 2D slide was taken, but the camera doesn't have a narrow depth of focus on large scales and I assume these are kilometer or larger structures.
+So I'm confused by these images.
+Question: How did Parker Solar Probe take what looks like 2D cross-sections of the solar wind in photographs? How can we see high contrast streaks "in focus" from a presumably volume effect?

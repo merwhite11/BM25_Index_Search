@@ -1,0 +1,3 @@
+Evolution of galaxies with time
+
+I am doing an Introductory course in astrophysics UG level. I have studied that mass of the gases ($M_{gas}$) decreases with time as new stars are formed but mass of stars ($M_{star}$) doesn't increase because stars die out too. What about the dark matter halo ($M_{halo}$)? Does its mass increase or decrease over time?. Also how do $M_{gas}/M_{halo}$ and $M_{star}/M_{halo}$ change as the galaxy ages?

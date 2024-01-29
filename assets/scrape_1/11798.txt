@@ -1,0 +1,3 @@
+Unbelievably high masses/ densities in NASA website data
+
+In May, I did my own amateur analysis of Kepler data that was supplied here. This was a table of all confirmed "Kepler planets" to date (April 1, 2015). This table had some unbelievably high masses/densities listed in the first column after the planet designation (ie: planets of Kepler- 23, -24, -25, -27, -28, -32, -39, -48, -52, -54, -57, -58, -59, -60 and others). I didn't take these seriously, but would like to know if there was a "units" error or something I am missing. To give you an idea, Kepler-23b is given a radius of $1.9 R_{\text{Earth}}$ and a mass of $254.3 M_{\text{Earth}}$ - and that's nothing compared to some others. I checked just now and the data is the same.

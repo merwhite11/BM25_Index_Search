@@ -1,0 +1,8 @@
+Gamma ray detection for SETI. How far away could we detect an alien nuclear powered rocket?
+
+I suspect our best bet for finding advanced civilisations is to look for gamma rays characteristic of nuclear/antimatter propulsion.
+If an alien civilisation was using something similar to the Orion drive, how close would they have to be for us to be able to detect the gamma rays?  
+In my mind, this question has two parts:
+What are the magnitude/frequency limits on the gamma ray telescopes in orbit? (Specifically Fermi, assuming that has the best detection capabilities of an orbital gamma ray observatory)
+What's the magnitude and frequency profile on, say, a 1 megaton nuclear bomb? 
+I've had a bit of trouble finding these out myself from a casual search, and am wondering if maybe there are military secret issues surrounding the detection of gamma rays.

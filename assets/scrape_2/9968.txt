@@ -1,0 +1,6 @@
+Fourier Transform of Galaxy Images
+
+I'm working on detecting optically overlapping galaxies for future astronomical surveys. I'm looking into feature extraction for HST images and have been computing the fourier transform of images in the hope to construct a metric signifying overlapping vs non-overlapping light profiles.
+For example, I have the following image after having filtered out noise:
+
+I've been having trouble trying to interpret the results after taking the fourier transform, taking the magnitude of each element, and then plotting the logarithm of the magnitude.

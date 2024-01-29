@@ -1,0 +1,21 @@
+Derive LOSVD from galaxy spectrum, using fourier method
+
+I am trying to implement a programm, that derives the kinematics (specifically the kinematic parameters: mean rotation velocity, velocity, dispersion, hermite coefficients h3 and h4) from an elliptical galaxy spectrum. I know this has been implemented in many ways, the most common one in recent times beeing ppxf, but I want to do it for educational purposes.
+I started by working with a spectrum(variablename = spec) of a K2III star (since they are quite common in early type galaxies), I removed the continuum of the spectrum and rebinned it to a logarithmic wavelength size. Then I created an artifical galaxy spectrum (variablename = spec_gal), by broadening my stellar spectrum with a gaussian losvd with a dispersion of 200 km/s. I therefore just calculated the convolution between the stellar spectrum and the losvd using np.convolve().
+spec_gal = np.convolve(losvd_gauss, spec, mode='same')
+
+
+
+Why do the flux values become so small when I convolve the losvd with the spectrum, it should just broaden the absorption lines, shouldn't it ? I suppose that is because I multiply small values of my losvd with the spectral values.
+As a small test, I know wanted to obtain back my losvd from the synthetic galaxy spectrum using fourier transformation. Since convolution is multiplicative in fourier space I thought, I could just calculate the fourier transforms of my spectra using scipy.fft().
+spec_fourier = fft(spec)
+spec_gal_fourier = fft(spec_gal)
+
+And derive the losvd in fourier-space by dividing my galaxy spectrum in fourier space by the stellar spectrum.
+ losvd_fourier = spec_gal_fourier/spec_fourier
+
+I have plotted the np.abs() values of my fourier transformed spectra
+I thought i could recover my losvd by just performing the inverse fourier transform using scipy.ifft().
+losvd = ifft(losvd_fourier)
+
+Which is not giving me the correct result (see last plot below) and i would be grateful for remarks, comments and hints on possible errors in theory and implementation.

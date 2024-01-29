@@ -1,0 +1,7 @@
+Why is cosmological redshift treated as a different phenomenon to doppler redshift?
+
+I understand that the expansion of the universe causes unbound structures to move apart from each other. This means that unbound structures have negative relative momentum due to universal expansion.
+When a photon was emitted from a galaxy that was receding relative to Earth at the time of emission due to expansion, the momentum it had relative to Earth at the time of emission would have been proportional to the relative (to Earth) momentum of the mass from which it was emitted at the time of emission. Since the momentum of a photon is inversely proportional to its wavelength, this would have resulted in a longer wavelength. And if the momentum of that photon was conserved during its journey through empty space, then it would also have that longer wavelength at its time of arrival on Earth.
+If this is true, then the redshift we see represents the recession velocity of the emitting mass relative to Earth at the time of emission. Furthermore, if we see more redshift per unit distance at longer distances (as I believe we do), it simply indicates that the rate of expansion was greater further back in time than it is now, so the expansion of the universe is decelerating over time. That's logical.
+But I am told by Cosmologists that there is another reason for the redshift. Space itself is expanding over time and the doppler effect I described, although quite logical to me, is actually not applicable to this scenario.
+Why is that?

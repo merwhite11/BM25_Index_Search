@@ -1,0 +1,12 @@
+The sun "burns" hydrogen and even has "campfires" on it, but has anyone calculated a rate of actual chemical burning on the Sun?
+
+Answers to Hydrogen burning vs Hydrogen fusing explain that in astrophysics "burning" generally refers to nuclear fusion or at least nuclear reactions1, and information at
+
+Why didn't we see those campfires on the Sun until now?
+What could be the cause of solar "campfires"?
+
+explains that those are astronomical nicknames for very small bright bits of plasma recently discovered on the Sun, not actual fires.
+But in the Sun's atmosphere there may (or may not) be opportunities for chemical reactions. Certainly in some cool stars the atmosphere even makes dust.
+Question: The sun "burns" hydrogen and even has "campfires" on it, but has anyone calculated a rate of some actual chemical burning on the Sun? Any oxidation reactions at all? If not our Sun, is oxidation simulated for some other stellar atmospheres?
+
+1it's hard for me to think of two protons "fusing into a diproton", later beta-decaying for example; feels more like a nuclear reaction, but maybe that's just me.

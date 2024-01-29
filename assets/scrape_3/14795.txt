@@ -1,0 +1,8 @@
+Why aren't ground-based observatories using adaptive optics for visible wavelengths (circa 2016)?
+
+Adaptive Optics (AO) techniques allow ground based observatories to dramatically improve resolution by actively compensating for the effects of Astronomical Seeing.
+The atmospheric effects are quite variable in both time and location. A parameter called Isoplanatic Angle (IPA) is used to express the angular extent over-which a given wavefront correction optimized for one point (usually a guide star, artificial or natural) will be effective. As an example, Table 9.1 in this Giant Magellan Telescope resource shows values for IPA scaling almost linearly (actually: $\sim\lambda^{6/5}$)  from 176 arcseconds at a wavelength of 20 microns to only 4.2 arcseconds at 0.9 microns. 
+This suggests an IPA of 2 to 3 arcseconds for visible wavelengths, which taken by itself is not a killer limitation.
+However, it seems almost all currently active AO work is done exclusively in various infrared wavelengths, apparently down to 0.9 microns but no further. (AO is also implemented computationally to array data in radioastronomy.)
+Is this because the observed wavelength needs to be longer than the guide star monitoring wavelength? Because it is simply much harder and there is always Hubble above the atmosphere for visible work so it's not worth the extra effort, or is there another more fundamental reason?
+I'm not looking for speculation or opinion, I'd like a quantitative explanation (if that applies) - hopefully with a link for further reading - thanks!

@@ -1,0 +1,5 @@
+How to plot 68% contours?
+
+I am doing a grid search of omega_Matter vs Omega_dark_energy by iterating over ranges of both and determining the chi-squared to determine the optimal value of both for a LambdaCDM model. I have my grid of omegaM and OmegaDE but I am trying to plot contours at a 68% confidence level and am at a bit of a loss at how to go about doing this.
+I am using matplotlib to generate an NxN grid to which the axes correspond to omegaM and omegaDe values and the coordinate points on the grid correspond to the chi-squared of those values. I am then trying to plot a contour plot around the minimum chi-squared value. For now i am using plt.contourf but this doesn't generate specifically 68% confidence contours and therefore I was wondering if there was a specific package in python that did this.
+Any help/advice would be greatly appreciated.

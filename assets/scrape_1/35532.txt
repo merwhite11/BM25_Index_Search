@@ -1,0 +1,4 @@
+Visible satellites real time position API
+
+I'm trying to obtain the azimuth and elevation of all (or at least the majority) visible artificial satellites from a given latitude and longitude. Is there a quite stable API that does that for free? I found some APIs that track particular satellite event, ISS passes and so on, but nothing about what I'm looking for.
+This should run on an ESP8266 board, so I can't afford to store positions database or a large ephemeris and do to calculations on it.

@@ -1,0 +1,6 @@
+Source for Identification of Balmer Hydrogen Absorption Lines
+
+I'm working on an assignment, where I have to classify stars using the raw data of the telescope. I'm now trying to calibrate the pixel to armstrong ratio, and for that I need to identify the absorption lines present on the star.
+I've been researching for two days now, and I haven't been able to find a 'trustworthy' source of information/confirmation on where to set the Balmer absorption lines for a star like the one in the image (I'm positive H alpha (the one at the far right), beta (on top) and gamma (i would say the one at the left of H beta) are quite prominent).
+
+So far, I am trusting on this page to do it. Is there a real source of info, be it a book, an institutional webpage or something, where I can confirm and that I could reference for an assignment? Am I wrong on the position of the Balmer Series?

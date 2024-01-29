@@ -1,0 +1,21 @@
+Conversion of UBVRIJHK magnitudes to luminosity?
+
+So, I know that the standard for conversion from bolometric magnitude to luminosity established in 2015 equates to:
+L = 10^(-0.4 * magnitude) * 3.0128e28
+
+Easy enough. But what does one do about luminosities in specific bands? I've seen some information that makes it look like it should be something like:
+U: 10^(0.4*(5.61 - U-band magnitude)) * 3.828e26
+B: 10^(0.4*(5.48 - B-band magnitude)) * 3.828e26
+V: 10^(0.4*(4.83 - V-band magnitude)) * 3.828e26
+R: 10^(0.4*(4.42 - R-band magnitude)) * 3.828e26
+I: 10^(0.4*(4.08 - I-band magnitude)) * 3.828e26
+J: 10^(0.4*(3.64 - J-band magnitude)) * 3.828e26
+H: 10^(0.4*(3.32 - H-band magnitude)) * 3.828e26
+K: 10^(0.4*(3.28 - K-band magnitude)) * 3.828e26
+
+But I'm not sure about these, because I've seen varying figures from varying sources for the magnitude of the sun in various bands.  I'm trying to extract the luminosity values from PARSEC data.
+Speaking of PARSEC data, the documentation is rather lacking, so any clue about the following fields?
+McoreTP: Sounds like it should be something about core temperature, but the value is usually either 0, or something small like "0.546"
+Mloss: Presumably mass loss, but there's no units!  But I can probably work out the units just by comparing how star masses change over time....
+Tau1m: ??? Usually 0.00, but sometimes something small like "0.06"
+Cexcess: ??? Generally "-1.000", but sometimes things like "7.356".  Note that there's an entirely separate field for Xc, which is clearly carbon mass fraction.

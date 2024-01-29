@@ -1,0 +1,7 @@
+Should I fit a function to this lightcurve?
+
+I am creating a light curve for the duration of a binary system in order to find out the duration of the eclipse. I am unsure as to whether to fit a function to the data (is it appropriate) as by fitting the function I am expressing that I think that the data lies within this region.
+I was thinking of maybe doing the fit piecewise but I am unsure if I should even fit it at all. Any reading material or help would be great. I just need a pointer in the right direction.
+I've attached two images. One plot without a fit and one plot with a cubic function fitted to the graph.
+Many thanks in advance,
+Owen.

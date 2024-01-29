@@ -1,0 +1,22 @@
+What is the exact reason for the Sun's differential rotation to occur?
+
+The following is an excerpt from the Wikipedia article for "Differential Rotation":
+
+Differential rotation is seen when different parts of a rotating
+object move with different angular velocities (rates of rotation) at
+different latitudes and/or depths of the body and/or in time. This
+indicates that the object is not solid. In fluid objects, such as
+accretion disks, this leads to shearing. Galaxies and protostars
+usually show differential rotation; examples in the Solar System
+include the Sun, Jupiter and Saturn.
+The cause of differential rotation
+Stars and planets rotate in the first place because conservation of  angular momentum turns random drifting of parts of the molecular cloud that they form from into rotating motion as they coalesce. Given this average
+rotation of the whole body, internal differential rotation is caused
+by convection in stars which is a movement of mass, due to steep
+temperature gradients from the core outwards. This mass carries a
+portion of the star's angular momentum, thus redistributing the
+angular velocity, possibly even far enough out for the star to lose
+angular velocity in stellar winds. Differential rotation thus depends
+on temperature differences in adjacent regions.
+
+Can you please explain the cause of differential rotation described above in a very simple way?

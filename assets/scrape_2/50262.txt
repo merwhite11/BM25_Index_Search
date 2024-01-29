@@ -1,0 +1,5 @@
+Would it be possible to create a telescope from a hanging reflective cloth?
+
+A chain suspended on two points hanging under gravity forms a curve called a Catenary, which can look pretty similar to a parabola. I'm not sure if this generalizes to the two dimensional case where an inextensible, flexible cloth is hanged from and within a circular rim, but assuming it does:
+If that material were made to be reflective could it be used (possibly in combination with a secondary mirror (of which shape?)) as a telescope?
+After all, non-parabolic mirrors seem to be frequently used as primary mirrors (and corrected by some secondary mirror).

@@ -1,0 +1,4 @@
+If two stars collide, what is the probability that they merge to form a single star?
+
+After looking at What are the odds that the Sun hits another star? and answering it (crudely), now I'd like to ask the following:
+What is the probability that if two stars collide, their cores merge to form one larger, more massive star?

@@ -1,0 +1,7 @@
+Kaggle dataset for Photo-Z estimation?
+
+I would like to use the dataset for this kaggle but the competition was private, is closed and I have been unable to contact anyone directly.
+The challenge is machine learning for photo-z estimation from u,g,r,i,z magnitudes. Out of curiosity, I would like to apply an ML technique not apparent in code samples submitted to the competition.
+Photo-z estimation is the process or method of estimating the redshift (z) of an object based solely on its brightness, or magnitude, through various colour filters (u, g, r, i, etc.). This is desirable because sky surveys typically collect all such magnitudes for distant* objects automatically; this is quick and efficient, whereas measuring the spectroscopically red-shift requires particular attention, i.e. more effort and more time. Consequently, photo-z estimation can provide more redshift values for a given investment of effort, which is important for generating observational statistics.
+(* We are talking about cosmologically distant here, objects nearby, in our local group of galaxies for example, don't have a "cosmological redshift)
+Does anyone know whether the data set is available elsewhere?

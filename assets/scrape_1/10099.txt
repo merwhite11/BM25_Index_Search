@@ -1,0 +1,3 @@
+How to calculate the new orbit after a instantaneous change in a well defined initial one?
+
+Say one has a simple two body system (and one body is much more massive than the other, for example a star, planet system) where all the quantities about it are know, that is the eccentricity, masses, perihelion, etc. Now, at some point in the orbit defined by the polar coordinates at that point, there is a instantaneous change in velocity. Now, the question is what will be the new orbit of the object around the other body? What are all the components of that orbit such as eccentricity, perihelion. Can the system even be solved exactly or only analytically?

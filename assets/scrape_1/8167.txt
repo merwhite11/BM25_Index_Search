@@ -1,0 +1,6 @@
+Visibility of earth from moon during day-time of moon
+
+Inspired by this question. I am curious whether earth, besides being nearly fixed on one place on the moon's sky, is it visible during the day-time on moon too?
+My understanding is that earth should be visible as moon has no atmosphere. Also, if the NASA didn't edit the following photograph, it suggests that the day-time sky of moon is all black and earth should be visible in it.
+
+I think, Stellarium don't take into account the atmosphere once you are on other planet.

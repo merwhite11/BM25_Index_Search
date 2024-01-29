@@ -1,0 +1,7 @@
+If getting shined on by a gamma ray is an extinction level event how do we detect them?
+
+Cosmic gamma ray bursts are seriously powerful and do a lot of damage. So how did we measure gamma ray frequencies without getting fried?
+I have two possible explanations:
+
+We never detected them directly but calculated their frequency from secondary radiation from the surrounding gas that was ionized.
+We get a direct hit but the source is so far that beam divergence will be large enough for only a few photons per square meter to hit us, so there's not enough energy to be destructive.

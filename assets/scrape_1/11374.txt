@@ -1,0 +1,4 @@
+Reference for equation of state?
+
+I am a post graduate studying mathematics and currently working on the mathematical theory of stars though not an expert. When I am making some assumption about the equation of state (for a star or sun of course), I simply sum up the radiation pressure, idea gas pressure and degenerate pressure together as I believe this choice is an appropriate approximate. But when someone ask me why, I am kind of stuck, even thought some of the lecture note posted online supports my guess.
+I am wondering, is there any standard text book introducing something like this? I know Chandrasekhar's book has already told something, but it looks like it did not really state that I can simply sum all the pressure together linearly.

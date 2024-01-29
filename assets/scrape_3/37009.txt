@@ -1,0 +1,5 @@
+Why Comet C/2020 F3 Neowise returns even it's orbit is near- parabolic?
+
+I have read in Wikipedia about  Comet C/2020 F3 Neowise that it's orbit is near-parabolic. But in another section, it says that it is a non-periodic comet whlith orbital period ranging from 4500 years to 6800 years.
+My doubt is how a comet returns back if it is in a parabolic orbit and why it is non-periodic?
+Here is the Wikipedia link: https://en.m.wikipedia.org/wiki/C/2020_F3_(NEOWISE)

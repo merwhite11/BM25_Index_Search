@@ -1,0 +1,20 @@
+spider image in Samuel Oschin Schmidt Telescope DSS imagery
+
+I was puzzled by image artifacts that appear in DSS-2 (blue) survey.
+These images were taken by the Samuel Oschin Schmidt Telescope on photographic plates and later digitized. They are also available via the Stellarium DSS layer and can be found in the Stellarium web version too (e.g. search for TYC 1327-245-1 and zoom in).
+In some images, one can even find a string of such artifacts, obviously resulting from the scanning process of the sky.
+They look like images of the spider construction.
+In example 1,4, a streak contains one such artifact; maybe a processing artifact?
+In example 2, one will find a string of such artifacts (bottom right, outside the image; the image is limited to 60'x60', but there are several artifacts that run along a line, each about a degree apart, this is obviously related to the original sky scanning procedure). (Search for HD 44018 and you will find at least three of those on a line).
+What is the optical effect here? Is this a form of stray light? Some form of internal reflection? It's a bit surprising seen the fact that these images were taken by professional users. The artifacts have a specific shape that probably reflects the original plate construction in the focus plane. Does anyone have a picture of that?
+Some examples:
+
+https://stdatu.stsci.edu/cgi-bin/dss_search?v=poss2ukstu_blue&r=6h19m24s&d=21h4m29s&e=J2000&h=60&w=60&f=gif&c=none&fov=NONE&v3=
+https://stdatu.stsci.edu/cgi-bin/dss_search?v=poss2ukstu_blue&r=6h17m29s&d=20h48m26s&e=J2000&h=60&w=60&f=gif&c=none&fov=NONE&v3=
+https://stdatu.stsci.edu/cgi-bin/dss_search?v=poss2ukstu_blue&r=6h18m10s&d=21h5m10s&e=J2000&h=8&w=8&f=gif&c=none&fov=NONE&v3=
+(RED) https://stdatu.stsci.edu/cgi-bin/dss_search?v=poss2ukstu_red&r=13h18m39s&d=29h11m6s&e=J2000&h=60&w=60&f=gif&c=none&fov=NONE&v3=
+
+for those interested, a few links to the web version of Stellarium where these artefacts appear (there is a small bug that prevents sharing URLs of stars that contain spaces)
+
+https://stellarium-web.org/skysource/V537Lyr?fov=0.82770&date=2021-05-05T20:55:44Z&lat=51.04&lng=3.71&elev=0
+https://stellarium-web.org/skysource/HD43509?fov=0.95220&date=2021-05-06T20:59:08Z&lat=51.04&lng=3.71&elev=0

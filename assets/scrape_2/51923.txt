@@ -1,0 +1,8 @@
+Empirical Constraints on the Time Evolution of Cosmological Redshifts
+
+The standard model of Cosmology predicts that the redshift of a single source at fixed comoving distance varies with observation time according to
+$$ \dot z = \left( 1+z - \frac{H(z)}{H_0} \right) H_0.$$
+(see e.g. this answer or this paper). For all commonly observed redshifts (say, up to $z \sim 10$), the factor in parentheses has order of magnitude at most $\sim 10$, so that
+$$|\dot z| \lesssim 10 H_0 = 1000h  \frac{\text{km/s}}{\text{Mpc}} = h \cdot \frac{10^{-9}}{\text{yr}},$$
+which is exceedingly small. Theorists have been discussing this rate of change, its utility, and the fact that it's generally out of experimental reach (though perhaps it's recently become doable with an experiment on the timescale a decade or so?) for a while. I have not found sources discussing empirical bounds on such a quantity, however.
+So, I'm seeking references for what kind of observational constraints exist-- how closely has the redshift of a particular source been investigated over time? Evidently any variations can't be too large, or else we'd clearly have noticed. Have the rates of change for some particular sources been rigorously assessed, presumably giving upper bounds on $|\dot z|$? If so, in which studies has this been done?

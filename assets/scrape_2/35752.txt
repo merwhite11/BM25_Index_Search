@@ -1,0 +1,20 @@
+Calculating distance of comet C/2019 Y4 (ATLAS)
+
+SO, I decided I would take some pictures of the comet C/2019 Y4 last night. Afterwards, I thought I would try and do a rough estimation of distance based on my observations. I don't have any fancy measuring tools, so a few approximations were made, but my result was way off. I've clearly done something wrong and was hoping someone could point out where I have gone wrong and correct me. 
+So, I basically layered my first picture over the second in photoshop and marked the start and end position over the course of 1 hour. 
+
+I apologise for the poor photo, the exposures were short and I haven't done any processing as I was only interested in the position. 
+So,to me, it looks like it has moved approximately he same distance as the 2 stars to the right. These are TYC 4360-0254-1 and TYC 4360-1679-1 according to Sky Safari Pro.
+I used the measurement tool in the app to measure the distance in arc-minutes, which gave me 1'55.1"
+I converted this into degrees using Google, which gave me 0.0258333333 degrees. 
+I then decided to work out the approximate distance between my start and end points by using my latitude to work out the speed the earth was rotating (cos(latitude) x 1670) which I found HERE. 
+My latitude is approx 50.82N, so I got my speed at 1055.04km. I used that as a distance. I now have a triangle with a base of 1055.04km and a top angle of 0.02583 degrees. 
+I turned this into a right-angle triangle by putting a line down the middle. I can now work out all 3 angles. I have 90, 0.010129 (half the original angle) and 89.987 (90-0.010129) I also have an opposite, adjacent and hypotenuse. I only know the adjacent which is half my original distance (527.52km), and I want to find the Opposite.
+Using SOHCAHTOA, I can say tan(89) = opp/adj, thus opp = 527.52 x tan(89.987) which gives me 2,324,974.545km. 
+Sky safari gives a distance of 153.1 million km.
+So where did I go wrong? Was it because of poor approximations? I know that the linear distance for the adjacent side isn't quite accurate because of earth curve, and I know the comet was also moving, and I know my measurement of the start and end position wasn't too accurate, but I was hoping to at least get within 10%, so I think I must have gone wrong somewhere in my method, rather than poor approximations.
+I do hope I have put enough effort in for this to be considered a good question. I have tried re-measuring and double checking, but if there is any other info people need, then by all means, ask and I'll do what I can
+EDIT
+Because of the comment by barrycarter, I realised I had forgotten the movement of earth itself. As this is approximately 107207km/h, I included this in my calculations and ended up overshooting and getting 238,577,507km. 
+So, I made tiny adjustments to my parallax angle, and if I change this slightly, then I get very different answers. 
+Based on that, is it possible my crude measurement of the parallax angle is to blame?

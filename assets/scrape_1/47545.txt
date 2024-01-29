@@ -1,0 +1,7 @@
+Where is it possible to observe the Moon for 24 hours?
+
+I wrote an astronomy olympiad yesterday and there was one task I couldn't figure out an answer to:
+
+Estimate at what latitudes it is possible to observe the Moon for at least 24 hours.  Under what conditions is it possible to observe the phenomenon at border latitudes?
+
+Is it possible at all to observe the Moon for such a long time?

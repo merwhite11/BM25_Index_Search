@@ -1,0 +1,16 @@
+Why are we so quick to proclaim the geological inhospitability of other planets based on extremely minimal information?
+
+Now, I'm not questioning claims that any planet in the Solar System is atmospherically or externally inhospitable, but claims made that other planets have geology that is extremely hostile to colonization (or even, in the case of Venus, further exploration).
+Some of these claims are:
+
+Mars's core is frozen.
+Mars has no recent volcanic activity.
+There are no large deposits of carbonates or other carbonaceous minerals/materials on Mars.
+The total quantity of water on Mars is less than 1% that on Earth.
+A perchlorate layer covers the entire Martian surface.
+The soil of the Moon, Mars, and Venus would need to be massively modified to support plant life.
+Venus was volcanically resurfaced in its entirety.
+There are never any breaks in Venus's cloud layer, no matter how small or infrequent.
+
+Judgements like this seem very premature given our lack of hard data, especially that of direct measurements of rock strata. For instance, about the first claim, only one functional siesmometer has been sent to the surface, which has only been there for a year and lacks any impact tests, and the only instrument sent to measure internal heat has so far malfunctioned. The 2nd and 7th claims are almost exclusively based on crater counts, which can give tremendously different age values depending on the expected impact rate. The 3rd is based exclusively on remote sensing methods unable to identify underlying strata, the 5th is based on a handful of landings, and the 6th has been called into question by research old and new. For the 8th, no modern space mission has even carried the instrumentation required to confirm this (that is, a high-resolution visible-light camera). All of these seem only possible to confirm or deny with much more extensive exploration, especially on and under the ground.
+So, then, what am I missing, if anything? Why is it acceptable to make judgements like these off the information we have? I mean, imagine if a textbook of Earth's geology was writen solely on the observations of a handful of satellites as well as 9 pseudo-randomly-dispersed geologists allowed only a couple tens of kilograms of shallowly-penetrating tools and analysis devices (some defective) each, of which 5 of them are buried up to their knees in rock.

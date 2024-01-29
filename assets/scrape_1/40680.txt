@@ -1,0 +1,11 @@
+Launch windows for Venus transit; how to convert heliocentric longitudes to date?
+
+Being a bit familiar with celestial mechanics, I know that the Hohmann transfer orbit is the quickest way to transfer between two circular orbits of different radii around a central body in the same plane. JPL's Let's Go to Mars! Calculating Launch Windows explains the geometry and offers a very intuitive guide how to calculate the travel time to Mars, and this can easily be repeated for Venus.
+Just for fun, I would like to mark all launch windows for a travel to Venus on a calendar, similar to the list compiled by Don P. Mitchell
+1991, Jun 5     Unused Type I window
+1993, Jan 5     Unused Type I window
+1994, Aug 9     Unused Type I window
+1996, Mar 20    Unused Type I window
+1997, Oct 15    Cassini flyby   
+
+Question: I have a probably minor (astronomical) issue: I am struggling how to convert heliocentric longitudes into real dates? I guess I am missing the English terms here. I would appreciate a small reminder how to proceed.

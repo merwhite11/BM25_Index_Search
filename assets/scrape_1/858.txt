@@ -1,0 +1,6 @@
+What is the ultimate fate of a cluster of galaxies?
+
+We're fairly aware clusters of galaxies drift apart due to space expansion, which will drive them out of each other's cosmic event horizon eventually, leaving them separate, alone, each a single "body" within its local observable universe with no means to communicate or influence other clusters.
+The clusters themselves are held together by gravitational binding that keeps them from being internally torn apart by space expansion, at least assuming density of dark energy doesn't increase drastically eventually.
+What will happen to the cluster though? At first I assumed its black holes will swallow all its available matter, and connect into one single, lonely black hole. But then, neither are black holes ultimately eternal, due to Hawking Radiation, nor do they swallow all the stars, supposedly most stars escaping their gravity well.
+Well then, what current theories say a local cluster of galaxies will transform into as t→∞ ?

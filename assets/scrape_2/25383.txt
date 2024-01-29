@@ -1,0 +1,3 @@
+Determining line ratios in planetary nebula
+
+I know that the line strength ratio tells us how hot the electron plasma in a nebula is, and also give information about the electron densities in the nebula. But how do you compute the line ratios? Say we consider two emission lines (both forbidden) decaying to the ground state. If I have the Einstein A coefficients and the statistical weights, how do I compute the line ratios? Any explanation (preferably with examples) will be highly appreciated.

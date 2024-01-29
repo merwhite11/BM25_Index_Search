@@ -1,0 +1,3 @@
+Exoplanet rotation period
+
+Is there any way through which we could determine the ROTATION period of an exoplanet based on the data we observed?(from transit)

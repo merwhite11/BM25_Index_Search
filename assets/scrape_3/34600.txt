@@ -1,0 +1,3 @@
+Derivation of the orbital parameters of a exoplanet discovered by direct imaging
+
+I wonder which orbital elements of a exoplanet can be found only applying direct imaging. I know that the angular separation combined with parallax can give us the semi-major axis, but what about the other elements? Is it possible? And what about the mass or the radius of the planet (given known mass and radius of the star)?

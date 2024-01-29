@@ -1,0 +1,9 @@
+How long is the sunrise (or sunset) on North (or South) Pole?
+
+I wonder how to calculate the duration of the Sun crossing the line of the horizon on equinox on Pole. For equator I used this formula:
+$t = \frac{2 \times p}{\cos(\phi) \times u}$, where $u$ - is velocity of the Sun in the sky ($15'$ per minute), $p$ is Sun's visual diameter ($30'$), $\phi$ - latitude of observer
+On equator everything is easy:
+$\cos(0) = 1$
+But on Pole:
+$\cos(90) = 0$, but I can't divide by zero.
+Is there any other formula?

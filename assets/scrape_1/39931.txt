@@ -1,0 +1,59 @@
+Discrepancy between my results of Great Conjunction 2020 and Wikipedia
+
+Using python-skyfield to calculate the upcoming conjunction of Jupiter and Saturn. I'm off a few minutes with the times on Wikipedia.
+Wikipedia Great conjunction times (1800 to 2100)
+Using Right Ascension:
+
+Dec 21,2020 13:22:00 UTC - Wikipedia.
+Dec 21,2020 13:34:33 UTC - My Calculation.
+
+Using Ecliptic Longitude:
+
+Dec 21,2020 18:37:31 UTC - Wikipedia
+Dec 21,2020 18:20:40 UTC - My Calculation.
+
+from skyfield.api import load, tau, pi
+from skyfield.almanac import find_discrete
+
+planets = load('de421.bsp')
+sun = planets['sun']
+earth = planets['earth']
+jupiter = planets['jupiter barycenter']
+saturn = planets['saturn barycenter']
+
+ts = load.timescale(builtin=True)
+
+def longitude_difference(t):
+    e = earth.at(t)
+    j = e.observe(jupiter).apparent()
+    s = e.observe(saturn).apparent()
+    _, lon1, _ = s.ecliptic_latlon()
+    _, lon2, _ = j.ecliptic_latlon()
+    return (lon1.degrees - lon2.degrees) > 0
+
+def longitude_difference1(t):
+    e = earth.at(t)
+    j = e.observe(jupiter).apparent()
+    s = e.observe(saturn).apparent()
+
+    jRa, _, _ = j.radec()
+    sRa, _, _ = s.radec()
+    return (sRa._degrees - jRa._degrees) > 0
+
+
+longitude_difference.rough_period = 300.0
+longitude_difference1.rough_period = 300.0
+
+print()
+print("Great conjunction in ecliptic longitude:")
+t, b = find_discrete(ts.utc(2020), ts.utc(2021), longitude_difference)
+for ti in t:
+    print(t.utc_jpl())
+
+print()
+print("Great conjunction in right ascension:")
+t, b = find_discrete(ts.utc(2020), ts.utc(2021), longitude_difference1)
+for ti in t:
+    print(t.utc_jpl())
+
+Can anyone verify the correct UTC time?  Is there a bug in my code?

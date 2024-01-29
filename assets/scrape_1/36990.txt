@@ -1,0 +1,17 @@
+What could be the cause of solar "campfires"?
+
+NASA/ESA Solar Orbiter mission just released its first images. They show an ubiquitous feature: miniature flares called "campfires", much smaller than solar flares.
+
+(click to enlarge)
+
+A high-resolution image from the Extreme Ultraviolet Imager (EUI) on ESA’s Solar Orbiter spacecraft, taken with the HRIEUV telescope on 30 May 2020. The circle in the lower left corner indicates the size of Earth for scale. The arrow points to one of the ubiquitous features of the solar surface, called ‘campfires’ and revealed for the first time by these images. © Solar Orbiter/EUI Team/ESA & NASA; CSL, IAS, MPS, PMOD/WRC, ROB, UCL/MSSL
+
+ESA press release goes:
+
+The scientists do not know yet whether the campfires are just tiny versions of big flares, or whether they are driven by different mechanisms. There are, however, already theories that these miniature flares could be contributing to one of the most mysterious phenomena on the Sun, the coronal heating.
+
+NASA press release says:
+
+It’s not yet clear what these campfires are or how they correspond to solar brightenings observed by other spacecraft. But it’s possible they are mini-explosions known as nanoflares – tiny but ubiquitous sparks theorized to help heat the Sun's outer atmosphere, or corona, to its temperature 300 times hotter than the solar surface.
+
+So these campfires could be the cause of coronal heating, but what could be the cause of the campfires themselves? I understand that it might be a bit too early to ask this question, as these campfires have just been discovered, but I am eager to know if some people have theories about what could be going on.

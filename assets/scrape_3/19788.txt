@@ -1,0 +1,12 @@
+Is cosmic shear generally agreed to have been observed?
+
+A review by Martin Kilbinger, 2015 says:
+
+Cosmic shear is the distortion of images of distant galaxies due to weak gravitational lensing by the large-scale structure in the Universe. Such images are coherently deformed by the tidal field of matter inhomogeneities along the line of sight.
+
+As a rough analogy: imagine looking at an image full of galaxies through a rippled piece of glass. While a circular lens might make a galaxy look smaller or larger, a ridge would have a preferential direction of magnification, and the galaxies under that ridge would have a statistical tendency to have slightly different sizes on average parallel vs perpendicular to the ridge.
+Is such a phenomenon generally agreed to have been observed yet? Are there any plots (of any kind) that show such experimental data?
+
+If I take this rough analogy one step further, while the peaks and troughs of the ripple magnify and demagnify, the midpoints between would be more prismatic - they would tend to deflect the centers, or locations of objects systematically, rather than affect the shapes. Applying this to cosmic shear, wouldn't the existence of shear essentially suggest that - to put it simply - stuff is, in fact, "not quite" where it appears to be?
+
+above: from Free Ripple and Frosted Glass Overlays, Bojan Živković.

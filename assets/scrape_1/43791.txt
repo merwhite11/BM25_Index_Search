@@ -1,0 +1,5 @@
+Any examples of a gas object temperature from Doppler broadening along one axis turning out to be wrong because velocity spread was not isotropic?
+
+Discussions under Mass of the stellar cluster (not the whole galaxy) lead me to mention that when an actual temperature is inferred from a Doppler-broadened line profile (rather than just a linewidth expressed as an effective temperature), we assume that the Maxwell-Boltzoman velocity distribution in the directions perpendicular to the line of sight is the same as that the one measured along the line of sight.
+Have there been any examples of this kind of assumption turning out to be invalid later? Some situation where the distribution of velocities turned out to be substantially anisotropic?
+I'm not asking for examples of anisotropic velocity distributions, I'm asking for a case where it seemed like a good assumption at the time, but later it turned out something more interesting was going on and the line-of-sight Doppler width did not represent the spread in perpendicular velocities.

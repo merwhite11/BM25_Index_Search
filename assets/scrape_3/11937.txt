@@ -1,0 +1,5 @@
+Gaia: What is the difference between CCDs used for astrometry, photometry, and spectroscopy?
+
+My knowledge of CCDs is that these are sensors which collect photoelectrons. That's about it. 
+What is a difference between CCDs used for astrometry, spectroscopy, and photometry? As an example, each type of CCD is currently used by Gaia. 
+Recommendations of where else to read about this at a detailed engineering level is appreciated. Thanks.

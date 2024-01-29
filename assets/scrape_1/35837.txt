@@ -1,0 +1,11 @@
+Can the interferometer called "Gravity" measure "a few centimeters on the Moon"?
+
+Phys.org's Very Large Telescope sees star dance around supermassive black hole, proves Einstein right links to several ESO videos, including Interview with Reinhard Genzel (in English). After 08:51 in the video professor Genzel says:
+
+So we take four 8 meter class telescopes of the European Southern Observatory, the Very Large Telescope in Chile, and combined it optically to an equivalent 130 meter telescope, and the bigger the telescope, the better the resolution.
+So with this interferometer, called Gravity, we can measure basically a few centimeters on the Moon if you like, and that gives us the precision to really you know nail the motion of a star around a black hole.
+
+To the question Is seeing the apollo moon Landers via earth telescope that hard? I recently wrote Yes, it still is. and then asked Will the Magdalena Ridge Optical Interferometer be able to image extended objects like the surface of the Moon?, but if Gravity can resolve a few centimeters on the Moon then it should be capable of photographing all of the Moon landing sites.
+Question: Did professor Genzel mis-speak, perhaps meaning that the resolution is a few centimeters at the distance of the International Space Station, or does Gravity at least theoretically have a resolution of a few centimeters at the distance of the Moon?
+I know that three orders of magnitude is fairly small for astrophysicists, but since the reference is The Moon and there's stuff on it that we'd like to see, in this case enquiring minds want to know!
+FYI there is also Interview with Reinhard Genzel (in German); it might be interesting to compare.

@@ -1,0 +1,3 @@
+What magnitude stars are visible during a quarter moon, during nautical twilight?
+
+Assuming I'm looking for stars at least 50° from the quarter moon, is there any way to determine what magnitude stars would be visible to the naked eye, in a sky without light pollution, during nautical twilight? (Nautical twilight occurs when the geometric center of the Sun's disk is between 6 and 12 degrees below the horizon.)

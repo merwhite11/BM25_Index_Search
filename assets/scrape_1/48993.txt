@@ -1,0 +1,13 @@
+Is there a better explanation of this picture showing the very distant star "Earendel"?
+
+
+"Close-up of the tiny region where Earendel happened to fall right on top of the narrow line where the magnification increases by (tens of) thousands of times. A cluster of many stars is seen slightly offset from the line, resulting in a much smaller magnification but instead being mirrored by gravity. Credit: NASA/ESA/Brian Welch (JHU)/Dan Coe (STScI)/Peter Laursen (DAWN)" from phys.org.
+The photo has been annotated by way of an explanation, but it's still not very clear to me what's going on.
+There is a well-defined faint diagonal arc of light with several 'lumps' in it. Three lumps are labeled "Mirrored star cluster" and one is labeled 'Earendel'. The center of the arc is far beyond the top left corner of the image.  This is presumably where the lensing galaxy cluster is centered. Do those bright objects in the top left have anything to do with this?
+Why does it appear as an arc with blobs in it? Is it because the lens itself is a bit bumpy?
+Then what about the red "magnification line"? This seems to be associated with the bright foreground(?) galaxy just below the center of the picture. The line forms a horseshoe loop around it. Is this an estimated line along which the field from the background galaxy cluster and the field from the foreground galaxy conspire to focus along two dimensions (more like a regular lens) and create a brighter more-familiar image of any object that happens to fall on that line?
+Looking forward to a good explanation!
+[Edit to augment @pela's excellent answer below]
+
+Cross section and ray-tracing to illustrate caustic formed as rays are bent by the gravitational field from the foreground galaxy cluster. The lens is effectively cylindrical  -  rather like a long, thin, lumpy sausage bent around the galaxy cluster.
+(BTW I spent far too long making this picture!)

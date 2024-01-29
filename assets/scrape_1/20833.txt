@@ -1,0 +1,7 @@
+Are the distances between two celestial bodies the distance of their centers?
+
+For example, the average Sun-Earth distance is 1 AU. Is this
+
+the distance between the center of the Sun and the center of the Earth
+the distance bewteen the surface of the Sun and the surface of the Earth,
+or something else?

@@ -1,0 +1,4 @@
+Stars that don't fit $L=4\pi R^{2}\sigma T^{4}$?
+
+When calculating luminosity/radius/temperature for several stars, I've noticed that while the majority of stars conform to the luminosity relationship $L=4\pi R^{2}\sigma T^{4}$, there are a few that don't. Take 8 Ursae Minoris. As far as I can tell it has a luminosity 56 times that of the sun, a radius of 8.5 solar radii and an effective temperature of about 5000 K. When I substitute those numbers in they don't match. The math isn't wrong so I can only assume either the data isn't reliable, or maybe there is a certain class of stars that don't conform to that relation. I don't know enough astronomy to determine which is correct, but I suspect obtaining a reliable luminosity value for some stars could be the problem.
+Does anyone know the answer to this riddle?

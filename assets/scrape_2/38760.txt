@@ -1,0 +1,3 @@
+Convert pulsar data to sound
+
+I have a filterbank data (say name.fil) which I have dedispersed and stored into name.dat file using PRESTO. May I ask for detailed steps and explanation on how to convert that data to sound?

@@ -1,0 +1,9 @@
+Why are ice giants not considered suitable for life?
+
+Ice giants are currently not considered suitable for life due to temperature, pressure and composition.  This paper gives some parameters for life in regards to temperature, pressure and composition:
+
+Temperature: $-15\ ^\mathrm{o}C$ to $122\ ^\mathrm{o}C$
+Pressure Upper Limit: $1,100\ \mathrm{atm}$, and 
+Composition to Include: liquid water, $C$, $N$, $S$, and $P$.  
+
+I'm trying to find out what the conditions of the hot dense ammonia/water mantle border with the hydrogen/helium atmosphere are, in regards to temperature and pressure. We know the mantles are under very high pressures, have liquid water (though in a likely different state due to pressures), C, N and S. What are the pressures and temperatures at this mantle border?  Specifically in reference to Uranus and Neptune.

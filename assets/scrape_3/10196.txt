@@ -1,0 +1,3 @@
+Mass resolution
+
+Can someone define mass resolution in terms of cosmological simulations such as the millennium simulation? Is it just the smallest mass that a dark matter particle can have and still be detected by the simulation?

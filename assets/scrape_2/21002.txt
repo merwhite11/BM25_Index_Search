@@ -1,0 +1,12 @@
+How to find Greenwich Mean Sideral Time?
+
+I'm writing a program that converts position in the ECI (CIS, EPOCH JD2000.0) coordinate system to WGS 84 (CTS, ECEF) coordinates. To do so, I'm following what's described in this document and implementing C++ code.
+My knowledge of astrophysics is very limited, so I find it hard to understand some terms. Especially, I can't seem to understand properly how the Greenwich Mean Sideral Time is computed, and why I always get different values.
+For instance (assuming time is 2019-01-01 08:00:00 and Julian Date is 2458484.833333):
+
+If I use this on-line GMST calculator, I find that GMST is 14:42:45.3766.
+If I use the expression used in this MATLAB script (showing the value in time, not degrees) I also get 14:42:45.350.
+However, if I calculate it myself with the expression given in the above appendix, I get 06:42:45.379163 (with a clear offset of
+
+According to the equations in page A-26, GMST depends upon the number of Julian centuries (Tu). H0 expression is exactly the same than that of CelesTrak for θ(0h). However, I can't really understand what the du truly stands for, or more specifically, why the document shows du → ±0.5, 1.5, 2.5.... Moreover, to find Λ (which is stated to be in seconds of time) the expressions use values in radians and seconds of time indistinctly.
+Could somebody shed light into this?

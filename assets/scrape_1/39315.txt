@@ -1,0 +1,5 @@
+How to derive the depth in my image (limit Magnitude )?
+
+I saw that some survey said that their depth is 27.5 magnitudes.
+May I ask that if I have a dataset with magnitude and their errors, for example I have J band j_m, j_cmsig, j_msigcom, j_snr from Sextractor.
+How can I derive the 3 sigma magnitude depth in this fields to compare with the other survey.

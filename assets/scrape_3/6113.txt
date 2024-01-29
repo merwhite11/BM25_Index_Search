@@ -1,0 +1,3 @@
+Under Earth's gravitational pull, how dense would an object have to be to reach its Schwarzschild Radius?
+
+The Schwarzschild Radius is a theoretical radius, that if the mass of the object was compressed into that certain radius, the escape speed from the surface of the compressed object would equal the speed of light, therefore creating a black hole. But I wanted to know, under Earth's gravitational pull, how dense would an object have to be to reach its Schwarzschild Radius?

@@ -1,0 +1,4 @@
+Graphics packages for publishing
+
+What are the most popular packages used to create graphs for astronomy journal papers?
+Looking at various journals, the styles of the graphs appear to be quite uniform but I can't identify the package(s) that create them.

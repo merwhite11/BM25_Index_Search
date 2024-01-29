@@ -1,0 +1,11 @@
+Highest frequency that's been imaged by a radio telescope?
+
+In this answer to Should we update definitions and remove the 100 GHz hard limits on radio astronomy related tags? I wrote the following partial answer:
+
+Yes, there are plenty of dishes that focus into waveguides or horns that feed antennas connected to electronic amplifiers using transistor amplifiers connected to heterodyne down-conversion with balanced mixers and then analog-to-digital conversion, where intensity images are produced by interference implemented mathematically in a computer (rather than in wavefronts incident on material producing intensity signals in the form of electrons (CCDs) or phonons (bolometers)) which work up to circa 1,000 GHz, so the 100 GHz limit is obviously wrong!
+
+With the idea in mind that a radio telescope might be defined as using conversion to electrical signals before conversion from amplitude to intensity (image formation), what's the highest frequency where this has been done?
+One number I know is 230 GHz, which was used by the Event Horizon Telescope
+
+The question How does ALMA produce stable, mutually coherent ~THz local oscillators for all of their dishes? suggests this is at least 950 GHz, but I don't know if that's a record or not. Narrow band optical emission could be mixed with a laser in a nonlinear crystal producing a microwave signal that could be detected via radio, so potentially the answer might be visible or near infrared light, but I don't know.
+update: So I've gone ahead and asked this separately: Has optical interferometry been done at radio frequency using heterodyning with a laser in a nonlinear material?

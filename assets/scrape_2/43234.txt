@@ -1,0 +1,20 @@
+Has a gravitational microlensing event ever been predicted? If so, has it been observed?
+
+This answer to Are astronomers waiting to see something in an image from a gravitational lens that they've already seen in an adjacent image? describes "Deja vu all over again" (SN "Refsdal"); after multiple gravitationally lensed images of a supernova were observed with different path lengths an shifted light curves, one more "echo" was predicted then indeed was later observed.
+While that's a rarity, occultations of objects by other objects are regularly predicted, and some of the nearer objects are pretty far, at least in the Kuiper belt. But alas they are not usually very massive.
+Gravitational microlensing events are defined by a peak in a light curve rather than a measurable deflection. From How are microlensing events used to constrain the size of innermost stable circular orbits around spinning black holes?:
+
+
+Example light curve of Gravitational Microlensing event - OGLE-2005-BLG-006 Source
+
+Question: Has a gravitational microlensing event ever been predicted? If so, has it been observed?
+
+Related to stellar occultations by distant objects:
+
+Where and how to look up the coordinates and magnitude of the star in this occultation prediction?
+What is the farthest reported distance from observer from which a solar system body has occulted a star?
+What discoveries have come from the DASCH project (Digital Access to a Sky Century @ Harvard)
+Could stellar occultations be used to survey Kuiper belt objects?
+this answer to Is it possible to mount a telescope on a plane? Is it beneficial?
+What caused this mysterious stellar occultation on July 10, 2017 from something ~100 km away from 486958 Arrokoth?
+Is 486958 Arrokoth (2014 MU69 aka Ultima Thule) the only solar-system object determined to be binary by occultation?

@@ -1,0 +1,17 @@
+How to convert sidereal time to local time?
+
+I came across something that won't let me go, but no matter how much I calculate (which I do not like), it doesn't seem to work.
+Also: I've used so much apps and links already to convert, but it doesn't work in that direction. You see, local time converting to sidereal time = not that hard.
+I need to know the local 'normal' time of my local sidereal time.
+The sidereal time is exactly 13.30h, from that I would like to know the normal local time.
+
+The time zone = Brussels (CET)
+Olson time zone Europe/Brussels
+Time difference: same as Amsterdam and Europe UTC+1
+no summer time at the moment (and what if that was the case, what would the local time be then?)
+Latitude: 50,929315°
+Longitude: 5,337367°
+Address: Grote Markt 18, 3500 Hasselt Belgium.
+
+The reason I need to know this has to do with a sort of awareness I found in ancient writings and books. It has extra power than to meditate, and I would like very much to try this out.
+But of course, I need to know the local time then.

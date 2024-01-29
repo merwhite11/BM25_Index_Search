@@ -1,0 +1,10 @@
+Rewriting the equation for the virial mass of a cluster
+
+I have a question that I don't know how to solve, any help is appreciated.
+Here it is:
+Rewrite the equation for the virial mass of a cluster so that if velocities are entered in km/sec and dimensions in Mpc, the resulting mass is in solar mass
+Well the equation is: $M=\frac{5(v_r)^2R}{G}$ 
+I think I have to use dimensional analysis but I really don't know how to get there
+$$[M]=\mathrm{\frac{(\frac{km}{s})^2 km}{\frac{m^3}{kg \cdot s^2}}}$$
+with one $\mathrm{mpc}$ being $3.09 \times 10^{19} \ \mathrm{km}$
+Thanks in advance :)

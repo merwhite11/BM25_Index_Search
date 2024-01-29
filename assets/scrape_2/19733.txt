@@ -1,0 +1,4 @@
+Determining latitude and longitude in bad weather
+
+In Sobel's famous book 'Longitude', she described the story of Harrison. I still have one question. What if it is cloudy on the sea? In this case, the sailors have nothing to compare with, right? This still means in many many cases, they have no means to determine their position, neither latitude nor longitude, right? 
+It seems that the problem is not so satisfactorily solved.

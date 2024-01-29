@@ -1,0 +1,9 @@
+Why there are three equations governing blackbody emission?
+
+I learnt that the spectrum of a black body can be explained using
+
+Planck distribution
+Rayleigh -Jeans equation and
+Weins displacement law
+
+Can anyone tell me why there are three different equations that explain the same physical phenomena and when should I consider which equation?

@@ -1,0 +1,17 @@
+Non-anthropic, universal units of time for active SETI
+
+Is there a universal time (duration) reference, an intuitive focal point that works for long periods (compared to the Planck time), and can be used as a signal of intelligence?
+Assuming a Kardashev Type III-level civilization can construct its own pulsar, is there a rotation period with which it could signal that it was artificially constructed?
+While the second is now defined as the universally "reconstructible":
+
+The second, symbol s, is the SI unit of time. It is defined by taking the fixed numerical value of the caesium frequency, ΔνCs, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit Hz, which is equal to s−1.
+
+it depends on knowledge that is extremely difficult to come up with independently given only observations.
+Self-synchronizing codes and many kinds of nonlinear modulation schemes exist, but these are likely pretty hard to accomplish on a star-scale.
+What I've seen being proposed so far:
+
+half life times of radioactive nuclides, say harmonics of Carbon-14 or Beryllium-8
+
+the frequency of the 21cm hydrogen line
+
+the rotation periods of unusual objects, such as Sgr A*

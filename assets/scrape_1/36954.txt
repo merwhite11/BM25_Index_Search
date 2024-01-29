@@ -1,0 +1,6 @@
+Converting orbital elements from equatorial reference frame to ecliptic
+
+I have a bunch of orbital elements (inclination, longitude of the ascending node, mean anomaly, argument of periapsis) that are all referenced from an equatorial reference frame. But the program I am trying to use requires the orbital elements in an ecliptic frame. Is there an easy/convenient way to convert between the two frames?
+I also have the RA and Dec for the orbit pole, also in the equatorial frame. I am aware of some rotation matrices that allow me to convert between equatorial and ecliptic frames—should I just apply the matrix to the RA and Dec of the orbit pole? Is there a way to turn that into orbital elements?
+Or should I turn the equatorial elements into a state vector (Cartesian position and velocity) and then apply the matrix to that, and then convert the ecliptic vector into orbital elements?
+What is the easiest way to go about this?

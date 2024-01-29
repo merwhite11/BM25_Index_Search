@@ -1,0 +1,3 @@
+ICRS to CIRS in sofa library
+
+I'm new to astronomy and sofa lib. as you know sofa library give us some function to transform star coordinate between varies reference systems. I want to use iauAtci13() function to transform some star coordinate from ICRS(J2000) to CIRS;  as you know this function get star proper motion and parallax as input parameter. on the other side there is iauAtic13() function that transform star coordinate from CIRS to ICRS. But this function don't get star proper motion and parallax as input parameter.  This is a bit confusing for me. Could someone explain me about this. I will appreciated for any kind of help.

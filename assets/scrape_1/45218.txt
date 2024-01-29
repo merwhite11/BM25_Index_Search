@@ -1,0 +1,3 @@
+How to find published data with the article?
+
+How to find data published with an article, please? For instance, let us consider this paper. There are data products and the link to SIMBAD on the right. Then, the table with objects appears, but there is only one record of magnitude for all objects. Where to find times against magnitudes, please?

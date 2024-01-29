@@ -1,0 +1,3 @@
+How to cool down a moon?
+
+I'm doing an Astronomy project and need to terraform a moon. It is about the size of Mars and orbits a gas giant which is at a distance of 1.28 AU of its star. I though about putting a sunshade at the Lagrange point L1 between the planet and the star, but I don't think that would be consistently cooling the moon (by about 30K). For the purpose of this project, it's surface is mostly water, and the atmosphere is mostly water vapor. Any ideas how to tackle this problem? Any way to raise the albedo, or maybe getting a sunshade to work? Be it at a Lagrange point or in orbit around the moon? I still want to do this project by myself, I could just use an idea or two, maybe some initial help with the calculations. Thanks in advance :)

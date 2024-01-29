@@ -1,0 +1,16 @@
+What would go into the design of a simple sky quality meter, used to measure night sky brightness?
+
+@MCG's answer mentions several methods to classify night sky quality or brightness, and goes on to say:
+
+Additionally, you could always purchase a SQM (Sky quality meter) which is a small, portable battery powered device that you take out to your dark sky site, point it at the zenith, and the screen will display the darkness of the sky. Do beware that the SQM measures in 'magnitudes per square arcsecond' which means the higher the number, the darker the sky.
+
+If I wanted to try to make a diy SQM, I'd need to understand if there was some established standards or practices associated with a sky quality measurement.
+I might try to use a low dark current silicon photodiode in photoconductive or photovoltaic mode, low frequency couple it to a low noise op-amp, then do a cover-on measurement to zero out the leakage then do a over-off measurement to quantify the sky brightness.
+
+What solid angle should it integrate over? Certainly more than one arcsecond, but would it be one square degree, or a 10 degree wide circle for example?
+Silicon covers the visual spectrum and some near infrared as well. Depending on the protective materials over it, it might measure all the way out to a micron. Is that a problem, or is light pollution pretty much in the visible part of the spectrum (for obvious reasons) and I wouldn't need to hunt for an IR-blocking filter like the ones found on imagers for cameras.
+With a single broadband (rather than spectrally resolved) measurement of photocurrent, I could choose a representative wavelength, or assume a flat 400-700 nm emission spectrum, or even make an educated guess about what the spectrum of noise pollution looks like, then use that along with an estimate of say 0.8 e-h pair per photon (roughly the shape of the sensitivity curve below) I could make some estimate on how much light was reaching the photodetector. But how might I convert that to magnitude? I understand the logarithmic scale, but right now I just start with 1300 W/m^2 is magnitude -27 (roughly the Sun's characteristic) as a reference. Is there anything better?
+Anything else I haven't thought of?
+
+
+above: Silicon photodetector typical spectral response, from here.

@@ -1,0 +1,10 @@
+How do they know the non-uniformities seen on the disk of π¹ Gru are real and not artifacts?
+
+@RobJeffries' answer to What is this web on the surface of the Sun? explains why convection cells on some other stars can be far larger than they are on our Sun and includes a near-infrared VLT interferometric image of π¹ Gru from Paladini et al. 2017 as an example. 
+The paper says:
+
+For this purpose, we use the image reconstruction software SQUEEZE14, based on a Markov chain Monte Carlo (MCMC) approach to the regularized maximum likelihood problem. To assess the reliability of the image we also use a different image reconstruction algorithm, MiRa15.
+
+Of course it's likely that the reconstruction is correct, but I'm still wondering how the possibility that the non-uniformities have arisen through some combination of instrumental and algorithmic effects have been minimized.
+Question: How do they know the non-uniformities seen on the disk of π¹ Gru are real and not artifacts? For example, are there similarly generated images of stellar disks of similar angular sizes not expected to have such large convection cells that show more uniform disks? 
+ click for full size

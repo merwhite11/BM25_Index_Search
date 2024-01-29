@@ -1,0 +1,3 @@
+Predicting/simulating magnetospheres of exoplanets?
+
+Based on atmospheric parameters, size, or distance from the star, is there any way to simulate or predict the magnetosphere of an exoplanet? Are there programs (similar to climate models for atmospheres) that can simulate magnetospheres?

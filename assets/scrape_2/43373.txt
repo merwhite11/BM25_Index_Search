@@ -1,0 +1,3 @@
+Why are the wings of many strong lines, including hydrogen lines and most metal lines, stronger in Dwarfs than in Supergiants?
+
+What is the reason? Is it because Dwarfs have higher surface gravity (log g), in turn related to pressure, than Supergiants so there is more contribution from van der Waals and Stark broadening?

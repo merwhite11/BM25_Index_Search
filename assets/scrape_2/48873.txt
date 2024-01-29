@@ -1,0 +1,3 @@
+How to determine the time of periastron passage (T) of a single lined spectroscopic binary?
+
+I am working on finding spectroscopic elements of a single lined spectroscopic binary. All I have is irregularly spaced radial velocity data which needs to be phase folded to plot a velocity curve (RV vs Time from T). For phase folding I need orbital period P and time of periastron passage T. I have determined the period by plotting a Lomb-Scargle periodogram but I'm unable to find a method to determine T. I can use already published value of T for that spectroscopic binary, but I want to learn how to determine T myself. Is there any method to determine T from RV data?

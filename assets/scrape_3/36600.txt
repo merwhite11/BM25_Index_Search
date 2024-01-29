@@ -1,0 +1,39 @@
+trouble installing drizzlepac
+
+I'm trying to install drizzlepac to follow this tutorial on aligning hst images: https://spacetelescope.github.io/notebooks/notebooks/DrizzlePac/align_to_catalogs/align_to_catalogs.html
+However, I get the following errors:
+   ERROR: Command errored out with exit status 1:
+   command: 'e:\ProgramData\Anaconda3\python.exe' 'e:\ProgramData\Anaconda3\lib\site-packages\pip\_vendor\pep517\_in_process.py' get_requires_for_build_wheel 'C:\Users\FAILTZ~1.DES\AppData\Local\Temp\tmpl00kr2fm'
+       cwd: C:\Users\FAILTZ~1.DES\AppData\Local\Temp\pip-install-1l1f4o5x\drizzlepac
+  Complete output (26 lines):
+  Traceback (most recent call last):
+    File "e:\ProgramData\Anaconda3\lib\site-packages\pip\_vendor\pep517\_in_process.py", line 280, in <module>
+      main()
+    File "e:\ProgramData\Anaconda3\lib\site-packages\pip\_vendor\pep517\_in_process.py", line 263, in main
+      json_out['return_val'] = hook(**hook_input['kwargs'])
+    File "e:\ProgramData\Anaconda3\lib\site-packages\pip\_vendor\pep517\_in_process.py", line 114, in get_requires_for_build_wheel
+      return hook(config_settings)
+    File "C:\Users\FAILTZ~1.DES\AppData\Local\Temp\pip-build-env-ey64g5zm\overlay\Lib\site-packages\setuptools\build_meta.py", line 147, in get_requires_for_build_wheel
+      config_settings, requirements=['wheel'])
+    File "C:\Users\FAILTZ~1.DES\AppData\Local\Temp\pip-build-env-ey64g5zm\overlay\Lib\site-packages\setuptools\build_meta.py", line 127, in _get_build_requires
+      self.run_setup()
+    File "C:\Users\FAILTZ~1.DES\AppData\Local\Temp\pip-build-env-ey64g5zm\overlay\Lib\site-packages\setuptools\build_meta.py", line 249, in run_setup
+      self).run_setup(setup_script=setup_script)
+    File "C:\Users\FAILTZ~1.DES\AppData\Local\Temp\pip-build-env-ey64g5zm\overlay\Lib\site-packages\setuptools\build_meta.py", line 142, in run_setup
+      exec(compile(code, __file__, 'exec'), locals())
+    File "setup.py", line 23, in <module>
+      check_call(['git', 'clone', 'https://github.com/spacetelescope/relic.git'])
+    File "e:\ProgramData\Anaconda3\lib\subprocess.py", line 358, in check_call
+      retcode = call(*popenargs, **kwargs)
+    File "e:\ProgramData\Anaconda3\lib\subprocess.py", line 339, in call
+      with Popen(*popenargs, **kwargs) as p:
+    File "e:\ProgramData\Anaconda3\lib\subprocess.py", line 800, in __init__
+      restore_signals, start_new_session)
+    File "e:\ProgramData\Anaconda3\lib\subprocess.py", line 1207, in _execute_child
+      startupinfo)
+  FileNotFoundError: [WinError 2] The system cannot find the file specified
+  ----------------------------------------
+ERROR: Command errored out with exit status 1: 'e:\ProgramData\Anaconda3\python.exe' 'e:\ProgramData\Anaconda3\lib\site-packages\pip\_vendor\pep517\_in_process.py' get_requires_for_build_wheel 'C:\Users\FAILTZ~1.DES\AppData\Local\Temp\tmpl00kr2fm' Check the logs for full command output.
+
+This was using pip within an anaconda prompt. If I try to use conda, it can't find the package.
+I'm extremely new to python, so I'm sure I'm doing something relatively basic wrong! But I've been bashing my head against this for a while.

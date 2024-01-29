@@ -1,0 +1,3 @@
+Is it completely false that the Sun does not revolve round the earth? In what sense?
+
+This is a very naive question but I never fully understood this. For a system of two binary stars moving under the influence of their mutual gravitational forces revolve around their common center of mass. This is the "two-body problem" of undergraduate classical mechanics. However, from the perspective of observer A fixed in star A, star B revolves around it, and from the perspective of observer B fixed in star B, star A revolves around it. None of the observers is preferred. Then in what sense "earth moves around the Sun" is more accurate than the "Sun moves around the earth"?

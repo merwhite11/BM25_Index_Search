@@ -1,0 +1,5 @@
+Identify stars in image from James Webb
+
+This is one of the recent pictures from the James Webb released by NASA. It's a picture of the galaxy cluster SMACS 0723. It locates in the Volans constellation.
+
+I'm trying to identify the stars in this picture. For example, which star does the brightest one in the middle correspond to in the following picture of Volans constellation?

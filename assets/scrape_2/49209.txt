@@ -1,0 +1,6 @@
+Metallicity in gravitational wave astronomy
+
+Metallicity relates to the quantity of elements in an object that are heavier than hydrogen and helium. I often see this terminology in recent studies of gravitational waves such as this paper.
+If I want to study the formation of stars or any other stellar remnants such as (neutron star black hole-NSBH, binary neutron star-BNS), what information do we get from studying metallicity specifically?
+What precisely does metallicity include in astronomy, and why is
+it necessary to study it?

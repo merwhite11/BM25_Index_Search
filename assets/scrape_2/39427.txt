@@ -1,0 +1,21 @@
+Can New Horizons be used to measure the distance to Betelgeuse (despite its fickle photocenter)?
+
+The New Horizons spacecraft is almost 50 AU from Earth and near-simultaneous images taken by its telescope and one on Earth have demonstrated parallax without relying on the movement of Earth in it's orbit.
+The simultaneity is important because measurements of Betelgeuse are confounded by its fickle photocenter†. It's apparent disk is lumpy and nonuniform; the "center of gravity" of intensity of its apparent disk moves around relative to its true center of mass. Simultaneous imaging from two widely separated positions using the same spectral bandpass could be used to try to address that problem.
+Could this be done given what's known about its Long Range Reconnaissance Imager or LORRI and considering that the spacecraft has plenty of time on its hands?
+Recent headlines saying that Betelgeuse is much closer than we thought point to Standing on the Shoulders of Giants: New Mass and Distance Estimates for Betelgeuse through Combined Evolutionary, Asteroseismic, and Hydrodynamic Simulations with MESA which proposes in the abstract
+
+...a new, independent distance estimate of ${168}_{-15}^{+27}$ pc and a parallax of $\pi ={5.95}_{-0.85}^{+0.58}$ mas, in good agreement with Hipparcos but less so with recent radio measurements.
+
+based on extensive modeling and photometric data.
+What's truly remarkable is that I just copy/pasted that blurb and it self-formatted in MathJax, yay!
+New Horizons is currently at X, Y, Z = 14.11, -46.42, 1.67 (AU) relative to the solar system barycenter in J2000.0 with ecliptic as reference plane using JPL's Horizons. I'm hoping that's orthogonal to Betelgeuse.
+
+†fickle photocenter You can try to say that three times fast, but whatever you do, don't say the star's name three times!
+
+Related:
+
+What will it finally take to accurately measure the distance to Betelgeuse?
+What equipment and techniques were used to study Betelgeuse's diameter in 1920?
+How often are radio telescopes used to measure parallax? When was this first done? Currently unanswered.
+Was a “spare LORRI” camera available to take matching image on Earth the same time New Horizons took the parallax image from the Kuiper belt? No conclusive answer yet, I really thought that there was one, and it might come in handy for this.

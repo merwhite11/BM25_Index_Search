@@ -1,0 +1,8 @@
+Generalised planets?
+
+There is somewhat of an abstract way of generalising the notion of planets. 
+Standard definition of planets is, obviously: "planets are the objects formed from the residual material surrounding a newly formed main sequence star through a complex formation process". 
+Let me introduce a bit more general, by no means commonly known, definition of "generalised planets as bound macroscopic objects formed from some former accretion process taking place near some gravitating body over many orbital periods". 
+Clearly, the latter definition is more general, as it doesn't specify the type of accretion event and the type of the central body. Now, for example, the accretion mechanism can be very different from that in protoplanetary discs: consider, for example, accretion on a compact object (a neutron star or a black hole), accrection on supermassive black hole, accretion from remnants of binary neutron stars merger, or any other possible accretion process.
+As noted in some answers, some stars also form in accretion-involving processes in the vicinity of other stars. To avoid including stars into 'generalised planet' category, the definition specifies that the objects should be formed over many orbital periods, implying that they should be sufficiently bound with respect to the primary.
+The question: Are there generalised planets other than planets/exoplanets?

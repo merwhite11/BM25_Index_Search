@@ -1,0 +1,3 @@
+Relation between oscillator strengths $\log{gf}$ and the Einstein $A$-coefficient, rotational quantum number,
+
+I'm analyzing the spectra of M dwarfs. Some authors characterize the lines with the oscillator strengths $\log{gf}$ while others follow different paths with the Einstein $A$-coefficient. I would like to know if there is  relation between the oscillator strengths $\log{gf}$, and the Einstein $A$-coefficient, rotational quantum number J', vibrational levels with the Hönl-London, factors or similar parameters.

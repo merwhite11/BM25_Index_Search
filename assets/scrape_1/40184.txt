@@ -1,0 +1,3 @@
+Is there a luminosity class for brown dwarfs?
+
+I've been reading about brown dwarfs, and checking their spectral types, and I noticed that they do not have a luminosity class (V, VI, etc). So I am wondering, do brown dwarfs have a luminosity class, or is it intentionally absent, or is it defaultly V or VI?

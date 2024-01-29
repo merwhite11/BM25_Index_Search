@@ -1,0 +1,4 @@
+Mass-magnitude relation of evolved stars
+
+In short: what mass is appropriate for absolute magnitude $M_V \sim -7$?
+Some context: I'm processing the observational data (supernova light curve) and curve fitting gives me about $0.4M_\bigodot$ for ejecta mass. However, possible progenitor candidate has $M_V \sim -7$, which, I suppose, points to quite a large star. My background in astronomy is not so good (I was mostly doing theoretical physics, namely nonlinear optics and GR before I got to supernovae), so I'm doubting correctness of either my estimates or progenitor candidate parameters.

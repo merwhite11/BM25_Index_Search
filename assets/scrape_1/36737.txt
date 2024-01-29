@@ -1,0 +1,7 @@
+How to use spectral flux density data while using Planck's law giving spectral radiance?
+
+I'm currently working on a fun project in my free time where I'm trying to calculate the temperature, among other things, of stars based on their spectra. Since I have essentially no prior experience in astronomy, except for quite a strong interest, this may sound like quite a dumb question, but I would appreciate an answer. The data provided from SDSS (Sloan Digital Sky Survey) that I'm using plots the spectral flux density, Fλ, over wavelength, λ. Now my problem is, I'm trying to do a curve fit in Python using Planck's law, (I'm aware that it is also possible to use the proportions between red and blue light, but I first want to see how close I can get using this method) but Planck's law (as below) gives spectral radiance. This means that while the data I'm using is in different units than the numbers I get from Planck's law. Therefore, (as you can see below) they are on greatly different scales. So my question is, how do I fix this? How can I use Planck's law to be able to fit the data? Is there any relationship between units that I have not been able to find? I want to clarify that I have tried my best to find the answer on my own, using Wikipedia and other sources, but my attempts have, obviously, not been rather successful.
+
+The data that I'm using (The y-axis is 10^-17 erg/s/cm^2/Å):
+
+The graphs I have got using Planck's law:

@@ -1,0 +1,6 @@
+Does general relativity imply that singularities cannot exist?
+
+General relativity states that all matter in the universe is moving forward through spacetime at the speed of light. Objects that are stationary in space travel at c along the time axis, and objects moving in space experience time dilation such that, if you combine their speeds in time and space into a single vector, you will always get c. Object don't actually "speed up" or "slow down", they just change their direction in spacetime.
+Singularities exist at the bottom of a gravity well which causes extreme gravitational time dilation. Time is rotated fully into the spatial dimensions and matter that passes the event horizon completely stops moving forward in time. Ergo, matter within the event horizon must travel at the speed of light in space as it falls toward the center of mass.
+And then the mass joins the singularity and just stops, in both time and space. Or in a ringulary, spins around the Centre of Mass at less than c. Either way, the universal constant is broken: matter in the singularity no longer travels at c in spacetime. So either general relativity completely breaks down at the singularity, or there is no singularity and something else entirely happens to the matter as it approaches the black holes center of mass.
+Is my understanding accurate, or am I missing something?

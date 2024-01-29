@@ -1,0 +1,4 @@
+Interfacing FORTRAN programs for model atmospheres with IDL or Python
+
+I'm trying to use model atmospheres such as Kurucz or MARCS for the first time personally and I'm wondering if it is better to wrap it with IDL or Python in terms of writing the code, and getting the values I wanted from the model atmospheres into arrays for printing into tables. 
+Essentially is it better to approach this issue using IDL or with Python, or is it just more of a preferential thing if anything?

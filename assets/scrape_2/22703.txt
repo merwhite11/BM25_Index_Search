@@ -1,0 +1,3 @@
+How bright would Alpha Centauri appear (in apparent Magnitude) if it were 1 light year away?
+
+I'm trying to determine what a star of comparable mass and luminosity to the Sun would look like from the surface of the Earth if it were 1 light year away - I chose Alpha Centauri since it is close to us, and similar to the Sun. Could a star like the Sun be that close without exerting significant influence over it, or would they have an orbital relationship? I'm trying to design a star system for a science fiction novel, and would like there to be a star close enough and bright enough to be visible during the day, and cast a shadow at night, but far enough away to provide no heat energy, and be free from the Sun's gravity.

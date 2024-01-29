@@ -1,0 +1,3 @@
+What does the active area on a typical CCD based detector look like?
+
+Pixel based detectors, particularly optical CCDs like what was used in the SDSS camera, are ubiquitous in astronomy. Is there any dead area on the detectors? Not the obvious gaps between each individual sensor, but on the sensor itself. That is, does a typical detector have any gaps between the pixels from microscopic wires laid on the front, alternating doping regions in the silicon, or just areas where a photon can hit and the photo-electron is unlikely to be collected? What fraction of the area is dead?

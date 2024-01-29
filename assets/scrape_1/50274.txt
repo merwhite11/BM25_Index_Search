@@ -1,0 +1,9 @@
+General questions about SDSS
+
+I'm considering doing research on SDSS spectral classification (STAR, GALAXY, QSO) with machine learning for my school dissertation. Not sure if this is an appropriate place for these kinds of questions, if not please direct me to a better alternative.
+
+Are the SDSS surveys (eBoss, APOGEE2, etc) spectroscopic or photometric surveys? What is the basic difference between these in terms of what the data for each type would look like?
+What method is currently used to classify the spectra? Does the SDSS have ML algorithms of its own? I assume they can't all be visually classified given the sheer volume of spectra.
+Is there a single general unit for the magnitude of the spectra (in terms of brightness I mean). I've read about maggies but not sure which variation of the unit to use.
+
+For some context, I am trying to establish a research niche by targeting dim spectra in particular, hence my interest in the magnitude measures. Any advice which can point me in the right direction would be appreciated, even if you have suggestions for alternative research problems.

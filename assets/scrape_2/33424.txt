@@ -1,0 +1,6 @@
+How to calculate phase angle of a satellite?
+
+I'm making a program for predicting satellite passes. I'm trying to find out if the satellite is illuminated by the Sun and not in Earth's shadow. I need to know its phase angle: the angle between the observer on Earth, the satellite and the Sun.
+Please explain it in simple terms if possible.
+(Inserted by reviewer, extension to question, posted originally as answer)
+I have TLE data for the satellite (contains right ascension). From that I got ECI position, azimuth, elevation, altitude. For observer I have latitude and longitude and for the sun: elevation and azimuth.

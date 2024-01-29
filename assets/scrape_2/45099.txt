@@ -1,0 +1,9 @@
+How can light circle a black hole one or more times and then escape again?
+
+The shadow that is cast by a black hole was beautifully captured by the event horizon telescope. A concentration of light in the photon sphere around the hole (adjacent to the event horizon) gravitationally "lenses" the image seen by the telescope (it looks as if we look from the top at a accretion disc but this image is seen from every direction, more or less).
+Photons involved in casting this shadow can first circle the hole and then continue their travel. This seems counterintuitive. If a mass meets another mass in space and if they have orbited one another a full 360 degrees, then they will continue to orbit. It's not that when they return where they started that they drift of in space again.
+Is it just general relativity at work here, or do I see things wrongly somehow? Can light just make a whole hole orbit first and then continue? In the framework of GR?
+What I mean is: the path of such a photon is drawn as an incoming line, after wich the line continues around the hole, intersects itself, and goes on into space. At the point of intersection the photon appears to have two different momenta. Incoming and outgoing. How come?
+I mean this kind of drawings:
+
+You would expect that if the photon trajectories approach the hole they would evolve from open to ones circling or spiraling down. Like when different trajectories of a mass approaching the sun or end up at infinity again or spiraling  towards the sun. They will spiral towards the sun only if the mass looses kinetic energy by means of grsvitational waves. The trajectory of such a mass is or closed or open. Not a combination. How is this different for photons approaching a black hole? Gets it impulse from the rotation of the hole? What if the hole is not rotating? This is highly unlikely though. Every object in the universe rotates. Even the universe itself maybe.

@@ -1,0 +1,3 @@
+How to shift an AGN X-ray spectrum to rest frame
+
+I have limited information to shift a spectrum (in the X-ray 0.5-10 keV bandpass) from redshift $z=2$ to the rest frame. I have a plot of normalized (photon) counts s$^{−1}$ keV$^{−1}$ as a function of energy (keV). Is there a way to shift the spectrum I have to rest frame? Or do I really need luminosity distance, etc.?

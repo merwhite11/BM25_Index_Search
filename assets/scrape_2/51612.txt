@@ -1,0 +1,5 @@
+Expansion-Collapse cycle in cosmological structures?
+
+Concerning cosmological structures (like galaxies, clusters of galaxies, gas bodies, superclusters...etc) if the elements that make them are close enough they will be attracted towards each other by gravity. Contrarily, if they are sufficiently far apart they will get further away following the expansion of the universe.
+However, sometimes, even if objects follow the expansion of the universe, under some conditions, they can "de-attach" from it and start being attracted to each other by gravity.
+Is it possible that these cosmological structures may follow a cycle between expansion and contraction? I mean, is it possible that a structure expands with the Hubble flow, then it stops and starts shrinking, and then, somehow, after collapsing, starts following the Hubble flow repeating this cycle indefinitely? Has this been ever observed?

@@ -1,0 +1,7 @@
+Eccentricity with a law of gravity different from the classical one
+
+How can I calculate the eccentricity of the orbit of a planet (with mass equal to that of the Earth) around a star (with mass equal to that of the Sun) assuming that the force of gravity is given by the formula:
+$$
+ F= -\frac{GMm}{R^{5/2}} \hat{u}_r 
+$$
+Actually it would be enough for me to demonstrate that the eccentricity is between 0 and 1 to say that the planet follows a closed orbit.

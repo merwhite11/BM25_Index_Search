@@ -1,0 +1,4 @@
+What's the furthest distance that something could travel and eventually come back to Earth?
+
+Imagine u shoot a photon into the sky at a mirror far away in space, and you want the photon to bounce off the mirror and eventually come back to you. Considering the cosmological constant, what's the furthest that mirror could be (at the moment you shot the photon) and still have the photon get to it, bounce back and eventually return?
+I know the mirror would start moving away, and the photon would have to catch up with it. I think it would have to be around 15 BLY away by the time the photon reached it (I'm not sure), but I don't know how far it would have to be at the start to be 15 BLY away by then.

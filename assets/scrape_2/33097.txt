@@ -1,0 +1,16 @@
+Why would a tidally-locked rocky planet have a first-order spherical harmonic surface temperature distribution?
+
+The new Letter to Nature Absence of a thick atmosphere on the terrestrial exoplanet LHS 3844b (also ArXiv) analyzes the thermal infrared light curve from the system (about 4.5 to 5.5 um). The planet is assumed to be tidally locked, so lack of asymmetry in the curve is cited as evidence that there is not thermal inertia due to a thick atmosphere, which is what one would expect for this planet.
+In the beginning of the paper the authors say:
+
+We fit the extracted light curve with a simultaneous model of the astrophysical signal and the instrument behavior. The astrophysical signal consisted of a transit model and a first-degree spherical harmonics temperature map to represent the planet’s thermal phase variation.
+
+and later:
+
+In addition to the spherical harmonics model, we also tested a sinusoid model, which has been commonly used to fit other phase curve data. 
+
+I am thinking that the incident flux at a given point on the tidally-locked planet would be 
+$$I \sim \max (0, \cos(\theta))$$
+where $\theta$ is the static zenith angle at a given point, and so the temperature would be something like
+$$T \sim I^{1/4} \sim \max (0, \cos(\theta))^{1/4}.$$
+Why do they use a first-order spherical harmonic model instead? Is it related to the thermal conductivity of rock?

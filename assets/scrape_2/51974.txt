@@ -1,0 +1,5 @@
+Magnitude cuts in different bands/surveys
+
+I have data on around 142,000 galaxies. Some of these galaxies have apparent magnitude data in different bands. For example, many of my galaxies have SDSS PSF data in ugriz bands,GALEX FUV, GALEX NUV, and 2MASS J_tot, H_tot, and K_s_tot. If I wanted to make a data cut at
+absolute  magnitude M_V ≤ −8.2 mag is there any clear way to convert magnitudes from these different bands and surveys to Johnson Cousins V band? Sorry if this is an obvious question but I'm just getting into photometry and there seems to be a lot of technical jargon involved that I have been struggling with.
+My first thought was to try to convert these magnitudes to luminosity and then make a cut. However, I'm not sure if this would be appropriate. Thanks for any help your willing to give. Any recommendations on literature on the subject would also be appreciated.

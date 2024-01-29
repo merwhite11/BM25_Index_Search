@@ -1,0 +1,4 @@
+Estimate the mass of Saturn based on the given data below
+
+In September 2017, the Cassini 1 mission was nearing its end after 20 years due to fuel shortages. The NASA space probe reached its apoapsis on 12 September at 1:27 AM EDT (time on Saturn) with a distance of about $1.3 \cdot 10^6$ km from Saturn. There, the probe came to a standstill and then crashed into Saturn. On 15 September at 6:32 a.m. EDT, the last signal from Cassini was registered – shortly after its transmission, the probe probably ignited / died away in the atmosphere of the gas giant.
+Estimate the mass of Saturn on the basis of the given data.

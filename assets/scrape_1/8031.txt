@@ -1,0 +1,8 @@
+Why does a particle feel no force at radii greater than itself?
+
+I am working through Liddle's "An Introduction to Modern Cosmology", and in a newtonian derivation of the Friedman equation he states:
+
+in a spherically symmetric distribution of matter, a particle feels no force at all from the material at greater radii, and the material at smaller radii gives exactly the force which one would get if all the material was concentrated at the central point.
+
+He attributes this result to Newton, Can anyone give a mathematical or physical explanation as to why this is true? 
+Thanks

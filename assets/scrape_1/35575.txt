@@ -1,0 +1,5 @@
+Is there an upper limit on the mass of black hole mergers we can detect?
+
+From the LIGO website, black hole mergers have been observed between black holes with a mass up to roughly 50 $M_\odot$. 
+
+Are there no black holes with a mass above 100 $M_\odot$ or is this an observational bias? Why haven't we observed any mergers between black holes with a mass in the 100 - 1000 $M_\odot$ range?

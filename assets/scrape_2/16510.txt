@@ -1,0 +1,9 @@
+Data reduction and photometry without IRAF?
+
+The IRAF package is old.
+I've been looking around for a more modern software to replace it in the processes of CCD data reduction and photometry, but haven't been able to find any.
+The closest I've found is the PyRAF tool, but this seems more like a Python wrapper around IRAF rather than a replacement for it.
+Is there some new software I might've miss or is IRAF really the only option even today?
+
+Add:
+I forgot to mention this, but I'm looking for tools that work under Linux and are free (open source + no charge), if possible. I will not pay (neither for a Windows license nor for a software package) to get rid of IRAF.

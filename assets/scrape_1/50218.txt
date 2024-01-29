@@ -1,0 +1,5 @@
+Calculating net gravitational force on Uranus
+
+I want to calculate the net/total gravitational force which is being exerted on the planet Uranus. There are many objects in our solar system like the Sun, other planets, moons of other planets, moons of the planet Uranus, asteroid belt also has many objects. So to calculate the net force on Uranus, should I consider all these objects?
+As we know, the gravitational force between two bodies is given by
+F = G $\frac{m1 m2}{r^2}$, where m1 and m2 are the masses of the two bodies and r is the distance between them. Sun is far away from Uranus, but the mass of the Sun is also more. So on what basis should I choose which objects will contribute significantly and which objects contribution will be negligible while calculating the net force exerting on the planet Uranus? Individually calculating the actual force on the planet Uranus due to each of the above mentioned objects and then adding them all will be very lengthy problem. Is there any better way of doing it?

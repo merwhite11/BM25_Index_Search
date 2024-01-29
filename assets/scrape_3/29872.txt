@@ -1,0 +1,12 @@
+Does a planet's rotation speed and distance from its star influence the precession of its axis? And is the Earth's precession "normal"?
+
+I guess first off, do all/most planets with a tilted axis experience precession? And if so, is it usually in the same direction (clockwise or anticlockwise)?   
+What I'm really curious about is if a planet is tidally locked to its star, could it still experience precession which would in effect slowly shift the day-night line on the planet?   
+I'm aware that most planets tidally locked to their stars are under more extreme gravitational forces whether it be a larger star than the sun or an orbital distance much smaller than 1AU. How would these gravitational forces affect the precession?   
+And lastly, is there any theoretical "limit" to the speed of precession? I know for the Earth it takes the axis ~26,000 years to complete a full circuit. Is it typical that this process takes so much longer than for the Earth to complete a rotation or revolution or could a planet theoretically have a much shorter precession cycle and what kind of effects would such movement have on the planet itself?  And similarly, if the planet's rotation speed is much slower than the Earth due to tidal locking (let's just say ~2-3 months) would the precession eventually stop all together or not until an object stops rotating completely? 
+If anyone feels like being particularly helpful and doing some math that goes way over my head, perhaps you could give me a rough estimate of the speed of precession (i.e., length of time required for a complete circuit of the axis) for the following situations:
+
+An Earth-sized, moonless planet tidally locked in the goldilocks zone of an average red dwarf;
+A Mars-sized, moonless planet with the same conditions. 
+
+I've also read that other factors influence the precession such as the gravitational pull of large Jupiter-like planets. Is this minimal or considerable?

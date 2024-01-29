@@ -1,0 +1,4 @@
+How to convert horizontal coordinates using NOVAS?
+
+I'm using NOVAS 3.1. I know that I can convert equatorial coordinates to horizontal coordinates using the equ2hor function.
+Is it possible to make NOVAS do the inverse transformation: from horizontal to equatorial? There is no hor2equ, but maybe some other function implements this functionality?

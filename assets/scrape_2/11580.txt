@@ -1,0 +1,4 @@
+Standard conditions for a heliacal rising
+
+I imagine there are several possible conditions for determining the time of a helical rising of a star, the elevation of the star at sunrise, the latitude of the observer, and the azimuth of the star. 
+Is there any kind of equation (or plot/graphic) that relates these variables and can be used to predict whether a star will be visible? (Ignoring weather, ie assuming some standard atmospheric condition).

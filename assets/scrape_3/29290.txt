@@ -1,0 +1,4 @@
+Hubble Space Telescope (HST) observing modes
+
+I have been reading some literature on using the HST to take spectra of exoplanet atmospheres when exoplanets transit in front of their stars. The literature mention two modes of observations, 'spatial scanning' and 'staring', in order to obtain spectra of the atmospheres of these exoplanets. 
+Can anyone explain conceptually what the difference is between these two modes?

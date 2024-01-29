@@ -1,0 +1,4 @@
+How to superimpose an optical image upon a radio contour image using AIPS?
+
+I am using AIPS by NRAO. I am trying to overlay a radio contour image with an optical image in the r-band. From the cookbook I could not find the suitable command for it. Both are fits files pf course.
+Help ploxx.

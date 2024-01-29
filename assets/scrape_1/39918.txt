@@ -1,0 +1,5 @@
+Is there an API to obtain Solar System body axial tilt data?
+
+I would like to get information about rotation period and axial tilt for main Solar System bodies and major moons, over time.
+Is there an API availabe for this?
+I've checked JPL's Horizons API and CSPICE toolkit, but as far as I've seen axial tilt and rotation period are constants, not values that can be retrieved for different points in time.

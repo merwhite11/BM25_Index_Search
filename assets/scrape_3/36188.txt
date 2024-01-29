@@ -1,0 +1,4 @@
+What are the necessary steps required for calculating the size of a star?
+
+Title pretty much says it all.
+Basically, what exact variables are used, and what steps need to be taken, in the calculation of the size of a star? Preferably, some example data for how a the size of a star was recently calculated, from an official government / astronomy website, would be preferred, but not necessary.

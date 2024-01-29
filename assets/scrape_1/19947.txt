@@ -1,0 +1,5 @@
+Why do Uranus' and Pluto's moons orbit the equator? What makes a moons' inclination tilt with the rotational axis of their planet?
+
+Uranus and Pluto have their axes of rotation almost 90 degrees towards the ecliptic. But why do their moons tilt the same way?
+Does it mean that their tilts were caused by passing near some external mass that affected the planet and its moons equally, rather than some planet specific process such as a comet impact or tectonics?
+Mars' rotational axis tilts over time, but its moons today are spot on over its temporary equator. Earth's moon is aligned with the ecliptic and doesn't seem to care about our planetary tilt, although (or because of?) oceanic masses tugging on its tides. Exoplanets have been found that don't orbit in alignment with their star's rotation, and why would they do so billions of years after formation?

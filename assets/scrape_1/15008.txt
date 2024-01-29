@@ -1,0 +1,22 @@
+Converting ecliptical to equatorial coordinates
+
+When looking for a formula to convert polar ecliptic geocentric coordinates of an object to equatorial coordinates I find various sources that give these formulae (like Wikipedia):
+Declination $δ = \arcsin(\cos ε \times \sin β + \sin ε \times \cos β \times \sin λ)$
+Right ascension $α = \arctan((\cos ε \times \sin λ - \sin ε \times \tan β) / \cos λ)$
+Where
+β = ecliptic geocentric latitude
+λ = ecliptic geocentric longitude
+ε = obliquity of the ecliptic
+But when applying these formulae I get results like in the following list where β = 0° and ε = 23.4°:
+ λ       δ        α
+  0   0.0000   0.0000
+ 45  16.3095  42.5443
+ 90  23.4000  90.0000
+135  16.3095 -42.5443
+180   0.0000  -0.0000
+225 -16.3095  42.5443
+270 -23.4000  90.0000
+315 -16.3095 -42.5443
+360  -0.0000  -0.0000
+
+The values for declination seem good, but right ascension values seem to lack some sort of adjustment to the quadrant of the full circle (just a guess). But nowhere did I find any mentioning of this. Can you help? Thanks.

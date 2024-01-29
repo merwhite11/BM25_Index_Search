@@ -1,0 +1,7 @@
+How do the abundances of heavy elements near the Solar System compare with the abundances at other places and times in the Universe?
+
+We have measured the relative abundances of heavy elements (e.g. gold, lead, uranium) near the solar system and in cosmic rays. I'm interested in whether those abundances are particularly high (or low) on Earth in the current era compared with other places and times in the universe:
+
+Is the abundance particularly high (or low) near Earth compared with elsewhere in the Milky Way? By how much?
+Is the abundance particularly high (or low) in the Milky Way compared with other galaxies? By how much?
+Is the abundance higher (or lower) now than it was in the past? By how much? For instance how much would the abundance differ between a galaxy now, a galaxy at z=1, and a galaxy at z=2?

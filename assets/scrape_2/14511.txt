@@ -1,0 +1,7 @@
+What decides the direction in which the accretion disk spins?
+
+Planets lie on the same plane because of the accretion disk formed during the Protostar stage, as I read in this question.
+
+I also read about the collision of particles in the gas cloud causing the overall spin to be in just one direction. But what decides the direction in which the accretion disk spins relative to the direction of the core?
+
+(I'm thinking that it might be because of some primary conditions - maybe the direction in which the core is spinning.)

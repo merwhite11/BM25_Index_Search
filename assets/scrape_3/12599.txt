@@ -1,0 +1,3 @@
+What's the difference between the apparent horizon and event horizon of a black hole?
+
+The Wikipedia page for apparent horizon is pretty sketchy and requires some GR knowledge. Is there any simple definition?

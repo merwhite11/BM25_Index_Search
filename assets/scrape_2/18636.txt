@@ -1,0 +1,7 @@
+From color index to luminosity
+
+Given two colorindices LX and LY, such that the color X-Y is given by
+X-Y = -2.5 log(LX/LY)
+
+is there a way to infer the luminosity in X (or Y)? I'm think not because any information on units has fallen out through this definition, but I could be wrong. I'm just not sure how to compute the luminosity straightforwardly otherwise, as this color index is the only output (along with the distance modulus) from an interpolation scheme of stellar templates.
+Help would be much appreciated.

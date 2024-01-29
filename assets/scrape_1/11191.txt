@@ -1,0 +1,9 @@
+Where to get Polaris Right ascension value from
+
+To calculate for example the polaris hour angle I use this formula to calculate polaris hour angle.
+τ = θ - α
+τ= hour angle
+θ= sideral time
+α= polaris RA (~ 2h32m)
+But where does the α=2h32m come from? Is there a list? Does this change somehow over time?
+Is my understanding correct that this is the time where polaris crosses the upper meridian at Greenwich?

@@ -1,0 +1,9 @@
+What will eLISA be trying to observe?
+
+eLisa - Evolved Laser Interferometer Space Antenna.
+
+A LISA-like mission is designed to directly observe gravitational waves, which are distortions of space-time travelling at the speed of light. Passing gravitational waves alternately squeeze and stretch objects by a tiny amount. Gravitational waves are caused by energetic events in the universe and, unlike any other radiation, can pass unhindered by intervening mass. Launching eLISA will add a new sense to scientists' perception of the universe and enable them to listen to a world that is invisible in normal light.
+
+The "duh" answer to my question is "Gravity waves, of course."
+Obviously this is not what I'm asking.
+So, we've deployed eLISA and we spotted a gravitational wave passing. Well, there went the wave. What data do we extract from it? What discoveries, observations will we acquire? What else can we discover with it than "there was a gravity wave, and it came from this direction"?

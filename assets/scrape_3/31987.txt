@@ -1,0 +1,15 @@
+Calculating the range of visible Right Ascension and Declination from specific location + time
+
+Given a specific date and time, and coordination of a location on earth, how can I calculate (myself, or using a python package) range of visible RA and Dec? 
+For example (but I'm looking for a general solution and formula):
+input: 
+
+date and time: 2019-05-01 23:00:00
+earth coordinates: 32.0853° N, 34.7818° E
+
+output: 
+
+RA min: ?
+RA max: ?
+Dec min: ?
+Dec max: ?

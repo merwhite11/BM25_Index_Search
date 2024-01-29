@@ -1,0 +1,10 @@
+How do I plot orbit planets and satellites?
+
+I need to find the way to plot orbit planets and satellites in a coherent way. Let's say I want to generate a chart of the Moon's orbit around the Earth, or the jovian satellites around Jupiter.
+The hard way would be the use of a CAD software, manually. However, I'm not sure if I will be able to represent the orbits excentricity. And it would be a slow process, one by one...
+My idea is to do it programmatically and recursively, so I can generate hundreds of charts for my articles. Can AstroPy do it? I'm using Debian 9 and I checked poliastro, but I had problems with the requirements... I also checked Xephem, and I could not compile it (it's too old, I think). Could Celestia or Kstars do that?
+Any Linux/Unix tool would be fine! Especially if it works from the command line.
+EDIT: I tried to compile ORSA without luck. Also failed.
+I'm discovering the combo of python3-ephem with gnuplot. I can generate the data with Ephem and plot it with Gnuplot. What do you think about this combo?
+EDIT 2:
+Not only python3-ephem... Skyfield and REBOUND are good options!

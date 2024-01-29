@@ -1,0 +1,23 @@
+Why space-based VLBI scattering sub-structure is "Hopefully, a new promising tool to reconstruct the true image of observed background target(s)"?
+
+@HDE226868 mentioned in the observatory that the GBT@20 – The Celebration; Twenty Years of Innovation and Discovery was going on. There are plenty of YouTube videos and slide sets available as links. One of which is Yuri Kovalev (LPI and MIPT Moscow)'s Space VLBI and the GBT.
+Below is a screenshot that mentions
+
+Discovery of the scattering sub-structure
+
+A tool to probe turbulent interstellar medium.
+Must be taken into account by high resolution VLBI experiments.
+Hopefully, a new promising tool to reconstruct the true image of observed background target. Critical for SgrA*.
+
+
+and links to (these are my best-guess links)
+
+Gwinn et al. (2014): Discovery of Substructure in the Scatter-Broadened Image of Sgr A*
+Popov et al. (2017):  PSR B0329+54: Substructure in the scatter-broadened image discovered with RadioAstron on baselines up to 330,000 km
+
+The caption from the image from Gwinn et al. (2014) reads:
+
+Figure 2. Correlated flux density of Sgr A∗ at λ = 1.3 cm plotted against baseline length. Squares show the sensitive GBT-VLBA baselines, circles VLBA-VLBA baselines. Each point represents a 15-min vector average for one baseline after self-calibration; error bars show statistical ±1σ. The green curve shows the correlated flux density of the average scattering disk for an East-West baseline, as described in Sec. 2. The gray curves show quantiles of the predicted distribution of correlated flux density from substructure, with source and scattering parameters from Bower et al. (2006, 2014b), as described in Sec. 3 below.
+
+Excess power at long baselines implies excess fine spatial structure. From what I understand this is belied to be a result of "turbulence" within the intervening interstellar medium, rather than from the original source being observed, and without being characterized and measured presents a serious limit to the resolution of VLBI, both EHT-scale and space-based, and apparently "Critical for SgrA*."
+Question: This all seems to be somewhat analagous to astronomical seeing in that it needs to be understood and even measured before it can be compensated for, in order to obtain diffraction (baseline) limited resolution. But why is it "Hopefully, a new promising tool to reconstruct the true image of observed background target."?

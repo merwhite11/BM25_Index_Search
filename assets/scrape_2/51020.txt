@@ -1,0 +1,3 @@
+How can I determine a planet's orbital size if it is moving around an oscillating star?
+
+I'd like to know how to calculate the size of the planet's orbit, given that it is the only one orbiting around a star, and that this star is oscillating with an amplitud of 0.026'' in 25 year periods. (The star is located at 1.83 pc from observer and has a given mass M). Also, the star is oscillating due to the planet.

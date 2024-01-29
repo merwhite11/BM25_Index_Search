@@ -1,0 +1,7 @@
+How to isolate H$_\alpha$ from Nitrogen doublet emission lines
+
+I am trying to find out line intensity and FWHM of H$_\alpha$6565 emission line from a quasar spectrum obtained from SDSS DR-14Q. Visual inspection of spectrum shows H$_\alpha$ being contaminated with [NII] 6549,6585 emission lines. I tried fitting voigt profile on the emission line to extract FWHM and line intensities. But the problem is voigt profile is not being fitted properly onto the data as shown here 
+I tried fitting 3 gaussian profiles on the data as there are 3 peaks visible. While fitting multiple gaussians it is clear that the gaussian profile doesn't fit over the left and right wings of the data.
+
+I have already subtracted the underlying continuum and tried to normalize the flux as well.
+Can anyone comment if I am doing it correctly because in both cases it seems that there is some sort of data loss? Or can anyone suggest a better way to do that?

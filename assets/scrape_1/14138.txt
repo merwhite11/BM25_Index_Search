@@ -1,0 +1,3 @@
+The moon: how to determine its size, speed and distance from earth using a simple telescope?
+
+Assuming I only have a simple telescope, how can I determine the size of the moon, its angular velocity and distance from earth?

@@ -1,0 +1,4 @@
+The shape of the moon limb/crescent (terminator line)
+
+Given that that n% of the moon is illuminated. I want to (approximately, but more or less correctly) draw the the terminator line on the circle (that represents the moon). Orientation is not the case here, just the crescent shape.
+What is the best/correct way to determine/calculate/approximate the shape of the terminator line? Is this line actually a chord of a circle, or it is something different?

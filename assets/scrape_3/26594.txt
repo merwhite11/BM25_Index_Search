@@ -1,0 +1,19 @@
+Saturn's tropical year?
+
+What is the value of Saturn's "tropical year" (as opposed to its "sidereal year").
+I am seeing it listed as 10 days shorter (10,747 days) than the sidereal year (10,759.22 days).
+How could this be if the precession of the axis (equinox) is so slow (~1.86M years)? Is this an "transient/osculating" value? Frame of reference (e.g. J2000)? Am I completely missing something?
+I think I can calculate the tropical year by (close to, this works for Earth):
+$P_{tropical} = P_{sidereal} \cdot (1-\frac{P_{sidereal} }{P_{precession}})$
+
+Using NASA planetary facts data on Saturn
+(these figures are re-used on many websites):
+$10759.22\cdot(1-\frac{10759.22}{1.86\times10^6 \space\times\space 365.256})=10759.05$
+Using JPL Horizons data:
+$10755.698\cdot(1-\frac{10755.698}{1.86\times10^6 \space\times\space 365.256})=10755.528$
+
+about 0.170 days less.
+Also, interestingly, see the instantaneous sidereal year of Saturn from the graph of JPL Horizon's data, using the sun's centre (blue) and solar system barycentre (red). I think the instantaneous tropical year (at epoch) would always be 0.170 days less.
+I think this is where the confusion is: texts have used particular values, and further the same text has picked a sidereal from one epoch (or average), and a tropical from another...
+
+Saturn's instantaneous length of sidereal year in days, at epoch.

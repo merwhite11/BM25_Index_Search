@@ -1,0 +1,6 @@
+Dataset for globular star cluster
+
+Where can I find the 
+dataset(s) for a globular star cluster?
+The datasets should have the coordinates, color index (for different wavelengths) , magnitude etc. of every star in the cluster. 
+I want to do data analysis on it just for fun.

@@ -1,0 +1,7 @@
+Is there a reflecting telescope like as a Newtonian telescope but with a negative lens before the diagonal mirror?
+
+A Cassegrain reflecting telescope contains a negative optical element between the main mirror and its focus. This increases it's focal length.
+
+Is there a reflecting telescope like as a Newtonian telescope but with the negative lens before the diagonal mirror?
+
+This question is not about a Barlow lens.

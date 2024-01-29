@@ -1,0 +1,8 @@
+How would a flat mirror on the Moon reflect sunlight
+
+I was solving a task that said (paraphrasing):
+
+There is a flat mirror on the Moon, whose reflection coefficient is 100%, and observers on the Earth observe it as a star whose apparent magnitude is $3^m$. Knowing the magnitude of the Sun is $-27^m$, and its angular diameter is $0.5 {^\circ}$, calculate the diameter of the mirror.
+
+The solution used Pogson's formula to state that the Sun is $1e12$ times brighter than the mirror ... and then the author said it is "obvious" that implies the surface of the mirror's disk in the sky, in $({^\circ})^2$, is $1e-12$ times that of the Sun.
+How is it obvious, how do we derive this relation?

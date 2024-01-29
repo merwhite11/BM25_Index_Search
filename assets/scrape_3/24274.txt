@@ -1,0 +1,23 @@
+Error propagation methods for orbit parameters
+
+Recently I've encountered an article in our local astronomical popularization magazine. It is about a well known task of Sgr A*-black hole's mass estimation. The article is written as a step by step guide for young researchers. For example, the orbital parameters of the S2 star should be found using a drawing on a sheet of paper.
+That is why I believed there is no need for very precise calculations
+for this task.
+However, in addition to the $ x $, $ y $ coordinates of the S2 star, I was also given the corresponding uncertainty values $ \Delta x $, $ \Delta y $ (19  coordinate measurements for the time period from 1992 to 2003):
+\begin{array}{|c|c|c|c|}
+\hline
+time    & x      &   \Delta x    & y      & \Delta y \\ \hline
+1992.226 & 0.104 & 0.003 & -0.166 & 0.004 \\
+1994.321 & 0.097  & 0.003 & -0.189 & 0.004 \\
+...     & ..     & ..    & ..     &       \\
+2003.353 & 0.077  & 0.002 & -0.030 & 0.002 \\
+2003.454 & 0.081  & 0.002 & -0.036 & 0.002\\
+\hline
+\end{array}
+Using direct least squares method for S2 orbital fitting by an ellipse I've found parameters
+$a,\ b,\ c,\ d,\ e,\ f$ of the conic equation: $$ax^2+bxy+cy^2+ dx+ey+f=0$$  I've
+also decided to simulate the error propagation in a Monte Carlo fashion to find
+the uncertainty in the estimates of $a,\ b,\ c,\ d,\ e,\ f$. And I succeeded in that.
+But, here is the question: is there any other appropriate,
+"analytical" way (not a Monte Carlo method) to find the uncertainty in
+the estimates of $a,\ b,\ c,\ d,\ e,\ f$ which may be used in usual astronomers' practice?

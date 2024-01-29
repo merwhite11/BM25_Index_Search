@@ -1,0 +1,7 @@
+Calculating the black hole evaporation time
+
+Black holes evaporate very, very slowly by emitting Hawking radiation, and eventually they disappear, maybe even during the lifetime of the universe ($\sim 1.5 \times 10^{18}{\rm s}$). That's what I recall from the lectures I attended.
+I now stumbled upon a Black Hole Evaporation Time Calculator which uses this formula:
+$$\tau_{\rm evaporation} \sim \left( \frac{M_{\rm black~hole}}{M_\odot}\right)^3 \times 10^{66} {\rm ~years}$$
+As usual,  $M_\odot$ is the solar mass. My questions: How is that formula deduced? In which limiting case(s) does it hold?
+Edit Just as a reminder: Right now, $4.3 \times 10^{17} {\rm s}$ passed since the big bang.

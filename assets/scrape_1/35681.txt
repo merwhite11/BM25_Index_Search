@@ -1,0 +1,11 @@
+Sun, Moon: Relative Distance from Crescent?
+
+This is more a question about the history of astronomy.
+It recently occurred to me that you can estimate the ratio of earth-moon and earth-sun distance in the following way: We can look at the triangle observer-moon-sun. Call the angle at the observer $\alpha$, the angle at the moon $\beta$.
+
+At the crescent to half moon stage, sun and moon are both visible, so one can determine the angle $\alpha$ (at the observer).
+From the illuminated fraction of the moon, one can estimate $\beta$. (Precision is presumably lower here.)
+Thus, the third angle is fixed, and the shape of the triangle is known (but not the overall scale).
+
+So it should be possible to derive that the sun is much further away than the moon. If we could get an independent determination of, say,  the earth-moon distance, the distance to the sun would be known.
+This seems rather straightforward. Has this been used historically? What accuracy was (could have been) achieved? For example, I seem to recall that in the "celestial spheres" approach, people have at least ordered the heavenly bodies according to distance, but has this method been taken into account?

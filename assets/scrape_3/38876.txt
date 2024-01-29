@@ -1,0 +1,3 @@
+Absorption of light by matter
+
+What determines whether or not photons can be absorbed by matter? Intuitively, the answer is that a charged particle can absorb photons (whether it's positively or negatively charged), and neutral particles can't. But light is often absorbed by atoms in bulk matter, increasing their thermal motion. The problem with this is that atoms are neutral, and so you wouldn't think that they could absorb light.

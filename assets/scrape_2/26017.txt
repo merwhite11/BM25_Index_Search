@@ -1,0 +1,6 @@
+Good source for the relationship between absolute magnitude, diameter, and albedo?
+
+In this answer I have rearranged an equation from somewhere, and now I can not relocate the source. My re-aranged form is:
+$$M_{Abs} = 5 \left(\log_{10}(1329) -\frac{1}{2}\log_{10}(\text{albedo}) -\log_{10}(D_{km})\right)$$
+This is the relationship between the absolute magnitude of an object and its diameter and albedo, assuming it is spherical. 
+Question: What is a good source for any form of this equation to which I can link in my answer?

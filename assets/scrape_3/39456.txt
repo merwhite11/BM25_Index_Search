@@ -1,0 +1,14 @@
+Refinement to sun/wristwatch estimate of N/S direction
+
+As discussed in a 2015 question here
+and shown in a 2013 illustration in Primer Magazine,
+it's possible to estimate the north/south direction on the ground using a correlation between the hour hand of an analog watch and the azimuth of the Sun.
+
+As Wikipedia:Analog watch suggests, the relation between hour angle and azimuth depends on latitude:
+
+The method functions less well as one gets closer to the equator.
+
+Also the Sun's declination affects its azimuth around 6 AM or PM.
+Assuming that the observer has already determined the local apparent solar time,
+what further correction could they apply to estimate the north/south direction more accurately?
+I expect that this would be a function of the observer's latitude φ, the Sun's declination δ, and the Sun's hour angle h.

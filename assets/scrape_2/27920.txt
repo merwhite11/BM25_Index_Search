@@ -1,0 +1,25 @@
+How is the term "solar system" defined? Could confirmation of a new planet lead to a change in this definition?
+
+Voyager 1 (https://en.wikipedia.org/wiki/Voyager_1) is approximately 140 AU away, and is considered to have left the solar system. Now, the layman's definition of solar system provided by Google is:
+
+...the collection of eight planets and their moons in orbit around the
+  sun, together with smaller bodies in the form of asteroids,
+  meteoroids, and comets.
+
+And from Wikipedia:
+
+The Solar System[a] is the gravitationally bound system of the Sun and
+  the objects that orbit it, either directly or indirectly,[b] including
+  the eight planets and five dwarf planets as defined by the
+  International Astronomical Union (IAU).
+
+At this point, Voyager 1 is well beyond the aphelion of all known planets, so according to the definitions above, so at least colloquially, saying that it has left the Solar System seems to make sense. However, according to Wikipedia, it was only officially considered to have left the Solar System once it left the heliopause. This is not really in conflict with the above definitions, as, to my knowledge, the heliopause extends beyond the orbit of all the original 8/9 planets at all times. The Encyclopedia Britannica (https://www.britannica.com/science/heliopause) states that the heliopause
+extends for 123AU.
+However, the hypothesised Planet 9/X is conjectured to have an aphelion of approximately 1,200 AU and a Perihelion of 200 AU (https://en.wikipedia.org/wiki/Planet_Nine). This would seem to bring the two competing definitions of "solar system" discussed here into sharp conflict.
+Which definition would likely win out? Could the confirmation of such a planet force a reckoning on whether Voyager 1 has truly left the solar system?
+Edit:
+I wanted to add a more authoritative source that says Voyager 1 has indeed left the solar system.
+
+Voyager 1 is the first man-made object to leave our solar system and pass into interstellar space. Scientists confirmed this finding a year later after studying Voyager’s data, which showed clear changes in the plasma or ionized gas right outside of the solar bubble.
+
+https://www.nasa.gov/directorates/heo/scan/images/history/August2012_2.html

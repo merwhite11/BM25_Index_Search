@@ -1,0 +1,10 @@
+Directions to Proxima Centauri
+
+I'm writing a sci-fi novel in which humans venture to the stars for the first time. Their "shake down" cruise takes them to Proxima Centauri. I'm trying to understand where Proxima Centauri is located relative to the sun rather than Earth, as that seems a more logical reference for navigation to nearby stars.
+The location of Proxima Centauri in Earth's night sky is described with the Earth-relevant coordinates
+
+Right ascension   14h 39m 36.49400
+Declination –60° 50′ 02.3737
+
+However, the Earth's orbit is inclined 7.155° to the Sun's equator and our axis is tilted at 23.4392811°.
+Is there a reference indicating Proxima Centauri's sol-relative position, or can that position be calculated based on the above information?

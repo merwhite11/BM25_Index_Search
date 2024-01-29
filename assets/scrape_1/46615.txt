@@ -1,0 +1,13 @@
+Could a black hole's accretion disk be bright through natural means?
+
+This question is based on this description of the Cormoran Supermassive Black Hole in the Orion Arm's website:
+
+Surrounding this event horizon is an (apparently artificial) accretion
+disk about 4AU in diameter, which shines due to internal fusion, with
+a surface temperature of 5700K and a luminosity of 4500 x Sol.  This
+accretion disk is unusually deficient in x-ray emissions, and this
+made detection relatively difficult; this deficiency cannot be
+explained naturally, and was the first indication that this object was
+subject to some form of advanced technological management.
+
+But based on what we know about black holes in real life, can the accretion disk be bright through natural means instead?

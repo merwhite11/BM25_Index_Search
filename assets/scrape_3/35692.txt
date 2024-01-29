@@ -1,0 +1,4 @@
+What is the furthest star for which we can measure the diameter?
+
+If a star is close enough that we can measure its parallax and that it doesn't appear point-like, then we can deduce its diameter. Can we measure the diameter of all the stars for which we can measure the parallax, or is the angular diameter a limiting factor?
+How far out is the diameter of a star measurable?

@@ -1,0 +1,24 @@
+Calculate the uncertainty in measured flux density from an integrated intensity map
+
+I have some ALMA data, in the form of a spectral cube, which I have integrated along the velocity axis to create an integrated intensity ('moment 0') map.
+The integrated intensity map shows emission from a protoplanetary disk. I measure the total flux density to be 3.0 Jy km/s. I would now like to attach some uncertainty to that result. I can measure the RMS, $\sigma$,  in an emission-free region of the map, in units of Jy/beam km/s. I would like to know how to go from this, to an uncertainty in units of Jy km/s.
+
+What I have already tried...
+I begin by calculating the beam area:
+$\displaystyle \Omega_\text{beam} = \frac{\pi \theta_\text{maj}\theta_\text{min}}{4 \text{ln}2} \approx 0.07 \text{ arcsec}^2$
+I then calculate number of pixels per beam:
+$\text{pixel width} = 0.03 \text{ arcsec}$ 
+$\text{pixel area} = (0.03 \text{ arcsec})^2 = 0.0009 \text{ arcsec}^2$ 
+$\text{pixels per beam} = 0.07 \text{ arcsec}^2/0.0009 \text{ arcsec}^2 \approx 78$
+I then convert the measured RMS from Jy/beam to Jy/pixel:
+$\sigma_\text{Jy/beam} = 0.004 \text{ Jy/beam}$ 
+$\sigma_\text{Jy/pixel} = \sigma_\text{Jy/beam} \; / \; 78 \approx 0.00005 \text{ Jy/pixel}$
+Finally, I use the following equation to calculate the uncertainty (from Appendix in Beltran et al. 2001)
+$\text{uncertainty} = \sigma_\text{Jy/pixel} \sqrt{A}$
+where A is the total area where emission is measured, in pixels.
+In my case, A=38531 pixels, giving:
+$\text{uncertainty} = 0.0005 \times  \sqrt{38531} \approx 0.01$
+I don't trust this result, since there is a lot of noise present in the image, and the uncertainty calculated here is only around $\pm 0.3\%$
+
+Related question... 
+Estimate upper limits on flux values in the case of a non-detection? - similar problem, but relating to non-detection of a spectral line, not an image.

@@ -1,0 +1,4 @@
+How to get the percentage of the Moon illuminated as a function of time?
+
+As the title suggests, I need a way to get the percentage of the Moon's disk which is illuminated as a function of time.
+There are simple geometrical expressions for the fraction of a sphere illuminated by a collimated coplanar light source, but I need something more physically and geometrically representative of the Sun Earth Moon system.

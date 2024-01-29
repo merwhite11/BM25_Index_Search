@@ -1,0 +1,4 @@
+How can we infer the mass of SMBH in galaxies that are not active anymore?
+
+I know it is possible to infer the mass of a supermassive black hole (SMBH) by many methods, i.e., stellar orbits for out Galaxy, Iron line profile from the accretion disk, and probably other methods (perhaps from the spectrum of the radiation disk itself, that can be related with the central mass, if supposed thermal in origin).
+What I don't know is: how can we infer the mass of SMBH in galaxies that are not active anymore?

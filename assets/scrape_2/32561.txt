@@ -1,0 +1,13 @@
+From whence is the Event Horizon Telescope black hole data available for amateur reconstruction?
+
+Ralf Vandebergh's tweet shows his own reconstruction of an image of the accretion disk around a black hole, generated presumably from Event Horizon Telescope data.
+I'm assuming that the data came from a publicly available source, but I don't know for sure. That would make sense, they used two completely independent groups to reconstruct the images to cross-check each other before they were published, because with so few of the telescopes in the array recording data at any one time, the reconstruction took a bit of artistic license or "filling in". 
+Since the raw data is huge, boxes and boxes of hard drives with high speed digital recording of GHz rate ADC conversions, I don't think there's an ftp site for the actual raw data. And since calibrations and baselining is pretty complicated, it would be hard to reconstruct.
+So I'm wondering what kind of data is available that would allow someone to reconstruct their own EHT image?
+FYI Ralf Vandebergh's astrophotography can be found in links within Why exactly do “CMOS astrophotographers” prefer CMOS sensors?
+
+From tweet:
+
+This is one of my processings of the #blackhole #EHTBlackHole first ever image. @RHdijkgraaf @govertschilling @NASAblueshift @ehtelescope @jordydavelaar @UofA @perimeter @smithsonian @TheNRAO @PhysicsWorld
+
+ click for larger

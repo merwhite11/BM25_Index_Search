@@ -1,0 +1,10 @@
+Period-Luminosity Relation of Cepheids via Gaia Data
+
+I was trying to verify Leavitt's Law of Period Luminosity Relationships of Cepheid Variables using Gaia data. To do this I calculated the period using the Lomb Scargle Periodogram for 1450 stars and obtained this:
+
+On the X-axis is the logarithmic period and on Y is the Gaia G Band magnitude.
+My optimum parameters for the slope and intercept were [-1.67799139,  0.33594401]. 
+I verified my work with the period given in Gaia data which appeared to be in good agreement with the above result:
+
+The optimum parameters were [-1.70140261,  0.36610869].
+My concern here is that the values I have obtained are a far cry from published results, [-2.67,-1.58] as in this paper. I have no idea why. I suppose this has to do with issues in epoch photometry in Gaia, but I can't pinpoint anything for sure. Additionally I'd like to know how to improve my analysis to agree with the actual Period-Luminosity relationship.

@@ -1,0 +1,8 @@
+How did VLT's adaptive optics obtain this resolution for Neptune? Is it really working in visible wavelengths?
+
+This image of Neptune taken with the VLT is really impressive. The resolution is achieved by recent improvements in the adaptive optics.
+
+Gizmodo: New Super-Crisp Images of Neptune Show How Far Our Telescopes Have Come
+Space.com Telescope Upgrade Produces Stunningly Clear Views of Space
+
+But I don't really understand, is this coming from just one 8 meter mirror, or is this using more than one of the four that make up the VLT? Also, is this really using adaptive optics that work in the visible, including blue wavelengths? Or is this a false-color image? See the excellent answer(s) to Why (actually) aren't ground-based observatories using adaptive optics for visible wavelengths?

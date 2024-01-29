@@ -1,0 +1,7 @@
+Distance of distant galaxies
+
+Can two galaxies, one with a redshift of 7 and the other a redshift of 8 have the same angular distance (distance from the Earth during the emission of the observed photons)?
+If not why ?
+Example: Using Ned Wright's calculator, a galaxy with a redshift of 8 has an angular distance of 3.31 billion light years and its image was emitted 0.646 million years after the big bang.
+Logically another galaxy could be at the same angular distance 3.31 but would have emitted the light we observe today later in the history of the universe (when the expansion rate of the universe had decreased) say 0.900 million years after the big bang it would therefore have a different redshift but an identical angular distance. But this is not what I observe in this calculator, as soon as we reduce the redshift it increases the angular distance and the moment when the image we observe was emitted
+Here is the calculator: https://www.astro.ucla.edu/~wright/CosmoCalc.html

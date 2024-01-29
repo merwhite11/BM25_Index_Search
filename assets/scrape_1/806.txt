@@ -1,0 +1,8 @@
+How much did we know about asteroids at the beginning of the 20th century?
+
+When was the nature and size of asteroids discovered? I was under the impression that it was not until the 1980s or 1990s with deeper space probes and Hubble imagery that we learned the nature of asteroids. However, today the wonderful fortune UNIX script gave this quote from a man who died in 1910:
+
+Noise proves nothing. Often a hen who has merely laid an egg cackles
+  as if she laid an asteroid.  -- Mark Twain
+
+How would Samuel Langhorne Clemens have known enough about asteroids to make such a statement in the early 20th century?

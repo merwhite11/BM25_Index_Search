@@ -1,0 +1,21 @@
+Computing orbit positions of Jovian Satellites / Moons using JPL data
+
+I've been trying to build a model of the solar system in a game.  Thus far I've succeeded in placing each of the planets in position using Keplerian elements and formulae from https://ssd.jpl.nasa.gov/?planet_pos  An example for Jupiter is:
+               a              e               I                L            long.peri.      long.node.
+           AU, AU/Cy     rad, rad/Cy     deg, deg/Cy      deg, deg/Cy      deg, deg/Cy     deg, deg/Cy
+-----------------------------------------------------------------------------------------------------------
+Jupiter   5.20288700      0.04838624      1.30439695       34.39644051     14.72847983    100.47390909
+         -0.00011607     -0.00013253     -0.00183714     3034.74612775      0.21252668      0.20469106
+
+At this point, I want to add several of the Jovian moons, however the same site doesn't seem to provide the same type of data for these moons, perhaps because the moons behave differently.  Unfortunately, my math is not great; I can usually implement something that's written down, but I don't have the wherewithal to work it out myself.
+For the Jovian moons, the data is listed at: https://ssd.jpl.nasa.gov/?sat_elem#jupiter  Here is an example for Ganymede:
+ Sat.           a       e          w           M        i            node      n             P       Pw      Pnode    R.A.        Dec.     Tilt
+ (km)        (deg)     (deg)      (deg)       (deg)    (deg/day)    (days)    (yr)          (yr)    (deg)    (deg)    (deg)
+ Ganymede  1070400.    0.0013    192.417    317.540    0.177        63.552    50.3176072    7.155   63.549  132.654   268.168    64.543    0.068
+
+Here they state that the data is "Mean orbital elements referred to the local Laplace planes", as opposed to "Keplerian Elements for Approximate Positions of the Major Planets".
+Whilst the first 6 parameters appear to be the same (a, e, w, M, i, node), the Keplerian elements also have "rates", or time derivatives (according to this post: https://space.stackexchange.com/questions/8911/determining-orbital-position-at-a-future-point-in-time).  The forumlae kindly provided by NASA for the Keplerian elements relies on these rates.
+If I could understand how to determine the "rates" for the Jovian moons, then I might be able to use the same formula (is this the right thing to do?)  It looks to me like those rates are something I should be able to compute from the other data provided for the moons, however I haven't been able to determine how.
+My suspicion is that I either need a different formula for the computation using the Laplace Planes, or I need to compute those 'rate' values and use the same formula I already have.
+I'm trying to generate cartesian (x, y, z) coordinates for each Moon where (0,0,0) is the centre of Jupiter itself, for a given date/time (typically "now").
+I'm beginning to wonder if I'm barking up the wrong tree on this.  Can anyone shed any light

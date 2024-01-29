@@ -1,0 +1,9 @@
+UTC to UT1 time corrections
+
+Astronomic observations in geodesy.
+It is well understood that sun and star positions may be expressed in Greenwich hour angle and declination. Or Right Ascension Declination. And may be published reckoned to Universal Time (UT), or TT.
+An approximation of UT can be obtained by apply a correction (DUT) to UTC. That results in an expression of time described as UT1. DUT time offsets are published and broadcast (WWV shortwave radio) in 0.1" increments.
+I'm looking for daily precise (better than 0.1") DUT corrections.
+Current broadcast DUT correction is -0.2".
+I have retrieved IERS Bulletin B, which has daily values of UT1-UTC in ms. Current value is -21.996 ms. Is it just me? Is -21.996 ms = -0.022"?
+Or is there something in the IERS Bulletin B that I'm missing?

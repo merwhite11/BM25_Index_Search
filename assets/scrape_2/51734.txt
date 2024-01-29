@@ -1,0 +1,4 @@
+What is the mean inclination for randomly oriented orbits? How to derive it?
+
+I know the answer is $60^o$. But I can't seem to be able to derive the result.
+Specifically, how to define the probability density function (PDF) for this problem? Once I have that it should be straightforward. But if I use PDF=$\cos(i)$, I get answer closer to 30. So I'm not sure.

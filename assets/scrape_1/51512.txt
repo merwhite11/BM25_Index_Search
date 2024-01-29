@@ -1,0 +1,4 @@
+What is approximate numerical equation of the apsidal precession of the Earth-Moon barycenter?
+
+What is approximate numerical equation of the apsidal precession of the Earth-Moon barycenter? Or is it only constant 11.45 arcsec/year with unchanged accuracy to 0.01 arcsec/year for a  million years? And changes of the planets orbits do not influence on the apsidal precession of the Earth-Moon barycenter at time interval of a few millions years?
+For example planets create significant influence on precession of Earth and the ecliptic at time interval of a few thousands years. Therefore precession of Earth and the ecliptic are not constant. There are numerical equations for precession of Earth and the ecliptic.

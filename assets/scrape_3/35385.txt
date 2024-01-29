@@ -1,0 +1,11 @@
+What is the spectral energy distribution (SED)?
+
+I see the SED being referred to as several different things and now I am confused about what it actually is and what are its units. In particular, I find the SED Wikipedia page not understandable.
+The Flux $F$ of a star/galaxy is related to its luminosity $L$ by
+$$F=\dfrac{L}{4\pi d_L^2}\,,$$ where $d_L$ is the luminosity distance.
+If we differentiate the quantities and remembering that the emitted wavelength $\lambda_{em}$ is related to the observed one by $\lambda_{obs}=(1+z)\lambda_{em}$, where $z$ is the redshift, we can have two quantities:
+
+$\dfrac{dF}{d\lambda_{obs}}\equiv f_{\lambda}$
+$\dfrac{dL}{d\lambda_{em}}\equiv l_{\lambda}$
+
+I think $f_{\lambda}$ is the specta (units of [Energy][Time]$^{-1}$[Lenght]$^{-3}$) and $l_{\lambda}$ is the SED (and therefore has units of [Energy][Time]$^{-1}$[Lenght]$^{-1}$). Is this correct? Can you give me some resources (eg. papers or books) where this is written down? Thank you.

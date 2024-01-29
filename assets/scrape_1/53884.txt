@@ -1,0 +1,4 @@
+How is a planet (or star's) radius defined?
+
+The radius of a rocky planet like earth is fairly easy to define based on the fact that the ocean's surface is fairly smooth, and it is a natural point to measure. Other planets like Mars, the surface is clear and I suppose the radius to the highest peak divided by the radius to the lowest valley is probably close enough to 1 that it doesn't matter too much.
+However, larger planets and stars that are primarily composed of gas, where the density of the gas is presumably a smooth change from high to low, where is the "outside" of such a planet (or star) considered to be? Wikipedia says that the equatorial radius of Jupiter is 71,492 km, which is a fairly precise measurement. So if I were to travel to Jupiter what exactly would I find 71,492 km from the center?

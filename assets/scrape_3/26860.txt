@@ -1,0 +1,5 @@
+How to compute the sun's (upper) transit
+
+As detailed in https://physics.stackexchange.com/questions/41450/is-there-a-simple-accurate-formula-for-calculating-transit-times-from-rise-and, the sunrise, and set times can accurately be used to compute the sun's transit. Yet, in some cases, these do not exist, e.g. in Finland in the summer.
+Is there an easier and/or more general way to compute the transit time (and only the transit time) given the UTC and observer position (latitude, longitude, height). 
+The library at http://www.jstott.me.uk/jsuntimes gives sunrise and sunset, but not the transit time. find_transit at riset_cir.c in https://github.com/brandon-rhodes/pyephem/tree/master/libastro-3.7.7 might do this, but seems too general and complicated.

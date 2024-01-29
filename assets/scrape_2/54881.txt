@@ -1,0 +1,169 @@
+Determining the position of the North Node using math?
+
+I have to be honest. Been learning python for few months  but when I saw this code I was blown away, mainly by its simplicity  and secondly by not understanding it .. can someone help me understand how to use "h_x && h_y" ?  I have no clue where to start looking for this info. Thank you <3
+import math
+ 
+def calculate_longitude_of_ascending_node(h_x, h_y, h_z):
+    # Calculate the magnitude of the specific relative angular momentum vector (|h|)
+    h_magnitude = math.sqrt(h_x**2 + h_y**2 + h_z**2)
+ 
+    # Calculate the unit vector n using the cross product of r and v
+    n_x = h_y * h_z
+    n_y = -h_x * h_z
+    n_z = h_x**2 + h_y**2
+ 
+    # Calculate the longitude of the ascending node (Ω) in radians
+    omega = math.atan2(n_y, n_x)
+    if omega < 0:
+        omega += 2 * math.pi
+ 
+    # Convert Ω from radians to degrees, minutes, and seconds
+    omega_deg = math.degrees(omega)
+    omega_deg_int = int(omega_deg)
+    omega_min = (omega_deg - omega_deg_int) * 60
+    omega_min_int = int(omega_min)
+    omega_sec = (omega_min - omega_min_int) * 60
+ 
+    return omega_deg_int, omega_min_int, omega_sec
+ 
+# Example usage:
+# Use the provided position data
+x = 3.470705658033574E+05
+y = -9.265520886744432E+04
+z = -2.653599067380910E+04
+vx = -9.011403192706635E-02
+vy = 1.110259691085033E+00
+vz = 5.115987924302562E-02
+ 
+# Calculate h_x, h_y, h_z by taking the cross product of r and v
+h_x = y * vz - z * vy
+h_y = z * vx - x * vz
+h_z = x * vy - y * vx
+ 
+# Calculate the longitude of the ascending node in DMS
+longitude_deg, longitude_min, longitude_sec = calculate_longitude_of_ascending_node(h_x, h_y, h_z)
+print(f"Longitude of Ascending Node (Ω): {longitude_deg}° {longitude_min}' {longitude_sec:.2f}\"")
+
+edit***  so I was able to get the x, y and z from Horizon
+*******************************************************************************
+ Revised: July 31, 2013             Moon / (Earth)                          301
+ 
+ GEOPHYSICAL DATA (updated 2018-Aug-15):
+  Vol. mean radius, km  = 1737.53+-0.03    Mass, x10^22 kg       =    7.349
+  Radius (gravity), km  = 1738.0           Surface emissivity    =    0.92
+  Radius (IAU), km      = 1737.4           GM, km^3/s^2          = 4902.800066
+  Density, g/cm^3       =    3.3437        GM 1-sigma, km^3/s^2  =  +-0.0001  
+  V(1,0)                =   +0.21          Surface accel., m/s^2 =    1.62
+  Earth/Moon mass ratio = 81.3005690769    Farside crust. thick. = ~80 - 90 km
+  Mean crustal density  = 2.97+-.07 g/cm^3 Nearside crust. thick.= 58+-8 km 
+  Heat flow, Apollo 15  = 3.1+-.6 mW/m^2   Mean angular diameter = 31'05.2"
+  Heat flow, Apollo 17  = 2.2+-.5 mW/m^2   Sid. rot. rate, rad/s = 0.0000026617
+  Geometric Albedo      = 0.12             Mean solar day        = 29.5306 d
+  Obliquity to orbit    = 6.67 deg         Orbit period          = 27.321582 d
+  Semi-major axis, a    = 384400 km        Eccentricity          = 0.05490
+  Mean motion, rad/s    = 2.6616995x10^-6  Inclination           = 5.145 deg
+  Apsidal period        = 3231.50 d        Nodal period          = 6798.38 d
+                                 Perihelion  Aphelion    Mean
+  Solar Constant (W/m^2)         1414+-7     1323+-7     1368+-7
+  Maximum Planetary IR (W/m^2)   1314        1226        1268
+  Minimum Planetary IR (W/m^2)      5.2         5.2         5.2
+********************************************************************************
+ 
+ 
+*******************************************************************************
+Ephemeris / WWW_USER Fri Sep 29 12:13:59 2023 Pasadena, USA      / Horizons
+*******************************************************************************
+Target body name: Moon (301)                      {source: DE441}
+Center body name: Earth (399)                     {source: DE441}
+Center-site name: Heaven on Earth Observatory, Mayhill
+*******************************************************************************
+Start time      : A.D. 2023-Sep-28 00:00:00.0000 TDB
+Stop  time      : A.D. 2023-Oct-01 00:00:00.0000 TDB
+Step-size       : 1440 minutes
+*******************************************************************************
+Center geodetic : 254.471, 32.9035384, 2.23607    {E-lon(deg),Lat(deg),Alt(km)}
+Center cylindric: 254.471, 5362.17112, 3446.19639 {E-lon(deg),Dxy(km),Dz(km)}
+Center pole/equ : ITRF93                          {East-longitude positive}
+Center radii    : 6378.137, 6378.137, 6356.752 km {Equator_a, b, pole_c}
+Output units    : KM-S
+Calendar mode   : Mixed Julian/Gregorian
+Output type     : GEOMETRIC cartesian states
+Output format   : 3 (position, velocity, LT, range, range-rate)
+EOP file        : eop.230927.p231221
+EOP coverage    : DATA-BASED 1962-JAN-20 TO 2023-SEP-27. PREDICTS-> 2023-DEC-20
+Reference frame : Ecliptic of J2000.0
+*******************************************************************************
+JDTDB
+   X     Y     Z
+   VX    VY    VZ
+   LT    RG    RR
+*******************************************************************************
+$$SOE
+2460215.500000000 = A.D. 2023-Sep-28 00:00:00.0000 TDB 
+ X = 3.470705658033574E+05 Y =-9.265520886744432E+04 Z =-2.653599067380910E+04
+ VX=-9.011403192706635E-02 VY= 1.110259691085033E+00 VZ= 5.115987924302562E-02
+ LT= 1.201512151373686E+00 RG= 3.602042811771854E+05 RR=-3.761888927526311E-01
+2460216.500000000 = A.D. 2023-Sep-29 00:00:00.0000 TDB 
+ X = 3.612178246289230E+05 Y = 2.175102251481885E+02 Z =-1.933391485093577E+04
+ VX=-3.538761876322111E-01 VY= 1.141964183533681E+00 VZ= 6.712048003763832E-02
+ LT= 1.206617868501206E+00 RG= 3.617349366646974E+05 RR=-3.562710879736578E-01
+2460217.500000000 = A.D. 2023-Sep-30 00:00:00.0000 TDB 
+ X = 3.525900479296140E+05 Y = 9.334101334405206E+04 Z =-1.122942013890661E+04
+ VX=-6.159050044487818E-01 VY= 1.104174316562248E+00 VZ= 7.721989291731685E-02
+ LT= 1.217204527827483E+00 RG= 3.649087372861304E+05 RR=-3.150496228123838E-01
+2460218.500000000 = A.D. 2023-Oct-01 00:00:00.0000 TDB 
+ X = 3.221837310026606E+05 Y = 1.808849216335789E+05 Z =-2.748397019656826E+03
+ VX=-8.568131300802702E-01 VY= 1.002000203732668E+00 VZ= 8.112992260778490E-02
+ LT= 1.232514886108716E+00 RG= 3.694986672281219E+05 RR=-2.571795472029340E-01
+$$EOE
+*******************************************************************************
+ 
+TIME
+ 
+  Barycentric Dynamical Time ("TDB" or T_eph) output was requested. This
+continuous coordinate time is equivalent to the relativistic proper time
+of a clock at rest in a reference frame co-moving with the solar system
+barycenter but outside the system's gravity well. It is the independent
+variable in the solar system relativistic equations of motion.
+ 
+  TDB runs at a uniform rate of one SI second per second and is independent
+of irregularities in Earth's rotation.
+ 
+CALENDAR SYSTEM
+ 
+  Mixed calendar mode was active such that calendar dates after AD 1582-Oct-15
+(if any) are in the modern Gregorian system. Dates prior to 1582-Oct-5 (if any)
+are in the Julian calendar system, which is automatically extended for dates
+prior to its adoption on 45-Jan-1 BC.  The Julian calendar is useful for
+matching historical dates. The Gregorian calendar more accurately corresponds
+to the Earth's orbital motion and seasons. A "Gregorian-only" calendar mode is
+available if such physical events are the primary interest.
+ 
+REFERENCE FRAME AND COORDINATES
+ 
+  Ecliptic at the standard reference epoch
+ 
+    Reference epoch: J2000.0
+    X-Y plane: adopted Earth orbital plane at the reference epoch
+               Note: IAU76 obliquity of 84381.448 arcseconds wrt ICRF X-Y plane
+    X-axis   : ICRF
+    Z-axis   : perpendicular to the X-Y plane in the directional (+ or -) sense
+               of Earth's north pole at the reference epoch.
+ 
+  Symbol meaning:
+ 
+    JDTDB    Julian Day Number, Barycentric Dynamical Time
+      X      X-component of position vector (km)
+      Y      Y-component of position vector (km)
+      Z      Z-component of position vector (km)
+      VX     X-component of velocity vector (km/sec)                           
+      VY     Y-component of velocity vector (km/sec)                           
+      VZ     Z-component of velocity vector (km/sec)                           
+      LT     One-way down-leg Newtonian light-time (sec)
+      RG     Range; distance from coordinate center (km)
+      RR     Range-rate; radial velocity wrt coord. center (km/sec)
+ 
+ABERRATIONS AND CORRECTIONS
+
+and came up with: "python nodemath.py
+Longitude of Ascending Node (Ω): 4.156300512180232" .. now I am not quite sure its correct or I got it right. This is not matching with the current NN coordinates so the code is off

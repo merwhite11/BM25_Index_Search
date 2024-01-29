@@ -1,0 +1,3 @@
+Data for "milky way outline"
+
+I am trying to make a software generated star chart, and want to include the outline of the milky way as shown in many such star charts.  Does anyone have any idea where to obtain the data for that?  The data must be available somewhere if star charts already have them.

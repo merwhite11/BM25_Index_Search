@@ -1,0 +1,11 @@
+Trying to understand lunar phases
+
+Complete novice here. I'm trying to understand what appears to be two approaches to quantifying lunar phases. Have I got this right?
+
+Named lunar phases can be understood as the Moon's ecliptic longitude minus the Sun's ecliptic longitude. These are, for example, exactly $0^{\circ},90^{\circ},180^{\circ}$ and $270^{\circ}$ respectively for a new moon, first quarter, full moon, and last quarter.
+
+Illuminated fraction of the Moon's disc uses the formula$$k=\frac{1+\cos i}{2},$$where $i$ is the Moon's phase angle (angle from the Sun to the Moon to the Earth).
+
+
+Phase angles of $0^{\circ},90^{\circ},180^{\circ}$ and $270^{\circ}$ are only approximately equal to (respectively) a new moon, first quarter, full moon, and last quarter. This is because the Moon's orbital plane is slightly inclined to the ecliptic plane.
+Is this correct?

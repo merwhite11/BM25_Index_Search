@@ -1,0 +1,40 @@
+Has Hubble photographed Venus in near IR? If so how does it compare to the new and exciting Parker Solar Probe image?
+
+Phys.org's Parker Solar Probe offers stunning view of Venus includes the image below taken by the Parker Solar Probe during it's most recent gravitational assist flyby of Venus as it continues to rid itself of energy to get ever closer to the Sun.
+Apparently the image is surprising because it shows surface features of the planet, which was not expected to happen.
+The article says:
+
+"WISPR effectively captured the thermal emission of the Venusian surface," said Brian Wood, an astrophysicist and WISPR team member from the U.S. Naval Research Laboratory in Washington, D.C. "It's very similar to images acquired by the Akatsuki spacecraft at near-infrared wavelengths."
+This surprising observation sent the WISPR team back to the lab to measure the instrument's sensitivity to infrared light. If WISPR can indeed pick up near-infrared wavelengths of light, the unforeseen capability would provide new opportunities to study dust around the Sun and in the inner solar system. If it can't pick up extra infrared wavelengths, then these images—showing signatures of features on Venus' surface—may have revealed a previously unknown "window" through the Venusian atmosphere.
+"Either way," Vourlidas said, "some exciting science opportunities await us."
+
+Wikipedia's Akatsuki_(spacecraft) says that it had:
+
+Lightning and Airglow Camera (LAC, 552-777 nm)
+Ultraviolet imager (UVI, 283–365 nm)
+Longwave infrared camera (LIR, 10 μm)
+Infrared 1 μm camera (IR1, 0.90–1.01 μm) is imaging on the night side heat radiation emitted from Venus's surface and help researchers to spot active volcanoes, if they exist. While on the day side, it sensed the solar near-infrared radiation (0.90 μm) reflected by the middle clouds. Unavailable for observation after December 2016 due to an electronic failure. (references)
+infrared 2 μm camera (IR2,, 1.74–2.32 μm) studied the night side lower clouds' opacity to the thermal emission from the surface and deeper atmosphere. It also sensed on the day side the CO2 band at 2.02 μm, which can be used to infer the altitude of the top of the clouds. Finally, the 1.65-μm filter was used during the cruise phase to study the zodiacal light. Unavailable for observation after December 2016 due to an electronic failure.
+Ultra-Stable Oscillator (USO) for performing radio occultation experiments.
+
+Wikipedia gives the average surface temperature of Venus as 737 K which is 464 °C. I've plotted a Planck distribution for that temperature below.
+Venus is hot enough where thermal radiation can be found in "near IR" and not just "thermal IR" which explains the mixing of the terms in the article.
+The Wide-Field Imager for Solar Probe Plus (WISPR) (paywalled but also found here and here) gives the specifications for the two cameras comprising WISPR:
+Table 4 WISPR Optical Design
+
+                             Spectral    Entrance                        RMS Spot 
+                   FOV      Range (nm)  Pupil (mm)   F#    # of lenses   Size (µm)
+                ---------   ----------  ----------  -----  -----------   ---------
+Inner Telescope 40◦ × 40◦    490–740      7.31      3.83     5-element       19
+Outer Telescope 58◦ × 58◦    475–725      8.08      4.04     6-element       20
+
+With nominal cutoffs at 725 and 740 nm one might not expect to pick up much radiant light from Venus' surface compared to reflected sunlight from the clouds in these spectral ranges, thus the excitement!
+The NASA JPL page Venus Cloud Tops Viewed by Hubble has an image of Venus taken by Hubble in ultraviolet.
+Question: Has Hubble photographed Venus in near IR? If so how does it compare to the new Parker Solar Probe image?
+Wikipedia's Hubble Space Telescope gives the spectral range of the WFC3 as 0.2–1.7 μm (WFC2 was 120 to 1000 nm) so If there is a filter that coincides with whatever spectral window of Venus' atmosphere is involved in this, it's possible that the effect may have been spotted earlier.
+
+
+The figure's caption says:
+
+When flying past Venus in July 2020, Parker Solar Probe's WISPR instrument, short for Wide-field Imager for Parker Solar Probe, detected a bright rim around the edge of the planet that may be nightglow -- light emitted by oxygen atoms high in the atmosphere that recombine into molecules in the nightside. The prominent dark feature in the center of the image is Aphrodite Terra, the largest highland region on the Venusian surface. Bright streaks in WISPR, such as the ones seen here, are typically caused by a combination of charged particles -- called cosmic rays -- sunlight reflected by grains of space dust, and particles of material expelled from the spacecraft's structures after impact with those dust grains. The number of streaks varies along the orbit or when the spacecraft is traveling at different speeds, and scientists are still in discussion about the specific origins of the streaks here. The dark spot appearing on the lower portion of Venus is an artifact from the WISPR instrument.
+Credit: NASA/Johns Hopkins APL/Naval Research Laboratory/Guillermo Stenborg and Brendan Gallagher

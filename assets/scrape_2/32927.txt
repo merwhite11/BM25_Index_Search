@@ -1,0 +1,10 @@
+Geo Helio and RA
+
+please assist me , i'm using Zet 9 and there is Geo longitude , Helio longitude and RA , what is the difference between them.
+example :
+                     Mars
+Date        Time     HLng       Lng        RA
+01.01.2000  0:00:00  359.12584  327.57547  330.14521
+
+some books use geo long. and the RA interchangeably as if they are the same thing , but they are not.
+please help , thanks in advance.

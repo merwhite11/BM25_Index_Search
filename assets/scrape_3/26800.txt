@@ -1,0 +1,3 @@
+Is Limb Darkening because at centre we are directly looking core, whereas at limbs we are seeing only photospheric part?
+
+Is limb darkening of the Sun because at centre we are directly looking the core and different zones, whereas at limbs we are seeing only the photospheric part (and less beneath photospheric part)? Or there is some other physics behind this phenomenon?

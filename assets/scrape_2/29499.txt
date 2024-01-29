@@ -1,0 +1,6 @@
+Helioseismology of the Sun, what is actually measured?
+
+Wikipedia's article Helioseismology outlines several ways to analyze, data but is fairly thin on the nature of the measurements themselves.
+Are there hundreds or thousands of high resolution spectroscopic measurements of the Doppler shift of some emission or absorption line distributed across the disk, or can this be done using low resolution spectroscopy to generate some variation in temperature or brightness?
+I'm interested in a basic appreciation of the nature and granularity of the data (e.g. 0.1 angstrom in wavelength, 1 second of time, 1 minute of arc, etc.) and what kind of instruments collect said data. 
+The answer doesn't necessarily have to be long, just something to get me started.

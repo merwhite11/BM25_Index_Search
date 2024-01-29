@@ -1,0 +1,25 @@
+The Lambda-CDM-model: when will the Age of the universe catch up with the Hubble time?
+
+Basic assumptions:
+A) Within the Lambda-CDM-model we have two separate time measures:
+
+the Age of the universe - today roughly 13.8 GY, and
+the Hubble time - today roughly 14.4 GY
+
+B) Very roughly, CDM came first, followed by Lambda
+
+CDM ruled 0-9 GY A.B.B.
+Lambda rules after 9 GY A.B.B.
+
+C) According to theory:
+
+During CDM a(t)=t^(2/3) => Hubble Time = 1.5 * the Age of the universe.
+During Lambda the Hubble Time is constant, based on a(t) = exp(H*(t-t_now))
+
+Questions, based on these very rough assumptions:
+
+Currently the Hubble Time is still greater than the Age of the universe by some 600 MY, but Age is closing in. When will these two become equal?
+
+Are there any reasonable estimates of the pure Lambda Hubble Time?
+
+What will happen when Hubble Time equals Age of the universe?

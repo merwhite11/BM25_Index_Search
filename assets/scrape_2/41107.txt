@@ -1,0 +1,7 @@
+In astronomical interferometry, what values do the points in the uv-plane have?
+
+As I understand it, the image of an interferometer is the inverse fourier transform of the information in the uv plane. For each baseline (vector between any two telescopes in the array), representing a certain wavelength along its orientation, there is a point in the uv plane.
+
+(image from lecture notes from nrado.edu)
+But what value does each of these data points have? I'd expect them to contain amplitude and phase information, but which exactly?
+How do I get these values from the signals of my telescopes? Say, I already computed the phase shifts between the signals, what values do I put in the uv plane?

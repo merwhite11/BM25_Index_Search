@@ -1,0 +1,4 @@
+How to compute the perihelion precession of Earth's orbit?
+
+I want to simulate the perihelion precession of Earth. I tried searching  other posts in stack exchange as well relating this question but may be it's my fault that I couldn't understand their answers. I read the history about mathematicians and physicists trying to find a good theory accounting the precession. I read that there are many planetary equation by Newton,Laplace,Hill,Poincare etc. But I am not sure which one gives the more accurate result. I am not even sure if I going on a right track searching the correct theory.
+I'd really appreciate if anyone could help me with the theory which gives fast and more accurate result?

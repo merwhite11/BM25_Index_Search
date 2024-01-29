@@ -1,0 +1,66 @@
+Need help on Springel model for galaxy simulation
+
+I am working on a code for galactic dynamics simulation. Initial conditions (positions and velocities) are based on a model with a massive dark halo and a thin exponential disk.
+Now, from the following paper "Tidal tails in CDM cosmologies", I am studying the response of the dark matter profile.
+Here's a capture of the article part that confuses me :
+
+Firstly, I don't understand how one gets equation (16) from the fact that angular momentum of individual dark matter orbits is
+conserved, i.e :
+\begin{equation}
+r_{i}\,M(r_{i})=r_{f}\,M_{f}(r_{f})\quad\quad\text{(eq 16)}       
+\end{equation}
+" where $r_{i}$ and $r_{f}$ are the initial and final radii of some dark matter mass shell, $M(r)$ gives the initial NFW mass
+profile, and $M_{f}(r)$ is the final cumulative mass profile after the disk is formed."
+Question 1) Is (equation 16) got by the momentum theorem ? ($\dfrac{\text{d}\vec{L}}{\text{d}t} = \vec{OM} \times \vec{F}$)
+And how to prove it, i.e what's the demonstration to get (equation 16) ?
+I don't understand what's the difference between $M(r)$ and $M_{f}(r)$.
+After, it is said that $M_{f}(r)$ is the sum of the cumulative mass of the disk and the dark mass inside the initial radius
+and author writes (equation 17 on paper) :
+\begin{equation}
+M_{f}\,(r_{f})=M_{d}\,(r_{f})+(1 - m_{d})\,M(r_{i})\quad\quad\text{(eq 17)}
+\end{equation}
+I would like to connect this equation with the total mass of galaxy which could be written (according to me) as :
+\begin{equation}
+M_{total}\,(r) = M_{d}\,(r) + M_{DM}\,(r) = m_{d}\, M_{DM}\,(r) + M_{DM}\,(r) = (1+m_d)\, M_{DM}\,(r)
+\end{equation}
+with $m_{d}$ the ratio between disk mass and halo mass.
+Question 2) Could you help me to connect the total mass with this equation (17) ?
+After with equation (18), author of paper writes that the final profile $M_{h}(r)$ of the dark matter halo is then given by :
+\begin{equation}
+M_{h}\,(r) = M_{f}\,(r) - M_{d}\,(r)
+\end{equation}
+Question 3) So should I conclude that $M_{f}\,(r)$ is the total mass of galaxy (disk + halo) as a function of $r$ ?
+Any help would be great,
+Regards
+UPDATE 1 :
+I have contacted the author of paper "Tidal tails in CDM cosmologies", i.e Volker Springel and here are its comments :
+
+Question 1*) Answer: For simplicity, you can consider that all particles are on circular
+  orbits. The initial circular velocity of a particle is $$v_i = \sqrt{(G M(r_i)/r_i)}$$, the final one is $$v_f = \sqrt{(G M(r_f)/r_f)}$$. The
+  corresponding angular momenta are $$L_i = m r_i v_i$$ and $$L_f = m r_f v_f$$.
+  Now, the angular momentum is an adiabatic invariant when the halo is
+  slowly compressed, hence $$L_i = L_f$$. The latter equation then gives eqn
+  (16) when one plugs in the velocities.
+Question 2*) "I don't understand what's the difference between $M(r)$ and
+  $M_f(r)$ ?" 
+Answer: 
+$M_i(r)$ is the initial and $M_f(r)$ the final cumulative mass profile.
+Question 3*)
+I would like to connect this equation with the total mass of galaxy which could be written as :
+$$ M_{total}(r) = M_d(r) + M_DM(r) = m_d M_DM(r) + M_DM(r) = (1+m_d) M_DM(r)$$
+Answer : This can only be written for the initial distribution in
+  this form, where the assumption is that the mass that will later make
+  up the disk is distributed proportionally to the dark matter.
+Question 4*)
+  Could you help me to connect the total mass with this equation (17) ?
+After with equation (18), you write that the final profile M_{h}(r)$ of the dark matter halo is then given by :
+$$M_h (r) = M_f(r) - M_d(r)$$.
+So should I conclude that M_f(r) is the total mass of galaxy (disk + halo) as a function of r ?
+  < Answer : "Yes."
+
+In conclusion, I can solve my question 1*) but not question 2*) nor question 3*)
+Right now, my goal is to demonstrate how to get  :
+$$\begin{equation}
+M_{f}\,(r_{f})=M_{d}\,(r_{f})+(1 - m_{d})\,M(r_{i})\quad\quad\text{(eq 17)}
+\end{equation}$$
+Any help to acheive this is welcome, thanks

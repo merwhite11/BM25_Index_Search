@@ -1,0 +1,8 @@
+derivation of reduced magnitude of asteroids
+
+I've noticed that there is this parameter called reduced absolute magnitude $V(\alpha)$ and it is defined as below according to the paper by Mahlke et al. 2021 https://doi.org/10.1016/j.icarus.2020.114094
+$V(\alpha) = m + 5 log (r\Delta) $
+, where where $r$ is the distance between the asteroid and the Sun at the epoch of observation and $Δ$ the respective distance between the asteroid and Earth, $m$ is the observed apparent magnitude, according to the authors. $V(\alpha)$ is referred to as the phase curve, and, by definition, $H = V(0)$, observed at a phase angle of 0° at 1 AU from both Earth and Sun.
+I've tried to find the the derivation of this equation, and haven't succeeded yet. I've also referred the absolute magnitude of solar system bodies given in the the wikipedia page https://en.wikipedia.org/wiki/Absolute_magnitude and could not find the derivation of the above equation.
+Can anyone point me to the right direction please?
+Thanks !

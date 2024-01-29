@@ -1,0 +1,9 @@
+Excluding a rectangular region from an image in FITS
+
+I am a complete beginner in astronomy. While learning DS9, I came up with the following question.
+Say I want to exclude a boxed region from an image FITS. The corresponding parameters according to Chandra is
+
+Box = (xcenter,ycenter,width,height)
+Box = (xcenter,ycenter,width,height,angle)
+
+Although the name is self-explanatory yet I am confused about their respective units. What unit is used to label these parameters?

@@ -1,0 +1,6 @@
+How do rocky objects between 1cm and 1m accrete to form planetesimals?
+
+I am having a hard time gaining an intuitive understanding of some of the middle stages of planetary formation from a protoplanetary accretion disk.
+I understand that microscopic dust particles may accrete through something like electrostatic forces. This makes sense on an intuitive level as we often observe very small objects sticking to one another, like clumps of dust 'just forming' in the corner of a dusty basement. I am guessing that gravity doesn't come into play here since the particles are too small.
+However, I can't quite visualise how objects that are greater than 1cm and smaller than 1m can accrete, particularly when they are formed from rocky substances. This seems to defy intuition, as electrostatic forces don't act to join objects at this scale - you can't just stick rocks together. It doesn't seem to be a matter of energy either, since smashing rocks together results in either one of them breaking apart rather than sticking together.
+Is there a known mechanism by which rocky objects within between 1cm and 1m accrete to form larger objects? I vaguely remember reading about how gas clouds may have been involved.

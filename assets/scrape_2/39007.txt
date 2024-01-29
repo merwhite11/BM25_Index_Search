@@ -1,0 +1,27 @@
+How are sulfuric acid clouds able to completely cover Venus?
+
+It is a well-known fact that an opaque layer of highly reflective clouds of sulfuric acid completely shrouds Venus preventing its surface from being seen from space in visible light. This is mentioned in the official NASA site and also in some papers:
+
+
+
+The atmosphere of Venus is made up mainly of carbon dioxide, and
+thick clouds of sulfuric acid completely cover the planet. (nasa.gov)
+
+
+
+
+The clouds that completely shroud the planet are located in the altitude range of approximately 50–70 km with upper and lower haze extending up to about 100 km and 30 km correspondingly, thus occupying the upper troposphere and the entire mesosphere.
+Titov, D.V., Ignatiev, N.I., McGouldrick, K. et al. Clouds and Hazes of Venus. Space Sci Rev 214, 126 (2018). https://doi.org/10.1007/s11214-018-0552-z
+
+
+
+
+The sky of Venus is fully covered by thick clouds of sulfuric acid that are located at a height of 45-70 km, making it hard to observe the planet's surface from Earth-based telescopes and orbiters circling Venus. (eurekalert.org)
+
+
+
+But in this question, user @Cornelisinspace came to the conclusion that "there is much less sulfuric acid than water !".  So, if there is less sulfuric acid than water (which is already present in trace amount):
+
+how is it able to "completely spread over" and "fully cover the planet"?
+
+why is the cloud cover so thick (so thick that it reflects most of the solar radiation (except in some dark patches where it gets absorbed) making the planet opaque)?

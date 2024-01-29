@@ -1,0 +1,4 @@
+Two body orbit dynamics for orbital periods approaching light cone limit
+
+How do you model a system of two large celestial bodies, where they achieve a rotation very close to the limit at which information can escape the system (heat, light, etc.), do they begin to appear like toroids? Does the last parsec problem possibly discuss such things?
+I am trying to take into consideration the object's radius as well.

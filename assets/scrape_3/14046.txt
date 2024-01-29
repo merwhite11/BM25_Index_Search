@@ -1,0 +1,3 @@
+Moon SHAPE calculator
+
+I have seen a lot of information about moon phase calculation, but need an accurate moon shape calculator/algorithm given the observer's position and time. This implies that the illuminated portion may be rotated, and not only have a right-left orientation as traditionally depicted.

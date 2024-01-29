@@ -1,0 +1,5 @@
+Escaping a black hole
+
+I often hear that nothing can escape a black hole because its "escape velocity" is greater than c. If that is accurate, what about the following? I know that the following has a lot of most likely impossible assumptions, but I'm trying to understand whether the escape velocity explanation makes sense.
+Suppose you've got some sort of space ship that's inside the event horizon, and it hasn't been destroyed by the gravity or tidal forces. Also suppose that you've got a whole lot of reaction mass and a fantastic power supply.
+Could this space ship, through applying enough constant force escape the event horizon?

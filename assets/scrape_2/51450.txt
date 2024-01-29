@@ -1,0 +1,5 @@
+If Earth's rotational speed is zero at the North Pole, why do stars still have apparent motion?
+
+The apparent motion of stars (and other objects) results from Earth's spin on its axis, hence the rising and setting of some stars, and the circumpolar nature of others.
+If the ground is not moving beneath your feet, then there shouldn't be any apparent motion from the North Pole. But my Stellarium app, when set to 90°N or 90°S, still shows all stars moving in circles around the North Celestial Pole.
+What am I missing?

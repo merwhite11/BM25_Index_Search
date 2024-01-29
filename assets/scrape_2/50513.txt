@@ -1,0 +1,3 @@
+If a planet orbits an M-Star in an S-type orbit around a G star, what is the minimum distance from the G star that it could remain tidally locked?
+
+I'm wondering how close a planet-M-dwarf system could orbit a G star and have the planet remain tidally locked to the M star.  I'm curious, because I'm designing a habitable planet, and I want the planet to be close enough to the G star that at least a minimal amount of photosynthesis could occur on the "night-side" (not really accurate term in this context).  If the planet-M-dwarf system was orbiting the G star at 2 AU, could the planet remain tidally locked? If not, what is the minimum distance?

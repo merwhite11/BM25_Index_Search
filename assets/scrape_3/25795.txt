@@ -1,0 +1,6 @@
+What is the present day radius of the observable universe?
+
+The radius of the observable universe is generally taken to be ~45 billion light  years. However, we see distant galaxies as they were many millions of years in the past, so there are two ways I can interpret this radius value:
+1) Light that is reaching Earth for the first time today was emitted by ancient galaxies that were initially a lot closer, but are now estimated to be 45 billion light years away from us.
+2) Light that is reaching Earth for the first time today was emitted by ancient galaxies that were initially 45 billion light years away, and are now a lot further.
+Which interpretation, if they're not both wrong, is correct?

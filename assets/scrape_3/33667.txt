@@ -1,0 +1,22 @@
+How to calculate the orbital velocity, the high-orbit (quasigeostationary) holding force and the shadow of the disk on Earth?
+
+[]
+The following data are given:
+•   The circular orbit of the disk D (quasigeostationary orbit) parallel to the geostationary orbit.
+•   Located 4,505 km to the north of the equatorial plane, above the 45 degree parallel. The radius of orbit with respect to the gravitational center of the Earth 41,922 km (calculated by the uhoh we thank)
+•   Disc diameter: 10 km.
+•   The disc consists of a support frame and solar panels. The specific weight approx. 4.5 kg per square meter.
+•   The time when the disc makes a complete, retrograde motion, around the earth: 25 hours.
+Required:
+1 Orbital speed of the disk so as to achieve a complete circular motion in 25 hours.
+2 The force required to  maintain the disk in orbit and to compensate gravitational attraction.
+2.1 How can this force be assured?
+2,2 with thermochemical propellants (rockets with liquid fuel that could be started periodically?
+2.3 electromagnetic, ionic, photonic propellants with cold gases.
+2.4 And so on
+3   What is the diameter of the disk shadow on the Earth's surface?
+Figures 1: 2 and 3 graphically reflect the problem.
+Any critical comments or comments are welcome.
+
+enter image description here
+enter image description here

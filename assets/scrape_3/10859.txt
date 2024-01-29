@@ -1,0 +1,5 @@
+Can there be an object with planetary discriminant between Ceres and Neptune?
+
+The planetary discriminant is a measure of how dominant a body is within its region of the solar system. For (true) planets, it is $>10000$ and for dwarf planets it is $<1$. (See this answer to "How many planets are there in this solar system?" which explains the related details.)
+Is it possible, given what has already been observed about our solar system, for there to be an object with  "planetary discriminant" µ between that of Ceres and Neptune?   In other words, could the clear cut line between planets and dwarf planets get fuzzier?   
+Obviously it would have to be a massive body pretty far out.  Is there a region in the solar system which could be devoid enough of many small objects, which also could be home to a large enough body that we also haven't observed yet?   How does the math work out?

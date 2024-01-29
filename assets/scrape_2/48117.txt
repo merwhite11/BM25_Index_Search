@@ -1,0 +1,6 @@
+Improving portability of truss Newtonian
+
+I'm designing a 10in f/6 truss Newtonian as a sort of big travel scope; something that I can break down into parts to fit in a backpack or similar but will still give me decent angular resolution. In trying to optimise for portability, I've managed to fit the rocker box, base, secondary mirror and cage, etc into a nice, small, portable package - but I'm stuck with eight 20mm diameter, 1.5m long truss tubes to carry around. Using carbon fibre the mass is no problem, but the sheer size would make transporting it completely impractical. Does anyone have any techniques they've used to solve this problem? Of course, there's always the option of cutting the tubes into multiple parts like a tent pole - but I worry that would seriously affect rigidity and add major vibration.
+Here's the style of scope I'm using:
+
+Truss tubes are clearly visible holding the secondary mirror cage + focuser assembly at the correct distance from the primary mirror.

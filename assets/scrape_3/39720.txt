@@ -1,0 +1,31 @@
+Mapping illumination to moon phase (font) icon
+
+I use algorithms that give me the moon phase, age and illumination (and more) for a given timestamp and location. I am struggling to map that information to a (font) icon of the Moon Phases font. Each icon is an approximation because it ignores the rotation. Still, I'd like to map illumination (I guess?) to icon as precisely as possible.
+
+As you can see above there are 13 characters/icons per half cycle; 26 characters a-z. However, new/full moon are represented by the numbers 0 and 1. Particularly there's a gap between m and n where the new moon is in reality. The font uses a-z and A-Z to distinguish between northern hemisphere and southern hemisphere (again, I guess).
+Mental model
+Illumination 100%                              0%                              100%
+
+Moon         full                              new                             full
+
+              |---------------------------------|--------------------------------|
+
+Character     1            a - m                0             n - z              1
+
+Assuming my mental model is correct this means (for the northern hemisphere)
+
+13 characters plus 0/1 to distribute across the 0-100% illumination range
+pick 0 if the illumination is <= 100/15 i.e. <= ~6.66%
+pick 1 if the illumination is >= 100 - 100/15 i.e. >= 93.33%
+if waning (waning gibbous, last quarter, waning crescent)
+
+round(illumination/100 * 15) + 97 to find character index for a-m
+
+
+if waxing
+
+round(illumination/100 * 15) + 110 to find character index for n-z
+
+
+
+Does that sound about correct?

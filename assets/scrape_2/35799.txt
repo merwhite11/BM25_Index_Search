@@ -1,0 +1,3 @@
+Identifying common galaxy spectral lines
+
+How does one identify the common galaxy absorption lines (e.g. Na, Mg, K, etc.) and emission lines (H-alpha, O III, S II, etc.) by just looking at a galaxy spectrum (like the one below)? I need to know how to do this because I want to calculate the redshifts of galaxies using the emitted wavelengths from the SDSS table.

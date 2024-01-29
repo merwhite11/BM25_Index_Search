@@ -1,0 +1,4 @@
+How to calculate parallactic angle from a fixed alt-az position?
+
+Say we have an observer at a specified latitude and longitude on Earth who would like to observer a specific fixed alt-az sky position (rather than RA and dec), for example to look at geosynchronous satellites.  Since the alt-az position of the observation is not changing, it seems to me that parallactic angle also would not be changing and so should be derivable from just alt-az and lat-long, but I haven't been able to figure out how to do it.  
+All the calculations I've seen online use RA or hour angles in calculating parallactic angle, which intermediary values I would like to avoid if mathematically possible.

@@ -1,0 +1,9 @@
+Tracking the Sun from Sunrise in the East to Sunset in the West
+
+Is there a Correct way to mathematically allocate GPS/location of Azimuth Degrees ?
+EG:
+In the Southern Hemisphere, if North is 0 degrees, for say Sydney is direct East 90 or -90 degrees ?
+Then what is direct West -90 degrees or 270 degrees for southern hemisphere ?
+Assuming the degrees go from North=0, and goes Clockwise to 360 degrees?
+And is Northern Hemisphere the opposite ?
+As I am unsure how these are correctly used for following the Sun position through the sky, in mathematical terms!

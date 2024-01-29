@@ -1,0 +1,7 @@
+A "tidally locked" double planet?
+
+First, I'd like to take the definition of a "double-planet" as two bodies orbiting each other where the center of gravity is not inside the larger body. Also, the system would have to fill other planet requirements (like emptying it's own orbital area around the star).
+Now, let's say that the "binary system" is in an orbit close enough to a star to be tidally locked to the star. How would the tidal effects of the star's gravity effect the orbit of the planets around each other??
+Let's take an example of a "double-planet" (of $0.075$ and $0.030\:\mathrm{M_{Earth}}$ with a separation of $1.17 \times 10^6\:\mathrm{km}$ orbiting their CM in about $450\:\mathrm{days}$. They are $0.085\:\mathrm{AU}$ from a star of mass $0.35\:\mathrm{M_{Sun}}$ and thus orbit the star in $15.3\:\mathrm{days}$. The planetary rotation/co-orbital period is much longer than the orbital period around the star, so I would think that the planets would have characteristics of a lone TL planet.
+I am wondering how such a system would evolve over time. Would someone on the surface of one of the planets experience experience night and day in 15.3 day cycles? Would the difference in tidal effects of the star on the different sized planets cause the orbit to "precess" or have some other effect?
+Imagine designing a long term calendar for this system!!

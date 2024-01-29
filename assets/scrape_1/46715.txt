@@ -1,0 +1,6 @@
+Is it possible for a planet to heat up its moon to habitable temperatures solely through infrared radiation?
+
+Stars are powered by nuclear fusion and the energy released radiates through their surface as heat. But all objects radiate away some form of electromagnetic radiation depending on their temperature.
+Is it possible for a planet to be large enough (i.e. Have a large surface area to radiate away heat) and be hot enough (to increase the total energy emitted but NOT enough for it to visibly glow in the visible-light spectrum) to heat up a moon orbiting it to habitable temperatures?
+And if so, at what distance would the moon have to orbit?
+PS: You can assume the moon has an Earth-like atmosphere to moderate the temperature extremes and keep heat from radiating away like it does in our Moon.

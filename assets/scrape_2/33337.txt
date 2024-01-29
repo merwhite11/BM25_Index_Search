@@ -1,0 +1,14 @@
+Why is this telescope so short? How hard is it to make such a fast primary?
+
+The recently discovered object C/2019 Q4 (Borisov) is in the news because it might have an eccentricity greater than one, which means it might be from outside the solar system, though not necessarily.
+MPEC 2019-R106 estimates e=3.08.
+I looked at Sky and Telescope's Is Another Interstellar Visitor Headed Our Way? which shows the image and caption below.
+Although it is impossible to be sure from only this photograph, the 0.65 m telescope looks like the distance from primary to the small secondary is only about 1 meter, maybe 1.2 at most. 
+Questions: 
+
+Why is this telescope so short? 
+How hard is it to make such a fast (and therefore deep) primary?
+
+
+
+Gennady Borisov with the 0.65-meter telescope he built and used to discover the new comet. G. Borisov

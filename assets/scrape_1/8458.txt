@@ -1,0 +1,45 @@
+Questions about a fictional binary system, and habitability
+
+Note: Questions are at the bottom. The rest had simply been written in a format to better organize my thoughts. The formulas used to construct this fictional solar system, had been borrowed from Artefxian and are presented in several of his videos. 
+Theoretical:
+A P-Type binary star system featuring a gas giant on or near the habitable zone, with a habitable moon.
+Considerations: 
+
+Gas giant would need a stable magnetosphere. Jupiter and Saturn may be useful examples. 
+The moon's mass must be great enough to sustain an atmosphere. In this instance, a nitrogen/oxygen atmosphere. It is estimated that a moon with a mars-like density, would need at least 7% of Earth's mass in order to support such an atmosphere for several billion years.
+Both gas giant and the habitable moon must maintain stable orbit. Simulations would suggest that, to maintain a stable orbit to a gas giant, or a brown dwarf that orbits 1 AU from a sun-like star, would require a moon orbital period of less than 45 - 60 days.   
+The moon itself must be capable of generating it's own magnetosphere in order to deflect stellar wind and the gas giants' naturally generated radiation belts.  
+There is a high likelihood that the moon would be tidally locked with it's parent world. Monoj Joshi, Robert Haberle, and their colleagues suggest that the effect of tidal heating could support conditions amenable to habitability. Additionally, tidal effects may allow for plate tectonics, causing volcanic activity and a regulation of the moon's surface temperature. The potential, resulting geodynamo effect would allow for a strong magnetic field.  
+Balance: The moon should be large enough to support tectonic activity, dense enough to support a strong protective magnetosphere, close enough to the gas giant to maintain stable orbit, and be far enough away that it's own magnetosphere may better protect from sputtering caused by it's parent worlds' radiation belts.  
+It is suggested that the larger and more dense a terrestrial, water-rich world, the further out it's habitable zone extends.
+
+Fictional Data:
+Star A: Mass = 1.1; Luminosity = 1.39; Diameter = 1.07; Surface Temperature = 1.04
+Star B: Mass = 0.9; Luminosity = 0.69; Diameter = 0.92; Surface Temperature = 0.94
+Separation: 0.3 AU
+Barycenter: 0.45/0.225 AU
+Eccentricity: 0.4/0.5
+Separation Minimum: 0.27/0.1125
+Separation Maximum: 0.63/0.3375
+Separation Overall: 0.9/0.45
+Inner Boundary: 0.2 AU
+Outer Boundary: 80 AU
+Frostline: 6.984 AU
+Inner Habitable Zone: 1.976 AU
+Outer Habitable Zone: 2.808 AU
+Ideal Position: 1.8 AU
+Inner Forbidden "Hell" Zone: 0.3 AU
+Outer Forbidden "Hell" Zone: 1.35 AU  
+Goal: Create a fictional, theoretical system which can be demonstrated as stable, in which an earth analog may safely orbit a gas giant.
+Further Considerations: 
+
+The moon does not necessarily need to be an earth analog, and may simply be demonstrated as habitable to human life.
+The gas giant does not necessarily need to be within the habitable zone, and may cradle the outer limits of the CMZ, or be further out provided it can be demonstrated that the orbiting moon could feasibly support human life unassisted by technology. i.e. Robin Crusoe could become stranded on the moon, and survive. 
+
+Questions:
+
+How far would the moon have to orbit from it's parent body, to prevent tidal locking?  
+How can I find a balance, between the binary stars' gravitational pull, the gas giant's gravitational pull, and the chaos it may play on the moon?  
+If no balance can be met, I will accept tidal locking with the moon. In this instance, how can I go about determining a safe and stable orbiting distance for the moon?  
+How can I determine the effect of the gas giants' magnetosphere on the moon? What would the math behind it look like?  
+Are there any considerations I may be missing, and how would they affect this scenario?

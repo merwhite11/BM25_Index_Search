@@ -1,0 +1,4 @@
+Why are there no ISM clouds with temperatures between 100 and 6,000K?
+
+In the interstellar medium, there are several different diffuse phases of gas, distinguished by their density and temperature. Specifically, the cold neutral medium has temperatures from ~50-100 K and the warm neutral medium ranges from 6,000-10,000 K. According to my professor, there have been few gas clouds found with temperatures between these two.
+Does anyone know why such a large gap exists?

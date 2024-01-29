@@ -1,0 +1,6 @@
+calculating rising time from culmination time
+
+I want to know how to calculate the rising time of a star, if 
+culmination and setting times are available with me?
+Say Culmination time is 03:00 on 28-Nov-2018
+and Setting time is 05:30 on 28-Nov-2018.

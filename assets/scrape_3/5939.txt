@@ -1,0 +1,6 @@
+How massive does a planet need to be to create gravitational lensing?
+
+Is it ever possible for starlight to be distorted in a noticeable way from something as small as a planet? 
+I'm guessing that the chances of this working are better on a dense terrestrial planet than a gas giant.
+How do you calculate this?
+Edit: I was unclear, sorry. I'm specifically thinking about lensing that would distort the shape of a star, not just move its position.

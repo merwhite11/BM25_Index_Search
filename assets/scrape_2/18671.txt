@@ -1,0 +1,6 @@
+Flux density to flux
+
+The definition of flux and flux density is fairly straightforward. However, I'm musing over the practical usage of it. 
+For one thing, if you observe a source through a filter, how would one go from the total observed energy/number of photons to the flux per unit wavelength? It's not a matter of simply dividing by the width of the filter -- a filter can have any exotic form of course.
+So, how is this derived?
+Related, given a $f_{\nu}$ in some filter, what would be the way to go to total flux within that filter?

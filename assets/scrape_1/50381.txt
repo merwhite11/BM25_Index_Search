@@ -1,0 +1,7 @@
+How to get JPL Ephemeris data to work in n-body simulation or why is Mercury flying to Jupiter
+
+I wanted to make a n-body simulation for an art project.
+I used this n-body algorithm, which includes a stable system for the Sun + gas giants, but no inner planets.
+I wanted to simulate inner planets as well, so took JPL data from Horizons in AU and days and plugged it into the system.  But, it doesn't create stable orbits.
+Is using this data in a 64-bit float n-body simulation a fools errand?
+Is there a better way to get this data for all planets + Pluto + Chiron?  Thanks!

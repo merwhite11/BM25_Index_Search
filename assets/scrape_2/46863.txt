@@ -1,0 +1,19 @@
+Was the Nobel prize for gravitational waves handed out based on a hand-drawn theoretical curve? Has the data been fit more rigorously now?
+
+In Sabine Hossenfelder's November 2019 video "Have we really measured gravitational waves?" (transcript, video), Sabine mentions the now famous image of the generally agreed-upon-to-be-very-likely first direct detection of a gravitational wave. It shows the now-famous chirp as both a noisy experimental line and a smooth line which one would reflexively believe to be the theoretical model-based fit to it.
+Sabine points out that there does not seem to be any evidence that this line is the direct result of any rigorous calculation.
+
+...saying it was "not found using analysis algorithsm" but partly done "by eye" and "hand-tuned for pedaggical purposes." For a reference on these quotes, please check the information below the video... We should not hand out Nobel Prizes if we don't know how the predictions were fitted to the data.
+
+and in the notes below the video:
+
+"Plot was made by eye" quotes: https://www.newscientist.com/article/mg24032022-600-exclusive-grave-doubts-over-ligos-discovery-of-gravitational-waves/
+
+Questions:
+
+Was the Nobel prize for gravitational waves handed out based on a hand-drawn theoretical curve?
+Has the data been fit more rigorously now?
+
+I'd like to emphasize that the content of the video goes way beyond this one curve and covers several different and interesting aspects of current gravitational wave detection and interpretation, verification and prediction. One should listen or use the closed captions and review the whole video if the topic is of interest.
+
+Screen captures with closed-captions of relevant points

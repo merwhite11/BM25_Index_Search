@@ -1,0 +1,5 @@
+Do we have an accurate breakdown of star types in globular clusters?
+
+I became interested in the breakdown of star types in globular clusters when trying to give a good answer in a Quora question. I had a difficult time finding an answer.
+What I did find out was that what we see is about 10 percent of the stars and they are all as bright or brighter than the sun. Since O, B, A and most F stars are long gone in globulars it appears that most of what we see are red giants. (I know that some blue stars have come to be from stellar collisions in densely packed areas). So if I had to guess, I would say that globulars are 78% main sequence M dwarf, 8 percent MS K dwarf, 2 percent MS G dwarf, 8 percent red giants, 3 percent compact stars (white dwarf, etal.) and 1 percent other.
+Also, total mass in literature doesn't seem to agree with star counts in globulars like M3 or M13. Are they including dark matter??

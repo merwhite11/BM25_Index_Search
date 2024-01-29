@@ -1,0 +1,8 @@
+How to tell which of the ecliptic cross horizon angles is to the east?
+
+Jean Meeus' Astronomical Algorithms, 2nd ed. p. 99 gives a formula for finding the two longitudes where the ecliptic crosses the horizon:
+$$\tan\lambda = \frac{-\cos\theta}{\sin\epsilon \tan\phi + \cos\epsilon\sin\theta}$$
+where "$\epsilon$ is the obliquity of the ecliptic, $\phi$ is the latitude of the observer, and $\theta$ is the local sidereal time, returns $\lambda$ the longitudes of the two points of the ecliptic which are (180 degrees apart) on the horizon".
+The software I am using then applies $\arctan$ to get $\lambda$ and adds $\pi$ if $\lambda < 0$. Then it returns $\lambda$ and $\lambda + \pi$.
+I need to know which of the two angles returned points to the easterly direction. Is there any way to tell which is which? I have all of the information needed to perform the calculation (UT, local time, sidereal time, latitude, longitude), but I can't see how they are related.
+Thanks much!

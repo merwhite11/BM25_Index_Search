@@ -1,0 +1,5 @@
+Internal heat and planetary differentiation
+
+I was reading an article on planetary differentiation, and apparently internal heat production plays a major role. There are several sources of such heat described, such as tidal heat, radiogenic heat, etc. What I did not understand however is how, on chemical level, does warming up a system "heterogenize" it. Logically, wouldn't an addition of kinetic energy mean that molecules bump around more violently, therefore becoming more mixed up?
+Or does this 'internal heat' story mean that the heat is actually escaping the planet, therefore kinetic energy is lost, therefore the planet is actually cooling down?
+source: http://geology.isu.edu/wapi/Geo_Pgt/Mod03_PlanetaryEvo/mod3_pt1.htm

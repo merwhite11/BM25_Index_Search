@@ -1,0 +1,6 @@
+Projection from Earth
+
+If a Particle is projected from Equator due north with a velocity $v$ and Earth is rotating with a uniform angular velocity $\omega$.
+How can it be shown that the highest latitude reached will be given by the following expression? \begin{equation}
+\frac{\pi}{2}-(\pi-2) \frac{\omega R}{v}
+\end{equation}

@@ -1,0 +1,3 @@
+How can apparent magnitude be negative?
+
+What is the reason for that scale? Is it because otherwise defining an maximum would be too hard(?). Why do objects that are (apparently) brighter get assigned a smaller number (and down to negative)?

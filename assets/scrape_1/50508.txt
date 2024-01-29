@@ -1,0 +1,4 @@
+The Interpretation of Uncertainty Map of NEO in Minor Planet Center page
+
+I am an observational astronomer. I have just started with the observations. If any of you use MinorPlanetCenter website to get the ephemeris of a possible NEO in the NEO confirmation page, there is an uncertainty map. I know how to read that but I am not sure how is it constructed, why are there about 2000 points in the map and what the color coding means.
+I would be grateful if any of you can break it down for me.

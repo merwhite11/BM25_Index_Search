@@ -1,0 +1,17 @@
+Most accurate way of measuing the radius of a rubble-pile comet in an N-body simulation?
+
+I have written an N-body simulation (close to finished) in C++ which focuses on the tidal disruption of comets.
+I allow comets to be constructed in 2 ways:
+
+Via my HCP (hexagonal-closest-packing) algorithm, or
+From a random distribution of particles (either uniformly or normally distributed) that is then allowed to collapse into a clump.
+
+All bodies in a given comet are of equal radius and mass.
+What I have become unsure of is how I am determining the radius of a comet. In my HCP algorithm, I discard bodies whose centres are at a greater distance from the centre-of-mass (COM) of the comet than the desired radius of the comet.
+Nonetheless, shouldn't the comet radius be measured by taking the distance from the COM of the comet to the outermost point of the outermost body in the comet? I.e.:
+$$
+R_{comet} = |\textbf{r}_{outermost} - \textbf{r}_{comet}| + R_{outermost}
+$$
+where $R$ is a radius and $\textbf{r}$ is a position vector.
+In that case, would it not be better (in the HCP algorithm) to discard bodies whose centres fall outside of the radius of the comet minus the radius of the bodies themselves?
+I would much appreciate any insight on this, thank you.

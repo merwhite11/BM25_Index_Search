@@ -1,0 +1,10 @@
+Why are the time zones calculated as 360°/24 and not 361°/24 or 360°/23.933?
+
+Background: I'm training to be a geography teacher. Currently I have practice lessons and I'll be discussing solar time and standard time with the class. Now I stumbled over an issue to which I could not find an answer:
+We teach the students:
+
+Sidereal day: In 23 h 56 min the earth rotates 360°
+Solar day: In 24 h the earth rotates 361°
+
+We also teach that in order to construct time zones (as a replacement of solar time), one divided 360° by 24 (to have a zone for each hour of the day), which results in 24 zones with 15° each.
+Now my question is: Why does one mix the measures for sidereal day and solar day? Or put differently: Why doesn't one calculate 361°/24 or 360° / 23.933?

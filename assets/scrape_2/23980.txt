@@ -1,0 +1,24 @@
+Just how "locked" are resonant-chains of exoplanets thought to be? (e.g. K2-138 and TOI-178)
+
+The Phys.org news item Discovery of new planet reveals distant solar system to rival our own outlines the recent announcement of results using AI to help search Kepler photometric (transit-method) data for exoplanets. Near the end is the paragraph:
+
+Kepler-90i wasn't the only jewel this neural network sifted out. In the Kepler-80 system, they found a sixth planet. This one, the Earth-size Kepler-80g, and four of its neighboring planets form what is called a "resonant chain," where the planets are locked by their mutual gravity in a rhythmic orbital dance. The result is an extremely stable system, similar to the seven planets in the TRAPPIST-1 system, so precisely balanced that the length of Kepler-80g's year could be predicted with mathematics.
+
+My question is:
+about these "resonant-chains" of planets. If I understand correctly this would be a group of planets where due to mutual perturbative effects they are in orbits who's periods are in mutual rational number ratios, e.g. 3:2 or 7:9.
+Is it known yet how long-lived (time domain) or narrow (frequency) domain these resonances are, or are likely to be? In other words, are they thought to be really "locked" into these fixed ratios for say tens or even hundreds of millions of orbits, or are the orbits just really close, but with occasional, irregular "slippage" events?
+Since the span of data and its precision is limited, I would expect that one can not conclude from the data alone, and it's likely some modeling has been done on resonant-chains of planets to improve the understanding of the phenomenon, so I'm asking to understand what's known and believed, rather than a precise answer about a given system. Since the problem is mostly orbital mechanics it lends itself more easily to simulation than most problems.
+Background:
+Wikipedia's Orbital resonance addresses "locked" orbital resonances:
+
+Under some circumstances, a resonant system can be stable and self-correcting, so that the bodies remain in resonance. Examples are the 1:2:4 resonance of Jupiter's moons Ganymede, Europa and Io, and the 2:3 resonance between Pluto and Neptune. (emphasis added)
+
+Astronomy and Astrophysics Leleu et al. (2021) - : Six transiting planets and a chain of Laplace resonances in TOI-178 (and arXiv)
+
+Gizmodo: Enigmatic Star System Has 5 Planets Locked in Perfect Harmony
+
+Bad Astronomy A Six-Planet System Dances in Time to the Tune of Gravity
+
+YouTube: Artist’s animation of the TOI-178 orbits and resonances (sound on!)
+
+The BBC News article Citizen science bags five-planet haul announces the system K2-138, also described as a "resonant chain" of planets. However, see the actual paper in ArXiv and Ast. J. where the title calls it only a "near-resonant chain" instead; The K2-138 System: A Near-Resonant Chain of Five Sub-Neptune Planets Discovered by Citizen Scientists

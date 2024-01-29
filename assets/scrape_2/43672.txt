@@ -1,0 +1,35 @@
+Poisson's equation-like formula in axis-symmetric Galactic potential in terms of Oort constants
+
+I am tackling this problem, from a 2016 Cambridge Astrophysics Tripos past paper:
+Let $\Phi(R, z)$ be the axi-symmetric Galactic potential. At the Solar location, $(R, z) = (R_0, 0)$, prove that
+$$\frac{\partial^{2} \Phi}{\partial z^{2}}=4 \pi G \rho_{0}+2\left(A^{2}-B^{2}\right)$$
+where $G$ is the gravitational constant, $\rho_0$ is the density in the Solar neighborhood and $A$ and $B$ are Oort’s constants.
+What I do is:
+Rewrite equation we want to prove
+Note:
+$A^2-B^2=-\frac{v_c}{R}\frac{\mathrm{d}v_c}{\mathrm{d}R}$
+Using definiton of $A$ and $B$. (Which are: $\left.A \equiv \frac{1}{2}\left(\frac{v_{c}}{R}-\frac{d v_{c}}{d R}\right)\right|_{R_{0}}$ and $B \equiv-\left.\frac{1}{2}\left(\frac{v_{c}}{R}+\frac{d v_{c}}{d R}\right)\right|_{R_{0}}$).
+Rewrite what we want to prove:
+$$
+\bbox[5px,border:3px solid green]{
+\frac{\partial^{2} \Phi}{\partial z^{2}}=4 \pi G \rho_{0}-2\frac{v_c}{R}\frac{\mathrm{d}v_c}{\mathrm{d}R}
+}
+$$
+Use Poisson's equation:
+$$\nabla^2\Phi=4\pi G\rho_0$$
+Expand LHS of Poisson:
+$$\frac{\partial^2}{\partial R^2}\Phi+\frac{\partial^2}{\partial z^2}\Phi=4\pi G \rho_0$$
+Use equation of motion for circular orbit:
+$$\frac{v_c^2}{R}=\frac{\partial}{\partial R}\Phi$$
+Differentiate once more wrt $R$:
+$$\frac{\partial^2}{\partial^2 R}\Phi=\frac{\partial}{\partial R}\frac{v_c^2}{R}=\frac{2v_c}{R}\frac{\mathrm{d}v_c}{\mathrm{d}R}-\frac{1}{R^2}v_c^2$$
+Collect results
+Substitute result into Poisson's equation expanded form:
+$$\frac{2v_c}{R}\frac{\mathrm{d}v_c}{\mathrm{d}R}-\frac{1}{R^2}v_c^2+\frac{\partial^2}{\partial z^2}\Phi=4\pi G\rho_0$$
+Rearrange:
+$$
+\bbox[5px,border:3px solid green]{
+\frac{\partial^2}{\partial z^2}\Phi=4\pi G\rho_0-2\frac{v_c}{R}\frac{\mathrm{d}v_c}{\mathrm{d}R}+\bbox[5px,border:3px solid red]{\frac{1}{R^2}v_c^2}
+}$$
+Conclude
+Compare with what we wanted to prove (ie the two green-boxed equations). We have an extra term (red boxed) which shouldn't be there. How do I fix the proof?

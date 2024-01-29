@@ -1,0 +1,11 @@
+Why the blank wedges in this very early 21 cm map of the Milky Way? (Oort et al. 1958)
+
+Jan Oort was a pioneer in radio astronomy. Wikipedia says:
+
+It has been written that “Oort was probably the first astronomer to realize the importance” of radio astronomy. “In the days before radio telescopes,” one source notes, “Oort was one of the few scientists to realise the potential significance of using radio waves to search the heavens. His theoretical research suggested that vast clouds of hydrogen lingered in the spiral arms of the Galaxy. These molecular clouds, he predicted, were the birthplaces of stars.”
+
+The article includes the image shown below, which is a 21 cm radio map of the Milky Way galaxy. (for more on the transparency of dust at 21 cm see this excellent answer to How was the galactic plane established?
+You can also read more about Oort's work during this time in this 1976 AIP Oral History Interview interview. 
+I'm guessing that the center of the plot is the galactic center and the point at 8 kpc above it is the Earth. What is the reason for the two blank wedges, projecting downward and upward from the Earth? Are they geometrical, blind spots from the few early radio telescopes in the 1950's perhaps, or do they reflect real phenomenon in the galaxy? 
+
+The original source is The galactic system as a spiral nebula Oort, J. H.; Kerr, F. J.; Westerhout, G. MNRAS 118, (1958) p. 379

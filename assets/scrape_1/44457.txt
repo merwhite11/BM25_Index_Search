@@ -1,0 +1,12 @@
+Energy conservation of the universe
+
+I have tried to derive an equation for the total energy of the universe.
+I have found that,
+$$E(t)= \delta\dot a(t)^2a(t)\Omega(t)$$
+Where $\delta$ is just a positive constant, a(t) is the scale factor and $\Omega$ is the density parameter.
+From there I have taken the derivative with respect to time of both sides and I get,
+$$\dot E(t)= \delta\dot a(t)^3(2q(t)-\Omega(t))$$
+Where $q(t)$ is the deceleration parameter.
+Since the universe isn't static, $\dot a(t)\neq0$. Therefore, the only way for which the 1st law of thermodynamics (energy cannot be created nor destroyed) not to be violated is for $2q(t)=\Omega(t)$ for all time in R+.
+The problem is that today's value for the deceleration parameter is $q(t_0)\approx-0.55$, but by definition, the density parameter cannot be negative.
+So is it possible that there exist other types of energies (of which we don't know of)  that have different $w$ state parameters that make the real value of $q(t_0)>0$ for all time in R+ and thus allowing the conservation of energy? Or is the total energy of our universe just not constant?

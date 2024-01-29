@@ -1,0 +1,19 @@
+Do high power radar astronomers try to avoid beaming power at (at least some) artificial satellites as they pass overhead?
+
+This answer to "Next Generation Arecibo Telescope (NGAT)... would combine a 314-metre-wide platform with a swarm of 9-metre dishes on top" What would that look like? links to an interesting 2021 presentation on the subject (viewable here and here) which among many other justifications emphasizes the dearth of high power astronomical planetary radar1 transmitting capability now that the Arecibo dish is no longer with us. What's now left is primarily a relatively small amount of transmitting time and power from The Greenbank Telescope, though there are future plans to expand on that.
+See also
+
+this answer to What will succeed the Arecibo Observatory?
+this answer to How can we install a radar on radio telescopes like FAST or GMRT?
+Building a floating, ocean-going giant radio telescope?
+Is there any role today that would justify building a large single dish radio telescope to replace Arecibo?
+Could we carve a large radio dish in the Antarctic ice?
+
+What caught my attention was the upgrade in power from something like 2 MW to 10 MW (pulsed). Over a 300 m aperture. That's a power density of about 140 watt per square meter impinging on a satellite in LEO that is unlucky enough to pass through the beam's 300 meter footprint. (LEO is still in the near field; beam really doesn't start expanding appreciably until GEO at ~40,000 km)
+For a sensitive receiving antenna on a satellite in low Earth orbit, especially for some electronic communications surveillance or satellite constellations that recieve directly from handheld devices (or fancy wristwatches) that's a huge amount of power, even though it might be at a somewhat different frequency.
+As much as astronomers complain about light and radio (in the form of radar, especially 24/7 day/night mapping of earth at high resolution using say 10 kW SAR) from small antennas with large divergence which can potentially burn out a radio telescope's front end receiver2, what about a potential 10 MW highly collimated beam from a large diameter radiator pointing right back at them?
+Question: Do high power radar astronomers3 try to avoid beaming power at (at least some) artificial satellites as they pass overhead?
+
+1maping of solar system body surfaces, precision tracking and imaging of asteroids - particularly those that might hit us in the future
+2 How do radio astronomers avoid having their receivers burned out by ground-imaging radar from satellites?
+3that's high power radar, not (necessarily) high power astronomers :-)

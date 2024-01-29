@@ -1,0 +1,7 @@
+Why are Mars northern/southern hemisphere altitudes so different?
+
+I'm looking at the Mars topography map: 
+
+original link
+...and I can't shake the impression that someone just messed up the placement of the center point of the planet, shifting it about 8km north from where it should be. If the center point was ~8km further south, the north and south altitudes would be roughly the same. Moreover, it's even hard to argue about placement of equator, as the northern pole is about 16km closer to the equatorial plane than the southern - due to the altitude difference. Move the equator and it all evens out.
+It's fairly hard to believe such a mistake to have persisted so long, so... is there any deeper reason behind this strong asymmetry of the planet, other than just a topographical snafu?

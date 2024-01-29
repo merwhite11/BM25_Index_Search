@@ -1,0 +1,89 @@
+What am I doing wrong in this ppxf application?
+
+I am trying to derive the kinematics of a galaxy spectra. To test my results I want to implement the Penalized Pixel Fitting method. For the galaxy spectrum I use a central line with sufficient S/N. I cut of part of the edges to use the same part of the spectra I used with a different method. The following code shows my initial try, but I am unsure about the definition of the velscale keyword or maybe I have to work in the same rest frame piece for galaxy and template? My obtained results, seem to have too low sigma and too large negative h3 and h4 (by comparing with results from other papers). Is there anything wrong about the way I tried to implement this?
+import ppxf as ppxf_package
+from ppxf.ppxf import ppxf
+import ppxf.ppxf_util as util
+import matplotlib.pyplot as plt
+
+
+def my_ppxf():
+    # data access
+    # template
+    temp_data = np.loadtxt('C:/Users/reich/OneDrive/Dokumente/Uni/Bachelorarbeit/Python/bins/template.txt')
+    loglam_temp = temp_data[0, :]
+    flux_temp = temp_data[1, :]
+    # galaxy central line
+    gal_data_center = np.loadtxt('C:/Users/reich/OneDrive/Dokumente/Uni/Bachelorarbeit/Python/bins/0_central.txt')
+    loglam_gal = gal_data_center[0, :]
+    flux_gal = gal_data_center[1, :]
+
+    # 1.) cut off pixels at both ends off arrays before removal of continuum
+    # subtract 1 to get uneven number of pixels
+    cut_off_pixel = 90
+    flux_temp = flux_temp[cut_off_pixel:-(cut_off_pixel - 1)]
+    flux_gal = flux_gal[cut_off_pixel:-(cut_off_pixel - 1)]
+    loglam_gal = loglam_gal[cut_off_pixel:-(cut_off_pixel - 1)]
+    loglam_temp = loglam_temp[cut_off_pixel:-(cut_off_pixel - 1)]
+
+    # 2.) normalize spectra
+    flux_gal /= np.median(flux_gal, 0)
+    flux_temp /= np.median(flux_temp, 0)
+
+    c = 299792.458                  # speed of light in km/s
+    frac = loglam_gal[1]-loglam_gal[0]    # Constant lambda fraction per pixel
+    velscale = c*frac
+
+    noise = np.full_like(flux_gal, 0.003)  # Assume constant noise per pixel here
+
+    z = 0.00414811      #galaxy redshift
+
+    # Here the actual fit starts. The best fit is plotted on the screen.
+    # set initial guesses for the parameters, h3 and h4 by default 0
+    vel = c*np.log(1 + z)   # eq.(8) of Cappellari (2017)
+    start = [vel, 200.]  # (km/s), starting guess for [V, sigma]
+
+    pp = ppxf(flux_temp, flux_gal, noise, velscale, start, moments=4, plot=True)
+    # Print the results
+    print('V:', pp.sol[0])
+    print('Sigma:', pp.sol[1])
+    print('h3:', pp.sol[2])
+    print('h4:', pp.sol[3])
+    plt.show()
+
+    # Plot the best-fit model and the residuals
+    plt.figure()
+    plt.plot(loglam_gal, flux_gal, label='Galaxy spectrum')
+    plt.plot(loglam_gal, pp.bestfit, label='Best-fit model')
+    plt.plot(loglam_gal, flux_gal - pp.bestfit, label='Residuals')
+    plt.xlabel('Wavelength (Angstroms)')
+    plt.ylabel('Flux')
+    plt.legend()
+    plt.show()
+
+#------------------------------------------------------------------------------
+
+if __name__ == '__main__':
+
+    my_ppxf()```
+
+The output:
+```Templates weights:
+     0.272
+V: 1233.8063289282345
+Sigma: 127.00695685589174
+h3: -0.06568111895579586
+h4: -0.3
+
+And the plot:
+My spectra before the plot look like this, only applying the normalization
+flux_gal /= np.median(flux_gal, 0)
+flux_temp /= np.median(flux_temp, 0)
+
+Plot:
+
+So here the spectral lines of the template are actually stronger than the ones of the galaxy. After the ppxf fit they appear much weaker, I thought this has to do something with the galaxy models used by ppxf and the corresponding polynomials, that can change the line strengths.
+Manually changing the degrees of the multiplicative and additive polynomials gives a much better fit, but still not perfect:
+pp = ppxf(flux_temp, flux_gal, noise, velscale, start, moments=4, plot=True, mask=mask, mdegree=5,degree=5,vsyst=dv)
+
+With the better results:

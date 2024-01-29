@@ -1,0 +1,9 @@
+Streaks on a stacked star field
+
+Stacking by Sequator 100 dng photos of night sky taken with a smartphone resulted in a (beautiful, I would say) populated star field where undesired arc streaks are seen all over the field. It is like as the program treated the vast majority of stars as wanted, while (perhaps the less brighter) others are just rendered as they moved along the 100 frames period.
+Align stars was chosen then accumulation.
+Question: Is this a common problem using Sequator, or at least happened to some of you? Is there any trivial setting or way to redo the stacking? Thanks.
+Attached is a compressed copy of the final photo. 
+
+the above is cross posted in Photography SE
+https://photo.stackexchange.com/questions/124748/arcs-in-stacked-star-field

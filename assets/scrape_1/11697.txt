@@ -1,0 +1,6 @@
+Real-time position of a distant celestial body
+
+How might it be possible to determine (via some specific online empemeris or via some well-understood algorithm) the observed position of some distant celestial body (e.g. Betelgeuse)?
+To be concrete: suppose I wished to do what any number of mobile phone applications do, i.e. computationally model the observed position of stars and project them onto the screen using GPS coordinates and compass direction, so that an `overlay' of the night sky is produced. Then:
+a) Where could I source the relevant data from?
+b) What coordinate system would it be best to use?

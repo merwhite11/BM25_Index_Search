@@ -1,0 +1,5 @@
+Moon's and nodes' inclination to the Invariable plane
+
+Moon is inclined to the ecliptic 5.14 degrees. Earth's inclination to the invariable plane is 1.57869 degrees.
+What is the Moon's, and node's inclination to the invariable plane?
+Since the Moon has an inclination to the invariable plane, that means at any point in time the degree of inclination is different depending on the Earth's position. where can I get this information of planets' inclination degree at any date? Calculated by NASA JPL Horizon?

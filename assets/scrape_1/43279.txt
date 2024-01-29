@@ -1,0 +1,5 @@
+How do you carry errors for brightness magnitudes
+
+I have a value for the relative flux $F_2/F_1$. With some uncertainty value $a$.
+If I use the equation to get relative magnitude: $m_1 - m_2 = 2.5 \log_{10}(F_2/F_1)$
+How do you now calculate the uncertainty value $a$ for this equation? Do you just do the same equation but applied to the uncertainty value or is there some other alteration you have to make to uncertainty values?

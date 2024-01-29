@@ -1,0 +1,9 @@
+Equation describing Energy Transport due to Radiation in the interiors of stars
+
+I am considering a very elementary stellar structure and I'm required to derive an equation to describe the energy transport due to radiation. The answer I am supposed to obtain is:
+$$\frac{dT}{dr}= -\frac{3}{4ac} \frac{{\kappa}{\rho}}{T^3} \frac{L}{4\pi r^2} $$, given that $P=\frac{1}{3} aT^4$. 
+Here's my work:
+$$\frac{dP}{dT}= \frac{4}{3} aT^3$$
+$$\implies \frac{dP}{dr}=\frac{4}{3} aT^3 \frac{dT}{dr}$$
+$$\frac{dT}{dr} = \frac{3}{4aT^3} \frac{dP}{dr} =\frac{3}{4aT^3} \frac{d\frac{I}{c}}{dr} = \frac{3}{4aT^3c} \frac{1}{4\pi} \frac{d\frac{L}{r^2}}{dr}$$
+I am not sure as to how to proceed from here, because I don't think I would be able to reach the given answer via the quotient rule. Please help me out.

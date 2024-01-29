@@ -1,0 +1,5 @@
+How does metallicity reduce the likelihood of black hole formation?
+
+Large stars collapse and if they are large enough form black holes. But the likelihood reduces with metallicity.
+
+What mechanism facilitates this? I believe it has something to do with opacity and Eddiington luminosity but haven't been able to find a source that pulls the information together in a conceptual manner.

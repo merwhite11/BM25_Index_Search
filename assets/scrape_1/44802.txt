@@ -1,0 +1,6 @@
+Radial velocities - wings and core
+
+Why are radial velocities measured at the core and at wings of a line profile? I mean interactive measurement -- comparing the direct and flipped images of the line profiles.
+What is the difference of these radial velocities (I do not mean values)? For instance, why is it better to measure radial velocities of wings for H alpha emission line for Be stars? Does it make sense to measure RVs on a blue wing and a red wing? Or are radial velocities of a core measured for absorption lines and radial velocities of wings for emission lines?
+
+Source: https://slideplayer.com/slide/9358196/

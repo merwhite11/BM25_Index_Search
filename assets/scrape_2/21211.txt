@@ -1,0 +1,5 @@
+Helium in terrestrial planet atmospheres?
+
+When you look at effective temperature ranges and escape velocities of planets, there is a "population" where hydrogen escapes, but helium doesn't. Is it feasible that there may be planets less that about 10 Earth masses (not gas giants) with a predominantly helium atmosphere??
+Another way of asking this question would be:
+Do any models show terrestrial planets retaining a primordial atmosphere or is expected that most all will be secondary? I am guessing that very little helium is "outgassed", whereas hydrogen can be added to an atmosphere by photodissociation and other processes. I know that early star UV emissions, collisions, etc. will probably strip a "close in" planet's original atmospheres.

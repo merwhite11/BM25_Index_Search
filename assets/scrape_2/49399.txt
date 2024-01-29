@@ -1,0 +1,13 @@
+What would be the noticeable effects (if any) if the Earth's orbit entered a chaotic trajectory?
+
+To set the stage, let's put some more specific assumptions:
+
+I am specifically thinking of a binary-single type interaction where the Earth is the intruder on a binary system of two bodies of a similar mass to the Earth (see figure below)
+
+I am not as interested in the ultimate outcome of post-chaotic interactions (i.e. if the Earth exchanges for one of the bodies, I am not interested in the long term effects of being in a binary system), rather I am interested in the effect the rapid changes in trajectory would have on life. That being said, we can exclude the possibility of a collision for the sake of the question.
+
+Let's ignore the Sun's gravitational effects on this interaction for simplicity, and let's ignore the implications a system like this has on the moon and the resulting effects the moon has on us, also for simplicity.
+
+
+The wordier version of my question in the title is this: what would happen to life as we know it if the Earth were to enter a chaotic trajectory from, say, binary-single interaction during the time the trajectory is chaotic (i.e. would we feel random forces pushing us in random directions on particularly sharp turns in the Earth's trajectory, would nothing happen at all, etc.)?
+Below is a figure from a seminal paper about binary-single interactions by Hut and Bahcall (1982). In this scenario I am thinking of, the Earth would be 3, but the ultimate outcome doesn't particularly matter or the specifics of this illustration, rather it is to serve to convey the general idea of the chaotic trajectory I am referring to.

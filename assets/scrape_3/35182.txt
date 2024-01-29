@@ -1,0 +1,8 @@
+Does this CHEOPS first light image imply bad astronomy?
+
+@KeithMcClary's comment under lousy mirror corrected by software links to Bad Astronomy's First Light for the Exoplanet Hunter Mission CHEOPS Goes Tetrahedral which shows the image below.
+I understand that in order to do precision photometry with a pixelated sensor one wants to spread the light over several pixels in a controlled way, but is this particular PSF the result of some painstaking optimization, some problem with the figure of one of the telescope's elements (oh no I hope it's not 1990 all over again!) or just because it's preliminary and they'll tweak something to make it more symmetrical?
+If it stays this way, will it degrade CHEOPS' performance?
+
+CHEOPS launched on 18 December, 2019, and on 07 February, 2020, it took its very first image of a star! The target chosen was HD 70843, a star about 155 light years away that’s a little bit hotter and brighter than the Sun.
+The image, traditionally called First Light by astronomers, is itself … surprising.

@@ -1,0 +1,18 @@
+Black hole collision animation: What are these extrusions?
+
+In this video uploaded by LIGO Lab Caltech, two inspiraling black holes are depicted. The video's description explains what is shown and can be summarized by: 
+
+
+The colored surface is the space of our universe, as viewed from a hypothetical, flat, higher-dimensional universe, in which our own universe is embedded.
+
+
+... the colors depict the rate at which time flows.
+
+
+[Space] is dragged into motion by the orbital movement of the black holes, and by their gravity and by their spins. This motion of space is depicted by silver arrows...
+
+
+Just before things become quiescent, regions of space around the merging black holes extrude upward. (Actually, the extrusions seem to begin sometime before things get chaotic.) If "space" here is being represented like the rubber sheet analogy, what do these extrusions mean?
+If gravitational forces create depressions in the sheet, then it seems to follow that those extrusions are anti-gravitational, which can't be right. Could they be regions where the equations modeling the black holes' interactions spit out nonsense?
+
+(From video, timestamp 0:52)

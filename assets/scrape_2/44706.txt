@@ -1,0 +1,24 @@
+How to solve numerical problems based on diurnal parallax method (formulas, examples and calculations)?
+
+In physics, I have to solve some numerical problems based on the parallax method. I learnt the parallax method from Khan Academy and Wikipedia. (I found a really helpful Khan Academy video parallax in observing stars and stellar distance using parallax.) For stellar parallax, I  know that the distance $d=\tan(90^{\circ}-\theta) \ \text{AU} = \cot \theta \ \text{AU} =1/\tan\theta \ \text{AU}$. But I am not sure how to solve problems based on diurnal parallax.
+For the parallax method,
+
+Knowing the distance between the observation points L ( basis ) and the displacement angle α, you can determine the distance to the object: $D = {\frac {L} {2 \ \sin \ \alpha / 2}}$.
+For small angles (α - in radians): $D = {\frac {L} {\ \alpha}}$.
+
+But how did we derived the formula $D = {\frac {L} {2 \ \sin \ \alpha / 2}}$?
+Using parallax method, we can measure:
+
+the distance of sun or moon or any planet (Diurnal parallax method: solar parallax, lunar parallax)
+the diameter of sun or moon or any planet
+the distance of a nearby star (annual parallax or stellar parallax method)
+
+For diurnal parallax (sun, moon, and planets within the solar system),
+What is the formula for measuring the distance and parallax angle (with an example)? In my textbook, it is derived from the arc length formula $s=r\theta$. Now once we know the distance we can solve for the diameter of the sun or moon or any planet using the same parallax formula.
+(This parallax angle or parallactic angle is usually given in the question/numerical problem and we have to solve for the distance or the diameter)
+
+EDIT: Since I have started a bounty I want to make it clear what I want in the answer. I want the formulas, derivation of formulas,  related examples and calculations. The following is an example numerical problem based on the parallax method (You don't necessarily need to solve them, just explain how to apply the formula):
+
+(a) The earth-moon distance is about 60 earth radius. What will be the diameter of the earth (approximately in degrees) as seen from the moon?
+(b) Moon is seen to be of (½)° diameter from the earth. What must be the relative size compared to the earth?
+(c) From parallax measurement, the sun is found to be at a distance of about 400 times the earth-moon distance. Estimate the ratio of sun-earth diameters.

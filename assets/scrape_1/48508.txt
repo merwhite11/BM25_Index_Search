@@ -1,0 +1,155 @@
+How to calculate the Sun's declination for a specific location based on the axial tilt of Earth throughout the year?
+
+How to calculate the Sun's declination for a specific location (i.e. relative to a specific coordinate) based on the axial tilt of Earth throughout the year? Any algorithm for code available in this regard?
+So I tried to port the below JS code to cpp
+ #include <iostream>
+ #include <cmath>
+ 
+ using namespace std;
+ 
+ double earthRotationAngle(double jd);
+ double greenwichMeanSiderealTime(double jd);
+ double Julian_day(string date);
+ 
+ double pi = atan(1)*4, lat, lon;
+ string date;
+ 
+ double Julian_day(string date){
+ 
+    int Y = stoi(date.substr(0, 4));
+    int M = stoi(date.substr(5, 2));
+    int D = stoi(date.substr(8));
+         
+     double jd = (1461 * (Y + 4800 + (M - 14)/12))/4 + (367 * (M - 2 - 12 * ((M - 14)/12)))/ 12 - (3 * ((Y + 4900 + (M - 14)/12)/100))/4 + D - 32075;
+     /*double A = Y/100;
+    double B = A/4;
+    double C = 2-A+B;
+    double E = 365.25*(Y+4716);
+    double F = 30.6001*(M+1);
+    double jd= C+D+E+F-1524.5;*/
+   
+    return jd;
+ }
+ 
+ class sunPosition {   
+    // Takes Julian date and returns Sun's right ascension and declination
+     public:
+     const double torad = pi/180.0;
+     double n=Julian_day(date)-2451545.0;
+     
+     double L=fmod((280.460+0.9856474*n),360);
+     double g=fmod((375.528+.9856003*n),360)*torad;
+     
+     double Lg(){
+        if(L < 0){L+=360;}
+        if(g < 0){g+=pi*2.0;}
+        double lamba=(L+1.915*sin(g)+0.020*sin(2*g))*torad;
+        return lamba;
+    }
+ 
+ 
+     //double beta = 0;
+     double eps = (23.439-0.0000004*n)*torad;
+     double ra = atan2(cos(eps)*sin(Lg()),cos(Lg()));
+     double dec = asin(sin(eps)*sin(Lg()));
+     double a_dec = dec/torad;
+     
+     double ara(){
+        if(ra < 0){ra+=pi*2;}
+            
+        double a_ra = ra/torad/15.0; 
+        return a_ra;
+    }
+ 
+ };
+ 
+ //Greg Miller (gmiller@gregmiller.net) 2021
+ //Released as public domain
+ //http://www.celestialprogramming.com/
+ 
+ //All input and output angles are in radians, jd is Julian Date in UTC
+ //The inputs are right ascension, sun's declination, latitude, longitude and Julian date 
+ //(double ra,double dec,double lat,double lon,double jd_ut)
+ 
+ class raDecToAltAz: public sunPosition{
+     //Meeus 13.5 and 13.6, modified so West longitudes are negative and 0 is North
+    public:
+     const double gmst=greenwichMeanSiderealTime(Julian_day(date));
+     double localSiderealTime = fmod((gmst+lon),(2*pi));
+         
+     double H = (localSiderealTime - ara());
+     
+     double Hfix(){
+        if(H<0){H+=2*pi;}
+        if(H>pi){H=H-2*pi;}
+    return H;
+    }
+    
+     double az = atan2(sin(Hfix()), (cos(Hfix())*sin(lat) - tan(a_dec)*cos(lat)));
+     double a = asin(sin(lat)*sin(a_dec) + cos(lat)*cos(a_dec)*cos(Hfix()));
+ 
+     double azfix(){
+        az -= pi;
+        if(az<0){az+=2*pi;}
+        return az;
+    }
+     //returns (az,a,localSiderealTime,H);
+ };
+     
+ double greenwichMeanSiderealTime(double jd){
+     //"Expressions for IAU 2000 precession quantities" N. Capitaine1,P.T.Wallace2, and J. Chapront
+     const double t = ((jd - 2451545.0)) / 36525.0;
+ 
+     double gmst = earthRotationAngle(jd)+(0.014506 + 4612.156534*t + 1.3915817*pow(t,2) - 0.00000044 *pow(t,3)- 0.000029956*pow(t,4) - 0.0000000368*pow(t,5))/60.0/60.0*pi/180.0;  //eq 42
+     gmst=fmod(gmst,(2*pi));
+     if(gmst<0) gmst+=2*pi;
+ 
+     return gmst;
+ }
+ 
+ double earthRotationAngle(double jd){
+     //IERS Technical Note No. 32
+     
+     const double t = jd- 2451545.0;
+     const double f = fmod(jd,1.0);
+ 
+     double theta = 2*pi * (f + 0.7790572732640 + 0.00273781191135448 * t); //eq 14
+     theta=fmod(theta,(2*pi));
+     if(theta<0){theta+=2*pi;}
+ 
+     return theta;
+ }
+ 
+ int main(){
+    cout << "Enter your location latitude:  " <<endl;
+    cin >> lat;
+    cout << "Enter your location longitude: " <<endl;
+    cin >> lon;
+    cout << "Enter the day of the year as yyyy-mm-dd: "<< endl;
+    cin >> date; //= "2019-01-09";
+ 
+    //sunPosition sun;
+    raDecToAltAz alt;
+    
+    cout << endl <<"Julian_day: " << Julian_day(date) << endl;
+    cout << "earthRotationAngle: " << earthRotationAngle(Julian_day(date)) << endl;
+    cout << "Azimuth: " <<alt.azfix() << endl;                      // azimuth
+    cout << "Altitude: " <<alt.a << endl;                           // altitude may be
+    cout << "Local Sidereal time: " <<alt.localSiderealTime << endl;    // localSiderealTime
+    cout << "Hour angle: " <<alt.Hfix() << endl;                    // hour angle
+    cout << "Right ascension: " << alt.ara() << endl;               // Right ascension
+    cout << "Sun's declination: " << alt.a_dec << endl;             // Sun's declination
+ }
+ 
+
+and it returned for
+lat 77.2069702520977   lon 118.639627806683    date: 1472-Aug-18
+Julian_day: 2.25893e+06
+earthRotationAngle: 2.68419
+Azimuth: 1.57751
+Altitude: 0.604463
+Local Sidereal time: 1.82557
+Hour angle: -1.72583
+Right ascension: 9.83458
+Sun's declination: 13.1531
+Which do not coincide with this test data. So any more insight on it?

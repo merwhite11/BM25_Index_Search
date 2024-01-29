@@ -1,0 +1,5 @@
+Different radio process band ranges
+
+If we want to observe a galaxy for which we have optical data, what parameters we need to know to calculate its total radio flux at 3 cm? 
+Specially I am interested to know how to differentiate among the different process in radio, like synchroton, free-free and inverse compton? Specially when I know its Hydrogen recombination line luminosity is in the power of 42, and electron temperature 10000 K with distance 20 Mpc
+From literature, I assume 3 cm is 10GHz, which should fall under either synchroton or free-free emission. But how do I know exactly?

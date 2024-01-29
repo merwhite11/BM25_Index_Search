@@ -1,0 +1,4 @@
+How far in arc seconds is a planet from its star? The star is 12 parsecs away from earth. The planet is 1 AU from its star
+
+I've been reading the book Welcome to The Universe by Niel De Grasse Tyson. In the tenth chapter he has mentioned "Forty light-years is 12 parsecs. A planet at 1 AU from its star, 40 light-years away, will be 1/12 of a second of arc away from the star in the sky."
+Can anyone explain how he got the figure 1/12 arc seconds?

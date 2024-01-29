@@ -1,0 +1,5 @@
+Are we certain that there is a cosmic event horizon in our Universe?
+
+There is a cosmic event horizon in our Universe iff $\int_{t_0}^{\infty} \frac{dt}{a(t)}$ converges, where $t_0$ is the cosmic time today and $a(t)$ is the scale factor of the metric. 
+$\dot{a}$ and $\ddot{a}$ were measured to be positive, and the expansion of the Universe is accelerating. 
+From what I gather, theoretical models give $a(t) \propto \exp(t)$ and therefore the integral converges and the Universe has an event horizon. But isn't it possible that $a(t)$ be a somewhat complicated function of time that both fits measurements and makes the integral diverge ? And would it be possible to somehow determine experimentally whether or not there is an event horizon? Or will it always be dependent on the current theoretical model of the Universe ?

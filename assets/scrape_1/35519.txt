@@ -1,0 +1,3 @@
+Stellar age determination - code
+
+I'm trying to determine the age of some stars. I have many parameters that characterize these stars: $T_{eff}$ ,log ${g}$ ,$[Fe/H]$, $V$... I've tried to use the isochrones package but so far no success. I was wondering if any of you might have any recommendations!

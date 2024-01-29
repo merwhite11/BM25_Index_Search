@@ -1,0 +1,9 @@
+How did Astronomers mostly(?) agree to publish arXiv preprints along with peer-reviewed Journals? Was there pushback?
+
+This excellent, thorough and well-sourced answer to Has a gravitational microlensing event ever been predicted? If so, has it been observed? includes four links to papers on adsabs.harvard.edu pages, and all of these have arXiv preprints.
+In fact a large number of posts link to the arXiv preprint version of astronomical papers and I suspect most astronomy papers have arXiv preprints.
+To my understanding, this allows other astronomers earlier access to and awareness of ongoing research results which may allow the field to progress faster, and also allows everyone access to the paper without penetrating a paywall. This may have implications for the folks who collect the money which is paid at the wall.
+Question: How did astronomers manage generally agree to do this? Was there much pushback by astronomical journals and/or by some authors in the astronomical community? If so, how was that resolved?
+note: This may also be on-topic in Academia SE, but I think that both the pools of potential answerers and of interested readers of this bit of history in the field of Astronomy here is substantial.
+
+Obligatory XKCD, hat tip to @JamesK

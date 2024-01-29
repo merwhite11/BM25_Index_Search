@@ -1,0 +1,22 @@
+Is there something wrong about the gravity formula?
+
+Help needed, please. I need the input of the experts here. I have always been troubled by the formula ..F = G * m1 * m2 / r^2.. , which appears to be counter-intuitive. It should be ...F = G ( m1 + m2 ) / r^2.. I present here two examples to support my hypothesis.
+A )  Comparing 4 different objects falling to Earth at a height of 100 m.
+r^2 = (6371 + .01)^2 km. = 40590915 ... G = 6.67*10^-11 ...m1 = 5.972*10^24 kg
+when m2 = 1 gm ,                     F = 9813338.722204
+when m2 = 1 kg ,                     F = 9813338.722204
+when m2 = 1 trillion kg( 12 zeroes), F = 9813338.722206
+when m2 = 1 quintillion  kg ( 18 ) , F = 9813340.365429
+     Here, heavier objects do fall faster, but impossible to observe or detect, even 
+with our most delicate instruments. Only when m2 is overwhelmingly massive, do we begin to notice the difference.
+B ) orbits of Earth and Moon around the Sun
+m1 = mass of Sun = 1.989*10^30
+                                                                                                                                    m2A = mass of earth = 5.972*10^24 and
+m2B = moon = 7.3477*10^22....
+average distance of Sun to Earth = 149.6 million km 
+Since Moon orbits earth, then average distance to Sun also the same.
+r^2 =( 149.6 million + radius of Sun 595500 ) ^2 = 150295500 km.
+when m2 = moon , F = 5873.11734
+when m2 = Earth , F = 5873. 13476 
+Here, both the Earth and Moon are falling towards the Sun at the practically same rate, and as such, the Sun's gravitational influence should not affect the orbit of Moon around the Earth. So we don't need to invoke the Hill Theory to explain why the moon is not pulled away from its orbit.
+Please let me know where I've erred , and enlighten me , hopefully with a reply coherent to me. Thanks

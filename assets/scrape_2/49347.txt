@@ -1,0 +1,4 @@
+Are Right Ascension and Declination from an "inside" perspective?
+
+When reading up on celestial globes it talks about handedness and that many celestial globes are reversed so that the constellations appear as they do from earth.
+I'm trying to arrange some bright stars on an overlay of the earth, using Right Ascension and Declination as Long/Lat. Am I right in saying that RA and Dec are essentially viewing the stars from "within" an imaginary map, and if so would an overlay be more accurate if you mirrored the image, so that the overlaid map is effectively being viewed from "outside" of the mapped system?

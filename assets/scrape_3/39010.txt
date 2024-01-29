@@ -1,0 +1,11 @@
+What's the big deal with WD 1856+534 b?
+
+A few days ago (september 2020) a planet candidate was announced orbiting white dwarf WD 1856+534. Some media outlets announce it as the First Possible ‘Survivor’ Planet around a white dwarf, while others even say it is the first planet around a white dwarf. Some add that if further confirmed, (...) shows that some planets could survive the destruction of their sun-like stars. I can't find the source, but I even recall reading an article saying that the host being a stellar remnant was what made this finding relevant.
+However:
+
+the first confirmed exoplanets (1992) orbit a stellar remnant (PSR B1257+12),
+there are other planet candidates around white dwarfs, and
+it is not confirmed that the planet survived the death of its host star (as opposed to being formed or captured later).
+
+Another highlight given is that it is still to be explained how such a planet survives being so close to its star, but do we know the planet is beyond its Roche limit?
+I am puzzled: what exactly makes this planet's finding so special/a first? Is it just de degree of certainty about one of the previous assertions? (First around a WD, first survivor.) Is it something else? Or was it just a case of recency bias that made the discovery more visible?

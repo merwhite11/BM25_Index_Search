@@ -1,0 +1,27 @@
+Understanding various conditions where a star and a black hole meet and there is no tidal disruption; what all can we infer from this diagram?
+
+Can an entire star pass through the event horizon of a black hole unharmed? is a one sentence HNQ with an amazing (to me at least) answer: for supermassive black holes larger than roughly 100 million solar masses (they can get way bigger than that) a star like our Sun can probably pass through the event horizon "unharmed", or at least not tidally disrupted and spaghettified.
+@ProfRob's answer there links to Suvi Gezari's April 21, 2021 preprint Tidal Disruption Events which includes the interesting figure shown below, which I am trying to understand.
+Question(s):
+
+Does this mean that for the conditions external to all possible triangles (above, below, left and right of the overlapping triangular areas of all start types that one wants to consider) spaghettification is not likely to happen and there is "safe passage" of the star through the event horizon (or the event horizon into the star), otherwise known as being eaten alive as ProfRob points obliquely as:
+
+
+
+...suggesting indeed that more massive black holes are able to swallow stars whole.
+
+
+
+On the left sides of the triangles, this really suggest that the black hole can "gracefully" enter the star without tidally disrupting it? The star would continue to look like a roughly spherical star, but being eaten alive from within?
+
+
+
+Figure 1: Allowable region for the tidal disruption of stars representative of different evolutionary states, a 0.6M☉ carbon oxygen white dwarf (CO WD), a 0.17M☉ helium white dwarf (He WD), a 1M☉ main-sequence star (MS), and a 1.4M☉ red giant (RG), bounded by the conditions that Rp < RT, R* < RS, and RT > RS for a TDE to be observable, as a function of black hole mass (MBH) and β is the strength of the tidal encounter (β ≡ RT/Rp). Diagram inspired by Rosswog, Ramirez-Ruiz & Hix (2009).
+Rosswog S, Ramirez-Ruiz E, Hix WR. 2009. Astrophys. J. 695:404–419 (open access, and arXiv).
+
+If I'm not mistaken, the variables are:
+
+R* radius of the star
+Rp orbital pericenter (periapsis) of the BH-star system
+RS Schwarzschild radius of the black hole
+RT "tidal disruption radius" (Equation 2, Section 3.1)

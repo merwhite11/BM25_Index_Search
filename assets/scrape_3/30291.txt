@@ -1,0 +1,4 @@
+Are there recommendations to use "Hubble-Lemaître constant" instead of "Hubble constant"?
+
+The IAU recommends renaming the Hubble law as the Hubble-Lemaître law, as discussed at its General Assembly in 2018 (see this press release and the links therein).
+I have now stumbled upon an occurrence of "Hubble-Lemaître constant". Are there any recommendations (or noteworthy statements, opinion papers) in favor or against this extended interpretation of the IAU resolution B4 to the terminology for $H_0$?

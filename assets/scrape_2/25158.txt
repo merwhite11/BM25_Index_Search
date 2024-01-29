@@ -1,0 +1,67 @@
+Path of sun calculation using java
+
+if I am not using very odd programming language for Astrophysicists, here is my code for calculating path of sun. I am following this reference
+I want to calculate the local time as a function of zenith (e.g. sunset, sunrise, golden hour etc)
+import java.time.LocalTime;
+import java.util.Calendar;
+import static java.lang.Math.acos;
+import static java.lang.Math.cos;
+import static java.lang.Math.sin;
+import static java.lang.Math.tan;
+
+
+/**
+ * Created by rudra on 17/02/18.
+ */
+
+public class PathOfSun {
+
+    static public double getTime() {
+        LocalTime loacltime = LocalTime.now();//.getHour();
+        double tzone = 5.5; //TODO: placeholder, will be calculated
+        //    int localhour = time.getHour();
+        int hour = loacltime.getHour();
+        int min = loacltime.getMinute();
+        int sec = loacltime.getSecond();
+        double lat  =  28.6;//latlang.Lat;
+        double lang =  77.2;//latlang.Lang;
+        Calendar calendar = Calendar.getInstance();
+        int dayofyear = calendar.get(Calendar.DAY_OF_YEAR);
+        int daysthisyear = calendar.getActualMaximum(Calendar.DAY_OF_YEAR);
+        double pi = Math.PI;
+
+        double gamma = (2 * pi / daysthisyear) * (dayofyear - 1 + (hour - 12) / 24);
+        double eqtime = 229.18 * (0.000075 + 0.001868 * cos(gamma) - 0.032077 * sin(gamma) -
+                0.014615 * cos(2 * gamma) - 0.040849 * sin(2 *gamma));
+        double decl = 0.006918 - 0.399912 * cos( (gamma)) + 0.070257 * sin( (gamma)) -
+                0.006758 * cos(2 *  (gamma)) + 0.000907 * sin(2 *  (gamma)) -
+                0.002697 * cos(3 *  (gamma)) + 0.00148 * sin(3 *  (gamma));
+        double toffset = 4 * lang*60 + 60*(tzone) + eqtime;
+        double tst = 60 * hour + min + sec / 60.0 + toffset;
+        double ha = (tst/(4*60)) - 180;
+
+        // Zenith
+        double phi = acos(sin(Math.toRadians(lat)) * sin(decl) +
+                      cos(Math.toRadians(lat)) * cos((decl)) * cos(Math.toRadians(ha*60)));
+        // Azimuth
+        double theta = pi - (acos((sin(Math.toRadians(lat)) * cos(phi) - sin(decl)) / (cos(Math.toRadians(lat)) * sin(phi))));
+
+        // Calculating the hourAngle as in second page
+        // At sunrise
+        double ha2 = acos(cos(Math.toRadians(90.833))/cos( Math.toRadians(lat))*cos((decl))-
+                tan(Math.toRadians(lat))*tan((decl)));
+
+        double stime = (720 - 4*(lang + Math.toDegrees(ha)) - eqtime)/60.0;
+
+        System.out.println("DayOfYear"+ dayofyear+ "  DaysThisYear"+daysthisyear);
+        System.out.println("lat "+lat+"  lang "+lang+" ltime "+ loacltime);
+        System.out.println("eqtime "+eqtime+"  ha "+ha+" , "+ Math.toRadians(ha)+ "  ha2 " + ha2+
+                "\ndecl "+Math.toDegrees(decl)+" azimuth "+ Math.toDegrees(theta)+" Zenith "+Math.toDegrees(phi));
+        System.out.println("Time of Sun "+ stime);
+
+        return stime;
+    }
+}
+
+The problem is its giving me more or less OK value for equationoftime and declination, but azimuth etc are grossly incorrect.
+ANy idea where I am going wrong? I am following this page for reference.

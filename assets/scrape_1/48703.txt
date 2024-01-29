@@ -1,0 +1,5 @@
+what percent of moon must be illuminated to be visible with naked eye and clear sky?
+
+Originally, the new Jewish month was determined by the sighting of the new crescent moon.
+There are online calendars that give percentage of moon that is illuminated.
+Using the computations from these calendars, what is the minimum illumination percentage for someone to be able to unambiguously see it with naked eye assuming perfect sky conditions?

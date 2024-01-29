@@ -1,0 +1,28 @@
+What would "the next GAIA"-like instrument be like? Could it simply be a 3 to 5x scaled-up version of the same beautiful system?
+
+This excellent, thorough and well-sourced answer to Has a gravitational microlensing event ever been predicted? If so, has it been observed? mentions several works where hundreds to thousands of events are predicted.
+Roughly speaking these are within the next 50 years and require space telescopes due to the sub mas and sub mmag sizes of the astrometric and photometric microlensing effects, respectively.
+The answer begins:
+
+In the pre-Gaia era, this was effectively impossible to do, since positions and proper motions weren't precise enough for a large enough sample of stars. With the release of Gaia data, though, it has become an active area of research.
+
+Next generation GAIA?
+A simple scaling-up by a factor $f$ would have a possible smaller resolution by $f^{-1}$ so "look" a factor of $f$ farther in parallax measurements and have an $f^2$ larger light collection so would "see" a factor of $f$ farther given the same limiting magnitude (which may or may not be a valid assumption).
+This is certainly a challenge for the CCD array, which may have to be a factor $f^2$ larger physically but (presumably, naively) have a factor of $f^4$ more pixels in order to fully exploit the improved diffraction limit, and that may have serious noise side-effects.
+Question: Could a next generation GAIA simply be scaled up by a factor of 3x or 5x of the same beautiful system of two rectangular primary mirrors pointing 106.5 apart, imaging on the same focal plane at the same time on a big silicon carbide "optical bench" slowly and steadily rotating in synch with the CCD readout speed? If not, what would "the next GAIA"-like instrument be like?
+
+Further reading:
+
+Why does the Gaia space telescope have two main mirrors
+Why does Gaia use only calcium NIR lines for stellar radial velocity measurements?
+this answer to Why are telescope mirrors made of glass?
+this answer to How are space telescopes stabilised to a perfect standstill?
+
+
+
+above: GAIA's Silicon Carbide Optical Bench, with the two objective mirrors of it's twin telescopes pointing 106.5° apart. From Spaceflight 101, image credit: ESA/Astrium.
+
+
+above x2: GAIA's CCD array, from Spaceflight 101, image credit: ESA and Astrium respectively.
+
+above: Gaia's Imaging system, including mirrors 4, 5 and 6, prisms, diffraction gratings, and CCD array, from here, credit: EADS Astrium.

@@ -1,0 +1,12 @@
+Distance of a planet to the star?
+
+QUESTION: 
+Suppose we discover a planet orbiting a nearby star. 
+The distance to the star is 3 pc. 
+We observe the angular radius of the planet’s orbit to be 0.1 arc sec. 
+How many AU from the star is the planet? 
+**CONCERN: I am not sure what "The distance to the star is 3 pc" means. The earth's distance to the star? or the sun's distance to the star? or even better, the planet's distance to the star??!!
+Any explanation of the question would be greatly appreciated!
+My initial approach was some fixed position (say sun/earth's distance) to the star is 3pc, 
+so I will have    0.1 arc sec = 3pc/distance, and solve for distance as the answer.
+(I reckon this is a very simple question for astrophysics, but I need to get basics right)

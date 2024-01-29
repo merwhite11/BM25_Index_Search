@@ -1,0 +1,5 @@
+How to calculate the integrated source flux density of a continuous source?
+
+I'm working with data from radio surveys. My images are .fits files with BUNIT Jy/beam. I want to calculate the net flux from a continuous source (not point source). When I simply added all the intensity values and converted it into Jy using the beam parameters, my professor said that it is not enough. He said, "You have to account for noise by taking 3 or 4-sigma level depending on the distribution of the noise". The distribution of noise (at places other than the source) is nearly Gaussian as I can see from a fits viewer.
+By "take 3-sigma level", does he mean that I should fit a Gaussian to the noise, find sigma and then choose the pixels with intensity values greater than 3*sigma? If I do this, obviously I lose a lot of pixels. Also, if this is correct, should I subtract the mean of intensity of "noise" pixels from my source intensity?
+An RMS noise is given in the header, with a caution that it varies highly around some sources. Is this RMS noise value in anyway related to the sigma that I calculated earlier?

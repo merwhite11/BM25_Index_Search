@@ -1,0 +1,15 @@
+Estimate upper limits on flux values in the case of a non-detection?
+
+I have ALMA data which are non-detections of some spectral lines in a protoplanetary disk. The data is in the form of spectral cubes. I am hoping to estimate an upper limit on the flux of each of the spectral lines, given the fact they are not detected.
+What is the standard procedure for doing this?
+So far, I have tried following the procedure outlined in Carney et al. (2019)...
+
+Create a 'Keplerian mask', so that only pixels associated with the position and velocity of the disk are included
+Apply the mask to the spectral cube, and generate an integrated intensity map
+Measure the rms in the integrated intensity map
+Translate the measured rms into an upper limit
+
+I am having trouble with step 4. In Carney et al. (2019), they use the formula:
+$\sigma = \delta \nu \sqrt{N} \sigma_{\text{rms}}$
+where $\sigma$ is the flux upper limit, $\delta \nu$ is the channel width, $N$ is the number of independant measurements, and $\sigma_{\text{rms}}$ is the measured rms per channel.
+I'm not sure exactly how to apply this to my data? Or is there another way to estimate an upper limit on the flux?

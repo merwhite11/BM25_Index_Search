@@ -1,0 +1,3 @@
+How much the moon movement can influence an equatorial mount setup?
+
+If I use an equatorial mount for my telescope to view the moon, is there a way to take in count the moon movement around the earth, or the movement is too small compared to earth rotation?

@@ -1,0 +1,5 @@
+Maximum number of pixels across a synthesized beam in an ALMA image?
+
+I have some ALMA data, from which I have created images using the TCLEAN task in CASA.
+I understand that with this type of data, it is necessary to have at least 2 pixels across the FWHM of the synthesized beam, and a minimum of 3-5 is recommended.
+Is there an upper limit to the amount of pixels that should be used across the FWHM of the beam? When using a large number of pixels across the beam, the images appear to be 'higher resolution' and are more aesthetically pleasing (see examples below). I realise that increasing the number of pixels doesn't actually improve the angular resolution of the images, but is there a particular reason not to use a larger number of pixels?

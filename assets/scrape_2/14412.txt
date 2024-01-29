@@ -1,0 +1,3 @@
+How to create synthetic test images of stars?
+
+Is there any python/IDL code available to create synthetic test images of stars with and without background noise?

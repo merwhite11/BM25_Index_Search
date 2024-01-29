@@ -1,0 +1,11 @@
+Why does the Fourier transform of this CMB image have a hole in it?
+
+The BBC's Desert telescope takes aim at ageing our Universe contains the image below of the Cosmic Microwave Background from the Atacama Cosmology Telescope or ACT. It looks like this is plotted with a diverging colormap which makes sense since they've likely subtracted off the average temperature and probably at least its dipole component if not more (CMBR dipole anisotropy (ℓ = 1)
+But looking at it closely, I thought I noticed a strange regularity to the spatial scale, so I downloaded it and imported into Python and took the Fourier transform to see what I'd find.
+Despite this being an ugly and very unscientific analysis, I'm still seeing both a sharp cutoff below a spatial frequency of 1.0 inverse degrees, and "ringing" or $J_1$ Bessel-like ripples at higher frequencies.
+Are either or both of these profound and important to the analysis, or an instrumental artifact, or something else?
+
+Image in the BBC news item is a JPEG and you can see the subfield discontinuities (part of the way the JPEG wavelets are implemented) once the the thee RGB color channels are separated, but this is a square grid and not related to the clearly circular patterns in the Fourier transform.
+
+Python script: https://pastebin.com/t52VbqeD
+Exported image converted to PNG: https://i.stack.imgur.com/BC87Y.png

@@ -1,0 +1,5 @@
+Celestron C14 collimation and cleaning
+
+When checking the collimation of a Celestron 14" SCT I took this image:
+
+My question is: how much will the particles causing the local aberrations affect the image quality? (i.e. do I need to clean the optics?).

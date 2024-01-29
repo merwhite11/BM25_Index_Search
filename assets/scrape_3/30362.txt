@@ -1,0 +1,3 @@
+What part of the EM spectrum was used in the black hole image?
+
+The EHT has published the first image of a black hole.  It is the event horizon of the singularity in M87 against its accretion disk.  I've been through the reports in the popular press but none mention the light wavelengths this was taken at.  Is it an image in visible light, infra-red or longer?

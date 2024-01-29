@@ -1,0 +1,16 @@
+{
+  "name": "connectly_bm25index",
+  "version": "1.0.0",
+  "description": "takehome",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "mongoose": "^8.1.1",
+    "nodemon": "^3.0.3"
+  }
+}

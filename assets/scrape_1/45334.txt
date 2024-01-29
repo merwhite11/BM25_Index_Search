@@ -1,0 +1,10 @@
+Frame used for RGB cube in SAOImage
+
+I have RGB FITS images with NAXIS=3 so I read them into SAOImage (ds9 8.2.1). I use this command line:
+$ ds9 -rgbcube myimage.fits
+
+Doing so, the window is split in two frames, one empty and the second with my image. I tried this:
+$ ds9 -frame delete -rgbcube myimage.fits
+
+Now I have only one frame as wanted but it is numbered 2 since the frame 1 has been deleted by the -frame delete. My question is: is it possible to simply load the RGB cube into frame 1 or rename frame 2 to frame 1?
+Thanks if you can help me!

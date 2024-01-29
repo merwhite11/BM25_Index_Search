@@ -1,0 +1,6 @@
+sun - do gamma rays reach radiative zone
+
+So in the sun's core, gamma rays are produced and right away, in the few milimetters, compton scattering happens.
+As I understand the compton effect, gamma ray will first collide with free electron, and for the first collision, another gamma ray will be produced(from old one through scattering) - though this gamma ray will have a little bit longer wavelength(though, the difference in wavelengths are so small that new photon is still gamma ray. after so many scattering in the core, at some point, after x collisions, the photon will end up being x-ray.
+Question 1: Is the above logic right ?
+Question 2: do gamma rays escape the core and move into radiative zone ? or only some very small part of gamma rays reach radiative zone ? or all the photons that reach from core to radiative, they're already x-rays ?

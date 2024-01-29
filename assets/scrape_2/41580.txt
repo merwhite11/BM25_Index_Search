@@ -1,0 +1,3 @@
+How big can an object get before its core becomes degenerate?
+
+I am wondering, what is the most massive object we know of that does not have a degenerate core, and what is the least massive object that does have a degenerate code? We know that Jupiter has a core that is obviously degenerate. A quick Google search shows that Saturn is indeed degenerate, and is on the low end of electron-degeneracy. Are there any lesser-mass degenerate objects there, and what is the approximate boundary for electron-degenerate and non-degenerate matter?

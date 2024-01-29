@@ -1,0 +1,10 @@
+What is the most grazing exoplanet transit that has been reported with high confidence?
+
+The abstract of Past, present and future stars that can see Earth as a transiting exoplanet reads:
+
+In the search for life in the cosmos, transiting exoplanets are currently our best targets. With thousands already detected, our search is entering a new era of discovery with upcoming large telescopes that will look for signs of ‘life’ in the atmospheres of transiting worlds. Previous work has explored the zone from which Earth would be visible while transiting the Sun1,2,3,4. However, these studies considered only the current position of stars, and did not include their changing vantage point over time. Here we report that 1,715 stars within 100 parsecs from the Sun are in the right position to have spotted life on a transiting Earth since early human civilization (about 5,000 years ago), with an additional 319 stars entering this special vantage point in the next 5,000 years. Among these stars are seven known exoplanet hosts, including Ross-128, which saw Earth transit the Sun in the past, and Teegarden’s Star and Trappist-1, which will start to see it in 29 and 1,642 years, respectively. We found that human-made radio waves have already swept over 75 of the closest stars on our list.
+
+This is the final result of some previous work, and what I find interesting is that for "nearby" stars (insert your definition here) to a given system proper motion can bring them in and out of view of an exoplanet's transit relatively quickly.
+So here's a quirky question: What is the most grazing exoplanet transit that has been reported with high confidence?
+I suppose a metric for "grazing" could be how far from the stars center measured in stellar radii, I'd expect the answer in that case to somewhere between 80% to 99% but could it be even higher?
+Of course the hard part is the "high confidence" qualifier. As I'm no expert and I would suppose catalogs and lists have some way of managing levels of confidence, I'll leave to the answer author to determine how best to do this.

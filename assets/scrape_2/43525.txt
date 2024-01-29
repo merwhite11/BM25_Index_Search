@@ -1,0 +1,4 @@
+Is there an equivalent of the red shift effect for cosmic rays?
+
+I had read somewhere that light from very distant sources can be measured to be increasingly red shifted the further away the object is (due to cosmic inflation?).
+Suppose you had an object emitting cosmic rays or neutrinos other physical matter (not photons), is there an equivalent effect for these objects? ex: a red-shifted helium nuceli in a cosmic ray or red-shifted neutrinos coming from a neutrino source?

@@ -1,0 +1,5 @@
+Do Roche limits apply to black holes?
+
+Consider black hole A, a super massive black hole at the center of the galaxy. Orbiting it is black hole B, a much less massive black hole.
+If some passing body were to modify black hole B's orbit such that it fell within the Roche limit of black hole A, what would happen to black hole B?
+If it were to turn into a ring, would the black hole matter re-inflate since it wouldn't be under such high gravity? Do black holes even respond to Roche limits like regular matter does?

@@ -1,0 +1,12 @@
+How are the ESPRESSO Echelle spectrograph's calibration "lines" produced?
+
+The CBC News Technology and Science Q&A This ESPRESSO machine doesn't make coffee but scans the skies for habitable planets includes a nice description of ESPRESSO (Echelle SPectrograph for Rocky Exoplanet and Stable Spectroscopic Observations) and links to the YouTube video Echelle SPectrograph for Rocky Exoplanet and Stable Spectroscopic Observations.
+In the spectrogram shown at about 00:55 in the video I've noticed that each band is accompanied by a finely space array of points. I am assuming that they are some kind of calibration, but not sure how they are produced. 
+Since the orders are changing, I can't really figure out if these are equally spaced in wavelength or in frequency.
+How are these densely space calibration "lines" produced?
+You can see the full spectrogram in this question.
+
+
+
+
+above: Cropped subsections from a HD Frame grab from the video at about 00:55. Recorded with Python using this script, then extracting frames using this script in Blender.

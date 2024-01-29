@@ -1,0 +1,50 @@
+Get the expression of probed volume between 2 redshifts
+
+1) I can't manage to find/justify the relation (1) below, from the common relation (2) of a volume.
+2) It seems the variable r is actually the comoving distance and not comoving coordinates (with scale factor R(t) between both).
+The comoving volume of a region covering a solid angle $\Omega$ between two redshifts $z_{\mathrm{i}}$ and $z_{\mathrm{f}},$is given by
+$$
+V\left(z_{\mathrm{i}}, z_{\mathrm{f}}\right)=\Omega \int_{z_{\mathrm{i}}}^{z_{\mathrm{f}}} \frac{r^{2}(z)}{\sqrt{1-\kappa r^{2}(z)}} \frac{c \mathrm{d} z}{H(z)}\quad\quad(1)
+$$
+for a spatially flat universe $\kappa=0)$ the latter becomes
+$$V\left(z_{\mathrm{i}}, z_{\mathrm{f}}\right)=\Omega \int_{r\left(z_{\mathrm{i}}\right)}^{r\left(z_{\mathrm{f}}\right)} r^{2} \mathrm{d} r=\frac{\Omega}{3}\left[r^{3}\left(z_{\mathrm{f}}\right)-r^{3}\left(z_{\mathrm{i}}\right)\right]
+\quad\quad(2)$$
+I would like to demonstrate it from the comoving distance with :
+$$D_{\mathrm{A}}(z)=\left\{\begin{array}{ll}
+{(1+z)^{-1} \frac{c}{H_{0}} \frac{1}{\sqrt{\left|\Omega_{\mathrm{K}, 0}\right|}} \sin \left[\sqrt{\left|\Omega_{\mathrm{K}, 0}\right|} \frac{H_{0}}{c} r(z)\right],} & {\text { if } \Omega_{\mathrm{K}, 0}<0} \\
+{(1+z)^{-1} r(z),} & {\text { if } \Omega_{\mathrm{K}, 0}=0} \\
+{(1+z)^{-1} \frac{c}{H_{0}} \frac{1}{\sqrt{\Omega_{\mathrm{K}, 0}}} \sinh \left[\sqrt{\Omega_{\mathrm{K}, 0}} \frac{H_{0}}{c} r(z)\right]} & {\text { if } \Omega_{\mathrm{K}, 0}>0}
+\end{array}\right.
+$$
+UPDATE 1: It's been a long time that I posted this question.
+I recently took over this isssue and I have done little progress, at least I think.
+The FLRW metric can be expressed under following (0,2) tensor form :
+$\left[\begin{array}{cccc}1 & 0 & 0 & 0 \\ 0 & -\frac{R^{2}(t)}{1-k r^{2}} & 0 & 0 \\ 0 & 0 & -R^{2}(t) r^{2}  & 0 \\ 0 & 0 & 0 & -R^{2}(t) r^{2} \sin ^{2} \theta\end{array}\right]$
+If I consider only slice times constant, my goal is to compute the volume probeb by a satellite between 2 redshifts.
+
+We can easily find that :
+
+$$\int_{0}^{z_0}\frac{cdz}{H(z)} = \int_{0}^{t_0}\frac{cdt}{R(t)}$$
+
+Then, If I consider a volume with $\text{d}r$, $\text{d}\theta$ and $\text{d}\phi$ coordinates, I have the following expression for determinant :
+
+$$g=\text{det}[g_{ij}] = -\dfrac{R(t)^6}{1-kr^2}\,r^4\,\text{sin}^2\theta$$
+Which means that I have :
+$$\text{d}V=\sqrt{-g}\text{d}^3x = \dfrac{R(t)^3}{\sqrt{1-kr^2}}\,r^2\,\text{d}r\text{sin}\theta\,\text{d}\theta\, \text{d}\phi$$
+$$V=\int\text{d}V= \int \dfrac{R(t)^3}{\sqrt{1-kr^2}}\,r^2\,\text{d}r\text{sin}\theta\,\text{d}\theta\, \text{d}\phi$$
+$$V = \int \text{d}\Omega \int \dfrac{R(t)^3}{\sqrt{1-kr^2}}\,r^2\,\text{d}r$$
+$$\rightarrow\quad V = \Omega \int \dfrac{R(t)^3}{\sqrt{1-kr^2}}\,r^2\,\text{d}r$$
+with $\Omega$ the solid angle considered.
+But as you can see, I am far away from the expression $(1)$ that I would like to find, i.e :
+$$V\left(z_{\mathrm{i}}, z_{\mathrm{f}}\right)=\Omega \int_{z_{\mathrm{i}}}^{z_{\mathrm{f}}} \frac{r^{2}(z)}{\sqrt{1-\kappa r^{2}(z)}} \frac{c \mathrm{d} z}{H(z)}\quad\quad(1)$$
+EDIT : Maybe I have found a partial explanation to my issue to determine the expresion of this volume between 2 redshifts. Here below a formula :
+
+The main expression to keep in mind is :
+$$d V_{C}=D_{H} \frac{(1+z)^{2} D_{A}^{2}}{E(z)} d \Omega d z\quad(3)$$
+
+Could anyone explain me please the different justifications to introduce all the factors implied in this expression ?
+
+I have not yet with this expression the same expression (1) at the beginning of my post, so could anyone manage to find (1) from (3) ?
+
+
+Any help would be fine, I am stucked for the moment.

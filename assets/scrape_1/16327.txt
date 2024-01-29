@@ -1,0 +1,10 @@
+How to understand orbit definitions
+
+I've been reading about satellite observations (such as this one).
+The writer uses terms such as these to define the orbit:
+1 41584U 16036A   16167.96105997 0.00000000  00000-0  00000+0 0    07 
+2 41584   7.5055 353.7008 0046333  41.2140 319.1375  1.00195548    05 
+
+rms 0.004 deg      from 9 obs June 14.70 - June 16.79  (2.09 day arc) 
+
+What does each variable refer to, and what's the easiest way to view these on a map (either online or in an app of some kind?)

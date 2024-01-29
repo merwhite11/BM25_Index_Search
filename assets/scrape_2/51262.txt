@@ -1,0 +1,17 @@
+Radial velocity of host stars and exoplanets
+
+I am new to astronomy/astrophysics.
+(1) In the CATALOG OF NEARBY EXOPLANETS, I came across the following terms.
+Please see Table 2 of the above paper. 12th column lists $v \sin(i)$ - It is the radial velocity of the host star. Why $\sin(i)$? Also, if radial velocity is function of time, then why is only a single value given?
+In Table 3, column no. 5 lists "K" values? What are these? Again why single values?
+(2) In this table (from NASA exoplanet archive)
+first two rows say:
+\STAR_ID                   = "Kepler-100"
+\DATA_CATEGORY             = "Planet Radial Velocity Curve"
+
+Then the middle column gives the radial velocity of which body - host star or of an associated exoplanet?
+If it is of an exoplanet, then which one? Kepler-100 b or c or d?
+Also, what is the meaning of the following row in that table?
+\COLUMN_RADIAL_VELOCITY             = "Radial velocity relative to barycenter"
+
+(3) What is systemic radial velocity? This is frequently mentioned in the host star's parameters in the NASA archive. Again why single value?

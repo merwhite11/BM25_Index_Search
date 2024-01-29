@@ -1,0 +1,3 @@
+How can we focus radio telescopes on a star when the earth is spinning?
+
+Reading about the Star KIC 8462852, it has been said that the SETI project turned its radio telescopes towards the star to search for extra terrestrial radio signals as the star had strange fluctuations in light. How can we point from earth a radio telescope towards a star which is 1480 light years away whilst the earth is spinning at 1675 km/h and keep it focused or, in the case of a radio telescope, aligned in order to try and receive radio waves??

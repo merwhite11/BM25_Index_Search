@@ -1,0 +1,5 @@
+If a star orbited another star, how would that affect parallax measurements of the other star from the vantage point of the first?
+
+
+Example:
+If hypothetically, the vantage point would move 2AU along an orbit around the star being measured, would that make it seem as if the other star moved twice the distance over the back-drop?

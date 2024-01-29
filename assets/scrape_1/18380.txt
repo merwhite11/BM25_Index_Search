@@ -1,0 +1,8 @@
+Which approximations are required for the synodic period formula?
+
+The formula below is used to calculate the synodic period between two bodies orbiting a same third one:
+ $$\dfrac{1}{T_\mathrm{syn}} = \dfrac{1}{T_{1}} - \dfrac{1}{T_{2}}$$
+This formula can be used, for instance, to deduce the period of a planet in the Solar System, given that $T_\mathrm{syn}$ can be measured (period between two consecutive observations of a planet in the same relative position in the sky) and taking $T_1$ as 365.26 days.
+I have read that this formula is derived from:
+$$w_{\mathrm{syn}} = w_{1} - w_{2} = \dfrac{2\pi}{T_\mathrm{syn}} = \dfrac{2\pi}{T_{1}} - \dfrac{2\pi}{T_{2}} \therefore \dfrac{1}{T_\mathrm{syn}} = \dfrac{1}{T_{1}} - \dfrac{1}{T_{2}}$$
+My question is: which approximations are required for this result to hold true? Must the orbits be circular? Must these two bodies be in the same plane around the third? Also, considering the case of elliptical orbits but still assuming that the mass of the third body $M ≫ m_{1}$ and $M ≫ m_{2}$, would the synodic period of body 2 as observed from body 1 be indeed constant?

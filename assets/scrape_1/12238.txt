@@ -1,0 +1,4 @@
+White dwarf's impact on orbiting bodies
+
+Recently the Kepler telescope in its study of white dwarfs detected the first planetary object transiting a white dwarf in the data from the K2 mission. It was consistent with earlier theories' prediction that a planetary object orbiting a white dwarf would slowly disintegrate. Why would a planetary object that is orbiting a white dwarf disintegrate? I read it here.
+The original paper published in Nature (preprint): A Disintegrating Minor Planet Transiting a White Dwarf

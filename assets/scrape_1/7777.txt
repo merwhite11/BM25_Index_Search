@@ -1,0 +1,4 @@
+How to determine scalar-to-tensor ratio r from CMB polarization spectrum?
+
+CMB polarization spectrum can tell us about the primordial scalar and tensor perturbation. By analyze B and E mode angular spectrum power spectrum  and temperature power spectrum we can determine the scalar-to-tensor ratio r, as many articles implies.
+I know that r is defined by the ration of amplitude of primordial tensor and scalar perturbation. But what we in fact measure is the power spectra. So I wonder how can we get the value of r from the spectra we measure thus we can study the physics of primordial perturbations and inflation.

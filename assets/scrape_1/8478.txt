@@ -1,0 +1,5 @@
+As days get longer, why isn't the added daylight split evenly between sunrise and sunset?
+
+I have a basic understanding of the sinusoidal relationship of the rate of change of daylight as the year goes on. But it seems intuitive that the changes should be equally split between sunrise and sunset.
+For my location, Bend Or., todays sunrise/sunset is: 07:40 and 16:43 And for January 31st it is: 07:24 and 17:14
+So sunrise will be 16 minutes earlier and sunset will be 31 minutes later. It appears that there is twice the added daylight to sunset than to sunrise. Why aren't the differences equivalent?

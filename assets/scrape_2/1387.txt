@@ -1,0 +1,3 @@
+Emulation of an Orrery
+
+Orrery is a clockwork model of the solar system. I am trying to emulate one in 2D. Now, to emulate, I need to know what goes on inside. Can someone please explain the basic principle behind the clockwork? Or direct me to a resource that will explain all the machinery inside a simple Orrery.

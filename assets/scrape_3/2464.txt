@@ -1,0 +1,11 @@
+Do we make predictions in our time, or local time?
+
+I was scrolling idly through the Wikipedia article on Orion when I read:
+
+Orion will still be recognizable long after most of the other constellations—composed of relatively nearby stars—have distorted into new configurations, with the exception of a few of its stars eventually exploding as supernovae, for example Betelgeuse, which is predicted to explode sometime in the next million years.
+
+Given that Betelgeuse is only 640 light-years away from Earth, the question of whether we're talking about Betelgeuse going supernova in the next million years, or about news of the supernova reaching us in the next million years, is irrelevant, since 640 years is hardly noticeable when you're talking about ten thousand centuries. 
+But what about a star further away? Say, something in the Andromeda Galaxy, 2.5 million light-years from us? If I read an article stating that a star in the Andromeda Galaxy was going nova in a million years, would that mean:
+a) That we think the star will go nova one million years from now, and its light will reach us in 3.5 million years; or
+b) That we believe the star went nova 1.5 million years ago, and its light will reach us in one million years 
+In other words, are we making estimates in our time, or in celestial-body-local time?

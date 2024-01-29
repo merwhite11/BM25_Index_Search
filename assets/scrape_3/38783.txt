@@ -1,0 +1,9 @@
+Point spread function image deconvolution
+
+I would like to deconvolve an image of Saturn.
+
+I took an image of Saturn: Stack of 50 frames, the angular resolution of the original frames is 1.6''/pixel and the frames are scaled x4 before stacking.
+I took an image of a star (Altair) using the same optical system and the same camera settings, stack of 50 frames, same resolution as Saturn. The separation between the star and Saturn is about 30°. I think that the shape of the star is mostly caused by the chromatic aberration of the scope.
+I deconvolved saturn using Richardson–Lucy algorithm and the normalized image of the star as the point spread function (PSF) of the system.
+
+However, the result is absurd (cf image). Why doesn't this method work? The image of the star seems pretty big. Do I miss a step to recover the PSF ?

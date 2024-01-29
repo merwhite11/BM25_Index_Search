@@ -1,0 +1,6 @@
+Right ascension, Equinox, Positions Help
+
+I am trying to answer the following question which I slightly understand but need a clearer explanation:
+What are the times of year to observe an object at X hours of RA at visual wavelength?
+I am trying to use the march equinox as a starting point for 0 RA and for a 12 hour RA object, it will begin to rise from the east as the sun sets west of course, around 6 months from the march equinox???
+I appreciate an explanation and if you can link a map or a helpful visual as well. Thanks!

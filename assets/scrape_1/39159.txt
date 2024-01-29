@@ -1,0 +1,5 @@
+How can I create a mask for a fits image?
+
+I need to create a mask of a fits image.
+By this I mean that I want to create the image that covers all secondary objects from the original image except the one is in the center.
+I have some routines in Python+sextractor, but the code a bit dated, is there are some new tools?

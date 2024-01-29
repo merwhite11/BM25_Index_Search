@@ -1,0 +1,13 @@
+working with stellar spectra in fits format in python
+
+Hey I am new to working with astronomical data in Python. I wanted to start working with stellar spectra and I am having trouble with the data. To get a first look I just wanted to plot a spectra (flux over wavelength). I downloaded the Miles library (http://research.iac.es/proyecto/miles/pages/stellar-libraries/miles-library.php) and started working with a single fits file. My first steps where as follows :
+import numpy as np
+import matplotlib.pyplot as plt
+from astropy.io import fits
+
+hdul = fits.open('s0013.fits')
+data = hdul[0].data
+h1 = hdul[0].header  
+
+I read the header using print(repr(h1)) and know I wanted to plot the spectrum. The data has shape (1, 4367) and I am not sure how to proceed to achieve 2 arrays one with the wavelength and one with the flux to plot the data. I am sorry if this question is stupid but I can not figure it out.
+Cheers

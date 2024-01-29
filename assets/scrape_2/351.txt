@@ -1,0 +1,5 @@
+Why has Moving Cluster Method been successful only for Hyades?
+
+At all places where I have read of Moving Cluster Method for measuring distance to a cluster and once applied myself on data, I have been told that the method has been successfully applied only to Hyades cluster in Taurus.
+
+Question : What factor made the method unsuccessful for other known clusters?

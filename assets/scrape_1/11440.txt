@@ -1,0 +1,4 @@
+Available energy for potential life on Titan
+
+There is an interesting discussion about whether there could be life on Saturn's moon Titan. (For example here.) The life could use reaction of hydrogen and acetylene which are being produced by photolysis in Titan's atmosphere. I would like to know what total energy is available for such life per square meter per day, or at least how much hydrogen is produced in Titan's atmosphere per day. 
+There are some estimates in article McKay and Smith, Icarus, 2005, but I have problem translating the quantities they use for the estimate to total amount of hydrogen produced per unit of time or energy produced per unit of time.

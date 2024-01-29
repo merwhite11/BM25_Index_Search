@@ -1,0 +1,6 @@
+What are some challenging astrophysics problems for which we have data available?
+
+
+I am a Computer Science student, and I would like to pursue a PhD in the same area, by applying artificial intelligence techniques to astrophysics. Not being an astrophysicist, however, I was curious about the main challenges in the field of astrophysics, and about the existence of numerical data related to them. 
+The goal would be to use deep learning techniques in fields where they have not been used so far, in order to obtain better results or to find something new. In particular, I find black holes fascinating, and a research in that field may be something very interesting (also, I think there is a lot to discover in that field). 
+Thank you in advance for your time!

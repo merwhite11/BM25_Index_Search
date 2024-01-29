@@ -1,0 +1,6 @@
+Deep space radiation distribution
+
+What frequency distribution law applies to a random point in deep space that is assumed to be far away from any particular source of radiation. 
+Can it be expressed by some form of Plancks/Bose-Einsteins/Fermi-Diracs laws or a mix of all of them? 
+What would be the mean frequency/wawelength?
+Would the mysterious "dark energy" be a major contributor to the distribution?

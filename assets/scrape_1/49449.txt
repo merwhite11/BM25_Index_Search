@@ -1,0 +1,5 @@
+calculating MPC orbital uncertainty parameter U
+
+I'm trying to understand how the orbital uncertainty parameter 'U' introduced by the Minor Planet Center (MPC) is actually calculated for minor bodies. This wikipedia page gives the formulae to be used in what appears to be a two-step process of the calculation. The first step involves plugging in a variable referred to as  $\Delta \tau$, the uncertainty in the perihelion time in days, to the first formula to obtain what is referred to as the in-orbit longitude runoff, $r$.
+I'm having trouble finding/ computing $\Delta \tau$, the uncertainty in the perihelion time in days for a given minor body. I'm aware that the uncertainties of all the six orbital parameters of a minor body is available at the JPL Small Body Database. Anyone has some idea how to work out the uncertainty in the perihelion time in days from the data available from the JPL Small Body Database ?
+Thank you in advance !

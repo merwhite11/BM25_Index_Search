@@ -1,0 +1,99 @@
+Problem with the Orbital Precession predicted by the Relativistic Acceleration equation used in the JPL D440-D441 Ephemerides - please advise
+
+I have previously encountered a problem with the equation used by Yeomans and others for determining the gravitational acceleration of comets (see update in my answer to the previous question Can General Relativity indicate phase-dependent variations in planetary orbital acceleration?).
+Basically I find that, for hypothetical circular orbits, the predicted direction of radial acceleration is opposite to that predicted by other formulae such as those of Goldstein and Walter.  And this would mean that the "Yeomans" equation does not explain the observed Non-Newtonian apsidal rotation (orbital perihelion precession) of the Solar System planets.
+Anderson et al 1975
+presented two Equations 11 and 12 for the Newtonian and Relativistic accelerations affecting a satellite.
+The following equation 3.11 is from Shahid-Saless and Yeomans 1994.   It gives the gravitational acceleration of a single body under the influence of another single "source" body. Here $\mu = GM_{Source}/c^2.$   This equation is a selective composite of relevant parts of Equations 11 and 12 from Anderson et al 1975.
+
+Equation 3.11 can be re-written as (and here denoted by Equation 1):-
+$$\textbf{a} = \frac{-GM.\textbf{r}}{r^3}
+\left( 1 - \frac{4.GM}{c^2.r} + \frac{v^2}{c^2} 
+\right) 
++ \frac{4GM}{c^2.r^3}\left( \textbf{r} \cdot \textbf{v}\right)\textbf{v}
+$$
+Note I use different Mathjax fonts to distinguish between scalars $r,v$ and vectors $\textbf{r},\textbf{v}$.
+More recently the following Equation 27 is reported in Park et al 2021, The JPL Planetary and Lunar Ephemerides DE440 and DE441. It is similar in parts to the Yeomans Equation but it accounts for the gravitational effects of multiple sources. Note that in Equation 2 of Parks et al, the term $r_{ij}=|\textbf{r}_i-\textbf{r}_j|$ is defined as an unsigned scalar value representing the distance between bodies $i$ and $j$.
+
+A very similar equation is presented in Descanso2 Section 4-26. It is based on work by Moyer (1971) and Will(1981). Here $\mu = GM_{body}.$ Note that the typescript in this image makes it easier to tell the difference between vectors and scalars than in the image of the Park et al 2021 Equation 27.
+
+Note: I am aware of important, fundamental differences between Newtonian and General Relativity models of nature (see contribution by /u/Stan Liou/ in this question ). In the following I am neglecting a discussion of these and thinking rather in terms of a Newtonian Model with additional small "exotic" accelerations whose Newtonian pattern is suggested by General Relativity (Slow + Weak regime). I don't think this neglect affects significantly the core problem here, which is the magnitude and direction of the Non-Newtonian acceleration vector and whether or not it explains the observed Non-Newtonian precessions of the planetary orbits.
+The Park et al eqtn 27 can be applied to the imaginary case of a test particle (i) in an orbit (with orbital radius and speed similar to a terrestrial planet) around the Sun where the Sun (j) is the only gravitational source in the system.  In General Relativity the terms $\beta$ and $\gamma$ are equal to 1.  By taking the inertial frame and coordinate system where the position ($r_j$) velocity ($v_j$) and acceleration ($a_j$) of the Sun are zero we find that many of terms become zero.
+$$\textbf{a} = \frac{-GM.\textbf{r}}{r^3}
+\left( 1 - \frac{4.GM}{c^2.r} - 0 + \frac{v^2}{c^2} + 0 -0 -0+0
+\right) 
++ \frac{GM}{c^2.r^3}\left( [\textbf{r}] \cdot [4.\textbf{v}-0]\right)\textbf{v}
++0$$
+And so...
+$$\textbf{a} = \frac{-GM.\textbf{r}}{r^3}
+\left( 1 - \frac{4.GM}{c^2.r} + \frac{v^2}{c^2} 
+\right) 
++ \frac{4GM}{c^2.r^3}\left( \textbf{r} \cdot \textbf{v}\right)\textbf{v}.
+$$
+... which is identical to my Equation 1 derived from Equation 3.11 of Shaid-Saless & Yeomans 1994.
+(Note that the third term inside the curly braces of Park et al's Equation 27, the sum of objects $k$ does not exclude object $i$. But I have ignored this term as the mass of object $i$ relatively very small in this case.   The omission appears valid when the Non-Newtonian part of the above equation is compared with Equation 20 from Moyer 1971, Mathematical Formulation of the Double Precision Orbit Determination Program DPODP for the motion of a 'massless' test particle around a single massive body.
+CIRCULAR ORBITS
+Now let us consider the case where the orbit is circular, then the test particle velocity ($\textbf{v}$) is perpendicular to its position vector ($\textbf{r}$) and so the dot product is zero and so the final term in Equation 1 goes to zero, leaving:-
+$$\textbf{a}_{circ} = \frac{-GM.\textbf{r}}{r^3}
+\left( 1 - \frac{4.GM}{c^2.r} + \frac{v^2_{circ}}{c^2} 
+\right) 
+$$
+In a (Newtonian) circular orbit we have $\frac{GM}{r}=v_{circ}^2$ and so we can write:
+$$\textbf{a}_{circ} = \frac{-GM.\textbf{r}}{r^3}
+\left( 1 - \frac{4.v^2_{circ}}{c^2} + \frac{v^2_{circ}}{c^2} 
+\right) 
+$$
+Then...
+$$\textbf{a}_{circ} = \frac{-GM}{r^2}
+\left( 1 - \frac{3v^2_{circ}}{c^2}  
+\right) \hat{\textbf{r}}
+$$
+Finally
+$$\textbf{a}_{circ} = -\frac{GM}{r^2} \hat{\textbf{r}}
+   + \frac{GM}{r^2}  \frac{3v^2_{circ}}{c^2}\hat{\textbf{r}}
+$$
+On the RHS the first term is the usual Newtonian acceleration (towards the Sun) and the second term is the Non-Newtonian acceleration (away from the Sun).
+And so we have again the same problem as I had with the Yeoman's equation - the Equation 1 predicts that the Non-Newtonian acceleration for a circular orbit is outward (away from the Sun) which would produce negative precession (retardation) of the orbit rather than the positive precession observed for the terrestrial planets and certain asteroids and predicted by the equations of Goldstein and Walter (referenced in this earlier SE Astronomy question of mine  ), effectively:-
+$$\textbf{a}_r = -\frac{GM}{r^2} \hat{\textbf{r}}
+   - \frac{GM}{r^2}  \frac{3v^2_{circ}}{c^2}\hat{\textbf{r}}
+$$
+However, perfectly circular orbits are a bit special.  Just because the Equation 1 and the Goldstein/Walter equation give radically different results for circular orbits does not necessarilly mean that they give radically different results for orbits which are significantly elliptical such as Mercury, Mars and certain asteroids.  So we should look at Equation 1 in the case of Elliptical orbits.
+ELLIPTICAL ORBITS
+Equation 1 derived from the equations presented by both Shahid-Saless and Yeomans 1994 and Park 2021 gives the acceleration of an object in an Elliptical Orbit. In previously restricting it to circular orbits I dropped the term, which I denote as $\textbf{a}_E$:-
+$$
+\textbf{a}_E = \frac{4GM}{c^2.r^3}\left( \textbf{r} \cdot \textbf{v}\right)\textbf{v}
+$$
+The velocity vector $\textbf{v}$ can be decomposed into the two mutually-perpendicular component velocity vectors $\textbf{v}_r$ and $\textbf{v}_t$ directed radially and transversely respectively. And then we can apply the distributive rule for dot products...
+$$
+\textbf{a}_E 
+= \frac{4GM}{c^2.r^3}\left( \textbf{r} \cdot (\textbf{v}_r + \textbf{v}_t) \right)\textbf{v}
+= \frac{4GM}{c^2.r^3}\left( \textbf{r} \cdot \textbf{v}_r + \textbf{r} \cdot  \textbf{v}_t) \right)\textbf{v}
+$$
+Now $\textbf{r}$ and $\textbf{v}_r$ are parallel so their dot product has magnitude $|r.v_r|$ and sign $(\hat{\textbf{r}} \cdot \hat{\textbf{v}}_r)=+/-1$ according to whether they are or aren't pointing in the same direction.  Whereas
+$\textbf{r}$ and $\textbf{v}_t$ are perpendicular so their dot product is zero.
+$$
+\textbf{a}_E 
+= \frac{4GM}{c^2.r^3}\left( |r.v_r|(\hat{\textbf{r}} \cdot \hat{\textbf{v}}_r) + 0 \right)\textbf{v}
+$$
+Cancelling $r$ then decomposing $\textbf{v}$...
+$$
+= \frac{4GM}{c^2.r^2}\left( |v_r|(\hat{\textbf{r}} \cdot \hat{\textbf{v}}_r) \right)\textbf{v}
+= \frac{4GM}{c^2.r^2} 
+(|v_r| (\hat{\textbf{r}} \cdot \hat{\textbf{v}}_r) \textbf{v}_r 
++ |v_r| (\hat{\textbf{r}} \cdot \hat{\textbf{v}}_r)  \textbf{v}_t)
+$$
+We are left with two perpendicular components of acceleration...
+$$
+\textbf{a}_{Er} = 
+\frac{4GM}{c^2.r^2} |v_r^2| (\hat{\textbf{r}} \cdot \hat{\textbf{v}}_r) \hat{\textbf{v}}_r
+$$
+$$
+\textbf{a}_{Et} =  
++ \frac{4GM}{c^2.r^2} |v_r.v_t| (\hat{\textbf{r}} \cdot \hat{\textbf{v}}_r) \hat{\textbf{v}}_t
+$$
+Now it can be shown that the radial component $\textbf{a}_{Er}$ (in $v_r^2$) is always directed radially away from the source and does not have a relatively large affect on apsidal rotation for Solar planets.
+Whereas the transverse acceleration component $\textbf{a}_{Et}$ (in $v_r.v_t$) points in the same direction as $\hat{\textbf{v}}_t$ during the half-orbit between perihelion and aphelion but points in the direction opposite to $\hat{\textbf{v}}_t$ during the other half-orbit. It has the effect of producing apsidal rotation equal to  $(+4/3)\Delta$ where $\Delta$ is the observed Non-Newtonian apsidal rotation for Mercury and Mars.
+From previously, the apsidal rotation produced by the rest of Equation 1 is $(-3/3)\Delta$.  So the total rotation produced by Equation 1 is $(+1/3)\Delta$ which is a third of the observed planetary orbit rotations.
+This compares with the $(+3/3)\Delta$ produced by the equation from Goldstein/Walter which predicts 100% of the observed apsidal rotations.
+THE QUESTION
+So my question is: What is the explanation for the "wrong" direction of the relativistic acceleration predicted by Equation 1 which was derived from equation 27 in the Park et al 2021 JPL D440-D441 Ephemerides. Is my analysis wrong or is the equation wrong?

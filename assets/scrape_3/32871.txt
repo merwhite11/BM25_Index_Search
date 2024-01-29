@@ -1,0 +1,13 @@
+How to do logarithmic wavelength binning (in Python) in order to find redshift?
+
+In Tonry and Davis (1979), p.1513, they formulated a cross-correlation method for extracting velocity redshifts:
+
+Theory of Correlation Analysis
+a) Introduction
+Let $g(n)$ be the spectrum of a galaxy whose redshift and velocity dispersion are to be found and let $t(n)$ be a template spectrum of zero redshift and instrumentally broadened stellar-line profiles. These spectra are discretely sampled into $N$ bins, labeeled by bin number $n$; the relationship between wavelength and bin number is
+$$n = A \ln \lambda + B$$
+Because the spectra are binned linearly with $\ln \lambda$ a velocity redshift is a uniform linear shift. The spectra are assumed periodic with period $N$ [...]
+
+They bin the linear spectra onto a logarithmic wavelength scale. Similar work was done by Baldry et. al (2014) and I have inserted a relevant excerpt from TD79. I understand that log wavelength binning is a pre-requisite of cross-correlation procedure.
+I have been trying to follow this approach and to rebin linear spectra (3000 to 9000 Angstroms) into equal intervals of log wavelength. Could someone please give me a guidance about how to do this logarithmic re-binning  in Python?
+Here is the text as picture:

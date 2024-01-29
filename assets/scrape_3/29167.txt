@@ -1,0 +1,5 @@
+What are the challenges for the building and data analysis of the CHIME telescope?
+
+The  Canadian Hydrogen Intensity Mapping Experiment (CHIME) has discovered the second repeated fast radio burst recently. However, its structure is simple apparently. I wonder why we did not build a telescope before. What is the challenge? I just know that its data volume is large.
+It is difficult to update the telescope?
+There are 4 cylinders and 1024 antennas. What determines the distribution of the 1024 antennas? I mean why is it not just one longer cylinder?

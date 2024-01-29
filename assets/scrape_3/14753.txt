@@ -1,0 +1,3 @@
+Simple Question about Constellation
+
+I am currently self teaching myself some basic astronomy. My book claims, if a constellation is observed for exactly 6 months during a year, then it lies on the celestial equator. I have failed to understand why this must be true. Shouldn't the visible duration depends on the position of the observer? For example, for an observer at equator, wouldn't all constellations (accept those at the polaris) be visible for exactly half a year? Also, is the constellation at the NCP always visible for people in the northern hemisphere? Thank you in advance!

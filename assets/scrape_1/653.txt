@@ -1,0 +1,4 @@
+How do we detect if a planet has a liquid core?
+
+In case of Earth, we have many hints about the internal structure of our planet, from what I know, the most important of which is analyzing seismic waves. 
+Do we have any instruments to detect if other solid planets, such as Mars or Venus, have solid or liquid core? Is it possible using remote sensing?

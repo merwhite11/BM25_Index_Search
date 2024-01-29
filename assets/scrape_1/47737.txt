@@ -1,0 +1,9 @@
+Formula for calculating if an object can cast a visible shadow on the ground or not
+
+I know that we can see the shadow cast by the light of Venus on the ground. I also talk with one person who said they were able to see the shadow even from Jupiter.
+Recently I've read something like this:
+
+According to one calculation, Sirius should be just bright enough to cast shadows on white surfaces (snow or a white sheet spread on the ground) in near-ideal dark conditions.
+
+http://www.noojum.com/images/stories/books/The-Brightest-Stars.pdf
+So I am asking seriously about a formula based on a given object magnitude with which I could calculate if the shadow it cast could possibly be visible. Any live example will be also very helpful.

@@ -1,0 +1,10 @@
+Should I focus more on Aperture or Focal Length for a telescope?
+
+Let's assume there are three types of telescopes with the following specifications:
+    Telescope                  Aperture              Focal Length
+    --------------------------------------------------------------
+    Example 1                     70 mm                    400 mm
+    Example 2                     60 mm                    700 mm
+    Example 3                     60 mm                    900 mm
+
+As a beginner, should I look for a higher value in the aperture or the focal length?

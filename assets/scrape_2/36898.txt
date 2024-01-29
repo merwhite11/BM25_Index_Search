@@ -1,0 +1,10 @@
+How would you define "space" in GR (General Relativity) and in QFT (Quantum Field Theory)?
+
+Is there a univocal definition of space that can be accepted in GR and in QFT?
+In GR space is actually "Spacetime", a 4-dimensional entity that includes time. In this case it's impossible to separate the container from its content, in fact Spacetime between Superclusters of galaxies, is not completely empty but contains a very low density of particles, mainly hydrogen and helium in the form of plasma, electromagnetic radiation, neutrinos, dust and cosmic rays. Spacetime also warps due to different forms of energy so must be considered in a 5-dimensions manifold.
+In QFT empty space is a state more than a container and is never truly "empty" (it's filled by transient electromagnetic waves and particles popping in and out continuously), so vacuum state can be defined in various ways:
+QED (Quantum Electro Dynamics) vacuum is the ground state of the electromagnetic field when the fields are quantized.
+In QCD (Quantum Chromo Dynamics) is characterized by non-evanescent condensates such as gluonic condensate and quarks condensate.
+False vacuum, a hypothetical vacuum that is somehow not entirely stable and could decay into a lower energy state.
+Quantum foam, defined as spacetime fluctuations of unimaginably small scales of the order of Planck Length.
+How can we unify this multiple description of Space?

@@ -1,0 +1,9 @@
+For stars around 13th magnitude, are their entries in various catalogues usually linked, or does one do this manually?
+
+@MikeG's speedy answer to "What star was the asteroid 2014 MU69 predicted to occult on 2018-08-04?" lists three names for one 13th magnitude star, from three catalogues; 2MASS, UCAC4, and Gaia DR2.
+My question could be slightly subjective, but I believe that someone familliar with the topic will be able to provide an authoritative answer.
+For stars around 13th magnitude that do appear in all three, are they electronically linked between catalogs in some automated way, or do you pretty much check each of them, decide the objects are the same, and then make note of your conclusions if you are writing something up?
+
+2MASS All-Sky Catalog of Point Sources (Cutri+ 2003) 
+UCAC4 Catalogue (Zacharias+, 2012) 
+Gaia DR2 (Gaia Collaboration, 2018)

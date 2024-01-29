@@ -1,0 +1,7 @@
+Pressure on euler equation for astrophysical scenario
+
+i have two questions, and they are related.
+In the Euler equation $\frac{D\vec{u}}{Dt}=-\vec{\nabla}\Phi-\frac{\vec{\nabla}P}{\rho}$
+where $\frac{D\vec{u}}{Dt}=\frac{\partial \vec{u}}{\partial t}+(\vec{u}\cdot \vec{\nabla})\vec{u}$. If for example one wants to applie it to a galaxy, in the context of N body problem. What does this pressure means? Is the interstellar medium that gives sense to this term? i think that the answer to the last question is no, one should deal with navier stokes equation and when it says viscocity there you have your ISM. Because i only imagine gravitational interactions (assuming there are no physical collitions)i can't figure it out.
+I understand that you can use Bolztman equations without collisions and take the first momentum order of it, and you have something that is like a pressure,like dispersion of velocities. Or maybe using focker-planck equation first momentum order, but that never done it.
+The thing is if you have N particles you will have a density $\rho (\vec{x},t) = \sum_{i=1}^{N}m_{i}\delta(\vec{x}-\vec{x_{i}}(t))$ . In this condition (euler equation) is P=0?

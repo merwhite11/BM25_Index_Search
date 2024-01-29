@@ -1,0 +1,3 @@
+Energy loss from Doppler effect
+
+The energy of electromagnetic radiation is related to frequency; higher the frequency, higher the energy level. If electromagnetic waves have lower frequency when they arrive on Earth than originally emitted due to the Doppler effect, where, according to the conservation of energy, does the excess energy go?

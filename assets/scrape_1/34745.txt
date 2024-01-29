@@ -1,0 +1,3 @@
+Gravitational field for oblate spheroid?
+
+Consider a planet, described as an oblate spheroid. Assume that the spheroid is uniformly dense but not a point source. Outside of the object, do all vectors in the gravity field point through a single point inside the planet?

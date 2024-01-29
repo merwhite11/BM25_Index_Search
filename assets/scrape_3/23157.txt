@@ -1,0 +1,4 @@
+Seeing units, arcsec VS cm
+
+I am very used to working with seeing in arcseconds, but sometimes I come across the seeing in cm, e.g. here.
+I have looked online for a way to convert from one to the other, but I can't find any. How would this be done?

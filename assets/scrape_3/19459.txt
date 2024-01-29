@@ -1,0 +1,11 @@
+Can you see the starting and the ending of a light beam passing in the distance?
+
+This question arose to me when I saw a SciFi movie where they shot with laser guns and you clearly could see the dashes of light beams travelling from the shooter to the target. Nonsense of course, reality is much more boring.
+But I wondered if you would just need more distance: 
+
+Given a limited light beam traveling from A to B, where "limited" means that there is a start and / or end of the emission source causing that beam.
+Given enough distance from us to A, B and the line between them
+And add some kind of nebular smoke in between just enough to disperse as much light as needed so we can see it here but not as much to prevent it from reaching B.
+
+Couldn't we observe the starting and / or the ending of that light beam, progressing on it's way from A to B, like a jet trail in the sky?
+If it is possible, where can this be observed? Or do the laws of physics forbid such a thing?

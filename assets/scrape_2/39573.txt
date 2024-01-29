@@ -1,0 +1,11 @@
+Which is a better way to increase magnification - by choosing an eyepiece of lesser focal length or by choosing a telescope with higher focal length?
+
+Magnification of a telescope = (focal length of telescope / focal length of the eyepiece being used)
+$$M=\frac{f_{objective}}{f_{eyepiece}}$$
+If I want 75 X magnification and the following are the two ways being considered for obtaining that magnification, which one is better? What are the trade-offs and effects on the quality of observation? Where will I get a sharper image?
+Method 1: Use telescope of 600mm focal length and an eyepiece of 8mm - giving magnification = 75 X
+$$M = \frac{600\,mm}{8\,mm}=75$$
+Method 2: Use telescope of 1200mm focal length and an eyepiece of 16mm - giving magnification = 75 X
+$$M = \frac{1200\,mm}{16\,mm}=75$$
+Assume that the telescope aperture is the same in both cases.
+Any references are also welcome.

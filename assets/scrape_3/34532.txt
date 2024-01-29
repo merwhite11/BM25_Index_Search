@@ -1,0 +1,6 @@
+What exactly is interplanetary scintillation; what was the Interplanetary Scintillation Array looking for? Did it successfully observe any?
+
+The Interplanetary Scintillation Array is the radioastronomy observatory (i.e. big antenna) where the first pulsar was discovered by then graduate student Jocelyn Bell Burnell through careful and painstaking review of chart recorder data.
+Question: What exactly is interplanetary scintillation; what was the Interplanetary Scintillation Array looking for? Did it successfully observe any?
+For observing ionizing radiation such as cosmic rays and photons, a scintillator is used to convert energy to lower energy photons (usually visible light) but I don't know if the term scintillation in radio astronomy is related to that process in any way or not.
+update: I've just asked in Aviation SE: What is “scintillation” and are “qualified pilots” aware of it? which was quickly answered and points out that in that context scintillation can also be called "twinkling". If a radio source can twinkle as well, is this an atmospheric effect? If so is it neutrals or ions that generate it. If not, is it turbulence in the ionized interstellar medium?

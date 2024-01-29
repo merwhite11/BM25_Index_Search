@@ -1,0 +1,5 @@
+Are there any known planets whose axis is oriented such that one pole always faces its star?
+
+Earth rotates around the sun and around its axis (A North, South axis) giving us days, nights and seasons.
+Are there any known planets that rotate with an axis pointing toward its sun so that one half of the planet is always facing it (the other half is always facing away from it)? Like Uranus, but not switching which side is facing the sun every 6 months.
+(Would this even be theoretically possible?)

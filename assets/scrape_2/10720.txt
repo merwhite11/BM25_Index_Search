@@ -1,0 +1,11 @@
+Standardized "constellation" regions?
+
+The current system of constellations is historical and has kind of arbitrary boundaries.
+
+This has a number of obvious downsides:
+
+Difficult to define boundaries need complex tables to express
+Each constellation subtends a different solid angle (area of sky)
+etc
+
+Has anyone ever proposed, or does anyone use, a system of cutting the sky into regular chunks, that are either simple to define or similar in area?   Do any of these systems (if they exist) attempt to preserve the most important/famous constellations (as least the part people normally see) ?

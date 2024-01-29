@@ -1,0 +1,4 @@
+Normalizing the supernova spectrum by photometry
+
+I have a SN spectrum here (already reduced) that seems to have some artifacts. Professor tells me that I may have to normalize it using photometry.
+As far as I understand, I just have to multiply it by some factor to make the integral over all frequencies equal to bolometric luminosity. Am I right, or is there some more complicated thing here?

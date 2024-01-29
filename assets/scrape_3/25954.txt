@@ -1,0 +1,10 @@
+So where are these measurements of galaxies moving faster than light?
+
+https://physics.stackexchange.com/questions/400457/what-does-general-relativity-say-about-the-relative-velocities-of-objects-that-a
+"we can actually observe galaxies that are moving away from us at >c"
+Um, I think I missed the groundbreaking headline that said scientists have directly measured a galaxy moving away from us at speeds faster than light.
+So the first answer seems to contradict this other answer
+https://physics.stackexchange.com/questions/107748/how-are-galaxies-receding-faster-than-light-visible-to-observers
+"If recession velocity at the location of a traveling photon were greater than the speed of light the entire time the photon from a distance galaxy were traveling, we would never observe the photon."
+It seems like common sense that at a certain distance, space is expanding faster than light, thus preventing light beyond a certain distance from reaching Earth which means we can't directly measure galaxies traveling faster than light, but we can imply that they do by projecting their velocity beyond the observable universe. But who's right?
+If a galaxy used to be within the observable universe, we can measure photons from that galaxy reaching Earth despite that that galaxy may be currently outside the observable radius of the universe. Galaxies can be projected as travelling faster than light due to the expansion of space, but I haven't seen that we can directly measure them as doing such since the redshift of photons is proportional do the amount of space that is expanding between us and a certain distance.

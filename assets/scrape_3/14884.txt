@@ -1,0 +1,4 @@
+Mass limit of planetary ring
+
+Is there a limit to how massive a planet's ring can be?
+If there is, how does it depend on the mass of the planet, presence/absence of moons, distance to the star or other parameters?

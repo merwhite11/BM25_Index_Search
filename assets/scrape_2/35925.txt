@@ -1,0 +1,9 @@
+Help identifying a very slow-moving object during meteor shower photography
+
+I just wonder if anyone could shed any light on this puzzle.
+Two nights ago whilst I was out photographing the Lyrids meteor shower from the UK something else showed up on my images when I checked them the next morning. All images were 30-second exposures at ISO 2000 shot throughout the whole night with the intervalometer. It takes roughly two minutes for a satellite to pass through an image, so that's four images which you can see when viewing the images.
+This started just after 01:00 and disappeared from the frame at 01:25.
+Upon going through further I have a small speck starting from the top of image which continues through the image for 41 images; doing the maths, that's 20 minutes of something passing through the sky slowly.
+It never continued all the way through, just slowly got darker. I was obviously set up towards the star Vega and the Lyra constellation. Any help would be greatly appreciated.
+
+Cropped and rotated, showing broken trail:

@@ -1,0 +1,3 @@
+How do I get flux density when I have mJy/beam , beam size and pixel size in an astronomical image
+
+I have a fits file of the galaxy m87 produced by SCUBA 2 and I am wondering how I obtain the fluxes at 450 and 850 microns. the output image gives pixel magnitudes in mJy/beam where I want to find eh flux for a certain part of the galaxy. I am as far as summit the values of all pixels within an aperture but I am not sure where to go from there to obtain the flux as there are more than one pixel within the FWHM. say I have a an aperture of radius 1.5 pixels that gives a sum of 6985.04885203 mJy/beam with a pixel size of 3.99999999 arc seconds and a beam size of 13 arc seconds how do I obtain the flux for that aperture at that wavelength?

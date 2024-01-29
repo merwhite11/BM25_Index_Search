@@ -1,0 +1,14 @@
+Effective gain when stacking N frame images
+
+I am trying to understand how to derive the effective gain in [electrons / ADU] when stacking N frame images in different (summed, averaged, or medianed) ways. I found the  effective gains for the three kinds of stacking methods on page 20 in IRAF/DAOPHOT user's manual.
+
+The image is the sum of N frames:
+effective gain = gain
+
+The image is the average of N frames: effective gain = N * gain
+
+The image is the median of N frames: effective gain = 2.0 * N * gain / 3
+
+
+To calculate photometry errors, I need to take these effective gains into consideration.
+I would appreciate if you explain how to derive these results. Thank you.

@@ -1,0 +1,4 @@
+How can I calculate the time between sunset and actual darkness?
+
+I would like to know the time it takes to go from sunset to dark based on GPS location.
+In addition, ideally I would also like to have a formula that determines the percentage of sunlight at each minute past sunset. For example, after 15 minutes, there is only 50% sunlight left.

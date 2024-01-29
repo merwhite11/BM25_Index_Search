@@ -1,0 +1,10 @@
+Equation of the Center constant factor
+
+This questions concerns the longitudinal aspect of the Equation of Time, also called the Equation of the Center. In some sources the equation looks like the following:
+$\nu - M = 2\varepsilon \sin M$       (1)
+where $\nu$ is the True Anomaly of the Sun's position from the Earth, $M$ is the Mean Anomaly, and $\varepsilon$ is the eccentricity of the Earth's orbit (0.0167). $\nu - M$ is the difference between the Sun's actual angle and the and the angle that would exist if the Earth's orbit were circular.
+Other sources have a first-order approximation that looks like the following:
+Time deviation (minutes) = $-7.655 \sin d$       (2)
+where d is the day of the year.
+My difficulty is reconciling these two equations. None of the sources actually make this connection explicit. I assume that the difference has to do with converting angles and times, and I have tried various approaches to making the numbers work out, without avail. I would appreciate it if someone could tell me how the value of -7.655 minutes is derivable from $2 \varepsilon$ and or point me at a resource that demonstrates the connection between them.
+(Note I realize that both (1) and (2) are approximations. At this stage, I am trying to understand the situation in its simplest form before adding refinements.

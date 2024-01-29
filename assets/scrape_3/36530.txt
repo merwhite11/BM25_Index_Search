@@ -1,0 +1,3 @@
+Where do stellar classes names come from?
+
+Under Morgan-Keenan classification stellar classes are called O, B, A, F, G, K, M, but what is the logic behind these letters? I can't see any pattern and I doubt they have just been chosen randomly. I also wasn't able to find an answer on the Internet, so is there any reason stellar classes are called this way?

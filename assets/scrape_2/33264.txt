@@ -1,0 +1,6 @@
+Fits file re-alignment
+
+I would like to re-align an image using a reference image (taken from GAIA). I am aware of the software Koords developed by the Karma team: https://www.atnf.csiro.au/computing/software/karma/
+Unfortunately, the software crashes (with segmentation fault) everytime I try to add a source in either image. Is there a more up-to-date version of this tool? Or simply a different tool?
+Update: Thank you for the responses! I will try to better explain exactly what I am trying to do :)
+I have an X-ray image taken from Chandra and a GAIA-Aligned HST image. I know that the pointing for the X-ray image is off by ~.5 arcsec or so. I want  to re-align the X-ray image so that any X-ray point sources match their optical counter parts using the GAIA-Aligned HST image as my reference.  I hope this helps!

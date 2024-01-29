@@ -1,0 +1,7 @@
+Why do astronomers use the equatorial coordinate system that moves, instead of one based on fixed, distant stars?
+
+As an outsider to the field, I am surprised to learn that astronomers commonly use the equatorial coordinate system, in which fixed stars are not actually fixed.
+Isn't that making life harder than it needs to be? Why would one not define a coordinate system in terms of fixed stars?
+For example like this: Fixed star A is defined as (0°, 0°), fixed star B is defined as (0°, X). That would constrain the 3 degrees of freedom of a spherical coordinate system.
+Just to be clear, by fixed stars I mean stars that do not change their apparent relative position over long time scales, say a million years. So stars in the Milky Way would likely be excluded.
+When making a new observation, these two reference stars may not be visible, which would make calibration difficult. But there could be a reference catalog of fixed stars with precisely known coordinates. Any new observation could be made relative to a visible subset of that catalog. This would be similar in principle to the International Temperature Scale of 1990, which defines temperature relative to a set of reference materials and states.

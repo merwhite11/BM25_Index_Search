@@ -1,0 +1,16 @@
+More on NASA's "blockbuster return to Venus" and what is in for astronomy?
+
+On June 2nd, 2021, I read an Science-article with the click-baiting title  Venus can’t wait—NASA plans blockbuster return to hothouse neighbor which mainly refers to a NASA press release from the same day announcing two robotic missions to Venus and I am curious how much is already known about these two missions, and their role for astronomy in general.
+
+NASA is awarding approximately $500 million per mission for development. Each is expected to launch in the 2028-2030 timeframe.
+DAVINCI+ (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging)
+[...] The mission consists of a descent sphere that will plunge through the planet’s thick atmosphere, making precise measurements of noble gases and other elements to understand why Venus’ atmosphere is a runaway hothouse compared the Earth’s. [...]
+VERITAS (Venus Emissivity, Radio Science, InSAR, Topography, and Spectroscopy)
+[...] Orbiting Venus with a synthetic aperture radar, VERITAS will chart surface elevations over nearly the entire planet to create 3D reconstructions of topography and confirm whether processes such as plate tectonics and volcanism are still active on Venus.
+[...] JPL provides project management. The German Aerospace Center will provide the infrared mapper with the Italian Space Agency and France’s Centre National d'Etudes Spatiales contributing to the radar and other parts of the mission.
+
+My question is about the following paragraph:
+
+These investigations are the final selections from four mission concepts NASA picked in February 2020 as part of the agency’s Discovery 2019 competition. Following a competitive, peer-review process, the two missions were chosen based on their potential scientific value and the feasibility of their development plans. The project teams will now work to finalize their requirements, designs, and development plans.
+
+I am looking for the mentioned mission concepts (and in particular the respective development plans) of DAVINIC+ and VERITAS and in how far astronomy will benefit from the missions.

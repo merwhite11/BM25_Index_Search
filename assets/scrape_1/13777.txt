@@ -1,0 +1,8 @@
+visualisation of galaxy density
+
+If I had a long stick that was millions of light years long, and with a width of about the Sun, and I then swiped it through the center of the milky way galaxy, what would the probability be of me hitting a star?
+EDIT:
+
+Ignore the speed of light. Assume it is possible to just swipe it through instantaneiously.
+Assume that the stars in the galaxy are equally distributed. Obviously if you were to swipe right through the middle you would hit the galactic center.
+The purpose of this thought experiment is just to help visualise the density vs size of the galaxy.

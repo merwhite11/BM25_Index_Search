@@ -1,0 +1,8 @@
+Density and Velocity profiles of a self gravitating explosion
+
+Suppose an asteroid explodes, into a spherically symmetrical cloud, of radius R, mass M, and surface receding velocity V (normal to the edge of the cloud), initially the density is radially uniform.
+Can anything be explicitly stated with respect to the velocity profile with time, and the density profile. Although initially, the density profile is uniform, I suspect it is bound to change with time and result in a radially varying density profile.
+I am unable to derive a relation between the velocity profile and the density profile at any time.
+Also the max radius (radius when expansion ceases) according to me is independent of density and velocity profiles (initial or at any time t) and is
+$$R_{MAX} =\frac{2GMR}{2GM-V^{2} R}$$
+EDIT: I only seem to find information of a spherically symmetric collapse of such a cloud, not regarding an expansion, so another supplement question would be, is such an explosion bound to pulsate with time.

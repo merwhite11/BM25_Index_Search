@@ -1,0 +1,3 @@
+How do moons get captured?
+
+A moon-sized object is running loose in the Solar System, perhaps after a planetary collision.  As it approaches a planet, it's presumably following an approximately hyperbolic path.  If it goes on past, it's still on the same hyperbola, on a curve mirroring its approach (presumably).  How can the planet ever capture it, whatever the body's velocity?  Why doesn't it either collide or go on past?

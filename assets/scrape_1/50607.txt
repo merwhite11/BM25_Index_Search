@@ -1,0 +1,3 @@
+Where can I find definitions of minimum detectable flux sensitivity and signal to noise ratio?
+
+I am struggling to find references that give precise definitions to these concepts. Even in PhD theses on the subject of gamma-ray astrophysics, for example, students do not define it precisely or they just give them as proportional to quantity "x" or "y", for example the square root of time or effective area. Can you recommend me where this is fully described for students entering the field just now?

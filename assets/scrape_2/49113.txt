@@ -1,0 +1,6 @@
+Lunar sky brightness
+
+Looking at the report "The Measurements of Sky Brightness on Lunokhod-2"1, I read that the day time visible light sky brightness was so large that it was off the scale. Unfortunately I have no idea how to convert their units of measurement into units I am familiar with, lux or lumens.
+Reference
+
+Severny, A. & Terez, Edward & Zvereva, A.. (1975). The measurements of sky brightness on Lunokhod-2. Earth Moon and Planets - EARTH MOON PLANET. 14. 123-128. 10.1007/BF00562978. (pdf)

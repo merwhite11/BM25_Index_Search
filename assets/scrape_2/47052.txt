@@ -1,0 +1,21 @@
+Why do space telescopes have GRISMS? Why a grating AND a prism for cross-dispersion in slitless spectroscopy?
+
+https://hst-docs.stsci.edu/wfc3ihb lists the page 8.2 Slitless Spectroscopy with the UVIS G280 Grism which contains details of one of the GRISMs of the Hubble Space Telescope (GRISM = Grating + Prism).
+Question: Why do space telescopes have GRISMS? Why use a grating AND a prism for cross-dispersion in slitless spectroscopy?
+The explanation is detailed, but I don't understand the basic idea.
+
+What exactly is the purpose of a crossed grating+prism in slitless spectroscopy?
+In what ways is the use of a GRSIM better than a grating or a prism alone?
+
+
+
+The G280 grism is a WF/PC1 spare. Figure 8.1 shows a spectrum of the wavelength calibration star WR14 observed as part of the Cycle 17 calibration program 11935. The circled spot shows the location of a direct image of the source obtained with a separate (undispersed) F300X filter exposure, but superposed on the grism image for illustrative purposes only. The prominent star-like feature near the center of the picture is the zeroth-order grism image, and the positive and negative higher orders extend towards the left and right of the zeroth order, respectively. The +1st order is defined to be the order with the higher throughput (due to the grating blaze), even though it falls at lower x-pixels than the position of the zeroth order. The +1st order extends to the left of the zeroth order a distance of about 1/4 of the image size. Further left there is heavy overlap with higher orders. Some prominent emission lines can be seen along the spectral trace.
+Figure 8.1: Appearance of the G280 spectral orders on the detector.
+
+The circled source is the position of the direct image formed by summing an F300X image with the grism image. The stronger 1st order is to the left and the 0th order is in the center. Above the 1st orders, much weaker 2nd and 3rd orders are barely visible. The image shows the full extent of the detector in the x-axis and about 500 pixels in the y-axis.
+There are several features of this grism that differ, for example, from the G800L grism on ACS. There is an offset of about 175 pixels in the y-direction between the direct image and the spectra, the zeroth-order is relatively bright due to a lower grating efficiency and clear substrate, and there is curvature of the spectra at the blue ends of the first orders (nearest the zeroth order). The amplitude of the curvature is about 30 pixels in the detector y-direction. Figure 8.2 shows a close up view of the first few positive orders of the WR14 spectrum, which illustrates the curvature at the short-wavelength end of each order.
+
+
+
+Hubble's not the only one!
+From WFIRST Update; Jeffrey Kruk, WFIRST Project Scientist  (Archived)

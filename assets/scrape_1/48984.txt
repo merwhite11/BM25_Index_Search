@@ -1,0 +1,8 @@
+Software to create star maps with custom asterism lines?
+
+I would like to be able to create star maps and charts, but define my own sets of “constellation” lines.
+I imagine I would need to provide an input file containing pairs of stars which would be connected by lines.
+Ideally, the software would allow control of line type (thickness, color, solid or dashed, etc), on a line by line basis.
+Also, to complete this request, recommendations on a database of stars to use would be helpful, and how to uniquely identify stars within the recommended database.
+No need to reinvent the wheel here —— recommendations on existing charting software which has the ability to create my own asterism lines would be ideal.
+(That said, I can imagine this could be done with python, and that charting can be done with python libraries, but hopefully it won’t be necessary to go into this level of detail. However, if this is straightforward in python, it would be great to have the specific code for an implementation that works.)

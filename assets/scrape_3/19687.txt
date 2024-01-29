@@ -1,0 +1,4 @@
+What does forward modeling mean?
+
+In my research on exoplanets, I have heard many people talk "forward modeling of exoplanet atmospheres".  I don't know what the "forward" means in "forward modeling" and how it compares with "reverse modeling", if that's even a thing.
+What is forward modeling, and why is it so special that it needs to be distinguished from just plain ol' regular modeling?

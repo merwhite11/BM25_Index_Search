@@ -1,0 +1,18 @@
+Earth-Centered Earth-Fixed coordinates with respect to heliocentric coordinate system at vernal equinox
+
+I am trying to calculate the position of a point on the Earth's surface with respect to the Sun's center at a certain date and time.
+For what I am trying to do it is OK to ignore precession of Earth's orbit and precession, nutation and polar motion of the rotating Earth.
+Lets say that I have coordinate system centered at the Sun $X,Y,Z$, where the $X$ axis points at the point of vernal equinox, the $XY$ plane is the plane of Earth's orbit around the Sun, the $Z$ axis pointing toward the ecliptic north pole and then $Y$ completes the right-handed system.
+So far I've been able to find the following orbital elements at the epoch J2000:
+$a=1 \ \mathrm{AU}$ — major radius 
+$\bar{\lambda_0}=100.47^\circ$ — mean longitude at epoch
+$e=0.01673$ — eccentricity
+$I=0^\circ$ — inclination to the ecliptic
+$\bar{\omega}=102.93^\circ$ — longitude of perihelion
+$T=1 \ \text{year}$ — orbital period
+$\frac{m}{M}=3.039\times 10^{-6}$ — planetary-solar mass ratio
+Now knowing this I could determine the orbit of the Earth at a certain date, however I am unable to determine Earth's orientation.
+Lets say that we have ECEF coordinate $x,y,z$ system centered at Earth's center of mass with the $z$ axis pointing toward the north pole (we can assume that it coincides with Earth's rotational axis), the $x$ axis pointing toward the intersection of the prime meridian and the equator and then $y$ completing the right-handed system.
+At the point of vernal equinox by definition the equatorial plane crosses the center of the sun.Knowing this and the axial tilt of $~23.44^\circ$ of the Earth's rotational axis I can determine the $z$ axis and $xy$ plane with respect to $X,Y,Z$ coordinates but I cannot determine the exact positions of $x$ and $y$ axes which I need.
+I searched a lot for data showing me the orbital elements at certain epoch AND the exact orientation of the Earth ($x,y,z$ coordinates expressed as $X,Y,Z$ at the vernal equinox) so that I can use it for my calculations but I didn't succeed. From all the things that I found I am still unable to tell what the orientation of the Earth is at certain point so I can't really determine the position of certain point on its surface at certain time with respect to the Sun.
+I assume that I am missing something or that I have some fault in my approach since I am complete noob at astronomy and I've never dealt with this before I had to find a way to perform this calculation. I will take any suggestions if there is a better way to solve the initial problem that I am trying to solve or if there is a place where I can find the data that I need.

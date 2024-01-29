@@ -1,0 +1,10 @@
+Observable Speed of objects orbiting a black hole
+
+This is a mostly hypothetical question and thought experiment, and I am aware of some aspects plausibility of it are open for debate. Also, this is Version 2 of the question, as the first question was a bit unclear and quite long.
+Set Up
+Take a Black Hole. It is orbited by a Neutron Star, which itself is orbited by a Planet (close enough to stay with it, but not so close that tidal forces would damage it).
+The Neutron Star's orbit is eccentric, so apoapsis and periapsis are sufficiently different to allow different relativistic effects at both. But periapsis is not so close, that tidal forces would affect the Neutron Star and allow it to keep its planet.
+Add an observer, who can observe all of that from a point at the ecliptic, at a distance, where the motion of the Neutron Star's Planet still can be detected with optical means.
+Question
+Will the Observer notice differences in the Neutron Star's Planet orbital speed?
+I would guess "yes, but it might be too minor to notice without proper equipment", but then I get lost in a follow up question, which clogged my initial  question too much. Like "what is with the orbital velocity, if the Neutron Star seems to slow down?", but that is another question (maybe).

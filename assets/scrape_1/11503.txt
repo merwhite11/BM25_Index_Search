@@ -1,0 +1,4 @@
+Earth Rotation and Orbit Geometry
+
+Let Line A be the projection of the axis of Earth's rotation onto the plane of the eliptic.  Let Line B the line connecting the center of the Earth and center of the Sun.
+At what times during the year is Line A perpendicular to Line B?

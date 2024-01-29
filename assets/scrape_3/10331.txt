@@ -1,0 +1,19 @@
+What is the minimum size of a ball of gas to become a star?
+
+I know there are two criteria to meet in order for nuclear fusion to occurs.
+
+High temperature (many times temperature at Sun's core)
+High pressure (protons are very close to each other)
+
+[Goal]
+However I want to know what equations allows me to calculate the amount of hydrogen gas needed so that the internal pressure can produce the right amount of heat for nuclear fusion to occur.
+[My own understandings]
+I also understand that the temperature of our Sun's core is not sufficient to overcome the coulomb barrier, it make use of quantum tunneling to achieve fusion instead.
+[Question]
+What is the minimum amount of hydrogen gas required to form a star? (also please include the name of the equation used)
+[Assumptions]
+
+shape is perfectly spherical
+no angular velocity, not rotating
+homogenous, consist of 95% hydrogen and 5% helium
+sustain fusion for at least 1 million years

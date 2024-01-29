@@ -1,0 +1,7 @@
+Detecting a Rogue Planet from Earth
+
+This is for a novel.
+A rogue planet, is, by a one-in-a-zillion freak chance, on its way to collide with Earth. It has been drifting in interstellar space since its original formation (billions of years ago), and thus will be about as cold as it can get. It is approaching at a sharp angle to the ecliptic, and at its nearest point it will pass within the orbit of the Moon.
+I'm currently envisioning its mass to be roughly equal to Neptune, but the only real constraint is that even if it does not collide with the Earth, its passage will end life on Earth with near certainty.
+My question is: How close can such a planet come and still have a reasonable chance of not being detected from Earth by modern astronomy? Assume that the astronomical community is at its usual level of vigilance. I don't want the failure to detect it earlier to be due to some fluke; the oncoming collision is flukey enough.
+I assume that this will depend on its composition, whether predominantly rocky or predominantly gaseous. I'd prefer the answer to be based on whichever type can get closer without being detected.

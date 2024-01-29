@@ -1,0 +1,5 @@
+What constraints are there on solid material in the ice giants?
+
+Recently there has been experimental verification of superionic water ice (suggested to be called ice XVIII, not sure if this nomenclature is official yet), which turns out to be a solid (or at least, solid-ish). This has been proposed to comprise a substantial fraction of the volume of ice giant planets like Uranus and Neptune, which is something of a departure from the idea that the bulk of these planets is fluid, though potentially the presence of substances other than water may modify things.
+My question is whether there are any observational constraints on the presence of solid material in Uranus and Neptune, e.g. from the gravitational moments, tidal parameters, or global oscillations ("seismology") - I'm aware that the K2 mission failed to detect any global oscillations on Neptune so I'd guess this latter method may not help much.
+(There is a previous question about solids in gas giants, but that one seems to be more focused on rock rather than ice and has ended up addressing Jupiter rather than the ice giant planets.)

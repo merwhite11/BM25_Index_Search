@@ -1,0 +1,5 @@
+Is the duration of a sidereal year stable?
+
+According to this essay by Phil Plait, the duration of Earth's sidereal year is 31,558,149 seconds.
+Is this figure stable? If I were to meaure Earth's orbit several million (or billions) of years in the past or future, should I expect to see roughly the same duration?
+If not, what would be the cause of any change observed?

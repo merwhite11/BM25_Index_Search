@@ -1,0 +1,10 @@
+Why are the sky distributions of SDSS DR16 and DR16Q different?
+
+I've downloaded the csv files for SDSS DR16 and DR16Q and made a map of their sky distributions:
+
+The coordinates come from:
+
+DR16: RA_ICRS and DE_ICRS
+DR16Q: RAJ2000 and DEJ2000
+
+Why do they overlap only partly? Isn't DR16Q a subset of DR16?

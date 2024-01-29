@@ -1,0 +1,16 @@
+Get (X, Y, Z) coordinates from Horizontal Coordinates
+
+I'm developing a planetarium software using the Hipparcos Catalogue. I have also implemented all the formulas of the book: "Practical astronomy with your Calculator and Spreadsheet".
+With these formulas, I'm trying to draw the star inside a 3D space using its Horizontal Coordinates. To do it, I'm using these calculations to get its X, Y and Z coordinates:
+$$X = \cos(Azimuth)$$
+$$Y = \cos(Altitude)$$
+$$Z = \sin(Altitude)$$
+I'm trying to get the coordinate of point X in this image:
+
+$a$ is altitude.
+$A$ is azimuth.
+$Azimuth$ and $Altitude$ are in decimal degrees.
+Maybe, I have to use it in radians, or maybe it is the sine instead of cosine. Anyway, this is what I get:
+
+The stars aren't drawn as a sphere.
+How can I fix this problem?

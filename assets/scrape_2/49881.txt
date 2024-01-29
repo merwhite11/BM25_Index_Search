@@ -1,0 +1,6 @@
+How to get started with computational astrophysics?
+
+I am a graduate student working on high energy astrophysics, in particular, accretion onto neutron stars and my research is mostly theoretical. However, with the recent advances in observational astrophysics, e.g., the detection of gravitational waves, black hole imaging, and with the advent of advanced computational techniques, I am planning for a transition into computational astrophysics after my PhD research. So I am trying to learn new stuffs that would help me in this transition, but I couldn't clearly understand how to start and what things to learn. There are so many things available on the internet that I am totally confused.
+I am particularly interested in the following topics:
+GRMHD simulations of accretion flows, numerical simulation of jets from accretion onto spinning black holes and tidal disruption events.
+What stuffs do I need to learn for a transition into computational astrophysics and what courses do I need to follow for the same?

@@ -1,0 +1,21 @@
+Calculating the Size of Earth in the Apollo 8 Earthrise Photo
+
+I was debating with someone online (I know, great way to get nowhere fast) regarding the size of Earth as it appears in the famous 'Earthrise' photos from Apollo 8.
+Below is an accurate (almost pixel-perfect) calculation of the apparent size Earth should appear. In this instance it checks out, however if there is a better approach in calculating this and similar images I would be interested to know : 
+
+The photograph was shot on 70mm film using a 250mm lens. We can calculate the what the Field of View should be for the image, using the following formula :
+         FOV (rectilinear) = 2 * arctan (frame size/(focal length * 2))
+
+i.e.
+             FOV (rectilinear) = 2 * arctan (70/(250 * 2))
+             = a FOV of 15.93 degrees.
+From our point of view on Earth, the average angular diameter of the moon is 0.5 degrees. From the Moon, the Earth has an angular diameter of about 1.9 .
+From this it can be calculated how many pixels in size the Earth should appear in the photograph :
+Diameter of Earth in Pixels = Photo's Diagonal Resolution * (Earth's Angular Diameter / FOV)
+i.e.
+Diameter of Earth in Pixels = 3841.87 * (1.9 / 15.93)
+= 458.23 pixels
+
+For reference, The full, un-cropped version of the 'Earthrise' photo that the above calculation is basing the image resolution upon can be found at this location :
+https://www.nasa.gov/images/content/297755main_GPN-2001-000009_full.jpg
+I imagine that this could be further refined by deriving the correct angular diameter of Earth from the exact distance of the moon at the time the photo was taken, as well as the altitude of the Apollo module above the moon.

@@ -1,0 +1,5 @@
+Deriving the apparent angular speed of a star
+
+The angular speed of stars in the sky is constant but the apparent angular speed is not, due to the star moving faster on the celestial equator and slower near the celestial pole. The apparent angular speed, modified with $\cos(\delta)$, where $\delta$ is declination. The full equation:
+$$\frac{0.25^{\circ}}{min}\cos(\delta)$$
+How is this equation derived? Resolving the speed on the celestial equator yields the same equation, but the method doesn't seem to be very convincing to me.

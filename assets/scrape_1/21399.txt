@@ -1,0 +1,14 @@
+Where and how to look up the coordinates and magnitude of the star in this occultation prediction?
+
+The motivation for this question comes from this question. A star is named in the occultation prediction shown below, from AsteroidOccultations.com's News & Announcements for 2014 MU69 on 2017-Jun-03 03:11. 
+I believe that the star is in the Omega Centauri cluster, and I believe it is between +12 and +14 visual magnitude roughly. The name given in the prediction is NH -08194514G The location shown in the prediction is R.A: 19 03 34.493 DEC -20 34 39.34 but according to Wikipedia the coordinates of the cluster are roughly R.A. 13h 27m, DEC. -47deg, 29m.
+I need help understanding why the two coordinates seem so different (am I misunderstanding the prediction?) and finding out how to look up this particular star’s visual magnitude by using its name. I’ve tried a few quick searches but realized that I was over my head and not likely to get the right information.
+
+From the linked question:
+People have fanned out over South America and South Africa with telescopes with cameras and GPS clocks and have attempted to watch the shadow of a roughly magnitude +13 star cast by a rock in the KUIPER BELT pass over the Earth! 
+Early Twitter reports reported clear skies and images of the Omega Centauri star cluster. There is a Twitter hash tag for these events, #mu69occ. Here is a 500 millisecond exposure from a few days before the occultation. The short exposure time is necessary to resolve small scale debris from the main occultation.
+
+above: Omega Centari Star Cluster, 500 millisecond exposure. Tweeted by Alex Partker.
+The goal is actually to look for shadows cast by even smaller debris, orbiting around the rock in the Kuiper belt. This is for New Horizons mission planning.
+
+above: From AsteroidOccultations.com's News & Announcements for 2014 MU69

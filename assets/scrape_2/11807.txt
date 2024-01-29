@@ -1,0 +1,4 @@
+What is the detector size of LANDSAT 8's detector array?
+
+According to the suggested tags, this must be the right forum:
+I found  that for each band of Landsat 8 over 7000 detectors are on the array. Does anyone know how big each of the sensors is?

@@ -1,0 +1,5 @@
+What is the farthest reported distance from observer from which a solar system body has occulted a star?
+
+I originally wrote "...farthest distance from Earth..." but changed to "observer" in case the occultation was observed from a space telescope. It may not matter much but I didn't want to over-constrain or burden the answer.
+The occultation of a roughly 13th magnitude star by a roughly 40 km diameter object in the Kuiper Belt; 2014 MU69 has been successfully observed! I'm hoping to be able to look up the star's name direct. On 2017-Jun-03 03:07 UTC it was about 43.294 AU from the Sun, and 42.435 AU from Earth, (using the JPL Horizons ephemeris.) 
+I'm wondering if this is the farthest distance from which a solar system body would have been seen to occult a star?

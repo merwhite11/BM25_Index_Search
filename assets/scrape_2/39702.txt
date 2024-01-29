@@ -1,0 +1,15 @@
+What exactly is a Hamiltonian telescope? Is this one?
+
+This comment on the current answer to Why is this telescope so short? How hard is it to make such a fast primary? says
+
+In this forum topic Borisov appears to call it an f/1.5 Hamiltonian.
+
+Wikipedia's Catadioptric system; Catadioptric dialytes) says:
+
+Catadioptric dialytes are the earliest type of catadioptric telescope. They consist of a single-element refracting telescope objective combined with a silver-backed negative lens (similar to a Mangin mirror). The first of these was the Hamiltonian telescope patented by W. F. Hamilton in 1814. The Schupmann medial telescope designed by German optician Ludwig Schupmann near the end of the 19th century placed the catadioptric mirror beyond the focus of the refractor primary and added a third correcting/focusing lens to the system.
+
+The image of the telescope in the linked question shows a very short and squat telescope with a 65 cm aperture that does not appear to have a "single-element refracting telescope objective", so I am confutes!
+Questions:
+
+What (the heck) is and is not a proper Hamiltonian telescope?
+Is the Gennady Borisov telescope in the linked question (and shown here) one?

@@ -1,0 +1,11 @@
+Why do Earth and moon move apart but binary black holes move closer?
+
+According to the accepted answer on Is the moon moving further away from Earth and closer to the Sun? Why?, the moon is receding from Earth because tidal forces and friction cause energy to be lost.
+However, according to LIGO's website,
+
+As the two masses rotate around each other, their orbital distances
+  decrease
+
+as they lose energy radiating inspiral gravitational waves.
+Why do the bodies move apart in the Earth-moon case but closer together in the black hole case?
+If both opposing phenomena are present but a different one is stronger in the two cases, what determines the fate of a system?

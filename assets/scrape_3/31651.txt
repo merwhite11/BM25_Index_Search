@@ -1,0 +1,4 @@
+How do astronomers convert radio signals received by their antenna to images?
+
+I'm very new to radio astronomy and I am curious how an the signals received by a radio antenna are converted to data on a computer and then images? Is there a popular software to use for this, or do astronomers typically write their own code?
+Thanks in advance!

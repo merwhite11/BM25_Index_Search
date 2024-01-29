@@ -1,0 +1,10 @@
+What star was the asteroid 2014 MU69 predicted to occult on 2018-08-04?
+
+From a search, I found a list of some preparatory HST observations made for the August 4, 2018 occultation of a star by the asteroid 2014 MU69
+
+We propose observations in support of the upcoming New Horizons encounter for 2014MU69. One visit is for support observations of a star to be occulted by 2014MU69 on 2018 August 4 from which ultra-precise astrometry and shape information about the target can be derived. The second visit is for a backup epoch of astrometry on 2014MU69 itself at the end of the 2018 observing window at a time when New Horizons will also be observing the target. (minor typographical edits made)
+
+Five lines are shown, for measurements between 2018-04-30 01:03 and 01:48. The target is listed as MU20180804 but that name seems to be the identification of an occultation, not the name of a star.
+So far I have not figured out the actual identity of the star that was predicted to be occulted by 2014 MU69 on 2018-08-04. 
+Here is a very nice prediction for three occultations by 2014 MU69 last year (2017). However when I go to the main page for that asteroid occultation site and look at 2018-08-04 I don't see any events with MU69 as the asteroid!
+See also Will the upcoming observations of occultation by “Ultima Thule” (2014 MU69) be of a single object, or two?

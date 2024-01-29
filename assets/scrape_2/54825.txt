@@ -1,0 +1,7 @@
+Gravitational wave for Solo mass system
+
+every equation i found in internet for gravitational wave radiation is for binary system which is need 2 mass in order to find strain (h).
+my question is:
+if we have one mass which is oscillate , how about this one for calculating strain(h) ?
+for example: for a single mass 1.000.000 kg & frequency 100 times per second
+if there is formula or reference link , let us know.

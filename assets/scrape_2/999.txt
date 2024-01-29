@@ -1,0 +1,6 @@
+On analogies between gas and stellar systems
+
+Analogies between (typically) ideal gas and stellar systems are not only intuitively valid to some extent, but have been established and used in the studies of stellar clusters and galactic systems, most often as a simplification to collisionless Boltzmann equations.
+The idea behind the analogy is that if a stellar system can be represented as a set of point masses, and if the number of point masses is large, then we can consider them from the point of view of kinetic theory of gases. One thing to remember here, though, is that stellar gas system is neither relaxed, nor can be relaxed.
+I am curious here: How far can the described analogy be pushed?
+For example, there is a range of gas-specific phenomena (or we could be talking about plasma, if you may prefer), which would be fascinating to imagine for stellar systems, such as shocks, turbulence or viscosity. Can such, or some other, characteristic phenomena exist in stellar systems and are there actual systems exhibiting such a behavior? (of the named ones, viscosity analogue exists and is rather common)

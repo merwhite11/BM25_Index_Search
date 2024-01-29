@@ -1,0 +1,8 @@
+Ritchey–Chrétien telescope with a short back focus
+
+I have an observing project that requires a 30 -- 40 cm (12 -- 16 inch) diameter primary and no refractive/transmissive elements (i.e. lenses).
+Telescopes like this Ritchey–Chrétien has a back focus of 288mm from the rear cell. This is a typical value for the back focus for such instruments.
+The problem I have is that the instrument I will be using on the telescope will foul the telescope mount if it is placed at this back focus distance.
+I am looking for a purely reflective telescope where the back focus needs to be as close as possible to the rear cell.
+Does anyone have any suggestions?
+If I cannot find a suitable solution "off-the-shelf", I will have to look into refiguring the secondary mirror.

@@ -1,0 +1,3 @@
+What is the proper interpretation of a negative parallax?
+
+The Gaia data release 2 dataset has some parallaxes listed as negative. What is the proper interpretation of this? Should they be discarded as bad data? Use their absolute value to calculate the distance? Use them as-is and treat them as negative distances along the right ascension/declination vector?

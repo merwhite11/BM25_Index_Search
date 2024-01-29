@@ -1,0 +1,7 @@
+Why is there a zig-zag in elemental abundances?
+
+In this answer to Is lithium considered a metal in astronomy? this image from Wikimedia of the abundances of elements in the universe was shared:
+
+Credit: Wikimedia Commons user 28bytes, under C.C.-by-S.A.-3.0.
+I thought it was fascinating that there is a near-constant zig-zag of abundancies.
+Are these values accurate, and if so, what would cause this zig-zag?

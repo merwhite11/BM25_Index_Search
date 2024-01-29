@@ -1,0 +1,4 @@
+Deep-CEE I data
+
+I was reading Deep-CEE I: Fishing for Galaxy Clusters with Deep Neural Nets and I couldn't find the dataset.
+Could someone provide me with the links related to this?

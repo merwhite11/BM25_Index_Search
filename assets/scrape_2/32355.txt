@@ -1,0 +1,7 @@
+Is the longitude assigned to sunspots spherical or projected?
+
+Sunspot maps are created from a projection of the sun, so the coordinates of sunspots (or active regions in general) are assigned according to it. 
+Do these coordinates correspond to actual spherical positions, or are they altered as a result of the projection? 
+Edit: After seeing the answer, I realized that a part of what I am asking about was not clear in the initial question. So here it is: Are the values of the sunspot coordinates as provided officially in spherical positions or in projection? 
+A commonly used instance of "official" records is X-ray measurements from the NOAA GOES. The text files are found here. 
+For example, see file for 2000. The output is documented here, under "Output File Specification".

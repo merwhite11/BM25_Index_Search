@@ -1,0 +1,5 @@
+What’s the object between the Earth and The Sun currently showing in Google maps?
+
+If I select satellite imagery in Google maps and zoom out, the Earth is shown in space. It shows light/dark regions correctly updated, but there’s an object between the Earth and the sun. It looks too small to be The Moon.
+
+Is it real? What is it?

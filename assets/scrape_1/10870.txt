@@ -1,0 +1,4 @@
+How is the cost of JWST distributed on different parts of development and operations?
+
+The James Webb Space Telescope costs nearly 9 billion dollar. What parts of this project cost how much?
+I suppose that almost every component has to be developed and is not available to buy off the shelf. So most of the costs should end up as salaries to engineers. I see that the top 10% US specialist aerospace engineers earn 163,000 dollar. The JWST budget covers 54,000 such yearly salaries. Are really thousands of the best engineers working on this project? Or are maybe some materials, like beryllium, very expensive? Like JWST's average cost of about $1½ million/kg. Launch costs are anyway negligible in this context.

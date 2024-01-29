@@ -1,0 +1,9 @@
+Does JWST have the largest bandwidth of any telescope?
+
+If the longest and shortest wavelengths that JWST can focus are 28.3 and 0.6 microns respectively, then it has a bandwidth (max/min) of a factor of about 47.
+That's a lot, and of course it needs several different instruments for different wavelength ranges to make use of all of that.
+But let's only talk about the entire system as "the telescope".
+Is this the widest range?
+For example if it were radio this might be 21 GHz to 1 THz or 10 meters to 20 centimeters.
+The hard part about answering this question is the definition of "telescope". I suppose one could answer based on traditional instruments using reflection or refraction, and another might be anything that can resolve direction (e.g. IceCube Neutrino Observatory or one or other of the two Square Kilometer Arrays (Africa or Australia)
+So answers can cite a winner for each definition if they like and resolve in each case if JWST has the largest bandwidth of any telescope.

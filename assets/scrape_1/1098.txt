@@ -1,0 +1,11 @@
+Is there a pattern between the mass of a body and the mass of orbiting objects around it?
+
+I was looking at Wikipedia's Solar system page, and it says that Sun represents 99.86% of the whole solar system mass. I found that pretty huge.
+So i calculated ratio of masses : Earth / (Earth + Moon) and it's about 98.78%.
+I did the same with Jupiter : Jupiter / (Jupiter + Io + Europa + Ganymede + Callisto) and it's about 99.97% (I ignored small satellites).
+
+Why is it such a high ratio in this 3 examples?
+Is 1% a regular number for satellites' mass?
+It is simple gravitation maths ?
+
+I understand that one body has to be much more massive in order to be a planet-satellite system, otherwise it's a double planet system. But I would have thought 90% would be enough.

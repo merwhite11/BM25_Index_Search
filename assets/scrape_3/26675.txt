@@ -1,0 +1,7 @@
+Python: Find brightest pixel in fits-file and ignore brighter artefacts
+
+I have 4000 fits-files images from SPITZER, each containing the same star over a time period. Each image is a photmetry cube of 32 pixel * 32 pixel * 64 consequent time frames. I need to look through all the single frames and order the pixel by brightness. Not hard to do with Python, but sometimes I have in the frames short-lived events/artefacts which are brighter than the brightest pixel of the star (see below). These artefacts last only over one or two consequent time frames
+How can I easily correct for the artefacts? Is there an astropy/pyfits package that does this? Or some kind of bad pixel flagging in SPITZER (I know that Kepler-images have flagging of bad pixel)?
+Optional: It would be convenient to have the code in vectorized form, avoiding loops, so that I save computtional time 
+
+Fig: In the left frame everything is normal, in the right frame, in the top right corner you see one of the artefacts, having a value below a saturation treshhold

@@ -1,0 +1,4 @@
+Population growth of black holes
+
+As any population, the population of black holes is found by the population growth equation:
+$\frac{dB(t)}{dt} = c(t)B(t)-d(t)B(t)$.Which are $c(t)$ and $d(t)$ for Black holes?

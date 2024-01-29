@@ -1,0 +1,16 @@
+Calculate time when star is above altitude 30°
+
+To find the best observation time for an object, I'd like to calculate the time when it is 30° or more above the horizon. Local Sideral Time would be sufficient.
+To include that in my program, I need the formula.
+Example:
+On June 4th, Jupiter has the coordinates
+RA= 9h 19m 28.0s
+Dekl= 16° 32' 0"
+It rises at 10:32 and sets at 00:05.
+After rise, when is it at altitude 30°, and after transit, when is it at altitude 30° again ?
+
+I found this formula at http://www.stjarnhimlen.se/comp/riset.html. Although it's for the sun, it seems to be what I'm looking for.
+$$\cos (\text{LHA}) = \frac{\sin (\text{h}) - \sin (\text{lat}) \times \sin (\text{Decl})}{\cos (\text{lat}) \times \cos (\text{Decl})}$$
+Applied to the sample assuming a latitude of 45° I get.
+
+Is this the correct approach?

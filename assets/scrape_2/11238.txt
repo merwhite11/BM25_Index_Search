@@ -1,0 +1,10 @@
+Suns Orbital speed and escape velocity question
+
+This is a homework question and I don't want an answer but just want to understand what its asking for.
+We are given that a star with a mass of x solar masses in our galaxy turns to a supernova and releases y amount of energy. Using this we are asked to calculate the average speed of the ejected mass. 
+v = sqrt(2*E_k/M) (Kinetic energy equation) gives the average speed.
+Finally, the questions asks the following:
+
+Compare  your  result with our Sun’s orbital speed around the centre of the Milky Way galaxy. Where would you expect this material to end up?
+
+Is it asking to solve and check that the average speed > escape velocity if the star was at the same distance from the sun? Or how far from the center of the Galaxy would it end up?

@@ -1,0 +1,15 @@
+How long does lunar opposition surge last? Are there measurements of the full Moon getting suddenly brighter?
+
+Wikipedia's opposition surge is a short article and forwards shadow hiding and coherent backscattering as proposed mechanisms, but it doesn't really explain how much the brightness of the Moon actually "surges" and how quickly it happens.
+I was reminded of this by this interesting answer.
+Question: Are there measurements and good quality plots of lunar opposition surge? How fast is it? How long does it last?
+
+I don't think the coherent backscattering is the predominant mechanism for visible light; it's primarily seen in radar1. I'll be happy to be proven wrong, but the shadow-hiding seems to be pretty easy to embrace in photographs.
+Images from https://space.stackexchange.com/q/20071/12102 and answers there. First is taken by the Yutu rover on the Moon (Chang'e 3 mission) second is a famous image (it's cropped, a reflection in a visor of the photographer, first lunar selfie!) and the third is from What causes Hyabusa-2's close-up images of Ryugu to be dark in the corners?
+See also
+
+Are there ANY verified satellite images of visible light coherent backscattering from Earth?
+Now what do we think? Is this purple dot really caused by Cassegrain optics and coherent backscattering?
+What's the story behind this Apollo-era image?
+Lot 345 of Christie's “Voyage To Another World” auction supposedly has the only photo of Armstrong on the Moon, but isn't this one also? this was interesting...
+1Clementine Bistatic Radar Experiment "coherent backscatter opposition effect"

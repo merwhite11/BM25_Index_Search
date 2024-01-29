@@ -1,0 +1,9 @@
+How to estimate age of asteroid family Erigon
+
+I have one problem:
+
+On picture below we can see Erigone family asteroids in plane semimajor axis - absolute magnitude. Based on V-type as a consequence of Yarkovsky effect, estimate age of this family bearing in mind that members of this family have spectral of C-type. For average value of change of semimajor axis which belongs to this family take $da=5 \times 10^{-4} \text{AU}$ (for object with diameter $D=1 \,\text{km}$ and time $t=1$ million years). Ignore initial size of family.
+
+
+I really don't know how to solve this problem (I am studying math, not astronomy). Professor won't tell us how to do it, and I tried to find the answer in his textbook and in two more books in my language, but there is no similar problem at all.
+Could you point me in the right direction?

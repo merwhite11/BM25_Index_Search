@@ -1,0 +1,3 @@
+How many stars would it take to draw a line across the middle of the sky that appeared solid?
+
+I was talking with a friend about how slowly the star field changes (based on the speed that we are moving through the galaxy) and I started to wonder about a star's visible size.  They are basically the pixels that make up our sky.  This made me wonder, how many stars (let's use the north star as a reference.) would it take (lined up side by side) to draw line that appeared solid across the middle of the sky, perpendicular to the horizon which appeared solid?

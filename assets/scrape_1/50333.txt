@@ -1,0 +1,28 @@
+Lunar Librations and Subsolar Point in Matlab
+
+So I have been trying to write a program to generate the latitude and longitude of the lunar subsolar point in Matlab.
+I have the ephemeris data from aero toolbox, but I can't seem to get values that make sense.
+The method I'm currently trying (without success) is...
+
+Generate a juliandate for a specific time
+Find the position of the sun relative to the moon from the ephemeris data for the specified date
+Find the (φ, θ, ψ) lunar attitude from the ephemeris data
+Create a rotational matrix from the lunar attitude values
+Transpose the matrix to get the inverse rotation (to convert the vector from the ICRF frame to the moon's coordinate system)
+Apply that rotation to the direction of the sun vector
+Convert to spherical coordinates (longitude, latitude)
+
+mission_time = juliandate(2022, 1, 1);
+sun_pos = planetEphemeris(mission_time, 'Moon', 'Sun');
+moon_rot = moonLibration(mission_time);
+
+rotm = eul2rotm(moon_rot);
+rotm = transpose(rotm);
+
+sun_vec = sun_pos / norm(sun_pos);
+sun_vec = sun_vec * rotm;
+
+[ss_long, ss_lat] = cart2sph(sun_vec(1), sun_vec(2), sun_vec(3))
+fprintf("Subsolar Lat: %2.2f°\tSubsolar Long: %2.2f°\n", rad2deg(ss_long), rad2deg(ss_lat))
+
+The subsolar latitude should be like ±1.57° but this calculation goes all over the place. What am I missing?

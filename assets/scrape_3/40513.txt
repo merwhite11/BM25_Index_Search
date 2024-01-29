@@ -1,0 +1,6 @@
+Does a replacement exist for Dexter? (A tool that reconstructs data from a pdf of a graph)
+
+Dexter was a tool from the German Astrophysical Virtual Observatory, made by the Center for Astronomy of Heidelberg University (ZAH). It was able to reconstruct data from a graph if you provided a pdf or an image of that graph. It relied on Java, and since browsers have stopped support for Java it no longer works.
+Website for reference: https://dc.zah.uni-heidelberg.de/dexter/ui/ui/custom
+Does anyone know of another tool that does the same thing?
+Thanks

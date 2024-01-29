@@ -1,0 +1,21 @@
+Uranium accumulating inside a White Dwarf?
+
+A couple of days ago, there was news that "Some dead stars may harbor enough uranium to set off a thermonuclear bomb", which is basically a teaser for Actinide crystallization and fission reactions in cooling white dwarf stars where the authors conclude:
+
+The first solids that form as a white dwarf (WD) starts to crystallize are greatly enriched in
+actinides because of their large charges. We estimate that
+these first solids could be so enriched in actinides that
+they may support a fission chain reaction. This reaction
+could ignite carbon burning and lead to the explosion of
+an isolated WD in a thermonuclear supernova.
+
+Going through manuscript, it looks to me that this conclusion is drawn from molecular dynamics simulations  of a cube of up to $10^4$ ions. What exactly is the line of argumentation of these microscopic observations from computer simulations are to macroscopic effects in the star?
+I understand, that a main question of the research was, whether a certain scenario is actually possible (inside a white dwarf), or literally
+
+Could uranium, [...], accumulate inside a white dwarf?
+
+Just to clarify: I am not doubting the conclusion or questioning the method per se, I am just curious whether such an approach is usual for studying stellar evolution. Differently put: Is there a standard theory describing the conditions when the conditions are right for a white dwarf to explode?
+Related
+
+How are shockwaves in a star that cause supernova created
+Stellar life cycle flow chart with mass conditions and time scales

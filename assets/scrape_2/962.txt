@@ -1,0 +1,60 @@
+Is lunar elevation at a given location for a given day unimodal?
+
+Is lunar elevation at a given location for a given day unimodal: 
+Unimodal function
+In other words, once the moon's elevation reaches a minimum (which may 
+be above or below the horizon depending on if the moon is 
+circumpolar), does it increase continuously to its maximum, or can it 
+decrease briefly and then increase again (resulting in a local minimum 
+that's not a global minimum) before reaching the maximum. 
+And also similar to the above as it goes from the maximum elevation 
+(which may also be above or below the horizon depending on whether the 
+moon rises at all on a given day). 
+Why this is important: I think I found a bug in libnova that assumes 
+the moon is circumpolar if it is above the horizon when it's due 
+north. This is untrue
+My fix
+does not assume this, but does assume that lunar elevation is 
+unimodal. 
+If that's untrue, I'll need to further fix my fix.
+EDIT: Here's how far I've gotten: 
+
+The moon's declination and hour angle (at a given location) are 
+both functions of time. Thus, we can implicitly consider the moon's 
+declination to be a function of its hour angle. This only works 
+because the moon never experiences retrograde motion. Bodies that 
+experience retrograde motion could have two declinations for a given 
+hour angle, so the declination would no longer be a function of the 
+hour angle. 
+Using the standard formula, we see the moon's elevation is: 
+
+$$ 
+   \sin ^{-1}(\sin (\text{lat}) \sin (\text{dec}(\text{ha}))+\cos (\text{ha}) 
+    \cos (\text{lat}) \cos (\text{dec}(\text{ha}))) 
+$$ 
+where dec(ha) is the declination at hour angle, ha is the hour angle, 
+and lat is the latitude. 
+
+Since the moon's elevation is a differentiable function (except 
+potentially at the poles and equator), we find the derivative with 
+respect to the hour angle: 
+
+$$
+   \frac{\text{dec}'(\text{ha}) (\sin (\text{lat}) \cos 
+    (\text{dec}(\text{ha}))-\cos (\text{ha}) \cos (\text{lat}) \sin 
+    (\text{dec}(\text{ha})))-\sin (\text{ha}) \cos (\text{lat}) \cos 
+    (\text{dec}(\text{ha}))}{\sqrt{1-(\sin (\text{lat}) \sin 
+    (\text{dec}(\text{ha}))+\cos (\text{ha}) \cos (\text{lat}) \cos 
+    (\text{dec}(\text{ha})))^2}} 
+$$
+
+The moon's elevation will reach a min/max (in the sense of 
+unimodality) when this derivative is 0. That occurs when: 
+
+$ 
+   \sin (\text{ha})\text{ = } \text{dec}'(\text{ha}) (\tan (\text{lat})-\cos 
+    (\text{ha}) \tan (\text{dec}(\text{ha}))) 
+$ 
+So the question becomes: can this equation have more than two 
+solutions for 0 < ha < 2*Pi 
+Which I hope someone answers at: https://math.stackexchange.com/questions/587136/

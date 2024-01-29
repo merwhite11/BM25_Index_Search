@@ -1,0 +1,9 @@
+Is there an optimum orbit for a Hipparcos/Gaia-like parallax observatory
+
+The Gaia spacecraft is currently mapping the stars in the Milky Way by parallax. It orbits in the Earth-Sun L2 Lagrange point. The parallax observed from the spacecraft orbiting around the sun allows us to derive the distances to many stars in the milky way, as well as calculate their velocities.
+Assuming no cost to placing such an observatory wherever we want around the sun, what would be the optimal orbit for optimal rate of science gains?
+I apologise if this seems a big vague, let me elaborate.
+If you imagine placing it in a smaller orbit, the parallax of distant stars (already very small) will be made even smaller. But information about the parallax will be returned quicker.
+If you place the observatory in the orbit of Uranus, you'll have a much greater parallax and will be able to measure the distances of distant stars with much greater precision. However, it will take 80 years to complete an orbit, and the rate of distance measuring would be intolerably slow.
+Intuitively, I feel like there is some obvious sweet spot that would produce measurements at an acceptable rate, though I also feel like my objective function here is ill-defined.
+Would a highly eccentric orbit be preferred to a circular one? Would a particular orbit optimise the 'science gains' for one particular aspect at the expense of others (such as accuracy of nearby stars traded for accuracy of distant stars, or accuracy of stellar proper motion)? If there are multiple objectives to optimise, what would  the tradeoffs be?

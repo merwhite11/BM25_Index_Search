@@ -1,0 +1,8 @@
+Calculating the present comoving distance or light travel distance of distant objects when only one value is given?
+
+I was wondering how to calculate either the present comoving distance or the light travel distance when the source material only gives one value?
+Is there and an online calculator or simple equation using Hubble constant that someone like myself who is not mathematically advanced can use to calculate these values?
+The reason for this question is that I wanted to know the light travel time for the LQG's and other large distant cosmic structures so that I know the age at which we are looking at them but the sources only give their present comoving distance.
+Other sources also only give the light traveled time for distant objects and not present co-moving distance.
+Edit- For the time being I only need to know the light travel distance for objects at a 9 billion light year comoving distance as this is the rough distance for the Giant GRB Ring, Huge-LQG, The Giant Arc, U1. 11 LQG and Clowes-Campusano LQG. Or if anyone knows a source that states the light travel distance for any mentioned.
+I could post that as a separate question if the community thinks it should be?

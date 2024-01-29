@@ -1,0 +1,6 @@
+Could we make ourselves detectable for aliens with JWST-like technology?
+
+The James Webb Space Telescope is going to take spectra from planets during transit in front of their central star. By that, spectral changes can identify if the planet possesses an atmosphere and analyse it’s composition.
+I imagine we could install technical means, like mirrors in an orbit around earth, that would make it very clear for alien civilisations that we are here, provided they are on a comparable technical level of development like us.
+Design sketch: mirrors reflect the sun light, creating a flickering signal, and use colour filters to create a spectral signature that is clearly of artificial origin.
+Are their plans to do something like this?

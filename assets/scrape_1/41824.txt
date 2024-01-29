@@ -1,0 +1,5 @@
+Apsides Calculation
+
+I’m trying to calculate the precise moment of Earth’s apsides (perihelion and aphelion). The only formulas I find are in Astronomical Algorithms by Jean Meeus (1998). However, they give erroneous times for 2021 (and, presumably, other dates “far” from 1998). I looked on ADSABS and on arXiv for possible other formulas, but found nothing.
+Can someone point me to more modern formulas for calculating the moments of Earth’s apsides?
+NOTE: I don’t want software modules; I want the raw math (unless the raw math is easily found from the software module).

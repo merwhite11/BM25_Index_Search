@@ -1,0 +1,3 @@
+Limb darkening coefficients for BRITE and Johnson:V passbands
+
+Where to find limb darkening coefficients for BRITE and Johnson:V passbands, please? Do any tables exist or are there any relations for their guest? Many thanks

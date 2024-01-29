@@ -1,0 +1,16 @@
+What is a pupil slicer, and how does it work with anamorphic optics in VLT's ESPRESSO Echelle spectrograph?
+
+This excellent answer points to ESPRESSO, - Echelle SPectrograph for Rocky Exoplanets and Stable Spectroscopic Observations. From there I looked at the Instrument Description and Performance page.
+The page describes three parts or th esystem:
+
+Coudé Trains (transporting light from each of the VLT's four telescopes)
+Front Ends (corrections, stabilizations, fiber pick-up) 
+Spectrograph (fiber output, pupil slicer, Echelle grating, collimator, dichroic splitter, Red and Blue cameras)
+
+I'm wondering what the pupil slicer is, and how it works exactly.
+
+At the entrance of the spectrograph, an anamorphic pupil slicing unit (APSU) shapes the beam in order to compress the beam in cross-dispersion direction but not in main-dispersion direction, where high resolving power needs to be achieved. In the latter direction, however, the pupil is sliced and superimposed on the echelle grating to minimize its size. The rectangular white-pupil is then re-imaged and compressed by the anamorphic VPH grism.
+
+I'm familliar with the basics of how an Echelle spectrograph works, and as far as anamorphic optics, I understand this to mean that not all of the elements are not cylindrically symmetric so that the size and divergence changes in one plane is different than in the perpendicular plane. (Classic example is Anamorphic format).
+Question: What is a pupil slicer, and how does it work with anamorphic optics in VLT's ESPRESSO Echelle spectrograph?
+below: The Spectrograph itself. Light enters from the right from an optical fiber, and the anamorphic pupil slicer (whatever that is) forms a diverging beam to illuminate the entire Echelle grating (beam shown in gray) via the collimator. Everything else in this drawing is post-grating.

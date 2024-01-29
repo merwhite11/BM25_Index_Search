@@ -1,0 +1,60 @@
+Calculate lines of equal solar altitude
+
+I'm attempting to calculate lines of equal solar altitude, essentially a generalized case of the Earth terminator for solar altitude $ h $.
+For a given sun position with declination $ \delta $ and right ascension $ \alpha $, I believe the positive north latitude $ \lambda $ and positive east longitude $ \varphi $ may be calculated using the equation
+$$
+\sin h = \sin \delta \cdot \sin \lambda + \cos \delta \cdot \cos \lambda \cdot \cos \omega
+$$
+where $ \omega $ is the hour angle $ \omega = GST + \varphi - \alpha $.
+WolframAlpha gives the solution as
+$$
+\lambda = 2 \cdot \left( { \arctan{ \left( { \sin \delta \pm \sqrt { \cos^2 \delta \cdot \cos^2 \omega + \sin^2 \delta - \sin^2 h } } \over { \cos \delta \cdot \cos \omega + \sin h } \right) } } + \pi \cdot n \right)
+$$
+How should the correct value for $ \lambda $ be determined from the multiple solutions? Intuitively the answer is clear when viewed on a globe (excellent visualization) but how can it be expressed mathematically?
+I've generated some sample plots using $ n = 0 $, where green represents $ \sin \delta + \sqrt \ldots $, red represents $ \sin \delta - \sqrt \ldots $, and the yellow dot represents the sun's location.
+For $ h = -0.8333 ° $ the correct solution is the curve in green:
+
+For $ h = -18 ° $ the correct solution is the ellipse on the right with green lower half and red upper half:
+
+Alternatively, is there a different/better method to use?
+Worked Example
+Here is an example, with additions based on the answer from d_e, to illustrate the issue (or in case I've made a math error).
+$$
+h = -0.8333 °
+$$
+$$
+\delta = -14.0670 °
+$$
+Taking $ \varphi = 45 ° $ and $ \omega = 3.3059 rad $:
+numerators:
+$$
+\sin \delta + \sqrt { \cos^2 \delta \cdot \cos^2 \omega + \sin^2 \delta - \sin^2 h } = 0.7442
+$$
+$$
+\sin \delta - \sqrt { \cos^2 \delta \cdot \cos^2 \omega + \sin^2 \delta - \sin^2 h } = -1.2303
+$$
+denominator:
+$$
+\cos \delta \cdot \cos \omega + \sin h = -0.9715
+$$
+Using atan
+Latitude values using manual division and the atan function:
+$$
+2 \cdot \arctan{ \left( 0.7442 \over -0.9715 \right) } = -74.9047 °
+$$
+$$
+2 \cdot \arctan{ \left( -1.2303 \over -0.9715 \right) } = 103.4073 °
+$$
+I believe the value $103.4073 °$ should be discarded because it is outside the interval $[-90 °,90 °]$.
+Using atan2
+Latitude values using the atan2 function:
+$$
+2 \cdot atan2{ \left( 0.7442 \over -0.9715 \right) } = 285.0953°
+$$
+$$
+2 \cdot atan2{ \left( -1.2303 \over -0.9715 \right) } = -256.5927°
+$$
+Mapping these values to $ [-90 °,90 °] $ gives $ -74.9047 ° $ and $ 76.5927 ° $.
+Plugging those back into the original equation:
+The coordinate $ (-74.9047,45.0000) $ corresponds to a solar altitude of $ -0.8333 ° $
+The coordinate $ (76.5927,45.0000) $ corresponds to a solar altitude of $ -27.2789 ° $ and should be discarded.

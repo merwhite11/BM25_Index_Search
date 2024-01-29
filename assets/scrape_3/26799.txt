@@ -1,0 +1,5 @@
+Universe Sandbox 2 accurate representation of gravity
+
+I've been playing Universe Sandbox for a while now and I have never been able to make a near Earth asteroid collide with it. By "make" I mean, simulating billions of years of known, near Earth objects until one of their orbits intersect. In this explanation Sir Cumference describes that Universe Sandbox 2 uses Newtonian physics to in its simulations. But wouldn't that calculate enough pull from Earth to slightly change the trajectory of the NEO to eventually impact?
+We know, with almost 100% certainty that a LARGE NEO will impact Earth (probably sooner than later), otherwise why would we be investing so heavily on the Jet Propulsion Lab's Asteroid Watch program. 
+Can the game not accurately simulate gravitational pull on those large scales or is there something else (probably a lot) I'm missing? Are all known NEOs not projected to have a relevant collision intersection with Earth?

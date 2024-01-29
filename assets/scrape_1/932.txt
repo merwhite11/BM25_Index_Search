@@ -1,0 +1,5 @@
+How can we be sure that we have identified very distant stars correctly?
+
+From reading this question on calculating distance to stars and from a bit of background reading on the standard candle theory I still don't see how we can confirm that a star we see at one distance and a star we see at another distance (redshifted and at a different apparent luminosity) are the same type.
+Beyond a certain distance, parallax is not possible, so how can we confirm star X and star Y are the same type therefore the difference in redshift and luminosity means Y must be at distance Z. How do we know it isn't a different type of star at a different distance?
+Or are we just saying they look similar, so probably are?

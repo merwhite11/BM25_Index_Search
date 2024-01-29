@@ -1,0 +1,3 @@
+How to convert between spectra given in terms of velocity (km/s) to wavelength spectra?
+
+I have H alpha spectra of H II regions in our galaxy. In the paper, the x-axis is in units of km/s and the corresponding line width as well. From this, how can I get equivalent width of the H alpha line?

@@ -1,0 +1,4 @@
+How do astronomers calibrate the intensity scale of their spectrometers?
+
+Discussion on Strange bump in solar spectrum taken with home-made spectrograph made me wonder: How do astronomers calibrate the intensity scale of their spectrometers? I mean, how to take in consideration the characteristics of the particular apparatus (diffraction grating, etc.) employed in obtaining a stellar spectrum, in order to get the correct intensities of the various wavelengths recorded with it?
+I think you get me right, but just to be more clear: maybe a certain diffraction grating lets "pass" more yellow that green or red light, so the raw spectrum shows a "bump" in the yellow region in relation with their neighbors colors. So, to get the correct spectrum, one should "attenuate" somehow that yellow part.

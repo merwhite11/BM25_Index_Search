@@ -1,0 +1,4 @@
+Why are telescopes positioned in Lagrange points?
+
+In this Wikipedia article about the list of space telescopes to be launched (which I assume is exhaustive), of the 11 telescopes yet to be launched, 6 will be positioned at the Sun-Earth L2 Lagrange point. Why is that so?
+I read that it has something to do with lower fuel consumption, but I would like a more detailed answer.

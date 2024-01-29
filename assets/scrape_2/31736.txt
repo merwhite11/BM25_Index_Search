@@ -1,0 +1,7 @@
+How to choose between methods to resample/interpolate ephemeris state vectors? Are there recognized techniques for orbital data?
+
+I have ephemeris data for state vectors of a satellite in a J2000.0 coordinate system. This data is already filtered and cleaned.
+The data sample rate ranges between 1 second and 60 seconds, and I want to resample the data down to <10 milliseconds with a constant, regular time step.
+I have already managed to interpolate using methods from scipy.interpolate with cubic interpolation; interp1d and griddata. 
+This leads me to the question of how to choose between various methods to resample/interpolate ephemeris state vectors. Certainly the interpolation of tabular ephemerides is something that astronomers and orbital dynamicists need to do and so there must exist some guidelines or best practices or recognized-better or -worse ways to so this. 
+Question: How to choose between methods to resample/interpolate ephemeris state vectors? Are there methods recognized as superior for orbital data?

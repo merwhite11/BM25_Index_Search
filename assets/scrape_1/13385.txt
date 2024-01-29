@@ -1,0 +1,6 @@
+Public Data Set on Atmospheric Absorbtion / Extinction
+
+Is there a publicly available data set for mean atmospheric absorption / extinction? I would like to be able to process and plot a graph similar to this image from NASA on wiki commons.
+The HITRAN database appears to offer individual lines and might possibly be used to compute mean absorption at standard atmosphere. However, the process is unclear and the data search appears to be broken.
+Spectral Calculator by GATS also appears to have done the calculations for various configurations pulling from the HITRAN database and using standard atmosphere, but access to transmittance and absorption plots is limited to subscribers paying $50 per month.
+A lot of individuals seem to be generating or copying these plots, but very few citations are given. Furthermore, indications are that there may be a fair amount of variability depending on conditions so a plot based on standard or mean conditions looking upward or downward through the atmosphere would be helpful.

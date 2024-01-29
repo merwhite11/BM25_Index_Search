@@ -1,0 +1,6 @@
+Is Earth the most inclined or not?
+
+I'm trying to understand orbital inclination by looking at the planetary orbit inclination table on https://en.wikipedia.org/wiki/Orbital_inclination (there are orbital inclinations for terrestrial and gas giant planets listed there).
+By inclinations to ecliptic or Sun's equator, it looks like the Earth is the most (or least) inclined from all the listed objects having the smallest (or biggest) inclination value. However, the inclination to invariable plane seems to be bigger for some planets than for the Earth, and smaller for others.
+At first, I thought that displaying the absolute value (dropping the minus sign) in case of a negative angle is the case. But if those three columns were just three different reference planes, the relative difference between planet inclinations should at least be the same in all cases. But it's not the case as, for example, Mercury's and Venus' orbital planes have 3.62° between themselves as per the inclination to ecliptic, but they have 0.48° as per the inclination to the Sun's equator.
+So, how should one read those numbers?

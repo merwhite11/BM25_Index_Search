@@ -1,0 +1,9 @@
+Are electrons and positrons equal in cosmic rays?
+
+I think the question here is not answered directly. According to Wikipedia, 
+
+Of primary cosmic rays, which originate outside of Earth's atmosphere, about 99% are the nuclei of well-known atoms (stripped of their electron shells), and about 1% are solitary electrons (similar to beta particles). Of the nuclei, about 90% are simple protons (i.e., hydrogen nuclei); 9% are alpha particles, identical to helium nuclei; and 1% are the nuclei of heavier elements, called HZE ions
+
+Together, electrons and positrons need to be neutral in charge, right? 
+Only 1% are electrons. 
+How can they be neutral in charge?

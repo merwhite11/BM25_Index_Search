@@ -1,0 +1,4 @@
+How to calculate the time for the solar disk to pass the horizon and transit's lines
+
+For a given date, longitude, and latitude:
+Popular apps and websites give the time when the sun's center or edge is on the horizon (i.e., the time of sunrise and sunset) or its transit (i.e., noontime), but I want to ask how to calculate the time needed for the solar disk to pass the horizon's line and the transit's line (preferably in c# or java)?

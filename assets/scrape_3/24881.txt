@@ -1,0 +1,5 @@
+Replacing Meade ETX with computerized mount
+
+I've been using a Meade ETX 90 for a few years now. Since it doesn't have the new computerized mount (with goto), I am looking into buying one to swap out. Where might I find this and is there a more technical term than just "computerized mount" that is used?
+Note: This is an old scope that did not originally come with the ports that the autostar controller now goes into (on the newer models).
+Update: I ended up getting a newer Meade ETX and plan to replace my current mount with the computerized one. Also, if you check out cloudynights.com you might be able to find one. I have seen one on there before.

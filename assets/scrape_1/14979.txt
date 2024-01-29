@@ -1,0 +1,15 @@
+In 31.5kyr, Epsilon Eridani and Luyten 726-8 will be < 1ly close; but how distant from the Solar system?
+
+Greetings! Based on Wikipedia and more precisely this paper, it is said that, in about 31,500 years, the stars Epsilon Eridani and Luyten 726-8AB will "meet" at a very close distance (less than 1 light year); I found that anecdote very interesting in the context of some SF writings I'm trying to do (not in English, quite obviously!) to bring some "subtle consistency" in it, but I was unable to either answer nor calculate with my very little knowledge of astronomy this simple question: to what distance will those stars be from the Solar System in 31,500 years?
+Thank you very much for your help!
+P.S.: oh, a friend of mine told me that my question could lack of useful information, such as the current distance of each of those stars from the Solar System, so here there are:
+
+Current distance from Epsilon Eridani to Solar System: 10.5ly
+Current distance from Luyten 726-8 to Solar System: 8.7ly
+Other info about Epsilon Eridani: declination 9.46° south of the celestial equator (no idea if this can help) | Right Ascension 03h 32m 55.84496s | Radial velocity +15.5 ± 0.9 km/s
+Other info about Luyten 726-8: declination –17° 57′ 01.8″ | Right Ascension      01h 39m 01.54s | Radial velocity +29.0 km/s
+
+[EDIT] 
+As suggested in the comments, I added the Right Ascension and Radial Velocity for those two stars and I'm looking for the "Velocity vectors" (even if I have no idea what this means)
+[EDIT 2]
+Added links to the Extended Hipparcos Compilation (XHIP) Epsilon Eridani and Luyten 726-8AB pages with all sort of info I don't understand, but there are things such as "Heliocentric Velocity" on 3 axis, maybe it can help. (Got the XHIP thing thanks to the following thread: Position and velocity vectors of nearby stars?)

@@ -1,0 +1,7 @@
+Does Oxygen-burning process produce Neon?
+
+In the book "Horizons_ exploring the universe-Cengage learning (2018)", p200, it states that:
+
+Helium fusion produces carbon, and some of the carbon nuclei absorb helium nuclei to form oxygen. A few of the oxygen nuclei can absorb helium nuclei and form neon and then magnesium.
+
+But when I check Wikipedia for Oxygen-burning process, there doesn't seem to have any steps that will produce Neon, but when I check for Carbon-burning process, two carbon-12 nuclei can fuse to a neon and helium nuclei, so is there an error in the book? Or there are other steps of oxygen burning that will produce neon?

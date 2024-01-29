@@ -1,0 +1,5 @@
+WMAP beam profile
+
+What do people mean by the "beam" profile/model pertaining to
+WMAP?
+Search results are all rather packed with jargon. Is  there a pictorial /layman explanation of it and how does it affect the data?

@@ -1,0 +1,8 @@
+How does interstellar matter density vary?
+
+Answer to my question partially answers this one, about density of intergalactic matter and matter within galaxy:
+
+But it is mostly a hot, ionized void. How void? The density of the intergalactic medium is about 1 to 100 particles per cubic meter (you can compare it to the mean galactic density, of about a million particles per cubic meter, or that of Earth's atmosphere, of about 10^26 particles cubic meter). How hot? It can go from 10^5 to 10^7 K.
+
+If we skip the most dense concentrations of matter (stars, planets, generally everything solid, liquid or plasma, and border conditions like their atmosphere) how dense interstellar matter can we find? What is the concentration of matter in densest nebulae that still don't collapse into bodies like planets or stars?
+And conversely, how empty does the space get at its emptiest? I could imagine only very few particles in last their short moments of travel into the center exist under a black hole's event horizon, but other than that, how empty a space can be found in the universe, and where?

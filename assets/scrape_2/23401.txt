@@ -1,0 +1,14 @@
+Trying to categorize moon phase using fraction illuminated
+
+I have a dataset with events that are occurring over a period of 5 years. I am trying to determine whether these events are related to moon phase. I downloaded the "fraction of moon illuminated" for the time period, but am struggling to define the cutpoints for crescent, quarter, and gibbous. These are defined by the USNO as 0.25, 0.5, and 0.75 (http://aa.usno.navy.mil/data/docs/MoonFraction.php) but I am seeking to divide the period into 8 bins of equal time. I think it is a sine function, where the period is 29.53059 days. If I divide this by 8, I get: 3.69132375 days.
+Can anyone help me determine the fraction illuminated (y) that corresponds to these outpoints?
+0 days
+3.69132375 days
+7.3826475 days
+11.07397125 days
+14.765295  days
+18.45661875  days
+22.1479425  days
+25.83926625  days
+???
+Thanks

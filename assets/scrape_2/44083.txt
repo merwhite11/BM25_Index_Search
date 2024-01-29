@@ -1,0 +1,4 @@
+Query with Gaia: I have a list of 1000+ source_id's. How do I find the associated stars and their data?
+
+I have a table of around 1700 source id's from gaiadr2 (in csv format). I would like to see the data that Gaia has for each star in a new table. I'm really struggling to figure out how to do this query, any help would be very much appreciated!
+I do know that I can upload my table user_name.table1 to the Gaia archive, but how I access this in the query for crossmatching... can't seem to figure it out.

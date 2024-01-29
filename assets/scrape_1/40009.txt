@@ -1,0 +1,9 @@
+Can equatorial mounts be used at lower latitudes?
+
+I wanted to order a Celestron 127EQ and I was going through the manual online and just noticed that the manual says that latitude is adjustable in about a 20-60° range.
+
+The PowerSeeker equatorial mount can be adjusted from about 20 to 60 degrees (see figure 4-3)
+
+I'm in Costa Rica which means that it's less than 10° latitude. Is the 20-60 limit a hard limit or it can be lower?
+By looking at various telescopes equatorial mounts pictures in internet, I think all will have the problem that the counterweight might hit the legs of the tripod if lowering the angle a lot, so it's not like a problem unique to 127EQ.
+I have seen that a cellphone can be used to measure this angle so that would not be a problem as long as the mount can physically rotate down to about 10° but I wonder if this setup would not trip the telescope because the center of mass would be too far to the front..... at least while setting up its axis.

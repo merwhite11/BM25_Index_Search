@@ -1,0 +1,7 @@
+Retrogradation movement of planet Mars relatively from Earth by Copernic
+
+I  have a simple question : on the following figure:
+
+I don't understand on the right figure why there is a progressive shift on the right when we start from step 1) to step 9). I guess there is an angle between the rotation plane of Mars and the rotation plane of Earth. Otherwise, we could'nt see clearly the recessing movement if the 2 planes were identical, could we ? We would just draw in the sky a simple line which would be the projection of the curve (on right figure) on a single Oy axis.
+Anyone could explain me if this difference in two rotation planes is the cause of the shape of this curve (which is also due to the relative position of Mars from Earth) ?
+Any help is welcome.

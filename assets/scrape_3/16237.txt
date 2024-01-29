@@ -1,0 +1,17 @@
+What is the highest granularity focal-plane array on a dish radio telescope? Or is this the ONLY ONE?
+
+There is a short Wikipedia article Focal Plane Arrays that enumerates some projects, but my question is more along the lines of what is (at least) nearly complete or in "first light" phase, even if not commissioned yet.
+I'd like to differentiate between focal plane arrays (an array of multiple feeds and amplifiers) used in single dish telescopes, and those integrated into multiple dish arrays, because I'm particularly curious about single dishes being used for spatial information, or even true imaging. Ideally, the answer will give some information for each case.
+In the case of single dish instruments, are the elements - roughly speaking - used as pixels? Despite the longer wavelength, it's still optics and it is a telescope. If there are N individual, uncoupled feeds, does one build up an image roughly N times faster? Is the relative phase between the feeds ever used (for single dish instruments)?
+
+For those like me who aren't already familiar with focal plane arrays, here is a random picture from one of the links I found in a quick internet search. It's from the Parkes 21cm Multibeam Receiver, has (had?) 13 receivers and sat at the focus of the 64m dish. The photo is dated 1997 - I have a hunch there's been some development in this technique in the intervening 20 years.
+Is this actually the only one?
+
+
+Edit: The Parkes array is still in use as shown below:
+
+Above: Superposition of the half-power beam widths of the 13-element array of the Parkes 21-cm Mutlibeam Receiver, as used in [a study of a Fast Radio Bursters]http://arxiv.org/abs/1602.07477.
+It's likely the image is a screen shot from from The host galaxy of a fast radio burst Nature volume 530, pages 453–456 (25 February 2016), Keane et al. I can't find my archived copy now, but instead see Phys.org's New fast radio burst discovery finds 'missing matter' in the universe
+where the caption there reads:
+
+This image shows the field of view of the Parkes radio telescope on the left. On the right are successive zoom-ins in on the area where the signal came from (cyan circular region). The image at the bottom right shows the Subaru image of the FRB galaxy, with the superimposed elliptical regions showing the location of the fading 6-day afterglow seen with ATCA. Image Credit: D. Kaplan (UWM), E. F. Keane (SKAO).

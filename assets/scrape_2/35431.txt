@@ -1,0 +1,17 @@
+Is it dark inside the Sun?
+
+This might sound like a strange question, but something got me thinking about it recently.
+The opacity of plasma in stellar interiors can get quite high, making for shorter free-paths for photons. In these conditions I guess that the light you could theoretically gather, supposing you have a pair of indestructuble eyes submerged in the solar interior, would be the one emitted by the plasma in your immediate surroundings, right? So if the opacity is high enough I can imagine places inside a star like the Sun where there is the same ambient illumination as a typical moonless night here on Earth.
+My questions are:
+
+Is this line of reasoning correct?
+Are these conditions actually possible inside a star?
+Where exactly inside a star are these conditions possible?
+
+
+The answer
+ProfRob gave an excellent answer, as always, but in case someone wants a plain language summary we talked about this:
+If the optical depth of the solar plasma is about a few micrometers this means that, when I'm inside the Sun, I'm observing the plasma only in an extremely small spherical volume (bacterium sized in fact) around my eye and that the rest of the Sun is hidden from me, as if it didn't existed. No photons outside that extremely tiny volume around my eyes will reach them. This is because there's high opacity.
+But because of opacity we also know that the plasma in that tiny volume must absorb a lot of light, and that energy rises the temperature of the plasma. You might not be seeing a lot of material but this material absorbs so much light from the surroundings that it is itself re-emitting light in the form of thermal radiation. The plasma is in fact a black-body radiator.
+In thermal equilibrium the absorbed energy (by the opaque plasma) is the same as the emitted one (as black-body radiation). Thus, if we were outside of thermal equilibrium, like during a supernova event, we might get a different result.
+In any case what you would see if your eyes where inside the stellar plasma is the same as what you would see if you pressed your eyeballs to the surface of a star (assuming that the temperature inside is the same as that of the surface, which is only true for a small depth (as you go deeper the temperature increases and you would see it even brighter).

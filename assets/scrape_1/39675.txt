@@ -1,0 +1,3 @@
+What spectral type of star has an absolute magnitude of exactly 0?
+
+We know that Vega is the star that serves as the zero point for the UBV color scale, and has an apparent magnitude of nearly zero (+0.02). But its absolute magnitude is +0.58, making it rather far from $M=0$. So what spectral type would have an absolute magnitude of $0 \pm0.02$, and are there any stars that satisfy this?

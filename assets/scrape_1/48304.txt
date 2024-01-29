@@ -1,0 +1,7 @@
+In shear component $\gamma_1, \gamma_2$ of weak lensing, Why does the defining with $2\phi$ reflect "real angle"?
+
+From the review paper Bartelmann and schneider, 1999) [Weak Gravitational Lensing], page 48.
+Like above, $\gamma_1 \equiv \left| \gamma \right| \cos(2\phi), \gamma_2 \equiv \left| \gamma \right|\sin(2\phi)$.
+we have to definite like this to match the definition of $\gamma_1 \text{ and } \gamma_2$ with real angle, $\phi$.
+This point is right what I want to know.
+Why does the defining with $2\phi$ reflect "real angle"?

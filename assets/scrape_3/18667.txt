@@ -1,0 +1,11 @@
+Why does Kepler's "Big Picture" of comet 67P look so strange? And what is the significance?
+
+The observation of comet 67P by the Kepler space telescope has been reported in various science news outlets recently. For example, the image below appeared in the recent NASA news article NASA's Kepler Gets the 'Big Picture' of Comet 67P and the same or similar images can be seen elsewhere. The article says:
+
+From Sept. 7 through Sept. 20, the Kepler spacecraft, operating in its K2 mission, fixed its gaze on comet 67P. From the distant vantage point of Kepler, the spacecraft could observe the comet's core and tail. The long-range global view of Kepler complements the close-in view of the Rosetta spacecraft, providing context for the high-resolution investigation Rosetta performed as it descended closer and closer to the comet.
+During the two-week period of study, Kepler took a picture of the comet every 30 minutes. The animation shows a period of 29.5 hours of observation from Sept. 17 through Sept. 18. The comet is seen passing through Kepler's field of view from top right to bottom left, as outlined by the diagonal strip. The white dots represent stars and other regions in space studied during K2's tenth observing campaign.
+
+I don't really understand this image. It is a GIF assembled from several exposures, but in each frame, individual stars appear as tight clusters of dots for some reason, and the comet moves within a bright, narrow band that crosses the entire image in all frames. Why does this looks so strange?
+Also, what is the importance of Kepler deviating from it's observations to concentrate on 67P during this period? What is the scientific importance of this series of observations?
+
+above: Image credit: The Open University/C. Snodgrass and SETI Institute/E. Ryan From here.

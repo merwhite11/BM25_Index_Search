@@ -1,0 +1,7 @@
+What's the relation between the parallax distance and the luminosity distance?
+
+I have read that Riess and his team are able to measure $H_0$ from supernovae calibrated using Cepheid in a model independent way.
+from what I have gathered they find the absolute luminosity of Cepheid $M_c$  with the parallax method and a bunch of other geometric methods then,  once they have $ M_c$, they use the luminosity redshift relation of SN Ia to find $M_{sn}$.
+my question is:
+once they have the parallax distance of Cepheid, how do they find  their distance moduli   without imposing a model? in other words, how do they convert the parallax distance in the luminosity distance without assuming a model? otherwise I don't understand how can they find their absolute luminosity or the distance moduli needed to find $M_c$
+p.s. i had initially posted in physics.stackexchange but someone told me to post here

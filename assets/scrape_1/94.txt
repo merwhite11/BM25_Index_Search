@@ -1,0 +1,8 @@
+What is a parsec and how is it measured?
+
+Astronomical units of measurement are mostly pretty straight-forward:
+
+Astronomical Units refer to the mean Earth-Sun distance (~150 million km or 93 million miles)
+Light years are the distance light travels in a year (~9.46 × 10^12 km)
+
+Another astronomical unit of measurement is the parsec.  What is a parsec and how is it measured?

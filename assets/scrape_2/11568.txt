@@ -1,0 +1,4 @@
+What's the distribution curve for meteor sightings?
+
+I know that meteor showers have a "peak" observation time. 
+What does the distribution in time look like? Is one side of the peak steeper/shallower or longer/shorter than the other side, and if so, why?

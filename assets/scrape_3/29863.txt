@@ -1,0 +1,14 @@
+A "strange" unit radio astronomy
+
+I'm reading up on radio astronomy, and I came across this paper from 1964. At the bottom of page 193, the author uses a unit that I've not seen before in discussing radio power emission from stars:
+
+Now the outbursts on the Sun give an intensity on Earth of $10^{19}$ to $10^{20}$ $wm^{-2}(c/s)^{-1}$
+
+I'm guessing it's "Watts per square meter per [something] per second", but I'm not sure what the [something] is.
+A similar unit appears in this paper on the first line on page 364:
+
+The comparison band in the radiometer, being separated approximately 3.25 Mc from the signal band, never encounters the hydrogen range of frequencies.
+
+Again, this looks to me like mega[something]. Can anyone shed some light on this?
+On page 362 of the second paper, the unit appears as $(Watts/M^2
+)/(C/S)$ as a unit of flux. There, the $C$ looks like coulombs, but that makes the $3.25 Mc$ in the second quote seem weird.

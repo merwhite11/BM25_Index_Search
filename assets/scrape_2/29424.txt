@@ -1,0 +1,13 @@
+Correction to inverse square law for cosmology
+
+While reading about the discovery of quasars and the spectroscopic analysis of 3C 273 in this paper by Maarten Schmidt, I came across the following quote:
+
+At these distances, corrections to luminosities depend on the specific world model. For
+  an approximate determination of the fluxes in the emission lines we use the formulae
+  given by Sandage (1961) based on Mattig (1958). For the energy contained within an
+  emission line, in which we integrate over the entire profile, the correction to the inverse square law is of the form $(1 + z/2)^2$
+  if the cosmological constant and deceleration parameter are zero. It is $(1 + z)^2$
+  for the steady-state model.
+
+First, why is a correction to the inverse square law necessary? Is it to do with interstellar extinction?
+Second, why are the two models different? I understand what the cosmological constant and deceleration parameter are, but why is the redshift prediction for a steady state model twice as much as when $\Lambda=q=0$?

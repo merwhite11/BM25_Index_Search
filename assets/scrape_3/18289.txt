@@ -1,0 +1,14 @@
+Intercept a NEO trajectory
+
+I need help with an exercise in the book that I can't tackle. I need to calculate how much time we have to intercept and eliminate a NEO. I got the following orbital parameters:
+
+a=-2791.44 km (semi-major axis), 
+i=22.3 deg /Hyperbolic), 
+e=2.77 
+v=247.96 deg, 
+r= 2,106,101.331 km (radius from Earth's center of mass)
+
+My problem is that I don't know where to begin, but I did an attempt. I assume that the intercept with the target only can happen when the phase angle between Earth and the NEO are the same. 
+I know that one can calculate the velocity of the S/C with ($m_y$=gravitational param.):
+$$v=\sqrt{(2m_y/r)-(m_y/a)}$$ 
+If we calculate the escape velocity of the Earth with $V_e=\sqrt{2GM_e/r}$, we will get the difference in velocity. With this information, we can calculate the time needed.  Anyone that can help me?

@@ -1,0 +1,7 @@
+Can automatic algorithms completely eliminate the impact of Starlink and other satellites?
+
+According to a comment by user @J:
+
+With that said, other than aesthetics, machine vision algorithms are wildly more advanced today than in the past - strategies to remove passing satellites don't really seem to be anything other than trivial. It's annoying because it requires land based observatories to correct for the new noise, but it doesn't seem anything fundamentally more disruptive than that - a mild annoyance.
+
+Is it true that machine learning (and other) algorithms are so good these days that you can automatically eliminate the impact of any satellites passing overhead? Perhaps not the ideal solution for a casual astronomer but perhaps easy to do for a professional observatory?

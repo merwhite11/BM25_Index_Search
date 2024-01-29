@@ -1,0 +1,5 @@
+RA and Dec of Near-Earth-Objects
+
+I'm new to the forum.
+This might be a silly question. I had a confusion about how RA and Dec are calculated. So, from what I understand RA is the angle made by the position vector of an object(position vector as measured with respect to ECI's origin) with vernal equinox direction. Declination is the angle made by the same position vector with the celestial equator(coincides with Earth's equator).
+I wanted to make sure that the position vector of the object is considered with respect to ECI's origin. If that is in fact the case, then wouldn't the RA and Dec of a Near-Earth Object depend on the position of the Earth in its orbit ? (If it's a far away star, then the effect of orbital motion of Earth is negligible). Please correct me if I'm fundamentally mistaken in my understanding. Thanks!

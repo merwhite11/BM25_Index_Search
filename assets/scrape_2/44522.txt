@@ -1,0 +1,8 @@
+Why is the Milky Way's SMBH inactive?
+
+Our galaxy is not an active galactic nucleus (AGN). With so many stars and so much gas orbiting it, as explained here Central kiloparsec of Seyfert and inactive host galaxies: a comparison of two-dimensional stellar and gaseous kinematics:
+
+The ionized gas distributions show a range of low-excitation regions, such as star formation rings in Seyfert and inactive galaxies, and high-excitation regions related to photoionization by the active galactic nucleus (AGN). The stellar kinematics of all galaxies in the sample show regular rotation patterns typical of disc-like systems, with kinematic axes that are well aligned with those derived from the outer photometry and provide a reliable representation of the galactic line of nodes.
+
+why is the MW not an AGN? In terms of the orbiting gas and stars, and apart from the obvious observational differences, what sets an inactive galaxy like the MW apart from and AGN?
+Links to scientific papers would be much appreciated.

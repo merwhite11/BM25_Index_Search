@@ -1,0 +1,7 @@
+What if a component of a binary star lies in the center of it's orbit and not in the focus?
+
+I'm trying to solve this task:
+
+Observing a visual binary star with a highly elongated elliptical orbit for a long time, the astronomer noticed that the bright component lies in the center of the ellipse, and not in its focus.  Does it follow from this that Kepler's first law is violated?
+
+Is it possible and if it is then why?

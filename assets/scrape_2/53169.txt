@@ -1,0 +1,11 @@
+Moonrise and Moonset time in Sydney vs Perth
+
+I'm very confused with multiple moonrise and moonset times across Australia.
+For Example (According to https://timeanddate.com)
+
+Moonrise in Sydney on 22 Mar 2023 is at AEST 7:09AM which is going to be 4:09AM AWST in Perth. This is when i check the Moonrise and Moonset timings of Sydney
+
+If i then change the city to Perth on the website and look at the moonrise time on 22 Mar 2023 it is 6:37AM AWST which is 9:37AM AEST Sydney time.
+
+
+So according to the above timetable, it feels like moon came out first in Sydney and 7:09AM and then again for Perth at 9:37AM ???

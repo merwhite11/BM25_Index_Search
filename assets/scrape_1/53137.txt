@@ -1,0 +1,94 @@
+Numerical Programming using ODEINT takes more than 17 minutes
+
+I am trying to track the trajectories of a charged particles under the influence of Gravitational and Electromagnetic effect. Computing for time points, t0=0second  -tf= (36002430)sec with stepsize 0.5 more than 17 minutes. Is it normal for a programming to take such a long time or is it something to do with my laptop (core i3, 8th gen, 2.54Hz) or my code. Please someone review my code:
+import numpy as np
+import matplotlib.pyplot as plt
+from math import sin, cos, pi
+from scipy.integrate import odeint
+
+μ = 379312077e8           # m^3/s^2 # G= 6.67408e-11m^3/kg*s^ # M = 5.68e26 # μ=GM
+R = 60268e3               # metre
+g_10 = 21141e-9
+Ω = 17e-5                 # rad/s = 9.74e-7   
+
+# charge by mass ratio
+ρ = 1e3                   # 1gm/cm^3 Headmen 2021= 10^3 kg/m^3, 
+b = 1e-11                 # 1nm = 1e-3 micro
+V = 100                   # Volt
+ε = 8.85e-12              # Farad/metre        
+β = (3*ε*V)/(ρ*b**2)     # 
+m = (4/3)*pi*(b**3)*ρ
+
+def LzG(p,t):
+# assigning each ODE to a vector element
+    r,x,θ,y,ϕ,z = p
+
+# constants
+    μ = 379312077e9                   # m^3/s^2, G = 6.67408e-11m^3/kg*s^,M = 5.68e26kg 
+    R = 60268e3                          # metre
+    j_2 = 1.629071e-2
+    g_10 = 21141e-9                      #
+    Ω = 1.7e-4                           # rad/second
+    μ_0 = 4*pi*1e-7 
+    B_θ = μ_0*(R/r)**3*g_10*sin(θ)
+    B_r = μ_0*2*(R/r)**3*g_10*cos(θ)
+    β = (3*ε*V)/(ρ*b**2)                # q/m = -3.46 x 103 C/kg, 
+
+# defining the ODEs
+    drdt = x
+    dxdt = r*(y**2+(z+Ω)**2*sin(θ)**2-β1*z*sin(θ)*B_θ)-(μ/r**2)*(1-(3/2)*j_2*(R/r)**2*(3*cos(θ)**2-1))
+    dθdt = y
+    dydt = (-2*x*y + r*(z+Ω)**2*sin(θ)*cos(θ)+ β1*r*z*sin(θ)*B_r)/r + (3*μ/r**2)*j_2*(R/r)**2*sin(θ)*cos(θ)
+    dϕdt = z
+    dzdt = (-2*(z+Ω)*(x*sin(θ)+r*y*cos(θ)) + β1*(x*B_θ-r*y*B_r))/(r*sin(θ))
+
+    return np.array([drdt,dxdt,dθdt,dydt,dϕdt,dzdt])
+
+initial conditions
+p0 = np.array([1.11*R,0.0,90.0*(pi/180),0.0*(pi/180), 0.0*(pi/180), 0.0206*(pi/180)])
+
+time window
+t = np.arange(0,2680000,0.5)# 30 days
+
+# Solutions
+p_LzG = odeint(LzG, p0,t,rtol=1e-4,atol=1e-4)
+
+r,x,θ,y,ϕ,z = p_LzG.T
+
+Plot Solutions
+r,x,θ,y,ϕ,z = p_LzG.T
+fig,ax=plt.subplots(2,3,figsize=(10,4))
+
+for a,s in zip(ax.flatten(),[r,x,θ,y,ϕ,z]):
+    a.plot(t,s); a.grid()
+plt.tight_layout(); plt.show()
+
+
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import axes3d
+import matplotlib.pyplot as plt
+from mpl_toolkits import mplot3d
+
+fig = plt.figure()
+
+spherical to cartesian
+x1= r * np.sin(θ)* np.cos(ϕ)
+y1= r * np.sin(θ)* np.sin(ϕ)
+z1= r * np.cos(θ)
+
+ax = plt.axes(projection="3d")
+ax.plot3D(x1,y1,z1, color="red",linewidth='0.5')
+ax.set_xlabel('X-Axis')
+ax.set_ylabel('Y-axis')
+ax.set_zlabel('Z-axis')
+plt.show()
+
+OSERVATIONS AFTER CHANGES MADE AS PER SUGGESIONS
+1.Tolerance rather than timestep reduces the computing time to seconds 2.With the tolerance to rtol=1e-3 and atol=1e-3 it takes about 10sec. 3. The solutions/graphs with (rtol=1e-3 and atol=1e-3) and ( rtol=1e-4 and atol=1e-4 and lower values) are different ! 4. With tolerance 1e-2 and above the solution suddenly falls off to Zero, with default (None) No Solution. 5. With regard to the time stepsize, strangely ODEINTS seems to accepts only certain values (in this case) <1, 10, 36 and 100 6. solution of ODEINT and solve_ivp are different !
+NB: The equations of motion are in a co-Rotating frame.
+
+
+
+
+
+I have accepted the answers since the question was related to computing time and has been significantly reduces with the help of the David Hammen and Uhoh. However, I still doubt the robustness of ODEINT and Solve_ivp with regard to complicated coupled Non linear non- homogenous equations such as this and for long duration simulations (without re-interpolating the internal results).

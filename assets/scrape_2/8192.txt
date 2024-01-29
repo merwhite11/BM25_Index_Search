@@ -1,0 +1,7 @@
+Do Pluto and Charon have unusual Lagrange points?
+
+The usual examples of Lagrange points one most commonly encounters, Sun-Earth  and Earth-Moon Lagrange points, are examples of 3-body problems where $M_1\gg M_2\gg M_3$. The Pluto-Charon system, however, are much closer in their relative masses, so much so that their barycenter is outside Pluto's surface. From Wikipedia:
+
+Pluto and Charon are sometimes considered a binary system because the barycenter of their orbits does not lie within either body. The IAU has not formalized a definition for binary dwarf planets, and Charon is officially classified as a moon of Pluto.
+
+How does this affect the orbital stability of the five Pluto-Charon Lagrange points?

@@ -1,0 +1,73 @@
+Cosmology context plotting : Covariance matrix - Script to plot Omega_m vs Omega_Lambda diagram in Python
+
+I have covariance matrices and Markov chains coming from the SCP (Supernova Cosmology Project) and I would like to plot all these data
+in the particular diagram Omega_Lambda vs Omega_m or w vs Omega_m.
+For example, I would like to get this kind of figures :
+
+and
+
+I would prefer to write a Python script.
+Update 1
+I managed to get the covariance matrice available on: http://supernova.lbl.gov/Union/figures/SCPUnion2.1_covmat_nosys.txt
+from the SCP (SuperNova Cosmology Project): http://supernova.lbl.gov/Union/
+Once downloaded, I computed the associated Fisher matrix. But I realize that the size of the matrix is 307x307.
+I don't know how to exploit this big and only one covariance/Fisher matrix.
+On the figures above, there are 3 probes (CMB, SNIa, and BAO) and in grey, I guess the cross of the 3 previously cited probes.
+How can I handle this large matrix? Maybe the authors have made a synthesis of the 3 probes + cross-correlation in a unique matrix. If this is the case, how to break down this only one matrix to plot individually each probe?
+Update 2
+I recall that Covariance matrix is equal to the inverse of Fisher matrix (matrix representing the information that we have on each cosmological parameter). Then, the covariance matrix gives variances on diagonal elements and covariances on off-diagonal elements.
+Update 3
+Below the Python script used with getdist tool (pip install getdist) with Fisher matrix coming the inverse of Covariance downloaded above :
+# Show plots inline, and load main getdist plot module and samples class
+from __future__ import print_function
+import sys, os
+sys.path.insert(0,os.path.realpath(os.path.join(os.getcwd(),'..')))
+import numpy as np
+import getdist 
+from getdist import plots
+import matplotlib.pyplot as plt
+import matplotlib as mpl
+# The plotting scripts also let you plot Gaussian (or Gaussian mixture) contours 
+from getdist.gaussian_mixtures import GaussianND
+from getdist.gaussian_mixtures import Mixture2D
+print('GetDist Version: %s, Matplotlib version: %s'%(getdist.__version__, plt.matplotlib.__version__))
+
+## Load Fisher matrix and invert it to get Covariance array
+# Load Fisher matrix
+File1 = np.loadtxt('Fisher_OmegaL_vs_Omegam.txt')
+# Invert to get Covariance matrix
+COV_File1 = np.linalg.inv(File1)[2:4,2:4]
+
+#  Example of pre-defined location for legend
+# Mean of each cosmo parameters : respect order of generated "Big" Fisher matrix
+mean = [0.28, 0.72]
+# Names and labels
+names = ['Omeega_m', 'Omega_L']
+labels = [ r'$\Omega_m$','$\Omega_{\Lambda}$']
+matrix1 = GaussianND(mean, COV_File1, labels = labels, names = names)
+# Plot triplot
+plt.rcParams['text.usetex'] = True
+plt.rc_context({'axes.autolimit_mode': 'round_numbers'})
+g = plots.get_subplot_plotter()
+g.settings.figure_legend_frame = True
+g.settings.legend_fontsize = 8
+g.settings.axes_labelsize = 15
+g.settings.axes_fontsize  = 10
+g.settings.alpha_filled_add = 0.85
+g.settings.title_limit_fontsize = 18
+g.settings.axis_tick_x_rotation = 45
+g.settings.axis_tick_y_rotation = 45
+g.settings.fig_width_inch = 5 
+g.settings.fig_width_inch = 5 
+g.settings.axis_tick_max_labels = 10 
+g.triangle_plot([matrix1],
+                names,
+                filled = True,
+                legend_labels = [ r'$\Omega_{\Lambda}$'+' vs '+r'$\Omega_{m}$'],
+                legend_loc = 'upper right',
+                contour_colors = ['blue'],
+                )
+# Save triplot
+g.export('output_OmegaL_Omegam.pdf')
+
+Unfortunately with this current script, I get degenerated 2D joint distribution between Omega_Lambda and Omega_m :

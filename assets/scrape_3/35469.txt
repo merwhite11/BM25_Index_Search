@@ -1,0 +1,4 @@
+Pulses from a pulsar
+
+What is/was the motivation behind attributing the pulses received from a pulsar to the rotation of an object (neutron star) and emission from the magnetic poles (of the said neutron star), given that fact that pulsars have not been resolved yet in various wavelengths?
+Could the pulses have been a product of a non-rotating but radially vibrating radio emitting star?

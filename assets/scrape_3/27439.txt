@@ -1,0 +1,8 @@
+What is the escape velocity of our Galaxy relative to?
+
+I've been thinking that everything has a relative escape velocity, if it has Mass, seemingly. You can escape orbit around the earth by accelerating enough. You can escape the orbit of the sun by accelerating enough. Heck, this is kind of a stretch, but even electrons can escape an atom relative to how much electric charge the nucleus holds. What would it be like to escape the orbital velocity of our Galaxy-- and what exactly would it be relative to-- a black hole at the center of the Galaxy? 
+The quote was:
+
+Solar system's orbital velocity is estimated at roughly 220 km/s, and galactic escape velocity for our vicinity at about 537 km/s. So in the direction of Solar system's velocity vector, velocity required to escape Milky Way is ~ 317 km/s. And much more, if this Solar system's own orbital momentum cannot be used to full extent and a launch in other directions is required. This is of course assuming you can launch on a trajectory that avoids getting too close to gravitational influence of other solar systems.
+
+How in the world do you calculate the escape velocity of other galaxies let alone our own-- do we know what the solar systems in the Milky Way orbit and how they orbit it?

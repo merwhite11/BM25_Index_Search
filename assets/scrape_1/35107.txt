@@ -1,0 +1,26 @@
+Betelgeuse in false colors, is this common?
+
+First, take the original Betelgeuse image from ALMA and remove red and green channels. Then boost the blue channel luminosity by x10 to x20 and a lot of detail pops out.
+This is the resulting image that can be reproduced from the original.
+If you zoom into the picture you'll notice tiny concentric "ripples". Blue shifted light denotes high energy particles (as opposed to red shift).
+My hypothesis (I'm not an astonomer!) is that we are seeing background radiation, while the star itself obstructs the background. The ripples would then indicate gravitational bending as those heavy particles cross the super-extended corona of the star.
+Is there an accepted hypothesis about these artifacts?
+EDIT:
+The inner ring of pixel-mess around the black spot is out of gamut and thus "invalid data". The ripples are inside the corona and, finally, the outer parts of the image are relatively uninfluenced background radiation from other objects. There are NO ARTIFACTS on the R and G channels.
+This image shows what I mean by "ripples":
+
+As a counter-argument to myself I show this more recent picture taken by SPHERE with similar artifacts. Maybe I should conclude that the high-level structure is real while the low-level structures are artifacts caused by the measuring instrument itself hitting its sensibility levels.
+
+PS: I posted this question also on reddit.
+EDIT: blue channel histogram
+This is how to see the blue channel color information. I use Krita which is by no means a scientific tool but its immediate usage helps.
+Download the image from the ESO source link above (it's the "Full size original" 91.6MB TIFF image).
+Then, in Krita, go to "Filter > Adjust > Color Adjustment curves...". On the channel drop-down select "B" and observe the following picture:
+
+I have highlighted with RED the interesting zone. On the background you'll notice there is a histogram and that color information is only present to the far left between the bars. All other intensities (maybe byte value 10 and above?) do not occur in the image.
+
+To the far right there is a barely visible population of "byte value 255 pixels", those are the out-of-gamut pixels.
+
+To see those pixels drag the upper-right corner knob to the left so that the curve is steep from 0 to 255 between the two red bars I've shown. This will magnify intensity by a factor of 10 or 20 and map very dim pixels to brighter blue.
+
+The uploaded image (second link above) is the resulting image of this process. There is NO EXACT SPOT I'm talking about. It is an aura all around the black blob in the middle.

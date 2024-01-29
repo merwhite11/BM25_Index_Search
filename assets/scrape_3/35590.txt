@@ -1,0 +1,10 @@
+Has radio astronomy ever been done on objects that appear very close to the Moon? Is this avoided?
+
+This answer to Which kinds of astronomical observations most need to avoid the Moon being up? mentions 
+
+For completeness - radio, mid-infrared and mm-wave observations are unaffected (unless the Moon is in the way!)
+
+The Moon is of course opaque to all wavelengths used in astronomy, from very low frequency radio waves to gamma rays. So if the moon eclipses a target radio signals will be blocked.
+But are there any more subtle or non-obvious effects? For example if a target is very close to the Moon but not covered by it, would that affect an observation in any way? 
+Question: Is this routinely avoided out of an abundance of caution? On the other hand, has a lunar occultation of a radio source ever be leveraged in some way for a specific measurement? 
+"Bonus points" for any anecdotes of strange results or confounding measurements in Radio Astronomy that turned out to be the result of not taking the position of the Moon in to consideration.

@@ -1,0 +1,10 @@
+Official Definition of Satellite?
+
+So I had an argument with a friend, which was about whether the Moon is a planet or a satellite.
+IAU 2006 Resolution B5 gives definitions on what it is to be a planet, but there is a vagueness, as I perceived, is that it does not define satellites, while using it to define dwarf planets.
+There is a supplementary Q&A sheet, and it uses the barycenter to define a satellite, but it is implied, not explicitly defined.
+My questions follow:
+
+Should the supplementary Q&A sheet considered as legitimate official definitions, or should it be considered as a one way of interpreting the Resolution B5?
+If Q&A is legitimate, then why is the definition of the satellite is not included in the Resolution B5? If not, is the official definition of the satellite nonexistent currently?
+Are there any source or archive of the official or widely accepted definitions of glossaries in the fields of astronomy?

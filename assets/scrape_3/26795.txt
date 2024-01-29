@@ -1,0 +1,5 @@
+Stellar Classification Table and Star RNG
+
+I found a table that was based on data from 2003 for Stellar Classification, and I can't get to the given data source. I plan on using the table as a basis for a program that spits out random star systems with stars +-5% of the given data. 
+I know type R was renamed to C so I am already throwing that out. Is there anything else I should ignore from this table or add? 
+Or this table is crap and should not be used as there are glaring errors.

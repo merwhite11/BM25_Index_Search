@@ -1,0 +1,9 @@
+Cannot plot Kepler FITS files with topcat in Windows
+
+This is a continuation of my earlier question here. I was able to find Kepler data. Now I wanted to plot the data using Topcat. But when I tried to plot the data, I received error. Below is the error screenshot.
+
+In the screenshot I have given two different errors with different table formats. But actually I tried with all the table formats, and none of them works for me. I was thinking of converting the file with Topcat to csv. As I am unable to open the file, I could not convert it into csv.
+Here I need help two sectors.
+    1. How to open the FITS files.
+    2. Is there any python code to convert these FITS files into csv and/or any python code to plot these fits files.
+Thanks in advance.

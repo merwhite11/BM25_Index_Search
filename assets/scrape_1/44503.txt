@@ -1,0 +1,28 @@
+What (if any) capabilities of Hubble are unique and irreplaceable? What can it do that can't be done by any other ground or space-based telescope?
+
+It's impossible to summarize in an SE post the depth and breadth of the contributions to science made using the Hubble Space Telescope.
+Above the atmosphere it has
+
+access to an extremely dark and still sky so it has the diffraction limited resolution of a 2.4 meter aperture
+a limiting magnitude beyond +30 magnitude. On any given day it can not see the full sky because it must avoid pointing towards the Sun, and must wait up to 45 minutes to avoid Earth being in the way, but it can respond quickly to many calls for optical verification of transient phenomena.
+UV and possibly NIR coverage difficult from the ground.
+
+Recently it was used to identify the optical sources of FRBs that had been localized via VLBI to structures within order +21 m galaxies to mas resolution, mentioned just as an example.
+Resolution of ground based observatories of much larger aperture diameters can approach diffraction limited resolution though advanced, active wavefront correction (adaptive optics) and while it used to only work in near infrared inroads are being made for some visible light wavelengths now.
+
+Why aren't ground-based observatories using adaptive optics for visible wavelengths?
+Will the E-ELT use Adaptive Optics at visible wavelengths?
+
+Question: What capabilities of the Hubble Space Telescope are unique and irreplaceable? What are the things it can do that either simply can't be done by any other telescope, ground or space-based?
+It's been observed that if/when Hubble finally retires after its order 30 year career:
+
+With JWST so close to being launched (it's always ten years away... :/), NASA might just say so long and thanks for all the fish to Hubble.
+
+and in terms of resources on the ground (personnel and otherwise) JWST commissioning and use will require all hands on deck, so I can imagine that this might indeed be what happens.
+But which type of observers will miss Hubble the most; which kinds of observations will be most severely impacted by Hubble no longer being available?
+
+Re adaptive optics moving into visible wavelengths but certainly not covering Hubble's blue or UV capability:
+From @ProfRob's answer to How did VLT's adaptive optics obtain this resolution for Neptune? Is it really working in visible wavelengths>
+
+...image taken with the new narrow field mode of the MUSE instrument using the GALACSI Adaptive optics module on a single (UT4) VLT telescope using laser guide stars.
+...the shortest wavelengths used in this false-colour image were 550nm and that most of the detail you see is coming from redder wavelengths (600-920nm).

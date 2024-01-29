@@ -1,0 +1,3 @@
+Size of the solar system relative to exosystems
+
+How does the semi-major axis of Mercury's orbit compare to that of the innermost planet of other exosystems? What about the semi-major of Neptune compared to that of the outmost planet of a system? I'm trying to get a sense for whether our solar system is relatively tightly clustered around the Sun? Relatively loose? Very average?

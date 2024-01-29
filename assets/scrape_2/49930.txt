@@ -1,0 +1,4 @@
+Internal extinction calculation
+
+I am estimating the internal extinction of a spiral-barred galaxy (rest frame extinction). I use UV images to study the galaxy. I have Balmer decrement values of individual knots using which, I estimate the c(H beta) and thus calculate the internal extinction. I also have a MIPS 24 micron image to calculate the internal extinction values.
+However, a particular region of the galaxy, say A, is not covered by MIPS but in the Balmer decrement map. To add to my woes, the Balmer decrement map doesn't cover another region, say B, but is covered by the MIPS map. I do not have any other data. Can I use the extinction values calculated using IR data in region B and values calculated using Balmer decrement in region A?

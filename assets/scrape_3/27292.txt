@@ -1,0 +1,3 @@
+Why does D4000 affect stellar age?
+
+From my understanding D4000 is a ratio between the 'flux densities between 4050 and 4250 Angstroms and that between 3750 and 3950 Angstrom', from Poggianti et al (1997). However I do not understand why this is a direct relationship with stellar age. Did someone just notice that D4000 has a strong correlation to stellar age, if so what is the scientific explanation of this relationship.

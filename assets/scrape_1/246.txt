@@ -1,0 +1,5 @@
+Do any known exoplanetary/solar bodies have "annular" eclipses similar to Earth's?
+
+This was somewhat inspired by this question but is a bit different: I am interested in if there are any known systems in which the angular size of the eclipsing object is almost the same as the angular size of the object being eclipsed from the surface of a planet, as is the case for the Moon and the Sun as viewed from Earth. This is the only way that one can get "annular" eclipses, or eclipses in which the host star's corona is clearly visible. This could be the case for some moons in the solar system (which requires that they eclipse at all), and at least Phobos in particular seems to have a similar angular size to the Sun as viewed from Mars,
+
+but it could also be true for some known (or candidate) multiple-planet exoplanetary systems in which the periods of the two planets are not too different. Probably a perusal of the public Kepler candidate sample would be helpful here.

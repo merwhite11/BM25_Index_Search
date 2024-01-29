@@ -1,0 +1,5 @@
+Is diffuse energy distribution considered in the galaxy rotation curve explanations?
+
+Problem number 23 in chapter 1 of Purcell's "Electricity and Magnetism" Second edition page 37 shows that 90% of the energy stored in the electrostatic field of a spherical charge distribution of radius R is contained in a spherical region of 10R. 
+The energy by this description is diffuse and only partially resides within what we would call the physical bounds of the particle. Gravity has the same form as the electromagnetic force and I would expect would have this same character of distribution of energy (i.e. 90% of the energy of the gravitational mass contained within a radius of 1R is stored within a sphere of 10R).
+Is this true of gravitational energy and has this little detail been considered in the galaxy rotation curve explanations? I would think that something this elementary would be well accounted for in galaxy rotation descriptions. Much of the electromagnetic and gravitational energy seems diffused into the area surrounding mass and I think that galaxy rotation curves require more diffuse gravitational energy distribution don't they?

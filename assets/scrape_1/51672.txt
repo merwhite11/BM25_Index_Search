@@ -1,0 +1,8 @@
+Having trouble using astroquery's Vizier.query_region?
+
+I'm having some trouble getting a Vizier search using astropy to work. I'm looking for all sources nearby MWC 614 from the Gaia EDR3 database:
+Vizier.query_region("MWC 614", radius = 480.0 * u.arcsecond, catalog = "I/350/gaiaedr3")
+
+But it keeps returning an empty TableList, despite the fact that when I search without the catalog restriction, I can clearly see the "I/350/gaiaedr3" catalog available:
+
+What makes it more confusing is that this code was working fine this morning! I haven't changed it at all, and yet it's suddenly stopped working. Does anyone have any idea as to what's going on?

@@ -1,0 +1,5 @@
+Where can I find a set of data of the initial conditions of our solar system?
+
+As the title suggests, I'm in need of a set of data of our solar system. Similar to this http://bima.astro.umd.edu/nemo/archive/#iau25, but more specifically, the Dubinsky Milky Way-Andromeda data.
+I'm creating a n-body simulation for school and can't seem the find any initial particle conditions that I could use to simulate our solar system in the software I'm developing. I need initial positions, velocity and mass. 
+Any idea where I could find this?

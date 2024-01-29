@@ -1,0 +1,21 @@
+How do I calculate the moment of the solstice?
+
+I'm trying to calculate the moment of the upcoming summer solstice using astropy, and I can't seem to get an answer that matches the accepted values that I see online. I thought that the moment of the solstice would be when the Sun has maximum/minimum declination, but according to my plot below that moment is at about 2023-06-21 23:00 UTC instead of 2023-06-21 14:58 UTC according to wikipedia. Does anyone know where I'm going wrong?
+import matplotlib.pyplot as plt
+import astropy.time
+import astropy.coordinates
+import astropy.visualization
+import numpy as np
+
+astropy.coordinates.solar_system_ephemeris.set("de440")
+
+astropy.visualization.quantity_support()
+astropy.visualization.time_support()
+
+time = np.linspace(astropy.time.Time("2023-06-21"), astropy.time.Time("2023-06-22"), num=1000)
+
+sun = astropy.coordinates.get_body("sun", time=time)
+
+plt.figure()
+plt.plot(time, sun.dec)
+plt.show()

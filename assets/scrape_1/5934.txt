@@ -1,0 +1,5 @@
+How does a gravity slingshot actually work?
+
+From what I know of elliptical orbits, an object speeds up near the periapsis and slows down at the apoapsis, much like we learned in high school physics how a sphere would roll down and back up a valley in a frictionless vacuum: The height is inversely proportional to the speed.
+The "gravity slingshot" maneuver we've seen in sci-fi and even used by our own spacecraft relies on the physics of hyperbolic orbits, where an object both enters and exits the orbit before making a single lap around the planet/moon/etc. Since gravity pushes the craft toward that body both while they're heading towards and away from it, shouldn't the craft's velocity be the same at (for example) 1 megameter before the periapsis as 1 megameter after? If so, then the gravity slingshot maneuver should only have the end purpose of redirecting the craft's trajectory, not of increasing its speed, as the name implies.
+My understanding in a simple diagram:

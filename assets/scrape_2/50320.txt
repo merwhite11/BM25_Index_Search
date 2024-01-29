@@ -1,0 +1,85 @@
+Keyerror: 0 while using astropy SkyCoord
+
+I am facing a problem while using SkyCoord from astropy library. The scenario is as below,
+
+I have read the data from a fits file into a pandas dataframe.
+I have applied several quality cuts to the data
+I am trying to get the SkyCoord object for the remaining objects (about 250k objects)
+Python raises a KeyError: 0 while getting the SkyCoord object
+
+Quite surprisingly when I run the same code without the quality cuts, the SkyCoord object is successfully initiated. It fails when I try to obtain the SkyCoord object after the quality cuts. Not sure why this is the case.
+Below is the code snippet for your reference.
+ra = data_ADR["RA_x"]
+dec = data_ADR["DEC_x"]
+dist = data_ADR["dist"]
+pmra = data_ADR["GAIAEDR3_PMRA"]
+pmdec = data_ADR["GAIAEDR3_PMDEC"]
+rv = data_ADR["GAIAEDR3_DR2_RADIAL_VELOCITY"]
+c = coord.SkyCoord(ra = u.Quantity(ra * u.deg),
+                   dec = u.Quantity(dec * u.deg),
+                   distance = u.Quantity(dist * u.pc),
+                   pm_ra_cosdec = u.Quantity(pmra * u.mas/u.year),
+                   pm_dec = u.Quantity(pmdec * u.mas/u.year),
+                   radial_velocity = u.Quantity(rv * u.km/u.s))
+c_galcen = c.transform_to(coord.Galactocentric(z_sun = z_sun, galcen_distance = galcen_distance))
+
+Any idea on how to fix this would be appreciated.
+Thank you in advance!
+Below is the complete stack trace of the error message,
+---------------------------------------------------------------------------
+KeyError                                  Traceback (most recent call last)
+/usr/local/lib/python3.7/dist-packages/pandas/core/indexes/base.py in get_loc(self, key, method, tolerance)
+   3360             try:
+-> 3361                 return self._engine.get_loc(casted_key)
+   3362             except KeyError as err:
+
+6 frames
+/usr/local/lib/python3.7/dist-packages/pandas/_libs/index.pyx in pandas._libs.index.IndexEngine.get_loc()
+
+/usr/local/lib/python3.7/dist-packages/pandas/_libs/index.pyx in pandas._libs.index.IndexEngine.get_loc()
+
+pandas/_libs/hashtable_class_helper.pxi in pandas._libs.hashtable.Int64HashTable.get_item()
+
+pandas/_libs/hashtable_class_helper.pxi in pandas._libs.hashtable.Int64HashTable.get_item()
+
+KeyError: 0
+
+The above exception was the direct cause of the following exception:
+
+KeyError                                  Traceback (most recent call last)
+<ipython-input-271-8b519c152eeb> in <module>
+----> 1 c = coord.SkyCoord(ra = u.Quantity(ra * u.deg),
+      2                    dec = u.Quantity(dec * u.deg),
+      3                    distance = u.Quantity(dist * u.pc),
+      4                    pm_ra_cosdec = u.Quantity(pmra * u.mas/u.year),
+      5                    pm_dec = u.Quantity(pmdec * u.mas/u.year),
+
+/usr/local/lib/python3.7/dist-packages/astropy/units/quantity.py in __new__(cls, value, unit, dtype, copy, order, subok, ndmin)
+    348                 # Convert all quantities to the same unit.
+    349                 if unit is None:
+--> 350                     unit = value[0].unit
+    351                 value = [q.to_value(unit) for q in value]
+    352                 value_unit = unit  # signal below that conversion has been done
+
+/usr/local/lib/python3.7/dist-packages/pandas/core/series.py in __getitem__(self, key)
+    940 
+    941         elif key_is_scalar:
+--> 942             return self._get_value(key)
+    943 
+    944         if is_hashable(key):
+
+/usr/local/lib/python3.7/dist-packages/pandas/core/series.py in _get_value(self, label, takeable)
+   1049 
+   1050         # Similar to Index.get_value, but we do not fall back to positional
+-> 1051         loc = self.index.get_loc(label)
+   1052         return self.index._get_values_for_loc(self, loc, label)
+   1053 
+
+/usr/local/lib/python3.7/dist-packages/pandas/core/indexes/base.py in get_loc(self, key, method, tolerance)
+   3361                 return self._engine.get_loc(casted_key)
+   3362             except KeyError as err:
+-> 3363                 raise KeyError(key) from err
+   3364 
+   3365         if is_scalar(key) and isna(key) and not self.hasnans:
+
+KeyError: 0

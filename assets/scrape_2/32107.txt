@@ -1,0 +1,4 @@
+Has the Big Crunch been ruled out?
+
+If the dark energy equation of state $\omega$ evolves with time, and becomes larger, this would result in decelerated expansion and eventually a Big Crunch. If $\omega$ decreases with time, becoming more negative, then a Big Rip would occur. I understand that the Big Rip has not yet been ruled out by current observations, but I often hear that the Big Crunch has been ruled out since we know the universe is expanding (and accelerating).
+If the Big Rip can't currently be ruled out, then how can the Big Crunch be ruled out? Shouldn't they both still be on the table, unless we can somehow infer which direction $\omega$ evolves in under a quintessence model?

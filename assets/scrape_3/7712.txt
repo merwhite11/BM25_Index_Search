@@ -1,0 +1,11 @@
+Star class according to initial mass
+
+Studying the stars classes for my homework (school) i learned that stars are classified by the spectral types (Harvard) and luminosity class (MKK) .. 
+So the sun is a star class G2V 
+But can not understand that clasificacion (far in the future) changes to MIII when his main sequence ends and begins to burn helium
+What is the relationship there? 
+Would not it be more logical to classify stars according to their initial mass and any change that is made in the classification is related to the lifetime of the star?
+sub classify them according to: 
+Fusion element: Deuterium, Hydrogen, Helium, etc. 
+And Remaining time fusing current element?
+We are glued to the story?

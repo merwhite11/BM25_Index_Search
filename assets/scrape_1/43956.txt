@@ -1,0 +1,6 @@
+Do telescopes exist that reflect the incoming light more than three times along their length?
+
+Refractors only use the length of the telescope once, reflectors twice, catadioptric telescopes like those of the Schmidt-Cassegrain design three times. Have telescopes been built that reflect the incoming light at least once more from one end of the telescope to another?
+
+Say, by adding a tertiary mirror which reflects the light forward again, towards a small quarternary mirror in front of the secondary, which ultimately directs the light though a small hole in the tertiary (and primary) mirror towards the eyepiece?
+Note: The above description makes this question different from the similar-sounding Do triple or more times reflecting telescopes exist?

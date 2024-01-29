@@ -1,0 +1,5 @@
+The Sun's Alfvén critical surface; what was known about its existence and location before Parker Solar Probe "touched the Sun"?
+
+The new NASA Goddard video NASA's Parker Solar Probe Touches The Sun For The First Time seems to suggest that the existence of the Sun's Alfvén critical surface was a given, but the location and properties (e.g. smooth vs. "wrinkly") was not known.
+Question: What was known about the existence and location of the Sun's Alfvén critical surface before Parker Solar Probe's trajectory started passing through it?
+Was it strictly a predicted boundary based on models and basic understanding of plasma physics, or were there some actual observations of some kind that at least indirectly pointed to its existence and distance from the Sun?

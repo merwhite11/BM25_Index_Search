@@ -1,0 +1,6 @@
+What is the maximum distance we could detect incidental radio signals from aliens?
+
+I've been getting interested in the Fermi Paradox discourse again, and something's been bugging me about the assumptions we could actually detect incidental radio signals from aliens, or vice versa.
+So, I understand there's a number of variables here- but let's assume intraplanetary communications are being used. I actually believe at any sizeable distance, radio lasers would be the norm, and so we would be unlikely to see interplanetary communications given they are directional. So let's stick to the kinds of signals we would use to communicate from one end of a planet to another.
+As radio broadcasts extend outward in space, they are subject to a loss of signal strength based on distance alone- but how far would it go before being drowned out by background radiation?
+Like, about how far away could an alien be before the possibility of them intercepting episodes of Leave it to Beaver reaches zero? Or what's an equation that breaks down the variables, at least?

@@ -1,0 +1,15 @@
+How deep is the "A" Fraunhofer line in the solar spectrum? Is it from the Sun's or Earth's atmosphere?
+
+Question: Where can I see - or even download - a fairly high resolution (~0.1 nm) solar spectrum at zero air mass - in other words from space without absorption and other features from the Earth's atmosphere? Of particular interest is the near infrared around 750-780nm. Is the "A" Fraunhofer line due to absorption by oxygen in the Sun's atmosphere, or in Earth's?
+The background discussion below shows some examples, but these are not directly from scientific sources and I have a hunch they are from observations on Earth's surface below the atmosphere.
+Background:
+Studies of photosynthesis on Earth using spectrometers in satellites measure solar flux induced fluorescence from foliage during the day, taking advantage of certain bands in the solar spectrum that are relatively "dark". GOME-2
+For example, the Fraunhofer line labeled "A" below is produced by absorption by oxygen, but it is not clear to me if it is the oxygen in the Suns atmosphere or the Earth's atmosphere that's producing this line.
+The images below are spectra of sunlight with various instruments of widely different resolutions, and because the absorption is narrow, the apparent depth is a function of resolution rather than reality.
+
+above: a low resolution spectrum from here
+
+above: An spectrogram of the Sun from this NOAO website (N.A.Sharp, NOAO/NSO/Kitt Peak FTS/AURA/NSF) with the "A" line near 760nm appearing near the top, a little right of center. The original data is from the "Fourier Transform Spectrometer at the McMath-Pierce Solar Facility at the National Solar Observatory on Kitt Peak, near Tucson, Arizona" but seems to be formatted and colorized to look like an Echelle spectrogram.
+A video describing the use of the dark band for Earth science can be seen at 
+
+.

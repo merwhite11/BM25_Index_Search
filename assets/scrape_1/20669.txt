@@ -1,0 +1,5 @@
+Pleiades galactic coordinates
+
+Is there a practical way to determine the galactic coordinates directly from the equatorial system? 
+Specifically, I can't find the $(l,b)$ for the Pleiades star cluster (M45) anywhere. I am trying to determine if they reside in the thick disk or in the thin disk. 
+(I am assuming these are the possible options, since the halo mainly contains globular clusters and the bulge is too messy so that the Pleiades wouldn't be so noticeable.)

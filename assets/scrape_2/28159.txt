@@ -1,0 +1,6 @@
+How would astronomical seeing on Mars differ from that on Earth?
+
+Astronomical seeing is the limiting factor for the resolution of all but the smallest Earthbound telescopes. 
+ Source
+Stunning advances in adaptive optics (along with it's predecessor speckle interferometry and it's budget-minded cousin lucky imaging) get around this but only with substantial compromises in (some combination of) throughput, cost, complexity and wavelength range (see answers to Why aren't ground-based observatories using adaptive optics for visible wavelengths?)
+If identical telescopes sat on the surface of Earth and Mars and looked at a distant and equi-distant  body, how would the following differ between the Mars telescope and the Earth telescope?:

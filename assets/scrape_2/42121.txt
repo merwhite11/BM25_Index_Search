@@ -1,0 +1,4 @@
+Astrophysical black holes deviating from Kerr black holes?
+
+Rotating black holes are formed due to the gravitational collapse of massive spinning objects. And, it is generally believed that Kerr black hole solutions are valid for the empty space outside of the astrophysical black holes.
+My question: Are there some pieces of evidence (observational data) for astrophysical black holes indicating deviation from Kerr black hole solution?

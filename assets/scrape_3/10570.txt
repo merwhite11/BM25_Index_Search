@@ -1,0 +1,4 @@
+What decided how the Kepler space telescope was pointed?
+
+I suppose that the Kepler field was well chosen. It is rich in stars and has minimal background light since it is pointing out from the disc.
+But other things could have been considered. For example, a field which contains the most stars which are near enough to be followed up by ground based telescopes. And why wasn't Kepler designed to change its pointing so it could cover several fields, such as all of the above? Funny enough, it does so now as K2 after two of its reaction wheels have broken, so studying only one field doesn't seem to be a technical issue, but something which astronomers prefer. Why?

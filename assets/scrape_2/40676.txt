@@ -1,0 +1,9 @@
+When using adaptive optics, what is the shortest timescale of atmospheric changes in refractive index that astronomers have to deal with?
+
+I am interested in the astronomer's need for speed in wavefront correction, especially when measuring in NIR and visible domain.
+
+What is the fastest abberation coming from atmospheric turbulence in any measurement setting (sun observation during day, night-time observations)? Does any astronomer need correction in the visible spectrum beyond e.g. 100 Hz?
+Are fast systems practically limited by spatial resolution of the sensor?
+Is there any way to get a quantitative overview how widespread adaptive optics is in astronomy today and which setups are currently in use?
+
+Thank you for your thoughts!

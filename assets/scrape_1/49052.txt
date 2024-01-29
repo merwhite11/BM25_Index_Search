@@ -1,0 +1,4 @@
+How is CASA different from SAO DS9?
+
+I was told that CASA is used extensively in Radio Astronomy. However, softwares like SAO DS9 and also python (Astropy) are also used for radio astronomy data analysis. So, what makes CASA different as compared to other softwares?
+Is there any other alternative software that can be used for radio astronomy data analysis?

@@ -1,0 +1,4 @@
+How can comets have tails if there's no air resistance in space?
+
+I understand that solar radiation causes material to vaporize out of a comet into dust but why does the dust then trail behind the comet like a "tail"?
+Assuming gravity is the only applied force acting on the comet, shouldn't all of the material, including the dust, be travelling at the same speed due to conservation of momentum? What causes the dust to travel slower than the comet's nucleus? In other words, why does the dust form a "tail" and not a "cloud"?

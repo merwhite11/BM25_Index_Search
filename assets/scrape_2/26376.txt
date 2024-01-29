@@ -1,0 +1,4 @@
+Where do gas giants end up?
+
+I want to create a semi realistic star system generator but I am not sure where to "put in" gas giants. My guess is they can form pretty much anywhere within the sphere of influence of a star at the right circumstances.
+I am still debating how to exactly go about generating the system but it won't be super complicated. I probably have plop in a star with a random mass and based on modifiers like distance, reflection, greenhouse and random chance plop in certain types of planets. It does not need to be realistic but it needs to feel realistic for none astronomy experts.

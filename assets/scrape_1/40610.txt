@@ -1,0 +1,13 @@
+Characteristics of Venus' jet streams?
+
+Since the Voyager missions, the atmosphere of Jupiter received great attention, its jet streams made it into text books on geofluid mechanics, including their characteristics like the how they meander, e.g. how likely the formation of throughs and ridges is.
+There is a Wikipedia page on Venus' atmosphere mentioning the jet streams:
+
+The upper layer of troposphere exhibits a phenomenon of super-rotation, in which the atmosphere circles the planet in just four Earth days, much faster than the planet's sidereal day of 243 days. The winds supporting super-rotation blow at a speed of 100 m/s (≈360 km/h or 220 mph)4 or more. Winds move at up to 60 times the speed of the planet's rotation, while Earth's fastest winds are only 10% to 20% rotation speed.
+
+This is a good starting point, but I am interested in learning more about the details of Venus' jet streams, like the length scales and dynamics of the jet stream meanders. I have seen images of Venus, but I have troubles already to identify jet streams on many of them, that is why I would appreciate answers with images and/or sketches.
+References
+
+W Rossow et. al.: Cloud morphology and motions from Pioneer Venus images, 1981.
+Jason Major: Venus’ Winds Are Mysteriously Speeding Up, Universe Today 2013.
+Elizabeth Zubritsky: Jet Streams, NASA 2012.

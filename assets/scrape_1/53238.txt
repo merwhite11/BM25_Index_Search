@@ -1,0 +1,13 @@
+Drawing stars in a 3D space
+
+I'm using the Galactic Coordinates to draw stars in a 3D space, but I don't know how to do it.
+In the book "Practical Astronomy with your Calculator or Spreadsheet" I've found this:
+
+Where:
+S: the Sun.
+G: the centre of the Galaxy.
+X: a star which not lie in the galactic plane.
+l: galactic longitude.
+b: galactic latitude.
+If I know S, G, l and b. How can I know the (x, y, z) coordinates of the star X?
+Probably I need to know the distance between S and X.

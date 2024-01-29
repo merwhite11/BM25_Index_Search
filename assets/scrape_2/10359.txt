@@ -1,0 +1,4 @@
+Can ground based telescopes use a starshade in space?
+
+1) Could a starshade in orbit be used by ground based telescopes? If so, what kind of orbit should it have?
+2) Could the same starshade be used by two different space telescopes, or does the positioning make it impractical?

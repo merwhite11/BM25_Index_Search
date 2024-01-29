@@ -1,0 +1,12 @@
+What is the lower limit of a coronal mass ejection?
+
+Reading an 2005 article by Fraser Cain called Smallest Ever Coronal Mass Ejection
+ I became interested in the exact definition of CME.
+It seems like a simple question - but I did not manage to find the answer to the question myself. Is there a smallest possible coronal mass ejection (CME)? Is there a theoretical limit or is it a matter of observing capabilities?
+Note: I left intentionally open whether "small" refers to mass, size, duration, or any other parameter.
+The above mentioned article claims that the CME in the square in the following picture is actually the smallest CME:
+
+Related
+
+Solar Orbiter images first coronal mass ejections, Press release of the Max Planck Institute for Solar System Research, dated May 17, 2021
+Wilson effect: How "deep" are sunspots?

@@ -1,0 +1,3 @@
+Getting light curves from Kepler/K2
+
+Hello I'd like to ask what are steps to get a light curve wfrom Kepler/K2 database. Let's say I'd need to get light curves of 10 random K type stars. How should I access the databases and what should I do next??

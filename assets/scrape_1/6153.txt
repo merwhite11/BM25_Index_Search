@@ -1,0 +1,3 @@
+Original Hubble diagram units incorrect?
+
+Figure 1 from Hubble 1929 (original paper with open access pdf) has velocity with units of km. Is this just a typo or was there a reason the plot is printed this way?

@@ -1,0 +1,10 @@
+Finding a location using the direction of shadow, UT and date approximately
+
+Does anyone know how to find a location by using :
+
+the direction of shadow relative to the normal (for example azimuth
+angle) 
+the Universal time (UT) and date
+
+I have a satellite image and I know north, time and date. One of the cues that I can use is, for example, in the northern hemisphere the direction of shadow is north.
+Would anyone know if it were possible, and how, to calculate the location based on these parameters?

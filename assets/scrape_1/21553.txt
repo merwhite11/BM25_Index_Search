@@ -1,0 +1,6 @@
+Is there any theoretical or empirical research about planetary systems with a black hole in their center?
+
+I assume such a system would be hard to detect due to a lack of radiation, at least if the vicinity of the black hole does not contain a lot of mass which falls into it over time, thus creating (a lot of) radiation.
+Since black hole formation in a supernova explosion is a process which destroys any planetary system around its original star, any planetary system around a black hole must have formed after black hole formation.
+A few objections come to mind off-the-cuff: Because black holes have a large mass there is a minimum distance for planetary orbits below which they would disintegrate due to tidal forces. This may interfere with the usual evolution of planets (they clear their orbits and kick out interfering bodies, for example), because their "orbital space volume" becomes too large for them to keep clean, and the orbital period becomes long.
+Is anything known or is there any speculation about such systems?

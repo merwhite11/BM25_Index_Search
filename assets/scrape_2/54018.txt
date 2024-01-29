@@ -1,0 +1,3 @@
+What is the mechanism through which mass is converted to thermal energy in the accretion disc of a black hole?
+
+In the book The Cosmic Perspective, it is stated that as matter is falling into a supermassive black hole, up to $40\%$ of its mass are converted to thermal energy, making the accretion of matter around a black hole a vastly more efficient energy source than even fusion. But what is the mechanism behind this conversion of mass to thermal energy?

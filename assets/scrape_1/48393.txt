@@ -1,0 +1,12 @@
+What does the celestial sphere look like in thermal IR?
+
+The Space SE question JWST detector heat load asks
+
+...what is the heat load from the collected radiation of the main mirrors on the detector, and how does that vary depending on what objects or fields are being imaged?
+
+and that might be addressed by considering the brightest point source and the brightest extended region integrated over a given detector's field of view. It would not be a trivial question to answer without doing a lot of checking.
+To that end, and potentially to help answer authors there, I'd like to get an idea of the following:
+Question: What does the celestial sphere look like in thermal IR?
+There may be surveys at say 10 or 20 or 30 microns from previous IR space telescopes or even at certain wavelengths from the ground. I'm guessing that besides the Sun and Moon there are not a lot of bright stars nor planets, except for Venus and perhaps Mercury, and that dust in the galactic plane will dominate, but I could of course be way off!
+I don't want to specify this question so narrowly that a good answer can't be posted, so I will leave this particular one a bit broad to allow for helpful and informative answers.
+update: On the question of wavelength; I'm pretty flexible here. If I were to specify 1 - 30 um and it then turns out there's a beautiful survey at 31 - 42 um but it never gets mentioned, that would be sad.

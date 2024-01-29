@@ -1,0 +1,8 @@
+What caused this mysterious stellar occultation on July 10, 2017 from something ~100 km away from 486958 Arrokoth?
+
+In 2017 a series of stellar occultations by asteroid 2014 MU69 "Ultima Thule" now officially named 486958 Arrokoth were timed in order to obtain better orbital information before the New Horizons flyby and to look for additional large chunks of debris that might be of scientific interest and pose a danger of collision thereby warranting a more distant flyby.
+There was a pleasant surprise in the shape of the asteroid determined from an array of portable telescopes deployed across the occultation paths. The asteroid appeared to be binary, which was puzzling because there were no obvious oscillations in its light curve, but that's a different story.
+Below is an assemblage of three such occultation measurements. We can see the asteroid's double circle shape nicely. But what interests me here is the single trace for July 10th. It seems to show an occulting object clearly distinct from yet incredibly close to Arrokoth. A pure coincidence would be more than extremely unlikely as the time window is seconds and the distance less than 100 km at ~45 AU!
+Question: But I don't remember reading about a separate secondary body orbiting Arrokoth. So what caused this apparent occultation on July 10, 2017?
+
+From this answer to Will the upcoming observations of occultation by Arrokoth (2014 MU69) be of a single object, or two?

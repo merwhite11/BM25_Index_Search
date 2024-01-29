@@ -1,0 +1,15 @@
+How to invert fits headers order (primary/secondary)?
+
+I have an image from Hubble telescope with two headers and this creates a problem because my program expects the NAXIS, NAXIS1, NAXIS2 in the first header, but in this image case, this info is in the second header.
+So what I need is to invert the order of headers. i.e, SCI header should come first.
+When I run:
+from astropy.io import fits
+image = 'image.fits'
+fits.info(image)
+
+I get
+No.    Name      Ver    Type      Cards   Dimensions   Format
+  0  PRIMARY       1 PrimaryHDU     722   ()      
+  1  SCI           1 ImageHDU       110   (1900, 1900)   float32
+
+I already tried editing the first header, to add the needed info, but for some reason, it won't accept the changes.

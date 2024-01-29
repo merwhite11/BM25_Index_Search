@@ -1,0 +1,6 @@
+Trying to understand this graph (stellar activity)
+
+
+I managed to trace this graph back to http://katjapoppenhaeger.com/?p=457. It's meant to show how stellar activity declines with time for different star types, and whilst I get the general idea, I don't really understand what either axis means. Y is presumably some measurement of activity, and X is probably age, but the logarithmic part is really unclear.
+Is the X axis using E+ (1e+1 = 10) numbers?
+I'm really into realistic worldbuilding, but I was never really good at maths...

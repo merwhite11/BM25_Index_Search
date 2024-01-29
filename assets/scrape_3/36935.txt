@@ -1,0 +1,11 @@
+on/off filter and their photometric calibration
+
+I am reading a paper here
+
+What is off band filter for? If we have already known the positions of the sources we are interested in, then off band filter is useless, correct? So an off band filter is to discovery sources?
+An off band filter is usually self-designed? There is no unified standard(central wavelength, band width, etc. )?
+For the photometric calibration, when is continuum needed? Since there are standard stars, why is continuum needed?
+
+Thank you. My questions are long, so I put them here.
+We assume the continuum is flat, right? The off-band filter is for 1) photometric calibration, 2) discovering new sources?
+How to do the photometry then? When do we use continuum and when do we use a standard star?

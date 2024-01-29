@@ -1,0 +1,9 @@
+What's the correct distance to Betelgeuse?
+
+Reading [1], [2] and this smartphone app[3], I'm getting different answers to the question.
+The smartphone app is stating 427ly. [1] states approx. 700 ly,  and [2] states approx. 724ly.
+Even if I take [1] as the correct value, why does [2] state 724ly and the app stating 427ly?
+Thanks
+[1] - https://en.wikipedia.org/wiki/Betelgeuse
+[2] - https://earthsky.org/astronomy-essentials/how-far-is-betelgeuse
+[3] - https://www.escapistgames.com/sc.html

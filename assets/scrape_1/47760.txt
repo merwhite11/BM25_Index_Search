@@ -1,0 +1,29 @@
+What observational data was there that comet Leonard C/2021 A1 might have been dimming and/or breaking up?
+
+Space.com's Comet Leonard, the brightest of the year, is fading and acting strange seems to be full of inexact language, like "something's wrong" and "unhealthy" and "goner" and "the comet's heart could also implode":
+
+"It's not great news. The comet should be brighter and brighter," Quanzhi Ye, an astronomer at the University of Maryland who specializes in comets, told Space.com. "If it's not getting brighter then something's wrong, but we don't know exactly what at this stage."
+
+
+"Why it's fading, there are all kinds of hypotheses," Ye said. "The simplest and the most obvious one is something unhealthy is happening to the comet."
+
+
+There are several factors that could break apart a comet, Ye noted. The gravitational tug of the sun or a large planet could pull it apart, sure, but the comet's heart could also implode. If the comet's material vaporizes in quite the right way, it could speed up the comet's spin so dramatically that the iceball flies to pieces.
+
+I understand that the gist of this is that the comet's absolute magnitude is not increasing in a typical way as it gets closer to and is increasingly warmed by it, and may actually be decreasing.
+But where might these absolute magnitude measurements have been coming from? Are they photometric? Were they systematic from one or a few well-characterized instruments? Was there a campaign to track it by experienced amateurs?
+Question: What observational data was there that comet Leonard C/2021 A1 might have been dimming and/or breaking up?
+
+For reference, the quotes in the Space.com article are attributed to University of Maryland astronomer Ye Quanzhi http://yeqzids.github.io/ but we don't know how well they have been maintained in context.
+They've also retweeted this:
+
+Comet C/2021 A1 (Leonard) looking a bit deflated this morning; its flattened gas coma suggests the nucleus is likely fragmenting at some level. While still brightening as seen from Earth, the absolute brightness of its dust coma has actually faded ~0.4 mag over the past week.
+
+It seems that same instrument has been used for some pretty nice looking amateur photometry, it's possible that this instrument (in sunny Southern California: https://near.earth/qz/) is the source of the systematic photometry, but I don't know.
+
+https://twitter.com/aciqra/status/1451430558253269000
+https://twitter.com/aciqra/status/1212513733282418688
+
+More about recent cometary breakups:
+
+Disintegration of Long-Period Comet C/2019 Y4 (ATLAS): I. Hubble Space Telescope Observations

@@ -1,0 +1,8 @@
+Advantages or disadvantages of a photometer versus a CCD-camera?
+
+The Wikipedia article on photometry says this about photometers:
+
+These have largely been replaced with CCD cameras that can simultaneously image multiple objects, although photoelectric photometers are still used in special situations, such as where fine time resolution is required.
+
+How much does the research community use photometers today? I looked up the prices of some photometers from here. The device olus filters etc. can cost nearly $2500. One could get a good CCD camera for that price.
+What are some applications where the good time resolution (apparently around 1 ms) would be needed? Are photometers equally useful with small telescopes (e.g. 8-inch) as CCDs?

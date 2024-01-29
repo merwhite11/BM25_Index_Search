@@ -1,0 +1,18 @@
+Mathematical condition of Stationary Planet
+
+In an old astronomy book I find the following definitions:
+$\vec r_1$ Position vector of Earth (heliocentric)
+$\vec r_2$ Position vector of a Planet (heliocentric)
+$\vec v_1$ Velocity vector of Earth (heliocentric)
+$\vec v_2$ Velocity vector of the Planet (heliocentric)
+$\vec n_1$ Angular velocity vector of Earth (heliocentric)
+Then, the geocentric position vector of the planet, and its geocentric velocity vector are:
+$$\vec r=\vec r_2- \vec r_1$$
+$$\vec v=\vec v_2- \vec v_1$$
+A planet is said to be stationary when its geocentric longitude does not vary.
+So far, no problem, but now it says:
+The projection on the ecliptic of the relative areal velocity is then zero and, therefore:
+($\times$ is the cross product and $\cdot$ is the dot product)
+$$\boldsymbol{\vec n_1 \cdot (\vec r \times \vec v)=0}$$
+It is the sentence in bold and the subsequent mathematical expression that I do not understand. Why?
+Thank you and best regards.

@@ -1,0 +1,5 @@
+Is the structure of crystalized white dwarf related to nuclear pasta?
+
+There is news of an analysis of a large number of nearby white dwarfs revealing a "pile-up" at a certain point in their cooling which has been predicted to happen due to a phase change where nuclear material crystalizes. This is analogous to a mixture of ice and water remaining at 0C while it is in the process of freezing (or thawing).
+What is this crystalline material like? Is it really a lattice of Carbon and Oxygen nuclei in some recognizable structure (cubic BCC... etc.)? Is it related in some way to nuclear pasta?
+Nature: Core crystallization and pile-up in the cooling sequence of evolving white dwarfs

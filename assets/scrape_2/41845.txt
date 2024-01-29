@@ -1,0 +1,6 @@
+Opening VLA Export Format data on Windows
+
+I recently downloaded some data from the NRAO archive.
+It came as a file in the "VLA export format" with the extension .xp1. From what I gather I can open this using some software called CASA or a Python library called casatools using the importvla command.
+The trouble is that I can't seem to find any way to install CASA on Windows 10. Infact as far as I can tell CASA isn't supported at all for Windows.
+How do I open this file on Windows? I just want a big matrix of data that I can process with my own tools and astropy. Is there some reason that the NRAO distributes data using this (as far as I can tell) arcane and undocumented (I couldn't find any documentation after about 1/2 an hour of looking) file format instead of something like NetCDF or hdf5?

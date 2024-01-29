@@ -1,0 +1,5 @@
+Telling bounces in LIGO interferometer
+
+How do they know the number of times the laser bounces back and forth, in the 4 km arms of the interferometer, before the laser light is picked out to the reading sensor?
+See under “The Longer The Better”
+https://www.ligo.caltech.edu/page/ligos-ifo

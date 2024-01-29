@@ -1,0 +1,6 @@
+Converting parsecs to light years in the dumbest way possible
+
+I have to convert 132 parsecs to light years and I'm struggling to get the expected result. Here is my method:
+$132 \text{ pc} = 132'' = 2,2' = 0,03(6)°$
+I have an equation for stellar parallax which looks like this: $d = \Big( \dfrac{1 \text{ AU}}{\tan(0,03(6)°)}\Big)$
+This should give me the distance to the object in Astronomical Units right? Well It doesn't and I have absolutely no idea why, I'd be very glad if someone could help me out

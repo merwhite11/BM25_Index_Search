@@ -1,0 +1,3 @@
+Calculating background photons from flux levels
+
+For a project, I'm trying to calculate the photon flux from the zenith galactic background that a sensor would see. From ScienceDirect I get a value of $2.6 \times 10^{12}$ photons sr$^{−1}$ s $^{−1}$ m $^{−2}$ for 300nm < λ < 650nm. I want to make sure that I'm interpreting this properly: to get photons/second in the cited band, I multiply this by the FOV of the telescope in steradians and the telescope aperture in square meters (e.g. .785 m$^2$ for a 1 meter diameter telescope)?

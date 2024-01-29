@@ -1,0 +1,10 @@
+Mathematics for Conversion between ICRS and AltAz
+
+I am writing some software, for my own learning experience, to convert astronomical coordinates to different frames of reference. An example of this would be conversion between ICRS which a lot of NASA data is supplied in automatically now, to Alt Azimuth, which is required for observation, based on the current time and geographic location.
+From my prior studies of coordinate frames while I attended university, I know that all coordinate frames can be represented as a series of Matrix transformations from a "base" frame of reference. For instance, rotations around the X,Y,Z axis and a translation. For simplicity, these transformations are often all combined into a single affine transformation matrix like seen below where the blue section is the rotation matrix, the red is the translation, and the green is the scale.
+
+This leads me to believe that I should be able to represent conversions from ICRS to Alt Azimuth in much the same way, though the transformation matrix will change with time/location. Based on this, the transformation matrix should look something like below where each rotation needed to create the overall transformation is a function of time, latitude, and longitude.
+M = Rx(t, lat, lon) * Ry(t, lat, lon) * Rz(t, lat, lon)
+
+However, in my googling of this topic all I can find is how to use AstroPy's built in functions to convert between different frames of reference. This is not all that useful to me as I actually want to learn about these transformations, not just be able to perform them. While I could study the AstroPy source code, it's such a massive library with a lot of interconnecting parts that understanding this one topic would take a huge time investment.
+Does anyone have any experience with the mathematics involved in performing such a conversion,  references to articles, or recommended textbooks that discuss the topic of conversion between different coordinate systems specifically those using a matrix format for the context of astronomy?

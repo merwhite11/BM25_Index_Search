@@ -1,0 +1,8 @@
+Calculate Global (ECEF) coordinates of Observer
+
+I have the local coordinates of satellite and global coordinates of satellites. I want to calculate the observer position in global (ECEF) system.
+How can I do this?
+
+I also explain this question with more steps in following link.
+https://gis.stackexchange.com/questions/383255/local-system-to-lat-lon
+I am missing something, Can you please help me where I went wrong?

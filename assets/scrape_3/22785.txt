@@ -1,0 +1,5 @@
+Saturn observation : how to calculate requirements for Parallax method
+
+In September, Saturn is 9.9au away from Earth. If we use the parallax method, what should be the base line between the two people?
+So I know that $D = B / \theta$, but how do I find out theta? I'm pretty sure the answer is pretty obvious, but my mind really is not working right now, so any help is appreciated
+Thank you in advance.

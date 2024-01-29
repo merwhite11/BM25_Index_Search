@@ -1,0 +1,18 @@
+Why is twilight longer in summer than winter and shortest at the equinox
+
+I recently decided to set my alarm clock to wake me up when it is "dark" out.  In the end, I decided to set my clock to the earliest time that nautical sunrise is in my state (Illinois) and stick with that all year.
+While doing some research for this, I noticed something that surprised me.  Check out this disparity between astronomical sunrise to civil sunrise for the solstices and equinox (the latter two adjusted for daylight saving time):
+Date/Astronomical/Civil/Disparity
+
+Dec 20: 0533 - 0640 (67 minutes)
+Mar 20: 0526 - 0630 (64 minutes)
+Jun 20: 0320 - 0451 (91 minutes)
+
+To be honest, these sets of ranges surprise me for multiple reasons.  I clearly don't know what I don't know, but here are some questions I can formulate:
+
+Why would twilight be longer in summer than winter?  Before seeing this data, I had assumed that since the sun makes a more perpendicular path through the horizon in summer that twilight would be shorter in summer than in winter.  After all, in winter the sun takes a "slanted" path across the horizon.  Wouldn't the summer's path be more direct and therefore quicker?
+OK: seeing this empirical evidence I conclude that something is wrong with my premise that forms my first question.  Summer twilight is longer in summer than winter.  However, I still would have assumed that March 20 would have had a twilight length in between the two solstices.  But it's not!  Why does the equinox have the shortest twilight? 
+
+
+Appended 5/13/2014:
+I didn't want to leave my original incorrect statement in here without flagging it. As Cheekhu points out below, the sun does not follow a more perpendicular path in summer than winter, as I had erroneously assumed and stated above.  See his post for more details.

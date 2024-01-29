@@ -1,0 +1,29 @@
+How do you calculate local time from local sidereal time?
+
+There are many calculators online to convert local time to local sidereal time, but I can't find any resources to convert the other way.  Can you convert back by doing the same conversion backwards?  I found equations on this website to convert to LST.  Would it be valid to use this equation to convert back:
+$$
+UT = \frac{LST - \frac{L}{15} - 6.697374558 - 2400.051336*T - 0.000025862*T^2)}{1.0027379093}
+$$
+where $UT$ is the time in Universal Coordinated Time, $LST$ is the Local Sidereal Time, $L$ is the longitude, and $T$ is:
+$$
+T = \frac{JD-2451545.0}{36525.0}
+$$
+where JD is the Julian Date at noon UTC.  Once I've calculated the time in UT, I then add or subtract 24 until the result is within 0 - 24 hours.  Then I can convert from UT to local time.
+I would prefer to have this as accurate as possible.  I did a calculation using this, but according to Stellarium I was off by about an hour.  Could this be due to Daylight Savings time or something?
+Here is the Python code I made to do the calculation.
+LST = 8 + ((37 + (5.642/60))/60)
+JD0 = 2457813.5
+L = - 106.6056
+GMST = LST - L/(365/(23 + ((56 + (4.1/60))/60)))
+T = (JD0 - 2451545)/36525
+UT = (GMST - 6.697374558 - 2400.051336*T - 0.000025862*(T*T))/1.0027379093
+
+
+while UT <0:
+    UT += 24
+
+
+LT = UT - 7
+
+while LT < 0:
+    LT += 24

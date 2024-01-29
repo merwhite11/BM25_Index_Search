@@ -1,0 +1,5 @@
+Formula for "gravity assist"
+
+I am familiar with the concept of "gravity assist" by which a space probe or other object, passing near a moving planet, can pick up some of the planet's orbital velocity.
+I presume that this effect would be greater for a close passage than for a distant one, so that if, say, asteroid Bennu were to pass 5000 miles from Earth's centre, it would be accelerated more than if it passed at 50,000 miles, and more there than at 500,000 miles etc.
+Is there any way to calculate how much it would be accelerated for any given distance (at closest approach)?

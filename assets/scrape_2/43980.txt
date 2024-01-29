@@ -1,0 +1,3 @@
+Linear ephemeris
+
+What is the T in the formula for the linear ephemeris T_max = T + P*E, please? P stands for the period; E, for ephemeris. How to determine T? I have T_max and P. Or is it a referent epoch? Many thanks

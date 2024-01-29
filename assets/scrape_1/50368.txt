@@ -1,0 +1,148 @@
+RAMSES fine multigrid Poisson solver fails to converge?
+
+I am working on setting up N-body simulations of galaxy mergers. The initial conditions are generated from the DICE code, and looking at them, they seem very realistic. Unfortunately, when I let RAMSES run, it fails to converge. The output looks something like this
+Initial mesh structure
+ Level  1 has          1 grids (       0,       1,       0,)
+ Level  2 has          8 grids (       4,       4,       4,)
+ Level  3 has         64 grids (      32,      32,      32,)
+ Level  4 has        512 grids (     256,     256,     256,)
+ Level  5 has       4096 grids (    2048,    2048,    2048,)
+ Level  6 has      32768 grids (   16384,   16384,   16384,)
+ Level  7 has     262144 grids (  131072,  131072,  131072,)
+ Starting time integration
+ Load balancing AMR grid...
+   ==> Level=    7 Step=   10 Error=       NaN
+ WARN: Fine multigrid Poisson failed to converge...
+ Fine step=      0 t= 0.00000E+00 dt= 2.714E+04 a= 1.000E+00 mem=17.3%  0.0%
+ Time elapsed since last coarse step:    5.76 s        5.50 mus/pt        5.50 mus/pt (av)
+ Used memory:    799.9 MB
+ Total running time:   97.1599960     s
+   ==> Level=    7 Step=   10 Error=       NaN
+ WARN: Fine multigrid Poisson failed to converge...
+ Mesh structure
+ Level  1 has          1 grids (       0,       1,       0,)
+ Level  2 has          8 grids (       4,       4,       4,)
+ Level  3 has         64 grids (      32,      32,      32,)
+ Level  4 has        512 grids (     256,     256,     256,)
+ Level  5 has       4096 grids (    2048,    2048,    2048,)
+ Level  6 has      32768 grids (   16384,   16384,   16384,)
+ Level  7 has     262144 grids (  131072,  131072,  131072,)
+ Main step=      1 mcons= 0.00E+00 econs= 0.00E+00 epot=      NaN ekin= 0.00E+00
+ Fine step=      1 t= 2.71350E+04 dt= 2.714E+04 a= 1.000E+00 mem=17.3%  0.0%
+ Run completed
+ Total elapsed time:   4.4218359169999957     
+ --------------------------------------------------------------------
+
+     minimum       average       maximum  standard dev        std/av       %   rmn   rmx  TIMER
+       0.023         0.023         0.023         0.000         0.006     0.2     1   2    coarse levels           
+       0.055         0.055         0.055         0.000         0.000     0.5     2   1    refine                  
+       1.397         1.397         1.397         0.000         0.000    13.9     1   2    load balance            
+       0.506         0.509         0.513         0.003         0.007     5.1     2   1    io                      
+       7.884         7.884         7.884         0.000         0.000    78.6     1   2    poisson                 
+       0.009         0.012         0.016         0.003         0.282     0.1     1   2    rho                     
+       0.148         0.148         0.148         0.000         0.000     1.5     1   2    flag                    
+      10.034     100.0    TOTAL
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG
+Note: The following floating-point exceptions are signalling: IEEE_INVALID_FLAG IEEE_DENORMAL
+
+The namelist file I am running is
+#!fortran
+&RUN_PARAMS
+pic=.true.
+poisson=.true.
+nrestart=0
+nremap=10
+nsubcycle=1,2,
+ncontrol=1
+/
+
+&INIT_PARAMS
+filetype='dice'
+initfile(1)='/uufs/astro.utah.edu/common/home/u1281896/NBodies/DICE_IC_FILES'
+/
+
+&DICE_PARAMS
+ic_file='dice_spiral.g2'
+ic_nfile=1
+ic_ifout=1
+ic_format='Gadget2'
+ic_center=0.0,0.0,0.0
+ic_scale_pos=1.0
+ic_scale_vel=1.0
+ic_scale_mass=1.0
+ic_scale_u=1.0
+ic_scale_age=1.0
+ic_scale_metal=1.0
+ic_head_name='HEAD'
+ic_pos_name='POS '
+ic_vel_name='VEL '
+ic_mass_name='MASS'
+ic_id_name='ID  '
+ic_u_name='U   '
+ic_metal_name='Z   '
+ic_age_name='AGE '
+IG_rho=1.0D-6
+IG_T2=1.0D6
+IG_metal=1.0D-4
+amr_struct=.false.
+gadget_scale_l=3.085677581282D21
+gadget_scale_v=1.0D5
+gadget_scale_m=1.9891D43
+gadget_scale_t=3.15360e+13
+ic_skip_type=-1
+cosmo_add_gas_index=-1
+ic_mag_const=0.0,0.0,0.0
+ic_mag_center_x=0.0
+ic_mag_center_y=0.0
+ic_mag_center_z=0.0
+ic_mag_axis_x=0.0
+ic_mag_axis_y=0.0
+ic_mag_axis_z=1.0
+ic_mag_scale_R=1.0
+ic_mag_scale_H=1.0
+ic_mag_scale_B=0.0
+/
+&REFINE_PARAMS
+m_refine=7*8.,
+/
+&BOUNDARY_PARAMS
+nboundary=6
+bound_type=2,2,2,2,2,2
+ibound_min=-1,1,-1,-1,-1,-1
+ibound_max=-1,1,1,1,1,1
+jbound_min=0,0,-1,1,-1,-1
+jbound_max=0,0,-1,1,1,1
+kbound_min=0,0,0,0,-1,1
+kbound_max=0,0,0,0,-1,1
+no_inflow=.true.
+/
+
+&OUTPUT_PARAMS
+noutput=5
+tout=0.0,20.0,40.0,60.0,80.0
+tend=80.0
+/
+
+&AMR_PARAMS
+levelmin=7
+levelmax=14
+ngridtot=2000000
+nparttot=3000000
+nexpand=1
+boxlen=1.0
+/
+
+
+&HYDRO_PARAMS
+gamma=1.6666667
+courant_factor=0.8
+slope_type=1
+pressure_fix=.true.
+scheme='muscl'
+/
+
+&POISSON_PARAMS
+epsilon=1.d-2
+/
+
+Is anyone familiar enough with the codes to help? I reached out to the author of RAMSES, but he seems to be MIA!

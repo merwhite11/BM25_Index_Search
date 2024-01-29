@@ -1,0 +1,14 @@
+When we say a variable star is "fainting" does it mean something more or different than "dimming" or "fading"?
+
+A comment below the question Does the current “fainting” of Betelgeuse show any spectral trends that differ from it's normal variability? suggests that "dimming" would be a better term, but I have a hunch that the use of the term "fainting" in this context is more than just a choice of synonyms for decreasing in brightness.
+A quick check in google scholar for "variable star fainting" returns many results that seem to use fainting in deliberate way.
+Question: When we say a variable star is "fainting" does it mean more or different than "dimming" or "fading"?
+"bonus points" for any history on the term; was it first used by someone speaking proper English rather than that horrible derivative they speak in the US? ;-)
+
+If we don't get an authoritative answer here in Astronomy SE in a few days, I'll think about moving this to English SE or History of Science and Math SE. 
+In the mean time it would be great if people could refrain from:
+
+suggesting it would be "better asked" elsewhere
+posting speculative or low-quality answers, which will make it impossible for me to then move the question by myself
+
+Thanks!

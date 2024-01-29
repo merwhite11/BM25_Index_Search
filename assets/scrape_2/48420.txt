@@ -1,0 +1,9 @@
+Why is the L1 point (Lagrange) almost 1 million miles from Earth? Shouldn't it be closer to us?
+
+Try to follow my simple logic:
+The Sun is almost exactly 333,000 times as massive as Earth, and gravitational strength increases linearly with mass, so the Sun's gravity is about 333,000 times ours.
+The distance from the Earth to L1 is about 932,000 miles. And the distance from the Sun to L1 is one AU (just under 93 mil. miles) minus 932,000, or just over 92 million miles.
+Gravitational strength drops off with the square of distance. And if the Sun is about 99 times further from L1 than L1 is from Earth. Square that and you get approximately 9,748. Or round up to 10,000.
+If you divide 333,000 by 10,000, you get 33.3, meaning the Sun should be yanking on an object placed at L1 with more than thirty times the force as the Earth is.
+Where is the fault in my simplified logic?
+(P.S.: Is L2 exactly as far from us as L1, or just approximately?)

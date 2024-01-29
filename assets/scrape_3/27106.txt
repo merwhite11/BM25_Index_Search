@@ -1,0 +1,16 @@
+How to know the orbital and physical characteristics of the solar planets with only a non-professional telescope?
+
+I have always been fascinated to see that with so little knowledge, scientists have succeeded in discovering the planets of the solar system, and have succeeded in defining them by their masses as well as by their orbits, temperatures, and so on.
+I would like to try to trace this process myself but I do not know how to do.
+My starting postulate is simple, I have at my disposal a simple telescope and DSLR camera.
+My goal is to define the solar planets, ie to know their masses, their sizes, their orbits, their revolutions.
+How to achieve it? Do you have any leads?
+EDIT :
+Thank you for your awesome answers and sorry for my late reply.
+I think that I have to separate this problem into 3 different points :
+
+earth's variable : I can find it by reproducing the Greek calculus  
+Sun's variable : with the two-body problem   
+planets' variable : with the Gauss' method & observation  
+
+I keep you update about my advancements ;)

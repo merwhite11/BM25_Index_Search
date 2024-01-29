@@ -1,0 +1,4 @@
+Present distances between planet. How can I find them?
+
+It's "commonly known" how distant are our solar system planets from Sun. But we can't easily say that about planets, which distances can differ greatly, without some observations (or simulations, knowing their state in some moment in time). 
+How can I can check 'actual' relative distances or positions of planets?

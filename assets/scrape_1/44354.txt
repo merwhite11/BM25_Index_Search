@@ -1,0 +1,4 @@
+Would it be a good idea to dockerize softwares in order to conduct hands-on tutorial sessions?
+
+I am going to organize a tutorial in which I intend to train students on semi numerical simulations for reionization. Is it a good idea to supply use Docker to supply the codes?
+What do you think about it? Any suggestions are welcome.

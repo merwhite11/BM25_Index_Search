@@ -1,0 +1,3 @@
+What is the lyman-werner background?
+
+I've seen several papers that discuss the Lyman-Werner Background (LWB) when modeling star and galaxy formation in the early universe. One in particular (https://arxiv.org/abs/1803.04527) even varies the strength (?) of the LWB using the units $J_{21}$. I assume the subscript is referencing the 21cm band, as opposed to a more generic use of $J_{c}$. But I am equally confused as to what the flux in terms of J is referring to. I've found and read on Lyman-Werner photons but going from these photons to a variable "background" is where I'm having a disconnect.

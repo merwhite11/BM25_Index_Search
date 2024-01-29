@@ -1,0 +1,5 @@
+Equating critical energy density to matter density
+
+I'm asked first to calculate the critical energy density $\rho_{crit}$ of the universe given certain constants. The value I got was $5500\,\mathrm{MeV}\,\mathrm{m}^{-3}$.
+Then I'm asked to calculate various number densities of particles assuming the universe is made up of a single type. To do this, I'm told I need to set the universe's matter density equal to $\rho_{crit}$.
+I'm not sure how to do this since they are in different units. My expression to find $\rho_{crit}$ had a $c^2$ in it, and if I take that out I would have units of matter density. Is that what I'm supposed to do?

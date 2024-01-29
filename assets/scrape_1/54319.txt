@@ -1,0 +1,14 @@
+Celestial Navigation - How to calculate Longitude?
+
+I'm trying to learn celestial navigation using the Sun to determine longitude. I'm starting to understand some of these concepts, but I can't figure out how to calculate longitude accurately. Hoping someone can point out the error(s) in my math.
+Starting Information:
+
+I sighted solar noon in New York at 12:02PM EST.
+The Earth rotates at 15°/hour.
+
+Calculation:
+Since I'm in the Eastern Timezone (UTC-5) I know the elapsed time from GMT is 5 hours plus 2 minutes or 5.0333 hours. I multiply the elapsed time by the Earth's rate of rotation to determine my longitude.
+5.0333 hours * 15°/hour = 75.4995°W
+My answer is incorrect. The longitude of New York is to ~74.01°W. My answer would put me 100 miles away! However to get the correct answer I would have needed to observe solar noon earlier at 11:56AM EST or 4.934 hours elapsed.
+4.934 hours * 15°/hour = 74.01°W
+I used the NOAA Solar Calculator to confirm Solar Noon did occur at 12:02PM not 11:56AM. So what gives? Where is the error coming from and how do I compensate? Thank you!

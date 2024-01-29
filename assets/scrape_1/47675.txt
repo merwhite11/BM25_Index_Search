@@ -1,0 +1,4 @@
+How does NASA figure out orbital period and mass data for planets and other celestial bodies?
+
+Does NASA calculate orbital periods using Kepler's Laws, or do they measure and observe it in some way? If the latter, how do they do so?
+Similarly, does NASA calculate the mass of bodies using Kepler's 3rd Law, or do they measure it some other way?

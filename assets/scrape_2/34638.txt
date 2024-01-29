@@ -1,0 +1,8 @@
+What constellation is closest to the Zenith with RA=12 and Dec =47.6?
+
+I have several options, but I do not know how to calculate which option is closest to the zenith in title. Could you please help me with this? Thank you.
+Canes Venatici,CVN,13.14763.+40.04187,M
+Cygnus,CYG,20.61006,+42.53633,A
+Lynx,LYN,8.01440,+46.23233,M
+Perseus,PER,3.49832,+43.88451,A
+Ursa Major,UMA,10.98253,+52.52900,A

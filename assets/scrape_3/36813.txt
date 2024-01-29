@@ -1,0 +1,7 @@
+Distance between two events
+
+I would like to start from the very basic such as Pythagoras Theorem.
+If I want to calculate distance between two points in a right-angled Triangle We use
+$c^{2}= a^{2}+b^{2}$; Using this We are quite capable to calculate the distance between two points in a 2D space. For 3D  this formula is slightly modified and We use $ds^{2}=dx^{2}+dy^{2}+dz^{2}$. But for a 4D we used to calculate distance (rather interval between two events) through this equation
+$\boxed{ds^{2}=dx^{2}+dy^{2}+dz^{2}-c^{2}dt^{2}}$
+Can anybody explain this modification?(looking for mathematical motivation)

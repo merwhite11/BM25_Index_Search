@@ -1,0 +1,7 @@
+Determining masses from radial velocity curves of eclipsing binaries
+
+Is the statement
+
+From radial velocities or astrometry for eclipsing binaries, one obtains masses.
+
+wrong, because only minimal masses can be obtained?

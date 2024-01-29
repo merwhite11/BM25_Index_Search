@@ -1,0 +1,7 @@
+Understanding energy loss in a telescope aperture due to atmospheric dispersion
+
+I'm trying to understand energy losses due to atmospheric dispersion, given the plot below from the Keck telescope.
+For a typical seeing I'm told that there's 80% encircled energy in 1". The aperture of the instrument is 2". The plot shows the dispersion as a function of zenith distance for different wavelengths.
+What is the maximum zenith distance with < 20% loss at 3200 angstrom due to atmospheric dispersion?
+I'm not used to thinking about aperture in arcseconds, but I suppose it's bigger than the seeing, usually? Also, the fact that 80% of the energy is encircled in 1", does that imply that you catch 100% with an aperture of 2" or am I overlooking things?
+I don't really know how to use this plot. At a certain fixed zenith distance, if for example the y-value is -3, does that mean the seeing increases with 3" (e.g. if seeing was 1" without dispersion, would it be 4" with dispersion)? Or does it not make sense to think about seeing "without" atmospheric dispersion?

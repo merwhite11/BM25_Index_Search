@@ -1,0 +1,5 @@
+What factors influence a star's temperature and density?
+
+Assuming a relatively even proportion of mass and radius, a 0.25 solar mass and radius star would have a density of 22.5003 g/cm³, or about 16 times our Sun's density.
+However, there is obviously a range of densities that this sized red dwarf could have.  One of the primary factors is its temperature, with cooler meaning a higher density.
+My question is three-pronged: what would increase or decrease this sized star's temperature, how would this impact its density, and what factors other than temperature would increase or decrease this star's density?

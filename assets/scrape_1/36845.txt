@@ -1,0 +1,37 @@
+Can I calculate the apparent position of comet NEOWISE C/2020 F3 from a topographic position with Skyfield?
+
+I'd like to get .altaz(next_several_weeks) of this comet from Skyfield and .separation_from() other planets.
+It reads the JPL development ephemerides and can import star catalogs, but is there a way to add some orbital elements for a given comet or asteroid from some standard database and at least approximately propagate them to get an astrometric position and and all the other goodies Skyfield can provide from there?
+If so, are these the best places to find the appropriate orbital elements for comet NEOWISE C/2020 F3?
+
+
+https://minorplanetcenter.net/mpec/K20/K20G05.html
+
+this answer
+
+find_orb (from this answer)
+
+From Horizons:
+
+
+
+JPL/HORIZONS                 NEOWISE (C/2020 F3)           2020-Jul-09 02:25:23
+Rec #:90004465 (+COV) Soln.date: 2020-Jun-16_22:44:15      # obs: 353 (70 days)
+ 
+IAU76/J2000 helio. ecliptic osc. elements (au, days, deg., period=Julian yrs):
+ 
+  EPOCH=  2458958.5 ! 2020-Apr-19.0000000 (TDB)    RMSW= n.a.
+   EC= .9991762343449366   QR= .2946766901808353   TP= 2459034.1806295365
+   OM= 61.00968684540688   W= 37.27670558969492    IN= 128.9375082086831
+   A= 357.7190774701175    MA= 359.9889750746684   ADIST= 715.1434782500542
+   PER= 6765.8344565066    N= .000145677           ANGMOM= .01320322
+   DAN= .32818             DDN= 2.87461            L= 35.4449114
+   B= 28.1060796           MOID= .362501           TP= 2020-Jul-03.6806295365
+ 
+Comet physical (GM= km^3/s^2; RAD= km):
+   GM= n.a.                RAD= n.a.
+   M1=  10.9     M2=  14.9     k1=  17.25  k2=  5.      PHCOF=  .030
+ 
+COMET comments 
+1: soln ref.= JPL#10, data arc: 2020-03-27 to 2020-06-05
+2: k1=17.25, k2=5., phase coef.=0.03;

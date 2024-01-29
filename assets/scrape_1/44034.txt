@@ -1,0 +1,7 @@
+Calculate exact date and time from position of the sun - 88° degrees
+
+I am currently working on an astrology project and need to figure out the exact date and time based on the sun's position of birth - 88° degree (approx. 89 days) before the moment of birth.
+I am using the swisseph python library (https://astrorigin.com/pyswisseph/pydoc/index.html) to calculate planet postions.
+For example: the following date (1991.01.07 09:27:00 UT) gives the longitude of the sun 286.57609582639475.
+Now I would need a formula to calculate the UT time from this longitude of sun - 88° degree.
+Does anybody have an idea?

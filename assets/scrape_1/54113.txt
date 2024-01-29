@@ -1,0 +1,7 @@
+How do nuJ(nu) units work?
+
+I'm working with (Nublado) Cloudy, which is essentially a spectral modelling tool for stellar matter. Using the software, I model my own stellar object and obtain its continuum.
+According to Hazy, which is Cloudy's official document, the continuum is given in units of "Intensity per octave". Specifically, $4 \pi \nu J_\nu $ [erg $cm^{-2} \ s^{-1}$] units. However, I'm having difficulty making sense of this form of units. What is meant by "Intensity per octave", and why is there an additional factor of $4\pi$ and $\nu$? What exactly does $J_\nu$ refer to here, and how is it different to all the letters astrophysicists use when talking about spectra, like $L_\nu$, $F_\nu$ and $I_\nu$?
+What would be the correct approach to integrate this spectra in order to get the luminosity of my object?
+Finally, my main goal is to apply the Gaia passband filters to my spectra and integrate in order to get the flux and thus find $(G, G_{bp} - G_{rp})$ coordinates on the HR diagram. At its current form of supposedly $4 \pi \nu J_\nu $ as a function of the wavelength, can this be done directly or do I have to change my continuum in some way.
+I have very little to no astrophysics background, so I appreciate your understanding. Thanks.

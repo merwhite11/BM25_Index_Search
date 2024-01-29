@@ -1,0 +1,3 @@
+Relationship between temperature of nebula and size of star
+
+I was wondering, in the process of star formation, does the temperature of the nebula that produces a star play a role in the size of that star? I mean, it's only logical that the size would depend on the amount of matter around.But then, if the temperature is lower, that means that the net density is lower, so the star would 'absorb' less matter. Or is that not a factor, and the growing star would gobble up anything on its vicinity? I've encountered some contradicting sources and I'm trying to double check.

@@ -1,0 +1,11 @@
+How to phase fold data when periodicity change is known as d$\omega$/d$t$?
+
+How can I obtain a phase-folded phase - velocity diagramme from a time series of radial velocity data when it is known that the periodicity changes as $\frac{{d}\omega}{{d}t}$?
+Without $\frac{{d}\omega}{{d}t}$ it is:
+p = ((T-Tref)/P)%1.0
+
+$T$ is a time
+$T_{ref}$ is a reference time
+$P$ is a period
+$p$ is fold phase
+Many thanks

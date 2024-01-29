@@ -1,0 +1,11 @@
+Generate probability skymap
+
+I am trying to generate skymaps for a set of Fermi GBM triggers, containing the probability that a trigger originated in a given part of the sky.  For each trigger, I have access to the RA, dec, error radius, and reliability values.
+This website is a perfect example of what I am trying to do.  There is a table with with RA, Dec, error, and reliability values, which were used to generate maps (sample).  My question is, how was this done?
+My understanding of the problem is that I must first generate fits files based on the data, and then use either a python library or external program to render the skymap from the file.  
+I have already looked at both healpy and astropy, which provide a means to create and manipulate fits files.  Creating a blank fits file is easy, but I am at a loss as to how to populate the files I generate with relevant probabilities based on the data I have access to. Any help, even just a pointer in the right direction, would be greatly appreciated. Thank you for your time.
+edit- description of the error radius parameter: 
+
+This parameter is the uncertainty in the position, in degrees. The GBM errors are not symmetric, and the given value is the average of the error ellipse.
+
+This is what results in the asymmetrical blob shapes.

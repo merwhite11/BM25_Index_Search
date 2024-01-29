@@ -1,0 +1,3 @@
+Since there is an axial tilt present on planets, does this also affect their orbital angular momentum?
+
+I would like to know whether an axial tilt on planets will affect their orbital angular momentum since I am creating a homework regarding angular momenta of planetary bodies in the Solar System.

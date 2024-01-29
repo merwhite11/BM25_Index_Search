@@ -1,0 +1,17 @@
+Why is only a narrow chunk of sky darkened in this amazing Curiosity solar eclipse GIF from Mars?
+
+I found three NASA JPL images in the sequence PIA23133, PIA23134, and PIA23135. They were taken by the Curiosity Rover on Mars and show solar eclipses by Mars' two moons. 
+Details of these images are given in this answer to Puzzler: help understanding these amazing Curiosity eclipse GIFs 
+Question: Why is it that it's mostly a chunk of the right half of the sky that darkens during the eclipse in PIA23135? 
+Is this kind of effect visible in solar eclipses seen on Earth?
+Enquiring minds want to know!
+fyi in case you are wondering, per @MarkAdler's ultra-concise answer
+
+They use neutral-density filters to look at the Sun, which reduce the light by a factor of 100,000. The two Pancam cameras each have one neutral-density filter, with the left one filtering blue and the right one filtering red.
+
+
+From https://photojournal.jpl.nasa.gov/archive/PIA23133.gif and 
+From https://photojournal.jpl.nasa.gov/archive/PIA23134.gif
+ 
+From https://photojournal.jpl.nasa.gov/archive/PIA23135.gif
+(a fairly slow) GIF:

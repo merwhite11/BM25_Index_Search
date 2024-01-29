@@ -1,0 +1,23 @@
+DSO in a 60mm telescope
+
+I am thinking about buying a telescope, but here in Brazil they are very expensive and hard to find where to buy. So, the better telescope I can pay for is a Celestron Powerseeker 60AZ. My main application would be to see nebulas and some star clusters, but I don't know if this scope can be used for this pourpose. Will I see big blurry images, faint lights (like a tiny fog on the darkness of the sky) or only its main stars?
+*Note: I've found some images about planets in small scopes on YT, but I haven't found about DSOs (although, I know the images won't be so atractive like bigger telescope ones). Also, can I use the star diagonal as a barlow lens?
+Specifications:
+Optical Design: Refractor
+Aperture:   60mm (2.36")
+Focal Length:   700mm (28")
+Focal Ratio:    12
+Focal Length of Eyepiece 1: 20mm (0.79")
+Magnification of Eyepiece 1:    35x
+Focal Length of Eyepiece 2: 4mm (0.16")
+Magnification of Eyepiece 2:    175x
+Finderscope:    5x24
+Star Diagonal:  1.25" Erect Image Diagonal
+Highest Useful Magnification:   142x
+Lowest Useful Magnification:    8.57x
+Limiting Stellar Magnitude: 11.4
+Resolution (Rayleigh):  2.32 arc seconds
+Resolution (Dawes): 1.93 arc seconds
+Optical Coatings:   Fully-Coated
+Optical Tube Length:    711mm (28")
+Barlow Lens:    3x

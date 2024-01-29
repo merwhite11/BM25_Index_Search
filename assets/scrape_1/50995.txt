@@ -1,0 +1,6 @@
+Could an object enter or leave the vicinity of the Earth without being detected?
+
+I am aware of (but not really knowledgeable about) radar and visible device networks that monitor/track asteroids, satellites, space debris, and monitor the world for rocket launches for defense purposes.  It looks like the asteroid network can track items as small as a few meters in diameter. Same goes for satellite monitoring networks.  It seems that all objects in the vicinity of the Earth might be detected.
+With all these detection networks, could an object greater than, say, 10m in diameter leave (or enter) the vicinity of the Earth without being detected by one of these networks?    Assuming, of course, that the object is visible and detectable on radar.
+Are there holes in the coverage of these networks?
+By "Vicinity of the Earth", I would refer to mean within orbit of Jupiter to LEO.  Perhaps not a good phrase. Is it likely that there could an undetected object, approx 10m diameter, in this region with all the existing detection networks.

@@ -1,0 +1,42 @@
+Was the "green star" event in NGC 3314 ever figured out or named?
+
+
+from NGC 3314 Variable Object by By Bill Keel (University of Alabama, Tuscaloosa) and Lisa Frattare (Hubble Heritage Project, STScI). The object in question is circled.
+
+Comments below this answer led to Dust in Galaxies which shows the image of the two visually overlapping galaxies together called NGC 3314 which says
+
+In a March 2000 observation of the galaxies, a prominent green star-like object was seen in one of the arms. Astronomers theorized that it could have been a supernova, but the unique filtering properties of the foreground galaxy made it difficult to decide definitively.1
+1Keel, Bill; Frattare, Lisa. "NGC 3314 Variable Object". heritage.stsci.edu. Retrieved 2015-11-05.
+
+which explains the story, including:
+
+Tracking down a stellar explosion
+We first noticed a new object in NGC 3314 while discussing the details of color rendition for the Hubble Heritage release, incorporating data from both the 1999 and 2000 observations in all four filters. There was a prominent green starlike object in one of the spiral arms. "Prominent" is relatve here; the visual magnitude was 21.6. Green stars are not found in nature, because the spectral band we see as green is narrow compared to the amount of light stars put out in various wavelengths, so this was a signal of something quite unusual. This was quickly traced to an object appearing only in the March 2000 observations, so that combining data from some filters in which it was there and some in which it wasn't produced the giveaway color. The fact that we had blue-light images from both sets of data let us show that it had indeed newly appeared, and was not some object with a bizarre spectrum that vanished in some filters. In asking what kind of new object this was, we could quickly eliminate several possibilities:
+
+and ends with
+
+To get this observation on the record, and seek confirming or prediscovery observations, we reported it to the Central Bureau for Astronomical Telegrams, who included it in International Astronomical Union Circular 7388. To date we've gotten no reports of other observations, or of helpful non-detections in 1999 or 2000. So if you happened to take a deep image of NGC 3314 during this period...
+
+Question(s): Rather than ask a half-dozen questions that likely won't be answerable individually, I'll lump them here. If there are answers to some but not others I'll accept them and edit the question to narrow it to what's answerable.
+
+Were any more images found?
+Was some part of a light curve established?
+Was the object ever confirmed to be a supernova?
+Does this "little green object" have a name or identifying designation of some kind beyond "NGC 3314 Variable Object"?
+I can not understand the explanation for why it was thought to be green, is there a way to express it in simpler terms?
+
+IAU circular 7388 says the following but doesn't give a name
+
+POSSIBLE NOVA IN NGC 3314
+W. C. Keel, University of Alabama; and L. M. Frattare, Space
+Telescope Science Institute, on behalf of the Hubble Heritage Team,
+report the detection of a possible nova in the overlapping galaxy
+pair NGC 3314A and 3314B.  HST WFPC2 observations with the F450W,
+F555W, and F675W filters on Mar. 10.47-10.57 UT show a new stellar
+object that was not present on WFPC2 F450W (to B about 25.5) and
+F814W images from 1999 Apr. 4.  Standard (approximate)
+transformations to the UBV system give magnitudes B = 22.42, V =
+21.64, R = 20.87.  The new object is located at R.A. =
+10h37m12s.82, Decl. = -27o40'51".5 (equinox 2000.0), which is 1".2
+west and 10".3 north of the optically brighter foreground nucleus
+of NGC 3314A (itself at position end figures 12s.91, 41'01".8).

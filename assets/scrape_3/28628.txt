@@ -1,0 +1,13 @@
+Celestron NexStar 130 SLT Computerized Telescope GoTo Not Accurate
+
+I am trying to use a Celestron NexStar 130 SLT Computerized Telescope, but I am not able to use the GoTo function.
+
+I do the three start alignment, it confirms matches, 
+I make sure the level is exactly level before and after,
+I finally punch in a planet to slew to
+
+...and once the telescope has slewed to the planet I see nothing in the eyepiece except pin point dots spread out. 
+Also, the words on the hand control are very hard to read because the letters are overlapping each other while the words are panning off the screen. I already tried factory resting which didn't work. The words are in English.
+What would my next step be? 
+
+Example image, Source

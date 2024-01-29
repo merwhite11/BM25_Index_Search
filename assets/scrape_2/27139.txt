@@ -1,0 +1,3 @@
+What unit is used for region Surface brightness in DS9?
+
+The value of the surface brightness is in what unit? I hope it is in Rayleighs. Is that true?

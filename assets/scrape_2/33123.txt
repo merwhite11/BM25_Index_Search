@@ -1,0 +1,8 @@
+What is the relative velocity between planets in different solar systems?
+
+Is it possible to estimate what the difference in velocity is between the earth and another convenient exoplanet? Or perhaps just our star and a near neighbour?
+I'd be curious where I could find the figures, and I'm wondering exactly what the magnitude of the difference is between relatively near neighbours.
+Context:
+Putting together an outline for a book, and I'm curious about something.
+In the book, faster-than-light travel happens through instant travel between two points in space. In doing so, you retain all of your kinetic energy. This means you'll emerge at your destination with the same velocity as you had before you transitioned.
+The bulk of the travel time in interstellar travel would simply be matching velocity with your destination before transition - the vast majority of the distance of the journey would be instantaneous, since for traffic control reasons ships are expected to come in at a reasonable speed when compared to their destination.

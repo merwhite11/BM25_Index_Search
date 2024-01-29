@@ -1,0 +1,3 @@
+How does 'centre of mass' concept work?
+
+We know that two celestial bodies rotate around a center of mass. How does this concept work in case of solar systems where there are several planets versus one/two stars? (Even if the center of mass lies within a star, the center of mass for every planet would be different.) How is it that the rotation of celestial bodies does not become unsteady?

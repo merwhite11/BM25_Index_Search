@@ -1,0 +1,4 @@
+Which techniques are used to convert radio signals received by antenna to images?
+
+I realized that after answering the question How do astronomers convert radio signals received by their antenna to images? I had missed the point that the OP was only asking about software.
+I've written this question about experimental techniques as a companion question in order to move my answer from there to here.

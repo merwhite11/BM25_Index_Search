@@ -1,0 +1,6 @@
+How can a planet not rotate at all and yet have 1 year that is day and 1 year that is night?
+
+A mercury day if you consider its solar day is 2 mercury years.
+Now if you consider just 1 half of mercury, in 1 of those years it is facing towards the sun and in another one of those years it is facing away from the sun.
+Mercury is tidally locked. This tidal locking happens when the rotation rate slows down until it reaches 0.
+How is it possible for a planet to not rotate and yet have 1 half of it facing towards the sun each year with that half changing every year? It would seem like it would have to rotate 180 degrees in a fraction of a second which I know is not possible.

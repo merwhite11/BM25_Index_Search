@@ -1,0 +1,3 @@
+How long is a mean Jovian tropical year in Jovian solar days?
+
+Many sources say that Jupiter's year lasts 10,475.8 Jovian days. When I calculated to see if that's correct With the data NASA had published, I found out it's the measurement of a Jovian sidereal year. How many Jovian solar days are there in one mean Jovian tropical year EXACTLY?

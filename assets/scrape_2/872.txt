@@ -1,0 +1,4 @@
+Is there a upper limit to the number of planets orbiting a star?
+
+Our sun has 8 planets orbiting as well as a number of dwarf planets. Are there any calculations that hint as to whether this number is close to some theoretical maximum value or are we simply an average solar system in this particular way? 
+I could imagine that if you have many planets, they will likely interact with each other. Can you calculate any theoretical value for the maximum number of planets which have long-term stable orbits around their own star?

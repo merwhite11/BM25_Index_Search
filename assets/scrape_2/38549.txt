@@ -1,0 +1,10 @@
+How are all the intermediate images between the "lensed" and "unlensed" endpoints of this video generated?
+
+Phys.org's ALMA sees most distant Milky Way look-alike describes the numerical image reconstruction of a strongly and very nicely lensed z = 4.2 galaxy by a by a foreground galaxy at z = 0.263 and links to a short video SPT0418-47: lensed view to reconstructed view found in YouTube and also at ESO.
+The caption says only:
+
+This animation gives the viewer an idea of how astronomers reconstructed the true shape of the SPT0418-47 galaxy, from ALMA observations of the gravitationally lensed view of the galaxy.
+SPT0418-47 is gravitationally lensed by a nearby galaxy, appearing in the sky as a near-perfect ring of light, shown at the start of the video. At the end, we see the image of SPT0418-47 that astronomers obtained when they used a new computer modelling technique to reconstruct its real shape and motion of gas.
+Credit: ALMA (NRAO/ESO/NAOJ)/Martin Kornmesser (ESO)
+
+Question: So the video begins with the currently observed image and ends with the reconstructed image while keeping the size unchanged. But what do all the intermediate images between these two endpoints represent? Are they intermediate steps in the un-lensing procedure, or are they simply lensed images while computationally ramping down the mass of the foreground lensing galaxy just for fun?

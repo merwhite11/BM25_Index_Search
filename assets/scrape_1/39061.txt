@@ -1,0 +1,3 @@
+Why is the height of a satellite greater than the apogee of its orbit?
+
+I read in the German Wikipedia for the Indian Technology Experiment Satellite, that the apogee (Apogäumshöhe) is 567 km, while the height of the orbit (Bahnhöhe) is 572 km. I had always thought that the apogee is the furthest point of the orbit from the Earth and I wonder how can there be a height greater than that.

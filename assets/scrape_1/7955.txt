@@ -1,0 +1,7 @@
+The defintion of star/planetary/solar system
+
+In many science fiction stories, we hear the term star system that mostly refers to a star and its planets. This is often used interchangeably with the term solar system. But after some research I understand this:
+Planetary system refers specifically to anything orbiting a star that is not a star itself. According to Wikipedia, this generally refers to the planets, but may include other objects like asteroids and dwarf planets. It does not refer to the star itself.
+Star system refers to any system with two (binary) or more (multiple) stars, but only the stars themselves, not planets or anything else.
+Solar system generally refers to our own Solar system but there are situations where "solar system" (lowercase) refers to a star and the planets or other objects orbiting it (as long as something orbits the star).
+So, is it incorrect to use the term solar system/star system to refer to a star and its planets?

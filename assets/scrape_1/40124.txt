@@ -1,0 +1,3 @@
+What does the "a" at the end of a spectral type mean?
+
+Looking at the chart for spectral type peculiarities (here), I noticed that the letter a was missing from the chart. This seems to be an error, as the star Vega has spectral type A0Va, with the a definitely being a peculiarity. What does the a in spectral types mean, and is this actually a spectral peculiarity?

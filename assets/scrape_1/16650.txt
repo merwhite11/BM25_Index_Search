@@ -1,0 +1,4 @@
+What is the projected range of the JWST to be able to detect exoplanet atmospheres?
+
+Yesterday the K2 mission detected transit events of objects passing in front of a number of M dwarfs which could turn out to be rocky planets. If some of these planets host atmospheres, could the JWST detect IR absorption lines from molecules in these atmospheres?
+What would be the expected limiting distance for these stars to allow for such measurements by the JWST?

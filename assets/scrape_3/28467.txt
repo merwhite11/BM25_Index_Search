@@ -1,0 +1,3 @@
+Lunar illumination (percentage) data on an eclipse day needed
+
+I am looking for the information on the percentage illumination of the moon during the different stages of a total lunar eclipse. Is there a database from where I can acquire information of lunar illumination, distance and angle for the July 27th 2018 lunar eclipse for a given location?

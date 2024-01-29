@@ -1,0 +1,11 @@
+How common are exoplanets with no atmosphere?
+
+I'm guessing that real data about exoplanets will be unhelpful because it's hard to detect low-mass planets, and thus answers are likely to be based on the kind of educated-guesswork that we relied on for decades when we really only knew about planets in the solar system.
+[Edit]
+
+"No atmosphere"
+I'm looking for things like Earth's Moon, or Mars, about which Wikipedia says:
+
+The average surface pressure [of Mars] is only about 610 pascals (0.088 psi) which is less than 1% of the Earth's value.
+
+So, surface pressure no greater than 1% of Earth's atmosphere.

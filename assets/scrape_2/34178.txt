@@ -1,0 +1,5 @@
+How many exoplanets have been found around binary stars?
+
+This XKCD whatif talks about circumbinary and [the other kind of] exoplanets. How many such exoplanets have actually been discovered?
+
+I tried to look it up at exoplanets.org, but didn't find a column mentioning if the star is a binary.

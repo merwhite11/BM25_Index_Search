@@ -1,0 +1,5 @@
+HI mass from HI column density
+
+I have a galaxy for which I have HI column density values. I want to estimate the corresponding HI mass. To do the same, I want to estimate the flux density of this source. How can I achieve the same?
+The equation to estimate the HI mass from HI flux density:
+$$M_\mathrm{HI}=2.36×10^5D^2\textstyle\int F\,\mathrm{d}V \ M_\odot$$

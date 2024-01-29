@@ -1,0 +1,5 @@
+How do scientists differentiate between a total and a partial transit of a planet passing in front of its star?
+
+Say there's a star in our local neighborhood with a Jupiter-sized planet orbiting around it. This planet's orbit happens to lie approximately in our line-of-sight – we can only see a quarter of it transit in front of its star.
+All scientists do is look at the amount of starlight blocked during a transit and deduce the size of the planet.
+So since this planet only partially transits, are scientists able to tell it's a partial transit and the planet is actually Jupiter-sized? OR are they going to naively assume it's just a smaller planet passing in front of its star?

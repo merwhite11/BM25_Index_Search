@@ -1,0 +1,4 @@
+Population histograms and relationship between size of galactic disk and amount of dark matter
+
+I am interested in seeing a plot of dark to baryonic matter ratios in terms of the galactic disk size (when it applies, as not all galaxies fit into disk shapes, and probably analyzing disk galaxies with amorphous ones would only contribute to murky the curve with noise) and how the galactic populations are distributed over that range of sizes. 
+Does something like this exist?

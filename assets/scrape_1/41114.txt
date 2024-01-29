@@ -1,0 +1,4 @@
+How is the density parameter estimated via cosmic microwave background anisotropies?
+
+In 2003 and again in 2018, the density parameter was estimated based on measurements of the cosmic microwave background anisotropies. Can someone please explain how that works? Why do the anisotropies reveal something about the universe’s current density?
+I don't have a background in physics or astronomy.

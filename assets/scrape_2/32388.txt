@@ -1,0 +1,5 @@
+Has Hubble ever been used to try to image a near Earth asteroid?
+
+This answer to How big will Apophis appear? points out that the near Earth asteroid Apophis will likely be close to 2 arcseconds in diameter as seen from Earth during its close approach in 2029. I speculate that if the Hubble Space Telescope were still operational then, it could potentially image the asteroid in visible light at a few dozen pixels in diameter.
+This leads me to wonder if the Hubble has ever been used to image† or at least spatially resolve in some way an asteroid during a close pass to the Earth before.
+†Here the verb "image" should be taken to mean the act of producing a resolved image of an object so that different pixels correspond to intensity from different parts of the body being imaged. For the purposes of this question please don't consider telescope images in which an asteroid happens to appear but is too far away to be resolved. Thanks!

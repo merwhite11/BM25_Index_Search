@@ -1,0 +1,7 @@
+How to get the zeropoint magnitude?
+
+I'm working with some data and I have some values named fluxmag0 and fluxmag0err that should correspond to the zero point values and error in flux units.
+The values are around $10^{13}$ for fluxmag0 and $10^9$ for fluxmag0err
+I need to have the zero point error in magnitude units. If I take $2.5\log_{10}(\mathrm{fluxmag0err})$ the values are huge so I suppose it's not the way to compute this.
+How can I convert these values in terms of magnitudes? 
+Thanks a lot in advance for your help

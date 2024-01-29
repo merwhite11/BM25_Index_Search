@@ -1,0 +1,4 @@
+What parameters can we obtain from imagery of planets?
+
+Looking at images for the planets of the solar system in all different wavelengths, I was wondering whether we can deduce any information about the planet itself without using anything other than an image.
+An image of a planet is like the one for Jupiter on the Wikipedia page. Any info would be appreciated.

@@ -1,0 +1,10 @@
+highspeed black holes or neutron stars on (almost) head-on collision course and kinetic energy
+
+First: I don't think this is a duplicate question. There are related question on mergers of black holes that orbit around each other etc., so please read on.
+I'm having a hard time picturing what might happen in the following scenario:
+Assume two black holes of the same size on an almost frontal collision course with a very high relative speed of x km/h (replace x with whatever would be necessary to enable the scenarios described below).
+If their event horizons don't "touch" I'd assume their courses will change considerably but it would be a normal flyby - right ?
+But what happens if their event horizons "touch", if their event horizons "overlap" just a few meters ?
+On the one hand both objects have a massive kinetic energy with opposite directional vectors. And on the other hand nothing can escape below the gravitational radius. 
+Where does all the kinetic energy go ? Would the two black holes extremely deform, like creating a long string before they collapse into spherical form?
+And what if in a similar scenario one of the two objects is a neutron star. Would the neutron star be ripped apart when it scrapes the black hole on high-speed flyby ?

@@ -1,0 +1,18 @@
+How could a hobbyist astronomer determine apparent magnitude of a star?
+
+Apparent magnitude is a rather complex way to determine the brightness of a star. Quoting the introduction text from the linked to Wikipedia page:
+
+The apparent magnitude (m) of a celestial body is a measure of its
+  brightness as seen by an observer on Earth, adjusted to the value it
+  would have in the absence of the atmosphere. The brighter the object
+  appears, the lower the value of its magnitude. Generally the visible
+  spectrum (vmag) is used as a basis for the apparent magnitude, but
+  other regions of the spectrum, such as the near-infrared J-band, are
+  also used. In the visible spectrum Sirius is the brightest star in the
+  night sky, whereas in the near-infrared J-band, Betelgeuse is the
+  brightest.
+
+While it is of course a useful measure also for the slightly more casual, non-scientific observer to help determine the observed star from its neighboring cluster, or identification in general, I always wondered if there is a way to measure apparent magnitude with enthusiast-class equipment, and what would these procedures be?
+                              
+                              Apparent magnitude scale and observational limits (Source: ESA Science)
+Also interesting would be a description of what level of precision and enthusiast can get with such equipment while measuring apparent magnitude of a distant star. If you need specifics to answer the question, such as precise available equipment or subject of observations, please feel free to choose at will any that would broadly match the capabilities of enthusiast-grade equipment.

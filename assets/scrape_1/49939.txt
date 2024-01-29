@@ -1,0 +1,7 @@
+How to obtain Magellan 6.5m telescope data?
+
+I research about Bullet cluster.
+Because Clowe et al. (2006) used Magellan's IMACS data, So I entered the SAO Magellan data archive site.
+But I could not find the method to obtain the data.
+Is there no method except for sending e-mail to SAO manager?
+Is there no site like MAST?

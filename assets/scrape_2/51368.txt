@@ -1,0 +1,6 @@
+Right ascension and declination visible at that local time and location
+
+If I know the local time of an observer and her/his latitude and longitude, how can I know which stars are visible?
+I'm developing a planetarium software using the Hipparcos Catalogue. I have also implemented all the formulas of the book: "Practical astronomy with your Calculator and Spreadsheet", but I don't know which to use.
+I want to know which values of right ascension and declination are visible at that local time and location.
+In other words, knowing the RA and DEC from the Hipparcos Catalogue, and knowing the latitude and longitude and the local time of the observer, there must be a formula (or formulas) to know which stars are visible at that moment.

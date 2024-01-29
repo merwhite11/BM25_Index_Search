@@ -1,0 +1,20 @@
+What does this "web on the surface of the Sun" image reflect? What does 789 nm show us?
+
+What is this web on the surface of the Sun? has got me thinking.
+
+This is probably not a normal color photo.
+The cooler areas are really dark!
+
+update: Comments point out 
+
+The NSO press release says the passband is 789 nm.
+"Images have been processed to remove noise and enhance the visibility (contrast) of small-scale (magnetic) features while maintaining their shape. The movie frames have been smoothed to remove noise."
+
+Question: What does this image at 789 nm show us? Are we looking at changes in blackbody radiation or is there a spectral feature that tracks something more specific? Does intensity in the image actually track temperature directly, or reflect it in a more subtle way?
+
+There are two videos linked in Phil Plait's Bad Astronomy article
+
+DKIST first light high-resolution video of solar granules 
+DKIST First light video of solar granulation (wide angle).
+
+From The Universe Today's This is the Highest Resolution Image Ever Taken of the Surface of the Sun

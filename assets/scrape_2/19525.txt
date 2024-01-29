@@ -1,0 +1,4 @@
+How to project galaxy data in x y z coordinates?
+
+For a data visualization project, I want to extract galaxy data (in x y z coordinates) from galaxy catalogue of within 150 mpc and project each of those galaxies as dots and visualize them in a 2D projection of a spherical volume. Need your help in getting this data set and how to achieve it?
+Would be grateful for any help in any way!

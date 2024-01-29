@@ -1,0 +1,19 @@
+Delete key does not always work in IRAF's xgterm on Mac
+
+Sometimes it does not let me delete text in an xgterm terminal and outputs ^H instead.
+Example:
+Run IRAF:
+xgterm -e cl
+
+It opens the xgterm, there I type:
+splot black_hole.fits[0]
+Image line/aperture to plot (0:) (12): 192
+
+Then I realise I made a mistake and press the Delete key on Mac, and it writes the ^H text instead:
+Image line/aperture to plot (0:) (12): 192^H^H
+
+This is very annoying. Is there a way to fix it? 
+Note that delete key works in xgterm initially, but breaks and writes ^H in the case above.
+I've installed IRAF 2.16 through astroconda iraf-all package on Mac.
+Update
+The only solution I found was to use PyRAF instead. PyRAF uses the normal Mac's terminal, which does not have those Delete key issues. I can still run the same IRAF commands in PyRAF terminal, so it works fine for me.

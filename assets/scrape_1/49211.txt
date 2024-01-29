@@ -1,0 +1,13 @@
+How time-symmetric is orbital mechanics?
+
+Kepler's first two laws tell us that in a two body orbit in which one of the bodies is much more massive than the other, that:
+
+The smaller body orbiting the larger body has an orbital path that
+traces an ellipse.
+A segment between the two bodies sweeps out equal
+area in equal time.
+
+Given these simplifications, it appears that such an orbit is time-symmetric.  That is, an orbit propagator that predicts the future orbit could also reproduce the prior orbit if we input a position with negative orbital velocity.
+Is this also true for simplified parabolic and hyperbolic orbits?
+How about for n-body orbital simulations? It can't be true for mutually orbiting black holes which radiate energy in the form of gravitational waves and eventually merge, can it?
+Which leads me to the question: Just how time-symmetric is orbital mechanics?

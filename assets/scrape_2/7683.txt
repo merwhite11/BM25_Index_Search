@@ -1,0 +1,12 @@
+Time period in which a planet rotates
+
+I notice that Wikipedia give two contradictory terms for the time period in which a planet rotates in relation to an infinitely-distant object. In one place this is called a "sidereal day" and in another "stellar day". Which of these are correct? For that point, is this an IAU definition? I cannot find the definitions on the IAU website.
+From the Sidereal Day page:
+
+A sidereal day is the length of time it takes a planet to rotate from the perspective of a distant star.
+
+From the Day page:
+
+
+stellar day - an entire rotation of a planet with respect to the distant stars
+sidereal day - a single rotation of a planet with respect to the vernal equinox

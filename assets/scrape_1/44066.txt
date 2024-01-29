@@ -1,0 +1,7 @@
+Could a heavy exoplanet squeeze water into being liquid and 4° warm?
+
+Let's say there is an exoplanet orbiting its host star well outside its habitable zone. Suppose further that it has a lot of water, being perhaps comparable to earth when it comes to the volume ratio of water compared to the remainder of the planet.
+Now water at its densest is 4° Celsius warm. My question is: Could the exoplanet's weight force the water into a liquid state by squeezing it to the temperature of lowest density?
+My intuition would say no, because after all, temperature is nothing but molecular movement, and every kind of accelerated movement is supposed to lower the total energy of a system, which seems to be absurd.
+Also, this seems to be an explanation of the so-called "faint young sun paradox", which is well-known in geology.
+If the answer differs from that, I would be pleased to read an explanation of how my reasoning was flawed.

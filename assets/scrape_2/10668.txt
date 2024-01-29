@@ -1,0 +1,3 @@
+Two body transient solution
+
+In the two body problem, if each body is given an initial condition as a momentum vector, what is the transient part of the solution as it settles into the steady state orbit?

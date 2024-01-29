@@ -1,0 +1,9 @@
+Does the Sun and Moon basically appear to "move on the sky" identically regardless of location and date?
+
+For a long time, I've been trying to use Stellarium (simulation) and many visualizations and animations in order to get a good idea of how the Sun and Moon move across the sky, as seen by a human from the surface of Earth.
+It's surprisingly difficult to grasp this, at least for me.
+It seems to me that the Sun always "rises" in the "East", goes slowly up to "above our heads", and then sets to the "West" in the same manner, making a kind of half-circular path. After that, after some unknown time, the Moon kind of "follows" the Sun in this (more or less) exact path, also coming up from the East and "setting" in the West.
+The fact that the Moon is orbiting around Earth, and Earth orbits around the Sun, and yet they move like this, makes no sense to my brain. It seems like the described path would only be true for the Sun, or the Moon, but not both.
+And is it always (roughly) the same? Or does this vary depending on where you stand on Earth, and what date/year it is? It was very difficult for me to make my own experiments in Stellarium. It seemed like it would vary a bit, but not too much.
+The reason I'm trying to figure this out is both because of general curiosity, and wanting to accurately describe the Sun and Moon in my story. In The Lord of the Rings, Tolkien frequently talks about the movement and look of these objects, which appear to follow the same rules as in our world. It's clear that he had very deep knowledge of how these things appear to move on the sky over the day, and I like such "details" to be accurate.
+Basically all the animations and illustrations I find of the movement of the Moon and Earth around the Sun are focused on a "space overview" rather than how it looks from Earth.

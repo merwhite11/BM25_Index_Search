@@ -1,0 +1,5 @@
+What are the challenges in finding Earth-like planets via the radial velocity method?
+
+[I have re-asked this, because it was a good question by @Banyan, which was deleted whilst I was composing an answer.]
+Most exoplanets that are found by the radial velocity ("Doppler wobble") technique are quite massive - Jupiter/Saturn-like objects.
+What are the principle challenges in extending this technique to finding Earth-like exoplanets?

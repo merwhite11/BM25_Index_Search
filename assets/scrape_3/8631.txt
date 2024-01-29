@@ -1,0 +1,4 @@
+What are the units of distance in this subtended angle calculation?
+
+I'd like to find the distance at which a 2.4 cm coin is subtended by an angle of 10". I've drawn my diagram and found that $D=\dfrac{d}{\alpha}$ using the small angle approximation. Since $10" = 4.85\times10^{-5}$ rad then $ D = \dfrac{2.4 \times 10^{-2} m}{4.85 \times 10^{-5}rad} = 495$
+Are the units of distance in this calculation meters? In other words why would the units of radians be 'dropped'?

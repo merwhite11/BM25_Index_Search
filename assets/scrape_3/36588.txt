@@ -1,0 +1,4 @@
+A question about Sun disk deformation
+
+Suppose the Sun rises and due to refraction the Sun's disc gets deformed. Let the center of the sun be $O$ and $OL$, $OR$, $OT$, $OB$ be the distances from the center of the disc to the edges in the direction $L$eft, $R$ight, $T$op and $B$ottom ($L$, $R$, $T$, $B$ are the farthest points from the center of the disc to their direction due to the deformation of the solar disk). How to find which of the 4 distances is bigger and which is smaller?
+Thanks in advance for your answers

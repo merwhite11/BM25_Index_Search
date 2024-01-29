@@ -1,0 +1,6 @@
+How can I estimate the initial luminosity of a SNIa given initial mass of Ni-56?
+
+The initial portion (and peak) of a SNIa's light curve is powered by the $\beta$-decay reaction:
+$$ ^{56}Ni \rightarrow ^{56}Co + e^+ + \nu_e + \gamma $$
+Supposing we know how much Ni-56 is created in the supernova (i.e., an initial mass of Ni-56), how can I go about estimating the luminosity peak? The half-life of Ni-56 is 6.1 days, if that's relevant.
+Does it make sense if I just look up/calculate the energy released in this reaction, multiply it by the number of Ni-56 atoms required to comprise the given initial mass, and call that the luminosity? Any other better ideas?

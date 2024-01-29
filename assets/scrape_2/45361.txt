@@ -1,0 +1,17 @@
+What is notable about LOFAR's sub-arcsecond radio resolution of distant galaxies? Does lower freq. range enable new capabilities that mm wave can't?
+
+The BBC's Astronomers see galaxies in ultra-high definition covers some news related to papers in Astronomy & Astrophysics' dedicated, open access issue Sub-arcsecond imaging with the International LOFAR Telescope.
+With a top frequency of 240 MHz ($\lambda$ = 1.3 meters) and nominal diameter of 1000 km I ballpark the achievable resolution at about 0.3 arcseconds, consistent with the news.
+While not as large in diameter, ALMA's resolution in Wikipedia is about 0.01 arcseconds because of it's "millimeter" wavelength range (at nearly 1 THz the shortest wavelength is a fraction of a millimeter).
+Question: What is notable about LOFAR's sub-arcsecond radio resolution of distant galaxies? Does the lower frequency range enable new capabilities that millimeter waves can't for this type of observation?
+
+Related:
+
+What could be observed with LOFAR in 230 MHz - 10.0 MHz wavelength? (unanswered)
+How LOFAR pass through the ionosphere?
+Why did it take five years to "figure out" how to use astrometric calibration sources to deblur LOFAR images?
+Estimate the number of pixels required to map the full primary beam of a Radio Telescope station
+How is it determined that the X-ray and radio intensity come from a magnetic field bridge between two clusters of galaxies?
+
+
+Screenshot of LOFAR's High Band Array (HBA) from https://www.astron.nl/lofartools/lofarmap.html

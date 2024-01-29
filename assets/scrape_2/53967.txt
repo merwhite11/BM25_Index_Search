@@ -1,0 +1,4 @@
+Modern equivalent of Astronomical Algorithms by Jean Meeus?
+
+I understand that the Meeus book is a classic in astronomical calculations. I've read through many chapters of it now and while the content is great, it'd be nice to have discussion based on more recent context.
+Is there a "modern equivalent" to this classic book?

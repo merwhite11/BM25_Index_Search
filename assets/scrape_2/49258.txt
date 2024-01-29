@@ -1,0 +1,6 @@
+What is the **actual** average distance of the Moon from Earth?
+
+The Moon orbits Earth at a semi-major axis of 384400 km, with its periapsis being 363300 km and apoapsis being 405500 km. (All figures from this NASA fact sheet.)
+If the Moon orbited Earth at a constant velocity, the average distance would be 384,400 km. Unfortunately, as Kepler found out, celestial objects move faster near periapsis and slower at apoapsis.
+This means that the Moon's actual average distance from Earth is slightly bigger than 384400 km, due to it having a lower orbital velocity when farther from Earth.
+So, what is the Moon's actual average distance from Earth? Is there a formula (I'm assuming including calculus) that would give a solution to any two-body-system?

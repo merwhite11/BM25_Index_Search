@@ -1,0 +1,5 @@
+Exoplanet dip in transit light curve when the planet passes behind the star
+
+In the animation below, I don't understand why the brightness slightly decreases when the planet is behind the star.
+
+Where does this effect come from?

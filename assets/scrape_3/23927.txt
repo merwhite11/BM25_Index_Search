@@ -1,0 +1,6 @@
+How was the galactic plane established?
+
+As pointed out in this answer the axes of galactic coordinates are defined such that galactic longitude and latitude (0, 0) point toward the galactic center. But then the plane defined by galactic latitude equal to zero would be parallel to the galactic plane only if the Sun were in the galactic plane as well. 
+Is that the case? 
+More generally, by what procedure was the galactic plane actually defined, considering a substantial part of it is obscured by dust (at least in the visible) and most of the mass is dark matter and therefore not observed at all (directly at least)?
+Question: How was the galactic plane established? Primarily what kinds of observations were used, and how were they analyzed to help decide how this plane should be chosen?

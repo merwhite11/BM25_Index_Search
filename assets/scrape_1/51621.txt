@@ -1,0 +1,18 @@
+Where was the solar system born? Alternatively, how far back in time can we retrodict the location of the solar system?
+
+I have two related questions:
+
+Where in the Milky Way did the solar system form? Is there a particular nebula it can be traced to?
+
+How far back in time can we track the location of the solar system within the Milky Way with reasonable certainty?
+
+
+Notes:
+
+Obviously, if the answer to (2) is "as far back as the origin of the solar system", then we have an answer to (1), but I suspect that's not the correct answer to (2), so I ask these as separate questions.
+
+For (2), I would imagine that parallax data from Gaia would be particularly relevant.
+
+For (1), I wonder if something like relative metal abundances can be measured and give a precise enough "fingerprint" to "match" the solar system to its birthplace.
+
+For (1), I don't know whether nebulae remain recognizable as nebulae billions of years after their star-forming days -- if not, then the premise of my question may be flawed -- it may be that the birthplace of the solar system has diffused away into the background structure of the Milky Way by now.

@@ -1,0 +1,3 @@
+Are there any gaps in the range of gravitational wave frequencies we can detect?
+
+We have LIGO and other earth-based interferometers for detecting high-frequency gravitational waves, we're going to have satellites in orbit around the sun for low-frequency waves, and we have a pulsar timing array for very low frequency waves. Are there any wavelengths in between the ranges of these different detectors that we wouldn't be able to detect?

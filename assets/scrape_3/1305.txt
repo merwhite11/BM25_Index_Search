@@ -1,0 +1,4 @@
+How do astronomers find interesting events?
+
+I always wondered how those tiny dots representing moving stars or whatever forming an interesting event (supernova explosions, stars being sucked into black holes etc.) get caught in the huge solid angle of $4\pi$? It seems absolutely improbable to find any such event in that big solid angle.
+Do astronomers just appear lucky looking at the right place at the right time to find an interesting event, or do they use some systematic methods of finding them? Do they maybe use special software which analyzes tons of data and identifies such interesting events?

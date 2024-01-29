@@ -1,0 +1,19 @@
+Where exactly is the modification that first corrected the spherical aberration in Hubble's primary mirror?
+
+The April 2015 CBS News article How NASA fixed Hubble's flawed vision - and reputation describes the modification taken to the Hubble Space Telescopes by the Space Shuttle that was used to correct for the strong spherical aberration of the primary mirror due a highly accurate but incorrect figure.
+
+above: "Due to an oversight during fabrication, the concave shape of Hubble's primary mirror was too shallow toward its outer edges by 2 microns, a tiny fraction of the width of a human hair. As a result, starlight was not brought to a focus at the same point, resulting in blurry images. These three images show the same star as viewed from a ground-based telescope, left, and from Hubble's uncorrected mirror, center. The corrected image, after a space shuttle repair mission in 1993, is seen on the right" from here. credit: NASA
+From the article:
+
+But the mirror's biggest impact was on the Wide Field Planetary Camera, the instrument expected to provide the dazzling visible and near-infrared images most easily understandable by the public and of tremendous value to astronomers.
+"The real killer was Jim Westphal (the WFPC principal investigator at the Jet Propulsion Laboratory in Pasadena, California), who tended to be very negative," Weiler recalled. "Basically, he said he couldn't do anything. So that's what I was preparing to walk into the press conference with."
+But as it turned out, Weiler had two aces up his sleeve. One he knew about, one he didn't.
+The ace he knew about was drawn seven years earlier, when Weiler kicked off work to build a backup camera, the Wide Field Planetary Camera 2, a carbon copy of the original. John Trauger was the principal investigator, the man in charge of the instrument at JPL.
+The ace Weiler didn't yet realize was built into the design of Trauger's camera.
+Shortly after the first light image came down, "one of the grand old men of optics here at JPL, Aden Meinel, he and his wife Marjorie wanted to see what the image looked like," Trauger said in an interview. "We brought it up on the screen. ... And he looked at that for five minutes and he said 'that looks like spherical aberration.'
+"That was the first time I heard spherical aberration," Trauger recalled. "The thing was, he also said 'well, if it is spherical aberration, you could fix it with Wide Field Planetary Camera 2.' He knew that we had these nickel-sized mirrors in our optical system, which received a sharp image of the primary mirror itself. ... The very last mirror before the image is created on our CCD was an opportunity to straighten the wavefront out. He recognized that, too."
+By giving that mirror a prescription that exactly countered the spherical aberration in the primary mirror, the WFPC 2 would be able to achieve a perfect focus and do all of the science that was intended.
+
+Question: Where exactly is the modification that first corrected the spherical aberration in Hubble's primary mirror? Can it be identified within the image below, or is it located elsewhere? Was the modification only a change in the figure of one of the small mirrors, or were other optical elements modified as well as part of the correction?
+
+above: "The business end of COSTAR: Small mirrors on motorized arms directed corrected light into the Hubble Space Telescope's spectrographs and faint object camera. COSTAR and the Wide Field Planetary Camera 2 were installed during a 1993 shuttle mission, correcting Hubble's flawed vision." From here. Eric Long/Smithsonian Institution

@@ -1,0 +1,4 @@
+Why does the Tycho-2 catalog not include Hipparcos stars?
+
+Both use the same data. But at least, 90k stars are lost in Tycho-2. 
+Why?

@@ -1,0 +1,6 @@
+Mass of sun's core
+
+It is estimated that the sun's core is about 1/5 of the radius of the sun (from Wikipedia). I know that the density of the plasma increases substantially the near the center, and that the volume of the core is 0.008 times the total volume. 
+$$\frac {V_{core}}{V_{sun}}=\frac {4/3\pi (0.2)^3}{4/3\pi (1)^3}$$
+$$\frac {V_{core}}{V_{sun}}=\frac {(0.008)}{(1)}$$
+What is the mass of the core compared to the total mass?

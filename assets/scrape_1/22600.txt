@@ -1,0 +1,4 @@
+What is the 2D elliptical projection of the Celestial Sphere called, and how can I make one?
+
+I see this kind of projection of the celestial sphere into 2D frequently, usually with an image of the milky way galaxy or cosmic microwave background. This particular image shows the path of visible transits of the inner solar system planets across the sun as seen from locations outside of the solar system from the Motherboard article At Least 9 Exoplanets Could See Earth With Present-Day Human Technology which links to: R. Wells, K. Poppenhaeger, C. A. Watson, R. Heller; Transit Visibility Zones of the Solar System Planets, Monthly Notices of the Royal Astronomical Society, stx2077, https://doi.org/10.1093/mnras/stx2077
+Question: What is the 2D elliptical projection of the Celestial Sphere called, and how can I make one? Is there a python-friendly package, but more importantly, is there a mathematical expression for this transform?

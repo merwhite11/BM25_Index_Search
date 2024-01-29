@@ -1,0 +1,4 @@
+How to caclulate the chinese Three Gorges Dam impact on Earth rotation?
+
+According to this January 2005 NASA JPL News item NASA Details Earthquake Effects on the Earth, the Three Gorges Dam has slowed down Earth's rotation by 0.06 microseconds per day. 
+Having that weight of Earth is an estimate, and so is the volume / weight of water held by the dam and also that these two resulting figures are apart by several orders, how can the resulting deceleration be not only precise, but also calculated at all? The error margin must be much larger, then the result. Or not? How did NASA get the numbers so accurate?

@@ -1,0 +1,14 @@
+How was the recently publicized Hubble image of a distant galaxy showing clearly resolved lensed in an Einstein ring produced? When was it produced?
+
+The 24-Sep-2021 NASA Goddard video Einstein Ring Spotted by Hubble and it's Goddard Media Studio's page Einstein Ring Spotted By Hubble discuss the image, but don't really give credit to how it was produced or how this example of an Einstein ring was first discovered.
+There must be a story behind the exposures used to produce this image and the discovery of this beautiful object in the first place.
+Questions:
+
+How was the recently publicized Hubble image of a distant galaxy showing clearly resolved lensed in an Einstein ring produced?
+When was it produced?
+When were the exposures taken?
+What wavelengths were used?
+Who (or what AI) first recognized that there was an Einstein ring in the data?
+
+
+I can see a lot of very overexposed extended objects (galaxies) with diffraction "halos" around them, and a compact object (star?) with distinct diffraction rings.

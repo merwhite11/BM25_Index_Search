@@ -1,0 +1,6 @@
+How to analyse Jovian signal received at 20.1 MHz using dual dipole antenna?
+
+I have purchased a Radio Jove kit and set it up. I have also received some signals. I am using Radio Skypipe II software as discussed in this Radio Jove tutorial (see also here) with a sound card to record and analyze the output of the receiver.
+But what I get is like an image on the screen, which can be zoomed, and I'm not sure what I'm looking at.
+What further process should I follow to make some analysis of Jovian radio signals at 20.1 MHz beyond just looking at the image (spectrogram? waterfall plot?) that the software produces?
+Here is an example of the Radio Skypipe II output from their link:

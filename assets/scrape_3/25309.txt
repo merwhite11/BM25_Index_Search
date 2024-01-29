@@ -1,0 +1,30 @@
+What are these "nonstandard format" lines in Distant Artificial Satellites Observation circulars?
+
+Mike G's great answer clued me in on how to find the collection of astrometric observations of spacecraft which is maintained by the Minor Planet Center. 
+I've noticed that there are nonstandard format lines embedded within the observations. I can read the Date, RA, Dec, magnitude and band for the standard lines, but for the nonstandard lines with the 300 in columns 56-65 (marked xxx) I don't understand what this means and so far I haven't found a key that explains it.
+I can just ignore them, but I'd really rather know what they are in case they are useful! or important.
+From here: https://www.minorplanetcenter.net/iau/DASO/Obs/DASO_000559_Obs.txt
+00000000011111111112222222222333333333344444444445555555555666666666677777777778
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+               DateDateDateDateRARARARARARADecDecDecDecxxxxxxxxxxmm.mmb
+2015-005B    tC2017 09 22.18235 01 55 07.45 +12 36 17.4          13.7 RqD0559Y00
+2015-005B    tC2017 09 22.18335 01 55 20.26 +12 34 01.7          13.8 RqD0559Y00
+2016-038C    tC2017 09 22.16232 01 16 49.19 +13 00 29.0          11.9 RqD0559Y00
+2016-038C    tC2017 09 22.16336 01 17 04.66 +12 58 35.4          11.9 RqD0559Y00
+2016-038C    tC2017 09 22.16433 01 17 19.05 +12 56 49.9          11.7 RqD0559Y00
+2016-055A     V2017 09 21.35632 00 24 08.35 -01 15 45.6          17.0 VqD0559247
+2016-055A     v2017 09 21.35632 1 008.0567   +50.9060     300           D0559247
+2016-055A     V2017 09 21.35702 00 24 08.04 -01 16 01.2          17.1 VqD0559247
+2016-055A     v2017 09 21.35702 1 008.0567   +50.9060     300           D0559247
+2016-055A     V2017 09 21.48556 00 23 00.22 -02 01 37.3          16.9 VqD0559247
+2016-055A     v2017 09 21.48556 1 008.0567   +50.9060     300           D0559247
+2016-055A     V2017 09 21.48625 00 22 59.83 -02 01 53.0          17.4 VqD0559247
+2016-055A     v2017 09 21.48625 1 008.0567   +50.9060     300           D0559247
+2016-055A     V2017 09 21.48660 00 22 59.53 -02 02 02.0          17.0 VqD0559247
+2016-055A     v2017 09 21.48660 1 008.0567   +50.9060     300           D0559247
+2016-055A     C2017 09 21.88530 00 23 55.81 -01 22 12.6          17.1 VqD0559595
+2016-055A     C2017 09 21.88701 00 23 54.89 -01 22 45.3          16.6 VqD0559595
+2016-055A     C2017 09 21.88872 00 23 53.96 -01 23 18.6          16.9 VqD0559595
+
+See also: https://www.minorplanetcenter.net/iau/DASO/Obs/DASO_000562_Obs.txt
+and also: https://www.minorplanetcenter.net/iau/DASO/Obs/DASO_000564_Obs.txt

@@ -1,0 +1,4 @@
+How to find maximum and minimum right acsension and declination based on the telescope's location?
+
+If I am to apply at a telescope for viewing objects, how to determine (easily) what is the minimum and maximum possible RA and DEC visible from that telescope during that time of the year. For eg, take the telescope at paranal
+(24.6258°S, 70.4310°W) and if I observe anytime from October to March.

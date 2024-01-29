@@ -1,0 +1,7 @@
+Confusion around units for SEDs, and how to tell what I'm looking at
+
+I know that a spectral energy distribution (SED) is a plot of energy versus wavelength or wavelength of light, while a spectrum is a plot of flux density against wavelength, but I'm a bit confused about the units.
+Firstly, Figure 4 in this paper purports to be an SED, but it has units of erg cm$^{-2}$ s$^{-1}$ Hz$^{-1}$, which seems to me to be a flux density, so according to my understanding should be described as a spectrum:
+
+Secondly, SEDs can be shown in units of $\nu F_{\nu}$ (or equivalently $\lambda F_{\lambda}$), or just $F_{\nu}$, or in Jy. What are the relationships between these units?
+Due to my confusion, I find it difficult to tell what kind of plot I'm looking at, unless the plot is actually named "SED of ..." or "Spectrum of ...".

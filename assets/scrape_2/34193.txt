@@ -1,0 +1,26 @@
+Doppler Shift Vs Gravity Assist for Frequency Shifts from Rotating Galaxies
+
+Frequency Shift of Light Leaving Rotating Galaxies:
+Differences in Doppler Shift due to Radial Velocity
+Vs
+Frequency Shift due to Gravity Assist from a Rotating Galaxy
+A description of estimating rotational velocity of a galaxy by measureing the relative differences in frequency of light from one side of the galaxy to the other: 
+https://www.haystack.mit.edu/edu/undergrad/srt/SRT%20Projects/rotation.html
+Another description with references to the implication of the existence of dark matter that arises from the calculated rotational velocities of galaxies versus the observed matter in the galaxies.
+https://ps.uci.edu/~observat/sites/default/files/COL_Activity_RotCurve.pdf
+I have been considering an alternative to dark matter to reconcile the observed mass of galaxies and their observed rotational velocities by considering frequency shifts.
+If we discount dark matter then in general the observed distribution of density of matter in a galaxy  increases the closer to the centre of the galaxy one goes.
+Here is my hypothesis:
+Light that is moving in the same direction as the rotation of matter in the galaxy from its source to the observer is passing between higher matter dansities towards the centre of the galaxy and lower matter densities towards the edge of the galaxy. Under these conditions the light will experience a net gravity assist as described in
+https://www.planetary.org/blogs/guest-blogs/2013/20130926-gravity-assist.html
+Conversely light that is moving in the opposite direction to the mothion of matter rotating around the galaxy  under otherwise the same conditions will be retarded, or redshifted by the counter gravity assist.  
+We already know that gravity can change the frequency of light and this is described in:
+https://astronomy.swin.edu.au/cosmos/G/Gravitational+Redshift
+Therfore the observed relative frequency differences between light observed from one edge of a rotating galaxy is made of of the rotational doppler shift of light cause by the rotational velicity of the lights sources of the grotating galaxy and the gravity assist/contra gravity assist caused by the light moving through the rotating mass of the galaxy itself.
+If the differential frequency shift from one edge of a rotating galaxy is made up of these two component then it is not going to be a simple addition of effects.
+The gravitational assist is going to be, in part, a function of the rotational velocity of the material in the galaxy along with the actual amount and distribution of mass while the doppler shift is a straight calculation based of the velocity of the lights sources.
+My questions are:
+Does anyone know of any research, websites or papers that discuss gravity assis impacting the properties of light as it passes through rotating cosmological structures.
+Can anyone identify any significant flaws in my hypothesis?
+Can anyone describe the math needed to decompose the distribution of relative frequency shift between velocity doppler and gravity assist to arrive at a rotational velocity and galactic mass.
+Can anyone advise what the raminifications that this hypothesis would have on the various dark matter theories?

@@ -1,0 +1,13 @@
+Why would the Chang'e-4 lander find lunar far side temp. "colder than scientists expected", when the LRO has already been taking thermal readings?
+
+In January, the Chinese probe lander Chang'e-4 was was announced to have found temperatures dipping lower on the far side than expected ("Chinese rover finds lunar nights 'colder than expected'" by R. Jackson, Jan. 31, 2019. AFP via Phys.org):
+
+Temperatures on the moon's surface plummeted to minus 190 degrees celsius (-310 degrees Fahrenheit) during the probe's first lunar night, which "was colder than scientists expected," the China National Space Administration (CNSA) said.
+
+This was said to be surprising, because near-side temperature measurements by U.S. missions showed less substantial dips. It was suggested that this was probably due to a characteristic difference between regolith on the two sides:
+
+They were lower than those recorded by previous US missions to the near side of the moon, Zhang He, executive director of the Chang'e-4 mission, told Xinhua news agency.
+"That's probably due to the difference in lunar soil composition between the two sides of the moon," he said.
+
+But the U.S. surface missions were not the last thermal readings taken of the Moon, and the Chinese mission isn't the first mission to take thermal readings of the far side. Unless the thermal variability measured by Chang'e-4 is particular to a very localized area of regolith on which it took those lunar dawn readings (in which case it can't be said to be representative of a generalizable difference from near-side regolith), how would that not be known already, from the Infrared measurements that have been taken by the Lunar Reconnaissance Orbiter for the past decade, 
+ with enough resolution and sensitivity to distinguish the thermal variation of craters from surrounding regolith?

@@ -1,0 +1,28 @@
+Astropy units issue
+
+hope you're all doing well.
+I'm not very familiarized with AstroPy and I'm having a problem computing the conversion between angular momentum units.
+If I define the abs. value angular momentum
+$$ \|\vec{J_2}\| \propto \|\vec{r}\times \vec{p}\| \overset{!}{\propto} a_2 m_2 \left(\frac{G M_s}{a_2}\right)^{1/2} = m_2 (G M_s a_2)^{1/2}$$
+from the movement of a body $m_2$ interacting with $M_s$, assuming a Keplerian motion, I'll write:
+then, a generic abs. ang. mom. $\|J_1\|$, let's say $$\|J_1\| \equiv \mathrm{\|((1m) \times (1 \frac{kg \, m}{s}))\| = 1 \frac{kg\, m}{s}}$$ J1 = u.m * u.kg * u.m * (1/u.s) should have equivalent dimensions compared to $J_2$. So I should be able to verify using
+J2.decompose() or J2.to(J1), but all I get is UnitConversionError: 'AU(1/2) earthMass G(1/2) solMass(1/2)' and 'kg m2 / s' (angular momentum) are not convertible
+J1 = angular_momentum(1* u.Msun, 3*u.Mearth, 0.1*u.au)
+
+J2 = u.m * u.kg * u.m * (1/u.s)
+
+J1.to(J2)
+---> UnitConversionError
+
+or
+angular_momentum(1*u.Msun, 3*u.Mearth, 0.1*u.au).decompose() #why?
+
+$$3.0900743 \times 10^{43} \mathrm{\frac{kg^2 \,m^{1/2}}{A^{1/2}\,s}} \qquad \mathrm{(output)}$$
+this looks like * u.au is not working as expected. Anyways, passing units, e.g., in u.m does not fix the issue.
+Question: anyone knows what is happening here?
+Edit: this is the function I'm using to compute $J_2$
+def angular_momentum(ms, mp, a):
+    #from Lp = r x p ~~ a * (mp (G ms / a)^1/2) keplerian rot ~~ mp (g ms a)^1/2
+    
+    Lp = mp * (u.G  *  ms  *  a)**(1./2.)   #This MUST! have L units
+    return Lp

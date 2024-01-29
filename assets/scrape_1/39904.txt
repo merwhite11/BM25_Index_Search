@@ -1,0 +1,4 @@
+Are stars near the ecliptic the only stars from which Earth would appear to transit the Sun?
+
+The majority of exoplanets we have discovered have been found by the transit method, in which a planet passes in front of its parent star and by analyzing the light curve we can deduct its characteristics.
+Say there was intelligent life around a nearby star, could they only see the Earth transit in front of the Sun if they were located around the ecliptic?

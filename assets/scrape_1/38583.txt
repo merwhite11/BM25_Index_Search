@@ -1,0 +1,4 @@
+How String Theory calculates the Entropy of the Black Hole in a Background dependent way?
+
+How does string theory get an agreement to the Hawking-Bekenstein equations to calculate the quantum entropy of a black hole in a background dependent way?
+Is there any sort of area parameter in string theory like Barbero-Immirzi in loop quantum gravity?

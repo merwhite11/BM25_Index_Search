@@ -1,0 +1,3 @@
+Can you advise on the construction of a large segmented primary mirror (hobbiest)?
+
+I am interested in experimenting with the building of a large parabolic primary mirror constructed from 4" hexagon mirrors mounted on a "rough" parabolic surface with either 3 screw adjustments for each individual mirror or (eventually) Arduino controlled adjusters.  Any constructive advise on methods or procedure would be most helpful.

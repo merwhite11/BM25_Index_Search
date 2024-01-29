@@ -1,0 +1,5 @@
+Why the habitable zone of a binary star is a disc and not a sphere?
+
+I understand that the orbit of a planet will always be flat, so there is no point on making a sphere out of the HZ when we consider one star, but what about binary stars? For example, this binary system (taken from here):
+
+The habitable zone of this binary surrounds both stars, but what if the orbit of the planet isn't contained in the binary's orbit plane? For example, orbiting the star on the left with an inclination of, say, 20 degrees? Wouldn't it have to be two spheres and not two disks? Or is the HZ calculated assuming coplanar orbits?

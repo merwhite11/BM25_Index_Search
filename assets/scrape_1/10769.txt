@@ -1,0 +1,6 @@
+For how many bodies can there be a stable orbit with no very heavy central body?
+
+The question is a bit vague, but let me explain:    
+Take for example 2 bodies of the same mass. They can orbit around their centre of mass/gravity. Is something like this possible with multiple bodies of varying mass and distance from the centre of gravity without a relatively extremely massive body there?
+i.e. would it be possible to have a planetary system that orbited around the centre of mass without there being a massive star (roughly) in the middle?
+I know that the Sun also has an orbit around the centre of gravity of the solar system, but that orbit is very small compared to its size, which puts it roughly in the centre.

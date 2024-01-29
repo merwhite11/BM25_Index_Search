@@ -1,0 +1,3 @@
+app to locate star by coordinates
+
+I've named a star and would love to be able to find it in the sky - is there an app I can use to locate stars given a specific coordinate?

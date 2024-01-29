@@ -1,0 +1,10 @@
+Variable Types of Stars
+
+I'm trying to decode the Variable Types of stars in the Hipparcos Library.  I see there are a number of stars for example :-
+EA/AR - Does that mean the star is both a EA(Eclipsing Binary Star) and AR (Detached System of AR Lacertae) type variable star ? e.g. HIP112009
+Whats the difference between EA (Delta Orionis) and EA: (Omicron Puppis) type stars ?  What does the colon signify?
+Edited - So on line, 2575 of hip_va_1.dat, the following line has a Variable Type of EA/AR, what does the slash signify.
+112009| |F5V         |P|EA/AR | | 9.016| | 9.65 |  -1.7|   2.96850  |  -4.1|8501.4698|4|A| |W_Gru       |   2.96850|2430132.15| 9.40|10.00|P|R
+
+What does the (+) sign signify in a Variable Type e.g. SR+ZA (HIP36623)
+I really like to understand what the significance of the +, / and : mean

@@ -1,0 +1,3 @@
+Detector Pixel Geometry?
+
+When analyzing an image I'm used to thinking of the pixels as a grid of boxes the photons have fallen into. I assume that there's zero space between the boxes. That seems obviously wrong, since there needs to be some separation on the detector to prevent electron bleed between pixels. So, what's the real geometry of pixels in a detector like (especially for: CCDs and infrared arrays)? Is it closer to a grid of points than a grid of boxes?

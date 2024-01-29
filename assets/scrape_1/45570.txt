@@ -1,0 +1,4 @@
+Is the Astronomical Unit measured from the Sun's center or from the surface?
+
+1 AU is defined as the distance between the Sun and the Earth, which is roughly 150 million km. But is this supposed to be from the Sun's center (Solar system's center of mass) or from the Sun's surface which already is almost 696 thousand km from the center? That's not an insignificant difference.
+Intuitively I would say this should be the distance between the centers of mass (for the other objects as well), but I'm really not sure. And I can't find the answer anywhere.

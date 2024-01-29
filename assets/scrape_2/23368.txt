@@ -1,0 +1,6 @@
+What is a probability of a particle launched from earth hitting any object in the universe?
+
+Imagine I pointed a laser into the night sky. How likely is it that a particular photon will ever hit anything?
+This question bothered me for a while. I know very little about astronomy. When I asked my roommate he laughed and said that it must be very little, since the universe is mostly empty. I know it is true, but it seems to me that volume of the objects in the universe does not matter. Rather, it should be the area of objects when projected on a sphere that matters. 
+On one hand, universe is pretty empty, so hitting something outside the Solar System might be hard. But on the other hand, there are a lot of possible targets. These targets, however, appear smaller when the distance increases.
+Which one of these, or other, forces will dominate? Would it make a difference if we ignored gravity?

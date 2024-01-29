@@ -1,0 +1,5 @@
+What is superradiance?
+
+What is superradiance? I came across this term recently (used widely to explain fast radio bursts). After googling a bit, what I understand is: When several atoms are confined in a very small area and one of the atoms emits a photon (spontaneously and randomly), it affects all other excited atoms in its neighborhood to release their excess energy at the same moment producing an intense flash of light. The small area confinement is such that the area is smaller than the wavelength of the photons.
+In pulsars or FRBs, this is also called antenna emission/ spatial bunching. Researchers working on pulsars might be having a good knowledge of this phenomenon. The other type of coherent radio emission is synchrotron maser emission.
+Can someone illustrate a bit more on this topic?

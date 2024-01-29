@@ -1,0 +1,6 @@
+Finding equation for energy density of matter
+
+I'm trying to get an equation for the energy density of matter of the universe $\rho(t)$, assuming the number of particles is conserved and rest mass energy is much greater than kinetic energy. $\rho(t)$ should be a function of the scale factor of the universe $a(t)$, mass of particles $m$, and the number density of the particles $n(t_0)$.
+I'm not sure how to approach this since $\rho(t)$ is in units of $\frac{Mass}{Length^3}$, $m$ is in units of $\frac{Mass}{Particle}$, $n(t_0)$ is in units of $\frac{Particle}{Length^3}$, and $a(t)$ is in units of $Length$. I guess there could be a factor of $\frac{a(t)}{a(t_0)}$ or $\frac{a(t_0)}{a(t)}$, but I don't know where I'd get that from.
+Any help?
+EDIT! I forgot that $a(t)$ is dimensionless.

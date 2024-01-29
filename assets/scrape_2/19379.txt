@@ -1,0 +1,4 @@
+What is the tidal radius of the Sirius system?
+
+The Fomalhaut system is a trinary system, with Fomalhaut A (1.9 M), Fomalhaut B (0.7M) and Fomalhaut C (0.2M). Fomalhaut C is 2.5 light years from Fomalhaut A, and 3.2 light years away from Fomalhaut B. The tidal radius of the Fomalhaut system is 6.2 light years.
+The Sirius system (Sirius A, 2M, Sirius B, 0.9M) is roughly 1.1x more massive than Fomalhaut A and B. What would be some ways to calculate a tidal radius of the Sirius sytem, to get an estimate of at what distance other stars could orbit the Sirius system?

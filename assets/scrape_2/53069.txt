@@ -1,0 +1,10 @@
+Modified Julian Date (MJD)'s epoch is 0:00 on November 17, 1858 (JD − 2400000.5) has fewer digits than JD. But what's so special about November 1858?
+
+A week ago in the Observatory chat room @HDE226868 wrote:
+
+Happy MJD 60000, everyone!
+
+Thank you!
+According to Wikipedia's Julian day; variants the epoch for Reduced JD is 12:00, November 16, 1858 (making it JD − 2400000) and for Modified JD (MJD) it's 0:00 November 17, 1858 (making it JD − 2400000.5)
+Theres a note in that table that says that it was introduced by the Smithsonian Astrophysical Observatory in 1957
+I can understand the convenience of reducing the number of digits, but what's so special about November 1858?

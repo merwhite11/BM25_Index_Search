@@ -1,0 +1,38 @@
+Angular magnification of three lenses telescope?
+
+What is the magnification of a three-lens telescope?
+As a child I built a "telescope": objective lens $$f_1 = 20 cm$$ middle lens $$f_2=5cm$$ and eye lens also $$f_3=5cm$$
+My drawing of my telescope:
+
+I measured the magnification "with my eyes". It was about 10x-15x.
+But what's the formula?
+I had found a formula for a terrestrial telescope, but it doesn't really help. It is said that the middle lens is "only used to correct" the image. Then the magnification should be done like a "normal" telescope (see link):
+$$
+f_ {objectiveLens} / f_ {eyesLens}
+$$
+In my telescope, the magnification was dependent on the distance between the middle and eye lenses: larger distance -> bigger magnification.
+UPDATE 1:
+My idea was calculate magnification of objective like
+$$
+25/f_{objective}
+$$
+Then calculate magnification for system of middle and eye lenses like for microscope (here: link). And then multiply both magnifications.
+Here is my calculations (see drawing):
+Magnification of objective:
+$$
+m_{objective} = 25cm/f_{1}=25cm/20cm=1.25
+$$
+In my case distance beetwen middle and eye lenses was 20 cm, then L:
+$$
+L = d_{2}-f_{1}-f_{2}=20-5-5=10
+$$
+$$
+m_{middle+eye}=(-L/f_{1})*(25/f_{2})=-10/5*25/5=-2*5=-10
+$$
+Then total magnification is:
+$$
+M_{total}=m_{objective}*m_{middle+eye}=1.25*10=12.5
+$$
+But i feel i am very wrong.
+UPDATE 2:
+I have learn a little bit about lenses and i have use lens equation for calculating angle magnification. But i am not sure that's right. Can someone say something about?

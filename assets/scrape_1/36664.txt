@@ -1,0 +1,5 @@
+How does SOHO know what's going on in the sun's magnetic feild?
+
+SOHO can image the sun's magnetosphere. I don't have the foggiest idea how they manage it, because at most a satellite can have a single compass, and measure one point in the magnetic field. I thought for a while that maybe they were using the Zeeman effect, but their image description says that "black and white indicat[e] opposite polarities." I don't think you could detect the direction of the field with Zeeman splitting, because the thermodynamic distributions should be isotropic in every variable, and there's nothing on the atom scale to compare the direction of the field against.
+How does SOHO manage to image the magnetic field of the sun?
+https://sohowww.nascom.nasa.gov/data/realtime/image-description.html

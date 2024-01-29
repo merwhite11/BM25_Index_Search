@@ -1,0 +1,14 @@
+Eclipse Cycle Calculations Needed
+
+I am writing a work of fiction about a world where:
+The length of a year is 335 days.
+The world has two Moons.
+Moon A is Larger and further away with a 78 day lunar orbit.
+Moon B is smaller and closer with a 31 day orbit.
+
+How often would both moons be full at the same time, overlapping each other like a bullseye?
+How often would lunar eclipses occur for Moon A?
+How often would lunar eclipses occur for Moon b?
+How often would both eclipse at the same time?
+
+This is a work of fiction, so liberties can be taken.  I just want it to be close.

@@ -1,0 +1,5 @@
+How Does Cosmology Constrain the Number of Neutrino Species?
+
+I've asked this question already on the Physics SE, but I felt it would be worth posting here as well.
+I know that based upon theories of structure formation cosmologists can constrain the sum of the masses of neutrinos - if neutrinos were too light or too heavy it would simply change the power spectrum of the universe. 
+My question is how exactly is the number of neutrino species constrained by cosmological measurements (i.e. - $N_{eff}$ as measured by WMAP or Planck)? The recent results from the Planck Satellite give us $3.3\pm0.3$, which is consistent with three neutrino species. How is this measured?

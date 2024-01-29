@@ -1,0 +1,5 @@
+Planetary reference systems and time
+
+I am researching into how coordinate systems of solar systems objects are created by reading some of the reports written by the Working Group on Cartographic Coordinates and Rotational Elements (e.g. 2009). However, I am finding it difficult to completley understand the role of time in defining reference systems.
+When observing at a planet from Earth, for example Jupiter, there are a variety of factors that make it difficult to construct a reference system (including no solid surface and planetary precession), so we use geometry to define a reference system. However, because our perspective is dynamic, meaning Jupiter's surface changes and the planet's move, we say that at time J2000 we know the precise orientation and position of Earth and therefore can say from position defined at J2000 this is the coordinate reference system for Jupiter.
+So, does incorporating time (e.g. J2000) mean we can say a coordinate reference system is based on the situation of an object, Jupiter in this example, at a given moment?

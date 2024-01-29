@@ -1,0 +1,12 @@
+Very near GAIA DR2 sources - has Proxima Centauri been dethroned?
+
+I made an extract of GAIA DR2 data for parallaxes greater than 500mas. Surprisingly I see a very significant number of sources with parallax greater that 1000, making them much closer than Proxima. This should lead to excited newspaper headlines, but i haven't seen those yet... Am I missing something?
+You can see my extract of data here:
+https://gist.github.com/agnes1/1492e94b5e9c0ef71f6ae7944964b666
+Some GAIA source_id rows to look at include:
+4039503676370417664
+4042946384760661504
+4042338732771057920
+4046453826887613696
+But there are many more. The closest source I find is 4062964299525805952 with  parallax of 1851mas. It has a phot_g_mean_mag of 19.63355... Would I be right in assuming this is a brown dwarf?
+Another thing I note is that there is a surge of vmag 19/20 sources within 10 parsecs. These are obviously so faint GAIA doe not detect similar sources beyond 10 parsecs. To give some numbers I count 1722 sources (most mag 19/20) within 10 parsecs and only 606 sources in a shell of equal volume beyond that. Again, would these all be (a very large number of) brown dwarfs?

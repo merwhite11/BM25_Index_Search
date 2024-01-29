@@ -1,0 +1,5 @@
+Searching for stars with a given surface temperature and an absolute magnitude?
+
+Do you have in mind any database/sites that I can search for stars that matches a given surface temperature and an absolute magnitude?
+For example, when I enter Temperature=9,500K & AbsoluteMagnitude=0.58 then the search engine returns the result Vega and some other stars.
+Any suggestions are appreciated!

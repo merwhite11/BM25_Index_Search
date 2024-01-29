@@ -1,0 +1,23 @@
+Find position of orbiting body along orbit efficiently
+
+I'm coding a game, and a fundamental mechanic is celestial bodies moving in elliptical, Keplerian orbits around a single gravitational point in a planetary system (not our solar system).  The bodies in this system all have their orbital elements and masses defined, and those orbital elements do not ever change throughout the game (except true anomaly, of course).
+I'm trying to solve a problem, and I don't know how to approach it in a way that will work.
+The problem is:
+GIVEN (as function inputs)
+Orbiting mass "m" (kg, a planet)
+Orbited mass "M" (kg, a star)
+Semimajor axis (in AU)
+Eccentricity (0 < e < 1)
+Inclination (rads or degrees)
+Longitude of ascending node (rads or degrees)
+Argument of periapsis (rads or degrees)
+True anomaly (current position of planet in orbit)
+Delta Time (seconds, minutes, hours, days, months, etc)
+OUTPUT: Position (in xyz coords with gravitational point at origin 0,0,0)
+How can I find the position of the planet after time t?
+THE DIFFICULTY IS...
+I already can calculate the distance vector and instantaneous velocity of the planet (thanks to http://orbitsimulator.com/formulas !!!), but that only tells me where the planet will be after 1 second and...
+delta time needs to be any value from 1 second to 100+ days!
+The only solution I can think of involves running that "update body position each second" a bazillion times (ie if you want to see where it will be in 1 minute, run the "find velocity of orbiting body" function 60 times, updating the position each time), and then showing the final result, which isn't practical when you want to see where it will be in a month or more (and not practical when updating the positions of different bodies after different time deltas). Considering the velocity of the body changes in an elliptical orbit from moment to moment, how can this problem be solved efficiently for arbitrarily long time deltas?
+I know Elite: Frontier got something like this working way back when, but I have no idea how...I've been reading up as much as I can find for the past month! ...mostly from Orbital Mechanics for Engineering Students by Howard Curtis, and I struggle considerably with understanding calculus equations.
+Much appreciation for all you celestial mechanics savants and any insight or solutions you may have to share!

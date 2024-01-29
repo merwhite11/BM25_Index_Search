@@ -1,0 +1,8 @@
+Is this paper on globular cluster stability still up to date?
+
+I'm looking to better understand the stability of globular clusters for an n-body dynamical simulation, specifically with respect to initial data conditions.
+I know that the total potential energy needs to be larger in magnitude than total kinetic energy for the cluster to be gravitationally bound, but I wasn't sure what kind of constraints on momenta would keep the cluster from collapsing in on itself.
+I found this paper by Soviet physicist A. M. Fridman from about 50 years ago (link below) and it states that the "total momentum of a globular cluster practically vanishes", and this sounds reasonable enough to me, but I realize this paper is a little older, and it doesn't really justify or cite this claim as far as I can tell. I also haven't found any other sources to verify this claim, is there anyone out there that works with globular clusters/ have some sources that can verify if this is the case?
+Here is the English translation of the original paper The Stability of Globular Clusters and Spherical Galaxies and it's abstract:
+
+A globular star cluster (or spherical galaxy) is modeled by a spherically symmetric system of rotating, gravitational masses. In accordance with observational evidence an r-2 density profile is adopted, with particle trajectories such as the total momentum of the system vanishes. The stability of such a model against arbitrary perturbations has been demonstrated on the basis of results from plasma physics; rigorous mathematical proofs of stability have been given elsewhere [4-7].

@@ -1,0 +1,5 @@
+How to calculate conjunctions of 2 planets
+
+So, the recent conjunction of Jupiter and Venus seems to have spawned lots of excitement over this "rare" event. But what I can't figure out, is exactly how rare it is. And I've seen such conflicting claims and calculations that I figured I'd better calculate it myself. The only problem is I'm no astronomer. So, does anyone know of a program that can calculate all the conjunctions between a date range that are within a degree of each other? Or does smart person know how to calculate it manually? :) 
+    I have a program called Stellerium which I've been using to view the various conjunctions that people have mentioned. I don't know if I can use it in the way I need it though. Any help? :)
+Thanks

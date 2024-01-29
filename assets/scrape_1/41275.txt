@@ -1,0 +1,11 @@
+Measured values of the solar irradiance at other values than 1 AU?
+
+It is straight forward to estimate the total solar irradiance of a planet using the Earth's solar constant, and scaling it according to the (mean) distance of the planets. But for which planets have measurements been made? A quick search of the usual suspects like arxiv.org or scholar.google.com did not yield any conclusive or easy to interpret results.
+
+Mercury: $12\,121 {\rm W}/{\rm m}^2$ according to Wolframalpha which use the simple scaling. However, there are other sources, one of which claiming to cite a reference handbook's value of $9\,937 {\rm W}/{\rm m}^2$ which is a rather large deviation.
+Venus: $2\,601.3 {\rm W}/{\rm m}^2$, according to NASA's Venus fact sheet, which is reasonable close to $2\,569 {\rm W}/{\rm m}^2$ according to Wolframalpha
+Earth: $1\,361^{+1}_{-0} {\rm W}/{\rm m}^2$ according to Wikipedia on the solar constant
+Mars: around $560.7 {\rm W}/{\rm m}^2$, this is probably measured more exactly
+Jupiter: probably around $52.7 {\rm W}/{\rm m}^2$
+
+How accurate are the values? What are the error bars?

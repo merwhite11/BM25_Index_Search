@@ -1,0 +1,19 @@
+Orbital velocity of a planet - why is my calculation off by about 10%?
+
+I am not sure if I am doing something wrong, or misunderstanding Reider and Kenworthy (2016).
+I'm just trying to reproduce the orbital velocities listed in Table 1. The second paragraph of Section II list a mass of the primary and semi-major axis for the planet's orbit of 0.9 solar mass and 5.0 AU. From the table the mass of the planet ranges from 20 to 100 Jupiters, which is actually quite sizable, but I'll start without using the reduced mass.
+The numerical values I'm using:
+$$GM_{\odot}=\text{1.327E+20} \ \mathrm{m^3  kg^{-2}}$$
+$$GM=0.9GM_{\odot}$$
+$$\epsilon=0.65$$
+$$1 \ \mathrm{AU} = \text{1.496E+11} \ \mathrm{m}$$
+$$a=5.0 \ \mathrm{AU} \ = \text{7.480E+11} \ \mathrm{m}$$
+The formulae I'm using:
+$$r_{\text{peri}}=a(1-\epsilon)$$
+$$v^2=GM(2/r-1/a)$$ 
+$$v_{\text{peri}}=\sqrt{GM(2/r_{\text{peri}}-1/a)}$$
+I get:
+$$r_{\text{peri}}=\text{2.618E+11} \ \mathrm{m}$$
+$$v_{\text{peri}}=\text{2.744E+4} \ \mathrm{m/s}$$
+which is  $27.44 \ \mathrm{km/s}$. But for $\epsilon=0.65$ the table below shows $29.5 \pm 0.4 \ \mathrm{km/s}$. Close but not really close enough, it's off by almost 10%.
+If the mass of the planet (which is quite large) was considered, then the table would have to list a wider range of velocities, wouldn't it?

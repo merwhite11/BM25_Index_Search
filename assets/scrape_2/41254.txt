@@ -1,0 +1,31 @@
+What is the antonym of "closest approach"?
+
+The distance from Earth to Mars, during their closest approach, is about 55 million kilometers.
+At their furthest apart, that distance would be about 401 million kilometers.
+
+
+
+
+Distance
+at closest approach
+at ___________
+
+
+
+
+Earth–Mars
+55 million km
+401 million km
+
+
+Earth–Jupiter
+629 million km
+928 million km
+
+
+
+
+Is there a standard astronomical name for "their furthest apart"?
+My vague understanding is that if one body orbits around another, then we have words like "at perigee" (closest approach to Earth) "at apogee" (furthest apart from Earth); "perihelion" and "aphelion"; and in general "periapsis" and "apsis." However, it doesn't seem correct to talk about the distance from Mars to Earth "at apsis" because neither body orbits the other.
+IIUC, in the specific case of Earth and Mars, we might also say that their closest approach happens (more or less) when Mars is in opposition (relative to the Sun, as seen from Earth); but I don't think I can infer from that any useful terminology for their maximum distance — which would happen more or less when Mars is in opposition relative to the Earth, as seen from the Sun. [eshaya's answer indicates that the phrase I'm looking for here is "...when Mars is in conjunction (relative to the Sun, as seen from Earth)." Contrariwise, for Venus, both extrema occur during conjunctions.]
+(I'm interested in names for the distance and/or the position. "Closest approach" applies to both distance and position; "apsis" applies only to the position AFAIK. You wouldn't say "the apsis of the Earth and the Moon is 406,000 km.")

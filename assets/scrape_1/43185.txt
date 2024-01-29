@@ -1,0 +1,6 @@
+Is there a way to estimate or calculate the tidal range induced on a water-bearing planet?
+
+Consider a system in which a central star is orbited by a planet with liquid water oceans, which is itself orbited by a moon.
+Given the masses and distances between these three objects, is there some formula that outputs the minimum and maximum tide heights the planet's oceans cycle through for every orbit of the moon?
+For simplicity, the effects of local topography on the tides are being ignored.
+Also, if there is such a formula, could it be applied to solar systems in which there is more than one central star and/or more than one moon orbiting the planet?

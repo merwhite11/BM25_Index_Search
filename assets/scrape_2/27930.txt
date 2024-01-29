@@ -1,0 +1,23 @@
+Are there any known asteroids with average density similar to that of Earth's?
+
+In this answer I mention that for very low orbits around spherical bodies, the period tends to scale only as the inverse square root of the density, and not the diameter.
+
+For a low orbits where the semi-major axis is close to the radius of the central body, the period is related to the average density of the body and unrelated to it's size.
+So a low orbit around a spherical asteroid (which there usually aren't) made of a mixture of rock and iron (which there usually aren't) will be roughly 90 minutes just like LEO (low Earth orbit), even if it's only 1 km in diameter.
+
+I'd like to use an example, but I don't know where to find an asteroid density table, nor even a histogram, that includes something close to 5 g/cm^3.
+Question: Are there any known asteroids with average density similar to that of Earth's?
+Some example mean densities from Wikipedia (some rocky planets included for good measure):
+body      mean density (g/cm^3)
+
+Earth            5.5
+Mercury          5.4
+Venus            5.2
+
+Mars             3.9
+Io               3.5
+Vesta            3.4
+Moon             3.3
+Hygiea           2.8
+Pallas           2.7
+Ceres            2.1

@@ -1,0 +1,12 @@
+how did James Bradley discover light aberration?
+
+I do not understand his timing method. James
+The magnitude of the aberration could be v/c? 
+The speed of earth is about 30km/s.  That means the deviation from the real position of a star is about 30/300000 rad =180*3600/3.14159/10000 ~20arcsecond.
+That is a horrible value.
+Could the effect of parallex, proper motion and light aberration of a star be separated clearly?
+－－－－－－－－－－－－－－－－－－－－－
+Sure. Aberration is always the same. Parallax depends on the distance, and the phase is different.
+Why is their phase different? They all have a one year period.
+Generally we should not worry about the light aberration, right? Even space telescopes have reference stars. The position of the reference stars are fixed. So although there are detectable wobble(20") in one year , because we use reference stars, this kind of effect is removed every day immediately. Every night, when the night assistant lets a telescope point at some direction, he has to use reference stars to calibrate that night's pointing.
+Am I right?

@@ -1,0 +1,10 @@
+Has star KIC 8462852's 3 year long Kepler-fading continued after the primary Kepler mission ended?
+
+BACKGROUND
+May 11, 2013 the Kepler space telescope ended its primary mission. Data captured until then showed that the now famous "Tabby's star" or "Boyajian's star" (KIC 8462852) had been fading throughout the Kepler mission by about 3% cumulatively. (This independently of other reports of brief very deep dimmings and restorations during the mission.)
+QUESTION
+Today when I post this question, about as much time has passed by since the primary Kepler mission ended, as that mission lasted. So this makes me wonder if other telescopes have observed, or should've been sensitive enough to have observed, a continuation of such a fading trend for that star? Another 3%.
+DISCUSSION
+If not, what could the explanation be for why this 3+ year fading trend was suddenly interrupted when the primary Kepler telescope mission was terminated? And how long would it take to determine from ground based observatories whether this particular dimming trend continues or not?
+
+Fig. 5 from the paper by Montet and Simon 2016.

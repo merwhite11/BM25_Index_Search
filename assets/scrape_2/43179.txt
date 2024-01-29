@@ -1,0 +1,6 @@
+Why do the asteroids orbit the Sun in roughly the same plane as the planets?
+
+The asteroid belt between Mars and Jupiter is an extremely active environment (on an astronomical time scale) where collisions between 10km radius bodies occur every $10^7$ years, according to wikipedia.  It was likely much more active in the past, before many of the asteroids were ejected due to planetary resonances.
+But even after all the collisions throughout the asteroid belt formation until now, the vast majority of currently existing asteroids have low inclinations with respect to the ecliptic.  That is, the inclinations of their orbits are roughly aligned with the rest of the planets' orbits around the Sun (credit figure to wikipedia):
+
+Question: Why haven't all the collisions caused the inclinations of the asteroid belt to be more widely distributed?

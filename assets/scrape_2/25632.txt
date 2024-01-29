@@ -1,0 +1,6 @@
+South or North Celestial Pole
+
+I'm really confused with this one. Almost all documentation says you must start with your telescope pointing to the Celestial Pole and for the lucky ones who live in the north you can use Polaris.
+But I live in the Southern hemisphere (Chile), so besides no Polaris for me, the real question is: Should I start with the telescope pointing to the South or North Celestial Pole?
+I have had a month of frustration trying to align.
+I have looked into other answers here and other sites, but no one explicitly says where to point it and how to find it.

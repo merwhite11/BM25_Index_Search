@@ -1,0 +1,6 @@
+What documented comet has/had the highest specific orbital energy?
+
+After reading this answer I wondered if there have been document comets with orbits on non-return, hyperbolic trajectories as they approached the Sun.
+This means that they would not be gravitationally bound to the sun, so either they came from outside the solar system, or they managed to gain energy through a collision, or close pass with a large planet like Jupiter.
+The quickest way to find the comet with the "highest" orbit is to ask for the one with the largest specific orbital energy, the total energy (kinetic + potential) divided by the mass, (Joules/kg). For a bound orbit the value would be negative, for an unbound, non-returning orbit it would be positive.
+Question: What documented comet has/had the highest specific orbital energy? It should be an identified object with a known or measured orbit, not just a generic, nameless "edge-of-the-Oort Cloud placeholder."

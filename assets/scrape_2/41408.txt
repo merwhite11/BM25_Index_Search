@@ -1,0 +1,5 @@
+When a fast-moving star goes supernova, how will the resulting remnant evolve?
+
+Let's take a massive star that has zero velocity. When this star goes supernova, the resulting supernova remnant will expand in a sphere. But, let's take a runaway star travelling at 200 km/s. I am predicting that the remnant will form a teardrop shape, with the rounded edge compressed a little with the rear end elongated.
+My reasoning is that the material ejected "forwards" relative to the star's velocity vector will gain some velocity, leaving the dead star behind. However, the material ejected backward will lose velocity, meaning that it will stream out over a longer distance. So to a viewer it would look like a "cosmic fireball" in some sense.
+Is this correct, and would there be anything that could change this result? If I am wrong, what would be the actual way that the remnant would expand?

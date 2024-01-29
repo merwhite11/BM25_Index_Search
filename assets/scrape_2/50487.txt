@@ -1,0 +1,4 @@
+How to determine errors in coordinates from SIMBAD error ellipse
+
+How to determine errors in ICRS coordinates from the SIMBAD error ellipse, please?
+Thank you

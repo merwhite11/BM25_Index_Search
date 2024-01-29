@@ -1,0 +1,18 @@
+Does a continuous deformable mirror cause diffuse reflection?
+
+We have all seen images like this of deformable mirrors:
+
+Continuous deformable mirrors are known to have a higher quality over segmented mirrors, but it seems to me that a continuous mirror (or even a segmented tip tilt mirror) would cause diffuse reflection.  Here is a figure showing a segmented and a continuous mirror
+
+Since the light is coming in normal to the telescope (let's just say space telescope so we can avoid all possible atmospheric non-normal light), the purpose of the deformable mirror is to adjust the phase of the light.  It would appear to me that a continuous deformable mirror would also diffuse the light as seen from my rough drawing (I know that most mirrors are placed at a 45 degree angle, but you get my point).  Here is a figure showing the diffuse reflection at a 45 degree angle.
+
+It is well known that a segmented mirror causes light scatter (at each segmentation location), but I have not been able to find any literature on light diffusion on a continuous deformable mirror.  This must be true, but how is it not a problem and how do they address it? (pointing towards scholarly resources would be appreciated)
+UPDATE
+I will accept the answer posted below, but I think it is missing something important.  In the fourth bullet it is stated,
+
+I would conjure that the diffusion reflection at segmentation locations is not significant enough compared to the overall sub-mirror reflection
+
+This is still an opinion (though it could be correct), which is why I specifically asked for scholarly resources.
+I reached out to Professor Thomas Bifano from Boston University who specializes in deformable mirrors and his answer made sense and was readily verified in scholarly papers
+
+Diffuse reflection occurs when the reflective surface is rough: scale of surface asperities is large in comparison to the wavelength of light reflecting from it. In diffuse reflection, incident light at a fixed angle of incidence reflects (actually, scatters) at many different angles. If the local roughness of the surface is <<wavelength, there no diffuse reflection.

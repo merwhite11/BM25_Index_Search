@@ -1,0 +1,24 @@
+What does "GPU-accelerated butterfly matched filtering over dense bank of time-symmetric chirp-like templates" mean? (GW170817)
+
+A new analysis of gravitational wave (and other data) from GW170817 on 2017-Aug-17 has been published, strongly suggesting that the merger of two neutron stars resulted in a large, rapidly rotating neutron star, rather than a black hole. From the abstract of the recent open access Letter in MNRAS Observational evidence for extended emission to GW170817:
+
+[...]Here, we report on a possible detection of extended emission (EE) in gravitational radiation during GRB170817A: a descending chirp with characteristic time-scale τs = 3.01 ± 0.2 s in a (H1,L1)-spectrogram up to 700 Hz with Gaussian equivalent level of confidence greater than 3.3σ based on causality alone following edge detection applied to (H1,L1)-spectrograms merged by frequency coincidences. Additional confidence derives from the strength of this EE. The observed frequencies below 1 kHz indicate a hypermassive magnetar rather than a black hole, spinning down by magnetic winds and interactions with dynamical mass ejecta.
+
+Maurice H P M van Putten and Massimo Della Valle,
+Monthly Notices of the Royal Astronomical Society: Letters, Volume 482, Issue 1, 1 January 2019, Pages L46–L49, https://doi.org/10.1093/mnrasl/sly166
+Discussion in paper points to supplementary data and in the introduction to that document, it says:
+
+For GW170817A/GRB170817A, we perform a model-independent deep search for broadband extended gravitational-wave emission in 2048 s (LIGO 2017) of data at 4096 Hz according to Fig. A1 comprising
+
+Pre-processing: cleaning and glitch removal (Abbott et al. 2017a) followed by whitening of H1, L1 and V1 data;
+Singe detector spectrograms by GPU-accelerated butterfly filtering of H1, L1 and V1 by matched filtering over a dense bank of time-symmetric chirp-like templates (van Putten et al. 2014; van Putten 2017);
+Merging spectrograms by coincidences in frequency or amplitude, producing merged spectrograms as input to image analysis (van Putten 2018).
+
+
+I am having trouble understanding what GPU-accelerated butterfly filtering of H1, L1 and V1 by matched filtering over a dense bank of time-symmetric chirp-like templates means. van Putten et al. 2014 in the supplementary data document refers to both BROADBAND TURBULENT SPECTRA IN GAMMA-RAY BURST LIGHT CURVES and to  as well. These appear to be thorough explanations, but pretty in-depth.
+Question: Is it possible to explain the basics of what "GPU-accelerated butterfly filtering of H1, L1 and V1 by matched filtering over a dense bank of time-symmetric chirp-like templates" means? A dense bank of chirp-like templates sounds like it could be analogous to a wavelet-type analysis, but with basis waveforms tailored to this specific problem.
+First image is a cropped and annotated version of the second which ia from here.
+
+
+
+Figure2. Ascending–descending chirp in the (H1,L1)-spectrogram produced by the double neutron star merger GW170817 concurrent with GRB170817A (Goldstein et al. 2017) past coalescence (tc = 1842.43 s). Minor accompanying features around 100 Hz ( 1840-1852 s) are conceivably due to dynamical mass ejecta. Colour coding (blue-to-yellow) is proportional to amplitude defined by butterfly output ρ of time-symmetric chirp-like template correlations to data.

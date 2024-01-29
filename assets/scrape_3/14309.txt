@@ -1,0 +1,3 @@
+Are Wikipedia's sun ecliptic-coordinate formulae accurate?
+
+I'm creating a C++ program that calculates the ecliptic coordinates based on the formulae from Wikipedia But, my calculations appear off. The mean anomaly for today, for example, should be 80.4-something; both my program and Google calculate approx. 79.2 - the result of (357.528 + 0.9856003*5927) % 360 (where 5927 is the number of days since January 1, 2000, GMT)

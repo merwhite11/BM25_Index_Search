@@ -1,0 +1,3 @@
+Determining period of an exoplanet using radial velocity data
+
+I've spent an incredibly large amount of time trying to wrap my head around how the period is computed using just solely the raw data for the radial velocity. I've tried my hand with some nonlinear regression models but they seem to require an initial guess and knowledge of the period. Say, I had a star whose radial velocity data was available, how would I calculate an exoplanet's period? As well as that, how would one eliminate the influence of other neighboring stellar bodies in the radial vel data? Thank you.

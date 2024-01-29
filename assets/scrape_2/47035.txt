@@ -1,0 +1,3 @@
+Mars satellite data similar to Sentinel-2?
+
+For Earth, there is lot of free satellite data easily available. For example, I can download the Sentinel-2 optical images freely from https://scihub.copernicus.eu/. What would be the closest thing for Mars? I mean especially in terms of data availability. There are many satellites orbiting around Mars. If there is no remote analogue to Sentinel-2 in terms of data availability, why?

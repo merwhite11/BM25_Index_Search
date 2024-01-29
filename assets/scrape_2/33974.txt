@@ -1,0 +1,7 @@
+Could we detect an extraterrestrial signal with the SKA radio telescope?
+
+As I have not seen this question answered and, following the rules: https://stackoverflow.blog/2011/07/01/its-ok-to-ask-and-answer-your-own-questions/ , I would like to answer this important question.
+As you know, by 2027 we expect to have the biggest radio telescope already working: the Square Kilometre Array.
+According to the former Interim Director General of the SKA project, Michiel van Haarlam, it will be possible to detect the radar of an extraterrestrial airport 60 light years away, once the initial stage of the project is completed.
+However, a recent study also points out that the SKA could detect extraterrestrial airports 200 light years away. 
+Source: https://www.youtube.com/watch?v=ayqyb8XCtE0

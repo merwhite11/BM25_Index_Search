@@ -1,0 +1,47 @@
+Estimating a star's radius, temperature, and luminosity based on its mass
+
+(See updated figure and description below.)
+I've been trying to generate ballpark estimates for the radius, temperature and luminosity of stars in the main sequence based solely on their masses (assuming the same composition for all stars).  The idea is to iterate through masses in steps of, say, 0.1 solar masses from 0.1 to 100, and roughly trace out the curve of the main sequence on an HR diagram.
+For luminosity, I'm using something like this:
+  if ( mass < 0.43 ) {
+    L = 0.23*L_sun*pow(mass/M_sun,2.3);
+  } else if ( mass < 2 ) {
+    L = L_sun*pow(mass/M_sun,4);
+  } else if ( mass < 55 ) {
+    L = 1.4*L_sun*pow(mass/M_sun,3.5);
+  } else {
+    L = 32000*L_sun*mass/M_sun;
+  }
+
+For radius, I'm using something like this:
+  if ( mass < 1 ) {
+    R = R_sun*pow(mass/M_sun,0.57);
+  } else {
+    R = R_sun*pow(mass/M_sun,0.78);
+  }
+
+And, using these, I'm calculating the temperature from the luminosity-radius-temperature relation like this:
+T = pow(L/(4.0*M_PI*R*R*sigma), 0.25);
+
+where sigma is just the Stefan-Boltzmann constant.
+All of this works about as well as I'd expect for stars of 1 solar mass or above, but breaks down completely for M dwarfs, as you can see from the attached image which shows my meager effort superimposed on HYG data.
+
+Note that I'm plotting B-V here, calculated from temperature like this:
+BV = pow(5601.0/T,1.5) - 0.4;
+
+and absolute magnitude, calculated from luminosity like this:
+magnitude = -2.5*log(L)/log(10) + 71.1974;
+
+What can I do to improve this a little?  I'll add that this is aimed at being part of an exercise for undergraduates who are beginning programmers, so I'm looking for simple ballpark approximations, not anything fancy.
+Update:
+Based on Rob Jeffries' recommendation below, I took a look at the Mamajek data.  Here's a plot of B-V versus temperature from that data:
+
+I've superimposed a fitting function of the form:
+bv(t) = a/(b*t) - c
+
+where the best-fit parameters are:
+a = 4.2413
+b = 0.000576479
+c = 0.607144
+
+Using this function to calculate B-V moves my numbers in the right direction, but it still doesn't quite do the trick, as shown in the figure below (the new B-V values are the curve that's lower on the right-hand side):

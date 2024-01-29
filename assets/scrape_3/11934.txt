@@ -1,0 +1,6 @@
+Can we draw a min(distance) and max(mass) relation based on current observation data of nearby astronomical objects within several parcsecs?
+
+The data precision now can exclude a >>$1M_{\odot}$ black hole companion, which has a, say 10000 year orbital period with our sun?
+Can we draw a two dimensional diagram(Mass VS. distance) to show the region that is still a grey area? Within 1 pc, there is no stellar mass black hole? If there is one, the orbit change of objects in solar system may be detectable.
+How to calculate its proper motion or its planets' proper motion?
+I am serious to ask. Please give some reference/technical method to calculate PM. For example, is there some reference paper about the distance limitation of the black hole based on the motion of asteroids/comets?

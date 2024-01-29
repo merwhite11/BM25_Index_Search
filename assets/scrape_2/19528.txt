@@ -1,0 +1,3 @@
+How does the sun move over the year in the sky of the Moon?
+
+Wikipedia's section on the Moon's inclination says it is always 1.5° to the ecliptic. Does that mean that as seen from its surface, over the year the sun at zenith would move 1.5° to the north, then to the south, varying by 3° overall?

@@ -1,0 +1,4 @@
+Is a literal instance of Russell's teapot possible?
+
+Much has been said about Russell's teapot, and I accept as obvious that a teapot would be too small to be detectable in an orbit around the Sun by any reasonable method today, or by any method that can reasonably be expected to develop in the near future. But how small is "too small"? Is it possible that there are bodies the size of Phobos (or even the Moon) in the orbit around Uranus, for example?
+If there is anything I know about the Solar System, it's that the gaps in the distances between planets are huge. How can we be sure that there are no large bodies inside those gaps? I guess our observations are mostly based on (the absence of) gravitational anomalies, but how precise are they? Is the "limit of detectability" smaller for orbits around Sun than for much larger orbits e.g. at Jupiter's distance?

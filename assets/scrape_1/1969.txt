@@ -1,0 +1,4 @@
+regarding spectral type of a star
+
+consider two stars of the spectral type and subtype, but not necessarily both on the main sequence. Describe whether this information is sufficient to tell you how the stars differ in surface temperature, size, and distance?
+so if they have they same spectral type and subtype i think they're supposed to have the same surface temperature. however this is not enough information to tell us about their sizes and distances. is this correct? any insight would be great, thanks!

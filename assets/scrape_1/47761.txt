@@ -1,0 +1,9 @@
+What was "wrong" about the motion of Neptune in 1984?
+
+The cover story of the March 1984 issue of RUN, a popular computing magazine, was written by noted astronomer Charles T. Kowal.  In the article, he describes how he uses his home computer, a Commodore 64, to search for a possible tenth planet (back when Pluto was still considered to be a planet).  Kowal states his research problem as follows:
+
+A few months before I bought my Commodore, I started an investigation on the orbit of the planet Neptune. Astronomers know there is something "wrong" about the motion of Neptune, for they haven't been able to compute an orbit that will fit all the measurements of that planet's positions.
+One possibility is that Neptune is being disturbed by an unknown outer planet. A careful study of the motion of Neptune might lead to a prediction of the unknown planet's location. […]
+Something unknown is affecting the motion of Neptune. My Commodore 64 and I will try to find out what it is!
+
+I'm not aware of any follow-up article on Kowal's search for the cause of this anomaly with Neptune's orbit.  Did Kowal, or anyone else, ever establish why the motion of Neptune was "wrong"?  For example, has it since been determined that the observations or calculations made up to 1984 were erroneous, or did someone later discover some solar system object that fully accounted for the discrepancy?  Or does the problem with Neptune's orbit persist to this day?

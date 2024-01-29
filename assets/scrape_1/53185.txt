@@ -1,0 +1,14 @@
+BH rotating at maximum speed and extremal BH
+
+Academic problem:
+What should be the rotational speed of a planet at the equator such as there is no surface gravity?
+Plugging centripetal force=gravitational force...
+$$mv^2/R=GMm/R^2$$
+we get, assuming sphericity and uniform density
+$$f=\sqrt{G\rho/3\pi}$$
+For a black hole with effective density we get
+$$\rho=3c^6/(32\pi G^3M^2)$$
+Thus,
+$$f=c^3/(4\sqrt{2}\pi GM)$$
+Can this frequency be given a sense in the context of Kerr black holes (extremal case) and rotating black holes and/or gravitational wave frequencies? I feel I should protest since, as we know from black hole thermodynamics, surface gravity can not be reduced to zero...
+What I did here is usually made with planets or stars in "academic problems". Is the calculation meaningful for black holes as well with suitable care?

@@ -1,0 +1,5 @@
+Moments of inertia of planets
+
+The three principal moments of inertia of Earth and Moon are reported, for example, in T. J. Ahrens, Global Earth Physics - A handbook of Physical Constants.
+I have found reports of the moment of inertia factor $\dfrac{C}{M R^2}$, where $C$ is the polar moment of inertia, $M$ the mass and $R$ the mean radius, for planets of the solar system. 
+Are the three principal moments of inertia for the planets of the solar system known?

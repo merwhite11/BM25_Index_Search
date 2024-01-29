@@ -1,0 +1,6 @@
+Historical estimates of the density parameter
+
+From the reference in this answer I learned that our current estimate for the density parameter (i.e., the density of the universe divided by the critical density, which determines the shape of the universe) is 0.9993 +/- 0.0019. But I’m also interested in the history: how our estimates of this parameter have changed since the first attempts at measuring it were made.
+I have tried to find this information myself, and once again I have failed. Can anyone please help me?
+I don’t need a complete year-by-year account – a few historical highlights will do. (But I do need sources.)
+I have also asked this question on Physics StackExchange, but there have been no responses. I suppose this is a better forum to ask.

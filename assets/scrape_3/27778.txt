@@ -1,0 +1,11 @@
+What happens for a "closed" universe without any content?
+
+Let an universe with no content and positive curvature.
+Friedmann-Lemaître equation
+$$H^2=\frac{8\pi G}{3}\left(\rho_m+\rho_r+\rho_{\Lambda}\right)-\frac{k\, c^2}{a^2},$$
+where $a$ corresponds to the scale factor of Friedmann-Lemaître-Robertson-Walker Metric, and the $\rho$ to the density of the contents, 
+will become $$H^2=-\frac{\, c^2}{a^2},$$ as positive curvature (closed universe) corresponds to $k=+1$.
+So, as $H=\frac{\dot{a}}{a}$ with $\dot{a}=\frac{da}{dt}$,
+$$da=\pm i \, c \, dt$$
+$$a(t)=\pm i \, c \, t + cst$$
+what am I doing wrong ?

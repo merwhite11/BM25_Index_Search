@@ -1,0 +1,14 @@
+Looking for star database
+
+I am looking for a particular set of information to essentially make a star map for a game.
+What I need:
+
+All stars within 11,462 light years of Earth.
+Their stellar classification.
+If they have any planets around them (hypothetical or otherwise)
+Their position using an x, y, z coordinate relative to earth or
+galaxy center (I don't really get declination, etc)
+
+
+I need the extrapolated position/distance data, not the catalogs themselves.
+The best one I can find is HYG, HabCat, and HYGHag is limited to to like 120,000 of 1,2 billion estimated stars... Are there any better?

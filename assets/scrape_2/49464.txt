@@ -1,0 +1,7 @@
+How it is not possible to say if Titius–Bode law is a "coincidence" or not?
+
+From Wikipedia:
+
+No solid theoretical explanation underlies the Titius–Bode law – but it is possible that, given a combination of orbital resonance and shortage of degrees of freedom, any stable planetary system has a high probability of satisfying a Titius–Bode-type relationship. Since it may be a mathematical coincidence rather than a "law of nature," it is sometimes referred to as a rule instead of "law."[18] On the one hand, astrophysicist Alan Boss states that it is just a coincidence, and the planetary science journal Icarus no longer accepts papers attempting to provide improved versions of the "law."
+
+I'm rather baffled by the way the theoretical explanation is presented. How the question is not yet settled. Don't we have enough planets in our Galaxy to rule out this is a mathematical coincidence, or actually to assure the law? I've see this related question here, but I feel like it does not so much address my issue here. My question is rather not if Titius–Bode works or not, but rather why do we still have this questions open in the 21st century.

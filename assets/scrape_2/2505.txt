@@ -1,0 +1,4 @@
+2SB mixer in radio astronomy?
+
+In literature about the instrumentation of radio astronomy, I frequently come across a type of mixer described as "2SB".  I'm familiar with single-sideband (SSB) and double-sideband (DSB) mixers, but I have never studied a 2SB mixer.
+What is a 2SB mixer and how does it compare to a DSB mixer?  Ideally, I would also like to know of formal references that directly address the topic for further reading.

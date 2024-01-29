@@ -1,0 +1,4 @@
+What would the Earth's peri- and aphelion have to be in order to have the same seasons due to its orbit?
+
+Imagine the Earth had no axial tilt but had seasons due to a very elliptical orbit. How elliptical would the Earth's orbit have to be in order to have about the same seasons as it has now (just with the difference that they'd be in both hemispheres the same)? Mercury has a very elliptical orbit. If we scaled Mercury's orbit to a semi-major axis at 1 au, would we have the very same seasons? Mercury's surface temperature in its summer is ~430 °C and in winter ~280 °C (values for daytime). I guess this would translate into a too high difference if the Earth's orbit was as elliptical as Mercury's; it would have to be a bit less elliptical for the same seasons as now.
+How far would the Earth have to be from the Sun at its perihelion to have about 30 °C on the midlatitudes and at its aphelion to have about 0 °C?

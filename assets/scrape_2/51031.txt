@@ -1,0 +1,3 @@
+Where can I find datasets for all confirmed exoplanets, terrestrial exoplanets, and Super-Earth exoplanets?
+
+The NASA Exoplanet Archive has a Planetary Systems dataset offers celestial mechanical data for 5,197 confirmed exoplanets. The Exoplanets Catalog classifies these exoplanets as terrestrial, super-earth, Neptune-like, or gas giant. Where can I find spectroscopic data, estimates of composition, and/or data on water (or rock) for these exoplanets?

@@ -1,0 +1,14 @@
+Adaptive Optics observations worse than natural seeing observations for faint structures?
+
+I have read that one drawback of Adaptive Optics (AO) IFU observations is that they have lower SNR (compared natural seeing observations) and as a result it is harder to observe faint structures. For example, in a galaxy observation, while AO can give great resolution in the inner parts of the galaxy, the faint outskirts or the disk are more visible with natural seeing observations. Is that true? Why AO are not good with faint structures? I assume there is some loss of light during the whole process involved with AO which results in lower SNR? Can someone give me more details please?
+EDIT1:
+In this paper: http://adsabs.harvard.edu/abs/2011A%26A...528A..88G The authors say: 
+
+In the galaxies from the LSD sample we find more complex morphologies
+  which are likely the consequence of the AO-assisted observations
+  providing higher spatial resolution (∼0.2''FWHM) which allows us to
+  spatially resolve more complex structures, but lower sensitivity to
+  extended sources given the higher surface brightness detection
+  threshold.
+
+Which implies that the AO are causing lower sensitivity. Maybe the lower sensitivity has something to do with the brightness of the laser used in the AO observations?

@@ -1,0 +1,3 @@
+Calculating distance to High Redshift Galaxies based on observations
+
+I am aware that we need to account for the expansion of the universe, changing $H$, the relativistic redshift eqn: $1+z=\sqrt{\frac{c+v}{c-v}}$ and so on, but can we accurately calculate velocity using just redshift from observations of very high redshift galaxies? I'm thinking redshifts of $z>7$. I'd expect the light from these distant objects to be extremely redshifted, faint, and small, near point sources. What kind of assumptions/methods do astronomers use to calculate light-travel distance of these difficult to resolve objects? For instance, how would we know that an object being observed is a QSO at $z=7.64$ versus a Galaxy at $z=7.66$?

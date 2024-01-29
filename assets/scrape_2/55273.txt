@@ -1,0 +1,11 @@
+Extinction Level Event (Asteroid Impact Hypothesis) Likelihood Equation
+
+We have the Drake Equation that calculates the probability of intelligent ET (extraterrestrials/aliens).
+Since the asteroid impact hypothesis has been more or less accepted as the cause of the K-Pg Extinction Event that wiped out the nonavian dinosaurs, I was wondering if there's a Extinction by Asteroid/Comet Likelihood Equation along similar lines as the Drake Equation.
+A crude formula might look like this:
+$N$ = Number of asteroids/comets
+$f_I $= Fraction of N that regularly visit the inner solar system
+$f_P$ = Fraction of $f_I$ that are planetkillers
+$f_k$ = Fraction of $f_P$ that has a killzone that includes the earth
+Probability of extinction by asteroid/comet = $P(E_{a/c}) = f_I \cdot f_P \cdot f_K$
+Number of threats = $f_I \cdot f_P \cdot f_K \cdot N$

@@ -1,0 +1,5 @@
+'Geocentric' view of orbits
+
+Given our real solar system how would planet orbits plot look like if we fix earth in the middle (put earth in the middle and draw a real orbit of a given planet) ?
+What would be the shape of its orbit? Is there any software that allows you to do such plot ? Does anybody have an example of it ? 
+I have tried searching for such image but most results are connected with historical theory .

@@ -1,0 +1,18 @@
+By type, how far out do we have good star maps?
+
+First off, these questions asked by others seem related, but each asks a slightly different question and neither have very good answers:
+
+How well have we mapped our local neighborhood of stars?
+Radius to which all hydrogen-burning stars are known?
+
+
+My question is: how does the type of stars relate to the distance at which we are no longer sure we know of all of that type of stars? What about the distances we are reasonably sure we don't know all of them?
+While I'm interested in the answer for most star types, the types of primarily interest are the ones that are similar enough to the sun to expect them to be the most likely hosts for earth like planets. (I'm excluding things like giants that would have swallowed any of their original terrestrial planets and red dwarfs where the liquid water range would tidally lock planets.)
+For the sake of this question, I will consider a star "known" if we know its location to some reasonably small fraction of its distance (arbitrarily say 10%, though I'd go with something else if there is a compelling reason to). Something that's just a number in the Gaia catalog who's distance is the scientific equivalent of "probably somewhere in our galaxy" is functionally unknown for my use.
+
+For context, the way this question came up is the question of where to place a fictional story so that authors can get a desired degree of freedom? In order to match reality, it would be necessary to place it close enough that getting (mostly) complete maps of the relevant types of stars is practical. On the other hand, to have no real need to match reality, would require placing it far enough away that the majority of the relevant stars are expected to be unknown for the foreseeable future.
+Given that context, how much difference does it make what direction is being considered? do we have much better data looking out of the galactic plane? How about toward or away from the galactic core?
+Also, to put some limits on things: if the answer for the "most stars are unknown" distance is well under about 1.5kpc, then that part becomes moot as one of the options has other reasons to place things that far out. If on the other end, we have nearly complete catalogs to greater than 100pc that would also be a "good enough" answer.
+Note: based on this Gaia query, there are something like 700k known stars within about 100pc which makes me think there will be a lot of unknown stars in there as well.
+
+Edit: Using the highly scientific analytic technique of "squint at the graph", this random sample from Gaia (DR2) looks like it has fewer points right on the galactic plane than a little above or below it. As a non-expert, this suggest to me that the quality of that map is degraded there (background noise, extinction, etc.) Does anyone know if this translates to closer "horizons"? If so, how much?

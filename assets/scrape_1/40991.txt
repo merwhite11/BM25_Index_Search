@@ -1,0 +1,16 @@
+Different approaches to quantify light pollution on a given location on Earth?
+
+The question Light Pollution: what is the difference between artificial brightness and brightness and SQM made me wonder which different ways exist to directly and indirectly quantify light pollution at a given location on the Earth's surface? The obvious sources like Wikipedia etc. did not satisfiy my curiosity.
+What I came up so far as a list of different methods is the following:
+
+Look what you can observe with naked eye and use the Bortle scale.
+Use a Sky quality meter of any kind and measure luminance.
+Use the measurements of a pyranometer of your friendly metereologist or of an automatic weather station nearby and callibrate how many ${\rm W}/{\rm m}^2$ correspond to what value on the Bortle scale.
+Use satellite data of any kind to obtain an approximate
+
+If your urban area is bright enough, you could see that and in the visible spectrum of any weather satellite, and deduce a lower bound, i.e. how bright it must be at least on the ground.
+The US's DOD might release maps from the Defense Metorological Satellite Program every now and then.
+
+
+
+I am sure this list is not exhaustive - which other approaches am I missing?

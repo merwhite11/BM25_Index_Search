@@ -1,0 +1,5 @@
+A beginner project in plotting celestial bodies in 3D coordinate space
+
+As a data visualization task, I'd like to plot some celestial bodies in 3D coordinate space. I assumed there would be a lot of databases where celestial bodies are recorded along with an XYZ coordinate relative to our sun. As I ponder more on it I begin to realize other features, for example how is the axis of alignment achieved and agreed upon?
+Given the below data set, is it clear what system is in use and how I may interpret it in a way that gives me an XYZ I can begin plotting?
+https://www.google.com/fusiontables/DataSource?docid=1TZ3eoWstpR8d0O2-eqoz3VFDsLwSSzNA5wX4LxE

@@ -1,0 +1,7 @@
+Finding the SN explosion time by t-square fitting
+
+In a couple of papers I've read that it's usual practice to fit early rise of supernova luminosity curve by $t^2$. Let me describe how I see it:
+I take the early fast rising part of luminosity curve and then fit them to a curve:
+$L = a\cdot\left( t - t_0 \right) ^ 2 + L_0,$
+Where $t_0$ is the moment of explosion.
+Is this approach right?

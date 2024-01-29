@@ -1,0 +1,6 @@
+How fast can you determine latitude referencing only the sun?
+
+If you are dropped at an arbitrary point on the globe and you don't know the date can you determine your latitude based only on observations of the sun?  (Since I don't think it is possible to determine the hemisphere, let the question be latitude relative to the equator.)  How quickly can you do so?
+My first guess is that if you knew the earth's angle of inclination relative to the sun you could in theory get an answer as quickly as you can measure the rate of the sun's transit of the sky.  (Which with increasingly precise measurements would approach an instantaneous answer.)
+Without knowing the date I don't think you can quickly tell the earth's current inclination.  But I'm also not sure I'm thinking about this question optimally.
+(Let's ignore the boundary case where you find yourself in a polar region at a time of year when the sun doesn't appear at all.)

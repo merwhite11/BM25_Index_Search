@@ -1,0 +1,18 @@
+Is the universe macroscopically transparent to CMB? Is the fraction intercepted by stars and dust so tiny that it doesn't have a correction factor?
+
+Background
+The question Why do some electromagnetic waves continue travelling while others disappear? is interesting, and in addition to the answer there I started to write:
+
+This is a supplementary answer to @ConnorGarcia's answer using the example in the question. It's not very accurate but it does address part of the question:
+
+Cosmic background radiation emitted when the Universe was very young still exists. But my wifi signal seems to disappear a short distance from my apartment. Why?
+
+Imagine walking around in the middle of a city with a receiver that can pull in 900 MHz to 5 GHz. It will tell you that you are in a "soup" of radio photons; no matter where you go inside the city you'll...
+
+and then realized I didn't know what I was talking about.
+Question
+So instead I'd like to ask about the following:
+I think that CMB photons are believed to be "pristine photons" from soon after the big bang rather than absorbed and re-emitted and thermalized, and I seem to remember recently reading an answer here or in Physics SE saying that a measured CMB spectra (in any given direction) is fit with a Planck distribution with unity emissivity; there was no "fudge" or scaling factor in front for the absolute spectral radiance measured.
+But now I can't find that answer anywhere!
+Together those suggest to me that macroscopically the universe is essentially transparent to CMB, and the fraction intercepted by stars and dust between us and it is so tiny that it doesn't require a correction factor.
+Question:  Have I got this right?

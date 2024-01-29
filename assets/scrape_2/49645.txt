@@ -1,0 +1,3 @@
+How can the upper limit for a star's mass be calculated?
+
+I know there is a theoretical mass limit for stars around $300 M_\odot$. But I cannot find a way to calculate that number. I tried to use the "Eddington Limit", but I don't know if I'm on the right track. Any suggestions to calculate that limit?

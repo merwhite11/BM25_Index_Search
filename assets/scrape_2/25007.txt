@@ -1,0 +1,5 @@
+Might the SpaceX Roadster intercept any ongoing surveys?
+
+There are star survey telescopes in space, and on Earth. I don't really know how to begin to know where they will all be looking for the next few months. On the off-chance that someone does, or can suggest how to find out in a systematic way, I thought I would ask here.
+These is JPL's Horizons predictions for the Roadster spacecraft in its heliocentric orbit. They are based on both the last state vector readings from the spacecraft itself plus several optical sightings my medium sized telescopes.
+While the car is fairly small, it's still attached to the white, 2nd stage rocket body, so it continues to reflect a bit of light. You can read more and see some astronomical photos in this answer and read this answer for info.

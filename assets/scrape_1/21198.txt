@@ -1,0 +1,8 @@
+What telescope is this, and how does it work?
+
+In the excellent chemistry series of Periodic Videos' episode Amazing piece of metal (speculum) there is an interesting showing and discussion of Isaac Newton's first telescope. 
+At 02:36 there is a short cut to a view of a very large, modern telescope mirror. I'm confused by the image because it seems to show what looks like a small 45 degree elliptical, diagonal secondary mirror that you might see near the top end of a long focal length Newtonian telescope, except that it seems to be sitting in front of the primary, facing towards the stars.
+Can anyone identify this telescope, and help me understand the basics of how this particular optical system is configured?
+edit: I was so focused on the small mirror in the center that I neglected to read the caption. This "very large telescope" may in fact be THE Very Large Telescope, one of it's components at least. But because of all the shiny metal an reflections in mirrors, I still don't really understand what I'm looking at as far as the optical system is configured.
+
+https://www.youtube.com/watch?v=4ESW_NTIhBM

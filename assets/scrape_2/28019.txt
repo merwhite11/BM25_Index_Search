@@ -1,0 +1,5 @@
+What is the diffuse ionized gas?
+
+I've been trying to find a clean definition what people mean by when they talk about diffuse ionized gas in the interstellar medium, but I couldn't find anything so far.
+Apparently it's supposed to be trivial.
+Is it simply ionized gas, mixed with non-ionized gas in the ISM through the process of diffusion?

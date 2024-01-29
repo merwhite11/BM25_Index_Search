@@ -1,0 +1,4 @@
+What's the number density of `Oumuamua like objects?
+
+Recently, the fly-through the Solar system of the inter-stellar object (ISO) `Oumuamua caused quite a stir in the astronomy community. I wonder whether there are reliable estimates for the (local) number density of such objects. Such estimates could be based on the `Oumuamua event (when they are necessarily rather crude owing to very low-number statistics) or on any other constraints.
+A related question is: how close to Earth must an ISO pass to be detected with today's instruments, or 10, 25, 50 years ago?

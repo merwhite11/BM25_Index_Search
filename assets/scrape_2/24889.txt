@@ -1,0 +1,5 @@
+How does an Echelle spectrograph put such a long, high resolution spectrum into a square-ish format?
+
+In order to obtain a very high resolution spectrum to resolve closely spaced lines, or to measure doppler shits, spectrographs are operated with very high dispersion.
+But photographic plates and CCDs usually have rectangular formats with aspect ratios not very far from square. 
+Echelle spectrographs can put a highly dispersed spectrum into this format, but how? This article explains to some extent, but a concise discussion here would also be helpful.

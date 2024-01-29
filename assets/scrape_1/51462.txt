@@ -1,0 +1,10 @@
+How to show that $P_c=(9GM^2)/(14\pi R^4)$ from equation of hydrostatic equilibrium
+
+I need to show that $$P_c=\frac {9GM^2}{14\pi R^4}$$
+from the equation of hydrostatic equilibrium: $\frac {dP}{dr}=-\frac{GM\rho}{r^2}$
+in the exercise before, we show that $\rho_c=\frac {6M}{5 \pi R^3}$
+
+if I use this, and the fact that I know that $\frac{dP}{dr}$ can be exchanged with $-\frac{P_c}{R}$ we get:
+
+$P_c=\frac{6GM^2}{5 \pi R^5}$
+This is where I get stuck. I'm not really sure on where to go from this.

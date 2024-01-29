@@ -1,0 +1,8 @@
+calculation of characteristic expansion time of the universe
+
+Hubble's constant is estimated at 15km/s at a distance of million light years, without considering effects of mutual gravity, relativity, etc.
+I am trying to calculate the characteristic expansion time of the universe.
+Its formula is given as reciprocal of the Hubble constant, because time is distance by velocity. But:
+$$v=kx$$
+This implies that velocity and distance are exponential functions of time and so time cannot simply be calculated by dividing 1 million light years by 15km/s.
+So what am I missing? Why is the characteristic expansion time simply the reciprocal of Hubble's constant?

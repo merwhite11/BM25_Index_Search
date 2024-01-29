@@ -1,0 +1,10 @@
+Weird 2 body swapping orbit
+
+While messing around in https://dan-ball.jp/en/javagame/planet/. I came across a pretty stable orbit of 2 bodies around a star
+
+Orbit yellow:
+
+Orbit Blue:
+
+full album: https://i.stack.imgur.com/MXTrs.jpg
+Is this a know orbit type? if so what is the maximum distance between the inner circular orbit and outer circular orbit?

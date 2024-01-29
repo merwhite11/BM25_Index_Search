@@ -1,0 +1,3 @@
+Why is synchrotron radiation from relativistic electrons low in energy?
+
+Why do populations of relativistic (high energy) electrons emitting synchrotron radiation emit at mostly radio wavelengths? The fact that they are high energy makes me think they would emit high energy photons. As a particle moves in the magnetic field of say, an accretion disk, is it constantly emitting synchrotron radiation as it goes around?

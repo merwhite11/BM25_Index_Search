@@ -1,0 +1,3 @@
+What are the apparent visual magnitudes of Spica A and Spica B?
+
+What would be the (theoretical) apparent visual magnitudes of Spica A and Spica B (since they are too close together to be resolved telescopically)?  The Spica System is 77 parsecs away, and the combined apparent visual magnitude of the two stars is 0.97 at maximum (presumably when the stars are not eclipsing each other).  Their orbital parameters and respective luminosities, temperatures, and radii are given on Wikipedia: https://en.wikipedia.org/wiki/Spica

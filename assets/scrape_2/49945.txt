@@ -1,0 +1,6 @@
+Locate stars in sky from list of (x, y) co-ordinates
+
+Imagine we have a photographic plate that clearly shows a few stars, but we do not know where in the sky these stars are located.
+We can digitize the location of stars on this plate and now have a set of (x, y) values, but of unknown scale. Perhaps we can also assign a crude estimate of the relative magnitude of each star too.
+What is the easiest, practical way of generating a ranked list of candidates for where these stars may be located in the sky? Is there a library available, or a database, that allows such a query? An answer that requires programming is fine.
+Moderators, please re-word this question if I have asked it in a way that doesn't make sense! I am an outsider in this community. Thank you for your help!

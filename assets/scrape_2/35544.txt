@@ -1,0 +1,12 @@
+Is a year really 365.24 days, or is it 365.2564 days like I remember?
+
+The NPR News item and podcast Spring Starts Today All Over America, Which Is Weird includes the following:
+
+But why isn't the time of the equinox the same each year?
+The short answer is that the time and the date are imperfect human constructs that we use to keep track of our planet's movements.
+The longer answer involves leap years.
+All of this is caused simply by the fact that the spin of the Earth doesn't divide evenly into one year," says Michelle Thaller, an astrophysicist turned space communications expert at NASA.
+One spin of the Earth around its axis is one day. "The problem is we're happily spinning on our axis, and the Earth is going around the Sun, but one year — one complete path around the Sun — isn't an even, exact number of days. In fact, it's 365.24 [days]."
+
+Wikipedia gives Earth's orbital period as 365.256363004 days and I have always remembered it to be 365.2564 which is the same value as Wikipedia, just to fewer digits.
+So is a year really about 365.24 days or closer to 365.2564 days?

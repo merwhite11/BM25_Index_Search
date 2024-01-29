@@ -1,0 +1,6 @@
+Why are photos from telescope stretched at their edges?
+
+You may know the issue that photos from (at least some) telescopes are stretched at the edges, so that the star locations do not fit compared to if this location would be on the center of the photo.
+Why is this happening? I am looking for a detailed geometrical explanation
+Is there a standard way to describe this shift? In a YouTube video about Astropy, it said that the shift is proportional to a quadratic polynomial.
+Is there a common way to handle this issue?

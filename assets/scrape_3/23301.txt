@@ -1,0 +1,3 @@
+Season cycle < Year?
+
+Is it possible for a planet's axis to precess or wobble in such a way that its season cycle is of lesser duration than its year? The gyroscopic precession will thus give seasons to one or the other hemisphere during a possibly hundreds-year-long revolution around its star. Earth's precession is very much longer than it's revolution period, but is it possible that these could be reversed and a planet still be habitable?

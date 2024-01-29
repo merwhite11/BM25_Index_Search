@@ -1,0 +1,7 @@
+What are the orbital velocities of the other planets? For objects in a 'Low-Earth-Orbit' around planets other than Earth, e.g.?
+
+I was pondering this question recently, but most sites I can find only mention the speeds/velocities of the planets around the Sun when I look for 'orbital velocities' of the planets.
+I tried examining the velocities of moons around other planets, or NASA satellites, but these are all over the proverbial map, and often in very eccentric orbits.
+Is there a 'Low-Jupiter-Orbit' like there is for Earth (LEO)?  What is its altitude and speed?
+What about a Juno-synchronous or Jupiter-stationary high(er) orbit, as there is for Earth?
+P.S.:  Are there (simple) equations for these orbits?

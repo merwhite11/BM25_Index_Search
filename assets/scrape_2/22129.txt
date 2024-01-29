@@ -1,0 +1,4 @@
+finding Dec and R.A of a star by having Dec and R.A of another star
+
+How can we find Dec and R.A of a star by having Dec and R.A of another star.
+For example in the following picture , we have that for Errai (Dec: 77 , R.A 23H 40M). How can we find Dec and R.A of Gamma Delphinus. Note that we can't use Polaris for example because of cloud or something else. I want answer for when we have telescope and when we don't have telescope.

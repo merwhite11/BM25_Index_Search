@@ -1,0 +1,5 @@
+Calculating the separation of binary stars
+
+I'm struggling with the following problem:
+An eclipsing binary has period 0.10 years and each component has speed in its orbit of 19AU per year (or 90km/s) Assuming both stars have the same mass and that their orbits are circular, calculate their separation in AU and their masses relative to the Sun.
+I've tried solving using Newton's laws of motion and gravity and Kepler's 3rd law, but can't seem to get the expressions I need for the separation and relative masses.

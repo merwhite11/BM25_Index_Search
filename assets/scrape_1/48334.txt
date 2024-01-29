@@ -1,0 +1,3 @@
+Why does the factor of $\frac{1}{4}$ appear in this equation?
+
+This is an equation my professor wrote to calculate the equilibrium surface temperature of a planet:$\frac{S}{4}(1-A) = \sigma T^4$. (A is the albedo of the planet and S is the intensity of starlight at that distance). Why is there a  factor of $\frac{1}{4}$ on the left hand side?

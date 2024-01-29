@@ -1,0 +1,21 @@
+Examples of radio correlations over times much longer than interferometric baselines?
+
+Very Long Baseline Interferometry or VLBI such as the Event Horizon Telescope or JPL's delta-DOR (see below) uses baselines of the order of the Earth's diameter.
+
+Spacecraft position determination
+How do we track the exact location of the spacecraft which is millions or billions of miles away from us?
+Help understanding BepiColombo's weak capture at Mercury's L1 and need for delta-differential one-way range measurements
+Tracking Arc and Time for Precise Orbit Determination
+
+The Earth's diameter is about 12,000 kilometers.
+The Russian radio telescope satellite Spektr-R allows for an even larger baseline, with an apoapsis that can reach to 300,000 kilometers!
+
+What artificial satellite has the farthest orbit around the Earth?
+What are Spectr-R's major contributions to radio astronomy that could not have been done from Earth? (currently unanswered, should I move it here?)
+
+These result in maximum arrival times of about 42 milliseconds and 1 second, respectively.
+In order to combine these signals, mathematical correlation is used, and the "beam is steered" by varying the time delay in the correlation. This can be done in real time, or during "playback". In the case of the Event Horizon Telescope (from which we are waiting for a press conference next Wednesday) suitcases full of hard drives are flown on airplanes from the various sites and collected before the correlation can even begin.
+
+How does the Event Horizon Telescope implement the interferometry?
+
+Question: Have there been observations with much longer delays used in correlation of radio signals? Minutes? Months?

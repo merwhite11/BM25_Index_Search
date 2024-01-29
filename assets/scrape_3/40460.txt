@@ -1,0 +1,6 @@
+Moons with curlicue paths around our Sun?
+
+I naively believed that since our Moon orbits Earth, and since Earth orbits the Sun, the path our Moon might take around the Sun would be this type of epitrochoid curve:
+
+I was surprised and delighted to find that our Moon's orbit around the Sun actually forms a convex curve which is really darn close to Earth's orbital path: Moon's orbit around the Sun.  Since the Earth's instantaneous velocity around the Sun is much greater than the Moon's instantaneous velocity around the Earth, we don't get any of the closed "curlicues" I expected to see.
+Are there any moons in our solar system with epitrochoid paths around the sun that appear to have closed curlicues?  If so, what are they and what do the paths look like?

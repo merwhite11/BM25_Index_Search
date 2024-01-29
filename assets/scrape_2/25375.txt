@@ -1,0 +1,3 @@
+What is the distance of the Earth's orbit around the Moon?
+
+I realize the Earth and the Moon both orbit around their shared center of mass, and that in the case of the Earth and Moon this center is "inside" the Earth. However, I'm looking for an approach to determine the distance the Earth travels in one "orbit around the moon" (as small as it may be).

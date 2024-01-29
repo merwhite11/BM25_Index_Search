@@ -1,0 +1,8 @@
+Solar Noon: meridian crossing time versus time of maximum elevation
+
+According to the first paragraph of the Noon Wikipedia page, solar noon is the moment when the Sun crosses the meridian and is at its highest elevation in the sky. The wording there suggests that there is an exact identity between the solar meridian crossing time and the solar maximum elevation time on a given day. However, later in same article in the Solar Noon section it states that, 
+
+Solar noon is the moment when the Sun transits the celestial meridian – roughly the time when it is highest above the horizon on that day.
+
+(Emphasis mine)
+The use of the word "roughly" really surprised me. I was strongly under the impression that these times were necessarily equal for sub-polar regions. Am I wrong and missing something, or is the wiki article just poorly worded?

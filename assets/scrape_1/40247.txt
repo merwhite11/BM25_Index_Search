@@ -1,0 +1,7 @@
+What should be the "poles" for irregular shaped bodies?
+
+Continuation of: What is the definition of a "pole" of a celestial body?
+
+uhoh's answer says that distinct bodies should have a center of mass. If the body is spherical, then the COM will be near the middle of the body. By definition, the body's rotational axis should pass though COM and the extreme ends of this rotational axis should be considered "poles".
+But what about bodies whose COM lies outside the body itself? For instance, crazy C-shaped objects. In this cases, the COM lies outside the body, the axis of rotation does not intersect the body's surface and so technically, there are no "poles" for such bodies. So, how should we describe the "extreme ends" of the body?
+Note: There are a few bodies where there are no stable poles but they have their reasons. Saturn's moon Hyperion and the asteroid 4179 Toutatis lack a stable north pole. They rotate chaotically because of their irregular shape and gravitational influences from nearby planets and moons, and as a result the instantaneous pole wanders over their surface, and may momentarily vanish altogether.

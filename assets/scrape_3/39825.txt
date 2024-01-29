@@ -1,0 +1,7 @@
+density of dark matter halo
+
+I was surfing the net for knowing the actual density of dark matter halo for a particular Mh(Mass of the halo) and finally, I got two equations:
+ for pseudo-isothermal halo
+and
+ by NFW-profile
+So, with which density distribution of dark matter halo should I go corresponding to any Mh?

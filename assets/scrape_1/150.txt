@@ -1,0 +1,12 @@
+How can I collimate a dobsonian telescope with a laser collimator?
+
+I've had a dobsonian telescope for a while now, but I've never been able to collimate  it. I thought I had it collimated once, but when I looked through it the star didn't look right, it looked kind of like a round disc with a hole in the middle. I know the basic idea behind doing it with a laser collimator, you need to get the laser to line up with the center of the primary mirror as well as line up in the center of the target on the laser itself. However, I always have a lot of difficult accomplishing this.
+For starters, I always have a lot of trouble getting the secondary mirror lined up. I'll get really close, but once I get close I have a lot of trouble doing the fine tuning to get the laser in the middle. I'll get it in, but when I got to tighten the other screws it will no longer be lined up. I'll try to account for the tightening as well, but it's always a guessing game for me when it comes to knowing which screws to loosen and tighten so that the laser winds up where I want.   
+I don't have that many problems with the primary mirror, and can normally get that lined up fairly easily. However, usually after lining up the primary mirror the secondary mirror no longer seemed to be lined up and I need to do the secondary mirror all over again. I'm assuming this is to be expected, but considering the difficulty I have lining up the secondary mirror it's very frustrating. 
+I've tried looking around at resources online, but none of them go into enough detail into aligning the secondary mirror. They just say "adjust the screws until it's lined up", which doesn't solve my problem, since I have trouble figuring out exactly which screws to adjust and when. I'm also confused as to what I should see through my telescope when it is properly aligned. Most of the sites just use a diagram, but I'm never really sure what to make of the diagram. The one time I did line it up it looked like a round disc with a hole in the middle, which I didn't think looked right.
+So to summarize, the main problems I have are:  
+
+I have trouble fine tuning the secondary mirror, since I have trouble accounting for the movement of the mirror when tightening the two screws I didn't loosen   
+I'm not sure what a star should look like through my telescope when it is properly collimated 
+
+Can anyone offer some detailed instructions, and possibly a video, of how to collimate a dobsonian telescope with a laser collimator?

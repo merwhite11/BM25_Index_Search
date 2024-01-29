@@ -1,0 +1,4 @@
+How does a black hole spin?
+
+This seems like a pretty basic question, but I couldn't find a duplicate upon quick inspection. From what I understand about black holes they actually contain no matter. All of the mass that maintains the black hole (ie. keeps space warped) is found in the energy bound in the space itself. I may not be stating this quite right, but this is basically what Kip Thorne states in "The Science of Interstellar". Therefore, it seems that to maintain angular momentum during black hole formation that space itself must "spin". This would imply that space is actually "spinning" even in the vicinity of the Earth (to a much lesser degree of course). Is this true?
+As an aside, I don't take everything that Kip says as gospel truth. He states several times that Io is the innermost moon of Saturn in Chapter 7.

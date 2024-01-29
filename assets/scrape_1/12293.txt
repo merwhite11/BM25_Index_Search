@@ -1,0 +1,4 @@
+Why does the Hertzsprung–Russell diagram's x-axis go from large temperatures to lower?
+
+In my textbook, the H–R diagram’s y-axis is $\log(L/L_{\odot})$ and values are higher as we go higher on the scale, but the x-axis is $\log(T_\text{eff})$ and gets smaller as we proceed to the right.
+This confuses me. Why not let the x-axis go from lower values to higher values? This will also help visualising the “linear” relation between the luminosity and the temperature of a star in the main sequence.

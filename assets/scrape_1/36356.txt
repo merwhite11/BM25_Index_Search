@@ -1,0 +1,9 @@
+Why isn't there a large gap in the number of captured moons Jupiter and Saturn have?
+
+Given that Jupiter is roughly 3x as massive compared to Saturn and is located right next to the asteroid belt, it feels that Jupiter should easily have a larger amount of captured moons. However currently, due to a recent survey of Saturn discovering 20 new moons, Saturn has 57 observed captured moons compared to Jupiters 71. 
+Also summing the mass of the 6 largest captured moons for each planet gives:
+- Jupiter: 7.844*10^18kg
+- Saturn: 8.372*10^18kg
+Why isn't there a larger gap between the number and mass of Jupiter and Saturns captured moons?
+Note:
+While Jupiter has a very large amount of Trojan asteroids, the main focus of the question is moons directly in orbit around the main planet.

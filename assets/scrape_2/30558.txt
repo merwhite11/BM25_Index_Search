@@ -1,0 +1,18 @@
+What produces gravitational waves with "periods between about 100 - 8000 seconds"?
+
+The Ulysses mission has a compelling story. It was sent to Jupiter to perform a gravitational assist shooting it out of the plane of the ecliptic in order to fly over the Sun's north and south poles to perform "fast latitude scans". Because of its design it was used for several important lines of scientific study.
+Ulysses contained a pair of coherent transponders which received signals from Earth, shifted them in frequency in a coherent way using phase-locked loops and beamed them immediately back to Earth at two different frequencies.
+From ESA's write up of the Ulysses Gravitational Wave Experiment:
+
+In the spacecraft Doppler tracking method, the Earth and spacecraft constitute the two objects whose time-varying separation is monitored to detect a passing gravitational wave. The monitoring is accomplished with high-precision Doppler tracking in which a constant frequency microwave radio signal (S-band) is transmitted from the Earth to the spacecraft (uplink); the signal is transponded (received and coherently amplified) at the spacecraft; and then transmitted back to Earth (downlink) in both S- and X-band signals. This Dual frequency downlink is required in order to calibrate the interplanetary media which affects the two frequency bands differently. The downlink signal is recorded at Earth and its frequency is compared to the constant uplink frequency f0 to extract the Doppler signal, δf / f0.
+
+The article goes on to say:
+
+Since the optimum size of a gravitational wave detector is the wave length, interplanetary dimensions are needed for detecting gravitational waves in the mHz range. Doppler tracking of Ulysses provides sensitive detections of gravitational waves in this low frequency band. The driving noise source is the fluctuations in the refractive index of interplanetary plasma. This dictates the timing of the experiment to be near solar opposition and sets the target accuracy for the fractional frequency change at 3.0 × 10-14 for integration times of the order of 1000 seconds.
+SUMMARY OF OBJECTIVES
+The objective of the gravitational wave investigation on Ulysses is to search for low frequency gravitational waves crossing the Solar System. Because of the great distance to the spacecraft, this method is most sensitive to wave periods between about 100 - 8000 seconds, a band which is not accessible to ground-based experiments which are superior for periods below 1 second.
+
+You can read more about Ulysses in eoPortal's Ulysses where I found both the link above and the following:
+B. Bertotti, R. Ambrosini, S. W. Asmar, J. P. Brenkle, G. Comoretto, G. Giampieri, L. Iess, A. Messeri, H. D. Wahlquist, “The gravitational wave experiment,” Astronomy and Astrophysics Supplement Series, Ulysses Instruments Special Issue, Vol. 92, No. 2, pp. 431-440, Jan. 1992
+
+Question: What produces gravitational waves with "periods between about 100 - 8000 seconds"?

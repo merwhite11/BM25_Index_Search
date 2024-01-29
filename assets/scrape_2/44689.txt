@@ -1,0 +1,8 @@
+How does a comet crumble? Are there models for that?
+
+Edit: Initially, the title was How does the crumbling sound?
+I am curious how comets degradate or even disintegrate over time, in particular while they are close enough to the Sun to have tails. Is there some theory on that somebody can point me to? Would modeling it with some exponential decay with a constant decay constant for the times in the inner solar system make sense?
+What does that have to do with sound? Well, I assume all forces will not be acting homogeneously on the "dirty snowball" and will therefore induce some phonons. I am optimistic that one can transpose these excitations into accoustic  samples, at least I have heard that for other vibrating  objects (pun intended) that vibrations modes outside the range of the human ear have been octaved down or up so that we can listen to them. I am also curious about these vibrations and how they contribute to the decay of the comet core.
+Related
+
+The sounds of Mars and Venus [...]

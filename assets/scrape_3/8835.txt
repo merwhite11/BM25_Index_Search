@@ -1,0 +1,5 @@
+L4&L5 positions?
+
+I know that, in L4&L5, the distances to the two main bodies should be equal. Still, how can I calculate that distance with accuracy? How can I know that that distance is inside the equipotential surface?
+Let's take, as an example, the Sun-Earth system and the Earth-Moon system.
+Thank you in advance!

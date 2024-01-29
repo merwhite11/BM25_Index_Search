@@ -1,0 +1,8 @@
+A curious relationship between lunar periods and the solar year
+
+Earlier today I was exploring the astronomy features on WolframAlpha, when I stumbled upon an intriguing numerical relationship involving the values for the lunar synodic and sidereal months. Using the values
+$$P_{syn}=1\,\text{synodic month}=29.530588\,\text{days},~~P_{sid}=1\,\text{sidereal month}=27.321661\,\text{days},$$
+I noticed that this algebraic combination is very close to one year:
+$$\frac{1}{P_{sid}^{-1}-P_{syn}^{-1}}=365.256396\,\text{days}\\
+\frac{1}{P_{sid}^{-1}-P_{syn}^{-1}}-1\,\text{tropical year}=0.0142053\,\text{days}\approx20\,\text{minutes}.$$
+I really doubt this this is a coincidence. Is there a simple way to understand what makes this approximate equality hold?

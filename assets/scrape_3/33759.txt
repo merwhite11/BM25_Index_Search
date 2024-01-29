@@ -1,0 +1,7 @@
+How do we distinguish old craters from new ones on the Moon?
+
+The following image is the observation made by the Dual Frequency Synthetic Aperture Radar (DF-SAR) onboard the Chandrayaan-2 Orbiter:
+
+Due to image size restriction, a lower resolution image is used here. In case you wish to see the original image, visit this ISRO Webpage.
+In the above image, there are three craters marked Young (Fresh), Intermediate and Old, and we are able to see the difference clearly. This ISRO Webpage states that the difference is due to weathering processes. I can't understand how can such processes undergo in our Moon, where there is no appreciable amount of atmosphere. Is that because of Moonquakes?
+It would be great if you could explain this.

@@ -1,0 +1,17 @@
+Would a satellite that has a retrograde orbit and a shorter orbtial period than its planet's rotational period be tidally accelerated or decelerated?
+
+There are 4 configurations to consider. A satellite orbiting a planet that:
+
+Has a prograde orbit and larger orbital period than its planet's rotational period (example: The Moon)
+
+Has a prograde orbit and smaller orbital period than its planet's rotational period (example: Phobos)
+
+Has a retrograde orbit and larger orbital period than its planet's rotational period (example: Triton)
+
+Has a retrograde orbit and smaller orbital period than its planet's rotational period (example: N/A)
+
+
+For the 1st example, the planet's rotation will slow down and the satellite will receed into a higher orbit. This will keep happening until both the planet and satellite are tidally locked to each other. (Tidal acceleration)
+For the 2nd example, the planet's rotation will speed up and the satellite will spiral into the planet. (Tidal deceleration)
+For the 3rd example, the satellite will spiral into the planet but the planet's rotation will also slow down. Angular momentum is conserved because the orbit is retrograde. (Tidal deceleration)
+What would happen in the 4th example? Is it a "negative times negative gives a positive" situation and we refer to the 1st example?

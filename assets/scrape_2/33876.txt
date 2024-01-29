@@ -1,0 +1,4 @@
+Finding the solar radius from temperature and luminosity
+
+This question has eluded me for days; I can't seem to solve it.
+A certain star has a temperature twice that of the Sun and a luminosity 55 times greater than the solar value. What is its radius, in solar units?

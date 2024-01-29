@@ -1,0 +1,5 @@
+Why are telescope mirrors nearly flat?
+
+My understanding of telescope mirrors is that they are (generally speaking) a slice out of an imaginary sphere. The center of this sphere is the focal point of the telescope, where the detector is placed. The bigger the sphere, the further away the focal point will be.
+With this in mind, why are telescope mirrors nearly flat? Would it not make sense to instead use the same diameter mirror, but with a smaller imaginary sphere so the detector doesn't have to be so far away?
+I have made a crude image to demonstrate my point. The blue arc and point represent a more traditional "nearly flat" mirror, whereas the red arc and point represent a mirror that has the same diameter but with a smaller sphere and therefore closer detector.

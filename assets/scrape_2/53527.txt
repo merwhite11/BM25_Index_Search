@@ -1,0 +1,9 @@
+Converting UTC (10 digit) to LST (Local Sidereal Time)
+
+I am an astro-particle physicist looking for some simulation based on the experiment observation.
+The simulation dataset contains 10 digit Epoch dataset for UTC time, however, I need to convert this into LST.
+https://www.epochconverter.com/
+Fortunately, I could find a converting website for 10 digit Unix epoch to actual UTC time, however, I could not find out how could I convert it into LST.
+Local Sidereal Time
+Here is also a formula but I don't know the formula for UTC to UT (Universe time), so I don't think using this will help me a lot for my purpose.
+If anyone can offer me nice converting formula, it would be great.

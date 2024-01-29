@@ -1,0 +1,3 @@
+Spectrograph Arrangement, Noise, and Fourier Domain
+
+If the transform of a line profile extends out to the Nyquist frequency such that we cannot see the noise level, what could we change in our spectrograph arrangement that would allow us to see the noise level in the Fourier domain?

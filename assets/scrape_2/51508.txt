@@ -1,0 +1,6 @@
+Is there a library/API like Leaflet available for Starmaps?
+
+Some Background
+I am working (recreationally) on R package that allows for users to create custom, print quality, map art that is commonly found on many drop shipping sites. Seeing that there are sites that offer custom star maps I am exploring development of a suite of functions that would allow for custom star maps similar to what I've done for world maps.
+The Question
+Does there exist a library similar to Leaflet (or is somehow possible with Leaflet) that allows for creation of custom star maps?

@@ -1,0 +1,8 @@
+Would you get the same planet-discovering data for our own system at the same distance we're getting from Earth?
+
+So there's a boatload of planets being discovered around stars in our solar neighborhood.
+Kepler 22, 638 ly away, was discovered to have a planet Kepler 22b, calculated to be twice the size of Earth.
+The observations that make these measurements aren't high resolution images but periodic changes in luminosity (the transit method).
+My question is: would a similar situation with similar telescope properties (Kepler) detect our own Earth around our Sun from a similar distance? If not, then how close would you have to be to see Earth?
+Presumably there is some correspondence among: distance, luminosity/size of a star, size of a planet. Any other factors that make Kepler-22 different from us?
+Note: this question asks about Alpha Centauri. I'm asking specifically about distances like Kepler-22.

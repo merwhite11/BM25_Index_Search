@@ -1,0 +1,9 @@
+How are the occurrence and nature of micrometeoroid impacts on JWST optics identified?
+
+There are been recent news about a larger-than-expected micrometeoroid impact on the James Webb Space Telescope's optics.  Apparently this was one of several impacts that have already been observed.
+The question is: how are these measured and analysed? Do we know exactly when these events occur because they are logged on accelerometers or strain gauges or gyros or other 'microphones'?  Does star-tracking (FGCS) respond quickly enough? Or is the impact only known about later when a dark- or light-field 'selfie' of the primary mirrors is taken?
+
+Do enough instruments respond with sufficient accuracy so we can figure out exactly the momentum and energy (or speed, direction, and mass) of the particle and where/what it hit? Can we tell if the particle traversed the heat shields or other structures before it hit the mirror?
+The blog posting also says "By adjusting the position of the affected segment, engineers can cancel out a portion of the distortion".  That certainly can't be true for a point-defect on the primary mirror.  Do these impacts lead to global distortions to a mirror segment that can be corrected with the seven actuators?
+There are several nice youtube videos posted (e.g. Becky, Anton) but they really don't address this question.  I do see there is a related question already posted but it really asks about the effects of the impact in degrading observations rather than the detection and analysis of the events.
+I see now that the NASA blog says "Between May 23 and 25, NASA’s James Webb Space Telescope sustained an impact to one of its primary mirror segments".  The fact that they know where but not when suggests that the information comes only from a routine selfie of the mirror.  That is probably the most sensitive measurement.

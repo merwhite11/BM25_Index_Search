@@ -1,0 +1,4 @@
+Obtaining the Flux-Time plot for a Quasar
+
+As a follow up question to Obtaining the Light curve of a a Quasar, I wish to know how to obtain a Light curve for a quasar observation like this data set over here.
+Is there an archival repository where I can find processed csvs of quasar observations like these for a testing of a particular theory that i need to carry out. Thanks!

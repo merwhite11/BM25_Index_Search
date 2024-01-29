@@ -1,0 +1,5 @@
+What azimuth description systems are in use?
+
+For a time, I thought Azimuth is always direction in degrees, 0 for local, geographic north, 90 for east etc.
+Then, trying to observe moonrise I downloaded an app that gave azimuth in values between (if I recall correctly) -180 and 180, and I think "0" corresponded to south. I tried to read up on that and found very little fragmented information. I found other resources that frustrated me with numbers greater than 360, or provided values commonly associated with "West" for azimuth of moonrise and generally it took a bit of searching to find something with plain "degrees from north"
+Could someone either post or provide a link to a comprehensive guide to various azimuth angle systems, when and where they are in use, and how to recognize which one is used?

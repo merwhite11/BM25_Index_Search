@@ -1,0 +1,9 @@
+Black Holes emitting Hawking radiation
+
+I've read that even light cannot escape from black holes.
+The speed of light is theoretically predicted to be the escape velocity of a black hole.
+I've also read that the general notion that nothing can escape from a black hole is wrong.  Even black holes emit particles and radiation known as the Hawking radiation.
+My question is: How can black holes emit any kind of radiation?
+If they even do emit, wouldn't the speed of the radiation be less than or equal to velocity of light?
+If the escape velocity of a black hole is c, then how can the Hawking radiation even escape the black hole? Wouldn't it be pulled back into the black hole? Then, how is it even 
+emitting anything?

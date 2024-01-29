@@ -1,0 +1,4 @@
+Database for distant stars
+
+I'm looking for a database of stars that lists as many of the known stars as possible. Ideally, I'd like it to have information on the radius of the stars, the distance from the earth and the classification.
+What source(s) exist for this data (preferably in a simple form)

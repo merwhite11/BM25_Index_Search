@@ -1,0 +1,3 @@
+Telescope optical tolerance from central axis
+
+I sometimes encounter telescopes/binoculars with a decent objective diameter but are very difficult to use because they only work when the eye is looking down the central axis (i.e. in the centre of the field) or close to it; if you try to focus on an object towards the edge of the field of view it goes black.  Is there a name for this tolerance?  It doesn't sound related to exit pupil but probably is something to do with eye relief - i.e. the distance of eye to the eyepiece lens.

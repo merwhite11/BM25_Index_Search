@@ -1,0 +1,4 @@
+Mini disk of a blackhole meaning
+
+What is meant by the "mini disk" of a blackhole? Is it the same as accretion disk? If not, whats the difference? 
+Eg: In the abstract of this paper https://arxiv.org/abs/1806.05697 it is mentioned "When the accretion rate is relatively high, the circumbinary disk, accretion streams, and mini-disks combine to emit light in the UV/EUV bands"

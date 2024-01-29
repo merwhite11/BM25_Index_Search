@@ -1,0 +1,13 @@
+If the density of nebular distribution increases symmetrically in all directions, how does space curvature explain it?
+
+Edwin Hubble, in The Observational Approach to Cosmology, wrote
+
+Thus the density of the nebular distribution increases outwards,
+  symmetrically in all directions, leaving the observer in a unique position. Such a favoured position, of course, is intolerable.
+
+My first question is: do more recent observations still show a symmetrical nebulae density increase? Or did Hubble just do a miscalculation, misinterpretation of an observation etc.?
+Apparently, Hubble can solve this problem with spatial curvature. Further below, he writes
+
+Therefore, in order to restore homogeneity, and to escape the horror of a unique position, the departures from uniformity, which are introduced by the recession factors, must be compensated by the second term representing effects of spatial curvature. - There seems to be no other escape.
+
+I understand how an expanding Universe explains the symmetrical redshift, but I fail to understand how it explains the symmetrical increase of nebulae density.

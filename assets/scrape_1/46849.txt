@@ -1,0 +1,5 @@
+What is the meaning of integrated emission maps for these chemical species?
+
+
+In the Astrobites article Spectral Line Survey Reveals New Molecules in Two Protoplanetary Disks integrated emission maps depict the spatial distribution of the flux received from each "line." I am unsure as to what this line is, nor do I know what the x and y axes represent in terms of interstellar molecules' emissions.
+Do the x and y axes just represent the position and velocity of the molecules in a galaxy?

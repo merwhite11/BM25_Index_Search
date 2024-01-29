@@ -1,0 +1,4 @@
+What is the horizon-ecliptic angle formula?
+
+For an observer in a city with latitude 35°, at what sidereal time is the angle that the ecliptic makes with the horizon equal to the angle that the equator makes with the horizon? What is the angular distance of these two contact points at this time?
+I could calculate the max and min angles between horizon and ecliptic. I get that the horizon-ecliptic angle is going to be (90-35) degrees here. But I just don't understand how the angles between horizon and ecliptic change. Is there a formula for that?

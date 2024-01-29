@@ -1,0 +1,6 @@
+Is a three body gravitating system doomed to collapse?
+
+Suppose we have two gravitating bodies, which are rotating around each other. They are bodies and are affected by deformation caused by tidal forces. Moving tidal waves suck energy from the axial rotation of these bodies. After some time their axial rotation will be synced with orbital rotation and tidal waves will be stopped. Like Moon orbital rotation around Earth is synced with its axial rotation. Maybe I missed some additional effects but it seems to be a quite accurate assumption.
+Except for some special cases, if we have three orbiting bodies, their orbital rotation cannot be synced with axial rotation altogether.  Tidal waves in such a system will exist and suck energy indefinitely. And the only source of energy is potential body energy. Will they fall?
+I understand that such effects should be very small; it hardly can be measured in the solar system, because the variation of mass of planets and the Sun causes a much higher effect.
+But anyway are there any measures that support the existence of such an effect for something? Or is there theoretical proof that this effect does not work for some reasons I missed?

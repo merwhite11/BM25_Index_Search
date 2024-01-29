@@ -1,0 +1,9 @@
+Gas mass and velocity in galaxy
+
+I was going through the SPARC data on galaxies (http://astroweb.cwru.edu/SPARC/)
+The velocity of gas in the SPARC data is in http://astroweb.cwru.edu/SPARC/MassModels_Lelli2016c.mrt
+The gas velocity seems to be different from the observed rotational velocity of the stars.
+Does it mean that the gas and the stars are rotating at different velocities around the galaxy's center?
+What does HI data actually measure? The velocity of atomic hydrogen?
+
+In, astroweb.cwru.edu/SPARC/BTFR_Lelli2019.mrt, column 6 gives Vf and column 12 gives Vmax. This I am comparing with column 6 (Vgas) in astroweb.cwru.edu/SPARC/MassModels_Lelli2016c.mrt

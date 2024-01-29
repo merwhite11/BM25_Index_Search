@@ -1,0 +1,4 @@
+What values can a color index variable get?
+
+I am a statistician with love and passion for astronomy. I try to explain some outliers I found in the values of quasars - color indexes. I found four (4) values close to twenty (20). Is that scientifically possible or there is an error in the CSV file? What values can a color index get?
+Ty in advance.

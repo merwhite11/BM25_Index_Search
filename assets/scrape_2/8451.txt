@@ -1,0 +1,3 @@
+Calculating area of visible sky
+
+Can we calculate the area of sky visible to us from the point we are standing?I mean is there any idea or experiment to calculate it?

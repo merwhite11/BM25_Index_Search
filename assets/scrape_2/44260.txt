@@ -1,0 +1,23 @@
+Conversion of Moon's Celestial Position (RA and dec) to Horizontal Coordinates
+
+I'm currently attempting to calculate the equatorial sky position of the Moon for any given Geostatic position (longitude / latitude) for any given datetime.
+I have tested my altitude and azimuth calculations for the major start Betelgeuse. The altitude and azimuth provided match within an accuracy of 0.6 degrees to this online tool:
+https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi
+
+My programming test (written in the Javascript testing framework "JEST") is as follows:
+test('convertCelestialCoordinatesToEquatorial', function() {
+  // Let's find where Betelgeuse will be on the datetime above:
+  let { alt, az } = celestia.convertCelestialCoordinatesToEquatorial(
+    betelgeuse,
+    datetime
+  )
+
+  expect(alt).toBeCloseTo(72.78539444063765, 1)
+  expect(az).toBeCloseTo(134.44877920325155, 1)
+})
+
+So, I'm confident my calcualtions for converting between celestial coordinates and equatorai coordinates are correct, for the Moon's RA and dec are correct (my calculations are correct with three different online widgets to a good level of precision).
+However, when I convert the RA and dec of the Moon I know to be correct, through the equatorial conversion function I also know to be correct for distance stellar objects, I get an incorrect value for the altitude and azimuth of the Moon.
+This leads me to assume that the equatorial conversion for distant objects can not apply to the Moon, due to various effects that haven't been factored in...
+So my question:
+Does anyone know the calculation to convert between RA and dec for solar system objects?

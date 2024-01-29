@@ -1,0 +1,4 @@
+What observatories provide data similar to USNO?
+
+USNO (the United States Naval Observatory) generates positions for the celestial bodies (planets, moons,stars) and provides them in the form of .bsp files and their Astronomical Almanac.
+Is there any alternative open publication produced by EU or other big countries?

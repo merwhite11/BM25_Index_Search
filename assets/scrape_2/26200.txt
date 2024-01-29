@@ -1,0 +1,21 @@
+Implementation of formulae for Meeus for the Moon
+
+With Astronomical Algorithms by J. Meeus (1998)
+I have obtained the relevant illuminated fraction of the disk and position angle.
+But they're numbers (all Greek to me!) I know, Meeus explains that they're ratios of the lengths of the illuminated limb and areas.
+Okay, so I have a ratio.  How do I implement that together with the position angle to work out the direction of the illuminated limb and the amount illuminated?
+I'm assuming that the ratio 1.0 is totally illuminated (i.e. Full Moon)
+and 0.0 is nothing (i.e. New Moon).
+and then there is the position angle, I'm assuming that the direction in degrees is starting at 0 pointing upwards.  Is that the crescent shape direction i.e. the horns are pointing away from the directional angle?
+I would like to be able plot this so that I can show visually the moon's illuminated fraction and direction for any day in any given year.
+As I said, I have the numbers, I'm trying to translate that into a more visually appealling and meaningful result.
+Meeus says this is the selenocentric elongation of the Earth from the Sun (Phase Angle) - i.   
+the formula for illuminated fraction k is:
+k = ( 1 + cos i ) / 2
+tan i = (R sin l) / (D - (R cos l))
+R = distance Earth-Sun
+D = distance Earth-Moon
+l = geocentric elongation
+Meeus calls k the ratio of the lengths BC:AC
+the same as the ratio of the areas: NBSC:NASC
+Where

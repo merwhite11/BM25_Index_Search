@@ -1,0 +1,9 @@
+VSOP87D: What are the purpose of the initial columns in the VSOP87D data?
+
+I am trying to write an app to determine planetary positions, using Jean Meeus' Astronomical Algorithms as a reference. His guidance on using the VSOP87D data is straightforward, as are many other sources that I googled. But all of these talk only about the last three columns of that data. What is the purpose of the preceding columns? Some are self explanatory (e.g., the simple numbering of each row), but others seem to have no explanation either in the file itself or the 'read me' documents that accompany it on the FTP site. I want to ensure I fully understand the data.
+Here is an example of the third row of VSOP87D for the planet Jupiter:
+4510, 3, 0, 0, 0, 0, 2, -5, 0, 0, 0, 0, 0, 0, -0.00566632795, -0.00089195704, 0.00573610145, 1.44406205976, 7.11354700080
+where I have replaced the various spaces with commas to save space.
+I will note that the term .00573610145, for example, differs by by several orders of magnitude from that listed in Meeus' table, as do some other terms. But this does not seem to correspond to any of the numbers in the other columns, unless I'm missing the obvious.
+The data is taken from the FTP website: ftp://cdsarc.u-strasbg.fr/pub/cats/VI%2F81/VSOP87D.jup
+Thanks!

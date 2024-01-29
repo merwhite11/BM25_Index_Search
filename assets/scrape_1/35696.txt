@@ -1,0 +1,6 @@
+Why is rotational motion absolute, is the universe spinning?
+
+When considering any object, one can say its translational movement is relative, depending on the point of view or reference frame adopted. If it moves at 1/4c relative to some observer, one might say it is the observer that moves at 1/4c and the object is stationary relative to it. It has no internal acceleration.
+Experimentation at small scale will tell that a spinning object displays increasing internal acceleration the further away from its center of mass it is measured. -centrifugal force-
+This forbids rotational motion to be understood as something relative, in the same way as uniform rectilinear motion is, so that when an object spins around its center of mass, noone could say "No, this object is rotationally stable, it's the entire universe that spins around it." 
+Fundamentally, why and how is rotational motion absolute in this way, and how could we know if the universe is or is not spinning at larger scale, at some spinning rate we cannot measure since we're trapped in this spinning reference frame, unable to detect it experimentally since it's too huge?

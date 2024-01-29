@@ -1,0 +1,6 @@
+Tables or software for some astronomical data
+
+Recently I saw a beautiful (but not rare) phenomenon - Jupiter was "directly above" the Moon, that is, they had the same azimuth and a small difference in altitude.
+I would like to see on the graphs how the altitude between the planets changes at those moments when they have the same azimuth.
+Preferably hour by hour.
+I can't find suitable software, tables (for downloads as files) or formulas!

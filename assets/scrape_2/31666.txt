@@ -1,0 +1,9 @@
+Trouble with plotting a graph for the Planck function
+
+Here is my problem statement:
+For a temperature of $7.3 \times 10^5 \ \text{K}$, make a graph of the Plank function (Eq. 3.24), plotting $\log_{10}{\nu} B_\nu(T)$ vs $\log_{10} \nu$ for $\log_{10} \nu$ between 15.5 and 17.5. How does the behaviour of your graph of a blackbody compare with that of Fig. 28.14 for the continuous spectrum of the quasar 3C 273?
+Here is the equation 3.24
+\begin{equation}
+    B_\nu (T) = \frac{2h \nu^3/c^2}{e^{h\nu/kT}-1}.
+\end{equation}
+I have put together an excel spreadsheet and created a graph of $\log_{10}({\nu} B_\nu(T))$ vs $\log_{10} (\nu)$, however, it is just a straight line (which is what I would have expected although the graph in the book is significantly different). I am wondering if I am misunderstanding the problem statement. What I did to get my data points for $\log_{10}{\nu} B_\nu(T)$ is I first computed $\nu$ values from the given range of $\log_{10} \nu$ values, then I computed B(T) values with the above-given equation. Then I substituted the product into logarithm : $\log_{10}({\nu} B_\nu(T))$, thus obtaining my $y = f(x)$ values. and then I plotted it against  $x = \log_{10} \nu$. Am I doing things wrong or is this fine?

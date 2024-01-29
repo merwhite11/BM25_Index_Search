@@ -1,0 +1,5 @@
+How to interpret error of absolute magnitude of a star given data from wikipedia?
+
+This Wikipedia page contains information about the star Spica in the rightmost table. A small snapshot of this table is below.
+
+In this table, the absolute magnitude is given as −3.55 (−3.5/−1.5). Instead of seeing the value and error given as value ± error, I am thinking the error is given as it is because of absolute magnitude is given on a logarithmic scale (as opposed to linear scale). But I am not quite sure how to interpret this as an error reading. How does one interpret this reading?

@@ -1,0 +1,15 @@
+Molecule formation when an atomic gas cools down
+
+I have read about the actual formation of interstellar molecules; although interstellar chemistry is very different from solvent-based chemistry on earth, I understand it to be driven by the presence of dust grains, and by the constant ionization by cosmic rays, which facilitates exchange reactions.
+Now I'm wondering about this hypothetical case:
+
+we start with a hot atomic gas with a density similar to the interstellar medium, with the same type of composition we can observe now (74% H, 24% He, O, C, N, Fe, Mg, Si, S,...)
+we let that gas cool down, there isn't any radiation nor any dust.
+
+Without the effects that I mentioned above, covalent bonds could only form when collisions happen between two atoms.
+Of course, the more exothermic a formation reaction is, the more likely a collision between two atoms to lead to a covalent bond.
+By the time the gas is completely cold, how much of it should I expect to be molecular?
+
+Would I only see O2, N2 and the likes?
+Would molecules like CH4 ever get to form? I understand its enthalpy of formation is negative, but I don't know if that's the case starting with just atomic C and atomic H?
+Would metals ever bond with anything, or is the probability of formation of Ferric/Magnesium oxides too low given the low density of metals and oxygen?

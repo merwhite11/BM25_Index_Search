@@ -1,0 +1,4 @@
+Printed Circuit Board manufacturing file for Radio Jove?
+
+I woild like to build a Radio Jove receiver whose design is available on NASA website. However, I don't want to purchase the receiver, I would like to make it, but but I don't have any knowledge about the PCB design. May
+someone please help me to get the PCB manufacturing file?

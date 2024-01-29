@@ -1,0 +1,5 @@
+What happens to the non-fusion formed metals in stars?
+
+Let’s consider a population I star of some given metallicity.
+I know that depending on the type of star, different structures are possible with convection zones and radiative zones trading around depending on the type of star and it’s age, but in a broader sense, I’m asking about what the fate of metals are in the body of the star: are they evenly mixed in with the star for the most part, do they sink towards the center of the star during star formation, etc? I know we see metal lines in the stellar atmosphere so there must be at least some there, but what is the nature of their distribution?
+Note: I’m interested in metals that are not from fusion within the star in question but rather present from previous events (e.g. previous generations of supernovae that put metals into this star’s initial gas cloud)

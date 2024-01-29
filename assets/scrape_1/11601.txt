@@ -1,0 +1,9 @@
+Radial Density Profile Equation
+
+The Virgo Galaxy Cluster has a mass of $10^{14} M_{\odot}$ and its centre is $16Mpc$ from Earth. The large elliptical galaxy $M87$ lies at the centre of the Virgo cluster. $M87$ has a supermassive black hole at it's centre with an estimated mass of $6 \times 10^9 M_{\odot}$. Take Hubble's constant to be $H_0=70 km s^{-1} Mpc^{-1}$. 
+Taking the Virgo cluster to be spherically symmetric with a radial density profile given by 
+$\rho(r)=\rho_0 (\frac{r}{1Mpc})^{-2}$,
+Determine the value of the constant $\rho_0$ is S.I units assuming the radius of the Virgo cluster is 1Mpc. 
+
+I am confused with how to approach this question, 
+I know that density $\rho=\frac{M}{\frac{4}{3} \pi r^3}$, when I substitute it into the given radial density profile, the $r$ variable doesn't cancel, should I substitute the radius of the cluster into $r$? Is it really that straight forward?

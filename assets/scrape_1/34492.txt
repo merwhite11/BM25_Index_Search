@@ -1,0 +1,6 @@
+Are there home-brew photometers for amateur observing of variable stars and are they widely used?
+
+Comments on Why do these photometric observations of Betelgeuse look “quantized” in 0.1 magnitude steps? suggest that these are visual estimates, mostly (but not all) to 0.1 magnitude resolution.
+Are there any designs for simple photodiode-based amateur photometers for stellar brightness measurements? 
+Just as an illustration of the kind of thing I'm asking about, I'm imagining a pair of binoculars with a 1 mm photodiode suspended by its wires the focal plane of one eyepiece, and a Raspberry Pi recording the photocurrent (with a small amplifier) and audio simultaneously ("I'm now measuring xxx... mark!") The data would be jumpy but presumably would reach a plateau whenever the star fell on the active area of the diode.
+Or is this too impractical and not backwards-compatible with existing data?

@@ -1,0 +1,3 @@
+Which coordinate system should one use for simulating a spacecraft trajectory to the moon?
+
+Which coordinate system is most suited for this type of problem? ecliptic? equatorial?

@@ -1,0 +1,3 @@
+Search satellite locations on the sky by date and coordinates
+
+I would like to know what satellites, asteroids, comets, etc passed through a certain coordinate or region on the sky at a certain date. I have found sites like NASA's HORIZONS, but this searches for coordinates for a specific object only. Does a tool to perform this type of generalized search exist?

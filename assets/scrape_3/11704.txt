@@ -1,0 +1,7 @@
+Finding the suns position in the sky anywhere at any time
+
+What am I looking for?
+from any point Latitude, Longitude and date D 
+I want to know where the sun is in the sky at any given time anywhere on our planet. I even don't know what the outcome will be for this calculation. I Imagine an angle and a height.
+Can someone send me on the right path for doing this? 
+I am not looking for a quick formula that let's me calculate this bur rather understand the components :)

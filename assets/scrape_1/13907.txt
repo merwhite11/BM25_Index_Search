@@ -1,0 +1,9 @@
+Rate of Mass Loss from the Solar Wind
+
+This is problem 1-4 from Principles of Stellar Evolution and Nucleosynthesis by Clayton:
+Assuming at the Earth a characteristic velocity of 400km/s and density of 10amu/cm$^{3}$ for the solar wind, calculate the rate of mass loss for the sun.
+There weren't any formulas about this in the section so I made a stab at it with dimensional analysis.
+$$\frac{dM}{dt} = \frac{\rho V}{\Delta t} = \rho v A$$
+$$\frac{dM}{dt} = \left( \frac{10 amu}{cm^{3}} \right) \left( \frac{400km}{s} \right) \left( \frac{4 \pi (6.96e10 cm)^{2}}{1} \right) \left( \frac{10^{5}cm}{km} \right) \left(\frac{10^{-24} g}{1 amu} \right) \left( \frac{M_{\odot}}{2 \times 10^{33} g} \right) \left( \frac{3600s}{hr} \right) \left( \frac{24 hr}{day}\right)\left(\frac{365day}{yr}\right)$$
+$$\frac{dM}{dt} = 3.84 \times 10^{-19} M_{\odot} / yr $$
+However, the answer given in the book is $0.4 \times 10^{-13} M_{\odot} / yr$. So, I'm off by about five magnitudes. Can anyone point out where I went wrong and/or point me in the correct direction?

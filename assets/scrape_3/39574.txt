@@ -1,0 +1,3 @@
+Why do some pulsar planets have designations with a capital letter at the end?
+
+The pulsar PSR B1257+12 has three planets. Most triple-planet system have designation foo b, foo c, and foo d. However, I noticed that the three planets of this pulsar (PSR B1257+12) have a designation of A, B, and C as well as b, c, and d. Why did this naming convention deviate from the standard?

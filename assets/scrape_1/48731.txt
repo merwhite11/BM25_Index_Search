@@ -1,0 +1,5 @@
+Is one transit enough to be confident that we detected an exoplanet
+
+Everything is pretty much in the title. I was thinking about the transit method and was wondering if the signature of a transit on the light curve of a star is distinctive enough to only need one transit for confirmation. I know that to deduce other information like the period or the distance of the planet you need more transit, but is one enough to confirm the presence of an exoplanet ?
+Is there other phenomena that can produce this type of light curve ? For example if a cloud of gas would pass in front of the star i would expect the brightness to drop for a long time. I would expect also the probability of a small solid objects passing in front of the star far away such that it's angular size would be the same as of a planet would be very rare.
+Or maybe is it because our measurement is too noisy and we need to correlate a signal over time to be confident that we observed a transit ?

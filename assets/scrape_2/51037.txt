@@ -1,0 +1,5 @@
+How do astronomical spectrometers measure spectra from single stars separately, without contamination from all of the nearby stars?
+
+I am currently looking into light spectrometers, and I noticed that the ones I found had a similar problem; when the light reaches the spectrometer, it mixes giving a broad range of light wavelengths.
+Are there astronomical spectrometers in observatories on Earth or in space telescopes that can measure the spectrum *from a single, specific star separately, i.e. without getting light from other stars contaminating the target star's spectrum?
+If so, how do they do it?

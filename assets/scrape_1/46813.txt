@@ -1,0 +1,8 @@
+Why doesn't Triton orbit over Neptune's equator?
+
+In this answer, I wrote (on another account) why most moons orbit over their planet's equator.
+Any rotating planet has an equatorial bulge that shifts its moons' orbits around its equator over long periods of time; but sometimes the Sun's perturbations win out and the moon ends up orbiting closer to the planet's orbital plane.
+As I said in that answer there are 3 large moons that don't orbit over their planet's equator (The Moon, Iapetus, and Triton), and I tried to explain why that is the case for each.
+But while writing that answer, I realized that there really is no good reason for Triton not having an equatorial orbit. It orbits closer to Neptune than our own Moon, and being so far away from the Sun the solar perturbations are negligible.
+So why, exactly, doesn't Triton have an equatorial orbit? I'm sure having a retrograde orbit and likely being a captured orbit have something to do with it, but still.
+It has literally been billions of years. Even if Neptune's equatorial bulge was tiny, it still should've been enough to shift its orbit.

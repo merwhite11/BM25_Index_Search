@@ -1,0 +1,14 @@
+INDI protocol with AZ GoTo SynScan to control an amateur telescope mount : problem with tracking
+
+I have a SkyWatcher telescope with an AZ mount and a SynScan GoTo to drive the telescope.
+I want to drive the telescope from my computer.
+Using Linux, I use the INDI protocol (https://www.indilib.org)  with the Kstars/Ekos software.
+The problem is that, when I ask the system to track a specific RA/DEC coordinates point, the telescope slews but then stops tracking.
+I have the same problem using carte du ciel instead of Kstars.
+Here are some system specifications
+
+synscan version : 4.39.1 
+indilib version : 1.8.3 
+OS : Linux Debian 9
+
+Has it happened to someone else?

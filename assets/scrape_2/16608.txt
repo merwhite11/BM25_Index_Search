@@ -1,0 +1,9 @@
+Energy carried by solar wind
+
+What are the velocity, mass, and charge distribution of the solar wind.
+
+Near the earth within the magnetosphere in the ecliptic
+Near the earth but outside the magnetosphere in the ecliptic
+Outside the ecliptic at 1 AU
+
+I would like to understand the energy content of the solar wind, and how it compares with the solar radiation(solar constant is $1360\, Wm^{-2}$)?

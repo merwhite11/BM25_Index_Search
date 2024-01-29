@@ -1,0 +1,28 @@
+Solar Winds and Bow Shock Cause
+
+Not a scientist so please type your answers slowly. : )
+Is the magnetosphere the only thing that can cause bow shock?
+Edit: For context:
+My research:
+Wikipedia (I know, I know, just for background)
+https://en.wikipedia.org/wiki/Bow_shock
+NASA
+https://science.nasa.gov/science-news/news-articles/cosmic-bow-shocks
+Science Direct (Elsevier)
+https://www.sciencedirect.com/topics/engineering/bow-shock
+Physics World:
+https://physicsworld.com/a/bow-shock-no-show-shocks-astronomers/
+Writing a sci fi book (as a hobby - tech writer by trade) and trying to do generally realistic science. So no FTL or interstellar travel but magnetic sails and a whole lot of plasma wind. : D
+Which led to bow shock, which led to some characters observing the edge of their system and me wondering what happens to the solar winds there.
+So based on the Physics World link, bow shock at the confluence of, at least our system and interstellar space, seems to be more of a bow wave. Seems the speed of our system and/or interstellar space are not what we thought it was, thus diminishing the, for lack of a better term, the impact, between the solar winds and their plunge into interstellar space. The article suggest that the magnetic pressure in the interstellar medium is higher than we thought.
+So, here's where I am in my layman's understanding, which could be wrong:
+The energy emitting from the sun heats plasma (charged particles) to the point the sun's gravity cannot contain it and it is discharged in a radius causing the solar winds. Meanwhile, earth, just minding its own business is busy churning its inner molten iron core which creates a magnetic "bubble" around the earth. This protective layer is more comet shaped than bubble with the head facing the sun (our daytime side) and the tail extending far past the moon. (Is this an effect of the sun's gravity?).
+The stream of particles coming from the sun are moving at roughly 1M mph (?). Earth is moving through space at approximately 67000 mph. As the solar winds encounter our magnetosphere the reaction is similar to a ship's bow (earth) traveling through a body of water (the solar winds) and the force of the interaction, like a bow making waves, pushes back the solar winds and forces them to pass around the edges of the head of magnetosphere. Scientist have termed this bow shock. You can see examples of bow shock occurring throughout the galaxy.
+At the edge of our solar system, where the solar winds pass through and enter the interstellar medium there was an expectation of bow shock but instead it was far diminished. The two reasons I can deduce for this is that the interstellar medium is moving slower than we thought and magnetic density is higher than we thought.
+OK, so to refine my question:
+
+Is bow shock always relative to a magnetosphere or magnetic density.
+What causes magnetism in the interstellar medium? The movement/collision/reaction of the molecules/atoms that comprise parts of it?
+Is bow shock audible?
+
+Thanks in advance for any help. I know that was a lengthy question.

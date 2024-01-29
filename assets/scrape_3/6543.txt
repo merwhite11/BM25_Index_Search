@@ -1,0 +1,6 @@
+Can matter leave the cosmic horizon?
+
+Cosmic horizon in the de Sitter space is a sphere, centered at the observer with finite radius where the red shift due to cosmic expansion becomes infinite.
+Given that no information can be transmitted from behind the cosmic horizon, I wonder whether any matter can ever pass behind the event horizon, because this will give rise to an information paradox, similar to the black hole information paradox.
+The matter approaching the cosmic horizon seems to experience time dilation, so will that time dilation prevent it from crossing the horizon?
+To work around the paradox, one have to postulate that the information about outgoing matter should be encoded in the de Sitter radiation.

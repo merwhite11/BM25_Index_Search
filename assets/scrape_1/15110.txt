@@ -1,0 +1,18 @@
+Why don't we see more supernovae in our galaxy?
+
+I found this on the Wikipedia page on supernovae:
+
+The total supernova rate in our galaxy is estimated to be about 4.6 per century, or one every 22 years, although we haven't actually observed one for several centuries.
+
+That sounds like a freak occurrence to me.
+It made me curious about the numbers so I refreshed my knowledge on the Poisson distribution. It is not specified how many centuries we have not seen a supernova, but let's assume it's only two.
+If on average 9.2 supernovae happen per 2 centuries then the chance of having exactly 9 in any two century period can be calculated with:
+$$p(k) = {\lambda^k \times e^{-\lambda} \over k!}$$
+Filling in $k=9$,
+$$p(9) = {9.2^9 \times e^{-9.2} \over 9!}=0.1315$$
+The chance that there is not a single supernova in a two century period is:
+$$p(0) = {9.2^0 \times e^{-9.2} \over 0!}=0.00010104$$
+That's about a 1 in 10,000 chance. If "several" means 3 centuries, then the chance of not having any supernova is as little as 1 in 100,000.
+So from this I can only come to the conclusion that supernovae did in fact happen in the Milky Way in the last two centuries, but that we didn't see any of them.
+But now I'm confused. I read about supernovae that have happened in galaxies billions of light-years from here that lit up as the brightest source of light in the sky for days. Surely we would be able to see all of the supernovae that happen in our Milky Way (no more than 100,000 light years away) with the naked eye, let alone with telescopes?
+Are some supernovae so much more super than others? Are all of the Milky Way's supernovae visible to the naked eye?

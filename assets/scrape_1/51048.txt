@@ -1,0 +1,6 @@
+Deepest known objects in the vicinity of Capella (or, generally, any specified object)
+
+There must be a way to do this, but I don’t know where to start.
+Given a star (or other object, or a RA and dec), and a radius, what are the (say) 10 known deepest sky objects in this area, ordered from farthest to closest (with estimates of their distances)?
+Currently interested in the area between Capella and “the kids” (eta, zeta, and epsilon aurigae). See attached.
+Thanks.

@@ -1,0 +1,8 @@
+Tycho Brahe's model
+
+Tycho Brahe made a model of universe where earth is at the centre and motionless whereas all other planet orbited around the sun.
+I am interested to know how he came to this model? If it is because of parallax then how could he observe parallax as there was no telescope?
+From here:
+
+Brahe also noted that previous measurements of the planets, as recorded in the texts of the time, were incorrect. With his new measuring devices, he was able to record the position of the planets with the best possible accuracy for naked eye observations - ten times more accurately than people had been getting until then.
+Even with his high quality observations, Brahe was not able to detect any changes in the positions of the stars over the year, which should occur if the Earth revolves around the Sun. If he had, this would have constituted direct proof of the Earth's motion. This parallax effect was not detected by astronomers until the 19th century.

@@ -1,0 +1,7 @@
+Why is there no time in the distance equation using Hubble constant, red shift and speed of light?
+
+So I had some problem and I think I solved it, then I began to dig out things around it and I found some equations using red shift etc. to get speed of the object in Universe relative to us and then I found this one:
+distance=speed of light/Hubble constant*red shift
+It took some time before I found the thing which seems to be wrong with this thing. 
+How can I get the distance traveled if there is no time mentioned?
+Thanks in advance!

@@ -1,0 +1,4 @@
+Is it possible to explain the difference between synodic month and sidereal month by degrees?
+
+Is it possible to explain the difference between synodic and sidereal month by degrees - in the following way? 
+Just recently I learnt about these two types of months, and I want to see if I can understand the difference by degrees method. Assuming the orbit's moon is 360 degrees, the sidereal month starts from the point where 1st degree to (include) 1st degree, while the synodic month starts from 1st degree to the 0.5 degree (after full orbit's moon, because the angular size of the moon is 0.5 degree). Is it possible to understand why it that's way?

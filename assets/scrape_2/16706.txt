@@ -1,0 +1,10 @@
+Is the radius used in the formula for the escape velocity the average radius of the celestial object or the radius at the starting location?
+
+I learnt that the escape velocity is given by $$v_e = \sqrt{\frac{2GM}{r}}$$
+Say I want to launch a rocket from the earth into space and want to calculate the escape velocity $v_e$ (I guess without air resistance). Which value of $r$ do I have to use:
+
+The mean radius of the earth...
+... or the distance between the center of mass of the earth and the launch location?
+
+Thanks in advance.
+(I have basic classical (and quantum) mechanics knowledge, but I am very new to orbital mechanics.)

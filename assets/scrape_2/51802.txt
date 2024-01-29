@@ -1,0 +1,4 @@
+Polar day length
+
+On Earth, are north and south polar days the same length?  If not, at what latitudes north and south would they become equal? Or, what resources could I use to answer this question?
+I am referring to the time from sunrise to sunset. Because of perihelion during the south polar day and aphelion during the north polar day I assume that the length of light exposure would vary. I seem to remember that in the middle latitudes the difference is compensated for by increased rotation speed at perihelion but that does not seem like it would apply to the polar day. (I am using day as the period with direct sunlight (including refraction) and not a calendar day).

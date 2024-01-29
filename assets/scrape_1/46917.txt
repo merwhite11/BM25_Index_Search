@@ -1,0 +1,37 @@
+How to calculate orbital velocity of binary star?
+
+I am trying to simulate the Alpha Centauri AB System. I built the simulation, it works flawlessly when trying to simulate our solar system, and I am now trying to simulate the AB System. I found all the measurements, but I can't seem the simulate it properly. I tried calculating the positions and velocities of the two bodies by using this script I wrote:
+G = 6.67430e-11 # gravitational constant
+pi = 3.1415926535 # pi
+au =  1.495978707e11 # astronomical unit
+solar_mass = 1.989e30 # solar mass
+
+m1 = 1.0788 * solar_mass # mass of a
+m2 = 0.9092 * solar_mass # mass of b
+m = m1 + m2
+
+d = 1/0.75081 # distance in parsecs, 1/parallax
+
+a = 17.493 * au * d # large semi-axis in au, from distance * semi-axis
+a1 = m2 * a/m # large semi-axis of a
+a2 = m1 * a/m # large semi-axis of b
+
+e = 0.51947 # eccentricity
+
+r1 = a1 * (1+e) # distance from barycenter at apastron of a in meters
+r2 = a2 * (1+e) # distance from barycenter at apastron of b in meters
+r = r1 + r2
+
+
+def func():
+    print("object 1 pos: {}".format(r1/au)) # distance in au
+    print("object 1 vel: {}".format((G * m2 * ((2/r1) - (1/a1)))**0.5)) # velocity at apastron of a
+    print("object 2 pos: {}".format(r2/au)) # distance in au
+    print("object 2 vel: {}".format((G * m1 * ((2/r2) - (1/a2)))**0.5)) # velocity at apastron of b
+
+func()
+
+This is the result I get from calculating position and velocities using the script and then simulating it:
+
+The problem with this is, that it should result in a stable orbit, but instead they just go wandering off. I realize that I may have calculated the escape velocities by accident, but using the same formula, to calculate the orbital velocities of the planets of our solar system, seems to work fine.
+I am really frustrated right now as it just won't work, but I really need it to. I would appreciate any help on this topic. :)

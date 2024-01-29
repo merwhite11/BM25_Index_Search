@@ -1,0 +1,7 @@
+Statistically, what would the average distance of the closest black hole be?
+
+The closest confirmed black hole is several thousand light years away from earth. Our galaxy has about 100 billion stars. I didn't find any reliable information on the black hole count of ratio versus stars for our galaxy. Some sources say about one in a thousand.
+I would like to estimate how close a black hole would be given the data we have. If I did the calculation myself, I would use the volume of the galaxy and the number of stars in it. This would give the average number of stars per some volume, and out of that, the average number of black holes per volume. The distribution of stars would also be have to taken into account, since our part of the galaxy isn't as densely populated. Out of this the statistically approximate distance of the closest black hole could be obtained.
+Is anyone equipped with enough information to give me an estimate?
+Basically what is needed is the ratio of black holes to stars for our galaxy and then list of x nearest stars and their distances, where x is the ratio.
+(I'm asking this because black holes are object of interest, and will have to be visited in the future. Given that our space capabilities might be limited to a distance of a couple of dozens of light years in the near future, this number is interesting.)

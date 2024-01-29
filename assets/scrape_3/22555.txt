@@ -1,0 +1,5 @@
+What is the acceleration for the expansion of the Universe?
+
+I've found that the speed of expansion is about $70\frac{km}{s\cdot 10^{6}pc}$.
+But what is the acceleration of expansion in terms of $\frac{km}{s^{2}\cdot 10^{6}pc}$ ?
+I want to know how fast this value of "70" is changing, ie what is $\mathrm{d}H_0/\mathrm{d}t$?

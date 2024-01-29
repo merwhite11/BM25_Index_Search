@@ -1,0 +1,3 @@
+List of stars and galaxies in astronomy images
+
+I am aware of popular initiatives such as the Wikipedia articles listing astronomical objects on the basis of some criteria but... do some kind of systematic indexing, or catalogue, of objects found, potentially via machine learning, in each and every astronomy images, exist ? So as to facilitate the search for this object within other pictures of it ? Then for example, when an astronomer look a some faint object within the latest jwst deep field, it can immediately look up if that object is already listed in the Hubble deep field of the same region of space ?

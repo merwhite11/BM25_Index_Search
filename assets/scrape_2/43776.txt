@@ -1,0 +1,7 @@
+How is the difference of bolometric magnitudes not dependent on the stars' radii?
+
+The difference of 2 bolometric magnitudes is given by:
+$$M_{bol, ★} - M_{bol, ☉} = -2.5 \cdot \log \left( \frac{L_★}{L_☉} \right)$$
+But Pogson's equation is:
+$$M_{bol, ★} - M_{bol, ☉} = -2.5 \cdot \log \left( \frac{F_★}{F_☉} \right)$$
+where $F_★=\frac{L_★}{4\pi R^2}$, so how come the first equation isn't dependent on the radius?

@@ -1,0 +1,15 @@
+Period of unique horoscopes?
+
+What is the period of unique horoscopes? In other words how long does it take before any configuration of the classical planets repeats?
+The seven classical "wandering stars" are: Sun, Moon, Saturn, Jupiter, Mars, Venus, and Mercury.
+Assume a horoscope is created by dividing the ecliptic into 12 equal regions and then for a particular day noting which region each of the 7 "wandering stars" is occupying relative to the earth. For example, a horoscope could be: Sun in Aries, Moon in Capricorn, Saturn in Taurus, Jupiter in Libra, Mars in Pisces, Venus in Aries, Mercury in Aries.
+Since Saturn revolves around the sun once every 29 earth years, Jupiter every 12 years, and Mars 1.88 or so, multiplying together we have 654. So, relative to each, they would seem to repeat their configuration every 654 years.
+This is potentially a complicated question which might require a simulation to determine the answer. For example, today (5 December 2016), the following is true for the tropical zodiac:
+Sun in Sagittarius
+Moon in Aquarius
+Mercury in Capricorn
+Venus in Capricorn
+Mars in Aquarius
+Jupiter in Libra
+Saturn in Sagittarius
+So, one instance of this problem would be to determine the next date at which this same configuration will next recur.

@@ -1,0 +1,59 @@
+Calculate Luminosity of a star from the Hipparcos catalogue
+
+Is it possible to calculate the star's luminosity based on the data in the Hipparcos catalogue? Currently I'm using this algorithm, I have even fitted the bolometric correction to the Johnson V band (500-580 nm) but it still gives inaccurate results:
+(pseudocode)
+set BV,apparentMagnitude,parallax
+Temperature=BVtoT(BV)
+distance=1000/parallax
+absoluteBolMagnitude=apparentMagnitude-5*log10(distance/10)+bolometricCorrection(Temperature)-bolometricCorrection(5800) //5800 is the temp. of the Sun
+Luminosity=2.512^(4.83-absoluteBolMagnitude)  //4.83 is the abs.bol.mag. of the Sun
+
+Bolometric correction used:
+ Temp|Correction
+ 1000:-15.792870388279043
+ 2000: -4.6660448937937975
+ 3000: -1.6491013655965077
+ 4000: -0.4942579918145218
+ 5000: -0.013012417388273079
+ 6000:  0.16898491871093757
+ 7000:  0.20207943778842052
+ 8000:  0.1560070183734874
+ 9000:  0.06632925066158046
+10000: -0.04757422843666781
+11000: -0.17462275518259318
+12000: -0.3082568327994979
+13000: -0.44449896986079906
+14000: -0.5809025615684753
+15000: -0.715956305710435
+
+B-V to Temperature conversion:
+  B-V|Temperature (Kelvin)
+-0.30:33605
+-0.25:22695   B-V|Temperature (Kelvin)
+-0.20:16954|+0.90: 5064
+-0.15:13674|+1.00: 4817
+-0.10:11677|+1.20: 4359
+-0.05:10395|+1.40: 3944
++0.00: 9531|+1.60: 3568
++0.10: 8455|+1.80: 3229
++0.20: 7767|+2.00: 2921
++0.30: 7218|+2.20: 2643
++0.40: 6728|+2.40: 2392
++0.50: 6284|+2.60: 2164
++0.60: 5893|+2.80: 1958
++0.70: 5597|+3.00: 1772
++0.80: 5324|+3.00: 1603
+
+Calculations for Betelgeuse:
+BV=1.5
+apparentMagnitude=0.45
+parallax=7.63 mas
+Temperature=BVtoT(BV)=3751 K
+distance=1000/parallax=131 parsec
+absoluteBolMagnitude=apparentMagnitude-5*log10(distance/10)+bolometricCorrection(Temperature)-bolometricCorrection(5800)
+                 =0.45-5*log10(131/10)+(-0.6952)-(+0.1477)
+                 =0.45-5.5874-0.6952-0.1477=-5.9803
+Luminosity=2.512^(4.75-absoluteBolMagnitude)
+          =19600 L_sun //4x times smaller that expected
+
+Is there any way that I could improve on this?

@@ -1,0 +1,4 @@
+Stopping down a telescope to reduce brightness by 5 magnitudes
+
+Suppose we have a variable star with a change in magnitude between maximum and minimum of 5 mag.
+How much would you need to stop down a telescope (block some of the area) so that the star at maximum brightness appears to be the same brightness as when it is at minimum magnitude with no stop.

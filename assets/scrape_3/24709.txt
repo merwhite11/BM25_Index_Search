@@ -1,0 +1,6 @@
+Creating a rectangular star map
+
+I'm trying to find/create a star map between the declinations of -45 to +60, and need it to be a rectangle. Is there any software/website that would let me create this? Is there a name for this kind of map/projection?
+(I've attached a diagram to try and make myself clearer) 
+
+Thanks for any help :)

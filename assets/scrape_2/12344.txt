@@ -1,0 +1,4 @@
+Astrophysical "unitised" version of the Gravitational constant
+
+This question relates formalising the gravitational constant, $G$, (which in S.I. units is usually quoted as $\sim6.67\times10^{-11}\,\mathrm{m}^{3}\,\mathrm{kg}^{-1}\,\mathrm{s}^{-2}$) in units which are more appropriate to astrophysics, such as in the field of galaxy dynamics. 
+What would $G$ be in more appropriate units to astrophysics?

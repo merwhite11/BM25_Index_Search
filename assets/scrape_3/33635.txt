@@ -1,0 +1,3 @@
+Find x,y,z velocity component of a star?
+
+I am trying to find the initial x,y,z velocity components of the Epsilon Lyrae stars. How might I go about doing this? The radial velocities are available on Wikipedia, but I am not sure how to use that data for my purpose.

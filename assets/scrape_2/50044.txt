@@ -1,0 +1,36 @@
+Velocity Verlet algorithm creating odd orbits
+
+I am using the velocity Verlet integration to make an N-Body simulator but the results are odd. If I use simple Newtonian physics I get a closed orbit (btw im testing with 2 planets at first) but if I implement the algorithm the planet leaves the orbit after reaching the closest point to the other planet.
+Here is the code:
+EDIT: Upon PMRing2's answer I edited the code but for some reason, now the orbit keeps getting smaller.
+                float deltaT = Gdx.graphics.getDeltaTime();
+        float deltaT2 = deltaT * deltaT;
+
+
+        float x = this.pos.x;
+        float y = this.pos.y;
+
+
+        x += this.vel.x * deltaT + 0.5f * this.accel.x * deltaT2;
+        y += this.vel.y * deltaT + 0.5f * this.accel.y * deltaT2;
+
+        float deltaX = planet.getPos().x - x;
+        float deltaY = planet.getPos().y - y;
+        float alpha = (float) Math.toDegrees(Math.atan2(deltaY, deltaX));
+
+        float distance = (float) Math.sqrt(Math.pow(deltaX, 2) + Math.pow(deltaY, 2));
+
+        float F = MainScreen.G * this.m * planet.getM() / (distance * distance);
+        this.force.x = F * MathUtils.cosDeg(alpha);
+        this.force.y = F * MathUtils.sinDeg(alpha);
+
+        this.accel.x = this.force.x / this.m;
+        this.accel.y = this.force.y / this.m;
+
+        this.pos.x = x;
+        this.pos.y = y;
+
+        this.vel.x += 0.5f * (this.accel.x + (this.force.x / this.m)) * deltaT;
+        this.vel.y += 0.5f * (this.accel.y + (this.force.y / this.m)) * deltaT;
+
+Most implementations or explanatory videos I've watched don't use the force so I fear that might play a role. I am also not sure if the implementation is even right (I am quite new to this).

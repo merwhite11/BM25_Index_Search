@@ -1,0 +1,4 @@
+Did the International Sun-Earth Explorer detect cosmic rays other than gamma rays?
+
+In looking at the available datasets described by NASA for the International Sun-Earth Explorer, I am only see gamma ray burst data.
+Was the platform capable of recording cosmic rays other than gamma rays? If so, where is the data?

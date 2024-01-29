@@ -1,0 +1,5 @@
+Light Cone Explanation
+
+Not sure if this question belongs here, or on Physics. Would someone please describe the "anatomy" of a light cone and provide an intuitive example?
+I have read the Wikipedia article (http://en.wikipedia.org/wiki/Light_cone) and I think I have a basic grasp of the concept. However, I still have questions: is a cone emitted every time there is a disturbance in the electromagnetic spectrum? Does every electron changing energy states emit a light cone? I understand the "future" light cone (I think). However, what of the "past" light cone? Is that what is observed when detecting redshifts?
+Thank you for your answers/comments. They have helped my understanding of the light cone concept.

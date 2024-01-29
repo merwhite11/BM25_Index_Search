@@ -1,0 +1,12 @@
+Why celestial bodies crossing prime vertical are the best to measure for astronavigational purpose?
+
+Going through multiple astronomical almanacs or tutorials on astronavigation I encountered a statement that for some particular use (like finding our longitude position) its best to use celestial bodies that are at the moment crossing prime vertical.
+Why is it?
+Thanks
+EDIT:
+
+Here is a one link to wikipedia article claiming it: https://en.wikipedia.org/wiki/Prime_vertical
+
+Here is link to quora where Bill Hazelton (a PhD seeming to know what he talks about - is claiming the same I posted): https://www.quora.com/How-do-we-calculate-longitude
+
+Here is a link to astronavigation guide that I learnt astronavigation from. I believe it won't help you much, as its in my native language. But maybe with help of Google Translator: https://www.navipedia.pl/

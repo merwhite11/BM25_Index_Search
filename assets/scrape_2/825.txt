@@ -1,0 +1,10 @@
+How is the distance from Earth to distant celestial bodies calculated?
+
+It's difficult for most people to grasp how distances between the Earth and distant celestial bodies are calculated. For example, when someone tells me that a given star is 100 light years away, how would I determine if that were accurate?
+I think that my question boils down to three general use cases:
+
+How can I calculate the distance between Earth and a local body in our solar system such as the sun, Jupiter, our moon, or Neptune?
+How can I calculate the distance between Earth and the nearest star outside of our own solar system, Alpha Centauri?
+How can I calculate the distance between Earth and an extremely distant object, such as a star 100-1,000 light-years away?
+
+I've heard of using red shift to calculate large distances, but what exactly is this and how does it work?

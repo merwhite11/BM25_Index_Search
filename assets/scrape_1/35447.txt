@@ -1,0 +1,5 @@
+Q: star scaling calculation
+
+If in our neighborhood of the Milky Way, the typical spacing between stars is 1 parsec, and the relative velocities between neighboring stars are of order 20 km/sec, what would the spacing between stars be in a scaled-down model in which stars are replaced by grains of sand (1 mm in diameter)? How fast would these sand grain sized stars be moving? [This is a quiz question from The Teaching Company's Introduction to Astrophysics by Joshua Winn.] The given answers are 44 km and 0.9 m/s.
+I used the size of the Sun as a typical star (perhaps not accurate) and calculated the ratio of a sand grain's diameter to the Sun's diameter. I then multiplied this by 1 parsec (= 3.09 x 10^16 m) to get 21 km. This is about half the given answer so I thought maybe our Sun is not average sized.
+I used the same calculated ratio and multiplied it by the give star velocity and got 1.43 x 10^-5 m/s. This is way off the given answer. What am I doing wrong? Is my calculation for the first part also wrong?

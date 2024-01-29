@@ -1,0 +1,13 @@
+Converting equatorial coordinates to Cartesian coordinates for extragalactic distances
+
+I'm trying to search for galaxy clusters with the friends-of-friends (FoF) algorithm. I have the equatorial coordinates ($\alpha, \delta$) and redshifts ($0.5<z<2.5$) of galaxies that I wish to convert to Cartesian coordinates, with the following:
+$$
+X = R\cdot \cos(\delta)\cos(\alpha) \\
+Y = R\cdot \cos(\delta)\sin(\alpha) \\
+Z = R\cdot \sin(\delta)
+$$
+The problem I'm having is deciding the correct $R$ to use: should it be comoving distance, angular diameter distance or luminosity distance, given that I only have redshifts to work with? How do we determine the best LOS distance measure to use for this case? Is there a better way to do this?
+For example, in astropy, their default Distance quantity computes the distance from redshift (and a given cosmology) using luminosity distance.
+References
+
+Some notes on the Friends-of-Friends Algorithm

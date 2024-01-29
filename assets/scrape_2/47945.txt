@@ -1,0 +1,15 @@
+How many asteroids were discovered via GAIA? Is there a list?
+
+The ESA Science & Technology video Gaia's asteroid discoveries shows trajectories for hundreds of asteroids that were seen by GAIA, but as far as I can deduce from the extensive notes there, only a small subset were actually discovered through GAIA observations.
+Or it could be all of them and I'm misunderstanding the notes!
+So I'd like to ask:
+Question: How many asteroids were discovered via GAIA observations? Is there a list of them?
+
+
+
+
+Animated view of more than 14 000 asteroids in our Solar System from the catalogue in the second data release of ESA's Gaia satellite, published in 2018.
+The orbits of the 200 brightest objects are shown in green. In addition, the orbits of the first four asteroids discovered by Gaia are shown in pink.
+While Gaia's main scientific goal is to chart a billion stars in our Milky Way galaxy, the satellite is also sensitive to celestial bodies closer to home, regularly observing known asteroids and occasionally discovering new ones.
+Three of the newly discovered asteroids, temporarily designated as 2018 YK4, 2018 YL4 and 2018 YM4, were first spotted by Gaia in December 2018, and later confirmed by follow-up observations performed with the Haute-Provence Observatory in France, which enabled scientists to determine their orbits. Comparing this information with existing observations indicated the objects had not been detected earlier.
+The fourth discovery, an asteroid with temporary designation 2019 CZ10, was first detected by Gaia in February, and was recently confirmed by ground-based observations by the Mount Lemmon Survey and the Pan-STARRS 1 project in the US.

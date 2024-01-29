@@ -1,0 +1,20 @@
+How are the solar flares from May 23, 2021 extraordinary?
+
+The Space Weather News for May 23, 2021 reads (with some highlighting by me)
+
+Yesterday, the sun produced a sequence of solar flares unlike anything we've seen in years movie. Earth-orbiting satellites detected a dozen explosions in the magnetic canopy of sunspot AR2824. One of them emitted a radio burst so strong, it drowned out static from lightning storms on Earth and was recorded at midnight by listening stations in the Arctic. NOAA forecast models suggest that a CME might hit Earth's magnetic field on May 26th.
+
+As non-expert of that field, I have a couple of comprehension questions:
+
+What is a "magnetic canopy of a sunspot"? Is there a definition for that, or does it just mean "magnetic flux tube coming originating at the sunspot"?
+Why is that solar flare so spectacular? Which parameters are the most extreme ones? Where could I find more on the statistics of those parameters? What exactly does "in years" mean here? How rare are which parameters of the May-23-flare?
+How are sunspots named? A quick search showed that AR2824 seems to be around for quite a while, but I did find anything about whether that is a simple counter, or there are different prefixes, other than AR.
+It is said that the "CME might hit Earth's magnetic field", which is probably not same as "it will hit Earth", or is it?  Could somebody please guide me how this is read from the (above linked) NOAA forecast model graphs? Do these models give a probablity of a CME reaching Earth? How likely is it that this CME might disturb any satellite?
+
+In short: I would appreciate a quantified and expanded version of the quoted news, enriched with some definitions for the non-experts.
+References and related questions
+
+Royal Observatory of Belgium's Sunspot Number
+Sunspot Magnetic Fields Handout
+What are the main differences between solar flares and coronal mass ejections?
+Solar flares/CME dangers to life?

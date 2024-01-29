@@ -1,0 +1,12 @@
+PYTHON calculation of conversion coefficients for UBVRI filters to standard photometric system
+
+First of all hello, I am new to this forum and I apologize in advance if I am wrong. 
+I am doing open cluster observations and as a result of these observations I am trying to find the conversion coefficients for UBVRI filters to the standard photometric system. I need to write a code in python using "curve fit" and error codes, but I am not very proficient.
+The equations I need to use are in the photo. If you want to look at it additionally, you can look at the article written by Janes et al. Link
+
+I made my observations of 17 standard fields selected from Landolt (2009) with the telescope. After downloading my fits images with information such as air mass (X), luminosities, etc., I registered them in a database. The atmospheric extinction and conversion coefficients to the standard photometric system and the nightly constants calculated in a previous project at the telescope we observed are given in the photo below.
+
+I aim to find new coefficients by using the coefficients in the photo, the database I obtained by reducing the coefficients from the fits images and the luminosities of Landolt Standard Stars in the literature.
+For example $$ v=V+\alpha_{bv}\ (B-V)+k_v\ X_v+C_{bv} $$ in this equation: I have the UBVRI luminosities and air masses from my standard field observations, so V , (B-V) and X are known. alpha_bv, k_v and C_bv will be taken from the table I provided and used in the curve fit. We can write them down by defining a p0. For example, if we define $$ \alpha_{bv}=-0.021 , k_b=0.238 , C_{bv} =-0.901 $$ in a p0 list, it can make our job easier when using curve_fit.
+I want to call the database in python where I added the data I got with the reduction and after extracting my data, I want to calculate the same data and its errors with curve fit using the data given in the table above?
+I would be very grateful if there is someone who can help me even briefly on this subject. Thank you.

@@ -1,0 +1,3 @@
+How would parallax affect an object at 200-1000 AU (for example, the 9th planet)?
+
+We know from this question that an object is hypothesized to be at between 200-1000 AU that is large enough to detect, known now as the 9th planet. It should move about 40 arcseconds per year. It seems to me that the parallax distance would be more than this distance per year. Would it be easier to detect the 9th planet using parallax than its movement around the Sun?

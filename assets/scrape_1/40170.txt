@@ -1,0 +1,4 @@
+How to improve the precision in a star's distance
+
+When I use the Gaia star catalogue, the parallax values often have large uncertainties which, therefore, leads to a large uncertainty for the distances to the stars.
+If you were interested in the distance to one particular star and money was no object (i.e. you could buy time on any instrument) - what would be the optimum thing that could be done to improve the precision in the star's distance?

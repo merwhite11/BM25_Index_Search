@@ -1,0 +1,3 @@
+Moon, center of mass & geometric center, tidal locking
+
+Since the moon is tidally locked to earth, what about center of mass and geometric center? How far from each other are they? Can a celestial body be tidally locked to an other one if its mass distribution is perfectly homogeneous (center of mass at the very same place of geometric center)

@@ -1,0 +1,15 @@
+How does SDSS estimate photometric redshift of sources?
+
+I'm looking through the data in SDSS DR 12:
+_RAJ2000,_DEJ2000,RA_ICRS,DE_ICRS,mode,q_mode,class,SDSS12,m_SDSS12,ObsDate,Q,umag,e_umag,gmag,e_gmag,rmag,e_rmag,imag,e_imag,zmag,e_zmag,zsp,zph,e_zph,<zph>
+02 59 43.85208,+00 14 50.0532,44.932717,0.247237,1,+,6,J025943.85+001450.0,*,2004.7267,3,25.252,0.709,24.427,0.377,22.923,0.186,22.844,0.255,22.173,0.505,,,,
+02 59 43.18896,+00 14 49.9776,44.929954,0.247216,1,+,3,J025943.18+001449.9,,2004.7267,3,25.77,0.713,23.41,0.267,22.467,0.183,21.612,0.132,20.905,0.301,,0.5976,0.1462,0.5771
+02 59 45.92184,+00 15 09.6372,44.941341,0.252677,1,+,3,J025945.92+001509.6,,2004.7267,3,23.707,1.067,22.886,0.219,21.501,0.105,21.026,0.104,20.984,0.423,,0.423,0.0924,0.4151
+02 59 44.95968,+00 15 11.7252,44.937332,0.253257,1,+,3,J025944.95+001511.7,,2004.7267,3,22.729,0.546,24.475,0.791,21.847,0.152,21.244,0.137,21.931,0.96,,0.4073,0.1245,0.4036
+
+particularly the relationship between the photometric zph and spectroscopic zsp redshifts. The data contains two photometric estimates: zph is "estimated by robust fit to nearest neighbors in a reference set", and <zph> is the average redshift of the nearest neighbours. The relationship between the photometric and spectroscopic redshifts is not great:
+
+so I wonder:
+
+how do they estimate the photometric redshifts?
+why do they top out at z~1?

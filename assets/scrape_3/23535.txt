@@ -1,0 +1,4 @@
+Is there any data source for the rotational axes of bodies in the solar system?
+
+I have found several right ascension and declination coordinates for the poles of bodies in the solar system, but there seems to be no comprehensive source that is easily uncovered with Google etc. containing any other than those of the planets and a handful of other bodies.
+Most importantly i am missing them for the Moon, but i'd like them for all regular satellites and any other bodies if possible.

@@ -1,0 +1,8 @@
+Should the synodic period or the orbital period be used to determine the diameter of the Moon?
+
+Aristarchus famously used a lunar eclipse to determine the diameter and the distance of the Moon, given that a lunar eclipse can last up to 3 hours and the angular diameter of the Moon is 0.5°.
+Using this method, the diameter of the Moon is
+$
+\frac{(\textrm{earth diameter}) \times (\textrm{moon angular diameter})}{\frac{\textrm{duration eclipse}}{\textrm{orbital period of the Moon}} \times 360}.
+$
+Is it correct to use the orbital period here, rather than the synodic period? Should the orbital period or the synodic period of the Moon or some other period be used in this expression, and why?

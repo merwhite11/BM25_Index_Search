@@ -1,0 +1,22 @@
+Terrestrial Exoplanet Skies – I've Built a Visual Sky Chart. Is it Accurate?
+
+I'm an artist (and science enthusiast) and I've been trying to find a comprehensive resource that would help me clearly identify likely sky colors (as perceived by human vision) for exoplanets that have atmospheres with a similar chemical composition to Earth. It's trickier than I expected. I've cobbled together several resources, and built what I hope is a decently accurate chart of apparent sun color along with sky color.
+UPDATE: I have revised this post and added a new, improved sky chart (below). Science references for sky chart: Ref A, Ref B
+
+How accurate is my chart? Is this a fair representation of sky/sun on alien worlds with heavily Nitrogen/Oxygen atmospheres? In what ways could I improve it?
+The chart is not meant to account for things like dust, the look of the sky at sunrise/sunset, or other atmospheric effects. This is meant to be a boilerplate for the baseline look of the sky during the day. However if you'd like to comment on how the sky may change during things like sunset, or with effects like volcanism, I'm game!
+Also, I'm more interested in relative color, than getting absolute color 100% right. The image was built in a vector program in RGB mode, so assuming your screen is calibrated in the standard way, we are probably seeing almost the same thing. 
+Here are the key ideas I've gleamed from my reading that I'm using to build this. I consider most of them tentatively held, and am very open to input:
+
+Earth-like atmospheres would tend to be light to dark blue at the zenith, due to the scattering of low-wavelength blue light. If the planet's sun was very hot, the sky would look a deeper blue, while cooler stars would give the sky a lighter blue to almost white look. When the sun gets to 3000k and below, the sky starts to take on an orange/brown tinge.
+Like on earth, the horizon is the lightest in color and the zenith the deepest.
+Denser atmospheres would appear brighter (more washed out) and the primary color in the spectrum more "pure" (I'm unsure what the term "pure" means exactly when it comes to optical perception...would it look whiter?). Likewise, thinner atmospheres would be less bright than earth's and the colors more "pure."
+With increasing pressure the sky color at the zenith becomes increasingly yellow. In my image this means that an earth-like sky at 10x earth pressure would appear blueish/green near the zenith.
+At lower temperatures I'm assuming the sun would appear tinged by the color listed under "star temperature." Otherwise you'll probably only see the star's color when it's near the horizon. 
+I'm assuming when you get down into K and M class suns, the surroundings on the planet would take on a progressively redder tinge due to the decreasing prevalence of blue wavelength light.
+I suspect the gradient of color from horizon to zenith will be steeper/gentler in some atmospheres. I've guessed that the gradient would be more apparent on a high G world (on the right).
+
+References: 
+Reference #1
+Reference #2
+Original Chart:

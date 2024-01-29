@@ -1,0 +1,7 @@
+Why are pseudo-Newtonian potentials used in studies of accretion processes around black holes?
+
+In accretion processes around black holes, pseudo-Newtonian potentials are defined for the the black hole geometry. For examples, the potentials defined by Paczynski-Wiita and Artemova et al. for Schwarzschild black holes.
+For Schwarzschild black holes, we already have an exact potential suitable for test particles defined by (e.g., in Shapiro & Teukolsky)
+$$V_\mathrm{eff}=\sqrt{\left(1-\frac{2M}{r}\right)\left(1+\frac{\tilde{l}^2}{r^2}\right)}$$
+My Question:
+Why are pseudo-potentials used when we already have an exact form of the potential? Can't we apply the above potential for accretion processes around Schwarzschild black holes?

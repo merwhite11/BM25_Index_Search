@@ -1,0 +1,3 @@
+Convert orbital elements to positions and velocities
+
+I've written a quick and dirty n-body simulator, but currently it requires initial positions and velocities. I've been looking for a way to convert Keplerian orbital elements to positions and velocities. I've searched the web, but I only seem to get conversion from orbital elements to positions and velocities in ECI coordinates, or to a system that orbits the Earth. Ideally, I am hoping that there is an easy conversion between orbital elements and position and velocities for an observer on Earth looking at this n-body system somewhere out in space. I'd appreciate any help in determining this conversion.

@@ -1,0 +1,10 @@
+Why do we continue to find a discrepancy in the Hubble Constant?
+
+After taking a look at some recent papers (examples below) that attempt to derive the value of the Hubble Constant, they all conclude with dramatically different values (speaking in context). Why is this? Each of the techniques seems sufficiently rigorous and equally well rooted in understood physics. Is this simply some form of error or is it due to some yet-to-be-discovered physics?
+Papers:
+
+A gravitational-wave standard siren measurement of the Hubble constant, H0 = 70
+Planck 2015 Results, H0 = 67.8
+New Parallaxes of Galactic Cepheids from Spatially Scanning theHubbleSpaceTelescope: Implications for the Hubble Constant, H0 = 73.48
+
+I do understand that this is a hot topic right now in cosmology, however I just don't yet understand why we're having trouble with getting our measured values of the Hubble Constant to converge.

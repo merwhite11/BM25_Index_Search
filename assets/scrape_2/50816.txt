@@ -1,0 +1,10 @@
+Which citizen science occultation experiences were done in the late 80's in the US? With what results?
+
+The news story "A star eclipsed by an asteroid in France this week-end: how and why scientists ask you to observe it" (in French) relates how people were are asked to look at the occultation of HD 51593 by asteroid Eurybates, one of the targets of space probe Lucy. The article explains how multiple observations of this occultation could help refine Eurybates' trajectory. The last paragraph states (my translation):
+
+More than 700 willing observers have already registered for this
+week-end. Similar experiences in the late 80's in the US didn't reach
+more than 200 observers...
+
+But there is no source to this claim, and the linked page of the French Astronomy Association, organizing this citizen science project, does not mention it. So I'd like to ask:
+Which citizen science occultation experiences were done in the late 80's in the US? What were the achievements of these experiences?

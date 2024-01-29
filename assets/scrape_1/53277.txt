@@ -1,0 +1,10 @@
+Critical density of universe with intrinsic spatial curvature
+
+$H^2 = \frac{8 \pi G}{3}\rho-\frac{kc^2}{a^2}$
+Shown above is the first Friedmann equation. I understand that the curvature parameter, k, represents the spatial curvature of the universe which is dictated by the energy density of the universe. The critical density is normally defined as the density required to halt the expansion after infinite time, or equivalently, the density that gives a flat universe (k=0). From this you can quite easily find the explicit expression for the critical density using the first friedmann equation.
+$\rho_c = \frac{3H^2}{8 \pi G}$
+However, I've recently been considering hypothetical cosmological models where the universe itself intrinsically has negative spatial curvature INDEPENDENT of its matter-energy content. In this type of model, k=-1 is always the case (even in an empty universe) which is shown below:
+$H^2 = \frac{8 \pi G}{3}\rho+\frac{c^2}{a^2}$
+From the work I've seen in this area, it's often assumed that the normal formula for critical density holds in this context but I'm not entirely convinced that is valid. In models where space itself has intrinsic negative curvature, and thus k=-1 is always the case, wouldn't the normal procedure for obtaining an expression for the critical density be impossible? Consequently, wouldn't the normal formula be unapplicable in models like these? Are my suspicions warranted or am I missing something here?
+If they are warranted then does the concept of a "critical density" even make sense in this context? My best guess would be that it's the density of energy required to "counteract" the intrinsic negative curvature such that the universe is now flat... however, I'm not entirely sure how to derive an expression for this critical density using the above modified Friedmann equations. Is it even possible?
+Apologies in advance if I'm misunderstanding something elementary here - I'm relatively new to the field of cosmology. Any help improving my understanding would be greatly appreciated!

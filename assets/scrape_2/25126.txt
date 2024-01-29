@@ -1,0 +1,9 @@
+How to calculate luminosity in g-band from absolute AB magnitude and luminosity distance?
+
+How can I calculate the (non-bolometric) luminosity $L$ of a galaxy (or a star for that matter) over a given band from its AB apparent magnitude $m_{AB}$ over that band and its luminosity distance $d_L$?
+For instance, consider the g-band which typically has a $\lambda_{eff} = 467 \text{ nm}$ and a $\Delta \lambda = 100 \text{ nm}$. Given this galaxy has an apparent AB magnitude of $m_g = 22.5$ and luminosity distance of $1991 \text{ Mpc}$ (i.e. $z = 0.355$ if you are curious), what is its luminosity? I know I shold use the following equation, but I don't know what value to pick for $M_\odot$.
+$$L/L_\odot = 10^{0.4(M_\odot - M)}$$
+I tried 5.12 from a website which is the value of $M_\odot$ in g-band but it gives me a different answer compared to when I calculate luminosity using flux:
+$$L = 4 \pi d_{L}^2 f_\nu \Delta \nu$$
+where $f_\nu$ is flux density and $\Delta \nu$ is the frequency width of the band (this is an approximation to the integration over frequency, assuming bands are step functions). So, how can I find luminosity using absolute magnitude?
+Please provide your references.

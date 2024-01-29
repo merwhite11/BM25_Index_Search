@@ -1,0 +1,5 @@
+Why don't we have a browsable spacetime augmented virtual solar system?
+
+Wouldn't it be nice to be able to render any viewpoint from all the data transformed into a point cloud, an augmented virtual reality of moving objects in our solar system.
+I would just like to be able to chose any point in the solar system and view exactly what is there at a specific time.
+It's possible to extrapolate 3D data from multiple viewpoints of an object, don't we have enough satellite data to do it?

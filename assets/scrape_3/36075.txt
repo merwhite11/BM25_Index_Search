@@ -1,0 +1,3 @@
+Determine distance to Moon after diurnal parallax?
+
+So, I want to find the distance to the Moon/any body after performing the correction for diurnal parallax. Unfortunately, the resources I have do not cover how to do this. Is there an easy algorithm to adjust the distance to an object after switching to topocentric coordinates, assuming an ellipsoidal Earth?

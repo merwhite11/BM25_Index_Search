@@ -1,0 +1,11 @@
+How to convert GMST to GMST° (degrees) for calculating RA
+
+For calculating the Right Ascension of the moon I need the GMST (Greenwich Mean Sidereal Time) in Degrees.
+I have found the formula
+GMST = 100.4606184 + 0.9856473662862 * D + H * 15,
+D = number of days, H = Universal Time in hours
+I think the unit of GMST is days.
+RA is then calculated GMST(degrees) + Longitude(degrees) converted to Hours Minutes Seconds.
+In the example to the above formula D = 305.209, H = 17, that results GMST(days?) = 656.288 but GMST(degrees) = 296.288° For the actual date the values are 8750.95 days? and it should be -11.54° for the actual RA.
+How can I convert GMST(days) to GMST(degrees)?
+Or do I think wrong?

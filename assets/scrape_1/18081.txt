@@ -1,0 +1,6 @@
+Why do our clocks not go out of sync with the day over a year?
+
+Our clocks use 24 hours for a day, our planet takes 24 hours to rotate completely and our planet revolves around the sun in 365 days.
+Imagine at the start of the year, the side of Earth facing Sol is 'Side A' and the dark side is 'Side B'. The side of the sun that Earth sees is 'Side A' and the opposite side is 'Side B'.
+After half a year, wouldn't 'Side B' of Earth be facing 'Side B' of Sol, and thus the day/night cycle would be out of sync by 12 hours?
+I've been trying to get my head around this problem for ages and I can't seem to figure it out. It seems like the angle that the sun hits the Earth must change by about a degree per day until it's gone around 360 degrees. Would that not mean the clocks offset by 1/365th of 24 hours every day over a year?

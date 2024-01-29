@@ -1,0 +1,5 @@
+From an outsider's perspective, how can a black hole grow if nothing ever crosses the event horizon?
+
+Due to time dilation, an outside observer never sees a falling object actually cross the event horizon. I'm not referring to the optical illusion of red-shifted light making objects appear to fade away before crossing the event horizon. I'm referring to the very real effect time dilation has on objects near the event horizon, causing them to slow down to a halt from the frame of reference of an outside observer.
+This outside observer can see, however, that the black hole has a non-zero mass and volume. How can this be if from the frame of reference of the outside observer, nothing has ever crossed the event horizon and been integrated into the black hole?
+In other words, how can an outside observer say that a black hole has a non-zero mass and volume, but also, nothing has ever crossed its event horizon and contributed to said mass and volume?

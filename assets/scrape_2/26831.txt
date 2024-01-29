@@ -1,0 +1,5 @@
+Why we define Stellar motions with respect to sun?
+
+We take observations from earth but to define radial velocity, transverse velocity and the proper motion of stars, why we consider them with respect to the sun? and then we do some corrections due to both rotational and orbital motion of the earth.
+Why can't we directly consider these motions with respect to earth instead of Sun?
+And what is the whole procedure of correction?

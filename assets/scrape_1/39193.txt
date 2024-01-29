@@ -1,0 +1,49 @@
+Data to "check" Kepler’s first law
+
+I want to "check" Kepler’s first law by using real data of Mars. From the equation of the ellipse, I derived
+$$\frac{1}{r}=\frac{a}{b^2}+\frac{a}{b^2}\cdot\epsilon\cdot\cos(\varphi),$$
+where $a$ is the major semi-axis, $b$ is the minor semi-axis and  $\epsilon$ is the eccentricity of the elliptic orbit. I'm looking for the following kind of data:
+
+Mars' distance from Sun $r$
+the angle $\varphi$ between Mars, Sun and the principal axis of the elliptic orbit.
+
+Then, I want to check, whether $r$ and $\varphi$ fit the measured values of $a$, $b$ and $\epsilon$.
+If there is no such data (perpendicular view on Mars' orbital plane) available, how can I transform data given in other coordinate systems to the ones I need? On a NASA website (https://omniweb.gsfc.nasa.gov/coho/helios/heli.html) I found data in "Solar Ecliptic", "Heliographic" and "Heliographic Inertial" coordinates, but I don't know which come closest to my plan.
+Update:
+I tried it with uhoh's recommendations. Unfortunately I failed.
+With the following python code, using the Horizons x, y, z data stored in an xlsx file,
+from __future__ import division
+import numpy as np
+from statsmodels.regression.linear_model import OLS
+from statsmodels.tools import add_constant
+from statsmodels.tools.eval_measures import aicc
+import pandas as pd
+import matplotlib.pyplot as plt
+horizons = pd.read_excel("horizons2.xlsx")
+horizons = np.array(horizons)
+horizonsxyz=horizons[:,2:5]
+horizonsxyz=np.array(horizonsxyz, dtype=np.float64)
+hx=horizonsxyz[:,0]
+hy=horizonsxyz[:,1]
+hz=horizonsxyz[:,2]
+
+horizonsr=np.sqrt(hx**2+hy**2+hz**2)
+horizonsr=horizonsr*6.68459*(10**(-9))
+
+phi=np.arctan2(hy, hx) * 180 / np.pi
+phi2=np.mod(phi+360, 360)
+phia=np.mod(phi-286, 360)
+phiganz=add_constant(phia)
+horizonsdurchr=1/horizonsr
+
+
+
+
+horizons_regr=OLS(horizonsdurchr, phiganz).fit()
+print(horizons_regr.params)
+print(horizons_regr.summary())
+y_pred_horizons=np.dot(phiganz, horizons_regr.params)
+print(horizons_regr.params)
+
+I get a value of $7.1349\cdot10^{-1}$ for $\frac{a}{b^2}$. This is bad but at least in the right order of magnitude. However for $\frac{a}{b^2}\cdot\epsilon$ I get a really bad value of $-2.89228\cdot10^{-4}$. Deviding the two result yields an estimated excentricity of $0.00044$ which is really far away from the true $0.0934$.
+I also tried another approach, using the heliographic data mentioned above. Here, I get closer, but only if I add 35 degrees to the angles, which doesnt make sense, since I should add 74 degrees or subtract 278 degrees, to get the angle relative to the perihelion.

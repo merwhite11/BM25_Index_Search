@@ -1,0 +1,6 @@
+Difference between first (focal length (fl.) 500 mm, ocular (o.) 10 mm) and second telescope (fl. 1000 mm, o. 20 mm)? (both 50 x)
+
+Magnification is defined as $f_{objectiv}/f_{ocular}$.
+If I had the first telescope with the focal length of 500 mm, ocular 10 mm and second telescope with the focal length of 1000 mm, ocular 20 mm, is there a difference between them? Both of them has 50x magnification. 
+I want to know if there is any difference in the quality of image, etc.
+Thank you for all!

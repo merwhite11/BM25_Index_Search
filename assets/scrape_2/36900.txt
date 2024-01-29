@@ -1,0 +1,7 @@
+How much of the Sun's disk must be covered for a visible shadow to be cast?
+
+At first it seems like the answer is obvious, $100$% or more, that's what a total solar eclipse is after all. But after seeing satellite images of the June 21st 2020 annular eclipse, the shadow cast by the Moon on Earth was indistinguishable from the one cast during a total eclipse despite the Sun not being completely covered. Only difference is that there was no umbra, but that doesn't matter.
+
+But then again, during an annular eclipse the Moon is covering about $99$% of the Sun's disk, and that's a lot. Surely if less of the Sun's disk was covered then there would be no shadow visible. But then I learned Phobos, which covers ≈$25$% of the Sun's disk as seen from Mars' equator, casts a very clear shadow despite covering only a quarter of the Sun's disk.
+
+  What exactly is the cutoff point for a visible shadow to be cast then? Venus only covers $0.108$% of the Sun's disk during a transit, and thus no visible shadow is cast on Earth. If Venus was larger, say the size of Jupiter, it would cover $14.52$% of the Sun's disk. Would that be enough for a visible shadow to be cast on Earth's surface? Granted, it wouldn't be an umbral shadow, but that's irrelevant.

@@ -1,0 +1,9 @@
+Gravitational tidal force problem
+
+if we have spherical mass held by its self-gravity, there will be a limit to distance - let's say it is $r$ - that the center of this body may approach a much more massive body (lets we call $M$ body). 
+Our spherical mass here would be held - as I understand - by gravitational tidal force. But the question is what is the distance $r$ between to masses his effect will hold?
+$$r=\left(\frac{2M}{m} \right)^{1/3} \times R$$
+$m$ - Spherical body mass 
+$R$ - Spherical body radius 
+$M$ - Massive body 
+I guess this is the equation for this limit, but I don't understand the conditions of this limitation.

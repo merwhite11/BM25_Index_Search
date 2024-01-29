@@ -1,0 +1,14 @@
+Place on Moon that always lit?
+
+Is there a place on Moon (sure it's near north or south pole) that is always lit by sun? It's to install solar panels if I will choose to make rancho there :)
+What diameter of Moon Polar circle?
+How high the hill or mast on the pole should be to be always lit?
+I used some online calculators and found next:
+
+Axial tilt to ecliptic is 1.5424°, Lunar Radius 1738km
+Polar circle is 46.8km
+Spherical cap height 0.15km
+
+Are my calculations correct? It shows that it should be near 150 meters high. Is any high enough hill exists on a poles? 
+P.S. Where I can check good 3d model of Moon with elevation (sure there is no sea level but ideal sphere)?
+Thanks

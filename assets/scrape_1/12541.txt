@@ -1,0 +1,11 @@
+Conversion of magnitudes to Jansky and MAGPHYS?
+
+I'm a bit puzzled and not an observer, so please bear with me if I'm being stupid here. 
+The code MAGPHYS specifies Jansky (Jy) as the input unit for flux through a filter (see Section 3.2.3 in the documentation). Meaning MAGPHYS wants me to use Jy as unit, when specify the total light of a whole galaxy in e.g. the SDSS-g band. But Jy is a unit of spectral density, i.e. W/m²/Hz. I would expect a flux as input unit when talking about the amont of light coming through a filter, i.e. in W/m² or in $L_\odot$ (solar luminosity), so integrated over all frequencies that go through the filter and weighted by the filter response function.
+If I have the absolute AB magnitude of a galaxy in the SDSS-g band, how do I convert it to Jy so that MAGPHYS will be happy?
+I'm aware of:
+$m_{\text{AB}\nu} = -2.5 \log_{10} \left(\frac{f_{\nu}}{3631\text{Jy}}\right) \qquad \text{or} \qquad \left(\frac{f_{\nu}}{\text{Jy}}\right) = 10^{-0.4\  (m_{\text{AB}\nu} - 8.9)}$
+But that is in one frequency, not a whole band. 
+Additionally, I have found the formula below in TOPCAT:
+$\left(\frac{F}{\text{Jy}}\right) = 10^{\left(23-0.4 \ (m_\text{AB}+48.6)\right)}$
+Where does the 23 in the exponent come from?

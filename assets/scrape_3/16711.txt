@@ -1,0 +1,7 @@
+Why can we trust Hubble Time if the rate of expansion is not constant?
+
+The age of the Universe can be estimated from taking the inverse of the Hubble constant: $t_\text{universe} = 1/H_0 =d/v.$
+
+It seems to me this method assumes that any given galaxy has been receding at a constant apparent velocity for the lifetime of the Universe. However, by including data from larger & larger distances, it can be seen that Hubble's law doesn't hold. The data suggest that the rate of expansion was actually slower in the past.
+
+Why is it appropriate to use only nearby galaxies to estimate the age of the Universe using the Hubble time when the rate of expansion isn't constant?

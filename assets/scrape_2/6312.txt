@@ -1,0 +1,4 @@
+Are there sufficient observational data to measure non-Newtonian perihelion advances of any Asteroid and Comet orbits?
+
+Anomalous (i.e. not predicted from Newtonian theory) advances of the perihelion direction have been observed for many solar system planet orbits and have been accounted for by Einstein's General Relativity.  
+Basic Orbital elements have been obtained and published for many Asteroids and Comets.  But are the existing observational data on any Asteroids or Comets sufficient (in terms of accuracy and extent of observations) to determine/estimate rates of non-Newtonian perihelion advance and are any such determinations publically available?

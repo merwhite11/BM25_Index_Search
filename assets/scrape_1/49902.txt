@@ -1,0 +1,10 @@
+What is the numerical aperture of the James Webb Telescope?
+
+I was wondering what the NA of the James Webb telescope is:
+Based on this eq:
+R = λ / 2NA >> NA =  λ / 2R
+Key Facts - James Webb Space Telescope - NASA
+λ = 0.6 - 28.5 microns = 0.6 - 28.5 x 10-6 m
+R = ~0.1 arc-seconds = 4.848 × 10-7 radian
+NA = 0.06 - 2.94 x 10m
+But since NA is supposed to be dimensionless I would need a resolution in meters. Any Idea what a useful conversion would look like?

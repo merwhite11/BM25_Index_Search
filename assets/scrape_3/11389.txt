@@ -1,0 +1,4 @@
+Orbits in a binary star system
+
+I know of three sets of stable orbits in a binary star system: orbiting closely around star A, orbiting closely around star B, or orbiting distantly around both stars (and their mutual center of gravity) at once.
+Is there a fourth set of stable orbits, around the mutual center of gravity, but inside both stars' orbits?

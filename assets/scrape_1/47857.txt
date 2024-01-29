@@ -1,0 +1,5 @@
+Can a star undergo helium fusion after depleting all its hydrogen?
+
+For stars around the mass of the sun, helium fusion occurs concurrently with late hydrogen shell burning.
+For stars smaller than the sun, is their a subset that first burn all their hydrogen store before initiating helium fusion in their cores?
+Is this possible, or is the environment during hydrogen shell burning more preferential than during late gravitational collapse?

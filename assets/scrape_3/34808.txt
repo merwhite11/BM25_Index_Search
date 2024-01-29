@@ -1,0 +1,11 @@
+Moonrise after sunrise but moonset before sunset?
+
+Today (1/24/2020) for Boston MA timeanddate.com lists the following four times:
+
+Sunrise  7:05 AM
+Moonrise 7:06 AM
+Moonset  4:33 PM
+Sunset   4:47 PM
+
+Now, if moonrise is after sunrise, I'd have thought the "new moon" conjunction already happened. But since moonset is before sunset, I'd think it hasn't happened yet.
+What gives? Is this a rounding error? Usually the moon "moves" across the sky "slower" than the sun does (as in a solar eclipse where the moon moves from west to east back across the sun).

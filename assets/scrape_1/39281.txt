@@ -1,0 +1,16 @@
+How can you determine the distance of a star using the magnitude equation?
+
+In high school we are undergoing a short course about astronomy. It is stated that you can use the apparent and absolute magnitude (m, M) to get a distance (D) of a star, with the formula
+$$m - M = 5 \times \log(D) - 5$$
+From which you free D:
+$$D = 10^{\frac{m-M+5}{5}}$$
+But how do you get both the m and M in practice, without knowing anything else? I can't imagine it.
+I have asked my teacher but his explanation did not make sense to me, and as such I already forgot it.
+Scenario:
+you have a satellite which can measure the incoming photons  of a star. You now calculate the apparent magnitude using the formula:
+$$m = m_\text{ref} - 2.5 \times \log(\frac{I}{I_\text{ref}})$$
+Let's say you have a stable reference star and so you get $m=2$.
+This is a nice start, but to determine the distance of the star you still need the absolute magnitude. How can you precisely acquire that using a HR-diagram? Because all the HR diagrams I have seen have a very fuzzy curve, and one temperature may map to multiple M.
+
+This is what I'm struggling with: let's say you are somehow able to precisely measure that the star is 7500K. That means M can range from +4 to 0 (I guess we're also assuming it's a main sequence star, which we may not actually know), which gives us a possible D of about 4 to 25 (parsec?), which is an absolutely humongous range.
+This can't be right, can it?

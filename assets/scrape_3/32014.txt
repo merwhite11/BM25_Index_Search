@@ -1,0 +1,34 @@
+How would a Fast Fourier Transform Telescope work without a mirror, dish or lenses?
+
+I recently came across a short article mentioning the idea for a telescope built without mirrors or lenses that instead uses an array of antennas and massive computing power to resolve an image. Such a thing will apparently become possible if "Moore's law continues to hold", but doesn't explain how it will work.
+Here's a link to the original paper: Tegmark and Zaldarriaga 2009
+
+We will show that it acts much like a single dish telescope with a
+  dramatically larger field of view, yet is potentially much cheaper
+  than a standard interferometer with comparable area. If a modern
+  all-digital interferometer such as the MWA 1 is scaled up to a very
+  large number of antennas N , its price becomes completely dominated by
+  the computing hardware cost for performing of order N2 correlations
+  between all its antenna pairs. The key idea behind the FFT Telescope
+  is that, if the antennas are arranged on a rectangular grid, this cost
+  can be cut to scale merely as N log2 N using Fast Fourier Transforms.
+  As we will see, this design also eliminates the need for individual
+  antennas that are pointable (mechanically or electronically),
+
+Unlike a traditional interferometer, which consists of individual telescopes that focus light (or radio waves) to a point before ultimately combining their images, the antennas don't have a dish that focuses the radio waves from a certain point in the sky. Instead it's just an array of antennas that images the entire sky at once:
+
+The results above also show that the FFTT can be thought of as a cheap
+  maximally compact interferometer with a full-sky primary beam.  To
+  convert a state-of- the-art interferometers such as MWA 1, LOFAR
+  [2], 12 PAPER[4], 21CMA [3] into an FFTT, one would need to do three
+  things:
+
+Move all antenna tiles together so that they nearly touch.
+Get rid of any beamformer that “points” tiles to- wards a specific sky direction by adding relative phases to its component antennas, and
+  treat each antenna as independent instead, thus allowing the array to
+  image all sky directions simultaneously.
+Move the antennas onto a rectangular grid to cut the correlator cost from N2 to N log2 N .
+
+
+Can someone explain how a computer can resolve an image without a lens, dish or mirror to make parallel rays of light converge on a sensor? I thought that a sensor without a lens, dish or mirror will just produce a blurry mess.
+Edit: I think I understand it now. Watching this video was massively helpful for me in understanding how Fourier transformations allow you to isolate individual waveforms from a signal containing many different waveforms.

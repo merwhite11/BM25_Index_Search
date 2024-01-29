@@ -1,0 +1,12 @@
+Deriving the Tully-Fisher relation from the virial theorem
+
+So I know this is a loose proof and a lot of assumptions are made, but I do not understand how these assumptions lead to the quantities we obtain so I will be asking questions at each step:
+start with the Virial theorem $$2T = U$$ then define $$T = \frac{1}{2} M_{gal} V^2_{characteristic} , U = \frac{-G M_{gal}^2}{R_{gal}}$$
+
+what is $V_{characteristic}$ the velocity of ?
+why is the potential defined this way? I know for gravitational potential we have $U = \frac{-G m_1 m_2}{R_{gal}}$ but why is $m_1 =m_2$ here? what does this mean physically?
+
+later in the proof a surface brightness is defined if we were to take "all spirals have the same surface brightness at their centers" to be $I_0 = \frac{L}{\pi R_{gal}^2}$
+
+How was the relationship between the luminosity and surface brightness obtained ? and how does our assumption get us to this relation?
+I am assuming $R_{gal}$ is the radius of the galaxy , why is it used in this relation?

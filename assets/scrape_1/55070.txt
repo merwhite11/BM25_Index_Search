@@ -1,0 +1,12 @@
+If a cluster of stars in dynamical equilibrium falls into a much larger blob of dark matter, will it get hotter and expand? Will it stop?
+
+This question is inspired by ProfRob's inspiring answer to Are there really confined Globular Clusters? in which he invokes the concept of "virialization" where a dynamical system reaches the virial theorem's limit of $2T_{mean} = -V_{mean}$; twice the average kinetic energy of the stars will (eventually) equal (minus) the average gravitational potential energy.
+Suppose that in a gedanken-friendly part of the universe a "virialized" cluster of stars falls into a much larger blob of dark matter. As it descends towards the center, the total gravitational potential energy of the stars decreases further.
+In addition to their center of mass accelerating as they go (conservation laws dictate that the blob of dark matter will need to accelerate in the opposite direction as well):
+
+Will they also get "hotter"?
+Will that cause it to expand?
+Will the decrease in potential energy lead to an increased average kinetic energy in the frame moving with the center of mass of the cluster of stars?
+
+I haven't constrained the size and density distribution of the blob of dark matter - is there some way to determine if virialization happens fast enough in some cases that it significantly reduces the kinetic energy of the cluster's center of mass so that it slows down and turns around before exiting?
+Basically can it convert enough center-of-mass kinetic energy to thermal energy to stay inside and eventually settle down near the center of the dark matter blob?

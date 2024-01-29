@@ -1,0 +1,6 @@
+Is the process responsible for Triton's nearly perfect circular orbit going to happen in my fictional world?
+
+First of all, I'd like to point out that I'm a worldbuilder and I like my worlds to be as physically possible as... possible. 
+I am in the process of building a world with a habitable moon orbiting around a gas giant in a similar fashion to Triton's orbits Neptune. I had originally intended it to be highly eccentric as well, but then I found out that Triton has a nearly perfect circular orbit. I looked into it a little and found something about tidal circularization. 
+What I'm not sure about is if my imaginary moon would undergo the process as well. Also, if it didn't, I'm not sure if it's even possible for life (and if, intelligent life,) to develop on a moon with such eccentric orbit. 
+Is it possible to explain what the parameters are that determine how quickly tidal circularization happen for systems similar to the Triton-Neptune system? How would the conditions need to be different for the system to remain in an elliptical orbit and avoid circularization?

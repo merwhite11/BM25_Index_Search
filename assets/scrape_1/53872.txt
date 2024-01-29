@@ -1,0 +1,35 @@
+Transforming radio sources in a T-RECS catalogue from one field to another
+
+I have sources that I extracted from The Tiered Radio Extragalactic Continuum Simulation (T-RECS) catalogue for a deep field. I use these sources to generate a sky model at different fields within a given field-of-view (fov). Imaging the sky model results in an 'elongated' fov, which suggests that I did not compute the RA correctly using the cosine declination rule to account for the angular separation.
+For a field centre of (ra = 00h00m00s, dec = 00d00m00s) and a fov of 60 arcmin, below is the resulting image,
+
+and for a field centre of (ra = 15h04m00s, dec = -60d00m00s)--same fov as above, below is the resulting image.
+
+With my little understanding, I have correctly applied the cosine(declination) rule but it seems that during the transformation, the angular separation between the original sources to a new field was not preserved, hence the distortion seen on the second image.
+Below is a code snippet of how I am calculating the ra and dec values for the new field given the longitudes and latitudes extracted from the catalogue. I seek help in understanding what I am doing wrong. Is the problem my logic or I am missing some fundamentals?
+from astropy import units as u
+from astropy.table import Table
+from astropy.coordinates import SkyCoord, Angle
+
+fov = Angle(60, unit=u.arcmin)
+
+field_centre = SkyCoord('15 04 00 -60 00 00', unit=(u.hourangle, u.deg))
+
+cat = Table.read('/path/to/catalogue.txt', format='ascii')
+cat_centre = SkyCoord(0.0, 0.0, unit=u.deg)
+
+cat_source_coords = SkyCoord(cat['longitudes'], cat['latitudes'], unit=u.deg)
+
+separations = cat_centre.separation(cat_sources)
+
+position_angles = cat_centre.position_angle(cat_sources)
+
+source_offsets = field_centre.directional_offset_by(pos_angles, separations)
+
+ra_deltas = source_offsets.ra - field_centre.ra
+
+dec_deltas = source_offsets.dec - field_centre.dec
+
+model_dec = field_centre.dec.deg + dec_deltas.deg
+
+model_ra = (field_centre.ra.deg + ra_deltas.deg * np.cos(np.radians(model_dec))) % 360

@@ -1,0 +1,4 @@
+How were the orbits of planets first mapped out?
+
+I'd like to know how the orbits of planets were first 'mapped out' and to understand the maths behind it. e.g. How do we know what position in space a planet will be at certain time so that spacecraft trips to planets could be planned etc.?
+I'd also like to know the most primitive way that this could be done and if there is anyway this could be done using only maths and simple measuring tools assuming no previous knowledge about the planets positions.

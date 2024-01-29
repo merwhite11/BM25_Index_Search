@@ -1,0 +1,4 @@
+Calculate Distance To Stars
+
+I was just watching a lecture from Carl Sagan. He talked about figuring out the distance to the stars; it got me interested in learning more about the subject.
+As far as I know, the Inverse square law and parallax can be used. Can anyone expand on these? Specifically with regards to what I could do to measure the distance from Earth to Proxima  Centauri.

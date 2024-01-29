@@ -1,0 +1,3 @@
+Provided a relative flux v/s wavelength plot, how can I calculate the radial velocity of an exoplanet?
+
+I imagine the relativistic version of the Doppler effect would be appropriate but I'm not entirely sure since flux is a measure of intensity. Alternatively, where could I find redshift data for exoplanets? I can only get my hands on Echelle grating spectra which is admittedly a little difficult to understand. Any help is appreciated. Thank you!

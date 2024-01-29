@@ -1,0 +1,21 @@
+Why is plasma used to deposit aluminum on the VLT's four large mirrors?
+
+In Tim Scott's October 2, 2023 video "The largest telescope that will ever be built*" (note the asterisk, link below) there is a discussion of the "re-silvering" of the four main mirrors of the Very Large Telescope (VLT) every 2-3 years when despite regular $\require{mhchem}\ce{CO_2}$ cleaning they accumulate too much dust/dirt:
+
+They atomise aluminium to create the mirror layer. And when I say atomise, I don't mean like perfume sprayer atomiser. I mean literally, they use plasma to make individual atoms of aluminium float around in a vacuum, and then they just let it softly rain down onto the mirror until they have a coating about 1,000 atoms thick.
+
+One common way to deposit thin aluminum films is thermal evaporation - a ceramic alumina ($\require{mhchem}\ce{Al_2O_3}$) crucible containing aluminum metal is heated to a point where the vapor pressure of aluminum results in a flux of atomic aluminum vapor that is emitted at thermal velocity and generally then stick to to whichever surface they hit.
+But in this case, at least according to Scott, a plasma deposition process is used.
+Question: Why is plasma used to deposit aluminum on the VLT's four large mirrors?
+I've in fact never heard of plasma deposition of aluminum. I've done a lot of Plasma-enhanced chemical vapor deposition for dielectrics (e.g. $\ce{Si_3N_4}$, $\ce{SiO_2}$) and PECVD diamond-like carbon or DLC is quite popular, but plasma deposition of layers of pure metal is new to me.
+So any details about the mechanism will be appreciated!
+
+cued at 11:07, just before the block quote begins:
+
+
+
+
+Somewhat related:
+
+When did "resilvering" large telescope mirrors actually refer to aluminization, and why was it necessary?
+Was the use of silver on 'optical' telescope mirrors more common in the past? Why?

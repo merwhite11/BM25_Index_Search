@@ -1,0 +1,7 @@
+Why does the closest approach of star S2 to Sgr A* not appear to be near the focus of its elliptical orbit?
+
+Phys.org's Very Large Telescope sees star dance around supermassive black hole, proves Einstein right links to several ESO videos, including The star S2 makes a close approach to the black hole at the centre of the Milky Way.
+In the screen shot below, the location of Sgr A* is nowhere near a focus of the elliptical orbit.
+In addition to the excellent accepted answer I have written this answer to Why does Earth not appear to be at the focus of TESS' elliptical orbit in this video? and so I know that looks can be deceiving depending on one's perspective.
+But I still don't really understand why the offset can look so bad here. For the video did they put the observer (the "camera") at a fairly close distance and thereby distort the perspective, or even if you choose the distance to be infinite can elliptical orbits appear to not have their central body at their focus, or at least along their axis?  
+Is it possible to state the orbital elements of S2 in such a way and in some coordinate system so that I can plot them in 3D and then try to reproduce this effect?

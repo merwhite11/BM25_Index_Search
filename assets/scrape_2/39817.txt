@@ -1,0 +1,3 @@
+How do you go from transit times to Earth-Sun distance?
+
+In the early 18th century, Halley described a method to determine the value of the astronomical unit by observing a transit of Venus from multiple locations on Earth. How do you go from the transit time at two different locations to the distance between the Sun and the Earth? I found many descriptions in rather vague terms of this method, but what is the math behind it?

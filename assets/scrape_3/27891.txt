@@ -1,0 +1,8 @@
+Where is the exomoon? (Possible discovery of a companion to Kepler-1625b)
+
+The new paper in Science Advances Evidence for a large exomoon orbiting Kepler-1625b (open access!) uses a sophisticated combination of occultation light curve simulation, signal processing and statistical analysis to show that there is a significant chance that they have identified an exomoon, a moon orbiting an exoplanet.
+But it's too sophisticated for me to understand how this Hubble data indicates a potential moon. Terms like "detrending",  "Markov chain Monte Carlo", and "Bayesian evidences" are beyond me.
+Is it possible to choose one of those plots and add an arrow to say "this blip here, this is Kepler-1625b potential moon"? If not, is it possible to at least explain in a simple way what it is from this analysis that has led them to believe there may be a moon there?
+Abstract:
+
+Exomoons are the natural satellites of planets orbiting stars outside our solar system, of which there are currently no confirmed examples. We present new observations of a candidate exomoon associated with Kepler-1625b using the Hubble Space Telescope to validate or refute the moon’s presence. We find evidence in favor of the moon hypothesis, based on timing deviations and a flux decrement from the star consistent with a large transiting exomoon. Self-consistent photodynamical modeling suggests that the planet is likely several Jupiter masses, while the exomoon has a mass and radius similar to Neptune. Since our inference is dominated by a single but highly precise Hubble epoch, we advocate for future monitoring of the system to check model predictions and confirm repetition of the moon-like signal.

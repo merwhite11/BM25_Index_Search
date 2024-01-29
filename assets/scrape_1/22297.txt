@@ -1,0 +1,12 @@
+Measuring declination in negative hours of arc?
+
+I'm running the program found at https://www.projectpluto.com/source.htm in order to find the Right ascensions and declinations of celestial bodies at various points in time. An odd thing I've noticed is that the declination is reported in hours, minutes, seconds as opposed to degrees, minutes, seconds and I'm not sure how to use that. Especially considering the hours seem to lie on [-24,24] which doesn't make sense for the [-90,90] range for declination measured in degrees.
+An example:
+
+Sun RA=10:11:50.1 Dec= 11:08:50.8
+
+
+This is sampled from Los Angeles, California at 8 PM PDT (3:00 UTC) so I would expect when I ran these numbers to calculate elevation and azimuth that the elevation would be a good bit under the horizon.
+I tried scaling the hours by 90/24 so that it would be back in the [-90,90] range but when I tried running those numbers through this tool, it ended up reporting that the sun would actually be just above the horizon which is definitely wrong.
+
+So with that said, how should I be interpreting this data to get the result I expect? I'm pretty new to this, so I may be lacking something incredibly fundamental.

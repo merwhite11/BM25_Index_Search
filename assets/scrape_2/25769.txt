@@ -1,0 +1,8 @@
+Impact of inclined orbit satellite on a planet
+
+If a satellite in an inclined orbit breaks up in orbit and multiple fragments hit a planet, do the individual fragments follow
+1 a sinusoidal path
+2 a geodesic ( or great circle curve)
+3 a straight line
+I'm having real problems trying to visualise this!
+I realise the ground track of an inclined orbit follows a sinusoidal path but what happens when impacting a rotating planet?

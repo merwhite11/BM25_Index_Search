@@ -1,0 +1,3 @@
+Convert RGB pixel value of an image to limiting magnitude
+
+I have taken photos at different exposures from different places of the Orion constellation. I wish to find the effect of skyglow on the limiting magnitude of stars in the Orion constellation. How can I estimate the limiting value of any star from its RGB pixel value in the photograph?

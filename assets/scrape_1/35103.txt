@@ -1,0 +1,5 @@
+Are Sun-Earth L1 & L2 points generally considered outside the Earth's Hill Sphere?
+
+This image from Wikipedia of the SE Lagrange points and the Hill Spheres suggests that the SEL points are outside the Earth's Hill Sphere. (The Hill spheres are the circular regions surrounding the two large masses.)  Is this correct?
+ 
+But I thought I've read that both the Hill Sphere and L1 & 2 are 1.5 million kilometers from the Earth.

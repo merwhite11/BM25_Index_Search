@@ -1,0 +1,27 @@
+Composition of ice giants
+
+After reading the paper "The Measured Compositions of Uranus and Neptune from their Formation on the CO Ice Line", I was left with doubts which I would like to clarify.
+Firstly, the paper proposes that Uranus and Neptune were created in the CO ice line of the Solar System, which explains several of their unusual characteristics (abundant carbon, depleted nitrogen, etc.).
+In the paper, an explanation is proposed for the low D/H ratio of Uranus and Neptune, which is not consistent with that of the comets in their neighborhood, which suggests that the water inside them was not accreted from the protosolar nebula:
+
+Finally, coupling the D/H observations in Uranus and Neptune with our model where only a small fraction of the water present in the planets interiors is of nebular origin, and the rest originating from the transformation of CO into H2O, leads to a higher D/H ratio for the
+  proto-ices that formed the planets. The value found is compatible with internal structure models and the
+  formation location of the planets in the same region as
+  comets.
+
+Instead, water would be created by reacting the accreted CO with the H2 in its atmospheres. In other words, water would be created within them.
+According to the paper, the composition of the CO ice line after 100,000 years was mostly CO, while water represented 1.9% of the total composition. This makes me wonder, why was water scarce in the CO ice line? Is water depletion in the CO ice line related to the high abundance of carbon in that zone?
+On the other hand, the authors mention that the large amount of carbon-rich solids allowed the creation of the nuclei of these planets:
+ 
+
+Since CO is the major C-bearing volatile in the PSN [protosolar nebula], its ice line should be very rich in solids, explaining the origin of the high volumetric density of solids needed to form the planets. The high CO abundance in the building blocks implies that planets forming in this region should be very rich in carbon in bulk.
+
+...
+
+In this paper we showed how the formation on Uranus and Neptune on CO iceline resolves many issues related
+  to these planets. The diffusive redistribution of vapor across the icelines increases the local solids density allowing the formation of these planets from carbon rich
+  solids but nitrogen poor gas, and lead to planetary interiors consistent with recent D/H measurements.
+
+But what do the authors mean when they say "carbon-rich solids"? Does this mean that the nuclei of Uranus and Neptune are poor in silicates?
+All this makes me think that the nuclei of these planets are similar to the carbon planets, which are believed to be made up of carbides, could this be the case of the nuclei of Uranus and Neptune?
+However, the authors considered an environment with C/O ~ 1, but carbon planets are expected to form in environments with C/O > 1. Anyway, I can't think of anything other than carbide when the authors mention "carbon-rich solids"...

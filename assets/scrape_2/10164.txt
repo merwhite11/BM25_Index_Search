@@ -1,0 +1,9 @@
+How does one measure velocities of far-off, bright objects
+
+As the title already says, I want to know how one measures velocities of far-off, bright objects, e.g. when the mean parallax drift isn't measurable with current apparatus (this means when there is only a "non-moving" picture of that object available)
+I know that one can measure the redshift of spectral lines and correct them for gravitational redshifting if the distance is already known.
+But then the relation between source-frequency $f_S$ and observed frequency $f_O$ is
+$$ f_O = f_S \frac{\sqrt{1-\frac{v^2}{c^2}}}{1+\frac{v}{c}\cos(\alpha)}$$,
+where $\alpha$ is the angle between line of sight and the velocity vector.
+If one only has a "non-moving" picture of the object, there is no way to determine this angle $\alpha$ and therefore no way to get the velocity by means of redshift.
+As an addition: At which distance does the mean parallax drift become unmeasurble with current apparatus?

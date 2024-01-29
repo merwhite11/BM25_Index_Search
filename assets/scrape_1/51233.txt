@@ -1,0 +1,4 @@
+How close does a double-planet have to be to provide magnetic protection to a smaller body?
+
+A spinoff of my previous question, regarding the Orbital Stability of a Double Planet System. Imagine two closely-orbiting bodies with a semi-major axis of 79,250 km. One of which is 2M, with a large enough iron core to support a substantial magnetic field as strong if not stronger than Earth's. The other body is 10.4M☽, or about .13M, slightly larger than Mars and lacking a large iron core. Both orbit a .64M☉ star at .4 AU.
+Does the smaller body orbit close enough for the larger one's magnetosphere to provide significant protection from solar wind? By significant, I mean enough to hold onto as much of an atmosphere as its gravitational pull would allow, if it had the same magnetosphere strength on its own. If not, how close does a sub-earth have to be to receive such protection from its partner?

@@ -1,0 +1,3 @@
+What are the azimuths of the planets' orbits?
+
+I am creating a virtual solar system model and I want it to be as realistic as possible (e.g. orbits are ellipses, not circles, and orbits are oriented correctly, not all coplanar).  In order for me to do this, I need to know the eccentricity of the orbit, the perihelion, the semi-major-axis, inclination and azimuth.  I have all of this information, except for the azimuth of the orbit, which is the angle from the sun to the aphelion.  Are there any reliable sources with this information?

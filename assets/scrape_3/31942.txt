@@ -1,0 +1,12 @@
+Why does the number of extrasolar planets vary in different sources?
+
+There are at least three catalogues that are counting up-to-date discovered exoplanets. What criteria do they use to count the number of planets? Every catalogue has a different count value.
+So at this moment various catalogues as:
+
+exoplanet.eu
+Open exoplanet catalogue
+NASA exoplanet archive
+etc.
+
+show values of confirmed number of exoplanets between approx. 3500 and 4050.
+Why do they disagree with each other?

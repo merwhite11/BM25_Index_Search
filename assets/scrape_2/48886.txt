@@ -1,0 +1,15 @@
+What is the relationship between true anomaly and solar longitude?
+
+So, my ultimate objective is to map solar longitude values onto a pseudo-Gregorian calendar. I thought this would be simple, but it has turned out to be anything but.
+I have asked several questions on Reddit about aspects of how to do this:
+
+How do you convert solar longitude to time and map that time on a Gregorian-proportioned year, in the case of an eccentric orbit?
+
+How would you convert Martian solar longitude into time, for example, in order to plot certain Martian events on a pseudo-Gregorian calendar?
+
+How would you convert solar longitude, inclination, and any other required quantities to true anomaly, and vice versa?
+
+
+The first received no answers, while the second (effectively a repeat of the first) was answered. The answerer told me effectively what I wanted to find was the mean anomaly, or the elapsed fraction of time of the tropical year that has passed since perihelion, which is true. They provided me links to formulae to calculate the mean anomaly from the true anomaly, which they described as distinct from solar longitude but that converting between the two should be "fairly straightforward." (They did describe their orbital mechanics as "embarrassingly rusty", however.)
+Now, I couldn't figure out how to convert between the two, and with me figuring whatever difference existed (in their derivative, not their offset) should be down to inclination, asked the third question. The sole answerer so far, unlike the answerer to the former question, says that they are in fact the same thing (again derivative-wise), though they admit they hadn't even heard of solar longitude before my question.
+I figure people here are more likely to be knowledgeable about the mathematics of orbits, hence I'm seeking clarification on the relationship between these quantities—that is, solar longitude (Ls) and true anomaly (ν)—in order to fulfill my objective.

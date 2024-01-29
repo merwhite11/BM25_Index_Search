@@ -1,0 +1,5 @@
+Are there ever any simultaneous transits of both Mercury and Venus as seen from the Earth?
+
+Transits of Mercury happen fairly frequently due to its short period, but transits of Venus are less frequent.  I've looked over the data available to me and found that there have been transits of both planets in the same calendar-year in 1631 (Nov & Dec) and in 1769 (Jun & Nov).  
+What would really be interesting is if the two planets transited the Sun at the same time! With the rule being, that the second transit begins before the first transit completes.  
+Can we figure out if they have ever so transited, or if they ever will so transit?

@@ -1,0 +1,4 @@
+Convert Object Intensity to Pixel Intensity
+
+If I have an object of some size and spectral radiance, and it's some distance R from a camera, how would I calculate its digital count value in an image? I'm sure there's an equation out there, but I don't know what to search for. It would be a function of integration time, aperture, focal length, gain, quantum efficiency, point-spread function, spatial resolution, etc. For simplicity, I'd assume the noise is Gaussian, and that atmospheric transmission is perfect.
+Can someone please help?

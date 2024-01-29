@@ -1,0 +1,25 @@
+Circumpolar Equation Derivation
+
+Edit: Geometric answer from Math.stackexchange
+I am trying to understand where the circumpolar equation comes from.
+$\delta \geq \frac{\pi}{2} - l$
+I can understand that the sort of "rotation" of the reference frame that one experiences in horizon coordinates. I'm not sure where to go from the fact that a star's lowest altitude must be greater than 0.
+
+It is pretty simple to show that $a = l$ and $c = \frac{\pi}{2} - l$. $a$ in this case is the altitude of the north celestial pole. What I need to do is show that the angle of the cone made by a circumpolar star with $\delta + l \geq \frac{\pi}{2}$.
+You can deduce that $a_{min} \geq 0$ for a star to be considered circumpolar. I just need to do this geometrically in terms of its declination from the celestial equator.
+Edit: I think my latest attempt has found a solution.
+
+For a star to be circumpolar, the star must, at the very least, come above the horizon. 
+$0 \leq a \leq \frac{\pi}{2}$
+In the celestial sphere coordinate system, $c$ can be found to be
+$c = \frac{\pi}{2} - \delta$
+In the horizon coordinate system, $c$ can be found to be
+$c = l - a_{min}$
+Therefore
+$l - a_{min} = \frac{\pi}{2} - \delta$
+$\\$
+$l + \delta = \frac{\pi}{2} + a_{min}$
+$a_{min}$ can be set to 0 because it is the lower bound for circumpolarity.
+$l + \delta = \frac{\pi}{2}$
+$\delta$ must be in the cone made by the star's rotation about its declination angle. Therefore
+$\frac{\pi}{2} - l \leq \delta$

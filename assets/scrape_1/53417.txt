@@ -1,0 +1,10 @@
+Solar-winds: public NOAA data
+
+I was searching for interesting data from space recently, and stumbled onto https://www.swpc.noaa.gov/.
+The long and short is that they offer some interesting solar wind data
+Of particular interest to me is the 'mag' data they offer here, and the 'plasma' data they offer here
+I have some questions on these:
+
+What is the 'mag'/'plasma' data exactly?
+How come they are recorded and served to the public in such fast intervals in comparison to other data in the space industry?
+What technology is used to record these data?

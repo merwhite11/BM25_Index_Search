@@ -1,0 +1,5 @@
+Position and velocity vectors of nearby stars?
+
+One of my favorite tools for modeling the solar system is the Horizons Ephemeris generator where I can get position and velocity vectors of various bodies. Is there something similar for neighboring stars?
+The closest I've come so far is Ashland Studio's 500 nearest stars in the Hipparcos Catalog. It gives distance of each star. Clicking on a star in this list will often give the star's relative velocity wrt our solar system. But it doesn't the direction of it's motion. 
+For the time being I'd like the model the stars within about 20 lightyears of Sol.

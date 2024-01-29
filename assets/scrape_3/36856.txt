@@ -1,0 +1,30 @@
+Specutils Gaussian1D fitter and estimators
+
+I am running the "simple example" from specutils to do some line-fitting.
+The demo code is here:
+https://specutils.readthedocs.io/en/stable/fitting.html
+This runs and does what it says.
+However I want to use parameter estimation to get an approximation to the initial parameters in the Gaussian, because I am interested in looking at a number of long spectra with a lot of lines in and want to attempt initial fits automatically.
+So I modify the specutils.fitting import to
+    from specutils.fitting import fit_lines, estimate_line_parameters
+
+and add in
+    e1 = estimate_line_parameters(spectrum, models.Gaussian1D())
+    a = round(e1.amplitude.value,2)
+    b = round(e1.fwhm.value,2)
+    c = round(e1.stddev.value,2)
+
+This gives meaningful values and I replace the call to the Gaussian by:
+    g_init = models.Gaussian1D(amplitude=a*u.Jy, mean=b*u.um, stddev=c*u.um)
+
+then
+    g_fit = fit_lines(spectrum, g_init)
+    y_fit = g_fit(x*u.um)
+
+The initial values I get from the estimator are:
+initial amplitude= 3.35  initial fwhm =  2.41  initial stddev= 1.02
+But on looking at the output parameters using g_fit.amplitude.value etc, I get:
+final amplitude= -0.24 Jy  final fwhm =  0.0 um  final stddev= 0.0 um
+for the output values!! If the estimators are correct then the output values should be very close.
+Is there an issue using the estimators like this?
+FWIW I am running matplotlib 3.2.2, specutils 1.0, numpy 1.19, python 3.6 over Ubuntu 19.10

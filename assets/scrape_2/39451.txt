@@ -1,0 +1,5 @@
+Does tidal locking also slowly reduce the orbiting body's axial angle?
+
+The Moon is tidally locked to the Earth, and it has an axial angle of 6.687 degrees relative to its orbital plane. I'd like to know: did the Moon start out with a higher axial angle?
+In other words, does the process of tidal locking also slowly reduce the orbiting body's angle of rotation? If so, how does this work? And will it someday cause the angle to be reduced to zero?
+A secondary question would be: suppose an orbiting body had an extreme axial angle, say 80 degrees (perhaps due to an impact during its formation), how would this affect the process of tidal locking?

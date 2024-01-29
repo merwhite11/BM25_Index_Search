@@ -1,0 +1,9 @@
+What are the primary astrophysical implications of a proposed mass of about 11 M⊙ for the SN 2023ixf progenitor?
+
+The abstract of the arXiv preprint SN 2023ixf in Messier 101: A Variable Red Supergiant as the Progenitor Candidate to a Type II Supernova (itself recently "discovered" in the observatory) includes:
+
+We interpret this SED as reprocessed emission in a 8600 R⊙ circumstellar shell of dusty material with a mass ∼5×10−5 M⊙ surrounding a log(L/L⊙) = 4.74±0.07 and Teff = 3920+200 −160 K RSG. This luminosity is consistent with RSG models of initial mass 11 M⊙, depending on assumptions of rotation and overshooting. In addition, the counterpart was significantly variable in pre-explosion Spitzer 3.6 µm and 4.5 µm imaging, exhibiting ∼70% variability in both bands correlated across 9 yr and 29 epochs of imaging. The variations appear to have a timescale of 2.8 yr, which is consistent with κ-mechanism pulsations observed in RSGs, albeit with a much larger amplitude than RSGs such as α Orionis (Betelgeuse).
+
+Taken by itself, the initial mass is certainly sufficient that a neutron star or black hole could result, so I'm guessing that one of the astrophysical implications relates to the prediction of what was formed and might be observed in the future.
+But there seems to be a lot more astrophysics and stellar evolution being discussed here, so I'd like to ask:
+Question: What are the primary astrophysical implications of a proposed mass of about 11 M⊙ for the SN 2023ixf progenitor?

@@ -1,0 +1,5 @@
+Depth of primary and secondary minimum in a light curve
+
+How can I explain approximately the same depth of primary and secondary minimum in light curve? 
+I observe star HD 36486. I tried filters MOST and BRITE.
+Is it related with photometric filter? When I change the filter in program for analysis the result is the same.

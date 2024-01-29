@@ -1,0 +1,7 @@
+Why is Mercury's orbit so unusual?
+
+Mercury's orbit has the most eccentricity, 0.2, of all the planets. And this orbit is also the most inclined relative to Earth, 7 degrees. Edit: And to the invariable plane, it is inclined 6.35 degrees which is much greater than any other planet.
+Why is this? A body that close to the Sun should have tidal interactions that circularize the orbit much quicker than other planets. It is also hard to fathom why the orbit should be so inclined... an accretion disk should not naturally form that way, especially so close to the Sun.
+Are there any theories on this? All I can think of is some relatively recent impact that greatly disturbed its orbit, but the surface of Mercury does not exactly show evidence of it.
+Note: This has nothing to do with Einstein's relativity creating an anomaly in the orbital period. Whenever I search this question on the web, the results are always overwhelmingly talking about that anomaly.
+Also note that Mercury has a 3:2 resonance in regards to its rotational period. This may or may not have anything to do with its orbital history.

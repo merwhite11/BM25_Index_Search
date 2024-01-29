@@ -1,0 +1,10 @@
+Do apparent magnitude (V) and photometric magnitude (specifically in optical V band between 500-600 nm) have a similar scale to stellar magnitude?
+
+I'm graphing a table and I used the magnitude values from this database
+https://vizier.u-strasbg.fr/viz-bin/VizieR-4
+(It's the V/19/data catalog for "Masses and Ages of stars in 68 open clusters", Piskunov 1980 in VizieR)
+
+
+I wanted to know if this scale(V mag)  works in the same way as a stellar magnitude scale where the fainter objects have a higher magnitude number. Generally speaking for a star's magnitude number does a larger value automatically imply less intensity?
+Also if anyone could refer to any databases that contain stellar magnitude values for different open galactic clusters that would be so helpful.
+Thanks!

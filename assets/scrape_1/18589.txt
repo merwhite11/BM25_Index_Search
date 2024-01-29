@@ -1,0 +1,4 @@
+Did the Juno mission locate Jupiter at the same precision as Saturn (4 km)?
+
+Juno's low perijove should be great for measuring Jupiter's gravitational effect on Juno's orbit. Cassini together with VLBI has measured Saturn's location to within 4 km. 
+Will Was Juno be able to be measured by VLBI to determine Jupiter's location and orbit at a similar precision? At a precision useful for mapping the Solar System outside of the Kuiper Belt?

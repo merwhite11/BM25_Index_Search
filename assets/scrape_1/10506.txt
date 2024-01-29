@@ -1,0 +1,7 @@
+How to calculate position of an unknown star knowing positions of some other stars from an image?
+
+
+Suppose I know the coordinates (right ascension and declination) of the stars marked with red. How should I calculate the coordinates of an unknown star, marked with yellow?
+Searching over the web, I found a technique called least squares plate constants. I guess plate constants dates back before CCD cameras. Unfortunately there was only little explanation. However, if I understood the matter correctly, I should assume the stars are on a surface of a sphere imaged to a plane? Please help :)
+Also, how should I calculate the distances between the stars?
+The original image is from Wikipedia.

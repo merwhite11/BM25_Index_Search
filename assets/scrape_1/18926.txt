@@ -1,0 +1,6 @@
+Rebinning with a non-integer factor
+
+I'm in doubt whether I should put this in the astronomy or rather the coding exchange, but since my interest goes out to the former I will try my luck here.
+Suppose I have an image with a certain pixel scale $x$. I would like to rebin this to a larger pixel scale, $y$, but this is not an integer multiple - so I can't say, for instance, that every group of 4 pixels in the original grid will now be one big pixel in the new grid, and average their flux.
+Rather, I'd like something like i.e. $y=2.3\cdot x$.
+Is this routinely done in the astronomical community -- and if so, how?

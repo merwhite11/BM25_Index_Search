@@ -1,0 +1,5 @@
+Why does the star formation rate correlate with the total stellar mass in star forming galaxies?
+
+The so-called "Main Sequence" of star-forming galaxies (e.g., Brinchmann et al. 2004; Noeske et al. 2007) clearly points to a linear relation between the stellar mass of galaxies and their star formation rate.
+This relation holds at all redshifts, with a time-evolving normalisation.
+The question is: what is the physical reason why, at a given time, the total stellar mass (which is an integrated quantity, i.e., the integral of the past star formation history if you want) should be linearly related to the rate at which stars are forming?

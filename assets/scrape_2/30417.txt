@@ -1,0 +1,4 @@
+Smoothing an SED with binning
+
+I have an (observed) SED of a galaxy, and am attempting to match model SEDs to it. To do this I need to be able to see its shape better, which would involve some sort of smoothing of the spectrum. I would like to do this in Python. I've looked through scipy's various smoothing tools (like UnivariateSpline), but don't know if that's on the right track since that would only be some best fit to my spectral data.
+I also used the Iris software to perform an interpolation of my spectrum with 1000 bins and the smoothing option turned on, but I do not understand the computational process behind this. How might I accomplish this in Python?

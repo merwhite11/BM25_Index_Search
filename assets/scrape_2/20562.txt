@@ -1,0 +1,6 @@
+Question about doppler effect
+
+We know that we can use Doppler effect to determine equatorial velocity of a planet. We send a electromagnetic wave with wavelength $\lambda_0$ to an equatorial edge of planet and we get wavelength $\lambda$. So we can use Doppler Effect formula, (assuming $v \ll c$)
+$$\frac{\Delta\lambda}{\lambda_0} = \frac{v_r}{c}$$
+such that $v_r$ is radial velocity. But $v_r$ = $2*v_p$. And $v_p$ is equatorial velocity of planet.
+I want to know where does the $``2"$ comes from. Someone said it is because of receiving the signal and then reflecting it. I want to know the math behind this not just to say receiving and reflecting. Why do we need to multiply the velocity by 2 to get the radial velocity?

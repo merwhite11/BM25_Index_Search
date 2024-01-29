@@ -1,0 +1,3 @@
+Recording Spectral Lines at Home
+
+I was wondering if it would be possible to record the emission/absorption spectra of stars without expensive spectroscopy equipment. Would it be possible to somehow utilize diffraction grating? I own a Newtonian with a 130mm aperture if that helps.

@@ -1,0 +1,12 @@
+1-parameter NFW dark matter profile
+
+This should be a straightforward exercise, but I'm struggling. Help is much appreciated
+I would like to parameterize a Navarro-Frenk-White profile with one parameter, using the correlation between total mass and the concentration. 
+As a starting point, I have the density in terms of two parameters: the total dark matter mass inside the virial radius $r_{vir}$, and the concentration parameter $c=r_{vir}/r_{s}$:
+$\rho_{DM}(r) = \frac{M_{DM}}{4\pi A(c)}\frac{1}{r(r_{s}+r)^{2}}$
+where the function $A(c)$ is given by
+$A(c) = \ln{(1+c)} - \frac{c}{1+c} $
+Using the correlation between $M_{DM}$ and $c$ (from e.g. Napolitano et al. 2005)
+$c(M_{DM}) \approx 9.195 \left(\frac{M_{DM}}{h^{-1}10^{12} M_{\odot}} \right)^{-0.094}$
+it should then in principle be possible to parameterize $\rho_{DM}$ as a function of $M_{DM}$ only. This is how they do it in e.g. Williams et al. 2009.
+However, I'm not managing to reproduce that. Sure, given the correlation above, $M_{DM}$ determines $A(c)$, but won't $\rho_{DM}$ still depend on $r_{s}$?

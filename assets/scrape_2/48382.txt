@@ -1,0 +1,6 @@
+Conservation of specific intensity
+
+I am trying to understand the proof of the conservation of specific intensity. Here we are trying to prove that specific intensity at dσ1 and dσ2 along the ray emitted by a source is the same. I don't understand this line:
+Let dΩ1≪1 rad be the solid angle subtended by dσ2 as seen from the center of the surface dσ1 and dΩ2≪1 rad be the solid angle subtended by dσ1 as seen from the center of the surface dσ2.
+Why are we using the solid angle subtended by dσ2 for dΩ1 instead of the solid angle subtended by area dσ1 at the source? Using the solid angle subtended between the two surfaces instead of the surface and source is the confusion here.
+From https://www.cv.nrao.edu/~sransom/web/Ch2.html

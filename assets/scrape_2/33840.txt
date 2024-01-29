@@ -1,0 +1,4 @@
+How are the atomic clocks synchronised between worldwide VLBI telescopes?
+
+I know that VLBI needs precise synchronised atomic clocks to calculate the baseline distance between the radio telescopes at cm level. But i cant´t find any information how the atomic clocks are kept synchronised over long distances (several thousand kilometres around the world). As far as i know GPS is not accurate enough.... How are atomic clocks kept synchronised on all VLBI telescopes ?
+Thanks a lot :)

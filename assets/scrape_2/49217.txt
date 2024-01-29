@@ -1,0 +1,5 @@
+Measure the deprojected distance between two points?
+
+I have an image of a protoplanetary disk, from which I would like to measure the distance of various points from the centre. See below image for an example, where I would like to measure the distance between the green x's.
+It is straightforward to measure the distances as projected on the sky, since I know the distance to the disk (110pc), and the angular separation in arcsecs.
+However, the disk is inclined (i=43$^\text{o}$) and rotated by a position angle (PA=146$^\text{o}$). I would like to know how to calculate the deprojected distance between two points.

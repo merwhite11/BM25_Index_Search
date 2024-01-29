@@ -1,0 +1,6 @@
+How to convert spectra to log-wavelength and interpolate them into linear spacing in log-wavelength
+
+I want to write a function that cross correlates a spectrum with a quasar template
+I’d like to ask you how can I convert my flux density vs wavelength spectrum to log-wavelength. It’s not clear to me if I should just take wavelength axis -> log-wavelength axis. Or should I do something else?
+From what I understand from reading here other people's questions, I need the spectra to be binned linearly in log-wavelength.
+Sorry for my ignorance, but what does it mean? I understand how it helps but not the action itself. And how do I do that (let's say on Matlab or Python)? I know it's related to interpolation but I do not understand how to do it and why.

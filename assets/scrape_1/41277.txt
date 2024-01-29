@@ -1,0 +1,12 @@
+How many times brighter would full-earth-shine appear to people standing on the moon, than full-moon-shine does to people on earth?
+
+The definition of brightness, according to Wikipedia:
+
+the term brightness in astronomy is generally used to refer to an object's apparent brightness: that is, how bright an object appears to an observer. Apparent brightness depends on both the luminosity of the object and the distance between the object and observer, and also on any absorption of light along the path from object to observer.
+
+How many times brighter is full-earth-shine as seen from the moon's surface, than full-moon-shine as seen from the earth's surface?
+Different internet sources give different figures. I have seen figures as low as  3x (here), and as high as 100x (here). What is the right figure?
+1st reference to be found In the last paragraph of the article.
+2nd reference to be found on page 26.
+Ethan on this website claims that the figure is 43x.
+Besides an original answer, it would be good to get explanations on where the references made wrong calculations to get to their different conclusions.

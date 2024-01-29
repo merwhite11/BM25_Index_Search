@@ -1,0 +1,16 @@
+Will we start seeing galaxies disappear due to Universe expansion?
+
+Does the fact that universe is currently expanding at an accelerating rate means that far far away objects (FAO) might start disappearing with time, set aside the "red shift"? 
+I'm saying this because from what I understand until now:
+
+we receive photons from FAO that were emitted long long ago
+now due to space expansion, some of those objects are now moving away at speed greater than the speed of light, but at the time the photons we receive today were emitted, these FAO where not moving away faster than light
+
+So there must be a point in time at which these far away objects disappear from view. How is this concept called?, or is it only a mistake I'm doing in my thinking? 
+Here's a simple drawing to illustrate:
+
+at t=-11 billion years(By), photons are emitted in a slow expanding universe, and today we can view the object as it was
+at t=-2 By, the object moves faster than speed of light, so photon emitted at that time will never reach us, even if we wait the 9 by + "expansion correction" needed...
+
+
+I couldn't be convinced by the answer I found here, saying nothing disappears out of horizon. I don't see how it complies with that answer were event horizon approaches us.

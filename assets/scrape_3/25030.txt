@@ -1,0 +1,20 @@
+Could a contracting Universe create the redshift effect observed by Hubble?
+
+What if we just can’t see far enough and the redshift actually shows the galaxies speeding up towards a gigantic black hole to where everything is converging, repeating a cycle that took place countless times “before” the big bang?
+Complete text in this link: http://www.therealebook.com/Astronomy/Redshift_ContractingUniverse.html
+Even in a contracting Universe, there is a region around the observer where all the galaxies are moving away; the galaxies that are moving towards the observer could be too far to be seen. If we can demonstrate this, we could challenge the conclusion that the Universe is expanding, based on the redshift effect observed in the “nearby” galaxies.
+
+Let’s start with a simpler representation: 1 dimension only (1D). Assume that all the galaxies move along a single line. We could represent an expanding and a contracting Universe as per the images below:
+
+In Situation 1, we have the currently accepted model, where galaxies move away from each other, at increasing speed, which creates the redshift observed by Hubble.
+In Situation 2, we assume that in the contracting Universe the galaxies have a speed that is inversely proportional to the distance from the center (as in a sink flow where the particles accelerate towards the drain), galaxies 1 and 3 will display a red shift effect, because they are moving away from each other, while galaxies 4, 5 and 6 will appear with blueshift effect. However, in order to see the blue shifted galaxies it is necessary to see beyond the center of the Universe, which would be not possible either because of the distance or because of the gigantic black hole in the center traps light from galaxies 4, 5 and 6 preventing it from reaching us at galaxy 2.
+In fact, assuming that from galaxy 2 we cannot see beyond galaxy 1, it is impossible to distinguish between situation 1 and 2.
+With this we have demonstrated that for a 1D Universe it is impossible to determine if it is expanding or contracting, simple because we cannot see far enough. What about a 2D space?
+Consider two galaxies (1 and 2); consider that they form a angle beta, relative to the center of the universe (assuming that there is one); Consider that galaxy 1 is at the distance r from the center; consider that galaxy 2 is at a fraction of r (say xr) from the center.
+We can calculate the distance between galaxy 1 and 2 as follows:
+
+From the equation above we can calculate alfa and from  we can calculate d.
+We also suppose that the speed along the radius can be calculated with the equation v = c / r, where c is constant.
+Therefore we can calculate the position of the two galaxies after a period of time t, and measure the distance d between them to verify if d increases (redshift) of decreases (blueshift).
+We can see that no matter what the fraction x is, there is always a minimum value for the angle beta, such that any galaxy within this angle will be moving away from the reference galaxy. Now assume that the universe is so big that we cannot see galaxies beyond beta. In this way, all that we can see is redshifted galaxies!
+This means that even for a contracting universe, depending on how far we can see, it is possible to detect only redshifted galaxies. Does not this disprove the theory of expanding universe based on redshift?

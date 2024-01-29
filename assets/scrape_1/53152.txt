@@ -1,0 +1,8 @@
+How much of the variance of matter is due to scales
+
+Imagine a Universe in which the matter power spectrum behaves as
+$$\mathcal{P}\sim k^{0.8}$$
+How much of the variance (not variance squared!) of matter is due to scales around $k=k_1=10^{2.9}\mathrm{Mpc}^{-1}$,
+versus scales around $k=k_2=10^{-3.0}\mathrm{Mpc}^{-1}$
+To be explicit, how much is:
+$$\frac{\sigma(k\sim k_1)}{\sigma(k\sim k_2)}?$$

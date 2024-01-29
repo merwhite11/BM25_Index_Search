@@ -1,0 +1,3 @@
+Infrared Astronomy for non transiting objects?
+
+I understand how infrared spectroscopy works for determining molecules in the atmosphere of a transiting object (like Venus from Earth). But how does this work for objects that don't pass between us and the sun? If the IR spectra is an absorption spectra, is the light emitted by a planet, like Uranus, enough for us to determine its atmoshpere's composition via IR spectroscopy?

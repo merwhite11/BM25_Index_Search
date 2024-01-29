@@ -1,0 +1,5 @@
+Question about $3p/c^2$ in Friedmann equation
+
+The Friedmann Equation:
+$$\frac{\ddot{a}}{a} = -\frac{4\pi G}{3}\left(\rho + \frac{3p}{c^2}\right) + \frac{\Lambda c^2}{3}$$
+I want to know, where does the $3p/c^2$ come from. I know it is something like density of energy or something like that but I don't know where it comes from.

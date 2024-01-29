@@ -1,0 +1,11 @@
+How to derive the redshift of GW150914?
+
+We all know LIGO has detected gravitational wave(GW) directly. prl
+
+The LIGO team argue they detected the merger of two solar mass black holes($36M\odot+29M\odot-3M\odot$) at z=0.09. 
+My questions are
+It seems GW has Doppler shift too. There is a GW spectrum with emission or absorption lines like optical spectrum?  
+Figure.2 of the PRL paper seems to be very simple. Generally, people take their masses derived seriously? There may be other models which can give different masses. It is different from Taylor binary which was observed many years. 
+What does a 100HZ GW mean?  That is the frequency of the two arms shrink and extend?
+What does the frequency stand for in the binary system?
+The discovery can not be confirmed. DO you think the team win a Nobel prize only after other facilities like LISA find GW again?

@@ -1,0 +1,29 @@
+Compare this planet to Earth and determined its habitability (can humans live in this environment?)
+
+I'm given this set of data and I need to describe the habitability. Would this not be habitable since the temperature of the albedo and the equilibrium is similar to Earth's or does the Spectral Type M affect the planet that much?
+
+Spectral Type: M
+Age of the Star (Gyr): 0.664
+Binary System: Single Star
+Planet Orbital Period (Years): 0.0387
+Planet Semi-Major Axis (AU): 0.0613
+Planet Mass (Earth Masses): 1.87
+Planet Radius (Earth Radii): 1.24
+Method of First Detection: Transit
+Eccentricity: 0.11 
+Atmospheric Composition (Percent by Volume): 
+N2  77.8
+CO2 0.00368
+H2O 2.37
+O2  19.8 
+Number of other (known) Planets in the System: 1
+Location in the Galaxy: Open Cluster
+Distance from Earth (lightyears): 960
+Atmospheric Pressure (atm): 1
+Stellar Mass (Solar Masses): 0.154
+Planetary Albedo: 0.271
+Planet Equilibrium Temperature (K): 243
+Stellar Radius (Solar Radii): 0.171
+Orbital Inclination (degrees): 5.7
+Planet Axial Tilt (degrees): 18.4
+Magnetic Field Strength (Units of Earth Magnetic Field): 0.109

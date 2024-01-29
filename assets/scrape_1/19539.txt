@@ -1,0 +1,6 @@
+Non-Newtonian motion of the moon
+
+I watched an interesting excerpt from a BBC show on the work of the McDonald Observatory in its laser measurements of the distance to the moon which are apparently accurate to within a few centimeters. The observatory used to make a measurement every day and by this means a plot of the Moon's orbit around the earth was obtained over a period of approximately 40 years from about 1970 to about 2010.
+At the end of the excerpt Dr. Peter Shelus says that the measurements show that the shape of the moon's orbit is not quite as expected by "Newton's" theories, which I interpreted to mean that the orbit is non-Keplerian, but possibly he meant something else. It is hard to know because the excerpt just cuts off mid-sentence, so it is unclear what he was saying exactly.
+In what way is the orbit of the moon irregular according to the MacDonald measurement series?
+Also, as an aside, I notice that the observatory's funding was cut in 2009 so that these measurements are no longer being made, but two other observatories are making new series. Are these other observatories making daily measurements the way the MacDonald Observatory used to do?

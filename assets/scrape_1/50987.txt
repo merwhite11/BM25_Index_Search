@@ -1,0 +1,8 @@
+The necessary conditions for driving winds with dust (Dust-driven Wind)
+
+So lately I've read Intro to stellar winds (particularly chapter 7 Dust-driven winds) by Lamers & cassinelli, I forget how many times I've read this but I still don't really understand. So in the book, it says
+"The survivability of a test grain is most easily determined by deriving its radiative equilibrium temperature. If this exceeds the ‘condensation temperature’ then the grain will be so hot that it will sublimate rather than grow. "
+I just still cannot imagine this sentence, because in my mind I think condensation is a phase transition from gas to liquid, and sublimate is when you have solid thing change to gas.
+So the main question is (1)why if the grain/dust exceed the condensation it will sublimate ?
+another question is, (2) what happen in condensation region ? I mean if condensation is when we have gas change to liquid, then why dust/grain formed in this region ? aren't these grain/dust a solid ?
+I don't know if I missed some explanation from the book, but any help will be very helpful for me, thank you.

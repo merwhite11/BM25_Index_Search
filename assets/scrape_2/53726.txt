@@ -1,0 +1,16 @@
+Seeking Guidance & Tips for Collaboration on a Cosmological Project Involving Potential Energy Variation Due to Cosmic Expansion
+
+I'm a student with a deep interest in cosmology and astrophysics. I've embarked on a project and am seeking some guidance, insights, or even ways that I could look for possible collaboration on this project.
+The central idea of my project is to examine the potential energy variation in the universe due to cosmic expansion. The hypothesis is that as the universe expands, the average potential energy per unit volume decreases, as celestial bodies are moving farther apart from each other. This would be the expected result according to current laws of physics. However, if we observe otherwise, it could potentially point towards a zero-energy universe.
+To investigate this, I'm planning to compare galaxies at different points in time using images from the Sloan Digital Sky Survey (SDSS). By examining galaxies at different distances (and hence at different points in the past due to light travel time), I hope to track changes in potential energy per unit over time.
+Here's the general methodology I'm considering:
+
+Using the SDSS dataset, I will select galaxies at various distances from us, effectively creating a timeline from the past to the present.
+For each galaxy, I will estimate its mass based on its luminosity, and use redshift data to estimate its distance.
+Using these mass and distance estimates, I'll calculate the gravitational potential energy of each galaxy, treating it as a point mass in a universe filled with a homogeneous distribution of matter.
+Finally, I will plot the potential energy per unit volume against time, expecting to see a trend of decreasing energy as the universe expands.
+
+I realize this is a simplified approach and there are significant challenges to overcome, including the inherent uncertainties in estimating mass and distance, the role of dark matter, the influence of dark energy, and the potential for inhomogeneities in the universe's energy distribution.
+However, I view this project as a unique learning opportunity, and I'm excited about the possibility of gaining a deeper understanding of our universe and developing my skills in astronomical data analysis. But the complexity is a bit overwhelming because I truly am a beginner in this field and don't really know how to calculate anything from the data set.
+But if there is an expert that would see this as a fun side project on the weekends with a highly interested student, that would be awesome. I would love to collaborate with someone who has some expertise in the estimation of the potential energy and certain factors that would need to be looked out for or how to improve the estimates.
+But generally, if anyone here could provide insights, suggestions, resources, I would be truly grateful. I'm eager to learn and look forward to finding resources and suggestions for how to engage with others about this topic.

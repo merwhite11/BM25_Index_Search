@@ -1,0 +1,4 @@
+What's the difference between grism and grating?
+
+In spectroscopic observations, sometimes you meet grism, sometimes grating. 
+Both of them could cause light dispersion, but what is the difference?

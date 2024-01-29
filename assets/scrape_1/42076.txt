@@ -1,0 +1,8 @@
+Why won't the Sun set for days at N66.2 which is below the arctic circle?
+
+Correct me if I am wrong, but if we count sunsets by the center of the Sun apparently crossing the horizon then the Sun is supposed to set every day at latitudes under the arctic circle. (Yes if you count in the disc then adjust by 0.27 degrees.)
+I was playing around with PyEphem (a python library that claims an approximately 1 arcsecond accuracy), and found that according to it the sun stays up for a couple of days even under it ($66.2<90-23.4$). Can someone explain what is going on?
+I created this simple plot to illustrate the issue. The left panel shows the whole period while the right panel shows that the problem is not that the data is under sampled. The plot goes from
+2021-06-13 00:12:58.085383+00:00 to 2021-06-28 23:54:05.880661+00:00.
+
+And one more example: Kuusamo is a city at 65°58′N 29°11′E and apparently it also has a few days when the sun doesn't set: LINK1 LINK2

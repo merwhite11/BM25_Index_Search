@@ -1,0 +1,5 @@
+The size of the radius of the event horizon of a black hole created by the merger of a black hole binary system
+
+Let's assume that you had a black hole binary system and everything said here is possible. Their large masses would lead to a large emission of gravitational waves. The loss of orbital energy and angular momentum to this gravitational radiation should ultimately cause the two black holes to merge into a single black hole containing the combined mass of the merged black holes.
+With this said, does a greater combined mass of the newly formed black hole mean that the radius of the new event horizon is greater than the radius of the event horizons of the singular black holes? 
+I don't know if there is a formula connecting mass to radius, or if this is essentially a conceptually hypothetical concept, and the answer is simply that the larger the mass of the black hole, the larger the radius of its event horizon

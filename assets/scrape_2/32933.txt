@@ -1,0 +1,5 @@
+What is the significance of minus sign in the expression of apparent magnitude?
+
+The apparent magnitude of a distant object in the sky is measured as 
+m=(-)2.5 log (I/I0) 
+Where I is the intensity of the object whose apparent magnitude is to be measured and I0 is the reference magnitude. My question is why we put the minus sign in the expression.

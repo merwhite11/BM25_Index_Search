@@ -1,0 +1,9 @@
+Precision of geocentric gravitational constant
+
+I am looking for an answer as to why the geocentric gravitational constant, μ, defined as the product of the gravitational constant, G, and the mass of a body (earth in this case), M, can be calculated to a higher degree of precision than either G or M alone.
+From wikipedia
+
+...for celestial bodies such as Earth and the Sun, the value of the product GM is known much more accurately than each factor independently. Indeed, the  limited accuracy available for G limits the accuracy of scientific 
+   determination of such masses in the first place.
+
+Can someone explain this? I can't find a good answer anywhere I look.

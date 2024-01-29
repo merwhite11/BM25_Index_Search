@@ -1,0 +1,3 @@
+Moons within a Gas Giant
+
+Assuming a gas giant is primarily gaseous past our visibility, is it possible that a moon traveling at a sufficient velocity would be able to exist within the atmosphere, or would terminal velocity from the atmosphere prevent an object of that size from maintaining appropriate centripetal force? For example, Neptune has winds that are so fast they move beyond the speed of sound. Would a moon be able to exist in an environment like that?

@@ -1,0 +1,8 @@
+Are there non-smooth metrics for spacetime (that don't involve singularities)?
+
+I found this statement in a discussion about the application of local Lorentz symmetry in spacetime metrics:
+
+Lorentz invariance holds locally in GR, but you're right that it no longer applies globally when gravity gets involved. While in SR, quantities maintain Lorentz (or Poincare) symmetry via Lorentz (or Poincare) transforms, in GR they obey general covariance which is symmetry under arbitrary differentiable and invertible transformations (aka diffeomorphism).
+If a spacetime was not smooth, and didn't allow local Lorentz symmetry, it would break the principle of equivalence which is the bedrock assumption in GR.
+
+I would like to know if there are possible spacetimes where they would not be smooth. The only problem is that this usually involves singularities.  Are there models or metrics of non smooth spacetimes that would be compatible with what we currently know in physics but that don't necessarily involve singularities?

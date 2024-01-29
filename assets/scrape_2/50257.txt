@@ -1,0 +1,55 @@
+How do I calculate the closest point to the sun on Earth's surface?
+
+Couldn't find an answer so here I come:
+On 21st of June and 21st of December these points would lie on the tropics.
+But what about the other days of the year?
+Is there a simple formula to calculate the latitude, longitude of the closest point to the Sun on Earth's surface at any given date-time?
+And would the shadow circle of the earth be centered at the opposite point?
+Edit:
+One part of the answer seems to be here
+Edit2:
+After more searching, i finally stumbled upon a fully cooked up solution
+However, when i compare the result to, for example https://www.timeanddate.com/worldclock/sunearth.php, they do differ quite significantly.
+E.g.,  the website reports
+
+On Thursday, 25 August 2022, 06:58:00 UTC the Sun is at its zenith at
+Latitude: 10° 44' North, Longitude: 76° 03' East
+
+while the function generates
+
+Lat: 19.63448840599144 Lon: 77.26722364174202.
+
+So longitude is pretty close, latitude pretty far off.
+For completeness, here's the function as i translated:
+function toInt(d) {
+    return d | 0
+}
+function subsolar(ye, mo, da, ho, mi, se) {
+    var ta = Math.PI * 2.0
+    var ut = ho + mi / 60.0 + se / 3600.0
+    var t = 367.0 * ye - toInt(7.0 * (ye + toInt((mo + 9.0) / 12.0)) / 4.0)
+    var dn = t + toInt((275.0 * mo) / 9.0) + da - 730531.5 + ut / 24.0
+    var sl = dn * 0.01720279239 + 4.894967873
+    var sa = dn * 0.01720197034 + 6.240040768
+    t = sl + 0.03342305518 * Math.sin(sa)
+    var ec = t + 0.0003490658504 * Math.sin(2.0 * sa)
+    var ob = 0.4090877234 - 0.000000006981317008 * dn
+    var st = 4.894961213 + 6.300388099 * dn
+    var ra = Math.atan2(Math.cos(ob) * Math.sin(ec), Math.cos(ec))
+    var de = Math.asin(Math.sin(ob) * Math.sin(ec))
+    var la = degrees(de)
+    var lo = degrees(ra - st) % 360.0
+    lo = (lo > 180.) ? lo - 360. : lo
+    lo = (lo < -180.) ? lo + 360. : lo
+    return [la, lo]
+}
+
+To be fair, this algorithm does not look the same as what previously published, like here, which is instead what wikipedia references.
+However, 3 is unclear at best, not specifying
+
+what Nleap is and how to derive
+How to derive Fraction of day (i would assume as ((h + (m/60.0) + (s/3600.0)) / 24.0) , but i can't be sure)
+what Tgmt is and in what units it is expected to be given (hours? minutes? fraction of the day?)
+
+Edit 3: the python algorithm (translated above into javascript) actually works reasonably well.
+The issue i was having is that javascript getMonth returns values in the [0-11] range, while this method expects values in the [1-12] range.

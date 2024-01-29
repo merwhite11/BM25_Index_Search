@@ -1,0 +1,4 @@
+How can I correct for transit time?
+
+I know the exact time a radio telescope detected a transient event. I also know the exact location of the telescope, and the galactic coordinates (galactic longitude, latitude) and right ascension and declination of the beam pointing center.
+I conjecture that the event was also observed by another receiver at another location. How can I correct for the time difference between the two locations (i.e. the event reached one observer earlier than the other due to that they are in different locations)? Currently, I’m taking the dot product of a vector between the known observer and the source, and a vector between the known observer and the potential observer, and dividing that by the speed of light. To obtain the vector between the observers, I calculate their ‘n-vectors’ ( https://www.movable-type.co.uk/scripts/latlong-vectors.html  ) and take the difference. However, I’m getting nonsensical delay values.

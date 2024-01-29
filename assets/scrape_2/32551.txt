@@ -1,0 +1,14 @@
+How are microlensing events used to constrain the size of innermost stable circular orbits around spinning black holes?
+
+The third paragraph of the introduction to the ArXiv preprint Constraining Quasar Relativistic Reflection Regions and Spins with Microlensing says:
+
+Quasar microlensing has significantly improved our understanding of the accretion disks (e.g., [five refs]) and non-thermal emission regions (e.g., [seven refs]) of quasars, and the demographics of microlenses in the lens galaxy (e.g., [three refs]) . Since the magnification diverges on the caustics produced by the lensing stars, quasar microlensing can constrain arbitrarily small emission regions if they can be isolated from other emission, in position, velocity, or energy. In particular, microlensing can be used to constrain the spin of black holes by measuring the ISCO size. (emphasis added)
+
+ISCO was previously identified as innermost stable circular orbit.
+From what I understand from Wikipedia's Gravitational microlensing; How it works, a microlensing observation records a short term brightening of an object due to focusing by an intervening gravitational body, without useful spatial resolution.
+See also the Planetary Society's explanation Microlensing; Beyond our Cosmic Neighborhood
+Question: How are microlensing events used to constrain the size of innermost stable circular orbits around spinning black holes? What instruments are used and what kind of analysis is done to obtain a ISCO constraint?
+
+
+
+Example light curve of Gravitational Microlensing event - OGLE-2005-BLG-006 Source

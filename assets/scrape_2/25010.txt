@@ -1,0 +1,5 @@
+How to mathematically describe a planet's eccentric orbit?
+
+Is there a formula for describing a planet's position along an eccentric orbit over time? I am particularly interested in the elliptical case (0 < e < 1).
+I understand that the planet has a higher velocity closer to the perihelion. Ideally I would like to be able to calculate a planet's position on it's orbital path in relation to how far through it's orbital period it is, if that makes sense. 
+Alternatively, is there software (that doesn't require a university's budget) to work this out?

@@ -1,0 +1,27 @@
+How do you propagate asymmetric errors? (on the practical way to...)
+
+I've used uncertainties's ufloatpackage to propagate uncertainties as I thought it's the standard way to do it. Now I want to propagate errors when I have different lower and upper uncertainties.
+From this source I understand that
+
+there’s the uncertainties package which is quite sophisticated and seems to be the gold standard for this kind of thing.
+
+but
+
+analytic propagation still fundamentally operates by ignoring nonlinear terms, which means, in the words of the uncertainties documentation, that “it is therefore important that uncertainties be small.”
+
+
+...the uncertainties package doesn’t support asymmetric error bars or upper limits. My understanding is that these could be implemented, but they badly break the assumptions of analytic error propagation — an asymmetric error bar by definition cannot be represented by a simple mean and standard deviation, and an upper limit measurement by definition has a large uncertainty compared to its best value.
+
+which is in the same line as this question in Physics.SE; the same source states that
+
+if your method can’t handle large uncertainties, it’s pretty useless for astronomy.
+
+and I do agree with the author. From this I guess known expressions (from first order linear expansions) such as
+$$\delta f(x_1,..., x_n) \approx \sqrt{\left(\frac{\partial f}{\partial x_1}\right)^2 \delta x_1 ^2 + ... \left(\frac{\partial f}{\partial x_n}\right)^2 \delta x_n ^2 } = \sqrt{\sum\limits_{i=1}^n \left(\frac{\partial f}{\partial x_i} \delta x_i \right)^2}$$
+won't work well.
+Also there's this question in Astronomy.SE in which using simple error propagation won't work... so
+Question: how do you manage this kind of problems when treating with asymmetric, or/and large uncertainties? What would be the "gold standard" for this kind of thing? Should I follow Floris's answer?:
+
+In a Monte Carlo simulation, you sample the distributions of your input variables, and transform them according to the formula; you can then plot the resulting output distribution, and compute its shape etc.
+
+do you have any example to understand this in deep?

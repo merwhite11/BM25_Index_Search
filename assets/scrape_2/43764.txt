@@ -1,0 +1,3 @@
+Is scattering efficiency of dust related to albedo?
+
+I know that the scattering cross-sections of dust in comets depend on the scattering efficiency. A higher scattering efficiency leads to an increase in brightness. Therefore, does it mean that this will also increase the albedo or these quantities are not related at all?

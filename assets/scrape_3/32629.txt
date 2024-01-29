@@ -1,0 +1,5 @@
+Finding the precession period of folded light curves
+
+I was supposed to find the precession of a certain frequency in a time series. I tried breaking down the time series into smaller intervals and folded them over the average frequency I'm interested in. Then I plotted all of the folded light curves on top of each other.
+I notice a slight oscillation in the shape of the light curve as I iterate through all of these light curves. I'm not sure how do I pin down the exact frequency of oscillation. The light curve doesn't resemble a pure sine wave so I don't think I can just fit a sinusoid and find the phase variation.
+What all can I do to find the period of oscillation? Thanks a ton!

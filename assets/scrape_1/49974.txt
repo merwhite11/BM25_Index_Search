@@ -1,0 +1,7 @@
+What am I looking at when seeing through a 3nm Hα filter?
+
+http://www.astronomyknowhow.com/hydrogen-alpha.htm
+
+The line that appears in the red part of the spectrum is created when an electron moves between the second and third orbit (N=2 and N=3) and the wavelength at which this occurs is 656nm. It is this line that is called the Hydrogen alpha line and hydrogen alpha filters are designed to block out as much of the spectrum as possible leaving only a very small bandwidth through which light can pass at the H-alpha frequency.
+
+I am seeing deep red when looking through the filter. Does this mean it is hydrogen alpha or just red light filtered from white light emitted by the sun passing at H-alpha frequency? If it is true, deep red color can be mistaken for H-alpha?

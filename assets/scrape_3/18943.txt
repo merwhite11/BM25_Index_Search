@@ -1,0 +1,7 @@
+Where can I find raw text, ascii, or binary data from the GALEX satellite?
+
+I am looking for stars in the GALEX data through the GALEX data using GALEXview and plugging in their Henry Draper Numbers
+http://galex.stsci.edu/galexview/
+But the task is tedious by hand. Is there any place that I can look to find the raw text, ascii, or binary data? I want to be able to simply pull the data I need in one go with a program, rather than copying it down by hand. Currently I'm having to look through the data point star by star.
+http://galex.stsci.edu/GR6/
+Thanks!

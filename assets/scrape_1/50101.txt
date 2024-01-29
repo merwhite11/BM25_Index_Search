@@ -1,0 +1,7 @@
+Could a quasi-neutron-star exist between the maximum mass of a star and the mass of a quasi-star?
+
+A quasi-star is a hypothetical supermassive star that is so heavy its core collapses into a black hole as it is still forming. The matter accreting into the black hole then generates radiation pressure that keeps the star from imploding.
+These are supposed to be extremely massive stars of 1000 or more M☉, but the most massive regular star is about 250 M☉.
+There is a gap there, as well as a precedent in the form of Thorne–Żytkow objects, which are stars with a neutron star at their core due to a collision. The neutron star will feed on its host until the entire host star is consumed or it collapses into a black hole and the host star falls in, whichever comes first.
+Based on this, a supermassive star with a neutron star at its core, formed the same way as a quasi-star but with less mass involved, looks plausible, but I don't know enough about the physics involved to tell for sure.
+Is this realistic, and if not, what does happen to a 500 or 750 M☉ star as it is forming?

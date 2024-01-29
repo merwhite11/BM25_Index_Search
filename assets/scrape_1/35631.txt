@@ -1,0 +1,10 @@
+Distance to star using color index
+
+I'm doing the following question:
+
+A star is observed with UBV magnitudes $m_u = 16.31$, $m_b = 14.52$,
+  $m_v = 13.76$. Spectral analysis gives $M_{bol} = 7.31$, $BC = -1.02$, $(U − B)_0 = 1.222$. Determine the distance to the star.
+
+As $m_u - m_b ≠ (U-B)_0$, I gathered that the distance modulus can't be used directly, since extinction is present. From the bolometric correction (BC), we can determine that the absolute visual magnitude $M_v = 8.33$. 
+After that, I'm unsure of what to do; normally I think in these questions you can obtain the visual extinction $A_v = 3.0E_{B-V}$, where $E_{B-V}$ is the color excess, calculated by $E_{B-V} = (m_b - m_v) - (B-V)_0$. Then, the visual extinction can be added to the distance modulus equation to account for extinction in the visual band, and then we can easily obtain distance.
+But, while we know $m_b$, $m_v$, and $M_v$, we don't really have a way of obtaining $(B-V)_0$ to my knowledge, unless there's some way we can relate it to $(U-B)_0$. Any help would be much appreciated!

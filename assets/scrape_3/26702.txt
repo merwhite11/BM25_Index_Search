@@ -1,0 +1,6 @@
+Hydrogen Line observation - Interference from trees
+
+I am setting up a 2.4 metre parabola pointing straight up to observe the 21cm hydrogen line at 1420MHz with meridian drift scans.  
+I'm planning to place the dish on a steel pole embedded in the ground and protruding 2 metres from the ground surface.
+There is a tree some metres away that has a few branches well overhead of the antenna.  It's a Eucalyptus tree, so not heavy with green leaves.
+Question:  Should I be concerned about interference from a few overhanging branches (say about 15 metres above the dish)?  My understanding is that shorter lines in the cm range should be less affected by interference (e.g weather), but I'm not sure about trees.

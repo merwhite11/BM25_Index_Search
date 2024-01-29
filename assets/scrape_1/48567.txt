@@ -1,0 +1,5 @@
+constant semi-major axes of the planets
+
+in Numerical Expressions for Precession Formulae And Mean Elements for the Moon And the Planets (Simon et al., 1994), the orbital elements of the planets are given for long time durations.
+The semi-major axes of Mercury, Venus, and Earth are given as constant, whereas the ones of Mars, Jupiter, Saturn, Uranus, and Neptune are given with time-dependent terms. Why is that so?
+In detail: for Mercury is given $a = 0.387 098 309 8$ AU, yet for Mars $a = (1.523 679 341 9 + 3\cdot 10^{-10}t)$ AU. $t$ is measured in millenia of Julian years.

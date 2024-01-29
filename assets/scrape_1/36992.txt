@@ -1,0 +1,6 @@
+What does BJD-2450000 mean?
+
+In different papers I've encountered time indications in BJD-2450000. I know that BJD stands for Barycentric Julian Date, but I don't understand the meaning of the suffix -2450000.
+
+This is an example of what I'm talking about (table is taken from this paper).
+I'd like to know how I can convert this in JD or just "normal" BJD if that makes sense?

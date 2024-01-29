@@ -1,0 +1,5 @@
+If a black hole does not emit light, how can one take a picture of the black hole itself?
+
+There's some discussion that the image composed by the Event Horizons Telescope is really just an accretion disk. To "take an image" of something, you need the light reflecting off of the surface of the object within frame. The "light" in the image is really just color-mapped gases within the accretion disc. Since black holes do not allow light to escape, is this actually an image of a black hole?
+The analogy I've heard is that it would be like taking a picture of an object in a completely dark room, showing someone the photograph taken, and saying, "Hey look at this picture I took of this object." The other person could ask, "Where is the object in this entirely black photo?" to which the other person might respond, "It's somewhere in the picture." 
+Was a picture of the object really taken if you can't even see it? If you photograph the sky, have you "captured an image of air molecules?"

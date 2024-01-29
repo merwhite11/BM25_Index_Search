@@ -1,0 +1,4 @@
+Binning a Phase Folded Lightcurve
+
+How do I bin a messy phase folded lightcurve? This is one of the phase folded generated plots for a variable star. I plotted the phase using the period extracted by Lomb-Scargle Periodogram algorithm. I need to bin them say by ~100 or so. Kindly help me out. 
+This is the periodigram obtained using Lomb-Scargle method.

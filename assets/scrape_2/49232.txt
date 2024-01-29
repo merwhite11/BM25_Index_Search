@@ -1,0 +1,29 @@
+Using Einsteinpy to plot the precession of a star orbiting a black hole?
+
+I am currently trying to code the precession of a star orbiting around a black hole, the issue I am having though is that I have no clue what the values are and what they mean in the code, if anyone would know what the values mean I would appreciate the help. Here's the code I have currently and here's a link to Einsteinpy's website thank you
+https://einsteinpy.org
+    import numpy as np
+
+from einsteinpy.geodesic import Timelike
+from einsteinpy.plotting.geodesic import GeodesicPlotter
+
+position = [40., np.pi / 2, 0.]
+momentum = [0., 0., 3.83405]
+a = 1.
+steps = 5500
+delta = 1.
+
+geod = Timelike(
+    metric="Schwarzschild",
+    metric_params=(a,),
+    position=position,
+    momentum=momentum,
+    steps=steps,
+    delta=delta,
+    return_cartesian=True
+)
+
+
+gpl = GeodesicPlotter()
+gpl.plot(geod)
+gpl.show()

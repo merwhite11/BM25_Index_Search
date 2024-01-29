@@ -1,0 +1,8 @@
+Tuning radio telescopes
+
+In a paper called Further Observational Evidence for a Critical Ionising Luminosityin Active Galaxies, Section 2.1, the authors talk about using the ICRF2 to find a tuning frequency in search of the 21-cm absorption (of HI):
+
+The Second Realization of the International Celestial Reference Frame by Very Long Baseline Interferometry (ICRF2, Ma et al.2009), constitutes a sample of strong flat spectrum radio sources,of which 1682 now have known redshifts (Titov & Malkin 2009; Titov et al. 2013 and references therein), yielding a tuning frequency in the search for 21-cm absorption. Being VLBI sources, all have significant compact flux, thus maximising the chance of a high covering factor and thus optical depth (Curran et al. 2013a).The original aim of the survey was to form part of a large observing campaign to search and quantify the incidence of associated ${\rm H\,{\small I}\,21}$-cm absorption over all redshifts, although observing time was only granted for the high redshift $(z \gtrsim 2.6)$  proposals.
+
+Since we already know the frequency of HI (1420.40575177 MHz), why is this so important? What am I missing about the functioning of radio telescopes?
+This question doesn't really answer my query.

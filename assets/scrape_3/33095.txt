@@ -1,0 +1,58 @@
+SPICE Alt Az example
+
+Original question below, but my question is now about how can I supply lat/lon coordinates for other locations other than the one in the example below?
+It is possible to use NASA's SPICE toolkit to produce Alt/Az coordinates?  I haven't been able to find any examples.
+Update:2
+The code below doesn't appear to be along the right lines.  I've posted an answer with the "most" correct code I could come up with.
+Update:
+I think I partly figured it out.  Apparently most people call it Elevation and Azimuth, not AltAz, which is why I couldn't find anything.  I found a SpiceyPy example which generates the Az, El for DSS-13.  But I'm at a loss as to how to specify the Lat,Lon for general locations.  Looking through the kernel file, the closest thing I see that could be a lat/lon for DSS-13 are the "TOPO_ANGLES" which are -243.2055404763616,-54.7528357325366, which is a pretty odd format if its supposed to be lat,lon.  I was unable to find the real lat/lon for DSS-13, but I was able to find it for DSS-14 which appears in the same file (FYI those coords are 116.89W, 35.426666666666N).  I verified the results with Horizons and they match exactly.  
+Below I provide a stripped down version of the example to only print out the el/az coordinates.  It requires a file "erotat.tm" which I also provide below.  I was able to filed all of the required kernel files by searching for the name (apparently some of them are quite old).  I was not able to find de414_2000_2020.bsp, but I was able to use de414.bsp from here.  You can install SpiceyPy (assuming you already have Python and PIP) by typing "pip install spiceypy".
+import spiceypy
+
+METAKR = 'erotat.tm'
+spiceypy.furnsh( METAKR )
+et = spiceypy.str2et('2007 JAN 1 00:00:00')
+[topov, ltime] = spiceypy.spkpos( 'moon', et, 'DSS-14_TOPO','lt+s', 'DSS-14')
+[r, lon, lat] = spiceypy.reclat( topov )
+
+az = -lon
+if  az < 0.0:
+    az += spiceypy.twopi()
+el = lat
+
+print( 'Moon Az (deg):        {0:15.6f}\n'
+       'Moon El (deg):        {1:15.6f}\n'.format(
+           az * spiceypy.dpr(),
+           el * spiceypy.dpr() )  )
+
+spiceypy.unload( METAKR )
+
+Contents of emrotat.tm
+KPL/MK
+
+Meta-kernel for the "Earth Rotation" task
+in the Binary PCK Hands On Lesson.
+
+The names and contents of the kernels referenced by this
+meta-kernel are as follows:
+
+File name                       Contents
+------------------------------  ---------------------------------
+naif0008.tls                    Generic LSK
+de414_2000_2020.bsp             Solar System Ephemeris
+earthstns_itrf93_050714.bsp     DSN station Ephemeris
+earth_topo_050714.tf            Earth topocentric FK
+pck00008.tpc                    NAIF text PCK
+earth_000101_070725_070503.bpc  Earth binary PCK
+
+
+\begindata
+
+KERNELS_TO_LOAD = ( 'naif0008.tls'
+                    'de414.bsp'
+                    'earthstns_itrf93_050714.bsp'
+                    'earth_topo_050714.tf'
+                    'pck00008.tpc'
+                    'earth_000101_070725_070503.bpc' )
+
+\begintext

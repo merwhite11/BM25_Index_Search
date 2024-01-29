@@ -1,0 +1,15 @@
+Redshift and Velocity relation
+
+Let us say that we have an object so its total velocity is defined as 
+\begin{equation} v_{tot} = v_{pec} + V_{rec} \end{equation} 
+Where 
+\begin{equation} V_{rec} = H_0r \end{equation} 
+and \begin{equation} V(z) = \frac{cz}{1+z}[1+\frac{1}{2}(1-q_0)z - \frac{1}{6}(1-q_0-3q_0^2+j_0)z^2] ~~(4)\end{equation} 
+for small z.
+So my first question is what is the $z$ value here? Is it the observed redshift or the cosmological redshift? 
+Also, the relationship between observed and cosmological redshift is given.
+\begin{equation} 1+z_{obs} = (1 + z_{cos})(1 + z_{earth})((1 + z_{sun})(1 + z_{source})(1 + z_{gravity})    \end{equation}
+If we are using the cosmological redshift then by using above equation we can write, 
+\begin{equation} z_{cos} = \frac{1 + z_{obs}} {(1 + z_{earth})((1 + z_{sun})(1 + z_{source})(1 + z_{gravity})}-1    \end{equation}
+So is this what we put in (4)?
+Edit: For the source you can look here https://arxiv.org/abs/1907.12639 Eqn(16) and (18)

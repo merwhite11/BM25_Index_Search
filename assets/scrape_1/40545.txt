@@ -1,0 +1,5 @@
+Computing the over-density of Lyman-alpha emitters
+
+Let's assume that I have observations of $N$ galaxies in a projected area $A$, within a redshift range $\Delta z = z_{max} - z_{min}$. What is the correct way of computing their number volume density? I guess the volume has to be derived multiplying $A$ by the differential Luminosity Distance $D_{L}$ computed at $z_{max}$ and $z_{min}$, i.e., $D_{L}(z_{max}) - D_{L}(z_{min})$, but I am not sure.
+Also, what is the more appropriate way of evaluating the "significance" of any over-density.
+For instance, assuming that the observed galaxies are Lyman-$\alpha$ emitters, does it exist any computation of the "standard" number density of Lyman-$\alpha$ emitters, to compare with?

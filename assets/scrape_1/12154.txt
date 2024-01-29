@@ -1,0 +1,5 @@
+What causes objects to become tidally locked?
+
+I'm trying to write a gravity simulation (suns planets etc), and was hoping tidal locking could be one feature demonstrated.
+Using a simple equation for gravity has produced some interesting results, but (unless its emergent behaviour) I see nothing that would encourage tidal locking. But, after some reading it appears tidal locking is quite common, planets and their satellites, planets and suns, suns and other suns (binary stars).
+Is it a result of the formation stage of these objects, or is it somehow a function of the equation of gravity?

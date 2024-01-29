@@ -1,0 +1,3 @@
+Star surface temperature?
+
+I'm already familiar with using the difference in B and V magnitudes to calculate temperature, but Wikipedia (trustworthy source, I know) mentions that U-B, V-R, and R-I are also used depending on colour temperature. Are there different formulae for these, and what constitutes a cooler/midrange/hotter star? I tried using a star's R and I magnitudes in the calculator I made for the standard B-V equation and there's a clear difference.

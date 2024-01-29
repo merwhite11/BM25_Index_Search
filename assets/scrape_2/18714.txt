@@ -1,0 +1,4 @@
+How to convert ra&dec between different epoches?
+
+For example, how to convert B1950.0 into J2000.0?
+Do we need to know the proper motion of the star and the time it was observed?

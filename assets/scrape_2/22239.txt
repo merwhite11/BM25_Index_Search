@@ -1,0 +1,4 @@
+Getting Solar Noon from Sunset and Sunrise
+
+I've seen the solar noon formula described as snoon = 720 – 4*longitude – eqtime. I'm curious if it is equally reliable within a relatively small margin of error (+-60 seconds) to simply get the midpoint between sunrise and sunset, given that data is already calculated and available.
+Is there any occasion when solar noon wouldn't be equal time from sunrise and sunset, give or take the aforementioned margin of error?

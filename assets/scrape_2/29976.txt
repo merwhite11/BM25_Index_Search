@@ -1,0 +1,5 @@
+How to calculate the stellar visibility?
+
+Please could you let me know a (basic) formula for calculating at what time a star would become visible of an evening in clear weather conditions.  I presume the formula would involve the stars apparent magnitude, the location of the observer, and how far the sun has dipped below the horizon (so, the sky's limiting magnitude).  Working with these three parameters, I guess there must be a simple enough formula, however I cannot find it!  Could you help with this?  For example, assuming clear weather and good eyesight, how could I calculate at what time the star Deneb will become visible on the 1st May
+2019 for a rural location?
+I am asking this as I want to create an art piece where something happens each time a new star (or stars) becomes visible around twilight time....

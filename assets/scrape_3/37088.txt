@@ -1,0 +1,6 @@
+Is it possible to find what crater the Mars meteorites come from?
+
+A few dozen meteorites have been determined to come from Mars. These meteorites likely formed from three separate events.
+Each one of these events must have created a big enough crater that rocks would escape Mars' gravitational field. This restricts the number of craters to look at.
+The composition of the meteorites can also give clues. For instance, the basalts on the floor of Gusev crater are somewhat more mafic than the meteorites, so they don't come from Gusev.
+Using crater size, rock composition,... would it be possible to determine which craters the Mars meteorites come from?

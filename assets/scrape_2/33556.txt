@@ -1,0 +1,5 @@
+Can someone calculate the age of the KOI-4878 star?
+
+The star’s low metallicity and fairly high space velocity suggest that KOI-4878 is older than the Sun.
+But I don't know how to calculate an estimation for the age.
+KOI-4878 data on Simbad

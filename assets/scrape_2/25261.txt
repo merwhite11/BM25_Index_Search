@@ -1,0 +1,10 @@
+What spectral feature was used to confirm that S0-2 is "single and available"? What is Brγ?
+
+The Phys.org article Astronomers discover S0-2 star is single and ready for big Einstein test describes the results of a careful analysis of radial velocity measurements of the star S0-2, which orbits the supermassive black hole at the center of our (Milky Way) galaxy with a period of only 16 years. The paper itself (Devin S. Chu et al, 2018) is available for open access at ArXiv, and also ApJ.
+The only mention of the word wavelength is in Section 2.2:
+
+The radial velocity of S0-2 is measured from both data sets by fitting a Gaussian to the Brγ absorption line.
+
+What exactly is a Brγ ("Br" + gamma) absorption line?
+
+below: "The orbit of S0-2 (light blue) located near the Milky Way's supermassive black hole will be used to test Einstein's Theory of General Relativity and generate potentially new gravitational models. Credit: W. M. Keck Observatory (Click for full size)

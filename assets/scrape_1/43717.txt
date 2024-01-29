@@ -1,0 +1,6 @@
+Using parallax to find distance to the moon
+
+I want to use the parallax method (from scratch) to find the distance between the earth and the moon. To get a significant parallax, I need to choose a large baseline. I live in India and my friend in the US and so the baseline will be about $13,000$ Km. That's quite a large so I suppose I would get a significant parallax.
+What I don't think of, is taking of angle measurement?
+
+How can I measure the angle $\alpha$?

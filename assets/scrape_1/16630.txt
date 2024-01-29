@@ -1,0 +1,23 @@
+How can a supermassive black hole cause so much energy to enlighten its matter when its massive gravity prevents light to escape?
+
+To cite the German newpaper article Astronomen beobachten erwachendes Schwarzes Loch:
+
+Das Materie-Monster sitzt den Angaben zufolge im Herzen der 42 Millionen Lichtjahre entfernten Polarring-Galaxie NGC 660, deren Aktivität innerhalb weniger Monate Hunderte Male zugenommen hatte.
+Erst wenn die Massemonster große Mengen Materie verschlucken, werden sie aktiv. Bei diesem Prozess wird so viel Energie frei, dass die Materie hell aufleuchtet, bevor sie im Schwarzen Loch verschwindet und ein Teil von ihr in Form von Jets weit ins Weltall hinaus geschleudert wird.
+
+This translates roughly to:
+
+According to the data the matter-monster is in the middle of the 42 million light years far away polar ring galaxy NGC 660, whose activity has increased a lot in only a few months.
+Only when these Matter-monsters swallow big amounts of matter, they become active. This process releases so much energy, that it brightly enlightens the matter, before it disappears inside the black hole. A part of the matter is flung out in the universe in the form of jets.
+
+My physics teacher told me once, that a black hole is just a very small-sized and heavy object which has so much gravity that nothing at all, not even light can't escape of its gravity. This explanation is also supported by this SE.astronomy - If nothing travels at the speed of light, except light, how can a black hole also pull light into itself? question.
+
+If a "normal" (not supermassive) black hole can already prevent light to escape, how can matter which is pulled into the black hole can produce energy/light which can't escape the gravity of the black hole?
+
+How can a supermassive black hole be able to pull matter, but not the light photons of the energy?
+
+Additionally: Why is part of the matter which is pulled into the black hole flung (i.e. accelerated) into the universe? I understand why this matter is maybe divided - the acceleration increases as far as i know quadratic, i.e. the differences in terms of the actual acceleration, in dependence of the location may be so huge that the matter can't be held together. But i don't understand why a part of the matter is accelerated in the exact opposite direction, as a force bigger as the gravity of the supermassive black hole would be needed. Therefore: Why is a part of the matter accelerated in the opposite direction (i.e. out of the black hole's gravity) than the other part?
+
+
+
+Note: My physics education is rather limited. I know a bit about the Newtonian gravity and a bit about the theory of Conservation of energy. But that's all I know about physics.

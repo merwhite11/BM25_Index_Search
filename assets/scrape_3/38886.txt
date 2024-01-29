@@ -1,0 +1,7 @@
+Why is the sunset at different times at the same longitude at equinox?
+
+I happen to live in two places that are literally at the same longitude but several thousand kilometers apart from each other (~47°N and ~68°N). It's just a few days until equinox - and I assumed that the sun would set at the very same time in both places. Equinox is supposed to be at September 22, 13:31 UTC. Using suncalc.org I calculated sunset for the northern location at 19:00h while the sun is supposed to set at 18:55 at the southern location.
+Can someone please explain why this is?
+I can't think of any effects due to refraction of the light as the angle is the same. The only idea I have that it might be due to the definition of sunset. If it is not calculated using the center of the sun, it might be off as sunsets take much longer in polar regions. Still, I'd be surprised if it was 5 minutes.
+Also, I do understand that equinox is at 13:31 UTC which does not necessarily align with the sunset (in fact sunset is 3.5h after equinox). But to make things even more strange, even the next day the sun sets later in the north than it does in the south - I'd expect it the other way round. It is actually another day later, September 24, that the sun will set at exactly the same time in both places - (more than) two days after equinox.
+PS: Not an astronomer myself, I'm just curious - please bear with me...

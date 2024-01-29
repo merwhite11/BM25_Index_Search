@@ -1,0 +1,7 @@
+How can white dwarf form Oxygen ? (Temperature problem)
+
+I’ve got a question about white dwarfs and oxygen.
+I read in a book that a temperature of 100 million degrees is required to fuse Helium in the core of a red giant. The Helium fuses into Carbon by the triple-alpha process. 
+It’s also written that, after a temperature of 350 million degrees is reached, the core of a red giant ceases to be degenerate. So, the core is able to expand and its temperature is controlled. The core won't reach a temperature of more than 350 million.
+But my teacher has said that a temperature of 600 million degrees is needed to form Oxygen from Carbon: Carbon fuses into Neon and by photodisintegration gives Oxygen. 
+So, how can there be Oxygen in white dwarfs, if we don't reach a temperature higher than 350 million degrees? By what process can oxygen be formed in a red giant?

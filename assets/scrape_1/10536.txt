@@ -1,0 +1,5 @@
+How long for a complete solar system cycle
+
+Considering the solar system as a closed system, how long until all the planets pass twice by the same position relative to each other? I would say that you'd have to get the length of the year in each planet and find the lowest number that can be divided by them, is that correct or are there more things to take into account?
+Furthermore, can one do this also considering the moons of the planets?
+Thank you!

@@ -1,0 +1,4 @@
+How many asteroids are named after musicians? Is there a searchable list for this?
+
+Spot checking Wikipedia, Google and JPL's Horizions I found several musicians right away, including Lou Reed, Elvis, Freddy Mercury, and David Bowie.
+Is there a way to find all of the asteroids that are named after musicians somehow? Or at least most of them? If there's not a compiled list, at least something for which an automated search for "music" or "musician" or related terms can be done?

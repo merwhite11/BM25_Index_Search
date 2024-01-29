@@ -1,0 +1,7 @@
+Why is LUVOIR actively heated?
+
+From the Wikipedia page about LUVOIR design:
+
+To enable the extreme wavefront stability needed for coronagraphic observations of Earth-like exoplanets, the LUVOIR design incorporates three principles. [...] . Third, the telescope is actively heated to a precise 270 K (26 °F) to control thermal disturbances.
+
+I always thought the chiller a telescope mirror, the better. Why is LUVOIR heated then?

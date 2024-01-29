@@ -1,0 +1,32 @@
+How exactly will DESI simultaneously capture individual spectra from 5,000 galaxies using optical fibers?
+
+The BBC News article Telescope tracks 35 million galaxies in Dark Energy hunt says:
+
+The aim of the five-year programme is to shed light on Dark Energy - the mysterious force thought to drive an accelerated expansion of the Universe.
+The instrument effectively contains 5,000 mini-telescopes. Each one can image a galaxy every 20 minutes.
+In just one year scientists will have surveyed more galaxies than all the other telescopes in the world combined.
+
+I wonder if instead that it would be better to call them 5,000 mini-spectrometers or 5,000 mini-slits, but I'm not yet sure how this whole thing works.
+
+Inside DESI are 5,000 optical fibres, each acting as a mini-telescope. This enables the instrument to capture light from 5,000 different galaxies simultaneously, precisely to map their distance from Earth, and gauge how much the Universe expanded as this light travelled to Earth.
+
+Question(s)
+
+How exactly will DESI simultaneously capture individual spectra from 5,000 galaxies using optical fibers? Are the fibers used to route the light to a very, very long single slit which is carefully imaged on a 2D detector, or does it do something more complicated?
+Considering that the exposure cadence is 20 minutes (per the article), how are all 5,000 fibers quickly repositioned between exposures? 20 minutes is only 1,200 seconds!
+
+
+update: Wikipedia's Dark Energy Spectroscopic Instrument says:
+
+The Dark Energy Spectroscopic Instrument (DESI) is a new instrument for conducting a spectrographic survey of distant galaxies. Its main components are a focal plane containing 5000 fiber-positioning robots, and a bank of spectrographs which are fed by the fibers.
+
+Wikipedia does not always serve as an authoritative and accurate source, especially for details. Five thousand robots sounds like the name of a Kraftwerk album, and "bank of spectrographs" is less than fully quantitative.
+
+
+
+DESI will scan more galaxies in a single year than all the telescopes in the world combined, UCLA/ Lawrence Berkeley National Laboratory
+
+
+This answer to What is the dimensions of the smallest object detectable by an optical fiber from a specific distance? shows several implementations of multiple optical fibers picking objects from a focal plane and bringing them to a spectrometer. However I don't think any of them come anywhere near to 5,000 separate fibers!
+
+above: GIF from the video (with exciting music) A 2dF night at the Anglo-Australian Telescope

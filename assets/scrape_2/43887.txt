@@ -1,0 +1,8 @@
+Could there be liquid water on Uranus? Are there any indications that there might be?
+
+Like most planets, Uranus has a very cold outer atmosphere and a very hot core.  What we see is a very thick primary atmosphere with plenty of hydrogen.  Deeper in, we might suppose that water condenses in clouds at maybe 200 atm of pressure. (Above that it would be ice crystals)
+By "might suppose", I've used the dodgiest source conceivable to plot the atmospheric conditions on a phase diagram of water, shamelessly thefted from Duke here, whereby I mean I took a Wikipedia contributor's dotted blue line, "an extrapolation of the 1987 Lindal et al. data (solid blue) using a constant lapse rate of 0.82 K/km."
+
+Given this impeccable data (or other data you might contribute!), it appears that the extrapolated atmospheric conditions of Uranus take a shot straight down the fairway toward a layer of liquid water.  IF it's there.  The usual treatment of the topic says that there is an atmosphere over a layer of ices ... without many specifics, since after all nobody can see it.
+But do we have any indication at all?  Is there a reason to say probably yes or probably no to the question of whether a probe dropped into Uranus would reach 374 °C (the critical temperature of water) before it would reach a liquid (probably, in that case) surface of water?
+(Note: I recall seeing some simulation of the overall temperature issue before, but with a range of outcomes, and this question is prompted by this report that MgO dissolves extensively into H2O in Uranus, potentially altering the internal heat distribution.

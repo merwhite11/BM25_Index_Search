@@ -1,0 +1,5 @@
+How can orbital resonance sometimes have a stabilising effect, whilst other times, it has a destabilising effect?
+
+I have just started learning about orbital resonance. I understand how bodies in orbital resonance will line up according to the orbital ratio number, and there will be increased gravitational effects upon alignment.
+However, I do not understand how resonance can often have a stabilising effect, while other times, it is destabilising? For example, in the Io-Europa-Ganymede system, the 4:2:1 resonance has a stabilising effect. But also, I read that the gravitational perturbances when the moons align cause them to have elliptical orbits, so is it really a stabilising effect? There are other examples where orbital resonance completely prevents stability, like in the Kirkwood Gaps of the asteroid belt.
+So my question is, how do orbital resonances form in the first place, and what determines if they are stable/unstable? Thank you.

@@ -1,0 +1,25 @@
+How do observational astronomers manage streaks and other artifacts from objects in Earth Orbit?
+
+There are thousands of satellites and spent rocket parts in low earth orbit (LEO). Mostly near the lines of dawn and dusk they can be in sunlight while observatories below are still viewing the night sky, as are the observatories like Hubble (also in LEO).
+They are moving roughly 7 km/sec and as seen from Earth that motion will be roughly a half-degree per second, depending on distance.
+Considering the number of observatories imaging the sky at any moment and the number of objects in LEO, streaks across images must be happening quite regularly.
+While that would strongly impact a one-hour exposure on emulsion, these days solid state imaging is used and these are probably regularly buffered to provide the dynamic range necessary to capture dim objects with very bright images in the same field. 
+While a fraction of a second streak by a satellite will not normally completely obliterate a long exposure, it is still a problem and it seems would have to be managed in an accepted and systematic way.
+Question: How do observational astronomers manage streaks and other artifacts from objects in LEO? Since these things are (usually) carefully tracked and their trajectories predictable, do observatories, or at least observers, ever plan ahead for these events, or schedule to avoid them? Or is it just handled automatically in post-processing?
+
+For subtext, see astronomer Alex Parker's Tweet (image shown below) and then astronomer Benjamin Pope's more recent Tweet about the Humanity Star, as well as his response "Oh god why would you do this to us astronomers"? response here.
+Also see: 
+
+The Washington Post: Company shoots shiny orb into orbit and angers astronomers over ‘space graffiti.’
+New York Times: Is This Shiny Satellite Sky Art or ‘Space Graffiti’?
+Scientific American: Twinkle, Twinkle, Satellite Vermin
+
+Within Stack Exchange:
+
+How will several thousand Low Earth Orbit satellites affect the night sky?
+What is the name of the polyhedral shape of the Humanity Star?
+Does Humanity Star have non-reflective triangular panels? If so, what are their characteristics?
+Two week mark; has Mayak (Маяк) been spotted yet? Reflector deployed? Astronomy “ruined”?
+
+
+From Alex Parker's Tweet:

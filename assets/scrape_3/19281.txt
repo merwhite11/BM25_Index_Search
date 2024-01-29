@@ -1,0 +1,4 @@
+Cubic spline interpolation in light curve of pulsating stars
+
+Why is cubic spline interpolation used to analyze light curve of pulsating stars? Is there any scientific justification of such usages? 
+One example of using the cubic spline interpolation is here, section 4.

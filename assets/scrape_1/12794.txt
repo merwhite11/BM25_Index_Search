@@ -1,0 +1,3 @@
+Looking for an equation that describes how star (x,y,z) positions are affected by expanding universe
+
+I understand that coordinates of stars are in RA,DEC. I am looking for a mathematical expression that describes how the positions of stars change due to the expanding universe.

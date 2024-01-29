@@ -1,0 +1,17 @@
+Ecliptic and it's poles
+
+Well, I have this picture and a couple of tasks to it:
+
+It is the Sun's path, a.k.a. ecliptic in autumn, 22-23 of September or on the day when autumnal equinox happens. I am to answer these questions:
+
+In the arc of what big circle does the Sun make its daily movement on this day?
+Which points of the celestial sphere are the poles of this circle?
+At what points on the horizon does the Sun cross it on this day?
+
+My asnwer to the first question is ecliptic. I may misunderstood the second question but I think it is these points (taken from here):
+
+North: right ascension 18h 0m 0.0s (exact), declination +66° 33′
+38.55″
+South: right ascension 6h 0m 0.0s (exact), declination −66° 33′ 38.55″
+
+But how do I answer the third question: does the Sun cross them over that day?

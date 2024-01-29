@@ -1,0 +1,25 @@
+Besides Luna, are there any models of how moons become spherical and round?
+
+Question
+Given the theorized exceptional formation of Luna, (Giant-impact Hyphothesis, Wikipedia), are there any similar animated models of how the other, much smaller, moons in our solar system became spherical and round?  (For example: Miranda, Mimas, Enceladus, etc.)
+I am just hoping for some links to animated models and hopefully references/studies about this topic.
+
+Background
+According to Smithsonian Magazine: (Ask the Astronaut: What makes moons and planets round?), the reason that moons become round is due to their own gravitational forces—and so, a parent body would not be necessary.
+
+"Any hills or mountains sticking up above that “equipotential surface” eventually slump down under gravity until they are at the same gravitational potential as their neighboring particles of matter. In other words, gravity is stronger than the strength of the rock, over time." (Note: References for how non/equipotential solids settle would be helpful.)
+
+I believe that their statement regarding "the strength of the rock" is in reference to the tensional, compressional, and shear strengths of the rocks and metals, (explanation at Tulane), which would have to be lower than the gravitational forces of the newly forming moon, (making this far more complicated than described).
+Unfortunately, I can't yet picture how equipotential settling would look in practice.
+Assuming that at some point, (relative to density?), asteroids will collapse inward on themselves, I can imagine an animation that looks like gradual melting. But this seems insufficient because it might assume that any protrusions, (elongations, extensions, etc.), will only face tensional, compressional, and shear resistances that are far weaker than vertically opposing gravitational forces, (as if other protrusions, etc., aren't present).
+The classic "Water in Space" experiments that show this kind of "melting" don't seem applicable, (experiments that show water collapsing into a sphere).  Specifically, those behaviors don't seem to be a function of gravity but rather surface tension, etc.  But still, wouldn't there be a difference in any settling process due to the extremely different inherent natures? Doesn't this theory assume an equal distribution of the types of materials present as well as assume uniform densities?
+
+Clearing up the Misunderstanding that a Parent Body is Necessary
+I had previously thought of the process of moons becoming spherical as a sort of "stellar lathe": where the orbiting object spins against the gravitational force of its parent's gravitational field.  And, through the interaction of the two bodies, the moon can be molded into shape, (involving tidal forces, etc.).  (Perhaps this can be better illustrated as an analogy to a wooden sphere being turned on a lathe.)
+What I am curious about is: what does the process of "equipotential settling in complex masses" look like?
+
+Further Questions, (for another topic)
+I understand that these extra questions are pushing the scope of this topic, but they are really just here to help clarify the larger context of the question:
+Could the equipotential models of how moons settle into spheres be confirmed or falsified in view of exceptions?  For example: would it make more sense for severe wobbling or massive protrusions to occur when there isn't a uniform distribution of density or when the gravity can't ever become stronger than the strengths of the rocks and other materials? Would this be the exception or standard? And, how is the eventual equipotential settling affected by a parent body? How is the produced energy incorporated into this model?  Is this process first dependent on the initial balance of density, or will masses of any shape and density balance eventually turn spherical? And, how fast does this process occur given the variables of size, mass, density, etc? How long does this process take in view of density/mass, and could you tell an age difference between larger objects that haven't collapsed spherically from the age of smaller objects that have collapsed spherically? What does this say about the age difference between smaller spherical bodies and larger ones?  And so on…
+In the end, I am just hoping for some animated models and references to discussions about this.
+Thanks!

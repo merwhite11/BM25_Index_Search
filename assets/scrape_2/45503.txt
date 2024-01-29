@@ -1,0 +1,19 @@
+Is the Ra/Dec of Alnitak in Orion's Belt known to be correct?
+
+I've obtained right ascension / declination information about some of stars in the Orion constellation from a few different sources and imported this into an open source video game I'm making. Using (my own possibly wonky) Ra/Dec/Parallax to x,y,z methods, Orion looks like this:
+
+Notice Alnitak in red. It's visibly wrong.
+I then manually adjust the declination of Alnitak by 1.5 degrees, and get a more believable result:
+
+To give some background, I initially pulled data for these stars from the SIMBAD Astronomical Database but found that Alnitak had no parallax information. After manually looking up and adding in parallax info based on known distance, I realised the position looked wrong. I checked multiple sources - Star facts, Astro Pixels Wikipedia, and others - they all report similar declinations (well within  1 degree).
+I find it strange that one star would be off and the others not, so normally I'd blame the data source. However it seems incredibly unlikely so many (likely peer reviewed) sources would simply be wrong, especially with such a well known star triple star system.
+How I create my x,y,z positions:
+
+I create an object in a 3D scene with world coords 0,0,0 and global rotation 0,0,0.
+I set its x rotation to exactly match right ascension (converted to decimal degrees).
+I then rotate the object along the y axis by the declination amount (in degrees).
+I then move the object 'forward' by any arbitrary amount. Doing this for all stars, say, at a fixed distance of 1.5 parsecs, the result is as follows for BSC5P:
+
+
+But now I don't know if my way of determining position is flawed.
+Anyone have any ideas on where I might be going wrong?

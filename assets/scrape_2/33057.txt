@@ -1,0 +1,14 @@
+Apparent Magnitude / Apparent Brightness relationship help
+
+I'm a high-school student that is currently working on a project that describes, using mathematical notation and explanation, how scientists can find the values of each of the properties of stars, such as Luminosity, Temperature and Mass. Currently, I'm struggling with finding the equation for the apparent brightness and apparent magnitude of a star. I have stumbled across something called the "Pogson relation", but need help it a couple of things.
+I found the description of how to use it in another post:
+
+The easiest way to determine the magnitude of a given star is probably to use the Pogson relation. The idea is to determine the magnitude of a star knowing the magnitude of a reference star; it is thus quite easy, using a well-known reference as Vega or Sirius.
+The Pogson relation is given by:
+$$m_1-m_2=-2.5\ log\ \left({\frac{E_1}{E_2}}\right)$$
+where $m_1$ and $m_2$ are the magnitudes of star 1 and star 2 (your reference star), and $E_1$ and $E_2$ brightness
+
+Firstly, is there any version of this equation which doesn't have a comparison between two stars, but rather a direct relation so that given $M_{\text{Apparent}}$, I can find $E$ of the star?
+Secondly, if not, then what I had trouble with was the 'well-known reference' part of the explanation. It said that I use a value for $E_2$ that is known. However, after researching for the value of the apparent brightness, or its other name flux, for both Sirius and Vega, I have come up empty-handed. Is there a place that I can find this? I've looked at Wikipedia, even consulted the Gaia database, but in the field, there was nothing, just the apparent magnitude.
+Lastly, is there any way to directly measure the apparent magnitude of a star with a scientific instrument, like how a CCD camera is used to measure the apparent brightness?
+Thank you.

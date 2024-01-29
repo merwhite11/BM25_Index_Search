@@ -1,0 +1,14 @@
+How do I calculate the hour angle of a planet's moon from a point on that planet's surface?
+
+I'm worldbuilding and I'm trying to construct a standing stone calendar that'll accurately denote where to look for my planet's moon at its four major phases from 53.8 degrees South. So, I need the h0, or hour angle at moonrise and moonset, for my moon at each of these four points in its orbit from this point on the surface of my planet.
+The problem is, I can't even find any equations for how to find these numbers for Earth's moon, let alone another planet's moon.
+So, here goes...
+My planet, Jasmi, has an axial tilt of 14.92 degrees and an orbital period about its star of 640.04 Earth days.
+Jasča, my moon, has a semimajor axis of 373168 km and an eccentricity of about 0.01.
+Its orbit is 5 degrees inclined off the planet Jasmi's equatorial plane, toward the ecliptic.
+The longitude of the ascending node is 358.11 degrees.
+Jasča's argument of periapsis is 9.23 degrees.
+Now, since this is not supposed to be Earth, I could have measured the longitude of the ascending node from any old direction, but I'm already at my wits' end with trying to calculate everything properly and I want the night sky to be at least somewhat familiar to readers, so I just plopped our own Earth's celestial sphere onto Jasmi and offset its ecliptic to be 8.58 degrees closer to the celestial equator to account for the difference in planetary obliquity. So we're still setting longitude of the ascending node in degrees east of the First Point of Aries.
+Any guidance y'all could offer would be very very much appreciated!
+Thanks,
+<3 R

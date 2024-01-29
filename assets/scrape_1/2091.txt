@@ -1,0 +1,3 @@
+What is meant by Electronic Beam Steering and how is it achieved?
+
+I recently came across an article about the Murchison Wide Field Array which said directivity is achieved by Electronic Beam Steering and not by Mechanical methods. It would be helpful if someone can tell me: how do they achieve it?

@@ -1,0 +1,8 @@
+Whis my planetary volume formula wrong? (volume = mass/density)
+
+I'm having trouble with this and am unsure what I'm doing wrong. Let's use Earth as an example.
+Earth has a mass of 5,972,168,000,000,000,000,000,000 (5.97E+27) kg and a density of 5513.4 kg/m3 or 5.5134 g/cm3.
+Volume = mass / density.
+The calculation gives me a result of 1,086,109,090,909,090,000,000,000.00 (1.09E+24) m3. However, the Earth's volume is
+1,083,210,000,000,000.00 m3. That's a 1 billion times difference.
+Is there a discreprancy with the units this question advised to always use kg and m2?

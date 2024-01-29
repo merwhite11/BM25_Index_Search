@@ -1,0 +1,25 @@
+calculating the position of the sun by using degrees and determining date and time
+
+so i found this code and  even looked up the documentation on swe_suncross() most i've seen its - 88 degrees  but can one determine this using any degrees
+
+# set ephemeris files path
+swe.set_ephe_path('~/Downaloads/swisseph-master/')
+
+# birth time as Julian day number (UT), for example
+birth_t = swe.julday(1988, 6, 12, 5.5)
+# sun longitude at birth
+sun_longitude = swe.calc_ut(birth_t, swe.SUN)[0][0]
+# longitude searched
+xlon = swe.degnorm(sun_longitude - 88)
+# start search 90 deays prior to birth
+tstart = birth_t - 90
+# find exact crossing time
+res = swe.solcross_ut(xlon, tstart)
+# turn it into a date
+date = swe.revjul(res)
+
+print("Year:", date[0], "Month:", date[1], "Day:", date[2], "Hour:", date[3])
+
+and i get sent in the future ???
+Year: 1989 Month: 3 Day: 14 Hour: 1.8550639897584915
+i have tried other numbers( less than 88 ) and was still in the future .. what am I doing wrong ?

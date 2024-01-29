@@ -1,0 +1,17 @@
+What was the GPS time at J2000 epoch?
+
+The simple version of the question is: what was the GPS time expressed in week number (pure number) and time of week (SI seconds) at the J2000 epoch? I am asking because my hand calculations differ from what I get from the https://gnsscalc.com/ website.
+Long version (no need to read it all, if you are not interested in the details).
+We know that J2000.0 is defined as Julian Date 2451545.0 TT, which is equal to 2000-01-01 12:00:00 TT, which is equal to 2000-01-01 11:59:27.816 TAI. The GPS time is calculated as weeks (pure number) and time of week (SI seconds) elapsed since 1980-01-06 00:00:00 UTC. Moreover GPS time, TAI and TT are not affected by leap seconds and they all share the same definition of a SI second, that is the Cesium standard.
+So it should be straightforward to obtain the GPS time at J2000 epoch by the following calculation:
+GPS time origin -> Sunday 06 Jan 1980 00:00:00 GPST - 00:00:19 TAI - 00:00:51.184 TT
+
++ 1042 weeks
+
+Sunday 26 Dec 1999 00:00:00 GPST - 00:00:19 TAI - 00:00:51.184 TT
+
++ 6 days + 11 hours + 59 minutes + 08 seconds + 816 milliseconds = 561548.816 seconds
+
+J2000 epoch -> Saturday 1 Jan 2000 11:59:08.816 GPST - 11:59:27.816 TAI - 12:00:00 TT
+
+In total, I get that the GPS time at J2000.0 epoch (GPS time at J2000 epoch - GPS time origin) is 1042 weeks and 561548.816 seconds that is different from the value of 1042 weeks and 561535.816 seconds I get from the website. In the website notes, it is written that the leap second is taken into account for TAI and TT calculations but I do not understand how.

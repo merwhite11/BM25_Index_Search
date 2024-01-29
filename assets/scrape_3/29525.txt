@@ -1,0 +1,12 @@
+Are brown dwarfs which don't sustain any fusion considered stars?
+
+I was reading about the coolest stars, and was surprised to find about stars with a surface temperature lower than a candle, like 2MASS 0939-2448 A/B, of about 100 Celsius like CFBDSIR 1458+10B and even below 0 Celsius temperature where the water freezes like WISE J0855-0714. Then I thought, they might be stars where fusion only happens very deep in the core, and then I found out this:
+Brown dwarf
+
+In addition, many brown dwarfs undergo no fusion; those at the low end
+of the mass range (under 13 MJ) are never hot enough to fuse even
+deuterium, and even those at the high end of the mass range (over 60
+MJ) cool quickly enough that after 10 million years they no longer
+undergo fusion.
+
+Are these brown dwarfs which don't sustain any type of fusion considered stars? If so, what's the reason?

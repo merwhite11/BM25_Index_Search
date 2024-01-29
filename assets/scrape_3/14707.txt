@@ -1,0 +1,3 @@
+Polar satellites for Global Navigation Systems
+
+Why do we need 7 polar satellites for a navigation system like the Indian Regional Navigation Satellite System (IRNSS)?

@@ -1,0 +1,4 @@
+Stars in star clusters in SMC and LMC
+
+Is there any catalog or any paper published in any journal that lists the stars discovered under whichever star cluster of the Small Magellanic Cloud (SMC) they belong to? There is one for Large Magellanic Cloud (LMC) in the paper Efremov 2003 "Cepheids in LMC clusters and the period-age relation". But I can't find any for SMC.
+It would be better still if the stars happen to be Cepheids.

@@ -1,0 +1,6 @@
+Bolometric correction of the full moon
+
+Now I am solving the problem about the transition from $V$ (= -13 in 400-700nm) to $m_{Bol}$.
+V is the full moon's apparent magnitude in 400-700mm(i.e., visible light), and $m_{bol}$ is the bolometric apparent magnitude of the moon.
+So, I should know about the Bolometric Correction of the moon(=$m_{bol}-V$), but there is only the Bolometric Correction about 'stars' not 'moon' in google.
+I wonder whether I can obtain the moon's Bolometric Correction from the star's Bolometric Correction.

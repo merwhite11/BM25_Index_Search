@@ -1,0 +1,20 @@
+Search of technosignatures (and the reciprocity of SETI)
+
+Here is a link on the concept of "Earth Transit Zone" (the zone of our sky from where an alien civilization, if any of course, would have the best chance to spot planet Earth): https://earthsky.org/space/study-2034-stars-in-earth-transit-zone/
+It nicely illustrates the reciprocity principle of the SETI: whatever we undertake to find « them », there is a good chance « they » could do the same to find us. This reasoning limits the search space for us, as for them evidently.
+We discovered exoplanets primarily by using their transits in front of their stars. With the JWST, we are now going to zoom into some of these transits to analyze the composition of the exoplanet's atmosphere (if any). TO PROBE FURTHER.
+Our next logical step, would be to use yet more powerful space telescopes than JWST, to search for "technosignatures", at places where the biosignatures turn out to be positive. And if we detect such technosignatures, I predict that there will be heated debates, on whether we are going to initiate « first contact », in a more active, efficient and focussed way ; on whether we will have international law to regulate such undertakings, by goverments, by private companies etc ...
+
+Some ensuing speculative reflections:
+
+Would an ET civilization (in, say, <250 years time) be able to conclude that on Earth there was a civilization on the verge of mass extinction, by monitoring the characteristics of our atmosphere? Would an ET civilization (say, no more than 50 ly away) be able to ascertain that on Earth there is a civilization which has mastered and weaponized the use of atomic energy, 50+ years ago?
+Now, flip over the reasoning. If we find signatures that show that some civilizations have self-destroyed themselves, may we conclude that, when interstellar travels will be feasible for us, these are candidate places to "re-start, just in case"? Revert again the reasoning, perhaps the best way to avoid an ET civilization planning an «invasion» of Earth, is not to put ourselves on a self-destruction path first (assuming it is impossible to self-destroy stealthily).
+The above are intended to be thought-provoking preliminaries on the stakes, to introduce my question. I am not solliciting your opinion on whether they are fictional or speculative scenarios. I am not solliciting your opinion on whether the above interrogations have definitive answers, one way or another. I am not solliciting your opinion on whether SETI is by itself a waste of money.
+AXIOM
+On the other hand, let’s just consider one alternative, as an axiom. Let’s take as working assumption that we, humans, have decided, in the near future, to dedicate sufficient ressource to look for technosignatures of an ET civilization, or conversely an ET civilization has made the same decision. Let’s further restrict our assumption to scenarios in which we decide to search for signatures of detonation of nuclear devices.
+QUESTION
+Assuming an ET civilization uses the class of astronomy tools we have, how far away can it detect our past atomic tests? (and how further away, with astronomy tools we are planning to build?)
+DUAL QUESTION
+(This question is mainly for showing the existence of a dual problem. You do not need to try to answer it, if you can't answer the question above)
+How far from the Sun can we detect an alien nuclear detonation, with our astronomy tools today and in the case such detonation is (was) just a test, and how further if it was a result of what we call a mutual-assured-destruction war (within the class of devices we are capable of building today, including those we have not built yet)?
+By detection, I mean any part(s) of the electro-magnetic spectrum, provided you are able to show is (are) the best choice for such detection. I include in this definition also any recording/post-processing you may be aware of.

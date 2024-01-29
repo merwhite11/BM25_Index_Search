@@ -1,0 +1,7 @@
+Units and some equations
+
+I'm a grad student and I feel like this is an extremely elementary question that I should know, but I admit that I don't. Occasionally in science I find myself solving an equation for some answer where it feels like the units don't add up.
+For instance, in a spatially flat matter-dominated universe with nonrelativistic matter, the accepted age of such a universe is:
+$$t_0 = \frac{2}{3}H_0$$
+where $H_0$ has units of ${\rm km} \cdot {\rm s}^{-1} \cdot {\rm Mpc}^{-1}$.
+Why am I getting a time from this? I know it works, I know this is correct. This isn't the only example of this I've ever seen, but it is the freshest in my memory. It conceptually makes sense, but usually I'm in the habit of doing meticulous dimensional analysis and just wondered if there's some deep metaphysics or philosophy behind when that applies and when it doesn't.

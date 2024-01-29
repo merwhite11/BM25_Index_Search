@@ -1,0 +1,17 @@
+Instead of a five-element corrector for arced drift trajectories, why didn't the ILMT just use CCDs fabricated w/ slightly non-cartesian pixel layout?
+
+Phys.org's New Indian telescope identifies its first supernova links to the recent arXiv Follow-up strategy of ILMT discovered supernovae. The International Liquid Mirror Telescope is no ordinary spinning puddle of mercury, it's got 21st century improvements!
+The introduction begins:
+
+The ILMT is a 4-m diameter zenith-pointing telescope located at Devasthal Observatory (Nainital, India). The first light of the facility was achieved last year (2022 April 29) and presently, it is in the advanced stage of commissioning. Unlike conventional telescopes, the primary mirror of the ILMT is formed by pouring approximately 50 liters of mercury into a recipient, which acts as a reflecting mirror. The effective focal length of the optical system is 9.44 m. The ILMT images are obtained using the Time-Delay Integration (TDI) technique. Given the fixed pointing of the telescope, the stellar objects move in the focal plane along slightly curved trajectories. Therefore, a dedicated five-element optical corrector is being used altogether with the CCD reading the electronic charges in the TDI mode (Gibson and Hickson, 1992; Hickson and Richardson, 1998). A 4k × 4k CCD camera (Spectral Instruments) is mounted at the prime focus of the telescope, which can secure nightly images in g, r, and i spectral bands with a total integration time of approximately 102 sec (in single scan).
+
+Time-delay integration and liquid mirror telescopes are discussed further in:
+
+What was the first use of time-delay integration in Astronomy? Are there instances before GAIA?
+Why can't we build a huge stationary optical telescope inside a depression similar to the FAST radio telescope?
+How would the "Fluidic Telescope (FLUTE)" next generation telescope make and control a smooth, correct concave optical surface figure in microgravity?
+
+Question: Instead of a five-element corrector for arced drift trajectories, why didn't the ILMT just use CCDs fabricated with slightly non-cartesian pixel layout?
+I've done CMOS layout in a previous life, written (PERL) scripts that generate multiple layers in GDS, and compared to random logic (ASIC) circuits the imaging area (pixels) of a CCD is quite simple with relatively few layers and not particularly small nor critical dimensions.
+Instead of trying to map slightly arced drift trajectories on to a straight row of pixels with a five element corrector, why not just ask for a CCD with the rows of pixels slightly curved?
+The periphery of the die with the readout logic and on-chip analog amplification and ADCs with it's higher complexity would be unaffected. And plenty of advanced telescopes special order their large format CCDs to meet their specific needs since they're by definition low-volume, high-end applications.

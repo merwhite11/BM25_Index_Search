@@ -1,0 +1,21 @@
+What is value of charge by mass ratio (q/m) for a spherical micro charged particle with surface potential 6 volts in S.I units and in e/amu units?
+
+In Liu and Ip (2014),The Astrophysical Journal, 786:34 (8pp), the value of q/m is derived as follows :
+"for a dust grain with radius 'a', from $\phi = \frac{4\pi q}{\varepsilon_0 a}$ we have $\frac {q}{m} = \frac{3 \varepsilon_0 \phi}{16 π^2ρ a^2}$, where ρ is the density.
+For, $\rho ∼1 g cm^{−3}$ and '$a$' given in microns and $\phi$ in volts, ${\frac{q}{m} = 1.68*10^{−4}}(1 μm/a)^2 φ (volts)$.
+If q/m is further normalized to the units of the electronic charge (e) and the proton mass (amu) with ${\frac{e}{amu} = 10^8}$, we have ${\left(\frac{q}{m} = 1.68*10^{−12} φ/a^2\right)}$ with φ in volts and 'a' in
+microns.
+With $ \phi ∼ 6 V$, ${\frac{q}{m} = 10^{−8}}$ if $a ∼ 0.03 \mu m$ and ${\frac{q}{m} = 10^{−6}}$ if $a ∼ 0.003 \mu m (e.g., 3 nm)$."
+
+Why is the expression for the surface potential $\phi = \frac{4\pi q}{\varepsilon_0 a}$ in stead of  $\phi = \frac{q}{4\piε_oa}$?
+
+For, $\rho ∼1 gcm^{−3}$ and 'a' given in microns and φ in volts, how is ${\frac{q}{m} = 1.68*10^{−4}}(1 μm/a)^2 \phi (volts)$ and not ${\frac{q}{m} = \frac{3φ}{16(3.14)^2}(1 μm/a)^2 \phi (volts) = 0.019101* 10(1 μm/a)^2 \phi (volts)}$, with, $\varepsilon_0 = 1$ in c.g.s?
+
+With $ \phi ∼ 6 V, a ∼ 0.03 $, ${\frac{q}{m} = 10^{−8}}$ which is approximately , $9.614 *10^{15} C/kg$.
+However, when I did the same calculation using the SI units I got different values :
+For, $\ rho  = 1gm/cm^3= 10^3= kg/m^3$, $ a = 1nm = 10^{-6}m$, $\phi = 6 Volt$
+$\varepsilon_0 = 8.85 *10^{-12} Farad/metre$ with
+$m = (4/3)\pi (a^3) \rho $   and $q = 4 \pi \varepsilon_0 a \phi$, $\frac{q}{m} = 0.1593 C/Kg$ which approximately,$ 0.1593 / (1.66053906660 × 10^(-27) kg/amu) ≈ 9.592 e/amu$ !
+
+
+Thank you.

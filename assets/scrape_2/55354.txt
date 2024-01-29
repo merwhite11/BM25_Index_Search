@@ -1,0 +1,6 @@
+Reasonable stellar body stats
+
+I'm working on a video-game (just a hobby) and I'm trying to strike a balance between scientifically accurate enjoyable to explore.
+I have here a table of the star types I plan to use. (yes some "stars" are nebulae, for the most part we can ignore those.)
+I originally did good research to find accurate(ish) data then I slimmed down my categories and manually played with some of the values to make it feel more reasonable for game play-through experience.
+My question is if anyone prone to yelling at things for inaccuracy see anything here that would just set you off.

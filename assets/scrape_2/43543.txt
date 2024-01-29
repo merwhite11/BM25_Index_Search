@@ -1,0 +1,34 @@
+Did the Spectr-R space-based radio telescope use on-board accelerometer to measure non-gravitational acceleration for baseline correction?
+
+This answer to Why is space-based VLBI scattering sub-structure "Hopefully, a new promising tool to reconstruct the true image of observed background target(s)"? summarizes the contribution of the RadioAstron mission, a VLBI collaboration of radio telescopes using the Spectr-R space-based 10 m dish in high Earth orbit to produce "very-VLBI" observations.
+Figure 2 of Gwinn et al. (2014): Discovery of Substructure in the Scatter-Broadened Image of Sgr A* shown below shows projected baseline distances out past 260,000 km!
+What's notably different in space-based VLBI is that some of the radio telescopes are not rotating with the Earth but basically doing their own thing, flying though space unattached to a (mostly) rigid planet.
+For orbits at this distance it's absolutely necessary to consider gravity from the Earth, Moon and Sun to reconstruct even short segments of trajectory. Luckily present day ephemerides make this possible, and combining those with fringe optimization algorithms (example) one can get a good idea how to build a baseline trajectory for an observation.
+However, large spacecraft are also subject to non-gravitational forces that also affect their trajectory.
+An accelerometer will not register gravitational orbital perturbations as it's subject to the same gravity as the rest of the spacecraft, but things like photon pressure from the Sun which is quite difficult to model accurately can in principle be directly measured in real time with a sufficiently sensitive accelerometer.
+From http://www.asc.rssi.ru/radioastron/ I found On the optimization of the RadioAstron mission by using advanced observing methods at ground radio telescopes and tracking stations, and the advantages of using on-board H-maser frequency standard and on-board accelerometer (Astro Space Center, Moscow, June 2003). 5. High accuracy orbit determination and anomalous acceleration nicely describes the fringe-fitting technique and concerns about residual accelerations due to both
+
+solar wind pressure
+solar photon pressure
+
+Note that a residual error of only 2 millimeters over the coherent integration time (typically of order 1000 seconds) results in a 10% loss of fringe visibility!
+
+
+High accuracy orbit determination and anomalous acceleration
+
+[...]SuperSTAR accelerometer (AM) recently developed and tested by ONERA provides the accuracy of -10 m/s2 along all three axis of the spacecraft [7]. The evaluations presented above have shown that solar pressure, solar wind (variable in strength and direction) especially inside the magnetosphere, and evaporation of gas from the spacecraft will cause SRT acceleration in the range of 10-10 - 10-8 m/s2.
+Conclusion: AM will provide a possibility to reduce considerably the effects of errors in SRT acceleration thus increasing coherent integration time from several minutes to several hours when new reference-sources observations could be done. AM will also help to decrease time of fringe search at the correlator because of smaller values in uncertainty of delay and fringe rate.
+
+Kellerman, K.I., Vermeulen, R.C., Zensus, J.A., & Cohen, M.H., AJ, 115, 1295-1318, 1998.
+
+
+and later
+
+
+Conclusion
+
+On-board H-maser frequency standard and high accuracy on-board accelerometer included into the scientific payload of RadioAstron mission will permit us to increase the coherent integration time up to 5-30 minutes at the correlator before fringe detection. This will be resulted in 2-5 times improvement in sensitivity by increasing the coherence time up to 5-30 minutes. To reach these potential figures we propose advanced observing methods using the measurements of the atmospheric path delay variations by the monitoring of 22 GHz water vapor line emission along a line of sight to the observing source  (WLM) and/or by using reference radio telescope located at high mountain. Additional gain in sensitivity can be obtained by applying self-calibration in fringe-fitting procedure during image reconstruction.
+As it is known from regular ground VLBI observations, maximum coherence time at 22 GHz is about 80 seconds. WLM observing technique or/and usage of reference radio telescope on high  mountain (HMRT) will increase the integration time by 2-3 times. On-board H-maser frequency standard will also provide the possibility to increase the integration time by 2-3 times. On-board accelerometer will provide necessary accuracy of orbit determination to realize potential maximum integration time by 2-3 and to simplify fringe search at the correlator.
+
+Here it is, my question:
+This is all written in 2003 and in future tense. Was the accelerometer actually used in data analysis throughout Spektr-R's long-lived VLBI mission, or were non-gravitational acceleration models eventually used which were likely to be smoother than noisy accelerometer data?

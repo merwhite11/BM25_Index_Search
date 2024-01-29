@@ -1,0 +1,18 @@
+How does the field decay of a magnetar power the emission of high-energy electromagnetic radiation?
+
+In Space.com's Dr. Pulsar and Mr. Magnetar? 2 Star Types May Turn into Each Other (and in the linked video) "Tom Prince, a physics professor at the California Institute of Technology and a senior research scientist at NASA's Jet Propulsion Laboratory" is quoted as saying:
+
+First, magnetars don't last long — just a year to a few years, before colossal waves of X-rays dissipate the magnetic energy...
+
+and Wikipedia's Magnetar says:
+
+A magnetar is a type of neutron star believed to have an extremely powerful magnetic field (∼1013 to 1015 G, ∼109 to 1011 T)1. The magnetic field decay powers the emission of high-energy electromagnetic radiation, particularly X-rays and gamma rays2.
+1https://arxiv.org/abs/1703.00068
+2Rare Earth: Why Complex Life Is Uncommon in the Universe. Springer. ISBN 0-387-98701-0.
+
+Question: How does the field decay of a magnetar power the emission of high-energy electromagnetic radiation?
+More specifically:
+
+Is it as simple as $\partial \mathbf{B} / \partial t$ produces an electric field which accelerates charged particles that happen to be there, and then those accelerating particles radiate photons? 
+Does the energy radiated by these photons cary any significant fraction of the total energy in the field?
+Is the word done producing these photons the reason that the magnetic field decays?

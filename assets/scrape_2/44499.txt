@@ -1,0 +1,19 @@
+How precise are Saemundsson/Bennett refraction formulas?
+
+I was trying to reproduce the predictions of the Bennett formula* by physically-based calculations with a model based on a real-life refractivity profile. My calculations based on Table V from ref. 1 compare as follows with the Bennett formula:
+
+As you can see, there's some noticeable discrepancy, that's larger than between e.g. inverted-Saemundsson formula and directly-used Bennett formula (which would blend on a plot).
+I've tried to come up with a refractivity profile that would reproduce the Bennett formula much better. I've indeed been able to make a very simple exponential profile that reproduces the values much better:
+
+But the refractivity fitted is very different from that in ref. 1:
+
+So I think that Bennett formula must actually be quite imprecise, and I shouldn't try too hard to fit the model to it. But how much is it actually imprecise compared to measured astronomical refraction? Are there any freely accessible measured values of refraction itself rather than refractivity profiles, that could be used to estimate the precision of Bennett formula (and of my calculations)?
+References
+
+D. Vasylyev, W. Vogel, "Satellite-mediated quantum atmospheric links", Phys. Rev. A 99, 053830 (2019)
+
+
+*Per Wikipedia:
+
+$$R = \cot \left( h_a + \frac{7.31}{h_a + 4.4} \right)$$
+where $R$ is the refraction in arcminutes and $h_a$ is the apparent altitude of the astronomical body in degrees.

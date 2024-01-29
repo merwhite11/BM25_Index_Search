@@ -1,0 +1,6 @@
+Has optical interferometry been done at radio frequency using heterodyning with a laser in a nonlinear material?
+
+If one collects narrow band optical emission from a large telescope with frequency $f_1$ and mixes it in a nonlinear crystal with laser light of a nearby frequency $f_2$, it would produce two new signals at $|f_1+f_2|$ and  $|f_1-f_2|$.
+The difference signal $|f_1-f_2|$ could be picked up electromagnetically or perhaps it would be detectable as an AC component in a photodetector somehow, perhaps the photodetector would be the nonlinear element itself.
+Once the signal is electrical, it could be recorded for later playback and offline interferometry, or for transmission over large distances for large baseline optical interferometry, or both.
+Is this "a thing"? Has anything like this been done or at least tried?

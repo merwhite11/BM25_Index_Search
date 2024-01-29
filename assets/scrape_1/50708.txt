@@ -1,0 +1,8 @@
+Age of Alpha Piscium B
+
+According to https://en.wikipedia.org/wiki/Alpha_Piscium, the age of Piscium B is 331 Myr and   the Surface Gravity of 4.01 ± 0.14  it cites the link :- https://academic.oup.com/mnras/article/483/2/2300/5184501?login=false
+When we view the table, https://academic.oup.com/view-large/127773013 , we see it says the SG is 4.01 and that the age of said star is 8.52 Gyr.
+Therefore,
+a) Wikipedia is wrong
+b) 8.52 Gyr is not the age but represents something else and where in the document is 331 derived from?
+c) I'm missing something

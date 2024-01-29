@@ -1,0 +1,6 @@
+Why can space telescopes see through a planetary nebula?
+
+I recently read the book "An Introduction to Planetary Nebulae" by Jason J. Nishiyama. Although I'm not an astronomy student, I could at least understand the written texts and less the physical formulas. So, I got a nice basis knowledge now -- or that's what I like to think.
+Now, I browsed through some pictures of planetary nebulae. Mostly from Hubble and such. I know that they synthesize their images by combining infrared + visible light + uv-light, but I still can't comprehend why these telescopes are able to see INSIDE a nebulae when the shape of mentioned nebulae are spherical? For example, the planetary nebula: NGC 3242 (Ghost of Jupiter); NGC 7293 (Helix Nebula); NGC 6543 (Cat's Eye).
+  
+You can see the exposed white dwarf. And it looks like a thin shell envelopes that star, while the space between the star and the shell is scarce, like see-through. But wouldn't that image imply that the planetary nebula is disk-shaped? If the nebulae is spherical, then shouldn't there be "more nebulae" between the star and the shell? Or shouldn't the inner space be tinted in the color of the nebulae, because we look at a white dwarf that's behind a shell? I've drawn my problem with Paint too, sry for my artistic skills: Pattern A is what I thought it should be; Pattern B is what I think it looks like.

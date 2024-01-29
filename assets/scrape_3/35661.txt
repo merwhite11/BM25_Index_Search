@@ -1,0 +1,23 @@
+Neutrino Modelling in Friedmann Equation
+
+I'm trying to model neutrinos in the Friedmann Equation. I've covered the case of the Benchmark Model where we have matter, radiation, curvature, and the cosmological constant, Lambda. I know my coding of the Friedmann equation works because I get the correct plots at different parameters, as you'll see attached below.
+Including neutrinos, the Friedmann Equation becomes
+$$
+\begin{eqnarray}
+H(z)^2 & = & H_0^2 \Big[ (\Omega_c + \Omega_b) ( 1 + z)^3 + \Omega_\gamma ( 1 + z) ^4 \\
+& + & \Omega_{DE} ( 1 + z)^{3(1+w)} + \Omega_k ( 1 + z) ^2 
++ \frac{\rho_{\nu, tot}(z)}{\rho_{crit,0}} \Big].
+\end{eqnarray}
+$$
+To solve for the energy density as a function of the scale factor (or redshift), we can solve for the energy density by the following expression for the energy density of a single neutrino species:
+$$
+\rho_\nu (T_\nu) = \frac{g}{(2\pi)^3} \int 
+\frac{\sqrt{p^2 + m^2}}{e^{p/T_\nu} + 1} d^3 p.
+$$
+The energy density critical is $4870$ Mev/m$^3$. Energy density of the single species can be written as function of scale factor by writing the temperature as a function of scale factor. $T$ is simply the expression shown below divided by a:
+
+In equation 17, we can write $d^3p$ as $4\pi p^2 dp$ and $g=2$ for a neutrino species. Another thing to notice is that (17) is written in natural units where $c = h = k = 1$. I've tried to fix the units and no matter what I do, the density parameter of the neutrino species is always very small (order of $10^{-9}$) where it should be between 0.0013 and 0.007 from Ryden, Intro to Cosmology equation (7.54).
+I was really hoping someone can help me with the unit conversion from the natural units to the proper units. Everything else I've figured out, I just can't seem to fix the units for equation (17).
+Without neutrinos, I get the following plot consisting of various universe models, and they are correct so coding is not the problem. The problem is the unit conversion to proper SI units of (17).
+
+Once I get the neutrinos figured out, I want to see how they affect the universe models. Any help is greatly appreciated!

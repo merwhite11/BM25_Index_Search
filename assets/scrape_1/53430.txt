@@ -1,0 +1,9 @@
+How small stars help with planet formation
+
+As I understood, low mass stars in their core go through fusion, but only the fusion of hydrogen happens. When it depletes hydrogen, fusion stops as temperature is still not high enough to support fusion of helium and this will never produce other elements such as carbon. The situation is different in high mass stars as they go different stages of fusion.
+At least this is how I understood.
+I am curious how planets are formed. So after searching, I read that there is gas and dust leftovers that contain carbon, oxygen and some other elements.
+Where did the carbon come from? Some say it came from the leftovers of a dying star.
+Question: It could NOT have come from the dying high mass star as it would probably form a black hole and that's it. Then we conclude it came from the death of the small star. But how? We know the small stars never go through fusion that produce carbon. So low mass stars could not have brought this. Some mention planetary nebula but I don't get it.
+Would appreciate a nice explanation.
+EDIT as planetmaker said in the comments, high mass star go through supernova explosion which releases contents (Wikipedia mentions outer layers, but I guess outer layers contain carbon). Does the carbon and other heavy elements get released from the death of small stars as well, and if so, how? Since carbon never is produced in the small star formation and in its fusion.

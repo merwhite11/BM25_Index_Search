@@ -1,0 +1,3 @@
+Requirements for a satellite/planet to be tidally locked to a planet/star
+
+The Moon is tidally locked to the Earth, the Four Galilean are tidally locked as well, and the recently found planetary sistem TRAPPIST-1 has seven tidally locked planets, but Venus or Mercury are not. Why? Is there any conditions or analytic formula which says if a small body will be eventually tidally locked to the major body?

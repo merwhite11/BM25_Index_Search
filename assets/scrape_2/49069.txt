@@ -1,0 +1,5 @@
+Where can I find online-available datasets for the KIC 8462852?
+
+The question has been asked here seven years ago but unfortunately did not receive an answer perhaps because at that time it would be reasonable to assume that no available dataset might have made it to the web.
+Now, I have been searching continuously for a light curve dataset for this star containing info on the flux recorded yet the only thing I came across to is this dataset which contains only 52 samples perhaps collected from this article
+However, I have seen numerous articles such as this one that have used the dataset from Kepler but I wasn't able to locate it on their website.

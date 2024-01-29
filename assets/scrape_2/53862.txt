@@ -1,0 +1,3 @@
+Finding Position angle and ellipticity to Deproject galaxy image using IRAF
+
+I am trying to obtain position angle and ellipticity for a galaxy image by fitting elliptic isophotes using IRAF routine stsdas.isophote.ellipse package. After fitting the isophotes, I have a table which contains the variation of postion angle and ellipticity with major axis of elliptical isophotes. I am not understanding how to know the Position angle and ellipticity for my galaxy from the table.

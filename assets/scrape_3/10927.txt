@@ -1,0 +1,5 @@
+Day Length on Double Planets
+
+Assume two similarly sized bodies tide-locked to one another orbiting a barycenter between the two. That barycenter orbits a star. Since the two are tide-locked, their sidereal rotational period and sidereal orbital period (about one another) are the same (right?). There's no axial tilts or eccentricities to screw with things either for the sake of simplicity.
+What would I base the length of a conventional day on for a society living on these worlds?
+My gut's telling me to calculate the sidereal period based of the barycentral semi-major axes (or would I use the separation between the two worlds still?) for each and then compute the synodic periods and just use those, but my brain's too stupid to tell whether that's going to actually be anything close to a "solar day". I don't need perfect - just close enough.

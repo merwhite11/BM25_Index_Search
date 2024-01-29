@@ -1,0 +1,20 @@
+What mechanisms limit the top speed of high altitude winds on Venus?
+
+According to http://www.universetoday.com/36816/winds-on-venus/, the high altitude winds on Venus travel at about 100 m/s. 
+I don't think frictional resistance is really what's limiting the speed of the winds. Here's a possible cause of resistance to the winds moving even faster. 
+
+Venus has a single convection cell per hemisphere. 
+The atmosphere cools by adiabatic expansion as it rises at the equator, 
+
+
+then because it's colder than the low altitude air, it emits radiation at a lower rate than the low altitude air 
+so it heat's by absorbing radiation from the low altitude air faster than it cools by emitting radiation 
+so the temperature drops less rapidly with altitude than that from adiabatic expansion. 
+
+As the air at the equator rises, it cools 
+
+
+but then it's colder than the rest of the air at that altitude 
+so it resists being accelerated upward by the high pressure of the air under it. 
+
+Also because of that resistance, it rises slowly enough that it heats up from absorption fast enough to not drop further in temperature as it goes higher preventing it from exerting a stronger force of resistance to the flow of the convection cells than the driving force for the convection.

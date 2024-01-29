@@ -1,0 +1,4 @@
+Would the Earth and Moon still have tides after the Earth tidally locks to the Moon?
+
+Ignore the Sun's expansion.
+From my understanding, tidal locking happens from torque as a result of tidal bulges being offset from the line between the two planets. So when the Earth and Moon tidally lock, will there still be tides since they shouldn't be moving apart anymore?

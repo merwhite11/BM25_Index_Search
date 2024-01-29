@@ -1,0 +1,3 @@
+What is the "lunar irradiance" received by the Earth from the full Moon?
+
+The solar irradiance received by the Earth is 1361 $W/m^2$. What is the lunar irradiance received by Earth from the full Moon in the same units? My first thought was to work it out via apparent magnitude but I don't think that would work out.

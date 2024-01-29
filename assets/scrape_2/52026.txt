@@ -1,0 +1,9 @@
+Telescopes with equatorial mount and "catching" stars
+
+I have a misunderstanding of principles behind using telescopes with equatorial mount (I don't have it yet, only trying to grasp the idea). For example, I would like to watch Betelgeuse in the telescope, steps to do it:
+
+aligning telescope's polar axis with Polaris
+getting Betelgeuse's coordinates - right ascension 05h 55m 10.30536s and declination  +07° 24′ 25.4304″
+put RA add DEC to corresponding axis
+
+Will Betelgeuse be visible through a telescope all night?

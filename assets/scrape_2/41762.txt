@@ -1,0 +1,5 @@
+Do moons experience periods of no sunlight when orbiting "behind" their planet?
+
+I'm writing a story that takes place on the Saturn moon Iapetusand I was thinking that especially since Iapetus only has an inclination of about 17 degrees from the ecliptic, wouldn't there be a point during its orbital period where it orbits "behind" Saturn — that is to say, Saturn is directly between Iapetus and the Sun — and doesn't get any direct sunlight?
+Is that correct or am I missing a detail here?
+If it is true that moons like Iapetus experience these periods of no sunlight, how difficult would it be to calculate roughly how long this period would be using the inclination and the orbital period?

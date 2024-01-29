@@ -1,0 +1,14 @@
+How to determine the temperature of a star according to the strength of the line in the spectra?
+
+Based on the comments, I have changed some things.
+Below is a graph showing the relative strength of $H_\gamma$ and Fe I lines of two stars. Which star is hotter?
+
+This is a question from the book:An Introduction to
+Stellar Astrophysics(2010).Francis Leblanc.
+The full question is shown below.
+
+And also, some of my ideas:
+
+As for Fe I, based on Saha equation, we can calculate as follows:
+$\frac{n_{\mathrm{II}}}{n_{\mathrm{I}}}=\frac{1}{n_{\mathrm{e}}}\left(\frac{2 \pi m_{\mathrm{e}} k T}{h^{2}}\right)^{\frac{3}{2}} \frac{2 U_{\mathrm{II}}}{U_{\mathrm{I}}} \mathrm{e}^{-\frac{E_{\mathrm{ion}}}{k T}}$, suppose here $n_e$ is a constant.$U_{II}   $ and $U_{I}$ are the partition function for Fe II and Fe I respectively, which are also constants. $E_i   $ is the energy required to ionize one electron, which is obviously a constant. So as T increase, $\frac{n_{II}}{n_{I}}$ will increase. Because, it is relatively harder for ionize one more electron. So almost all of the Fe element are $Fe I$ or $Fe II$. Tues the strength of spectra line of $FeI $ will decrease as temperature increases. So star A is hotter.
+As for $H_{\gamma}$, I have no idea about that. Although I can use Bolzmann equation to find relative number density of different state of hydrogen. But there are serval states. n=3 ,n=4, n=5.

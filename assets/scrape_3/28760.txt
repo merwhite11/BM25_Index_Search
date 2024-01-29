@@ -1,0 +1,8 @@
+Has "GHz-spinning dust" ever been demonstrated in the laboratory?
+
+This excellent answer to the question What is the physics of the “spinning dust” contribution to Cosmic Microwave Background measurements? includes the figure below which helps show what it was the triggered the existence-hypothesizing of cosmic spinning dust.
+
+The question Why doesn't the equipartition theorem disallow spinning dust? is my way of starting to wonder if spinning dust is real, or if it really happens.
+One thing that would make me more comfortable than an argument gedankenexperiment involving a modified Crookes radiometer with the gas removed would be some kind of experiment showing that simply being exposed to some very low pressure hydrogen, or photons, can make dust spin at anything close to 20 GHz!
+These days optical trapping of particles in very high vacuum is readily accessible for example, so I think if someone wanted to try to make GHz-spinning-dust they could certainly have a go. 
+Question: Has this been tried? Has "GHz-spinning dust" ever been demonstrated in the laboratory?

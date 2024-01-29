@@ -1,0 +1,3 @@
+Extinction and reddening dataset
+
+Where can I find a dataset containing the interstellar reddening and extinction values for all globular clusters, preferably in the HST/WFC3 system.

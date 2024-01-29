@@ -1,0 +1,7 @@
+Gravitational attraction of Sun on distant object
+
+A hypothetical situation which will help me with a real-life problem. 
+Several stationary objects are placed at great distances from our Sun -- say 0.1 light year, 0.5 ly, 1.0 ly. Assuming no other influences; 
+What velocity would each have when it reached the Sun?
+How long would each take to reach the Sun?
+Assuming the object-Sun path was perpendicular to the ecliptic & the Sun had its actual motion, would the objects hit the Sun, or (roughly) by how much would they miss it?

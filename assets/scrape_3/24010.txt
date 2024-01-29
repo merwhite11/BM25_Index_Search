@@ -1,0 +1,9 @@
+What's the rationale behind the false colours in solar observation photographs?
+
+Images from SOHO, SDO and other sun observatories are often coloured differently for different wavelengths or temperatures:
+
+
+http://www.nasa.gov/mission_pages/sunearth/science/Sun-Wavelength-Chart.html has statements like "This light is emitted from the upper transition region and the chromosphere and are typically colorized in red."
+How is the convention of which temperature or wavelength gets which colour established?
+Is it simply so that scientists can immediately tell what temperature or wavelength a picture shows, or are the colours optimized to show particular features?
+And why is there a white ring or circle in the sunshade in some SOHO imagery, and why different sizes compared to the disc in the two photos above?

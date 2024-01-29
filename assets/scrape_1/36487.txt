@@ -1,0 +1,10 @@
+Why does Hellas Basin look white on some maps?
+
+One map of Mars I see a lot is this colourized map: the Viking colourized global mosaic (Source):
+
+But one thing which strikes me as odd is just how white the Hellas Basin is (the white patch which is not on the poles, just in the middle of the lower right half of the above image)
+On the older version of the Viking mosaic, the basin doesn't look that white. Here the Mars Viking Colorized Global Mosaic v1
+(Source, link to image):
+
+It certainly still looks at least paler than the surrounding areas, but nowhere near as much as on the first map (on the first map it is about as white as the poles, on the second it is not).
+So: Is the Hellas basin really as white as the first map suggests? And if yes why?

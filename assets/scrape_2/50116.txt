@@ -1,0 +1,36 @@
+What is the story behind this supposedly incredibly detailed image of the disk of Proxima Centauri attributed to the JWST?
+
+Etienne Klein (@EtienneKlein)'s twitter account labels them as:
+
+Directeur de recherche  @CEA_Officiel, producteur de « Science en questions » sur  @franceculture, publie « L’esprit du corps »
+
+and cea.fr's English "about CEA" page begins:
+
+The French Alternative Energies and Atomic Energy Commission (CEA) is a key player in research, development and innovation in four main areas:
+
+defence and security,
+low carbon energies (nuclear and renewable energies),
+technological research for industry,
+fundamental research in the physical sciences and life sciences.
+
+Drawing on its widely acknowledged expertise, the CEA actively participates in collaborative projects with a large number of academic and industrial partners.
+The CEA is established in nine centers spread throughout France. It works in partnership with many other research bodies, local authorities and universities. Within this context, the CEA is a stakeholder in a series of national alliances set up to coordinate French research in energy (ANCRE), life sciences and health (AVIESAN), digital science and technology (ALLISTENE), environmental sciences (AllEnvi) and human and social sciences (ATHENA).
+
+Widely acknowledged as an expert in its areas of skill, the CEA is actively involved in the European Research Area and its international presence is constantly growing.
+
+The CEA is the only French research organization to be listed in the Clarivate 2020 ranking and is the leading French research organization filing patents in Europe, according to the European Patent Office (EPO) 2021 ranking.
+
+From this account the following image and text (below) was tweeted.
+Question What is the story behind this supposedly incredibly detailed image of the disk of Proxima Centauri attributed to the JWST?
+There certainly exist blurry images of stellar disks (the dark spots in interferometric infrared and/or radio images of Betelgeuse come to mind) but never anything with such high spatial frequencies. What's going on?
+
+
+Photo de Proxima du Centaure, l’étoile la plus proche du Soleil, située à 4,2 année-lumière de nous.
+Elle a été prise par le JWST.
+Ce niveau de détails… Un nouveau monde se dévoile jour après jour.
+
+Google translated:
+
+Photo of Proxima Centauri, the closest star to the Sun, located 4.2 light years from us.
+She was taken by the JWST.
+This level of detail… A new world is revealed day after day.

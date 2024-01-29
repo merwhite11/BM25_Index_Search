@@ -1,0 +1,122 @@
+Moon equatorial coordinates
+
+It took some effort, but in the end, I successfully calculated the geographical point of the Sun. I assumed that I could do the same for the Moon.
+My plan is:
+
+Find RA and declination of the Moon
+Find GHA of the Moon, using the same math as for the Sun
+
+However, after following this article almost to the letter (except for precession and perturbations), my calculated answer is much different from this site. I've examined the article and my code many times, but can't see an error.
+I use Swift programming language, but here it's merely a way to represent my calculations and results.
+
+If anyone would like to try it for yourself, here's my code in text format:
+import Foundation
+
+extension Double {
+  var radians: Double {
+    return self * .pi / 180
+  }
+
+  var degrees: Double {
+    return self  * 180 / .pi
+  }
+
+  var rangedUpTo360: Double {
+    let multiples = (self/360).rounded(.down)
+    return self - 360*multiples
+  }
+
+  var rangedUpTo86400: Double {
+    let multiples = (self/86400).rounded(.down)
+    return self - 86400*multiples
+  }
+}
+
+extension Date {
+  var greenwich: Date {
+    let greenwichDate = self.addingTimeInterval(TimeInterval(-TimeZone.current.secondsFromGMT()))
+    return greenwichDate
+  }
+}
+
+class Astronomy {
+
+  static func julianDays(since: Date) -> Double {
+    return since.timeIntervalSince1970 / 86400 + 2_440_587.5
+  }
+
+  static func daysSinceJ2000(for date: Date) -> Double {
+    return julianDays(since: date) - 2_451_545
+  }
+
+  static func sunAxialTilt(for daysSinceJ200: Double) -> Double {
+    return 23.4393 - 3.563e-7 * daysSinceJ200
+  }
+
+  static func greenwichHourAngle(rightAscension: Double, date: Date) -> Double {
+    let greenwichTimeZone = TimeZone(secondsFromGMT: 0)!
+    var calendar = Calendar.current
+    calendar.timeZone = greenwichTimeZone
+    let components = calendar.dateComponents([.hour, .minute, .second], from: date)
+    let secondsOfDay = Double(components.hour!)*3600 + Double(components.minute!)*60 + Double(components.second!)
+
+    let centuriesSinceJ200 = daysSinceJ2000(for: date.greenwich) / 36525
+    let greenwichSiderealTime = 24110.54841 + 8640184.812866*centuriesSinceJ200 + 0.093104*pow(centuriesSinceJ200, 2) - 0.0000062*pow(centuriesSinceJ200, 3)
+    let earthSiderealRotationRate = 1.00273790935 + 5.9e-11*centuriesSinceJ200
+    let earthRotation = earthSiderealRotationRate*secondsOfDay
+    let gmstSeconds = greenwichSiderealTime + earthRotation
+    let gmstSecondsNormalized = gmstSeconds.rangedUpTo86400
+    let gmst = gmstSecondsNormalized / 3600 * 15
+    return gmst.rangedUpTo360 - rightAscension
+  }
+
+  static func moonPosition(on date: Date) -> (declination: Double, RA: Double, distance: Double) {
+    date
+    // day number
+    let d = daysSinceJ2000(for: date)
+    // longitude of the ascending node
+    var N = 125.1228 - 0.0529538083 * d // have to be normalized
+    if N < 0 {
+      N += 360
+    }
+    // inclination to the ecliptic (plane of the Earth's orbit)
+    let i = 5.1454
+    // argument of perihelion
+    var w = 318.0634 + 0.1643573223 * d // have to be normalized
+    w = w.rangedUpTo360
+    // semi-major axis, or mean distance from Sun
+    let a = 60.2666 // (Earth radii)
+    // eccentricity (0=circle, 0-1=ellipse, 1=parabola)
+    let e = 0.054900
+    // mean anomaly (0 at perihelion; increases uniformly with time)
+    var M = 115.3654 + 13.0649929509 * d // have to be normalized
+    M = M.rangedUpTo360
+    // eccentric anomaly
+    let E = M + e * sin(M.radians) * (1.0 + e * cos(M.radians))
+    let xv = a * (cos(E.radians) - e)
+    let yv = a * (sqrt(1.0 - e*e) * sin(E.radians))
+    // true anomaly (angle between position and perihelion)
+    let v = atan2(yv, xv).degrees
+    let r = sqrt(pow(xv, 2) + pow(yv, 2))
+    // geocentric ecliptical position
+    let xG = r * (cos(N.radians) * cos((v + w).radians) - sin(N.radians) * sin((v + w).radians) * cos(i.radians))
+    let yG = r * (sin(N.radians) * cos((v + w).radians) + cos(N.radians) * sin((v + w).radians) * cos(i.radians))
+    let zG = r * (sin((v + w).radians) * sin(i.radians))
+    // equatorial coordinates
+    let ecl = sunAxialTilt(for: d)
+    let xE = xG
+    let yE = yG * cos(ecl.radians) - zG * sin(ecl.radians)
+    let zE = yG * sin(ecl.radians) + zG * cos(ecl.radians)
+    //right scension
+    var rA = atan2(yE, xE)
+    rA = rA.degrees
+    // declinatino
+    var dec = atan2(zE, sqrt(xE * xE + yE * yE) )
+    dec = dec.degrees
+    // geocentric distance
+    let rG = sqrt(xE * xE + yE * yE + zE * zE)
+    return (declination: dec, RA: rA, distance: rG)
+  }
+}
+
+Astronomy.moonPosition(on: Date().greenwich)

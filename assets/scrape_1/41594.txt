@@ -1,0 +1,9 @@
+How is bond albedo calculated?
+
+According to this website, Bond albedos are computed by calculating the ratio of the flux reflected by a planet (integrated over wavelength) to the total stellar flux incident on the planet.
+Three questions:
+
+
+How to arrive to "the ratio of the flux reflected by" the earth?
+How to arrive to "the total stellar flux incident on" the earth?
+How to compute the two together?

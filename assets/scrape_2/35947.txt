@@ -1,0 +1,6 @@
+Light profile fitting related questions
+
+I am computer scientist and now I'm working with some astrophysical projects. During this work I accumulated some questions and maybe here I would be able to find some answers or advice where to look for them. I already read some of the wiki pages on topic, but it didn't help. 
+We are working with fitting light profiles of some eliptic galaxies with GALPHAT using Sersic and Sersic Exponential models.
+1. So first question would be, what exactly means to fit a light profile? I get a bunch of parameters as output (X, Y, Mag, re, n, q and others), but what exactly does it mean? 
+2. And the second question is what is the difference between these two models?

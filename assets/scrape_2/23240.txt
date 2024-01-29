@@ -1,0 +1,27 @@
+Tracking a heliographic coordinate on CCD
+
+Given the latitude and longitude of a heliographic coordinate, I want to place the point on a CCD image and simulate its motion for a particular duration. Though I am able to track the motion of a point on the Sun, I am unable to place the point at the exact location.
+For example, (0,90) should ideally be placed at the right edge of the Sun, but with the current code, it falls outside the image. The issue seems to be in scaling.
+Can you please suggest the parameters that I need to take into account while scaling.I have included the plate scale of the CCD, the ratio of the radius of the Sun to the Earth-Sun distance.
+The code:
+%% plate scale,pixel size = 0.6 arcseconds/pixel
+p = 1/0.6
+
+%% Radius of the Sun/Earth-Sun distance
+a = 0.0046491838
+
+%% scaling factor, converting it to degrees
+s = a*p*3600
+
+%% Central pixels 
+xC = 2048;
+yC = 2048;
+
+%% latitude and longitude
+l = 0
+b = -90
+
+x = round((b*s*cos((l*pi)/180))+xC)
+y = round((l*s)+yC)
+
+--> x =-463 & y = 2048 and hence the point is not getting plotted.

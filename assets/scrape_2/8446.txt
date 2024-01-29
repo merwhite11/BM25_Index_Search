@@ -1,0 +1,9 @@
+How do you find the altitude of the Sun if you are on the Moon?
+
+The question is:
+
+If you stand on the equator of the Moon, at midday your position occurs when the Moon is located at the line of the node. What is the altitude of the sun at that moment?
+
+Information: This is when the Moon is located at the line of node (line of node is a line that occurs from crossing between the ecliptic plane and the Moon's orbital plane, which makes an angle of approximate 5 degrees). The equatorial plane of the Sun makes an angle of 1 degrees, 32 arc minutes and 40 arc seconds.
+The solution is 88 degrees, 27 arc minutes and 20 arc seconds through 90 degrees.
+But I don't understand why the answer isn't 1 degree, 32 arc minutes and 20 arc seconds, because the ecliptic plane where the sun is located is above the horizon or celestial equator. equal to its altitude.

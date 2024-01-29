@@ -1,0 +1,4 @@
+Converting from $\mathrm{W \: m^{-2}}$ to $\mathrm{Jy \: km \: s^{-1}}$
+
+Suppose I observe a spectral line with rest frequency $\nu_0$ and integrated flux density $F = 10^{-26} \mathrm{W/m^2}$. Is the following line of reasoning correct?
+$1 \: \mathrm{Jy} = 10^{-26} \: \mathrm{W/m^2/Hz}$ therefore $F = 1 \: \mathrm{Jy \: Hz}$. This can be interpreted as a peak flux in $\mathrm{Jy}$ multiplied by a linewidth in $\mathrm{Hz}$. Thus to convert to $\mathrm{Jy \: km \: s^{-1}}$ I just need to multiply the linewidth by $c/\nu_0$ to convert it from $\mathrm{Hz}$ to $\mathrm{km \: s^{-1}}$. Hence, $F = c/\nu_0 \: \mathrm{Jy \: km \: s^{-1}}$ (where $c$ is in units of $\mathrm{km \: s^{-1}}$).

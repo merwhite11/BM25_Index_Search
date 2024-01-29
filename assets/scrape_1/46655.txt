@@ -1,0 +1,9 @@
+How, precisely, do radio astronomers detect (and record) the phases of waves for interferometry?
+
+Interferometry is always in the news, and at radio frequencies it has been for a long time...
+The popular press always talks about directly 'interfering' two waves as they come in, but can they tell the exact phase of a single wave?
+Don't the Event Horizon Telescope and the new LOHAR do this, 'recording' the phases of incoming radio waves and comparing and contrasting them later, with specialized software?
+P.S.: When the amplitude of a wave is at its greatest, that means the 'strength' (power, or energy) of the wave is at its greatest, correct?  As measure in eV or joules (energy) or watts (power)?  So is that a way detectors can detect and record the amplitude(s) and therefore the phase(s)?
+And if you know the time passing between energy maxima, you can know the freq./wavelength that way, too?...
+Also, is there an independent way to know the direction of the E-field lines?  To know if the amplitude of the wave at that moment is 'above' or 'below' the proverbial line?  So you'll know if you'll obtain constructive or destructive interference if another wave of the same frequency, also at maximal amplitude, crosses paths with it?
+P.P.S.:  If a single, extremely short wave or burst passes a detector at minimal amplitude, could the detector fail to detect it?

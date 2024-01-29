@@ -1,0 +1,4 @@
+Get Moon libration data from JPL Horizons
+
+I've been searching Horizons settings to find lunar librations but can't find. How can I get the libration data?
+So I have tested this Horizons Web Application and selected Moon as the target. Whether I select Vector Table or Osculating Orbital elements or Observer Table as Ehpemeris Type there's no lunar libration column in the output data. I'm expecting two parameters like libration_lon, libration_lat or something. I've tested both ecliptic and equatorial reference planes (in Table Settings).

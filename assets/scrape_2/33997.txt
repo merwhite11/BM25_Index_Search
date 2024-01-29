@@ -1,0 +1,4 @@
+Ecliptic line data
+
+I would like to get the data of ecliptic line with respect to celestial equator for a particular day.
+Is there any specific URL that can give me this. I only have data for declination of Sun and the other planets and i dont think i could construct data of the ecliptic line from that. Any help on this would be appreciated. Please apologise if this question is really vague and not clear.

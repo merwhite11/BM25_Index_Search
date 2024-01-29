@@ -1,0 +1,5 @@
+Is there software that will let me calculate things like lunar phases and the position of bodies in the sky in a custom solar system?
+
+I am constructing a fictional solar system and want to be able to calculate astronomical events and locations, like lunar phases and eclipses, plus the positions of other astronomical bodies in the sky of the inhabited planet. Is there any software that will let me plug in information (like the mass, orbital period, rotational period, axial tilt, and so on) about the star, planets, and moons, and from that get the positions and phases over time from a chosen perspective?
+I'd like it to take into account accurate orbital motion and the effects of relativity and all of that, and give results over hundreds of simulated years.
+I've searched online without any luck, and programming it myself seems like a very daunting task that I have no idea how to even approach. Does something like this exist?

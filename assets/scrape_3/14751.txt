@@ -1,0 +1,3 @@
+How to interpret extreme ultraviolet/ x-ray data in the literature?
+
+I am interested in a sun-like star 138 light years away that is in the EUVE catalog. A table shows that a photon count of 2.6+/-0.5 photons per kilosecond at 100 angstroms has been detected for this star. I can not determine if this is high or not. I am even having a hard time finding what solar emission is at this wavelength so i can attempt the math to compare with the sun. Can somebody help me here?

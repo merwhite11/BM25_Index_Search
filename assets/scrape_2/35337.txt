@@ -1,0 +1,4 @@
+Is there a database of past sunspots?
+
+I would like to plot a butterfly diagram. I've been looking through the SOHO archive for a table that would indicate the date and position of each sunspot, but to no avail. The closest I got was to use the archived images to create the table myself, but that would be extremely fastidious. 
+Is there a place where I might find this kind of data?

@@ -1,0 +1,5 @@
+Accessing SDSS server SQL server via python
+
+Is there a way to directly access any of the Sloan Digital Sky Survey servers via SQL via Python?
+Currently I have been able to run SQL queries from the website they provide (for example https://skyserver.sdss.org/dr12/en/tools/search/sql.aspx), but it's not clear to me how I can access them directly from a Python interface.
+Any suggestions what connection details I would need to use are highly appreciated.

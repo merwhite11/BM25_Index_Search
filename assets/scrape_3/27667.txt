@@ -1,0 +1,5 @@
+Units in optical and radio spectral data cubes: Flux vs Brightness
+
+I have noticed that the units used in spectral data cubes coming from optical IFU instruments are usually in $erg/s/cm^2/Ang/pixel$. To my understanding this is a measure of Flux. Right? 
+However, in radio astronomy, spectral data cubes coming from interferometers is usually in $Jy/beam$. To my understanding, this is a measure of surface brightness. Right?
+Why optical and radio spectral data cubes don't use the same kind of unit (either flux or brightness)?

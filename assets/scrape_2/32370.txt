@@ -1,0 +1,3 @@
+Relation between phase and magnitude
+
+Given the phase of a planet or satellite, I can find the area illuminated visible to us, if we consider a 2D surface. But how do I find the percentage of illuminated area visible considering it a 3D surface and thus finding the magnitude of the partially illuminated planet/satellite.

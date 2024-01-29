@@ -1,0 +1,4 @@
+As viewed from Mars, what are Jupiter's and Saturn's maximum brightness in apparent magnitude?
+
+From Earth, Jupiter's maximum brightness is -2.94 and Saturn's is -0.24. But what about from Mars? They should be brighter, but by how much?
+There are equations at the obvious wiki entry but I'm not sure I understand them. Plus I'm afraid to attempt this calculation myself because I've heard that this sort of thing does not follow the inverse square law. They're reflecting light (not generating it), and I read somewhere that it should follow an inverse 4th power law because of that. I don't see any 4th powers in the apparent magnitude equations.

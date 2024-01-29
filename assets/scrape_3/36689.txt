@@ -1,0 +1,8 @@
+Why are quasars so far away that they couldn't be optically resolved in the 1950's?
+
+Wikipedia's Quasar includes the following in its introduction:
+
+The term quasar originated as a contraction of quasi-stellar (star-like) radio source, because quasars were first identified during the 1950s as sources of radio-wave emission of unknown physical origin, and when identified in photographic images at visible wavelengths they resembled faint star-like points of light. High-resolution images of quasars, particularly from the Hubble Space Telescope, have demonstrated that quasars occur in the centers of galaxies, and that some host-galaxies are strongly interacting or merging galaxies.
+
+So today instead of "quasi-stellar" we might simply say "unresolved". The light is star-like because the light from galaxies has a strong stellar component. (this second sentence is argued against in comments)
+Why are quasars so far away that they required high resolution techniques (i.e. space telescopes or adaptive optics) to resolve them? Is it just that they are fairly rare and a roll of the dice resulted in none close enough to be resolved in older large telescopes of the 1950's, or are there some cosmological effects in play as well?

@@ -1,0 +1,6 @@
+Seeing Azha (Eta Eridani) in Northern Hemisphere
+
+When I use Stellarium, I am unable to see Azha in London or Atlanta, Georgia.  However, it is possible to see Azha in Tokyo and Auckland.  
+I am not changing the time, only the location.  I presume that my time is converted to their time.  So for example, if my time is 11:30 (London) then when I select Tokyo, I should see what the sky is like at 11:30 Tokyo time.  
+I can see Azha in Auckland too.  I would've thought the ability to see a star is based on N/S hemisphere not E/W hemisphere.  Is it right I should be able to see Azha in the Eastern Hemisphere but in the West or am I using Stellarium incorrectly?
+I am asking because of the Eta Eridanids. They might be an obscure or a disappointing meteor shower. The reason for such differing locations was to see where in the world it's possible to see them.

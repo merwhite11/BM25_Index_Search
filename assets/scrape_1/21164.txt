@@ -1,0 +1,7 @@
+Does the Earth ever cross the Moon's path with respect to the CMB?
+
+Title says it, really. As I understand, our total peculiar motion with respect to the CMB is 631 (+/-20) km/h, in the direction of 10.5h RA; -24 deg Dec (or rather away from 22.5h RA; +24 deg Dec, right? That's close to the direction of Lambda Pegasi).
+So, if we draw a line from the Moon to Lambda Pegasi, does Earth ever cross it?
+I think the answer is no, but don't have enough of a model to prove it to myself.
+The inclination of the Moon's orbit is 5.14 degrees, and the Earth subtends about 1.2 degrees from the moon, but the Moon's path extends off at 24 degrees above the ecliptic. So the Earth won't cross it, right?
+This is all assuming that the vector info above is the total, and already accounts for the motion of the sun around the milky way. If that's not the case, please let me know.

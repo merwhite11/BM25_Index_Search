@@ -1,0 +1,3 @@
+How exactly 'polar aligning' a Telescope with equatorial mount helps?
+
+What is true purpose of polar aligning? Last night, I looked at Mars. It was moving fast.  I still need to adjust RA axis to track fast-moving Mars. Why the telescope didn't  track it by itself?

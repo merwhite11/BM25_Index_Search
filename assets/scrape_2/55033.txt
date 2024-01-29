@@ -1,0 +1,7 @@
+S0-2 (S2) Diameter/Radius
+
+I'm a student, I am doing an investigation about S0-2. My idea was to take the wavelength that emanates from the star.
+When I saw the data from Science magazine I found a problem that was that the data I got is the wavelength that reaches us, which gave me the idea of ​​taking the frequency of the wave that emanates from S0-2, but in order to do this I needed data that I am missing. This data is the radius of the star, using this formula
+$$V=-G\frac{M}{r}$$
+I can get the gravitational potential of S0-2.
+Please, If anyone knows the diameter or radius of S0-2, I´d be thankful if you share it here

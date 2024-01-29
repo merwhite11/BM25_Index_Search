@@ -1,0 +1,4 @@
+If Jupiter's day length increased from the current 9 hours to 100 hours, would the weather become more or less violent?
+
+Would average windspeeds increase or decrease if day length increased substantially on Jupiter?
+Is windspeed in Jupiter's atmosphere primarily driven by solar energy differentials between night and day side or something else? Would proximity to the sun (2x increase in radiation energy received) have an equal impact on windspeed to a 2x day length change?

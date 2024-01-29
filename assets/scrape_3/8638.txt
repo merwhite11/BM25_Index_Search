@@ -1,0 +1,3 @@
+Why do we need to add a second to 30 June and risk upsetting Internet?
+
+We linked a physical constant (the time of one second) to a physical non constant (the rotation of the earth) so there will have to be adjustments - or not? Is it important that the UTC in one line on earth is the same as the astronomical time? As the earth slows down, it means that this line slowly changes position. When the line travels 1 hour away we can bring it back by an hour change if necessary. If currently we add 1 second say every 3 years, it would take thousands of years to change by 1 hour. The last time a second was added, in 2012, problems were caused in some systems. Why do we need to do it?

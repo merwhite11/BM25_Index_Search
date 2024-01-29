@@ -1,0 +1,3 @@
+How difficult is it for an amateur to discover a new exoplanet or astronomical object?
+
+I recently read about precovery, where plates or images of an object predating its discovery are used to precisely determine its orbit. It occurred to me that it might be possible that some objects have yet to be identified in open-access astronomical databases, simply as an oversight or maybe as a misidentification (say, mistaking a planet for a star). Is it possible for an amateur astronomer to go through open-access astronomical image data and perhaps use machine learning algorithms to find new celestial bodies? Has it been done? If not, how likely is it that an amateur astronomer could even do so?

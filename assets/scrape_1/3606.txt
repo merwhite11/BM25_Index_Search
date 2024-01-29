@@ -1,0 +1,4 @@
+What is $v_{GSR}$
+
+In this paper ("The Apache Point Observatory Galactic Evolution Experiment: First Detection of High Velocity Milky Way Bar Stars") they plot and calculate $v_{GSR}$. $GSR$ stands for Galactic Standard of Rest, but I am not sure which velocity they mean. Is it the Radial Velocity, with respect to the GSR, or something else? 
+Maybe to  clarify: suppose I have a database of stars with Cartesian location and velocities, how do I calculate the $v_{GSR}$ of a single star?

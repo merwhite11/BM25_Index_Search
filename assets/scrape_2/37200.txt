@@ -1,0 +1,3 @@
+How to calculate the orbital period and the density of a planetary body?
+
+I'm a student studying in 9th grade, I am making this fictional habitable planet named "Darwin B" for a planet making competition. It orbits a sun-like star at a distance of 1.15 AU or 172 million kilometres in a nearly circular orbit. Its rotational period is 19 hours, 38 minutes. Its mass is $6.15×10^{24}kg$ and its radius is about 6,743 kilometres. I have to calculate its orbital period and density but I'm weak in maths and don't know how to. Please help.

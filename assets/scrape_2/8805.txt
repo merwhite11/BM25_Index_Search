@@ -1,0 +1,4 @@
+Hubble HST scheduling algorithm
+
+NASA developed SPIKE: Intelligent Scheduling of Hubble Space Telescope Observations (HST) and this.
+My question is simple, is there a programming library, preferably in python or C#, to implement the algorithm? AFAIK  NASA never released their code.

@@ -1,0 +1,32 @@
+Reference request (explaining) how optical correlators combine light from multiple telescopes to produce ultra-high resolution interferometric images?
+
+This is a reference or resource-request because it may be too challenging to explain in an answer post, but if you'd like to attempt a short summary as well, that will be great!
+I have a basic understanding how correlators take down-converted radio signals from multiple dishes and build an image. Each dish delivers a 1 dimensional time-series of amplitude, and each pixel in the final image is somehow obtained through correlation of pairs of those signals (rathe than just summing all of them in simple interferometry) with specific time delays introduced for each dish corresponding to the position in the sky that that pixel will represents.
+These correlator computers are huge because the data is already massive and to keep up with the yearly throughput of the telescope they need to process it at near-real-time speed even if it could be recorded.
+The only exception I know of is the Event Horizon Telescope which collects data in short campaigns then allows for extended periods of time for analysis (and of course it takes a while to collect all the boxes of hard drives with the data)
+For more on radio telescope correlators see questions and answers:
+
+How does ALMA produce stable, mutually coherent ~THz local oscillators for all of their dishes?
+How would a Fast Fourier Transform Telescope work without a mirror, dish or lenses?
+Which techniques are used to convert radio signals received by antenna to images?
+How is the field of view of a radio telescope determined?
+Could mirrors be replaced with CCDs?
+How does the Event Horizon Telescope implement the interferometry?
+Is the delay to correlate the signal from one dish to another on a VLA radio telescope longer for red shifted objects?
+Would "layered" radio interferometry work?
+
+
+But there are big, mysterious-looking optical boxes
+that can combine light from several telescopes and produce images, and I haven't a clue how these work because of the potential added dimensionality: each telescope can potentially provide the amplitude from a small 2D section of their focal plane as a function of time.
+Question: I want to understand how optical correlators combine light from multiple telescopes interferometrically to produce ultra-high resolution images. I would like to read a few resources that explain the basics using mathematics, diagrams, simulations, etc.
+If one is up to it, a short summary, perhaps addressing the potentially higher dimensionality of the focal plane amplitude per telescope vs single-feed amplitude per dish of a radio telescope correlator would be great!
+
+From Was GRAVITY built to look at one star?
+
+Source
+
+A new instrument called GRAVITY has been shipped to Chile and successfully assembled and tested at the Paranal Observatory. GRAVITY is a second generation instrument for the VLT Interferometer and will allow(s) the measurement of the positions and motions of astronomical objects on scales far smaller than is was currently previously possible. The picture shows the instrument under test at the Paranal Observatory in July 2015.
+
+As mysterious-looking as a Guild Navigator from David Lynch's Dune:
+
+sharpened screenshot

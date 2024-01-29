@@ -1,0 +1,6 @@
+What would be the best inertial reference frame to describe objects in the solar system (other than the solar system's barycenter)?
+
+For the purpose of a project, I require the components that describe the inertial frame to be as independent as possible from solar system bodies itself. Since the solar system barycenter is itself determined by the positions and masses of the solar system bodies, it will not be a good choice.
+I was thinking that the frame that I want could be described by some nearby star that does not have planets of its own or else the galactic centre itself. 
+If such an inertial frame exists, I would like the same to be expressed in heliocentric cartesian coordinates.
+Any relevant thoughts would be much appreciated!

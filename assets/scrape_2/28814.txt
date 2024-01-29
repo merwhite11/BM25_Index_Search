@@ -1,0 +1,6 @@
+What experiment does this "Tracing the History of Starlight" video try to explain?
+
+The YouTube video Tracing the History of Starlight with NASA's Fermi Mission describes observation by the Fermi gamma ray telescope  of EBL (extragalactic background light) gamma rays from 2,000 Blazars. It seems to suggest that they used an attenuation measurement of the gamma rays to determine... I'm not exactly sure exactly what was determined by the investigation discussed in the video. 
+The attenuation is due to reverse pair-production, two photons in, and an electron-positron pair out. I am not sure if they measured 511 keV gamma rays from subsequent annihilation of the positrons, or attenuation of the primary gammas, and I am also not sure if the experiment was used to measure the primary gamma ray rates, or the total density of UV-Vis-IR light photons with which the gamma rays annihilated.
+Question: Is there a simple but physically clear way to explain all of this; the experiment the video is supposed to be explaining?
+How do they differentiate attenuation due to revere pair production from attenuation by say Compton scattering considering dust and gas?

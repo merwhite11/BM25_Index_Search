@@ -1,0 +1,18 @@
+(Wikipedia) UY Scuti: variable apparent magnitude, non-variable absolute magnitude?
+
+According to https://en.wikipedia.org/wiki/UY_Scuti
+
+Apparent magnitude (V)    8.29 - 10.56
+
+
+Absolute magnitude (MV)   −6.2
+
+UY Scuti, being a variable star, obviously has variable apparent magnitude; however why is the absolute magnitude a single value? Am I missing something i.e. does this have anything to do with the way UY Scuti is variable for instance being enshrouded in dust, or is it simply a Wikipedia error?
+A quick check of other pages also shows some inconsistencies:
+https://en.wikipedia.org/wiki/W_Virginis  (same as UY Scuti)
+
+Absolute magnitude (MV)   −3.0
+
+https://en.wikipedia.org/wiki/Mira (absolute magnitude flagged as variable)
+
+Absolute magnitude (MV)   +0.99[7] (variable)

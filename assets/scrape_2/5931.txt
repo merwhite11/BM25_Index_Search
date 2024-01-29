@@ -1,0 +1,6 @@
+What's an order-of-magnitude main sequence star look like?
+
+I'm looking for a very rough, order-of-magnitude approach to the main sequence.
+What I mean is, I have a spherically-symmetric hydrogen distribution. I'm looking to get a rough approximation for density $\rho(r)$, temperature $T(r)$, and pressure $P(r)$ given the total mass $M$.
+To do this, I need an equation of state. Then I need an approximation for the rate of fusion, which I can balance against the heat lost due to radiation (for which I can use Stefan-Boltzmann).
+So, how can I throw this into a back-of-the-envelope calculation that tells me that, e.g. solar mass stars should live ~10^10 years, without crunching on some differential equations?

@@ -1,0 +1,12 @@
+Is it possible for a person to not see the new moon at different places on earth?
+
+It is known that theoretically we see the same moon phase everywhere on the earth, but practically I see that people are unable to observe the 0.8% waxing crescent at different places on earth. This has some grave consequences as in some cultures like Jewish,Muslim and hindu moon sighting can mark beginnings of festive months. This link claims that different countries have different eid beginnings:
+
+In India, Muslims will celebrate the festival on Monday or Tuesday, depending on the moon's sighting. In Pakistan, Eid will be celebrated on Tuesday as there are no chances of moon to be sighted on 27 July, The News Tribe reported.
+  In the United Kingdom, Eid al-Fitr is likely to be celebrated on 29 July, according to timeanddate.com.
+  In the United States, Muslims will mark the beginning of Shawwal on 28 July, the Fiqh Council of North America, an association of Muslims which is affiliated with the Islamic Society of North America (ISNA), stated in a press release.
+  Muslims in Philippines will celebrate Eid on Tuesday as the official date of the end of Ramadan has been set as 29 July. The Philippine Government in their proclamation had declared 29 July as holiday throughout the country in observance of Eid al-Fitr.
+
+So the question is , is it really possible for people living in different part of the world to see or not see the new moon (0.8% waxing crescent) to mark their festive seasons at different dates?
+In other words do Automated calculations \ Lunar calendars give an exact picture of the moon sighting as viewed by a person on earth.
+Note : These cultures put personal observation of the new moon a pre requisite to mark the months hence the motivation of this question.

@@ -1,0 +1,8 @@
+Why were solar constant measurements before TSIS-1 all about 0.3% high?
+
+Phys.org's Solar energy tracker powers down after 17 years says:
+
+"The big surprise with TSI was that the amount of irradiance it measured was 4.6 watts per square meter less than what was expected," said Tom Woods, SORCE's principal investigator and senior research associate at the University of Colorado's Laboratory for Atmospheric and Space Physics (LASP) in Boulder, Colorado. "That started a whole scientific discussion and the development of a new calibration laboratory for TSI instruments. It turned out that the TIM was correct, and all the past irradiance measurements were erroneously high."
+"It's not often in climate studies that you make a quantum leap in measurement capability, but the tenfold improvement in accuracy by the SORCE / TIM was exactly that," said Greg Kopp, TIM instrument scientist for SORCE and TSIS at LASP.
+
+Question: What was it about either the past measurements or their analysis or calibration that made their measurements of the Sun's output about 0.3% high? What TSI's improvement primarily instrumental, or due to better calibration?

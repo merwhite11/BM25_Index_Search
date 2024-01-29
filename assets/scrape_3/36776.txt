@@ -1,0 +1,3 @@
+How is the field of view of a radio telescope determined?
+
+It’s my understanding that radio telescopes can only receive signals that hit the dish within a certain range of angles. How is that angular range determined i.e. measured and/or calculated?

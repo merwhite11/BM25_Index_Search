@@ -1,0 +1,20 @@
+Why aren't concentrated solar power plants use for astronomical observations of some type?
+
+Concentrated solar power plants use reflecting surfaces to gather the sun rays for energy production.
+
+Currently they sit idle at night and are not used for anything.
+These have huge collection areas, so I'm wondering why are they not used at night for astronomical observations of some type?
+Depending on the reflector type it can be as simple as raising a radio antenna on top of the tower.
+Pros:
+
+They already able to track celestial bodies in the sky.
+They already build. So extending them for a scientific use would cost a fraction of the cost compared to building a new radio array.
+They are huge.
+
+
+Cons:
+
+Limited Frequency Range
+
+I have always been fascinated by the ability of astronomers to extract information from a couple of pixels of data. So I think that this idea can be beneficial to the scientific community.
+What do you think? Am I missing something obvious that makes this impractical?

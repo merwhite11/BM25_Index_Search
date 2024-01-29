@@ -1,0 +1,8 @@
+What are the raisons d'être for the Large Binocular Telescope "binocularity"?
+
+edit: The short form of the question is Why are there TWO telescopes?? A longer version follows. 
+The Large Binocular Telescope (and LBT blog as source of images below) has two 8.4 meter diameter mirrors, allowing for the possibility of interference in one dimension.
+I'm aware that a single baseline, two-element stellar interferometer can be used to measure the separation between a pair of stars by looking at the Fourier transform of the intensity vs time of the interference. A single frequency peak is produced by one star, but if there are two close together, there will be "beating" in the time series that shows up as two peaks in the FT. 
+But I'm wondering if the LBT was designed and built with a plan to do more than that. Just for example, did plans include an ability to use interferometry to help reconstruct 2D images, or enhance the resolution beyond that which is already provided by the adaptive optics used in each half separately? Were there other plans or justifications?
+Possibly helpful; Current Status of the Facility Instrumentation Suite at The Large Binocular Telescope Observatory
+Open image in new window for full size:

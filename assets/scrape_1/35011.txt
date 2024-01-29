@@ -1,0 +1,4 @@
+How to install Distro Astro operating system?
+
+I've recently started a project on Galaxy spectroscopy for which I had to use IRAF software. During the search for IRAF software, I came across a platform which said that Distro Astro is a very good OS Amateur astronomer should check out. I have searched the internet for the procedure and am an amateur in OS installation and other stuff. 
+Does anybody know the detailed procedure of installing the software?

@@ -1,0 +1,4 @@
+Where can I find MITEoR 150 Mhz radio data?
+
+I was working on the Aladin Sky Atlas v12 software and while working on the radio data, I came across this Radio sky survey that said MITEoR 150 MHz. Initially, I mistook it to be GMRT because GMRT also operates on the same frequency range. Later I noticed that this survey is different; moreover, its data isn't available on Aladin as well.
+Hence, I wish to know if there is any source from where I can get the data of this sky survey and also if there's some way to upload the same onto Aladin software.

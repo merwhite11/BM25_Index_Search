@@ -1,0 +1,3 @@
+tidaly locked celestial body in three planet system
+
+If a Planet have 2 Moons (so suppose system of 3 bodies) and we say "One Moon is tidally locked to Planet" how can we say that it is tidally locked when Baricenter of 3 bodies has its trajectory?

@@ -1,0 +1,15 @@
+Exploiting symmetry in the axisymmetric Jeans equations
+
+I'm solving the axisymmetric Jeans equations to determine the initial conditions for an exponential disk inside an NFW halo. The density profiles of the two components are 
+\begin{equation}
+\rho_d(R,z)=\rho_{0,d}\exp\left(-\frac{R}{R_0}\right)\exp\left(-\frac{|z|}{z_0}\right)
+\end{equation}
+\begin{equation}
+\rho_h(r)=\frac{\rho_{0,h}}{r/r_s(1+r/r_s)^2}
+\end{equation}
+Due to the axial symmetry, for the meridional velocity dispersion we have
+\begin{equation}
+\sigma^2(R,z)=\frac{1}{\rho}\int_z^\infty \rho \frac{\partial \Phi}{\partial z'}dz'
+\end{equation}
+As the galaxy is symmetric about the disk plane ($z=0$), we would expect the distribution function at a distance $h$ above the disk plane to be identical to that at $z=-h$; in other words, if we flip the galaxy, the only difference will be a change in direction of particle motion, but not speed or dispersion.
+Therefore, can't we replace the $z$ in the limit with $|z|$?

@@ -1,0 +1,4 @@
+From Proxima b, could any planets around Sol be imaged directly by a strong telescope? If so, which ones would be easiest to spot?
+
+How strong would a telescope (and what kind of telescope) on Proxima Centauri b have to magnify to discern any planets around Sol, and which planets would be easiest to spot? One might think the farther the better which would make Neptune observable most easily, but on the other hand farther-away planets are less illuminated, maybe too dark. This makes Jupiter an easier observable candidate, but it is 1/6 the distance of Neptune from the Sun which would make it harder to discern. I think no solid planet would be observable directly.
+I also wonder which planets have the correct size and distance to Sun to be recognized by the transit method from Proxima b, rather than by direct imaging.

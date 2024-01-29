@@ -1,0 +1,6 @@
+How to draw galactic coordinate grid?
+
+For my story, I need a galaxy map with star positions in the galactic coordinate system. 2D with a view of the galaxy from above would be enough.
+I have gathered data from Atlas of the Universe and Wikipedia and continue to search for sources.
+The issue for this question is: how to draw a galactic coordinate grid? Preferably using not too complicated computer software.
+I have tried to do it in MS Excel graphs, but none is adequate for my purpose.

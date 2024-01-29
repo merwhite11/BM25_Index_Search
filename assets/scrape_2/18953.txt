@@ -1,0 +1,13 @@
+Why is there a density dropoff in the stellar winds of magnetic O-type stars?
+
+I recently went to a talk on X-ray emissions from stellar winds of O-type stars, and a paper was explored that in turn referenced ud-Doula et al. (2014).
+Essentially, O-type stars may show strong x-ray emission due to radial shocks in their stellar winds. In general, the winds are isotropic, and so emission is assumed to be spherically symmetric neglecting rotational effects. However, certain O-type stars (e.g. NGC 1624-2) have strong magnetic fields; this means that outflows are channeled into rather narrow beams within a few stellar radii, which eventually spread out.
+X-ray emission is characterized by a parameter $X_{T_x}$
+$$X_{T_x}\equiv\rho^2\exp(-T_x/T)$$
+for density $\rho$ and temperature $T$, with a threshold temperature of $T_x$. Simulations place most of the emissions in a rather narrow spot near the star, because while there are indeed high temperatures experienced all along a beam extending outward from the star, the density quickly falls off, as shown in Figure 4:
+
+
+From left to right: Logarithmic density, logarithmic temperature, and x-ray emission.
+Why does the density drop off so quickly? I would expect that the channeling of more of the wind into a small beam would lead to a rather steady radial density profile along it, as is the case with the temperature graph.
+
+This is unrelated to the question, but I'll add that the temperature isn't really constant. 1D and 2D simulations of spherically symmetric show varying behavior due to repeated shocks inside the wind, and I would expect the same to be true here.

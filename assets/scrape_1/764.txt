@@ -1,0 +1,11 @@
+Timescale of ignition of a protostar?
+
+What is the timescale of start of nuclear fusion as T Tauri type star transforms into a Main Sequence star?
+Wikipedia article on T Tauri type stars mentions:
+
+Their central temperatures are too low for hydrogen fusion. Instead, they are powered by gravitational energy released as the stars contract, while moving towards the main sequence, which they reach after about 100 million years.
+
+The mentioned 100 million years is the period of the star being in its stable (well, as stable as the turbulent T Tauri type stars get) state without nuclear fusion. Then, once the fusion starts, we get between 3 million and hundreds of billions years of main sequence, depending on mass of the resulting star.
+What I'm interested is how long is the period of transition between the two - ignition of the nuclear reaction - time between "all energy produced by gravitational contraction" and "most of energy produced by nuclear fusion".
+I imagine this period could be quite short, and the effect quite rapid and turbulent as the initial fusion increases local temperature (and as result pressure) drastically, leading to conditions conductive for fusion spreading rapidly over the volume which is already on brink of entering the fusion everywhere within the protostar, essentially a nuclear wildfire encompassing the gathered gas, a chain reaction starting.
+Am I right in my guess this process is rather rapid? Was it ever observed? Or contrary, does the intensity of the fusion reaction rise gradually and slowly from zero over many millions years of star formation?

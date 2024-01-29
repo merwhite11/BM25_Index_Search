@@ -1,0 +1,6 @@
+Can protoplanetary disks form main-sequence stars?
+
+As has been pointed out by @Envite in the context of a more general discussion (see Generalised planets?), there seems to be a moderate possibility for protoplanetary discs forming main-sequence stars (MS stars).
+Main argument here is that Jupiter has mass of about $10^{-3}M_\odot$, while in principle for an object to be a MS star, it would need the mass of at least about $0.07M_\odot$. Also, there is a handful of systems, such as HD 29587, which contain a star and a brown dwarf, possibly forming from a protoplanetary disk.
+Hence, a few questions. Can low-mass MS stars form in protoplanetary discs? If no, why? If yes, how often does it happen? If yes, which implications would it have for the subsequent dynamics of the planetary system, if one of the objects became a MS star, as opposed to it being a brown dwarf?
+Again, thanks to @Envite for the idea.

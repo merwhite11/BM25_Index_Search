@@ -1,0 +1,12 @@
+What is the relation between size (radius) of an astronomical object and the speed of oscillation of 'light' coming from it? (Strength/amplitude)?
+
+From the year-end issue of New Scientist Magazine (Dec. 18-31,2021):
+Astronomy:
+'Space Cow' explosion was probably a failed supernova'
+Page 10:   'They found that the strength of this radiation oscillated up and down every 4.4 milliseconds.  As a general rule, the speed of oscillation of light coming from an object in space is proportional to its size, so the researchers calculated that the object at the centre of the Cow must be no more than 1300 kilometres across' (Nature Astronomy, DOI: 10.1038/s41550-021-01524-8).
+.
+.
+.
+.
+Is it the amplitude or the frequency of the 'light' that varies based on the apparent diameter (not mass?) of the object?
+And is the oscillation of the strength/ amplitude directly or inversely proportional to the diameter/radius of the astronomical object?

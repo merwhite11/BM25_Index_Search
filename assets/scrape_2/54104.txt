@@ -1,0 +1,10 @@
+analemma for a specified lat/long at a specific time of day?
+
+I have in mind to do a yearlong photo project of the solar analemma.
+Can someone suggest a software program that will provide (& chart) the altitude and azimuth of the sun, for a given location, at a given time of day throughout the year?
+I’d like a graph, and perhaps a table of values.
+For example, for Dennis di Cicco’s famous analemma photograph, taken from Boston, at 8:30 AM (throughout the course of a year), the parameters would be
+Boston (42.3601° N, 71.0589° W), and
+8:30 AM (13:30 UT).
+I would like to be able to use a different location and time of day than the di Cicco photograph.
+(I have Stellarium on my iphone, if there’s a way to use it).

@@ -1,0 +1,12 @@
+How did early estimates of a "potato radius" set 1 eV ~ GMμ/R and get 200 to 300 km?
+
+@DavidHammen's answer explains that Goblin has roughly a potato radius and I can't believe I just wrote Goblin and potato in a serious question. That happened.
+The linked paper; The Potato Radius: a Lower Minimum Size for Dwarf Planets (Lineweaver & Norman 2010) says:
+
+Derivation of the Potato Radius
+One could begin, as the author did initially, by setting the gravitational acceleration at the surface of a body equal to the acceleration needed to undo the electronic bonds. But this is not what we want since it is equating surface gravity with the force needed to crush rocks. The Earth is spherical but its gravitational pull is not so strong that it crushes rock at the surface. One has to go down ~10 or ~20 kilometers before the overburden pressure can do that.
+To our knowledge, the published derivation of something most analogous to the potato radius is in Chap. 1.2.1 of Stevenson (2009). Focusing on energy (not force or pressure) the electronic bond energy of ~ 1 eV is set equal to the gravitational energy ~ GMµ/R where µ is the mass of the particle in question and R is the radius of the object. The result is a radius of a few thousand kilometers for a rocky body and ~ 1000 km for an icy body. This was meant to be only an order of magnitude calculation. We try to improve on it below.
+
+We have there
+$$1 \text{eV} \approx \frac{GM\mu}{R} $$
+1 eV is about 1.6E-19 Joules and $G$ is the gravitational constant, but how to I use this to arrive at a potato radius $R$ of about 200 to 300 km? I can read the words in the quote, but I don't understand how to proceed.

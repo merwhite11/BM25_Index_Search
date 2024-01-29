@@ -1,0 +1,8 @@
+Under what situations can an aperture mask improve the resolution of a small/medium amateur telescope? Is this demonstrable mathematically?
+
+@antlersoft's answer describes some of the challenges to seeing any details in the small disk of Mars in small amateur telescopes. In the case of reflecting telescopes, it mentions the use of either an off-axis parabolic mirror, or an off-axis aperture mask on a standard Newtonian to produce a clear unobstructed view. 
+The answer links to a short article on the amateur telescope site BBAstroDesigns which is titled Off-Axis Masks: Light Reduction and Resolution
+If I understand the explanation correctly, besides the light reduction function, the off-axis masking excludes the secondary mirror and support, thereby removing diffracted light.
+I'm a bit surprised that for amateur viewing on Earth that diffraction from a Newtonian or Cassegrain's secondary mirror and supports would really have any impact on resolution of small extended objects like Mars. The example in the article is a 16 inch telescope. I would have thought that seeing would be the limitation, but maybe for bright objects a smaller diameter (1/3 to 1/6 of the full aperture) is actually better? 
+Is it possible to explain the physics/optic behind the use of off-axis apertures to improve resolution as discussed in these links?
+If possible, can a bit of math be used to demonstrate this quantitatively and convincingly?

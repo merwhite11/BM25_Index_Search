@@ -1,0 +1,5 @@
+Calculation of right ascension and declination
+
+I am confused about this problem:
+If I see an object from Mount Teide (longitude is 16"30'E and latitude is 28"18'N) that passes the meridian (azimuth=0) at 5h (am) UTC, and I also know that the elevation of the star is 43"40', the stellar time at Greenwich at 0h UTC is 22h20min.
+How can I calculate the right ascension and declination?

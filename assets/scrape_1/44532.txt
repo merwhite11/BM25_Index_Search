@@ -1,0 +1,4 @@
+How can Hawking radiation consist out of photons?
+
+It is assumed in some explanations that Hawking radiation origins in virtual particle pairs getting real near the horizon of a black hole (the tidal force tearing them apart). But how can this be when there are no virtual photon pairs (as the photon is its own anti particle).
+Do the photons simply emerge from real particles and anti-particles annihilating each other? The difference with Unruh particles that Unruh particles are not real (or existing only at infinity which is basically the same)?

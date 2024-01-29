@@ -1,0 +1,6 @@
+Star and Planet temperature relationship
+
+Let's assume there is this planet with no atmosphere, no geothermal activity and an average temperature $\ T_p$.
+Now, if the distance between the planet and the star is $\ d$ and the radius of the star is $\ r$ , how do you express the temperature $\ T_s$ of the star?
+I can't figure out whether the Stefan-Boltzmann law is the appropriate thing to use here.
+Thank you!

@@ -1,0 +1,7 @@
+What are the pros and cons of different types of echelle spectrograph cross-dispersers?
+
+Echelle spectrographs, operating at high resolving power, typically consist of an echelle grating with a low numbers of lines/mm, used with high diffraction orders (often $n=$50-100). To separate the orders on the detector, the spectrum is "cross-dispersed" in a direction perpendicular to the echelle dispersion direction.
+The cross-dispersing element can be another diffraction grating or it can be one or more prisms. Spectrographs using one or other of these solutions are in routine operation around the world. e.g. MAESTRO at the MMT uses prisms; Veloce-Rosso on the AAT uses a grating; the UVES spectrograph on the VLT uses a hybrid "grism".
+What are the pros and cons of prisms vs gratings as cross-dispersers? Is it throughput, the amount of cross-dispersion, the compactness of the design, what wavelengths you want to work at, etc?
+Note this is closely related to Why does X-shooter use double passes through prisms for Echelle cross-dispersion instead of gratings? , which asks specifically about the Xshooter instrument on the VLT. I want a more general answer.
+Bumped because someone thought it worth a downvote.

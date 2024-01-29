@@ -1,0 +1,3 @@
+How are the masses of celestial bodies determined?
+
+I was scrolling through the list of moons of Jupiter and I wondered how astronomers where able to determine the masses of those objects. When I tried to google it I meanly found results of people deriving the mass of Jupiter from the masses of its moons using Kepler's laws. So the mass of celestial bodies with satellite(s) can be estimated this way. But what about the rest? Or are they all derived from the trajectories of man-made satellites passing near them?

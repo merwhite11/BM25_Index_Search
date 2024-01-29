@@ -1,0 +1,4 @@
+Stromgren photometric data in Vizier
+
+Is there a catalog in Vizier that provides Stromgren photometric data for stars, (the all four uvby, not just the indices b-y, m and c)
+I would like to try the photometric transform given in my book, for instance , $V = y - 0.12[(b-y) - 0.55]^2$ however, the two catalogs I've consulted, Paunzen, 2015 and Hauck, 1997 only provides the indices. Do these catalogs provide the uvby magnitudes as well, just hidden somewhere? Are there any catalogs that would provide the above photometric magnitudes? Thanks!

@@ -1,0 +1,15 @@
+How to calculate local position, knowing the RA and Dec of the center of an image, RPY of the camera, and precise time?
+
+Given a picture of stars - assume it is possible to identify the stars and their Right Ascension (RA) and Declination (Dec).  By choosing one near the center of the image (or interpolating RA/Dec to the center) the effective "pointing angle" of the camera would be known.
+With the RA/Dec of the camera, plus the Roll (R), Pitch (P), and Yaw (Y) of the camera, and the precise time (TAI, UTC, and/or UT1) the picture was taken... how would a location calculation of where the camera was on Earth when it was taken be possible (assume it is possible).
+It seems like it would be a simple coordinate transformation, however understanding how time affects the calculation isn't clear.  I can't find a simple resource of algorithms to find one close enough.
+ETA: Roll, Pitch, and Yaw could be found in a few different ways... in my current case I took a good first initial "guess" and then plotted an overlay of stars based on perturbing the initial first guess until the stars overlaid well over the image (of course, this required I knew where the picture was taken!)  However, it is also possible to know R,P,Y based on a local gravity vector and inertial mechanics (a simply INU)... which is where I would eventually like to get to.
+The RA and Dec is currently found using http://astrometry.net/ by uploading the picture they returned astrometric meda-data.
+Here is an example set of numbers:
+R=10.7deg, P=63.1deg, Y=-174.8deg
+Time=2016,Oct,1,0hr,31m,28s
+Leap Secs=36 GPS-TAI
+UT1-UTC = -0.28
+Center of Image (~pointing vector of camera)
+RA = 90.7 (6h,2m,53.422s), 
+Dec=3.56(3deg, 33' 24.95)

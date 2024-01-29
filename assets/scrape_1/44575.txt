@@ -1,0 +1,6 @@
+Error of bisector method
+
+How to determine the error of bisector velocity span? I have found the article below, but I do not know what all quantities mean. What is the number of lines in the mask? How to find out x? How to determine the slope dF/dV? Should it be the slope of a linear fit of the profile between top_f and bot_f or top_i and bot_i? What if the slope is different on both sides of profile?
+
+
+Source: Martínez Fiorenzano et al. 2005

@@ -1,0 +1,14 @@
+Redshift distance proportionality at high Z and need for "mighty mouse" galaxies?
+
+Allegedly supported by some evidence from the new James Webb space telescope physicist Eric Lerner has written an article that have garnered some attention. He writes that:
+"Put another way, the galaxies that the JWST shows are just the same size as the galaxies near to us, if it is assumed that the universe is not expanding and redshift is proportional to distance."
+He claims that according to an old article that he has gotten published in a serious journal, if you assume distance increases proportionally to distance, surface brightness stays essentially constant up to a redshift of z=5 and that James Webb shows that this holds up to z=12.
+He also claims that according to a recent paper the galaxy "GHz2"1-3 must have a surface brightness 600 times higher than any known "close" galaxy if the model theoretical cosmologists use to predict distance from redshift is used. He concludes by stating:
+"Big Bang theorists have known for years from the HST images that their assumptions necessitate the existence of these tiny, ultra-dense “Mighty Mouse” galaxies."
+Now is Eric Lerner correct? Can he be refuted? Do you get a lot of strange small but luminous "might mouse galaxies" if you use the standard "distance as a function of redshift expression" that cosmologists use and do you get rid of the need for these galaxies if you assume that distance increases proportional to redshift? Is he factually correct that surface brightness stays constant up to a redshift of z=12 if you assume redshift increases in proportion to distance? Is Lerner "cherrypicking" from observations to get the result he wants?
+Question: Do the results from the James Webb telescope point in the direction that redshift might increase linearly with redshifts because then you get about the same galaxy sizes and surface brightnesses as in the local universe also for highly redshifted "high Z" galaxies?
+
+
+1Early results from GLASS-JWST. III: Galaxy candidates at z ∼9-15
+2The Atlantic JULY 22, 2022 The Webb Space Telescope Is a Time Machine
+3Wikipedia: GLASS-z13

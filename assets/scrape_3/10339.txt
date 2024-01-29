@@ -1,0 +1,4 @@
+How can I calculate how the debris of an object ripped apart at the Roche limit will spread out?
+
+Let's say I have a moon orbiting a planet at a distance $d$. Eventually, $d \leq d_R$, where $d_R$ is the Roche limit of the moon-planet system. I can figure out the mass of both bodies by experiment, as well as their radii, and thus their density (which is how I can calculate the Roche limit).
+I'm curious as to how the debris will spread out, though, once the moon is ripped apart. Can I calculate the inner and outer radii of the newly formed ring, based on what I know? Or is there not a direct relationship between these radii and the initial conditions?

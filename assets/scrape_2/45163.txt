@@ -1,0 +1,60 @@
+How to calculate eclipses on a planet in a binary star system
+
+I posted this question on the physics page but decided it might be best if I post it here instead as it may be a more astronomy related question. I also haven't received any answers over there so far so I might as well give it a try here!
+I have recently been playing a lot of a game called “Space Engine” and found a planet of interest. The planet is in a binary star system and it raised a few questions in my mind:
+How could one calculate eclipses on a planet like this one, Where the planet has one moon, and orbits two stars?
+More Info:
+Every so often--roughly every 5 years--the moon (this planet has a single moon) is in a position to cause a partial eclipse on the planet (ie blocking only one star). If you’re lucky, you may even witness a total eclipse where both stars are blocked. A full Synodic period for this planet is almost 11 years. Sadly, I have yet to find a method to find out when such anomalies will occur next which is why I am here.
+As of now, I know that eclipses occur roughly every 5 years. I do not know the month or the day or if there will be a total eclipse where both stars are blocked in a given year.
+So far, I used this page To find the Saros period. Unfortunately, my calculations were off (can this page even be used for a double star system?). These sets of equations are also geared towards a moon that is on the same orbital plane as our moon which is not the case at all with this fictional moon and system.
+A picture is worth 1,000 words so I will provide one here rather than further describe the star orbit:
+
+SO, after all that, I will repeat my questions so there is no confusion:
+1: Is there a way to calculate when eclipses will happen in this star system?
+2: Is there a way to calculate if it will be a total eclipse (given the positions of the stars, center of mass etc.)?
+
+
+Any help would be greatly appreciated :)
+I can provide any more information that is needed. The game is quite advanced; orbits are simulated and so is gravity. From what I can tell this is “as close as it gets” for a video game. Information regarding the orbits, masses, gravity, velocity and everything in between can be found within the game and provided here.
+Nonetheless, I want to know how to do this just for fun even if it can’t be predicted within the game
+Here is the wiki pages for the game:
+*https://en.wikipedia.org/wiki/SpaceEngine (wiki page)
+https://se-database.fandom.com/wiki/Space_Engine_Database (planetary database)
+http://spaceengine.org/ (main website)*
+Once again thank you in advance :))
+As a side note: I am referring to a solar eclipse that can be seen on the surface of this planet where one or both stars are blocked by the moon that orbits
+EDIT:
+The planet orbits both stars. As do the other planets
+Here is some more information regarding the system and the planets. There is a rather large Neptune like planet nearby which could be affecting the planet if this is something that needs to be taken into consideration. Below are some more images/gif animations to show the system in more detail. I will also provide some more details about the planet's inclination, diameter, mass, distances, etc. I will also provide the same details for the moon in question and the nearby Neptune like planet. The moon also appears to be affecting the orbit of the planet! Because of this, the planet has a slight wobble which is also shown below
+Planet Orbit (Planet orbit is highlighted in pink; the nearby Neptune planet is the next orbit):
+
+Planet Wobble (most likely because of moon orbiting close by, its mass is is about half of the moon's but it is much closer at a distance of 83,799 km or 52,070 mi):
+
+Moon Orbit Showing Eclipse (as mentioned before, every 5 or 6 years the moon goes through a cycle of eclipses blocking each star roughly 5 times depending on their positions):
+
+Planet Data (gathered from game):
+Inclination: -1 degree
+Orbital Period: 10.802 years
+Pericenter/Apocenter: 8.7571 AU/10.0095 AU
+Mass: 0.16163 M⊕
+Moon Data:
+Inclination: 0 degrees
+Orbital Period: 7.205
+Diameter: 2,556 km or 1,588 mi
+Mass: 0.55884 Lunar Mass or 0.00687 M⊕
+Distance to Planet: 83,799 km or 52,070 mi
+Neptune Planet Data:
+Inclination: 0 degrees
+Orbital Period: 7.205
+Mass: 13.569 M⊕
+Diameter: 361,859 km or 224,849 mi
+Orbital Period: 15.481 years
+Pericenter/Apocenter:11.0257 AU/12.8287 AU
+Distance to Planet: 15.37 AU
+Hill/Sphere of Influence: 0.14 AU/0.10 AU
+This is just to give an idea of what this system is like. There are many planets in it but the closest is the Neptune like planet. Who knows if this problem is even solvable....
+We can also say that the game uses Keplerian orbits for simplicity; although this page (http://spaceengine.org/news/blog180817/) has a quote that confuses me slightly:
+
+Previously, SpaceEngine used Kepler orbits – they are a good approximation of the motion of a planet around the Sun (or of a moon around a planet) without any perturbations. But the real Solar system is not so simple, we have multiple planets and moons which pull each other with their gravity.
+
+I think this can be ignored for simplicity sake because it is more talking about our solar system not this procedurally generated one. Additionally, I am not sure that the engine is advanced enough to simulate exact orbits

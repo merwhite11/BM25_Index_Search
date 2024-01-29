@@ -1,0 +1,8 @@
+Vmag versus VpgMag in GSC 2.3 catalogue
+
+I tried to find out the magnitude in V for V* V881 Per.
+Here are my results:
+SIMBAD: $11.09$    (Fluxes->V)
+GSC 2.3: $10.9815$  (VpgMag) and  $10.887$   (Vmag)
+Which of VpgMag or Vmag in GSC 2.3 correpsonds to SIMBAD V-flux?
+For each star GSC 2.3 cites two values for magnitude in V so which of the two should I use?

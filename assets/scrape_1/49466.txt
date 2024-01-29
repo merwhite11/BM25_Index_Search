@@ -1,0 +1,5 @@
+How to plot matplotlib plots as tables in python(hdf5 tables)
+
+I have extracted the data from a fits file and plotted a spectra.i need to do the same for multiple fits files .how can I  store the resultant spectra's  as a hdf5 table or fits table?
+And which format is better for storing such datas
+Please help !

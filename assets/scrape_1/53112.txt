@@ -1,0 +1,8 @@
+What phases of a moon orbiting Proxima Centauri b could be seen?
+
+Assuming a moon like Earth's natural satellite would be orbiting the Proxima Centauri b at a similar distance, what moon phases could be seen from the planet's surface at coordinates 0;55?
+Adding details:
+Proxima Centauri b orbits Proxima Centauri at a distance of 0.04856 AU. It is in a habitable zone due to Proxima Centauri being a red dwarf with significantly lower luminosity than Earth.
+But due to the short distance, the planet is tidally locked to its host star, and the same side is permanently facing the star. That, I assume, would constrain what moon phases could be seen from a particular point.
+The coordinate system is similar to Earth's, with latitudes going from the equator up/down towards the poles and longitudes connecting the poles. Thus, in this case, latitude 0 is the equator, and 55 is Eastern or Western (it doesn't really matter as the star's position in the sky is permanent) longitude.
+The hypothetical moon is similar in size and mass to the Earth's Moon and orbits the planet at a similar distance. As the planet has more mass than Earth, the moon orbits it in 575.3 hours. I don't know the moon orbit's relation to the planet's equatorial plane yet.

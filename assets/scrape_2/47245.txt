@@ -1,0 +1,4 @@
+What is sin i in this graph and why is it there?
+
+
+This is some data presented in a lecture on exoplanets that depicts the distribution of the sizes of super-Earths in comparison to the mass of Jupiter. I would like to know what the argument of the sine function i.e. 'i' implies and why it was multiplied by the mass of Jupiter.

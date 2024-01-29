@@ -1,0 +1,7 @@
+Divide a star catalogue to optimize star search
+
+I'm continue working on my Planetarium software and I have a doubt.
+At this moment my star catalogue is very small, but I'm planning to use a bigger one. To optimize the search inside this catalogue I think I have to divide it in regions.
+These regions will be delimited by right ascension and declination.
+Using stars' right ascension and declination, how can I divide the sky to optimize my search?
+I want to retrieve all stars visible at this moment. Maybe not all of them, only the visible by the user. For example, if user is looking to the North, he/she won't see the stars at the South. The region will be the area visible by the user at this moment, and I want to get all stars for that given region using also a limit magnitude.

@@ -1,0 +1,4 @@
+How many galaxies are currently merging?
+
+On the homepage of the galaxies research group at CfA SAO, it states, "Astronomers discovered that as many as 25% of galaxies are currently merging with others." They do not provide a reference for this statement. I'm wondering what scientific articles demonstrate this expectation?
+More specifically, is this expectation purely based on theoretical calculations from e.g. cosmological simulations of the Universe, or is it motivated from observations of merging galaxies?

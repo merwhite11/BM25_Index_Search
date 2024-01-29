@@ -1,0 +1,3 @@
+How can we avoid needing a leap year/second?
+
+Given the Earth's current speed around the sun and current rate & axis of rotation, what is the best way to keep time to avoid a leap year? How many hours should we have in the day and days in a year would keep things balanced to not need to add or remove days from the year? Further, how many minutes per hour and seconds per minute should we have to avoid a leap second?

@@ -1,0 +1,19 @@
+What is the LSST's plan to address frequent satellite trails in data?
+
+update: From Nature.com News article: SpaceX launch highlights threat to astronomy from ‘megaconstellations’:
+
+But an upcoming, cutting-edge telescope could be in bigger trouble. The US Large Synoptic Survey Telescope (LSST) will use an enormous camera to study dark matter and dark energy, asteroids and other astronomical phenomena. It will survey the entire visible sky at least once every three nights, starting in 2022. Because the telescope has such a wide field of view, satellites trailing across the sky could affect it substantially, says Tony Tyson, an astronomer at the University of California, Davis, and the LSST’s chief scientist.
+He and his colleagues have been studying how up to 50,000 new satellites — an estimate from companies’ filings with the US government — could affect LSST observations. Full results are expected in a few weeks, but early findings suggest that the telescope could lose significant amounts of observing time to satellite trails near dusk and dawn.
+
+
+In the 2011 Sixty Symbols video Spy Satellites (from Deep Sky Videos) after about 01:40 amateur astrophotographer Nik Szymanek says:
+
+One thing I find when I’m out here imaging, by pointing the telescope at that part of the sky sort of south east at this time of night (early evening) there does seem to be a lot of satellites picked up by these images, and even on this 60 second exposure you can see we’ve got another satellite image there.
+Well I mean satellites can be a problem for a deep sky imager in that if you’re using a telescope that has quite a wide field of view and you’re taking fairly long exposures, like five minutes or ten minutes, then at some point during that exposure it’s quite likely a satellite will be recorded passing in front of the image.
+In fact a recent image that I’ve taken of the Andromeda galaxy with a refracting telescope actually recorded five satellite trails in a five minute exposure, so that gives you a good idea just how crowded the skies are with all these satellites are in orbit.
+
+To me "using a telescope that has quite a wide field of view... taking fairly long exposures like five or ten minutes..." is a good description of how the Large Synoptic Survey Telescope (main site) will operate. Granted the exposures may be closer to 15 seconds than 5-10 minutes, but on clear nights it will be imaging almost continuously for high throughput. The FOV is about 3.2 degrees, so "wide field" applies.
+Question: Has a plan or strategy been outlined or established to reduce the number of bright satellite trails that appear in LSST perpetual sky surveys, and/or to process images to remove the trails or at least flag pixel regions that contain likely trails?
+Nearly every satellite and other large object in low Earth orbit is catalogued and it's position versus time can be predicted to a few kilometer accuracy (7km/400km is about 1 degree for example) and the object being in sunlight or dark can be likewise calculated, so one could conceivably adjust the exposure sequence to avoid some of the brighter ones and predict where they are likely to appear in data. So I'd be surprised if nobody has addressed this in a formal way yet.
+
+  LSST from here

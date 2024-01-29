@@ -1,0 +1,3 @@
+What are the current observational limits on the existence of Dyson spheres/swarms/rings?
+
+A Dyson sphere/swarm/ring is a hypothetical structure an extra-terrestrial entity would construct to collect a large fraction of its host star's light, and would likely generate a fairly strong infrared signature that could potentially be detected by modern infrared surveys (such as WISE). Do we have any meaningful constraints on the existence of these structures within the Milky Way (or beyond) from these surveys? What sorts of natural phenomena could be confused with such structures, if they existed?

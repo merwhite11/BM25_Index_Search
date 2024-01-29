@@ -1,0 +1,4 @@
+Orbit of Luhman 16?
+
+I am studying some binary stars and brown dwarfs. Some orbits are known and easy to find, like Alpha Centauri. However, when I look for the orbital characteristics of Luhman 16 (AB), I only get the right ascension and declination of the entire system. I can convert that to $(x,y,z)$ coordinates, but is there any defined orbit for Luhman 16 AB?
+I've tried looking it up on Arxiv, but the results do not give any information regarding their orbit. Is there any resource that provides information about this subject?

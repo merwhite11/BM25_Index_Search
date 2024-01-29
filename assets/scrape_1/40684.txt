@@ -1,0 +1,8 @@
+Why could Quasi-stars ("black hole stars") have only existed when everything was hydrogen and helium? (no metal "contamination")
+
+This informative answer to What was the absolute limit to the possible sizes of the first stars formed from “primordial material with no metals”? led me to Wikipedia's Quasi-star; Formation and properties which says:
+
+A quasi-star would result from the core of a large protostar collapsing into a black hole, where the outer layers of the protostar are massive enough to absorb the resulting burst of energy without being blown away or falling into the black hole, as occurs with modern supernovae. [...] Formation of quasi-stars could only happen early in the development of the Universe, before hydrogen and helium were contaminated by heavier elements; thus, they may have been very massive Population III stars.
+
+But neither the answer nor Wikipedia plainly state just what it is about the presence of metals that would make Quasi-stars impossible, such that if they ever did exist it would only have been in the early universe.
+Question: Why could Quasi-stars ("black hole stars") have only existed when everything was hydrogen and helium? (no metal "contamination")

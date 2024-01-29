@@ -1,0 +1,13 @@
+How many nested stable (1 Mio years) orbits are theoretically possible?
+
+If we look at our solar system we have the sun which has planet orbits and planets have moon orbits.
+If we look at the possible size difference from hypergiants to small asteroids why shouldn't it be possible to nest orbits to an astounding degree: supergiant orbit a hypergiant, star orbits supergiant and so on ?
+My first guess is that the size and distance must be so small in contrast to the primary that the gravitational gradient of the primary does not cause too much disturbance, but it should be possible.
+Has anyone tried to find it out with celestial mechanics ? While it may be completely theoretical, it is IMHO a solid question and it would be nice to find out how deep celestial bodies can be nested and how it limits stability.
+Some conditions:
+
+The orbits should be (very probably) stable for one million years.
+Hypergiants are burning fast, so I limit the stability for a relative short timeframe.
+The barycenter of both satellite and its primary are inside the primary.
+No double system.
+The first primary should be a star, not a black hole or a neutron star.

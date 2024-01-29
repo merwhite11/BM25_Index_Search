@@ -1,0 +1,7 @@
+Geographical Substellar position calculation from RA/DEC
+
+I was trying to help my son with a project and thought it shouldn't be hard but turned out I'm not as smart as I thought I was.
+His project is about celestial navigation. The first step is, given the J2000 ra/dec of a specific star and a UTC time of observation first find the geographical lat/lon ground point (substellar point) for the star.
+My assumption was lat = dec and lon was simply the ra - sidereal time from UTC time. So we knocked up a simple program to perform this. Then we used Stellarium (with refraction off for now) to test the output. And the star is indeed overhead but it is always off by a number of minutes. I suspected precession but that seems to be measured in arcseconds per year?
+So now I realise my simple assumption isn't correct, only approximate. Could someone more knowledgeable please fill the gap in my knowledge.
+Thanks in advance.

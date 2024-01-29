@@ -1,0 +1,16 @@
+Keplers laws and this question
+
+A planet (mass m) is orbiting a star
+(mass M) at a distance a. The distance of the star from
+the centre of gravity of the system is a'
+. Show that
+$$
+MP^2 = a^2(a-a')
+$$
+So first we can assume that $M >> m$
+so now we get keplers third law as $MP^2 = \text{distance to the center mass}$ of the two objects
+so if we then solve for the planet-Center of mass distance it equals $(a-a')$
+wont that make the final equation $MP^2 = (a-a')^3$
+and not $MP^2 = a^2(a-a')$
+so what seems to be the problem in my attempt and why cant I get the correct answer.
+the question is taken from fundamentals of astronomy 5th edition springer publication exercise 9.2

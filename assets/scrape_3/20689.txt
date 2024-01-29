@@ -1,0 +1,7 @@
+Where can I find detail on interpreting the exo-planet transit-data graphics used in the Zooniverse Project?
+
+I'm participating in the Zooniverse Exoplanet-explorers project (transit method), which provides only minimal guidance on interpreting their light curve and transit data graphics, as visible here:
+ https://www.zooniverse.org/projects/ianc2/exoplanet-explorers/classify
+Can anyone point me to source(s) that will help me read these graphs in detail, pls?
+(Re own comment below, suggest view Weird example)
+UPDATE: Just located NASA Exo-PLanet Archive which looks like it might hold what iSeek. But further recommendations would be appreciated.

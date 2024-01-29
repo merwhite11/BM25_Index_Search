@@ -1,0 +1,4 @@
+What's a good example of published astronomy pipeline coding libraries
+
+I am a software engineer and I am preparing a presentation to aspiring astronomy PhDs on how to use best-practice software engineering when publishing code (such as include documentation, modular design, include tests, ...). In particular my presentation will be focused on publishing "pipeline" code, that is, code that is mainly focused on extracting and transforming data from a particular dataset to a suitable shape for analysis.
+I am trying to find good example of published astronomy pipelines that I can point students to, but as I am not a astronomer I am struggling to do so, so would like your help. It doesn't matter if the published pipeline is super-niche or not very popular so long as you think it is engineered well so that I can look it up.

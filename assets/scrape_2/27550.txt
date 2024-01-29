@@ -1,0 +1,62 @@
+Need help with the calculations/conversion of a celestial object
+
+I'm developing a telescope controller open-source application. I started this project with a very little knowledge of Astronomy.
+Basically, the app is going to send data to telescope over a wireless connection.
+
+Data of the celestial object is as follow:
+["SAO#": 308,
+"HD": 8890,
+"Con": "Alpha Ursae Minoris",
+"StarName": "Polaris",
+"RAH": 2,
+"RAM": 31.812,
+"DED": 89,
+"DEM": 15.85,
+"Mag": 2.02,
+"PRA": 0.038,
+"PDec": -0.015]
+
+RAH = RA hours, RAM = RA minutes,
+DED = Dec degrees, DEM = Dec minutes
+(PRA and PDec are the drift of the star in arc-seconds per year (from the catalog Epoch J2000.0). I don't need to use these in the app, that I'm told.)
+The controller server (data receiver) accepts in this format:
+Set target RA- HH:MM:SS,
+Set target Dec- DD:MM:SS,
+Set target Azm- DDD:MM:SS,
+Set target Alt- DD:MM:SS
+
+I would want to convert the given celestial object data to Ra, Dec, Azm, Alt.
+I'm told that:  
+RA = ((RAH + (RAM / 60.0)) * 15.0); //in degrees, RA is an earthly longitude projected onto the sky
+DEC = (DED + (DEM / 60.0)); //in degrees, Dec is an earthly latitude projected onto the sky
+
+For a star or other celestial object from the catalogs they have a fixed Epoch (J2000.)  I need to apply a correction for precession/nutation (wobble of the Earth's axis of rotation) to get a half decent estimate of the star's RA/Dec "now". 
+I'm using a code library that seems to have support for this and does the calculation on it own.
+I would want to know the procedure of the data conversion from equatorial coordinates to horizontal including. 
+For an instance this is how the code works:
+    let jd = Date().julianDay
+    let RAH = 2.0
+    let RAM = 31.812
+    let DED = 89.0
+    let DEM = 15.85
+
+    let eqCoor = EquatorialCoordinates.init(rightAscension: Hour((RAH+(RAM/60.0))*15.0), declination: (Degree(DED+(DEM/60.0))), epoch: Epoch.J2000, equinox: Equinox.standardJ2000)
+    let annualAbb = eqCoor.correctedForAnnualAberration(julianDay: jd, highPrecision: true)
+    let initEQ = AstronomicalObject.init(name: "Polaris", coordinates: annualAbb, julianDay: jd, highPrecision: true)
+    print("EquatorialCoordinates -> RA(α):", initEQ.equatorialCoordinates.alpha, "DEC(δ):", initEQ.equatorialCoordinates.delta) 
+
+    let userLocation = GeographicCoordinates(positivelyWestwardLongitude: Degree(.plus, 75, 51, 13.65), latitude: Degree(.plus, 30, 54, 43.55), altitude: 256)
+    print("User Location -> Latitude:", userLocation.latitude, "Longitude:", userLocation.longitude)
+
+    let preccCoor = annualAbb.precessedCoordinates(to: Equinox.standardJ2000)
+    let horizontalCoor = preccCoor.makeHorizontalCoordinates(for: userLocation, at: jd)
+    print("Horizontal Coordinates -> Azimuth:", horizontalCoor.azimuth.inHours, "Altitude:", horizontalCoor.altitude.inRadians.inDegrees)
+
+This is the data that code returns:
+EquatorialCoordinates -> RA(α): +37h56m06.009s DEC(δ): +89°16'05.165"
+User Location -> Latitude: +30°54'43.550" Longitude: +75°51'13.650"
+Horizontal Coordinates -> Azimuth: +12h1m07.396s Altitude: +30°13'16.650"
+
+Here's the data from Stellarium according to the same location as my code.
+
+The data calculated from my code is not even close to the one from Stellarium except apparent altitude.

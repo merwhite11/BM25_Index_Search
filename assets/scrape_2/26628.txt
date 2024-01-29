@@ -1,0 +1,5 @@
+Is Mars brightest from Earth at opposition, perihelion or somewhere in between?
+
+After reading this article, I was inspired to run some simulations at NASA's JPL Solar System Simulator to see Earth's and Mars' orbits from above.
+From what I could visually determine (from the JPEG images), Mars is at opposition on July 26, but its perihelion is sometime around September.
+When (and where in their orbits) is Mars brightest from Earth this year?

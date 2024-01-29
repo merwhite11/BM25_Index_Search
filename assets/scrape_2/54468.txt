@@ -1,0 +1,5 @@
+How to convert mW/m^2 to W/m^2/nm?
+
+I have a vizier catalog with H-alpha fluxes as logF(Haplha) in units as mW/m^2. See sample data here: http://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/MNRAS/431/2/fluxes
+How do I convert mW/m^2 to W/m^2/nm or erg/s/cm^2/A?
+The first entry is logF(Halpha) = -12.03 mW/m^2

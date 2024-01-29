@@ -1,0 +1,3 @@
+Lagrange points and Laplace equation boundary condition
+
+I have been reading about Lagrange points and Lagrange regions and how we can apply Laplace's equation for these regions however which are the boundary conditions of the Laplace equation at these points/regions?

@@ -1,0 +1,24 @@
+Can black holes be a subset of quark stars? If not, what are black holes made of?
+
+Can stellar black holes be a category, or subset, of quark stars?
+
+
+Strange stars are so called not because they're weird (though they
+are) but because the extraordinary pressures within them should turn
+some of their constituent quarks into a heavy type of quark named
+"strange." Neutrons and protons are made of two lighter types called
+"up" and "down." (The names were chosen whimsically and have no
+particular meaning.)
+"It's possible that all the stars we have been calling neutron stars
+are in fact strange stars" or hybrids of the two, said Turner. If
+strange matter does convert everything it touches into more strange
+matter, these stars would consist of the stuff right up to their
+perfectly hard-edged surfaces, with nothing but vacuum above. If it
+doesn't, the stars could be hybrids with strange-matter cores and
+neutron-star outer layers.
+from https://skyandtelescope.org/astronomy-news/quark-matter-stars-said-found/
+
+The visible quark stars such as the one depicted would be quark-neutron hybrids. This would conveniently answer the question "what is black hole substance made of".
+If this is certain to not be the case, what (if any) known substance can black holes de made of?
+Note, I said a subset - "...strange stars exhibit a low-luminosity but high-temperature bremsstrahlung spectrum, which, in combination with the emission properties of the accretion disc, may be the key signature to differentiate massive strange stars from the black hole." in https://academic.oup.com/mnras/article/400/3/1632/962273
+https://physicsworld.com/a/calculations-point-to-massive-quark-stars/

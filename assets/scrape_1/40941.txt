@@ -1,0 +1,22 @@
+Modeling egg shaped stars
+
+I am well aware of one-dimensional stellar models:
+
+The simplest commonly used model of stellar structure is the spherically symmetric quasi-static model, which assumes that a star is in a steady state and that it is spherically symmetric.  It contains four basic first-order differential equations: two represent how matter and pressure vary with radius; two represent how temperature and luminosity vary with radius.
+
+But what if we moved from spherical symmetry to cylindrical symmetry? Did somebody already set up all equations and solve them for general rotational symmetric ellipsoid?
+What changes, if we would assume a lemon-shaped or (most interestingly) an egg-shaped star?
+What would be the (intutive) results of such a stellar model? I am sure, somebody solved the equations already and I am just missing the appropriate search terms.
+References
+
+The mathematics of egg shape gives a brief mathematical background about one of my favorite mathematical objects
+
+Cylindrical symmetry is not as hypothetical as it might sound:
+
+Ashley Strickland wrote for CNN about "Unusual tear-drop shaped, half-pulsating star discovered by amateur astronomers"
+WASP-12b is is reviewed by NASA as An egg-shaped planet.
+
+The pre-print by E.C. & L.V. Nolan On isotropic cylindrically symmetric stellar models seems to cover the topic, but is not too intuitive.
+Related
+
+Can a donut-shape planet or star be formed?

@@ -1,0 +1,22 @@
+How does ALMA produce stable, mutually coherent ~THz local oscillators for all of their dishes?
+
+The ALMA (Atacama Large Millimetre/submillimetre Array) radio telescope's band-10 capabaility is now operational, per this answer. That's confirmed by NRAO's First Science with ALMA’s Highest-Frequency Capabilities.
+According to this site ALMA's bands and frequencies are as follows:
+band  wavelength   noise   frequency
+        (mm)        (K)      (GHz)
+ 1    6.0 - 8.5     26     35 -  50
+ 2    3.3 - 4.5     47     65 -  90
+ 3    2.6 - 3.6     60     84 - 116
+ 4    1.8 - 2.4     82    125 - 163
+ 5    1.4 - 1.8    105    163 - 211
+ 6    1.1 - 1.4    136    211 - 275
+ 7    0.8 - 1.1    219    275 - 373
+ 8    0.6 - 0.8    292    385 - 500
+ 9    0.4 - 0.5    261    602 - 720
+10    0.3 - 0.4    344    787 - 950
+
+900 GHz (0.9 THz) is quite a high frequency for a radio receiver! Each ALMA dish down-converts received frequency to a baseband of a few GHz before they get digitized and sent to the correlator for digital interferometry, but you still need an ultra-stable local oscillator (LO) for downconversion, and all of the LO's of all of the dishes need to be mutually coherent. That's quite a feat considering they can be tens of kilometers apart!
+Question: How does ALMA produce stable, mutually coherent ~THz local oscillators for all of their dishes?
+
+As suggested in this partial answer to the question How does the Event Horizon Telescope implement the interferometry? hard drives collect digital data down-converted by local atomic clocks, probably using GPS as a secondary reference, then brought to a central location for post analysis.
+I am guessing that they spend a significant amount of time trying to reconstruct coherence at the millimetre (picosecond) level, but that option is not available for ALMA as data is continuously recorded at some large fraction of 24/7, and the huge volume of data at a location where magnetic hard drives don't work is overwhelming. So they need to get it right the first time.

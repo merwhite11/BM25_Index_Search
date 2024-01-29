@@ -1,0 +1,8 @@
+Why do we estimate the Minimum mass when we are dealing with exoplanets?
+
+While solving astronomy problems dealing with exoplanets, I always see that the question asks for minimum mass instead of the mass. Why is that so and why is the calculated mass minimum mass?
+example problem:
+"A 0.7 solar mass star 35.8 pc away from us is known to have an exo-planet with an orbital
+period of 2.82 days around the star. If this produces a radial velocity of 64 m/s about the
+center of mass of the star, estimate the minimum mass of the exo-planet (in terms of the
+solar mass)."

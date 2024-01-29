@@ -1,0 +1,5 @@
+Would LIGO Detect Head-On Collision?
+
+Assume two black holes collide head-on.  In other words, they were not orbiting one another before the collision.  I know this is unlikely.  Further assume that their sizes and distance from Earth are similar to past collisions detected by LIGO.
+My understanding is that detectable gravitational waves are caused by massive objects undergoing massive accelerations and that detections so far have been of colliding objects orbiting one another many times within a fraction of a second.
+I assume that a head-on collision would create a single gravitational "pulse" instead of a wave.  I don't know if "pulse" is the right word for this.  Would this pulse be detectable by LIGO?

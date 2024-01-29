@@ -1,0 +1,4 @@
+Temperature of a substellar point on an airless tidally-locked planet
+
+If a hypothetical blackbody planet's components were solid at all temperatures, would the substellar point on the airless tidally-locked (1:1) planet eventually heat up to the surface temperature of the star it is orbiting? This material would be a very poor heat conductor.
+Also, would the temperature on the opposite point approach the cosmic background temperature 2.7 K?

@@ -1,0 +1,31 @@
+What does a + (plus) mean in stellar classification?
+
+I've noticed some stellar classifications might look like this:
+
+A0IV+G:  (HD 70003)
+F3IV+F0IV  (HD 82434)
+K0-1III+A4V+A  (HD 39547)
+G7IIIa+F9IV  (HD 130458)
+S6+/1e  (HD 187796)
+
+I assume it means it's a binary (or triple, etc) star system, but cannot find any literature to back this up.
+Resources I've looked at:
+
+The Spectra of Stars (and Brown Dwarfs)
+Stellar Classification
+Star Type
+Spectral Type
+Spectral Class
+Morgan-Keenan Luminosity Class
+The classification of stellar spectra
+The Classification of Stellar Spectra
+Studies of multiple stellar systems
+
+(There are more, but this list is getting a bit ridiculous.)
+
+What does the plus actually mean?
+
+EDIT: doing further research, it would appear as though you get multiple types of plusses, too: 
+⁺ (superscript) - Increase in strength / magnitude? 
++ (regular) - A sibling star?
+Where it potentially gets a bit confusing is that downloadable star catalogs appear to present both as regular +, meaning you'd need to read it contextually.

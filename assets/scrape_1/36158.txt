@@ -1,0 +1,26 @@
+Could the unseen companion of HR 6819 be a close binary system?
+
+Recently there was an announcement of a black hole candidate in the HR 6819 system (ESO Instrument Finds Closest Black Hole to Earth). In the proposed system, the black hole forms a close binary with the B3III primary of the system, and a Be star is located on a wide outer orbit forming a hierarchical triple:
+ ┌ B3III star
+┌┤
+│└ black hole
+┤
+│
+└ Be star
+
+Reading through the research paper Rivinius et al., 2020, it is mentioned that there is no X-ray emission detected from the system indicating that it is either not accreting significant quantities of material, or that it may not be a black hole. The paper notes that the companion cannot be a single main-sequence star (which they estimate would be of spectral type B7 or earlier) because this would appear in the spectral lines, which given the mass leads to the inference that the companion is a black hole as it is too massive to be a neutron star or white dwarf.
+As far as I can see, I don't see any mention of the possibility that the companion could itself be a close stellar binary, i.e. the following architecture:
+ ┌ B3III star
+ │
+┌┤
+││┌ close binary, star 1
+│└┤
+│ └ close binary, star 2
+┤
+│
+│
+│
+└ Be star
+
+A binary of near-equal-mass stars would have lower luminosity than a single star of the same total mass, which might help it avoid detection.
+I'm wondering if the configuration would be possible given the short period (40 days) of the companion's orbit, but maybe the data is sufficient to rule this out.

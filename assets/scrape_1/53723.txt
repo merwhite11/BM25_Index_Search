@@ -1,0 +1,10 @@
+How close is a typical New Moon to the Sun in the sky?
+
+In a Solar Eclipse, the Sun, Earth and Moon are exactly colinear (well some area of the Earth where the eclipse is visible), and these are relatively rare.
+But in addition, Sun, Earth and Moon are approximately colinear at every New Moon; indeed in a 2D projection it would look like there ought to be a Solar Eclipse every month.
+This got me curious: if I could see the New Moon in the sky somehow, and at every New Moon I traced the minimum angular distance between the Sun and Moon, what would this typically be? Presumably this would be in fact 0 degrees at a full Solar Eclipse, but what about an "average" non-eclipsing New Moon?
+In other words, how close is a typical New Moon to the Sun? Is it skirting around the edges somewhere, or a fair old distance etc. Would it be closer than Venus, say?
+These questions touch on the subject but don't actually answer the angular distance part:
+
+What is the difference between New Moon day and Lunar Eclipse?
+Why can't we see a solar eclipse every month?

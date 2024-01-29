@@ -1,0 +1,3 @@
+What is the mathematical condition for the statement: "gravitationally bound"?
+
+When talking about galaxy clusters there is the frequently used phrase "gravitationally bound", f.e. we are gravitationally bound to our neighbor galaxy the Andromeda Galaxy. But how is this statement mathematically defined since gravitation has an infinite reach, we (the Milkyway) have a tiny gravitational influence on any other galaxy in the universe.

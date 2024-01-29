@@ -1,0 +1,3 @@
+Relationship between Hubble paramater and absolute magnitude
+
+I have a set of data that is absolute magnitude of a star and its redshift. Is there any way to compute the value of the hubble parameter given that magnitude and redshift?

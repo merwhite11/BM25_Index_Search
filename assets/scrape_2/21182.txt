@@ -1,0 +1,4 @@
+To several decimal places, how many days are in one year?
+
+This morning I was interested in finding out how many days are in one year on average, to several decimal places (because I am a mathematician, so I like to be accurate). Unfortunately, Googling the phrase "days in a year" results in several answers that differ as soon as the third decimal place (taking into account rounding).
+A second question in addition to the title question: Does the duration of earth's orbit increase and decrease, or change only monotonically over time?

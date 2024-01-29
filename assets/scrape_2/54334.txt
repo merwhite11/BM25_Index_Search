@@ -1,0 +1,8 @@
+How to calculate a part of a spectrum from another part of it?
+
+I have some radio data (flux) in 1.4 GHZ and also distance data. I calculated the luminosity for this frequency. Here, i want to use power-law and/or blackbody relation to calculate possible luminosity values of the same sample at a 5GHZ.
+I found the way: $$L_R=v*L_v= 5 GHz*L_5 = (5 GHz)*4*\pi*D^2*F_5$$
+Here $$L_R$$ is luminosity at the observed frenquency. $$L_5,F_5$$ are the luminosity and flux density at 5GHz.
+Btw, forgot to multiply the luminosity with 1.4GHZ while calculating  $$L_{1.4}$$ or (whatever you say) $$L_v, L_R$$
+I suggest that the only thing that i need to do is multiplying the luminosity value with 5GHZ. Or need to divide by 5GHZ? Im confused here.
+Correct me if I'm wrong

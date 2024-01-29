@@ -1,0 +1,11 @@
+Did Arecibo's secondary optics compensate aberrations when viewing farther away from vertical?
+
+In the beginning of the short YouTube video Arecibo Uncut: Under the Dish with Phil Perillat it is mentioned that while dish antennas are usually a parabola, the problem is that a static parabola would only be useful to see objects for a few minutes as they passed overhead.
+
+But then some guy at DARPA says "Hey why don't you guys make it a sphere?" A sphere has the unique property that from the center of curvature, no matter where you look, it's the same.
+
+That is indeed how the Arecibo dish works; a static primary sphere and a big, funny-looking secondary mirror and associated optics/electronics suspended above on cables that can be moved around in order to "point" in different directions.
+Two questions:
+
+While the statement in the block quote about the sphere is correct as far as it goes, was the shape of the correcting optics (secondary, etc) above also independent of where you look? Or ideally would you like a different secondary shape depending on how far off-vertical you look? If so, is this what happens?
+Any ideas who "the guy at DARPA" might be?

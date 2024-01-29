@@ -1,0 +1,5 @@
+Definition question: continuum-subtracted spectrum
+
+What is the exact definition of a "continuum-subtracted spectrum", such that one finds in SDSS spectra? 
+http://classic.sdss.org/dr7/dm/flatFiles/spSpec.html#specmask
+Is there a definition somewhere? Thanks

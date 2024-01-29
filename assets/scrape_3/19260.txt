@@ -1,0 +1,8 @@
+How do we know a star's age based on its spectrum?
+
+A star's nearby environment may give clue to its age.
+Different stellar type have different spectral features. If we just have its spectrum, how do we know its age?
+For example, a star may be born with a M3-type(I know it is more difficult for M-type compared with OBAFGK) and stay here for a long time.
+How do we know it was born with a M3-type? 
+How do we know its age? 
+It is better to talk about different stellar types and give reference papers.

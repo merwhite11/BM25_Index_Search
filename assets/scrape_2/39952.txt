@@ -1,0 +1,4 @@
+Why is a black hole's Hawking radiation temperature inversely proportional to its mass/size?
+
+As a black hole shrinks in volume and mass, shouldn't its temperature get lower?  Shouldn't it evaporate more slowly?
+Naively, (very naively), I think that with a smaller surface area (as per its event horizon), it would have fewer and fewer random quantum foam particles popping up just outside its surface....

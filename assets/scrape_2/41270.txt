@@ -1,0 +1,10 @@
+Celestron uncommon DC long barrel connector
+
+I have tried to connect a 12v DC adaptor and also a battery pack to my telescope unsuccessfully. Sadly it seems Celestron DC jack needs to be around 2mm longer than common 5525 DC ports.
+I was wondering what are those barrel connectors called so I can google it to find a male to male cable that is compatible.
+And if Celestron is using an uncommon port to make customers buy its products or there is a technical reason for that?
+Celestron DC5525 connector with ~14mm head.
+
+Celestron DC5525 connector with 10mm head
+
+I found this amazing illustration

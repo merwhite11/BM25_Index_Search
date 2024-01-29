@@ -1,0 +1,25 @@
+Calculating Comet Position at a Given Julian Date with Available Orbital Elements
+
+I have some orbital elements for comet P/2004 R1 (McNaught) from this dataset and I would like to calculate its position around the sun (x, y, z coordinates where the sun is at the origin) at a specific Julian date. Here is the data I have:
+
+object: P/2004 R1 (McNaught)
+epoch_tdb: 54629
+tp_tdb: 2455248.548
+e: 0.682526943
+i_deg: 4.894555854
+w_deg: 0.626837835
+node_deg: 295.9854497
+q_au_1: 0.986192006
+q_au_2: 5.23
+p_yr: 5.48
+moid_au: 0.027011
+a1_au_d_2: NA
+a2_au_d_2: NA
+a3_au_d_2: NA
+dt_d: NA
+ref: 20
+object_name: P/2004 R1 (McNaught)
+
+
+I already know how to calculate eccentric anomaly from kepler's equation. However I am struggling on calculating the mean anomaly.
+Can you give me a step by step guide on the subject?

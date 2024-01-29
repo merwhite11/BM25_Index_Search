@@ -1,0 +1,4 @@
+How can I get the exact time of each zodiac every year?
+
+I want to make a calculator for Chinese New Year calendar. There is a rule that a leap year happens if the eclipse happens before each zongqi (equivalent to the middle of zodiac sign, ie. 15º, 45º, 75º, 115º... to the sun).
+Where is a good reference to know that the exact time of the earth entering each zodiac sign every year?

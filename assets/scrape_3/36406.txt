@@ -1,0 +1,48 @@
+Best way to simulate star sizes to scale in celestial sphere
+
+Using the Hipparcos catalogue, I am trying to create a celestial sphere. As all the stars are a fixed distance from the centre of this sphere, the only way to differentiate the distances and magnitude is through the sizing of each model of the star.
+With the Parallax angle $p$ and visual magnitude $m_{vis}$ of each star from the catalogue, I have created the code below to calculate the radius of each star relative to the radius of the sun. I had used this website to calculate this. The problem is that some stars are too big, almost bigger than the celestial sphere itself! I am trying to keep the radius below a certain threshold.
+Here $p$ is in arcseconds and $d$ is in parsecs.
+$$d = 1 / p$$
+$$M_{abs} = M_{vis} - \log_{10}(d^5) + 5$$
+$$ T_{surf} = \frac{8540}{CI + 0.865}$$
+$$R_{rel} = \left( \frac{5800}{T_{surf}} \right)^2 \sqrt{(2.512)^{4.83 - M_{abs}}}$$
+$$R_{Sun} = 2.5$$
+$$r = R_{rel} R_{Sun}$$
+    private void positionStar()
+    {
+        double radius;
+        cartesianPositioningCalc();
+        gameObject.transform.position = cartesianPositioning;
+
+        // Convert Plx from milliarcseconds to arcseconds (seconds of arc)
+        double PlxSOA = Plx / 1000;
+        // Calculate distance from equation d=1/p
+        // distance d is measured in parsecs and the parallax angle p is measured in arcseconds.
+        double dPC = 1 / PlxSOA;
+
+        double absMag = Vmag - math.log10(math.pow(dPC, 5)) + 5;
+
+        surfaceTemperature = 8540 / (CI + 0.865);
+
+        double relativeRadius = math.pow((5800 / surfaceTemperature), 2) * math.sqrt((math.pow(2.512, (4.83 - absMag))));
+        double radiusSun = 2.5f;
+
+        radius = relativeRadius * radiusSun;
+
+        gameObject.transform.localScale = new Vector3((float)radius, (float)radius, (float)radius);
+    }
+
+First of all, am I using the right mathematics? If I am, then how can I make sure that the radius is below a certain maximum threshold (5 units, for example.)?
+If the mathematics is incorrect, please assist me on how to fix it.
+Thanks!
+
+With a slightly modified version of @Mike G's formula in their answer below:
+
+radius = 50 * math.pow(10, (-1.44 - Vmag) / 5);
+
+I was able to get this result:
+
+And if I'm not mistaken, I think I can locate the Ursa Major constellation offset slightly to the left from the centre of the screenshot.
+However, after uploading to nova.astrometry.net the stars and constellations are still not being picked up. Is this because the star sizing is still a bit incorrect or is this issue on the website's side?
+I can use another website/app such as Stellarium to cross-check, is there a way the app can process an input image or do I try to recreate using my image on the app?

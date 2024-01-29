@@ -1,0 +1,4 @@
+Difference between zone time and local sidereal time?
+
+What is the key difference between LST and ZT?
+Also, are UT, GMT and Greenwich Mean Solar Time the same?

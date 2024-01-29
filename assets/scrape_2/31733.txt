@@ -1,0 +1,5 @@
+What would be the obstacles to building a 6.5km space telescope besides cost?
+
+In the comments of another question on this Stack Exchange site, I talk with another user about the possibility of building an optical space telescope with a 6.5 km aperture.
+Obviously, this is much larger than any rocket we have constructed, so it would need to be launched from Earth in a number of components and assembled in orbit in a similarly massive number of spacewalks, and the sheer scale of it would likely require active heat management systems to prevent heat expansion of the components from sunlight warping the mirrors or stretching the distance between the mirrors.
+Are there any other obstacles that would prevent this project from being possible?

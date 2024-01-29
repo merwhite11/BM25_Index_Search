@@ -1,0 +1,12 @@
+Which JWST instrument modes are compatible with observations of the bright trans-Earth planets Mars, Jupiter, and Saturn? Which aren't?
+
+My comment says:
+
+...answers to the Space SE question Can James Webb take pictures of our solar system? In what ways will they differ from/compliment those from Hubble? suggest that at some point JWST might indeed bother to look directly at Jupiter and Saturn, though it's not scheduled to do so in the first cycle as there are observations more fundamental to its raison d'etre to do first.
+
+and the following comment informs with the quote
+
+"The very large infrared brightnesses of Mars, Jupiter, and Saturn may limit Webb observations of these planets to a subset of the instrument modes"
+
+which is possibly quoted from NASA's JWST Technical FAQ On A Variety Of Mission Issues, Aspects And Capabilities..
+Question: Which JWST instrument modes are compatible with observations of the bright trans-Earth planets Mars, Jupiter, and Saturn? Which aren't?

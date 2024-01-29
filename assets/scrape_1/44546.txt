@@ -1,0 +1,20 @@
+Calculating the position of the Sun
+
+I'm reading the book "Practical Astronomy with your Calculator or Spreadsheet 4th Edition" implementing its formulas with C++.
+Now, I'm implementing formula 46 "Calculating the position of the Sun" and the first thing they do is define the epoch on which they shall base our calculations. They have chosen 2010 January
+0.0 (JD = 2455196.5).
+In the book there is an example asking: "what were the right ascension and declination of the
+Sun at 0hUT on Greenwich date 27 July 2003?"
+In the second step to calculate that, they say:
+
+Add 365 days for every year since 2010 plus 1 extra day for every leap
+year (see Table 2). The result is D. (Note that we subtract the total
+in this case as 2003 is before 2010.)
+
+But I don't know, and this is my question, which years do I have to add? I have three options:
+
+2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003.
+2010, 2009, 2008, 2007, 2006, 2005, 2004.
+2009, 2008, 2007, 2006, 2005, 2004, 2003.
+
+Which are the years that I have to add?

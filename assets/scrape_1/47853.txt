@@ -1,0 +1,10 @@
+How to derive gravitational-wave frequency vs time from strain vs time
+
+Suppose I have a time-series of the gravitational-wave strain amplitude as a (discrete, i.e., an array of numbers) function of time. The figure below is just illustrative. I am not using measured LIGO/Virgo data, as that would require windowing the data and many other steps; rather, I'm getting my strain vs time from a waveform model such as surrogate models.
+Question:
+how does one derive the gravitational-wave frequency as a function of time?
+I think that this involves the discrete Fourier transform, for example with python using the fast Fourier transform provided by the scipy library's fft function, but I'm unsure how to arrive at the frequency as a function of time in theory. Any help is greatly appreciated, and sources are very much welcome.
+As shown in the figure below, in essence I'm wondering how to start from the above time series and arrive at the bottom time series.
+Thanks!
+
+source

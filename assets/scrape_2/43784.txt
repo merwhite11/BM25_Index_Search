@@ -1,0 +1,74 @@
+Logarithmic rebinning and continuum removal of stellar spectra
+
+I am trying to learn how to derive the line of sight velocity distributions from galaxy spectrum to extract kinematical parameters like rotational velocity and velocity dispersion. Therefore I need to do some prepare my spectra. For this example I took a stellar spectra from the Miles-catalogue http://miles.iac.es/pages/stellar-libraries/the-catalogue.php. I tried to rebin the spectra onto a logarithmic wavelength scale and then I tried to remove the continuum as described by Bender et. al 1994, Line-of-sight velocity distributions of elliptical galaxies (also available here and in researchgate).
+Here is the relevant part of the paper:
+
+3.1 Reduction and derivation of line-of-sight velocity
+distributions
+The CCD spectra were de-biased, dark-subtracted and flatfielded in the usual way. Hot pixels and cosmic ray events
+were removed with a $\kappa$—$\sigma$ clipping procedure. Then, the spectra were rebinned to a logarithmic wavelength scale and the
+mean sky spectrum during each exposure was derived by averaging several lines from the edges of the CCD spectra. After
+subtraction of the sky spectra, spectra of the same galaxy
+taken at identical slit positions were centred and added. Then,
+the spectra were rebinned along the slit in order to guarantee
+a signal-to-noise ratio that allowed the derivation of kinematic
+parameters. As the final step of the pre-processing, the galaxy
+continuum was removed in two steps. First, a fourth- to sixthorder polynomial was fitted to each line-by-line spectrum.
+Then, the rms variation $\sigma_s$ of the spectrum around the fitted
+polynomial was calculated and the fit was repeated including
+only those pixels of which the value fell in a range between 0$\sigma_s$
+and 2$\sigma_s$ around the first fit. Finally, the spectrum was divided
+by this second fit polynomial. This procedure avoids the fact
+that the stronger absorption lines disturb the fit and leads to
+a satisfactory approximation of the galaxy ‘continuum’. This
+method of continuum removal was found to be superior to the
+usually applied procedures which include filtering in Fourier
+space. The reason is that filtering in Fourier space may change
+the profiles of the absorption lines in such a way that the
+derived $H_4$ values (see below) may be systematically offset
+with respect to the true values. The appropriate order of the...
+
+(original screenshot)
+I am not certain if I performed this correctly. Here is my code:
+# read in 1D spectral data, which is conventionally stored in FITS format
+# read in stellar template spectra from miles library http://miles.iac.es/
+# by Vazdekis (2010, MNRAS, 404, 1639)
+miles_dir = r"C:\Users\reich\OneDrive\Dokumente\Uni\Bachelorarbeit\Python\ppxf\MILES_library_v9.1_FITS"
+file = miles_dir + '/s0427.fits'    # s0427 K2III-star
+# header data unit (HDUs) list are the highest level component of the FITS file structure
+# hdu.info() summarizes content of opened fits file
+hdu = fits.open(file)
+# HDU objects consist of a header and a data unit/attributes
+# to read the entire header one can use print(repr(hdr))
+hdr = hdu[0].header
+data = hdu[0].data
+# extract numpy arrays for flux and wavelength from data
+flux_raw = data[0]
+w = WCS(hdr, naxis=1, relax=False, fix=False)
+lam = w.wcs_pix2world(np.arange(len(flux_raw)), 0)[0]
+# logarithmic wavelength scale to obtain constant velocity scale
+# for N pixels in wavelength-array, need to rebin spectra
+# to atleast N pixels in log-wavelength
+log_lam_raw = np.log(lam)
+# logarithmic rebinning
+log_lam = np.linspace(min(log_lam_raw), max(log_lam_raw), num=len(lam))
+
+# remove continuum of spectra
+def fit_polynom(log_lam, a0, a1, a2, a3, a4, a5):
+    """fit func = 2 nd order polynom"""
+    return a0+a1*log_lam+a2*(log_lam)**2+a3*(log_lam)**3+a4*(log_lam)**4+a5*(log_lam)**5
+# intitialize fit paramters
+init_fit_param = [0, 0, 0, 0 ,0, 0]
+# fit data using scipy.curve_fit()
+fit_params, fit_covariances = curve_fit(fit_polynom, log_lam, flux_raw, p0=init_fit_param)
+# calculate root mean square deviation
+rms_array = np.sqrt((flux_raw - fit_polynom(log_lam, *fit_params))**2)
+# only use flux values for 2nd fit which have a rms value < 2
+fit_params2, fit_covariances2 = curve_fit(fit_polynom, log_lam[np.argwhere(rms_array<=2)][:,0], flux_raw[np.argwhere(rms_array <= 2)][:,0], p0=init_fit_param)
+# remove continuum by dividing flux by fit polynomial
+flux = (flux_raw / (fit_polynom(log_lam, *fit_params2))) -1
+
+I chose a fipolynom of order 5 this can obviously be varied, but shouldnt be the main concern. This is a plot of the flux over wavelength and flux over logarithmic rebinned wavelength with the fitpolynom.
+And here is a plot with the "removed" continuum, which does not seem quite right.
+
+So can someone please tell me if a) I did the logarithmic rebinning correct and b) if my approach to the continuum removal makes sense or should be varied. I want to further work with the continuum removed spectra and extract line of sight velocity distributions (for galaxies ), but need to be sure that I understand the preprep correctly. Thank you very much

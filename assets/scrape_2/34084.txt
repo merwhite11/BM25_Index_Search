@@ -1,0 +1,3 @@
+Orbits of planets in ecliptic coordinates
+
+Is it possible to get the ecliptic coordinates of orbits of planets for a specific date and time? Does the ephemeris data of planets help in constructing that? Any help on this would be helpful. I would like to get the planetary orbit data that I can plot in a map.

@@ -1,0 +1,6 @@
+Why does the Southern hemisphere seem to be short of radio telescopes?
+
+In northern hemisphere, we have GBT, Arecibo, Parkes, Jodrell and VLA, while
+in southern hemisphere, only Australia has big radio telescopes.
+ALMA is in Chile, but it is in sub-mm. 
+Is not appropriate to put big radio telescopes on the plateaus of Chile?

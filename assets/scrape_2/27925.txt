@@ -1,0 +1,4 @@
+Could a black hole pass quiescently through the Oort cloud?
+
+Imagine a stellar-mass black hole passing through the Oort cloud, perhaps a quarter  to half a light-year from the Sun. How black would the black hole be? That is, any matter that fell into the black hole would release energy on the way in, and we know there are comets out there, and presumably smaller objects down to microscopic dust. But we also know they are very few and far between. Has anyone done a serious analysis of whether there would be enough infalling matter for the resulting radiation to be detectable?
+As two commenters already recognized, this really is about radiation from infalling matter, and not the broader question of how we could detect such a black hole. Answers to that broader question in the comments are interesting, though.

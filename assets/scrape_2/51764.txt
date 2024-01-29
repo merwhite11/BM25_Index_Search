@@ -1,0 +1,3 @@
+Why is the angle at which the sun sets the same as your latitude?
+
+I learned in class that the sun sets at an angle when it is not an equinox. I also learned that the angle at which it sets is a good approximation of your latitude on earth. I am having trouble drawing a visual model of this geometry.

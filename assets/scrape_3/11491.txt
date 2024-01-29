@@ -1,0 +1,5 @@
+Has New Horizon's data updated Charon's orbital elements?
+
+For years I've been fascinated with the mutually tide-locked bodies Pluto and Charon. In July 2012, The Astronomical Journal published an article The Orbit of Charon Is Circular by Buie, Tholen and Grundy. The authors thought that the eccentricity of Charon's orbit is very close to zero.
+It seems to me their opinion is somewhat speculative given the low quality of images from Hubble. Has New Horizons data verified Charon's circular orbit? Is there an online source giving more precise orbital elements from New Horizons data?
+I'm also interested in the obliquity of Pluto and Charon.

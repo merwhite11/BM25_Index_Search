@@ -1,0 +1,4 @@
+In radio astronomy, do two dimensional sensors exist?
+
+Is there an equivalent of CCD/CMOS sensors for non-optical wavelengths?
+(not looking for alternative/indirect methods like interferometry)

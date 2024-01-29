@@ -1,0 +1,19 @@
+Can you get motion data using astropy.coordinates.get_body()?
+
+I am trying to use get_body() to get position and motion data for solar system objects.
+I’ve tried the following:
+from astropy.time import Time
+from astropy.coordinates import solar_system_ephemeris, get_body
+    
+t = Time('2019.5',format='jyear')
+    
+mars = get_body('Mars',t,ephemeris='de432s')
+print(mars.ra)
+print(mars.dec)
+print(mars.pm_dec)
+
+The first two print statements work fine. The last line throws this error:
+TypeError: Frame data has no associated differentials (i.e. the frame has no velocity data) - represent_as() only accepts a new representation.
+
+The same thing happens if I try any other solar system body as well.
+Can I get motion data (such as the rate of change of the declination) using get_body()?

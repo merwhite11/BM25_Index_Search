@@ -1,0 +1,10 @@
+Are meteors and meteorites considered "Small Solar System Bodies"?
+
+The difference between meteorites, meteors, and meteoroids is one of altitude relative to a celestial surface: in space, it's a meteoroid; in the atmosphere, it's a meteor; and on the surface, it's a meteorite. (See here and here for more information.)
+The International Astronomical Union (IAU) defined the term Small Solar System Body (SSSB) in 2006 with Resolution B5 as
+
+(3) All other objects³,except satellites, orbiting the Sun shall be referred to collectively as "Small Solar System Bodies".
+[Footnote 3] "These currently include most of the Solar System asteroids, most Trans-Neptunian Objects (TNOs),comets, and other small bodies."
+
+And, although this official definition clearly states, "All other objects ... orbiting the Sun", I'm not sure how verbatim this definition is meant to be treated.
+What I mean by this is, well, for example, in Law, all definitions are, by default, unless previously stated, treated in an context of exactness. But although science is oftentimes based on specificity, it is not always, and the degree thereof in this context is thus not wholly clear to me.

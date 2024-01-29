@@ -1,0 +1,12 @@
+Orbits using Newtons laws
+
+I am making a small orbit simulator. I figured out Kepler's laws and know how to work with them to "update" an orbit based on time. So now I want to know how I can describe orbits with newton laws. Given a position vector and a velocity vector of a satellite, What I currently do is this:
+
+Calculate gravitational acceleration: (g*mass)/distance^2
+Add this number to the velocity vector.
+Multiply the new velocity vector with the DeltaTime
+Add it to the position vector
+Go back to 1.
+
+However when converting this to Keplerian Orbit Elements doesn't really make them constant.(Calculations from here: Cartesian To Kepler)
+Also the orbit isn't really stable, and also wobbles around. So can anyone help me fix this? Or am I doing something wrong?

@@ -1,0 +1,5 @@
+Has J been used by itself as a spectral type?
+
+While answering the question "Why have brown dwarf classes been dubbed L, T and Y?" I noticed that in the paper Kirkpatrick et al. (1999) "Dwarfs Cooler than 'M': The Definition of Spectral Type 'L' Using Discoveries from the 2 Micron All-Sky Survey (2MASS)", the letter "J" was ruled out as being in use as a standard carbon star type.
+So far I have not seen a source that uses "J" as a carbon star type by itself, I've only seen it in combination with "C", e.g. "C3,3J" or "C-J4 C2 5" (both from XHIP). This contrasts with the other carbon star types "R" and "N" which have definitely been used as separate identifiers.
+Has "J" ever been used as a stand-alone spectral type, e.g. "J3"?

@@ -1,0 +1,19 @@
+Would gravitational stratification deter carbon-based life on large rocky planets?
+
+Most of Earth's heavy elements are concentrated in its deepest layers, as they're denser than the surrounding silicates and sink to the core. If its overall gravitational pull were substantially higher, they should sink at a faster rate, leaving less in the crust for life as we know it to use. Furthermore, a sufficiently high mass could prevent circulation in its mantle, stopping tectonic activity from replenishing elements like carbon.
+However, from what I've gathered these factors have other side effects, which may also contribute to surface carbon levels. Massive planets may attract more asteroids and comets, and can retain higher concentrations of volatiles from their formation. Below the threshold for a static mantle, they may have increased tectonic activity and a stronger magnetic dynamo, due to a hotter interior temperature. The last two factors may contribute to volatile retention, as well as a higher concentration of CO2 from volcanic outgassing.
+Based on these factors, if a planet has a higher mass and gravity than Earth, would it feature more or less surface carbon than Earth for organisms to use?
+Additional details:
+
+The planet must be at least 1.5M, with a minimum surface gravity of 1.2G. Its core-mass fraction must be less than 45%, as a large core and shallow mantle would make heavy surface elements highly abundant, even at sub-Earth masses.
+The planet should not have enough liquid for exotic ices to form a substantial layer at the bottom of its hydrosphere. This may prevent outgassing and abiogenesis regardless of the conditions in its rocky layers. The planet may have a dense atmospheric envelope, as long as its surface pressure does not create the aforementioned hydrospheric conditions.
+Any hypothetical lifeforms do not need to have strictly Earthly biochemistry. Non-water solvents and alternate chemicals, such as Arsenic in place of phosphorous, may be considered as long as carbon forms the basis of complex molecule chains. However, the potential for non-carbon-based life outside these criteria is irrelevant. I only mention this to provide leeway for the planet's orbital distance. The exact nature of these organisms is irrelevant except for how much carbon they have access to, compared to life on Earth.
+That being said, the planet's maximum average surface temperature must not be high enough for a Venus-like runaway greenhouse effect to occur. A substantial surface pressure can greatly reduce the boiling point of liquids, allowing planets to have stable surface water over 100ºC. The minimum is -259ºC, just above the freezing point of supercritical hydrogen.
+The planet must orbit a star less than 2M☉. According to current predictions, life first emerged on Earth between 3.77 and 4.28 billion years ago. Assuming this is the typical amount of time for carbon-based life to emerge, our star must remain on the main sequence for at least 323-833 million years. Though more massive stars can still meet this minimum requirement, they may have difficulty forming planets within this question's criteria, or any at all.
+Colonization and terraforming are also irrelevant. I am only concerned with the planet's surface carbon levels without any sapient intervention.
+
+Sources:
+
+https://www.pnas.org/doi/10.1073/pnas.1919930117
+https://www.nature.com/articles/s43247-021-00222-7
+https://www.science.org/doi/10.1126/sciadv.abd3632

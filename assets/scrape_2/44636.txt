@@ -1,0 +1,11 @@
+Question on positional astronomy
+
+I was preparing for an Astronomy Olympiad which has this question:
+
+On the evening of an autumnal equinox day Siddhant noticed that Mars was exactly along the north-south meridian in his sky at the exact moment when the sun was setting. In other words, the Sun and Mars subtended an angle of exactly 90° as measured from the Earth. If the orbital radius of Mars is 1.52 AU, What will be the approximate rise
+time of the Mars on the next autumnal equinox day?
+
+Now in the solution it basically calculates the angle Mars subtended on Earth and after that it says The angle is= 22.30°
+Now, as the Earth completes one rotation in approximately 24 h, The angle of 22.3° corresponds to $\frac{22.3°}{360°}$× 24 ≈ 89 min
+On equinox day, the day length is exactly 12 h. This means the sun rises at 06:00 local time. Thus, Mars will rise 89 min before that. i.e. it will rise at approximately 04:30 local time.  Now i didn't understand why was this done?
+If Mars subtends this angle on Earth why does it correspond to that, can someone explain this process to me? And can someone also link some good resources to study these topics as I am only a beginner preparing for the olympiad.

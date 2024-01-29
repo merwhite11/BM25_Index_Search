@@ -1,0 +1,10 @@
+Looking for analytical expression of Cosmic Variance - Poisson distribution?
+
+I have an expression of Matter Angular power spectrum which can be computed numerically by a simple rectangular integration method (see below). I make appear in this expression the spectroscopic cosmological bias $b_{s p}^{2}$ and the Cosmic variance $N^{C}$.
+$$\mathcal{D}_{\mathrm{gal}, \mathrm{sp}} =\left[\int_{l_{\min }}^{l_{\max }} C_{\ell, \mathrm{gal}, \mathrm{sp}}(\ell) \mathrm{d} \ell\right]+N^{C}=b_{s p}^{2}\left[\int_{l_{m i n}}^{l_{\max }} C_{\ell, \mathrm{DM}} \mathrm{d} \ell+N^{C}\right]=b_{s p}^{2}\left[\mathcal{D}_{\mathrm{DM}}+N^{C}\right] \\
+\simeq \Delta \ell \sum_{i=1}^{n} C_{\ell, \mathrm{gal}, \mathrm{sp}}\left(\ell_{i}\right)+b_{s p}^{2} N^{C}$$
+I have a code that computes the terms $C_{\ell, \mathrm{gal}, \mathrm{sp}}\left(\ell_{i}\right)$ for each multipole $\ell_{i}$. But to compute $\mathcal{D}_{\mathrm{gal}, \mathrm{sp}}$, I have also to compute the term $b_{s p}^{2} N^{C}$ and especially the Cosmic Variance $N^{C}$ :
+The only documentation I have found is the following slide from Nico Hamaus :
+
+But as you can see, I have no explicit expression for Cosmic Variance : Could I consider the relation $\dfrac{\sigma_{p}}{P}=\dfrac{2}{N_{k}^{1/2}}$ as a SNR (Signal Noise Ratio) ?
+Which expression of Cosmic Variance could I use to compute the whole expression $\mathcal{D}_{\mathrm{gal}, \mathrm{sp}}$ ?

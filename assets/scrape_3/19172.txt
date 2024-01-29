@@ -1,0 +1,7 @@
+Obtaining deltaT for use in software
+
+I'm currently developing a javascript application in which I want to calculate the approximate position of the sun. This works quite fine but requires the value for deltaT (TT-UT) to be set depending on the year for which I want to calculate the solar position. 
+Currently, I'm using a default value of 67 for my calculation. However, since I want to calculate the solar position for several years I'm looking for a convenient way to obtain the deltaT value for each year.
+To all of you, that have some experience with programming:
+Is there any interface (API) that provides me with the desired values?
+Of course, it would also be sufficient to get the universal and terrestrial time so that I can calculate deltaT on my own.

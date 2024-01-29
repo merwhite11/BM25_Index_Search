@@ -1,0 +1,5 @@
+Is there a way to compare input and output energy of solar fusion to the input and output energy of man made fusion?
+
+The Livermore fusion experiment was said to be 2 megajoules of energy in and 3 megajoules of energy out. However upon closer inspection the facility used 300 megajoules of energy. So man made uses 300 megajoules  and we get 3 megajoules. Can we say Input = 300, output =3.
+Now the question is if it is possible to compare the sun to this process. We may need the sum of gravitational potential energy and  we know the power output at the core is about 300 watts per cubic meter The gravitational potential binding energy is ≈3GM2/5R≈2.3×10^41 joules. The other problem is I don't know the average power output. The 300 watts is the core. The other assumption I make is to use the gravitational binding energy to be the activation energy for the proton-proton fusion.
+I am wondering if the sun does better than our 300 to 3 megajoules.

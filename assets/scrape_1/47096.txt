@@ -1,0 +1,3 @@
+What's the modification of a parabolic trajectory when accounting for variation in gravity?
+
+Everyone knows that if you fire a cannon, the cannon ball follows a parabolic trajectory.  But that's in an unvarying gravitational field.  What if the cannon ball flies so high that one must take the inverse square law into account?  I've been trying to work this out but I've got more than one possible solution.  Taking it to the next level there's the issue of the radius of the earth and thus the changing direction of the pull of gravity.

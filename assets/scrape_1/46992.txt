@@ -1,0 +1,13 @@
+Questions about Celestial Navigation
+
+Can someone please help?  I did poorly in math at school, have gotten through life with basic arithmetic, but have always been fascinated by celestial navigation. In the navy many years ago I was involved in navigation and especially liked celestial.
+I am now trying to learn HOW we were able to fix our position on the Atlantic or Caribbean by using a sextant, accurate time, and several publications.
+I have a decent grasp of some aspects of nav astronomy
+but have hit a wall regarding LHA, GHA, and SHA.  For example, it's important to know GHA of Aries in any sight reduction but how can Aries have a GHA if it is located on the Greenwich Celestial Meridian?
+I understand that SHA and declination are celestial equivalents of latitude and longitude but I can't seem to wrap my brain around the other two hour angles.
+Any help is greatly appreciated!
+
+
+LHA: Local Hour Angle
+GHA: Greenwich Hour Angle
+SHA: Sidereal Hour Angle

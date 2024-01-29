@@ -1,0 +1,3 @@
+How do planetarium apps and software calculate positions?
+
+In the most general terms (I'm not asking for the actual calculations), how do popular planetarium apps and software calculate the positions of celestial objects? Planets, for example. Do they use Keplerian formulas with their associated elements and rates, or do they calculate long series of periodic terms as outlined in chapter 32 “Positions of the planets” in Meeus? I'm assuming positions of comets and other small bodies would be calculated from Keplerian orbital elements? I'm also assuming they don't use some sort of numerical integration to calculate positions (as do JPL Horizons)?

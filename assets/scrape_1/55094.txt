@@ -1,0 +1,4 @@
+How is an index of n=0 possible for the Lane-Emden equation?
+
+I was recently showing that an index of $n=0$ for the Lane-Emden equation results in constant density throughout the star. However, in my calculations I had to use the constant $\alpha$ which can be defined as $$\alpha = \frac{r}{\xi}$$ or $$\alpha = \sqrt{\frac{(n+1)K\rho_c^{\frac{1}{n}-1}}{4\pi G}}.$$
+Now, using the first expression works perfectly but I just noticed that the second expression breaks down as $n=0$. So how can it still be a solution to Lane-Emden? Do we use some kind of $\displaystyle \lim_{n \rightarrow 0}$ technique or how is this issue resolved?

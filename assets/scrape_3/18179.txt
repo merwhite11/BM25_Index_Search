@@ -1,0 +1,5 @@
+How massive must a rocky body be to liquify adequately to eliminate internal mass concentrations that could disrupt natural satellite orbits?
+
+Maybe a slightly weird question, and maybe more appropriate for some future geophysics SE, but I feel like this is what questions like Do moons have moons? are really driving at, and it just almost gets answered there.  
+How massive must a rocky body be to liquify adequately to eliminate internal mass concentrations that could disrupt natural satellite orbits?
+I understand geothermal energy to be a function of both gravitation and fissionable material in the planetary body, so an ideal answer would at least state its assumptions in regards to the amount of energy from fissionable material present.

@@ -1,0 +1,6 @@
+Can the JWST track element abundances throughout time? Would this be of any interest at all?
+
+Now that the JWST is peering further and further back into the cosmos, I came to a few questions that I would love to see answered. We know that models of the big bang nucleosynthesis result in specific predictions on the ratios between hydrogen, deuterium, isotopes of helium, and isotopes of lithium, which we can observe within our immediate galaxy group.
+
+Do we expect the ratios mentioned above to vary wrt time since the big bang (or rather wrt time since BBN)?
+If the answer to question #1 is yes, then is there anyone using the JWST to track how the element abundancies change wrt time?

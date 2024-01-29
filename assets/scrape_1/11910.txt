@@ -1,0 +1,7 @@
+Understanding Earth Tilt, Sun's Position and Latitude Calculation
+
+I've been trying to figure out how to calculate the latitude of my location with just the shadow of a stick cast by the sun. I am doing this under the assumption that I am stranded in some place with no almanac or any other data – not even day or month.
+I want to find the latitude roughly. But I have problems picturing the globe along with its tilted axis and the angles formed by the shadow.
+Could you help me understanding the concept and give me a definitive picture of angles that can be calculated. A perspective like a side-view of the earth and sun (orbiting plane – perpendicular to the screen) would help me understand much better.
+Here is my efforts to understand so far: 
+I am not an expert nor have a good background in maths (my maths teacher ruined my life). So please explain to me in simple words.

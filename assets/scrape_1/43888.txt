@@ -1,0 +1,16 @@
+Were K2-141b and WASP-63b selected as the first two exoplanet atmospheres for JWST to look at during its first year of observations? If so, why?
+
+In The Observatory @Donald.McLean linked to Scientists will peer at first galaxies with James Webb telescope which says in part:
+
+The new telescope will augment science performed by Hubble, not necessarily replace it, (Nestor) Espinoza said. He is part of the James Webb team at the organization that manages science done with such space instruments, a Baltimore-based a non-profit consortium of scientists that advises NASA.
+Espinoza will serve as the principal scientist on projects in which the Webb telescope will examine two planets in distant planetary systems. One of them, K2-141b, is about 50 percent larger than Earth, while the other, WASP-63b, is a gas giant similar to Jupiter.
+"Hubble can't perform the kinds of observations we need to learn about the atmospheres of these planets, or other details, since it was designed before the first planets outside our solar system were detected," Espinoza said.
+
+Also
+
+Many of the proposed tasks for the Webb telescope were planned and approved in the 1990s as the observatory was under initial development, said Klaus Pontoppidan, an astronomer and Webb project scientist at the institute.
+"We've just added the final projects that will be included during the first year or 13 months," Pontoppidan said.
+
+I don't know if K2-141b and WASP-63b are the first exoplanets that JWST will look at in the first round of observations, or just two examples of many. I also don't know if these exoplanets had even been discovered yet when "(m)any of the proposed tasks for the Webb telescope were planned and approved in the 1990s..."
+So I'd like to ask:
+Question: Were K2-141b (50 percent larger than Earth) and WASP-63b (gas giant similar to Jupiter) selected as the first two exoplanet atmospheres for JWST to look at during its first year of observations? If so, why? If not, how many other exoplanet atmospheres are planned to be studied during this period?

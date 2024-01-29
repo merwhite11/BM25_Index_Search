@@ -1,0 +1,3 @@
+How can I find the width of an orbit knowing some values?
+
+I need to find the width/x-radius of an orbit, which is ellipse shaped, knowing variables like the orbit's length(perihelion + aphelion in this case) and the eccentricity. I am not sure if this is even possible, I am pretty new to this. If there is already available data on this that you're aware of, it would solve my problem too.

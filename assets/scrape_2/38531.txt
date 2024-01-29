@@ -1,0 +1,28 @@
+Apparent Centering Problem When Using the Perifocal System to Draw Orbital Ellipses
+
+I am attempting to render orbital ellipses in software.  Given a set of orbital elements, I am using the Perifocal system to determine a set of points along the curve of the ellipse.  I am using the equation:
+r = r cos(v) P + r sin(v) Q,
+where v is the angle, P and Q are the perifocal vectors correspondent to I and J, and r is the polar equation of the conic:
+r = p / 1 + e cos(v),
+where p is the semi-latus rectum, e is eccentricity, and v, in both equations, is the angle.
+I am determining the vectors P and Q using the following equations:
+Pi =   cos (lan) cos (aop) - sin (lan) cos (inc) sin (aop)
+Pj =   sin (lan) cos (aop) + cos (lan) cos (inc) sin (aop)
+Pk =   sin (inc) cos (aop)
+
+Qi = - cos (lan) sin (aop) - sin (lan) cos (inc) cos (aop)
+Qj = - sin (lan) sin (aop) + cos (lan) cos (inc) cos (aop)
+Qk =   sin (inc) cos (aop)
+
+
+where lan is the Longitude of Ascending Node, aop is the Argument of Periapsis, and inc is the inclination.
+This process yields the correct ellipse!  However, the ellipse does not seem to be centered correctly on its focus; the focus appears to be far too close to the center of the ellipse.  Here is an example:
+
+You can see that these two highly eccentric ellipses have their shared center of mass at their centers - not at their respective foci.
+Is there some step in my process that I'm missing?  I could just apply an offset to the ellipses, but that would be a hack, I want to solve the problem.
+Any help is appreciated!  Thank you!
+QUESTION EDITS AND CLARIFICATIONS:
+This image is taken from a vantage point nearly normal to the orbital plane; there is almost no perspective here.
+Second, a helpful user has pointed out an issue in the equation for Pk. The correct expression is:
+Pk = sin (inc) sin (aop)
+Unfortunately, this was correct in my code - so while the correction was a good one, it was not the source of my problems.

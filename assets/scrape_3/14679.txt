@@ -1,0 +1,4 @@
+Can I use an array of inexpensive cameras as an alternative to a telescope?
+
+The link below describes how an array of inexpensive cameras can create very detailed images. Would this work for astronomy?
+https://graphics.stanford.edu/papers/CameraArray/

@@ -1,0 +1,6 @@
+Why alpha-process cannot work beyond iron?
+
+In the book The Synthesis of Elements by Giora Shaviv (Springer, 2012) on page 383 is the following set of reactions and statement about alpha-process:
+
+"The process cannot go beyond iron because, as can be seen from the energies of the reactions, the energies beyond iron are significantly smaller than those before, so if the reactions before iron can go, then those after iron will disintegrate the products much faster and prevent any increase in atomic weight."
+I have tried but still don't understand the reasoning.

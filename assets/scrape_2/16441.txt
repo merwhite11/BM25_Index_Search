@@ -1,0 +1,11 @@
+What are the exact causes that differences in sunrises are shorter around june and december but long in march and september?
+
+The changes of the sunrise and sunset times not expire regularly in a straight line but according to a sinusoid. Around the solstice (summer solstice on June 21st and winter solstice on December 21), the day length changes the least. The difference in sunrise and sunset in the days around the solstice is only a few tens of seconds per day.
+At equinox (March 20 and September 23), the length of day and night on earth is everywhere the same. The difference in day length from day to day around the equinox is changing rapidly. The difference in the length of day can rise around the time of equinox to 3 minutes per day.
+This asymmetrical lengthening and shortening of the days is because the "middle" of the day, every day a little shifts. This has to do with the fact that the earth does not describe a exact circle orbit around the sun, but an elliptical orbit. Because the Earth's axis at an angle to the orbit around the sun takes the shorter and longer are the days asymmetrical.
+As for the elliptical orbit, I understand that, for example,the sun is the farthest from  the earth in the summer (on northern hemispere). Because of the (second) law of areas of Kepler is the speed of the earth there  the slowest. In itself, I understand then that at that time the difference in day length also is shorter. That is during June 21 (summer solstice). 
+But so is apparently also on the winter solstice on 21 December. Precisely at that time the earth is closest to the Sun (perihelion) so the earth has a higher speed. But because of the higher rate would you expect the day lengthening/shortening would therefore be greater. However, it appears not to be so. How is that possible?
+So the question in short terms:
+sunrise in june on the 21 at 5:30 and 22 at 5:31 etc
+sunrise in march on the 21 at 7:30 and 22 at 7:33
+So the difference is in june one minute and in march it is 3 minutes. And the question is what causes that the difference is bigger in march then in june. See http://www.timeanddate.com/sun/france/paris for a bigger disquisition

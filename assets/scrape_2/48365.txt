@@ -1,0 +1,3 @@
+How to calculate distance to other galaxies using type 1a supernova?
+
+This is for a project in astronomy with extensive data analysis. How should I calculate the distance of galaxies using AGN and supernova Ia? I am using the data from dr17 of SDSS.

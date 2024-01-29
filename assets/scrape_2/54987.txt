@@ -1,0 +1,3 @@
+Crop a FITS file in shape of another
+
+I have a FITS file, let us say file A. I have another FITS file, file B. File B has a smaller footprint than file A. I want to crop file A in shape of file B. How do I go about doing that?

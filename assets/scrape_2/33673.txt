@@ -1,0 +1,8 @@
+Thermal Doppler broadening
+
+How to plot Doppler profile corresponding to the spectral line? The spectral line was plotted from data: flux with respect to wavelenght and I know the temperature. 
+These two function are Doppler profile? What should I substitue for $\Delta \nu_{th}$, $\nu_0$ and $\Delta \nu$. These values are from wavelenght according to $\lambda = \frac{c}{\nu}$?
+
+
+https://en.wikipedia.org/wiki/Doppler_broadening
+Or could you recommend me another formula for plotting Doppler profile?

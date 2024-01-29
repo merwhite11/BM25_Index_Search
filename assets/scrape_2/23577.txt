@@ -1,0 +1,14 @@
+Calculating Air Mass at Zenith for observing sites above sea level?
+
+Air mass relates to how much of the Earth's atmosphere the light from an observed object must pass through before being observed.  
+At Zenith, and sea level, the value of "air mass" is set to 1. 
+Light from objects lower to the horizon at an observing site must travel through more atmosphere, and hence the brightness of the object is somewhat diminished. In this situation the value of air mass increases above 1.000, presenting greater dimming for the observed object from increased atmospheric light scattering. 
+As example, when making precise observations of the magnitude of an object in astronomy, there is a need to calculate the air mass for an object at the time of observation, determined in large part by its altitude angle from zenith, or from the geometric horizon. 
+There are various formulas for calculating air mass. Precise calculations consider several factors and can be quite complicated.  
+For more details see - Air Mass (Astronomy). Wikipedia.
+My question:  Is there a simple formula to calculate the air mass at Zenith (only), for observing sites about sea level. 
+Such a calculation provides a comparison of the merit of an observing site at higher elevation over one at lower elevation in regard to the factor of air mass.  
+I imagine for most elevations the factor is quite small. Naturally there are plenty of other factors to consider when it comes the the quality of an observing site - humidity, frequency of clear skies, human light sources and light pollution, etc. 
+To my understanding, the atmosphere in most calculations is considered to be 9 km in thickness. 
+A very simple calculation could be the site elevation subtracted from 9 km, divided by 9 km, providing a ratio value somewhat less than 1. However this calculation does not account for the changing density of the atmosphere with increasing elevation.
+If there is a simple formula, what is it?

@@ -1,0 +1,3 @@
+A factor of cos(declination) in the formula of apparent of drift velocity of stars
+
+The angular drift velocity of stars is not the same for all stars and goes as $\frac{1}{\cos(\delta)}$. I don't understand why it should depend on the declination. All stars have to cover an angle of 360° in one sidereal day. Why should the angular velocity depend on the declination at all?

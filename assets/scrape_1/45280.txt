@@ -1,0 +1,4 @@
+Brightest Stars (by its Apparent Magnitude) List beyond 300
+
+I've been observing the stars and I have found some lists on internet that sort them by its apparent magnitude (m), so you end up with lists of brightest-stars like this one: https://www.star-facts.com/brightest-stars/
+The problem is that I would like to sort them beyond 300 (The maximum amount that I've found on internet sites), but I don't know where can I find (or if it even exist) such a list. The star number 300 (Xi Serpentis) has a apparent magnitude of 3.54, but there are some other stars like: Atlas (m = 3.62) that have apparent magnitudes bigger of 3.54. I would like to know what position stars like these they occupy

@@ -1,0 +1,34 @@
+Equation of time with arbitrary eccentricity and obliquity
+
+I'm working on an on-line app to show the Equation of Time for arbitrary eccentricity and obliquity of the Earth's orbit.
+It looks good for small eccentricities and obliquities:
+
+but for bigger ones the components of the Equation (the so called Equation of the Center and Projection to the Equator) loose all the "sine-like" look:
+
+I don't know if that is the expected behaviour; if it is, I would like to undestand why. :)
+Thank you very much!
+
+Edit (in response of the excellent analysis of d_e):
+I compute the two curves independently; in other words, ignoring the effect of one on the other. After reading d_e's answer, I see now that there's a problem with it. But first, I make explicit the methods I used:
+Equation of Center
+For the Equation of Center I compute the difference between the mean anomaly ($M$) and the true anomaly ($\nu$). The mean anomaly is the angle between the perihelion and the position of a fictitious Earth, moving in a circle -whose radius is the semi-major axis of the Earth's orbit- with constant velocity, with vertex in the center of that circle. The true anomaly is the angle between the perihelion and the real Earth, with the Sun at its vertex.
+The mean anomaly is easy; for the true anomaly I compute first the eccentric anomaly ($E$) using Kepler's equation:
+$E=M+e\sin E$, where $e$ is the eccentricity. I use a fixed-point iteration.
+Then I get the true anomaly with
+$\tan\frac{\nu}{2}=\sqrt{\frac{1+e}{1-e}}\tan\frac{E}{2}$
+Reduction to the Equator
+For the Reduction to the Equator I compute the difference between a fictitiuos Earth moving with constant velocity along the plane of the Equator ($\lambda$) and the projection to the Equator of another fictitious mean Earth, moving with constant velocity in a circle inclined an angle $i$ with respect to the Equator ($\alpha$).
+For $\lambda$, I compute the mean anomaly, but counting from the vernal equinox (*: see below). For $\alpha$, I use the spherical trigonometry relation:
+$\tan \alpha = \frac{\sin \lambda \cos i}{\cos \lambda}$
+(I don't use $\tan \alpha = \tan \lambda \cos i$ because I employ the function atan(a,b) for getting the correct quadrant).
+(*) After d_e's analysis, now I think that this is a mistake: I should
+use the true anomaly as a value for $\lambda$, and then project that to get $\alpha$... am I right?
+This is a screenshot of the case (as is) of the app when $e$ is low but $i$ is high:
+
+By the way, the app is up an running; if you want to change values yourself and see the results, it's here: on-line app of Equation of Time (as is)
+
+Second Edit:
+I changed the way of computing the Equation of Center according to the analysis of d_e. Now I think it's visually clear that the time between equinoxes is not half a year apart when $e$ is big. :)
+
+I updated the on-line version of the app.
+I think that now it correctly represents the effects of arbitrary inclination and eccentricity in the Equation of Time... ¡Thank you very much! I could not have done it alone.

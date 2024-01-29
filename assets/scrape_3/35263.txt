@@ -1,0 +1,9 @@
+Have there been studies of "old photons" to see just how constant things like Planck constant has been?
+
+The question Are photons aged? and answers therein have got me thinking:
+I vaguely remember hearing something about experiments where "old photons" were collected by large telescopes from very distant objects, and either their energies or their frequencies were compared to their wavelengths to check the (linear or inverse) some fundamental constants, perhaps those used in:
+$$E = hf = h \frac{c}{\lambda}$$
+Questions:
+
+Am I misremembering, or has this been done?
+What were the results and to what level of precision was non-variation constrained?

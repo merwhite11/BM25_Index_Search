@@ -1,0 +1,3 @@
+Distance between each dish in an array telescope configuration
+
+In an array telescope configuration, like VLA and ATA, what dictates the distance between each dish?

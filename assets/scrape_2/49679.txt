@@ -1,0 +1,11 @@
+How the heck does JPL actually do the numerical integration for their development ephemerides? (general questions)
+
+After writing this answer to JPL Horizons - "highly accurate measurements of planetary positions" - how do they do it? which draws from Park, Folkner, Williams & Boggs 2021 The JPL Planetary and Lunar Ephemerides DE440 and DE441 I'm left wondering how the heck they actually do the numerical integration.
+Questions:
+
+Do they use a fixed time step for the whole solar system, or is there higher time granularity (whatever that might mean) within say the Jovian moon system than for interactions between planetary barycenters that never get near each other or have rapidly changing relative accelerations.
+Are two body interactions calculated hierarchically (e.g. Jovian system as a whole on Saturnian system as a whole), or are all $n(n-1)$ interactions explicitly, or is it somewhere in-between?
+What integrator do they use? Do they use more than one?
+Order of magnitude how many time steps do they use per year of simulation? Yes higher order integrators can have bigger steps and several evaluations at different times within the step, but I'm just trying to understand if it's one step per minute or millisecond.
+
+Since computers keep getting faster, what was done for the early ephemerides several decades ago may be different than what's done today, or it may not be. I can imagine some tricks to reduce computation time are no longer needed, but there might be hesitancy to switch to simpler algorithms to simply avoid breaking things.

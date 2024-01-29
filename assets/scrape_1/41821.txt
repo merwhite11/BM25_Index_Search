@@ -1,0 +1,10 @@
+Why are solar systems stable and not chaotic?
+
+I am not trained in applied mathematics and am asking as a layperson.
+It seems that the motions of the planets can be reliably predicted for thousands of years. Yet, if we consider a relatively simple system, the compound pendulum for example, its motion is highly unpredictable.
+Chaotic pendulum - guess when it will stop flipping
+The pendulum is highly constrained by its pivot points, therefore its components do not escape from the system. However, with a solar system, there is no rigid attachment and it seems intuitive that planets could randomly fly off into space as a result of chaotic orbits.
+Question
+Is our solar system inherently stable or unstable?
+If unstable then how did it hang together long enough to form in the first place?
+If stable, how can stability and predictability be consistent with many bodies moving relatively to one another?

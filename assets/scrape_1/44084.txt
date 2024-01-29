@@ -1,0 +1,19 @@
+What telescopes used 1000+ pixel Microwave Kinetic Inductance Detectors (MKIDs) for multispectral, single photon counting (time + energy of photons)?
+
+This excellent answer to What would “the next GAIA”-like instrument be like? Could it simply be a 3 to 5x scaled-up version of the same beautiful system? is worth a thorough read-through, but it and of course the paper it cites essentially argues that the next GAIA-like instrument will more likely be moved further to NIR than be scaled-up copy of current GAIA.
+The image below shows the proposed focal plane of "GaiaNIR" with long-wavelength cutoffs ranging from 800 to 1600 nm. The short wavelength cutoff is 400 nm for all.
+The paper outlines four technologies that could be considered for the imaging sensors, since many require sensitivity well outside of silicon's bandgap limit of roughly 1100 nm.
+For completeness here are all four, but my question focuses on #4 (MKIDs).
+
+A hybrid solution which uses a HgCdTe NIR detector layer bump bonded to a Si CCD. The idea is that the photons are detected in the surface NIR layer and transferred to the Si buried channel at each pixel. Charge can then be easily moved along the pixels in sync with the charge generation, thus achieving TDI. What is not known yet is how efficiently the charge can be transferred from the NIR detection layer to the Si CCD and if both materials can be operated at the same temperature in a space environment making this development potentially complex.
+Using HgCdTe Avalanche Photodiodes (APDs) with TDI-like signal processing capability. The challenge here is to scale the existing technology to larger format arrays and ensure the dark current does not introduce unwanted noise at temperatures above 100 K. The Australia National University working with Leonardo (Italy) are actively developing this technology for large-format astronomy applications and are keen to be involved. The development effort required for these devices does not seem excessive.
+Ge detectors due to the lower band gap can detect NIR radiation of longer wavelengths than possible with Si detectors. Clearly this technology is new but many of the manufacturing techniques developed for Si are also applicable to Ge and further development is needed to see if they can be used for low noise and visible-NIR capabilities in large format arrays. The wavelength range is, however, limited to 1600 nm.
+Microwave Kinetic Inductance Detectors (MKIDs) are cooled, multispectral, single photon counting, multiplexed devices capable of observation in the UV through to mid-IR. They measure the energy of each photon to within several percent and log the time of arrival to within 2 microseconds, making them ideal for TDI-like operation. Whilst relatively new, small MKID arrays (several thousand pixels) have already been utilised on ground-based telescopes but moving towards gigapixel space-based devices is very challenging given that they also require active cooling which is undesirable.
+
+This list also appears in Ref. 109 Astro2020 Activity, Project of State of the Profession Consideration (APC) White Paper: All-Sky Near Infrared Space Astrometry. State of the Profession Considerations: Development of Scanning NIR Detectors for Astronomy.
+
+Question: What ground-based telescopes have used thousand-pixel Microwave Kinetic Inductance Detectors (MKIDs) for multispectral, single photon counting, measuring both arrival time and energy of individual photons? How well did they perform?
+
+ source click for larger
+
+Proposed focal plane array and filter bands used in the GaiaNIR CDF study (see page 203 in https://sci.esa.int/s/8a65kZA). The array consists of 60 NIR detectors, arranged in 7 across-scan rows and 9 along-scan strips (out of which 8 are for the astrometric/photometric field, divided into 4 photometric fields (i.e. 4 different cut-off wavelengths each starting from ∼ 400 nm). The new array is less than half the size of Gaia’s

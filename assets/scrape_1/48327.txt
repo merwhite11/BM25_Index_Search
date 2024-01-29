@@ -1,0 +1,27 @@
+Is it possible to narrow down possible dates for the following eclipse pattern?
+
+I am searching for an year which satisfies the following criteria.
+Dates are in Gregorian calendar.
+
+Criteria
+
+Year range 3800 BC to 500 BC
+Solar Eclipse of any kind between October 14 and October 22 inclusive.
+Lunar Eclipse of any kind between September 29 and October 9 inclusive.
+Eclipses visible from New Delhi, India, UTC/GMT +5:30 hours.
+
+
+Optional Criteria
+The gap between the two eclipses must be less than 14 days.
+
+Challenge
+The challenge mainly is because the dates are in Gregorian and not Julian which the online eclipse searchers(eg: moonblink) use. I could not find an eclipse searching tool which uses Gregorian calendar. The problem with converting Gregorian to Julian and then searching is that the date changes as the year changes and we end up with varying dates over thousands of years making it difficult to search. How to solve this?
+Feasibility
+If we solve that problem, each day of the year has approximately 20 eclipses between 3800 BC and 500 BC. So the eight days from Oct 14 to 22 would approximately have 160 eclipses. Then back to back eclipses with Lunar eclipse followed by Solar eclipse are rare, so approximately 10 to 15 eclipses will fit the back to back eclipse criteria. From which using the 'visible from New Delhi, India UTC/GMT +5:30' criteria can be used to narrow down to couple of eclipses. The optional criteria can also be used if applicable.
+Edit: It seems I have wrongly estimated the number of eclipses fitting the criteria. The number of years satisfying the first three criteria seem to be around 120 to 140.
+
+Context
+This is an independent effort to date the Mahabharata War using Archeastronomy.
+In Mahabharata war, Bhishma is said to have left his mortal body on Winter Solistice which is Dec 21 or Dec 22 Gregorian. Which was also the first quarter of  waxing Moon of Hindu lunar month Magha. But this Winter solistice observation was observed through naked eye, so researchers like Dr. Manish Pandit have opined that it was 4 or 5 days after Solistice. So it could be from Dec 21 to Dec 27. We also know that there was a Lunar eclipse on Karthika Full Moon and a Solar eclipse on Karthika New Moon. Which is approximately 83 days and 68 days from observed winter solistice. This gives us Solar Eclipse of any kind between October 14 and October 22 and a Lunar Eclipse of any kind between September 29 and October 9. They had to be visible from New Delhi, India.
+
+Edit 1: Conversion of date range from Gregorian to Julian

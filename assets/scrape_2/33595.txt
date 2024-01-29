@@ -1,0 +1,9 @@
+A vertical stick's shadow at solar noon should be straight north/south, right?
+
+At true solar noon, the subsolar point should be directly north or south of you, and therefore a vertical stick's shadow should point directly north or south, right?
+The Wikipedia page for Sun Path is confusing me.  It claims that at the equinoxes, a vertical stick's shadow will point 23.5° off of true north or south.  It says that you only get straight north/south shadows at solar noon at the solstices.
+
+On the equator, the sun will be straight overhead and a vertical stick will cast no shadow at solar noon on the equinoxes. On the vernal equinox, north of the subsolar point (on the equator) the vertical stick's shadow will point a little westwards of true north (NNW) reading 336.5° from true north and little eastwards of true south (SSE) reading 156.5° from true north. On the autumnal equinox, north of the subsolar point (on the equator), the shadow will point a little eastwards of true north (NNE) reading 23.5° from true north (and south of the subsolar, the shadow will point a little westward of true south (SSW) reading 203.5° from true north).
+--https://en.wikipedia.org/wiki/Sun_path#Shadow_of_a_vertical_stick_at_solar_noon
+
+Why would this be true?  My understanding is that true solar noon is defined by when the Sun is directly north or south, and the subsolar point is on your longitude.  Mean solar noon is a different story, thanks to the equation of time.

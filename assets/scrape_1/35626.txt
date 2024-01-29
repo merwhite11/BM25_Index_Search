@@ -1,0 +1,3 @@
+What is the highest redshift a galaxy with a known stellar mass can be observed?
+
+As part of my research, I would need the following information which it seems I cannot find it in literature. I would like to know what are the highest redshifts at which $10^{7}$, $10^{8}$, and $10^{9}$ $[Solar Unit]$ galaxies can be observed let's say by current HST?

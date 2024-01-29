@@ -1,0 +1,18 @@
+Detect sources near image edge with python photutils
+
+As my question suggests, I 'm trying to use a python library photutils in order to detect sources from MUSE cube. MUSE (Multi Unit Spectroscopic Explorer) is an instrument which provides cube, i.e. an image for each wavelength within a certain range. 
+This is my code:
+def extract_cat2(data, error, kernel, wcs, mask):
+    bkg_estimator = MedianBackground()
+    bkg = Background2D(data, (50, 50), filter_size=(3, 3), bkg_estimator=bkg_estimator, edge_method='pad', mask=mask )
+    threshold = bkg.background + (3. * bkg.background_rms) + 2.*error
+    #threshold = detect_threshold(data, nsigma=1.2.)
+    #data = data - bkg.background
+    segm = detect_sources(data, threshold, npixels=10, filter_kernel=kernel, connectivity = 8, mask=mask)
+    segm_deblend = deblend_sources(data, segm, npixels=10, filter_kernel=kernel, nlevels=32, contrast=0.001, connectivity = 8)
+    cat = source_properties(data, segm_deblend, wcs=wcs, filter_kernel=kernel, mask=mask)
+
+Bacally, for each image, I estimate a threshold above which detect sources. As you can see, I add to the background also an error, provide by the instrument. The idea behind this is that threshold is higher when errors are larger. 
+
+In the image the result is shown overlapping the extracted sources to a MUSE frame (around 814 nm), as you can see, thinks work well far away from the edge of image. On the edge the number of detected sources increase. This is due to the noise: the detection algorithm is not able to disentangle noise from information, resulting in a large set of false positive detection.
+How can I remove automatically such sources? Consider that I can not simply remove ALL sources within a certain separation from the edge, since among them there are some true detection. Thanks!

@@ -1,0 +1,15 @@
+How to find the temperature of a planet accounting for the atmosphere?
+
+Recently, I started writing a program to generate star systems, and I need a formula to find the approximate surface temperature of a planet. I know of several formulas for this, for example this one based on the formula for equilibrium temperature I found from a site called burro.case.edu:
+$$T_{P}=(T_{\odot})(({1-a})^{1/4})\left( \sqrt{\frac{R_{\odot}}{2D}}\right)$$
+Where $T_{\odot}$ denotes the parent star's temperature in Kelvin, $a$ denotes the dimensionless bond albedo, ${R_{\odot}}$ denotes the parent star's radius in AU (not kilometers/solar radii), $D$ denotes the semi-major axis in AU, and $T_{P}$ denotes the resulting computed planet temperate in Kelvin.
+For example, if we plug  in the relevant numbers to Mars ($T_{\odot}=5778,a=0.25,R_{\odot}=0.0046547454,D=1.524$), we get an estimated temperature of Mars as 210.127 K, which is nearly spot-on with Mars's real temperature of 210 K. But if I plug in the formula for Venus, it gives a wildly off answer of about 260 K. In fact, this is briefly mentioned on the linked page:
+
+Let's try this for Venus. Putting in the numbers (a=0.6, Tsun=5770K, Rsun=7x105 km, D=0.72 AU) we get the equilibrium temperature of Venus = 260 K.
+The surface temperature of Venus = 740 K. Whoa! Where'd we mess up??
+For that matter, the equilibrium temperature of the Earth is 255 K (or ~ -1 F). Something's wrong!
+
+Obviously this happens becausing trying to estimate a true temperature from the equilibrium temperature results in ignorance of the atmospheric pressure. Venus's atmosphere is about 93 atm, resulting in a runaway greenhouse effect and heating the temperature. On a smaller scale, the same thing occurs for Earth as it has a pressure of 1 atm. The temperature calculation for Mars worked well because it has a pressure of only 0.01 atm making the difference minimal.
+So I started searching on the web for other sources which have bias terms accounting for the atmosphere, but I still can't find anything. All I currently have  is a very rough approximation based on this Youtube video:
+$T_{P} = 255(\frac{L^{1/4}}{\sqrt{D}})+50\sqrt{P}-50a$
+Where $L$ denotes the star's luminosity with respect to the Sun, $P$ denotes the planet's atmospheric pressure with respect to Earth, and all the other variables are the same as they were in the last approximation. But this is still far from perfect, Venus's temperature has a ~15 K deviation from the real temperature. So, is there any more accurate formula for the atmospheric temperature of a planet?

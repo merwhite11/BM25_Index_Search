@@ -1,0 +1,4 @@
+How to apply Fast Folding algorithm?
+
+I have High Time Resolution Universe dataset. I have applied de-dispersion on this HTRU dataset, and thereafter I applied the folding function to fold the dataset.
+How I can find that the periodicity of the signal using a fast-folding algorithm?

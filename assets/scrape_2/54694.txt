@@ -1,0 +1,9 @@
+Azimuth formula (independent of height of body)
+
+I am learning astronavigation. I arrived to formulas for height and azimuth of heavenly bodies.
+I can easily find equations I and II from screenshot (the book is "The American Practical Navigator - An Epitome Of Navigation by Nathaniel Bowdith):
+
+These two come from navigational triangle which can be solved using spherical cosine law.
+However, I can't derive or find any clue where does the III formula comes from? It allows to calculate azimuth (Z) independently of heavenly body height (using Local Hour Angle instead).
+Will be very grateful for every aid!
+Thanks

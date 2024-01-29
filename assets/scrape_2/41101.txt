@@ -1,0 +1,5 @@
+A moon in eccentric orbit dipping below Roche limit
+
+Let's imagine (or do we know one?) a moon in a very eccentric orbit around a planet, with periapsis below the Roche Limit. How would it behave? Would it break apart when speeding past the planet, then reform back as it spends a long time near the apogee, as the debris and parts are pulled back together by gravity over and over until tidal forces circularize its orbit enough that it stabilizes, or is one of these states considerably dominant, and it would either never get to break apart in the short periods near periapsis, or maybe gradually break into a ring and never get to reform?
+
+Bonus question: what considerations / problems would exploration of such a body (artificial satellites, landers, rovers, maybe even a base) face comparing to similar endeavors involving a typical moon?

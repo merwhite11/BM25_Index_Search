@@ -1,0 +1,11 @@
+How exactly did JWST take a "selfie" of its own primary mirror, and what is the real purpose of this capability?
+
+CNN's Webb telescope's first test images include an unexpected 'selfie' says only:
+
+The mirror selfie was captured by a special lens inside NIRCam that can image the primary mirror rather than what Webb sees in space. The lens mainly exists for engineering and alignment, so it was a bonus image that made the Webb team say "holy cow," said Lee Feinberg, Webb optical telescope element manager at NASA's Goddard Space Flight Center in Greenbelt, Maryland.
+
+Question(s):
+
+How exactly did JWST take a "selfie" of its own primary mirror?
+What is the real purpose of this capability?
+"bonus points" Why is one mirror so much brighter?

@@ -1,0 +1,12 @@
+What enhances the capture and merge rates of pairs of small black holes orbiting around supermassive black holes?
+
+I just tried to read the new New York Times article Two Black Holes Colliding Not Enough? Make It Three which links to the new 25-June-2020 Physical Review Letter Graham et al. Candidate Electromagnetic Counterpart to the Binary Black Hole Merger Gravitational-Wave Event S190521g
+The event described is the merger of two black holes that were embedded in the accretion disk of a supermassive black hole in the center of a galaxy; i.e. in a quasar (loosely speaking).
+The NYTimes article describes the following and references a previous paper:
+
+Bolstering that hypothesis was the fact that the flare did not become visible until 34 days after the gravitational waves were detected. It would take about that long for any light from a black hole collision to emerge from such a thick disk of gas, according to a model that Dr. Ford and Barry McKernan, her colleague at the American Museum of Natural History, described in a paper last year.
+Dr. Ford described the accretion disk as “ a swarm of stars and dead stars, including black holes,” in a Caltech news release.
+She added, “These objects swarm like angry bees around the monstrous queen bee at the center. They can briefly find gravitational partners and pair up but usually lose their partners quickly to the mad dance. But in a supermassive black hole’s disk, the flowing gas converts the mosh pit of the swarm to a classical minuet, organizing the black holes so they can pair up.”
+
+That paper is B. McKernan et al 2019 Ram-pressure stripping of a kicked Hill sphere: Prompt electromagnetic emission from the merger of stellar mass black holes in an AGN accretion disk
+Question: Is it possible to explain what it is about "the flowing gas (which) converts the mosh pit of the swarm to a classical minuet, organizing the black holes so they can pair up"? What is it about the accretion disk that enhances the capture and merge rates of pairs of small black holes orbiting within it?

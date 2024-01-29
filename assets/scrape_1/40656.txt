@@ -1,0 +1,6 @@
+How to calculate the limb darkening $\mu$ value
+
+I am reading about limb darkening and I am very confused how to find the value of $\mu$.
+It states it can be found by $\mu = \cos(\gamma)$, but I am lost how $\gamma$ is found, or what it represents.
+If a planet is, say in mid-transit, would $\gamma$ be zero degrees?
+I can't seem to visualise the trigonometry to understand it. Hope someone can explain.

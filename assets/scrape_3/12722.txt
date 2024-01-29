@@ -1,0 +1,3 @@
+What is an "arc" spectrum ?
+
+I sometimes hear about astronomers using an arc spectrum to calibrate observations. For example a "He-Ar arc spectrum". What is an "arc" in this context? I assume it's nothing got to do with angles (arcmin, arcsec, etc.).

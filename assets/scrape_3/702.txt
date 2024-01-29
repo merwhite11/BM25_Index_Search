@@ -1,0 +1,9 @@
+How can we tell if the asteroid 2013 TV135 will hit Earth in 2032?
+
+Some astronomers in Ukraine have estimated that there is a small likelihood (1 in 63,000) that the asteroid 2013 TV135 will strike Earth in 2032. (source)
+Don Yeoman of NASA JPL says:
+
+with more observations, I fully expect we will be able to significantly reduce, or rule out entirely, any impact probability for the foreseeable future.
+
+How can we improve our estimation of the potential threat posed by 2013 TV135?
+That is, what process and techniques are used to calculate and increase the accuracy of our collision threat estimation?

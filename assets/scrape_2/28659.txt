@@ -1,0 +1,21 @@
+How often do they move most/all of ALMA's dishes?
+
+The Phys.org article Unknown treasure trove of planets found hiding in dust reports on recently published radio measurements (~1.3mm) of planetary systems forming around stars in Taurus:
+
+Scientists base this scenario of how our solar system came to be on observations of protoplanetary disks around other stars that are young enough to currently be in the process of birthing planets. Using the Atacama Large Millimeter Array, or ALMA, comprising 45 radio antennas in Chile's Atacama Desert, the team performed a survey of young stars in the Taurus star-forming region, a vast cloud of gas and dust located a modest 450 light-years from Earth. When the researchers imaged 32 stars surrounded by protoplanetary disks, they found that 12 of them—40 percent—have rings and gaps, structures that according to the team's measurements and calculations can be best explained by the presence of nascent planets.
+
+The article ends by saying:
+
+Going forward, the research group plans to move ALMA's antennas farther apart, which should increase the array's resolution to around five astronomical units (one AU equals the average distance between the Earth and the sun), and to make the antennas sensitive to other frequencies that are sensitive to other types of dust.
+"Our results are an exciting step in understanding this key phase of planet formation," Long said, "and by making these adjustments, we are hoping to better understand the origins of the rings and gaps."
+
+Changing from 15AU to 5 AU suggests a roughly factor of 3 increase in the overall scale of the pattern of antennas. The linked paper in ApJ Feng Long et al. has a preprint in ArXiv as well, which says:
+
+All observations were obtained from late August to early September 2017 using 45-47 12-m antennas on baselines of 21∼3697 m (15∼2780 kλ), with slight differences in each group (see Table 1).
+
+Several years ago I remember reading about the design of ALMA and there are a lot more places to put dishes than there are dishes. I think there were five optimized configurations that all looked to have a similar spiral shape, but each one was maybe a factor of 2 or 3 larger than the previous.
+Since the dishes take time to move and setup and calibrate, this probably doesn't happen that often.
+Question: How often does it happen? How often do they move most of ALMA's dishes to change resolution?
+If there's a site that shows how ALMA is set up now, and what the next setup will be and when, that would be great to know about as well.
+
+above: "Until recently, protoplanetary disks were believed to be smooth, like pancake-like objects. The results from this study show that some disks are more like doughnuts with holes, but even more often appear as a series of rings. The rings are likely carved by planets that are otherwise invisible to us." Source Credit: Feng Long/ALMA

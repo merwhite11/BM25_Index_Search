@@ -1,0 +1,8 @@
+Is there a formula for calculating surface temperature of a rocky world based on atmosphere and solar input?
+
+For example, a thicker atmosphere would probably lead to less temperature variation . . . I assume that much is obvious.   And, greenhouse gases trap heat.
+But when posed with a question like "what temperature would Venus be if it had an oxygen-nitrogen atmosphere, same 90 earth atmospheric pressure, but an earth-like atmosphere (minus the water vapor).
+Planetary equilibrium temperature is easy to calculate and it's a relatively simple formula.     I know that with an atmosphere it becomes much more complicated and there are questions such as cloud cover, but I'm curious if anything exists that makes an estimate for rocky planet surface temperature adjusted for various atmospheres.
+And lapse rate gives a good calculation for how temperature changes with altitude but provides little to nothing on the initial surface temperature.
+This question below touches on some of the ideas, but the answer on temperature estimates is a work in progress.
+Public data for calculating equilibrium temperature of exoplanets

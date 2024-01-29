@@ -1,0 +1,5 @@
+How can I find more information on a certain galaxy when NED isn't helping?
+
+The paper High Frequency Peakers: Young radio sources or flaring blazars? by S.Tinti et.al. lists some nice radio-wavelength SEDs, like these for instance:
+
+When looking for more photometric info on a source, I'd normally go to NED. When I try one of these objects (like 0005+0254) in the search box, the database can't find it. Is there some place where I could find alternative names for the objects in this paper? Or another source for photometric measurements of these objects?

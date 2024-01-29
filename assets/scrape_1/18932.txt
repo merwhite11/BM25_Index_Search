@@ -1,0 +1,8 @@
+What is the largest (angular) dark area in the sky?
+
+Question
+Within our current knowledge, what is the largest (circular, say) area in the sky which is empty/dark? I'm thinking in terms of angular size.
+Motivation
+I was wondering what was the largest star as seen from the Earth, other than the Sun of course, in terms of milliarcseconds, say. A search quickly turned up R Doradus which is huge (57 mas as seen from the Earth). But I wondered if it was possible to rule out any (angularly) larger dark objects by finding stars whose light would be blocked if there was such an object.
+Of course we should eventually be able to rule out each such area -- as Hubble Deep Field showed, if you look long enough there's a lot to find everywhere -- but relative to our current knowledge, what are the largest gaps?
+I expect that the answer would be in a region which has been missed by a sky survey and which coincidentally doesn't have anything we can see.

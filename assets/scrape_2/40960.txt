@@ -1,0 +1,15 @@
+Time evolution data of the Great Red Spot on Jupiter?
+
+Jupiter's Great Red Spot fascinates scientists for ages, so it does me. Where can I find a table (e.g. as CSV-file) with the time evolution of longitude, latitude, horizontal and vertical extension of the Great Red Spot? I am sure somebody did already invest the time to extract such a time series from all available (historical) records and images, but it
+looks like I am searching a needle in a haystack.
+References
+There is dozends of nice images and other sources around, for instance:
+
+Why is the great red spot shrinking?
+What is behind the Great Red Spot's longevity?
+How is the height of the Great Red Spot measured?
+NASA, 2018: Jupiter's Great Red Spot Getting Taller as it Shrinks, NASA Team Finds
+Emmanuel Kardasis et. al.: The need for Professional-Amateur collaborations in studies of Jupiter and Saturn
+projectpluto.com: Great Red Spot transit times, 2021 
+
+Longitude and latitude on Jupiter is not so trivial, see F. Bagenal & R. J. Wilson: Jupiter Coordinate Systems from 2016.

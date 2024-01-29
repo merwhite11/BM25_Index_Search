@@ -1,0 +1,7 @@
+Galactic rotation curves data samples: how to get them?
+
+I am aiming to introduce data Science to my High-School students and I thought about giving to them data taken from galactic rotation curves (spiral galaxies at the moment) to stude the flatness of their data.
+Where could I obtain for free data for the Milky Way galaxy and/or other galaxies (velocity versus distance to the center)?
+Thanks.
+Bonus: if any database where I could get these AND, maybe, the data from radial velocity from known exoplanets, or alternatively, the programs to access to them, I would very glad.
+Bonus(II): I read a paper of how to measure the Milky Way rotation curve with an amateur radiotelescope, but I am not sure if it can be done easily in a populated city (I guess the answer is no, but if you could confirm it, also thank you).

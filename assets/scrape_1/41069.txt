@@ -1,0 +1,13 @@
+Any known Triple Star Systems with this hierarchy?
+
+I'm curious, are there any known STABLE triple systems in which a close inner binary pair is orbited by a more massive star, yet the total mass of the binary pair is greater than that single orbiting large star?
+Something relatively compact, like this:
+
+Close Inner Binary: Star A with mass of 1, Star B with mass of 0.8. Combined Mass: 1.8
+Outer Star Orbiting Binary: Star C with mass of 1.2.
+Inner Binary Orbital Period: months or a couple years.
+Outer Star Orbital Period (orbiting binary): Decades to maybe a century or two.
+
+Star A and B are both smaller than Star C, with the combined mass of A and B exceeding Star C. Star C orbits the barycenter of the close binary A+B.
+I'm only aware of triple star systems in which the largest star is closest to the combined barycenter of the system. I don't know of any examples in which the largest star is also the star furthest from the system barycenter. Does this arrangement exist?
+Thanks!

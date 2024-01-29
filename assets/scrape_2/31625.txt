@@ -1,0 +1,3 @@
+How to differentiate elements that have same spectral lines in a star?
+
+Suppose that iron and calcium have a spectral line with the same wavelength. How would you determine which element is present in the atmosphere of a star if you found this line in its spectrum?

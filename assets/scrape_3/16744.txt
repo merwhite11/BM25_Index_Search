@@ -1,0 +1,3 @@
+period of an eclipsing binary
+
+I am confused about the definition of the period of an eclipsing binary, a binary configuration where one component crosses the other across the line of sight. When people say that an eclipsing binary has a period of T years do they mean that the period of the individual component is T years?

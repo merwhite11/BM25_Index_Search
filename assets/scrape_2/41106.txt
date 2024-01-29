@@ -1,0 +1,4 @@
+What is the relation between between hardness ratio(HR) and spectral state of a X-ray binary star system?
+
+When reading about hardness ratio, it shows that depending on the hardness ratio spectral states of a binary star can be divided into soft, hard states. So how the HR value changes with respect to the spectral state?
+And when telling about hard state and soft state, what do we mean by this statement.

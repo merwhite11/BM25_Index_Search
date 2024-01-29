@@ -1,0 +1,4 @@
+How do you calculate the lookback time distance to a given galaxy?
+
+By lookback time distance I mean the same as light-travel distance.
+Can it be calculated from just knowing the redshift?

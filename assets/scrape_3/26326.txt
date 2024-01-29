@@ -1,0 +1,4 @@
+What is period doubling in a variable star?
+
+I'm coming across the concept of "period doubling" in  RR Lyrae stars.  When I look up what period doubling is on the Internet, I find general-level explanations of bifurcations of dynamical systems and transitioning to chaos. However, I am unable to apply these things to stars in a way I understand.
+What is period doubling, and what is physically happening in a star to lead to period doubling?

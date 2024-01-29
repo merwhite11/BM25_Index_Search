@@ -1,0 +1,3 @@
+How to calculate the pixel size and beam size of an image?
+
+I have an image with some sources in it. I need to get the pixel size and beam size of that image. How can I calculate it?

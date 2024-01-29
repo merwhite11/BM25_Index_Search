@@ -1,0 +1,6 @@
+Does binarity play a role in spectral fitting?
+
+Most of the spectroscopic surveys like SDSS classify stars into one pure spectral type.
+However, a large fraction of stars are in binaries.
+Can we know whether a spectral fitting is good enough? Is there something like $\chi^2$?
+In other words, is it possible we can estimate the probability that a star is in a binary based on one spectrum?

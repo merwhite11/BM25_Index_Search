@@ -1,0 +1,12 @@
+How do they see BOTH "anomalously cool with a significant mid-IR excess" rather than one or the other? (SN 2023ixf progenitor)
+
+The abstract of the arXiv preprint SN 2023ixf in Messier 101: A Variable Red Supergiant as the Progenitor Candidate to a Type II Supernova (itself recently "discovered" in the observatory) includes:
+
+Fitting to blackbody and red supergiant (RSG) spectral-energy distributions (SEDs), we find that the source is anomalously cool with a significant mid-IR excess.
+
+From Figure 3 I can see that the 1640 K (orange) curve seems to be consistent with all the red(measured) and pink (upper limit) dots, and I think that can support anomalously cool" as a singular explanation, or it not being anomalously cool but there being an additional added significant mid-IR excess.
+I'm sure it's in there, but it's hard for me to read; how do they support that both are happening? Is it just something like "we model a normal temperature star surrounded by a dust cloud that absorbs and re-radiates in such a way that it looks like 1640 K"? Or are they actually ruling out a single 1640 K source as an explanation for the observed data?
+
+
+
+Figure 3. SED of the pre-explosion counterpart to SN 2023ixf, with red circles denoting detections and pink circles denoting upper limits (described in Section 3.2). We fit the HST, Spitzer, and ground-based photometry photometry with a 1640 K blackbody (orange line), which describes the data but is much cooler than typical effective temperatures for the RSG progenitor stars of SN II (e.g., in Smartt 2015). We also show a RSG SED for a reddened RSG supergiant with a Teff = 3780 K photosphere inside of a 880 K dust shell exhibiting mid-infrared excess (green; from Kilpatrick & Foley 2018). The individual components of the overall reddened RSG SED (star and dust shell) are shown in blue and red, respectively

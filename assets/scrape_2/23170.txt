@@ -1,0 +1,5 @@
+What is the detection threshold of gravitational waves for LIGO?
+
+Since now two neutron stars have been detected merging via gravitational waves, I was wondering what is the current detection threshold that the LIGO detectors can achieve.
+Considering that the first observed objects were two black holes with a combined mass of more than 60 solar masses and they now detected two neutron stars with a combined mass of only about 3 solar masses I was wondering what was the threshold that these detectors can actually detect.
+Obviously there are much larger stars out there which orbit each other, but their size and distance from each other make gravitational waves too difficult to detect. So what masses and at what distances can we expect to be detected in the future?

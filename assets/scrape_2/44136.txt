@@ -1,0 +1,3 @@
+Is the appearance of the twilight not constant in the interval before the sunrise?
+
+I've been told by an astronomer in past, that the appearance of the twilight isn't constant in the interval before the sunrise. That is to say that not every day the earth is going at the same speed, so for one day it takes 70 minutes for the earth to move from 18 degrees under the horizon (=astronomical twilight) to 0 degrees (horizon), and on other days it may be even 85 minutes. It depends on the speed of the earth circles the Sun. If what I've been told is true, then I'm looking for a way to calculate every day the accurate time between 18 degrees to 0.

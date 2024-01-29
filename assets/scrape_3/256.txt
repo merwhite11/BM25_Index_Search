@@ -1,0 +1,5 @@
+How can we detect water on Mars-like exoplanets?
+
+According to data from Curiosity, Mars' dust holds about 2% water by weight
+This wasn't previously detected, so the impression we have had of Mars being incredibly dry may need to be altered. Okay it is still very dry, but there is potentially extractable water in amounts usable by colonists.
+But this sort of thing would be good to discover before going to another planet, so how can we detect this sort of thing without actually going to the surface and heating up the local dirt?

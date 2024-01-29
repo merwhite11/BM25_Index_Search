@@ -1,0 +1,4 @@
+Is there a formula for a planet's orbit in a 3D space?
+
+I'm trying to model the orbits of Earth and Mars and their positions at a given point in time. But I can only find 2D equations of elliptic orbits, which only contain the x and y variables. I have to find formulae or equations for the two orbits that also contain the z variable.
+Thank you!

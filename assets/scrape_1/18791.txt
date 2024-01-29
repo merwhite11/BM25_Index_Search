@@ -1,0 +1,8 @@
+What is precipitable water vapor in millimeter-wave radioastronomy and how is it measured?
+
+Looking through ALMA on-line documentation and articles, the quantity PWV (precipitable water vapor) is a central theme. I have two linked questions.
+
+What (actually) is precipitable water vapor, and is there a "non-precipitable" component also? Why not just call it "water vapor"?
+How is it actually measured? It seems to be monitored by radiometers, but I don't understand how that can be used.
+
+I usually see numbers of the order of 5 millimeter to 10 millimeters for very high altitude locations like Atacama. I assume this is the column-integrated amount, expressed in units of liquid, is that right?

@@ -1,0 +1,3 @@
+Non-keplerian orbit features of orbits in uniform mass distribution
+
+For the first Kepler's law the orbit of a planet is an ellipse, with the Sun in one of the foci, but I've read that in the case of an homogeneous sphere distribution, orbits can be elliptic, but the azimutal period is twice the radial period, meaning that the gravity source is at the center of the ellipse and pericenter and apocenter distances match the semiminor and semimajor axes respectively. How can the latter be found?

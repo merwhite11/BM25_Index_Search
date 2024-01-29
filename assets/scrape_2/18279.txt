@@ -1,0 +1,9 @@
+How would I calculate the length of the day of this planet?
+
+Take the following planet:
+
+Same distance from the main star as Earth
+Main star is the same size as the sun
+Planet is the size of Venus
+
+How would I calculate the length of the day on this planet? If you need more information, please ask.

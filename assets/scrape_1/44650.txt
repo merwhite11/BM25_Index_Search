@@ -1,0 +1,7 @@
+How to find the scale factor on given time in the future if initial distance between source and destination is known
+
+Assume the received redshift $z$ of a photon is known. We then can calculate the initial distance (when the received photon was emitted), the light Travel Distance, the current Distance (proper distance) and the scale factor when the photon was emitted.
+
+If a photon is emitted now by a Galaxy placed 12 billion light years (current proper distance) far, how to calculate its light travel time, actual distance of galaxy, scale factor and received redshift $z$ when photon will be received.
+
+How to calculate all above attributes when a photon will be emitted by a Galaxy placed 12 billion light years far in the future (after 1 billion years).

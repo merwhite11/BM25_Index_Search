@@ -1,0 +1,7 @@
+Linear extent of an accretion disk
+
+I have a homework assignment question on accretions discs (essentially an estimation of the number of electron scatterings, but this is just for background). 
+There are a few parameters, one of them being $L$, which is the linear size of the medium (the medium in this case being an accretion disc around a blackhole)
+Now, I have been given the mass of the black hole. Other than that, nothing else which could give me the linear size of the accretion disc. 
+Could I assume that the linear extent of the accretion disc is perhaps of the order of a few Schwarzschild radii? Which could be calculated from the mass, which is given. 
+If anyone could shed some light on this I would be very appreciative. I need a nudge in the right direction on this.

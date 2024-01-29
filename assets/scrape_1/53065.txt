@@ -1,0 +1,26 @@
+How will China's Xuntian space telescope use its Terahertz capability? THz Spectroscopy? Imaging? Something else?
+
+
+An Update on the Chinese Space Station Telescope Project Hu Zhan, National Astronomical Observatories, CAS, KIAA, Peking University, On behalf of the CSST Team, ISSI-BJ Workshop: Weak gravitational lensing studies from space missions, Beijing, 2019.11.05
+The Chinese Survey Space Telescope (a.k.a. the Chinese Space Station Telescope), Hu Zhan, NAOC & PKU, UV Club, Caltech 2021.09.22
+
+In the 2nd link on slide 7 in the table of specifications:
+
+Wavelength 0.255-1 μm, 0.9-1.7 μm, 0.41-0.51 THz
+
+Near-Terahertz radio astronomy is a regular thing, ALMA's band 10 goes up to 0.95 THz for example
+
+How does ALMA produce stable, mutually coherent ~THz local oscillators for all of their dishes?
+Do circa 1 THz radio telescope front end amplifiers actually down convert before amplifying? At what frequency does amplification become untenable?
+Highest frequency that's been imaged by a radio telescope?
+
+and the famous images "of" supermassive black holes (M78* and Sgr A*) were made at about 0.23 THz. The Xuntian space telescope's range is between these.
+
+What part of the EM spectrum was used in the black hole image?
+Why does the Event Horizon Telescope (EHT) not include telescopes from Africa, Asia or Australia?
+
+And I think the Sofia measurements were at about 2 THz:
+
+this answer to Is Sofia a radio telescope proper?
+
+Question: How will China's Xuntian (the Chinese Survey Space Telescope) use its Terahertz capability? THz Spectroscopy? Imaging? Something else?

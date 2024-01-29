@@ -1,0 +1,4 @@
+Why would the Earth's solar analemma would be still a figue eight even if Earth's orbit was circular?
+
+The Earth's solar analemma is a diagram showing the deviation of the Sun from its mean motion in the sky, as viewed from a fixed location on the Earth. ... For [a planet] with a circular orbit but significant axial tilt, the analemma would be a figure of eight with northern and southern lobes equal in size.
+This statement seems to be true, but it doesn't make any sense to me. If the eight is not due to the equation of time, why is there an eight? Thanks.

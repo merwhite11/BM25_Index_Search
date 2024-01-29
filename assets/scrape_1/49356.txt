@@ -1,0 +1,18 @@
+What is the spectral reflection curve of cold white dwarfs and neutron stars?
+
+Suppose that I got a white dwarf and a neutron star and after some trillions of years their temperature are down to just a few °K so cold that they don't emit any appreciable black body radiation.
+Now, I send to each one, a robot/spaceship with a huge spotlight and shine a white light into them, possibly even making those old balls as illuminated as the Earth is, even if just for some seconds or minutes.
+Also, the robots/spaceships takes photos to be presented as human eyes would see on a distance enough to see them roughly the same angular size that a basketball has in my hand when my arm is extended.
+So, let's go to the actual questions.
+What would be the color of the stars?
+
+Would they act like perfect spherical mirrors reflecting not just the spotlight, but everything else nearby?
+Or would they appear white by reflecting all that light diffusely?
+Or maybe pitch black because they would absorve all the light and reflect nothing?
+Perhaps gray, by partially reflecting and partially absorving the light diffusely equally in all wavelengths?
+Or silvery?
+Or perhaps, due to Doppler gravitational reddening, golden?
+Or, maybe I am missing something funny and they are pink, blue or green?
+
+Bonus:
+Could I distinguish them only by looking at the photos without measuring density, gravity, size or radiation, considering that the photos show them with the same angular diameter?

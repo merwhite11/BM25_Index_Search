@@ -1,0 +1,12 @@
+Has the permittivity or the permeability of space been measured in a gravitational well?
+
+Technically one might say yes since earth is gravitational well. However I am looking for more data points. For example,
+
+in deep space where voyager might be
+
+at the Lagrange points of massive bodies where gravitational fields are in equilibrium
+
+at the bottom of a deep well like Jupiter
+
+
+The intuition behind this question is the compactification of space that is caused by gravity. Certainly time slows in a gravitational well. And since c is constant, distances are relatively smaller. Please note I am not asking about em waves nor their velocity. Rather the distribution of field lines vs distance from a charge, a moving charge or a magnet.

@@ -1,0 +1,5 @@
+What is $\phi '$ in orbital mechanics?
+
+For the last week or so, I have been teaching myself orbital mechanics within the context of Braeunig's Rocket and Space Technology.
+I noticed a symbol, $\phi '$, and was wondering what context that was used in? I think it is an angle measurement, but I know that it is almost equal to the semi-major axis on earth.
+From the box labeled Geodetic Latitude, Geocentric Latitude, and Declination, found about half way down after selecting Orbital Mechanics here.

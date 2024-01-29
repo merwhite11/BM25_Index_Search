@@ -1,0 +1,15 @@
+How can you usefully determine the dimensions of the perseides meteor shower band earth passes through?
+
+Yesterday the annual perseides meteor shower peaked (and I was lucky to see a handful of wakes). Since the bits from Swift-Tuttle have distributed to form a band of debris over the millenia and earth passes through that band, I wonder how to describe the band's dimensions.
+I'd go along these lines:
+
+"shower period" is from July 17 – August 24, i.e. 39 days
+Earth orbits the sun at $1.07×10^5$ km per hour says Cornell
+
+I'd assume:
+
+Earth moves through the band's full diameter, not e.g. tangentially
+the band is symmetrical, i.e. the asymmetrical pre and post-maximum rates do not matter
+
+So that gives a simplified $39 × 24 × 1.07×10^5 = 1.00152×10^7$ km as the plausible diameter.
+Is my rule of thumb way to calculate this reasonable? As in, campfire discussion precise? Or am I missing relevant details?

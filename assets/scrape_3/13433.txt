@@ -1,0 +1,4 @@
+What are the prerequisites for a meteorite to reach the ground?
+
+I'm sure it's a function of atmospheric entry angle, meteorite mass (and possibly composition/density), and its velocity, but what function is it?
+Above all, how does it depend on velocity? Will the slower meteors impact more often (less kinetic energy to dissipate) or the fast ones (less time spent in the atmosphere = less time to melt and evaporate all the way through)?

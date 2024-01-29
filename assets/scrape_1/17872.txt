@@ -1,0 +1,6 @@
+Which software is appropriate to integrate radial velocity with respect to time
+
+I'm a high school student and currently I'm trying to use Baade-Wesselink method to independently derive period-luminosity relation of Cepheid variables. I noticed that to get the linear radius variation of a Cepheid, I need to integrate its radial velocity over its period. 
+The problem is, I don't know which program/software I should use to plot the best-fit line going through the points of the raw data of radial velocity over the phase. Even more, the thing is I need to integrate that best-fit line and plot the integrated curve as well.
+Can anybody recommend good software that I can use?
+(I've tried the integration with a program called Logger Pro but it was not successful. )

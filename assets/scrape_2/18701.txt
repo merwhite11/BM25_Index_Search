@@ -1,0 +1,8 @@
+Calculate eccentricity with altitude and semiminor axes
+
+Following on from this question, I wish to know how to find the reverse - how to find eccentricity given a Semi-minor axis & altitude. 
+I want to use something based on
+$$b=a\sqrt{1−e^2}$$
+but I have no real way to solve for $e$, for I do not trust my answer,
+$$e=a\sqrt{1}-b$$
+could anyone please help?

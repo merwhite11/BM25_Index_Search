@@ -1,0 +1,5 @@
+iphone & remote control tripod & stellarium
+
+I am curious if anyone has success using one of those (relatively) inexpensive remote controlled (motored) tripods designed for iphones, and astrophotography.
+These little iphone tripods and motorized mounts are increasingly available and affordable. Seems like with the right kind of hardware and software interface, it might be possible to use stellarium or similar product to do some time lapse or other kinds of photography, especially if a feedback loop for object tracking is incorporated into the system.
+This idea have any legs?

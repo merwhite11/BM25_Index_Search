@@ -1,0 +1,5 @@
+Number of obscured AGN compared to unobscured AGN
+
+Urry and Padovani 1995 proposed a unified model for Active Galactic Nuclei, which has since been recognised as a good model for AGN. If AGN are randomly oriented, then I'd expect there to be more obscured AGN than unobscured, because there would be more orientations that would make us look through the sides, than along the axis:
+
+Is this the case? In other words, how many obscured-type AGNs (Seyfert 1 or 2 Galaxies, radio galaxies, radio-quiet quasars, NLRs) are there, compared to unobscured AGN (BLRs, blazars, radio-loud quasars)?

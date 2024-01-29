@@ -1,0 +1,3 @@
+North Pole Right Ascension/Declination to axial tilt conversion
+
+Wikipedia , on several asteroid articles, claims that right ascension and declination of the North Pole can give you the axial tilt of the object. What formula is used to convert these 2 values into the axial tilt? (Ceres, for example, has an R.A. Of 291 degrees and a declination of 59 degrees; its axial tilt is approximately 3 degrees. How is this figured?

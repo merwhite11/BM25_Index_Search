@@ -1,0 +1,7 @@
+Luminosity in polar regions
+
+I tried to find the habitable planets, thus I suppose to calculate the effective temperatures that incident on the planets from their host stars, I used 
+$$
+T_\mathrm{eff}=\frac{L}{4\pi\sigma_\mathrm{SB}R^2}
+$$
+but I don't know how to calculate the effective temperatures in polar regions?

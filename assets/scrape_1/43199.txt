@@ -1,0 +1,8 @@
+How to calculate longitude of Alcyone - η Tauri in the year 41050 BCE?
+
+Using the following information from The Skylive, and simple arithmetic I tried to calculate longitude of Alcyone in the year 41050 BCE at a place: 29.9457 N , 78.1642 E.
+Galactic Longitude 166.67°,
+Galactic Latitude -23.45°
+I could calculate it to be 330° against the expected value of 360°. I used J(2000) value of 25771 years for the precessional cycle of earth's axis.
+Where did I miss?
+Any help would be appreciated.

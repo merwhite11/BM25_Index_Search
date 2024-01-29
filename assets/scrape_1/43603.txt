@@ -1,0 +1,7 @@
+Apsidal Precession: What Am I Getting Wrong?
+
+In Precession of Mercury’s Perihelion from Ranging to the MESSENGER Spacecraft (https://ui.adsabs.harvard.edu/abs/2017AJ....153..121P/abstract), one finds the precession of Mercury’s perihelion due to the oblateness (quadrupole) of the Sun to be:
+$ \displaystyle \dot \varpi_{J_2} = \frac {3}{2} \frac {nJ_2}{(1-e^2)^2} \left( \frac {R_\odot}{a} \right)^2 \left(1 - \frac {3}{2} sin^2 i \right) $
+(equation 3, p. 2). A few lines down, we read that it amounts to about 0.03″ per century—later refined to 0.0286″ per century.
+However, when I do the calculation, with $ a $ = 57.90905 Gm, $ e $ = 0.20563, $ i $ = 3.38°, $ R_\odot $ = 696,342 km (all four from Wikipedia), $ n $ = 4.09°/d (calculated from formula 33.6 in Meeus 1998), and $ J_2 $ = 2.25 × 10⁻⁷ (paper’s abstract), I get 0.01855″ per century.
+What am I doing wrong?

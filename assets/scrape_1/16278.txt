@@ -1,0 +1,5 @@
+How to find which part of the sky a photo contains?
+
+I was taking some photo stacks yesterday, and I also took a plenty of random ones (pointed not at a specific object) too at 200mm.
+However, I've ended with a shot but I have no idea where I pointed my camera at, and because of the narrow angle of 200mm, I'm lost without any guiding star/object.
+This happened to me before too, so I was wondering whether there is a software or a website that I can upload a photo, and it will analyze the objects, cross match them with known objects and detect which part of the sky it is? Or is there a method that I can use to figure out by myself (remember that there are no well-known bright stars in the image, at least not that I can identify by myself)?

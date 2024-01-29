@@ -1,0 +1,85 @@
+CSPICE vs JPL Horizons discrepancy in AZ/EL
+
+This CSPICE spkcpo_c routine example outputs:
+AZ/EL computed without frame kernel:
+
+       Solar azimuth (deg):           316.67141786
+       Solar elevation (deg):         -54.85253216
+
+On my machine, I've computed the same position with the new azlcpo_c routine:
+furnsh_c ( "de440.bsp" );
+furnsh_c ( "pck00010.tpc" );
+furnsh_c ( "naif0012.tls" );
+furnsh_c ( "earth_000101_230601_230308.bpc" );
+
+str2et_c ( "2003-Oct-13 06:00:00 UTC", &et );
+
+obslat = 35.425901111 * rpd_c();
+obslon = -116.889537582 * rpd_c();
+obsalt = 1.00179621332;
+
+bodvrd_c ( "EARTH", "RADII", 3, &n, radii );
+
+re = radii[0];
+rp = radii[2];
+f  = ( re - rp ) / re;
+
+georec_c ( obslon, obslat, obsalt, re, f, obspos );
+
+azlcpo_c ( "ELLIPSOID", "SUN", et, "CN+S", SPICEFALSE, SPICETRUE,
+           obspos, "EARTH", "ITRF93", azlsta, &lt );
+
+printf ( "\n"
+         " Solar azimuth (deg):   %20.8f\n"
+         " Solar elevation (deg): %20.8f\n"
+         "\n",
+         azlsta[1] * dpr_c(), azlsta[2] * dpr_c() );
+
+which outputs:
+Solar azimuth (deg):           316.67141785
+Solar elevation (deg):         -54.85253206
+
+So far, so good.
+Here's Horizons System's output (query URL):
+*******************************************************************************
+Ephemeris / WWW_USER Fri Mar 10 08:31:14 2023 Pasadena, USA      / Horizons    
+*******************************************************************************
+Target body name: Sun (10)                        {source: DE441}
+Center body name: Earth (399)                     {source: DE441}
+Center-site name: (user defined site below)
+*******************************************************************************
+Start time      : A.D. 2003-Oct-13 06:00:00.0000 UT      
+Stop  time      : A.D. 2003-Oct-13 06:00:01.0000 UT      
+Step-size       : 1440 minutes
+*******************************************************************************
+Target pole/equ : IAU_SUN                         {East-longitude positive}
+Target radii    : 696000.0, 696000.0, 696000.0 km {Equator_a, b, pole_c}       
+Center geodetic : 243.1104624, 35.4259011, 1.0018 {E-lon(deg),Lat(deg),Alt(km)}
+Center cylindric: 243.1104624,5203.99728,3677.05257 {E-lon(deg),Dxy(km),Dz(km)}
+Center pole/equ : ITRF93                          {East-longitude positive}
+Center radii    : 6378.137, 6378.137, 6356.752 km {Equator_a, b, pole_c}       
+Target primary  : Sun
+Vis. interferer : MOON (R_eq= 1737.400) km        {source: DE441}
+Rel. light bend : Sun                             {source: DE441}
+Rel. lght bnd GM: 1.3271E+11 km^3/s^2                                          
+Atmos refraction: NO (AIRLESS)
+RA format       : DEG
+Time format     : BOTH
+Calendar mode   : Mixed Julian/Gregorian
+EOP file        : eop.230308.p230601                                           
+EOP coverage    : DATA-BASED 1962-JAN-20 TO 2023-MAR-08. PREDICTS-> 2023-MAY-31
+Units conversion: 1 au= 149597870.700 km, c= 299792.458 km/s, 1 day= 86400.0 s 
+Table cut-offs 1: Elevation (-90.0deg=NO ),Airmass (>38.000=NO), Daylight (NO )
+Table cut-offs 2: Solar elongation (  0.0,180.0=NO ),Local Hour Angle( 0.0=NO )
+Table cut-offs 3: RA/DEC angular rate (     0.0=NO )                           
+*******************************************************************************
+ Date__(UT)__HR:MN Date_________JDUT     Azimuth__(a-app)__Elevation
+********************************************************************
+$$SOE
+ 2003-Oct-13 06:00 2452925.750000000  m  316.671270018 -54.852559210
+$$EOE
+*******************************************************************************
+
+Discrepancies of 0.000147842 degrees in AZ, and 0.00002705 degrees in EL.
+That seems like a significant difference. As a comparison, a 7~8 seconds difference in delta T (TT - UT) will result in similar discrepancies; equivalent to the Earth moving over 200 km around its orbit.
+What am I missing?

@@ -1,0 +1,4 @@
+What exactly is the orbital period value of Sirius binary star system?
+
+My Textbook An Introduction to Modern Astrophysics 2nd edition (2017), page 557 mentions that the modern value is 49.9 years. But Wikipedia mentions 50.1284±0.0043 years.
+Which is correct? Or, has the orbital period value changed and what Wikipedia mentions is the updated value?

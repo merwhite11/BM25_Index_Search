@@ -1,0 +1,5 @@
+Laser Collimator producing oval not circle on the Primary
+
+I own an orion laser collimator which I had not used in a very long time. I decided to collimate an old Celestron NextStar 114 and I realized that the laser did not produce a circle but an oval.
+Apparently the telescope is roughly collimated using a collimation cap. 
+There seems to be a corrector less in the focuser which I don't dare to disassemble. Could this oval be produced by this corrector or perhaps the laser collimator needs collimation too or maybe there is a problem in the secondary mirror?

@@ -1,0 +1,17 @@
+Why is Saturn invisible in this radar image of its rings?
+
+The image below is from Radar imaging of Saturn’s rings Nicholson, P. D. et al., Icarus 177 (2005) 32–62, doi:10.1016/j.icarus.2005.03.023 and discussed further in this answer to How did Arecibo detect methane lakes on Titan, and image Saturn's rings?
+I believe I can see Saturn's radar "shadow" blocking the furthest parts of the ring near the top of the images, but I can not see any reflections from Saturn itself.
+The paper addresses a possible signal from the planet itself in Section 3.2. Ring images:
+
+Echoes at low Doppler shifts might be expected to arise either from near the subradar point on the planet itself or from ring material far outside the main rings. Our images show no evidence for any echo from the subradar point on Saturn, which would appear near ν = 0 and τ = −2RS/c = −402 ms.
+
+The same answer describes radar measurements of Saturn's moon Titan as well.
+It might be possible to make a hand-waving argument that Saturn itself is invisible because it's "just gas" but according to ESA's Saturn's atmosphere
+
+The top visible cloud deck, made of ammonia clouds, is found at about 100 kilometres below the top of the troposhere (tropopause), where the temperature is about -250°C.
+The second cloud deck, made of ammonium hydrosulphide clouds, is found at about 170 kilometres below the tropopause, where the temperature is -70°C.
+The lowest cloud deck, made of water clouds, is found at about 130 kilometres below the tropopause, where the temperature is about 0°C (freezing point of water).
+
+So I'm thinking that the various clouds of different colors and compositions will contain droplets or particles, rather than just be regions of different gas composition.
+Why then does there seem to be nowhere near as much radar return from the planet as there is from the rings?

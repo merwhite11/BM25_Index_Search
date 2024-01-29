@@ -1,0 +1,10 @@
+Hot and "warm" Jupiters expelling terrestrial planets?
+
+I've seen in documentaries that if a Jupiter size planet migrates close to its star then it would remove terrestrial planets along the way. This makes sense and I'm sure most models would predict this, but do we have evidence?
+Indeed, the Kepler survey (taking Kepler 1-447) found 34 Planets>6 R(Earth) less than 0.1 AU from the star and the only one where another planet was found was Kepler 424 which also has a Jupiter size planet at 0.73 AU. Three "warm" Jupiters (0.1- 1.7AU) out of 47 have earth-size planets discovered in same system and all are "mini-solar systems" with the smaller planets far interior. (K68,90 and 407). If you include "super-earths" (R = 1.25-2.0 R(Earth)), then there are 7 additional stars found with "warm Jupiters" in multiple systems. The super-earths are still all inside the Jupiter's (although K18,89 and 118 have Jupiters less than 0.2 AU).
+
+My question is:
+Is this finding proof that migrating Jupiters have thrown out
+  terrestrial planets or do their existence make the signals of
+  "exterior" planets hard to discern? And what about smaller planets
+  migrating in "behind" the Jupiter's?

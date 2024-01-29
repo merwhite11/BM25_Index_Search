@@ -1,0 +1,35 @@
+Why does the background noise in this image of 2020 QG look like corduroy?
+
+The news item Small asteroid becomes closest ever seen passing Earth: NASA contains a "handout image" with the caption:
+
+This NASA/JPL/ZTF/Caltech Optical Observatories handout image obtained on August 18, 2020 shows asteroid 2020 QG (the circled streak in the center), which came closer to Earth than any other nonimpacting asteroid on record NASA/JPL-CALTECH/AFP
+
+Question: I saw what looks like a corduroy-like pattern in the background that is likely from some processing artifact. Does anybody recognize this kind of artifact? Does it look familiar?
+
+
+above: NASA image from linked article. below: Corduroy source.
+
+
+Fourier analysis (log power) of the image of the asteroid, the two spots demonstrating the strong linear periodic modulation of the background.
+Concentric rings were seen when analyzing only the red part of the initial annotated image. Now that I average all three colors they are almost gone. The inclined line in the FT is probably that of the bright, straight linear trail of the asteroid.
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+fname = '424852de3808b4d6df1101d3b4f0790afd3b9d13.png'
+
+img = plt.imread(fname)[..., :3].sum(axis=2) # sum 3 colors makes red circle gray to minimize impact on FFT
+
+print(img.shape)
+
+f = np.fft.fftshift(np.fft.fft2(img))
+p = np.abs(f)**2
+
+plt.figure()
+c0, c1 = [int(s*2**-1) for s in p.shape]
+hw0, hw1 = [int(s*2**-3) for s in p.shape]
+plt.imshow(np.log10(p[c0-hw0:c0+hw0, c1-hw1:c1+hw1]), vmin=5, vmax=8)
+plt.gca().set_aspect(16/9)
+plt.colorbar()
+plt.title('log10(ft power)')
+plt.show()

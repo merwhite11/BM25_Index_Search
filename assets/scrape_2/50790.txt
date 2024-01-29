@@ -1,0 +1,11 @@
+Are X-ray rings around GRBs analogous to sun halos?
+
+This APOD image shows two nested rings in the X-ray spectrum surrounding a gamma ray burst. Or maybe I should consider it to be a single ring around a disc. The APOD description says,
+
+...the X-rays also bounced off regions high in dust right here in our
+Milky Way Galaxy, creating the unusual reflections. The greater the
+angle between reflecting Milky Way dust and the GRB, the greater the
+radius of the X-ray rings, and, typically, the longer it takes for
+these light-echoes to arrive.
+
+This seems reminiscent of how sun halos form, where there is a preferential angle for sunlight to reflect off of ice crystals in the atmosphere, leading to a ring at a certain angular radius around the sun. But the second sentence quoted above seems to suggest that the angle could be different, although it says nothing about what could make it different. Is the analogy with sun halos valid? Is it known what determines the deflection angle?

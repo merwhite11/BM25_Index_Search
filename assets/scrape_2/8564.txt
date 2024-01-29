@@ -1,0 +1,6 @@
+the initial astrometry calibration for a telescope
+
+Generally a telescope can memorize how to point to a target with a particular RA&Dec. There is no need to calibrate every day.
+How can it happen?
+How to let the telescope(non-amateur) know the position of a star after it was built? For an amateur telescope, how to realize it? There should be a zero point? 
+How often should the calibration be?

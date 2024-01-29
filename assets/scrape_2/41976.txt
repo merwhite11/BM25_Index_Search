@@ -1,0 +1,4 @@
+Disk-integrated vs disk-resolved, what is the difference?
+
+I'm trying to find online what is the difference between disk-integrated vs. disk-resolved, but I can't find a website which does explain them, especially in the context of modelling spectral flux density. Also, since the word disk is being used, it is only applicable to spherical planetary bodies? Is spatially-resolved and disk-resolved the same thing?
+Source

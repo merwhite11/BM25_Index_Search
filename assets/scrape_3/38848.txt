@@ -1,0 +1,6 @@
+Can two heavy objects circling around their C.M. be separated because of the speed of gravity?
+
+
+Imagine two massive objects, with the same mass (M) circling around their center of mass (C.M.). Let's assume that the distance between them is 1 light hour. Don´t the two bodies get accelerated and move away from each other because they feel the gravity of each other as it was 1 hour ago, because of which a force tangent to the direction of the speed develops?
+Can it be that gravity acts instantaneously? I've read about experiments proving the speed of gravity to be equal to the speed of light, but these were disputed.
+Isn't there both in Newtonian mechanics and GR there a time delay? The difference being though that space and time in Newtonian mechanics are separate and absolute (implying instantaneity?), while in GR the both are a whole and absolute.

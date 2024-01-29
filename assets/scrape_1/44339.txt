@@ -1,0 +1,4 @@
+How are constellations intact if the stars are rotating around galactic nuclei?
+
+From what I understood, the Milky Way (or stars in the Milky Way) doesn't rotate like a collection of points in a disc due to the presence of some invisible matter. In theory, the angular velocities of all the stars should be the same while linear velocities should decrease as the radial distance increases. But in reality, linear velocities stay almost the same as we move farther from the galactic center. But that will decrease the angular velocity yes, right?
+And I know that stars in a constellation are usually far apart. So this implies they have different angular velocities around the galactic center/nucleus. Then how does the shape of constellations stays the same? If stars are rotating at different angular velocities, will the constellations get distorted over time?

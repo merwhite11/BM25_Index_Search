@@ -1,0 +1,5 @@
+Dfferent distances to comet 67P
+
+Earlier, I was looking for the current distance from Earth to 67P/Churyumov-Gerasimenko, in order to do a "back of envelope" calculation of signal delay. Not important, but I was somewhat puzzled to find quite a large discrepancy between values reported by different sites, and would love to understand why.
+ESA's Where is Rosetta page currently gives the distance as around 719m km, which, if I'm using it correctly, is backed up by JPL Horizons tool, which gives me a delta of around 4.81 AU. Which is great.
+But when I look at The Sky Live's 67P live tracker, it is reporting around 941m km, which their comet info page gives as around 6.3 AU. Am I missing something blindingly obvious?

@@ -1,0 +1,5 @@
+Do gravitational waves produce a surrounding gravity field?
+
+Massless light beams produce a surrounding gravity field. A massive particle will move towards it and at the same time be dragged along in the direction of the beam's velocity.
+But what will happen around a gravity "beam"? Will spacetime get distorted in the same way as around a light beam with comparable energy? In the light of general relativity, the wave contains no particles (it's just a distortion of spacetime traveling along), so how can it contain energy? Or is the energy contained in the curvature of spacetime itself?
+So maybe my question should be, does empty (classical) curved spacetime contain energy?

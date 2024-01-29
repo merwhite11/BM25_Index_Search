@@ -1,0 +1,6 @@
+How accurately can you tell the time using a photo of the stars?
+
+If I were to go out on a clear night, in an area with low light pollution, and take a photo of the stars, could an expert analyze the photo and figure out what date the photo is from? We can assume a powerful camera, but not reaching up to the strength of a telescope.
+This question stems from a larger project. It would be very convenient for me if it were possible to take a photo of the stars to tell the time. Even more convenient if you could narrow it down to within 10 minutes, but if that's not possible I'm wondering how close we can get. Can you tell the year? The millennium? Do you need to know which location on Earth the photo was taken from? Does it help if you already know the year in which the photo was taken?
+You can assume access to modern computing, existing databases, state-of-the-art software, etc. (no supercomputers)
+Thanks!

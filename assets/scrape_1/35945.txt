@@ -1,0 +1,3 @@
+How is Cosmic Microwave Background's temperature measured?
+
+How do Cosmic Microwave Background missions/telescopes measure CMB temperatures? I understand that CMB has Planck's spectrum. So I was thinking one strategy could be to measure the spectral radiance corresponding to different frequencies coming from a certain direction and then compared these data points with theoretical Planck's law. Is this technique practically feasible?

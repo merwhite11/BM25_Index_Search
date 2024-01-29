@@ -1,0 +1,10 @@
+Where should I look at if I had a 25m parabolic radio reflector?
+
+I am most interested in (exo)planets with atmospheres, see e.g. my question
+Requirements to resolve position of Jovian Whistlers up to magnitude of Red Spot with amateur radio equipment?  So if I had a 25m radio dish in my backyard, would I have the chance to observe anything useful about (exo)planetary atmospheres by pointing it at one of the known exoplanets with atmosphere?
+Another cool thing to observe would be a fast radio burst. Where should I point my reflector to increase the chance to see one?
+References
+
+How big a dish do I need for radio astronomy?
+What kind of things I could "see" with an amateur radio telescope?
+In German, with some English summaries: Observations at Astropeiler Stockert until 2019, see also Wikipedia about Astropeiler which happens to be an amateur radio observatory with a 25m antenna. I am not associated with them (yet).

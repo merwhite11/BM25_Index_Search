@@ -1,0 +1,6 @@
+How come a "failed supernova" is, well, "failed"?
+
+I heard about this a while ago but recently came back to it:
+https://en.wikipedia.org/wiki/Failed_supernova
+which suggests that basically what this is is something where a star is so big and heavy that when it dies, it is "too big to produce a supernova" and the whole thing just collapses straight to a black hole.
+However, it also mentions that this type of event does not produce little if any energy burst of its own. But why? Wouldn't the stellar material in the split few seconds from when it starts to implode to it crossing the event horizon of the nascent black hole, heat up tremendously and thus produce a massive radiation flood for a brief moment, resulting in an effect similar to a short gamma burster?

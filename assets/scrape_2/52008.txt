@@ -1,0 +1,3 @@
+What is the maximum radius of a pure iron-56 planet?
+
+Suppose we are building a pure iron-56 planet atom by atom, how large can it get in terms of radius before it collapses into a black hole?

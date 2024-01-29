@@ -1,0 +1,6 @@
+How far does the Earth travel around the Sun during each month of the year?
+
+After reading about the Earth's orbit and how it moves faster in January than it does in July (based on its distance from the Sun), I started to wonder...
+How far does the Earth travel around the Sun during each month of the year?
+What is the math behind this calculation?
+Note: I'm not asking about the average monthly distance, but the unique distance traveled for each month.

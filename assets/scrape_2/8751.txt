@@ -1,0 +1,6 @@
+Find the height of the shooting star from the Earth's ground
+
+
+One night, you and your friend were talking to each other. Your friend far about 20 km. from you. You told your friend that you see the shooting star pass through the sky at altitude of 75 degrees. Your friend also see this shooting star, but has difference apparent location by 6 degrees. Find the location of this shooting star, what is it hight from earth ground.
+
+I think 6 degrees is the different of azimuth angle. But as I live in different lattitude, it may be effect the distance between friend and me. Or the answer is just 75degrees turn to the height from the earth ground. But how? Which and how does the correct way to solve this question?

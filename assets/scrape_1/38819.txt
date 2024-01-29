@@ -1,0 +1,3 @@
+Can concentration of gas in exoplanet atmosphere be found out from wavelength and absorbing radius from spectral data?
+
+I was working on exoplanet spectral data from which I need to infer the concentration of gases. However, the exoplanet spectroscopy data contains only absorption wavelength and absorption radius. Is there any way with which I can derive the concentration of the elements in the exoplanet's atmosphere?

@@ -1,0 +1,33 @@
+Eclipses with SkyField
+
+I'm trying to compute solar eclipses for a long period of time, see Back-predicting solar eclipses
+Initially, I wanted at several points on Earth whether an eclipse was visible at some point in time.
+I have since changed the approach and I will now compute whether an eclipse could be seen from the center of the Earth at a given moment. Later, after knowing roughly the time of the eclipse, I will iterate over a grid on Earth to check where it could be actually seen.
+So far, my first question is: is it right to check for eclipses at the center of the Earth?
+Secondly, I wrote a small code in Python to test how good I am at predicting eclipses, checking against https://eclipse.gsfc.nasa.gov/SEsearch/SEsearchmap.php?Ecl=01501207
+for these coordinates:
+Lat.: 27.4782° N
+Long.: 109.9299° W
+#!/usr/bin/python
+
+from skyfield.api import load, Topos
+from skyfield.positionlib import ICRF
+
+planets = load('Ephemerides/de422.bsp')
+ts = load.timescale()
+
+earth = planets['earth']
+sun = planets['sun']
+moon = planets['moon']
+
+time = ts.utc(150,12,06,23,49,21.9)
+place = earth + Topos('27.4782 N','109.9299 W')
+
+observe_moon = place.at(time).observe(moon).apparent().position.au
+observe_sun = place.at(time).observe(sun).apparent().position.au
+distance = ICRF(observe_moon).separation_from(ICRF(observe_sun))
+distance = distance.degrees
+
+print distance
+
+The distance I obtain is above 10 degrees, while at the time provided, if I did things correctly, the eclipse was at its maximum at those coordinates. What is wrong in my code or my understanding?

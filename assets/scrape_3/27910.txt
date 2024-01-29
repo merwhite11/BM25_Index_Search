@@ -1,0 +1,4 @@
+Could the E.H.T. produce an image of the human artifacts on the moon?
+
+Two days ago the New York Times featured the Event Horizon Telescope (E.H.T.), a huge virtual radio telescope emerging from combining data from several dishes scattered around the world. While the E.H.T. is designed and built to observe black holes, specifically Sagittarius A*, the article claimed that the E.H.T. could "spot a doughnut on the moon".
+This was probably just meant as an illustration of its enormous resolution, but: Could it? I'm aware that the moon is not a radio source but it was apparently possible to make radar images of its surface using reflected radar radiation from one of the involved dishes. Would something like that be possible with the E.H.T.? Could we "see" the landing sites from earth? Left behind rovers, descent and ascent stages?

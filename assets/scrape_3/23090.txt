@@ -1,0 +1,9 @@
+Does the Sun have permanent geographical features?
+
+Equivalent formulations of this question:
+
+Would it make any sense to draw a map of the Sun?
+Is the Sun heterogeneous with respect to latitude and longitude? (I know that it is heterogeneous with respect to altitude/depth)
+
+I know that the Sun does not rotate uniformly, so any map would line up differently as time passes.  However, this does not rule out a slice of the Sun at a given latitude having permanent geographical features, since this slice does rotate uniformly.
+Of course, even geographical features on Earth are not really permanent, they change on long time scales.  I don't expect the Sun to have any eternal features, I'm really just thinking about features that change on long time scales, or at least longer than a few months (e.g. not sunspots).

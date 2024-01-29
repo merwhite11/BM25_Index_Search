@@ -1,0 +1,10 @@
+Conversion of seconds since J2000 epoch Terrestrial Time to UTC time
+
+A recent question on Space Exploration mentioned that Planet Labs provides public ephemerides for their satellites here. I believe this provides a very valuable resource for testing different orbital propagators.
+However, in order to perform such tests, it is key to know to exactly what time the provided ephemerides correspond. The ephemerides by Planet Labs give the epoch in "seconds since J2000 epoch Terrestrial Time". Several of us at Space Exploration are interested in converting accurately such epoch to UTC time (i.e., with at least millisecond accuracy).
+Therefore, I was wondering if there is any specific algorithm that should be applied in order to perform such conversion? From my understanding, it would be enough to do the following:
+
+Get the J2000 epoch Terrestrial Time in UTC, which seems to be January 1st, 2000 at 11:58:55.816 (see here)
+Calculate a date and time using such epoch (which is in UTC) and the provided seconds since J2000 epoch Terrestrial Time (since we are now going from seconds since epoch to a date and time, leap seconds need to be taken into account)
+
+Would this be enough to perform an accurate conversion? Or am I missing some additional steps here?

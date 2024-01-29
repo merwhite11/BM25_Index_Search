@@ -1,0 +1,3 @@
+Why is the Boomerang Nebula colder than the CMB?
+
+An earlier answer on temperature mentioned that the temp of the Cosmic Microwave Background (CMB) is $2.4\,{\rm K}$ and the temp of the Boomerang nebula as ${\rm 1\,K}$. How did the nebula cool faster than the CMB?

@@ -1,0 +1,5 @@
+A comet orbits the Sun in the same plane as Earth's orbit
+
+If the Earth around the Sun follows a practically circular orbit of radius equal to one astronomical unit, determine its orbital speed in astronomical units per year.
+If the Earth around the Sun follows a practically circular orbit of radius equal to one astronomical unit, determine its orbital speed in astronomical units per year.
+A comet orbits the Sun in the same plane as Earth's orbit. The comet's closest approach to the center of the Sun is 0.5 u.a. and it has, at that point, an orbital velocity of 4pi u.a / year. What is the orientation of the comet at the moment it cuts the Earth's orbit

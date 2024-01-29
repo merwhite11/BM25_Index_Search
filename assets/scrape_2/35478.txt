@@ -1,0 +1,6 @@
+Estimating star temperature
+
+I have an assignment, where I'm supposed to estimate the temperature of a star in at least two different ways, and determine which of the approaches gives the most reliable estimate. All that is given is the star's brightness at some random wavelengths. One way of estimating would be finding the peak brightness from the data, and use the corresponding wavelength as peak wavelength and solving 
+$$T = \frac{b}{\lambda_{max}}$$
+So I've got 20 different wavelengths, ranging from 90nm to 1000nm. How would one go one about estimating T from a blackbody spectrum? Should I graph one with the given wavelengths and try different values for T until it fits the data?
+However, I can't think of any other approaches with so little data.

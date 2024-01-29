@@ -1,0 +1,6 @@
+Knowing location, LST, the amount & direction of displacement of an unknown star in a 2d image over time, can you calculate the coords of this star?
+
+Basically I have camera, my location, my local sidereal time. I want to point the camera in one direction and shoot a timelapse of a certain star exactly in the middle of the camera view. So I know how much this star moved and in which direction in relation to the camera over a certain amount of time.
+Based on this information, and knowledge of the camera’s angle of view, position in relation to the horizon, and assuming the camera doesn’t suffer any kind of lens distortion, I want to calculate the precise heading of my camera, let's say in terms of altitude and azimuth. Where should I start?
+One thing I’m thinking of is, the distance of displacement of the star over a certain period of sidereal time will correspond to the star’s declination, given that star movement follows an arc that gets smaller the more you approach one or the other celestial pole.
+Any more ideas?

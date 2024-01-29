@@ -1,0 +1,22 @@
+What is the relationship between the shape of the analemma and the sun's azimuth at sunset at a given latitude?
+
+I want to know how the sun's azimuth at sunset changes over the course of a year.
+At first, I thought it would have purely sinusoidal motion, hitting its maxima and minima at the solstices, and hitting due west at the equinoxes.  But, I learned soon after that about the analemma, and wanted to see how the actual data would differ from a simple sine function.
+I computed the sunset azimuth for each day in 2021 at latitude 47°N using the Astral python package, and plotted it against this sine function, where day of summer solstice is 170, the number of the day counting from January 1 on which the summer solstice falls:
+$$
+\text{azimuth}_\text{expected} = \frac{\text{azimuth}_\text{max} - \text{azimuth}_\text{min}}{2} \cdot \cos \left( \frac{2\pi}{365} \cdot d + d_\text{summer solstice} \right) + \frac{\text{azimuth}_\text{max} + \text{azimuth}_\text{min}}{2}
+$$
+(Note: this should really be subtracting the day # of the summer solstice for phase shift, but this is what worked out for me since the Y axis is reversed in p5.js.)
+This is what I got when I plotted the two against each other, from Jan 1 to Dec 31.  No axes, because i originally conceived of this project in p5.js and it was taking too long.  Expected azimuth from the sine function is dark green, and observed azimuth is fuchsia:
+
+And this is what I got when I plotted the difference between observed and predicted azimuth, again from Jan 1 to Dec 31:
+
+I was surprised at first, because I expected this to more or less match with the equation of time:
+
+But the equation of time has two minima and maxima, and my plot has three.  At first I thought my data was wrong, but data from sunset.js corroborated my findings.
+What accounts for this difference?  The reasons I can think of are:
+
+The analemma will be tilted by some degrees at the horizon, and I haven't accounted for that.
+The sine function I have is not the right thing to plot against.
+
+Here's the p5.js sketch if you'd like to poke around, and keep in mind the y-axis is reversed in p5.js.

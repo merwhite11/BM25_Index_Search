@@ -1,0 +1,5 @@
+How to get the axial tilt vector(x,y,z) relative to ecliptic
+
+According to the orbital plane XYZ, I understand that the axial tilt is the angle between the planet axis rotation and any normal of the plane (actually Z in right handed system). BUT, this is not sufficient to define a vector direction, I need another angle into the XY plane. Where do I find this information?  Actually I believe it's relative to the direction of the periapsis. Am I right?
+Following all the nice conversation on the answers, I maybe need to ask 
+How to get the axial tilt vector(x,y,z) relative to ecliptic or orbital plane, given ONLY ONE angle, i.e. 23.439281 deg for the Earth, 25.19 for Mars, etc.

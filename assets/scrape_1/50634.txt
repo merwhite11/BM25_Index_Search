@@ -1,0 +1,4 @@
+How to interpret illumination in "pulsar cannonball" image
+
+This beautiful image (from APOD) looks like the trail of the ejected pulsar is illuminating a ball of gas and dust. My eye sees patches of light and shadow, but sometimes images can be deceptive. What looks like a shadow could just be a region that's not glowing. So is it really a case of illumination and reflection (albeit in IR), or is it somehow deceptive? And is the trail really interstellar medium that has been heated and ionized by the passing pulsar? And are the fuzzy blobs just stars imaged in the radio spectrum?
+The single question that I might distill out of this is, how do I interpret this image?

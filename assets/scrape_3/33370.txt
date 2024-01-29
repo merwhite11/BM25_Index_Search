@@ -1,0 +1,6 @@
+Estimate prevalence of ʻOumuamua-style interstellar obects inside Jupiter orbit now that C/2019 Q4 (Borisov) is found?
+
+Now we know two of them, so maybe it's not an outlier.
+We have two points so we can draw a line. How many similar macroscopic objects should be zipping through space at ~30 km/sec so that we would see one of these passing inside the orbit of Jupiter once every two years? I don't really know what units this should be expressed with. Maybe it's 1 / (km^2 * year)  - the frequency of such a body coming through any random square kilometer of empty space in a year of time.
+What's the "capture cross section" of intra-Jupiter orbit? I imagine that since the Sun affects trajectories of bodies coming near it, drawing them closer as they pass by, intra-Jupiter orbit will see much more bodies than a circle of same area in empty space. How large is this effect for ʻOumuamua-like bodies? I expect this is to be a unitless coefficient. Is it neligible? Is it 5x? 10x? 1000x?
+Sorry if my question is not clear enough.

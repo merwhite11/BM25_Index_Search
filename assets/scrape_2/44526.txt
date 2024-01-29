@@ -1,0 +1,34 @@
+Do point spread functions from large single telescopes using adaptive optics still look like Airy functions for narrow-band filters?
+
+this answer to Claim that 30-m class telescopes will have resolution far superior to Hubble: true? mentions
+
+...the possibility of attaining near diffraction-limited images using adaptive optics.
+
+The most familliar example of near-diffraction-limited optics is the Hubble Space telescope which has been operating for about 30 years above Earth's atmosphere. By extensive analysis of the resulting images of a single stars at several out-of-focus positions using phase retrieval it has been possible to determine a static phase error map for the system and to use this to generate simulated point spread functions which can then be used to deconvolute intensity images, sharpening them in a science-based way to see dim features nearby much brighter stars for example.
+The images below are from Krist, Hook & Stoehr  (2011) 20 years of Hubble Space Telescope optical modeling using Tiny Tim (paywalled, also researchgate.
+See also WFC3 Support in Tiny Tim
+I should also cite J. D. Rhodes et al (2007) The Stability of the Point-Spread Function of the Advanced Camera for Surveys on the Hubble Space Telescope and Implications for Weak Gravitational Lensing (also arXiv and Caltech) which discussed (among other things) the interaction between drizzling and PSF models.
+Question: Do point spread functions from large single1 telescopes using adaptive optics still look like Airy functions for narrow-band filters?
+While the phase surfaces of the Hubble space telescope are relatively static, the whole point of adaptive optics is to dynamically modulate the phase map of the aperture to compensate for wavefront distortion in the atmosphere. Since this can not be done perfectly, the resulting point spread function may differ from the familiar diffraction pattern of a circular aperture occluded by a central obstruction and spider vanes.
+For a narrow-band filter, what do they look like? Do they still show an Airy disk?
+1 as opposed to What does a narrow-band "point spread function" look like for long exposures from the VLT's large interferometric aperture?
+
+From ESA's HST page heic1819 — Photo Release; Hubble reveals cosmic Bat Shadow in the Serpent’s Tail and What is the cause of all of these sharp, concentric rings around bright stars in this HST image?:
+
+Here's a cropped, monochromed, ROI:
+
+Further stretched in contrast and size:
+
+
+
+
+
+Figure 2. Map of the combined primary and secondary mirror surface errors left from polishing obtained using phase retrieval on highly defocused star images. Shown between ±30 nm surface error. The HST and WFPC2 obscuration patterns are superposed.
+
+
+
+Figure 3. Spherically-aberrated observed and simulated PSFs from the Faint Object Camera using (top) filter F253M (253 nm central wavelength) and (bottom) filter F486N. The models were generated using the old (pre-launch) optical surface error maps, the new maps from phase retrieval, and no surface error maps. Each PSF is approximately 6 arcseconds in diameter. The three lobes are shadows from the primary mirror restraining pads.
+
+
+
+Figure 9. (Left) Long exposure image of the XZ Tauri binary system using WFPC2 PC and filter F675W. An outflow from the system is seen extending to the upper right, but the glare of the PSFs interfere with details closer to the stars. (Right) The image after subtraction of two Tiny Tim PSFs matched to the stars. The diffraction spike residuals have been masked.

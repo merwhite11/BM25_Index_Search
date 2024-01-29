@@ -1,0 +1,10 @@
+Relationship between Dark Energy and Dark Matter
+
+I have encountered two seemingly contradictory theories on this(I don't know which one of them is correct, or where I am wrong):-
+
+From Wikipedia:
+
+Measurements of cosmic microwave background (CMB) anisotropies indicate that the universe is close to flat. For the shape of the universe to be flat, the mass/energy density of the universe must be equal to the critical density. The total amount of matter in the universe (including baryons and dark matter), as measured from the CMB spectrum, accounts for only about 30% of the critical density. This implies the existence of an additional form of energy to account for the remaining 70%."
+
+The above statement, if correct, I suppose indicates that there is a critical density for which mass/energy has to account for. This means that if suppose there was no Dark Matter, our calculations/assumptions regarding the amount of Dark Energy would have been much higher(because then Dark Energy would have to account for a greater share of critical density).
+The universe is accelerating in expanding. Dark Energy is supposed to cause this acceleration in expansion. While ordinary matter plus Dark Matter, is supposed to reduce this acceleration/expansion through gravity. So, according to this theory, if there would have been no Dark Matter, then there would be less Dark Energy required to account for the observed acceleration in expansion, so our calculations/assumptions regarding the amount of Dark Energy would have been lower.

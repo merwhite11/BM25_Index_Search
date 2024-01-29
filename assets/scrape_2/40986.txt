@@ -1,0 +1,5 @@
+Neptune time of perihelion/ephemeris dates
+
+Is there a data online for the time of perihelion of Neptune between 2000AD and 3000AD? I need values in Julian Date (JD).
+I tried using HORIZONS Web interface, but it won't generate ephemeris for Neptune after a certain calendar date.
+Thanks.

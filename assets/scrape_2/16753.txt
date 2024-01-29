@@ -1,0 +1,5 @@
+Could this be a cosmic ray hit on my cameras sensor (CMOS, DSLR)?
+
+While taking pictures of the bubble nebula I noticed a very strange artifact on only one of my pictures. It can't be a satellite since its not a straight line and this is a 90s exposure that should make a line much longer. Also I doubt this is just readout noise from the camera (image is unstretched, unedited) since hot pixels don't form lines. So could this be a cosmic ray hit? If not does anyone have an idea what this could be?
+The image was taken with my Canon 7D Mark II @ISO1600, 90s exposure.
+Celestron C8 SGT (XLT), Celestron Advanced VX

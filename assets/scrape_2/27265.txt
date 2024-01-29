@@ -1,0 +1,3 @@
+How can I convert Bayer/Flamsteed designations to Hipparchos numbers?
+
+In a text file I have a table of star data with Bayer/Flamsteed designations. I need to convert these into Hipparchos numbers. How can I automatically do this?

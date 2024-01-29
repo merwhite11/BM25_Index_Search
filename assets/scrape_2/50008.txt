@@ -1,0 +1,26 @@
+Orbital modelling, three bodies, leapfrog numerical integration
+
+Apologies for the length of this question.
+I'm modelling the motion of a single planet around the Sun using the equations:
+$$dv_{x_{i}}/dt=a(t)=-GM_{SUN}x_{i}/r^{3},$$
+where $x_{1}=x$, $x_{2}=y$ and $x_{3}=z$. Also,
+$$r=\sqrt{x^{2}+y^{2}+z^{2}}.$$
+I'm using the leapfrog numerical method of solving these equations (from Feynman, here), where:
+$$x\left(t+\epsilon\right)=x\left(t\right)+\epsilon v\left(t+\epsilon/2\right)$$
+$$v\left(t+\epsilon/2\right)=v\left(t-\epsilon/2\right)+\epsilon a\left(t\right)$$
+$$v\left(\epsilon/2\right)=v\left(0\right)+\left(\epsilon/2\right)a\left(0\right).$$
+Unable to code, I've put together a spreadsheet to model the orbit of Mars and (separately) Jupiter. I'm using units of au and Julian years. I'm using a time interval of $\epsilon = 6 \text{ hours} = 0.000684 \text{ yr}$. I've used (first row) initial state vector data $\left(x,y,z,v_{x},v_{y},v_{z}\right)$ from JPL Horizons, with an arbitrary start date of 2000-Jan-01 12:00:00.0000 TDB. $GM_{SUN} = 39.478418\,\text{au}^{3}\text{yr}^{-2}$. The results are pretty accurate for both Mars and Jupiter.
+So far so good. The problem starts when I try to factor in Jupiter's gravitational effect on Mars' orbit by using the equations:
+$$\frac{dv_{ix}}{dt}=\sum_{j=1}^{N}-\frac{GM_{j}\left(x_{i}-x_{j}\right)}{r_{ij}^{3}}$$
+and so on for $y$ and $z$. Here, the index $i$ refers to Mars, and the index $j$ refers to the Sun and Jupiter. Also,
+$$r=\sqrt{\left(x_{i}-x_{j}\right)^{2}+\left(y_{i}-y_{j}\right)^{2}+\left(z_{i}-z_{j}\right)}.$$
+To keep things simple, I'm ignoring the gravitational effect of Jupiter on the Sun. I find the $x$ component of Mars' acceleration toward Jupiter at $t\left(0\right)$, which I'll call $MJa_{x}\left(0\right)$ using
+$$MJa_{x}\left(0\right)=-GM_{JUPITER}\frac{\left(x_{MARS}\left(0\right)-x_{JUPITER}\left(0\right)\right)}{\left(r_{MARS-JUPITER}\left(0\right)\right)^{3}},$$
+where $x_{MARS}\left(0\right)$ and $x_{JUPITER}\left(0\right)$ values are from JPL Horizons and $GM_{JUPITER}$ equals $0.037685\,au^{3}yr^{-2}$. And then, summing the accelerations, find
+$$v_{x}\left(\epsilon/2\right)=v_{x}\left(0\right)+\left(\epsilon/2\right)\left(a_{x}\left(0\right)+MJa_{x}\right(0)),$$
+where $v_{x}\left(0\right)$ is the $x$-component of Mars' velocity vector wrt the Sun (obtained from JPL), and $a_{x}\left(0\right)$ is the $x$-component of Mars' acceleration vector solely due to the Sun's gravitational attraction. The corrected position of Mars at $t\left(1\right)$ is then given by
+$$x_{MARS}\left(1\right)=x_{MARS}\left(0\right)+\epsilon v_{x}\left(\epsilon/2\right).$$
+I then find the next value of $x_{MARS}\left(1\right)-x_{JUPITER}\left(1\right)$ using my previously calculated $x_{JUPITER}\left(1\right)$ value (from the Jupiter orbit spreadsheet). Next, I repeat the above to find $MJa_{x}\left(1\right)$, the $x$ component of Mars' acceleration toward Jupiter at $t\left(1\right)$. And so on.
+I was rather pleased with all this except for the fact that it doesn't work, i.e. the results are consistently less accurate than the original Sun-Mars model.
+Any idea where I'm going wrong? Thanks.
+EDIT - I've now amended my model by using $x_{MARS}-x_{JUPITER}$ values calculated directly from my existing Mars and Jupiter orbit spreadsheets (ie simply subtract $x_{JUPITER}$ from $x_{MARS}$. With those positions known, I then don't need to worry about calculating velocities as I can then use $x_{MARS}-x_{JUPITER}$ to directly find the accelerations $MJa_{x}$, etc. I've also taken into account the gravitational effect of Jupiter on the Sun as implied in the above $\frac{dv_{ix}}{dt}$ equation. The results are ambiguous at best. Am I doing this numerical integration correctly?

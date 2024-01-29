@@ -1,0 +1,3 @@
+What are the dimensions of LIGO Detector evacuated chambers?
+
+The LIGO complex is very large, but I assume that there is a very small chamber that actually does the science since they are measuring very small sheers. How big around is the actual evacuated chamber?

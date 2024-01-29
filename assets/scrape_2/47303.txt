@@ -1,0 +1,21 @@
+Help finding a database or analysis of plage regions on the Sun
+
+Plages are phenomena of stellar activity.
+
+A plage is a bright region in the chromosphere of the Sun, typically found in and around active regions. The term itself is poetically taken from the French word for "beach".
+Plage map closely to the bright spots known as faculae in the photosphere below, but the latter have much smaller spatial scales. Accordingly, plage occurs most visibly near active regions. Faculae have a strong influence on the solar constant, and the more readily detectable plage areas traditionally are used to monitor this influence. In this context, "active network" consists of plage-like brightenings extending away from active regions as their magnetism appears to diffuse into the quiet Sun, but constrained to follow the network boundaries.
+
+Where can I find open access data of plage regions of the Sun, perhaps with other parameters as well like faculae region, Magnetic field etc?
+I've found the following sources that report solar activity and/or contain archives of solar images, but so far no sources where images are processed in order to catalog solar plage areas.
+
+Discover the Sun
+World Data Center for the production, preservation and dissemination of the international sunspot number
+Sunspots
+National Solar Observatory Global Oscillation Network Group
+Solar Ham
+
+
+
+Cropped from Wikipedia
+
+1000/102mm refractor Lunt B1200 CaK module Baader K line filter Skyris 274m CCD camera Hinode guider, Ioptron ZEQ25GT mount 18 April 2015, 20:34 original

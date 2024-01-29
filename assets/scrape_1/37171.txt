@@ -1,0 +1,3 @@
+Calculate position of sun in sky
+
+I would like to calculate the angle formed by the sun and the horizon for any hour of the day and any day of the year for a particular place on Earth.  So like: what is the angle of the sun to the horizon at 11AM on June 21 at Chicago?  (Sorry, I'm a newbie, and don't even know what the name of this angle is).  Is there a formula for calculating this?  Thanks!

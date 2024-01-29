@@ -1,0 +1,21 @@
+Why is this Einstein ring pink?
+
+I'm having a hard time understanding this image in the CNN News item This glowing ring of light is from a distant galaxy.
+The caption (from this version of the article) says:
+
+This  image shows observations taken with the NASA/ ESA Hubble Space Telescope of two magnified galaxies behind massive galaxy clusters: the pink glowing haloes reveal the gas surrounding the distant galaxies and its structure. The gravitational lensing effect from the clusters multiplies the images of the galaxies, producing up to 4 images of the same source.
+
+Trying to parse the caption, I think that the two objects in the center are magnified images of the galaxies in the background, and so should be related to the source of the light in the Einstein ring. But they are yellow and the ring is pink.
+Question: So the Einstein ring is picking up light not from the background galaxies, but from a halo of gas around them? Is there a better source to read about this image and everything that's going on here?
+The image contains the following label at the top right corner:
+
+click for full size:
+
+
+The article then says:
+
+The MUSE instrument on the European Southern Observatory's Very Large Telescope has identified halos around distant galaxies. Previously, images of these glowing rings lacked detail, but astronomers were able to use a gravitational lensing effect of galaxy clusters to see detail and structure.
+Gravitational lensing occurs as an effect of Albert Einstein's theory of general relativity: mass bends light. So the gravitational fields of galaxy clusters bend light, acting like a magnifier of the galaxies behind them.
+The best observations of the halos by MUSE were released Monday, presented by Adélaïde Claeyssens during the annual meeting of the European Astronomical Society in Lyon, France. Claeyssens is a Ph.D. student at the Centre de Recherche Astrophysique de Lyon.
+
+Which further confuses me because the caption mentions Hubble but the article mentions data from MUSE at the VLT. I wonder if the image is a file photo and only peripherally related to the content of the news article?

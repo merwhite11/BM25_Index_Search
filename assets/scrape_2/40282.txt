@@ -1,0 +1,15 @@
+Spatial wind speed distribution on Mars using dune shapes?
+
+As a fan of exometeorology (the study of atmospheres of other planets), I scanned through a whitepaper Measuring Mars Atmospheric Winds from Orbit which says
+
+Measurements of Mars
+atmospheric winds from orbit would dramatically advance our understanding of Mars and help prepare for human exploration of the Red Planet.  Multiple instrument candidates are in development and will be ready for flight in the next decade. We urge the Decadal Survey to make these measurements a priority for 2023-2032.
+
+This gives me the impression that our knowledge about spatial wind speed distribution on Mars are scarce. But what about indirect methods to determine prevailing wind speeds at different locations on Mars?
+Some years ago I attended a lecture by Prof. Hans Herrmann showing that the shapes of Barchan sand dunes might be a good candidate for indirectly determining the prevailing winds of Mars. However, I could not find any survey study which would analyze the complete observed Mars surface for dunes and map the average wind speed on Mars. Is there such an effort already on the way? Are there any arguments against such a Mars-dune-windspeed-survey?
+Further reading
+
+Philippe Claudin, Bruno Andreotti: A scaling law for aeolian dunes on Mars, Venus, Earth, and for subaqueous ripples. cond-mat/0603656
+Eric J. R. Parteli, Hans J. Herrmann : Dune formation on the present Mars arxiv:0705.0809
+ESA.int: The effect of the winds of Mars
+Is the wind's intensity on Mars similar to Earth?

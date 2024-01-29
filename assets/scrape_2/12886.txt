@@ -1,0 +1,10 @@
+Get date and time by position of the sun and the observer position
+
+I am working on an astrology project (don't panic, my question is about astronomy or math), where I need to figure out some values by the longnitude of the planets.
+I have a program for this, the Swiss ephemeris.
+With this, I can get the position of the planets by the time and the geolocation of the observer.
+What I need to do is to do it backward, so I need to get the exact date and time by the given position of the sun and the position of the observer.
+For example, today (2015.12.16 00:00:00 UT) the longitude of the sun is 263.6893755 from postion (lng,lat,alt) 19.2,47.29,0 on Earth.
+I need a formula, what tells me, what was the UT time from this longitude of sun -88 degree.
+Can anybody give me a clue, how can I calculate this?
+I made some research of course on the net, and I found the related wiki article, but if I am honest, there are too many unknown terms and phrase here, what I really do not understand, and I do not want to dig in too deep.

@@ -1,0 +1,9 @@
+Transverse Comoving distance
+
+I don't understand the link between the comoving distance and transverse comoving distance : how can they be equal ?
+Here an example of definition that I have found :
+Angular Diameter Distance :
+The angular diameter distance $D_{A}$ is defined as the ratio of an object's physical transverse size to its angular size (in radians). It is used to convert angular separations in telescope images into proper separations at the source. It is famous for not increasing indefinitely as $z$ -> infinity; it turns over at $z \sim 1$ and thereafter more distant objects actually appear larger in angular size. Angular diameter distance is related to the transverse comoving distance by
+$D_{A}=\dfrac{D_{M}}{1+z}(17)$
+Some clarifications would be fine.
+EDIT 1: @benrg If I have well understood, the transverse comoving distance is simply equal to the comoving distance between object that has emitted at redshift "z" and us that we reveive now this light, isn't it ? If yes, why complicate the things by using the qualified word "transverse" into "transverse comoving distance" ?

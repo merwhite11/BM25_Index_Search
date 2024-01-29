@@ -1,0 +1,7 @@
+Calculating absolute error in apparent magnitude of a star
+
+I know that the apparent magnitude $m$ of a star is related to its intensity by Pogson's law:
+$m = −2.5 log_{10} I$.
+And I also know that the absolute error is defined as follows:
+Let $\hat{}$ be an approximate value of a quantity whose exact value is $x$, the absolute error of $\hat{}$ is defined as $Δ =  − \hat{}$
+If $I = 10 \pm 0.1$ how can I determinate m and the absolute error made?

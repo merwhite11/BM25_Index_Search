@@ -1,0 +1,4 @@
+Why would there be a correction for the orbit of the moon in the (geocentric) model of Ptolemy?
+
+"In order to correctly predict this position (of the celestial bodies), Ptolemy had to assume that the moon followed a path that sometimes brought it twice closer to the earth than at other times" (A brief history of time - Stephen Hawking).
+I do not understand this: both in the geocentric as well as the heliocentric model, the moon just revolves around the earth... Why then should there be a correction for the moon? Who can help me with this? I searched on wikipedia and google but didn't found an answer.

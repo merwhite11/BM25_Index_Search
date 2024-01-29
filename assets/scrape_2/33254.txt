@@ -1,0 +1,3 @@
+Is seeing the Apollo Moon landers via an Earth-based telescope that hard?
+
+There are interferometers that fuse the images produced by multiple telescopes and achieve a resolution of 0.001 arcseconds. With changes, couldn't these observe the Moon landers? Is the reason why nobody is seeing the Moon landers related to effort and not actual technical limitations (besides atmosphere interference, brightness, time use, and other general issues)?

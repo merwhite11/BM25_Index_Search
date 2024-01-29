@@ -1,0 +1,16 @@
+How is the gravitational effect of galaxies outside of the visible universe on galaxies within the visible universe currently modeled?
+
+Given currently accepted models of the universe, 
+
+How much mass is outside of the visible universe?
+What is the gravitational effect of that mass on the visible universe?
+
+The question How strong is the gravitational stretch we experience from the edge of the universe? is possibly related, but it's focused on some stretching effect which I'm not familiar with.
+One answer to the related question How much of the Universe is invisible to us, and how does it affect our theories? states:
+
+there does not seem to be any large mass concentrations outside the
+  observable universe, since these would be seen as bias for movement of
+  galaxies and galaxy groups, which also supports that the rest of
+  universe is at least very close to what we can observe directly
+
+But this talks about the absence of large mass concentrations, while I'm asking more generically how mass outside the visible universe is reflected in current models.

@@ -1,0 +1,4 @@
+Surface Brightness Definition
+
+I know the surface brightness is calculated by taking the apparent magnitude of an object and then divide by the size of the thing. But this is more of "observed" surface brightness, how do you calculate a sort of "absolute" surface brightness? I was thinking about calculating the absolute magnitude (taking into account the cosmology, K correction, etc) and then calculating the physical size of the object from the apparent size in the sky (i.e. arcsec->kpc, using the angular diameter distance).
+The surface brightness calculated this way would have units of absolute magnitudes/kpc, which is more reasonable to me (especially for comparing sources at different redshifts), but I have never seen it, only using apparent magnitudes and physical size, or simply correcting by $(1+z)^4$ for cosmological dimming. Why is this?

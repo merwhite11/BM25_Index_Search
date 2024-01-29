@@ -1,0 +1,8 @@
+Refraction by Saturn's atmosphere - how dense is it here?
+
+This tweet from CassiniSaturn shows an image of Saturn's rings being optically distorted by the dense atmosphere. It is explained more fully on this page and is available here.
+The refraction is visible because at at least some depth, the density and path length is sufficient to bend the light significantly while the density and composition is still sufficiently transparent. 
+Roughly speaking, what is the density where this is taking place? Is it rarefied compared to earth but simply a very very long path length, or is this happening at a density far larger than Earth's surface atmosphere? How large is this refraction -  like 0.1 degrees or 10 degrees? I can't picture the actual geometry very well.
+This one may be a bit of a judgement call, unless this image happens to be further documented somewhere.
+
+above: cropped portion of the NASA's Cassini image from here

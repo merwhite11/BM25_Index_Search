@@ -1,0 +1,3 @@
+Galactic Coordinate System and distance
+
+If the Galactic Coordinate System is made up of two values, angles of longitude and latitude, how is distance measured? If you have those two values, you get a line from the sun in a certain direction. There might be multiple objects on that line, how can you specify one of them in the coordinate?

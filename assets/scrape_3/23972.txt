@@ -1,0 +1,9 @@
+Can we measure comets in a similar way to exoplanets?
+
+A 2km comet at 40AU's can dim a sun sized star at 100 light years by 3%, and a 10km comet can cause an eclipse (is that right?) So would 2,3,10 km objects be easy to measure via star dimming if we had enough telescopic data from space? 
+Can we measure lines of stars that are eclipsed/dimmed in sequence by transiting comets? 
+Given 1000 frames of a small patch of space, where all the images are recorded into a 3D image stack (a 3D array, a voxel) X,Y and Time as dimensions, then an Intel processor can compare 20 million voxels per second of that collection of images to search for vector information of aligned patterns of star dimming, i.e. searching for vectors of comets.
+If that process is repeated for many patches of space, perhaps we can detect many comets, and I don't know the real maths involved, if a satellite of that design would realistically only find 1 comet, or 5000?
+It's for a theoretical comet apprehension system which uses 2/3 identical satellites  each comprised 100Tb of SSD and a 20Mflops processors to search for vector information in the images.
+Some kind of fairy idea going around in my head, because of Oumuamua and because I work on voxels and I know that image collections from space can be stacked into 3D arrays and be searched for vector patterns at 2million voxels per second on a 200W PC, an idea that I am confusedly astrally-projecting as a basis to find comets.
+edit- A quantitative answer would be cool, say if the voids between stars on the milky way arm are 8 times the width of the comet, the comet would on average hit 2 stars every 8x8 frames.

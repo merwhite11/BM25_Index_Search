@@ -1,0 +1,5 @@
+Can a meteor shower happen simultaneously all around the planet?
+
+In the original book, the classic 1962 movie and the modern 2001 re-make for TV. The store "The day of the Triffits" depicts a meteor shower that happen all around the Earth at the same time, and leaves everyone who sees it blind the following days.
+Given the nature of how the Earth rotates, moves around the Sun and a meteor field (required to create a shower of many meteorites). Is it really possible for such an event to happen everywhere at the same time?
+This is kind of an important plot in the story, because if one side of the planet goes blind first they can warn the other.

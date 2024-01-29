@@ -1,0 +1,72 @@
+How to build an adjacency matrix of stars connectivity from their physical kpc distances?
+
+I'm probing into the Illustris API, and gathering information from a specific cosmos simulation, for a given redshift value.
+This is how I request the api:
+import requests
+
+baseUrl = 'http://www.tng-project.org/api/'
+    
+def get(path, params=None):
+    # make HTTP GET request to path
+    headers = {"api-key":"my_key"}
+    r = requests.get(path, params=params, headers=headers)
+
+    # raise exception if response code is not HTTP SUCCESS (200)
+    r.raise_for_status()
+
+    if r.headers['content-type'] == 'application/json':
+        return r.json() # parse json responses automatically
+    
+    if 'content-disposition' in r.headers:
+        filename = r.headers['content-disposition'].split("filename=")[1]
+        with open(f'sky_dataset/simulations/{filename}', 'wb') as f:
+            f.write(r.content)
+        return filename # return the filename string
+    return r
+
+And this is how I get star coordinates for a given subhalo in this particular simulation. Note that -if I'm doing it right- distances have already been converted from ckpc/h to physical kpc:
+import h5py
+import numpy as np
+
+simulation_id = 100
+redshift = 0.57
+subhalo_id = 99
+
+scale_factor = 1.0 / (1+redshift)
+little_h = 0.704
+
+params = {'stars':'Coordinates,GFM_Metallicity'}
+
+url = "http://www.tng-project.org/api/Illustris-1/snapshots/z=" + str(redshift) + "/subhalos/" + str(subhalo_id)
+sub = get(url) # get json response of subhalo properties
+saved_filename = get(url + "/cutout.hdf5",params) # get and save HDF5 cutout file
+
+with h5py.File(f'sky_dataset/simulations/{saved_filename}') as f:
+    # NOTE! If the subhalo is near the edge of the box, you must take the periodic boundary into account! (we ignore it here)
+    dx = f['PartType4']['Coordinates'][:,0] - sub['pos_x']
+    dy = f['PartType4']['Coordinates'][:,1] - sub['pos_y']
+    dz = f['PartType4']['Coordinates'][:,2] - sub['pos_z']
+    
+    rr = np.sqrt(dx**2 + dy**2 + dz**2)
+    rr *= scale_factor/little_h # ckpc/h -> physical kpc
+
+    fig = plt.figure(figsize=(12,12))
+    with mpl.rc_context(rc={'axes3d.grid': True}):
+        ax = fig.add_subplot(projection='3d')
+
+        # Plot the values
+        ax.scatter(dx, dy, dz)
+        ax.set_xlabel('X-axis')
+        ax.set_ylabel('Y-axis')
+        ax.set_zlabel('Z-axis')
+    plt.show()
+
+The above plots:
+
+
+My aim is to build a connectivity network for this system, starting with an square (simetrical) adjacency matrix, whereby any two stars (or vertices) are connected if they lie within the linking length l of 1.2 Mpc, that is:
+Aij = 1 if rij ≤ l, otherwise 0
+
+where rij is the distance between the two vertices, i and j.
+
+Any ideas on how to get this adjacency matrix, based on my linking length? Any help would be greatly appreciated.

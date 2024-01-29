@@ -1,0 +1,6 @@
+What is the level of tidal heating between bodies that are already in mutual tidal lock?
+
+As I understood tidal heating, it comes from tidal force acting upon a body as it spins, distorting it; the wave of distortion travels along the surface (along with apparent travel of the other body on the sky) and continued friction as the matter is strained into the traveling wave is the source of tidal heating.
+Now, if the two bodies are in a tidal lock, the distortion remains constant - it doesn't move. There's no new work done as the bodies remain immobile relative to each other. The tidal heating should be a flat zero.
+Meanwhile, Io has immense volcanic activity attributed to tidal heating - despite it being tidally locked to Jupiter. While it still heats Jupiter, dragging its own tidal wave around it, Jupiter shouldn't contribute any heat to Io as its distortion remains constant over time, a stable equilibrium.
+Is that just residual heat from times when Io was spinning or am I missing something?

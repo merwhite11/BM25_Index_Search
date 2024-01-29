@@ -1,0 +1,13 @@
+Why does the 'Big Bang Nucleosynthesis' theory require that neutrinos, or at least sterile neutrinos, have a LARGE mass rather than a tiny one?
+
+From Wikipedia, Sterile neutrino
+
+Particles that possess the quantum numbers of sterile neutrinos and masses great enough such that they do not interfere with the current theory of Big Bang Nucleosynthesis are often called neutral heavy leptons (NHLs) or heavy neutral leptons (HNLs).
+
+Neutrinos were not expected to possess mass at all, let alone 'great' ones...
+The following might provide a clue:
+From Wikipedia: Liquid Scintillator Neutrino Detector
+
+Cosmological data bound the mass of the sterile neutrino to ms < 0.26eV (0.44eV) at 95% (99.9%) confidence limit, excluding at high significance the sterile neutrino hypothesis as an explanation of the LSND anomaly.
+
+Huh?    I am confused...

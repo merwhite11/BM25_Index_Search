@@ -1,0 +1,3 @@
+Why is detecting brown dwarfs difficult?
+
+Why is detecting brown dwarf stars tedious and not always successful? They emit light in the infrared region, and given that we're surrounded by state-of-the-art technology in space today, why haven't the success rate grown? Why aren't all of the infrared-capable telescopes able to see them?

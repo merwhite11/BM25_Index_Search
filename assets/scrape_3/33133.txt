@@ -1,0 +1,7 @@
+Textbook to explain measurements and calculations for heliocentric solar system
+
+I'm trying to identify a textbook I had briefly and then lost. I had a PDF file of an astronomy textbook, but the hard drive crashed irreparably before I could thoroughly read the textbook, or even record the author and title.
+The textbook covered the history of geocentric theories, explained how to make basic astronomical instruments to measure angles, and how to make arguments for heliocentrism. As I recall, the book mentioned that given high-resolution photography, one can prove heliocentrism by measuring how some celestial bodies appear larger at different times of the year.
+I am trying to at least work through the calculations for heliocentrism on paper, even if I don't end up crafting my own instruments. If no one knows of any one textbook that covers all these topics, I would still be grateful for relevant textbooks that cover some of these topics.
+Update: It is not a complete answer, but a good start can be found with the ephemeris question asked at:
+https://astronomy.stackexchange.com/a/7973/29149

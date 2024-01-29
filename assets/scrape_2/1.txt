@@ -1,0 +1,5 @@
+How do I calculate the inclination of an object with an amateur telescope?
+
+Suppose I would like to calculate the inclination of a satellite from the ecliptic. Would it be possible to do this with an amateur telescope? How would I go about doing so?
+
+Note: A good answer should tell what kind of telescope an amateur would need, what measurements they would need to make, then what calculations they would have to perform to get the inclination (or the "instantaneous angular measurement from the ecliptic at the time of measurement").

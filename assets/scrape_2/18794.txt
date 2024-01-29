@@ -1,0 +1,5 @@
+Will the Earth ever be tidally locked to the Moon?
+
+From my basic understating, 
+Momentum is being transfered from the Earth's rotation to the Moon's orbit by tidal friction. The Earth's rotation slows down and the Moon receedes from the Earth as it moves into a higher orbit. This will continue until the Earth's rotational period is equal to the orbital period of the Moon, i.e the Earth is tidally locked to the Moon.
+Assuming I have the above correct - and please correct me if I don't - will there, realistically, be enough time for tidal locking to  occur before the sun expands and engulfs the Earth? Or is there another reason the Earth will never be locked towards the Moon?

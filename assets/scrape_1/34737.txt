@@ -1,0 +1,19 @@
+What is the exact time of sun stay in each zodiac every year on sidereal year duration?
+
+I tried to reverse engineer from astro-chart times at which sun stays in a zodiac.
+Here is the list.
+Sun_Stay_zodiac  timeofstay_sec   timeofstay_days
+  1  Aries         2672700     30 day 22 hour 00 minute
+  2  Taurus        2714700     31 day 10 hour 05 minute
+  3  Gemini        2734080     31 day 15 hour 28 minute
+  4  Cancer        2719440     31 day 11 hour 24 minute
+  5  Leo           2680080     31 day 00 hour 28 minute
+  6  Virgo         2586960     29 day 22 hour 00 minute
+  7  Libra         2626020     30 day 09 hour 27 minute
+  8  Scorpio       2548020     29 day 11 hour 47 minute
+  9  Sagittarius   2533080     29 day 07 hour 38 minute
+ 10  Capricorn     2544240     29 day 10 hour 44 minute
+ 11  Aquarius      2576520     29 day 19 hour 42 minute
+ 12  Pisces        2622540     30 day 22 hour 25 minute
+
+Since the orbit of earth is elliptical and therefore also variation is orbital speed the stay of sun in each zodiac is different i.e Maximum at Gemini and after 6 months minimum at Sagittarius. However when I add them up sums up to 31558380 seconds which is 230.495 seconds than time in seconds in sidereal year ie 31558149.504 Now what I am looking for is more exact time duration of sun stay in each zodiac that includes seconds. I hope this data that I have in my question will help others too.

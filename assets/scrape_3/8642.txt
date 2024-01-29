@@ -1,0 +1,3 @@
+How to find RA 0
+
+I am standing in an open area and can see the sky for a full 360 degrees. I have the coordinates of an object (RA and DEC). Where do I look to find RA 0?

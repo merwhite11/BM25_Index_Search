@@ -1,0 +1,3 @@
+Finding the Uncertainty in a Spectral Line
+
+Currently, I am doing a lab in school on atomic spectroscopy. After taking readings of strong emission lines of various elements, I have fit the data using a Voigt Profile function from lmfit. The function minimizes the reduced chi-squared  and returns the best fit along with fitting parameter values (center, amplitude, sigma, gamma). I am mainly interested in the center of the line profile. But, what is the uncertainty in this reported center? Or how would I report the measurement and its uncertainty.

@@ -1,0 +1,5 @@
+What kind of beast is Daylight Savings Time and Standard Time?
+
+I understand that UTC, for example, is a "time system" and that there are regions of the globe that are divided into "time zones" (offsets from UTC); but what class of thing is, for example, Daylight Savings Time. It's not a "time" of course, nor, clearly, a "time zone" or a "time system". Is there a term for what it is? How for example would one complete the following?
+
+What _____ are we using today? Daylight Savings Time or Standard Time?

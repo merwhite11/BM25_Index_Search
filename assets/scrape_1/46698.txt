@@ -1,0 +1,3 @@
+Can a satellite stay in one place but not above equator?
+
+I know that there are geostationary satellites that are always seen in one place in the sky and that they all are located in the equatorial area. I wonder if it's possible for a satellite to "hang" still, for example, above Moscow (55.7558° N, 37.6173° E)?

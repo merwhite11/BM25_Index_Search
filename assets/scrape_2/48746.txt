@@ -1,0 +1,36 @@
+Making an application to draw the night sky of other planets
+
+I'm making an application for drawing a night sky of planets other than Earth. Ultimately my app may be used to draw a night skies of a hypothetical planets in other solar systems. I'm doing it because I found a lack of such software and also out of curiosity :).
+The problem I stood upon is orientating the stars based on astronomical data user provides. I assumed all I need to properly orient them are below parameters:
+
+Axial tilt
+Longitude of ascending node
+Inclination
+Ascending node of the planet's equator
+
+I's specifically looking for a star positions data source that has got these properties:
+
+The X axis points at the Earth's vernal equinox point,
+and the Z axis points at the celestial north pole
+
+Having all above my app does a series of rotations on the star data. The algorithm is:
+
+nivelate the Earth's axial tilt by rotating around X axis by 23°
+make an A vector by rotating a vector pointing at +X axis around +Z axis by the planet's "Equator asc. node"
+rotate around the A vector by the planet's axial tilt
+make a B vector by rotating a vector pointing at (new) +X axis by the planet's "Long. of asc. node"
+rotate around the B vector by the planet's Inclination
+
+
+I made some assumptions in the above algorithm:
+
+All target planet's orbital data are taken relative to the Earth orbit,
+Earth's parameters except axial tilt are equal to 0
+
+My application works...in a way. Here is what I get when I put the Uranus' orbital parameters:
+
+According to the Wikipedia Uranus' north star is 35Eta Oph which on my result is below the center.
+One might say I got "close enough", but I'm not happy with the results. I believe I made some error either in my algorithm, or forgot some other important parameter. I know there are applications like Stellarium that one can set to show a night sky of other planets in the solar system, but my quick glide over Stellarium's source code tells me the app has got the locations of solar system's planets north pole hardcoded.
+So, my question is: Is there any flaw in my algorithm or in my reasoning, that makes my program produce incorrect results?
+PS:
+If one is interested, there is my app: https://github.com/felix-leg/ExPlanetNightSkyGenerator

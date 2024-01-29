@@ -1,0 +1,8 @@
+Singularities/ringularities and their properties
+
+A black hole contains a singularity at its center. It is a zero-dimensional point, and  it's where all its mass is located. So, my first question is:
+If a singularity contains all a black hole's mass, when a black hole absorbs matter, the matter should collect at the singularity. Then why does the black hole increase in size? The matter it absorbs is all in the singularity, not in the space around it...
+Second, we know that spinning black holes can't have a singularity at the center as a point, because points can't spin, and when they do, they aren't a point. So there is such thing as a ringularity where it is a one-dimensional line bent in a circle that spins, and contains all the black hole's matter. 
+However, is a ringularity really a bent one-dimensional line in a circle, or an infinite collection of points that form a circle-looking figure?
+
+(My information on ringularities is from a paper published by Cornell University that compared the one-dimensional line to a bunch of zero-dimensional points, and videos by Kurgesagt.)

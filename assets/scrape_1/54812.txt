@@ -1,0 +1,4 @@
+Calculating intensity of moonlight per unit area
+
+I have a photodiode that can measure intensity in picowatt to milliwatt range.
+I have a telescope of 5 inch diameter. I want to calculate the intensity of moonlight received by this area? This will help me to decide whether I can use the photodiode for my measurements. I want to do similar calculations for other planets as well. How can I do this?

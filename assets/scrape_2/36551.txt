@@ -1,0 +1,5 @@
+Computing radial-velocities from Cross Correlation data
+
+How can I better fit a Gaussian curve to a CCF so that I get the most precise RV value? The image below shows the fitting where I compared the fitting by weighting by the uncertainties and not. There is not a big difference between them because the errors are nearly the same for all data points.
+
+The RV is the $\mu$ and the uncertainty was gotten from the covariance matrix first time in the diagonal. Performing a similar procedure but for summing several orders (such as fig. below) gives me the RV time-series which has too much spread. I need to find a way to reduce the noise as much as possible. I am not showing the errors in RV time-series because I thought it to be coming from the covariance matrix but it looks unrealistic (too big).

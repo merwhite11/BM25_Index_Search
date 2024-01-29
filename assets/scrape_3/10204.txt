@@ -1,0 +1,29 @@
+Is stacking welder's glasses a safe way to watch at the eclipse?
+
+You can find in many place on the Internet that welder's glass #14 is good for looking at an eclipse. Tomorrow (March, 20th 2015 at 10:45 CET) there's a solar eclipse and yesterday I could only find glasses #11 and #9. I tried briefly this morning, and combining a #11 and a #9 was giving me a good view of the sun. Using 2 #11 gave a too dark image. Now, I read different opinions on the internet.
+Against (Perkins Observatory):
+http://perkins.owu.edu/solar_viewing_safety.htm
+
+Be careful that you use the right kind of glass! Welder's glass is
+  numbered from 1 to 14 with 14 being the darkest. It is only number 14
+  glass that is dark enough for solar viewing! And NO STACKING! A pair
+  of number 7's or a 10 and a 4 together DO NOT have the same protection
+  as a single piece of number 14 (see unsafe methods for more details).
+
+Favorable (Royal Astronomical Society of Canada):
+https://www.rasc.ca/tov/safety
+
+If SN14 filter is not available, it is possible to combine lower shade
+  numbers to get roughly the same level of eye protection from solar
+  radiation, e.g. combining SN 6 and SN 8 filters. However the image
+  quality may be considerably poorer than that seen through the single
+  SN14 filter
+
+I could not find a table or something explaining which kind of protection gives each number; according to the Canadian website, the only concern is about how much infrared light goes through, ultraviolet does not seem to be a problem in almost any case (I was surprised to read that).
+Note: It's not my intention to open here the discussion on what could be other safe methods to watch the eclipse, this is well explained everywhere around. I read too late about the eclipse to order specific glasses.
+Edit:
+One of the answers here report the following formula: (more insight at this link)
+
+13 or darker is safe enough. Also, you CAN add up welding glass, using
+  the formula S(sum) = S1 + S2 -1. S(sum) should be greater than or
+  equal to 13

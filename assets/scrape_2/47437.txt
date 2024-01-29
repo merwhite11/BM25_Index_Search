@@ -1,0 +1,15 @@
+How to quickly loop through many small fits files for data analysis?
+
+I need to extract information from a few columns in ~20k different fits files with python. Each file is relatively small, ~0.2MB. I have been doing this so far with a loop and astropy like this:
+from astropy.io import fits
+
+data = []
+for file_name in fits_files_list:
+    with fits.open(file_name, memmap=False) as hdulist:
+        lam = np.around(10**hdulist[1].data['loglam'], 4)
+        flux = np.around(hdulist[1].data['flux'], 4)
+        z = np.around(hdulist[2].data['z'], 4)
+    data.append([lam, flux, z])
+
+This takes for the 20k fits files ~2.5 hours and from time to time I need to loop through the files for other reasons.
+So my question is: Can I minimize the time for looping? Do you know of other packages besides astropy that would help me? Or do you know if I can change my algorithm to make it run faster, e.g. somehow vectorize the loop? Or some software to stack quickly 20k fits files into one fits-file (TOPCAT has no function that does this for more than 2 files)? Thanks for any ideas and comments!

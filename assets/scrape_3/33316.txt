@@ -1,0 +1,21 @@
+What parameters cause sunburn?
+
+I am new to this site so if the question doesn't fit in this forum feel free to remove it.
+I have read here https://en.wikipedia.org/wiki/Sunburn of all the causes of sunburn and I was mostly aware of all of them. I will list them here:
+
+($1$) The time of day. In most locations, the sun's rays are strongest between approximately 10am and 4pm daylight saving time.
+($2$) Cloud cover. UV is partially blocked by clouds; but even on an overcast day, a significant percentage of the sun's damaging UV radiation can pass through clouds.
+($3$) Proximity to reflective surfaces, such as water, sand, concrete, snow, and ice. All of these reflect the sun's rays and can cause sunburns.
+($4$) The season of the year. The position of the sun in late spring and early summer can cause a more-severe sunburn.
+($5$) Altitude. At a higher altitude it is easier to become burnt, because there is less of the earth's atmosphere to block the sunlight. UV exposure increases about 4% for every 1000 ft (305 m) gain in elevation.
+($6$) Proximity to the equator (latitude). Between the polar and tropical regions, the closer to the equator, the more direct sunlight passes through the atmosphere over the course of a year. For example, the southern United States gets fifty percent more sunlight than the northern United States.
+
+My question is, can we compose ($1$), ($4$) and ($6$) into one statement: "Height of sun over the horizon"?
+Wikipedia seems to hint that we can since it says:
+
+Regardless of one's latitude (assuming no other variables), equal shadow lengths mean equal amounts of UV radiation.
+
+However, the statement is kind of vague and I would like confirmation.
+Another doubt I have regarding this is experience. I live in Europe where solar noon is at 1pm during summer and the day is longest on June 21 (or 22, whatever). But, people seem to get way more sunburn in, say, August 21 than in April 21, and also more at 4pm than at 10am (regardless of the month). It is also hotter in August than in April and at 4pm than at 10am. So it might be that people simply spend more time out because it's hotter and therefore get more sunburn, but it also might be that the temperature affects our skin somehow and we do get more sunburn when it's hotter.
+So, taking clouds, reflective surfaces and altitude out of equation, is it true that sunburn is caused just by the height of the sun above horizon? If I spend 5 minutes at some place on a sunny day at noon in April, will I get the same amount of sunburn as I would at 3pm in June? (given that the sun is at the same height over the horizon at that times, and that 5 minute span is short enough to approximate that sun stays "fixed" in the sky)
+My intuition says it should be true that height over horizon is the only parameter that should matter, but my experience shows different. Moreover, if I am correct, is there some graph/table showing how much intensity (or some other unit?) of sunburn I get with respect to height of sun? (say at zero altitude on a sunny day without reflective surfaces, or at some other, fixed, reference configuration).

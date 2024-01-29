@@ -1,0 +1,4 @@
+How Can I interpret this particular light curve without reading data on the side
+
+There is only one dip in flux recorded. How can I interpret this particular light curve and find planetary radius
+https://exo.mast.stsci.edu/exomast_planet.html?planet=55Cnce

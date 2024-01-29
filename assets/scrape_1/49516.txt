@@ -1,0 +1,3 @@
+Distribution function for distance to nearest stars from any given star in our galaxy
+
+If I pick any random star in our galaxy,  what is the mean & std dev of distances from that star to its, say, 5 nearest neighbors?  As this distribution likely depends on the distance from the galactic center, is there a useful function of said radial position that can be applied?

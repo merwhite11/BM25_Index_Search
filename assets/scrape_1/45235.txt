@@ -1,0 +1,7 @@
+Could there be an eclipse tomorrow if the Pleiades is covered by the Moon tonight?
+
+I'm trying to solve this task:
+
+Suppose today there is a covering of the Pleiades star cluster by the Moon. Could there be an eclipse of the sun tomorrow? The moon?
+
+I think the answer to both is no, because Pleiades are located above the ecliptic, but I'm not sure. Could someone provide an explanation please?

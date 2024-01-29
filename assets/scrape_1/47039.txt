@@ -1,0 +1,11 @@
+Shortest and longest wavelengths at which exoplanets have been resolved from their primaries?
+
+Phys.org's Radio signals from distant stars suggest hidden planets summarizes the Nature Astronomy paper The population of M dwarfs observed at low radio frequencies (also in arXiv) but this is an indirect measurement.
+Here I'd like to ask about techniques that provide resolved imaging of the system, where the exoplanet can be separated spatially from its primary. In other words some kind of image where one can say "here's the exoplanet, north-east of the primary at X micro-arc seconds."
+Question: What are the shortest and longest wavelengths at which exoplanets have been resolved from their primaries?
+I think these are usually done using adaptive optics in red or near infrared light and silicon CCDs, so perhaps something like 700 to 1000 nm. But has any exoplanet been imaged in visible light? Or UV, perhaps from the HST?
+On the other side, have large radio telescope arrays ever resolved exoplanets? I'd guess not as their Suns would not illuminate them with sufficient brightness (How far have individual stars been seen by radio telescopes?)
+
+This is a particularly nice example source:
+
+Motion interpolation of seven images of the HR 8799 system taken from the W. M. Keck Observatory over seven years, featuring four exoplanets

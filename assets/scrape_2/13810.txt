@@ -1,0 +1,3 @@
+Create Position-Velocity diagram from a velocity field
+
+Can someone explain to me how I can generate a Position-Velocity (PV) diagram from a galaxy's radial velocity field? I understand that usually PV diagrams are generated across the major axis of the galaxy, but I am not quite sure why they appear as a distribution. For example:

@@ -1,0 +1,3 @@
+How are cardinal points on horizon defined?
+
+How are the cardinal points (North-East-South-West) defined? On equatorial regions it is somewhat obvious. But what about the higher latitudes? If the pole star is up above the sky instead of horizon, how do we define North? What is the case on the geographic poles?

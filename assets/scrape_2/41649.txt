@@ -1,0 +1,3 @@
+Why do M dwarfs emit more X-ray radiation than larger, more luminous stars?
+
+I have read that "The relative amount of harmful radiation (to life as we know it) that stars emit can be 80 to 500 times more intense for M dwarfs relative to our Sun". Source This seems counterintuitive to me since the HRD depicts M dwarfs to be less luminous. How are these types of stars able to produce such copious amounts of radiation? What are the physical mechanisms behind this? I cannot find an answer to this online or in papers. The information I find simply restates it but does not explain it. I could use some insight as this seems counterintuitive.

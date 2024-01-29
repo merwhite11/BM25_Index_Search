@@ -1,0 +1,3 @@
+Why is the eccentricity of Triton so low?
+
+Triton is very special, since its orbit is retrograde respect Neptune, its obliquity is near 0° and its orbit is almost circular (according to Harris (1984) is $5 \times 10^{-4}$). I'm familiar with the theory that claims that Triton was several Myr ago a KBO that was captured by the gravity of Neptune, but I didn't find an actual explanation of why the orbit is almost circular. Can anybody give me some theories that actually explain the cause of this? I've heard about tidal circularization, but I don't know if that explains it at all...

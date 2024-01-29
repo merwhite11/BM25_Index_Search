@@ -1,0 +1,8 @@
+Calculating the Angular Momentum of a planet
+
+I want to calculate the Angular Momentum of any planet at any point on the orbit around the Sun.
+Example: I want to calculate the Angular Momentum of Pluto today, on Jan 27, 2021 00:00:00 Hrs
+Where can I get the actual data to calculate this?
+I will need Mass, Velocity and Radius to calculate. Do I need the θ too?
+Is it readily calculated by NASA?
+http://hyperphysics.phy-astr.gsu.edu/hbase/amom.html

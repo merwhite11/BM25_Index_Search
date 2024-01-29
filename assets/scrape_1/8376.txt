@@ -1,0 +1,4 @@
+Is Nomad data heliocentric or geocentric?
+
+I'm wondering if the data in star catalogues are heliocentric equatorial coordinates or geocentric equatorial coordinates. Also given the distance between stars compared to the distance between the sun and the earth, would this be a big deal to mix up the two?
+http://en.wikipedia.org/wiki/Celestial_coordinate_system

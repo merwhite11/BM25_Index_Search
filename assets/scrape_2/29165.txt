@@ -1,0 +1,6 @@
+Simulating Noise in Astronomical Images
+
+I want to add realistic noise to a simulated image but I am a little confused about the process. I want to have some Gaussian random noise representing the readout noise and to also add Poisson noise correlated with the signal in the image.
+I understand how to add the Gaussian random noise; I draw samples from a Gaussian with fixed width and add the samples onto the pixel values.
+I am confused about the Poisson noise though. Is this noise only correlated to the noiseless signal?
+i.e I should draw samples from the Poisson distribution with $k = \mathrm{pixel  value}$ (before adding the random noise) and add it to the noiseless image.

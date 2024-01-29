@@ -1,0 +1,3 @@
+Size of the Unobservable Universe
+
+If you search that question on Google, the answers will be "250 times the size of the observable universe" or "more than 15.000.000 the size of the observable universe". Both of them come from a different interpretation of the same paper (https://academic.oup.com/mnrasl/article/413/1/L91/1747653#25823893), which estimate the universe size using the Bayesian model. Even if most articles say that the universe is 15.000.000 bigger than the observable, I don't think It's true, since I read the article and from what I understood the minimum size of it is 250 larger than a Hubble sphere (i.e. the observable universe), not 250 time the radius of the Hubble sphere. Am I right or wrong? An answer will be very appreciated, thanks in advance.

@@ -1,0 +1,4 @@
+Could someone explain RA/dec in simple terms?
+
+The equatorial coordinate system isn't too complicated. However, for people new to this, it seems rather intimidating at first.
+Is there an easy way to explain it?

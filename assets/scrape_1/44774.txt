@@ -1,0 +1,6 @@
+What are the aspects does the moon differs between cities located on the same latitude?
+
+What are the aspects does the moon (astronomical position and other astronomical aspects) differs between cities located in the same latitude? - For example: Seattle, Munich, Vienna, and Ulaanbaator are on the same line,
+If there are four persons see the night sky at the same time: the sky view (constellations) will be the same because they all on the same latitude; but Does the moon position and movement and the time of rise and set, will be exactly the same?
+
+Could using ephemeris of the moon calendar (Ascension, declination, culm, Constellation ...etc) help to know the differences? and Which aspect is the most obvious one?

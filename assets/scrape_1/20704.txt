@@ -1,0 +1,7 @@
+How are people converting intensities in Janskys to Kelvin?
+
+I'm reading some ALMA proposals and I am often seeing a conversion from Jy to Kelvin when, for example, people quote noise levels or source flux.
+For example on their sensitivity calculator
+(https://almascience.nrao.edu/proposing/sensitivity-calculator) 1 mJy is equivalent to around 1 K when the angular resolution is 1". I can tell it somehow depends on the resolution because it won't give me a conversion unless I enter a resolution. 
+What's happening under the hood here? And why does their documentation treat sensitivities entered in Kelvin differently from when they're entered in Jy? Is this an interferometry thing?
+Thanks

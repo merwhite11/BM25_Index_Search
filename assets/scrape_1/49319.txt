@@ -1,0 +1,3 @@
+Will the upcoming experiment PICO measure kSZ temperature anisotropy?
+
+I know for sure PICO will be measuring polarization anisotropies with high fidelity. In addition, the PICO science paper shows that it will make full-sky Compton-y maps but the plots are mostly limited to l=1000. Will PICO be able to measure kSZ temperature anisotropy at l=3000?

@@ -1,0 +1,3 @@
+Extracting specific star data from Gaia DR2?
+
+I would like to extract all Gaia DR2 sources which have six-parameter solutions as well as their radial velocities and effective temperatures. Is this possible as DR2 only specifies that there are 1,331,909,727 sources with parameters?

@@ -1,0 +1,5 @@
+Can one or more moons orbit around a double planet system?
+
+Given a double planet system where the two bodies are of similar mass;
+Can a moon orbit one or both planets in a stable orbit?
+How about an artificial satellite?

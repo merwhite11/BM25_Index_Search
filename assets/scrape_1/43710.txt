@@ -1,0 +1,8 @@
+How galactic density falls using Oort constants
+
+I am given the observations that Oort constants $A$ and $B$ are, respectively: $14.5 \text{km s}^{-1} \text{kpc}^{-1}$ and $-12 \text{km s}^{-1} \text{kpc}^{-1}$. From these, I am supposed to conclude that the galaxy density falls off as $\sim R^{-2}$. (Source of problem: Paper 2 Question 7 of 2016, Cambridge Astrophysics Tripos - see page 17.)
+I don't see how I can pull this off, would appreciate any help.
+
+In the earlier part of the question, I proved that at the solar location, it is true that
+$$\frac{\partial^{2} \Phi}{\partial z^{2}}=4 \pi G \rho_{0}+2\left(A^{2}-B^{2}\right)$$
+which might help somehow, but I don't see how.

@@ -1,0 +1,4 @@
+Creating an HR diagram from tabulated stellar data
+
+I teach statistics and study Astronomy.  I'd like to create an activity for my statistics students using star data.  They could enter the data into Excel and create an HR diagram.  We are currently studying Correlation & Regression.  I wanted to show them that a scatter-plot can be VERY interesting.  
+Where can I get stellar data that is already in a format that my students can use excel to create a scatter-plot?  Unbeknownst to them, they will create an HR diagram.

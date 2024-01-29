@@ -1,0 +1,6 @@
+Does the (relative) distance of the photon sphere from the center of a black hole vary according its mass?
+
+I know that the photon circle or photon sphere is located at around 1.5 times the radius of the Schwarzschild event horizon, but wouldn't it be comparatively further out for smaller black holes?
+After all, less massive black holes are actually denser than larger ones, correct?
+And the 'worldlines' (spacetime pathways, ds2) around supermassive black holes, just outside of the event horizon, are less curved or bent than around a much smaller black hole?
+So, for instance, an ultramassive smbh has a photon sphere just outside of its event horizon?

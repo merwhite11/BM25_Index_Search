@@ -1,0 +1,13 @@
+Can Kepler's 3rd Law be applied in higher dimensions to describe orbits (quadric surfaces)?
+
+Motivation for asking:
+The 2-D orbital path of a celestial body revolving around another celestial body due to the force of gravity can be described by a conic section; this is the curve formed by intersecting a plane with the surface of a cone. This generalized conic section is given by:
+$A x^2 + B xy + C y^2 + D x + E y + F = 0$
+The ellipse is one example of a conic section (others being parabola and hyperbola); this happens when $B^2 - 4 A C < 0$. 
+Kepler's 3rd Law can be applied to elliptical orbits; this relates the orbital period $T$ and the semi-major axis $a$ of the orbit such that:
+$\frac{a^3}{T^2}$ $=$ $\frac{G (M + m)}{4 \pi^2}$
+As I understand it, Kepler's Law holds when the orbital path is 2-D. What happens when the orbital path is 3-D? I am aware that the conic section in 3-D is referred to as a quadric surface, which is given by:
+$A x^2 + B y^2 + C z^2 + D xy + E xz + F yz + Gx + Hy + Jz + K = 0$ 
+Say one were to rotate the 2-D orbit by its polar angle in spherical coordinates - that is, the altitude (as opposed to azimuth) - by a non-zero amount such that the orbit was in 3-D (changing z-coordinates as a function of time). Doing this, we can generate an ellipsoid, which is given by: $(\frac{x}{a})^2$ + $(\frac{y}{b})^2$ + $(\frac{z}{c})^2$ = 1. 
+Question:
+Could the logic behind Kepler's 3rd Law be used to relate the orbital period $T$ of a body on an ellipsoidal path to any of the ellipsoids parameters $a, b, c$? What if the path weren't ellipsoidal, but some other quadric? Can the quadric surface always be reduced to a rotate 2-D conic section? Or are ALL orbits considered Keplerian?

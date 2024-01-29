@@ -1,0 +1,5 @@
+What's the bleeding-edge model for how Population III stars are born and evolve?
+
+I'm trying to do a brief literature review to find out what the best current models for population III stellar evolution are. I was hoping that someone with more expertise in the area could perhaps summarise or point me in the right direction.
+This post on physics.SE is a great intro, but it's now over 4 years old. 
+Recent observations (see here and here) suggest hints of these kinds of stars at relatively low redshift (z ~ 6) - does this provide significant tension on current models? Have there been other observational hints?

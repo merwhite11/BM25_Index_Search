@@ -1,0 +1,9 @@
+What is direction of Sun's axis of rotation relative to the Earth's orbital plane around the Sun?
+
+The present northern direction to the nearest 0.5 degrees with degree zero being the start of January and measured counterclockwise (same as Earth's orbit relative to celestial north pole). 
+If the assumptions below do not allow a precision of 0.5 degrees then I imagine this question is unanswerable without specifying a specific date and time, in which case the specific date and time would be 1 January 2017, 00:00:00 hours.
+Assumptions: (1) That the Earth's orbit around the sun is a perfect circle (I know it's very slightly elliptical but intuitively imagine that won't significantly affect the precision I need). (2) That the Sun's center is at the center of Earth's circular orbit (I know the Sun's center isn't exactly but don't imagine that will affect the accuracy I need either).
+Note 1: I've found three general answers from three different sites, but, two of them appear to me to conflict and the other is too imprecise.
+Note 2: This is my first post to this site and I did not plow through the hundreds of questions related to these tags. So if this question has already 
+been answered I apologize and please be merciful and point me in right direction. 
+Thank you

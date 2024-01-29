@@ -1,0 +1,4 @@
+How do we differentiate between a star or planet and noise introduced due to equipment?
+
+I understand that differentiating between celestial bodies and noise due to equipment is a fundamental problem in astronomy. I also understand that we solve this problem by looking at something called flux density and continuum and line spectra but how do I understand these terms ??
+Please consider I'm well versed in university level physics so I understand how spectra will help but don't understand which quantity's flux density do we look for in astronomy. Please help me understand these terms and hence solve the noise vs star/planet problem.

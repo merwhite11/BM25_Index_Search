@@ -1,0 +1,5 @@
+How to tell whether an optical spectrum is featureless or just with a low S/N?
+
+
+A featureless spectrum and a spectrum low S/N are very similar. 
+Is there a way to tell the difference between them?

@@ -1,0 +1,5 @@
+How to take into account the filter response in thermal and reflected flux density calculations?
+
+I'm using python to calculate the thermal and reflected flux densities of a faceted asteroid model, where both equations have the Planck function present in them.
+Currently, I'm integrating the Planck function over the bandpass of the filter. For instance, using the Spitzer Space Telescope's IRAC channel 2 filter, I'm integrating it with an effective wavelength of 4.493 microns with a bandwidth of 1.010 microns. Is this correct way to do it, given this filter has a top-hat filter distribution?
+For the case, of the reflected flux density, I'm integrating it with the bandpass of the Johnson standard V filter with an effective wavelength of 0.551 microns and a bandwidth of 88 microns. However, this V filter has Gaussian looking distribution. How do I take this into account?

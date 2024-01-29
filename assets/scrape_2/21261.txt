@@ -1,0 +1,4 @@
+How does the Hubble telescope capture long-exposure photos?
+
+I recently learned (if I understood correctly) that the famous Ultra Deep Field photo(s) required something like a 10-day exposure on a very tiny piece of the sky to achieve. How can this occur when the telescope is constantly in motion zipping around earth at ~17,000 mph? Wouldn't the earth and/or possibly the moon get in the way every 90 minutes or so?
+I suppose my question applies to just about any photo it takes since it would be out of alignment of the target in less than a second.

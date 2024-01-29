@@ -1,0 +1,13 @@
+Why is Neptune true anomaly decreasing?
+
+So I've been having fun with trying to determine where the perihelia of different planets are (using JPL Horizons).
+And by the time I got to Saturn, something weird started happening. I've noticed that at some moments true anomaly (that I've used to track perihelion time) started falling rather than rising. I've also noticed that it seems to be only a slight effect, which also demonstrated ~ 17 days period. So I though: perhaps that's the effect of Titan, right? Problem solved.
+Yet now I look at Neptune's true anomaly (see the last column on the picture) and have absolutely no idea what's going on.
+Can somebody explain, please? How is something like that even possible? It's like the planet decided to go backwards for a change.
+My settings are:
+Ephemeris Type [change] :   OBSERVER
+Target Body [change] :  Neptune [899]
+Observer Location [change] :    Sun (body center) [500@10]
+Time Span [change] :    Start=1900-01-01, Stop=2100-12-01, Step=1 Y
+Table Settings [change] :   QUANTITIES=18,41
+Display/Output [change] :   default (formatted HTML)

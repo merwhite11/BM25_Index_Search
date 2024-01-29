@@ -1,0 +1,3 @@
+Why do X-ray binaries such as GRS-1915 have active and quiet states?
+
+X-ray binaries such as GRS-1915 feature a black hole and a regular star. The x-ray luminosity is likely related to the rate of mass flow into the black hole from the star so when there is a lot of mass flow the x-ray luminosity is high but this explanation seems to just beg the question as to why the mass flow would change over time.

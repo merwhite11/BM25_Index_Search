@@ -1,0 +1,21 @@
+How would a celestial map for Callisto depict the paths of Jupiter, the Sun, etc.?
+
+Let's say we're mapping Callisto's northern celestial hemisphere in a way similar to this map of Earth's.
+Along with the stars (which let's just ignore for this question), this map will identify the paths of four objects:
+
+The Sun
+Jupiter
+Ganymede (closer to Jupiter)
+Himalia (farther from Jupiter)
+
+Where on the map would these objects' paths be? Or at least how would I find the exact answers with math/software/etc.?
+My assumptions/guesses:
+
+Jupiter's path is relatively similar to the ecliptic but Callisto's orbital inclination or maybe Jupiter's might separate the two
+Jupiter's moons are within a similar orbital plane to Callisto and would follow near Jupiter's path
+the distance Callisto travels away from the sun in its own orbit is insignificant in determining the shape of the ecliptic
+
+I have no idea if the axial tilt of Callisto or Jupiter would affect anything but it probably does.
+If it helps, I've made this incredibly stylish and oh-so-fabulous template in case anyone wants to sketch it in Paint or something. The black dot at the center is the celestial north pole.
+
+Thank you for your time!

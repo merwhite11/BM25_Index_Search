@@ -1,0 +1,4 @@
+In a binary star system, what relation determines the eccentricity of the three orbits (for $m_1$, $m_2$, and the reduced mass)?
+
+In a binary star system, why does $$e_1 = e_2 = e$$
+where $e_1$,$e_2$, and $e$ are the eccentricities of the three orbits of $m_1$,$m_2$, and the reduced mass, respectively.

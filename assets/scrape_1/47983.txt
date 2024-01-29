@@ -1,0 +1,82 @@
+Is possible to identify the Lagrange L2 point in the sky from the earth?
+
+I'm reading now that the James Webb observatory will be at L2 point. Is possible in any way to look at this point from here in earth?
+I mean... given my LAT and LON here what is the best time to have a sight line? Is near what constelation?
+I read it is at "straight behind earth from sun point of view" but I have no idea what it means from my rotating POV.
+If you can give me an example, I'm at -22.8885366,-43.104668.
+Thanks.
+If it can help (https://www.spaceweather.com/):
+
+... so I tried the site and ...
+
+*******************************************************************************
+ Revised: Aug 29, 2013                SEMB-L2                                32
+                      (Sun & Earth-Moon Barycenter Lagrange 2)
+
+  #1) The Sun & Earth-Moon Barycenter Lagrange-2 (L2) point is a location 
+       where the Earth's gravitational field partially counters that of the 
+       Sun.
+
+  #2) This L2 point is about 1.5 million km (~900,000 miles) away from the 
+       Earth, opposite the direction of the Sun, or slightly less than one 
+       percent of the Earth-Sun distance (four times the distance from Earth 
+       to the Moon) 
+
+  #3) L2 has been selected as the location of the next generation James Webb 
+       Space Telescope, was used by the Genesis spacecraft on the return to 
+       Earth, and is (or will be) used for WMAP, Herschel, and Planck 
+       spacecraft. 
+
+ Time-span available: 1900-Jan-01 to 2151-Jan-01
+*******************************************************************************
+
+
+*******************************************************************************
+Ephemeris / WWW_USER Wed Dec 29 18:42:20 2021 Pasadena, USA      / Horizons    
+*******************************************************************************
+Target body name: SEMB-L2 (32)                    {source: Sun-EMB_L2}
+Center body name: Earth (399)                     {source: DE441}
+Center-site name: (user defined site below)
+*******************************************************************************
+Start time      : A.D. 2021-Dec-30 00:00:00.0000 UT      
+Stop  time      : A.D. 2021-Dec-31 00:00:00.0000 UT      
+Step-size       : 1440 minutes
+*******************************************************************************
+Target pole/equ : No model available
+Target radii    : (unavailable)                                                
+Center geodetic : 316.895332,-22.888537,0.0100000 {E-lon(deg),Lat(deg),Alt(km)}
+Center cylindric: 316.895332,5878.92988,-2465.356 {E-lon(deg),Dxy(km),Dz(km)}
+Center pole/equ : ITRF93                          {East-longitude positive}
+Center radii    : 6378.1 x 6378.1 x 6356.8 km     {Equator, meridian, pole}    
+Target primary  : (Undefined)
+Vis. interferer : MOON (R_eq= 1737.400) km        {source: DE441}
+Rel. light bend : Sun, EARTH                      {source: DE441}
+Rel. lght bnd GM: 1.3271E+11, 3.9860E+05 km^3/s^2                              
+Atmos refraction: NO (AIRLESS)
+RA format       : HMS
+Time format     : CAL 
+EOP file        : eop.211228.p220323                                           
+EOP coverage    : DATA-BASED 1962-JAN-20 TO 2021-DEC-28. PREDICTS-> 2022-MAR-22
+Units conversion: 1 au= 149597870.700 km, c= 299792.458 km/s, 1 day= 86400.0 s 
+Table cut-offs 1: Elevation (-90.0deg=NO ),Airmass (>38.000=NO), Daylight (NO )
+Table cut-offs 2: Solar elongation (  0.0,180.0=NO ),Local Hour Angle( 0.0=NO )
+Table cut-offs 3: RA/DEC angular rate (     0.0=NO )                           
+******************************************************************************************************************************************************************************
+ Date__(UT)__HR:MN     R.A._____(ICRF)_____DEC    APmag   S-brt             delta      deldot     S-O-T /r     S-T-O  Sky_motion  Sky_mot_PA  RelVel-ANG  Lun_Sky_Brt  sky_SNR
+******************************************************************************************************************************************************************************
+$$SOE
+ 2021-Dec-30 00:00     06 36 55.95 +23 19 55.7     n.a.    n.a.  0.00987312593538  -0.2824505  179.6621 /L    0.3347   0.8202458   352.89131   -70.88475         n.a.     n.a.
+ 2021-Dec-31 00:00     06 41 13.66 +23 15 44.7     n.a.    n.a.  0.00986809386682  -0.2810705  179.6899 /L    0.3071   0.8042847   351.62780   -71.15373         n.a.     n.a.
+$$EOE
+******************************************************************************************************************************************************************************
+
+... but I have no idea how to read these informations ...
+
+I think the answer is here:
+$$SOE
+ 2021-Dec-30 00:00     06 36 55.95 +23 19 55.7     n.a.    n.a.  0.00987312593538  -0.2824505  179.6621 /L    0.3347   0.8202458   352.89131   -70.88475         n.a.     n.a.
+ 2021-Dec-31 00:00     06 41 13.66 +23 15 44.7     n.a.    n.a.  0.00986809386682  -0.2810705  179.6899 /L    0.3071   0.8042847   351.62780   -71.15373         n.a.     n.a.
+$$EOE
+
+and I need to take R.A. and DEC. May I use this post ( from myself ) to "project" the L2 on earth surface...
+Can someone correct me? What is "RA" and "DEC" from the data above?

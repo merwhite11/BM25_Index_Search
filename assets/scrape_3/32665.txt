@@ -1,0 +1,12 @@
+What would be the scientific impact of locating the Thirty Meter Telescope at its alternate site?
+
+The NPR.org article Hawaii Protesters Block Access Road To Stop Construction Of Massive Telescope briefly summarizes the situation, one paragraph says:
+
+The TMT, as it is called, has been the object of intense opposition for nearly a decade and the building project has faced numerous delays, protests and lawsuits. But a decision by the state's Supreme Court in October cleared the way for construction to begin after reinstating a building permit that was revoked years earlier. And last week, Gov. David Ige announced several roads would be closed beginning Monday to allow for the movement of large equipment onto the mountain.
+
+and another says
+
+"Hawaii is a unique place," Meisenzahl said, noting that protesters gathered on the mountain were engaging in a peaceful, nonviolent form of protest called Kapu Aloha. "It's a small island and everybody knows each other so law enforcement and opponents are working together. Despite what is happening today it's a positive environment," he added. 
+
+Question: What would be the scientific impact of locating the Thirty Meter Telescope at its alternate site? Is it a loss of resolution, or infrared spectrum, or both, or something else?
+I think the Canary Island site would be the alternate to Mauna Kea, since the E-ELT would be located in Chile and putting both (extremely) large telescopes in the same hemisphere is undesirable.

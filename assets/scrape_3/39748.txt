@@ -1,0 +1,4 @@
+Why are event horizons described in Schwarzschild radii rather than diameters, and either way can they change equator to pole?
+
+I never heard of Schwarzschild diameters, only of Schwarzschild radii. Why is it like this? Wouldn't it be better to portray the (possible) size of a black hole in a diameter?
+Either way, can we use the terms radius or diameter term precisely? Is an event horizon always perfectly spherical or can it have something like an equatorial bulge even though it's a black hole's immaterial event horizon.

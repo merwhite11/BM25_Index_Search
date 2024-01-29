@@ -1,0 +1,4 @@
+How does Very Long Baseline Interferometry work?
+
+According to internet sources, this technique increases the effective diameter of the telescope, thus improving the angular resolution of the telescope. However I don't understand how this actually works. The way I understand it, I know that signals from different locations in the boundary of the black hole may constructively or destructively interfere, and from the information about the relative separation between the telescope can tell us about the shape of the black hole. 
+However how does any of this have anything to do with the 'effective diameter' of the telescope?

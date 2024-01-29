@@ -1,0 +1,9 @@
+What's a good model for the vernal equinox year? Can it increase forever?
+
+Duncan Steel (2002) makes an interesting argument that the notion of year is (1) somewhat arbitrary and, more interestingly (2) one notion of year can increase while another decreases.
+His examples are tropical year (which decreases over time, at least in the linear Newcomb model) and the vernal equinox year which seems to be currently increasing.
+Actually looking at the data that his point is based on, namely Meeus and Savoie (1992), we can find another measure that is decreasing, namely the solstice year(s), either June or December; the autumnal equinox year is also decreasing:
+
+Steel actually uses the fact that the  vernal equinox year is increasing as an argument that the Gregorian calendar is "getting better" in a sense that it's closer to hitting its target year length. (The opposite is the case if one consider say either of the solstice years... or the tropical year, which is the point that a lot of other people make, e.g. Moyer (1982).)
+What I really want to ask here: assuming a simple linear decrease model for the tropical year (e.g. Newcomb), will the trends of the equinox and solstice years reverse at some point in the future?
+(And if it's not too much extra to ask:) What are the implications of the more complex models for the tropical year (e.g. cubic VSOP) on the evolution of the equinox and solstice years?

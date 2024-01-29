@@ -1,0 +1,18 @@
+What equipment and techniques were used to study Betelgeuse's diameter in 1920?
+
+Comments below What is the maximum distance measurable with parallax? discuss challenges associated with parallax measurements of Betelgeuse and link to Wikipedia’s Betelgeuse; Distance measurements which contains the intriguing sentence
+
+In 1920, when the first interferometric studies were performed on the star's diameter, the assumed parallax was 0.0180″.
+
+How exactly were the first interferometric studies performed on Betelgeuse's diameter? What actual equipment and technique was used to do this in 1920?
+
+Was this two optical telescopes and a long baseline? 
+Are they still around today?
+Was this the first attempt to measure a star's diameter directly? 
+Was this attempt at least partially successful?
+
+Addressing item #4 further, the paragraph goes on to say
+
+This equated to a distance of 56 pc or roughly 180 ly, producing not only an inaccurate radius for the star but every other stellar characteristic. Since then, there has been ongoing work to measure the distance of Betelgeuse, with proposed distances as high as 400 pc or about 1,300 ly.
+
+Had they used the correct parallax and distance, would they have arrived at a diameter that would have been roughly correct?

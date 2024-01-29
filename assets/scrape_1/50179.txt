@@ -1,0 +1,3 @@
+Why does dust affect UV light more severe than it affects X-rays?
+
+My supervisor told me that the UV photons emitted from AGN are heavily affected by ISM (dust extinction),  but not X-rays, as described in  Extinction - a powerful discriminator of dust size. Since X-ray and UV are all photons with different levels of energy, why does dust (interstellar medium) affects UV more than X-rays?

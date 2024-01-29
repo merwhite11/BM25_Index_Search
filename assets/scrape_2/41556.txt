@@ -1,0 +1,7 @@
+RA expressed in degrees
+
+Using the Python package Skyfield I thought that I could get the RA expressed in degrees simply by doing ra.degrees, but I get the following message
+
+this angle is usually expressed in hours, not degrees; if you want to use degrees anyway, then please use the attribute _degrees
+
+I tried a few things, but cannot find a solution. Could anyone help me?

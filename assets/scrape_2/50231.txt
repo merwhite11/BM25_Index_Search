@@ -1,0 +1,3 @@
+Measurement unit of coordinate systems in astronomy
+
+Nearly all of the coordinate system I have studied in Positional astronomy use the degree system. This makes me curious about why astronomers prefer degrees over radians as we know that Radian is a necessary intrinsic measure of an angle, which is related to the "fact of nature" that the length of a unit circle is 2π.

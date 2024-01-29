@@ -1,0 +1,4 @@
+Why is frequency different for gravitational waves coming from SMBHs vs small compact binaries?
+
+Why do gravitational waves emitted by supermassive black holes binaries have low-frequency range (~10$^{-9}$ - 10$^{-2}$ Hz) than those emitted by stellar mass compact binaries (~10$^{-4}$  - 10$^2$ Hz)?
+Below, a NASA graphic showing the wavelength ranges of various phenomenon found here. Click for full size.

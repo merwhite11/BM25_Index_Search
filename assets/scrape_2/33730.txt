@@ -1,0 +1,13 @@
+Do Electric Charges in the Van Allen Radiation belt move in Opposite Directions?
+
+The Wikipedia Article on Van Allen Radiation Belt gives the following explanation:
+
+A Van Allen radiation belt is a zone of energetic charged particles, most of which originate from the solar wind, that are captured by and held around a planet by that planet's magnetic field.
+
+The term "energetic charged particles" hinted to me that these charges are in motion and in very large velocities. 
+Let us assume, a small portion of space in the Van Allen Radiation Belt, compared to the size of Earth. We can assume the magnetic field in this space to be uniform due to our previous assumption. From the formula for finding Magnetic force on moving charges, $$\vec{F}=q(\vec{v}\times\vec{B})$$ where $\vec{F}$ is the magnetic force on the charged particle, $q$ is the electric charge of the particle with an appropriate sign, $\vec{v}$ is the velocity vector and $\vec{B}$ is the magnetic field vector.
+As per the above formula, the direction of force is dependant on the nature of charge as well as the direction given by the cross product. If we consider the charged particles to move with uniform speed, the net force acting on the charge must be equal to zero. I think we must neglect the gravitational force exerted by Earth on the charges since the mass of charges is negligible. The two forces, Centrifugal force and the magnetic force (exerted by Earth's magnetic field due to the motion of the charged particles) cancel each other when they have the same magnitude but opposite direction. From the formula, it is also evident that the direction of force changes with the sign of the charge. It must be opposite for positive and negative charges. 
+So, based on this is it correct to assume, if the positive charges orbit the earth in one direction the negative charges orbit the earth in the opposite direction? Do they really orbit Earth in opposite directions?
+The following image (a view from the top of poles of Earth) depicts my idea on the sense (clockwise or anticlockwise) of rotation of charges in the Van Allen Radiation Belt:
+
+Image Source : My own work :)

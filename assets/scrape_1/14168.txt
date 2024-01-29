@@ -1,0 +1,5 @@
+Transform pixel coordinates (in FITS file) to equatorial
+
+Say I have a FITS file with an observed field of stars, each one with x,y coordinates given in pixels. Assume the image is aligned so that the x axis is the right ascension, and the y axis the declination.
+I'm looking for a tutorial to transform the pixel coordinates of each star to equatorial, even if the transformation is approximate.
+I'v been looking for a while but found no tutorial/book/site that enumerates the steps needed to produce this transformation.

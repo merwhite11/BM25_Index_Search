@@ -1,0 +1,6 @@
+Accuracy of Laplace Method for determining orbital elements
+
+Recently I had to implement the Laplace method and apply it to 3 observations of Mars (10 days in between two observations). The results were pretty good, with discrepancies with real data well below 5% in most of the orbital elements.
+I thought the Laplace method was very accurate, so I tried to apply it to an asteroid (CASLEO, 5387). The 3 observations were also taken at intervals of 10-days, but now the results widely diverge from the real orbital elements.
+I expected it to be less accurate than in the Mars case since the observations covered a smaller proportion of the orbit, but some of the elements were quite far from expected.
+So my question is: What is the accuracy of the Laplace Method? Is it really that sensitive to the distance?

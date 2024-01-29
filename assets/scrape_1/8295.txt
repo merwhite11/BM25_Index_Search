@@ -1,0 +1,15 @@
+Look up current positions and velocities of solar system objects
+
+I am working on an orbital dynamics code and, for fun, I would like to model the Sun-Earth-Moon system with my code.  I can look up the masses of each object just fine, as well as average distances and relative velocities (which I can also calculate).  However, I would like to model the Sun-Earth-Moon system in great detail.  I would like to know the positions and velocities of each object on any given day (today works just fine) so that I can represent the orbits of these objects with great accuracy, hopefully even reproducing their actual ellipticity.  Where can I find values for:
+
+current Sun-Earth distance
+current Earth-Moon distance
+current Sun-Moon angular separation
+current velocity of Earth relative to Sun (or relative to Sun-Earth(-Moon?) center of mass)
+current velocity of Moon relative to Earth
+
+and, maybe even
+
+current velocity of Sun relative to Sun-Earth(-Moon?) center of mass.
+
+Is there any resource that provides these current values?

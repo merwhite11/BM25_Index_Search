@@ -1,0 +1,14 @@
+What happened to the third planet in the Kepler-47 system?
+
+In 2012, the discovery paper for the multiplanet circumbinary system Kepler-47 mentioned a potential third transiting planet in the system:
+
+A 0.2% deep transit-like event is present at time 2,455,977.363 (BJD) that is not caused by
+  either of the two planets. A search for additional transits has revealed several more tentative
+  transit events (12), but we caution that the star is faint (the Kepler magnitude is 15.178), there
+  are large modulations due to star-spots, and the data contain correlated “red” noise, making
+  small, non-periodic transit detection challenging. The marginal evidence at the present time is
+  insufficient to place confidence on any additional candidate planet(s).
+
+In 2013, Jerome Orosz gave a talk at the Second Kepler Science conference titled "The Confirmation of a Third Planet in the Kepler-47 Circumbinary System", claiming the detection of two further transits attributed to the third planet and giving the orbital period as 187.3 days and noting that the dynamical fit indicates that transits would stop for four years starting in July 2013.
+In 2015, the discovery paper for Kepler-453 b was published, describing this planet as the tenth circumbinary planet discovered by the Kepler mission, which lists Kepler-47 d as the ninth of the previously discovered planets, giving a reference of "Orosz 2015, in preparation".
+As far as I have been able to tell, there has been no further update since then - the Orosz 2015 paper never appeared. Is anyone aware of any further updates about this system and whether or not the third planet is still considered to be present?

@@ -1,0 +1,9 @@
+Mass of a potential black hole in a binary system
+
+So I've been given the velocity curve, parallax and apparent magnitude of a star in a binary system with what is potentially a black hole. I've calculated from the apparent magnitude and parallax that the star is a type F5V, which puts the mass at about 1.4 Solar Masses. The velocity curve has an inclination of 90, and oscillates back and forth between +/- 75km/s. There is no data on the companion of this star, just the fact that it could be a black hole. I'm supposed to estimate the mass by numerically approximating a polynomial.
+So far I've used this equation
+$\frac{M^{3}}{(m+M)^{2}} = \frac{Pv^{2}}{2\pi G}$
+where M is the mass of the thing I don't know, m is the mass of the known companion (1.4 solar masses) P is the period (5.59 days) and v is of course the velocity (75km/s)
+I got lazy and wrote $\frac{Pv^{2}}{2\pi G}$ as $k$ and arrived at
+$M^{3} - kM^{2} - km^{2} = 0$
+Using python's optimize library I found the mass of this unkown partner to be about 0.018 solar masses. My question here is where did I go wrong, and if I didn't go wrong anywhere is that a realistic mass for a super small black hole / other very small, dense and invisible object?

@@ -1,0 +1,5 @@
+Will Hubble's law always be accurate?
+
+We have Hubble's law:
+$$v=Hd$$
+where H is the Hubble parameter, which is decreasing in value, but it will be constant in the distant future. So, assuming the Standard Model of Cosmology holds true, will Hubble's law be accurate when the Hubble parameter becomes a constant?

@@ -1,0 +1,14 @@
+After only one eclipse of its X-ray bright primary, how can astronomers estimate the first extragalactic exoplanet's period to be about 70 years?
+
+Phys.org's Astronomers may have discovered the first planet outside of our galaxy links to  Di Stefano et al. 2021 A possible planet candidate in an external galaxy detected through X-ray transit (earlier arXiv preprint) and says:
+
+While this is a tantalizing study, more data would be needed to verify the interpretation as an extragalactic exoplanet. One challenge is that the planet candidate's large orbit means it would not cross in front of its binary partner again for about 70 years, thwarting any attempts for a confirming observation for decades.
+"Unfortunately to confirm that we're seeing a planet we would likely have to wait decades to see another transit," said co-author Nia Imara of the University of California at Santa Cruz. "And because of the uncertainties about how long it takes to orbit, we wouldn't know exactly when to look."
+Can the dimming have been caused by a cloud of gas and dust passing in front of the X-ray source? The researchers consider this to be an unlikely explanation, as the characteristics of the event observed in M51-ULS-1 are not consistent with the passage of such a cloud. The model of a planet candidate is, however, consistent with the data.
+
+The result is very exciting! For optical transits of a planet across a usually much larger stellar disk, the duration is a function of orbital velocity, stellar diameter and inclination. But for the present techniques I think the X-ray source is supposed to be much smaller than the planet, so the radius determining the duration is now the planet's; the time is always less than $R_{planet}/v_{planet}$ since inclination factors in.
+Have I got that right?
+Question: After only one eclipse of its X-ray bright primary, how can astronomers estimate the first extragalactic exoplanet's period to be about 70 years?
+Related:
+
+Was the First Extragalactic Planet discovered in Andromeda Galaxy

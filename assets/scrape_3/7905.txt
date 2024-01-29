@@ -1,0 +1,14 @@
+Number density of stars on the Galactic plane
+
+The number density of stars (e.g. the number of stars per cubic parsec) is given by 
+$$N(z) = N(0) e^{-|z|/h}$$
+where $z$ is the height above the Galactic plane, $h$ is the scale height for a specific component of the Galaxy, and $N(z)$ is the number density at different heights above the plane.
+The scale heights for the thin disk and thick disks are:
+
+Halo stars: $h=3\textrm{kpc}$
+Thick disk: $h=1.5\textrm{kpc}$
+Thin disk stars: $h=300\textrm{pc}$
+Thin disk gas: $h=100\textrm{pc}$
+
+Unfortunately I cannot find the values for the number density at the galactic plane: $N(0)$
+Do you have any references in which I can find these numbers?

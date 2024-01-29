@@ -1,0 +1,10 @@
+How long would it take to reach the edge of the reachable universe?
+
+How long would it take to reach the current edge of the reachable portion of the universe, with the following bounds in mind:
+
+We figure out a way build a space ship to provide a constant 1 G acceleration for an extended period of time.
+We accelerate until we are halfway there, then decelerate past this point (so we stop when we get there.
+Our target is about 15 billion lightyears away.  As per http://curious.astro.cornell.edu/about-us/104-the-universe/cosmology-and-the-big-bang/expansion-of-the-universe/616-is-the-universe-expanding-faster-than-the-speed-of-light-intermediate galaxies past 4,740 megaparsecs are no longer reachable. Using this site http://www.convertunits.com/from/megaparsecs/to/light+years to convert megaparsecs to lightyears means this "unreachable" point is currently 15,459,812,396.5002 lightyears away.  Let's simplify to 15 billion lightyears, which is still supposed to be reachable.
+We somehow work out all the details of life support, collision with particles at relativistic speeds, etc...
+
+I would like to know the time the traveler experiences, and the time that everyone else (e.g. those on earth) experience.

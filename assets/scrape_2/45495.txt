@@ -1,0 +1,7 @@
+When the difference between the dates of old and new style becomes 14?
+
+I'm trying to solve this task:
+
+In the twentieth century, the difference between the dates of the old and the new style was 13 days. From what date on the new style will this difference be 14 days?
+
+I thought that is from the first of March of 2100, since this year is considered as a leap year according to a Julian calendar and is not considered as a leap year according to Gregorian calendar. But this is the wrong answer. So my question is: why?

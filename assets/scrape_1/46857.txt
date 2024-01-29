@@ -1,0 +1,11 @@
+When can Moon occult Venus?
+
+I'm trying to solve this task:
+
+At what age of the Moon (in days after the new moon) is it possible for the Moon to occult Venus?
+
+How I was solving it:
+Angular velocity of the Moon is 13.2 degrees per day, which means that covering of Venus is possible during approximately 3,5 days after one new moon and 3.5 days before next new moon because the Moon should be not further than 47 degrees from the Sun. $\frac{47}{13.2} = 3.56.$
+But:
+My teacher told me that 13.2 is wrong. I found some dates of when Moon covers Venus and it seems like they happen almost exactly 3 days before and after new Moon. Examples: new Moon - 6. October, covering - 9. October; new Moon - 5. November, covering - 8. November; covering - 28. March, new Moon - 1. April.
+So why is my solution wrong?

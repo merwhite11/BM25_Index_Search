@@ -1,0 +1,7 @@
+How can lunar pits be distinguished from craters?
+
+ESA's news En route to exploring lunar caves features the following paragraph:
+
+The Moon's surface is covered by millions of craters, but it also hosts hundreds of very steep-walled holes known as pits. Like doorways to the underworld, photos of some pits clearly show a cavern beneath the Moon's surface, suggesting that they are 'skylights' into extensive lava tubes [...]
+
+I am now wondering how those pits have been detected. Reading  the Is seeing the apollo moon Landers via earth telescope that hard? it looks like that Earth-based telescopes could be ruled out, and observing Lunar pits most probably requires a lunar orbiter, correct? Is there a list of lunar pits (including their locations) available somewhere? Does it require exact laser or radar topographic measurements of the surface of the Moon, or is it possible by optical observations alone? Could radar-astronomy be used to find lunar pits?

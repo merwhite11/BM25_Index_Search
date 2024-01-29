@@ -1,0 +1,3 @@
+Can objects join the Hubble flow for a given amount of time and then somehow abandon it?
+
+When two objects (e.g. two galaxies) are sufficiently far apart, they join the Hubble flow and they get further away from each other. Normally, this would last "forever" (until, from the perspective of one of the galaxies, the other one "arrives" to the Hubble horizon and effectively disappears). But are there any cases where the galaxies would get further apart by the Hubble flow, but then, somehow, at some point, both of them would abandon the Hubble flow and would begin to approach each other getting closer and closer?

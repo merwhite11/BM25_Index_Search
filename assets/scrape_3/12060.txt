@@ -1,0 +1,4 @@
+What constellation does sun occupy by location and date?
+
+How can i find the location of the sun and which constellation it would occupy based on the location and date of year.
+for example: an observer is in Des Moines, Iowa on April 10th, which constellation does the sun appear to occupy?

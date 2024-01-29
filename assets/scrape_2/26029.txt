@@ -1,0 +1,13 @@
+Meade LX200GPS electronic RA movement very slow
+
+I use a Meade 200 LX GPS.
+Last night between viewings it was placed in Sleep mode.
+On return the scope was making noises as if the motor was running. The scope was stationary, but had moved to what looked like park position.
+I pressed MODE and then tried to locate objects using GOTO, but it did not move appropriately either from where it was, or as if from the previous sleep position.
+I then switched everything off and 'started again'...several times.
+I received a couple of strange messages including that I had changed the location of the scope (it had not moved) and that the batteries were low (it is connected to the mains, not running on batteries).
+I then decided to leave it overnight and retry in the morning.
+This morning I started from scratch again and successfully carried out a 2-star alignment, and the scope moved at normal finding speed to the star locations. However, when centring the stars electronically the RA movement was VERY SLOW no matter what speed setting was set. Dec speed is fine!
+The scope moves to GOTO targets at normal speed, but electronic control of RA is still VERY VERY SLOW.
+Could you please advise what may be the cause of this problem and best options for remediation.
+FYI we have two hand box controllers and the problem occurs with both. The hand box is not the fault!

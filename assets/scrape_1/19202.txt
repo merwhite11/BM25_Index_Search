@@ -1,0 +1,11 @@
+What is meant by the bifurcation of hydrostatic equilibrium shapes in planetary formation?
+
+An intriguing comment below this question links to this Quora question and points to the answer by Robert Walker. 
+The sentence that particularly intrigued me is:
+
+It turns out that there are two possible solutions, as the spin rate increases. You can get an oblate spheroid, or a triaxial ellipsoid - the solution "bifurcates". But the triaxial ellipsoid is the most stable of the two as Jacobi found out in his paper published in 1834.  Figures of Equilibrium - Historical Account* - Chandrasekar
+
+It seems to refer both to an 1834 paper by Jacobi and it's reference in the 1964 paper Ellipsoidal figures of equilibrium—an historical account by S. Chandrasekhar, Communications on Pure and Applied Mathematics, 20 (2), May 1967, 251–265. While the latter is paywalled, there seems to be a readable version here in google in the book A Quest for Perspectives: Selected Works of S. Chandrasekhar : with Commentary By Subrahmanyan Chandrasekhar, Kameshwar C. Wali, Volume 1. Imperial College Press, 2001.
+Mathematical bifurcation is a fascinating topic and there is even an entire mathematics journal dedicated to the subject.
+In this case, where exactly in the calculation of hydrostatic equillibrium of rotating bodies does this bifurcation (mentioned in the Quora answer) occur? I'm wondering if it simply means that for a given volume and density, below a certain rotation rate the hydrostatic equilibrium shape is an oblate sphere, but above it, the hydrostatic equilibrium shape will be a triaxial ellipsoid? Or is the bifurcation part of the evolution of the shape over time, involving viscocity or external effects?
+If the triaxial ellipsoide is always(?) the most stable, then is a oblate spheroid actually an intermediate shape, and not really the shape of hydrostatic equillibrium?

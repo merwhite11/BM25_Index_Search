@@ -1,0 +1,11 @@
+Observed data: Why so many MPECs about TNOs lately?
+
+The Minor Planet Electronic Circulars (MPECs)
+for July 15 through July 18 reported an unusually high number of re-observations of known trans-Neptunian objects (TNOs).
+These were found in the
+Pan-STARRS archive;
+most had not otherwise been observed since discovery.
+Is this activity part of the search for Planet 9,
+another observing program such as OSSOS,
+a result of software improvements,
+or just someone clearing a backlog?

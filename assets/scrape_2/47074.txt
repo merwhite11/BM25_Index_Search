@@ -1,0 +1,5 @@
+Practical ways of measuring the sun-earth-moon angle?
+
+I learned as a child (and a common tale), that Aristarchus gave a method of measuring the sun-earth-moon angle to estimate the ratio of the earth-moon distance to the earth-sun distance. Indeed, during the first quarter moon phase, the sun-earth-moon reasonably form a right triangle at the moon.
+I want to illustrate this to a math class that I am teaching, however I want some practical ways of measuring this sun-earth-moon angle. I reckon it will probably be a bad estimate anyway, as this angle might be nearly 90 degrees as the sun is quite far from the earth. But it might be a fun activity anyway. Are there any reasonable way to measure this angle with modest tools like a level and a plumb? (Or smart phones with a leveling tool.) Do I need to wait when both the sun and moon are visible in the sky during first quarter moon phase? Or, how did Aristarchus measured it, if he did at all?
+Sorry I am not a practicing astronomer. Thanks for your insights.

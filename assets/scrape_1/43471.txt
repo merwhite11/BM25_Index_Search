@@ -1,0 +1,5 @@
+Why is Starlink polluting the night sky a big concern if we have space telescopes?
+
+There's a lot of concern in the Astronomy community over the deployment of Starlink satellites. For a good discussion, see the related question How will Starlink affect observational astronomy?
+But why is there so much concern over this problem, given that there are numerous space telescopes? Presumably a lot more will be launched in the upcoming years thanks to satellite launches becoming cheaper. Aren't space-based observations superior in the first place thanks to the lack of an atmosphere?
+I understand this sucks for amateur astronomers but is it also a big problem for professional researchers?

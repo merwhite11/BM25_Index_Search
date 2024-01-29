@@ -1,0 +1,6 @@
+Avoiding noise while stacking multiple night sky photographs
+
+I have always been fascinated by astrophotography and have been trying my hands at the skill. I have tried photographing the milky way with limited resources (smartphone with a tripod). I usually click individual photos with 30s exposure, 3200 ISO and stack the raw images in the free software Sequator. Here is how an individual photo looks like 
+After stacking 10 of such photos, and playing with the settings on Sequator, the best photo according to me, which makes the milky way more prominently visible, looks like this
+
+Even though more stars are visible due to stacking and milky way looks more obvious (?), it does add a lot of noise to the image. I am specifically talking about the blue and purple colors that are added onto the image. Is there a problem in the way that I am stacking the images or do I need to next employ some photo editing software (Photoshop, GIMP) to get rid of this noise? Any help is appreciated! Thank you!

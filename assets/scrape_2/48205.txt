@@ -1,0 +1,7 @@
+The reason for an exoplanet density increase of planets closer to a star
+
+From the NASA exoplanet archive system it can be seen that in the range of $0.02-0.06~\text{AU}$ distance an exoplanet is to its star, as distance drops down, the planet density increases linearly:
+
+A similar inverse correlation between exoplanet mass VS distance exists too:
+
+So in the mentioned distance range, as we get closer and closer to the star, exoplanets gets more heavier and more dense. Why it is so ? My intuition says that it should be in reverse. The closer to a star, an planet receives more heat, which should evaporate more mass from the planet, making things in an orbital body more gas/plasma like. But instead of that, planet mass accumulates and density increases too. This was unexpected to me. What are reasons behind that? Maybe closer to the star there are more events or collisions of orbital bodies happening which in the end accumulates mass/density or something completely different?

@@ -1,0 +1,3 @@
+Fermi-LAT gamma ray spectrum too high
+
+I am extracting gamma ray spectrum from Fermi-LAT data. My spectrum is a lot higher than the ones on previous studies of the same object. What could cause a spectrum to go too high?

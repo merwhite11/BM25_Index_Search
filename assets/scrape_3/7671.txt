@@ -1,0 +1,5 @@
+Are epicycles and mean Earth/Sun actually useful astrophysical concepts?
+
+Copernicus put the Sun in the center of the Solar system. This turns the Moon's orbit into an epicycle around Earth orbit. And the Jovian moons (later discovered) have orbits which are epicycles around Jupiter. Since Copernicus created a physical epicycle in the Moon, it maybe wasn't so strange to think about "epicycles of epicycles" as he did to improve the model's fit to calendar data.
+Actually, Ptolemy and Brahe did not put Earth in the center of their Solar system models. They used a fixed point in empty space near the Earth which they called "mean Earth". And Copernicus used a corresponding "mean Sun". And as a matter of fact, planets do turn around a barycenter which is not in the center of the Sun, but nearby.
+Do epicycles and "mean Earth/Sun" actually have physical correspondents in the orbits of moons and the barycenter respectively? That'd be a bit funny since they are purely geometric constructions with the purpose to make data fit better, created even without a thought about gravity or anything physical at all.

@@ -1,0 +1,19 @@
+Accuracy of calculating the vernal equinox?
+
+Calculating the exact time of the vernal equinox is essential for many ephemeris calculations. NASA Goddard Institute for Space Studies uses (at least for some purposes) the following, rather short source code:
+Function VERNAL (IYEAR)
+      Implicit Real*8 (A-H,O-Z)
+      Parameter (EDAYzY=365.2425d0, VE2000=79.3125)
+      VERNAL = VE2000 + (IYEAR-2000)*EDAYzY
+      Return
+      End
+
+What that means becomes clear when reading the comment inside the code:
+
+For a given year, VERNAL calculates an approximate time of vernal equinox in days measured from 2000 January 1, hour 0.
+VERNAL assumes that vernal equinoxes from one year to the next are separated by exactly 365.2425 days, a tropical year [Explanatory Supplement to The Astronomical Ephemeris].  If the tropical year is 365.2422 days, as indicated by other references, then the time of the vernal equinox will be off by 2.88 hours in 400 years.
+Time of vernal equinox for year 2000 A.D. is March 20, 7:36 GMT [NASA Reference Publication 1349, Oct. 1994].  VERNAL assumes that vernal equinox for year 2000 will be on March 20, 7:30, or 79.3125 days from 2000 January 1, hour 0.  Vernal equinoxes for other years returned by VERNAL are also measured in days from 2000 January 1, hour 0.  79.3125 = 31 + 29 + 19 + 7.5/24.
+
+I highlighted the essential part of the quote. We know for sure that this algorithm will give the wrong date of the vernal equinox in the year 5333 when it will be off by more than 24 hours, but I suppose it can already be incorrect earlier if the time stamp for the vernal equinox is close enough to midnight. When would be the first time that this algorithm picks an incorrect day?
+My question: Is the above quoted algorithm the most accurate way of calculating the vernal equinox for times far in the future or past? How would you do it accurately for time scales of 1000s of years, say with e.g. for an application for archeology?
+PS: WolframAlpha calculates vernal equinoxes in the distant future with giving hours and minutes and without any error bars which seems too good to be true.

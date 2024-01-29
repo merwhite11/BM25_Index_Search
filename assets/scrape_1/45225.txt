@@ -1,0 +1,3 @@
+Do all C-O white dwarfs have more-or-less the same proportions of carbon and oxygen?
+
+Type 1a supernovae are known for having very consistent energy yields, and they are caused when a carbon-oxygen white dwarf reaches the Chandrasekhar limit of about 1.4 solar masses. Since type 1a supernovae are caused by carbon detonation, it makes sense that they would have the more or less the same amount of carbon to explode with more or less the same yield.

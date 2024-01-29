@@ -1,0 +1,5 @@
+How do cross-matching algorithms deal with unequal-sized catalogues?
+
+Let's say I'm using a service like TOPCAT or Vizier's cross-matching service and I'm trying to match the RA and dec of the sources in Catalogue 1, with 100,000 sources, to those in Catalogue 2, with a million sources.
+How does the algorithm deal with the difference in size when it gets to the end of the shortest catalogue? Does it loop around? Or am I making an incorrect assumption about how cross-matching works?
+This question comes from my attempts at making my own algorithm using astropy's SkyCoord function; it won't let me broadcast together two differently-sized arrays.

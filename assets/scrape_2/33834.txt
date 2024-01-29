@@ -1,0 +1,6 @@
+Acceptable errors in photometric measurements
+
+As the title says, what is considered as an "acceptable" error in a photometric measurement (in magnitudes)?
+I know that it will depend a bit on the final use of the data, i.e., the photometric error acceptable for a measurement meant to observe a planetary transit over a star will not be the same as the photometric error acceptable for measuring a light curve of a variable star, but I suppose that there should be some guidelines, or generally accepted values (for example, related to the SNR of the observation).
+The point is that I have a ton of observations in several filters for different objects, each observation with its associated error (derived from the observation). And I need to filter a bit the data, to keep only good quality data. I saw here that errors of 0.10 mags are tolerable, but 0.25 mags means that you might also be detecting noise. So, I would like to know, where should I put the tolerance in the error (at least, from one more source different to that link). 
+Any help would be appreciated!! :D

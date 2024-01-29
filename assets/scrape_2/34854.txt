@@ -1,0 +1,8 @@
+When could the Roche limit be larger than the Hill sphere?
+
+This answer to Are Saturn's rings stable? begins with:
+
+Most of Saturn's rings are inside it's Roche limit, which means they will never clump together. Tidal forces prevent this from happening.
+
+I always confuse Roche limit and Hill sphere, so I thought I'd ask a question about both.
+Question: Under what conditions could a solar system body orbiting the Sun have a Roche limit larger than its Hill sphere?

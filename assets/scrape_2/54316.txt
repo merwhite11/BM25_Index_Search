@@ -1,0 +1,45 @@
+Eccentricity of TLE orbit from velocity and radius in TEME
+
+I was reading this question: Calculation of Eccentricity of orbit from velocity and radius and tried to use the proposed equation to reconstruct the ecco field of TLE by it's R,V vectors. The formula is simple:
+$\mathbf{e} = \frac{\mathbf{v} \times \mathbf{h}}{\mu} - \frac{\mathbf{r}}{\|\mathbf{r}\|}$
+Where $\mathbf{h} = \mathbf{r} \times \mathbf{v}$
+The tested TLE:
+1 41386U 16016A   23053.13950576  .00028887  00000-0  32773-3 0  9993
+2 41386  97.1800 138.9553 0010664 243.3776 116.6390 15.62259129388863
+
+It's ecco is 0.0010664 while the formula gives me 0.0001432 for TEME/GCRF vectors. And for ITRF vectors it results in 0.0202059.
+I've adapted my code for python to print all 3 values:
+import numpy as np
+from skyfield.api import EarthSatellite, load
+from skyfield.framelib import itrs
+from sgp4.api import Satrec, WGS84
+
+ts = load.timescale()
+
+line1 = '1 41386U 16016A   23053.13950576  .00028887  00000-0  32773-3 0  9993'
+line2 = '2 41386  97.1800 138.9553 0010664 243.3776 116.6390 15.62259129388863'
+ 
+satrec = Satrec.twoline2rv(line1, line2, WGS84)
+print('TLE ecco: ', satrec.ecco)
+
+e, r, v = satrec.sgp4(satrec.jdsatepoch, satrec.jdsatepochF)
+res = np.linalg.norm(np.cross(np.cross(v,r), v)/398600.8 - r/np.linalg.norm(r))
+print('TEME ecco: ', res)
+
+sat = EarthSatellite.from_satrec(satrec, ts)
+geocentric1 = sat.at(sat.epoch)
+
+r = geocentric1.position.km
+v = geocentric1.velocity.km_per_s
+res = np.linalg.norm(np.cross(np.cross(v,r), v)/398600.8 - r/np.linalg.norm(r))
+
+print('GCRF ecco: ', res)
+
+pos1, vel1 = geocentric1.frame_xyz_and_velocity(itrs)
+r = pos1.km
+v = vel1.km_per_s
+res = np.linalg.norm(np.cross(np.cross(v,r), v)/398600.8 - r/np.linalg.norm(r))
+
+print('ITRF ecco: ', res)
+
+The question is: What frames this formula is valid for? Is it possible at all to get eccentricity of near-circular orbit by RV vectors with at least 1e-5 precession?

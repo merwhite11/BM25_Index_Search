@@ -1,0 +1,11 @@
+Can we know the orbital planes of extraterrestrial planetary bodies?
+
+Astronomers can tell if there are any exoplanets orbiting its parent star using but not limited to the following methods:
+Transit
+As an massive object usually a planet passing in front of a star causing the amount of light emitted from the star to dim, by measuring the dimness the data can reveal how big the planet is.
+Radial velocity
+The star will seems to wobble as if there is a massive object usually a planet in orbit playing tug of war in a game of whose gravity is mightier. However since this wobbling effect is difficult to observe nerds prefer to measure the blueshift of the light (as star accelerates in our direction) and redshift (as star accelerates away from our direction) which seems to also tells how massive the planet is.
+Note
+Astronomers can derive the planet's density from its mass and radius(see transit).
+Question
+So far astronomers are able to determine the size, mass as well as density thus even its composition, is there any way to find the angle of the orbital plane of the exoplanet orbiting its parent star?

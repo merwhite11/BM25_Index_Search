@@ -1,0 +1,5 @@
+Question about tidal forces and the Roche limit
+
+As we know, an object that is beyond the Roche limit doesn't disintegrate (obviously) because the tidal forces upon the object are weaker than the gravitational pull of the object towards its centre, so the planet remains intact. 
+My question is: if that's so, why does the body deform even before crossing the Roche limit? 
+If the gravitational pull of the particles in the object outweighs the tidal forces, wouldn't the object have to stay totally round? There couldn't have been any deformation because the tidal forces are totally cancelled out.

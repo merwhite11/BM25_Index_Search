@@ -1,0 +1,7 @@
+Why do we have the cosmological constant?
+
+Since the cosmological constant is not required to explain that the universe seem to be expanding, why do we have it?
+What other factors cause us to have that constant?
+Background:
+Without the cosmological constant, distant stars should be affected by a great redshift. The amount of redshift is a function of their distance from us. This is due to gravitational time dilation. We are looking 13 billion years into the past, where the universe was very dense. Those stars should be experiencing extreme gravity, causing Einstein shift.
+Since we DO have the cosmological constant, we are now looking for other explanations for the redshift.

@@ -1,0 +1,15 @@
+Distribution of Galaxy sizes (star count)
+
+First off, I realize how hard this is to even come close to estimating, but I'm trying to get a "general feel" for the distribution of galaxies by star count. I realize everything from rogue stars to super massive galaxies with trillions of stars exist... but I'd really love to see an estimated percentage of galaxies in the observable universe with:
+
+<10^5 stars
+10^5 - 10^6 stars
+10^6 - 10^7 stars
+10^7 - 10^8 stars
+10^8 - 10^9 stars
+10^9 - 10^10 stars
+10^10 - 10^11 stars
+10^11 - 10^12 stars
+10^12 - 10^13 stars... etc.
+
+Does anyone know where I could find some estimates on this... Or even on galactic mass

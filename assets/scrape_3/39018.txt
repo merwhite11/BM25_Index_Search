@@ -1,0 +1,14 @@
+Calculating distance from center of mass of two stars in a binary system
+
+I am confused on how to calculate the distances for each star in a binary system to their centre of mass. I am trying to solve it from a book I am reading which shows the solution but I do not understand the solution.
+So the info I am given is:
+A system is located at a distance D (in parsecs). The two stars orbit around their centre of mass. Star A has an angular separation of a (in arcsecs) and star B has an angular separation of b (arcsecs).
+So now I am trying to find the physical separation of the stars to their centre of mass.
+The book's solution (once converting to correct units) is:
+Distance for star A = D tan(a)
+Distance for star B = D tan(b)
+
+I don't fully understand why they use tangent here because when I draw out a diagram of this situation i seem to need to use sine not tangent.
+Here is how I drew it:
+
+Why do they use tangent function and not the sine function? Have I drawn my diagram correctly?

@@ -1,0 +1,3 @@
+Is there a formula for absolute magnitude that does not contain an apparent magnitude term?
+
+I have a star that I need to calculate the absolute magnitude of. I am given the temperature, luminosity, radius, mass, and distance in light-years. So I am wondering, what is the formula to compute this, using only these terms?

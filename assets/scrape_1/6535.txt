@@ -1,0 +1,20 @@
+When do Mercury/Venus reach greatest elevation at sunset/twilight for a given location?
+
+On what day does Mercury reach its greatest elevation (in degrees from 
+the horizon) at sunset a given location? 
+The obvious answer is the day of Mercury's greatest elongation from 
+the Sun, but, since the ecliptic is slanted with respect to the 
+horizon, I'm not convinced this is correct. 
+In other words, on the day after greatest elongation, Mercury's total 
+angular distance from the Sun will be smaller, but it's vertical 
+distance in elevation (for a given location) at sunset might be 
+higher. 
+Same question for Venus, and for when the sun is 6 degrees below the 
+horizon (ie, civil twilight), and for sunrise/dawn. 
+I'm guessing the date might vary based on position (mostly latitude) since the ecliptic's slant varies at different locations.
+I googled and found nothing. My (preliminary and possibly wrong) 
+expierments with stellarium show that Mercury's elevation at sunset IS 
+higher 1-3 days after its greatest elongation, but by less than 1/2 
+degree.
+So, it's possible that the date of greatest elongation is a close 
+enough approximation.

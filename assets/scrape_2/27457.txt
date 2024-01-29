@@ -1,0 +1,10 @@
+How does this telescope work, and what is it for?
+
+Procrastinating, I clicked on a suggested video (How Large Can a Telescope Be?) and after about 01:20 I saw a clip of a telescope shown below.
+I was confused as I saw the reflections in the mirror until I decided that there are actually two small objects in front of the primary mirror, one far from the primary where you'd expect to see a secondary, which I've labeled "A", and one very close to the primary, which I have labeled "B". 
+Both are supported by four vanes, and there does not seem to be a hole in the primary. 
+I've labeled the reflected image of the back side of B as B' (B prime), and I've indicated the reflections of an "A vane" and a "B vane" with arrows.  
+But "A" looks very small compared to what I'd expect, only perhaps a few percent of the primary's diameter, and it looks like the telescope is not in a conventional dome, but perhaps has only a sliding or otherwise openable roof (currently off screen) to protect it when not in use.
+Question: How does this telescope work, and what is it for? Is it for imaging, or performing some other function?
+
+https://www.youtube.com/watch?v=3wOFAkggSiU

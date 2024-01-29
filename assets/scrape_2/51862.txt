@@ -1,0 +1,4 @@
+Full Orientation of the Andromeda and Triangulum Galaxies
+
+I can find the degree of inclination compared to Earth for both the Andromeda and Triangulum Galaxies wherever I search. For instance, the Triangulum Galaxy has an inclination of 54 degrees compared to Earth. However, objects in 3 dimensions require two angles to fully describe their orientation, so there is still one more degree of freedom to account for with these galaxies.
+What would the full orientation for both of these galaxies be relative to our galactic plane?

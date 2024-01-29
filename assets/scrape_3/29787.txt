@@ -1,0 +1,10 @@
+Does Jupiter lose some atmosphere at all?
+
+I've hear of something like this: "All planets lose their atmospheres eventually and they become a barren rock if given enough time."
+There are three types of atmospheric loss ways:
+
+Jeans Escape: Temperature and escape velocity factors determine the gasses and the amount that's lost. Jupiter cannot lose atmosphere via Jeans escape because Jupiter has too high escape velocity and too high of a temperature.
+Charge exchange: Solar radiation creates electrons and positively charged ions in upper atmospheres by tearing electrons off atoms or molecules. Subsequently, charge attraction and repulsion in collisions accelerates ions. Jupiter most likely cannot lose its atmosphere via charge exchange because its magnetic field is strong and extensive while no(little?) material escapes via polar wind.
+Vertical atmospheric escape/impact erosion: Energetic objects that strike a planet erodes its atmosphere by creating a plume of heated gas. Jupiter does not lose its atmosphere via impact erosion because it has very high gravity and escape velocity. This pulls particles ejected by impact back into its atmosphere.
+
+Since Jupiter doesn't lose atmosphere in the three types of atmospheric loss, how does it lose its atmosphere?

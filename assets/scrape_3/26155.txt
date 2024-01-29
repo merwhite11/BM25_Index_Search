@@ -1,0 +1,4 @@
+Any programme that shows actual planet information?
+
+I don't know if this question should be here, if it shouldn't just let me know.
+My question is, I'm programming in Java and I want to get the actual stats of the planet, like orbit ,actual temperature etc... Is there any method, package in any language that makes this?

@@ -1,0 +1,19 @@
+Why are Shack-Hartmann sensors so expensive (4k+ USD)?
+
+Recently I am searching for a Shack-Hartmann wavefront sensor for university laboratory usage. I was expecting my target sensor to be cheap, which is:
+
+Low spatial wavefront resolution (50 x 50) for beam measurement;
+Low frame rate;
+Portable design, and easy to use.
+
+Most quotations are beyond my expectation. On ThorLabs it costs 4k USD (which is, "cheaper" compared to most competitors):
+https://www.thorlabs.com/thorproduct.cfm?partnumber=WFS30-5C
+Following reasons may to blame for this high price:
+
+Expensive industrial sensors. But for https://www.flir.com/products/grasshopper3-usb3/?model=GS3-U3-14S5M-C it takes only 1.7k USD for a high performance sensor.
+Microlens array (MLA) fabrication?
+MLA-sensor alignment?
+Software development? (SDK & GUI)
+
+But I am not convinced by myself. 
+Any ideas why a Shack-Hartmann sensor is so expensive?

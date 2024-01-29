@@ -1,0 +1,6 @@
+Aperture photometry uncertainties
+
+Suppose I have a 2D data array with number of counts in each pixel (i.e., this is the image array). Suppose I have another 1-1 mapped same-shape data array that gives the 1-sigma Gaussian standard deviation in the number of counts in each pixel in the image (i.e., this is the error array). 
+If I do circular aperture photometry, I just calculate -2.5*log10(summed counts within aperture) + magnitudeZeropoint. 
+On the other hand, for the magnitude uncertainty on my aperture magnitude, I read that I'm supposed to do a quadrature sum of the errors within my aperture, then compute the fractional flux uncertainty as the ratio of my quadrature-summed uncertainty divided by my measured counts from the image, and then magnitude error = 2.5*log10(1 + fractional flux uncertainty). 
+How come the uncertainties have to be quadrature summed ($\sqrt{\Sigma \sigma_{x,y}^2}$), instead of just added up like I do with the image pixel values? The quadrature sum results in a smaller errorbar but is that realistic? Also, I emphasize that my data arrays are in units of counts (i.e., ADU's), not electrons.

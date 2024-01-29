@@ -1,0 +1,3 @@
+How was Henrietta Leavitt's discovery important for star measurement?
+
+Henrietta Leavitt discovered a relation between luminosity and period of variable stars, so it was possible to measure distance between two variable stars. I am curious to know how that was important back in time. How is the luminosity-period relation applied to measure distance? Was this method important because they finally had trusted apparent/absolute magnitude values to apply to the distance modulus equation?

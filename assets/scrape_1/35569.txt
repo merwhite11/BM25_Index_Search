@@ -1,0 +1,6 @@
+Telescope question
+
+During the daylight, you hold a ruler in a distance of 60 cm away from your eyes, and you find
+the size of the Moon to be 0.55 cm (try it yourself!). At night, you use a telescope to observe rock
+formations and craters on the Moon to estimate the diameter of the Moon to be about 3500 km.
+Find the distance to the Moon by using only the information from this experiment

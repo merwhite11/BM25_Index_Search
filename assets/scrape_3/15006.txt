@@ -1,0 +1,7 @@
+Will the E-ELT use Adaptive Optics at visible wavelengths?
+
+In this recent BBC article I read that the European Extremely Large Telescope or E-ELT is in final design and is planned to be on line by 2024, and that (of course) it will rely heavily on adaptive optics (AO) technology.
+In a great answer and discussion related to my previous question, it seems that while most AO is actually implemented for infrared imaging, work is being done to push the technology to visible wavelengths.
+Will the E-ELT have AO available for visible light imaging in the beginning, will it be phased in later, or is there currently no plan for visible light AO?
+note: Adaptive Optics (AO) techniques allow ground based observatories to dramatically improve resolution by actively compensating for the effects of Astronomical Seeing through dynamically deformable optics. AO is also implemented in radio astronomy computationally applied when data from arrays is combined, as described in this answer. 
+A drawing of the E-ELT from from Wikipedia (note scale of humans):

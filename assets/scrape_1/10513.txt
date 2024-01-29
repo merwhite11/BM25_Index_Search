@@ -1,0 +1,7 @@
+What are the most popular computer programming languages in observational astronomy?
+
+I would like to work in the field of observational astronomy (not so much theoretical astronomy).
+I currently know two computer programming languages: C# and MATLAB.
+I have read that computer programming is absolutely essential to every astronomer, and that it takes a very significant part of the time of the work of most astronomers.
+Therefore I would like to learn a few more programming languages. Hence my question:
+What are the most common programming languages in observational astronomy?

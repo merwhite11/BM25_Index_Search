@@ -1,0 +1,4 @@
+If a large satellite keeps a planet from wobbling,why is Pluto/Charon on its side?
+
+I understand that a “large” moon, like ours, keeps the planet’s axis from being peturbed, because the spin axis and the moon’s orbital plane exchange momentum and tend to stay in the same plane, and the orbital angular momentum is much stronger because of the long lever arm. So, tipping the planet means changing the moon’s orbital plane too, and the peturbations don’t make a significant change to its large value.
+So, why is Pluto, along with the orbital plane of its satellites, tipped nearly 90 degrees?

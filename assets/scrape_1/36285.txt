@@ -1,0 +1,5 @@
+Which spacecraft would be moving faster?
+
+If identical spacecraft were orbiting Mars and Earth at identical radii (distances), which spacecraft would be moving faster? Why?
+My reasoning is based on equation: a3 = P2 * (M1 + M2). Earth's mass is larger that that of Mars (we can ignore the mass of the spacecraft since it is negligible in comparison that of the planets), and the problem states that a is also the same in both cases. Therefore, for a spacecraft orbiting Earth P (orbital period) should be less than the one orbiting Mars. It implies that it should move faster. 
+Am I reasoning correctly? Please consider that it is a question from a introductory textbook chapter which is about laws of planetary motions, Newton's law of gravitations, orbits in Solar system etc. So answer should be adequate to this level.

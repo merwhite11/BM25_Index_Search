@@ -1,0 +1,6 @@
+Why aren't reflector telescopes built with an offset secondary mirror?
+
+Reflector telescopes (normally?) have a parabolic primary mirror that reflects the light to a secondary mirror which is placed at the center of the telescope. The construction holding that mirror and the mirror itself leave artifacts in the acquired image especially in images with high contrast (as can prominently be seen in the "first" JWST image) 
+Now, since the mirror is parabolic anyway, would it be possible to use a part of the parabola that is shifted to one side so that the secondary mirror (and the construction holding it) could be placed outside of the field of view of the primary mirror? I guess, the mirror would have to be elongated to give a round FOV and thus require more material.
+I'm 100% sure that many people much smarter than me have had this idea (and it seems to be used on satellite dishes around the world) but have not seen an optical telescope employing this system.
+Can you tell me what the downsides of such a system are and why it is not used? Is it just not worth the more complicated shape and bigger, oblong mirror required?

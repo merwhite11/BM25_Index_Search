@@ -1,0 +1,3 @@
+Simulation packages or theory to work with gravitational collapse of massive molecular clouds?
+
+So, I am getting interested in gravitational collapse of large molecular clouds that fragment and collapse into multiple stars. Are there well-known popular academic simulation packages that simulate these, for research purposes? Or are there papers or references I can use to write my own?

@@ -1,0 +1,18 @@
+Do Astronomers really never call Lagrangian points "libration points"?
+
+In this answer to Who called the Lagrangian points as “Libration” points and and why was the terminology “Libration” used? I described my feeling that Lagrangian points were also sometimes called "libration points" because for the the linearized equations of motion in the circular restricted three body problem at least some of these were equilibrium points where a small displacement would result in oscillatory motion and some of these are called halo orbits and Lissajous orbits. We know some of these are unstable even in CR3BP but for a few periods at least they are oscillatory.
+Then I wrote:
+Interestingly former NASA engineer, flight director and Space Shuttle program manager, Wayne Hale's October 2019 blog post Definition of Terms covers this very question, and seems to disagree with this viewpoint!
+I recommend reading the full post for sure, but to summarize the post shows some "libration points" of the Moon, where lunar libration is maximum.
+
+The spot on the edge of the moon that is tilted the most toward an earthly observer is called ‘the libration point’.
+Have you heard that term before?  I bet you have but in a different context.
+Joseph-Louis Lagrange (1736-1813) was an Italian mathematician who played a large part in the development of the metric measurement system (SI) in post-revolutionary France.  He also studied orbital mechanics involving three bodies (e.g. sun/earth/moon) and mathematically proved there are locations around such an orbit which are gravitationally stable.  These points are called Lagrange points in his honor.  There are typically 5 such points and I will leave it to the student to research their locations.
+As you can see Lagrange points and Libration points are quite different and literally have nothing to do with each other.
+But if you read any number of popular media stories – and even several NASA technical papers – there appears to be confusion and the terms are used interchangeably.  This is so widespread that some dictionaries have started changing the definitions to keep up with what appears to be popular usage.
+STOP THAT!
+Unfortunately, the curmudgeon in me realizes that this erroneous usage has become so common that it will be hard to change usage in popular literature.
+But at least you now know the difference.  And you, like me, will stop when you hear some ‘expert’ (never an astronomer) mixes the terms and think about how much ignorance is being displayed.
+
+
+Question: Do astronomers really never refer to any Lagrangian points as "libration points" as Wayne Hale's blogpost asserts?

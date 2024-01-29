@@ -1,0 +1,3 @@
+Which star has the highest estimated mass-loss rate?
+
+As far as I know, stars like RSGs and LBVs have the highest mass loss rates. There is Eta Carinae (0.00039 solar masses/yr), NML Cygni (0.00042 - 0.00048 solar masses/yr), WOH G64 (0.00072 solar masses/yr), IRAS 05280-6910 (0.00098 solar masses/yr) and finally IRAS 05346-6949 (0.0017 solar masses/yr). Are there any stars with similar or higher mass loss rates?

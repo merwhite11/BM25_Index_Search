@@ -1,0 +1,5 @@
+Speed of Moonrise relative to fixed point on ground
+
+Due to the curvature of the earth, and the way the moon interacts with the atmosphere (especially close to the horizon), is there a known function that describes the speed of the moon relative to its angle in the sky?
+For bonus points, imagine that you are at altitude in a plane, and for some reason want to descend at a rate that would keep the total % of the moon illuminated constant. Is there a function for that?
+Thank you in advance, this is not for an assignment, just for my own curiosity as I watched moonrise tonight. I have tried googling these questions, to no avail.

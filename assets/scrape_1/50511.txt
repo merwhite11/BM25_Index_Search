@@ -1,0 +1,13 @@
+How can I compute the shape and orientation of the crescent for a given time and geographic location using data from the JPL Horizons?
+
+I can compute the following data for the Moon for a given time and geographic location using the JPL Horizons system:
+
+Apparent RA & DEC
+Apparent azimuth & elevation (AZ-EL)
+Target range & range rate (relative to observer)
+Illuminated fraction
+Phase angle and bisector
+
+Is it feasible to compute the shape and orientation of the crescent from this data and if yes
+how is the computation procedure.
+I would be grateful if any one can answer this question for me.

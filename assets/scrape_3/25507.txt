@@ -1,0 +1,8 @@
+Is it "weird" that all disc galaxies rotate once every billion years?
+
+In a recent paper (Cosmic clocks: A Tight Radius - Velocity Relationship for
+HI-Selected Galaxies by Meurer, et al.), it was noted in the conclusion that:
+
+[This] implies a constant orbital time of ∼1 Gyr at [the outermost] radius [of disc galaxies].
+
+Given what we knew about disc galaxies and dark matter up to this point, is this an unexpected conclusion? My sense is that it is strange that all disc galaxies have a constant rotation regardless of their size, but my intuition may be wrong. I know that dark matter speeds up the rotation of the outer parts of disc galaxies, but isn't it strange that they converge on this value?

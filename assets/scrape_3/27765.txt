@@ -1,0 +1,6 @@
+Clarification on Greenwich Sidereal Time (GST)
+
+I know that LST = HA + RA.
+And GST is LST + longitude(L).
+If a star culminates, it's HA=0. Therefore, GST = RA + L.
+Since RA and L are constants, GST must also be a constant. So, how can GST be different on different days of the year for the culmination of the same object for the same observer? Also if I'm given the L and RA, why am I given the GST in this question?

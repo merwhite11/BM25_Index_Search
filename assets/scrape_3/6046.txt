@@ -1,0 +1,6 @@
+Is the argument of perihelion random?
+
+I am currently designing star and planet systems in the RPG framework GURPS. This game system has a very elaborate set of rules to set up a star system, complete with planets and the like. However, one (for me at least) critical issue is not addressed in the book: The argument of perihelion.
+Now, since I am writing a program to generate these systems for me, I would like to know what steps I can take to make a planet system as realistic as possible. Looking at data from our own planet system, the argument of perihelion looks to be pretty evenly distributed over all angles $[0, 2\pi)$. 
+Is there scientific evidence that this is actually the case, or are there any good suggestions on how I could proceed with my program?
+(The related question on RPG.SE can be found here.)

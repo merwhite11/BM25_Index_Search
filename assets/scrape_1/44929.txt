@@ -1,0 +1,12 @@
+If a black hole was headed for our solar system and would arrive within a year, would we necessarily know of it?
+
+Basically, is our observational technology and coverage sufficient enough to pretty much always spot incoming objects like a black hole when they're a year from arriving? If so, within what time frame will it not be necessarily spotted by us?
+I know necessarily is a bit of a strong word as of course, it is not 100 % certain that we would spot it in any case, but at certain points it becomes very unlikely that we don't spot it. Where does this point lie?
+EDIT:
+From what I've gathered from your responses, there's three ways to notice an incoming black hole:
+
+Lensing affect; the gravitational effects of the black hole distorts light, which we can see on our space imaging.
+Electromagnetic radiation caused by accretion disks, everything from gamma rays to x-rays, including visible light.
+Gravitational effects on the solar system. If the orbits of our solar system change noticeably, then this could lead to the discovery of an incoming black hole.
+
+Now, to what degree each of the above points would play a role in the detection of the black hole depends on the characteristics of the black hole. This means that there's probably many different time frames in which the BH is likely to be detected, depending on the BH characteristics. If this is the case, then I am looking for an upper and lower bound.

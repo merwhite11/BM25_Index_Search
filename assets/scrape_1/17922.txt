@@ -1,0 +1,6 @@
+Would gravitational waves be subject to external gravitational perturbations?
+
+Given that the gravitational wave detected by LIGO was a very weak echo of a very distant event, could it have been "deviated" and distorted on its way here by a sufficiently massive black hole in between?
+Would a black hole, since it traps even light, and since gravitational waves travel at the speed of light, absorb some portion of the gravitational wave and leave a "shadow" in its propagation such that if a black hole was between your instrument and an incoming gravitational wave you would have no way to detect it?
+If so wouldn't the mass distribution in the Universe look less homogeneous at larger scales (as observed), since gravitational waves would not deform space uniformly and would instead need to "equalize" by forming voids like the Boötes void, and filament structures like the Pisces–Cetus Supercluster Complex or Sloan Great Wall?
+If not, how could a gravitational wave from a distant event possibly affect the gravity well of a black hole closer to the observer? It doesn't seem possible to me that the attenuated ripple in space time from an event so far away could pass right through the gravity well of a closer local black hole like a galactic supermassive black hole.

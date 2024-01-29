@@ -1,0 +1,11 @@
+Jupiter-Venus conjunction is vertically aligned. I'm at 49° N. How is this possible?
+
+The very beautiful Jupiter Venus conjunction of ~ 2019-01-20 (practically something out of "2001 A Space Odyssey") is seen as "vertically aligned" in the dawn sky, Venus "above" Jupiter. 
+See this picture by Jeff Majewski at EarthSky.com to see what I mean (not sure I can copy it in here directly)
+This should mean my "vertical" is aligned with the Ecliptic. I'm in northern latitudes (49° N), how is that possible?
+And is this alignment geometrically linked with the "Super Wolf Blood Moon" which was very visible at the same time?
+Update
+The problem seems hard to explain so here is a little free-hand drawing.
+
+The observer sits on the equator and is just being moved into sunlight by Earth's rotation (the image shows Winter Time for the Northern Hemisphere). The observer's "UP" vector lies in the Ecliptic Plane. This being so, and Jupiter and Venus also being in the Ecliptic Plane, the observer can see Jupiter and Venus aligned "vertically" (same azimuth), separated by a couple of degrees in elevation. As the day progresses, that vertical alignment will evidently cease as the line connecting the planets rotates relative to the observer.
+This works on the Equator, but what if the observer is at higher latitudes? I can't get my head around the idea that the planets can be vertically aligned while still being on the Ecliptic Plane.

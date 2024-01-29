@@ -1,0 +1,5 @@
+Does parallax measurement depend on position in the sky
+
+Naturally, the parallax is easier to measure for stars that are closer than farther away. But if all stars were the same distance from the Sun, and if there were some other reference to measure the parallax, would all stars show the same parallax?
+In other words, does the position of a star (the right ascension and declination) affect the parallax measurement and calculation? For example, are stars near the ecliptic or equator or celestial pole easier to measure than other locations on the sky?
+Feel free to include any equations or references if it helps.

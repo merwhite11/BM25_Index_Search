@@ -1,0 +1,15 @@
+Does spacetime return to being flat?
+
+I wrote an experiment in HTML5 and Javascript to try to show what is happening to the curvature of spacetime as a body moves through a region.
+As time progresses, I'm using the g=Gm/r2 equation to move the spacetime grid toward the object. When a grid point is within the body, I use g(1-h/R) to modify the bending according to the acceleration at the surface. This assumes uniform density.
+The result is that it takes a very large mass and very long time for any sort of noticeable curvature to occur (as you'd expect). By decreasing the Earth's radius by a factor of 3, I was able to see the curvature very well as in the screenshot below.
+What occurred to me then is that the the warping of space would remain long after the body of mass had moved on.
+Does this warping in space ever return to truly "flat" or is the fact that we almost never orbit through the same absolute region of space mean we never experience this existing warping?
+If light went through this "wake" would it bend according to the spacetime curvature created by the long distant planet? Or have I gone wrong in my model?
+
+This demo uses real values except that the radius is shrunk by 3x to increase its gravitation effect.
+earth.radius = 6.371e6 / 3;
+earth.mass = 5.972e24;  
+spacetimeGrid.extent = 4.5e7;
+
+You can run the demo here: https://dl.dropboxusercontent.com/u/2236585/spacetime/index.html

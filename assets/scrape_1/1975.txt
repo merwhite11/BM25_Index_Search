@@ -1,0 +1,8 @@
+local stellar mapping data
+
+I've been playing around with Near Star Map, and I think I kind of want something more sophisticated, so for all stars within 100ly/30pc, is the following known?
+
+velocity (it would be nice to have a vector field showing how fast in which direction stars are moving)
+magnetic field intensity
+estimated age
+local ecliptic plane (and as much as that's meaningful for three-star systems with Poincare-befuddling orbital dynamics)

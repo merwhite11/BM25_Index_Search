@@ -1,0 +1,4 @@
+How have we measured the radius of the Earth (old and new)?
+
+I'd imagine ancient methods are fun exercises in geometry. how has the measurement has evolved over time?
+The first method is credited to Eratosthenes. He knew that during the summer solstice in Syenne the angle of the Sun overhead at noon was $0^\circ$. Following this he made the same measurement in Alexandria and measured the angle of the Sun overhead using shadows and calculated it to be $\approx 7^\circ$ which is approximately $1/50$ of a circle. Hence, both the circumference and the radius are easily calculated and quite accurate for such crude methods.

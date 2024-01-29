@@ -1,0 +1,14 @@
+Is quasar 2M1310-1714 outside the observable universe?
+
+This Einstein ring
+
+Image credit: NASA / ESA / Hubble / T. Treu / Judy Schmidt
+shows multiple images of the quasar 2M1310-1714.  Its distance is quoted at 17 billion light years and although the age of the universe is around 13.8 billion light years old, when the comoving distance is taken into account, the distance to the edge of the observable universe is 46.6 Gly.
+However, I keep coming across a link to  Ned Wright's "Why the Light Travel Time Distance should not be used in Press Releases".  The link is dead but the summary states
+
+Since public information offices in the US never want to mention the
+redshift of an object, distances are usually given as light travel
+time distances. This has one simple property: the distance in light
+years is never greater than the age of the Universe in years.
+
+Is this the sense in which "17 billion light years" is being used here, and if so, what is the mechanism by which gravitational lensing can show objects beyond the 46.6 Gly boundary.  The only papers I can find are about imaging the ring, nothing about the distance to it or how that distance was determined.

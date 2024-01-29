@@ -1,0 +1,3 @@
+Why would someone choose a lower resolution grating over a higher one when performing spectroscopy?
+
+The higher spectral resolution grating would reduce the spectral range. Besides that, would a higher resolution grating reduce the signal per pixel? I thought I heard someone mentioned this to me a while back and I cannot remember the details. I think it would make sense because a higher resolution grating would spread the light out more, but I am not convinced either way. Can anyone provide any insight?

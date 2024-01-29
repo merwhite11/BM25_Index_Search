@@ -1,0 +1,3 @@
+What's the oldest possible age of the universe? (LCDM parameter range)
+
+What would happen if you took today's six-parameter LCDM model down to the 5% confidence level?  Understanding that the number of permutations is high, I would be particularly interested just in the present age of the universe t0---- what are t0's higher and lower limits, assuming that all five of the other parameters are leaning all the way to the plausible floor at the 5% CL either to increase t0 together, or to decrease t0 together?

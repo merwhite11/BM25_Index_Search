@@ -1,0 +1,9 @@
+Could discoid galaxies be expanding?
+
+I understand that astronomers once thought that the material in the disc of a galaxy was moving around the galactic centre (where most of the mass was thought to be) in roughly circular orbits. The circular motions would be explained by the combination of inertia and gravitational acceleration towards the centre. This follows the Kepler/Newton model which describes/explains the orbits of planets around the Sun.  In a Kepler/Newton system the tangential or transverse velocity of a low-mass orbitting object depends on the radial distance of the high-mass object from the centre.  Objects further out must have lower velocities so that the weaker centrally-directed acceleration at that distance can keep the object moving in a roughly circular track. 
+In the centre of the galaxy the velocities are low and increase rapidly with distance away from the centre.  This is understandable as the mass of the central bulge of the galaxy  is not concentrated at the centre, it is spread out over a relatively large volume.  
+However it is now well-known that the measured velocities of visible material in the disks of discoidal galaxies do not vary as expected for a Kepler/Newton system.  At  a certain distance where the velocities would be expected to start decreasing (as per curve A) they either level out or continue increasing at a slow rate (as per curve B). 
+
+The current explanantion is that a large mass of Dark Matter extends throughout the galaxy in such a way as to produce non-Keplerian behavior.
+QUESTION
+But isn't there another possible explanantion of the non-Keplerian velocity profile namely that the ordinary detectable material (e.g. gas, dust, stars) in the disk is not completely gravitationally bound to the galactic centre and is actually gradually moving outwards along a spiral path?

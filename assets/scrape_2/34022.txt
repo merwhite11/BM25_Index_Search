@@ -1,0 +1,30 @@
+Is it possible to build a ground-based telescope that can directly image Earth-like planets orbiting in the habitable zone of sunlike stars?
+
+In the following discussion I will refer to Earth-like exoplanets planets orbiting in the habitable zone of sunlike stars simply as “Earth-like exoplanets."
+NASA is currently developing or considering three space telescopes that would be able to directly image Earth-like exoplanets:
+
+The WFIRST space telescope (if it’s equipped with a starshade).
+The HabEx space telescope, which would be equipped with both a starshade and
+a coronagraph.
+The LUVOIR space telescope, which would use a coronagraph to block the light 
+of an exoplanet’s star.
+
+I can think of three possible reasons why it might not be feasible to build a ground-based telescope that can (like the three space-based telescopes) directly image Earth-like exoplanets:
+
+Reason 1: A starshade is one of the best technologies for blocking the light 
+         of an exoplanet’s star, and it seems very difficult to use a 
+         starshade with a ground-based telescope. 
+Reason 1 seems valid, but it doesn’t seem that it can be the whole story 
+because (as discussed above) the LUVOIR telescope will only use a coronagraph 
+to block the light of an exoplanet’s star, and the HabEx telescope will use a 
+starshade for some observations and a coronagraph for other observations.
+Reason 2: Maybe the type of coronagraphs planned for the LUVOIR and HabEx 
+         telescopes wouldn’t work for a ground-based telescope.
+Reason 3: One of the main reasons why scientists want to directly image 
+         Earth-like exoplanets is to spectroscopically examine their 
+         atmospheres to look for possible signs of life such as oxygen and 
+         methane. Maybe spectroscopically examining the atmospheres of 
+         Earth-like exoplanets requires imaging in the infrared spectrum, 
+         which isn’t possible for ground-based telescopes.
+
+Are these three reasons valid, and do they imply that it isn’t feasible to build a ground-based telescope that can directly image Earth-like exoplanets? Are there other factors that need to be considered? Or is it actually possible to build a ground-based telescope that can directly image Earth-like exoplanets?

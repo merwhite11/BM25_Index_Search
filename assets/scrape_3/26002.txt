@@ -1,0 +1,4 @@
+Calculate eccentricity from apside altitudes?
+
+I need to calculate the eccentricity of a satellite orbit with only the apside altitudes (height above the surface of the Earth), 400 and 1500 km. However, I don't know the semi-major axis ($a$) or semi-minor axis ($b$).
+$$\text{eccentricity} = (1-(b/a)^2)^{1/2}$$

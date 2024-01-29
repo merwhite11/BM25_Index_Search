@@ -1,0 +1,17 @@
+What is the most common activity of astronomers in the JWST?
+
+I am no astronomer. I am a computer scientist.
+I recently read this article: JWST has changed the speed of discovery, for better or for worse - Astronomers are working at a furious pace to analyze and test whopping amounts of JWST data.
+Are astronomers still searching somewhat randomly the sky dome for points of interest or is the astronomy community fixed on observing specific regions (about 200-500 uncommon events of black holes, supernovas, exoplanets, nebulas and galaxies) of interest ?
+Is the main type of data astronomers use JWST (or any other type of orbital telescope) optical images ? It would amaze me if most of those daily Gigabytes of data the article mentions were raw data (measurement values for example not pixels).
+Does this field use any kind of algorithmic identification of points of interest to discard any dull and common matter passing through the observing lenses ?
+For example: The telescope after taking a high-resolution image of the universe in any kind of electromagnetic spectrum, it would do the following:
+
+Will catalogue the coordinates of the depicted image and other meta data like time and so on (as I presume it is already being done)
+Maintain only the pixels that are of interest set by the astronomer like regions that exceed a threshold of luminosity or density (cluster of pixels) of certain elements or distance from the telescope (not sure if the latest is something the telescope can measure).
+Those filtered information will be preserved and the rest discarded resulting in less data sent back to earth in a certain format to be reconstructed as an image (far from the true image of that region) but still eligible for study as those pixels will carry important data.
+These data could also be further compressed with certain structural reconstruction algorithms, i.e. if the final image is thousands of pixels wide but the actual information caught from filtering occupies scarce small regions in the center then only the coordinates of that pixel clusters could be saved and the rest assumed blank. The reconstructed image in earth would still be of the same dimensions.
+After reviewing these data, if the astronomer (or an other filtering algorithm) deems it worthy of interest, could ask from the telescope a full spectrum analysis with no filters sent back for further review.
+
+Steps 1-4 could be executed by the telescopes computer before sent to earth and steps 2 & 3 could even execute while scanning (before completing the image) without having to post-process the complete image.
+Forgive my ignorance if this pipeline is already applied. I'm not trying to sound smart.

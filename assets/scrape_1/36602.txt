@@ -1,0 +1,3 @@
+What direction does 0° in the J2000 epoch point towards on January 1, 2000?
+
+Is 0 degrees in the J2000 Epoch 'right ascension' is a line from Earth to the sun on January 1, 2000? Or is 0 degrees the direction towards the ascending node 'equinox'?  Which is NOT towards the Sun on January first...

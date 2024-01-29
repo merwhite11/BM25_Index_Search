@@ -1,0 +1,3 @@
+How to get coordinates and brightness of all stars from 1 constellation on SIMBAD?
+
+I would like to get the RA and DEC coordinates and brightness data of all stars in the Orion constellation from SIMBAD. I am attempting to do a 'criteria query' but I'm confused about how to sort the database by constellation. Please help.

@@ -1,0 +1,4 @@
+What are Kepler's laws (as he wrote them)?
+
+There are of course many, many sources that quote Kepler's laws of planetary motion. This is preventing me from finding out what I really want to know: which is - what are Kepler's laws as he wrote them? As opposed to how they may have been later interpreted.
+Very specifically I am interested in whether "Kepler's First Law", as proposed by Kepler, which is usually stated in the form that orbiting objects in the solar system execute elliptical orbits with the Sun at one focus, actually recognised, or had a caveat, that in a 2-body system it is the barycentre that is at the focus of an ellipse for both bodies, and that it is even more complex in the case of 3-bodies or more.

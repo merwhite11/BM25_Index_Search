@@ -1,0 +1,3 @@
+What is the application of pseudorandomness in astrophysics?
+
+What are the advantages of using pseudorandom numbers in Monte Carlo simulation instead of random numbers? What are other applications of pseudorandomness in astrophysics? Many thanks.

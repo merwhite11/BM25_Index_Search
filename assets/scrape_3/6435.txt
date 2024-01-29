@@ -1,0 +1,14 @@
+Could a space radio telescope fill multiple purposes?
+
+Dream for a while and imagine that there will be a flagship+ mission within a decade to put a large radio telescope in space:
+
+What kind of different tasks could the same radio equipment feasibly be used for?
+How do the requirements for frequency sensitivity, electric power supply, dish size, and other radio technology (such as applicability of phased array?) and what else vary most importantly between such purposes?
+
+For example, could one and the same big space radio telescope in the Asteroid Belt be used for any, some or all of the below, what would the synergies and contradictions be:
+a) Radio astronomy on its own.
+b) Interferometry together with a telescope on Earth to create an interplanetary baseline for huge resolution, like the spektr-R does cis-lunar today, AFAIK.
+c) Radar characterization of the orbit, shape, size et cetera of any large enough asteroid in its current section of the asteroid belt.
+d) Ground penetrating radar to characterize the interior composition of near flyby asteroids.
+e) Communication with Earth so powerful that it need not engage the Deep Space Network (DSN), but can work with smaller Earth based radio antenna.
+f) Extending the DSN by working as a relay between Earth and outer space probes, or between Earth and the backside of Mars or when Mars is in apposition behind the Sun from Earth.

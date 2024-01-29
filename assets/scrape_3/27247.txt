@@ -1,0 +1,5 @@
+Air temperature range recommendation for observations in a summer night with an entry level telescope?
+
+Recent nights where I try to make my first observations with the entry levell telescope Seben with 114 mm mirror it seems that for lenses less than 6 mm details go lost due to warm air refraction (as observed with the Moon contour).
+Everywhere they say, it shouldn't be too warm: is it possible to recommend a rough temperature range where you could go for say 4 mm and still see details?
+(Side note: the overall visibility index was about 77%).

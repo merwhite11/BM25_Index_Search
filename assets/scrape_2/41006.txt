@@ -1,0 +1,9 @@
+In what ways are neural net classifiers "better" than search algorithms for eclipsing star system searches? (1D time series, not images of cats)
+
+Neural net classifiers are both "hot" and useful.
+TIC 168789840: A Sextuply-Eclipsing Sextuple Star System is quite an interesting read, and describes the use of one trained on a supercomputer to look at historical TESS data and build a catalog.
+Discussion of the model can be found in Section 2.
+The mechanics and optics behind mutually eclipsing star systems is well understood and in my naive thinking could be described algorithmically.
+The limits of a resulting catalog from such an algorithmically-designed search could be understood statistically; one knows the constraints in terms of brightness ratios, periods, inclination deviations etc. so one should have an idea of which systems should pass and which should fail.
+A neural net classifier is pretty much a black box. It can be tested on an artificially designed dataset to check its behavior, but that may turn out to be fairly lumpy; in a group of similar cases some may pass and some may fail and the reasons may not be clear, you can't query a large super-computer class neural net and ask "Why didn't you like this one?" in an easy and transparent way.
+Question: For 1D time series data of predictable orbital mechanics and optics, (as opposed to sets of images that may or may not contain cats) in what ways (if any) are neural net classifiers "better" than search algorithms for eclipsing star system searches? Are there any advantages, or is this simply an alternative technique worthy of investigation?

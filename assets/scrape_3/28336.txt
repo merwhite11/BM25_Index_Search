@@ -1,0 +1,20 @@
+Doing Correct Calculations with Binary Star Systems
+
+I've been experimenting with Binary Star System calculations but came across some issues.
+I can correctly calculate the Semi-Major Axis of the Earth's orbit around the Sun by doing the equation:
+
+Using data from Wikipedia. 
+a = (1.521e11 + 1.47095e11) / 2.   <- average radius of Earth's orbit (meters)
+μ = G * M = 6.67408e(-11) * 1.98847e30 gravitational constant * Mass of Sun (kg)
+
+I got ≈ 31557884 seconds which equates to ≈ a year
+Now my issue is that I've been searching around for a formula that calculates the period and etc of a Binary System where two masses (such as stars) orbit around each other.
+So then I try essentially the same formula, this:
+
+I used data from the Procyon A and B (binary system)
+a = Semi-Major Axis = 4.3 AU
+M1 = Procyon A Mass = 1.499 Solar Masses
+M2 = Procyon B Mass = 0.602 Solar Masses
+
+these give me a T (period) of 4731227. It says 40.82 years on Wiki.
+What am I doing wrong? Is it the data? is it the formula? My comprehension of the question? Thank you for the help!

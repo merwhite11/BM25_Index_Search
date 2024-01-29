@@ -1,0 +1,7 @@
+Solar Rotation Varies with Latitude. Effects?
+
+From the Wikipedia article of "Solar Rotation":
+
+Solar rotation varies with latitude. The Sun is not a solid body, but is composed of a gaseous plasma. Different latitudes rotate at different periods. The source of this differential rotation is an area of current research in solar astronomy. The rate of surface rotation is observed to be the fastest at the equator (latitude φ = 0°) and to decrease as latitude increases. The solar rotation period is 24.47 days at the equator and almost 38 days at the poles. The average rotation is 28 days.
+
+What are the effects of different rotation period between latitudes on Sun itself?

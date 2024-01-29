@@ -1,0 +1,5 @@
+about H$_\alpha$ and H$_\beta$ lines in astronomical objects' spectra
+
+Generally there may be some line ratio between the two lines.
+If  H$\alpha$ is strong, it is quite possible we can see H$_\beta$ too.
+Is it possible we can see H$_\beta$, but can not see H$_\alpha$? In what kind of environments can it happen?

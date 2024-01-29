@@ -1,0 +1,4 @@
+What leads to increase in opacity in kappa mechanism?
+
+I understand that the kappa mechanism (that leads to star variability) causes an increase of opacity with increasing temperature in partial ionization zones.  However, I'm not sure I understand what causes the increasing opacity with temperature.
+Until recently, I thought that the increasing opacity was due to increasing Thompson opacity due to the increasing ionization fraction with temperature in partial ionization zones.  However, some things I read suggested that that was not the cause.  So I wanted to ask, what is the cause of increasing opacity with temperature in partial ionization zones?

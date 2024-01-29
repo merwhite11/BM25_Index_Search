@@ -1,0 +1,3 @@
+If velocity is relative, why mass (inertia) is increasing absolutely?
+
+Would inertia not grow if we took out the reference frame?

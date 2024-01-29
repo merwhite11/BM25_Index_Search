@@ -1,0 +1,7 @@
+Why can't we use the semi-minor axis in Kepler's third law?
+
+Why can't we use the semi-minor axis in Kepler's third law? The formula for the third law is:
+$$\dfrac{a^3}{T^2} = \text{const.} $$
+Instead of semi-major axis (a) why can't we use the semi-minor axis (b)?
+$$\dfrac{b^3}{T^2} \neq \text{const.} $$
+I just checked it (I calculated the results for some planets using the semi-minor axis) and I really don't know why it's not constant.

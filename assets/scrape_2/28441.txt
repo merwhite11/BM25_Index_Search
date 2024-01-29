@@ -1,0 +1,5 @@
+How to get the solar zenith from the longitude and latitude?
+
+I have real data of “Direct Normal Irradiation” and “Diffuse Horizontal Irradiation” and I should calculate “Global Horizontal Irradiation”. I have also longitude, latitude and elevation. 
+Could you advise me how I can get zenith from these data, then to calculate the GHI?
+Many thanks,

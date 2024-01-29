@@ -1,0 +1,3 @@
+Conversion of oxygen abundance to metallicity
+
+How can you convert oxygen abundance values (12+log(O/H)) to metallicity values z. Like oxygen abundance of 8.69 is a metallicity of about 0.02 (solar metallicity). Thus, given a random abundance value, say 8.2, will a ratio of (8.2/8.69)*0.02 give the metallicity value?

@@ -1,0 +1,3 @@
+What is 'surface acceleration' of a planet or other body? As opposed to its 'g' (gravity)?
+
+The Mars Fact Sheet at NASA (their NSSDC or NSSDCA section, whatever that means) lists a value for 'surface acceleration' just below one for 'surface gravity'.  They also have the values for Earth, for comparison.  The values for surface acceleration are very similar to those for gravity, just slightly smaller...

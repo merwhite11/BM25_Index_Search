@@ -1,0 +1,4 @@
+Procedures to test an hypothesis
+
+In the context of planet formation and with the intention of testing different migration and in situ formation scenarios, I'm wondering what are the standard procedures to test and rank different hypotheses given known properties of the disk: e.g., constraints on $\Sigma$, $T$, $h/r$  the mass surface density, temperature and aspect ratio, respectively,  w.r.t $r$ the radial distance towards the disk center.
+For instance, I think this can be done using Bayesian inference, but I've honestly never tried to do this rigorously before so maybe asking here is a good starting point.

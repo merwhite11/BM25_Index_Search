@@ -1,0 +1,14 @@
+In the explanation of fitgeometry=general of drizzlepac.tweakreg.TweakReg, How are there two different rotation with respect to "x axis" and "y axis"?
+
+While the shift file looks nearly identical to the prior run, 
+this is because the axis-dependent rotation 
+and scale values are averaged together in the shiftfile. 
+To determine the actual values, it is necessary to inspect the logfile.
+
+j9irw5kaq  SCALE_X: 1.000008792  SCALE_Y: 1.00000757  ROT_X: 0.002818152  ROT_Y: 359.998708  SKEW: 359.9958898
+j9irw4b1q  SCALE_X: 0.999986877  SCALE_Y: 1.00003072  ROT_X: 0.004877188  ROT_Y: 0.00405990  SKEW:  -0.0008173   
+
+The above script is related to the axis explanation of fitgeometry=general of drizzlepac.tweakreg.TweakReg.
+(and this is from DrizzlePac tutorial)
+How are there two different rotation with respect to "x axis" and "y axis"?
+In two-dimensional space, there is just one rotation with x-axis and y-axis separately, NOT two rotations.

@@ -1,0 +1,4 @@
+How do I determine the velocity of Pluto at aphelion and perihelion?
+
+I am a college astronomy student and I have to find the velocity of Pluto at aphelion and perihelion. I have found the distance of perihelion to be $1.96\times10^9$ km. Aphelion has a distance of $3.27\times 10^9$ km. 
+It is given that Pluto's "minimum orbital velocity is 3.27 km/sec". Which I think means the velocity of Pluto at aphelion is 3.27 km/sec. But then how do I find the velocity at perihelion?

@@ -1,0 +1,12 @@
+In an area with lots of light pollution, which clear sky clock parameter is most important?
+
+I live on the periphery of a large light dome, looking towards the West. I get about 1/3 of the sky towards mountains that is darker. According to ClearDarkSky.com I live in an area with artificial to night sky brightness ratio of about 9.00, Sky Brightness mags / arcsec2 V Band of about 19.5, and Bortle Scale of about 5.
+On the Clear Sky Clock (also at ClearDarkSky.com) I see the following sky values:
+
+Cloud Cover
+Transparence
+Seeing
+Darkness
+
+Which of these values is most important in a light polluted area, especially when looking west in my case to the darker sky portion?  I'm thinking it is transparency as low transparency may result in more scattering of light pollution and thus more pollution?  But perhaps moon phase beyond a certain portion matters too, especially if the moon is in the west.
+I have a large Dobsonian telescope and wonder which of these is going to have the most beneficial effect when viewing near the city?

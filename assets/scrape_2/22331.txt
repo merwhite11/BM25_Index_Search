@@ -1,0 +1,8 @@
+Does the Giant Impact Hypothesis explain how the Moon circularized its orbit?
+
+I just read most of Wikipedia's article on the Giant Impact Hypothesis. Basically a large object impacts Earth and creates debris that soon coalesces into the Moon.
+But there is something I did not find mentioned: How would the Moon get its circular orbit?
+A debris field from any impact would at first follow a very elliptical orbit, with a perigee very close to the surface of the Earth and an apogee much farther away. In orbital mechanics, where you start is where you end up. In fact it doesn't even have to be where you start. Pick any point in the orbit and you will return there again. In other words, the original elliptical orbit doesn't change its shape.
+...Unless there are pertubations or impacts that change your velocity. How exactly did that happen? Does the GIH just assume something else did that fortuitously?
+I've also seen youtube video simulations like this. It's hard to tell if the camera angle is changing or if the orbital plane is unstable (how?), but you can clearly see the debris goes around and impacts the surface again and again. I.e., the orbit remains highly elliptical. I've never seen a simulation that shows the debris circularizing.
+I also want to note that this question is highly relavent not just to the Moon, but many other things like orbital capture as well. I've never understood orbital capture theories as they all seem to leave out how the initial elliptical orbit later becomes circular, e.g., Triton.

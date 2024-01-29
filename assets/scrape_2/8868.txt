@@ -1,0 +1,4 @@
+How would Jupiter's brightness relative to our sun seem to a remote observer (observing from a remote star)
+
+Given that Jupiter is 5 AU from our sun and a remote observer viewing our solar system from some other part of our galaxy looks at it. We assume that Jupiter's radius is $11 \times 6700$ km.
+What would be the relative brightness (luminosity?) of Jupiter relative to our sun's?

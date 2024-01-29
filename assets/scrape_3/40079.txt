@@ -1,0 +1,4 @@
+Do planets have effect on velocity of Earth?
+
+There is method for finding extrasolar planets called Transit-timing variation. If I understood correctly, exoplanets accelerate or decelerate each other (according on their position), so we can observe irregularities in transit times of some exoplanet.
+Now, for our solar system, can we observe similar effect here? Why time of Earth's orbit around Sun is always 365.256 days, even though other planets are always in different places? Shouldn't Earth year be always differently long?

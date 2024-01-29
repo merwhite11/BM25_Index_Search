@@ -1,0 +1,14 @@
+Theoretically, what is the biggest optical telescope that may exist?
+
+Recently, I read yet another news about E-ELT. It will have 39.3-metre-diameter segmented primary mirror. And I was interested in the next question:
+Theoretically, what size of the primary mirror (single/multiple/segmented) can have a telescope on Earth for observing at optical wavelengths? And why? I mean what are physical limitations exists?
+And the same question about space (not on Earth)?
+Update:
+On the advice of @TildalWave, to make this question answerable let's make a few adjustments:
+
+Primary mirror should be segmented (or it variations) like on E-ELT.
+Suppose we have a large (several square kilometers), flat surface high above sea level.
+We have to build telescope for observing at optical wavelengths.
+
+I know that, there is concept of OWL with 100 metre-diameter segmented primary mirror.
+But what about 500 metre-diameter or 1000? Is it possible in theory?

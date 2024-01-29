@@ -1,0 +1,5 @@
+How will the Solar tides affect the Earth's rotation once it is tidally locked to the Moon?
+
+It is my understanding that the tidal forces of the Moon acting on Earth cause it to slow down its rotation and, because angular momentum is conserved, the Moon's orbit subsequently expands. This continues until the Earth's rotation is synchronous with the Moon's orbit leaving both bodies tidally locked to each other.
+However once that happens, how will the tidal forces exerted by the Sun on Earth (which are weaker than the Moon's) affect the Earth's rotation? Would they cause the Earth to start rotating again and thus cause the Moon's orbit to shrink?
+P.S. I do realize the Earth is not destined to be tidally locked to the Moon until after the Sun evolves into a red giant, so for the sake of simplicity assume the Earth-Moon system survives unscathed without getting disturbed.

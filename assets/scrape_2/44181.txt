@@ -1,0 +1,4 @@
+Nearby galaxy distances
+
+Type Ia supernovae are extremely useful in measuring the distance of remote galaxies. It is known that type Ia supernovae always reach the same brilliance at their peak. Like Cepheid variables, they can be used as “standard candles” to determine distances. What type/sub-type of supernovae can be used to measure distances to
+a nearby galaxy?

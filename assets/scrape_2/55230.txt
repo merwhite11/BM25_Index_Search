@@ -1,0 +1,11 @@
+Radiation pattern of a GW source
+
+Accelerated masses produce gravitational waves. A binary star system in which two stars orbit a common center of mass emits gravitational waves. The greatest power is emitted in the plane perpendicular to the stars' orbit. Therefore the following statements must be correct:
+
+The radiation pattern (points of equal intensity) looks something like Eta Carinae.
+The amplitude of the GW disappears at all points on the (local) ecliptic of the binary star.
+Therefore, a two-dimensional representation like in Wikipedia is wrong and leads to wrong conclusions.
+Since a GW is circularly polarized, the radiation must be right-hand circular in one half-space and left-hand circular in the other half-space.
+Since the same amount of energy is radiated in both directions, the angular momentum of the binary system does not change.
+
+My question: GW are usually represented as plus-polarized and cross-polarized waves. Neither text description nor images indicate circular polarization. Right or wrong?

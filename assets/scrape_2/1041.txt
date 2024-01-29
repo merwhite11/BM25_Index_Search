@@ -1,0 +1,5 @@
+Without using absolute magnitudes or isochrones, how might we tell a star's age and evolutionary status?
+
+Usual methods of estimating stellar ages involve isochrone approximations. It can also help to estimate a star's radius by correlating its absolute magnitude with effective temperature and apparent magnitude. In the absence of these measurements or observations of tell-tale variability, how might you guess a star's age and evolutionary status?
+Given a single, high-resolution $(R\gtrsim 50000)$ spectrum as your only data point, how easy is it to accurately infer the age and evolutionary status of a star? For example, how would the spectrum differ between a red dwarf and red giant, both with of $T_{\mathrm{eff}} = 4000~\mathrm{K}$? Or between two red dwarfs of ages $2~\mathrm{Gyr}$ and $8~\mathrm{Gyr}$?
+A good answer could describe how surface gravity $(\log g)$ affects spectral lines (and how this relates to stellar mass and radius), what elements we might observe more strongly at different stages of evolution, and some observational results of gyrochronology.

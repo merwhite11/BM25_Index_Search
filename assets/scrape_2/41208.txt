@@ -1,0 +1,3 @@
+New method for exoplanet detection based on iridescence?
+
+Could it be possible to detect exoplanets that have an abundance of iridescent minerals by analyzing their star's spectra over time as the angle in observation would lead to changes in absorbed wavelengths?

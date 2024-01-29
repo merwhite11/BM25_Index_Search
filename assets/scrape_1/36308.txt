@@ -1,0 +1,4 @@
+Are metallicities of molecular clouds lower in the outskirts of the galaxy?
+
+(this question was originally posted in an answer by user PSR-1937-21 to another post. I find it an interesting one, but since they don't seem to be active anymore, I'm posting it to see if somebody knows the answer.)
+From how mass is usually distributed, it seems reasonable that metallicity would be lower in the outskirts of the galaxy. If the metallicity is lower, would that allow for larger stars to form? (see for instance "Why is metallicity important in the death of stars?"). Maybe there is a larger Jeans mass due to warmer clouds, the result of less efficient radiation of thermal energy?

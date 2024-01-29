@@ -1,0 +1,10 @@
+What range of exit pupils work for observing the full moon?
+
+I'm observing the full moon, from a major city, with heavy light pollution and dust.
+The objective size is fixed, for this comparison, something between 4 and 6 inches. The question is about the tradeoff between magnification and dimness of the image. I'd like to know what range of exit pupils works best. Again, the goal is to observe the full moon.
+To put it differently:
+
+What's the smallest exit pupil at which the moon gets so dim that you can't take advantage of the increased magnification? ("Empty magnification").
+What's the largest exit pupil at which the moon is bright enough, so a larger exit pupil doesn't help?
+
+The only reference I could find is this, which claims that 1-2mm works best for the moon. Is that correct?

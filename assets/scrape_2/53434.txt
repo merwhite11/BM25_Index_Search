@@ -1,0 +1,9 @@
+Are we searching for supercriticality of exoplanet water via passive spectral analysis?
+
+Much spectrum analysis on many chemical compounds are mapped and categorized at Earth atmosphere (1000 millibar) or thereabouts.
+But many celestial objects are of greater ranges of surface pressure.
+And many chemical compounds reach supercriticality at higher pressure.
+One of those chemical compound is water molecule.  Water molecule exhibit a different ro-vibrational in the diffraction spectral analysis at deeper pressure.
+Are we compensating and broadening our their search parameters for super-criticality of such chemical compounds when doing this passive spectral analysis of and for their search of exoplanets?
+Was reading this paper on “Mid-IR spectroscopy of supercritical water: from diluted gas to dense fluid”.
+https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/2/2305/files/2019/11/Hestand-et-al.-2019-Mid-IR-spectroscopy-of-supercritical-water-From-d.pdf

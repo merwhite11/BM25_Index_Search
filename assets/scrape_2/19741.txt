@@ -1,0 +1,14 @@
+If earth changed its orbit, what would happen to the moon?
+
+Let there be an accelerating force acting on earth over an arbitrarily long time to change its orbit around the sun (e.g. by asteroids repeatedly passing by close to earth (intentional or not) or whatever). For this question consider only the effect of earth's gravity on the moon (and vice versa), not other influences (e.g. not the immediate effect the asteroids passing by have on the moon's orbit).
+If such perturbations are weak enough yet of sufficient duration to change earth's orbit around the sun, how does it change the moon's orbit around earth? My considerations:
+
+Since the moon remains in orbit around earth even as the earth goes around the sun there obviously is some lower limit to how fast earth can accelerate. However, that force wanders around earth once a year, hence its effect on the moon's orbit is evening out - and the effects from the sun are supposed to be ignored here, anyway, so let's have the force go in a constant direction.
+The force acting on earth can be decomposed into $F_\perp$ perpendicular to and $F_=$ coplanar with the moon's orbital plane. $F_\perp$ moves earth out of the plane of the moon's current orbit, so the moon's orbit will adjust to find a new plane: if the force is continuously applied in the same direction the moon's orbit will change until $F_\perp = 0$, so this factor can be neglected.
+$F_=$ will cause the moon's orbit to become very elliptical, the moon passing closer on the side toward which earth is accelerated and being further away on the other side. If the force is indefinitely sustained something will happen to the moon, but under which circumstances will which scenario happen?
+
+the moon remains in orbit,
+the moon gets tidally torn apart,
+the moon crashes into earth,
+the moon leaves orbit of earth (though the moon will probably say that it's earth which ran away...),
+anything else interesting I forgot.

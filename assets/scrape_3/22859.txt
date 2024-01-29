@@ -1,0 +1,16 @@
+When the Moon formed and early on, did it orbit over the Earth's equator?
+
+Or was it always at about 5.14 degrees inclination or has the inclination changed over time?
+See diagram.
+James K's answer to this question got me thinking about this, and I don't mean to call him out, but this part of his answer doesn't seem quite right when he wrote:
+
+Our moon is unique in being close to the plane of the ecliptic, and
+  not in the plane of the equator, which suggests its formation was not
+  like that of other moons in the solar system.
+
+For starters, I imagine the physics of the initial orbit of an impact moon would be somewhat complicated, but it seems likely, given an angled impact like the one that's believed to have formed our moon (and hitting at an angle is statistically more common than a direct impact anyway), 
+So, in this scenario, the planet gets significant angular momentum and this angular momentum should dictate the planet's new equator and axial tilt relative to it's orbit.  I would think the moon should form roughly along that same equatorial plane, but I'm just guessing.   Perhaps it could form several degrees off - not sure.
+The 2nd point, is, a rapidly rotating planet with a large equatorial bulge and a close moon, if the Moon formed off the equator, would it's orbit migrate over the equator where the gravitation was greatest and would that happen relatively quickly or not at all?
+That's basically the question.   Was the Moon always at roughly 6 degrees off the Earth's equator or has it only moved off an orbit over Earth's equator more recently, perhaps due to the gravitational effect of the Sun?    
+Or are there other factors.   Mars' axis is thought to have changed rather significantly due to Jupiter's gravitational effects perhaps 100,000 years agao and it's Moons orbit over Mars' equator which suggests that Mars' equatorial bulge dragged the Moons with it? - or is my thinking way off on that?
+My thinking is that a planet's equatorial bulge would drive moons towards a 0 degree inclination around it's equatorial bulge and our Moon is different because of proximity to the sun which also has a strong gravitational effect.   The 5.14 degrees of inclination is a balance between the Earth's equator and the solar gravity.

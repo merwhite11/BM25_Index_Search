@@ -1,0 +1,6 @@
+Keplerian Elements
+
+So, I've been doing endless research, and I've found a bit of information, all in different places, that is. Now, I'm getting really confused about it; I can't keep up with it all anymore, so, now, it's time I release it here. What are the Keplerian Elements, and how do you calculate them?
+I'm particularly interested in getting an explanation of angular orbital elements, such as the longitude of the ascending node (as well as the ascending node itself), the angular momentum, the argument of perihelion, the mean and true anomaly, and some other variables like the Orbital Momentum Vector.
+In an answer, I want a feasibly understandable explanation of what the orbital elements above are, and equations describing how to calculate them. If there are any variables that require further research to grasp, please do the same for them. Afterwards, at the end of a response, please link the source where you got it from (if there is any), but if you got it from in-person courses, which have no link, please ignore this part, and do not try to do treacherous research to try and find one.
+Hoping to find an answer soon, thanks in advance!

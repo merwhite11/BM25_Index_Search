@@ -1,0 +1,4 @@
+How to account for the effect of Star Formation History on the inferred Stellar Initial Mass Function?
+
+I am studying a paper The effect of star formation history on the inferred stellar initial mass function and trying to reproduce the given results.
+According equation (1) in the paper, the inferred IMF f(M) can be determined if the PDMF phi(M) and the star formation history S(t) is known. I am trying to calculate S(t) as per the description given in that paper in vain. Roughly, by what amount will the slope of f(M) change from phi(M) if S(t) is calculated? Example: If phi(M) = M^(-2.5), then by what amount will the index change in f(M) if S(t) is calculated and inserted into equation (1)?

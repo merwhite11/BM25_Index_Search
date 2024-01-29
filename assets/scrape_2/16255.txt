@@ -1,0 +1,5 @@
+Techniques for locating origin of gravitational waves
+
+The gravity wave detections (GW150914 and GW151226) have both been ambiguous in their exact position, the LIGO papers (GW150914 and GW151226) give no precise information about the location of the origin of the waves. 
+In the case of GW150914, the approximate location is in the area known as the Magellanic Clouds. In case of GW151226, the parsecs are known, but no precise location. There are two detectors (in Hanford and Livingstone,USA) that made gravitational wave detection possible, does one need a third detector(or more) to pinpoint the position of the origin of these waves? 
+In other words can triangulation from three detectors pinpoint the location  or are there other techniques for pinpointing the origin of gravitational waves?

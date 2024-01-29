@@ -1,0 +1,13 @@
+Why is the Earthian atmosphere so thin?
+
+Venus is somewhat lighter then Earth, yet has a much thicker atmosphere. One would imagine that the following should be true:
+
+During the formation phase, all inner planets had captured as much gas as they could hold per gravitational/thermodynamic equilibrium. After all, even puny Mars managed to capture a sizable atmosphere.
+The rate of atmospheric escape should be much higher for Venus:
+
+
+Venus receives more heat from the sun, thus higher Jeans escape rate
+Venus has negligible magnetic field, so some of its atmosphere must be lost to direct "blow-off" by solar wind
+
+
+Yet, it is Earth that seemingly misses a great deal of atmospheric volume. So the question is: what are the current theories regarding the "thinning" of the Earthian atmosphere? When and why the atmospheric gases had left the planet?

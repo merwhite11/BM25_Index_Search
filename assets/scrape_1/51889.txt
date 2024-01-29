@@ -1,0 +1,9 @@
+Calculate the distance between two planets eliptical orbit point
+
+What is the distance between Saturn's moons Polydeuces and Dione,
+Looking for Kilometers if one was to travel Nearest and farthest based on orbit.
+Best I can find:
+
+"Polydeuces can get as close as 39 degrees to Dione and then drift as far as 92 degrees from it, taking over two years to complete its journey around the Lagrange point."
+
+I can't figure this out. What is it in Km?

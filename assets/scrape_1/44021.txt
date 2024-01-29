@@ -1,0 +1,7 @@
+Does Alpha Process Produce Bismuth?
+
+In the book "Horizons: exploring the universe-Cengage learning (2018)", p200, it states that:
+
+Helium fusion produces carbon, and some of the carbon nuclei absorb helium nuclei to form oxygen. A few of the oxygen nuclei can absorb helium nuclei and form neon and then magnesium. Some of these reactions release neutrons, which, having no charge, are more easily absorbed by nuclei to gradually build even heavier nuclei. These reactions are not important as energy producers, but they are slow-cooker processes that form small traces of heavier elements right up to bismuth with atomic weight 209, nearly four times heavier than iron. Many of the atoms in your body were produced this way.
+
+Base on my question previously, I assume we are talking about the alpha process here. And when I check the Wikipedia of the Alpha Process, it says that the alpha process ends at $^{56}_{28}\mathrm{Ni}$ due to photodisintegration, but as the suggests, the process should produce $^{209}_{83}\mathrm{Bi}$. The question is, why do Bismuth, an atom with atomic number $83$ are produced here? Shouldn't atom like $^{}_{82}\mathrm{Pb}$ with even atomic number being produced here?

@@ -1,0 +1,6 @@
+Does the reflected light from Earth boost Venus' apparent magnitude when it is seen transiting the Sun?
+
+During solar transits of Venus as seen from Earth, exactly 0% of Venus' disk is illuminated by sunlight, as expected. However during these transits, Earth is at opposition and fully illuminated by the Sun as seen from Venus' perspective.
+I'm not sure what Earth's apparent magnitude as seen from Venus is, but I am certain it is orders of magnitude brighter than Venus as seen from Earth, due to it being larger (i.e. Having a bigger surface area to reflect light from) and also being fully illuminated rather than a crescent.
+So, then. During solar transits of Venus, does the reflected sunlight from Earth boost Venus' apparent magnitude? And if so, what would it theoretically be?
+Of course, this is all conceptual, because Venus would be surrounded on all sides by the brightest object in the sky during transits. So no matter how bright it would be due to Earthshine, it would still appear a plain black disk.

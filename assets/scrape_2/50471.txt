@@ -1,0 +1,9 @@
+Fitting isochrone on color magnitude diagram obtained from growth india telescope for M67
+
+I was doing a project where I had to cross-match Panstarrs1 data (I took green data from there), with growth India telescope data (it is providing data red band) for NGC2682(Messier 67). After gaining the zero point bias by cross-matching both catalogues using sextractor here are the corrected (i.e r' data is in absolute magnitude scale)color magnitude diagrams ( red vs green - red) I got from using aperture and psf photometry. 
+
+Now my question is that which isochrone do I fit? I used Z=0.0159, extinction as 0.064, I was using cmd 3.7 input form( http://stev.oapd.inaf.it/cgi-bin/cmd_3.7).
+This is what I get using above parameters. This seems impossible to fit.
+This is log(l) vs the graph:-
+Do I have to invert the x axis of isochrone too to fit this? Is scaling allowed? I am perplexed please help me.
+For psf and aperture photometry i used growth Caltech photometry jupyter notebook. For aperture photometry I took radius as 3.33.

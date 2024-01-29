@@ -1,0 +1,6 @@
+What kind of telescope would be needed to image a 10m dim object 1 million km away?
+
+There's a 10m diameter object 1 million km away from you, stationary with respect to you. The object is dim: it is at 3K and is not reflecting any light towards you. So you have to pick it out by the way it occludes background stars and galaxies.
+What kind, and what size, of telescope would be able to achieve this?
+I'm guessing that you would want a large ultraviolet telescope. Picking a UV telescope at random for comparison, GALEX had 25cm^2 effective area and an angular resolution of 6 arc seconds. This resolution would need to be at least 2900 times better to spot the object. So you need a UV telescope with an effective area of at least 25cm^2 * 2900^2 = 21025 m^2, corresponding to a radius of about 82 meters.
+Is that about right? Or could you make do with a smaller telescope by increasing the exposure time, decreasing the field of view, or something else?

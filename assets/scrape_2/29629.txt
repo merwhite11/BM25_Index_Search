@@ -1,0 +1,11 @@
+Historical Distance of Planets to Earth
+
+I'm curious if there is a readily accessible tool available, or simply a reliable way to find out what the distance of the planets in the solar system were on a given date.
+For example, if I am trying to determine how far:
+
+The Sun
+Mercury
+Venus
+Mars
+
+were from Earth on May 3, 1954 ... how would I do that?

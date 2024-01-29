@@ -1,0 +1,5 @@
+Is the three-body system "unique"?
+
+Given a state of an ideal 3 body system (i.e., without external interference) in time $t$: the velocity $v_{i,t}$, mass $m_{i,t}$ and position $x_{i,t}$ for $i\in \{1,2,3\}$, using numerical method it is possible to determine any state in time $\hat{t}$, where $\hat{t}>t$. But is it possible to determine a unique state in time $\bar{t}$ where $\bar{t}<t$? 
+In another word, is it sufficient to know a single state of the system for any given time to deduce the states of the system for all time?
+Equivalently, will two different states of the 3-body system results in the same state (maybe at different time) in the future?

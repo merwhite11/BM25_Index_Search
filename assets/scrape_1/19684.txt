@@ -1,0 +1,15 @@
+Duplicate entries in Tycho-2 main and supplement 1
+
+When checking the internal consistency of the Tycho-2 catalogue, I came across 254 entries in the main catalogue file that are also present in supplement 1 (the Hipparcos/Tycho-1 stars not included in Tycho-2). These entries have the same TYC1/2/3 identifiers, and the same HIP number, but they refer to different CCDM components. For all but a few cases, the A component is found in the main catalog file, while the B component is found in supplement 1.
+From the description Tycho-2 catalogue guide, I would expect these stars to have at least a different TYC3 identifier. Does anybody know why these stars were not given a unique TYC identifier?
+Brightest example: HIP 84606 (TYC 2604-1775-1)
+I loaded the Tycho-2 catalogue into a MySQL database, the following query selects all the duplicate entries, ordered by increasing magnitude:
+SELECT tyc, MIN(HIP) AS hip, MIN(VTmag) AS mag FROM
+(
+    SELECT CONCAT(TYC1, '-', TYC2, '-', TYC3) AS tyc, HIP, VTmag FROM tyc2
+    UNION ALL
+    SELECT CONCAT(TYC1, '-', TYC2, '-', TYC3) AS tyc, HIP, VTmag FROM suppl_1
+    UNION ALL
+    SELECT CONCAT(TYC1, '-', TYC2, '-', TYC3) AS tyc, HIP, VTmag FROM suppl_2
+) AS t1
+GROUP BY tyc HAVING COUNT(tyc)>1 ORDER BY mag ASC

@@ -1,0 +1,37 @@
+Light or neutrinos graze or pass through the Sun and arrive at Earth - need an expression for Sun's gravitational effect on observation direction/time
+
+Skyfield's Github has discussion Jupiter hiccup #815 which then links back to to Non-physical gravitational deflection corrections for Solar System bodies #734.
+The script and plot from #815 are shown below. The half amplitude of the 'hiccup' or wiggle in Jupiter's RA is about 0.0001 radians or 1.7 arcminutes, which is quite a sizable gravitational deflection if it were true.
+My understanding of space and time is about like this (search for answer by "uhoh") so I can't do any of this myself, but it looks like during this event (between 05:00 and 10:00 on January 1st, 2032) Jupiter passes directly behind the Sun as seen from Earth, and the Skyfield calculation is grappling with a path that passes directly through the Sun. JPL Horizons shows the Sun-Observer-Target (SOT) angle drops to 0.077 degrees during the middle of this pass!
+Because of how Skyfield works (simple, easy to use Python interface) and is regularly used to find events through minimizing routines, any observation calculation needs to always return reasonable and continuous position values with respect to time, so no NaNs or sudden jumps.
+What I'd like to ask in this question is for an expression for the gravitational deflection (and ideally a light-time) for a ray of light that grazes or even passes through the Sun.
+Yes, EM radiation above the Sun's plasma frequency can't go through the Sun,
+
+Is there any wavelength at which the Sun is both transparent to and quiet of electromagnetic radiation?
+
+but since Skyfield will still need something continuous, there still may be an expression that properly handles the mass distribution of the finite-sized Sun rather than lumping it to a single point.
+Could one just use the Sun's density profile and integrate a "gravitational tugging" of the trajectory from this mass distribution a bit like models from gravitational lensing by a galaxy do?
+
+At what depth below the Sun's surface does the density reach that of water?
+If I can't unscramble an egg, how do Astronomers unscramble views gravitationally lensed by complex mass distributions?
+
+Is there a better way, or preexisting, peer-reviewed and vetted method?
+Question: Light or (massless) neutrinos graze or pass through the Sun and arrive at Earth - need an expression for Sun's gravitational effect on observation direction/time.
+
+
+from skyfield.api import load
+import matplotlib.pyplot as plt
+
+ts = load.timescale()
+planets = load('de421.bsp')
+
+earth  = planets['earth']
+jupiter = planets['jupiter barycenter']
+
+t0 = ts.ut1(2032, 1, 1, 5, 0, 0)
+t1 = ts.ut1(2032, 1, 1, 10, 0, 0)
+t = ts.linspace(t0, t1, 301)
+
+ra =  earth.at(t).observe(jupiter).apparent().radec('date')[0]
+plt.plot(t.ut1, ra.radians, '-')
+plt.show()

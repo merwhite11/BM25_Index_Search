@@ -1,0 +1,6 @@
+Is there a link between the amount of swirling and vorticity in a gas giant's atmosphere and its distance to its Sun?
+
+This is an empirical observation of mine:
+I have noticed that out of the 4 gas giants in our Solar System, Jupiter's atmosphere has the most visible swirls and complex cloud patterns, followed by Saturn and then by Neptune (I have ignored Uranus here since I heard its heated more by the Sun than by its own internal heating)
+These 3 planets also seem to be arranged in their distance to our Sun. I am assuming more heat from a Sun = more complex weather patterns due to interactions with the atmosphere
+Does this mean that hot exo-planet gas giants would have extremely swirly, complex weather patterns?

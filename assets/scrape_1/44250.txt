@@ -1,0 +1,3 @@
+Astronomical data bases express spectra in flux density, e.g. ergs/s/cm2/Angstrom( or Hz) how can I calculate the flux, i.e. ergs/s/cm2?
+
+I have light spectral data from astronomy data bases in flux density (flux/Angstrom or flux/Hz) and would like to calculate the flux. How can I calculate the flux from the flux density?

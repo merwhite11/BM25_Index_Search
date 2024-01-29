@@ -1,0 +1,9 @@
+What effect does time dilation have on bodies orbiting close to Black Holes?
+
+As far as my (somewhat basic) knowledge of astrophysics goes in general the closer to a star your orbit gets smaller (because you travel less distance) and faster (because you're deeper in the gravity well and need to go quicker to avoid falling in.)
+But what happens on bodies orbiting close to black holes and subject to time dilation as far as an external observer is concerned?
+This question isn't about interstellar but it's a good point of reference. Take the water planet they drop onto where gravitational time dilation is enough to make 20 or 30 years pass to the external observers while only a few hours pass for them. (I don't know if this is a realistic rate(?) of time dilation.)
+What would the apparent orbit of their planet be to the external orbit and what would his orbit appear to be for them? Even though he is further from the star would he complete more orbits in the elapsed time despite being further from the centre of the system? And would they appear to be orbiting "slower" than him from his point of view.
+Out of interest, though perhaps a second question is more appropriate, how would the apparent difference in relative orbital speed affect rendezvous manoeuvres if at all?
+For example would the standard decelerate and fall into a lower orbit still apply but the trajectory plotted from a static observer look weird as time dilation set in? Or would the manoeuvre have to be different to account for the apparent velocity difference? What would a non-circular orbit look like in this system when observed from a circular orbit?
+Also is the velocity required for orbit so close to a black hole high enough that speed based relativity also comes into play?

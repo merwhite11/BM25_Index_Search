@@ -1,0 +1,23 @@
+Radiative Flux, Irradiance and Luminosity confusion
+
+First of all I know there is a similar question here, but I feel is wasn't answered at all.
+My question is that I have seen many texts which says that Radiative Flux is equal to the Irradiance of a star. In Carroll & Ostlie book "An Introduction to Modern Astrophysics" even say that:
+
+
+
+And Wikipedia's Irradiance on Earth's surface says this:
+
+Average annual solar radiation arriving at the top of the Earth's atmosphere is roughly 1361 W/m².
+
+Following this I first I assume that Irradiance and Radiative Flux are the same thing, but when searching for Irradiance on Wikipedia says that:
+
+In radiometry, irradiance is the radiant flux (power) received by a surface per unit area.
+
+Which means that Irradiance is Flux divided by Area, so Radiant Flux has units of J/s and Irradiance has units of W m^-2 which I remember from my Optics class, then again Carroll & Ostlie say that:
+
+
+
+That doesn't mean if Irradiance is equal to Radiant Flux divided by Area, so F = I*A that would make Irradiance equal Luminosity / Area^2 ?
+In that case the bolometric magnitude should be calculated with the integral of Irradiance, not Luminosity nor Flux right?
+Probably I'm making it complicated for myself and it's not that hard to understand. I'm just sharing my confusion with you guys, please help me with that question.
+Thanks in advance.

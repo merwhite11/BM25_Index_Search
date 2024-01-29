@@ -1,0 +1,11 @@
+What (actually) does "peculiar periodic spectral modulations" refer to in this preprint?
+
+I saw this ArXiv preprint after reading about it in the popular media.
+I can not even understand the beginning of the introduction (much less the whole paper):
+
+INTRODUCTION
+A Fourier transform analysis of 2.5 million spectra in the Data Release 8 of the Sloan Digital Sky Survey (SDSS) and the SEGUE 2 SDSS was carried out to detect periodic modulations contained in their frequency spectra (Trottier 2012).
+
+where Trottier 2012 is Recherche de signaux périodiques dans des spectres astronomiques, M.Sc. Thesis, Université Laval
+The modulation frequency seems to be of order 10${}^{-12}$ seconds, and the SDSS is (as far as I know) not really a particularly time-resolved data set. 1 micron wavelength light (for general reference) has a frequency of about 3x10${}^{-14}$.
+I'm not asking (necessarily) if this result is right or wrong, I'd just like to understand how the SDSS can actually be analyzed to detect or even infer THz rate modulation!

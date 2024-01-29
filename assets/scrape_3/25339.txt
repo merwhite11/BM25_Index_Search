@@ -1,0 +1,9 @@
+How did UV from the earliest stars 'alter the state of the 21 cm line' such that it shows up in CMB today?
+
+In this question I discuss the recent (open access) paper in Nature An absorption profile centred at 78 megahertz in the sky-averaged spectrum at length. The abstract begins:
+
+After stars formed in the early Universe, their ultraviolet light is expected, eventually, to have penetrated the primordial hydrogen gas and altered the excitation state of its 21-centimetre hyperfine line. This alteration would cause the gas to absorb photons from the cosmic microwave background, producing a spectral distortion that should be observable today at radio frequencies of less than 200 megahertz(1).
+
+where reference 1 is Jonathan Pritchard and Abraham Loeb (2012) 21 cm cosmology in the 21st century. From there I've found Leonid Chuzhoy and Zheng Zheng (2007) Radiative Transfer Effect on Ultraviolet Pumping of the 21 cm Line in the High-Redshift Universe.
+I understand some basics about the hyperfine transition in hydrogen, and that the "spin temperature" of a gas in space can differ from the temperature of other partitions if it's being pumped, but these papers are more than a bit hard to read.
+Is there a simple way to explain the basics behind how the exposure of hydrogen to the UV light produced in early stars would cause the "blip" in the (now red-shifted) 21 cm part of the Cosmic Microwave Background radiation spectrum we see today?

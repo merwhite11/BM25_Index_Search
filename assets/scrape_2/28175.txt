@@ -1,0 +1,4 @@
+Angular speed of a planet across the sky
+
+Assuming circular orbit, the evaluation of the angular speed of a planet around the Sun, just requires its orbital period. Similarly, to calculate its angular speed relative to the Earth (also seen from Sun and considering the approximate circular orbit), its synodic period is needed.
+The question is: what is the angular speed of an interior planet across the sky in the conjunction with Sun and how can I deduce its formula?

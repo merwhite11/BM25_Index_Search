@@ -1,0 +1,3 @@
+What is the accuracy of an artificial satellite at a certain magnitude?
+
+When we say that 'accuracy of gaia satellite is 10 $\mu$as at $V = 10$ magnitude in position and annual proper motion'. What does this mean? Does it change over time?

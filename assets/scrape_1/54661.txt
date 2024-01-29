@@ -1,0 +1,5 @@
+What instruments do amateur astronomers use in their ground based telescopes in order to avoid atmospheric absorption/telluric contamination?
+
+
+What instruments do amateur astronomers use in their ground based telescopes in order to avoid atmospheric absorption/telluric contamination? For example, when an astronomer observes a celestial body like a distant star or an object, what do they do in their spectrometer to avoid telluric contamination (atmospheric absorption of wavelengths), as space telescopes have a great advantage in it? Because the atmospheric humidity is variable and that may affect the telluric absorption, so how do the telluric correction softwares like ISIS (Thanks, EdV!) cope up with the variable humidity?.
+Thanks in advance!

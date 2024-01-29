@@ -1,0 +1,6 @@
+Date and Time of Year given Sun's Right Ascension
+
+Can anyone tell me how to calculate date of year given a specific sun's Right ascension (RA)? 
+I know RA at Vernox (21 March 00hh:00mm:00ss)is 0 degrees. 
+How can I get date and time for a given RA, say 1h 29m 6.69s?
+Thxs vm

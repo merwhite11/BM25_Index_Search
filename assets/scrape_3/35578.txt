@@ -1,0 +1,65 @@
+Interpretation and understanding of the relation for the photometric redshift in a given bin
+
+In the context of photometric probe of surveys (like LSST), I need to understand the relation I have to use for photometric bins.
+Considering $p_{ph}(z_p|z)$ the  probability to  measure a photometric redshift equal to $z_p$ knowing the real redshift is $z$ and given $n(z)$ the density distribution of objects, I have the following formula which gives the density $n_i$ of galaxies into $i$-th bin and that I would like to understand :
+$$
+n_{i}(z)=\frac{\int_{z_{i}^{-}}^{z_{i}^{+}} \mathrm{d} z_{\mathrm{p}}\,n(z)\,p_{\mathrm{ph}}(z_{\mathrm{p}} | z)}{\int_{z_{min}}^{z_{max}} \int_{z_{i}^{-}}^{z_{i}^{+}}\,\mathrm{d} z \,\mathrm{d} z_{\mathrm{p}} \,n(z) \,p_{\mathrm{ph}}(z_{\mathrm{p}} | z)}
+\quad(1)$$
+with $\left(z_{i}^{-}, z_{i}^{+}\right)$ which are the values of both sides (+ and -) of redshift $i$ bin.
+Here my attempt to simplify : with Bayes theorem, one has :
+$$p_{\mathrm{ph}}(z_{\mathrm{p}} | z) = p_{\mathrm{ph}}(z|z_{\mathrm{p}})\,\dfrac{p_{\mathrm{ph}}(z_{\mathrm{p}})}{p_{\mathrm{ph}}(z)}\quad(2)$$
+and Moreover, the bottom term of $(1)$ gives :
+$$\int_{z_{min}}^{z_{max}} \int_{z_{i}^{-}}^{z_{i}^{+}}\,\mathrm{d} z \,\mathrm{d} z_{\mathrm{p}} \,n(z) \,p_{\mathrm{ph}}(z_{\mathrm{p}} | z)$$
+$$=\int_{z_{i}^{-}}^{z_{i}^{+}}\,n(z)\,p_{\mathrm{ph}}(z_{\mathrm{p}})\,\text{d}z_{\mathrm{p}}\quad(3)$$
+So, by combining $(2)$ and $(3)$, we get :
+$$
+n_{i}(z)=\dfrac{n(z)\,p_{\mathrm{ph}}(z_{\mathrm{p}})}{\int_{z_{i}^{-}}^{z_{i}^{+}}\,n(z)\,p_{\mathrm{ph}}(z_{\mathrm{p}})\,\text{d}z_{\mathrm{p}}}\quad(4)$$
+BUT from this $(4)$ I don't know how conclude about the interpretation of this objects density into the redshift of bin $i$.
+Surely there is an error in my attempt to simplify the expression $(1$) but I don't where.
+If someone could help me to grasp better the subitilities of the relation $(1)$, from a mathematical or physics point of views, this would be nice to explain it.
+UPDATE 1:
+
+In particular, I don't agree with Equations (3) and (4). Indeed, using
+Bayes theorem in the bottom term of Equation (1) leads to
+$$ \int_{z_{min}}^{z_{max}} \int_{z_i^-}^{z_i^+} dz dz_p n(z) p_{ph}(z|z_p)\frac{p_{ph}(z_p)}{p_{ph}(z)} $$
+But $p_{ph}(z | z_p) dz$ is not equal to $p_{ph}(z)$, so you can't
+simplify the fraction out, like you do in Equation (3)
+In addition, $dz_p n(z) p_{ph} (z_p | z)$ has no reason to be
+constant, so you can't easily remove the integration sign, like you do
+in Equation (4).
+
+For equation $(3)$, I wanted to simplify by :
+$$\int_{z_{min}}^{z_{max}} \int_{z_{i}^{-}}^{z_{i}^{+}}\,\mathrm{d} z \,\mathrm{d} z_{\mathrm{p}} \,n(z) \,p_{\mathrm{ph}}(z_{\mathrm{p}} | z)= \int_{z_{i}^{-}}^{z_{i}^{+}}\,n(z)\,p_{\mathrm{ph}}(z_{\mathrm{p}})\,\text{d}z_{\mathrm{p}}\quad(5)$$
+since we should have : $$p_{ph}(z) = \int_{z_{min}}^{z_{max}} p_{ph}(z | z_p)\,dz_p\quad(6)$$, shouldn't we ?
+In comment above, you talk about the relation : $dz_p\,p_{ph} (z_p | z)$, not the equation $(6)$ above, do you agree ?
+From an intuitive point of view, I agree that ratio between density $n_i(z)$ and total density $n(z)$ is equal to the ratio between the probability of getting objects of redshift $z_p$ knowing the true redshift
+$z$ by integrating over $z_p$ and the  total density integrated over $z_p$ and $z$.
+But as soon as we have to formulate it with mathematics and conditional probabilities, it's more difficult.
+Maybe I shoud consider for example the following relation which is the equivalent of Bayes theorem but with density functions (called conditional density) :
+$$g\left(x | y_{0}\right)=\frac{f\left(x, y_{0}\right)}{\int f\left(t, y_{0}\right) \mathrm{d} t}\quad(7)$$
+But I don't know how to connect this equation $(7)$ with equation $(1)$.
+Sorry if I misunderstood : your comment will be precious, that's why I want to clarify this step.
+UPDATE 2 :
+1)
+
+The numerator of Equation (1) $$ \int_{z_i^-}^{z_i^+} dz_p n(z) p_{ph}(z_p | z) $$ is simply the number of of samples in the $i^{th}$
+photometric bin. Indeed, at a given redshift $[z, z+dz]$, there are
+$n(z).dz$ samples. Each of these samples has a probability $p_{ph}(z_p|z)$ of ending up in the $i^{th}$ bin. So by integrating over
+$[z_i^-, z_i^+]$, you get the number of samples with true redshift $z$
+and a photometric redshift in that bin.
+
+The problem is that, in the numerator of equation $(1)$ :
+$$\int_{z_i^-}^{z_i^+} dz_p n(z) p_{ph}\,(z_p | z)$$
+we integrate over $z_p$ and not $z$, so we can't consider the number of samples $n(z)\,\text{d}z$ and after say that we compute the probability to be in $i-th$ bin to have $n_i(z)$ samples/density value. Indeed, $\text{dz}$ doesn't appear in the numerator of equation $(1)$.
+Do you agree with this issue for me ?
+2) I provide you a figure that coul help someone to grasp the signification of $eq(1)$ :
+
+You can see each color corresponding to the i-th redshift considered and computed from the $eq(1)$. I hope this will help.
+I would like to make the connection between what I have put into my UPDATE 1, i.e the conditional density or maybe I should rather express the condditional probability like this :
+$$g\left(x | y_{0}\right)=\dfrac{f\left(x, y_{0}\right)}{\int f\left(t, y_{0}\right) \mathrm{d} t}\quad(8)$$
+This relation is qualified of "Bayes theorem" for continuous case :
+But If I inegrate this expression $(8)$, I get :
+$$\int\,g\left(x | y_{0}\right)\,\text{d}y_0=\int\,\dfrac{f\left(x, y_{0}\right)\,\text{d}y_0}{\int f\left(t, y_{0}\right) \mathrm{d} t}\quad\neq\quad P(X|y_0)\quad(9)$$
+How to make appear the term $P(X|y_0)$ from equation $(8)$ ?
+UPDATE 3: Really no one to explain problematics cited above in my UPDATE 2 and my attempt to simplify the equation $(1)$ at the beginning of my post (with eventual connection with conditional probability in equations $(7$ or $(9)$ ?
+Any help/remark/suggestion is welcome

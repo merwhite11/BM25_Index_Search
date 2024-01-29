@@ -1,0 +1,30 @@
+Why are the spherical and cartesian galactic coordinates in the ATNF Pulsar Catalogue different?
+
+I am trying to relate Galactic Latitude (b) and Longitude (l) (spherical coordinates) to galactic cartesian x,y,z coordinates in the ATNF pulsar catalog. 
+This query shows some sample data with G_l, G_b, XX, YY, and ZZ; excerpt:
+------------------------------------------------------------------
+#     NAME                     Gl     Gb     ZZ     XX     YY
+                               (deg)  (deg)  (kpc)  (kpc)  (kpc)
+------------------------------------------------------------------
+1     J0002+6216    cwp+17     117.33 -0.07  -0.00  0.00   8.50
+2     J0006+1834    cnt96      108.17 -42.98 -0.59  0.60   8.70
+3     J0007+7303    aaa+09c    119.66 10.46  0.25   1.20   9.18
+
+The description of the variables from the ATNF documentation are as follows:
+GL:          Galactic longitude (degrees) 
+GB:          Galactic latitude (degrees) 
+[...]
+ZZ:          Distance from the Galactic plane, based on Dist
+XX:          X-Distance in X-Y-Z Galactic coordinate system (kpc)
+YY:          Y-Distance in X-Y-Z Galactic coordinate system (kpc)
+
+My understanding is that these variables should be related by the following equations:
+
+tan(G_L) = YY/XX
+tan(G_b) = XX/ZZ
+
+However, when I test this assumption my calculated values are very different:
+
+I have tried exploring the possibility that the x,y,z coordinate system may be oriented differently than I expect, but I can find no orientation that yields similar results for G_l or G_b:
+
+Where could I have gone wrong? I feel like I am losing my mind not being able to convert these with simple trig.

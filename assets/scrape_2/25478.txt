@@ -1,0 +1,11 @@
+Helium rain inside metallic hydrogen within Jupiter, conditions and experiments?
+
+In response to today being pi day (also see http://www.piday.org/), NASA has published it's fifth annual pi in the sky day 5 activity set (see also NASA goes the distance and Celebrate Pi Day with NASA).
+This year's NASA activity includes the problem set Helium Heist: A 'Pi in the Sky' Math Challenge. Below is a cropped screen shot of the illustration from this PDF version.
+The part of the text that I found most striking is:
+
+It has been hypothesized that the helium was depleted out of the upper atmosphere and transported deeper inside the planet. The extreme pressure inside Jupiter condenses helium into droplets that form inside a liquid metallic hydrogen layer below. Because the helium is denser than the surrounding hydrogen, the helium droplets fall like rain through the liquid metallic hydrogen.
+
+Question: Roughly what are the pressure and temperature thought to be at this depth in Jupiter? Is this regime at all accessible experimentally on Earth to confirm that these two fluids are immiscible, or is this behavior purely theoretical?
+
+below: cropped screen shot from here (NASA). Click for full size.

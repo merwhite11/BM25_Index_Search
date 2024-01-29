@@ -1,0 +1,13 @@
+How are the aberrations seen in early JWST images corrected?
+
+I found this image on space.com and it can also be found in NASA's JWST blog. This is one step in the process of aligning the 18 mirrors on JWST. A single relatively-isolated star has been selected. At this point, the orientation of each mirror has been adjusted so that the image it forms falls at a position on the Near Infrared Camera (NIRCam) sensor that corresponds directly to the position of the mirror in the array.  
+
+
+This early Webb alignment image, with dots of starlight arranged in a pattern similar to the honeycomb shape of the primary mirror, is called an “image array.” Credit: NASA/STScI/J. DePasquale
+
+This question is a follow up to the earlier question about the mirrors' actuators. Apparently the position and orientation of each mirror segment can be adjusted in all six degrees of freedom using a hexapod actuator. In addition, one more actuator is available to make small changes to the spherical curvature component (focal-length).
+The picture above is the second in a sequence of three pictures. This first shows the 18 images wildly scattered. The third picture shows the same array but with each of the 18 images of the star now almost perfectly focussed.
+I have two questions: 
+
+Several of the 18 images show a lot of astigmatism (ellipses rather than circles) which would require cylindrical correction.  But there is no obvious means of providing this. How is this achieved? 
+Some of the 18 images show marked diffraction fringes - how do these arise?

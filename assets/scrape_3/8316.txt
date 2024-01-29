@@ -1,0 +1,26 @@
+What is the exact mass of the Sun?
+
+I am having trouble finding data on this. So far, I have found at least seven values:
+1: 1.9885  e30 kg
+2: 1.98855 e30 kg
+3: 1.9891  e30 kg
+4: 1.991   e30 kg
+5: 1.989   e30 kg
+6: 1.99    e30 kg
+7: 2       e30 kg
+
+
+The first value can be found from NASA GSFC.
+The second value can be found from Wikipedia in (at least) two places.
+
+The first Wikipedia occurence references the GSFC page--which is erroneous since that value does not occur there.
+The second Wikipedia occurence references USNO's 2014 Astronomical Constants, which appear to themselves be copy-pasted from data in 2009 or 2012.  The second Wikipedia occurrence also sources NIST (presumably this table).  I couldn't find the cited mass from either reference.
+
+The third (and also the fifth) value (which, it is interesting to note, are both outside the error bound given in the second Wikipedia occurrence) can be found on this generic NASA site.
+The fourth value occurs in the book Handbook of Chemistry and Physics (Robert C. Weast, 1980)
+The fifth value apparently also occurs in the book Astrophysical Data (Kenneth R. Lang, 1990ish).
+The sixth value occurs in the book Physics--3rd Edition (Cutnell et al. 1995).  This site lists several of the values and does a calculation to obtain the sixth value.
+Occurs in many places and is pretty clearly rounded.
+
+The fifth, sixth, and seventh values (also) occur in various non-primary sources online, and I assume are rounded values of others.
+My question: what is the most recent, best estimate, to the greatest precision, of the Sun's mass?  Obviously, citable, primary sources only!

@@ -1,0 +1,10 @@
+Surface height distribution for Jupiter's moon Io?
+
+The moon Io has around 100 mountains:
+
+These structures average $6 {\rm\, km}$ in height and reach a maximum of ${\rm 17.5 \pm 1.5\, km}$
+
+I am now looking for the overall histogram, i.e. elevation distribution of Io's surface and/or a hypsometric curve for Io.
+References
+
+JPL: Topography of Io

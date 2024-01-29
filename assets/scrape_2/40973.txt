@@ -1,0 +1,12 @@
+Is it possible to use something besides emulsion to directly record the image of a nighttime object using a telescope?
+
+The following questions have got me thinking.
+
+Is it possible to use Photolithography for telescope image sensor?
+Fresnel lenses for a makeshift Galilei telescope?
+Has anyone ever tried to make a simple telescope using ice?
+
+A long time ago I think I wrote an answer, or maybe just a series of comments in a different SE site. I think it was Biology SE, and I described ways that people used algae or mold or moss or something in a petrie dish to record a projected image; it photosynthesized faster and grew faster in the brighter areas of the projection.
+That's too slow for recording an astronomical image from a telescope.
+I don't think the image of the moon from an amateur telescope would be bright enough to burn itself into a small, smooth piece of wood, but I remember something about secret messages written in lemon juice that revealed themselves upon gentle warming.
+Is there any way to permanently record a nighttime astronomical image without using a digital imager or photographic emulsion?

@@ -1,0 +1,5 @@
+What percentage of habitable-zone planets are detectable by transit?
+
+I realize that the probability of detecting a planet by transit depends on the size of the star, the size of the planet's orbit, and the size of the planet; and ranges from ~10% to a small fraction of one percent.
+However, the habitable zone of a star is a function of the star's brightness, and thus at least statistically connects the size of the star to the size of a planet's orbit if the planet is assumed to be in the habitable zone.  There is also a known distribution of the relative number of stars of different sizes.
+With all that put together, can we form a reasonable estimate of the percentage of habitable-zone planets that can be detected by transit methods? The overall percentage has to be between 10% and about 0.1%, which suggests that if we are able to detect, say, 5 habitable-zone planets within 100 light years, there are probably actually at least 50.

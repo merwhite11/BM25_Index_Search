@@ -1,0 +1,5 @@
+Why is a star at its highest point when local sidereal time = RA (right ascension)?
+
+I'm currently taking a course called Introduction to Astronomy at Coursera. It's not very formal so they didn't present a proof of the statement in the title. I understand why logically one could argue that when a star lies on the projection of the observer's local meridean onto the celestial sphere (I understand that this projection defines the observer's local sidereal time) then this star is at its highest point on the sky.
+I haven't found any mathematical proof of this statement and also do not know how to approach the problem geometrically (either euclidean geometry or analytic geometry).
+I appreciate any hint or direct answer on how to approach the problem. Thanks.

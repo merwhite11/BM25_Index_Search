@@ -1,0 +1,5 @@
+What kinds of technologies are required to directly image exoplanets
+
+I have read that immensley powerful telescopes such as the European Extremley Large Telescope will be able to directly image the atmospheres of exoplanets, and even determine their rotation rates. 
+I am wondering, what are the obstacles that prevent current telescopes from achieving this; how will these obstacles be overcome exactly by the new telescopes such as the EELT; and tentativley when can we expect these kinds of telescopes to come online?
+Also, is it theoretically possible to build a telescope (earth or space based) that can discern fine structures such as clouds, or surface features of exoplanets (or is this in fact the level of detail that will be achieved by telescopes such as the EELT)?

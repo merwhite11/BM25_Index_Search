@@ -1,0 +1,5 @@
+Does matter absorb/scatter gravitational waves?
+
+When photons pass through matter, they do tend to get absorbed by that matter to some degree depending on the properties of the photon and and the matter. Even the brightest light is at least somewhat obscured by matter in its way.
+Similarly, while neutrinos interact very little with normal matter, they are eventually absorbed as well: you just would've need a whole lot of matter for that to be efficient (such as one light year of lead to capture 50% of neutrinos)
+Does matter have an effect on gravitational waves and their propagation, or do they just pass through the matter unaffected? If there is no effect, where does the energy needed to actually move things around come from (we can detect them due to this movement!)? If matter can block gravitational waves, how much matter we would need to block GWs from typical BH merger detected by LIGO / VIRGO (say 30 + 30 solar masses)?

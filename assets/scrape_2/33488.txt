@@ -1,0 +1,12 @@
+Cosmological redshift - How do we know it's not caused by the observer's time dilation?
+
+Instead of cosmological redshift being caused by the metric expansion of space, why couldn't cosmological redshift be caused by our perspective moving faster in time?  Said another way, if the observer moved through time faster than the emission source, couldn't this time dilation be an explanation of cosmological redshift?  Instead of the metric expansion of space, why not "cosmic time dilation"?  
+As far as I know, there is no physical mechanism in physics to explain how the metric expansion can cause red shift.  It appears that we assume metric expansion can cause red shift with no underlying physics or testing.   
+Alternatively, red shift caused by time dilation is well tested, proven, and understood.  It is something we can play with here on Earth.  
+Wouldn't assuming cosmological redshift is caused by the observer moving faster in time than the emission source in the past makes more sense than the metric expansion of space causing cosmological redshift?
+Of course when measuring redshift from distant sources, the Doppler and gravitational effects must be accounted for.  That's not what I'm asking about.  
+Edit:  I probably need some math help, or a pointer to a better example to play with.  
+With a Hubble Constant of 71.9, a lightyear expands about $7.3483\times10^{-11}\ \%$ per year.  The Pinwheel Galaxy is 20.87 million light years light years away.  If I continuously redshift the Pinwheel Galaxy by the expansion of space, I get a redshift of .00153 using this equation:  
+$z = 1 - e^{(7.3483\times10^{-11})(2.087\times10^{7})}\ $
+The pinwheel galaxy has a measured Redshift of .000804.  
+Is there an equation that gives a better result without magic values for $z$ or a real world example with known values that works?

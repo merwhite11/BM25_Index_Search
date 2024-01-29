@@ -1,0 +1,4 @@
+What is a UBV source for stars or stellar objects?
+
+
+I was using the V19(VizieR) catalog and the main identifier of the stars was in terms of an 'ID' number which they mentioned as being 'Star number in UBV source' I have no idea what that means. How would I find a more common identifier say  HD/HIP/HR number?

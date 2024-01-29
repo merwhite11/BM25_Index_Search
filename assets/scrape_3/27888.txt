@@ -1,0 +1,5 @@
+"Pluto Time" for any solar system body
+
+A while back NASA made a site called Pluto Time, where you can enter your address and find that "...moment near dawn and dusk each day, where the illumination on Earth matches that of high noon on Pluto."
+Is there a generic formula where we can calculate this for any body in the solar system?
+How about any body around any star?

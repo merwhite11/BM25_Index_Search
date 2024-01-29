@@ -1,0 +1,5 @@
+How (un)stable are the Lagrangian points 1, 2 and 3?
+
+A couple questions, please: I know that the Lagrangian points 1, 2 and 3 are unstable and special Lissajous orbits plus some station-keeping are required to place a spacecraft around them. But I was wondering if they are so totally unstable that they can't temporarily "capture" a passing natural object (let's say an asteroid or a cloud of cosmic dust, in a stationary way or entering some kind of not-very-stable orbit around them)? Or could they?
+And if they were able to, how much time would (approximately) be required for this/these object(s) to go "off-orbit" and abandon the L(1,2,3) area? In the case of the cloud of cosmic dust, would it just slowly (or quickly) drift away, or would they be "launched" towards another direction or orbit?
+Thanks in advance!

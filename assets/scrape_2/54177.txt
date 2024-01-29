@@ -1,0 +1,6 @@
+Could rogue planets with cold nucleus have winds or water currents/waves due to the planet's rotation?
+
+Are there any types of wind or waves caused and produced only and exclusively by a planet's rotation? Not influenced by the planet's rotation, but produced solely by it?
+In the case of waves, are Rossby waves 1 and Kelvin waves 2 examples of that? Like, imagine the Earth as a single planet with no Sun (so no influence by the Sun's heat), no moon (so no tides) and no planetary internal hot core (so no influence by the heat from Earth's internal core). Then assume that somehow water is still liquid and air in its gas form, then, just by Earth's rotation, would there be any waves or wind (even if they would be very subtle)? Would there still be Rossby waves or Kelvin waves for instance? (I found a comment to a question in Quora that indicates that the answer is basically "yes" 3, but no sources are given, so I would like to see if someone could verify that).
+Also, I've read that inertial oscillations 4 and low level jets 5 could be examples of this. Any suggestions...?
+Finally, if the rogue planet was travelling through a zone with a high amount of dust or gas (e.g. a nebula), could this affect the atmosphere creating some type of winds?

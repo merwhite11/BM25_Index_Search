@@ -1,0 +1,4 @@
+Photometry templates -- what are the templates of?
+
+Redshift measurements from photometric data can be determined using template-fitting (Cosmos website, SDSS photo-z).
+What does it mean to fit a template to determine redshift? What is the template of?

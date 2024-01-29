@@ -1,0 +1,6 @@
+Three Body Problem
+
+I tried to solve the three body problem numerically.
+While after 1000 time steps the system looks stable (See Fig.1)
+it is completely unstable after 10000 time steps (See Fig.2).
+Is that an intrinsic property of the three body problem or a mistake in my code or initial conditions?

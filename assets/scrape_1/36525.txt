@@ -1,0 +1,6 @@
+How to generate times of sunset along a line that crosses a continent?
+
+Would like to avoid using single location iteration of a website that gives time of sunset each date for locations.
+I want to be able to produce a chart or info-graphic for publishing on a website as a guide for participants stretching from nyc,through Lebanon KS,to San Francisco.
+A great circle path with formula or algorithm to produce the table or graph???
+interval of time would be June to November only

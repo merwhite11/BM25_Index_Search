@@ -1,0 +1,7 @@
+Planets looks like normal stars when I see them using telescope
+
+I've been trying to see planets using my 114 mm (aperture) f=900 mm telescope. For the moon, I got very good quality pictures, but when I try to see planets they just appear to be as if I'm looking at a star with my naked eye; it's just a point of light.
+I tried looking at Saturn, and it appeared the same. I couldn't even get a light blur or suggestion of its rings.
+I tried looking at Jupiter which is quite bright with the naked eye, but couldn't see any of its moons and neither got any indication of its disk. It's like as if I'm looking at it with the naked eye only.
+I used both a 25 mm and 10 mm eyepiece, but both went in vain.
+I used the Stellarium app to make sure I'm pointing at correct object.

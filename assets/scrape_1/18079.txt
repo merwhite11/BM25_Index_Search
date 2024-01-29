@@ -1,0 +1,6 @@
+Why are the stars in my image so green (false color image, HSO palette)?
+
+
+This is my first try in false color imaging. The target was IC5070 - the pelican nebula. I took around 3 hours of data (around 1h for Ha, SII and OIII). Then after stacking did an LRGB combination in PixInsight using Ha for red, SII for green and OIII for blue. For luminance I used the stacked Ha image.
+Now my question is, why are most of these stars so green? It would suggest that they were really bright in the silicon spectrum right? If so wouldn't that mean that those stars are extremly silicon heavy?
+(Ignore the vertical blue-green line, its a stacking artifact resulting from a camera defect on those pixels)

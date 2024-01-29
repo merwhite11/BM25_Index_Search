@@ -1,0 +1,6 @@
+How much photon is still in flight?
+
+Since space is mostly empty, one might first think that the majority of the photons, e.g. emissions from the stars since the beginning of the universe, are still in flight and not absorbed by anything. 
+Is this true?
+Is there any estimates that the proportion is relative to the total amount of photons ever created?
+(Let's consider the photons that have made it into space first, e.g. exclude the photons that gets absorbed and re-emitted inside stars for now).

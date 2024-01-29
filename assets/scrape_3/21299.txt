@@ -1,0 +1,6 @@
+Is it true that open clusters have $E > 0$ and globular clusters have $E < 0$?
+
+I just need to confirm or refute something I'm believing since a very long time, maybe without real evidence.
+Can we distinguish stellar clusters by their total mechanical energy ?
+Is it true that all "open" star clusters have a positive energy (i.e. more kinetic energy that potential energy), while all globular clusters are "closed" systems with negative total energy (i.e less kinetic energy than total potential energy) ?
+So for example, the Peiades M45 are "open" : they have $E > 0$, while M4, M53 and M80 (globulars) have $E < 0$ ?  Is this true ?

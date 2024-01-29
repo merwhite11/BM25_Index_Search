@@ -1,0 +1,5 @@
+When are the symbols ⊕ and ♁ used to designate Earth?
+
+In astronomy I usually see Earth designated with a circled plus or cross. NASA says this is the Earth's astronomical symbol. Wikipedia tends to use it, for example designating the Earth–Moon distance by $\Delta_{\oplus L}$. But Wikipedia also says that the globus cruciger ♁ is used to symbolize Earth.
+Does the latter find any usage in astronomy?
+(The actual Unicode code point for the circled plus Earth symbol is U+1F728 but this does not render for me, so I used the graphically similar U+2295 instead.)

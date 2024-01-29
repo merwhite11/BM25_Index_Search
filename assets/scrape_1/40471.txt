@@ -1,0 +1,4 @@
+The electron–cyclotron maser emissions from Earth
+
+The first-ever detection of radio signals caused by the electron–cyclotron maser mechanism outside of the Solar System, on Tau Bootis b was recently published (here). This phenomenon causes huge radio emissions from Jupiter, for example, due to the enormous amount of plasma ions from Io. On Earth, I suppose, this phenomenon still happens, due to the plasma radiation of the Sun on Earth ionosphere.
+My question is: how strong is it and how it's compared to Tau Bootis and Jupiter?

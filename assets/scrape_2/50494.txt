@@ -1,0 +1,6 @@
+Why is the Hubble parameter constant for an accelerating universe?
+
+The Hubble parameter is thought to become constant and to attain a value of about 60 km/s per parsec. So every second  a parsec of space grows with 60km. Is this consistent with an accelerated expansion of space? Wiki says it's a common misconception but that confuses me.
+Say that a parsec of space grows with a parsec per second. Then after a second there are 2 parsecs. Then after two seconds there 4 parsecs. Four gives 8, etc. Is this what is meant with accelerated expansion? Or is this a constant expansion? If I look at a distant mass at rest wrt comoving coordinates, it seems to move away at increasing speed. But the Hubble parameter is constant.
+About 5 billion years ago the universe started to accelerate. Does that mean the Hubble constant was smaller then? I know it was huge during inflation. Then it decreased suddenly and a slower expansion took over. But now expansion appears to be accelerating again.
+I just don't see why this implies a constant Hubble parameter in the future of 60km/s per parsec.

@@ -1,0 +1,6 @@
+Can the Hubble Sphere ever extend over the cosmic event horizon?
+
+I am struggling to reconcile the Hubble volume with the idea of a cosmic event horizon.
+As I understand, the Hubble volume is increasing over time because Hubble's constant is decreasing. This should allow photons emitted in superluminal regions to enter into the Hubble volume and become subluminal.
+The cosmic event horizon, as I understand it, is the point where any light emitted beyond the cosmic event horizon will never reach Earth.
+So, can a galaxy emit light that can reach us, but then pass over the cosmic event horizon, such that any light it emits after this point will never reach us? And, if the Hubble volume is increasing in diameter, why can't it overtake the cosmic event horizon, allowing the light in this region to now travel subluminally?

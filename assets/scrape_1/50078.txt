@@ -1,0 +1,7 @@
+Does interplanetary magnetic field interact with the planet's own magnetic field?
+
+The Wikipedia states on the page about the Interplanetary magnetic field that
+
+The interplanetary magnetic field (IMF), now more commonly referred to as the heliospheric magnetic field, is the component of the solar magnetic field that is dragged out from the solar corona by the solar wind flow to fill the Solar System.
+
+My question is, does this IMF interact with the planets' individual magnetic fields in our solar system? All the planets except Venus and Mars in our solar system have their own magnetic field. So on a logical basis, we will expect the interplanetary magnetic field to interact with the planet's magnetic field. What is the effect of this interaction? Another question - for planets like Venus and Mars, who do not have their own magnetic field, how the interplanetary magnetic field affect these planets ?

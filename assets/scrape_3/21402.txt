@@ -1,0 +1,8 @@
+Back-predicting solar eclipses
+
+I want to back-predict solar eclipses as part of a research project.
+My main goal is to obtain a list of all solar eclipses that took place over a tight grid (let's say of 100km by 100km) for the years 5000BC to 4000BC (just as an example).
+Ideally, I'd like results to follow, more or less, the format here of https://eclipse.gsfc.nasa.gov/JSEX/JSEX-SA.html, but any library you can suggest will be fine.
+According to the previous reference, "The Besselian elements and values of ΔT used in Solar Eclipse Explorer are the same as those used by Five Millennium Canon of Solar Eclipses: -1999 to +3000. For the purposes of calculating eclipse circumstances from a given place, the growing uncertainty in the value of ΔT and the corresponding longitude become unacceptably large outside time period of -1499 to 3000 (1500 BCE to 3000 CE)." and hence I could not use their tool.
+Since I will simply count how many eclipses could be seen at the center of each square on my grid for the 1000-year period, I can tolerate large inaccuracies in the timing of eclipses. Moreover, as long as errors are random, I can also afford missing some eclipses or having them missplaced.
+Is there any resource I could use to compute eclipses as I described?

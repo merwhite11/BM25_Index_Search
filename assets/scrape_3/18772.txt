@@ -1,0 +1,4 @@
+What lens should I use for my Raspberry Pi?
+
+I am building myself a camera that attaches to the back of my Celestron NexStar 4 SE telescope and I am not sure what type of lens to choose to replace the stock lens on the Raspberry Pi camera. I bought this CS Mount and by mistake bought M12 lenses thinking it was a mount for M12 lenses but now I know CS mounts require bigger lenses than M12. So should I instead get a M12 mount and use M12 lenses or should I buy a CS lens and what kind if I am looking to do a high quality video/live stream?
+Raspberry Pi Camera: https://www.adafruit.com/products/3099

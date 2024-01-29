@@ -1,0 +1,3 @@
+Which catalogue has identified objects from Gaia DR3?
+
+I am trying to match objects from a Gaia DR3 dataset having 1 million rows with simbad. I find it difficult to find object type for all the rows as queries using astroquery becomes insanely slow after 200 or so rows. Is there a catalogue with object type and object id from Gaia DR 3?

@@ -1,0 +1,18 @@
+Is it possible to tell the time of day by shadows on the photo
+
+I have a photo where objects and their shadows (e.g. trees, people) are visible, the Sun is not visible directly, but it is clearly neither dusk nor dawn.
+Let's assume that coordinates of this place are known more or less precisely so that I can find it on google maps.
+I also know the date when this photo was taken but don't know the time of day. Is it possible to estimate it from the photo?
+I have a debate with a friend of mine about this.
+My friend states that a reasonable enough estimate is to calculate the Sun's elevation above the horizon by
+$$
+\text{elevation} = \arctan \frac{\text{object's height}}{\text{shadow's length}}
+$$
+and then use one the myriad websites on the internets to look up the time for that date and location.
+I doubt it because
+
+The length of a shadow on the photograph depends on the relative position of the Sun, the object and the camera.
+Most importantly, the slope of the ground can't be estimated neither from the photo, nor from google maps. This picture is a good example.
+
+Who's right? Am I missing something?
+Also, it would be interesting to understand the role of uncertainties in this calculation. Assuming that the surface is reasonably smooth and the slope is close to zero, what uncertainties (location, object's height, shadow's length, the slope, camera position) would play the major role? Does it depend on the time of year?

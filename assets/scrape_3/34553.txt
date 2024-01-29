@@ -1,0 +1,7 @@
+How can one determine the declination range of stars visible for a certain amount of time above a specific airmass at a certain location?
+
+Let's assume you want to observe stars at Kitt Peak (32 degrees North) at an airmass above 2, for 2 hours (30 degrees of Earth rotation). 
+My attempt:
+The angle between the zenith and celestial equator is 32 so the altitude to the celestial equator is 58 degrees and a star with a declination of 28 degrees south will cross the meridian at 30 degrees altitude at Kitt Peak (assuming my calculations are correct)... but will not be above the required airmass for 2 hours.
+Here is where I'm stuck:
+We know that one hour of time corresponds with 15 degrees. In this case, would I just subtract 15 degrees from the 28-degree star? i.e. 15 degrees to go up and 15 back = 2 hours. If this is correct the final southernmost declination star would be 13 degrees south. I'm not sure if my thinking is correct and I don't know how to check.

@@ -1,0 +1,4 @@
+Where can I find galaxy rotational data?
+
+I want to do a small project of generating rotational curves for different galaxies, and need data for some prominent stars in other galaxies (data needed: distance from center, rotational velocity) to generate basic rotational curves.
+Where can I get this? I found this resource: NASA/IPAC Extragalactic Database, but there's no rotational data for stars (at least I can't find)

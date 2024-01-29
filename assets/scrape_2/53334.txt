@@ -1,0 +1,3 @@
+Exoplanet radius from stellar distance
+
+Do you need to know the distance to a star to work out the radius of any planets it has?

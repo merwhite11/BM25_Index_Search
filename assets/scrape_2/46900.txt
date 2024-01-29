@@ -1,0 +1,9 @@
+What is the nature of the "blind spot issue" in asteroid detection systems?
+
+From Wikipedia's "Asteroid impact prediction" article:
+
+Performance is improving in detecting smaller objects as existing systems are upgraded and new ones come on line, but the blind spot issue which all current systems face around the Sun can only be overcome by a dedicated space based system or by discovering objects on a previous approach to Earth many years before a potential impact.
+
+What is the nature of this "blind spot issue"? Is it primarily optical in nature, having to do with the attenuation of signal by atmosphere, or does it have to do with the angles of reflection of light, meaning that a highly-effective system would have to be not only space-based, but far from Earth as well?
+More information:
+The Sentinel Space Telescope was planned to orbit at Venus L3. It was scrapped in favor of NEOCam / NEO Surveyor infrared telescope (currently in preliminary design phase), which is planned to orbit at Earth-Sun L1. (Will this be effective?)

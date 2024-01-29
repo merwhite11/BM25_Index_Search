@@ -1,0 +1,10 @@
+Celestial Navigation - LOP uncertainty
+
+In doing a sight reduction of a celestial body at a given time the goal is to define a line on a chart that includes the location you think you are in. Given the angle of a sighting, the UTC time/date and the body, a great circle with a determined radius is specified.
+That isn’t very helpful in immediate navigation so there is a process of finding a line on a local chart. It uses an assumed position and calculates what the angle of the sighting would be if you were standing at the AP. From the difference between that and the observed angle and the direction the body was from the AP, a nearby linear segment of the great circle is determined.
+I’m at latitude 33 degrees 45‘ W and initially used 33 degrees 0’ W in the AP and calculated and drew a line of position (LOP). Realizing that 34 degrees 0’ was the better round number latitude to use, I did the calculation over again, expecting little difference in the resulting LOP. The AP is supposed to be arbitrary but the two LOPs are not very close.
+They are parallel and about 11 nautical miles apart. I have no problem understanding being that far off in an actual sighting but this (almost) just math.
+Do I misunderstand some approximation in the process that would naturally lead to this? Otherwise I’m making some mistake.
+I used a sight reduction app, not tables in a book.
+After posting:
+I calculated the computed angle from the actual GPS fix I was standing at and my measurement was 20’ off. Using what should have been the sighting, I recalculated for the two AP locations and now the LOPs are only 3 nm apart. I believe that sighting was the only factor that wasn’t just math and correcting it improves things but I still have a discrepancy that might be due to an appropriation in the process that I do not appreciate or to my further error.

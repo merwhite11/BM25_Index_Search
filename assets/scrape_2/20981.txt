@@ -1,0 +1,9 @@
+What's the useful magnification for a scope with 70mm objective lens?
+
+Some of the spotting scopes which are e.g. 70mm claim to magnify terrestrial objects at 75x. But yet they cannot produce sharp and clear images at even 30x-35x.
+While 90mm scopes can do a better job than them but still they stop  producing clear view at higher magnification.
+So, I want to know is there a formula from which I can estimate (if not accurately tell) their useful magnification at which they are able to focus objects?
+I came across this:
+Magnification = Focal length / Eye piece focal length
+
+But not sure if that works for what I am asking.

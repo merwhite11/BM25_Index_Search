@@ -1,0 +1,6 @@
+radial velocity fitting of a binary
+
+I have two series of velocities (HJD, $v_{1}$ and $v_{2}$ ), how to fit in detail?
+There is any formula on the web? $sine$ curve is easy, but I need to consider an eccentric orbit. 
+Suppose we can estimate $m_{1}$, $m_{2}$, and inclination angle $\approx80^{\circ}$, if we just know velocities of both of the two companions, which parameters can me derive?
+What is the difference between binary velocity fitting and star+planet fitting?

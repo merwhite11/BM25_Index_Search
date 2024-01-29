@@ -1,0 +1,6 @@
+Why is the Sun's Luminosity not equal to the Zero Point Luminosity?
+
+I was doing some research and found that the zero-point luminosity was $L_\odot = 3.75\times 10^{28} $, while the sun's reported luminosity was $L_{Sun} = 3.828\times 10^{26}$, according to Wikipedia. Why isn't it the same value? Doesn't the symbol $\odot$ represent the value of our sun?  
+Furthermore, when Googling the Luminosity of the sun, it gives $1L_\odot$, which suggests that $L_{Sun} = L_\odot$ when it is evidently not. What's going on here? I'm very confused.
+For background, I have little to no background knowledge of astrophysics, and I'm trying to learn about it.
+Thanks.

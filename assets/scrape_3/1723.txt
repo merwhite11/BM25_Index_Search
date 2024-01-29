@@ -1,0 +1,13 @@
+What does black hole evaporation correspond to in the accelerating universe / black hole analogy?
+
+In the same way, as a black hole emits Hawking radiation corresponding to its temperature
+$$
+T = \frac{\hbar}{r_{BH}}
+$$
+the accelerating universe can be described as all of the stuff falling towards the cosmic horizon, such that it is analogue to a black hole where the cosmic horizon takes the role of the event horizon with the black hole "interior" being outside. 
+The corresponding temperature of the accelerating universe is given by
+$$
+T = \hbar H = \frac{\hbar}{R_{H}}
+$$
+where H is the Hubble constant. Therefore, the cosmic horizon emits something similar to Hawking radiation too.
+The fate of a black hole is to finally evaporate. My question is: What does black hole evaporation correspond to in the accelerating universe when making use of this analogy?

@@ -1,0 +1,3 @@
+Calendar times of equinoxes
+
+I know that the dates and times of equinoxes are not the same every year, due to precession of the axis and perhaps other effects such as the year not containing an exact number of days.  The precession effect, of course, is periodic.  My question is, "What are the maximum dates and times for the vernal and autumnal equinoxes?"

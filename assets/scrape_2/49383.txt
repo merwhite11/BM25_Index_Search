@@ -1,0 +1,16 @@
+When will be the next visible Supernova?
+
+I tried to estimate the average time between Supernovas. Here is my amateur attempt:
+
+For a Supernova to be seen to the naked eye it should be, I believe, in our Galaxy. (even if not, lets assume that)
+
+In the Milky Way there are 100-400B stars - but only a portion of this has potential to become a Supernova. According to Wikipedia a star is required to "have a minimum mass of 5–10 M☉. These [Massive] stars undergo carbon fusion, with their lives ending in a core-collapse supernova explosion".
+
+According to this question, more than 1% of the stars are giants or supergiant above 4M☉. Let's assume then that 0.5% of the stars in our Galaxy are Supernova candidates. which means: 500M - 2B stars.
+
+What is the lifespan of a star? Data shows it is a function of the size: the bigger the shorter the life of the star. According to Wikipedia for stars of 3M☉ the life span is 370M years but for 10M☉ only 32M years. Lets take 250M years as an average lifespan for a Supernova candidate.
+
+So we have at least 500M Supernova candidates right now in our Galaxy, which on average it takes one to explode only 250M years. Without getting into some statistical distribution issues, it is clear we should expect at least one visible Supernova per year on average. which is clearly not the case as we had only 7 visible in 2500 years or so.
+
+
+Where am I wrong? and what do the estimates say?

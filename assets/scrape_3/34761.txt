@@ -1,0 +1,4 @@
+Why does the sensitivity to GWs drops off inversely proportional to the distance?
+
+This answer makes me wonder why the sensitivity to gravitational waves decreases proportionally to the distance. 
+Since gravitational waves extend in all directions, my (uneducated) guess would be that the same argument can be made as for the decrease in sensitivity for electromagnetic waves. Why is this not the case? Why does the sensitivity to GWs decrease in a linear fashion?

@@ -1,0 +1,3 @@
+At high temperatures, do planets glow like blackbodies?
+
+I've been messing around in Universe Sandbox for a while and noticed that as a planet heats up, it glows like a blackbody starting at ~4000 K. Is the simulation here accurate, or do very hot planets glow differently based on their composition?

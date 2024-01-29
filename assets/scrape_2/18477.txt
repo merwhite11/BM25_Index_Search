@@ -1,0 +1,5 @@
+Can Earth host another natural satellite than the Moon?
+
+Are there orbits with long-term stability (astronomical time scales) around Earth? Low altitude orbits will decay due to friction with Earth's atmosphere. Inside Earth's Roche limit, a Moon could not form anyway due tidal forces. At altitudes closer to that of the Moon, the Moon would presumably destabilize an orbit such that the object would either collide with Earth or the Moon or be ejected. 
+Many of the other planets in our solar system have multiple natural satellites; where this occurs, they are always vastly smaller than the primary - think of Jupiter, Saturn, and even Mars. On the other hand Earth, and apparently Pluto, each has only one natural satellite, relatively large in comparison to the primary. Is this because a large satellite will tend to clear the entire "sphere of influence" around its primary of any other material?
+So my question is: does the existence of our Moon effectively prevent the formation or capture of any other natural satellite around Earth? (Considering only true satellites, not "companion" objects or quasi-satellites)

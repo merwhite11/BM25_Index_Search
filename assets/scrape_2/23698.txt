@@ -1,0 +1,3 @@
+How are telescopes protected from blinding light and satellite glares?
+
+I imagine a situation must happen sometimes where a telescope watching a very dark object may catch a bright flash of light or a reflection off of a satellite. If that's even a concern at all (maybe all such telescopes are already designed to exclude that possibility), what countermeasures against blinding someone's eyes or frying the digital photo sensors are there?

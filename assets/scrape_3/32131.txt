@@ -1,0 +1,7 @@
+How are constraints on dark energy improved the most?
+
+Today we have various data available from independent probes to constrain dark energy, i.e. its equation of state $w$. These include Type 1a supernovae, BAO, CMB, large-scale galaxy surveys, etc. Are any of these probes better/more powerful at constraining dark energy than the others? Why or why not? 
+For example, I assume that if a galaxy survey includes 1000 galaxies in a redshift range $0.1<z<1.2$, that would result in higher constraints on $w$ than just using 500 Type 1a supernovae in a range $0.1<z<0.8$. But how much of a difference does this, among other factors I'm unaware of, make? Quantitatively, how do the errors/uncertainties scale with larger samples and larger redshift intervals (I think for a larger sample the uncertainty decreases as $1/\sqrt N$)?
+It also makes sense that dark energy models with more free parameters would come with a larger uncertainity (for example, $wCDM$ has 1 more free parameter, $w$, than $\Lambda CDM$). But how much is the constraining power diminished for each new degree of freedom? See plots (Figure 9, https://arxiv.org/pdf/1709.01091.pdf):
+
+In the plot on the right, clearly the constraints are much looser because more free parameters were introduced in fitting the data to this time-dependent dark energy model. We can also see that the SN1a data, for example, seems to constrain dark energy less than CMB or BAO data. Why is this? Is it because SN1a have only been observable at lower redshifts so far?

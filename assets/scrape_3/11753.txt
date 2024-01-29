@@ -1,0 +1,6 @@
+How to interpret this old degree notation?
+
+I'm trying to follow the calculations in this paper on page 5 (see image below). The paper is describing traditional methods of calculation for a luni-solar calendar.
+The math is not hard, but I can't make sense of the notation.
+I figured that the ... = 150 : 1780 (as in step 3) means that 150 is the integer result, and 1780 is the remainder.
+But what is ... = 2; 19:28 (step 8)? Degree; minute:second? Okay, but then I'm lost at step 10 with 134 * sin(0:32) = 0:01. I haven't managed to get that result.

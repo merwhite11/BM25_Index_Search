@@ -1,0 +1,9 @@
+Why do default coordinates from IR-optical observatories are usually not trustworthy, while from radio interferometers they usually are?
+
+I have noticed in my experience that the coordinate solution within the headers of default reduced images from radio interferometers are commonly trustworthy to the arcsecond or less. From IR and optical observatories it is never so simple: the header solution from the default images is at most useful as a very rough guidance, off by an arcminute or more. Sometimes there is no useful header whatsoever, and the user needs to compare with, e.g., DSS of 2MASS to get good coordinates for her images, if she cares about that at all.
+This has other consequences which in my opinion affect the idiosyncrasy of optical and radio astronomers, for example:
+
+No coordinates in published figures is much more common within the optical-IR community than in the radio community
+Finding charts. Radio astronomers do not know what are they, because they are not needed for radio observations.
+
+Radio telescopes (this depends on the frequency also) sometimes require doing pointing calibrations during the observations. But in optical telescopes they also often require a guiding star, whose coordinates I imagine are properly tabulated. Regardless, the delivered images do not end up with a proper header.

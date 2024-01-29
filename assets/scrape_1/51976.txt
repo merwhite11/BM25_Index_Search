@@ -1,0 +1,14 @@
+Can such planet orbit 61 Cygni A within a habitable zone?
+
+I have developed a fictional planet I described here in Worldbuilding Stackexchange: https://worldbuilding.stackexchange.com/questions/231162/length-of-seasons-on-a-planet-with-eliptical-orbit.
+Since then, I have refined its parameters:
+
+its mass is 0,9 Earth;
+its day is 20 hours;
+it has 25.7 degrees axial tilt (it's for defining its climate);
+it orbits its host star in 1020 local days;
+Semi-major axis is 1.7561 AU;
+distance to the host star at the perihelion is 0.9278 AU;
+distance to the host star at aphelion is 2.5844 AU.
+
+My question is: can such a planet orbit 61 Cygni A within its habitable zone?

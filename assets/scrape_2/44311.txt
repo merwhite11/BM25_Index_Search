@@ -1,0 +1,12 @@
+Spin-down of gas-giants during formation
+
+In the paper https://arxiv.org/abs/1712.00457 about rotation rates of gas giants it says:
+"owing to accumulation of angular
+momentum stored in the source material, a planetary mass object should rotate at or near breakup towards the end of the phase of rapid of gas accretion (irrespective of whether the object
+formed through core accretion or via gravitational instability). In light of this expectation and the
+discussion presented above, another mechanism is needed to reduce the rotation rate to values
+well below break-up, and counteract spin-up due to gravitational contraction and accretion.
+Because our observations do not show a statistically significant dependence of angular velocities
+on age, we speculate that the spin-down process (whatever it may be) operates exclusively
+during the disk-bearing stage of evolution."
+Question: What mechanisms would cause the rotation of a gas giant to slow down, assumming that the planet is far enough from its star that tidal interaction with the star won't slow it down?

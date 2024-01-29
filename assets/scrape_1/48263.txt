@@ -1,0 +1,27 @@
+What are all the contributions to libration; is there a self-consistent formalism?
+
+If I understand correctly, in a two-body system with at least one of them more-or-less tidally locked (mean rotational period = mean orbital period) if we draw a line between the centers of mass and look at the point where that line passes through (one of) the locked bodies, that point will roughly periodically migrate around the surface, and that is called, or at least attributed to libration.
+The most familiar example is the libration of Earth's Moon, and the primary cause is the Moon's eccentricity and also various axial and orbital tilts (which precess over time as well)
+In Space SE:
+
+What are the "Moon L, B, C" angles shown in this solar eclipse simulation?
+How to get lunar L, B, C parameters from the Moon's 3x3 rotation matrix from the Python package Skyfield? (currently unanswered)
+
+In History of Science and Mathematics SE:
+
+How did Cassini measure the "Cassini state" of the Moon? What measurements were made; what did the data look like? (currently unanswered)
+
+In addition to the effects of eccentricity and axial and orbital inclinations I suppose that:
+
+for a just recently locked body there could still be residual pendulum-like harmonic motion that hasn't yet been damped out. See Is there any residual oscillation left from the Moon rotation?
+there could be motion excited by third body gravitational effects
+there could be "inner sloshing" of magma, liquid core, or subsurface (or surface) oceans
+
+Question: What are all the contributions to libration; is there a self-consistent formalism?
+
+Related:
+
+Moon's rotation and revolution
+Was lunar libration first observed or first predicted? In either case, who was the responsible party?
+How old is the idea of the far side of the Moon?
+Explanation about the resonance, mean motion resonance and libration

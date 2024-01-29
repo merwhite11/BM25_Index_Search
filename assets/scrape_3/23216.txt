@@ -1,0 +1,11 @@
+Neutron stars and distribution of heavy elements
+
+In the news, of course, is the theory that much of the mass of the heaviest elements in Earth would have come from colliding neutron stars.  This graphic gives one such analysis:
+
+Origin of the Elements in the Solar System by Jennifer Johnson is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. (Larger version at http://www.astronomy.ohio-state.edu/~jaj/nucleo/)
+I don't know how accurate this is, but the URL looks good.  Also, this seems to be a new theory, and AFAIK this is the first actual evidence for it.
+If this is correct, what are the implications for the quantity of heavy elements that would be found on planets outside our solar system?  In particular, I guess, the very heavy ones: gold, platinum, thorium, uranium...
+We've been watching the skies for signs of neutron star collisions for several years now (IIUC), and I guess we're starting to get an idea of the frequency of this event.  And I've seen estimates of how much gold etc. was produced by this particular event.  How many planets would one such collision supply with the quantity of heavy elements in Earth?
+(I guess we only really know about gold in the Earth's crust, and to some extent in the mantle; are these elements concentrated in the core?  Any idea about heavy elements in other planets of our solar system?)  
+So: given the frequency of the event per galaxy, the estimated number of stars with planets in a galaxy, etc., is it likely that most planets are deficient in heavy elements, as compared with Earth?
+(Side comment: if so, then nuclear wars might be rare or impossible on those planets.)

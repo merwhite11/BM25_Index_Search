@@ -1,0 +1,4 @@
+What will the PRECISE time of the Summer Solstice 2020 be?
+
+I'm trying to explain to my daughter that the Summer Solstice is not a day of the year, but an exact instant in time.  My search shows that this will be about 21:43 or 21:44 UTC tonight.  To make my point I searched for a more precise time.  I figured I could find a time accurate to at least the second, or hopefully several places after the decimal , but I couldn't find anything.
+Can anyone show me a source for the precise time of the Solstice to at least the second?  To the millisecond?  The microsecond?

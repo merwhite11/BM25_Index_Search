@@ -1,0 +1,4 @@
+How is time defined in astronomy?
+
+I was amazed when my teacher told me that in space, time is define as a coordinate. It means we can define something  with a four coordinate system with "negative time" $-t$ as easily as we can say $-x$. Assuming that we can, what will this suggest?
+Edit:) yesterday I saw so many answer on it, create one more doubt in me, that how do I define a origin in space, because there nothing to which I compare, suppose I have two events A and B, how can I say A occur before B, if I say this, from which reference I am comparing it....

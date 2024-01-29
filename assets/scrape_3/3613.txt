@@ -1,0 +1,4 @@
+Orbital Elements Transformations
+
+I'm a third year undergrad, and for the project I'm doing this summer, I need to figure out the Earth's position and velocity from the moon's point of view. From the reading I've done, it seems like there are formulae to convert from the orbital elements of the earth-moon system to a state vector describing the moon's position and velocity in the earth's reference frame. So, I'm wondering if because of the symmetry of the problem (i.e. from the moon's POV, the earth orbits it in an ellipse), there is a way to convert the easy-to-find orbital elements of the earth-moon system to the orbital elements of the earth as seen from the moon? I could then just do the conversion to the state vectors that I'm looking for.
+Any sources/help is much appreciated!

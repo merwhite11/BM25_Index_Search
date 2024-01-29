@@ -1,0 +1,35 @@
+How to handle empty tables returned by astroquery Nist.query() in Python?
+
+I'm writing a code to extract wavelengths of certain species of atoms/ions in a given wavelength range using the Nist.query() command of the Python package astroquery. I wish to print the output of the query for each species in given wavelength range to a text file. Here's my code:
+from astroquery.nist import Nist
+import astropy.units as u
+from astropy.io import ascii
+import sys
+
+lambda_min = np.array([4245, 4270, 4295, 4325, 4350, 4380, 4400, 4430, 4460, 4515, 4545, 4570, 4605, 4630, 4665,
+                       4695, 4755, 4790, 4830, 4880, 4950, 5020, 5095, 5170, 5245, 5325, 5405, 5485, 5570, 5660, 
+                       5750, 5845, 5945, 6045, 6150, 6255, 6370, 6485, 6605, 6730])
+
+lambda_max = np.array([4260, 4280, 4310, 4330, 4360, 4385, 4415, 4440, 4470, 4530, 4550, 4585, 4610, 4645, 4670, 
+                       4705, 4770, 4795, 4835, 4900, 4970, 5040, 5110, 5185, 5260, 5340, 5420, 5500, 5590, 5675,
+                       5770, 5865, 5960, 6060, 6165, 6275, 6385, 6500, 6620, 6750])
+
+species = np.array(["C I", "C II", "N I", "N II", "O I", "Ne I", "Na I", "Mg I", "Mg II", "Al II", "Al III", "Si I",
+           "Si II", "P II", "S I", "S II", "Ca I", "Ca II", "Sc II", "Ti II", "Cr II", "Mn II", "Fe I", "Fe II", 
+           "Ni I", "Sr II", "Y II", "Zr II", "Ba II"])
+
+for i in range(len(lambda_min)):
+    for j in range(len(species)): 
+        table = Nist.query(lambda_min[i] * u.AA, lambda_max[i] * u.AA, linename=species[j], wavelength_type="vac+air")[["Observed","Ritz"]]    
+        if table is None:
+            print(species[j], 2*"\n", "Not Present", 2*"\n")
+        else:
+            orig_stdout = sys.stdout
+            f = open(fr'/path/{lambda_min[i]-lambda_max[i]}.txt', 'a')
+            sys.stdout = f
+            print(species[j], 2*"\n", table, 2*"\n")
+            sys.stdout = orig_stdout
+            f.close()
+
+Where lambda_min and lambda_max are lower and upper bounds of the wavelength regions, species is an array containing the species whose wavelengths I want to fetch. I figured out that if certain wavelength range doesn't contain wavelengths of certain species, then Nist.query() throws an Exception: Result did not contain a table. In such cases, I wish to print wavelengths are "Not present", but I am not able to handle empty table returned by Nist.query(). How to solve this issue? There's no help regarding this issue in astroquery documentation.
+Here's the error that I'm getting:

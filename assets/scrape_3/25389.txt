@@ -1,0 +1,5 @@
+Gravity on a right rectangular prism?
+
+Let's assume there is a right rectangular prism floating about in space, what would the gravity be like across its 6 flat surfaces? What gravity would you experience if you set foot on the rectangular prism's surface? Would it be the same as on Earth? Or would it be different the further along the surface you walk? 
+Let's assume that this right rectangular prism has a constant density and has a mass equal to Earth's. At any point on the surface of this prism, would gravity vary? That is, would it be an extreme variation than compared to one traveling across the surface of Earth? How extreme would this differential be?
+Here's a rectangular prism with specific dimensions in mind.

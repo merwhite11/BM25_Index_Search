@@ -1,0 +1,5 @@
+GW190521's Luminosity Distance is greater than the age of the universe - how?
+
+According to this article about the gravitational wave observation, GW190521, the estimated luminosity distance is appx 5+/-2 Gigaparsecs, which is appx 16 billion light years +/- 6:
+https://dcc.ligo.org/public/0165/P2000020/012/LS17910.pdf
+While I understand that this is a crude measurement, is it not true that the distance cannot be greater than the appx 13.7 billion light years of the universe?  If so, should not there be another constraint on the distance? Or is it just more accurate to report the calculated luminosity distance and leave it at that in the report?

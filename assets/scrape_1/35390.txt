@@ -1,0 +1,16 @@
+Why do they think that WDJ0551+4135 is "snowman shaped" i.e. a contact binary?
+
+The BBC's Huge 'space snowman' is two merging stars says
+
+Researchers have discovered a huge snowman-shaped star with an atmospheric composition never seen before.
+It is more massive than our Sun but only two-thirds the Earth's diameter.
+The object is thought to have resulted from the merger of two so-called white dwarf stars that often explode as powerful supernovas.
+Dr Mark Hollands, of Warwick University, said the team's discovery could help scientists better understand how this process occurs.
+
+and later
+
+But this star, named WDJ0551+4135, has an atmosphere unusually rich in carbon. Dr Hollands said that initially these observations "didn't make any sense. The only way you can explain it is if it was formed through a merger of two white dwarfs".
+
+I assume this means that it is suspected of being a contact binary
+Question: Is WDJ0551+4135 thought to be a contact binary only based on chemistry and evolution arguments? Wouldn't a light curve of this object alone be enough, and wouldn't the period be extremely short making this somewhat easier to do?
+update: C|NET's Astronomers find a bizarre, dying star that 'didn't make any sense' suggests that the argument is indeed based on chemistry, and that asteroseismology may be required to back it up. It also links to Nature Astronomy An ultra-massive white dwarf with a mixed hydrogen–carbon atmosphere as a likely merger remnant.

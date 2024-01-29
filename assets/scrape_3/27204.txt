@@ -1,0 +1,15 @@
+Presenting / printing Right Ascension and Declination values
+
+Are there any standards or established practices on how to write / represent Right Ascension (RA) and Declination (DEC) values in the sexagesimal format?
+I have seen all of the following. E.g. for RA:
+
+02 03 04 (assumed to mean 2 hours, 3 hourly minutes and 4 hourly seconds)
+2 3 4 (same as above)
+2h 3m 4s (same as above)
+2d 3' 6" (assumed to mean 2 degrees, 3 degree minutes and 4 degree seconds)
+2d 3m 6s (same as above)
+15.33 (assumed to mean 15.33 degrees)
+9.5H (assumed to mean 9 hours, 30 hourly minutes and zero hourly seconds)
+8d 3.5 (assumed to mean 8 degrees, 3 degree minutes and 30 degree seconds)
+
+Likewise for DEC (even though for DEC when the first component does not have a suffix it is assumed by default to be in degrees, not hours). Does any astronomical association publish guidelines for the printing / presentation of such values or on how software should accept user's input of such values?

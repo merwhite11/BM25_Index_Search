@@ -1,0 +1,3 @@
+At what gravity does a body's gravitational lensing become observable?
+
+I wonder whether we know at how much gravitation a gravitational lensing around a celestial body becomes observable (visible in the sense of that we see stars on the wrong places, stars behind the body etc, similar like around this neutron star, but of course by far not as strong, I'd like to know where the boundary lies). Such visible gravitational lensing occurs around neutron stars, black holes and white dwarfs, right? What about red and brown dwarfs? They're also quite dense and have a high surface gravity (though not as high as the other mentioned bodies of course). Do they curve the space around them visibly?

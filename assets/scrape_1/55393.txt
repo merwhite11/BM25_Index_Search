@@ -1,0 +1,31 @@
+Instead of a 4 meter diameter, 50 liter spinning pool of dangerous mercury, why didn't the ILMT just use an ionic liquid? Or gallium?
+
+Phys.org's New Indian telescope identifies its first supernova links to the recent arXiv Follow-up strategy of ILMT discovered supernovae. The International Liquid Mirror Telescope is no ordinary spinning puddle of mercury, it's got 21st century improvements!
+The introduction begins:
+
+The ILMT is a 4-m diameter zenith-pointing telescope located at Devasthal Observatory (Nainital, India). The first light of the facility was achieved last year (2022 April 29) and presently, it is in the advanced stage of commissioning. Unlike conventional telescopes, the primary mirror of the ILMT is formed by pouring approximately 50 liters of mercury into a recipient, which acts as a reflecting mirror. The effective focal length of the optical system is 9.44 m. The ILMT images are obtained using the Time-Delay Integration (TDI) technique. Given the fixed pointing of the telescope, the stellar objects move in the focal plane along slightly curved trajectories. Therefore, a dedicated five-element optical corrector is being used altogether with the CCD reading the electronic charges in the TDI mode (Gibson and Hickson, 1992; Hickson and Richardson, 1998). A 4k × 4k CCD camera (Spectral Instruments) is mounted at the prime focus of the telescope, which can secure nightly images in g, r, and i spectral bands with a total integration time of approximately 102 sec (in single scan).
+
+Time-delay integration and liquid mirror telescopes are discussed further in:
+
+What was the first use of time-delay integration in Astronomy? Are there instances before GAIA?
+Why can't we build a huge stationary optical telescope inside a depression similar to the FAST radio telescope?
+How would the "Fluidic Telescope (FLUTE)" next generation telescope make and control a smooth, correct concave optical surface figure in microgravity?
+
+Question: Instead of a 4 meter diameter, 50 liter spinning pool of dangerous mercury, why didn't the ILMT just use an ionic liquid? Or use liquid gallium?
+Ionic liquids are discussed at length in this answer
+Wikipedia's Gallium says:
+
+The melting point of gallium (29.77 °C) allows it to melt in the human hand, and then solidify if removed.
+
+and later:
+
+It is also notable for having one of the largest liquid ranges for a metal, and for having (unlike mercury) a low vapor pressure at high temperatures.
+
+It seems like these days, with the understanding of the dangers of mercury poisoning, and that even the vapors from an exposed surface pose a safety risk, most technologies are moving to anything they can to avoid using mercury, elemental or otherwise. cf. Just how dangerous is mercury, anyway?
+
+People tend to associate mercury with its silvery liquid form — as found in old thermometers. But it was also used in electrical switches or relays that were built into machines until the mid-20th century. Later, it was florescent lamps and some early energy saving lamps.
+The liquid form of mercury is especially dangerous because it vaporizes at room temperature. And when it vaporizes, it fills the air with tiny, invisible mercury atoms that are both scentless and soluble in oils or fats.
+If mercury vapor is inhaled, it is easily absorbed by the body, where it first gets into the lungs and from there into the blood and the brain. It's a nerve poison that can cause sleep disorders, agitation and paralysis.
+
+I'm not saying it can't be contained, we still make nuclear reactors too.
+I'm just wondering if there were reasons why a reflective ionic liquid was not used instead. Maybe they're no good to use, chemically unstable, more susceptible to surface ripples induced by vibrations, or even more dangerous than mercury, I don't know. So I'm asking.

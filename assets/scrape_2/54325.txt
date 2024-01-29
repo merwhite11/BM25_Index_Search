@@ -1,0 +1,4 @@
+Gravitational recoil with stars/planets...?
+
+When two black holes are merging, the resulting merge can be ejected if one of the black holes had less mass than the other one, so the gravitational waves emitted by both of them is unbalanced, and the more strong ones would create an asymmetry that would "kick" the resulting merged black hole in the direction of that asymmetry, sometimes even kicking it out of the galaxy. This is known as gravitational recoil (https://arxiv.org/abs/2211.16523; section 2.2.2.).
+Can this also happen with other objects like stars or planets so that they can get ejected to very high speeds by some kind of asymmetry created by gravitational waves? If not by the same mechanism, maybe through a similar one?

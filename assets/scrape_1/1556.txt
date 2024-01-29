@@ -1,0 +1,26 @@
+Convert coordinates between RA/dec and WGS 84 (SRID=4326)
+
+I've imported the HYG Database from http://www.astronexus.com/node/34 and now I need to convert all RA/dec stars positions to fit in a WGS 84 coordinates (SRID=4326) PostGIS map (-180 to 180, 90 to -90).
+BayerFlamsteed  ProperName  RA            DEC
+21Alp And       Alpheratz   0.13976888    29.09082805
+11Bet Cas       Caph        0.15280269    59.15021814
+88Gam Peg       Algenib     0.22059721    15.18361593
+Alp Phe         Ankaa       0.43801871    -42.30512197
+18Alp Cas       Shedir      0.67510756    56.53740928
+16Bet Cet       Diphda      0.7264523     -17.98668410
+
+Related to:
+https://gis.stackexchange.com/questions/84389/spatial-database-containing-coordinates-for-stars-in-the-sky
+https://gis.stackexchange.com/questions/2459/what-coordinate-system-should-be-used-to-store-geography-data-for-celestial-coor
+EDIT: Ok, I think MerseyViking gives the answer in https://gis.stackexchange.com/questions/2459/what-coordinate-system-should-be-used-to-store-geography-data-for-celestial-coor telling to create a new coordinate system. Can someone give a look and some opinion?
+EDIT 2 (After answered): Fantastic!! I need to show the results of whuber and Dieudonné's answer. The first picture I show the query in QGIS. In second picture you can see the real positions in a map. The scale is different - Find Shaula, Nunki and Antares.
+This is the conversion method ('H' is for Hyparcus in my database):
+insert into stars 
+    select 
+        id, 
+        proper_name, 
+        ST_SetSRID(ST_MakePoint( (-ra * 15), dec),4326),
+        mag,
+        'H'
+    from hygn
+    where (proper_name is not null)

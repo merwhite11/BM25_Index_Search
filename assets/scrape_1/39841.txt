@@ -1,0 +1,6 @@
+Relation between mass of gas, mass of stars and dark matter halo mass
+
+As we all know that Mass of the galaxy can be written as the sum of the mass of gas(Mg), the mass of stars (Ms), and mass of dark matter halo(Mh), as
+M(galaxy)=Mg+Mh+Ms,
+But is there any formula which relates Mg and Mh and, Mh and Ms??
+Does anybody know?

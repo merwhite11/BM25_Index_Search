@@ -1,0 +1,7 @@
+Is Cosmic Ray Astronomy a thing?
+
+Historically astronomy has been the regime of visible light, looking at distant objects in the visible spectrum and later taking photographs in the visible spectrum.
+In the past century radio astronomy, infrared astronomy and exploring other bands in the electromagnetic spectrum became feasible.
+Over the past decade we have been able to begin doing neutrino astronomy, identifying distant neutrino sources.
+Is there any reason that this cannot progress to other particles, I.E. general cosmic ray astronomy?
+One could consider a specialized telescope (it would need to be in a satellite) that detects muons only and forms images from muon detection, or perhaps a proton telescope. The idea being to map incoming particles to pixels in an image, and assign a brightness depending on frequency of particles.

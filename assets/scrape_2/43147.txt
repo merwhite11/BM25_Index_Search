@@ -1,0 +1,7 @@
+Density of stars on celestial sphere
+
+The pattern of stars on the surface of the celestial sphere seems perceptually to have an universally looking structure. If you pick a region of the sky at random, for instance by using the (excellent) set of tools from the stellarium suite you get for example this:
+
+There are bigger structures, like the milky way or more clustered areas, but on a smaller scale (like that you will see in binoculars with a field of view of the size of the moon), you will very often get this similar pattern. This looks to me very much like a self-similar fractal and I am curious to know if anybody knows more about it.
+Assuming a given density of stars in this patch of the universe, and  omitting inhomogeneities at first,  can we derive a mathematical expression for describing the density of stars in a given patch of the sky ?
+As a bonus, is there a map estimating this density for different areas of the celestial sphere? Clearly, the milky way is more crowded and would perhaps have more structure...

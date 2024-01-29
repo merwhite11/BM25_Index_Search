@@ -1,0 +1,6 @@
+Are there any colored RAW photos of the Milky Way taken from space?
+
+We can get RAW versions for many ISS images, like those of airglow, e.g. ISS043-E-143486. But all the photos of the Milky Way taken from ISS that I found were posted on Twitter (e.g. this, Flickr or other social networks heavily tone-mapped, it's not possible to get the RAW sources, and apparently they are not in public domain as those obtainable from the NASA website.
+But maybe I've missed something, or some other missions than ISS have colored RAW photos of the Milky Way. Or, if there are any colored colorimetrically calibrated images taken in the visible spectrum from space, this would also suit my needs.
+I know there is Axel Mellinger's panorama, available as a FITS file from this page. But this one was made from Earth-based photos, so I'm not completely convinced of its hue correctness; besides, with the FITS data I failed to reproduce the hues from the JPEG preview like this one.
+So, are there any non-tone-mapped or RAW images of the Milky Way taken from space available to the general public?

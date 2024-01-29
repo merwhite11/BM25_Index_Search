@@ -1,0 +1,4 @@
+What telescopes have observed anomalies in the light curve of Tabby's star, KIC 8462852?
+
+KIC 8462852, the F-star that inexplicably dims by up to 20% for short periods, is still getting alot of attention. A slow continuous dimming by about 0.3% a year has been identified recently. But all anomalies I know of come from the Kepler space telescope. It is an F3-star at 1500 ly distance. Shouldn't it be easy to observe its light curve with even relatively modestly sized ground based telescopes? Have such observations been done and have they confirmed any anomalies? You see, I suspect something weird went wrong with the Kepler telescope here.
+EDIT: There have been studies of its brightness on archived historic photographs. But I'm more interested in observations simultaneous as Kepler or since then, to confirm either a gradual dimming or short deep dips.

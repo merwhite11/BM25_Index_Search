@@ -1,0 +1,6 @@
+How do you correct the Period-Luminosity relationship for metallicity?
+
+Refer to the link: https://www.astro.utoronto.ca/DDO/research/cepheids/cepheids.html
+Tha author has used the relationship $M_V=-2.902log(P)-1.203$. It is mentioned that this is not corrected for metallicity.
+My question is how we could correct this for metallicity using SIMBAD $[Fe/H]$ values for individual stars, or otherwise using some other free & publicly available data.
+I am open to suggestions.

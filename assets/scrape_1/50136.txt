@@ -1,0 +1,5 @@
+Visual magnitude - V_0 and V difference
+
+Does $V_0$ stand for the magnitude during a primary eclipse and $V$ for magnitude during no eclipse?
+For instance, here is the magnitude of 2.41 and here the magnitude of 2.23. I saw the notation $V_0 = 2.41$ and $V = 2.23$.
+Thank you

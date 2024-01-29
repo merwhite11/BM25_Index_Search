@@ -1,0 +1,8 @@
+Planets classification by density
+
+In our Solar system, the density of major planets varies from 0.7 g/cm3 (Saturn) to 5.5 g/cm3 (Earth).
+For exoplanets, the density varies from very low (0.03 g/cm3 for Kepler-51x) to very high (77.7 g/cm3 for Kepler-131c, data according to NASA Exoplanet Archive).
+We know that bodies with low density are composed of gas and others are rocky planets. Wikipedia provides some approximations about it.
+Is there any detailed classification of planetary bodies by density? A classification that would say, for example, that the density below 1.5 g/cm3 corresponds to a gas planet; between 1.5 and 3 are icy; between 3 and 8 are rocky; above 8 g/cm3 are even more rocky etc...
+Would such a classification make sense?
+If it exists, which are the numeric bounds for the different types of bodies?

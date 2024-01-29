@@ -1,0 +1,8 @@
+Help with simulating long-term orbital dynamics of exoplanetary systems using Rebound
+
+I am a junior in high school working on an independent research project and I need help because I've reached the limits of my knowledge. My goal is to simulate the long-term orbital dynamics of exoplanetary systems, focusing on the stability of planets within the habitable zone of their host stars using the Python software called Rebound. I wrote code in Python simulating Teegarden's Star system (data collected from NASA Exoplanet Archive). I'm certainly not an expert in Python, I only learned this summer, and I'm not sure if my graphs or my code are correct. I'm not entirely sure how to apply the resulting information to my research on the stability of the exoplanet system. How should I interpret this data? Am I missing part of the code that is required? I'm not sure my approach is correct and I'm hoping someone with Rebound experience can help point me in the right direction. Many thanks for any help you can provide me.
+Here is a link to a google doc with the code that I used to produce the results: https://docs.google.com/document/d/12Iog2bf5k8YO4403OHrviTZiFYBK2LRBg__Rkqn6-A8/edit?usp=sharing
+When I run my simulation, this is the information that I am receiving back:
+-0.0281975035917293
+<rebound.Orbit instance, a=-0.028197503591729303 e=4611.268321685149 inc=0.0 Omega=0.0 omega=5.2541912879453285 f=1.0645580662541025>
+<rebound.Orbit instance, a=-0.03760609591029579 e=436.75849882502456 inc=3.141592653589793 Omega=0.0 omega=0.7006863036104045 f=5.546079371470007>

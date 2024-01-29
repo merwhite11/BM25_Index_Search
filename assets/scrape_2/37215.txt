@@ -1,0 +1,28 @@
+Can a single impact event trigger a runaway greenhouse?
+
+Somewhat related to this question: Is the Earth going to evolve towards Mars' fate or Venus' fate?
+Human civilization may be fragile, but life itself is extremely resilient, with extremophiles and microscopic lifeforms able to withstand such harsh conditions that make the end of all life possible, but very unlikely. Once in a while articles are published, like this, listing a large enough impact event as one possible scenario, besides supernovas and gamma-ray bursts. The threshold for large enough they adopted was one with sufficient energy to boil all oceans, requiring about 5.6 * 10^26 J of energy and a impactor with a mass around 1.7 * 10^18 kg. Only 19 asteroids fit the bill, counting Vesta and Pallas.
+But water vapour is known to be a strong greenhouse gas. So, couldn't be the case, instead of boiling whole oceans, a single impact could release just enough water steam to kickstart a runaway greenhouse like the one in Venus? I imagine that would happen if a substantial fraction of the atmosphere becomes steam (guess 50%). We can estimate the mass of Earth atmosphere by multiplying atmospheric pressure by planet surface area, giving about 5.2 * 10^18 kg. We can estimate the energy necessary to release a equal amount of steam, multiplying this mass by water Enthalpy_of_vaporization, and the impactor kinetic energy required, by E = mv^2/2(see below).  I assumed a 20km/sec speed that I read somewhere to be close to average for a collision with Earth (the range goes from about  11km/sec to 70 km/sec).
+This gives us E ~ 1.16 * 10^25J and m ~ 5.82 * 10^16 kg for impactor energy and mass, smaller than the ones given in the link above by one and two orders of magnitude, respectively. That bring us to Hale-Bopp size range.
+I'm aware Earth withstood multiple large impacts, in Late Heavy Bombardment and before, and yet the water just condensed back and so we had no runaway greenhouse induced by released steam. But as the Sun gets older and hotter, will that always be the case? Perhaps the dust released in the impacts negates the effects of water vapour in the atmosphere, but I can imagine some scenarios where the ratio of dust to vapour is minimized, like a impact in deep ocean, for example. What are the odds of something like this happened to Venus, flipping a borderline-stable Earth-like world into the runaway greenhouse we see today? Could be the case Earth is already past the same threshold, just waiting for a suitable impact to flip the switch?
+I found a paper(1) discussing a sudden change from runaway icehouse to runaway greenhouse, but nothing on impact-induced transitions.
+Calculations:
+Python 3.6.9 (default, Jul 17 2020, 12:50:27) 
+[GCC 8.4.0] on linux
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> m_impactor = lambda E, v: 2*E/v**2 ## From kinetic energy formula
+>>> E = lambda m_water: 2.23e6*m_water ## 2.23 MJ/kg^3 = approximate heat of vaporization for water
+>>> import math
+>>> m_water = lambda P, g, R: 4*math.pi*P*R**2/g ## P = atmospheric pressure (about 101 kPa); g = gravitational acceleration (9,8m/s^2); R = Earth radius (about 6350 kilometers).
+>>> m_impactor(E(m_water(1.01e5, 9.8, 6.35e6)), 20000)
+5.822741097812724e+16
+>>> E(m_water(1.01e5, 9.8, 6.35e6))
+1.1645482195625448e+25
+>>> m_water(1.01e5, 9.8, 6.35e6)
+5.222189325392578e+18
+
+References.
+
+Yang, Jun, et al. “Abrupt Climate Transition of Icy Worlds from Snowball to Moist or Runaway Greenhouse”. Nature Geoscience, vol. 10, no 8, agosto de 2017, p. 556–60. www.nature.com, doi:10.1038/ngeo2994.
+
+Sloan, David, et al. “The Resilience of Life to Astrophysical Events”. Scientific Reports, vol. 7, no 1, julho de 2017, p. 1–5. www.nature.com, doi:10.1038/s41598-017-05796-x.

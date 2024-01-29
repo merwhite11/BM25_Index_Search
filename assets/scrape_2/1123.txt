@@ -1,0 +1,7 @@
+Official registry of lunar placenames?
+
+What's the definitive source for names of geographic objects on the moon?
+Reason: As a computer graphics project I've rendered a scene based on LROC terrain data. I want to know what I'm looking at.
+The most detailed atlas I can find online is this one:
+http://planetarynames.wr.usgs.gov/Page/Moon1to1MAtlas
+...but it's not brilliant and there are lots of small but prominent craters and ridges which aren't labelled. It may be the some of these simply don't have names, but it's also plausible that there are simply too many to list in that atlas. How can I find out for sure?

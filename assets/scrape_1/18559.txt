@@ -1,0 +1,4 @@
+Multi-messenger astronomy: what is the potential of simultaneous detection of gravitational waves and neutrinos from a supernova?
+
+Thanks to the efforts of the aLIGO team, gravitational wave astronomy is a reality. At the same time, neutrino detectors like Hyperkamiokande are becoming much more sensitive.
+My question is: what are the prospects for the pseudo-simultaneous detection of gravitational waves and neutrinos from the same supernovae? What sort of stuff could we learn from such an event, both about supernovae and neutrinos? In particular, what are the prospects for estimating the neutrino mass?

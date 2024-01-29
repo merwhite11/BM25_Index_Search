@@ -1,0 +1,4 @@
+What's the difference between semi-major axis and apoapsis?
+
+The semi-major axis is half of the diameter of the major axis of an ellipse by definition. So how does that make it any different from apoapsis, the furthest point an object is from a parent body in its orbit?
+Both are radii along the longest axis, surely.

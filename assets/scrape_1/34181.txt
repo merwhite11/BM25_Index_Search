@@ -1,0 +1,5 @@
+What is this gap between hot and cold Jupiters?
+
+When plotting mass to semi major axis on exoplanets.org, there seems to be a gap between Hot Jupiters and Cold Jupiters. A lot of Jupiter-mass planets at less than 0.1 AU have been discovered, and a lot at more than 1 AU, but there aren't so many in between. 
+
+Since many planets closer and further away from their star have been discovered for the same mass, it seems unlikely that this gap would be due to observational bias.

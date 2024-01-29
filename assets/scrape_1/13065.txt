@@ -1,0 +1,7 @@
+Can angular information be known more precisely than the diffraction limit?
+
+The diffraction limit deals with the ability to determine if two things are separate.  I am interested in the ability to find the the centroid of a single object.  
+Imagine a star with no near neighbors would it be possible to determine the centroid of that star at a resolution higher than the diffraction limit?
+The star is essentially a point source and I wonder if looking at the edges of the airy disk would allow a centroid to be determined if I had a magical camera with infinite pixels.
+It seems to me that I should be able to see the disk and then calculate a centroid that is smaller than the airy disk.
+Thanks for any help you can provide =)

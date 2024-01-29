@@ -1,0 +1,3 @@
+Virial theorem for a binary system
+
+I am trying to derive the virial theorem but for two stars orbiting each other. I know the derivation for the general virial theorem with i particles but I am wondering if there is a quicker or more elegant derivation when it comes to proving the virial theorem with only two masses (I am not assuming that the two bodies are in circular orbits around each other).

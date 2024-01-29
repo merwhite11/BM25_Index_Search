@@ -1,0 +1,4 @@
+Universe as 2d sphere surface - a round trip?
+
+If Universe's analogy is 2D surface of the sphere, could we come around in circle? Say on Earth you decided to travel straight in one direction, after completing one full circle you'd find yourself at exact spot where you started.
+Now, if we up that up by 1 dimension and apply it to our Universe, would the same thing happen if we pointed the rocket in a straight line? I.e. would the rocket come back to earth?

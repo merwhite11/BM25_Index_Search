@@ -1,0 +1,22 @@
+How would the temperature on earth be if the sun was slightly more or less powerful?
+
+The temperature on earth is around 14C celsius.
+It is around 1370 W/m^2 from our sun. The earth has an albedo of around 0.3
+On Tatooine (from Star Wars) i have been able to calculate it goes from 1066 W/m^2 to 2100 W/m^2 (depending if the stars eclipse each other or not). Tatooine is a desert planet with a albedo of around 0.4. How can i make a simplified function to calculate what the temperature ranges from on Tatooine?
+I did read on effective temperature on wikipedia, but that is higher than the level in my physics class so i didnt understand.
+In the movies they say the temperatures get quite cold at night and warm during the day, so i would expect it to go something like -10C to 40C.
+We can just assume the atmosphere is the same as on earth since it is breathable for humans.
+Considering as the albedo increases, the temperature should decrease with an increasing albedo.
+Therefore my first attempt was
+T=k(1-a)*P, where T is temp, k is a constant, a is albedo and P is w/m^2
+Since the atmosphere is the same, k should be the same?
+Therefore
+287=k(1-0.3)*1370, solving for k gives us
+k=0.3
+therefore temperature on Tatooine should follow the function
+f(x)=T=0.3*(1-0.4)*x-273 (to get it measured in celsius)
+Where 1066<x<2100.
+f(1066)=-81 and f(2100)=99
+the temperature are not this extreme doe, so this wont work.
+I am aware this is not an accurate science, but im taking my first physics course in high school now, so I dont understand the "proper" way of doing this. Is it completely incorrect to assume temperature is proportional to (1-a) and how much power the sun gives us, when its the same atmosphere (ish)?
+If anyone wants how i found out the power the twin suns gives Tatooine i can share it here.

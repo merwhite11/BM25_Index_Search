@@ -1,0 +1,30 @@
+Can moon set after being up when due north? (pseudo circumpolarity)
+
+I'm in the northern hemisphere, facing north, and notice that the moon 
+is due north (azimuth 0) and is still above the horizon, albeit barely. 
+Does this mean the moon is necessarily circumpolar (doesn't set), at 
+least for the next few hours? 
+As the moon moves away from due north, it's altitude/elevation 
+normally increases. However, it's possible that the moon's declination 
+is decreasing so rapidly that the moon's elevation actually decreases, 
+and the moon sets. 
+Is this possible? 
+This question is tangentially related to my question "libnova odd behavior for 89.5 degrees north latitude" on Stack Overflow.
+EDIT to answer questions: I am facing true north. I am referring to the Earth's true moon, but not necessarily in any given time frame. In other words, if something like this happens 10,000 years from now, that's fine.
+EDIT: OK, I believe the moon CAN set even if it's up when due north. Example: 
+
+You are at latitude 89.5N 
+The moon's declination when due north is +0.5N. This means the 
+moon grazes the horizon when due north. 
+If the moon's declination were constant, it's highest elevation 
+for the day would be 1 degree. 
+Since the moon's declination can change more than one degree per 
+day (average of 1.5 degrees/day), it's quite possible for the moon's 
+declination to go below -0.5N, at which point it would have set (it 
+will actually set before this point unless it happens to reach due 
+south). 
+
+In theory, this could happen with any object whose declination 
+changes, provide you're close enough to the North Pole. 
+I'll leave this update open for critiques. 
+EDIT: Actually, this whole question is just asking whether the midnight sun/moon can set at any position other than due north, which is fairly obviously true. Reasoning: once the moon/sun finally sets not due north, it was obviously still up the last time it was due north.

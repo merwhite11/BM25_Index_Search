@@ -1,0 +1,9 @@
+I dont know how to properly search in SIMBAD
+
+I've been trying to search in SIMBAD for a star in about 92 parsecs,
+there is a problem. I dont know how to properly search,
+I got confused with the query search with those bazillion codes, and every time i try to search by how i think it would go it only says
+Lexical error at line 1, column 19. Encountered: "9" (57) Distance.distance 92 pc
+and the guides do not help at all, I want ot search a concrete list of stars that area in a 91-92 parsec distance from sol, Other resources for me were very limited
+I need help
+https://simbad.harvard.edu/simbad/sim-fsam

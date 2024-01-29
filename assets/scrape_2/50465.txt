@@ -1,0 +1,4 @@
+HD numbers according to the positions
+
+Which database matches HD numbers (or other names) with positions of stars? I would like to insert the list of positions. Gaia does not provide that, right? Thank you
+I tried SIMBAD and obtained

@@ -1,0 +1,5 @@
+Coordinate transformations between reference frames in spherical astronomy
+
+Suppose there are two observational frames of reference with origins $O$ and $O'$, respectively, separated by some constant distance. A body located at point $P$ has Cartesian coordinates $\left(x,y,z\right)$ and $\left(x',y',z',\right)$ in $O$ and $O'$, respectively; and similarly, the spherical coordinates of $P$ in the unprimed and primed frames are $\left(r,\theta,\phi\right)$ and $\left(r',\theta',\phi'\right)$.
+Say $O$ determines the Cartesian coordinates of $O'$ to be $\left(a,b,c\right)$. Then the Cartesian coordinates of $P$ in $O$ are simply related to the primed Cartesian coordinates: $$\left(x,y,z\right)=\left(x'+a,y'+b,z'+c\right)$$
+My question, then, is how does one compute the affect of translation on spherical coordinates. That is, given $\left(a,b,c\right)$, how can one write $\left(r,\theta,\phi\right)$ as a function of $\left(r',\theta',\phi'\right)?$

@@ -1,0 +1,4 @@
+What are the one-dimensional observables that can reveal the matter clustering properties of the Universe?
+
+As we all know, the distribution of galaxies, which depend on the spatial coordinates, can help us understand the large-scale structure of the Universe. We can measure the distribution of galaxies from the Sky Survey Project directly, or examine it from the Hydro/N-body simulations.
+My question is that if there are any observables that just depend on the distance to us, i.e. the scale. If so, such observables are one-dimensional.

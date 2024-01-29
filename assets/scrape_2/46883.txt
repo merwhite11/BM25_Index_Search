@@ -1,0 +1,16 @@
+How are SIMBAD's parallaxes calculated?
+
+I've been trying to figure out how to convert parallax information from SIMBAD's database into parsecs. Looking at Wikipedia as well as many other sources, parallax is calculated as follows:
+distance in parsecs = 1 / parallax
+
+Given the nature of reciprocals, we can inverse this relationship:
+parallax = 1 / distance in parsecs
+
+The thing is, all stars I've looked up in SIMBAD do not match other sources using these methods.
+For example:
+
+Rigel, according to sky-map.org is 236.967 parsecs away (0.0042p | ~773 ly). Wikipedia places it at 260 parsecs. SIMBAD has nothing even close to these numbers.
+Betelgeuse, according to sky-map.org is 131.062 parsecs away (0.0076p | ~427 ly). Wikipedia places it at 168.1 parsecs. Again, SIMBAD has completely different numbers.
+
+I've checked a few other stars from SIMBAD as well and the parallaxes seem to be following some other format. They have a description of measurement types page, but it does not seem to indicate how these values are to be interpreted.
+How does one actually interpret SIMBAD parallaxes, and how can they be converted to distance in parsecs?

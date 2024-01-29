@@ -1,0 +1,4 @@
+Why don't we use the Voyager/Pioneer etc space probes to measure stellar parallax?
+
+With Earth based telescopes you get a max distance of 2 au between measurements.
+While we have multiple space probes well over 100 AU away from us, that's a 2 OoM difference.

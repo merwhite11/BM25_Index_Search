@@ -1,0 +1,14 @@
+Adaptive Optics Shack-Hartmann Sensor and Deformable Mirror
+
+I have a technical question regarding the Shack-Hartmann sensor in deformable mirrors.  What algorithm is used to take the Shack-Hartmann measurements of local tilt and turn them into a full phase estimate that can be passed to the  deformable mirror?
+
+(Source: Wikipedia1)
+I see that the the sensor itself can generate an estimate of the derivative of the wavefront $w(x,y)$ by observing the offset of the centroid of the guidestar. If the delta in from center of the guidestar is $\delta_x$ and $\delta_y$ then the derivative of the wavefront in that region is proportional $\delta$:
+$\frac{dw}{dx} \propto \delta_x $ and $\frac{dw}{dy} \propto \delta_y $
+Geary's Introduction to wavefront sensors2 has the following diagram:
+
+with the comment: "To reconstruct the wavefront, the local tilts must be
+stitched together". 
+Is it enough to connect them end-to-end, perhaps make them non-negative, and pass them on? The values transmitted are usually Zernike Polynomial modes, so do we we desire to make them positive or zero mean? What algorithm is actually used to take the Shack-Hartmann measurements of local tilt and turn them into a full phase estimate that can be passed to the deformable mirror?
+1 By 2pem - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=15279624
+2 Geary, Joseph M.. (1995). Introduction to Wavefront Sensors.

@@ -1,0 +1,6 @@
+Computationally intensive technique to search for TNO's within the noise of historical photographic data?
+
+I remember reading recently about a technique to search through lots of old survey images to try to identify trans-Neptunian objects that were so dim that they were "lost in the noise" in single exposures and so have here-to-fore escaped detection.
+This was a few months ago I think, but now I can not remember where or exactly when.
+From what I remember it was a computationally intensive technique where images were effectively overlayed with offsets determined by hypothetical test orbits. In other words suppose a field is photographed one a year for 10 years. 1 or 2 sigma noise-like dots of diffraction-limited size will be ignored in any one image, but if many of them show dots that overlap when images are shifted by 0.126 degrees per year, then this may be due to a real TNO at 200 AU. ($\text{1 year} \times (\text{180} / \pi) \times \sqrt{GM/a^3}$)
+Question: What was this computationally intensive technique to search for TNO's within the noise of historical photographic data that I'm remembering? Where was it recently published or at least written about?

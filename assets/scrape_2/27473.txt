@@ -1,0 +1,14 @@
+Eyepiece diameter for small focal length planetary viewing on a large dobsonian?
+
+I have a 12" dobsonian with a 1500mm focal length and want to do some higher magnification planetary viewing. Currently my highest magnification is ~80x via my 19mm eyepiece (calculated here), but I would like to do some viewing at higher magnification.
+My telescope is fitted for 2" diameter eyepieces, but I have an adapter for  1¼" eyepieces as well. I'm seeing a plethora of affordable 1¼-inch 9mm eyepieces, but very few 2" diameter options and very pricey at that.
+At this point, I see the following options, by increasing price:
+
+1¼" diameter 9mm eyepiece
+3x Barlow lens
+2" diameter 9mm eyepiece
+
+I've read that the 2" eyepieces yield greater field of view advantages. Is that still true when the goal is a narrow focal length on solar system objects?
+Would using a Barlow lens on my existing 2" eyepieces retain this advantage in a meaningful way?
+In summary, is there any significant value in keeping to the 2" diameter eyepiece capability of my telescope when doing planetary viewing with low focal length given the magnitude of the cost difference?
+I've referenced a "9mm" eyepiece here merely as an example, I'm sure most anything in the 5mm-12mm range would be fine.

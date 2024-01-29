@@ -1,0 +1,13 @@
+Telescope collimation issue
+
+Recently, I purchased a Chinese 8 inch reflector telescope from local store. When I observing stars and planets I've been having trouble getting really sharp image from this telescope. I observe Venus and Jupiter with several eyepieces but I got some "coma like" effect all the time with this telescope.
+To improve the image quality I decided to collimate this telescope with my laser collimator and Cheshire collimators.
+Before attaching the collimation device(s) I check primary and secondary mirror alignment through draw tube and it looks like this:
+
+But when I test this setup with laser collimator it show vast miss-alignment in both primary and secondary mirrors. After aligning both secondary and primary mirrors I've got view similar to this through the draw tube:
+
+I also checked above setup with Venus and few starts and I didn't notice any improvements of the image.
+I try to collimate this telescope with both Cheshire and laser collimator but still I didn't get any clear image with this telescope.
+What was the "most likely" to have issue in this telescope?
+Is a problem in draw-tube assembly alignment able to cause problem like this or does this happen because of the problem in primary / secondary mirror of this telescope?
+Also, I tested this telescope with several branded and unbranded eyepieces and I didn't notice any improvement.

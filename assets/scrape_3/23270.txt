@@ -1,0 +1,31 @@
+Any method to apply inverse TPoint model?
+
+I have an automated telescope that I have written some software for. I am currently using TPoint to compensate for some of the irregularities of my system.
+However with TPoint you apply an offset (based off of the given coefficients and the telescopes pointing position) to the target and that is where you point to acquire the target in your viewfinder.
+Does anyone know how to invert this process, such that given your known telescope point position, you evaluate your "true" pointing position.
+There are 6 parameters: 
+
+IA   = Azimuth axis index error (encoder offset).
+IE   = Elevation axis index error (encoder offset).
+NPAE = Az/El axis non-perpendicularity.
+CA   = Elevation axis / Pointing axis non-perpendicularity.
+AW   = E-W misalignment of Azimuth axis.
+AN   = N-S misalignment of Azimuth axis.
+
+And the offset equations come out to be:
+
+azimuth_Correction = (-IA) + (-NPAE * Tan(boundedElevation)) + (-CA /
+  Cos(boundedElevation)) + (-AN * Sin(azimuth) * Tan(boundedElevation))
+  + (-AW * Cos(azimuth) * Tan(boundedElevation));
+
+and
+
+elevation_Correction = (IE) + (-AN * Cos(azimuth)) + (AW *
+  Sin(azimuth)));
+
+Where: boundedElevation is the "capped" value so that the elevation value gives the correct value for Tangent. This is:  
+
+MAX_TANGENT_Q1 = Atan(10);
+MAX_TANGENT_Q2 = (Atan(-10) + PI); 
+
+The TPoint can be found documentation HERE

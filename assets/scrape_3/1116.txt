@@ -1,0 +1,21 @@
+How can absolute value of azimuth exceed distance from pole?
+
+I'm sure I'm just doing something dumb, but: 
+
+Yildun has a declination of approximately 86.5. This puts it 3.5 
+degrees from the celestial north pole. 
+Per the snapshot below, Yildun's azimuth can be as high as 4.17 
+degrees. 
+Since the celestial north pole always has an azimuth of 0, 
+wouldn't this put Yildun 4.17 degrees from the pole, contradicting 
+the distance calculated from declination? 
+
+What am I missing? 
+
+EDIT: I thought I'd figured this out:
+
+On Earth, one degree of latitude is not the same as one degree of longitude (except at the equator). 
+Analogously, in the sky, one declination degree is not the same as one right ascension degree. 
+
+I thought the situation for right ascension applied to azimuth, but it doesn't.
+Both azimuth and declination are measured on "great circles" (declination is measured on a half circle, but same general idea), so degrees in azimuth should equal degrees in declination.

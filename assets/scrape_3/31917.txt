@@ -1,0 +1,4 @@
+Obtaining TESS input catalog (TIC) IDs for Gaia `source_ids`?
+
+The TESS input catalog (TIC) "uses the GAIA DR2 catalog as a base" according to the catalog's website. The Gaia DR2 database provides source_ids for each observation of a target. I want to get the TIC number for a target based on the Gaia source_id. Is there an accepted way of doing this that I'm missing?
+To be more specific, I can get a list of Cepheids from Gaia DR2 using their archive and the ADQL command select * from gaiadr2.vari_cepheid. The first result has the Gaia source_id as 4052922352453886976. How can I find the TIC number for this target star? Is the best way of doing this using the RA and DEC of the Gaia observation and finding the closest match in the TIC? Since the TIC is based on the Gaia DR2, I would assume there would be a direct corresponding target and finding the closest RA and DEC match would be unnecessary.

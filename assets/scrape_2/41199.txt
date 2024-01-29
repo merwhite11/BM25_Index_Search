@@ -1,0 +1,6 @@
+Does the Time of Sunset (Sunrise) Change Over Time Given a Fixed Location and Consistent Atmospheric Conditions?
+
+Assumming a fixed location, clear skies, and consistent atmospheric conditions, does the sunset (sunrise) time change over time?
+For example, sunset on February 3, 2021 in Tel-Aviv, Israel, is indicated to be 5:17pm. This is a rounded figure I'm sure. Thus, within a minute, would this stated sunset time have been any different historically---or will it be expected to change in the future?
+I know that the length of the tropical year is gradually decreasing overall---does this have any effect on the time of sunset (sunrise)?
+Thank you.

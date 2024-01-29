@@ -1,0 +1,5 @@
+Feasibility of Grand Tack Hypothesis
+
+Something I've been wondering lately is how much the grand tack hypothesis stands up to present scrutiny. While the grand tack proposes that Jupiter and Saturn were caught in a 3:2 mean-motion resonance which results in migration outwards to roughly close to their present distances, simulations of dynamics of planetary migration seem to indicate that a 1:2 MMR is much more likely to occur, which most likely does not result in migration outwards.
+Also, a much more recent hypothesis suggests that Jupiter formed much further out than the present location and then migrated in over a period of ~700,000 years, which would explain the distribution of Trojans in Jupiter's orbit. The starting scenario of this hypothesis is completely different from the grand tack which states that Jupiter formed around 3.5 AU distance. It also says absolutely nothing about Jupiter and Saturn migrating further inwards and then back out due to resonance.
+Can the grand tack hypothesis be reconciled in any way from these newer studies?

@@ -1,0 +1,9 @@
+If Jupiter were to absorb all other planets in the solar system, would it reach degeneracy pressure?
+
+Jupiter's mass is about the maximum a planet can be before it starts to fuse hydrogen in its core and undergo a massive transformation. 
+Total mass of all solar system objects in question is: here.
+Jupiter is 1 Jupiter large, while the summation of all else is 0.405 Jupiter large.
+Given the mass of Jupiter and the mass of all other planets, if Jupiter were to somehow collide and "absorb" all mass from every planet in the current solar system, would it turn into a star?
+I guess that you can distill this question down to:
+If Jupiter were 1.405x more massive, would it be a star?
+Note: Still kind of new to these concepts, please explain misconceptions I may have.

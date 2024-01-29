@@ -1,0 +1,5 @@
+Theoretically could the expansion of the universe affect acceleration due to gravity?
+
+I was wondering if theoretically the universe expanding affects speed or acceleration due to gravity, compared to if space weren't accelerating. 
+The way I have it in my head, something is falling towards a planet with gravity G acting upon it. It's been falling for T amount of time and has gone X distance with Y left to go. Currently the universe is expanding, so the distance between its starting and ending point is a very tiny bit longer when it arrives than when it started, either affecting its distance traveled at time T, or its speed at time T.  Compare this to a non-expanding universe where the distance between start and end remains the same, no matter what point in time you choose. 
+I know that local gravity forces and atomic forces greatly overpower expansion forces so galaxies, solar systems, planets, and watermelons don't just fly apart. I'm just wondering if the value of either gravitational acceleration, or an object's speed could theoretically be changed slightly due to cosmic expansion.

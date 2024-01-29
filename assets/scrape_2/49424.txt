@@ -1,0 +1,5 @@
+Why didn't Kessler Syndrome prevent planet formation?
+
+In 1978, Donald Kessler proposed that space pollution in orbit around the Earth could enter a collisional cascading state.  This means debris would collide with satellites, generating more debris, causing more collisions, until the whole orbital regime was peppered with debris.  This syndrome is referred to as Kessler Syndrome.
+Kessler was inspired by modeling the evolution of our asteroid belt.
+Question: Given the highly energetic and chaotic nature of our early Solar System, why weren't all the protoplanets torn apart in collisions?  Are there other star systems surrounded by a debris field rather than planets due to the syndrome?

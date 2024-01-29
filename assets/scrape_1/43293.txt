@@ -1,0 +1,14 @@
+Asteroids conjunction
+
+I am currently writing a C++ program to show asteroids in 3D, and find close approaches or collisions. I got my orbital elements from JPL https://ssd.jpl.nasa.gov/sbdb_query.cgi. So far so good, with over a million asteroids drawn in 5ms with my old Quadro GPU
+But the problem is the variation of the elements over time. For example, CERES:
+epoch,a,e,i,om,w,ma 
+2459200.5,2.766089105818,.07816842657453,10.58789954719,80.27235841368,73.72488984426,205.5454154582
+2459310.5,2.765760313090,.07831877879848,10.58807660401,80.26860808947,73.73699886586,229.1146825391
+
+After only 4 months, the eccentricity and all other elements have changed as seen on the second line.
+How can I compute the change in the parameters without knowing their derivatives?
+Or where to get those derivatives?
+I searched all JPL small bodies site and their telnet access or email, but could not find a way to download orbital elements with derivatives or a way to compute the change.
+I am aware that the difference might be just a pixel on the screen but it represents hundreds of thousands of kilometres. What I want to do is study the close approach between the asteroids themselves and eventually near collision. I already did that for artificial satellites using SGP4 propagator using OpenCL running on GPU video card. I can propagate 20,000 satellites (include debris) in a few milliseconds and get results exact to 1 kilometre. Compare with Celestrak Socrate. A prediction of a 1,000-kilometre approach must be possible.
+Does anybody know how?

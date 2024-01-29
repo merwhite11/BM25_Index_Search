@@ -1,0 +1,4 @@
+How can I estimate a stars surface temperature, luminosity, radius, and lifetime only knowing it's solar mass and peak wavelength?
+
+For example: if a 10 solar mass star emits light at a peak wavelength of λ = 300nm.
+How can I calculate a stars surface temperature, luminosity, radius, and lifetime with this infomation?

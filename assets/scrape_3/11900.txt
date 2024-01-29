@@ -1,0 +1,3 @@
+Stratospheric Balloon with an Xray camera
+
+Some colleagues and I were planning to launch a stratospheric balloon in December. A thought occurred to me: what if we were to put some sort of xray camera in the payload? We are expecting a maximum altitude of about 80,000 feet. Would it work any better at that altitude?

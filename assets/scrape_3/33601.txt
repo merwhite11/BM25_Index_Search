@@ -1,0 +1,4 @@
+Orbital speed is (vector) sum of tangential and normal speed?
+
+Orbital speed definition in wiki does not state clearly - it is just tangential speed component or square root of squares of normal and tangential speed (full speed vector).
+When we say that moon orbital speed is 1 km per sec, we don't know its tangential speed (speed along its trajectory), right? We need some complicated math to calculate it (because of normal speed component inside that 1 km/sec orbital speed)?

@@ -1,0 +1,11 @@
+Make a guide map to comet comet Leonard C/2021 A1 using Skyfield
+
+Sky and Telescope's How Bright will Comet Leonard Get? includes the skymap and projected (possible) light curve for comet Leonard C/2021 A1 that will potentially reach +4 magnitude this month. It has an interesting trajectory in that it's passed Earth (at least) once before but this time will leave the solar system forever.
+Question: How to make a guide map to comet comet Leonard C/2021 A1 using Skyfield?
+I know that Skyfield has a simple propagator; it can extract parameters from the minor planet data center automatically then propagate them in a heliocentric orbit only, and for a finder chart for binoculars that's going to be sufficiently accurate.
+I also know that Skyfield has the ability to read in star catalogs which will make it possible to plot stars with their sizes indicating visual magnitudes.
+But I've never really done these, instead I just concentrate on the planet data that Skyfield gets from the JPL Development Ephemerides.
+ 
+We can't promise to add bounties ahead of time (there's no commit to future bounty function) but I'm a pretty heavy bountier and so I certainly hope to be able to engage in some bountification if a working script is posted.
+It should be pretty flexible, so one should be able to add the desired date, field of view (e.g. 7 for binoculars) and dimmest magnitude to plot at the top of the script and running it will show a bunch of black dots for stars and a green dot for the comet (since comets are often green).
+If one is ambitious, one could draw the trajectory for say +/- 1 or 3 days and add dots or tick marks at intervals, but that seems overly ambitious.

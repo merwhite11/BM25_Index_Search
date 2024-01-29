@@ -1,0 +1,5 @@
+Moon Images from Earth
+
+Is there a resource online of images of the moon (taken from the Earth) suitable for processing with a computer: I.e. taken with the same camera, optics, location, etc, over months/years?
+Purpose: This paper looks at reconstructing the image of the Earth by looking at earthshine on the moon, but only considers a simulation. I was wondering whether it would actually work. Also I feel that there is a lot of info that the paper didn't use (and also I wonder what some machine learning techniques might achieve). One would also need historic images of the Earth (for training the system, re cloud cover).
+If such a dataset doesn't exist, would it be something that could be collected? (the telescope clearly doesn't need to be very powerful, the photo exposure wouldn't take long, etc).

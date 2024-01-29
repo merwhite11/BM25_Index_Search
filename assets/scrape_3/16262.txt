@@ -1,0 +1,17 @@
+"Extinct Species" of meteorite - how quantitative is the statistical analysis?
+
+This recent paper in Nature A new type of solar-system material recovered from Ordovician marine limestone is available to read on line, and Figure 3 is already widely publicized.
+
+
+Comparison of Δ17O versus ε54Cr of achondrites, and ordinary chondrites fallen on Earth in recent time with Österplana 065 (Öst 65) and fossil L-chondritic meteorites Österplana 018, 029 and 032 (Öst 18, Öst 29 and Öst 32 in figure). The fields for ordinary chondrites (OC), Mars (SNCs), Earth and earth-likes, Vesta (HEDs), brachinites, ureilites, winonaites (win), acapulcoites (acp)/lodranites/ungrouped achondrites (ung) and a newly identified unique metal-rich chondrite are marked with select representative samples with available data. Symbol colours indicate meteorite type or grouping. Note that the carbonaceous chondrites and affiliated achondrites plot outside the field, with highly positive ε54Cr. The ε54Cr literature values are from refs 12, 18, 19, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, and Δ17O literature values are from refs 10, 12, 25, 30, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43.
+
+The paper is long and careful, and in any scientific field of classification, there is a huge amount of work and thought and discussion that is sometimes difficult for those outside to understand without the necessary background.
+The last two sentences of the abstract read:
+
+"...This may be the first documented example of an ‘extinct’ meteorite, that is, a meteorite type that does not fall on Earth today because its parent body has been consumed by collisions. The meteorites found on Earth today apparently do not give a full representation of the kind of bodies in the asteroid belt ~500 Myr ago."
+
+In this part of the image, without knowing a lot about meteorite taxonomy but a little bit about error bars, the image alone doesn't convince me of much at all by itself. There are good mathematical techniques to try to find clustering in data, and probably some methodologies to apply to calculate the probability that the clustering is likely to arise by random chance or is likely to be "real" (which is just another way to say - albeit loosely - not likely to arise by random chance).
+
+I'm guessing those colorized islands probably come from statistical analysis of a very large number of meteorites, but I don't know that for sure.
+Are these color islands generally accepted and their shapes published independently somewhere? Is there a plot where I can see all of the points that were used to identify these clustering? How exactly were these contours drawn?
+Finally, is there a statistical analysis using these error bars and contours that express the probability that the extinct meteorite specimen described in the paper is part of the distribution or not? Of course a number by itself is weak because of the softness of the assumptions, but is there one and if so how was it calculated?

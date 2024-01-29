@@ -1,0 +1,3 @@
+Spherical Accretion (Bondi Model)
+
+I have a question. I studied Bondi's model for spherical accretion. I know the assumptions made in the model are big and that they are rarely representative of what happens in astrophysics. What I wanted to ask is: is there a situation that suits this model even approximately, or it is a total idealization? Is there always an accretion disk, or may there be a situation where the accretion is spherical?

@@ -1,0 +1,3 @@
+Is the vernal equinox always in zenith somewhere on the equator?
+
+I'm trying to visualize the satellit orbital parameter "right ascension of the ascending node" (RAAN). Measuring the angle from the vernal equinox to the point where the satellite's orbit crosses equator from south to north makes sense, as long as the vernal equinox is always on the equator. And I suppose it usually is. But the Earth's axis precesses--how can the RAAN make any sense, if the vernal equinox is no longer directly above the Earth's equator?

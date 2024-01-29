@@ -1,0 +1,9 @@
+Why do pre-main sequence stars show lithium in absorption?
+
+This paper and this paper state without discussion that the presence of lithium absorption in the stars they observe as strong evidence of these stars being pre-main sequence stars. Because they state this without any discussion and justification, I assume that it's a commonly known and accepted fact.  The second of the two papers also state without discussion or justification that some observed strong H$\alpha$ emission was also evidence of the stars being pre-main sequence stars.
+Googling around I was able to get a partial answer for why this is so.  Pre-main sequence stars retain their primordial lithium as they collapse, but at some point around when they become main sequence stars, the lithium in their photospheres is destroyed by fusing with protons. I haven't been able to find anything describing why H$\alpha$ emission is associated with pre-main sequence stars, other than this has been known for a very long time (since before at least 1945).
+I am wondering
+
+What is it about becoming a main sequence star that causes the lithium to fuse with protons near the surface?
+How fast is the lithium destroyed, and does this destruction occur right when the star enters the main sequence?  I'm wondering how definite the presence of lithium absorption is in saying whether a star has entered the main sequence or not.
+Why is H$\alpha$ emission such a prominent feature of pre-main sequence stars?

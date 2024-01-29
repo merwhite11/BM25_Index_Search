@@ -1,0 +1,15 @@
+Why isn't IMBH candidate GW190521 very "chirpy"? Which types of events will produce the most chirp-like behavior?
+
+The first gravitational wave observations were noted for their "chirp-like" behavior; the objects would speed up as they got closer, radiating more strongly and therefore loosing energy faster. An example of a "chirp" is shown below.
+The new PRL GW190521: A Binary Black Hole Merger with a Total Mass of 150 M⊙ seems to show the first observation of the formation of an intermediate mass black hole (IMBH). The image below doesn't seem to exhibit much chirpiness compared to lower-mass mergers. For example from  P. B. Abbott et al. (2016)
+
+On September 14, 2015 at 09:50:45 UTC the two detectors of the Laser Interferometer Gravitational-Wave Observatory simultaneously observed a transient gravitational-wave signal. The signal sweeps upwards in frequency from 35 to 250 Hz...
+
+Question: Why do some gravitational wave events chirp more than others? Which ones produce the best, longest, and most obvious chirp in frequency?
+
+
+above: not very chirpy GW190521 from Abbott et al. (linked above)
+below: "chirpy behavior" from this answer and P. B. Abbott et al. PRL 116, 061102 (2016) Observation of Gravitational Waves from a Binary Black Hole Merger.
+  
+
+See also this neutron star merger

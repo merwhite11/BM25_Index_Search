@@ -1,0 +1,10 @@
+What is the Milne-Eddington Approximation?
+
+In this paper: Planet temperatures with surface cooling parameterized it states in the "radiation model" the following:
+
+The Eddington–Milne approximation relates $T_0$ and $T_e$ through the
+gray IR optical depth $\tau$:
+$T_0=T_e(1+\frac{3}{4}\tau)^{0.25}$
+
+I looked this approximation up on google, and found it was more commonly known as the Milne-Eddington Approximation. However, this approximation seems to (mainly) be applied to stars, and I can't exactly see the connection between it and the temperature of a planet. (I also don't completely understand what an "optical depth" is.)
+What is this approximation and why can it be applied to approximate the temperature of a planet with an atmosphere?

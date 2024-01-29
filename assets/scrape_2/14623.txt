@@ -1,0 +1,13 @@
+Equation for solar radiation at a given latitude on a given exoplanet?
+
+I'm trying to find equations that would help me determine the amount of solar radiation hitting a certain latitude on a certain planet given the following inputs:
+
+the degrees of latitude of the location in question
+this hemisphere's current season (winter or summer)
+size of the planet
+luminosity of the star(s) the planet orbits
+
+Without taking into consideration wind, air pressure, or any atmospheric effects.
+Ideally I would like to determine the average solar radiation of a given location in both the winter and summer. 
+My end goal is to determine the average surface temperature of a given latitude on a planet using the base solar radiation and the effects of wind, air pressure, and surface ocean currents.
+I know it is possible to do this for the entire planet generally, but I would like some way of doing it for a particular latitude and season.

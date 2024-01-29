@@ -1,0 +1,4 @@
+What method is used to calculate the 'quality' of a solar/planetary image?
+
+What sort of algorithm is used to calculate the relative quality of an image, such as is performed by PIPP, Registax, or Avistack? 
+Such applications take planetary or solar images and prior to stacking and sharpening, they can optionally select the best images. When looking at images to see which have been selected by the algorithms, I sometimes see images that I wouldn't have selected. This has piqued my curiosity as to what methodology is employed in ranking or grading the images. With a bit of a primer to understand the concepts, I would like to put some thought into how such algorithms might be improved...

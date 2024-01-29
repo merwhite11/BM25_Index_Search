@@ -1,0 +1,5 @@
+What's the actual speed of electromagnetic radiation in space?
+
+The speed of EM radiation is very slightly less than $c$, because space is not quite a vacuum.  Say EM travels at $(1-\varepsilon)c$.
+For example, this results in a slight delay between receiving a gravitational wave and detecting an associated EM emission from the body that caused it.  For an object about 130 million light years away (GW170817) I've seen this delay quoted as everything from $1.74$ seconds (so $\varepsilon\approx 4\times 10^{-16}$) to 27 minutes (so $\varepsilon\approx 4\times 10^{-13}$).  I'm sure these figures depend on all sorts of interesting astronomy to do with black hole mergers and gamma ray bursts, but the actual value of $\varepsilon$ doesn't need to know any of this.
+So I'm asking here because anyone working on LIGO must surely know our best estimate for the value of $\varepsilon$.

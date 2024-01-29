@@ -1,0 +1,5 @@
+Understanding "dex"
+
+Hi I am trying to understand the concept of dex and how to use it in calculations. The usual definition is that it is the order of magnitude, so $10^{0.1}$ is $0.1$ dex. 
+I want to do a simple exercise of calculating the value of the RHS of Eqn 4 in this paper arxiv paper, the gammas are incomplete gamma functions and the value of $\alpha$, $\phi_∗$ and $M_∗$ are given in table 2. The units of $\phi_∗$ is $h_{70}^3$ Mpc$^{−3}$ dex$^{−1}$. The value of the integral is given in the following paragraph as $5.06×10^5 h_{70}^3$ $M_⊙$ Mpc$^{−3}$ (let's take only the first one). If I substitute the values from table 2 to the RHS of Eq 4 and then calculate I get $7.58 × 10^5$ $h_{70}^3$ Mpc$^{−3}$ dex$^{−1}$ . What do I do with the dex$^{-1}$? Is it because of the dex$^{-1}$ I am a little off? 
+EDIT 1: Does the $d(\log(M_{bh}))$ in the integral take care of the $\rm{dex}^{-1}$, and my little off answer is due to rounding errors?

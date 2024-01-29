@@ -1,0 +1,22 @@
+How often and for what reasons does Hubble use two different instruments at the same time?
+
+A comment under this answer to ** links to Hubblesite.org's Hubble Shoots the Moon The image, its description and credits are shown below.
+As explained, the purpose of the observation was to record a detailed spectrum of attenuated sunlight via its diffuse reflection from the Moon. I seem to remember a more recent effort to record the spectrum of the reddish brown light reflected from the Moon during a lunar eclipse where sunlight passes through Earth's atmosphere as a way of simulating exoplanet atmospheric analysis during transits of their stars, but I am not sure if this is a related precursor or not.
+Anyway. What I find interesting is
+
+The image was taken while the Space Telescope Imaging Spectrograph (STIS) was aimed at a different part of the moon to measure the colors of sunlight reflected off the Moon.
+
+I remember seeing a map Hubble's primary focal plane showing that most of it is empty, wasted space, and each of the instruments -- including the cameras! -- "pick off" a small bit for itself. That means that light from different parts of the sky can simultaneously enter different instruments; we can project the map of the focal plane back to the celestial sphere. With a focal length of 57.6 m that means every centimeter at the focal plane is about 36 arcseconds.
+For more about that see answer(s) to How many science instruments can be used in parallel with the Hubble Space Telescope?
+Okay so what's my question again?
+According to this description, while the Space Telescope Imaging Spectrograph (STIS) was collecting data from one part of the Moon, the Wide Field Planetary Camera 2 was also snapping pics of the lunar surface.
+Question: How often and for what main reasons does Hubble use two different instruments at the same time?
+
+
+About This Image
+In a change of venue from peering at the distant universe, NASA's Hubble Space Telescope has taken a look at Earth's closest neighbor in space, the Moon. Hubble was aimed at one of the Moon's most dramatic and photogenic targets, the 58 mile-wide (93 km) impact crater Copernicus.
+The image was taken while the Space Telescope Imaging Spectrograph (STIS) was aimed at a different part of the moon to measure the colors of sunlight reflected off the Moon. Hubble cannot look at the Sun directly and so must use reflected light to make measurements of the Sun's spectrum. Once calibrated by measuring the Sun's spectrum, the STIS can be used to study how the planets both absorb and reflect sunlight.
+(upper left) The Moon is so close to Earth that Hubble would need to take a mosaic of 130 pictures to cover the entire disk. This ground-based picture from Lick Observatory shows the area covered in Hubble's photomosaic with the Wide Field Planetary Camera 2.
+(center) Hubble's crisp bird's-eye view clearly shows the ray pattern of bright dust ejected out of the crater over one billion years ago, when an asteroid larger than a mile across slammed into the Moon. Hubble can resolve features as small as 600 feet across in the terraced walls of the crater, and the hummock-like blanket of material blasted out by the meteor impact.
+(lower right) A close-up view of Copernicus' terraced walls. Hubble can resolve features as small as 280 feet across.
+CREDITS: John Caldwell (York University, Ontario), Alex Storrs (STScI), and NASA

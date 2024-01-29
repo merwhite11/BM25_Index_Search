@@ -1,0 +1,7 @@
+Wavelength Calibration in Python - Line Identification algorithm
+
+I was asked to develop a data reduction pipeline for a telescope and am facing a problem. 
+I have the standard lamp spectra and need to identify the emission lines in order to find a wavelength solution to apply to the spectra taken.
+I managed to find the signal peaks and calculate their centroids, I am unsure - however - of how to match the centroids I found with a list of the emission lines of the lamps.
+I basically have to do what "Identify" in IRAF does, but in python. I know there have been some packages that do that (like specutils), but they are outdated and recall deprecated libraries.
+Any tip on where to go or what to do to have a centroid-wavelength match would be greatly appreciated.

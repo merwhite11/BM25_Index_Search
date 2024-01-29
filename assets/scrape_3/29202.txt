@@ -1,0 +1,9 @@
+Possibility of certain conditions on a planet
+
+I want to know if there can be any planet that can fulfill the following conditions and if any planet has been observed with such characteristics:
+
+The planet must not be tidally locked.
+The day-night cycle must be similar to our planet or smaller.
+The planet must be so close to the star that the light emitted from the star 'burns' (can cause third degree burns to human skin within seconds after exposure).
+Temperatures in the shadow cannot exceed 40-50°C (whether prolonged shadow during daytime or conditions during nighttime).
+Atmosphere is not necessary.

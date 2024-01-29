@@ -1,0 +1,4 @@
+Can a terrestrial planet orbit an icy planet (or vice versa)?
+
+I know that the composition of planets is dependant on the equilibrium temperature at its orbit - for example, if below a certain temperature, water and other volatiles become solid, allowing them to accrete to form an ice planet or ice giant.
+Is it possible for such an ice planet to be orbited by a moon of a different composition?

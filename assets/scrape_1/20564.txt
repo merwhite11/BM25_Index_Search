@@ -1,0 +1,7 @@
+Does the observed period of a pulsar change with the time of year?
+
+Over in the Physics SE a question was posted asking about the difference in the time dilation of the Earth between perihelion and aphelion:
+Does Earth experience any significant, measurable time dilation at perihelion?
+Rather to my surprise it turns out that because of the changes in the Earth-Sun distance and the Earth's orbital velocity there is a difference of about $60\mu$s per day between the two extremes.
+A commentator pointed out that pulsars can be measured accurately enough to detect this difference. However I have never heard of a pulsar measurement having to be corrected for the time of year, and Googling has found me nothing related. I would be interested to know if this is something that needs to be considered.
+The difference is slightly over one part in $10^9$, so presumably it depends on whether pulsars can be timed this accurately.

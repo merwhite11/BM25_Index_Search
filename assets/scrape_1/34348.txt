@@ -1,0 +1,7 @@
+How can I hear (or at least detect) a pulsar at home?
+
+Scott Manley's video Using Relativistic Raytracing &X-Rays To See Detail on Surface Of Neutron Star talks about X-ray measurements using the NICER X-ray telescope attached to the International Space Station (Wikipedia, in SE: 2 & 3), results which can also be read about in arXiv and these recent papers. Since I'm on Earth I'll need to use radio waves instead.
+I understand the signal will be weak and below the noise for a small setup so I'll have to collect a lot of data and do some type of folding analysis. But before I can even make an estimate of signal and noise levels I'll need to choose a few "strong" pulsars and go look up their radio spectral distribution and compare it to thermal and and sky noise spectra.
+Also based on frequency I can then know better what kind of antenna can be used; if I can get away with an array of wires like the early days or I'd need a dish.
+Is there something like a "Top 10 pulsars of all time" site which has a characterization of some "popular" objects that may have strong signals that would also list their period?
+Are there other issues I might not have thought about yet?

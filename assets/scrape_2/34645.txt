@@ -1,0 +1,13 @@
+How much higher is the radiation around Jupiter than at Chernobyl, after the explosion?
+
+I suppose the radiation levels are higher at Jupiter, but how much? Would the Juno probe have been able to "operate" on the Chernobyl roof in $12\,000\, {\rm Roentgen/hr}$?
+After watching the short series Chernobyl, I was curious how the radiation levels compare with that around Jupiter (generally), and what the Juno probe in particular have to withstand, but I couldn't directly compare the numbers I found.
+In the Chernobyl accident, the reactor explosion causes pieces of graphite to fall on the roofs of the reactor building, and they describe that they can't push them off with remote-control machines because the radiation damages the circuits.
+In the series, the value given for the most dangerous roof is $12\,000\, {\rm Roentgen/hour}$.
+The Juno probe's radiation vault is a titanium box with ${\rm 1.75cm}$ thick walls, and the article says
+
+But this orbit would still expose an unprotected probe to a radiation
+dose of more than 20 million rads [...] over the course of its mission.
+
+The mission was planned for 14 Earth months but the probe only spends short periods of time around Jupiter.
+Perhaps someone has an idea how to fill in the gaps and help to make a comparison.

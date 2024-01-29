@@ -1,0 +1,6 @@
+How to I calcuate observed position of the Sun and Moon using the SOFA C library?
+
+There are a number of answers on here that skirt the topic, but no concrete answers.
+I currently have an implementation based on "Astronomical Algorithms by Jean Meeus" for stars, moon, and sun written ~2007. The stellar positioning is not accurate enough for my upcoming application so I switched that over to the SOFA library (very easy and straight-forward). Just take catalog data drop it into a magic function and BOOM you have RA and Dec.
+I am currently attempting to replace the rest of the Meeus algorithms with the SOFA library and am finding my knowledge lacking and the size of the SOFA library overwhelming.
+From what I have found, the epv00 heliocentric coords can be reversed somehow to get geocentric coords of the Sun. How would that be done and is that GCRS? Which I can then use for the standard GCRS->observed chain from the cookbook? If that is not GCRS, can I make it GCRS? Should I?

@@ -1,0 +1,5 @@
+Is the turn-off point of the main sequence the same as the terminal-age main sequence?
+
+The turn-off (TO) point is one tipping point on the Hertzsprung-Russell diagram (HRD) where low-mass stars start to evolve from the main sequence (MS) toward lower temperatures. If I understand it correctly, this is the beginning of the sub-giant phase when the stars no longer have hydrogen burning at the core.
+The definition above suggests that the TO point is the same as the terminal age main sequence (TAMS), however, I have not found a source that explicitly states so.
+Is the TO point the same as the TAMS?

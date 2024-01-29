@@ -1,0 +1,4 @@
+What would cause large jumps in brightness during a solar eclipse?
+
+
+This question on Physics SE about apparent brightness during a solar eclipse has a log-scale graph of light intensity versus time.  Parts of it are the shape I'd expect: a nearly-smooth curve going from "extremely bright" to "very dim".  However, there's a great deal of apparent noise in the graph, with jumps of nearly a full division in the graph (corresponding to about a two-fold or eight-fold change in brightness, depending on if it's a natural or base-10 log).  What causes these jumps?

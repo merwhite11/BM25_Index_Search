@@ -1,0 +1,3 @@
+How fast do the poles of Jupiter and Saturn precess?
+
+As Jupiter and Saturn have very fast rotation periods, about 10 and 11 hours, respectively, I am assuming that their poles will precess much faster then Earth. Since Earth's poles precess every 26000 years, I think Jupiter and Saturn would have a precession time of about ~10000 years or so. Is this estimate correct or am I way off?

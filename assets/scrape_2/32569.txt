@@ -1,0 +1,8 @@
+How could the polarizer in early coronagraphs make the Sun's corona more visible against the daytime sky?
+
+Wikipedia's Coronagraph; Invention says:
+
+High Altitude Observatory's Mark IV Coronagraph on top of Mauna Loa, uses polarization to distinguish sky brightness from the image of the corona: both coronal light and sky brightness are scattered sunlight and have similar spectral properties, but the coronal light is Thomson-scattered at nearly a right angle and therefore undergoes scattering polarization, while the superimposed light from the sky near the Sun is scattered at only a glancing angle and hence remains nearly unpolarized.
+
+How does this work? 
+For example, I looked at the daytime sky through a polarizing filter and I didn't notice substantial sky darkening? How could a polarizer have darkened the sky sufficiently to make the solar corona more visible?

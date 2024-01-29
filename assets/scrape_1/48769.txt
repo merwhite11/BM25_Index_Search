@@ -1,0 +1,4 @@
+How do I find thermal doppler line broadening for a K Ca II line in a star at 3000K?
+
+If the wavelength of K Ca II is 393,4 nm and the weight of a calcium atom is  6.66e-26 kg, then how do I find Δλ?
+This is what I've tried so far:

@@ -1,0 +1,30 @@
+Why do gravitational waves travel "only" at the speed of light but the gravitational scalar potential is instantaneous?
+
+To my old Space SE question Besides retarded gravitation, anything else to worry about when calculating MU69's orbit from scratch? @DavidHammen's excellent answer replies that one should not add a time delay to gravitational effects based on distance when calculating orbits.
+This lead to my and others' answers to How to calculate the planets and moons beyond Newtons's gravitational force? which explain that we can approximate GR effects with the following:
+
+$$\mathbf{a_{Newton}} = -GM \frac{\mathbf{r}}{|r|^3},$$
+
+
+Although I'm not familliar with GR, I'm going to recommend an equation that seems to work well and seems to be supported by several links. It is an approximate relativistic correction to Newtonian gravity that is used in orbital mechanics simulations. You will see various forms in the following links, most with additional terms not shown here:
+
+https://physics.stackexchange.com/q/313146/83380
+Eq.    1 in https://www.lpi.usra.edu/books/CometsII/7009.pdf
+Eq.   27 in https://ipnpr.jpl.nasa.gov/progress_report/42-196/196C.pdf
+Eq. 4-26 in https://descanso.jpl.nasa.gov/monograph/series2/Descanso2_all.pdf
+also see David Hammen's discussion/advice in this answer.
+Eq. 3.11 in http://adsabs.harvard.edu/full/1994AJ....107.1885S (click "print") see this answer
+Eq. A.8 in G. F. Rubilar1 & A. Eckart 2001 Periastron shifts of stellar orbits near the Galactic Center, except that the $\mathbf{r}/r^3$ Newtonian is included rather than treated separately.
+Eq. 2 in M. Parsa et al. 2017 Investigating the Relativistic Motion of the Stars Near the Supermassive Black Hole in the Galactic Center, except that the $\mathbf{r}/r^3$ Newtonian is included rather than treated separately.
+
+The following approximation should be added to the Newtonian term:
+
+$$\mathbf{a_{GR}} = GM \frac{1}{c^2 |r|^3}\left(4 GM \frac{\mathbf{r}}{|r|} - (\mathbf{v} \cdot \mathbf{v}) \mathbf{r} + 4 (\mathbf{r} \cdot \mathbf{v}) \mathbf{v} \right)$$
+Below this answer to Is the zero gravity experienced in ISS the “artificial” kind? I was scolded for saying "gravity moves at the speed of light" and told that in GR the scalar gravitational potential is instantaneous. It seems that I'd embraced that in my answer quoted above, but lost track of that after thinking about the finite speed of gravitational waves.
+Question:  Why do gravitational waves travel "only" at the speed of light while at the same time the gravitational scalar potential is instantaneous?
+My thoughts on this so far:
+If one stands near a pair of bodies orbiting around their center of mass with angular frequency $\omega$ and holds a sensitive accelerometer and plots the Fourier transform of the signal, one will see peaks at (at least) $\omega$ and $2 \omega$ with the relative intensities depending on distance and mass ratio.
+If I put a bead on a lossy stick, I could extract energy from that.
+But to my understanding, this is not Feynman's famous "bead on a stick" argument that gravitational waves have energy. So I'm thinking that there would not be a distance $d$-dependent $d/c$ delay for this signal.
+But Feynman's bead on a stick gravitational wave energy extractor would show a $d/c$ delay.
+Have I got this right so far?

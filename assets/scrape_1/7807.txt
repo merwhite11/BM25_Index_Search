@@ -1,0 +1,4 @@
+If Jupiter is a gas-giant then why don't its features change?
+
+A naive question. When we look at Jupiter, we see that its features didn't change largely over many years, for instance, the red-spot. If it is composed of gases and liquids, then why aren't the effects of mixing of these fluids visible?
+My intuition is that due to very low temperatures ($-145\, ^{\circ}$C), diffusion of fluids doesn't occur and therefore the superficial appearence of Jupiter remains the same.

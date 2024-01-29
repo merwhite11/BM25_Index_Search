@@ -1,0 +1,6 @@
+What is the maximum number of planets in the habitable zone?
+
+At present, it seems like we are alone in our solar system. How many earth-like planets would fit into the habitable zone of the solar system? 
+The orbits should be stable for quite a time, i.e. for life to evolve, let's say 4.6 billion years.
+The habitable zone may be estimated from 0.725 to 3.0 astronomical units, according to Wiki.
+Could one use perturbation theory to answer this?

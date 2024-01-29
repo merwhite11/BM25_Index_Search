@@ -1,0 +1,12 @@
+How was the time of equinox measured in ancient times?
+
+In the book "The Crime of Claudius Ptolemy" by Robert Newton, on page 81, it reads as follows:
+
+When we measure the time of a solstice, we measure the time when the
+  meridian elevation angle of the sun has an extreme value, a maximum in
+  the summer, and a minimum in the winter.... When we measure the time
+  of an equinox, on the other hand, we measure the time when the
+  meridian elevation takes on a specified value.
+
+What does he mean by a "specified value". What specified value?
+Also, how would the ancients have determined the time of the maximum, or the specified value? Time devices in ancient Greece, like water clocks, I suppose would have significant errors. Would they just start the water clock when the sun rose, then marked its level when the "specified value" occurred? That method would seem to have a lot of error.

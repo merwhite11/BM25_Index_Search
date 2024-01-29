@@ -1,0 +1,10 @@
+Why is the opening in the Anglo-Australian Telescope's dome so small?
+
+Many older or "classic" telescope domes have a horizon-to-zenith opening in the dome, and this helps speed up the thermal equilibration between the inside and outside air, decreasing turbulence and its effects upon resolution.
+
+Source
+
+Source
+But the Anglo-Australian Telescope has second mechanism that tightly constrains the vertical extent of the opening as well, leaving just a tiny hole barely big enough for the telescope to see the sky.
+What are the benefits of each of these, and how do the minimal aperture domes deal with temperature differences?
+below: Screen shot from the video A 2dF night at the Anglo-Australian Telescope found here.

@@ -1,0 +1,22 @@
+How to "slice" a fits table in astropy?
+
+I have imported my fits table, hdul0, into python. I'm using astropy.table. I opened it with hdul0 = fits.open('filename').  
+hdul0data = Table(hdul0[1].data)
+
+I have then made a scatter plot of two columns in the table, HDA and OII. I have made a cut-out region on the plot (a short vertical line and then an upwards sloping line from there), and I would like to select the points under that line, like slice them from the original fits table and move the slice into another fits table that I then save. This is what I have done, but it is not working.
+x = hdul0data['HDA']
+y = hdul0data['OII']
+x1 = [2.5, 2.5] #the x values of the vertical line cut 
+y1 = [0.0, 2.5] #the y values of the vertical line cut 
+x2 = [2.5,16.0] #the x values of the sloping cut 
+y2 = [2.5, 16.5] #the y values of the sloping cut  
+
+slopy = np.interp(x, x2, y2)
+myslice = np.where((x > 2.5) & (y < slopy))[0]
+
+The error message I get is "RuntimeWarning: invalid value encountered in greater" (and the same for less). 
+Can anyone help? How do I slice my table and get the selected points into a new fits file? I think maybe part of the issue is that some of the data points in the HDA and OII columns are NaN, but I don't know how to get rid off it. I read I could use masked, but then I read it might not work with numpy. 
+EDIT: 
+Sample values of x and y: 
+x = [1.0, 6.2, 10.4, NaN, 2.8, NaN, 7.0] 
+y = [10.3, NaN, 18.0, 22.9, 2.5, NaN, 31.8]

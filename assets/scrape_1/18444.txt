@@ -1,0 +1,15 @@
+V471 Tauri's circumbinary brown dwarf non-observation; Applegate, or over-restrictive assumptions?
+
+tl;dr Has the brown dwarf observation been disproven?
+I have just started reading about the interesting object V471 Tauri. The first two sentences of the introduction to The V471 Tauri System: A Multi-datatype Probe Vaccaro et al. (2015):
+
+V471 Tau, a white dwarf-red dwarf eclipsing binary (EB) in the Hyades with orbit period $0^d.52118$, is primarily known for its unique historical role as a stimulus to common envelope evolution theory (Chau et al. 1974; Refsdal 1974; Sparks & Stecher 1974; Ostriker 1976; Paczynski 1976; Alexander et al. 1976; Taam et al. 1978). Other properties include a likely brown dwarf companion to the EB, measured white dwarf spin, mass loss and exchange in a detached binary, differential rotation measured via magnetic spots, spot distributions, accurate white dwarf parameters, and photometric-spectroscopic distance measures that help to pin down the binary’s location within the Hyades.
+
+It's the "likely brown dwarf companion" I'd like to ask about. The paper with the catchy title "The First Science Results from SPHERE: Disproving the Predicted Brown Dwarf around V471 Tau" Hardy et al. (2015) SPHERE is a new, advanced adaptive optics system at the Very Large Telescope (VLT). The image below (figure 3) is part of the argument, and the suggestion is that if there is no brown dwarf seen in the band between the two white circles, then the predicted brown dwarf does not exist.
+This would be interesting, because an alternative explanation for the slow, periodic drift in the eclipse timing would have to be found. One possibility is the Applegate Mechanism which I don't understand, but may ask a separate question after this.
+Back to Vaccaro 2015, section 9, titled "On the Reality of the Third Star" is over six pages of discussion of the underlying assumptions, and if I understand it correctly provides several possible ways in which a suitable brown dwarf could exist but not show up in the SPHERE image. In essence disproving the existence disproof.
+I would like to know: Is my understanding of the current situation correct? Have there been more recent developments? 
+
+above: Left panel of Fig. 3 of Hardy et al. 2015: "Figure 3. H-band image of V471 Tau obtained on the SPHERE IRDIS instrument at the VLT. Left panel: Resulting image after angular differential imaging (ADI). The area in-between the white circles denotes the 5 sigma predicted position of the brown dwarf..."
+
+above: The monster currently known as SPHERE from here.

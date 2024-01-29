@@ -1,0 +1,6 @@
+Would a system consisting of Earth and Venus orbiting around a common center be stable in the long-term?
+
+Earth and Venus and very close to each other in mass and would both orbit around a point in space positioned almost perfectly in between the two.
+Assume that this system is 1 AU from the Sun and the distance between Earth and Venus is the same as the distance between the Earth and the Moon. Would this system be stable in the long-term?
+Both planets would very likely be tidally locked to each other, but I'm not sure if that would have any impact on stability.
+PSA: I only used Venus and Earth because they're very close to each other in mass. What I'm really curious about is if a double planet consisting of 2 components very similar in mass can be stable in the long-term.

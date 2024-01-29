@@ -1,0 +1,21 @@
+can we calculate the velocity of galaxies at the edge of the observable universe?
+
+I read this post
+Does the edge of the Universe travel faster than the speed of light?
+but there was no calculation, so I tried it thusly:
+The observable universe is 28.5 Gpc (gigaparsecs)
+= 28500 Mpc (megaparsec)
+https://www.google.com/search?q=diameter+of+the+observable+universe&oq=diameter+of+the+observable+universe&aqs=chrome..69i57.6887j0j7&sourceid=chrome&ie=UTF-8
+The Hubble constant is 67.4 or 70 km/s/megaparsec.
+https://www.nasa.gov/feature/goddard/2019/new-hubble-constant-measurement-adds-to-mystery-of-universe-s-expansion-rate
+I’ll use the older value 67.4
+v=H x D = 28500 Mpc * 67.4 km/s Mpc = 1,920,000 km/s = 1.9 x 10^9 m/s
+speed of light 2.998 x 10^8 m/s
+So the velocity of expansion at the edge of the universe is >6x greater than the speed of light?
+I read these posts
+https://physics.stackexchange.com/questions/107748/how-are-galaxies-receding-faster-than-light-visible-to-observers
+So where are these measurements of galaxies moving faster than light?
+and this
+https://arxiv.org/pdf/astro-ph/0011070v2.pdf
+From the arxiv paper, I get that galaxies can be receding at 3c based on GR, but my simple calculation comes up with 6c.
+Can someone help me reconcile my curiosity with the facts?

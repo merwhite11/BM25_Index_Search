@@ -1,0 +1,5 @@
+Save current state in ds9?
+
+After fooling around with a FITS file(s) (e.g. setting scale, changing color) is it possible to save the session such that there is a file associated with all those tweaks the next time I open it up? 
+Save and Save Image just seem to keep whatever I set it to, but when I load those new saved files back into ds9 the settings are all back to whatever default load settings I have enabled.
+I would also like to be able to do this if I have FITS files loaded into multiple frames so I don't have to go through the process of loading each individual image.

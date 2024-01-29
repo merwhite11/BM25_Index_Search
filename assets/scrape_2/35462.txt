@@ -1,0 +1,4 @@
+How small can a spiral galaxy be?
+
+The smallest observed spiral galaxies I can find are NGC 2976 and NGC 4605, both with a diameter of 20 kly, but I don't have anything like an exhaustive source to search. I've also found a mention that the Small Magellanic Cloud (7 kly diameter) might have had more spiral structure before it was distorted by the Milky Way.
+From looking at these galaxies, spiral structure seems to be less clear the smaller the galaxy is, which makes me think there might not be a clear lower limit. Still, I'm curious how small a galaxy with recognizable spiral structure could be, either based on observations or theory.

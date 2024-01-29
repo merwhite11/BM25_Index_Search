@@ -1,0 +1,12 @@
+Why are the ALMA receivers' ADCs only 3-bits?
+
+
+above: Table 1 from Performance Highlights of the ALMA Correlators
+The ALMA receivers use 3-bit ADCs for what would seem to be to be a high dynamic range application needing much finer quantization to get anything useful.
+Then I found these sentences within the abstract of ADC bit number and input power needed, in new radio-astronomical applications:
+
+Abstract- For the most part, so far radio astronomy observations have been performed in protected frequency bands, reserved by ITU for scientific purposes. This means that, ideally, only the amplified equivalent system noise is present at the end of the receiver chain (i.e. the ADC input). So, typically, only a few bits are necessary to describe the signal (VLBI signals are digitised with only 2 bits), but today astronomers, in order to get more sensitivity and to boldly observe where no one has observed before, would like to study the radio sky even outside the protected bands... 
+
+And I even found a 1-bit ADC in Performance Measurements of 8-Gsps 1-bit ADCs Developed for Wideband Radio Astronomical Observations.
+I think I am just missing something obvious, but I can't understand how a measurement requiring high dynamic range gets by using few-bit ADCs.
+edit: Is it possible that the actual conversion of analog to digital is done to a far higher precision than suggested by the number of bits?

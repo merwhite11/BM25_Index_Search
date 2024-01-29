@@ -1,0 +1,9 @@
+Angle between earth's angular momentum and earth's axis
+
+I think this picture is correct because for earth astronomical day is slightly shorter than solar day. (Is it a rule of thumb for planets? Where can I read such data?)
+ Source
+So the angle between earth's angular momentum and earth's axis(from south pole to north pole) is 23.5° and not a (180°-23.5°).
+That is why observer is standing on the sun in the next picture. And the break in circle-shaped arrows is closer to the sun, then the rest of arrow.
+Am I right? Thanks!
+
+Source

@@ -1,0 +1,8 @@
+What do the fusing 'onion layers' of a pre-supernova star look like to scale?
+
+I'm sure we've all seen the diagrams of various layers of element fusion from hydrogen to silicon in a star that's just about to go supernova.
+
+(Picture from courses.lumenlearning.com)
+I suspect these pictures grossly exaggerate the relative radii at which these fusing layers occur for the sake of readability. What would a more accurate to-scale picture of these fusing layers look like?
+Now, I assume the answer will vary significantly based on the mass of the star, and I suspect in certain mass regimes some layers will not be fusing at all. I can think of a few other variables that may affect the answer too.
+So in CYA fashion, I'll leave it up to the answerer to identify specific illustrative or interesting cases, as I'm not after a specific answer but rather a general feel for how large some of the layers are in comparison to the others.

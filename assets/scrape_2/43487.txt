@@ -1,0 +1,7 @@
+What is the theoretical maximum variability a pulsating red giant can have such that a habitable planet can stay habitable for long periods of time?
+
+I was reading about red giants and came across this statement:
+
+Some research suggests that, during the evolution of a 1 M☉ star along the red-giant branch, it could harbor a habitable zone for several billion years at 2 astronomical units (AU) out to around 100 million years at 9 AU out, giving perhaps enough time for life to develop on a suitable world.
+
+Red giants have luminosities of $\sim 3000 L_\odot$. According to the inverse square law, the habitable zone must be $1^{+1.5}_{-0.2} \cdot \sqrt{3000} \approx 54.772^{+82.158}_{-10.954} \text{AU}$ away from the star. If the star is exhibiting variability, its luminosity may change by about/over $50\%$. This will make the habitable zone vary by a factor of $2\sqrt{0.5}=\sqrt2 \approx 1.414$. So do any stable orbits (in terms of habitability) exist for planets orbiting such a red giant star, assuming the variability timescale is within the orbital period of such a planet?

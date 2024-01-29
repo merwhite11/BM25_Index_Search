@@ -1,0 +1,8 @@
+Pointing direction movement of a fixed camera
+
+first doubt here:
+I have a fixed camera, whose coordinates I know, pointing to the sky. After the first image, I performed a astrometry calculation from nova.astrometry.net and I got, among other things, the Ra and Dec of the center of view. I would like to use the calibration information for other pictures without needing to calibrate again, e. g. copy the calibration info and just update Ra and Dec of the next pictures. 
+I thought I could do so transforming the Ra and Dec to Az and Alt using the Julian Date of the first event(the calibrated one), and then go back to Ra and Dec using the Julian Date of the second event. But I get wrong results. I tried between different pictures and sometimes the error is bigger some time smaller.
+I am using the functions eq2hor and hor2eq of Astrolib (IDL), which takes in account precession and nutation, so I assume than there is a gap in my knowledge and procedure, rather than a programming mistake. 
+What am I doing wrong? 
+Thanks in advance

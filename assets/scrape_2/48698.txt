@@ -1,0 +1,43 @@
+S/N binning of 2D spectral galactic data
+
+I have the 2D spectrum of the ellipical galaxy NGC 4697 taken by a long slit spectrograph. The x-direction (horizontal) corresponds to wavelength and the y-direction (vertical) corresponds to distance from the center of galaxy, while the brightest row in the middle, is the central region of the galaxy where the radius equals 0. Since the S/N ratio gets worse the further I go out (increase y), I want to bin rows with a worse S/N outside the center together to achieve a better S/N, the binned 1D spectra, I want to use for kinematical spectral analysis later.
+ def calc_signal_noise(lam, flux):
+    '''calculate the signal to noise ratio of the galaxy spectra'''
+    # cut out part of the spectrum without absorption features
+    flux_section = flux[(lam >= 8.6075) & (lam <= 8.62)]
+    lam_section = lam[(lam >= 8.6075) & (lam <= 8.62)]
+    # fit polynom to the data in this part
+    pol_coeff = np.polyfit(lam_section, flux_section, 5)
+    pol_val = np.polyval(pol_coeff, lam_section)
+    # calculate the rms error
+    rms_error = np.std(pol_val-flux_section)
+    signal_noise = np.median(flux_section/rms_error)
+    return signal_noise
+
+This is the function that calculates the S/N ratio, I now want to write a function which bins my rows until I get the desired S/N of about 50.
+ def bin_spectra(data, cent_row, S_N_lim):
+    """ bin spectra for different radii to achieve similar S/N for each binned spectra"""
+    # variables:
+    # data = 2 dimensional spectral data, where x-dir=wavelength and y-dir=distance from center, in our case data_gal
+    # cent_row = int vor y-value (radius = 0 )
+    # S_N_lim = minimal S/N ratio needed for spectral analysis
+    # split data i
+    data_upper = data()
+    data_lower
+    # Do I use the same wavelength array for all rows ?
+    # extract 1D-spectrum for central row
+    # take mean of more then 1 row to achieve better S/N ratio
+    flux_gal_cent = data_gal[cent_row, :]  # first look on spectra in SAOImage ds9, row 597 corresponds to a central region
+    w_gal = WCS(hdr_gal, naxis=1, relax=False, fix=False)
+    loglam_gal = w_gal.wcs_pix2world(np.arange(len(flux_gal)), 0)[0]
+
+    S_N = calc_signal_noise(loglam_gal, flux_gal_cent)
+
+I am not sure how to complete this. I wanted to start from the central row and then bin rows upper and lower from the central row independently. If my binned/averaged over rows achieve a S/N of about 50 I want to store the flux, the wavelength, the S/N and the radius from the central row in a txt file.
+I have an idea how to average over multiple rows :
+flux_gal = np.mean(data_gal[n_row1:n_row2,:], 0) to get the mean of rows n_row1 through (n_row2 - 1)
+
+and I know how to calculate the radius for multiple rows:
+radius = (n_row_center-np.mean(n_row1, n_row22))*0.2  #output in arcseconds
+
+but I cant string it together into one coherent function. Any tips/suggestions how to approach this?

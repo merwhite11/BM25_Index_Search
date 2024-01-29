@@ -1,0 +1,3 @@
+If a star were to suddenly lose nearly all of its stored heat, would it be able to return to its normal state?
+
+If not, would it be possible to approximate the maximum heat energy a star could lose before the change became irreversible?

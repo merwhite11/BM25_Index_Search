@@ -1,0 +1,14 @@
+What's the formula of SNR (Signal to Noise Ratio) to dipole antenna array (eg, LOFAR) look like?
+
+It was wellknown that the SNR of single dish telescope reads
+$$s/n=P_s/P_n=\frac{P_s}{T_n}\sqrt\frac{t}{B},$$
+where $P_s$
+is the collected power, $T_n$
+the noise temperature, $t$
+the measure time and $B$
+the bandwidth. When it comes to the array of multiple dish telescopes, like SKAO, that will change to
+$$s/n=P_s/(\sqrt{N}P_{n,signal})$$
+where $N$
+indicates the number of telescopes.
+Recently, I meet across with LOFAR, an telescope project with many stations that each consists of multiple dipole antennas. So, does it appropriate for me to treat the SNR of it like that of SKAO? (I think the difference between dish and diplole makes it impossible to use the equation above. )
+But note that I'm not interested in sensitivity in webpage : LOFAR Imaging capabilities and sensitivity.

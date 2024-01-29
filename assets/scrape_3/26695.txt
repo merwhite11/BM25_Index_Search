@@ -1,0 +1,5 @@
+Do all orbiting objects have barycenters?
+
+From the simple perspective of someone like myself, it appears that our sun is "fixed in place" (from the perspective of the solar system itself) and that everything else of lower mass orbits around it.  I suspect that the sun wobbles due to the other objects (that the barycenter is either near it or within its radius).
+It appears from reading about binary stars of more-or-less equal mass that they cannot have one "fixed in place" and the other orbiting it.  The barycenter is basically between them.
+Is that perspective correct?  Is it ever possible for a low mass star to be the "fixed in place" center with a large mass star orbiting it?  Or does the barycenter always shift toward the more massive object?

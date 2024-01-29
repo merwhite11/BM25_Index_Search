@@ -1,0 +1,3 @@
+How are space telescopes stabilised to a perfect standstill?
+
+I assume that for space telescopes to get good images, they must be put in perfect standstill, as even the slightest deviation in the viewing angle is amplified by the distance of observed objects, results in observing a different area of space. How is this feat accomplished? How can you stabilize an instrument in space, so that it can take images of galaxies gazillion light years away? And how do you know you have succeeded, apart from getting quality imagery?

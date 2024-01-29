@@ -1,0 +1,8 @@
+How to calculate the angle formed between 2 planets?
+
+I am interested in calculating the angles formed between planets like Saturn opposite to Neptune - 180 degrees, PlanetX opposite/trine/square to PlanetY. How to find such degrees?
+I use Stellarium software to find positions of planets. Here I am adding positions of Saturn, Jupiter and Sun.
+
+
+
+Stellarium shows information about selected objects, can it be used to calculate angle formed, for example, angle formed between Saturn and Jupiter taking Sun as reference point?

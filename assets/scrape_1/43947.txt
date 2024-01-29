@@ -1,0 +1,5 @@
+Spurious periods of stars
+
+What exactly is meant by spurious periods of stars? E. Tanner writes in Spurious Periods in Spectroscopic Binaries in 1948
+
+Furthermore: Can spurious periods be produced by aliasing, and how can they be handled? I read about this that these periods can be detected while using Robust variogram estimator in this paper.

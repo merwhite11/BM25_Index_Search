@@ -1,0 +1,5 @@
+Does the given radius of a planet/moon include its atmosphere?
+
+In NASA fact sheets, such as this one for Venus, a radius of the planet is given.
+Is that radius the radius of the surface of the planet, or of the envelope of atmosphere?
+Put another way, if calculating the angular diameter of a planet/moon from a location, do I only have to look up this radius, or do I have to look up this radius along with the atmosphere height to determine the angular diameter?

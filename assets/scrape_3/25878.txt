@@ -1,0 +1,13 @@
+1:1 resonance of two planets around a star in close proximity - approximate perturbative mathematical treatments?
+
+This question is primarily about the mathematics of orbital mechanics.
+The circular restricted 3 body problem (in 3 dimensions) assumes two massive bodies in circular orbits around their center of mass, and a third with zero mass. It is usually solved in a rotating frame and in reduced units with the separation equal to unity and the period of rotation of the frame of 2π. Five Lagrange points can be found from the pseudo-potential surface in 2 dimensions (as well as some periodic horizontal Lyapunov orbits), and things like halo, Lissajous, vertical  Lyapunov and other periodic orbits can be found when solving in 3 dimensions.
+My question is about a relaxation of some of conditions of the problem, allowing for the third body to have a non-zero mass, at least so that the 2nd and 3rd body have some non-trivial center of mass relationship themselves.
+I'm asking about orbits that would be periodic (or nearly-so). Mathematical stability is not necessary, small displacements can lead to exponential growth of errors, as long as there is at least one mathematically defined periodic orbit.
+For visualization purposes, imagine moving Earth's Moon to somewhere in the region associated with the original Sun-Earth L1 point, but that's just to get the conversation going.
+In this case, one could think of the "Earth" and "Moon" as both being in heliocentric orbits, but so close that they are in a 1:1 resonance. The "Moon" would orbit the Sun with an average velocity of about 1% slower than that of the Earth so that their heliocentric orbit period were the same.
+Has this kind of configuration been explored mathematically? I don't care if it is 3D or only 2D, nor if all six 2-body interactions are considered explicitly or if there are some simplifications.
+Basically, anything that considers some effect of the "Moon's" gravity on the "Earth" so that it is no longer treated as massless.
+There is certainly a body of work on non-unity orbital resonances; 2:1, 3:2 etc. but has 1:1 ever been treated in some way?
+Question: Considering a 1:1 resonance of two planets around a star in close proximity (e.g. large asteroid or small moon at Sun-Earth L1) - have there been any approximate and/or perturbative mathematical treatments?
+note: original motivation is this answer.

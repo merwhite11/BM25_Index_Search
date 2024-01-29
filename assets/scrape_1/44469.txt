@@ -1,0 +1,4 @@
+Explain as simply as possible how the Sunyaev-Zeldovich (SZ) effect is used to estimate the Hubble constant
+
+The Sunyaev–Zeldovich effect (SZ effect) is useful in determining the Hubble constant because it is independent of the cosmic distance ladder. This effect occurs when CMB (cosmic microwave background) photons scatter off of plasma in the intracluster medium.
+I am lost as to how this effect is used to determine Hubble's constant. Can someone explain it like I'm five? I'm assuming the SZ effect produces a distance which is then combined with the redshift to determine $H_0$. I would like help understanding how a distance is determined from this effect.

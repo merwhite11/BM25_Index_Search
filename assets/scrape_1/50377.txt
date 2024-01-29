@@ -1,0 +1,7 @@
+What is the v sin i parameter?
+
+In the August 2021 preprint by WeiJia Sun et al. Exploring the stellar rotation of early-type stars in the LAMOST Medium-Resolution Survey. II. Statistics there is histogram plot with the caption:
+
+v sin i distributions of (blue) normal stars, (cyan) binary stars, (green) CP stars, (orange) periodic variables, and (red) cluster members.
+
+Which velocity is $v$ is in the parameter of a binary's $v \sin i$?

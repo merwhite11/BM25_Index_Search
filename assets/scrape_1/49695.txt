@@ -1,0 +1,5 @@
+Stellar evolution temperature gradient - why the logarithm?
+
+We define the adiabatic temperature gradient as $$\Delta_{ad}= \Big(\frac{\partial \log \mathrm{T}}{\partial \log \mathrm{P}}\Big)_{ad}$$
+The goal of this gradient is to show how the temperature changes under adiabatic compression/expansion. However, I don't understand why we use the logarithms of T and P, and not just simply $\frac{\partial\mathrm{T}}{\partial\mathrm{P}}$.
+Thank you for any help!

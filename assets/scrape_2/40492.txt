@@ -1,0 +1,9 @@
+How to estimate my eyepiece FOV?
+
+As a follow-on to my question about seeing Jupiter and Saturn at the same time in my scope, I'd like to ask how I might determine the Field of View (FOV) of my eyepieces. More specifically, I'd like to determine their aFOV (Apparent Field of View?) because that is a configuration setting in Stellarium when you are using ocular view and would like to specify the specs of your eyepiece.
+I have two eyepieces that came with my AstroMaster114 telescope. One is 10mm and the other is 20mm. Beyond that, I have no idea what type they are (Plössl? Ortho? Erfle?).
+I'd also like to understand how this FOV/aFOV might be impacted by the use of my Celestron #93640 2x Barlow adapter.
+Here are pictures of the eyepieces:
+Celestron 20mm Erecting Eyepiece
+
+Celestron 10mm eyepiece

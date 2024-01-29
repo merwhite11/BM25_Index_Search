@@ -1,0 +1,7 @@
+Physical Meaning of the Principal Tidal Fourier Modes and Their Integers
+
+I'm trying to understand tides evolution of planets, and I often come across the Prinicipal Tidal Fourier Modes expressed as:
+$$ \omega_{lmpq}$$
+For example, see the discussion after Eq. A15 in Numerical simulation of tidal evolution of a viscoelastic body modelled with a mass-spring network.
+I was wondering what is the physical meaning of these modes and what is the physical meaning of the integers $lmpq$. I do understand that $l$ and $m$ are the spherical harmonics integers that arise from solving the Laplace equation in spherical coordinates, but what are $p$ and $q$?
+Any physical intuition behind these parameters and their relation to tides could help a lot!

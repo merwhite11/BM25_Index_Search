@@ -1,0 +1,3 @@
+What do the negative values in FITS images mean?
+
+I am using FITS images, and noticed negative values in value matrix. What they mean? For example, for one of the images, the minimum value is -0.34472656 and the maximum = 552.0. The data type(format) is float32. I know float data values should be in a range of [0.0, 1.0]. How can I convert them to [0.0, 1.0]?

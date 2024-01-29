@@ -1,0 +1,9 @@
+List of J₂ values for solar system bodies beyond the planets; are there any prolates?
+
+J₂ values for the planets can be found in several sources including each planet's planetary fact sheet. Without looking I'm going to assume they are all positive (oblate) because each planet rotates and is (likely) in hydrostatic equilibrium.
+Mercury's is tiny ($~50 \times 10^{-6} \text{ vs } ~1000 \times 10^{-6}$ for Earth) but still positive.
+In order to assist with answers to the Space SE question Can "prolateness" be characterized by a $J_2$ coefficient like "oblateness"? I'd like to ask:
+Question: Is there a list of $J_2$ values for solar system bodies beyond the planets? Are there any prolate objects with negative values?
+I don't think there will be a prolate object with negative $J_2$ (i.e. not in hydrostatic equilibrium) because it would likely be too light to easily orbit with a spacecraft or a natural satellite in order to measure it's gravitational quadrupole moment and establish an rotational axis, but I could be wrong and hope I am!
+note 1: the tennis racket theorem tells us that a body will have stable rotation about its axis of largest and smallest moment of inertia, so some small rocky object could in principle have its long axis be its axis of rotation.
+note 2: a triaxial object can still have a $J_2$ value but would also have comparable, significant $J_{22}$ as well to complete the expression for its quadruple moment, and an irregular object would need many higher order terms as well to even get close to expressing its gravity field with some degree of accuracy (e.g. 67P)

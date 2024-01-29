@@ -1,0 +1,15 @@
+How to improve efficiency in periodicity detection?
+
+Our data set has $10^4$ data points, but has a long baseline and many gaps.
+If we bin the data, there would be $10^8$ data points ($[t,\rm {value}]$), but only about 1% are non-zero values.
+How to improve the detection efficiency? 
+Is a multi-threading way possible (especially for Lomb-Scargle)?
+For example, if I use LombScargle in astropy.stats,
+freq, power = LombScargle.autopower(minimum_frequency=0.5, maximum_frequency=1.5, normalization='standard')
+
+there are two problems:
+
+It is slow and easy to get memoryError.
+It can't utilize the computing power as much as possible.
+
+So my question is about the efficiency. For the data set above, what is the best method?

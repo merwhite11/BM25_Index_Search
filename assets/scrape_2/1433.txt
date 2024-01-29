@@ -1,0 +1,5 @@
+what is the highest throughput astronomy project in pixels?
+
+I was having a discussing about big scientific projects with colleagues, and I postulated that astronomy is still one of the scientific fields with biggest projects per amount of data dealt with, after the high-energy physics.
+I would like to know what is the highest throughput astronomy project as defined by the number of pixels in the images analysed in the project.
+Something like "project XYZ" with an estimated "1.2 trillion pixels" worth of pictures taked and analysed over 5 years.

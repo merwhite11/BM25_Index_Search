@@ -1,0 +1,6 @@
+Appropriate battery for overnight viewing to drive telescope and GOTO?
+
+I have a Plettstone 18" Dobsonian telescope with GOTO and clock drive that runs off a 12 volt cigarette lighter adapter.  What is an appropriate battery to use to run this overnight while viewing all night long and then charge during the day for the following night's use?
+In the past I've used deep cycle lead acid batteries, but these are heavy and can fail if not carefully maintained with a float charge.  Also, I don't need cranking power of a car, just sustained energy to drive the scope.  A typical Optima YellowTop deep cycle is rated 75 ampHours.  I don't know what the draw in Amps of my telescope is, but imagine it is less than an amp.
+I've also seen these Battery Tender Lithium Iron Phosphate types but wonder if their 10-12 ampHour rating is enough and whether they are meant to be drained over a whole night?  Some say if you get below 8 volts the battery becomes broken, but I doubt the telescope would still run at such a low voltage.
+What would a reasonable ampHour rating be?  What kind of battery is a good fit for astronomy equipment overnight?

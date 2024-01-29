@@ -1,0 +1,3 @@
+$\eta$ and $\xi$ coordinate system
+
+Is there a standard definition for $\eta$ and $\xi$ in terms of Ra and Dec, as used in an astronomical coordinate system? I'm used to working with Ra and Dec, and am not sure how to precisely interpret this spatial graph from de Boer et al. 2013.

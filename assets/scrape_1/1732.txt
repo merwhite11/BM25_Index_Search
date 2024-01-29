@@ -1,0 +1,8 @@
+What are the concrete technical arguments supporting the idea that the wave function of the universe can be written as partition function?
+
+In this talk, the not yet settled down idea that the wave function of the universe could potentially be written as  the partition function of a scale invariant statistical field theory is mentioned:
+$$
+\Psi[g] = Z[g] = \int D(\text{Fields}) e^{-S[g,\text{Fields}]}
+$$
+If our universe were AdS, this relation could already be well enough explained by the AdS/CFT correspondence, but as our expanding universe correspond to a dS geometry, things are less clear.
+What are the concrete technical arguments, ideas, or hints that this relationship should hold for our dS universe too? What work has already been done on this?

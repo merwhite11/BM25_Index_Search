@@ -1,0 +1,10 @@
+Finding the Phase of an Exoplanet using the ephemeries
+
+So I'm currently researching Star-planet Interactions for HD 156279, I'm taking the flux of the Ca II H&K lines and trying to plot them against the phase of the planet, looking for evidence of magnetic or tidal interactions.
+Now I have my flux as show below:
+
+And I know the Phase=(time-ephem)/period. Now my professor said I can find the ephemeris from this site:
+http://exoplanet.eu/ephemeris/hd_156279_b/
+
+The problem I'm having is figuring out what the ephemeris is? I know the Period is 131.05, I assume the Time parameter is 2455525.59 as given by the webpage although I'm not sure about that either. I understand that phase should be between 0.0-1.0 and if I use 2455525.59 for time and using a converter for JD for my first flux in the table above (2009-07-06 12:41:11 = 2455019.0285995 and I assume this is the ephem I'm looking for) if I plug those into my equation I get 3.865...so I'm guessing that's not what I'm looking for. Any help would be greatly appreciated. I would ask my advisor but he's out sick with covid...so I'm trying to figure this out on my own.
+Thanks!

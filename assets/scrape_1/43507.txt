@@ -1,0 +1,3 @@
+Is it true that black holes emit only photons, electrons, and positrons in the form of Hawking Radiation?
+
+According to this comment, if the peak photon energy is 511 KeV, electrons and antielectrons begin to be produced along with photons. So when the peak energy is ~940 MeV, the rest mass of a proton, will they be produced as well, and what types of subatomic particles can be generated via Hawking Radiation?

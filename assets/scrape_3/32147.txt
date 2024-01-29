@@ -1,0 +1,4 @@
+Sunrise and sunset times when compared between the vernal and autumnal equinoxes
+
+Why is it that sunrise and sunset occur at different times when compared between the vernal and autumnal equinoxes? 
+Consider Pontianak, Indonesia, 0 deg N, for simplicity. Timeanddate.com gives sunrise and sunset times 5:46 AM, 5:53 PM at 3/21 (vernal equinox) and 5:31 AM, 5:38 PM at 9/23 (autumnal equinox). Given the symmetry of the problem, I would expect that sunrise would occur at the exact same time during the two events. Same for sunset. What is the reason for the 15 minute difference between the time sunrise occurs on the vernal equinox and the time sunrise occurs on the autumnal equinox?

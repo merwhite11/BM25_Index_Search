@@ -1,0 +1,4 @@
+Has the Penrose process ever been linked to an observed phenomenon in some way?
+
+This answer to What defines the plane of an accretion disk around a black hole? mentions the Penrose process as a potential mechanism that could change the axis of the orbital angular momentum of an accretion disk around a black hole away from the original axis of the infaling matter's source (e.g. a companion star, a galaxy) and towards the the black hole's axis of rotation.
+Here I'm just asking if the theoretical Penrose process has ever been linked to an observation, or has been used as part of a potential explanation of an observed phenomenon.

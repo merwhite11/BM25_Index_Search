@@ -1,0 +1,9 @@
+How to find the first Julian day with the same Earth-Sun constellation
+
+There are quite some sources for astronomical calculation formulas, e.g. Astronomy Answers: Position of the Sun, which is e.g. used by KDE's Night Color plugin to calculate the time of a sunset or sunrise (when the sun's elevation is equal to a given value).
+I want to do such a calculation on an Arduino Uno board. The problem is that all those formulas depend on double precision calculations, because they take and return a Julian day with the time being the fraction part. The Arduino Uno only has float precision, so the interesting part, the fraction representing the time, is lost (the Julian day alone takes all the decimal places).
+Apparently, it's possible to avoid this problem, e.g. Dr. David Brooks published code to do elevation and azimuth calculations using float precision only in Arduino Uno solar calculations. He splits the Julian day into an integer day part and a float time part.
+However, those formulas only work for the current position of the sun at a given date, time and location, not vice versa. I'm interested in calculating the moment in time where the sun has e.g. a given elevation (a defined sunrise and sunset).
+I thought that one approach to solve this could be to find the very first Julian day with the very same Earth-Sun constellation, where e.g. the sun had the same elevation at the same time. The day itself is not interesting, as I already know it – I only want to get the time. This way, the Julian day would be <= 365, leaving at least four digits to the time fraction. This would lead to a precision of about 10 s, which would be more than sufficient for my use-case.
+So: Is it possible to find the first Julian day with the same Earth-Sun constellation as a given date? Like some modulo operation for a Julian day?
+Thanks for all help!

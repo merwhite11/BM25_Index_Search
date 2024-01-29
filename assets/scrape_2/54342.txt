@@ -1,0 +1,3 @@
+What is the effective area of VLASS?
+
+I need to calculate NRAO VLA Sky Surveys effective area that's been held in 1998. (The observation of 1.4GHz NRAO VLA Sky Survey (NVSS) (Condon+ 1998)). I couldn't find the exact values, tried many times. But I cannot find a decent source to confirm the area of each antennas' surface. So, basically i know that $$\pi*r^2*n_{antenna}$$ will be the effective area of VLASS. Where $$n_{antenna}$$ is 27. So i just need the $$r$$ of them but couldn't find it.

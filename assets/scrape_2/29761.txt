@@ -1,0 +1,16 @@
+Solar azimuth for celtic fire festivals
+
+I am pretty new to astronomy, and I have fallen down rabbit hole creating a new Metonic calendar in Javascript. 
+As part of this I would like to calculate when the sun is half way between a solstice and an equinox as viewed on a horison. Forgive me if my terminology is off but I believe this is known as the azimuth.
+My issue is that I do not know what the correct values are. I am already  calculating the solstice and equinoxes using the suncalc javascript library
+https://github.com/mourner/suncalc
+in this code are the following 4 lines that determine the solstices and equinoxes. 0 is the spring equinox and 3 is the winter solstice.
+switch( k ) {
+     case 0: JDE0 = 2451623.80984 + 365242.37404*Y + 0.05169*POW2(Y) - 0.00411*POW3(Y) - 0.00057*POW4(Y); break;
+     case 1: JDE0 = 2451716.56767 + 365241.62603*Y + 0.00325*POW2(Y) + 0.00888*POW3(Y) - 0.00030*POW4(Y); break;
+     case 2: JDE0 = 2451810.21715 + 365242.01767*Y - 0.11575*POW2(Y) + 0.00337*POW3(Y) + 0.00078*POW4(Y); break;
+     case 3: JDE0 = 2451900.05952 + 365242.74049*Y - 0.06223*POW2(Y) - 0.00823*POW3(Y) + 0.00032*POW4(Y); break;
+   }
+
+can anyone help me understand what the values might be to determine the halfway points between these solstice and equinox values?
+thank you for your help.

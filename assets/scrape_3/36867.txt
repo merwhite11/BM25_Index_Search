@@ -1,0 +1,29 @@
+Lucky imaging with Celestron 14 - is this result reasonable?
+
+I attempted to do some lucky imaging of Jupiter using a permanent installation (Celestron $14$" SCT + Paramount ME II) and Nikon D5600 attached directly to a Baader Hyperion 8-24mm eyepiece (without a filter). The atmospheric conditions weren't ideal ($65$% humidity, $2$ m/s winds), the telescope was properly acclimated prior to use, and Jupiter was around $17^{\circ}$ elevation during imaging.
+After processing $3600$ frames (from 1 minute of video1 at $60$ fps) with Autostakkert 3 and then aligning the RGB channels and recomposing I got these:
+
+Left (or top if your screen is small) is using $20$% of the stack, right (or bottom) is using $50$%. Since this is my first foray into planetary imaging my question is: are my results reasonable given the setup used and atmospheric conditions described?2
+I'm asking because I've seen much better results from people using smaller telescopes. I think the discrepancy is the result of one (or several) of the following:
+
+Something is wrong with the equipment I used.
+I'm using the wrong equipment.
+I'm not processing the images correctly.
+This is the best the equipment could do under those conditions.
+I did something wrong in my setup or imaging.
+
+and I'm trying to rule out number 1.
+
+Here is a single, unprocessed frame for reference:
+
+
+ Update 
+I have acquired a Bahtinov mask to rule out the focus as the issue, here is an exposure of Manubrij (Omnicron Sagittarii) with the mask:
+
+At the time of imaging, the angular separation between Jupiter and this star was less than $6^{\circ}$. Conditions were much better this time, humidity was $38$%, winds were less than $1$ m/s. The telescope was acclimated for about 2 hours prior to use.
+Again using $3600$ frames af $60$ fps I got these:
+
+Left (or top) is with $10$% of the stack, right (or bottom) is with $20$%. This looks slightly better to me, but I'm still not sure if this is what I should expect from the equipment.
+
+1 Note that the video in the link has been compressed through ffmpeg using the H.265 codec with CRF of $25$. 
+2 This result is just one example - I did $30$ minutes of imaging in $3$ minute segments over the course of several hours, applying the same process to other sets of exposures yielded similar results.

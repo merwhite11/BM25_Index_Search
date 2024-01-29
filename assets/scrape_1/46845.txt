@@ -1,0 +1,6 @@
+Meaning of "blue continuum spectrum"?
+
+The textbook Astrophysics in a Nutshell, talks about the "blue continuum spectrum" in relation to the spectrum of an AGN:
+
+I know that a continuum spectrum is caused by the interaction of a large number of atoms, ions or molecules spreading out the discrete emission lines of an object.
+What is the meaning of the reference to the blue continuum spectrum? Is it referring to the blue visible wavelengths, which would be around 4500 Anstroms? But the wording of the caption seems to indicate that the entire spectrum is referred to as a blue continuum spectrum.

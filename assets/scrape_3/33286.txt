@@ -1,0 +1,10 @@
+Any simple experiment with an H-alpha telescope?
+
+Is there any simple experiment that can be done with an H-alpha telescope, for example to estimate the Sun's mass, size, distance, temperature or intensity?
+I give lessons about renewable energy and it would be nice to somehow integrate a telescope (PST Coronado + double stack) to the chapter about photovoltaics and solar thermal energy.
+
+Right now, the only "experiment" I could come up with was to show that there's often nothing to see because of the solar minimum. But we also wouldn't see any feature if the telescope was not focused or not well calibrated.
+With some luck, it should be possible to follow the movement of a sunspot over a few days and estimate how fast the sun is rotating, possibly at different latitudes.
+I suppose that in order to calculate many sun characteristics, it is mandatory to know the average distance between Earth and the Sun. It seems to be relatively hard to estimate 1 AU.
+
+Is it possible to use the telescope for any experiment and estimate an order of magnitude for any of the Sun characteristics, assuming that the distance to the Sun is approximately 150 000 000km?

@@ -1,0 +1,3 @@
+First time mention of coplanarity between Solar Systems planets
+
+When comparing Galileo, Copernicus and Hypathia models to describe the solar system, each of them agree on coplanarity, based on their representations. Anyways, it was not until Kepler and Newton that this could be mathematically stated. Even when not wrote formally using maths, what was the first time you know this property (of coplanarity) was mentioned (verbally and not inferred from representations) in the history of astronomy?

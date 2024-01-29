@@ -1,0 +1,5 @@
+Does the accelerating expansion of the Universe contradict Hubble's law?
+
+Hubble's law gives a linear relationship between the distance to a galaxy and it's recessional speed. 
+Observations of distant type 1a supernovae showed that their red shift (and therefore their recessional velocities) were lower than expect, implying that the rate of expansion of the Universe was lower in the past.
+However, doesn't this mean that Hubble's law only applies for short distances, as at great distances a plot of recessional velocities against distance would not be linear (as I have crudely tried to show on the graph below)?

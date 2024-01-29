@@ -1,0 +1,10 @@
+How does the ESPRESSO Echelle spectrograph fold the spectrum so nicely?
+
+The CBC News Technology and Science Q&A This ESPRESSO machine doesn't make coffee but scans the skies for habitable planets includes a nice description of ESPRESSO (Echelle SPectrograph for Rocky Exoplanet and Stable Spectroscopic Observations) and links to the YouTube video Echelle SPectrograph for Rocky Exoplanet and Stable Spectroscopic Observations.
+There's something really amazing about the way that the spectrogram has been folded so nicely on to this image. Is this what it looks like on a 2D detector? (sans colour of course) 
+I see what looks like eight distinct sections, and a really nice spacing between adjacent lines otherwise. How is this accomplished?
+Click or open the image in a new tab for full size view (it's worth it; 1.8 MB, 1738x2530)
+
+above: Frame grab from the video at about 00:55. Recorded with Python using this script, then extracting frames using this script in Blender. Click or open in new view for full size - it's worth it.
+
+above: What an Echelle spectrogram "normally" looks like (again with added color). From the really interesting University of Virginia ASTR 3130 (Majewski) Lecture Notes.

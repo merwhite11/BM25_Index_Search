@@ -1,0 +1,3 @@
+How to calculate the minimum number of satellites needed to maintain constant link between themselves?
+
+Suppose we want to build a number of space stations, all orbiting Earth at the same altitude, equally distanced from one another, and with the same inclination. How many of those stations are needed so that each of them is capable of communicating with any other station all times, assuming that each station can relay a signal to another station it is connected to?

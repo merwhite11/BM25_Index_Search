@@ -1,0 +1,10 @@
+When would we detect a tiny meter size natural satellite in a geostationary orbits?
+
+A natural, tiny (meters-size, maybe 10.000kg mass) natural satellite could be trapped in a geostationary orbit. I wondered for quite some time:
+
+When and how are we able to detect these satellites?
+
+I assume the distance of 35.700km of way too far for naked eye detection. So the next realistic opportunity would have been Galilei who first used telescopes for scientific observations of the sky. Could he have detected such an object?
+Now even if he had enough resolution, he certainly didn't systematically cover the whole 4$\pi$ of the sky (especially as the satellite could be syncronous with the other side of the earth, and he could never see it).
+Then, would it be at the times of Hubble (because of the Mount Wilson Observatory and other similarly powerful telescopes)? Would it at the times when quality equipment for hobby astronomers became cheap and therefore widespread enough (to cover huge areas of the sky)? Or would we - until today - not be able to detect such objects?
+To answer this question, one needs to consider both the technical ability as well as the area of the sky that is covered.

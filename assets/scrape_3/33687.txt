@@ -1,0 +1,7 @@
+Calculating historical star maps from proper motion
+
+I'm working on some software which needs to calculate the position of stars and galaxies visible to the naked eye at different periods of human history.
+The Yale Bright Star Catalogue gives the position and proper motion of visible stars.
+Is calculating the historic positions simply a matter of multiplying each stars proper motion by the number of years between the date in question and the epoch, then subtracting the result from the position?
+If so how far back in history could one go with this method and still produce a map that resembles what a human would observe with the naked eye? Would this method alone be sufficient to go back as far as 5000 years or are the other factors in play here that would need to be accounted for to make this accurate?
+My criteria for "accurate" here is that a human observer wouldn't see a noticeable difference between the map and the night sky with the naked eye. Smaller inaccuracies are tolerable.

@@ -1,0 +1,22 @@
+Gravity assist: why is the velocity doubled?
+
+The Wikipedia article has this terrestrial analogy:
+Imagine standing on a train platform, and throwing a [tennis] ball at 30 km/h toward a train approaching at 50 km/h. The driver of the train sees the ball approaching at 80 km/h and then departing at 80 km/h after the ball bounces elastically off the front of the train. Because of the train's motion, however, that departure is at 130 km/h relative to the train platform; the ball has added twice the train's velocity to its own.
+I have two problems with this:
+
+The train's speed relative to the platform is 50 km/h. The ball, traveling in the opposite direction, is going at 30 km/h. Thus, the train operator will indeed see the ball at
+
+50 + 30 = 80 km/h.
+So far, so good. However, once the ball has hit the front of the train (let's assume that no speed at all is lost in the process), it'll have the train's velocity (50 km/h) added to its own (30 km/h):
+50 + 30 = 80 km/h.
+Because the train's velocity relative to the platform is 50 km/h, and the ball's now 80 km/h, the operator will see it departing from him at
+80 - 50 = 30 km/h.
+
+As already mentioned above, the ball's velocity relative to the platform after the bounce will be
+
+The train's velocity (50 km/h) + the ball's initial velocity (30 km/h) = 80 km/h, and not twice the train's velocity.
+What am I missing?
+Addendum:
+This is kind of comical:
+You're watching a tennis match. Player A serves the ball at 200 km/h. Player B returns the serve, the speed of his racket added to DOUBLE the speed of the ball. Player A then puts in a ground stroke, and the speed of the ball doubles again. If they keep this up, then, according to the above logic, the speed of the ball relative to the court will be approaching the speed of light before they know it.
+Again: what am I missing?

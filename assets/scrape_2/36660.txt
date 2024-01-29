@@ -1,0 +1,3 @@
+Why there are no terrestrial planets with a subsurface ocean?
+
+Subsurface oceans in satellites are pretty common: Europa, Enceladus, Ganymede, Callisto, maybe Pluto... This is due to tidal heating of their host planet, Jupiter and Saturn, which heats up the inner ice of those satellites. However, planets don't exhibit this inner ice layer, so they don't usually have subsurface oceans (except Pluto or Ceres, if you can call them "planets"). Why is that? Only small bodies like satellites present this inner layer of ice? Is there any Earth-type exoplanets that exhibit this inner layer of ice that could potentially melt down to liquid water? And if there is, why some cold planets have inner ice layers and others don't?

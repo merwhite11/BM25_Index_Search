@@ -1,0 +1,5 @@
+How can I map the zenith for an observer at a given time to equatorial coordinates (as would be measured in J2000)?
+
+I'm writing a script to generate a star chart for a given observation point (latitude and longitude) at a given time.  I've found a database of stars with their right ascension and declination from J2000, and with that written a program that displays a star chart with the center being any right ascension and declination that I feed into it.  I've also written a program that will convert local time into local sidereal time. Now I just need to figure out how to determine the zenith for an observer in J2000 right ascension and declination given their longitude, latitude, and local sidereal time.
+I've found a wikipedia page that gives formulas for converting between celestial coordinate systems, but the formula for converting equatorial and horizontal coordinates doesn't seem to depend on the sidereal time, which I imagine it should for my case.  
+I've tried finding a vector that represents the observer's zenith at the given time, then rotating it about the earth's rotation axis by the sidereal time, but that's giving incorrect results.

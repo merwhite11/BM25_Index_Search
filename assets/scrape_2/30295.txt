@@ -1,0 +1,5 @@
+Virial Shock Heating
+
+In the review paper on protoclusters, Roderik Overzier (pg 25) mentions the concept of virial shock heating which seems to be a process involved with galaxy cluster formation.
+I'm not fully certain what a virialized galaxy cluster is apart from the fact that it's in hydrostatic equilibrium, and is one of the key distinguishing features between a protocluster and a fully formed galaxy cluster.
+I vaguely understand that shock heating relates to the heating that occurs when something is travelling at supersonic speed within a medium and produces a shock.

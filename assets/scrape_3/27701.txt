@@ -1,0 +1,25 @@
+Modeling planet rotations (time of day, obliqueness, etc.)
+
+I created this solar system model using POV-Ray:
+
+by following these instructions:
+https://ssd.jpl.nasa.gov/txt/aprx_pos_planets.pdf
+The next thing I want to do is orient/rotate each globe correctly according to the time of day, time of year, obliqueness, position in its orbit, etc. but cannot find any instructions on the JPL website. How can I go about completing this task? Thanks.
+Part Two
+[deleted]
+Part Three
+So, α (right ascension), δ (declination) and W are Euler rotation angles. But what are the starting conditions before applying these rotations? Should the North Pole of the planet be aligned with the z-axis? Should the plane formed by the prime meridian be perpendicular to the y-axis?
+Also, which axes do I rotate around, and in what order? I am guessing δ should be rotated first around the y-axis, then α around the z-axis. But W also looks like it should go around the z-axis. I am confused.
+Part Four
+I found another PDF document which on page 27 gives an equation for δ, α and W. (Not sure how to reproduce it here.)
+https://depositonce.tu-berlin.de/bitstream/11303/6237/4/burmeister_steffi.pdf
+I think that according to that PDF file I need to rotate around the z-axis by W, around the x-axis by (90-δ), and around the z-axis again by (90+α), in that order. Lastly, an additional rotation (around the x-axis?) by 23.43928 degrees must be done to get the body out of the ICRF frame and into the ecliptic frame.
+But I still don't know the starting conditions. I.e. before applying the transformations, should the globe's North Pole point upward? Should the intersection of the Prime Meridian and Equator lie along the x-axis? Or, am I totally wrong, and should I perform the inverse matrix calculations instead? So far I have not gotten results that match what I see in Celestia for the same Julian Date.
+Part Five
+In some instances I am able to get "close" results using the above method. In others not. For instance, Mars, Saturn, Uranus and Neptune are "close" to correct. (At least, the poles - the blue arrows - are pointing in the same directions.) The Earth is not.
+
+
+
+
+
+The correct results are the ones in the larger Celestia program window. My current POV-Ray results are in the smaller window to the left. The dark arrows indicate the parent (ecliptic) reference frame. The bright arrows indicate the body reference frame. The view in all images is from the top down on to the ecliptic plane.

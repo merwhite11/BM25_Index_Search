@@ -1,0 +1,13 @@
+Which things can LIGO see that LISA can't, and vice-versa?
+
+CNET's Astronomers discover two ferociously fast stars locked in a death spiral quotes Kevin Burdge, lead author on the new paper in Nature  General relativistic orbital decay in a seven-minute-orbital-period eclipsing binary system (no ArXiv?) and a Ph.D. candidate in physics at Caltech as saying:
+
+LIGO can see things that LISA can't, and LISA can see some things that LIGO can't, and there are a handful of things that might switch from being visible in LISA to LIGO over time"
+
+Is there a simple way to understand which "things" fall into which categories?
+LIGO is a ground-based gravitational wave observatory and is used together with Virgo, whereas LISA stands for Laser Interferometer Space Antenna and will be a GW sensing inteferometer based on a trio of satellites in an Earth-trailing heliocentric orbit. 
+
+GIF Source
+
+
+LISA spacecrafts orbitography and interferometer -yearly-periodic revolution in heliocentric orbit.

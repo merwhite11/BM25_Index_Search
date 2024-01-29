@@ -1,0 +1,6 @@
+From where does the energy for gravitational waves come from?
+
+As far as I understand, in the events detected by LIGO, about 4% of the total mass of merging binary black holes was converted to gravitational waves. 
+Where does this energy come from, i.e. what exactly gets converted into gravitational waves? 
+Is it simply the kinetic energy of the merging objects (velocities of these objects before merger are huge, up to 60% of c if I recall correctly), so does it mean emitting gravitational waves makes them orbit slower, but retain their original masses? Or do the compact objects really lose "real" mass, meaning they become lighter and in case of BHs their radius changes accordingly? 
+As an example, let's assume two BHs, both with 50 solar masses, orbiting each other far enough (say 1 light year) so that GWs nor kinetic energy has no significance to these initial mass measurements. During the merge, they should radiate about 5 solar masses in GWs. Would the resulting black hole have mass of 95 or 100 solar masses?

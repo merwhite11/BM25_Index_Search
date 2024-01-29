@@ -1,0 +1,5 @@
+Question about semi-major axis mean separation
+
+I am currently doing an assignment but I cannot for the life of me understand what one of terms used means. Notice I am not trying to get help with the assignment itself, but rather to make me understand so I can solve it.
+Anyways, in the question (about visual binary stars) I am given their parallax angle etc etc, and I am to find the mass of them. But the sentence I cannot understand is the information given in "The semimajor axis (mean separation) is X.YZ'' and...(continue)", what does it mean? I draw two elliptic orbits and they intersect, I draw the semi-major axes of each ellipse. Is the semi major axis mean separation the angle that is between the semi major axes and the line drawn between each stars center in their elliptic orbits?
+Help would be very nice. Thanks in advance!

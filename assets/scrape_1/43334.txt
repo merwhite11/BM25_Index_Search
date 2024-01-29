@@ -1,0 +1,16 @@
+IRAF Like software that work on Window
+
+My professor asks to me install IRAF for the photometry project but We have a hard time installing it and also I'm more comfortable with the Windows environment (because there is other software that not in Linux that currently installed on my pc). So I'm looking for software that substitutes IRAF and works on windows. It would be a great help.
+note: While comments have proposed adding a Linux environment and running there, I'm asking for an IRAF alternative that runs directly in Windows.
+
+I followed the suggestion given by @planetmaker but still some of the things that I do not understand as I'm new to the Linux environment. Hope someone will help me: If you go to IRAF, then I have followed all the step: The last step I have executed is ./install this leads me to
+
+Welcome to the IRAF installation script.   This script will first
+prompt you for several needed path names.   Once  the  installation is
+complete, you will be allowed to do some minimal system configuration.
+
+
+For each prompt: hit  to accept the default value, 'q' to quit,
+or 'help' or '?' to print an explanation of the prompt.
+
+The next steps from the installation guide, I do not understand it. Can any help me though this?

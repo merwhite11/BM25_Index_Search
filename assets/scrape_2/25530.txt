@@ -1,0 +1,4 @@
+Given a star's ra, dec how can I compute one pair of lat, long and time where the star would be at zenith?
+
+As the questions says, I have the celestial coordinates of a star(ra, dec). My trigonometry is not so great so I haven't managed to figure out a solution to this. I want to find a place (lat, long) and a time when the star will be right above the computed point?
+I.e. star coordinates: 7h 23m 23.97s -13° 25' 2.64", where would be the point(lat, long) and time where the star would be right above?

@@ -1,0 +1,10 @@
+How can one determine the angle between the line of nodes and the major axis of the orbit of Mars?
+
+Edit:
+
+What I really was looking for, was the difference in longitude on the orbit of Mars between its aphelion and the point where the north pole axis of Mars would point towards the Sun (northern summer sostice).
+I found out with this article of the Planetary Society that the solar longitude (Ls) is 90⁰ for northern summer solstice and Mars is at aphelion at Ls = 70⁰.
+
+I know when northern summer is on Mars, the solar radiation on its surface has a minimum of 492 W/m², meaning that is also the time when Mars is furthest from the Sun.
+So this would coincidence somewhat with the north pole of Mars pointing towards the Sun.
+But what is exactly the angle between the line  of nodes and the major axis of its orbit ?

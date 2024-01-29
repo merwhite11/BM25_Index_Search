@@ -1,0 +1,19 @@
+What is the nature of "rock vapor" in this description of the formation of the Moon?
+
+The NPR News item MacArthur Fellow And Planetary Scientist Sarah Stewart Discusses How The Moon Was Formed and audio podcast begins:
+
+Ari Shapiro, Host: Sarah Stewart likes to think about what happens when planets collide. She uses two actual cannons to simulate those massive impacts. Here's one firing in her lab at UC Davis.
+Unidentified Person:  Firing in three, two, one.
+
+Soundbite of Cannon FIring
+
+Ari Shapiro, Host: Her work earned her a spot in this year's class of MacArthur Fellows. Many of us call it the genius grant. For years, experts have thought that Earth's moon formed after a large collision knocked off a bunch of rock. Stewart told me her research suggests a different story.
+Planetary Scientist Sarah Stewart: During planet formation, when two bodies collide, there's so much energy released that most of these bodies are vaporized. That means that a rocky planet like Earth is mostly rock vapor.
+Shapiro: What is rock vapor, and what does that have to do with our moon?
+Stewart: Rock vapor is taking the rocks that we stand on and heating it up to the point where it becomes a gas. And when that occurs, the Earth becomes much larger because vapor is much less dense. And it extends out into this enormous object hundreds of times larger than the Earth today. And we proposed that our moon grows within the rock vapor of the Earth after a giant impact.
+Shapiro: So the moon actually came from the Earth.
+Stewart: The moon grows within the rock vapor of the Earth. And that gives the moon the same chemistry as the Earth.
+
+We don't learn about "rock vapor" in Earth Science class, but I know it's got to be a lot hotter than the lava we see in the news. A significant fraction of Earth's crust is SiO₂ based and it's boiling point is roughly 3,000°C, and I have a hunch the temperatures involved here are much much higher than that. The kinetic energy associated with say a relative velocity of 40 km/s is roughly 8 eV per AMU, over 130 eV for every oxygen atom for example.
+So does "rock vapor" start out as a highly ionized "rock plasma" with almost no covalent bonds remaining, or does most of the energy of the original impactor get transferred to a much greater mass of Earth?
+Is there a good place to read about her and her students' MacArthur grant-getting research described in the podcast?

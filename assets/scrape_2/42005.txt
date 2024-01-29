@@ -1,0 +1,4 @@
+Star Map Vs Star Catalogue vs Planetarium Software
+
+What is the difference between a star map, star catalogue and the sky provided by planetarium software? I have read the wiki but was having a hard time understanding how the data, accuracy and detail for the star sky created out of each of these sources vary.
+For example catalogues have properly studied specific stars, I assume, this means they will have the highest accuracy. But they are having only a small number of stars compared to a software like Stellarium. But I couldn't understand about the data accuracy or precision details of such software. Looking to understand more on the data accuracy and precision of skies. Thanks in advance.

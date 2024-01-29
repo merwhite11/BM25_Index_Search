@@ -1,0 +1,72 @@
+Closest path of solar eclipse central line
+
+I'm trying to calculate the closest path of the center line of a given eclipse at a given time by using its besselian elements; However i'm getting an error range up to 30 km (18.6 mile) in the worst case and 5 km (3.1 mile) in the best case (both cases was compared with F. Espenak prediction)
+Lets use eclipse of August 12, 2026 at 18:00 UTC.
+F. Espenak prediction: 58°16.1'N   021°34.4'W (58.2683, 21.5733)
+My prediction: 58°16.8'N 21°47.4'W (58.2795, 21.7901)
+The difference is close to 13 km (8 mile) which is too big for my application so I need to refine/review the procedure/algorithm I'm using.
+Calculus
+Given the following besselian elements:
+e20260812 = {
+    t0: 18.00, At: 72.3,
+    x0: 0.475510, x1: 0.518923, x2: -7.727e-05, x3: -8.039e-06,
+    y0: 0.771185, y1: -0.230167, y2: -1.246e-04, y3: 3.767e-06,
+    d0: 14.796683, d1: -0.012065, d2: -3.098e-06, d3: 0.0,
+    l10: 0.537974, l11: 0.000094, l12: -1.212e-05, l13: 0.0,
+    l20: -0.008142, l21: 0.000093, l22: -1.206e-05, l23: 0.0,
+    u0: 88.747810, u1: 15.003090, u2: 1.764e-06, u3: 0.0,
+    tanf1: 0.004614,  tanf2: 0.004591
+}
+
+(At represents $\Delta T$)
+0 - Reference timestamp.
+Where t1 = 18.00
+t = t1 - t0 + At/3600.0
+
+1 - Time dependent calculus
+x = x0 + x1 * t + x2 * t^2 + x3 * t^3
+y = y0 + y1 * t + y2 * t^2 + y3 * t^3
+d = d0 + d1 * t + d2 * t^2 + d3 * t^3
+u = u0 + u1 * t + u2 * t^2 + u3 * t^3 
+
+2 - Location dependent calculus
+Initially I'm using ro=1.0 and following the below sequence to obtain an approximation of phi, which is the Latitude.
+ro = 1.0
+e = 0.0818192 // earth eccentricity 
+sin_d = sin(d * pi / 180.0)
+cos_d = cos(d * pi / 180.0)
+zeta = sqrt(ro^2 + x^2 + y^2)
+cos_theta = (-y * sin_d + zeta * cos_d) / ro
+sin_phi_1 = (y * cos_d + zeta * sen_d) / ro
+cos_phi_1 = sqrt( (x/ro)^2 + cos_theta^2 )
+phi_1 = asin(sin_phi_1) / pi * 180.0
+phi = atan(sin_phi_1 / cos_phi_1 / sqrt(1 - e^2)) / pi * 180.0
+
+At this point phi = 58.1224 for 18:00 hs UTC.
+Once phi was calculated, we recalculate ro as follow to get a better approximation of phi and varpi (not yet calculated)
+sin_phi = sin(phi * pi / 180.0)
+ro1 = sqrt( (1 - 2e^2 * sin_phi^2 + e^4 * sin_phi^2) / (1 - e^2 * sin_phi^2) )
+
+Applying the updated ro (now ro1), we update sin_d and cos_d as follow:
+sin_d1 = sin_d / ro1;
+cos_d1 = sqrt(1-e^2) * (cos_d / ro1)
+
+And update zeta and cos_theta
+zeta1 = sqrt(ro1^2 + x^2 + y^2)
+cos_theta1 = (-y * sin_d1 + zeta1 * cos_d1) / ro1
+
+Finally we calculate vapri (the Longitud) as follows:
+tan_theta = x / cos_theta1
+theta = atan( tan_theta ) / Math.PI * 180.0
+vapri = u - theta * ro1
+
+and recalculate phi by doing:
+cos_phi2 =  cos_theta1 / cos(theta / 180.0 * pi)
+phi1 = acos(cos_phi2) / pi * 180.0 
+phi = atan(tan(phi1 / 180.0 * pi) / sqrt(1 - e^2)) / pi * 180.0
+
+At this point phi = 58.2795 , vapri = 21.7901 for 18:00 hs UTC (both values MUST be properly signed but I omitted that trivial part) a significant difference compared with the NASA prediction: 58.2683, 21.5733 (13 km or 8 mile)
+My feeling is that ro1 in not good enough precise, so the final results get shifted, but I have no idea at all about how to getting unblocked.
+I'm using 64 bit floating point calculator; It is ok for this kind of calculus?
+Is this method good enough to get an error range near to 500m? if not, could you provide a method/fix to achieve that aim.
+Any help would be appreciated.

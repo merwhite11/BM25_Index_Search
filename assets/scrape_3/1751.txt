@@ -1,0 +1,4 @@
+Can someone explain a Geostationary Orbit in a simpler way?
+
+According to Wikipedia (link),  a geostationary orbit, geostationary Earth orbit or geosynchronous equatorial orbit (GEO), is a circular orbit 35,786 kilometres (22,236 mi) above the Earth's equator and following the direction of the Earth's rotation. An object in such an orbit has an orbital period equal to the Earth's rotational period (one sidereal day), and thus appears motionless, at a fixed position in the sky, to ground observers.
+My question is then couldn't any orbit be a GEO? I mean, what about a satellite in an orbit that's say 70,000km, if the angular speed of the satellite was the same as the earth's rotation such that it always stayed in a fixed position when observed from the Earth, then isn't that a GEO orbit as well?

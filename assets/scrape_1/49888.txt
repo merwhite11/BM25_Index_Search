@@ -1,0 +1,18 @@
+python skyfield hipparcos sun mean longitude (L)
+
+I calculate the ra and decl or the stars as below.
+Can I add the sun's mean longitude L (=M+w) to:
+ra, dec, distance = apparent.radec('date')
+
+from skyfield.api import Star, load
+from skyfield.data import hipparcos
+with load.open(hipparcos.URL) as m:
+    df = hipparcos.load_dataframe(m)
+            
+planets = load('de421.bsp')
+earth = planets['earth']
+ts = load.timescale()
+t = ts.now()            
+name_star=Star.from_dataframe(df.loc[hip[x]])           
+apparent= earth.at(t).observe(name_star)            
+ra, dec, distance = apparent.radec('date')

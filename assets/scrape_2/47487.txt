@@ -1,0 +1,38 @@
+Skyfield missing some rise and set dates
+
+To compute the Andromeda Galaxy Risings and Settings I essentially use this code (in a more colplex code, but this serves the purpose):
+from skyfield import api, almanac
+from skyfield.api import N,S,E,W, wgs84, load, Star
+
+ts = api.load.timescale()
+eph = api.load('de421.bsp')
+t0 = ts.utc(2021, 11, 1)
+t1 = ts.utc(2021, 11, 13)
+
+#The object
+andromeda = Star(ra_hours=(00, 42, 44.330), dec_degrees=(41, 16, 7.50), parallax_mas=6.0, radial_km_per_s=-300, names=("Andromeda"))
+
+#The Location
+location = api.wgs84.latlon(46.1927800 * N, 9.0170300 * E, elevation_m=200 )
+
+rise_set = almanac.risings_and_settings(eph, andromeda, location)
+riseset_time, isrise = almanac.find_discrete(t0, t1, rise_set)
+for riseset_time_u, isrise_u in zip(riseset_time, isrise):
+    print(riseset_time_u.utc_iso(), 'Rise' if isrise_u else 'Set')
+
+I do optain this results
+2021-11-04T07:51:31Z Set
+2021-11-04T10:33:33Z Rise
+2021-11-05T07:47:35Z Set
+2021-11-05T10:29:37Z Rise
+2021-11-06T07:43:39Z Set
+2021-11-06T10:25:41Z Rise
+2021-11-07T07:39:43Z Set
+2021-11-07T10:21:45Z Rise
+2021-11-08T07:35:47Z Set
+2021-11-08T10:17:49Z Rise
+2021-11-09T07:31:51Z Set
+2021-11-09T10:13:53Z Rise
+
+Now the problem is that t0 is set on November the 1st, but the rises_and_settings function does not return any result before the Novembre 4th.
+Why is that?

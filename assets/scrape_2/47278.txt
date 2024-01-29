@@ -1,0 +1,16 @@
+Calculation of time delay in NASA's STEREO project
+
+I'm trying to solve this task:
+
+Astronomers recently managed to get an image of the entire surface of the Sun for the first time. This became possible thanks to the STEREO project.
+
+
+In 2006, two identical spacecraft were launched from the Earth - probes STEREO A and STEREO B. Both probes made a gravitational maneuver in the gravitational field of the Moon, after which one of them began to move in an orbit around the Sun, located a little closer to Earth, the other in orbit, located a little further. One spacecraft began to overtake the Earth in its movement around the Sun at a speed of 20 ° per year, while the other began to lag behind it by 20 ° per year. And on February 6, 2011, the spacecraft found themselves in diametrically opposite points of their orbits, which made it possible to obtain an image of the entire surface of the Sun in real time.
+
+
+Calculate what time delay astronomers on Earth should have taken into account at this moment when combining data from two spacecraft into one "picture"? Consider the orbit of the Earth circular, the orbits of the probes - circular and lying in the plane of the ecliptic.
+
+I assumed that the picture should be something like that:
+
+Here S - Sun, A - stereo A, B - stereo B, E - Earth. If they move the same distance from the Earth then triangle ABE is isosceles (AE=AB). Also SA=SB=SE=1au. That means AE=BE=√2. In kilometers that would be √2 * 15 * 10^7. After that we can divide this value by the speed of light and get the time for the signal to reach Earth. When I calculated it I got 707 seconds or 11,8 minutes.
+Are these idea and answer correct?

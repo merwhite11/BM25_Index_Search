@@ -1,0 +1,3 @@
+How many galaxies have had their distance determined using SNIa?
+
+Supernovae of type Ia can be used as standard candles to determine extra-galactic distances. But these event only occur (roughly) once every 200 years in any given galaxy and rapidly fade away. So to actually see a supernova in another galaxy, you have to be observing a lot of galaxies for a long time. This makes it seem like this isn't a very practical method to determine extra-galactic distances. To how many galaxies has the distance been determined using type Ia supernovae?

@@ -1,0 +1,3 @@
+How to make projection from altitude and azimuth to screen with screen coordinate system?
+
+Thanks to @ohoh for helped translate ra and dec into alt and az. Now that I have this data(altitude and azimuth), how can I plot it in something like this, with the coordinate system going like this?

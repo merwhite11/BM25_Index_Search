@@ -1,0 +1,70 @@
+Geographical Point of the Sun
+
+I want to draw a Sun in a 3d scene, so I figured the easiest way would be to calculate the latitude and longitude of the point perpendicular to Sun position and then just move it "up".
+As a starting point, I want to calculate it's equatorial coordinates: declination and right ascension.
+I followed instructions from this page, also cross-referencing with this one
+Here's my code (in Swift):
+import Foundation
+
+class Astronomy {
+
+  static func julianDays(since: Date) -> Double {
+    return since.timeIntervalSince1970 / 86400 + 2440587.5
+  }
+
+  static func daysSinceJ2000(for date: Date) -> Double {
+    return julianDays(since: date) - 2451545
+  }
+
+  static func sunAxialTilt(for daysSinceJ200: Double) -> Double {
+    return 23.4393 - 3.563e-7 * daysSinceJ200
+  }
+
+  static func sunEquatorialPosition(on date: Date) -> (declination: Double, RA: Double, distance: Double) {
+    let daysSinceGreenwichNoon = daysSinceJ2000(for: date)
+    var meanLongitude = 280.460 + 0.9856474*daysSinceGreenwichNoon
+    var meanAnomaly = 357.528 + 0.9856003*daysSinceGreenwichNoon
+    meanLongitude = meanLongitude.rangedUpTo360
+    meanAnomaly = meanAnomaly.rangedUpTo360
+    let eclipticLongitude = meanLongitude + 1.915*sin(meanAnomaly.radians) + 0.020*sin(2*meanAnomaly.radians)
+
+    let distanceToEarth = 1.00014 - 0.01671*cos(meanAnomaly.radians) - 0.00014*cos(2*meanAnomaly.radians)
+
+    let axialTilt = sunAxialTilt(for: daysSinceGreenwichNoon)
+    let rightAscension = atan2(cos(axialTilt.radians)*sin(eclipticLongitude.radians), cos(eclipticLongitude.radians))
+    let declination = asin(sin(axialTilt.radians)*sin(eclipticLongitude.radians))
+
+    return (declination: declination.degrees, RA: rightAscension.degrees, distance: distanceToEarth)
+  }
+}
+
+extension Double {
+  var radians: Double {
+    return self * .pi / 180
+  }
+
+  var degrees: Double {
+    return self  * 180 / .pi
+  }
+
+  var rangedUpTo360: Double {
+    let multiples = (self/360).rounded(.down)
+    return self - 360*multiples
+  }
+}
+
+However, it does not seem to be working correctly. As of the time I write this article, the result is declination -16.98772292697088, RA -44.80674952684117. Compared with https://theskylive.com/sun-info the declination is about right (-17° 03’ 38”), but right ascension is way off:  20h 59m 43s, which is 314.93 degrees according to this site
+What went wrong?
+Edit:
+As it turned out nothing was wrong, I can get to the second part: calculating the geographical point. (the title suggests it after all)
+AFAIK for latitude, I can use declination as is and for longitude, I 
+need to calculate Greenwich Hour Angle(GHA)
+After examining several articles, I found these equations:
+SHA[°] = 360 – 15 · RA[h] 
+GHAAries[°] = 15 · GST[h] 
+GHA = SHA + GHAAries 
+
+For my case, I suppose I may use RA as is, without multiplying its hour component by 15. What keeps me a bit puzzled is GST:
+
+May I use Greenwich Mean Sidereal Time instead if I don't need the calculations to be super precise?
+Is there any "GST for dummies"? All the calculations I found rely on some floating second offset, I found this table but have no idea how to use it.

@@ -1,0 +1,17 @@
+Is there a certain thermal inertia for maximum Yarkovsky?
+
+The video below summarizes current work at asteroid 101955 Bennu by OSIRIS-REx to characterize its properties to provide better estimates of the Yarkovsky effect1's impact on its trajectory for an approach to Earth in the 22nd century.
+
+OSIRIS-REx greatly improved our knowledge of Bennu’s position, density, thermal inertia, and other properties that can influence how its orbit will evolve over time. The new data allowed scientists to significantly reduce uncertainties in Bennu’s predicted orbit, ruling out a number of keyholes for the 2135 flyby, and eliminating several future impact scenarios.
+
+Question: How do things like thermal inertia, visible light albedo, thermal infrared emissivity and rotation rate interact to produce Yarkovsky? For a given scenario is there a certain inertia that produces "the maximum Yarkovsky"?
+
+Related:
+
+How can a 1-pixel image of a rotating asteroid be used to measure its thermal inertia?
+Do all dangerous asteroids first pass through keyholes?
+Understanding gravitational keyhole analysis for Near-Earth Objects
+Wikipedia's Gravitational keyhole
+
+
+1not to be confused with the Yarkovsky–O'Keefe–Radzievskii–Paddack (YORP) effect. For more on that see What is the YORP effect exactly? Is it just the non-central component of the Yarkovsky effect?

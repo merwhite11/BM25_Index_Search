@@ -1,0 +1,7 @@
+meaning of p-wave charmonia
+
+What exactly does p-wave mean when referring to particles, like charmonia states. 
+For example, see the following reference:
+http://arxiv.org/abs/hep-ph/9208254
+My doubt is - p wave in scattering means l=1. But how is that used to label a particle state?
+Thanks.

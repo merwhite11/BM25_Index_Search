@@ -1,0 +1,21 @@
+Calculation of Terrestrial and Universal time scale difference, ΔT
+
+$\Delta$T is defined as the 'measure of the cumulative effect of the departure of the Earth's rotation period from the fixed-length day of atomic time'.
+I tried to calculate $\Delta$T corresponding to October 17, 2003 05:30:30 UT. This calculation of $\Delta$T is achieved through the following equations.
+1.) UTC = UT1 - DUT1.
+We have UT1 = October 17, 2003 05:30:30 UT.
+From IERS Bulletin D (No. 89), DUT1 from April 3, 2003 0 hour UTC up to further notice is -0.4 seconds. Bulletin D No. 90 was issued on March 24, 2004. Therefore, DUT1 = -0.4 seconds.
+UTC = UT1 - (-0.4 seconds) = UT1 + 0.4 seconds. This provides UTC = October 17, 2003 05:30:30.4
+2.) TAI = UTC + Delta AT.
+'$\Delta$AT' from 1999-01-01 to 2005-12-31 was +32.0 seconds. This provides TAI = October 17, 2003 05:31:2.4
+3.) TT = TAI + 32.184 seconds.
+This provides TT = October 17, 2003 05:31:34.584
+4.) Delta T = TT - UT1
+This provides $\Delta$T = 00:01:4.584 = 64.584 seconds.
+Thus, the computed value of '$\Delta$T' for October 17, 2003 05:30:30 UT is 64.584 seconds.
+This calculated value of '$\Delta$T' needs to be compared with the literature.
+1.) From 2003-1-1 to 2003-12-1, the website
+'http://maia.usno.navy.mil/ser7/deltat.data' provide 64.4734 to 64.5654 seconds.
+2.) From 2003-1-1 to 2004-01-01, the website
+'https://www.stjarnhimlen.se/comp/time.html' provide +64.47 to +64.57 seconds.
+Would someone help to understand the accuracy of the calculated 'Delta T' against the numbers provided on the websites.

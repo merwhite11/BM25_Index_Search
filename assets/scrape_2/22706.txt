@@ -1,0 +1,4 @@
+Get visible galactic longitudes in astropy
+
+I would like to know which part of the Milky Way is currently up. Preferably using astropy. The ingredients I have are the current time, and my current position on earth. How would I use these to get the minimal and maximal galactic longitude currently up?
+(I know how to convert from Alt-Az to Galactic coordinates, but I don't know at which azimuth the galactic plane crosses the horizon at altitude=0.)

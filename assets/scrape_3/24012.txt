@@ -1,0 +1,7 @@
+How to calculate when Mars was in retrograde around 129 BCE?
+
+I am trying to make an accurate illustration of the sky from when Ptolemy was observing the planets in Greece. 
+I am trying to find out when Mars was in retrograde during those years. I have read both SE questions and answer about how to calculate it mathematically but both of those are a little over my head. 
+Some of the silly astrology sites have the retrograde dates listed back the 1930s, I want to know what were the dates Mars was in retrograde around 129 BC. 
+https://physics.stackexchange.com/questions/249493/mathematically-calculate-if-a-planet-is-in-retrograde
+https://physics.stackexchange.com/questions/288023/mathematically-calculate-if-a-planet-is-in-apparent-retrograde-motion

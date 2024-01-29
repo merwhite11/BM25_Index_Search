@@ -1,0 +1,7 @@
+What is the "lost light" in this unusual Hubble Deep Sky image?
+
+The Daily Galaxy article “The Lost Hubble” –New! Deepest Image of the Universe Ever Taken says:
+
+To produce the image a group of researchers from the Instituto de Astrofísica de Canarias (IAC) led by Alejandro S. Borlaff used original HUDF images from the Hubble Space Telescope. After improving the process of combining several images the group was able to recover a large quantity of light from the outer zones of the largest galaxies in the HUDF. Recovering this light, emitted by the stars in these outer zones, was equivalent to recovering the light from a complete galaxy (“smeared out” over the whole field) and for some galaxies this missing light shows that they have diameters almost twice as big as previously measured.
+
+The image looks really strange, what is going on? Is there a technical article associated with this work?

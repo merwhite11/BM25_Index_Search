@@ -1,0 +1,6 @@
+Why doesn't the Sun wobble towards Jupiter instead of away from Jupiter?
+
+This is the page I am referring to. It seems counterintuitive to me that the Sun should be on the opposite side of the barycenter's wobble.  I realize I am wrong, but I cannot see why I am wrong.  Can someone explain why the wobble is away from Jupiter, not towards Jupiter?
+Here is an unedited screenshot of the NASA animation - it shows the sun on the opposite side of the green line (barycenter) as Jupiter.
+
+My logic says, since gravity is in play here, the Sun and Jupiter should be on the same side of the green line.   I have edited NASA's image in MS Paint to show what I think should be happening:

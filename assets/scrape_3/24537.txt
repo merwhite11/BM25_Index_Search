@@ -1,0 +1,5 @@
+In galaxy optical spectra, why are Hbeta and Hdelta sometimes absorption lines?
+
+I've heard that $\mathrm{H\beta}$ and $\mathrm{H\delta}$ lines in galaxy spectra might be either emission lines or absorption lines, is that correct?
+From Wikipedia, Balmer lines are usually emission lines in the spectra of spiral and irregular galaxies probably due to the presence of type A stars. If ellipticals lack hot (O, B and A type?) stars, and are gas poor(?), then is it the remaining stars doing the absorbing?
+Also, are the CaII-H and -K doublet ever emission lines?

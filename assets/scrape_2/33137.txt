@@ -1,0 +1,5 @@
+Can the patterns in the CMB be detected by off-the-shelf antennas/sensors?
+
+I recently wrote a paper (will attach soon if feasible) for an astronomy class that analyzed the usefulness of the Cosmic Microwave Background as a static reference for attitude determination. The main benefit of this over other attitude determination techniques is that the CMB has a constant pattern, even in intergalactic space. There is some variation over time, but it’s on the order of 1000+ years.
+I was able to apply common computer vision algorithms to match randomly rotated rendered images of the CMB to their respective RA, Dec, Roll coordinates. These (completely unoptimized) algorithms tended to require a field of view of (Will find this in a moment) and a resolution of (Will find this in a moment) to be reasonably accurate.
+One of my main assumptions is that it would be feasible to make a detector with sufficient resolution and signal-to-noise to be able to spot the CMB variation patterns within a few hours of observation. Is this true? What level of volume, specialization, and/or budget would be needed for this sensor: Cubesat? Smallsat? James Webb Space Telescope?

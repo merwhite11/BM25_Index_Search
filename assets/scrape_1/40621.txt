@@ -1,0 +1,5 @@
+Semi-major axis vs. apogee and perigee of orbit
+
+This article on Wikipedia about Sedna states that its aphelion is 937 AU, its perihelion is 76 AU and its semi-major axis is 484 AU.
+I would have expected the SMA to be half of the sum of the aphelion and perihelion. Is the article in error, or is there a difference that I'm not aware of?
+I know apoapsis and periapsis are sometimes given relative the surface of the object being orbited, see this thread, but the effect should be negligible in this case and would anyway work in the opposite direction. Anything else I'm not seeing?

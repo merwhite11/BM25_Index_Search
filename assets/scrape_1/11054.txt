@@ -1,0 +1,4 @@
+How do you calculate length of day in a multiple-star system?
+
+How can you calculate the length of day for a planet (given a particular latitude and longitude on that planet) orbiting multiple stars?
+What about a planet that is orbiting one star, but that star has another star orbiting it?

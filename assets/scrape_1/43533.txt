@@ -1,0 +1,5 @@
+Is the difference between LIGO & Virgo and their "Advanced" versions really generational, or were these just planned incremental upgrades?
+
+I just learned the term "third generation gravitational wave detector" in answers to What would a kHz gravitational wave detector look like? (mountains on millisecond magnetars) How would it differ from LIGO/Virgo?
+Wikipedia's Gravitational wave observatory; Interferometers lists LIGO and Virgo as 1st generation, and Advanced LIGO and Advanced Virgo as second generation.
+Is the difference between the originals and the "Advanced" versions really generational or were these just planned incremental upgrades that were just waiting for funding once the basic systems had demonstrated they worked as planned?

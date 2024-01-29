@@ -1,0 +1,4 @@
+how to calibrate a working star map to provide jump coordinates and executable jump data
+
+so, my question for today is:
+how are coordinating points going to be used in star maps for navigating and space jumps?  I know that jumping is possible. I have actually seen a jump.   but the nav maps aren't going to be like our gps satellites are using now.  no google maps to tell us how to get somewhere.

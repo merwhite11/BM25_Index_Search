@@ -1,0 +1,15 @@
+Open source library to calculate image from signals of a distributed set of radio dishes?
+
+The National Radio Astronomy Observatory's Q&A "How To Make Images With a Radio Telescope" says
+
+The most straightforward way to make a radio image with your satellite antenna system, then, is to use an array detector, which I believe would be very difficult to find.  Alternatively, one can make an image by pointing an antenna to an array of nearby positions on the sky then creating a contour map of the measured signal strength.  This is a rather slow process, though, that only produces an image much later, after you have gathered all of your individual pointing measurements.
+
+Assume now that a lot of people all over a continent (e.g. Europe) would have (fixed, non-moveable) radio dishes pointing somewhere into the sky, with their field of view somewhat overlapping. They have different dishes and different receivers. However, given their exact location on the globe, knowing their exact time-stamp of observation, at least theoretically, I should be able to combine the measured time-series of radio-signals to a radio-image of the sky, correct?
+The idea already bothers me a while and I am wondering whether there is some open source software I should be aware of to tackle the problem of caculating such an image, ideally in python (but possibly in any other programming language).
+Any input is appreciated!
+Related
+
+Radio Astronomy and Imaging
+In astronomical interferometry, what values do the points in the uv-plane have?
+Can one build a distributed radio telescope?
+How big a dish do I need for radio astronomy?

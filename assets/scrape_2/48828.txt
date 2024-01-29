@@ -1,0 +1,6 @@
+How can I calculate my position (lat/lon) given a sequence of solar-elevation measurements at known times?
+
+The "forward" problem (given time and lat/lon, find solar position angles) is well documented, e.g. here.  I am trying to figure out the "inverse" problem: given time and [a sequence of] solar elevation measurements, find lat/lon.
+There are some obvious special cases; for example, if I record the exact times of sunrise and sunset, then my location lies at an intersection of solar-terminator great circles.
+More generally, at any given time during the day, if the solar elevation is phi, than my location must lie somewhere on the [non-great] circle of constant phi solar elevation.  It should be possible to calculate this continuously and, if I am moving, come up with a quasi-real-time position estimate.
+Celestial navigation is the right body of knowledge, but all of the references I've found assume labor-intensive measurement (i.e. sextants) and simple hand calculations.  I can sense the input data autonomously and continuously, and I have a computer available.

@@ -1,0 +1,13 @@
+Creating planispheres from the perspective of nearby objects
+
+I'm attempting to create a set of [reasonably] astronomically accurate planispheres from the perspective of observers positioned at the north or south poles of various nearby celestial objects. So basically looking out with a 180˚ FOV of each celestial hemisphere. 
+Using Stellarium and some information I found on this site, I've been able to piece together some decent enough reference images that I should be able to use for this project.
+Example: Earth's northern celestial hemisphere
+
+I've been able to make them for objects as far out as Pluto. But... I want to go farther. Let's say Alpha Centauri A.
+As far as I know Stellarium doesn't allow you to mount yourself to an object outside of the greater Solar System. This is unfortunate.
+I discovered Celestia, which I thought would be the answer. Using Celestia one can fly out to distant stars and wow, what a view!
+
+The problem is that Celestia can't bump the FOV past ~124˚. Manually forcing it to 180˚ causes the program to glitch out.
+And here I am. I just can't seem to figure out a way to do this. I've been stuck on this for some time now.
+Does anyone know of any software or other tools that may be useful for this project? Celestia has shown me that it's possible. I feel like I'm really close.

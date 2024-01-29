@@ -1,0 +1,3 @@
+Where does FireCapture save FITS photos during recording?
+
+I made a lot of FITS photos yesterday and accidentally the laptop battery was discharged and it was turned off before I pressed the stop button. Now, I don't see that last session in folder with other captures. Was that photos lost? Or does it saved in some temporary folder and can I restore it?

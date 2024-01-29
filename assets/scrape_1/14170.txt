@@ -1,0 +1,5 @@
+What is the distribution of organic compounds in the Milky Way Galaxy?
+
+I imagine the answer is unknown for the entire galaxy, but I would appreciate a notion of the scales and locations of regions where astronomers have ventured at least a guess to the distribution of organic matter in interstellar dust.
+Updated
+I am specifically looking for plots showing the distribution of some selected organic compounds (doesn't really matter which ones right now) within a given section of the sky.  Or, if possible, within a given arc and range with respect to the galactic center (again, if possible).

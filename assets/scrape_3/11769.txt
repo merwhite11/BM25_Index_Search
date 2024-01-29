@@ -1,0 +1,13 @@
+How to get error out of astropy constants
+
+How do I get the error value out of an astropy.constants quantity?
+In [87]: from astropy import constants as c
+
+In [88]: c.M_sun
+Out[88]: <Constant name='Solar mass' value=1.9891e+30 error=5e+25 units='kg' reference="Allen's Astrophysical Quantities 4th Ed.">
+
+In [89]: c.M_sun.value
+Out[89]: 1.9891e+30
+
+In [90]: c.M_sun.error
+AttributeError: 'Constant' object has no 'error' member

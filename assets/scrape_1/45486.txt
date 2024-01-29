@@ -1,0 +1,6 @@
+What's the expected distribution of planet masses in a given system?
+
+Given that the mass of a planet at a given orbital distance r is dependent on the protoplanetary material in the neighborhood of r at the time of formation (assuming no planetary migration), what functional form do we expect the masses of planets around a star in theory?
+My initial guess was $M(r) \propto r e ^{-r} $, which is roughly similar to our own solar system (with a minimum near the origin, a peak at Jupiter, and then decreasing as you move out again). This is from taking a guess to the density of of protoplanetary material around a young star as $e ^{-r} $, and then multiplying this by the volume of a ring at distance r from the star, $ 2 \pi r 
+ \cdot dA$.
+Is my guess correct? Do we expect planet masses to be distributed in such a way? Or is there another functional form that is more accurate?

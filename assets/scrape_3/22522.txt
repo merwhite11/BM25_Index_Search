@@ -1,0 +1,10 @@
+What kind of a visual trajectory would an asteroid have if it were to hit Earth?
+
+Let's say that Peter has a set of superb telescopes and he's watching the sky every night, for 3-4 months. He may not know it just yet, but there is an asteroid heading towards Earth, on a crash course. He is too lazy to plot an orbit, because he doesn't believe he could die like that.
+Over the months the Earth travels quite a lot around the Sun, resulting in various amounts of parallax, depending on the distance. The location of the telescopes are also a factor, and so is the (rotation of the) axis of Earth.
+To simplify this and to get rid of Earth radius parallax, Peter is a researcher on the South Pole with those mighty telescopes.
+Over the course of months, what kind of a trajectory would a doomsday asteroid make? As it gets bigger/brighter (which is also relative, because the asteroid itself can rotate)/closer, how would its position change, compared to the stars in the background?
+Would the change slow down or accelerate? Would it be a small piece of a spiral (I don't mean complete spirals, just the fact that it wouldn't be a parabola or a circle)? What do you think Peter would see if he animated its movement during the course of months on a virtual sky sphere?
+The National Geographic article Asteroid Called ‘Spooky’ Will Buzz Earth on Halloween has an animation of the trajectory of asteroid 2015 TB145 (nicknamed Spooky because it looks like a skull).
+16 minutes apart visual timelapse:
+https://upload.wikimedia.org/wikipedia/commons/e/ec/2015_TB145_discovery.gif

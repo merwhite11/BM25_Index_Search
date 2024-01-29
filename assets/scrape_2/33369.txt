@@ -1,0 +1,5 @@
+Redshift, velocity, distance
+
+How are redshift, (recessional) velocity and distance of a galaxy related?
+I understand what v=HD states. So I assume that Hubble measured a direct relation between the distance and recessional velocity of a galaxy.
+I get confused about the relation between the redshift and the other two. Is there a direct relation between the redshift and the distance and between the redshift and the velocity of a galaxy?

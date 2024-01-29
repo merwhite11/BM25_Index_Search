@@ -1,0 +1,11 @@
+Is it possible to create a traditional clock solar system?
+
+Is it possible to create the following system of satellites?:
+
+Place a satellite that orbits the some object X, once per day. Call it D.
+Place a satellite that orbits D, once per hour. Call it H
+Place a satellite that orbits H, once per minute. Call it M.
+Place a satellite that orbits M, once per second. Call it S.
+
+If possible, what are some values for the weights, rotational speed, and radii that would work?
+Also, does the universe have a limit on how many layers of satellite systems it permits?

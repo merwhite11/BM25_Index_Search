@@ -1,0 +1,8 @@
+What are Ellerman bombs and how can we identify them?
+
+Have you ever heard about Ellerman bombs? Spaceweather.com talks about them on their news page. You could see some of them around sunspot AR2835:
+
+
+Ellerman bombs are magnetic explosions about one-millionth as powerful as true solar flares. They are named after physicist Ferdinand Ellerman who studied the tiny blasts in the early 20th century. Of course, "tiny" is relative. A single Ellerman bomb releases about $10^{26} {\rm ergs}$ of energy--equal to about 100,000 World War II atomic bombs.
+
+My question: Is the term Ellerman bombs really used widely used? Is there a commonly accepted definition? Also: How exactly have their locations been identified in the picture above?

@@ -1,0 +1,7 @@
+Mass range of a sub-brown dwarf
+
+Sub-brown dwarfs are celestial object that have planetary mass or are termed "Planetary mass object/planemos". They do not lie in the range 13-80 MJ that defines "normal" brown dwarfs, which is the range from the boundary for deuterium fusion and the minimum mass of a star. So is there a lower mass limit for a sub-brown dwarf? Wikipedia has it being around 1 Jupiter mass however this is the mass of the nebula a sub brown dwarf can form from.
+The maximum would probably be 13 MJ but what is the minimum? I think since the definition of a planemo is "a celestial object massive enough to achieve hydrostatic equilibrium", so it might be calculated using this.
+Difference between Planet and Sub-brown dwarf:
+Moreover Planemo's are kind of an grey area i.e superposition between a planet and an star
+To clarify I am asking what is the lower mass limit for an object of low-mass that forms in isolation from a collapsing cloud and not in a Circumstellar disk where planets form (which is an further form of categorization to resolve  "where planemos are there  thus we can not conclude whether it is a star or an planet")?

@@ -1,0 +1,3 @@
+Equation to find distance between objective and eyepiece
+
+I have a home made astronomical telescope with 100 cm objective lens and 5 cm eyepiece.when viewing an object in infinity the distance between eyepiece and objective is 105 cm. So how could I calculate distance between objective and eyepiece for and far away object.For example a planet 1 AU from earth how much should be the distance between objective and eyepiece ?

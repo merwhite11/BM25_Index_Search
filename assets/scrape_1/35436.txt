@@ -1,0 +1,5 @@
+What is the actual temperature of a quasar?
+
+My daughter asked me last night: What is the hottest thing in the universe?
+The first thing that sprang to mind was the core of a fresh neutron star (this question agrees: What is the hottest thing in the universe?), so I told her that and then tried to verify it on the Internet. Unfortunately, most of the articles online claimed that the hottest things in the universe are quasars, since they have a "brightness temperature" of 10 trillion kelvin. That sounded fishy, and a review of the literature revealed that brightness temperature has no direct relationship to actual temperature.
+Poor journalistic practice aside, what is our best estimate of the temperature of these objects?

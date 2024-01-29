@@ -1,0 +1,8 @@
+How does this Toomre GI criteria have the period in the denominator?
+
+I saw this equation in a literature review recently talking about the Toomre criterion for gravitational instability:
+
+Given here in section 2.1.1: https://arxiv.org/pdf/1801.06117.pdf, viz.
+But I am not seeing how they got the period to be in the denominator from my own workings i get it in the numerator:
+
+What am I misunderstanding here? How did they get the orbital period in the denominator ?

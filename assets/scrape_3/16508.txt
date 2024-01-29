@@ -1,0 +1,14 @@
+Future redshifting and effect on the 'pitch' of CMB radiation
+
+After discovering this question exploring the sound of a blackbody, I started wondering about the sound of the Cosmic Microwave Background radiation from the Big Bang, specifically what the current pitch might be at its peak frequency and how that might evolve over time due to redshifting. Here's what I've been able to deduce so far:
+$$
+pitch_{CMB} = 160.4\,GHz \approx D_{33} = 157.7\,GHz
+\\
+pitch_{CMB}\,lowered\,by\,30\,octaves = {160.4\, GHz \over 2^{30}} = 149.38\, Hz \approx D_3 = 146.83\,Hz
+$$
+Building on this result:
+How much time will need to elapse before the CMB redshift will cause this pitch to drop by an octave (or even by a semitone)?
+How much variability would this pitch have depending on the dipole anisotropy of the CMB from our perspective as well as due to more generalized anisotropies in the CMB?
+What pitch would the peak value of this blackbody have had at earlier points in the history of the Universe?
+
+I've tried to apply some of the information in this question and elsewhere, but would greatly appreciate hearing from someone with more expertise in the subject area if this unorthodox comparison has piqued your interest like it has mine.

@@ -1,0 +1,4 @@
+Is there a limit to the size of a black hole?
+
+The mass of a star is limited to about a couple of hundred solar masses. The fusion rate scales strongly with density (which is why the most massive stars have extremely short lifetimes) so if a star was massive enough (above the Eddington limit) then the radiation pressure would blow it apart.
+Now a black hole also has radiation, but by definition it is not capable of escaping due to gravity. But is there in some way a limit of the size. Imagine that all the matter in the universe formed a black hole. Should that be possible or is there a law which forbids creating it?

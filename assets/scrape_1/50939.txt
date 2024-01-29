@@ -1,0 +1,11 @@
+How a sunspot number is calculated by an individual observer?
+
+How a sunspot number is calculated by an individual observer?
+I would like to learn how to calculate the daily number of sunspots and where to get daily input images of the Sun.
+I have read tens of web links and none mentioned or described any algorithm to work for the calculation of the sunspot number.
+https://analyzer.depaul.edu/paperplate/Tracking%20Sunspots.htm
+What is the number of sunspots in this paper plate drawing?
+https://analyzer.depaul.edu/paperplate/images/Sun_trace_Clyde_zoomR.jpg
+visited NOAA, NASA, ESA, SILSO
+https://www.sidc.be/silso/dayssnplot
+and still no hint and how numbering, encoding is assigned to individual sunspots in the paper plate drawing  (as above).

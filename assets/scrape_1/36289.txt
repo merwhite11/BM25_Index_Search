@@ -1,0 +1,4 @@
+How to model blazar light curves
+
+I have SED data spanning over a couple of days and I'm able to find the parameters of the SED (R, B, break energy,...) using least squares method. My question is how to model light curves (with t_acc, t_esc, ...) from the data that I have. 
+Example of what I want to do is in the image below (the black dots are actual observed data and the red line is the model that I want to create):

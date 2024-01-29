@@ -1,0 +1,3 @@
+How common are exoplanets in distant orbits?
+
+Are there many single transits in the Kepler data, which might be exoplanets with a longer orbital period than the time they have been observed for transits? Can any conclusions be drawn about how common they are? Is there reason to believe that the outer solar system is a common configuration? I suppose that slow moving planets are hard to detect also with doppler measurements. Will the upcoming telescopes aimed at nearby stars be able to find 10+ AU orbital radius planets?

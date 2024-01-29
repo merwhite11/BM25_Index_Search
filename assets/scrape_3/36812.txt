@@ -1,0 +1,16 @@
+How does the Eddington limit make the gravitational field of stars asymmetric?
+
+This answer to Is the gravitational field of the sun uniform? says:
+
+Very large stars are asymmetric due to being close to the Eddington limit. The Sun is too small of a star to have the kind of gravitational anomalies that very large stars and rocky planets exhibit.
+
+which is really interesting but leaves me unsatisfied.
+Question: How exactly does the Eddington limit make the gravitational field of stars asymmetric?
+
+
+What does Eddington Limit (Eddington Luminosity) Show?
+
+From wikipedia:
+
+Eddington luminosity
+Humphreys–Davidson limit

@@ -1,0 +1,14 @@
+What is the most mass that matter likely to form?
+
+If we plot graph between accumulate of forming mass (y-axis) and mass (x-axis), where is the maximum ?
+There is a story how I get this question. It start when I think about question "Is our sun is big or small ?".
+https://www.quora.com/What-is-the-average-mass-of-a-star
+The average mass ends up being around 0.5 solar masses.
+But very high mass stars have very short life span so there are more O-type main sequence stars ever form more than O-type main sequence stars we see today.
+I think it would be better to measure our sun by using average mass of forming stars than average mass of stars we see.
+So, what is average mass of forming stars ?
+Then I think a litle bit more. There is no exact boundry between large brown dwarf and small red dwarf stars. So, if we include them too, what is the most mass that matter likely to form ?
+If it is inverse-square law, so graph between accumulate mass (y-axis) and mass (x-axis) will be y=c/x where c is constant.
+And make the maximum is zero or mean that most of matter aren't form star. At this point, I think I should limit the minimum mass of forming object at some point. But is it inverse-square law for all type of forming object?
+If most of matter aren't form star, will be gas cloud. So we don't count them (both molecular gas and mono-atomic gas but dust is still count because it is solid not molecular or mono-atomic object), what is the most mass that matter likely to form?
+Please help me or tell me what should read to answer or give keyword to me.

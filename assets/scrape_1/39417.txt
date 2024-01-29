@@ -1,0 +1,14 @@
+Help understanding why these two sub-Hill sphere moon stability limits are so different?
+
+Comments under this answer to What orbital period would produce one New Moon (and one Full Moon) each year? What other effects would this produce? link to
+
+Stable satellites around extrasolar giant planets which gives aE ~ 0.4895 (1.0000 - 1.0305eP - 0.2738esat). So for circular obits the limit is 0.4895 RHill. This is based on dynamics simulations.
+Transit timing effects due to an exomoon (section 3.1 and Appendix B) which states (with $\chi$ as some fraction of the Hill sphere radius:
+
+$$\frac{P_{moon}}{P_{planet}} = \sqrt{ \frac{\chi^3}{3} }$$
+This answer cites Exomoon habitability constrained by illumination and tidal heating that links to item 2, and seems to say that this limit results in the conclusion that stability requires the period of the Moon to be no longer than 1/9 (one ninth) that of the planet's period.
+
+The longest possible length of a satellite’s day compatible with Hill stability has been shown to be about Pp/9, Pp being the planet’s orbital period about the star (Kipping 2009a).
+
+I don't understand how the factor of 1/9 arrises here, nor how these two different stability criteria can be brought into alignment.
+For example, if I put 0.4895 from the first item into the equation from the 2nd item, I get 1/5 not 1/9, that's a small disagreement considering the topic of stability is a bit mushy, but I do not see at all how 1/9 arrises without using item 1. How did they get 1/9?

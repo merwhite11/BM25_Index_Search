@@ -1,0 +1,4 @@
+Understanding the angular peaks in the CMB power spectrum
+
+I have read up quite a bit on the CMB power spectrum, but one feature evades my understanding. The first peak is often referred to as the "first compression peak", meaning that the plasma had time to compress exactly once. The way I imagine this is that we have a central overdensity, and then a ring of plasma around it which moves closer, i.e. the ring is being compressed. In the same vein I think of the second peak as corresponding to the ring being compressed and then rarefacted. But I don't see how this fits in with the power spectrum: the first peak corresponds to a larger separation between the center and the ring, while the second peak corresponds to a smaller separation. With the way I have described it, I believe it should be the other way around: compression should correspond to smaller scales, while rarefaction should correspond to larger scales.
+What am I misunderstanding about this?

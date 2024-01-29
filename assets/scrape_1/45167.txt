@@ -1,0 +1,10 @@
+What are the values of the Mean Anomalies of the planets in the Solar System?
+
+I am trying to find a list of all the Mean Anomalies of the planets in the Solar System at the Epoch Jan 2000. I tried to Google it up but couldn't find any result. Can you please share the values or any link to a website that has these?
+I am referring to this website for the orbital elements including the Mean Anomalies but it doesn't show the mean anomaly of Earth. On that same webpage I found the formula for Mean Anomaly as
+
+(in degrees)Daily Orbital Motion*(t-T)
+
+where t is the epoch and T is the Time since Perihelion. Through this website, I found the values for the variables in that equation and tried finding the Mean Anomaly for a few planets. But it doesn't seem to match with the values given on the previous website (this one).
+So my main question is: Can you please share a table or website with all the orbital elements including the Mean Anomalies of the planets?
+A secondary question is: Was I making any mistake while calculating the Mean Anomalies using the formula? If so please share those.

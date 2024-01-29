@@ -1,0 +1,3 @@
+How did the orbits of Phobos and Deimos circularize?
+
+The satellites of Mars might be captured asteroids. But Phobos has an eccentricity of $0.015$, and Deimos of $3\times10^{-4}$. If they were captured, they likely were captured with rather eccentric orbits. How did their orbits circularize?

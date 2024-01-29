@@ -1,0 +1,6 @@
+How many stars can we resolve?
+
+Wikipedia estimates the number of stars in the Milky Way at 100 to 400 billion.
+One of our most ambitious astrometry projects, Gaia, has been able to resolve and map almost 2 billion stars in the Milky Way and the Small and Large Magellanic Clouds according to this article.
+Still, that is only about 0.5% to 2% of the total number of stars in the Milky Way.  We can assume that given more time, with better telescopes, this list of stars will continue to grow.  But will some stars always be obscured by dust clouds or our dense galactic center?  For faraway galaxies, is the light too intermixed to resolve particular stars?
+Question: Is there an upper limit to the number of stars humans will be able to specifically resolve (without interstellar travel)?

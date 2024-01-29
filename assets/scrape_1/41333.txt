@@ -1,0 +1,11 @@
+Demo to get Matter Power Spectrum in cosmology
+
+I would like please to demonstrate the expression of Power spectrum in Cosmology :
+First, I have the relative contrast:
+$$\delta_{i}(\vec{x}, z) \equiv \rho_{i}(\vec{x}, z) / \bar{\rho}_{i}(z)-1\quad(1)$$
+After, we decompose this relative contrast on Fourrier basis :
+$$\delta_{i}(\vec{x}, z)=\int \frac{\mathrm{d}^{3} k}{(2 \pi)^{3}} \tilde{\delta}_{i}(\vec{k}, z) \exp (\mathrm{i} \vec{k} \cdot \vec{x})\quad(2)$$
+and finally, how to find the following expression (3) from (1) and (2) :
+$$\left\langle\tilde{\delta}_{i}(\vec{k}, z) \tilde{\delta}_{i}\left(\vec{k}^{\prime},z\right)\right\rangle=(2 \pi)^{3} \delta_{\mathrm{D}}\left(\vec{k}+\vec{k}^{\prime}\right) P_{i}(\vec{k}, z)\quad(3)$$
+?
+Any help is welcome.

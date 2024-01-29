@@ -1,0 +1,9 @@
+Finding hour angle, altitude
+
+I know the latitude and longitude of a city ($41^\circ 87'$ N, $87^\circ 62'$ W), the declination and right ascension of a star($16.51^\circ$, $68.98^\circ$) and the local time, date (27.12.2017, 1:20 AM). Could you please show me the exact calculations for hour angle, altitude?
+I will use the formula $LST=100.46+0.98d+15UT$, where d is the number of days since 1.1.2000 at 00:00 and UT is the universal time.
+At 1:20 AM, $d=6570.055$. 
+UT is $UT=7:20$ or in hours $UT=7.3$.
+$LST=6648.0639$ or $LST=168.0639$
+$HA=LST-RA=168.0639-16.51=151.5539$
+How is my calculation?

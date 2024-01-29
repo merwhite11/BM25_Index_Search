@@ -1,0 +1,6 @@
+Orbital period of a planet orbiting Delta Pavonis in habitable zone
+
+I'm continuing my inquiry about the fictional planet I have described here: https://worldbuilding.stackexchange.com/questions/231162/length-of-seasons-on-a-planet-with-eliptical-orbit.
+I'm now settled on the planet orbiting Delta Pavonis. According to data from Wikipedia and calculations, the habitable zone is from 0.78 to 1.56 AU.
+My question is, what would be this planet's orbital period, keeping orbital eccentricity as high as possible while the planet stays within the habitable zone at all times?
+I have tried calculating this using WolframAlpha, but it provides only formulae with the semi-major axis and primary and secondary mass, not eccentricity nor perihelion & aphelion distances.

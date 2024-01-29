@@ -1,0 +1,5 @@
+Relationship between Color Index and Temperature
+
+Is there an exact relationship between color indices and temperature? 
+I have seen some numerical formulas relating B - V color index to temperature, of the form $B - V = a_1 + \frac{a_2}{T} $ . 
+I am wondering is there any way to derive these formulas or are they completely empirical?

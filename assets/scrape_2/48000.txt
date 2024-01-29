@@ -1,0 +1,45 @@
+Calculate eccentric anomaly using Kepler's equation
+
+I'm developing a C++ computer library with the formulas in the book "Practical Astronomy with your Calculator or Spreadsheet 4th Edition" but I have a problem with the formula 56, "Perturbations in a planet's orbit".
+The book talks about using the Kepler's equation to calculate the eccentric anomaly, E. To do it I have implemented this routine:
+double TheSun::RoutineR2(double meanAnomaly, double eccentricity)
+{
+    double E = 0.0;
+    double aux = 0.0;
+    double delta = 0.0;
+
+    // Epsilon is the required accuracy (= 10^-6 radians).
+    double epsilon = 0.000001;
+
+    // 1. First guest, E = E0 = M.
+    E = aux = meanAnomaly;
+    
+    do
+    {
+        // 2. Find the value of delta = E - esin(E) - M;
+        delta = aux - eccentricity * std::sin(aux) - meanAnomaly;
+
+        // 3. If delta gets enough accuracy, end here.
+        if (std::abs(delta) <= epsilon)
+            break;
+
+        // 4. Find E growth.
+        double growth = delta / (1 - eccentricity * std::cos(aux));
+
+        // 5. Take the new value.
+        aux = aux - growth;
+
+    } while (true);
+
+    return aux;
+}
+
+When I try to find the eccentric anomaly, E, for planet Jupiter on 22 November 2003, I get that E is equal to 8.7201007604944394 but, in the book, the value for E is 2.436915 radians.
+The input value for RoutineR2 are:
+meanAnomaly = 8.6884193953285500
+eccentricity = 0.048906999999999999
+
+The values above are the same than the book uses.
+I have calculated the mean anomaly and I get the same value than the book. The eccentricity is the eccentricity of the orbit of Jupiter. I take it from the Table 8 in the book. This table has the values of Elements of the planetary orbits at epoch 2010.0.
+Is the book wrong? Am I wrong?
+Maybe my implementation of Kepler's equation is wrong or I'm not using the right value for eccentricity.

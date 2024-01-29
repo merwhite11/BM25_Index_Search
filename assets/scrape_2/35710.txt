@@ -1,0 +1,4 @@
+Simple question about the phases of the Moon
+
+If on March 20 the Moon were located at the position of the sun, how can I determine the phase in September 22, June 22, and December 20?
+I drew the orbit and calculated by dividing sidereal days to get the position of moon. Then I moved the Earth to determine the position. But the answer was Full moon, First quarter, Third quarter respectively, which was different from mine.  I can’t figure out why I’m wrong.

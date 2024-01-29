@@ -1,0 +1,28 @@
+Can I derive the position of my house's shadow from sun altitude?
+
+I'd like to pull in my awning if my house's shadow has reached a point where the awning has no use any more. The house is almost perfectly aligned in a North-South direction, the garden with the awning is in the east.
+My home automation (fhem) offers a module that gives me a variety of astronomic parameters, based on my location and altitude:
+ "SunAlt": -3.3,
+  "SunAz": 309.5,
+  "SunDec": 22.3,
+  "SunDiameter": 31.5,
+  "SunDistance": 151752013,
+  "SunDistanceObserver": 151752409,
+  "SunHrsInvisible": "08:10",
+  "SunHrsVisible": "15:49",
+  "SunLon": 72.7,
+  "SunRa": "04:47",
+  "SunRise": "05:16",
+  "SunSet": "21:05",
+  "SunSign": "Zwillinge",
+  "SunSignN": 2,
+  "SunTransit": "13:10",
+
+Is it enough to target sun's altitude above the horizon? I would think so, but I'm not sure... Currently I'd withdraw the awning when sun's altitude goes below 54⁰.
+Edit:
+Sorry, I seem to have written my question in a very unclear way. Here's more information:
+I know my location, at least with GPS precision. Given that location, fhem's astro module gives me all kind of information about sun, moon,...
+I have a patio that's to the east of my N-S aligned house. The house is a row house, so for my purpose it's long enough that only the roof is interesting for the shadow.
+Sun shines onto the patio in the morning until (currently) something like 15:00. I tend to make shadow with the awning in the morning. After 15:00, the patio is in the shadow of the house and I don't need the awning any more and I would like to remove the awning automatically.
+I looked at fhem's astro module exactly at the time when the shadow was far enough on the patio that I could remove the awning. I took the "Sun altitude" value (54⁰) and now the awning is removed when the sun reaches an altitude of 54⁰
+This was some days ago and I think this might not be good enough: it seems as if the shadow is extending more and more until the awning is removed. Or the other way round: It seems that I have to adjust the 54⁰ to, maybe, 50⁰ now to get the right timing.

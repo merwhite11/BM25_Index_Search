@@ -1,0 +1,9 @@
+Setting specific CENTER coordinates coordinate in SWARP
+
+The SWARP Documentation specifies that we first set the CENTER_TYPE to MANUAL and then in the CENTER parameter we specify either one of the equatorial coordinates (RA, Dec). This is specified in the image below:
+
+In doing so, I do not understand how by giving just one of these coordinates, the SWARP tool will interpret which specific coordinate is given.
+I am currently viewing the output image in matplotlib, setting its projection with the wcs header info that we get in the output fits file. It seems as though SWARP takes every coordinate specified in the CENTER parameter as its right ascension. There is also no way to specify if we want to set the declination value. How can we set a center for the output image if
+
+We can only give one coordinate (RA or Dec), and
+Whatever coordinate we provide is interpreted by SWARP as the right ascension?

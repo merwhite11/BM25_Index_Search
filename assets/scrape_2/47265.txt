@@ -1,0 +1,3 @@
+Rising time of a planet or a star and its correlation with the angle subtended at the Earth
+
+While preparing for Astronomy Olympiad I came across many problems in which we had to calculate at what time a planet or a star would rise at the Earth, and to solve this many solutions found the angle subtended at Earth by the planet and then correlated it with the fact that Earth covers 360 degree in 24h. Now I did not understand at all why this was done and why is it giving us that time. Could anyone help me with this?

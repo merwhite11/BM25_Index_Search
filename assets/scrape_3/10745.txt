@@ -1,0 +1,3 @@
+Attraction to barycenter
+
+If an object was a distance from a planet away that equaled the distance from the object to a moon of the said planet, would it be drawn into the direction of the barycenter as it is the common center of mass?

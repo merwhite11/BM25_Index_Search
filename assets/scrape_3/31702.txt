@@ -1,0 +1,3 @@
+How to convert the observed magnitude of a Quasar to it's bolometric luminosity?
+
+How can I convert the observed magnitude to Bolometric Luminosity? I know the relation for the star but should it be same for a Quasar? Basically I want to convert the X-axis of this plot to luminosity (or mass).

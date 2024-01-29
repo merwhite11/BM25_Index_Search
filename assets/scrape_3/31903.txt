@@ -1,0 +1,5 @@
+What is the likely closest encounter for a typical star during the Milky Way Andromeda Merger?
+
+This is closely related, but distinct question to What are the chances of a star colliding with another during a galactic collision?.
+The accepted answer to that question places the odds of the Sun colliding with another star at about $10^{-12}$, what I want to ask is how near a near-miss is expected? In other words, what is the expected closest encounter between the Sun and another star during the collision? A more sophisticated answer would give the expected distribution of close encounters by distance.  
+A more general version of the question is -- what disruptive events would a typical star such as the Sun expect to experience during the merger?

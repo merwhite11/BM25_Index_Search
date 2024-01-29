@@ -1,0 +1,22 @@
+Why does the Event Horizon Telescope (EHT) not include telescopes from Africa, Asia or Australia?
+
+The Event Horizon Telescope seems to include these radio telescopes currently:
+
+Image by European Southern Observatory (ESO)/O. Furtak; CC-BY 4.0-licensed, see the source on Wikipedia Commons and the original image link.
+See also the map and list on their official website.
+It is also said, that it has a “effective diameter of the entire planet”.
+But it's striking, it does not include half-of the earth… It has no telescopes in Africa, Asia or Australia.
+So:
+
+Why were not they included?
+Would it increase the diameter if they would include some from there? If so, again why did not they? ()
+Or, similarly asked: How can it be the diameter of the earth if only half-the-earth is included in the network?
+
+Please try to explain it in a simple way first. I am no astronomer. 
+
+What I've noticed so far when skimming their official pages is that they write here:
+
+As more telescopes are added to the EHT, we will be able to produce images of the emission around black holes. In general, the fidelity of images produced by an interferometric array increases as additional telescopes are added to the array. 
+
+This seems to support my question of why they did not use possibilities in Asia or so…
+I guess, it would also make sense to have a more or less uniform distribution across the planet (or does not this matter?), that's why a "dot" in Africa might make sense too…

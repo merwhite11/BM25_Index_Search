@@ -1,0 +1,35 @@
+Is it fair to describe a solar flare as a big lightning strike on the sun?
+
+Solar flares and lightning strikes are both kinds of electric discharges.
+A lightning strike is a sudden discharge of electrical energy between an electrically charged cloud and another object, like the ground or another cloud.
+A solar flare is a sudden discharge of electrical energy between two electrically charged regions, or "clouds" in the atmosphere of the sun.
+Duration
+A lightning strike lasts about 0.2 seconds, and it is made up of a series of short strokes of about 60 to 70 microseconds each. It produces an electromagnetic pulse (EMP) that consists of electromagnetic radiation across the spectrum from radio to gamma waves.
+A solar flare lasts on the order of minutes to tens of minutes, and is also comprised of series of short bursts. This video of the Cinco de Mayo solar flare shows the way that the solar flare is comprised of multiple short discharges of electromagnetic radiation, which can be seen in the visual spectrum and also detected in other wavelengths like radio, ultraviolet, and x-ray, and gamma.
+Amount of energy
+
+Large lightning strike: 109 joules
+Large solar flare: 1025 joules
+
+Some other gifs of solar flares
+
+Berkely.edu
+Spaceweatherarchive.com
+Cosmosmagazine.com
+
+Relevant links
+
+Lightning - Wikipedia
+Solar flare - Wikipedia
+Full-spectrum EMP
+
+Related questions
+
+What triggers solar flares?
+What are the main differences between solar flares and coronal mass ejections
+Can lightning occur in stars like the sun?
+Typical wavelength of solar flare
+
+My question
+I'm also wondering if a solar flare is an electrostatic discharge. My main question is:
+If we were to make an oversimplification about solar flares, would we say that they are big lightning strikes on the sun?

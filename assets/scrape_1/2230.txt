@@ -1,0 +1,10 @@
+Maximum Amplitude of a Lissajous Orbiting Object in a L4 or L5 Position
+
+I stumbled on The Lagrangian points during some wikipedia reading.  After looking at the gravity contours, I naturally come to the conclusion that the L4 & L5 should have a wave pattern and then found the Lissajous orbit page.  It states:
+
+Orbits about Lagrangian points L4 and L5 are dynamically stable in theory so long as the ratio of the masses of the two main objects is greater than about 25, meaning the natural dynamics keep the [third object] in the vicinity of the Lagrangian point even when slightly perturbed from equilibrium.
+
+After reading it I started to wonder if there is a maximum possible amplitude (height of the peaks and troughs relative to the orbital plane of the second object) of the pattern?
+Also, if there theoretically is none, for cases where it is extremely large, say larger than the 2 times the radius of the second orbiting object, what would the respective object weight ratios have to be to keep such a perturbed orbit stable for any realistic period of time?
+FYI, I'm a computer scientist who loves reading about physical cosmology but can be kinda a noob sometimes. Please forgive me if I'm asking for the wrong parameters.
+Edit: Here is an animation of 2010 TK7, Earth's first trojan asteroid, showing the wave pattern I'm referring to. Recall that my question is referring to the height of the peaks and troughs relative to Earth's orbital plane. Since the video is a top-down view, the peaks and troughs are going into and out of the screen.

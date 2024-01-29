@@ -1,0 +1,5 @@
+How to calculate Local Sidereal Time from RA of a star and Longitude of Observer
+
+I have been banging my head against a wall trying to understand these time conversions and the relation between all of these astronomical measurements.
+This is the question I am currently working on, and I am honestly lost on where to get started.
+I have heard that Local Sidereal time is just equal to the RA of a star at the meridian, so from that logic (a) should be the RA of 51 Eridani (about 4hr 37min). But why does this part of the question give the longitude of the observatory? I feel like I am completely missing something, and to be honest, I do not feel like I understand what a sidereal time actually is.

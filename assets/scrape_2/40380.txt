@@ -1,0 +1,5 @@
+The role of 'the interference of waves' in VLBIs'
+
+I've been trying to find out how VLBIs work. It says in this book I've read that many radio telescopes around the world work in tandem to use the interference of waves to get a clearer picture of celestial bodies, which is how they got the black hole picture.
+But what I've found only talks about the difference in the time that radio waves takes to arrive to different points on the globe and how that is calibrated. Not a single word about the interference of waves.
+Wikipedia's Very Long Baseline Interferometry; Method has a short discussion, but does not really explain the basic principle of how delays and interference are used to build up an image.

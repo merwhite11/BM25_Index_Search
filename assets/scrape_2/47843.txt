@@ -1,0 +1,6 @@
+Are there any space-based observatories that use interferometry?
+
+Ground-based interferometers such as ALMA have enabled many discoveries. It seems like sending a fleet of small telescopes would be feasible (smaller telescopes are easier to send into space than telescopes as big as the JWST, a fleet of telescopes would be more robust, since there wouldn't be as many single points of failure) and would make it possible to do interferometry at wavelengths that can't be observed from the ground. Furthermore, the space between the furthest telescopes could be bigger that the diameter of the Earth, so the baseline of such an observatory could be even bigger than that of the EHT.
+Are there any existing or planned interferometers in space? If not, why not?
+I did find the Space Interferometry Mission, but it looks like it was abandoned.
+I know about LISA, but my question relates to photon-collecting observatories.

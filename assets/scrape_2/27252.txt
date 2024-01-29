@@ -1,0 +1,8 @@
+What is Earth's average temperature as a whole?
+
+I would like to know, what is the average temperature of Earth as a whole planet, not just its surface temperature. Hope the following scenario will make it more clear what I mean:
+Imagine, that we isolated/sealed Earth (up to 30 km above sea level) as it is right now, so that there is no mass or energy being added or escaping and waited several millions of years till the temperature is everywhere the same.
+What would that temperature be? When I tried to google it, I only could find references to surface temperature, and not to this.
+EDIT: Based on remarks in comment section:
+I am not an expert, that is why asked this question, however IMHO of a layman in this area, I presumed that radioactive decay wont play that much of a role (like a +-1%). And the role of a gravity is well beyond me. But the most important thing is, I pretty much wanted to know the average temperature by heat capacity of the Earth at this moment (so basically, all decays and all tidal forces excluded, even if they play significant role).
+I would just like to have (a fairly confident) idea about the potential temperature, and no need for highly exact numbers and calculations, +-15% is absolutely fine.

@@ -1,0 +1,4 @@
+What are the RAs of the boundaries between traditional zodiacal signs?
+
+I'm trying to figure out at what right ascension (RA) — not celestial longitude — the sun enters the various traditional (Western) astrological signs of the Zodiac; but I can't figure out how to calculate this. 
+What are the right ascensions of the boundaries between traditional zodiacal signs along the ecliptic?

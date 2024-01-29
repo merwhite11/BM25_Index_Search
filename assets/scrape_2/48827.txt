@@ -1,0 +1,46 @@
+align an image to celestial North
+
+I'm producing images from FITS files, But most of my images aren't aligned to the celestial north.
+I would expect there to be a simple library, or even an astropy command to make the alignment of the image and axes for me, but after much research I didn't find much.
+at the moment I am plotting the image using Cutout2D, and reading the wcs info from the header. skipping some lines my code looks like this:
+position = SkyCoord(ra=ra, dec=dec, frame='fk5', unit='deg')  # Object's position
+wcs = WCS(header)
+center = wcs.all_world2pix(position.ra, position.dec, 0)  # Put object at center
+cutout = Cutout2D(image_data, center, size, wcs=wcs)
+fig = plt.figure()
+ax = fig.add_axes([0.1, 0.1, 0.8, 0.8], projection=wcs)  # Change axes to WCS
+ra = ax.coords[0]
+dec = ax.coords[1]
+ra.set_ticks(spacing=4. * u.arcsec)
+dec.set_ticks(spacing=4. * u.arcsec)
+plt.imshow(cutout.data, cmap='gray', norm=norm_linear, origin='lower')
+
+I get images like this:
+
+as you can see the grid lines of the axes aren't aligned.
+The best I could achieve is rotating the image itself (using 'orientat' from the header which tells me in degrees the image orientation), and changing the header itself with some piece of code I found (but not sure is working properly):
+position = SkyCoord(ra=ra, dec=dec, frame='fk5', unit='deg')  # Object's position
+orientat_deg = header['ORIENTAT']  # Get image orientation
+h1 = header.copy()  # Copy of the original header
+h1.update(
+    cd1_1=-np.hypot(header["CD1_1"], header["CD1_2"]),
+    cd1_2=0.0,
+    cd2_1=0.0,
+    cd2_2=np.hypot(header["CD2_1"], header["CD2_2"]),
+    orientat=0.0)  # Update wcs to fit aligned wcs
+wcs_rotate = WCS(h1)
+center = wcs.all_world2pix(position.ra, position.dec, 0)  # Put object at center
+cutout = Cutout2D(image_data, center, size, wcs=wcs_rotate)
+rotated_img = ndimage.rotate(cutout.data, -orientat_deg, reshape=False)  # Create rotated image
+fig = plt.figure()
+ax = fig.add_axes([0.1, 0.1, 0.8, 0.8], projection=wcs_rotate)  # Change axes to fixed wcs
+ra = ax.coords[0]
+dec = ax.coords[1]
+ra.set_ticks(spacing=4. * u.arcsec)
+dec.set_ticks(spacing=4. * u.arcsec)
+plt.imshow(rotated_img, cmap='gray', norm=norm_linear, origin='lower')  # Plot rotated image with rotated axes
+
+the image I get:
+
+it would seem this messy piece of code works, the only problem is that the real coordinates for this object are: Longitude 00h09m11.577s, Latitude -00d36m54.73s (object's name SDSS J000911.57-003654.7), which isn't quite the coordinates presented on my axes.
+I hope someone has a solution, Thank you.

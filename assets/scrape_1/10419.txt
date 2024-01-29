@@ -1,0 +1,10 @@
+Source of high energy cosmic particles
+
+Earth receives shower of both solar and cosmic radiations every seconds. The Sun put up a heliosphere around the solar system and thus foreign high energy charged particles could not penetrate easily. Is there any other source most probably that lies within our solar system?
+Note: 
+
+Very high energy cosmic particle beyond 5.7 x 10^19 eV were observed
+by Pierre Auger Observatory in Argentina. (rare but the GZK limit
+seems to rule out distance sources)
+GZK limit roughly capped the upper energy level of cosmic ray as
+they are slowed due to CMB over vast distance

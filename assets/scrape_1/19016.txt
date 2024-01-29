@@ -1,0 +1,8 @@
+How do I understand a brown dwarf with a M-type spectrum?
+
+There are a large fraction of M dwarfs which are claimed to be brown dwarfs.
+Why do we still use M-type and not create a new stellar type like L, T and Y? The main signature of M is TiO absorption bands. They appear in M-type brown dwarfs?
+Is a spectrum enough to judge whether a celestial object is a brown dwarf or not? Or do we need to know its mass?
+The earliest type is M3.5. It means M-type objects older than M3.5 are necessarily brown dwarfs? Or is there a safe value, say, M9, is necessarily a brown dwarf? A brown dwarf is necessarily colder than a red dwarf? 
+There should be more brown dwarfs or red dwarfs?
+The reason we do not need to create a new stellar type is the spectra of brown dwarfs are more like red dwarf's spectra?

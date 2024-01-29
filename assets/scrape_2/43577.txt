@@ -1,0 +1,20 @@
+Maximum and minimum masses and sizes of giant planets?
+
+What are the minimum & maximum masses and diameters of giant planets?
+Minimum end of the scale
+
+Earth has mass of 1 Earth mass and a mean radius of 6,371.0 kilometers, and thus a mean diameter of 12,742 Kilometers,
+
+Uranus has a masss of 14.536 Earth mass and a mean radius of about 25,362 kilometers, and thus a mean diameter of about 50,724 Kilometers.
+
+Neptune has a masss of 17.147 Earth mass and a mean radius of about 24,622 kilometers, and thus a mean diameter of about 49,244 Kilometers.
+
+
+So the minimum mass for a giant planet shouuld be somewhere between 1 Earth mass and 14.536 Earth mass, while the minimum diameter of a giant planet should be somewhere between 12,742 kilometers and about 49,244 kilometers.
+And I am sure some people here can find more precise values for the smallest possible masses and diameters of giant planets.
+Upper end
+
+Jupiter has a mass of 317.8 Earth mass, and a mean radius of about 69,911 kilometers, and thus a mean diameter of about 139,822 kilometers.
+Planets can have several times the mass of Jupiter, the dividing line between giant planets and brown dwarfs is about 13 times the mass of Jupiter, or about 4,131.4 Earth mass.
+
+From what I have read, giant planets do not have diameters much greater than that of Jupiter, since with increassing mass they become more and more compressed and dense. But I don't know if the upper limit for the diameter of giant planet would be 150,000 kilometers, 160,000 kilometers, or any other specific figure. I expect that some people here know the maximum diameter of a giant planet which is not very close to its star and very hot and swollen.

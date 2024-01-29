@@ -1,0 +1,7 @@
+How does each degree equal to 60 minutes?
+
+I was searching in the internet to find the reason each degree equals to 60 minutes and I found this:
+
+60 seconds make up a minute. One day is equal to 24 hours, and the hour hand completes two 360-degree circles around the clock in a single day, for a total of 720 degrees. One degree (2 x 360)/12 equals one hour.
+
+But does it make sense? Why should we divide it by 12? An hour itself equals 30 degrees. So each second equals 6 degrees and thus, each degree should equal 1/6 seconds.

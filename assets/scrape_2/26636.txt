@@ -1,0 +1,5 @@
+Terminology of Orbits
+
+A hopefully simple terminology question:  When you have an object that orbits another object in space, what do you call the object being orbited in relation to the object orbiting?
+For instance, you might call the object orbiting the "satellite" of the orbited object, but what would you call the object being orbited?  
+Orbitee is all i've been able to come up with but it doesn't seem quite right ;)

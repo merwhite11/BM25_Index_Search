@@ -1,0 +1,6 @@
+Mathematical astrophysics subjects for math graduate students
+
+I'm looking for a cool and interesting subject in mathematical astrophysics to study for my master's project. What I really aim for is certain processes in the cosmos (multiple body-problem, black holes, asteroid belts, colliding stellar objects, etc...), but my background is not very much on the physics side, unfortunately. However, I read about special relativity, gravitational waves and how to measure in space, but not in a very mathematical way. 
+I would like to hear from someone whether they know similar subjects like the above that are reachable for a graduate math student, like me, to study for their master's project.
+My background is mainly in algebra (Galois, Geometry, crypto), but I also have done statistical data analysis courses and (P)DE courses; thus I have seen a rich part of mathematics, but my specialty is really in abstract algebra. However, especially now, I would like to get to know subjects that are not mainly abstract algebra, but more PDE, for example.
+I'm ready to dive into depths of mathematical physics if necessary. Thanks for any suggestions!

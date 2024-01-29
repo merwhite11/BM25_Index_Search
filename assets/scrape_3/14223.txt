@@ -1,0 +1,3 @@
+Can we apply Kepler's law of planetary motion to the moons motion around the earth?
+
+I have been trying to understand Kepler's law of planetary motion for a while. So I was thinking, if it would even apply to the moon orbiting around the earth. Does the moon too orbit in an ellipse too? Does its orbit have the same properties as the earth's orbit around the sun?

@@ -1,0 +1,7 @@
+Telescope focal length, reducer and/or Barlow
+
+Say I have a scope with a given diameter $D$, a given focal length $f$, and a given exit barrel diameter $B$. It has a maximum true FoV of $B/f$ (supposing $B<<f$).
+Would adding a 0.5x focal reducer exactly amount to having a $D/(f/2)$ scope with barrel size $B$, for all intends and purposes (i.e. be optically indistinguishable from an actual scope of diameter $D$ and $f/2$ focal length) ? I feel like it should, but I'm unsure whether maximum true FoV would indeed become $2B/f$ as on a "natural" $D/(f/2)$ scope.
+(You may ignore light absorption from the focal reducer' lens(es))
+Conversely, say I have the same initial scope with a given diameter $D$, a given focal length $f$, and a given exit barrel diameter $B$ (it still has a maximum true FoV of $B/f$ (supposing $B<<f$)).
+Would adding a 2x Barlow exactly amount to having a $D/(2f)$ scope with barrel size $B$, for all intends and purposes (i.e. be optically indistinguishable from an actual scope of diameter $D$ and $2f$ focal length) ?

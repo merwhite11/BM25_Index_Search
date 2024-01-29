@@ -1,0 +1,21 @@
+Are we less safe now that Arecibo is no more?
+
+update 3: uhoh!
+
+Source: Reddit
+update 2: Sadly, parts of the dish have collapsed, several cables have snapped, and the Arecibo radio telescope is now decommissioned and demolition has been recommended because it is now too unsafe to do anything else.
+
+NSF begins planning for decommissioning of Arecibo Observatory’s 305-meter telescope due to safety concerns
+Iconic radio telescope in Puerto Rico to be demolished
+
+related in Space SE: How many total hours had Arecibo transmitted a signal?
+
+update 1: Science November 9, 2020: Second cable breaks at Puerto Rico’s Arecibo telescope
+
+The NASA News item Arecibo Observatory Returns from Tropical Storm Isaias Lockdown to Track Asteroid for NASA begins:
+
+The National Science Foundation facility, managed by the University of Central Florida, determines that a newly discovered asteroid won’t threaten Earth
+
+Of course right after this there was a serious failure, a support cable for the focal plane instrumentation broke and seriously damaged the dish as well.
+Are we currently at elevated risk to getting hit by an asteroid now that Arecibo can not help in making precise range-rate measurements of asteroids? Optical tracking provides detection and some orbit reconstruction, but the precise range and radial velocity measurements that can be done by radar can provide very precise data that can help distinguish an impact trajectory from one that will miss.
+Could the Five-hundred-meter Aperture Spherical Telescope fill in for Arecibo's role in asteroid astrometry?

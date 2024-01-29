@@ -1,0 +1,3 @@
+Finding angle between a given sky position and ecliptic pole
+
+Given a right ascension in degrees and declination in degrees (say, 88 degrees RA, -63 degrees DEC) I want to find the angle between that location and the ecliptic pole (90 degrees RA, -66 degrees DEC... are these the right values? What are the decimals following the 66? Most of my values that I'm working with are similar to the one I give, so which ecliptic pole, if any, does this correspond to?) How would I find this angle, I need a convenient formula (such as a dot product to find this angle). Thank you!

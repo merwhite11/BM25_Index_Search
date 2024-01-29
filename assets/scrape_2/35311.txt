@@ -1,0 +1,12 @@
+What is a "21cm/mm absorption system" in the context of measuring old photons from quasars?
+
+This answer links to Wikipedia's Time-variation of fundamental constants which cites Further Evidence for Cosmological Evolution of the Fine Structure Constant (J. K. Webb et al. 2001), the abstract of which says:
+
+We describe the results of a search for time variability of the fine structure constant, alpha, using absorption systems in the spectra of distant quasars. Three large optical datasets and two 21cm/mm absorption systems provide four independent samples, spanning 23% to 87% of the age of the universe. Each sample yields a smaller alpha in the past and the optical sample shows a 4-sigma deviation: da/a = -0.72 +/- 0.18 x 10^{-5} over the redshift range 0.5 < z < 3.5. We find no systematic effects which can explain our results. The only potentially significant systematic effects push da/a towards positive values, i.e. our results would become more significant were we to correct for them.
+
+The paper discusses the "21cm/mm absorption systems" further but I don't understand yet because I'm simply not familiar with the kind of work described here.
+The text does refer to:
+
+HI 21cm absorption lines can be compared with molecular transitions detected at mm wavelengths to constrain $g_p \alpha^2 $ ($g_p$ is the proton g-factor).
+
+so I am thinking that "system" refers to a system of transitions rather than a piece of observational equipment. Is it possible to describe the basics and/or point to a source that does?

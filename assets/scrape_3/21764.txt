@@ -1,0 +1,9 @@
+How to convert VSOP's xyz coordinates to heliocentric spherical lbr coordinates?
+
+I ran VSOP2013 in Fortran, and I now have the following position $x, y, z$ as well as velocity $v_x, v_y, v_z$ data.
+How do I convert the position to heliocentric ecliptic spherical coordinates $l, b, r$? 
+PLANETARY EPHEMERIS VSOP2013  EMB     
+Ecliptic   Heliocentric Coordinates:  X,Y,Z (au)  X',Y',Z' (au/d)  - Dynamical Frame J2000
+
+Julian Day 2415021.0   
+-0.2054467990    0.9615310525    0.0002141233   -0.0171063024   -0.0036576954   -0.0000011815

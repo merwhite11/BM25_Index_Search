@@ -1,0 +1,3 @@
+Why don’t black holes have an infinite rotational velocity?
+
+We know that blackholes retain the properties of their progenitor, so if we think of the total angular momentum of a blackhole’s progenitor star now in an infinitesimal point (0 radius), should it’s angular velocity not be infinitely large?

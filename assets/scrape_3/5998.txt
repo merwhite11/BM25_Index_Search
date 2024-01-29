@@ -1,0 +1,6 @@
+Is the Hubble Ultra-Deep Field image representative of the entire sky?
+
+The Hubble ultra-deep field image is a photograph of an area of sky equivalent to a 1mm x 1mm piece of paper held a metre away from the eye (one thirteen millionth of the entire sky). It contains an estimated 10,000 galaxies.
+If galaxies were uniformly distributed, and the HUDF were representative of the entire sky, that would mean there were approximately 130 billion galaxies, which falls between estimates I have read of between 100 and 200 billion as the total number of galaxies.
+However, my understanding is that galaxies occur in clusters, which would seem to imply that some areas of the sky should be more densely populated than others.
+So is the HUDF representative of the entire sky, or are some areas much more and much less densely populated?

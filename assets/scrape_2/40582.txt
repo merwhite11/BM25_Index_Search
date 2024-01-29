@@ -1,0 +1,7 @@
+How can I see a star behind a mountain range? Do I move apart from it and up?
+
+Could some explain what I need to do to see a star that, from my point of view, is behind a mountain:
+
+Obviously, if it's one mountain, and not a very high one, I can just climb it to see what's behind. But what if it's a mountain range or a very high mountain?
+
+Intuitively, I know I can move away from it to change the angle, and see the star. But what's the math behind it? And how does going up (or down, maybe?) help?

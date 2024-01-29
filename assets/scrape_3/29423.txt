@@ -1,0 +1,12 @@
+How to obtain distance modulus and Total extinction from Isochrone fitting to CMD?
+
+This is my first post here. 
+I am studying the following article: https://arxiv.org/abs/1901.03574.
+On Page 5, Sec 3.1, the authors are presenting their results they obtained via Isochrone fitting to the CMD of the two GCs being discussed. My questions are:
+
+How can I find out the distance modulus and the Total extinction $A_{F606W}$ from just the fitting? I know that Isochrone fitting is done when we need to estimate the age. In order to fit, we need to move the Isochrone both vertically (Distance modulus?) and horizontally (Color excess/Reddening/Extinction?). Is my understanding correct?
+How do they convert the Reddening in filters to reddening in B-V? What is the technical details/physics of it?
+What is the role of the Extinction law in getting these numbers?
+In the end, they calculate the distance, which is simple once we get the distance modulus. Why is it the distance from the Sun? Did we assume a heliocentric coordinate system somewhere?
+
+Thank You.

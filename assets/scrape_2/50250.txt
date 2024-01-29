@@ -1,0 +1,9 @@
+How do I create well a weighted black hole mass function?
+
+I'm running a set of simulations to study the evolution of Super Massive black holes.
+In principle, I have the black hole masses and other  property called merger tree weight in Mpc-3 unit which is different for each merger tree created. If I want to construct the black hole mass function I should read  the black holes masses, and the mergerTreeWeight but I don't know how to implement the merger tree weight exactly in the code.
+Also, I have the indexes where every merger tree start and end. I know  it  is useful because if  the mass function  consists of a set of bins in mass. Let's say that each bin ranges from
+$\log(M)-\mathrm{d}(\log M)/2$ to $\log(M)+\mathrm{d}(\log M)/2$. To compute the mass function in a bin, I'd select all black holes with mass in that range. Then, just sum the mergerTreeWeight of those galaxies, and divide by the bin width, $\mathrm{d}(\log M)$.
+My problem is related to how to implement this process in a python code.
+EDIT
+I think it should be understood considering three variables such as BH = blackHoleMass , MTW= MergerTreeWeight and z= Mergertreeindex. The "z" variable give the index where every merger tree (with different weight) start BH = [1e9, 4e7, 7e5,2e3 ] MTW= [1.2e-5, 4.6e-4,1.4e-6]  z=[0,2,3] .   BH[:3]  is assigned to the first merger tree, which has a MergerTreeWeight equals to MTW[0], BH[3] is assigned to the second MergerTreeWeight, MTW[1] and BH[4] is assigned to the third MergerTreeWeight.

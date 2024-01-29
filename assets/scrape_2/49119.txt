@@ -1,0 +1,3 @@
+When measuring the spectrum of an object at the zenith, is it better to orient the spectroscopic slit N-S of E-W?
+
+If you were to measure the spectrum of an object while it's exactly at the zenith, how should you orient the slit of the spectrograph to minimise atmospheric dispersion? Is North-South or East-West better? Or does it not make a difference either way?

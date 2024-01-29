@@ -1,0 +1,16 @@
+How do disk-shaped galaxies then form at the sites of spherical galactic halos? Do the halo stars start orbiting or just sit in place?
+
+Phys.org's Astronomers detect large amounts of oxygen in ancient star's atmosphere mentions
+
+"Stars like J0815+4729 are referred to as halo stars," explained UC San Diego astrophysicist Adam Burgasser, a co-author of the study. "This is due to their roughly spherical distribution around the Milky Way, as opposed to the more familiar flat disk of younger stars that include the Sun."
+
+Wikipedia's Formation of galactic halos says
+
+The formation of stellar halos occurs naturally in a cold dark matter model of the universe in which the evolution of systems such as halos occurs from the bottom-up, meaning the large scale structure of galaxies is formed starting with small objects. Halos, which are composed of both baryonic and dark matter, form by merging with each other. Evidence suggests that the formation of galactic halos may also be due to the effects of increased gravity and the presence of primordial black holes. The gas from halo mergers goes toward the formation of the central galactic components, while stars and dark matter remain in the galactic halo.
+On the other hand, the halo of the Milky Way Galaxy is thought to derive from the Gaia Sausage.
+
+"Halos... form by merging with each other" isn't profoundly instructive, but I'm guessing it means that there are small inhomogeneities and the coalesce into larger ones without a lot of rotation being involved (thus the spherical shapes). I suppose the part about the Gaia Sausage means that the Milky way is not a good example of a disk-shaped galaxy forming at a spherical halo.
+Question(s):
+
+But how do disk-shaped galaxies then form at the sites of the spherical halos?
+Do stars in the halo just sit there without rotating, or perhaps slowly accelerate towards the gravitational center?

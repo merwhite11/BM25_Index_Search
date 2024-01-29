@@ -1,0 +1,3 @@
+Are there any (rough) estimates of stars' orbits around the galaxy?
+
+The Sun orbits approximately 26,000 light years away from the galactic center. Are there any other known orbital parameters relative to the galactic plane for the Sun and other stars up to some distance away? For example, what are the orbital paramters ($a,e,i,\Omega,\omega,M,f$) of Alpha Centauri?

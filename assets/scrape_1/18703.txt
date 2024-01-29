@@ -1,0 +1,11 @@
+Question about Telescopes , observations and explanations of the observations
+
+Though I am active on Physics, I am new to Astronomy. I am an amateur astronomer, actually even worse than amateur. I have just started it.
+I have a 60 mm objective 700mm focal length refractor which I mainly use with a 20 mm eyepiece.
+I have a couple of questions regarding the telescope, observations and explanations behind observations. Since they are all interlinked I decided to ask them together.
+1) So, firstly the basics. Regarding the resolution power of a telescope, we know from the Rayleigh criterion that diffraction does happen at the objective. But Diffraction happens when light passes through a narrow slit or bends around a corner (whose dimensions are of the order of the wavelength of light). But there is no slit and probably no bending of light. How come then do we assume a diffraction pattern to have formed when considering the derivation of the resolution of a telescope?
+2) How are exit pupil and entry pupil different from the diameter of the eyepiece and objective?
+3) Why on increasing the magnification does the brightness of the object reduce (the physics behind it)? I mean that if I use 4mm eyepiece then, first of all, it becomes very difficult to find the object and secondly its brightness gets reduced when compared to the brightness that I had got using a 20mm eyepiece?
+4) Secondly why do the Barlow lenses reduce the brightness a lot. And why on using  Barlow lenses the field of view get smaller and the object passes twice as quickly as without the Barlow?
+5) Now the biggest question. How is it possible that every time I point my telescope towards a visible planet or a star (I know it's a star because of the sky map), I see almost the same size, when stars are visible only as small dots. The stars appear to be bluish and the planets which I have seen (Mars and Jupiter) appear reddish. That's ok but a star can not be visible as a sphere. Stars appear as dots, don't they?
+6)How can I make the telescope give the best results i.e which eyepiece should I use and whether I should use Barlow lenses or not?

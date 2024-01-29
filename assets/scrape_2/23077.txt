@@ -1,0 +1,11 @@
+Astrodynamic Canonical Units
+
+Maybe this is more appropriate for the Physics or Maths, but anyway.
+I am struggling with applying Canonical units with formulas. I am struggling specifically with how they are used, am I to convert all the time? Use the whole numbers?
+An example is a a simple velocity of a circular orbit: v= SQRT Mu/r
+r  =2DU (12,756.23KM)
+Mu =1DU3/TU3 (3.9860KM3/s2)
+
+v = 4.5641KM/S or 0.707DU 
+
+In order to convert it back to DU I had to use a percentage calculator (I'm bad at fractions). Is there a simpler way of converting back and forth?

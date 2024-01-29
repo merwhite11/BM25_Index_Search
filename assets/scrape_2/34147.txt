@@ -1,0 +1,17 @@
+Latitude of given altitude of Sun
+
+From Question #6 of USAAAO First Round 2018
+
+
+(1 point) For the following problem find the range in which the answer lies: on the day of summer solstice, on which geographic latitude is the sun culminating at the angle of +72° 50' north of the equator?
+  
+  
+A. 0° − 15°
+B. 15° − 30°
+C. 30° − 45°
+D. 45° − 60°
+E. 60° − 75°
+
+
+
+I have two answers: 41° and 6°, but only one is accepted. No solutions are provided for 2018 and it is an objective question.

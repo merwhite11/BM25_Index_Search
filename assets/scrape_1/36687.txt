@@ -1,0 +1,9 @@
+Why would the merger of spinning black holes within the accretion disk of a supermassive black hole cause them to "shoot straight up" out of the disk?
+
+I just tried to read the new New York Times article Two Black Holes Colliding Not Enough? Make It Three which links to the new 25-June-2020 Physical Review Letter Graham et al. Candidate Electromagnetic Counterpart to the Binary Black Hole Merger Gravitational-Wave Event S190521g
+The event described is the merger of two black holes that were embedded in the accretion disk of a supermassive black hole in the center of a galaxy; i.e. in a quasar (loosely speaking).
+The NYTimes article describes the following
+
+In the story that Dr. Graham and his team patched together, the black holes were spinning, which caused a recoil that shot the merged result almost straight up and eventually out of the accretion disk at 120 miles per second, at which point the flare stopped. If the explanation is accurate, the black hole should fall back into the accretion disk at the same speed in a few months or a year, generating another flare. “We’ll be looking for that,” Dr. Graham said.
+
+Question: Why would the merger of spinning black holes within the accretion disk of a supermassive black hole cause them to "shoot straight up" out of the disk? How was momentum conserved, i.e. did something else recoil and "shoot straight down"?

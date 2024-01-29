@@ -1,0 +1,8 @@
+Why is Earth's rotation considered fast?
+
+I'm currently reading Atom (Krauss book), and in chapter 11 there is this text:
+
+This collision can explain many things, including the high rate of spin of the Earth (the grazing collision would have twisted it around like two football players who collide while running in opposite directions).
+
+This is in reference to a proto-planet hitting the early Earth, which led to the formation of the Moon.
+Why is Earth's spin considered high rate, given that Mars' spin is pretty similar without having a big moon? Or have I misunderstood what is being referred to?

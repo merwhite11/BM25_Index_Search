@@ -1,0 +1,12 @@
+Calculating Radial Velocity from Hipparcos
+
+Using data from Hipparcos is it possible to calculate Radial Velocity.  If we take 19 Leonis as example, RV is -3.70.  Is it calculated from Proper Motion?  Can I ask that any formulas be done in long hand please, i.e. how you would enter it into a standard spreadsheet rather than with symbols etc.
+http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=19+Leonis&submit=SIMBAD+search
+Additionally
+Took the advice and found CRVAD2.dat ( http://cdsarc.u-strasbg.fr/viz-bin/Cat?III/254 ).  The following line comes from CRVAD2.dat file and when I looked up HipId 40829 which is below, the RV value is -3.70 which matches the link above.  
+9.790554129  11.56817726   0.8   0.1   11.06   1.00   -48.63    -3.39   1.24   0.69  6.709  6.436 0.005 0.005 0.007   D   AY D A3n          A 7 VN                48029  84722  948942 4 ABA    -3.70  -9.99 B   9 1
+
+If I look up Sirius (32349), it says the RV is -7.60 but when you look up Sirius at Simbad, it says -5.50 ( http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=Sirius ) 
+6.752569403 -16.71314306   1.2   0.1  379.20   1.58  -552.63 -1206.40   0.50   0.50 -1.430 -1.121 0.011 0.002 0.039   U     OD A1V+A5wd     A1V+A5wd              32349  48915 1447791 4 AB     -7.60  -9.99 A   0 1
+
+Whats the reason for the discrepancy, CRVAD2.dat is an old version like there's two Hip data files (97 and 07)?

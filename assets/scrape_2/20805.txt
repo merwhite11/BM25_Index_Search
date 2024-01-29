@@ -1,0 +1,4 @@
+What are the maximum and minimum impact speeds for an asteroid that would strike the Earth?
+
+I gather that the impact speed depends on the radius of the orbit of the asteroid.
+Is the orbit of asteroids in the same direction around the sun, or can they move in the "opposite" direction?

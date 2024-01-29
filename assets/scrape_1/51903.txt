@@ -1,0 +1,5 @@
+Is there enough data in light coming from distant exoplanets for Earth-orbiting telescopes to take a high-resolution photo of it?
+
+NASA’s James Webb Space Telescope has taken very blurry "photos" of exoplanets around distant stars, such as the exoplanet HIP 65426 b, in different bands of infrared light:
+
+My question is, is it possible for the next generations of space telescopes to generate detailed, high-resolution images of such planets? Is there enough "data" or "DPI", so to speak, in the light coming from these planets to achieve this? I know there is cosmic dust and all sorts of other interference that affects the light on its way to Earth, but I'm wondering just how much that is. I'm talking about images with the same spatial resolution of this one of Mars:

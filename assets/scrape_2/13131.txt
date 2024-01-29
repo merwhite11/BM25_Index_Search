@@ -1,0 +1,6 @@
+Dust mass-loss rate from a massive star given a set of parameters?
+
+I've been looking for examples at how mass-loss rates are determined.
+I'm studying a circumstellar dust shell ejected from a Wolf-Rayet star. I have some parameters like, expansion velocity of the shell (60km/s), the dust mass of the shell (0.1 M_sun), the radii of the shell (R_in=10000 AU and R_out=60000) and its age (T=26000 yrs).
+I was wondering if there's a formula relating those parameters and if they are sufficient to determine the dust mass-loss rate or its dependent on other factors.
+Could anyone help?

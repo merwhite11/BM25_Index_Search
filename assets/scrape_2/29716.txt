@@ -1,0 +1,9 @@
+How to separate binary and optical stellar pairs?
+
+I have list of stellar pairs from The Washington Double Star Catalog (WDS), i.e. I have next parameters:
+
+angular separations
+position angles
+stellar magnitudes of both components
+
+Additionally I have GAIA DR2 parallaxes (and other parameters) from SIMBAD database. How to distinguish between binary and optical stellar pairs?

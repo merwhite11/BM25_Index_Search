@@ -1,0 +1,9 @@
+A basic question about light curves
+
+I'm new here, so if I've done anything wrong, please let me know.
+I've been taking a look at some photometry data collected from TESS, and I encountered this light curve:
+
+(please ignore the blue and orange lines, I was trying to run some statistical analysis on the data)
+I haven't seen a light curve this curvy before, and I was wondering what this was indicative of.
+I was also wondering about the spike at around time 1326, would this potentially be an outlier?
+Thank you!

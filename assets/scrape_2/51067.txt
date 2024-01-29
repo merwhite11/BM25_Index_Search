@@ -1,0 +1,15 @@
+Figuring out camera pitch and roll given RA and DEC of center of image, as well as lat,long of camera and time taken
+
+What I am trying to figure out is how to get the camera pitch and roll, as described in this image  (the green yaw line is where the camera sensor is pointing
+if given a RA, DEC (of center of image,ie where camera is pointing) LAT, LONG, roll from north celestial pole, az, and TIME
+For example:
+RA = 333.678881
+DEC = 62.911565
+ROLL_FROM_POLE = 92.904036
+TIME = 10/26/22 16:51:05 UTC
+LAT = -116.232476
+LONG = 32.213847
+AZ = 60
+
+I feel like all the info is there to do this calculation but I'm having trouble fitting it together
+for clarification: yaw would be directly related to azimuth and I already know azimuth so don't need that part., My intuition here says that says I know the location in the sky I'm looking (RA and DEC) as well as time/location/azimuth, I should be able to figure out what the camera/telescope orientation is.

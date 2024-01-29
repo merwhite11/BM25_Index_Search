@@ -1,0 +1,3 @@
+SDSS Image FITS files have negative values. What do these negative values mean?
+
+I am new to using SDSS image files and have noticed that some of the values in the FITS file are negative. Can somebody explain to me what these values actually mean?

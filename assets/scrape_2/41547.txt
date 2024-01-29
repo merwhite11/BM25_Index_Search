@@ -1,0 +1,4 @@
+Accelerations on the Moon due to its orbit and its spin
+
+A gyroscope is placed on the equator of the Moon. It detects among others 2 accelerations: one due to the orbit and one due to the spin. What is the module of the second one compared to the first one?
+(the effects due to the tilting of the orbit, the librations, the Sun... are neglected.)

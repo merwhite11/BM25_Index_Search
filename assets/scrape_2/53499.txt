@@ -1,0 +1,3 @@
+Does MOND change general relativity?
+
+Newton's inverse square law appears in General relativity for small masses . Since MOND uses 1/radius instead of 1/radius squared has General relativity been modified to accommodate this?

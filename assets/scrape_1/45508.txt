@@ -1,0 +1,6 @@
+Disk-resolved vs disk-averaged photometry?
+
+I have already read this question about the difference between disk-integrated and disk-resolved photometry. But what exactly is the difference between disk-resolved and disk-averaged photometry?
+I am referring to tables 3 and 4 here, where they show disk-averaged parameters for the hapke model and disk-resolved parameters.
+EDIT:
+I understand that disk-resolved photometry has a higher resolution whereas disk-integrated is somehow averaged - but I do not understand what disk-averaged means - is it a synonym to disk-integrated?

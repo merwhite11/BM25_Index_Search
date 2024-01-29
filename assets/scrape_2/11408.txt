@@ -1,0 +1,8 @@
+Hubble law, cosmological redshift and distance
+
+I have got confused with some cosmology formulas which calculate distance.
+The most famous formula is indeed the Hubble law which says (nowadays) velocity is proportional to Hubble's parameter at current time. 
+On the other hand we can find the velocity from redshift.
+By Hubble law it is possible to evaluate distance but it's not clear for me that what does this distance mean...! As the photons, which are now observed, are belong to another redshift (larger) and by traveling toward Earth the have become "redder" because of expansion of universe, what does the observed redshift stand for?
+The actual redshift of the galaxy at observation time (although we can't recieve the photons now), the redshift at emission time (that means we do not calculate current distance of the galaxy) or something else?
+Thanks a lot.

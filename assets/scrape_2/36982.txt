@@ -1,0 +1,55 @@
+Julian Day Calculation
+
+I'm trying to calculate the Julian Day, given a UTC year, month and date in the Gregorian calendar.  I tried using the formula on Wikipedia, but that doesn't work.  Consider 2010-01-31 and 2010-02-01.  These dates are exactly one day apart, but their JDNs, according to the formula on Wikipedia, are 2455230 and 2455229, respectively.
+In fact, it seems that this issue appears at the beginning and end of February of every year.  I wrote a Python script to go through every day from 2010-2020, and these are all similar discrepancies:
+ERROR: 2010-01-31 00:00:00 (2455230) vs 2010-02-01 00:00:00 (2455229)
+ERROR: 2010-02-28 00:00:00 (2455256) vs 2010-03-01 00:00:00 (2455259)
+ERROR: 2011-01-31 00:00:00 (2455595) vs 2011-02-01 00:00:00 (2455594)
+ERROR: 2011-02-28 00:00:00 (2455621) vs 2011-03-01 00:00:00 (2455624)
+ERROR: 2012-01-31 00:00:00 (2455960) vs 2012-02-01 00:00:00 (2455959)
+ERROR: 2012-02-29 00:00:00 (2455987) vs 2012-03-01 00:00:00 (2455989)
+ERROR: 2013-01-31 00:00:00 (2456325) vs 2013-02-01 00:00:00 (2456325)
+ERROR: 2013-02-28 00:00:00 (2456352) vs 2013-03-01 00:00:00 (2456355)
+ERROR: 2014-01-31 00:00:00 (2456691) vs 2014-02-01 00:00:00 (2456690)
+ERROR: 2014-02-28 00:00:00 (2456717) vs 2014-03-01 00:00:00 (2456720)
+ERROR: 2015-01-31 00:00:00 (2457056) vs 2015-02-01 00:00:00 (2457055)
+ERROR: 2015-02-28 00:00:00 (2457082) vs 2015-03-01 00:00:00 (2457085)
+ERROR: 2016-01-31 00:00:00 (2457421) vs 2016-02-01 00:00:00 (2457420)
+ERROR: 2016-02-29 00:00:00 (2457448) vs 2016-03-01 00:00:00 (2457450)
+ERROR: 2017-01-31 00:00:00 (2457786) vs 2017-02-01 00:00:00 (2457786)
+ERROR: 2017-02-28 00:00:00 (2457813) vs 2017-03-01 00:00:00 (2457816)
+ERROR: 2018-01-31 00:00:00 (2458152) vs 2018-02-01 00:00:00 (2458151)
+ERROR: 2018-02-28 00:00:00 (2458178) vs 2018-03-01 00:00:00 (2458181)
+ERROR: 2019-01-31 00:00:00 (2458517) vs 2019-02-01 00:00:00 (2458516)
+ERROR: 2019-02-28 00:00:00 (2458543) vs 2019-03-01 00:00:00 (2458546)
+
+The JDNs also do not match those on NASA's calculator, as it gives 2010-01-31 to be JD 2455228.
+Since Wikipedia isn't always the most reliable resource, I scoured the internet for another website with a formula, and all I found was this page, which gives me the same issue, with a slightly different, step-by-step formula.
+Am I doing something wrong?  I'm sorry if I am posting this in the wrong community, if there is a better place please let me know.
+The code I used to get the list above is below, with the Wikipedia algorithm:
+import datetime
+
+prev_d = None
+prev = 0
+
+def calc(_d):
+    global prev_d
+    global prev
+
+    y = _d.year
+    m = _d.month
+    d = _d.day
+
+    # Formula from Wikipedia
+    jd = ((1461 * (y + 4800 + (m - 14) // 12)) // 4 + (367 * (m - 2 - 12 * ((m - 14) // 12))) // 12 - (3 * ((y + 4900 + (m - 14) // 12) // 100)) // 4 + d - 32075)
+
+    if jd - prev != 1:
+        print("ERROR: {} ({}) vs {} ({})".format(prev_d, prev, _d, jd))
+
+    prev = jd
+    prev_d = _d
+
+# Iterate day-by-day, starting 2010-01-01 UTC
+for d in range(1262304000, 1262304000 + 60 * 60 * 24 * 365 * 10, 60 * 60 * 24):
+    calc(datetime.datetime.utcfromtimestamp(d))
+```

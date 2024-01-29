@@ -1,0 +1,6 @@
+Would a black hole passing next to a star create a deadly focal point due to gravitational lensing?
+
+Black holes bend all kinds of radiation thanks to their giant gravity. Now imagine that a black hole passes close to some star (we know of cases when black hole devours a star). Star emits massive amounts of radiation in all directions, so naturally the radiation just outside the event horizon will be bent by the black hole. Many rays will be focused into a single point.
+Wouldn't that create a "certain death zone" on the opposite side? Could this be a real threat for celectial bodies from far-away black holes (for example for earth)? If this effect in fact happens, would different radiation types be focused farther away - for example UV, visible, X-Ray etc. in it's own zones (EDIT: meaning basically - do black holes work similar to prisms by lensing different types of wavelengths differently)?
+
+In the draft above the yellow circle is a star, black dot is black hole, gray circle is event horizon and red circle is the "death area where rays are focused by the black hole

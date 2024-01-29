@@ -1,0 +1,4 @@
+Rest-frame magnitudes and fluxes
+
+I have a question concerning rest-frame vs observed frame. In the observer frame, I can define an apparent magnitude and an absolute magnitude (as the apparent magnitude if the object were at d=10pc). From the apparent magnitude I can calculate the flux of the galaxy in the observed filter.
+Now let's say I have a set of galaxies from which I know the rest-frame absolute magnitudes. Is there such a thing as a rest-frame apparent magnitude or a rest-frame flux?

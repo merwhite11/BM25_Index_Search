@@ -1,0 +1,3 @@
+Obtain IR diffuse data from WISE
+
+I need some help obtaining IR background diffuse data from the WISE observation. There is already some work done in this regard; see: http://wise.skymaps.info/ . These are .fits files. How do I find out the photon irradiance for a range (say glat b/w 0 and 30) from these files? Any help is appreciated. Also, how do I correlate this with UV flux for the same range using python?

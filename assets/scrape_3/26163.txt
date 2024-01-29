@@ -1,0 +1,6 @@
+We know what a nova is, but how?
+
+I work with astrophysicists and require some basic knowledge of many astronomical sources, however research priorities often demand that most of human knowledge on a subject be taken for granted.
+I am currently researching galactic novae, and I find it relevant to summarize their history briefly when presenting my research to certain audiences. Unfortunately, I am unable to find any source material which describes how we know one key aspect of the events: that they are an accreting white dwarf in a stellar binary. This fact appears to be so well founded that no scientific paper feels obligated to cite it when stated, but basic resources like astronomical encyclopedia also make no reference that I've seen.
+How do we know that novae are binary systems?
+E.g., have follow-up observations clearly identified the white dwarf and its companion? Or do other astronomical measurements strongly confirm this binary hypothesis (and make it all but obviously true)? I apologize if it's as simple as "someone looked through a telescope, and it was pretty obvious" -- in my experience no revelation in astrophysics is nearly so simple, but certainly this could be the case.

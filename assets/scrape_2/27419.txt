@@ -1,0 +1,4 @@
+Why does earth not collide with the sun?
+
+Gravity is most accurately described by the general theory of relativity (proposed by Albert Einstein in 1915) which describes gravity not as a force, but as a consequence of the curvature of spacetime caused by the uneven distribution of mass.(source -wikipedia)
+Why it is moving on the boundary of that curvature, but not fall into the middle of that curvature and collide with sun?

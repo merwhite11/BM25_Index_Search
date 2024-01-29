@@ -1,0 +1,3 @@
+How to convert celestial Coordinates with a radius, to max and min celestial coordinates?
+
+I am writing a piece of python code to convert right ascension and declination with a given radius to minimum and maximum right ascension and declination. I firstly can't understand why the min and max is not always just the given coordinates +- the radius, and secondly how I would write a piece of code to make this conversion. Cheers.

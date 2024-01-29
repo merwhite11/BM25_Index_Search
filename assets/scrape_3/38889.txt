@@ -1,0 +1,5 @@
+How is it possible that Saturn's gravitational acceleration felt by Mimas is stronger than Mimas' own surface gravity?
+
+The surface gravity on Mimas is $≈ 0.063\text{ m}/\text{s}^2$ and Saturn's gravitational acceleration at the distance of Mimas' orbit is:
+$$\frac{{GM}}{{r}^2} = \frac{{6.674 \times 10^{-11} \times 568.34 \times 10^{24}}}{{(185.52 \times 10^{6})}^2} ≈  1.102 \text{ m}/\text{s}^2$$
+How can this be? An object on Mimas' surface would be much more attracted to Saturn than it is to Mimas. Shouldn't Mimas itself get ripped apart or is my math wrong?

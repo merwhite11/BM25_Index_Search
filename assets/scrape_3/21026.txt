@@ -1,0 +1,5 @@
+Primordial angular momentum?
+
+Angular momentum, and in particular the conservation of angular momentum, is of course very relevant in many processes in astrophysics, such as e.g. star- and planet formation, and disk formation in galaxies. 
+The concept of objects spinning up upon collapse is straightforward enough to understand, but this begs the question: where does the primordial angular momentum come from? 
+Tidal interactions between haloes, I suppose?

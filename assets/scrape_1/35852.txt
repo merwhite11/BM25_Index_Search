@@ -1,0 +1,6 @@
+Energy of a charged particle in the magnetosphere
+
+I asked this question on physics.stackexchange, but as it is a space/magnetosphere question maybe someone here can help me out:
+Taking the earth as an idealized dipole and the E field from the sun uniform (at least for a few earth radii) can the energy of particles at distinct radii from earth, in the equatorial plane, be compared as just the fall off of the B field? For example, a particle at geosynchronous orbit and one twice as far away. Would the difference in their energy just be: $\frac{1}{2^{3}}=\frac{1}{8}$ as the E field is constant and contributes equally to each?
+To be clear Im using:
+$$\Delta KE\propto \Delta B_{r_0}=\frac{\mu_0 M_E}{4\pi}\frac{1}{r_0^3}[r2\cos\theta + \theta\sin\theta]$$

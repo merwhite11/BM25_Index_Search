@@ -1,0 +1,4 @@
+What is the smallest (brightest) magnitude that the JWST can safely observe?
+
+Similar to Can JWST be damaged by looking at a bright star?. I'd like to know the brightest magnitude that the James Webb Space Telescope can safely observe without damaging any of its instruments.
+Edit: Two proposed duplicates to my question are the one that I've linked and What exactly is the risk to any JWST instrumentation when looking at objects that are "too bright"?. These are not duplicates, as the first is a yes/no question regarding if the JWST can be damaged from looking at a bright object, whlie the other asks for the risk involved.

@@ -1,0 +1,8 @@
+What are "p" and "r" wrt the moon?
+
+Still learning, thinking - and failing - about the moon.
+timeanddate.com has this cute and dynamic moon sketch at e.g. https://www.timeanddate.com/moon/uk/london
+
+They generate this based on three parameters that they call i, p and r. The above image is the result of invoking this: https://www.timeanddate.com/scripts/moon.php?i=0.028&p=3.388&r=0.035.
+I know that i stands for i llumination in the range 0-1.
+However, what are p and r and in what unit? What are the likely correct terms? r appears to be some sort of "rotation angle" of the moon while p is the same for the "mask".

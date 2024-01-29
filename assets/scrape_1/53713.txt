@@ -1,0 +1,5 @@
+Comparison of apparent magnitude (Apmag)
+
+How can I compare the apparent magnitude of one object to another in percentages, e.g. the positive apmag of a dim star versus the negative apmag of the Sun?
+EDIT: I'm an absolute amateur with mathematics. I know what a logarithm is, but that's about it!
+EDIT: Currently I'm trying to get a comparison between the Sun and a red dwarf: measured from another star, hence a 'high' apmag of 3.12186514.

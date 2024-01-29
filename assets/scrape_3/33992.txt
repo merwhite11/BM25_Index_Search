@@ -1,0 +1,5 @@
+Hot Jupiters around heavy stars?
+
+Hot Jupiters are giant planets that are very close to their host star.
+How many Hot Jupiter exoplanets have been found around stars more massive than our Sun? 
+Has the number of Hot Jupiters discovered as a function of host star mass been plotted? Say $x$ Hot Jupiters around stars that are 1 to 1.5 solar masses ; $y$ Hot Jupiters around stars that are 1.5 to 2 solar masses,...

@@ -1,0 +1,6 @@
+Looking for a detailed Milky Way map
+
+I am a UI designer working on a sci-fi strategy video game.
+I was wondering wether anybody here might be able to help? I am looking for a top down projection of the Milky Way that labels regions of space. This is in order to start building a server map of linked 'matches'.
+The space combat sim Elite:Dangerous has a galactic project split into 42 sectors (see attachment) although I know that most of the regions labelled are made up specifically for the game. Obviously I don't want to copy this, so wondered if there was a more scientific version we could base designs on.
+Do regional maps of the Milky Way exist in science? Or is it purely a sci-fi thing?

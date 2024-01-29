@@ -1,0 +1,4 @@
+Is there a maximum Julian day?
+
+I have read various discussions of the Julian day, including that on the Wikipedia, but none of these appear to define the maximum Julian day or proleptic Gregorian year in which that maximum day would occur.
+Is there a maximum Julian day? If so, what is it?

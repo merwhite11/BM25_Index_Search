@@ -1,0 +1,8 @@
+How can a time-like trajectory be calculated using the Friedmann-Robertson-Walker metric?
+
+Using the following FRW metric,
+$$ds^2=-c^2dt^2+R^2(t)(d\chi^2+f(\chi)d\Omega)$$
+and considering $d\Omega=0$ from now on, it is clear that for a light-like trajectory, the equation must read $ds^2=0$ and so:
+$$d\chi=\frac{cdt}{R(t)}$$
+However, if an observer wanted to travel from one galaxy to another, for instance, at a peculiar, velocity $v_p$, it would be a time-like interval. However, I do not know how I could plug $v_p$ into the metric above (for $d\Omega=0$). What would be the relation between $d\chi$ and $dt$ in this case?
+Many thanks for your response.

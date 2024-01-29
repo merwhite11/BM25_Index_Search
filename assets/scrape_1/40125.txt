@@ -1,0 +1,8 @@
+Hypothetical CMB space telescope design problem, received power from extended thermal source versus receiver front end NEP?
+
+Consider the example of a large radio dish antenna in space equipped with a heat shield protecting it from the Sun. Let's say the amplifiers front-end effective temperature (for purposes of noise calculations (i.e. NEP) is 2.7 Kelvin which is coincidentally the temperature of the Cosmic Microwave Background that it will look at.
+We'll ignore thermal radiation from the dish itself, because although it is somewhat warmer it's highly reflective metal and so the emissivity is very low. (see this answer for more on that)
+The receiver system is fixed in central wavelength near the peak of the CMB, let's say 2 mm, and has a fixed 1% bandpass.
+Now it's time to choose the diameter and focal length of the dish.
+I know that the characteristic "sky temperature" of the CMB for which I'm trying to image non-uniformities and the temperature of my receiver's front end are both 2.7 K but what is the ratio of their powers that I'll be measuring?
+Question: If I have a large f/no. will a given diffraction-limited feed horn receive less power and so the signal will be weaker compared to thermal noise of the receiver, or will they end up somehow being roughly equal no matter the diameter or focal length of the dish?

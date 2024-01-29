@@ -1,0 +1,4 @@
+What is the size of the image sensor in the largest optical telescopes?
+
+What image sensors (imaging electronics) are used in telescopes? Like CCD, is that the best option?
+What is the typical physical size and resolution of the photo-sensitive surface of the currently active largest ones?

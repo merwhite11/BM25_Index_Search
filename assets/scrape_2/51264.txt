@@ -1,0 +1,6 @@
+Can the Hubble constant be measured directly?
+
+By my calculations, the expansion of the universe should cause LIGO’s interferometers to alternate between constructive interference and destructive interference every couple days. Is this a practical way to measure the Hubble constant directly? If not, what prevents this method from being feasible?
+The Hubble constant ≈ 70 (km/s)/MPc ≈ 2E-18 (m/s)/m.
+LIGO uses 1064 nm lasers (5E-7 m per half-wavelength) that travel a total of 1E6 m (4 km × 280 reflections).
+(5E-7 m)/(1E6 m)/(2E-18 m/s/m) ≈ 2E5 s ≈ 2 days for the laser travel distance to increase by half a wavelength.

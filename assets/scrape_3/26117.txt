@@ -1,0 +1,14 @@
+Understanding expected TESS data structure
+
+I'm interested in trying to use the data that will be returned by TESS to apply some machine learning/computer sciences concepts. I'm not sure yet what I want to try to do with it (though I have some ideas - see end comments). This because I don't really understand the data structure it will be using. 
+So essentially I would like to first some help to get a high-level view of how the TESS data is structured. Then a bit of guidance as to how I could visualize it/get started with some basic example 
+Additional info/what I know at this point
+I've checked out the MAST page. It details what type of FITS documents will be returned.
+I have downloaded samples of some of these data products and I see they all come in FITS format. On Ubuntu, you can open that in Aladin. However Aladin in itself is a fairly involved piece of software. Do I need Aladin for this, or are there simple alternatives to just view the data quickly to help get a feel for what it means? In other words what kind of navigator do you use for FITS files?
+I'm pretty new to astronomy - I'm coming at this rather from a computer science perspective. Some basic suggestions as to what kind of observation an amateur astronomer might want to look at would be welcomed if you have some.
+The data linked above (MAST page) are simulated data (real data will only be available in a couple months). This is fine - mostly interested in being functional with the data when they arrive.
+Data analysis ideas:
+
+Using kmeans or similar to try to extract  what are some of the "typical" transit light curves
+
+Generating those transit light curves from the raw data, say from a target pixel

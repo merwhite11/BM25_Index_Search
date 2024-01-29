@@ -1,0 +1,6 @@
+First observation that the movement of a planet or asteroid in its orbit was affected by another planet?
+
+Answers to the question How did Kepler determine the orbital period of Mars? describing careful observations centuries ago got me thinking.
+Question: What was the first analysis of observations that directly demonstrated that the movement of a planet or asteroid in its orbit was affected by gravitational attraction by another planet?
+I don't mean inferences based on the spacing of orbits, I'm thinking of detailed positional measurements; something like planet/asteroid A was X kilometers or Y arcseconds away from it's predicted position and it couldn't be accounted for if not for the gravitational effects of planet B.
+I am not sure if First observation that the Sun and Jupiter (and friends) move around a common barycenter? is a completely separate question, or if this confirmation happened all at once, but I've currently asked it separately.

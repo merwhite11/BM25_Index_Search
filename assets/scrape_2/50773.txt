@@ -1,0 +1,3 @@
+Stars being eclipsed by planets
+
+I would like to figure out if any of the solar system planets have ever eclipsed a particular star (i.e. crossed the line of sight from Earth to the star) or will eclipse it in the future. Is that possible to do, given that I know the RA and Dec of the star I'm interested in? Is there any astronomical software that would allow me to do that?

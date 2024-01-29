@@ -1,0 +1,5 @@
+Why does the path of the moon in an eclipse curve (relative to the sun)
+
+Reviewing several simulations of the solar eclipse, it is apparent that the path of the moon relative to the sun curves. 
+Using https://www.timeanddate.com/eclipse/in/usa/kansas-city?iso=20170821 for example, the moon enters at 135 degrees and leaves at 217 degrees direction - that is almost a 90 degree right turn.
+Why is the path curved not straight?

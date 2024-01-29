@@ -1,0 +1,3 @@
+What error bar / confidence level is generally reported in galaxy distances?
+
+In reporting distances of galaxies, what are the typical error bars and associated confidence levels?

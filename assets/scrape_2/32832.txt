@@ -1,0 +1,5 @@
+How do I calculate Allan Variance (maybe for pulsars)?
+
+I am studying pulsar timing this summer and have come across many Allan Deviation plots that include several popular clocks alongside pulsar measurements, like this one by N. Ashby and D.A. Howe: 
+I am unclear as to where to start. What equation would be appropriate? I have pulsar timing data from the NANOGrav Public Data Set, which I am able to view through Tempo2 (aka will be able to view it as soon as I figure out how Tempo2 works). If there is other software anyone would recommend for this task that would also be helpful.
+I am also unsure where the data for the other clocks would be publicly available. I am hoping a scientist who has done a similar calculation can point me in the right direction.

@@ -1,0 +1,4 @@
+What are possible methods of discerning a starburst AGN composite galaxy?
+
+I'm currently working on an independent project that involves discerning starburst galaxies that are themselves within active galaxies.
+I would assume radio observations would be best to discern star formation rates, and X-ray to understand the AGN in greater detail. However, assuming we have only optical data could I use the relative strength of the OII flux to the OIII flux to better understand the star formation rate of an active galaxy? Spectroscopic surveys of distant galaxies, particularly for redshifts between $z$ ≈ $0.4$ to $1$, routinely use [O II] $λ3727$, a prominent nebular emission line in H II regions, to estimate SFRs. If (high-ionisation) AGNs experience substantial levels of ongoing star formation, the integrated contribution from H II regions will boost the strength of the [O II] line (compared to, say, [O III] $λ5007$, which can be largely ascribed to the AGN itself).

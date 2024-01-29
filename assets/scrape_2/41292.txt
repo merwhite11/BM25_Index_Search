@@ -1,0 +1,12 @@
+Why don't black holes quickly eat up the galaxy/universe?
+
+It's my understanding that the radius of the event horizon of a black hole is proportional to it's mass.
+Which means the surface area of a black hole is proportional to it's mass squared.
+Lets just assume that black holes eat stuff that by chance "runs into them".
+Using this (perhaps naive) assumption, this would mean black holes gain mass at a rate proportional to their surface area, which is the same as their radius squared, which is their mass squared.
+So then we get something like:
+$\frac{dm}{dt} \propto m^2$
+$m = 1 / (C - t)$
+Which means that all black holes should grow to an infinite size in a finite length of time.
+Indeed they will eventually get to a point where even small amounts of mass will grow the volume of the black hole so much (because volume increase is proportional to the current mass squared) and even if the density of the universe is very low this will eventually mean any growth will set off runaway growth because each atom the black hole swallows increases it's volume such that on average that new volume contains a new atom.
+Is it just that the constant factors here are very high, or are one of my assumption quite incorrect? I say quite incorrect because even if they're slightly incorrect (the growth rate is proportional to mass not mass squared) many of these issues still occur on long enough timescales.

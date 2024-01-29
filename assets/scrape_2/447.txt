@@ -1,0 +1,8 @@
+Future of CMB observations: How will our knowledge of the early universe change?
+
+The Planck satellite has been presented and awaited for a long time as the ultimate experiments for measuring temperature fluctuations in the cosmic microwave background (CMB) over the full sky. 
+One of the big questions that still need answer and that Planck might help clarify is about the dynamics and driving mechanisms in the first phases of the universe, in particular in the period called inflation.
+Thankfully there is room for improvements at small scales, i.e. small pieces of sky observed with extremely high resolution, and more importantly for experiments to measure the polarisation of CMB.
+I know that for the next years a number of polarisation experiments, mostly from ground and balloons, are planned (I'm not sure about satellites).
+For sure some of these result will rule out some of the possible inflationary scenarios, but to which level?
+Will we ever be able to say: "inflation happened this way"?

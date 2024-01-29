@@ -1,0 +1,5 @@
+Where can I find data on SDSS filter profiles?
+
+I've seen lots of filter throughput curves for the SDSS, such as this one:
+
+from the SDSS camera page, but I'd really like to produce my own from the data. Is the filter response data per wavelength available somewhere?

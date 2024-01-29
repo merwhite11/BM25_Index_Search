@@ -1,0 +1,5 @@
+How to communicate Fine Structure Constant to aliens?
+
+Sorry if this is not the right question for this channel, I just need to know and there is no good place to ask.
+It is said the Fine Structure Constant α is one of the most fundamental constants in nature. Unlike the likes of the speed of light, α is dimensionless. I have heard an argument that when we encounter intelligent aliens sending the α at them is the best way to let them know how much we know. It was said that we should of course send the constant in the binary numeral system.
+My question is: how do you communicate a fraction (α = roughly 1/137) in binary so that even aliens can decode it?

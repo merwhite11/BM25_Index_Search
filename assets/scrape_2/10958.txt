@@ -1,0 +1,18 @@
+Is the angular resolution of a telescope irrespective of used eye-piece?
+
+Suppose a telescope has aperture $D = 20$ cm. The angular resolution of such telescope, according to the Rayleigh criterion (if I have understood it correctly), is given by 
+$$\theta = 1.22\cdot\frac{\lambda}{D} \text{ rad}$$
+where $\lambda$ is the wavelength of light and $D$ is the aperture. Suppose $\lambda = 550$ nm (mid-point of visible light). Then 
+$$\theta = 1.22\cdot\frac{\lambda}{D} \text{ rad}
+= 1.22\cdot\frac{550 \text{ nm}}{20\text{ cm}} \text{ rad}
+= 1.22\cdot\frac{5.5\cdot10^{-5}\text{ cm}}{20\text{ cm}}\cdot 206264.8''
+\approx 0.69''
+$$
+In other words, the angular resolution of the telescope is $0.69$ seconds of arc for $\lambda=550$ nm.
+Now, is it really so that the eye-piece of the telescope has no play in this at all? Wikipedia says that
+
+and D is the diameter of the lens' aperture.
+
+which I would understand to be taken as the size of the primary mirror alone in a Newtonian telescope.
+So if there is for example a double (binary) star, I will see them as one no matter what kind of magnification/eye-piece I am using if the angle between the stars (from my point of view) is less than $0.69''$? And vice versa, if the angle between the stars is greater than $0.69''$ I will see them as separate stars with any eye-piece or magnification?
+(In theory, I know there's a lot of limitations from optics, seeing, etc.)

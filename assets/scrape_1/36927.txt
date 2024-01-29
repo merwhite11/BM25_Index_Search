@@ -1,0 +1,4 @@
+How is VLBI delay calculated?
+
+I’m working on a research project wherein we are trying to solve a problem very similar to VLBI delay. We have two radio receivers, and we know their locations. We also know at what time one receiver detected a signal, and the coordinates of it’s beam-pointing center. We want to determine at what time the second receiver should’ve seen the signal.
+I understand in principle how VLBI delay is calculated; I’ve seen a few different formulas, such as the dot product of a vector between the receivers, and between the receiver and the source but practically speaking, how would I actually go about producing numbers?

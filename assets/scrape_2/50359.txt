@@ -1,0 +1,9 @@
+Which (if any) space telescope would have worked longer if it hadn't simply run out of helium?
+
+In this answer to Why is the hot part of Webb's MIRI cryocooler in the 300K area? and comments below discusses the helium refrigerator used for cooling JWST's Mid-Infrared Instrument or MIRI.
+A comment there talks about the disadvantages of using a dewar or reservoir of helium that performed passive cooling by a slow boil-off. Advantages are that it doesn't fail like a compressor would nor does it vibrate (though it can slosh). Disadvantage is that it runs out, which might come a lot sooner than a(n extremely well-designed) compressor failure would.
+
+...what the 'dewar flask' cooling is... a flask of liquid helium provides liquid helium to locations needing cooling where the liquid absorbs heat, turns to gas which is then vented to space. Long service life would mean a very large, very heavy amount of helium. It would also mean an absolute hard limit to useable lifetime.
+
+That "hard limit" sounds familiar, though I think the limit was softened by limited operation at shorter wavelengths. In any event, I'd like to ask:
+Question: Which (if any) space telescope would have worked longer if it hadn't simply run out of helium?

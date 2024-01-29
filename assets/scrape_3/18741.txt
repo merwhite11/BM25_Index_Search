@@ -1,0 +1,6 @@
+Cosmic microwave background radiation: why did it take so long to get here?
+
+I understand that the universe after the big bang was a super dense cloud of elementary particles, and because of this high density was "not transparent" to light. 
+Then, roughly 400.000 years (380.000 to be exact) after density and temperature lower enough for the first hydrogen atoms to form. Thanks to the lower density, now photons were free to travel. Theoretically the Cosmic Microwave Background Radiation (CMBR) should be this light that "became free" 400.000 years after big bang.
+Let's reason in 2d for simplicity. If the universe was a circle, the maximum radius could have been a bit less than 400.000 light years (it's probably an exaggeration, but let's simply assume that matter can't travel faster than light). So, if we imagine that the matter that eventually generated the earth was on the border of this circle (and somehow we are still close), the most far photon at that time should have been at 800.000 light years. 
+If my reasoning is correct, I can not understand how it is possible that we see that photon after 13 billion years. It should have reached us long long time ago.

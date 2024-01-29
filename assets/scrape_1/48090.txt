@@ -1,0 +1,7 @@
+Is it still called an orbital resonance if the ratio is irrational?
+
+Previously, I asked At what point are orbital resonances no longer "ordered" but "chaotic?", and received an answer from @CarlWitthoft:
+
+Perhaps if the calculated fraction had an irrational num or denom, then you could claim "chaos" because the fraction itself can't be evaluated exactly.
+
+I'm a bit confused by this statement because if a resonance was simple but couldn't be represented as an integer fraction, such as 1:$\sqrt2$, would it not be a resonance because the fraction cannot be evaluated. So I am wondering, if the resonance is a ratio with a simple radical (like 2:$\sqrt5$ or 1:$\sqrt3$), would it still be considered a resonance?

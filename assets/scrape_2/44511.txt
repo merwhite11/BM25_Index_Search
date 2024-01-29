@@ -1,0 +1,5 @@
+Why is so much energy released in a supernova while so little in a star?
+
+There is a huge amount of energy released in a supernova. All fuel is used almost instantaneously. Why doesn't this happen in stars (like the sun)?
+I am asking "Why does a large star spend millions of years slowly doing various fusion reactions? Why doesn't it explode in a supernova as soon as it's formed?"
+If the hydrogen fuel (needed for fusion) is burnt up and the energy release will no longer be sufficient to withstand gravitational collapse the star will implode. When the volume is small enough (or the temperature or pressure high enough) new fusion reactions will start. Can't a new balance between energy production and energy radiation (into the void) form, like in the star before? Or will the vulume be too small? Has a critical mass density been passed, like in an atomic bomb (the fission one, though I'm not sure if there is a critical mass for the fusion one). Is the volume-surface ratio of importance?

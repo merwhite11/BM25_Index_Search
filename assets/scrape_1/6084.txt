@@ -1,0 +1,10 @@
+Going from the second moments of an object to its ellipticities and half-light-radius
+
+I am studying ellipticity distributions of galaxies and am having trouble moving from the second central moment matrix (covariance matrix) to properties for an object such as its half-light radius.
+I already know how to obtain $e1$ and $e2$
+They are given by the following:
+$e = \frac{Q_{xx} - Q_{yy} + 2iQ_{12}}{N}$
+Where $N = N(Q)$ and is just the normalization. The real component is $e1$ and the imaginary component is $e2$
+I am wondering how to obtain the half-light radius, as well. 
+I have seen:
+$2r^2 = Q_{xx} + Q_{yy}$ for a circular profile, then one can obtain the HLR from $r^2$ but what about for non-circular profiles? Is the above equation even valid?

@@ -1,0 +1,16 @@
+Technique for folding sparse event data in order to detect an underlying periodicity?
+
+@JamesK's answer to When will the next transit of Earth be visible from Mars? Was the last one really on May 11, 1984? lists dates of 18 transits which I've converted to days since 1500-Jan-01 as
+[35011, 44319, 73176, 109885, 138742, 148050, 176908, 213616, 242474, 251782, 280639, 317347, 326656, 346205, 355514, 384371, 421078, 430388]
+
+Answers to Why do transits of Earth across the Sun seen from Mars follow a pattern of occurring after 26, 79 then 100 years? explain why this happens and why if they happen at all, the happen in May and November.
+As an exercise I'd like to use folding to see if I can detect those or similar periodicities in addition to the 6 month periodicity.
+I could
+
+for each period of N days recalculate those modulo N
+histogram the results
+
+but since there are so few event, they rarely occur when their time comes, and so many days between events, there won't be obvious peaks in the resulting histogram.
+Question: Is there a technique for folding sparse event data in order to detect an underlying periodicity?
+
+Events convoluted with σ=1000 day gaussians purely for illustration purposes. I thought about applying some Fourier transform to this but I don't think that that makes sense, and would be cheating rather than folding.

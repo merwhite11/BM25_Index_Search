@@ -1,0 +1,3 @@
+How many horizontal branch stars are within 2 kpc of the sun?
+
+For my research purposes, I am wondering how many horizontal branch (HB) stars are within 2 kpc of the sun?  I tried to find some with the Gaia DR2 data with a magnitude cut that leaves HB stars out if they're beyond ~2 kpc, and there were surprisingly few unambiguous HB stars, so I'm just wondering how many there are and/or how to go about estimating that.

@@ -1,0 +1,5 @@
+How do I calculate moon phase orientation at any Coordinates given all the necessary data?
+
+I'm having a problem for a couple of days where I'm trying to accurately calculate the phase angle of the moon at any given Coordinates (lon,lat).If I know my current Coordinates, Moon and sun topocentric right ascension, declination, altitude and zenith Coordinates.
+Given all of that data, how do I achieve that ? The result I'm looking for preferable in degrees where 0 degrees means the crescent moon pointing directly towards me, 180 degrees means the crescent moon pointing at the other direction and so on..
+I have tried a formula where I measured the angle between the sun zenith and a certain coordinate in relation to the moon zenith, on paper this could work, the results were decent but not to the accuracy I'm looking for. Any help would be much appreciated.

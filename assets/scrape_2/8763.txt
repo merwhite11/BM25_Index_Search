@@ -1,0 +1,5 @@
+Does the cosmic microwave background change over time?
+
+Does the cosmic microwave background pattern change over time?  I would assume it is getting "cooler" as in more redshifted as time passes, but I am more interested if the pattern on the background, as depicted below changes.  I would expect we would see something like the cosmic microwave background retreating one light year (or possibly further due to inflation) every year, and it would be neat if we could make a "3D map" of the background as time passes (e.g. take an image of it every year).
+
+http://lambda.gsfc.nasa.gov/product/map/dr5/map_images/wmap_planck/wmap_planck_ilc_300uK_med.png

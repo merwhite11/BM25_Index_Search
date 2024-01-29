@@ -1,0 +1,5 @@
+Which value of the apparent magnitude do I use from a Supernova light curve
+
+I am trying to get the distance modulus from a light curve of a supernova and obviously the apparent magnitude changes with time. Not only that but there are so many filters with different mags.
+So my question is which mag value do I use from which filter and at what time? I have attached an example light curve I plotted of 2013aa supernova
+Thank you very much :)

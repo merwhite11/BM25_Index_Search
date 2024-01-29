@@ -1,0 +1,19 @@
+What is the YORP effect exactly? Is it just the non-central component of the Yarkovsky effect?
+
+This answer to Where have all the Vulcanoids gone? links to the aptly-titled The YORP Effect Can Efficiently Destroy 100 Kilometer Planetesimals At The Inner Edge Of The Solar System which says in part:
+
+... The YORP effect destroys Vulcanoids by spinning them up so fast that the gravitational accelerations holding components of the body together are matched by centrifugal accelerations, this causes the body to rotationally fission. i.e break apart. We calculated the timescale of this fission process for a parent Vulcanoid and for each of their subsequent generational fragments. We show that objects with radii up to 100 kilometers in size are efficiently destroyed by the YORP effect doing so in a timescale that is much younger than the age of the Solar System...
+
+Tha answer also links to the explanation of the YROP effect in The YORP Effect and Bennu
+ which says:
+
+The YORP effect is a similar phenomenon that affects the rotation rate and pole orientation of an asteroid. YORP is an acronym that combines four scientist’s names: Yarkovsky, O’Keefe, Radzievskii, and Paddack. Building on the work of Yarkovsky, V. V. Radzievskii showed in 1954 that variations in albedo across the surface of a small body in space could increase its rotation rate. This phenomenon is essentially the Crooke’s radiometer effect. Stephen Paddack and John O’Keefe, who were separately working on the origin of tektites and interplanetary dust, went on to show that an object’s shape strongly influences the change in rotation. David Rubincam synthesized these ideas in 1999, and showed that YORP creates a thermal torque akin to a “windmill” effect on asteroids. This torque can modify the rotation rate and obliquity of an asteroid, depending on the external geometry of the body.
+
+This is frustrating because of course the Crooke's radiometer works by interacting with the molecules of the low pressure gas intentionally included inside the glass bulb, and not by radiation, but at least we get the idea that a net torque is produced due to a non-uniformity of some optical property.
+Wikipedia's Yarkovsky–O'Keefe–Radzievskii–Paddack effect works hard to try to explain but the explanation is long and I am not confident it's actually accurate.
+Answers to What is the difference between the Yarkovsky effect and YORP effect? touch on this but do not answer this question.
+Question: What is the YORP effect exactly? Is it just the non-central component of the Yarkovsky effect?
+
+Yarkovsky only considers the center of mass recoil from thermal radiation of a rotating body in sunlight, is YORP just the tangential component of this recoil?
+Or does it require the body to be non-uniform in order to spin-up the body?
+Would a uniform sphere in fact spin-down?

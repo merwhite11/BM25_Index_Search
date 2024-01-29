@@ -1,0 +1,7 @@
+Why is Chandrasekar Limit expressed relative to Sun?
+
+In 1931, Chandrasekhar was able to show that there is a certain critical mass (Chandrasekhar's limit) beyond which a white dwarf cannot exist, since the electronic fluid at that point cannot support its weight no matter how compressed it is. 
+The core of such a star will simply collapse inward. 
+The critical mass, Chandrasekhar showed, is 1.4 times that of the Sun.
+When I first heard this, I was totally confused. Sun is a star too. The Sun will eventually enter the Red Giant Phase, and then it will eventually become a white-dwarf.
+How and why did Chandrasekar express his limit relative to Sun?

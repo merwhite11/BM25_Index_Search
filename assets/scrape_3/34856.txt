@@ -1,0 +1,5 @@
+How does the surface gravity on Mars vary between the equator and its poles?
+
+A day on Mars is similar in length to the Earth's day. On Earth, due to rotation, the surface gravity varies from 9.78 m/s² (0.997 g) on the equator to 9.832 m/s² (1.003 g) on  the poles. I wonder how the gravity varies on Mars where the day is of similar length. We hear of different values, such as 3.69, 3.711 or 3.72076 m/s². All values around 0.38 g. But I wonder what is the exact value of the equatorial gravity on Mars (including centrifugal forces), what it's on the midlatitudes and on the poles. 
+The Phoenix probe landed near the north pole; do we know whether it has a gravimeter and measured the surface gravity on its landing place? I know the Curiosity rover which landed close to the equator measured a gravity of around 3.71 m/s² from which I conclude the 3.711 value is for the equator (0.378 g).
+When I calculate the gravity of Mars with (G x m)/r² it doesn't include the centrifugal force of Mars' rotation.

@@ -1,0 +1,6 @@
+What is this cluster of light trails captured on long exposure images?
+
+I was taking photos of the Perseids meteor shower on 13/08/2022 in Peak District in the UK. The camera was fixed stably on a tripod, set on manual mode, taking 8-second exposures continuously.
+When I was editing photos, I noticed 31 consecutive images showing light trails in a very small area. These images were taken between 1:52:17 AM and 1:56:03 AM, paused, and then continued from 1:56:48 AM through to 1:57:23 AM. I cut out the trails from the images and merged them in Photoshop. The result is shown below:
+
+Another observation is that each image only shows one trail. This means this could be one object moving very fast back and forth, or a number of objects moving in a formation passing a light source. Could the latter be Starlink satellites?

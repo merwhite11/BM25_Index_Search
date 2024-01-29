@@ -1,0 +1,10 @@
+Declination change due to precession
+
+I have this problem: I want to calculate the declination of the star in the year 5000. And I know RA (right ascension) and Dec (declination) of the star right now.
+How can I calculate it using spherical trigonometry.
+
+I know that the declination changes over time due to the precession
+  and somewhere I read that I should use spherical triangle, but I am not
+  really sure how to use it.
+
+Thank you for your ideas.

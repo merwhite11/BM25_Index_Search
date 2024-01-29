@@ -1,0 +1,10 @@
+Determine distance of asteroid based on two observations from different locations
+
+Two astronomers A, B located in different regions A: 17° E, 46 ° 27 'N,
+B: 17° E, 22 ° 34 'S observe an asteroid at the moment it is exactly above the meridian and is in position C which is a distance a from A and b from B.
+Both observe from sea level and astronomer A sees the asteroid 25 ° south of his zenith, while astronomer B sees the asteroid 45 ° north of his zenith.
+Consider the radius of Earth equal to 6400km.
+Calculate the distance of this asteroid from the center of the Earth.
+My work: We can create two triangles for example triangle AEC and BEC(Where E is the center of Earth) and from the data we have one angle for each (EAC = 180-25=155 and EBC=180-45=135) and one known shared side which is the radius of Earth. This is how far I have gone I suspect using law of sines and cosines to find some relations and do a system of equations but whenever I try and solve the system the numbers don't make sense.
+Any ideas on how to continue with the soution will be appreciated.
+Thanks in advance for your help.

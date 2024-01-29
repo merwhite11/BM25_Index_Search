@@ -1,0 +1,58 @@
+Coordinates reduction python
+
+How can I calculate position (alt, az) of star for observer at some station (longitude, latitude) on specific date and time? I need full coordinates reduction with all elements included in calculation (proper motion of star, atmospheric pressure and temperature... )
+I tried with pyephem but I am not sure can I finish.
+import ephem
+
+polaris = ephem.readdb("Polaris,f|M|F7,2:31:48.704,89:15:50.72,2.02,1")
+
+polaris.compute('2016/3/1 16:22:56')
+
+print polaris.a_ra 
+print polaris.a_dec
+
+I also tried with astroplan and I think that I am closer to solution, but still don't know how to get coordinates after reduction and add proper motion. 
+import astropy.units as u
+from astropy.coordinates import EarthLocation
+from astropy.coordinates import SkyCoord
+from pytz import timezone
+from astroplan import Observer
+from astropy.time import Time
+from astroplan import FixedTarget
+import numpy as np
+import astropy.units as u
+from astroplan.plots import plot_sky
+from astroplan.plots import plot_parallactic
+from astroplan.plots import plot_airmass
+import matplotlib.pyplot as plt
+from astroplan import FixedTarget
+
+
+longitude = '21d33m20.4s'
+latitude = '+43d08m24.6s'
+elevation = 1150 * u.m
+time = Time('2015-06-16 12:00:00')
+
+location = EarthLocation.from_geodetic(longitude, latitude, elevation)
+
+observer = Observer(name='Name',
+               location=location,
+               pressure=0.615 * u.bar,
+               relative_humidity=0.11,
+               temperature=0 * u.deg_C,
+               timezone=timezone('Europe/Belgrade'),
+               description="..")
+
+
+
+coordinates = SkyCoord('2h31m48.704s', '89d15m50.72s', frame = 'icrs')
+polaris = FixedTarget(name='Polaris', coord=coordinates)
+
+plot_airmass(polaris, observer, time)
+
+ax = plt.gca()
+box = ax.get_position()
+ax.set_position([box.x0, box.y0, box.width * 0.8, box.height * 0.8])
+
+plt.legend(loc=1, bbox_to_anchor=(1.35, 1))
+plt.show()

@@ -1,0 +1,4 @@
+Which redshift is used to determine the Hubbleconstant?
+
+I think they measure cosmological redshift to use in the Law of Hubble-Lemaître together with the distance to calculate $H_0$. Is this correct, or do they use Doppler shift (too)?
+$H_0$ indicates how fast the universe is expanding, so I find it logical that we measure cosmological redshift. But the galaxies are receding (due to the Hubble Flow) away from us, so do they gain an additional Doppler shift?

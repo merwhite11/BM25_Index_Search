@@ -1,0 +1,12 @@
+Orbital path projections onto a 2D plane
+
+In ProfRob's excellent answer to Is S2 still the fastest known star in the galaxy?, he posted a figure of the orbital paths of stars passing close to the supermassive black hole near the center of the galaxy, which I am re-posting here:
+
+This figure caused some confusion in the comments, especially concerning the fact that there doesn't seem to be a common focus for all the ellipses in the image, as might be expected by Kepler's First Law.  ProfRob reminded the other users that the figure was a projection of the orbits in 3D onto the plane of the sky.
+Question: How are the geometric properties of orbits conserved (or not) when projected onto a plane?
+Specifically:
+
+Are the 2D projections of ellipses also ellipses?
+Do the ellipse projections all contain the corresponding projection of the central mass?
+Why don't the ellipse projections share a focus?
+Under what conditions (if any) will the projections share a focus?

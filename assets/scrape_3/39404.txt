@@ -1,0 +1,46 @@
+How to plot celestial equator in galactic coordinates? Why does my plot appear "backwards"?
+
+I'm trying to plot celestial equator in galactic coordinates. Here is my code (based on this answer):
+import matplotlib.pyplot as plt
+import seaborn as sns; sns.set()
+import numpy as np
+
+from astropy.coordinates import SkyCoord
+from astropy import units as u
+
+ra_all = np.linspace(-180, 180, 100)
+dec_0 = np.zeros(100)
+
+# Transform equatorial coordinates to galactic
+eq = SkyCoord(ra_all, dec_0, unit=u.deg)
+gal = eq.galactic
+l_plot, b_plot = gal.l.wrap_at('180d').radian, gal.b.radian
+
+
+lon = np.linspace(0, 360, 100)
+lat = np.zeros(100)
+
+# Transform ecliptic coordinates to galactic
+ecl = SkyCoord(lon, lat, unit=u.deg, frame='barycentricmeanecliptic')
+ecl_gal = ecl.transform_to('galactic')
+l_ecl_gal, b_ecl_gal = ecl_gal.l.wrap_at('180d').radian, ecl_gal.b.radian
+
+
+plt.figure(figsize=(14,7))
+plt.subplot(111, projection='aitoff')
+
+plt.scatter(l_plot, b_plot, s=5, label='Celestial Equator')
+plt.scatter(l_ecl_gal, b_ecl_gal, s=5, label='Eclptic')
+
+
+plt.grid(True)
+plt.legend(fontsize=16)
+
+plt.show()
+
+
+However, the map I drew seems to be flipped left to right compared to the one bellow (taken from here)
+
+
+Question 1: Why does the result of my implementation appear to be the reverse of the other image? Do I have something wrong, or is this simply an issue of mapping the surface from the inside versus from the outside?
+Question 2: What is the best way to change my code to make it draw galactic map in a conventional format?

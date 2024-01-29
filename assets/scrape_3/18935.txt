@@ -1,0 +1,3 @@
+How to calculate the S/N of IFU or long-slit galaxy observations
+
+I would like to calculate the Signal-to-Noise ratio (SNR) of long-slit or integral field unit (IFU) observations of H$\alpha$ emission. I can calculate the SNR or each individual spectrum, just fine. However, how can I assign a single SNR value to an observation? Do I just quote the higher SNR or do I calculate the median/mean SNR of all spectra? Is there a convention for this? My data is low-redshift galaxy IFU observations, and thus the SNR is higher in the center of the galaxy and lower at larger radii.

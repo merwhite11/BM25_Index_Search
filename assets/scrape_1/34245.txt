@@ -1,0 +1,5 @@
+What fraction of galaxies host active galactic nuclei?
+
+I've been saying "some". I can't find a reference for a particular percentage.
+This seems to address the question to some extent; https://arxiv.org/abs/astro-ph/0108389 would "roughly 1%" be in the right ballpark for an answer then?
+pesa points out this is redshift-dependent. I am looking for a ballpark figure of the fraction of AGN at $z < 1$.

@@ -1,0 +1,8 @@
+General process of calculating what a telescope's diffraction spikes would look like?
+
+I was reading this question about the JWST's diffraction spikes, and I was rather surprised by the magnitude of the 4 sets of diffraction spikes.
+
+The large hexagonal spike pattern I believe is formed from the honeycomb shape of the primary mirrors, while the small horizontal spikes are formed from the one supporting truss that isn't aligned with the hexagonal axes.
+
+I would have expected the vertical arm to have a much greater diffraction spike size than the honeycomb shape of the primary mirrors. Why is this not the case?
+Furthermore, how would I go about calculating the diffraction spike pattern for an arbitrary 2d secondary mirror support structure shape observing a point source? My intuition tells me that this will be some kind of integral transform. There at least ought to be a way of approximating it without having to calculate the full wave equation propagating through the lenses.

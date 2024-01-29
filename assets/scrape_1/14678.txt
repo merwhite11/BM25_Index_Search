@@ -1,0 +1,35 @@
+What is the equation of state for a relativistic fluid/gas?
+
+Say we have a relativistic fluid/gas, as we have in some astrophyical systems.
+Now let us write:
+
+$e$ - energy density in the fluid's rest frame.
+$P$ - pressure in the fluid's rest frame.
+$n$ - number density in the fluid's rest frame.
+$m$ - mass of the particles.
+
+I know that for the non-relativistic case we have:
+$$e=nmc^2+\frac{1}{\hat{\gamma}-1}P$$
+where $\hat{\gamma}$ is the adiabatic index. $\hat{\gamma}=1+\frac{2}{f}$ for a gas with $f$ degrees of freedom.
+For the ultra-relativstic case we have:
+$$e=3P$$
+My question is what is $e(P,n)$ for a relativstic case (which is the general case of the 2 limits shown above)? I would also like to know how to derive it.
+
+Is the following way the correct way to do it ? :
+The number density of particles is:
+$$n=\int_{0}^{\infty} n_p(p) dp $$
+The pressure is:
+$$P=\int_{0}^{\infty} \frac{1}{3} p v(p) n_p(p) dp $$
+The energy density is:
+$$e=\int_{0}^{\infty} \epsilon(p) n_p(p) dp $$
+where:
+$$n_p(p)= (2s+1)\frac{1}{ e^{({\epsilon(p)-\mu})/{k_B T}}+(-1)^{2s+1} } \frac{4\pi p^2}{h^3}$$
+Here $s$ is the spin of the particles, for electrons $s=\frac{1}{2}$.
+$$ \epsilon(p)=(m^2c^4+p^2c^2)^{\frac{1}{2}} $$
+$$ v(p)= \frac{d\epsilon}{dp}=\frac{p}{m}\left(1+\left(\frac{p}{mc}\right)^2\right)^{-\frac{1}{2}} $$
+From calculating the three integrals above we can finally obtain $e(P,n)$.
+
+Can anyone confirm this is the proper way to do it, or am I missing something here?
+It seems as if those integrals cannot be solved analytically - is this
+true?
+Perhaps in this case there is no explicit formula for $e(P,n)$?

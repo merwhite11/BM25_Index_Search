@@ -1,0 +1,6 @@
+Bousso bound within particle horizon, discrete Q.field theory
+
+I have 2 questions:
+
+Could you please give me arxiv numbers of papers dealing with the Bousso bound for the particle horizon (known Universe), from masters level upwards, with also some papers a bit more philosophical or vulgarised?
+It has been said that due to Bousso bound (or Bekenstein's, I don't remember), QFT or any other field theory should have a limit in the micro dimensions, therefore be discrete instead of continuous: do you know some arxiv papers with the same levels and approaches than in (1)?

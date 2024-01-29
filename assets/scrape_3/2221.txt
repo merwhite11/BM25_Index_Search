@@ -1,0 +1,6 @@
+Black Hole / Hawking Radiation: Why only capture anti-particle?
+
+I may have some specifics wrong here.  If so, don't focus on those.  Just focus on the general thrust of my question.
+I "understand" (cough) that particle/anti-particle pairs form spontaneously in space.  I understand that they can form near the event horizon of a black hole, and that one particle can fall in, where as the other particle can barely escape.  I understand that an anti-particle will annihilate with a particle.  What I don't understand is why only the anti-particles of these virtual particle pairs fall into the black hole, while the other ones just manage to escape.  Shouldn't both particle and anti-particle have equal chance to be the one to fall in, or just manage to escape?
+It seems that there should be an equal chance of either the particle, or the anti-particle, would be captured while the other "ejected."  So it seems that the black hole should be somewhat steady-state as far as mass change with respect to virtual particles.
+Explain?

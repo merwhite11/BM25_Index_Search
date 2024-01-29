@@ -1,0 +1,3 @@
+stellarium software: selective artificial satellite display
+
+The Stellarium satellite plugin by default shows all the artificial satellites' orbits around Earth. I’d like to be able to view only certain satellites so that the view is not cluttered with every satellite in existence. Is there a means to create a custom satellite list, or view only relevant satellites?

@@ -1,0 +1,4 @@
+How do I find out when a constellation reached its zenith?
+
+I found this website to look at the sky at the specific time and location: http://www.fourmilab.ch/cgi-bin/Yoursky - you can insert latitude and longitude and time to see how the skies looked at any location/time. What I need to find out is when a particular constellation reached its zenith. I see that if I change the Universal time the location of the constellation in the sky changes, but where is the zenith of a constellation? The constellation in the question is Bootes. How do I know its zenith time let's say for today? preferably using the website above.
+Picture example from the website:

@@ -1,0 +1,15 @@
+Solar Eclipses for dummies: Step 1 - moon equatorial orbit around a planet without axial tilt
+
+Note 1: I've studied downvoted questions and decided that I either asked too many questions or I sound like I'm setting a fantasy world. So I'm editing my question accordingly. 
+Note 2: I'm a language teacher. I learnt equations with variables but that was over 20 years ago and I remember little of it; I never learnt trigonometry and other more advanced maths, that's a fact, but if there's no way around it I'll do my best to tackle it.
+Note 3: My approach to understanding eclipses, due to the above stated handicap, is removing all the complicating factors (namely, the axial tilt and the moon's 'ondulating' orbit). I assume that, if I can fully understand such a simplistic scenario, I can then follow the mechanics of the real Earth scenario.
+Therefore, I have written below the points I am confident are true. The ones I don't know are asked as questions (Q) and formatted in bold. 
+
+Every new moon would be a total solar eclipse.
+The path of totality would always cover the same area: a 250km  wide corridor with its centre at the equator (so 125km over the northern hemisphere and 125km over the southern hemisphere). 
+I think the path of totality wouldn't always cover the same area, e.g. always over Africa, so Q1: Is there a simple formula to predict which areas would be in the path of totality?
+In real life, the moment of totality can vary from seconds to seven minutes. But in my study example, Q2: the period of totality should always be the same, right? Because the crossing path of moon and sun is always the same (while in real life the Moon can overlap the Sun at different angles and going in different directions)
+Q3: How can I calculate this period of time?
+What about the latitudes for whom the solar eclipse would only be seen as partial? I understand that the nearest to the path of totality, the more covered the sun will be, and vice-versa. Q4: Is there a set value that says e.g. for each km, another degree is visible?
+
+If this question is still not ideally adjusted, please leave a comment so I can further improve it.

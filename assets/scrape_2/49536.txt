@@ -1,0 +1,18 @@
+Plotting galaxies in 3-D
+
+Suppose I have a catalogue of galaxies in a .dat file with each row representing information about a galaxy: right ascension of the galaxy, declination of the galaxy, redshift of the galaxy, comoving distance to the galaxy, r-band absolute magnitude of the galaxy, g-r band color of the galaxy and equatorial $x$, $y$ and $z$ co-ordinates of the galaxy.
+Now my task is to plot these galaxies in 3-D with Earth as the center, so I am imagining the celestial sphere. But I don't understand how to factor redshift/comoving distance/Hubble constant in all of this. Can I just plot using the equatorial $x$, $y$ and $z$ co-ordinates? The direct coordinate transformation from equatorial co-ordinates to ra and dec using comoving distance as $r$ does not give the correct answer (I don't quite understand how it relates to redshift and proper distance, or is it already factored into the $x$, $y$ and $z$ co-ordinates)?
+The actual plotting should then be not hard, as I understand there are a lot of ways in Python to do that, so I just want some explanation on how to factor the comoving and proper distances. Also it would be really nice if someone can tell me what r-band and g-r band color mean.
+Update #1:
+I am attaching the plot I got from ploty library of matplotlib. You can make out the solid angle like of shape from here because it is a catalogue of galaxies lying in a part of the sky (angular size, basically).
+
+So I now have two questions:
+
+Each of the point (~80k) represents a galaxy. Is it correct to use the $x$, $y$ and $z$ co-ordinates here (whose units are in Mpc/h)?
+If yes to above question, is there a better way to visualize this data?
+
+Update #2:
+Attaching a new plot on the advice of @pela of reducing the marker size.
+
+But the questions still remain. I will keep updating my progress and once I learn the best way to do the correct visualtization, I will post an answer (unless somebody posts it before me).
+Thanks in advance!

@@ -1,0 +1,18 @@
+Physical size in different redshift
+
+I have only recently started to study astronomy. I would like to ask if I want to get the angle of Mpc under different redshifts, but the result I calculated seems a bit strange. Did I make a mistake while converting?
+from astropy.cosmology import FlatLambdaCDM
+import numpy as np
+from astropy import units as u
+import math 
+cosmo = FlatLambdaCDM(H0=70, Om0=0.3)
+
+d_A = cosmo.angular_diameter_distance(z=0.3)
+print(d_A) #  Mpc
+
+x = 3.29*u.Mpc
+
+theta = (x/d_A *(180/math.pi) *(1/3600))
+theta = theta*u.arcsec
+
+print(theta)

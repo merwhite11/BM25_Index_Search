@@ -1,0 +1,11 @@
+What would be the highest possible naked-eye apparent magnitude?
+
+What would be the highest possible magnitude $m$ of some star that could be viewed with a naked-eye? I am acquainted with this question, but mine is about the ideal conditions.
+In order to achieve maximum possible efficiency, I would suggest these points to be considered:
+
+Find (or better, construct) a monochromatic star with the peak wavelength at the maximum of the human perception ability (in order to avoid bolometric correction and ensure maximum efficiency).
+Find the most experienced astronomer possible with extraordinary viewing abilities.
+Place him out of the atmosphere, therefore in the middle of nowhere (just an astronomer and a star of magnitude $m$).
+Let him use the averted vision technique.
+
+Do you suggest any other points that should be considered? What is then the maximum possible magnitude $m$?

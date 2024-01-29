@@ -1,0 +1,3 @@
+For chemical reactions occurring in the interstellar medium, which involve metal-ions, will the metal ions be solvated or not?
+
+Usually, metal-ions in terrestrial chemistry will be solvated - either by gas-phase solvent molecules or by liquid-phase solvent molecules. But the interstellar medium (ISM) is never in local thermodynamic equilibrium. Moreover, the solvation of any system is driven by the system's proclivity to attain thermodynamic stability. But given the lack of local thermodynamic equilibrium in the ISM, solvation should not at all be an important factor in the ISM. Is it right or wrong? Any reference from the Astrochemistry/Astrophysics community will also be highly appreciated.

@@ -1,0 +1,7 @@
+How to determine atomic number density of an element in a star based on equivalent width measurements
+
+Given an equivalent width measurement $W$ of a spectral line of element $X$ and the effective temperature $T_{eff}$ of a star, how can you determine the atomic number density of $X$ in that star?
+According to Warner 1965, for the 6707.8 Lithium line we can apply the approximation
+$$\log{\frac{N^*(X)}{N^{\odot}(X)}} = \log{\frac{W^*(X)}{W^{\odot}(X)}} - 4.93 (\gamma -1)$$
+where $\gamma = \frac{T^{\odot}}{T^*}$ and $\log{W^{\odot}(X)}$ must be measured. The same paper says that $\log{W^{\odot}}(Li)=-6.15$ (my goal is to solve for the abundance of Lithium given a measured W of the 6707.8 $\overset{\circ}A$ line.
+Under what regime is this approximation valid? Also, I am unable to solve this equation because I don't know what $N^{\odot}(Li)$ is. How can I determine a reputable value for $N^{\odot}(Li)$?

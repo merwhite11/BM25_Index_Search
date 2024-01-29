@@ -1,0 +1,6 @@
+Implementing the VSOP-2000 Ephemeris
+
+For a project I'm doing, I need to implement the VSOP-2000 ephemeris for the Moon. However, unlike VSOP-87, there is little to no documentation online on how to use the data. For example, here is the first line of the x-term for the Moon in VSOP-2000:
+  1   0  0  1  0   0  0  0  0   0  1  0  0   0  0  0  0   0  0  0  0     -.1053243070325313D-09     -.2560241101399878D-02
+
+This is very different from VSOP-87, which I know how to use. Are there any resources online that could inform me on how to use this?

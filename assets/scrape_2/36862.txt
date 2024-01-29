@@ -1,0 +1,19 @@
+Why did it take five years to "figure out" how to use astrometric calibration sources to deblur LOFAR images?
+
+Quanta Magazine's The Hidden Magnetic Universe Begins to Come Into View is a fascinating review of a rapidly evolving field in astronomy.
+It contains some statements:
+
+In their paper last year, van Weeren and 28 co-authors inferred the presence of a magnetic field in the filament between galaxy clusters Abell 399 and Abell 401 from the way the field redirects high-speed electrons and other charged particles passing through it. As their paths twist in the field, these charged particles release faint “synchrotron radiation.”
+The synchrotron signal is strongest at low radio frequencies, making it ripe for detection by LOFAR, an array of 20,000 low-frequency radio antennas spread across Europe.
+The team actually gathered data from the filament back in 2014 during a single eight-hour stretch, but the data sat waiting as the radio astronomy community spent years figuring out how to improve the calibration of LOFAR’s measurements. Earth’s atmosphere refracts radio waves that pass through it, so LOFAR views the cosmos as if from the bottom of a swimming pool. The researchers solved the problem by tracking the wobble of “beacons” in the sky — radio emitters with precisely known locations — and correcting for this wobble to deblur all the data. When they applied the deblurring algorithm to data from the filament, they saw the glow of synchrotron emissions right away.
+
+The filament between galaxy clusters Abell 399 and Abell 401 is also discussed in How is it determined that the X-ray and radio intensity come from a magnetic field bridge between two clusters of galaxies?
+Question: Why exactly did it take five years for the radio astronomy community to "figure out" how to improve  the calibration these LOFAR measurements and apply deblurring algorithms? Answers to
+
+Would Adaptive Optics be Useful in Radio Astronomy?
+What is precipitable water vapor in millimeter-wave radioastronomy and how is it measured?
+What can be learned from low frequency radio astronomy available outside of Earth's ionosphere?
+In the 1950's how were radio-astrometric positions with portable dishes so precise they could be assigned to their dim optical counterparts (Quasars)?
+What exactly is interplanetary scintillation; what was the Interplanetary Scintillation Array looking for? Did it successfully observe any?
+
+suggest that correcting for spatial variations in water vapor or other effects is a known thing in radio astronomy. However discussions at How large does refraction become in radioastronomy? suggest that the ionosphere becomes increasingly important at low frequency (the "LOF" in LOFAR) so perhaps this was part of the challenge?

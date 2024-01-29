@@ -1,0 +1,7 @@
+When is Earth closest to the Sun?
+
+When is Earth closest to the Sun?
+Well, you say, perihelion of course.  But perihelion is when the Earth-Moon barycentre is closest to the Sun. Not Earth itself.
+The barycentre is on average 4,671 km from the Earth, which should mean that even if the orbit of the Earth-Moon barycentre around the Sun were perfectly circular, the Earth-Moon orbit around the barycentre would cause an oscillation in the Earth-Sun distance by twice that amount on a monthly basis.  That should be enough to move Earth's closest approach to the Sun away from perihelion.
+Considering this, how many days from perihelion may Earth's closest approach to the Sun be?
+Question inspired by: What place on Earth is closest to the Sun?

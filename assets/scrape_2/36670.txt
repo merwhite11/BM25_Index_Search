@@ -1,0 +1,3 @@
+Distance between objective lens and eyepiece
+
+I am trying to make home telescope, I have a convex lens of focal length 1000mm and eyepiece (plano-convex) with 25mm focal length. What is the ideal distance between objective and eyepiece to see objects more than one kilometre away.

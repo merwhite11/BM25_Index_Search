@@ -1,0 +1,38 @@
+Correctly scaling Power Spectrum and Correlation Function of Galaxies from Mock Catalogues
+
+I'm currently writing a code to compute the two-point correlation function of a set of galaxies. As I work with a loooot of galaxies, it was suggested to me not to do it in real space, but to compute the power spectrum in Fourier space and get the correlation from the power spectrum, as is explained e.g. in appendix B in this paper (arXiv:1507.01948).
+Unfortunately, it seems like I'm doing something wrong, and I don't know exactly what. For the FFT, I use the FFTW library, which as far as I see follows the same conventions concerning indexing and definition of the DFT as the numpy.fft library. If necessary, I'll gladly supply my full code and galaxy catalogues, but meanwhile, I'll describe it step by step:
+
+First read in the galaxy data (Stellar mass, x,y,z positions) and compute the density contrast field $$ \delta(\mathbf{x}) = \frac{\rho(\mathbf{x})}{\bar{\rho}} -1 $$
+where $\rho(\mathbf{x})$ is the density field in units of $M_{sol}/Mpc^3$ and $\bar{\rho}$ is the mean density of the entire simulation box, stored in a 3d-array of size $N^3$.
+compute $\delta(\mathbf{k})$ , the fourier transform  of $\delta(\mathbf{x})$ [meaning just calling the fftw_execute_dft_r2c() routines, nothing else added at this step]
+compute the "power spectrum field" $P(\mathbf{k}) = \delta(\mathbf{k})\bar{\delta}(\mathbf{k}) / (2\pi)^3$ , where $\bar{\delta}(\mathbf{k})$ is the complex conjugate of $\delta(\mathbf{k})$ . Note that at this point, it is not averaged yet, as this is only an intermediate step.
+compute $k = | \mathbf{k} | = \sqrt{k_x^2 + k_y^2 + k_z^2}$ for every $(k_x, k_y, k_z)$ of the available $P(\mathbf{k})$. 
+I also take into account the convention that $\mathbf{k} = 0$ is at index $(0,0,0)$ in python/C and (1,1,1) for Fortran, respectively, and that for $j > N/2+1$, $k_j \neq k_j \Delta k$, but $k_j = (-N + j)\Delta k$. 
+(For a real-to-complex FFT of a 3d-array, this holds for 2 of the 3 dimensions. Using the fact that $\tilde{f}(\mathbf{k}) = \bar{\tilde{f}}(\mathbf{-k})$ for the Fourier transform $\tilde{f}$ of a real function $f$, one array dimension will be truncated to length $N/2+1$ to avoid redundant information. For Fortran, it's the first index; for C/python, it's the last index.) $\Delta k$ is given by $\frac{2\pi}{boxlength}$
+histogrammize $P(\mathbf{k})$ to obtain $P(k)$ : Set up $n_b$ number of bins for $k$ between $k_{min}=0$ and $k_{max} = N/2 \Delta k$. I chose $k_{max}$ this way to ensure that the samples are equal in the sense that that is the maximal radius from $\mathbf{k} = 0$ which contains a full sphere inside the box without intersecting with already used samples. 
+I histogrammize both weighted $P_{hist,weight}$ with the value of each $P(\mathbf{k})$, as well as unweighted, $P_{hist,count}$ to obtain the number of counts in each bin, in order to compute the average value in each bin at the end: 
+$$P(k_i) = \frac{P_{hist,weigh}(k_i)}{P_{hist,count}(k_i)}$$
+This concludes the computation of the Power spectrum. Next comes the correlation function:
+Compute the inverse Fourier transform of the "power spectrum field" $P(\mathbf{k}) = \delta(\mathbf{k})\bar{\delta}(\mathbf{k}) / (2\pi)^3$ to obtain the "correlation field" $\xi(\mathbf{x})$. This time, a normalisation is necessary, because the FFTW transforms are unnormalised: $\mathcal{F}^{-1}[\mathcal{F}[f(x)] = N f(x) $, with $N$ being the array size for a 1d array. In my 3d-case, I divide the values by $N^3$.
+Histogrammize $\xi(\mathbf{x})$ in the same way I histogrammize $P(\mathbf{k})$ to obtain $\xi(r)$.
+
+Unfortunately, the results are orders of magnitude off of observational values. I took the observational values for the power spectrum from here, and a best-fit function for the galaxy correlation function from here.
+Here is a plot of my results, the green lines being the observational data, while the blue/orange line are two different cases obtained from the mock galaxy catalogue (whether orphan galaxies are included or not). This particular image was created with an array of length $N=512$ per dimension.
+
+Now clearly something is way off here, even though the general shape doesn't seem too bad. I have 2 suspicions for the reason behind this:
+1) I must be doing something wrong with the normalisation.
+2) I do something wrong when using different conventions of Fourier transforms: As far as I see, the Power spectra are computed using the convention 
+$$ \mathcal{F}[f(x)] = \int f(x) e^{-i kx} dx $$
+while the FFTW/numpy libraries use 
+$$ \mathcal{F}[f(x)] = \int f(x) e^{-i 2\pi kx} dx $$
+To check those suspicions, I checked when the normalisation is required by transforming and inverse-transforming a known function. Specifically:
+ $$ \delta_D(x-1)/2 - \delta_D(x+1)/2 \leftrightarrow - i \sin(k) $$
+following the convention $ \mathcal{F}[f(x)] = \int f(x) e^{-i kx} dx $.
+I get exactly correct results (nice peaks and a sinus wave) for both the Fourier transform and the inverse transform by following these rules:
+1 ) To change between transform conventions, substitute $k \rightarrow 2 \pi k$ : a $k$ in the FFTW convention corresponds to $2\pi k$ in the other convention.
+2 ) Normalise by dividing by $N$ after the inverse transform.
+If necessary, I'll gladly provide the code I tested this with.
+But the problem remains. I still think that I am doing something wrong with the normalisation, because  I verified that the value of the Power spectrum $P(k)$ indeed does vary by orders of magnitude using different numbers of samples $N$, the correlation function however doesn't. Maybe this is somehow connected to the fact that I compute the square value $\delta(\mathbf{k})\bar{\delta}(\mathbf{k})$.
+Can anybody please please help me? I've been stuck on this for weeks now.
+Edit: I've uploaded my code here: https://bitbucket.org/mivkov/sharing/src/master/computing_power_spectrum/ if anyone wants to see it directly.

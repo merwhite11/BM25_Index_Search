@@ -1,0 +1,7 @@
+Negative flux values in radio maps?
+
+I am trying to understand some maps of radio emission in e.g the Milky Way. I continue to see in papers that these radio maps report negative values of the flux in Jansky units, although no explanation is given as to why.
+For example Figure 1 here: The 1.28 GHz MeerKAT Galactic Center Mosaic and here: Towards a More Complex Understanding of Natal Super Star Clusters with Multiwavelength Observations
+
+I am wondering if the negative values are simply due to background subtraction, or if there is something more complicated going on.
+If it's just background subtraction, a simple reference explainaing how the background subtraction is done in general would be useful.

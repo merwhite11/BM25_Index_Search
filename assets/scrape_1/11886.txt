@@ -1,0 +1,7 @@
+Can we know where (South, East, West...) the moon will be at a specific time?
+
+Apparently, a few nights from now (more specifically on the night between the 27th and 28th of September this year, nights being Belgian nights), we will have a lunar eclipse.
+That's great, and I wish I could find a nice spot to go see that with friends!
+Sadly I never took a lot of time watching the moon with a compass in my hands, so I'm wondering:
+Can we know at what orientation (as in North, South etc) will the moon show up from Brussels between 12PM and 4AM GMT in the night of 27th to 28th September?
+What are the calculations and/or data source involved?

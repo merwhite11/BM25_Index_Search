@@ -1,0 +1,8 @@
+How can the CMB have a "monopole anisotropy"?
+
+Wikipedia's Cosmic Microwave Background (CMBR) radiation monopole anisotropy (ℓ = 0) says
+
+When ℓ = 0, the ${\displaystyle Y(\theta ,\varphi )}{\displaystyle Y(\theta ,\varphi )}$ term reduced to 1, and what we have left here is just the mean temperature of the CMB. This “mean” is called CMB monopole, and it is observed to have an average temperature of about Tγ = 2.7255 ± 0.0006 K with one standard deviation confidence. The accuracy of this mean temperature may be impaired by the diverse measurements done by different mapping measurements. Such measurements demand absolute temperature devices, such as the FIRAS instrument on the COBE satellite.
+
+Question: So in this case is the use of the word "anisotropy" vestigial? It came along for the ride when higher order terms (especially dipole) were assigned meanings and implications? The monopole term is not really an anisotropy at all, is it?
+It might be the case that monopole anisotropy has a well defined or accepted meaning, and that would be an interesting answer. It's hard to prove a negative though.

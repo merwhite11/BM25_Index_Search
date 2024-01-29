@@ -1,0 +1,5 @@
+absorption line from the chromosphere
+
+If I understand correctly, the H-alpha and Ca II K lines are absorption lines of the sun and allow to see the chromosphere. Following the Kirchhoff-Bunsen law, an absorption line is produced by a gas which is cooler than the source of light.
+However the chromosphere is hotter than the photosphere and the temperature increases outward (https://www.researchgate.net/figure/The-figure-plots-profiles-of-mass-density-dashed-line-and-temperature-solid-line-in_fig6_312376685). This is in contradiction with the previous hypothesis. Then how can we see the chromosphere in absorption line? What am I missing in the reasoning? Is the Krichhoff-Bunsen law only valid for a thin medium and here we would be in presence of a thick one?
+thank you in advance for your help.

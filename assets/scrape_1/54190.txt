@@ -1,0 +1,55 @@
+Colossus sigma function not reading the changes in the code
+
+am currently using the colossus package on Python, which helps calculating functions that are relevant in Cosmology.
+I am interested in calculating a Matter power spectrum, and use it as a base to derive the behaviour of other cosmological functions, such as the σ(R,z)
+variance function.
+The code goes like this:
+import numpy as np 
+import os 
+from colossus.cosmology import cosmology 
+import matplotlib.pyplot as plt 
+
+#Cosmological Parameters
+>costants written here, omitted for privacy
+
+k = 10**np.linspace(-5.0, 5.0, 5000)
+
+cosmo = cosmology.setCosmology('planck18', persistence = 'r')
+
+def Pow_iso(z,f_PBH,m_PBH):
+
+    > Function omitted for privacy
+
+    return P_iso
+
+def file_pbh(z, f, M, k, doc):
+
+    file = open(doc, "w+")
+
+    P = cosmo.matterPowerSpectrum(k,0) + Pow_iso(z, f, M)
+
+    for i in range(len(k)):
+
+        file.write("{} \t {} \n".format(np.log10(k[i]), np.log10(P[i])) )
+
+    file.close()
+
+    file_path = os.path.abspath(doc)
+
+    args = dict(model='mytable', path=file_path)
+
+    return P, args
+
+As shown here, the function ""file_pbh"" returns the calculated power spectrum and the arguments to be imposed on σ(R,z)
+to obtain a function coherent with such spectrum. The routine was checked to work by calling it once, and the power spectrum is calculated, along with its argument calling the document in which the power spectrum data has been written.
+The function is then called in a separate code. The Power Spectrum appears to be correctly calculated, and the docuents appear to be written and saved correctly.
+Inputting the ps_args in the Power spectrum function of colossus, I get back the original power spectrum, as predicted.
+However, as I input the ps_args in the colossus.Cosmology.sigma() function, the sigma does not change.
+I have tried the code on other PCs and computers, and in those cases the results change as the parameters change, as expected. However, I still cannot get the sigma function to change on my pc.
+I tested the change of sigma by writing the following string in a separate file calling back to the function file_path() from the first file:
+P, arg = file_pbh(z, f, M, k, "document")
+
+K1 = cosmo.sigma(7, 0, ps_args=arg, filt = "gaussian")
+
+everytime I change the parameters in file_path, K1 stays the same.
+What is happening? How can I correct it?

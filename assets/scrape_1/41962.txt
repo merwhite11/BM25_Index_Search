@@ -1,0 +1,5 @@
+Plotting The Kepler Field Full View
+
+I have downloaded the calibrated ffi(full field image) for the Kepler field, aside from the primary HDU which contains the metadata, they contain 84 channels, each in the form of an image HDU, representing a small part of the field - I want to plot the full field in astropy, how would I go about it?
+The Kepler ffi file can be found in the link below
+https://archive.stsci.edu/missions/kepler/ffi/kplr2013098115308_ffi-cal.fits

@@ -1,0 +1,12 @@
+How old are the total solar eclipses as we see them today?
+
+I've seen it referenced often that "total solar eclipses" (of the kind we see today where the corona of the Sun is visible as opposed to all of it being blocked) have become possible only recently (in geological time) since the moon has been receding from us. But no where have I seen an estimate of how ancient we think these kinds of eclipses are. I have read that the oldest recorded one might be about 5000 years old. But not how old they might be in absolute terms. Did the dinosaurs see the famous ring we see today or did they simply see total darkness for a few minutes?
+Note: for the terminology on "total" vs other kinds of solar eclipses, I'm going by what this website uses: https://www.timeanddate.com/eclipse/list.html. When they say "total solar eclipse", they mean the ones where a very thin ring of light is visible.
+The following image has been taken from the NASA website (note you can see a ring in both kinds): https://solarsystem.nasa.gov/eclipses/future-eclipses/
+
+
+EDIT: Here, by total solar eclipse, I mean the kinds we currently see on Earth where a ring of light (from the Sun) is visible and it isn't simply occluded completely. This requires precise conditions where the Moon should be at the right distance and the right size in relation to the Sun. Quoting from another answer:
+Quoting from this answer: https://astronomy.stackexchange.com/a/10219/9312
+"The criterion for an exoplanet to have solar eclipses like the spectacular ones we have here on Earth is a moon that happens to have an angular size large enough to cover the photosphere, but not so large that it also hides the corona."
+This article answers the related question on when the last such eclipse will be (in 650 million years): https://www.forbes.com/sites/startswithabang/2017/08/18/earths-final-total-solar-eclipse-will-happen-in-less-than-a-billion-years/?sh=3c7b038a635a
+Here is a highly related question (pointed out by someone later in the comments that are now moved): When did the first annular eclipse happen? and also this one: How rare are earth-like solar eclipses?

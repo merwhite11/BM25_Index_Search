@@ -1,0 +1,4 @@
+What is the canonical method to calculate the surface brightness limit of a 2D image, e.g., in a 1 arcsec2 aperture?
+
+What is the canonical method to calculate the surface brightness limit of a 2D image, e.g., in a 1 arcsec2 aperture?
+...if image has erg/s/cm2 units and each pixel has some arcsec2 dimension.

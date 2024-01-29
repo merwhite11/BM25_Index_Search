@@ -1,0 +1,6 @@
+When will Mercury have rotated an extra round around its axis?
+
+It is well known that Mercury orbits slightly differently from a pure Newtonian orbit. Every year a slight deviation is found.
+Now if we observe a lot of these orbits then Mercury should at one point have rotated an extra round around its axis. Has Mercury already made enough voyages around the Sun for this to become apparent?
+Is this simply 360 degrees divided by 43 seconds? It takes about 80 days for Mercury to make one rotation so you have to multiply it by this number.
+Is the extra rotation observed (or part of it)?

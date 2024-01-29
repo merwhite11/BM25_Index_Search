@@ -1,0 +1,3 @@
+Erratic Sundial
+
+My sundial shows real time until 11am when it will drop behind an hour until sunset. This is in keeping with daylight saving but why does it show real time before 11am? Am I missing something elementary?

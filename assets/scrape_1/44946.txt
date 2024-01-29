@@ -1,0 +1,3 @@
+Conventional units for astronomical object coordinates
+
+I would like to know what the conventional units for identifying a celestial object (J2000.0) are. For instance, I am reading a paper in which they refer to object SDSSJ170013.70+400855.6; I am guessing that 170013.70 is equivalent to 17h 00m 13.70s but unsure about the second number as the leading number is greater than 24. Does this change based on the specific sky survey or is there a typical one that most surveys use?

@@ -1,0 +1,3 @@
+Property of elliptical orbits
+
+I've studied that the major axis of a planets orbit = ( radius of perihelion + radius of aphelion) . But then  how can we calculate the value of the minor axis if we are provided with the values of radius of perihelion and radius of aphelion only ?

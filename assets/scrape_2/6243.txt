@@ -1,0 +1,5 @@
+Mechanism for Brown Dwarf Fusion
+
+I've read (at here, among other places) that during the Degenerate Era, star formation will end and the last stars will go out. But it was noted that there is still the possibility of star birth, coming from the collision of two stellar remnants, such as brown dwarfs (although white dwarfs also have the potential for such a collision). When two brown dwarfs collide, if they have enough combined mass, fusion can begin.
+This is much different from how normal stars form today, and how they fuse hydrogen and other elements. So my question is this: 
+Will there be any major differences between the fusion process in the new "star" and a star with the same mass that formed via traditional star formation (i.e. collapse of a gas cloud)? Also, how will this affect the new "star's" life cycle?

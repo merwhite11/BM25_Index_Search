@@ -1,0 +1,5 @@
+Are there accurate equinox and solstice predictions for the distant past?
+
+I am trying to find information on the equinox/solstice dates before 1600, more exactly referring up to 10,000 BCE so as to create a sort of calculator on an Excel spreadsheet.
+I have read about the SOLEX, but it is not available anymore. Is there any other software that can accurately (as possible, of course) predict the equinoxes and solstices keeping in mind the perihelion/aphelion effects on the period between equinoxes/solstices?
+If you believe it is possible to try a formula on excel to calculate these dates for me (instead of just copying down the dates into a database), please keep in mind that my mathematical/programming knowledge is limited.

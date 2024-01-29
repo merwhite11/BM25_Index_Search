@@ -1,0 +1,12 @@
+Whats the probability of a hazardous impact for human life on Mars?
+
+Yesterday my sister and I have discussed the recent efforts of SpaceX to create a permanent colony on mars.
+When coming to the several dangers of creating a habitat on a different planet, we got stuck on the probability of mars getting hit by an astronomical object thats large enough to wipe out life anywhere on the planet.
+I assume the probability is higher than on Earth, due to Mars being closer to the Asteroid Belt, its size and thinner atmosphere. There are more potential objects to enter martian atmosphere and can be smaller than on Earth to create the same hazardous impact for life. 
+I have tried to research the numbers, but the only calculations I found were for specific asteroids and their probability to hit Mars.
+On this StackExchange there are some questions concerningthe probability of an individual  (on earth) or a specific spot (on the moon) getting hit, but I found none for the hit of an object with a certain amount of impact (I hope thats the right word here). 
+So my question is: 
+What is the probability of an astronomical object hitting mars anywhere on its surface and kill all people currently living there? 
+Any impact destroying life-support systems and thus wiping out life on mars indirectly can also be included.
+Assume that there is only one habitat, it is built directly on the surface and the first humans have arrived with the latest flight. 
+If there are any questions about the scope of this question, don't hesitate to ask.

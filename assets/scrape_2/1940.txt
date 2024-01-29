@@ -1,0 +1,4 @@
+What is the orientation of planetary orbits?
+
+I'm working on a planetary motion simulator. I've been working through the equations anomaly, eccentricity, etc. The one thing I'm curious about is if all the ellipses are oriented the exact same way (the direction of the periapsis of all planets are pointing the same way), or is it different for each planet?
+What would this be called? I've only seen eccentricity and inclination.

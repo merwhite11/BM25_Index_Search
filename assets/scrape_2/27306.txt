@@ -1,0 +1,11 @@
+Why would the interplanetary medium atomic hydrogen Lyman‐α emission fall as 1/r rather than1/r^2?
+
+The Live Science article NASA Spotted a Vast, Glowing 'Hydrogen Wall' at the Edge of Our Solar System links to Geophysical Research Letters The Lyman‐α Sky Background as Observed by New Horizons https://doi.org/10.1029/2018GL078808 the abstract of which is
+
+Recent observations of interplanetary medium (IPM) atomic hydrogen Lyman‐α (Lyα) emission in the outer solar system, made with the Alice ultraviolet spectrograph on New Horizons (NH), are presented. The observations include regularly spaced great‐circle scans of the sky and pointed observations near the downstream and upstream flow directions of interstellar H atoms. The NH Alice data agree very well with the much earlier Voyager UVS results, after these are reduced by a factor of 2.4 in brightness, in accordance with recent re‐analyses. In particular, the falloff of IPM Lyα brightness in the upstream‐looking direction as a function of spacecraft distance from the Sun is well‐matched by an expected 1/r dependence, but with an added constant brightness of ~40 Rayleighs. This additional brightness is a possible signature of the hydrogen wall at the heliopause or of a more distant background. Ongoing observations are planned at a cadence of roughly twice per year.
+
+The constant brightness (indicator of "the wall") makes sense to me, a large resolved surface of constant emission intensity (W/m^2) will have a constant brightness, independent of distance.
+Conversely, a point source's brightness will obey a $\frac{1}{r^2}$ (inverse square) law.
+If absorption were the reason for the fall off, it would be Beer-Lambert as $e^{-\alpha r}$.
+But the abstract describes a 1/r fall off of the interplanetary medium (IPM) atomic hydrogen Lyman‐α (Lyα) emission.
+Question: How does a $\frac{1}{r}$ falloff arise in this case?

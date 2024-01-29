@@ -1,0 +1,4 @@
+How to find a place's latitude when you know a star's minimum and maximum altitude?
+
+All we know that a star's altitude at its upper culmination is 38 degrees and 52 arcminutes and that its altitude at its lower culmination is 12 degrees and 24 arcminutes (so it never really sets at that place).
+How can we, through this information, find that place's latitude?

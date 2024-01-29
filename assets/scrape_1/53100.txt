@@ -1,0 +1,8 @@
+Can the expansion of the universe cool my beer?
+
+So the expansion of the universe stretches the light traveling through the void, as demonstrated by the cosmic microwave background radiation.  These photons are lower energy than when they are emitted.
+Suppose I have a (very) well insulated container with a can of beer inside at slightly above room temperature (300 K) that is floating in the void, would the expansion of the universe cause the beer to cool off like it does cosmic microwave background photons?
+If the beer starts to freeze at 270 K (10% cooler), how long would it take to start to freeze if it started floating in the void today?  10 billion years ago?  In 100 billion years?
+Would water act differently?  (ie, does the heat capacity of the substance matter)  How about a box with perfect mirrors and photons in it?
+And if it does start to freeze (despite being well insulated; an isolated system), what happens with conservation of energy?  It appears to be a closed system.
+And if it doesn't start to freeze, what makes my free-floating beer different than free-floating photons?

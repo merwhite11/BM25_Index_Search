@@ -1,0 +1,26 @@
+Is the smaller companion of Pulsar J0453+1559 still the smallest known neutron star? Was it further confirmed to be a NS after Martinez et al. (2015)?
+
+@ProfRob's Physics SE answer to What is the theoretical lower mass limit for a gravitationally stable neutron star? was linked just now in their answer to Can a neutron star ever be less than about 1.44 solar masses (the Chandrasekhar limit)? Why not? which notes that a smaller neutron star companion to the J0453+1559 pulsar might (or might not) be the smallest currently known pulsar:
+
+A number of neutron stars in binary systems have measured masses below $1.44 M_\odot$ (e.g. a pulsar of mass $1.251 \pm 0.021 M_\odot$, McKee et al. 2020). I think the current lowest mass contender is $1.174 \pm 0.004 M_\odot$ (Martinez et al. (2015) Pulsar J0453+1559: A Double Neutron Star System with a Large Mass Asymmetry.
+
+The abstract of Martinez et al. (2015) includes the sentence:
+
+If this companion is also a neutron star (NS), as indicated by the orbital eccentricity of the system (e=0.11), then its mass is the smallest precisely measured for any such object.
+
+and Section 3, Results explains:
+
+Given the orbital eccentricity (e = 0.11), the companion is very likely to be a neutron star – if it had evolved into a massive white dwarf star there would be no sudden mass loss associated with a supernova explosion and the system would have retained the circular orbit that is characteristic of compact accreting systems. This is consistent with the non-detection of an optical counterpart of the system in any of the optical catalogs. However, the high eccentricity does not entirely settle the matter: the recent discovery of a recycled pulsar with a massive (∼ 1M⊙) companion PSR J1727−2946 Lorimer et al. (2015) and an orbital eccentricity of 0.0456 bridges the previously observed eccentricity gap between systems with NS and massive WD companions. In the remainder of this paper we will assume, with caution, that the companion is a NS.
+
+That the companion may be a neutron star is important for this analysis; the next sentence is
+
+The pulsar’s orbital eccentricity allows a detection of the advance of periastron, ˙ω. If
+both components are compact, as implied by the optical non-detection, this is given by:
+$$\dot{\omega} = \dot{\omega}_{GR} + \dot{\omega}_{K}$$
+[...]
+
+And the conclusion section notes that this is a relatively small eccentricity for double neutron stars listed in Table 1 as of 2015.
+
+It's now been six years, so I'd like to ask:
+Question: Has the smaller companion to Pulsar J0453+155 been confirmed to be a neutron star by any further work beyond that of Martinez et al. (2015) and is it still the smallest known neutron star?
+Has the smaller companion to Pulsar J0453+155 been confirmed to be a neutron star after Martinez et al. (2015) and is it still the smallest known neutron star?

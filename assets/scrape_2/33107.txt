@@ -1,0 +1,7 @@
+Clearing the Neighbourhood: Definition of 'Orbital Region'?
+
+I am trying to determine how wide a 'neighbourhood' a planet is expected to clear.
+However, the Wikipedia article on the matter provides no clarity, simply stating that a planet is expected to clear it's 'orbital region' with no definition provided.
+I suspect that the correct answer is that a planet is expected to clear a region around it's orbit equal to the radius of its Hill Sphere, but I am not certain of it.
+Furthermore, for a planet of Earth mass, the Hill Sphere radius is a measly 0.01AU, which doesn't seem like much of a neighbourhood!
+Is there a formal way to define the 'neighbourhood'?

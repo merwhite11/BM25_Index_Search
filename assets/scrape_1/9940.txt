@@ -1,0 +1,3 @@
+Telescope size to detect Ceres (Newtonian)
+
+What is the minimum size telescope required to enable clear visual detection of Ceres?

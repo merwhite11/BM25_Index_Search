@@ -1,0 +1,3 @@
+Is Io's orbit or rotation affected by its volcanism?
+
+The rotations of comets and asteroids are affected by outgassing volatilities. Io is very volcanically active. Does this give Io a varying orbit and a slow rotation? Tidal forces should take longer than the effect of a large eruption. Tidal locking means that any volcano alway pushes Io in the same direction (radially, tangential or inclined) accumulating the same kind of orbital change during all of its its active lifetime.

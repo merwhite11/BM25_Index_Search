@@ -1,0 +1,9 @@
+Photometry systems
+
+I know there's a difference between the ugriz and u'g'r'i'z' systems of photometric magnitude, but I also sometimes see UGRIZ written. Is there a difference between a UGRIZ magnitude and a ugriz magnitude?
+I'm trying to apply the method from the paper Photometric Redshifts of Quasars (Richards et al. 2001, ApJ 122, 1151-1162, Equation 1) to my data, which contain data in U, B, V, R, etc. Do I need to do any transformations to my data in order to apply their equation?
+
+
+First, we construct an empirical color-redshift $\chi^2$ (for each redshiftÈ indicated by the subscript z) is computed as
+$$\chi_z^2 = {\left((u'-g')-(u'-g')_z \right)^2 \over \sigma^2_{u'-g'} - \sigma^2_{(u'-g')_z}} + C_{gr} + C_{ri} + C_{iz}  \tag{1}\label{eq1}$$
+where $(u'-g')$ is the measured $u'-g'$ color of the object, $(u'-g')_z$ is the color from the median color-redshift relation at a given redshift, $\sigma_{u'-g'}$ is the photometric error in the $u'-g'$ color, which is given by $(\sigma_{u'}^2+\sigma_{g'}^2)^{1/2}$, and  $\sigma_{(u'-g')_z}$  is the 1 $\sigma$ error width of the median color-redshift relation as a function of redshift.

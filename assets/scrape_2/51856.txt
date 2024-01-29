@@ -1,0 +1,5 @@
+Calculating the expected lifespan for a binary system
+
+I’m doing some research work on finding a correlation between the mass of binary stars and their lifespan. I have methods to find the mass, and that department seems to be going fine, but is there a way I can determine the lifespan of the star? If someone knows how to calculate the lifespan (in years) for a binary system that would be amazing. Additionally, I am open to applying the Chandrashekhar limit on a binary system, I would just appreciate a few pointers on how exactly to apply it. Finally, if someone has another metric for determining the lifespan of a star, I would be open to researching that as well. Any help for this topic is appreciated, but I must keep calculations for mass in my paper, anything else can be modified.
+As per defining what "expected lifetime" is exactly, for detached binaries, it would be till one of the stars evolves into a neutron/white dwarf/ blackhole and eventually consumes the other star. For contact and semi-detached, I was thinking until they both collide.
+Any help would be much appreciated!

@@ -1,0 +1,7 @@
+How can I convert my sky coordinate system (RA, Dec) into galactic coordinate system (l, b)?
+
+I am an astro-particle physics PhD student trying to look for a simulation.
+I was looking for a conversion formula for sky (or celestial or Equatorial) coordinate system using Right Ascension and Declination to l and b (galactic longitude and latitude).
+Of course, since sky coordinate cannot contain Earth rotation or evolution effect, I also have UTC time for specific time.
+Can anyone tell me the formula of RA, Dec and UTC to l and b?
+Thanks in advance.

@@ -1,0 +1,8 @@
+Might someone see changes to the corona during a solar eclipse?
+
+I've seen many pictures of the corona during a solar eclipse, and the structure and delicacy is amazing. Clearly, the appearance would change over time, depending on the fine details of the solar wind and the structure of the mass shed from the solar surface. I wonder, though: might the appearance, to the unaided eye, change during a single eclipse?
+This could actually be treated as two questions (all example durations and times taken from the August 2017 eclipse):
+a) Might the corona's appearance visibly change during totality at a single location (a maximum of 2 minutes 40 seconds)?
+b) Might the corona's appearance visibly change between the first Earth-wide totality (16:48 UTC, when the Moon's shadow touches down in the Pacific) and the last Earth-wide totality (20:02 UTC, when the Moon's shadow last leaves the Atlantic)?
+Searching for solar wind velocities yields a broad range of values, but $400km/s$ seems to be a common value. With the solar diameter being about $1{,}400{,}000km$, that's about a solar diameter per hour, which suggests there will be no visible change at a single location, but there certainly could be changes when viewed across the entire 3+ hours of totality.
+So, can we expect changes in the coronal appearance during this eclipse, either at a single location or across the entire eclipse path?

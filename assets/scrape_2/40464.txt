@@ -1,0 +1,20 @@
+What color distribution does a protoplanetary disk have?
+
+A kids question indeed, but I do not have a conclusive answer. An usual artist's impression uses red and yellow as dominating colors, and a rather homogenous, dense disk, but how reasonable is that?
+If you follow e.g. Sciencedirect's teaser page on Protoplanetary disks
+
+Dust grains are a relatively minor constituent of protoplanetary disks, but they represent the starting point for the formation of rocky planets like Earth, and possibly also gas-rich planets like Jupiter. These grains are small, typically 1 m in diameter or less.
+
+Later on the same page:
+
+However, the fact that roughly half of young stars have debris disks of dust thought to come from asteroids and comets implies that growth of large solid bodies occurs in many protoplanetary disks, even if the mechanism remains obscure.
+
+This two statements for me seeded some doubts that homogenous red is really the correct color to associate with the inside of a protoplanetary disk.
+I also found a paper by Alan P. Boss stating
+
+Theoretical models of disks undergoing the accretion of mass from an infalling cloud envelope predict disk temperatures in good agreement with these constraints: a moderately warm (500–1500 K) inner disk, surrounded by a cool (50–150 K) outer disk.
+
+This would at least support the color scheme if you assume black body radiation.
+Related
+
+What makes protoplanetary disks start rotating? (Initial energy needed to rotate)

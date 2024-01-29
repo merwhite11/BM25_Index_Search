@@ -1,0 +1,5 @@
+Calculating Position of Sun in GPS Frame Relative to 0°00'00.0"N 0°00'00.0"E: Determining Vernal Equinox Offset
+
+I am trying to calculate the position of the sun, in GPS coordinates terms, from a given date. As of right now, I know how to accurately calculate the equatorial Right Ascension and Declination, and even Sun Position Vectors. However, these coordinates systems are based on the vernal equinox, which I can't seem to figure out how to calculate, or even find an equation for.
+My gameplan is to take the offset in degrees (or whatever transformation) of the equatorial system from the GPS frame, and add that offset my equatorial terms to find the position of the sun in the terms I'm looking for.
+Astropy isn't an option for me - I need the actual pure math to then implement myself in a different language without such good scientific support.

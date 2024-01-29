@@ -1,0 +1,3 @@
+Software for simulating/calculating a known EMW pulse propagating in ISM, including dispersion, scattering, etc
+
+Could you please let me know, if there is any software/code/tool for simulating/calculating the result of a short EMW pulse (waveform is exactly known) propagating in the ISM for long distance, including effects of especially the dispersion, scattering, etc?

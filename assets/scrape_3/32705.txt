@@ -1,0 +1,5 @@
+Covariance matrix not calculated when fitting gaussians?
+
+
+So I am using Astropy's basic models.Gaussian1D model and a fitter = fitting.LevMarLSQfitter() to fit 3 Gaussian pulses with some added random noise. The fit is good, but when I type
+fitter.fit_info, according to  documentation here, it should automatically calculate covariance matrix and add it to the fit_info, but it doesn't, fit_info['param_cov'] is simply None. What is going on?

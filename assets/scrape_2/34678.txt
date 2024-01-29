@@ -1,0 +1,3 @@
+Why pulsar pulses are so extremely regular?
+
+It's often said that the pulses of the pulsar have a very precise period, which helps to detect easily exoplanets that cause fluctuations in the time of arrival (TOA) of the pulses. Anybody knows why?

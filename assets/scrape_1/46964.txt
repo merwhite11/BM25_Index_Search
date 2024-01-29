@@ -1,0 +1,12 @@
+Why was there a gap in exoplanet detection in 2015?
+
+The question How has the number of known TNOs evolved over time? contains a link to this image:
+
+
+Number of extrasolar planet discoveries per year through April 2018, with colors indicating method of detection
+(CC BY-SA 3.0)
+
+In order to be sure, I downloaded the latest catalog (as of October 4, 2021) of the Extrasolar Planets Encyclopaedia, containing 4840 entries, and plotted the number of exoplanets by year of discovery:
+
+I think I understand why the number of exoplanet detection is declining now: we probably discovered most objects detectable by our current technology. But I can't figured why there was such a gap in 2015. Was the main detection tool broken? Or is it 2016 which is exceptional due to the launch of a new instrument?
+Why was there a gap in exoplanet detection in 2015?

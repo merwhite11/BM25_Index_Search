@@ -1,0 +1,6 @@
+Finding the solar noon based on longitude and latitude?
+
+Please could someone advise the best method of finding the solar noon based on location?
+http://pveducation.org/pvcdrom/properties-of-sunlight/suns-position
+The stuff on here has been helpful but I can't figure out what I should be finding out!
+LST sounds about right, but I'm not 100% sure.

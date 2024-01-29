@@ -1,0 +1,7 @@
+How massive does a main sequence star need to be to go type 1 supernova?
+
+We know the mass a white dwarf needs to be. That's well defined by the Chandrasekhar limit, but before a main sequence star turns into a white dwarf it tends to lose a fair bit of its matter in a stellar nebula.   
+According to this site, the white dwarf that remains is about half the mass of the main sequence star, with larger stars losing a bit more.
+So, the question: Is it correct to say that a star with a mass of about three solar masses will eventually go supernova, similar to a type 1 supernova, even when it's not part of a binary system? Has that kind of supernova ever been observed?
+Or does something else happen like in the final stages of that star? Does it keeps going though collapse and expand cycles, losing enough mass that when it finally becomes a white dwarf it's below the Chandrasekhar limit in mass?
+Mostly, what I've read on supernovae says that type 1 supernovae happen when a white dwarf accretes extra matter and reaches the limit and type 2 supernovae are much larger and require about 8-11 solar masses to generate the iron core which triggers the supernova. What happens with the death of the star between three solar masses and eight solar masses?

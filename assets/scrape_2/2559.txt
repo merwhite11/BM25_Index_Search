@@ -1,0 +1,4 @@
+Why the lows of the GRB 2014-04-27 in Andromeda?
+
+The Swift gamma ray burst space telescope has measured a GRB according to the link below. But why the oscillations in the measured gamma rate? Why wasn't just an increase detected, but also as big decreases? The average rate doesn't look to have increased during the burst. If averaged out over a minute the line would've been flat. Is there a fundamental astronomical explanation or has it to do with the technicalities of the instrument?
+http://www.universetoday.com/112194/possible-gamma-ray-burst-detected-in-andromeda-would-be-closest-ever-observed/

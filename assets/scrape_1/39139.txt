@@ -1,0 +1,8 @@
+Calculate mass of exoplanet from transit method
+
+Is there any way to calculate (or at least estimate) mass of an exoplanet from transit method? I know that mass can be calculated with radial velocity method, however I would like to create program for processing Kepler light curves (without radial velocity data).
+The data I have are:
+
+radius, mass, surface temperature and luminosity of star,
+orbital period, semi-major axis and radius of exoplanet,
+duration and depth of transit.

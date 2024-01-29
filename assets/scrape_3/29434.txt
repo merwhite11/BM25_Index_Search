@@ -1,0 +1,3 @@
+Luminosities and Apparent Brightness of Two Stars of which one is 8 times the distance of the first star
+
+Suppose two stars have the same apparent brightness, but one star is 8 times further away than the other. What is the ratio of their luminosities? Which one is more luminous, the closer or the further star?

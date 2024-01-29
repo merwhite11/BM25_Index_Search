@@ -1,0 +1,4 @@
+Is there a radius inside of which objects are (doppler) blue shifted?
+
+The Andromeda galaxy is about 600,000 light years away and is doppler blue-shifted.  Are there objects closer to us than Andromeda which are red-shifted?  Are there objects farther than Andromeda that are blue-shifted?
+I'm curious as to whether there is a more or less uniform radius from earth outside of which objects are generally all moving away from us, and inside of which objects are generally all moving towards us.

@@ -1,0 +1,3 @@
+nodal precession: earth's orbit of sun
+
+Does the Earth's orbit around the sun exhibit nodal precession, as does the moon's around the Earth?  If it does, that must mean that the ecliptic is in a periodic wobble with respect to the celestial sphere?

@@ -1,0 +1,5 @@
+How do you find the positions of celestial objects in the sky?
+
+I want to write a program which, when given a date, a time, latitude and longitude, returns a list of the planets, Messier objects and NCC catalogue objects what are visible in the sky at that time and place?
+Are there any APIs which can do this or would I have to calculate the positions?
+Preferably, this should be accessible using JavaScript

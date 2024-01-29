@@ -1,0 +1,3 @@
+What are the current observational constraints on the existence of Nemesis?
+
+Nemesis is a hypothetical companion to the Sun on a very eccentric, long-period orbit. The star supposedly returns every few tens of millions years, driving comets into the inner solar system and causing extinction events. Given our very stringent observational limits from infrared surveys (such as WISE), is its existence definitively ruled out?

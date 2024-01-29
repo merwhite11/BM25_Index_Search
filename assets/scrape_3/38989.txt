@@ -1,0 +1,13 @@
+Spectographically determine surface composition of exoplanet
+
+We can determine the surface composition of a star by studying its spectrograph. If a exoplanet transits the star, then there is a slight change to the spectrograph, which lets us determine the composition of the planet's atmosphere.
+When the planet just become visible from behind it's star, then the star's light will:-
+
+come from the star (known composition)
+travel through the planets's atmosphere (known composition)
+reflect from the planet's surface (unknown composition)
+travel through the planet's atmosphere again (known composition)
+
+Is it possible (either currently, or theoretically) to use this method to determine the bulk surface composition of an exoplanet?
+This might be very difficult to achieve as the light reflected from the planet will be swamped by direct light from the star.
+How do astronomers determine the texture of an exoplanet? and Can visible wavelength spectroscopy study an exoplanet's chemical composition directly? might be releated

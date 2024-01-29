@@ -1,0 +1,4 @@
+How do astronomers estimate the total mass of dust in clouds and galaxies?
+
+As I understand it astronomers estimate the mass of stars by studying the orbits of their companions (other stars or planets).  This helps them to derive relationships between the luminosities and masses of stars.  This allows them to infer the mass of stars of known luminosity.
+But how do astronomers estimate the mass of cosmic dust in particular clouds or in entire galaxies?

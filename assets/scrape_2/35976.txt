@@ -1,0 +1,20 @@
+Has a near earth object in heliocentric orbit ever been bright enough to be visible to the unaided eye?
+
+The question Can we see asteroid 1998 OR2 with unaided eye? got me thinking. Space.com's Vesta: Facts About the Brightest Asteroid says:
+
+Vesta is the second most massive body in the asteroid belt, surpassed only by Ceres, which is classified as a dwarf planet. The brightest asteroid in the sky, Vesta is occasionally visible from Earth with the naked eye. It is the first of the four largest asteroids (Ceres, Vesta, Pallas and Hygiea) to be visited by a spacecraft. The Dawn mission orbited Vesta in 2011, providing new insights into this rocky world.
+
+The brightness of an object seen from Earth is proportional to (among other things) $1/r^2$ so an object which occasionally passes very close to Earth will occasionally be far brighter than normal; an object normally of order 200 million km away that comes to within 200 thousand km will be a million times brighter, and at 2.5 magnitudes per power of ten that means that for a brief time it could be 15 magnitudes brighter than average.
+Questions:
+
+Has a near earth object in heliocentric orbit ever been bright enough to be visible to the unaided eye?
+Are there any predictions of events in the foreseeable future when this will happen? 
+
+Please exclude comets which are themselves invisible and it's the giant clouds of dust and gas they produce that we see and planets (and dwarf planets) who's heliocentric orbits make them regularly visible.
+The following may provide some helpful definitions:
+
+Is there a distinction between NEOs and near-Earth asteroids? Is there a difference?
+What (actually) defines an Aten-class near-earth asteroid?
+Has Hubble ever been used to try to image a near Earth asteroid?
+Is the passage of three asteroids near Earth today just coincidental?
+https://space.meta.stackexchange.com/q/1459/12102

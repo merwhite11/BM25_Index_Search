@@ -1,0 +1,5 @@
+Number of lenslets in wavefront sensor array
+
+I have to do a short calculation, but, quite frankly, I have no idea how to even start...
+Suppose you have a 10-m telescope (f/10) with an infrared camera that observes at 10 micrometer. The seeing is 2 arcsec (FWHM of the PSF,  2”= 1/100000 rad) and you would like to implement an adaptive optics system.
+The question is: How many lenslets do you need in the Shack-Hartmann wavefront sensor array? Below is a picture of the working principle of such an array. The telescope would also include a coronagraph, but I think (might be wrong) you don't need that information for this calculation.

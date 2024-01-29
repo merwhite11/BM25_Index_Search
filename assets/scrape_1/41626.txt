@@ -1,0 +1,3 @@
+Is it correct to say that only binary and solitary star systems are stable?
+
+Recently it has been shown that a large number of binary stellar systems exist.  It seems to me that the orbits of stars in systems containing three or more stars will inevitably be chaotic, resulting in either mergers or ejections.  Binary stellar systems, though, are effectively stable (neglecting the very slow decay of orbits due to gravitational radiation and perhaps tidal interactions).  So, it seems that in the long run we should expect most stellar systems to be either binary or solitary; the first due to ejection (eventually) of all but two of the stars from a multi-stellar system, and the second due to the ejection of single stars from multi-stellar systems.  Is this correct?

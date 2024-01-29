@@ -1,0 +1,12 @@
+On Venus, what substances are likely to be found that are liquid in the temperatures and pressures and are there pools of the stuff?
+
+It's clear that there is no water on Venus. But with temperatures hot enough to boil lead, well, couldn't there be pools of lead on the surface? Or pools of other things, like sulfur? Is there any evidence that these might in fact be present?
+
+Wikipedia's Venus lists the average surface temperature of 464 C (737 K) and the pressure at about 92 bar (9.2 MPa).
+For lead and sulfur at 1 atmosphere, the melting points are
+            melting            boiling
+sulfur   388 K ​ 115 °C       718 K   ​445 °C
+lead     601 K  ​327 °C      2022 K ​ 1749 °C
+
+In the search for life, it's assumed that liquid water is needed. Liquid, sure, but I wondered if it needed to be water. And I saw a video about silicon-based lifeforms. Unlikely, the conclusion was, because, as I recall, the p-orbitals are too small, so it can't form chains the way carbon does. But Venus (for one location) has higher temperatures and pressures than on Earth, and I wondered if that might squish things into reactions we don't see at STP.
+All of that second paragraph isn't really part of the question, but that's what motivated me to ask.

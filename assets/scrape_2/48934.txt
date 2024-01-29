@@ -1,0 +1,5 @@
+Why aren't there sulfuric acid seas on Venus?
+
+It's commonly known that sulfuric acid rain doesn't reach Venus' surface. It evaporates instead because the surface it too hot.
+But considering how high the pressure at the surface (9.3 MPa), shouldn't sulfuric acid stays liquid there? To compare, Venus surface is 737 K and 9.3 MPa, while sulfuric acid's critical point, according to Wikipedia, is 927 K and 4.6 MPa. (Unfortunately I can't find a more reliable source for this).
+What is the cause of this? Is Venus actually much hotter than 737 K? Are sulfuric acid's critical temperature and pressure actually lower and higher? Is there just not enough sulfuric acid?

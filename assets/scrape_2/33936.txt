@@ -1,0 +1,13 @@
+Hills' mechanism for making Hypervelocity Stars
+
+
+In Hill’s mechanism, the gravitational tidal force of
+  a single MBH disrupts an approaching binary. One star is captured on an eccentric orbit around
+  the MBH and, by conservation of energy, the other star escapes with a final velocity equal to the
+  geometric mean of the ∼$10^4$ km/s
+  infall velocity and the ∼$10^2$ km/s binary orbital velocity.
+Hypervelocity Stars and the Galactic Center, 
+  Warren R. Brown, p.3
+
+I don't understand how the high energy/velocity can be transferred to the star.
+(Hills' 1988 Nature paper is still paywalled.)

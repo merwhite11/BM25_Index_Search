@@ -1,0 +1,17 @@
+Is it possible to calculate how much a star's brightness dims when a planet transits in front of it from a viewer's perspective?
+
+Last night I got to thinking about what would happen if Jupiter and Venus suddenly switched places.
+Since Venus comes the closest to Earth than any other planet and Jupiter is much larger, does that mean that Jupiter (now following the orbit of Venus) would appear large enough to eclipse the Sun from Earth's perspective?
+Jupiter's angular diameter in this scenario is given by $$\delta = 2\arctan \left(\frac{d}{2D}\right)$$
+where 
+
+$\delta$ is its angular diameter, 
+$d$ is its actual diameter, 
+$D$ is the distance between both bodies. 
+
+The closest Venus and Earth ever get to each other (in the near future) is $d = 39.5 \times 10^6$ km, and Jupiter's diameter is $D = 139,820$ km.
+So if Jupiter replaced Venus, its maximum angular diameter would be $$\delta = 2\arctan \left(\frac{139,820}{2 \times 39.5 \times 10^6}\right)$$
+$$\delta = 0.202812°, or \ 0° 12  ' 10.12 " $$
+The Sun's angular diameter as seen from Earth is about 30 arcminutes, and so Jupiter in this scenario with only 12 arcminutes would not appear to be large enough to completely eclipse the Sun. 
+However, assuming it is a total transit, it would still cover $≈16.27 \%$ of the Sun's disk as seen from Earth. Surely that would result in a noticeable dim in the brightness of the Sun as seen from Earth, no? 
+Is there an equation to calculate how much a star's brightness dims when a planet transits in front of it from a viewer's perspective?

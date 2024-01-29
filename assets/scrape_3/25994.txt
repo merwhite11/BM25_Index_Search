@@ -1,0 +1,10 @@
+Asteroseismology; recordings of star vibrations duration and data availability?
+
+A short video titled "Why Tess is recording the "sounds of stars" at the bottom of the page of the BBC News article Planet-hunter launches from Florida gives a short description of Asteroseismology by Astronomer Bill Chaplin of the University of Birmingham.
+Presumably the sounds played here are some kind of photometric measurements of stars that have been played back a few orders of magnitude faster to make them audible.
+I'd like to listen to more of them, or even download a .wav or similar file and have a look at the spectrum just for fun.
+I managed to find this University of Birmingham website through searching, and it plays sound clips from four different stars when the cursor is hovered over each one (it takes a while to become responsive I assume due to downloading).
+http://bison.ph.bham.ac.uk/~miglioa/M4PR/M4_beta0.html
+
+Roughly how long is the observation time of the star necessary to produce these audio recordings of a few seconds in length?
+Where can I find downloadable data; either these .wav sound clips or more traditional raw data files that I could analyze?

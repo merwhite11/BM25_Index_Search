@@ -1,0 +1,7 @@
+How to read 5 degree data of green line intensity
+
+When I open the 5 degree data of Green Coronal Emission line from this, I get a weird table which is not simple like the one for Coronal Index. I am only providing the table for 1939.
+http://www.ngdc.noaa.gov/stp/space-weather/solar-data/solar-indices/solar_corona/5-degree-data/data/1939/1939
+I can't provide the link for the formats used due to the restriction (max of 2 links until I have a rep above 10) but it's in the folder for 5 degree data.
+I searched extensively connecting the formats (like I4, I2) to the datasheet but couldn't even scratch the surface of it.
+I want the data for green coronal intensities and positional degrees in that respective year but can't find from this table. How do I find them?

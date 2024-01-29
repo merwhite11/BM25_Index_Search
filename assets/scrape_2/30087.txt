@@ -1,0 +1,4 @@
+Why does the Sun have different day lengths, but not the gas giants?
+
+The Sun's rotation period varies from about 25 days at the equator to about 38 days at the poles. As I understand it, this is because the Sun is not solid, and because of the way centripetal force works, the equator must move faster than the poles.
+Question: if this works, why do Jupiter/Saturn/Uranus/Neptune have well-defined days? Why don't the equators of these planets rotate faster than the poles as well? For example, Wikipedia's article on Jupiter gives the length of a Jovian day as 9h 55m 30s, which is so precise that it implies Jupiter does not have a rotational period which varies with latitude.

@@ -1,0 +1,8 @@
+How to find the aFOV of a eyepiece?
+
+How do I find the apparent field of view (aFOV) of a eyepiece using simple math (if possible)? I need the aFOV to give as a value to Stellarium’s custom eyepiece
+I found a Q&A about this subject but, I don’t fully understand the math:
+
+How to estimate my eyepiece FOV?
+
+On my eyepiece it says “Gskyer® 5mm” Also see photo below.

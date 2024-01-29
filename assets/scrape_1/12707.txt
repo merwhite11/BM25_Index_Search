@@ -1,0 +1,6 @@
+Why do certain massive stars leave no remnants?
+
+Mass and metallicity are the two main determinants for a star's fate. This is simple enough. What's more complicated is how exactly these determine the star's fate. For example, you can see in this image I got from Wikipedia's supernova article:
+
+Generally, as metallicity decreases and mass increases, black holes become more likely to form. At a specific mass and metallicity range, however, there are no remnants left behind. From that point, increasing mass and decreasing metallicity allows for black holes again.
+How does this work? Why would there ever be an area in which no remnants are left behind? In fact, it seems almost random, since the range lies right between direct black hole ranges.

@@ -1,0 +1,21 @@
+Naked-eye limiting magnitude: mismatch between Wikipedia, online converter and Shaefer's formula
+
+I'm trying to make sense of the difference between the reference Sky Quality Meter (SQM) readings given in the Wikipedia article on Bortle scale, online converters like [1] that are based on Shaefer's paper [2], and an equation from [2] itself.
+Wikipedia article gives naked-eye limiting magnitude (NELM), as well as corresponding SQM readings for each Bortle class. The original paper [3] by Bortle only specifies NELM, so the SQM column in Wikipedia must have been derived from the NELM values.
+But in the very first value, SQM reading for Bortle class 1, the Wikipedia article fails to match what the online converter yields (other such converters use the same formula). Namely, the "excellent dark-sky site" NELM is 7.6–8.0, for which Wikipedia gives lower bound of SQM reading $21.99\,\mathrm{mag/arcsec}^2$, while the converter [1] yields $25.50\,\mathrm{mag/arcsec}^2$. The upper bound, NELM=8.0, is converted to $22\,\mathrm{mag/arcsec}^2$ in Wikipedia, while the online converter simply fails, yielding NaN. This failure is because the formula used by the converter has 7.93 as the maximum possible NELM.
+If we use equation $(18)$ from [2] instead (with $k_v=0.3$ and $F_s=1$, as suggested in the text under the equation), we'll get the range of SQM readings $24.35\,\mathrm{mag/arcsec}^2$ to $26.32\,\mathrm{mag/arcsec}^2$, which doesn't match Wikipedia either.
+Also, these values $\ge22\,\mathrm{mag/arcsec}^2$ seem to also conflict with [4]:
+
+The natural level is around $21.6\,\mathrm{mag/sec}^2$ at a solar activity minimum.
+
+Besides, an answer on Astronomy.SE implies that values of NELM larger than 6 don't make any sense at all.
+So, how to make sense of the conflicting results? Which of these are right, which are wrong? Or do they correctly describe different things?
+References
+
+K. Fisher. "Conversion Calculator - NELM (V) to MPSAS (B) systems Rev. 8/2006"
+
+Schaefer, B. E.. "Telescopic limiting magnitudes". Astronomical Society of the Pacific, Publications (ISSN 0004-6280), vol. 102, Feb. 1990, p. 212-229.
+
+Bortle, John E. (February 2001). "Gauging Light Pollution: The Bortle Dark-Sky Scale". Sky & Telescope. Sky Publishing Corporation.
+
+Dark Skies Awareness: "Sky Brightness Nomogram"

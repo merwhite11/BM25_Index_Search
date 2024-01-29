@@ -1,0 +1,6 @@
+tool to calculate moonrise/moonset and moon phase for any date for any location
+
+I have googled for such a solution but I have not found anything substantial: I found one website but it was someone's side hobby so my confidence in it is low.
+Thankfully, I have discovered Stellarium but I want another tool to compare against.
+QUESTION
+Tool for moonrise, moonset and moon phase for any date - even thousands of years ago - and for any location.

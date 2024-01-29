@@ -1,0 +1,8 @@
+Diamonds in Neptune?
+
+In this publication from 1981, was shown that Neptune is raining diamonds:
+
+Many of the current models of Uranus and Neptune postulate a three-layer structure, consisting of an inner rocky core, a middle ‘ice’ layer of fluid, $\rm H_2\rm O$, $\rm{CH}_4$, $\rm{NH}_3$ and an outer hydrogen–helium layer of solar composition. The estimated pressures and temperatures of the ice layer range from about 6Mbar and 7,000K at the inner core-ice boundary to $\approx$ 0.2 Mbar and 2,200K at the outer ice/hydrogen–helium boundary. I point out here, that shockwave experiments on these liquids, as well as theoretical studies, imply that the $\rm H_2\rm O$ and $\rm{NH}_3$ in the ice layer are almost totally ionized, and the $\rm{CH}_4$ has been pyrolysed to carbon, possibly in the metallic or diamond form.
+
+Question: In the decades since this work was published in 1981 have these predictions been addressed further, or even proven or disproven?
+If this turns out to be true, would these diamonds have different physical properties than those on Earth because of the different formation mechanism?

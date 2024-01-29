@@ -1,0 +1,15 @@
+How do tip tilt mirrors correct distortion in adaptive optics?
+
+I'm currently trying to learn about how adaptive optics correct the blurriness caused by atmospherical seeing effects. This is my current understanding of how adaptive optics works (trying to offer some context, I have a very limited understanding at the moment). 
+Wavefronts from celestial bodies become distorted as they pass through the Earth's atmosphere due to variations in refraction indices as they pass through different density air, temperature variations and so on. This distortion as far as I know, causes the wavefront to look squiggly instead of being straight parallel lines. Once the light reaches the telescope, it is reflected off a tip tilt mirror, then reflected off a deformable mirror, then a beam splitter splits the light rays and one half is passed through a computer sampling device which detects distortions in the wavefront. This is done up to a 1000 times per second, and somehow the computer causes actuators fitted at the back of the deformable mirror to move such that the reflected light off the deformable mirror is now undistorted (i.e. the wavefronts are a straight line, not squiggly). Thus adaptive optics fixes the distortion issue. 
+I have a few questions arising from my current understanding:
+
+What exactly does the tip tilt mirror do to help fix the distortion problem? Wiki simply says that it fixes the problem of aberration but doesn't offer a specific explanation of how. 
+Why are straight wavefronts ideal when viewing celestial bodies? As in, how does the squiggliness of the wavefronts actually make the images look blurry?
+
+I believe I am asking too many different types of questions in one post, so I'll make a separate post for this last question, but for anyone reading this:
+I keep reading that increasing the size of the primary mirror will improve resolution. I have seen justification of this using Dawe's limit such as
+
+By considering the formula R= 2.1*10^5*wavelength/ D, where R is the minimum angular separation required by two point sources for them to be resolved, so as primary mirror diameter increases, D increases, so R decreases meaning that resolution of the telescope is improved.
+
+I don't really see how they can apply the R=... formula to primary mirrors because I have only seen it derived in the context of light diffracting when it passes through a small slit, and not mirrors (which don't allow light to pass through, but rather reflects it). Can someone explain to me why we can apply this formula to mirrors as well?

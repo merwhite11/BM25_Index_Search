@@ -1,0 +1,4 @@
+Topography / elevation data of Mars
+
+For a design project I'm looking for elevation data for Mars' surface - the idea is to replicate a surface area of Mars as a physical model, using the elevation data to create a very rough 3d model of that particular area's topography.
+Where can I find such data?

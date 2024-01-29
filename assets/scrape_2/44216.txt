@@ -1,0 +1,13 @@
+Orbital resonance - basic aspects
+
+In the following lines, I will ask you some questions regarding the notion of orbital resonance. I know that the orbital resonance of two celestial body represents the driving of a dynamical system by a periodic force at a frequency which is a rational multiple of the natural frequency, and also, it is the simple report between their periods of revolution around the Sun, for exemple. Even so, I would like to better understand the phenomenon of orbital resonance, and for this purpose, I hope that someone can help me with a few answers:
+
+In Orbital resonances and chaos in the Solar System1 (also here), Renu Malhotra explains:
+
+
+In fact, there are many mathematical similarities with the playground analogy, including the fact of nonlinearity of the oscillations, which plays a fundamental role in the long term evolution of orbits in the planetary system. But there is also an important difference: in the playground, the child adjusts her driving frequency to remain in tune - hence in resonance - with the natural frequency which changes with the amplitude of the swing. Such self-tuning is sometimes realized in the Solar system; but it is more often and more generally the case that resonances come-and-go. And, as we shall see, resonances can be the source of both instability and long term stability".
+
+a) How can a celestial body (an asteroid) be capture into orbital resonance and how can it escape from one?
+b) How can self-tuning be achieved in a orbital resonance?
+
+1Solar system Formation and Evolution.  ASP Conference Series, Vol. 149, 1998, D. Lazzaro et al., eds.

@@ -1,0 +1,4 @@
+What are the metrics of observation conditions?
+
+How do professional astronomers measure and describe (ambient) observation conditions?
+I know smog, light contamination from the city lights, fog, clouds, rain/snow, humidity etc all contribute negatively to quality of the image, obscuring the celestial objects more or less, but I'm fairly sure there is a more precise measurements of viewing capability for any given location or time than "good weather and far from cities" or "Kinda can see M42 in Orion if you squint."

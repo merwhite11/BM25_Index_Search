@@ -1,0 +1,19 @@
+How strong are the tides raised by Io on Jupiter relative to the ones raised by the Moon on Earth?
+
+There seems to be 2 ways of calculating tidal forces that appear contradictory. Either:
+
+By calculating the difference of Io's gravitational acceleration on a point on Jupiter's near side and the gravitational acceleration felt by a point on Jupiter's far side, using the equation:
+$$\frac{GM_{io}}{(d-r_{jupiter})^{2}}-\frac{GM_{io}}{(d+r_{jupiter})^{2}}$$
+For the Io-Jupiter system, this is $24.0807\times10^{-6}$ Newtons, while for the Moon-Earth system it is $2.2009 \times 10^{-6} $ Newtons. 
+
+So if you were to calculate tidal forces that way, the tides raised on Jupiter by Io would be $10.94$ times as strong as the tides raised by the Moon on Earth
+
+However there is also another way I found, which is:
+
+By using the derivative of Newton's law of universal gravitation, using the equation:
+
+$$\frac{-2G\times M_{jupiter}\times{m_{io}}}{d^{3}}$$
+For Io, this is $3.015 \times 10^{14}$ Newtons per meter, whereas for the Moon it is $1.031 \times 10^{12}$ Newtons per meter. 
+So if you were to calculate tidal forces that way, the tides raised on Jupiter by Io would be $292.5$ times as strong as the tides raised by the Moon on Earth
+
+So, which one is it? Are the tides raised on Jupiter by Io 10.94 or 292.5 times as strong as the ones raised by the Moon on Earth? My intuition leads me to believe the first answer is correct since it takes the primary's radius into account but I just want a concise answer.

@@ -1,0 +1,11 @@
+Why does exoplanets' naming start from "b" and not from "a"?
+
+An exoplanet named after its host star receives the suffix letter "b" if it was the first planet discovered to orbit that star, or "c" if it was the second, or "d" if it was the third, and so on.
+Why this naming system starts from "b" and not from "a"? Is the letter "a" reserved for another object in the planetary system? If yes, for what is "a" reserved?
+As an example, here is a list of the major objects in the Gliese 667 triple-star system:
+
+Gliese 667A (a star)
+Gliese 667B (a star)
+Gliese 667C (another star)
+Gliese 667Cb (a planet orbiting star C)
+Gliese 667Cc (another planet orbiting star C)

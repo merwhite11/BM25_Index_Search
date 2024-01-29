@@ -1,0 +1,6 @@
+How to search SIMBAD using identifiers?
+
+I'm trying to get some data about the moon from SIMBAD (specifically, radiation spectrum in certain wavelengths), and I encountered an unexpected problem: I can't find the Moon.
+In SIMBAD, I can search using several different methods. Since I'm looking for a specific object in the sky, I thought the best method would be just to search for the moon by its name, using "Query by identifiers".
+It may sound silly, but the problem is I don't know what is the nomenclature of the moon, nor how to find it. Using the obvious guesses ("Moon", "Luna", etc.) gave me nothing. What am I missing here? Does identifier mean something else than what I thought?
+P.S. This problem also occurred to me while searching for the Sun, which signals to me that I'm probably missing something critical here...

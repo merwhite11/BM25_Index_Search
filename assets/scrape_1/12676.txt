@@ -1,0 +1,7 @@
+What is the scale of things you can see with gravitational lensing?
+
+I'm trying to understand the examples of gravity lensing (using the general relativity property of large masses to bend light like a lens). 
+Most of the examples I see are of some galaxy (presumably a large mass) between us and a star (or are at least vague enough to not specify.
+Yet my intuitive understanding of the sky is that all the stars we see are relatively close, all entirely within the Milky Way galaxy (and many of the stars in our galaxy provide a general glow), and that other galaxies are far enough away that it is difficult to image individual stars. The only single objects large enough comparable to a galaxy would be a quasar. Is that right?
+So what then is going on usually with examples of gravity lensing? I find it hard to believe the captions that say a galaxy is enabling seeing more distant stars. I would think one could only apply that concept to a star or galaxy to see something much further away and as big or much bigger. Could one really use a galaxy as a lens to see a star? I wouldn't expect a star to be behind a galaxy from us.
+Also, whatever the objects themselves, what is the scale? If the lensing is of a galaxy done by a star, I'd expect the star to galaxy distance ratio to be well below 1:1000 (~width of Milky Way to distance to Andromeda). But for galaxy to galaxy or galaxy cluster to galaxy or quasar lensing what are the likely relative distances?

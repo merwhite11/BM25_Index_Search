@@ -1,0 +1,3 @@
+Newtons law of Gravitation
+
+The Force of attraction between two bodies is proportional to the product of their masses. And considering the equation $F=ma$. Acceleration due to gravity will be more for objects lower mass. This contradicts the established theory that objects with different masses take the same time to reach the ground if dropped from the same height. Please explain

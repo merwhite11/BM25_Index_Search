@@ -1,0 +1,8 @@
+Measuring Expansion Rate of Crab Nebula with Radio Spectrum Scan
+
+I am a high school student who is into radio astronomy, and I have the opportunity to use Green Bank’s 20m radio telescope for a practice research project. I would like to use my observations to very roughly estimate the date of the supernova explosion. First, I did a spectrum scan of the remnant so I could find its expansion rate using the Doppler effect. I got back my first scan, but I have some questions regarding the results.
+
+
+I am wondering what the difference is between the red and the green lines, as I don't know what is meant by XX1 Tsys136.25 and YY1 Tsys113.80. I was also expecting two peaks in the data due to the doppler effect and the supernova remnant’s orientation to the observer, but I’m uncertain if this is what the results show (Shouldn't the curves represent separate parts of the nebula?). I've included the parameters and values that I used for the observation below.
+The scans were very consistent with one another.
+Thank you for your help!

@@ -1,0 +1,5 @@
+The path of the planets on the celestial sphere
+
+I know that planets have a "wandering" movement on the celestial sphere. I also know that their period around the Sun vary largely as compared with the period of the Earth (one sidereal year), according to Kepler's third Law. I'm also aware though that their translation planes are closely co-planar with the ecliptic. 
+Hence, there must exist a pattern of their position with respect to the fixed stars on the celestial sphere. 
+Can someone give some links, rules or charts on how to find out the celestial path of the planets on the celestial sphere over the year(s), with respect to the constellations of fixed stars?

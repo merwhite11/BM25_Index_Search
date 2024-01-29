@@ -1,0 +1,3 @@
+How can I check if we can observe a certain star (given its equatorial coordinates) from a certain location on Earth (given its DMS coordinates)?
+
+I am given the equatorial coordinates of a star (e.g. Sirius has RA: 6h45m8.9s and Dec = -16°42'52.1"). Now my question is: can we observe this star from a specific location on Earth (e.g. from Brussels 50°51'1.62" N 4°20'55.61" E)? If yes, how can I justify this using the coordinates of the star and location on Earth?

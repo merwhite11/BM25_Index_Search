@@ -1,0 +1,35 @@
+Moon is a planet by "Clearing the neighborhood" condition?
+
+Whether the Moon (Earth's natural satellite) is a planet is an old debate in planetary science.
+Though I do not agree that Moon is a planet, I found something difficult to clearly understand.
+According to the 2006 IAU definition of planet, a planet must satisfy Clearing the neighbourhood condition.
+And some criteria for the condition are introduced in the Wikipedia article about Clearing the neighbourhood.
+
+Stern–Levison's $\Lambda$
+
+$$\Lambda = \frac {m^2}{a^{\frac 3 2}} k$$
+
+Margot's $\Pi$
+
+$$\Pi=\frac {m}{m^{\frac 5 2}a^{\frac 9 8}} k $$
+In the above equations, $m$ is the mass of the body, $a$ is the body's semi-major axis, and other factors are described in the Wikipedia article. Both criteria are said to be satisfied if the calculated value is greater than 1.
+My calculations are simple. Let $m_{Moon} = 0.0123 \times m_{Earth}$ and Moon's other factors (such as $a$, $k$ and $M$) have the same values as Earth's. Then I can get...
+$$\Lambda_{Moon} = 0.0123^2 \times \Lambda_{Earth} = 23.147$$
+$$\Pi_{Moon} = 0.0123 \times \Pi_{Earth} = 9.963$$
+Both $\Lambda_{Moon}$ and $\Pi_{Moon}$ thus satisfy the Clearing the neighbourhood condition. Though I do not calculate the Soter's $\mu$, it will not change my results.
+What is wrong with my calculations and results? Do I miss something about the condition and the criteria? Or is there something wrong with the Clearing the neighbourhood condition?
+
+Edit in response to comments:
+This question can be related to the idea that the Clearing the neighborhood condition is inadequate and ambiguous for the planet definition.
+More deeply, this question can be related to the idea that 2006 IAU definition of planet is logically ambiguous and clumsy.
+For example, the 2006 definition of planet defines the Moon as a satellite and not a planet.
+If one celestial body can be defined as a planet or not without rules and conditions, why other conditions are needed? All we need is just a planet list, not other planet conditions.
+And...
+Frankly speaking, the Clearing the neighborhood condition is like comedy. 
+The condition says "Planet must sweep out other bodies" ...
+Then says "Except satellites" ...
+Then again says "Except bodies having no significant size" ...
+Then again "Except bodies having resonant orbit" ...
+Then again "It may take billions of years" ...
+Then again "Sweep-out process and time are influenced by other planets and bodies, actually" .......
+It is obvious that sometimes the Clearing the neighborhood theory is useful. But it is inappropriate for the rule and definition requiring strictness.

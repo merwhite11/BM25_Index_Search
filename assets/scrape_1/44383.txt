@@ -1,0 +1,9 @@
+Can we learn anything from the chaotic movement of Hydra and Nix?
+
+The NASA Visualization Explorer Moons In Chaos says Hydra and Nix, two of the moons of Pluto, show chaotic movement due to the shifting gravitational field.
+
+How long a day lasts and where the sun rises and sets are impossible to forecast on one of Pluto’s five moons, Nix. When NASA’s Hubble Space Telescope observed odd changes in the sunlight Nix was reflecting, researchers realized that Nix does not rotate predictably like Earth’s moon. Instead, it tumbles chaotically as it revolves around Pluto. Nix’s erratic nature comes from orbiting a double planet: Pluto and its largest moon, Charon, which is about half Pluto’s size. The two swing around each other like a dumbbell with unequal weights, shifting the gravity field that Nix experiences and tugging the potato-shaped moon in different directions about its axis. The same chaos afflicts Hydra, another tiny Pluto moon. Watch the video to see an animation showing Nix’s wobbles as it orbits Pluto.
+
+I was wondering if knowing more about their chaotic behaviour can help us advance Astronomy?
+Personally, I believe we wouldn’t gain much from knowing more about their movement since chaotic movements become very different even for minute changes in the parameters.
+If there are any applications or conclusions from this though, I’d like to know what they are.

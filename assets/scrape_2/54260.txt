@@ -1,0 +1,3 @@
+What is the shape of orbit assuming gravity does not depend on distance?
+
+We know that the orbit of the earth is elliptical considering the force of gravity is inversely proportional to the square of the distance. But assume that, gravity does not depend on distance. Considering that situation, what will be the shape of the orbit? Will it be elliptical, circular, hyperbolic or what?

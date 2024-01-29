@@ -1,0 +1,26 @@
+Jacobi vs tidal radius for star cluster
+
+The tidal radius is defined in King (1962) as:
+
+the value of r (the radius) at which f (the density profile) reaches zero...
+
+This also referred by King as the "limiting radius" written as (Eq 3):
+$$r_t=R_{GC}\left(\frac{M}{2M_g}\right)^{1/3}$$
+where $R_{GC}$ is the galactocentric distance, $M$ is the cluster's mass, and $M_{g}$ is the galaxy's mass.
+This can also be written as Pinfield et al. (1998) Eq (12):
+$$r_t = \left( \frac{GM}{2(A-B)^2} \right)^{1/3}$$
+where $A$ and $B$ are the Oort constants and $M$ is the total mass.
+Now, I've seen the "tidal radius" defined as:
+$$r_t=R_{GC}\left(\frac{M}{3M_g}\right)^{1/3}$$
+in Chernoff & Weinberg (1990) Eq 2. Notice the 3 in the denominator instead of the 2 as above. According to the authors:
+
+The tidal radius depends weakly upon the form of the mass distribution of the halo. The Eq. above is correct for the tidal stress of a Keplerian force field. On the other hand, for constant $v_g$, the factor $3M_g$ becomes $2M_g$.
+
+This same quantity (using $3M_g$) is referred to as the "Jacobi radius" in Piatti (2015) Eq 4.
+I've also seen the Jacobi radius written as:
+$$r_J=\left(\frac{GM}{4\Omega^2-k^2}\right)^{1/3}$$
+(where $G, M, \Omega$, and $k$ are the gravitational constant, the cluster
+mass, the circular, and the epicyclic frequencies of a near circular
+orbit, respectively) in Ernst et al. (2011) Eq (8).
+According to Wikipedia, both the tidal and the Jacobi radius are the same thing.
+My question: are these two radius the same quantity?

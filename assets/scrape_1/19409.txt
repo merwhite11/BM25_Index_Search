@@ -1,0 +1,3 @@
+How do I calculate the barycentric position of the sun at a given julian date?
+
+I have used the (matlab/octave) SOFA routine/function iauEpv00 to get the barycentric position and velocity of the Earth, but now need to find barycentric position of the sun. Can't seem to find the right routine/function.

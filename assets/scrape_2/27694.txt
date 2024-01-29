@@ -1,0 +1,3 @@
+Number Density of Dark Matter Halos
+
+Is there a way to calculate the expected number density of Dark Matter Halos above a given mass, in a certain redshift range, and in a certain area?

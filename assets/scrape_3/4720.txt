@@ -1,0 +1,5 @@
+If an object with mass were to somehow go the speed of light, would it destroy the whole universe?
+
+Would an object with mass traveling the speed of light destroy the whole universe because it would have infinite energy / mass?  According to wikipedia and other sources, it takes infinite energy to go the speed of light, which should be impossible.  However, for the sake of the question, let's assume it were somehow achieved e.g. potentially as described here. 
+My premise behind it possibly destroying the whole universe is that an object with infinite energy should also have infinite mass ($e=mc^2$, and infinity / $c^2$ is still infinity).  Infinite mass should have infinite gravity, which may well destroy the entire universe (although, would this destruction travel at the speed of light, so it would "slowly" destroy the universe vs. instantly?).
+One thought is that it could just form a black hole instead, but as I understand it, a black hole is an infinitely small (singularity) of infinite density, with a "net mass" equal to the net mass that it has ingested.

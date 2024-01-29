@@ -1,0 +1,7 @@
+Are planet-destroying quakes possible or observable?
+
+The Gutenberg-Richter-Law is a very-well studied relationship between the magnitude and total number of (earth)quakes. In theory, there is no upper bound for the size of a quake other than the size of the planet. In other words: There is a non-zero probability (which is rather low) that a quake can rip appart the whole planet. There are numerical evidences with toy models such as the Olami–Feder–Christensen model suggest, such things can really happen.
+Therefore my question: Are they any hints for (exo)planet-destroying quakes? And what about star-quakes which occur during stationary phases of star evolution?
+References
+
+cond-mat/0608324: Transient and stationary behavior of the Olami-Feder-Christensen earthquake model - not the publication which claims that planet-destroying quakes are possible, but a possible introduction to the kind of numerical methods used

@@ -1,0 +1,7 @@
+Simulate earth, moon, sun constellation with dates
+
+I would like to simulate the three object distance, specifically the distance of the moon to both, sun and earth for further investigation into tide prediction. 
+What would be a good starting point to browse?
+Do any (preferably python) libraries exist for this?
+My use is to query the function with a date and it would spit out the distance. 
+A first model I would be happy to start with would be basic circular trajectories and expand to elliptical & inclinations from there.

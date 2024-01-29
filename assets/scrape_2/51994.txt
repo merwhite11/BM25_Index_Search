@@ -1,0 +1,17 @@
+Why does one object (star?) in this JWST image have two sets of six+plus+two diffraction spikes but another, similar object nearby have only one?
+
+CNN's February 24, 2023 Astrophysicist says 'there is nothing wrong with not knowing' is basically an opportunity for Neil deGrasse Tyson to give us a pep talk and reminder about the exciting process of science.
+In the beginning there is a JWST photo where bright unresolved objects (foreground stars?) show JWST's classic six-plus-two diffraction spikes.
+
+this answer to Why does the alignment evaluation image from JWST look like this?
+this answer to Why not use only one support vane for the secondary mirror, to avoid multiple diffraction spikes?
+this answer to Why are larger hex mirrors round and the smaller aren't?
+
+But one of them (slightly bluish in the false color image) has two copies, with a rotation angle of roughly 13° between them.
+At first I thought maybe exposures at different wavelengths for this false color image were done at different times with different spacecraft attitudes (because of the way JWST works it will point in a given direction with different axial rotations depending on what the sunshield has to do) but I noticed that, at least to me:
+
+there's another object (showing as yellow-ish in the false color image) of what looks like similar brightness nearby with only one set of six-plus-two diffraction spikes
+the two pair of diffraction spikes on the blueish object in question look to be the same color (so not coming from different wavelength exposures).
+
+So now I'm thinking multiple, overlapping exposure fields such that the object on the left was exposed at a different time than the one on the right? I can't figure it out.
+Question: Why does one object (star?) in this JWST image have two sets of six+plus+two diffraction spikes but another, similar object nearby have only one?

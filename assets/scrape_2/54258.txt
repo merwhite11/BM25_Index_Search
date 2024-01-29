@@ -1,0 +1,5 @@
+The "k-effect"?
+
+I'm reading some older materials which refer to something called the "k-effect". This was described as "hot stars in the Sun’s neighborhood are moving away from us in all directions, while cooler stars do not".
+I tried looking in Google, but the only near hit I got was a 1955 article that was comparing the values of redshift in the local arm with the sag arm and showing the same K value for both. Laking the historical context though, I'm not clear if he is concluding that K is basically zero (2.5 kps), or that it is a widespread constant.
+Does anyone recall this anomaly and perhaps have later papers on the topic?

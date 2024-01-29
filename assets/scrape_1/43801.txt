@@ -1,0 +1,8 @@
+Why must all magnitude systems have a reference point?
+
+Let $f_*$ and $f_0$ be the observed flux of a star and a reference flux in a particular spectral band, and let $m_*$ and $m_0$ be their respective apparent magnitudes. Then the star's magnitude is given by $m_*-m_0=-2.5\log(f_*/f_0)$.
+Encyclopædia Britannica maintains that
+
+All magnitude systems must have a reference, or zero, point.
+
+Why is this? It seems to me that one could just say $m_*=-2.5\log f_*$ and move on, no?

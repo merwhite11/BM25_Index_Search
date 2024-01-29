@@ -1,0 +1,10 @@
+Natural units of star clusters angular momentum and energy
+
+I'm calculating the total angular momentum of a bunch of theoretical stars of a few solar masses, separated by a few light years, moving at velocities of about a few dozens of km / sec.
+Mechanical angular momentum relative to an arbitrary origin (the cluster's center of mass is a good choice) is this :
+\begin{equation}
+\vec{L} = \sum_i \vec{r}_i \times m_i \, \vec{v}_i,
+\end{equation}
+so the SI units are $\mathrm{kg} \cdot \mathrm{m}^2 / \mathrm{sec}$.  But in real astronomy, what should be the most simple/natural units for star clusters ?  $M_{\odot} \cdot (\mathrm{ly})^2 / \mathrm{year} \equiv M_{\odot} \, c^2 \cdot \mathrm{year}$ ?
+What are the angular momentum units used by astronomers ?
+And what about energy units for a cluster of stars ?  I'm interested in kinematical energy and gravitationnal potential energy of the whole cluster.  Certainly not joules !?  And $M_{\odot} \, c^2$ would certainly be too much, I suppose !

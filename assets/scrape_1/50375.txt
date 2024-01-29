@@ -1,0 +1,17 @@
+Cooling timescale for an interstellar dust grain
+
+I would like to estimate the cooling timescale for an interstellar dust grain, starting at 200K, down to 100 K.
+The equation I have come up with is:
+$\displaystyle t_{cooling} = \frac{mC\Delta T}{Q_{rad}P}$
+where:
+
+$m$ = grain mass ($=1.3\times 10^{-14}$ kg)
+$C$ = specific heat capacity ($=2000$ J kg$^{-1}$ K $^{-1}$)
+$T$ = change in temperature ($= 200-100 = 100 \text{ K}$)
+$Q_{rad}$ = emission efficiency
+$P$ = radiative power of dust grain
+
+My question is: How do I determine the emission efficiency $Q_{rad}$?
+From 'The Physics and Chemistry of the Interstellar Medium (Tielens 2005)', for grains with sizes less than 1$\mu$m, the Planck mean efficiency, <$Q_P(T_d)$>, is given by:
+<$Q_P(T_d)$> $=$ $\displaystyle 1.25 \times 10^{-5} T_d^2 \frac{a}{1\mu m} \;\;\;\;\;\;\;\;\text{(eq. 5.35)}$
+Is this analogous to the emission efficiency? Using my values I get <$Q_P(T_d)$> $=0.5$

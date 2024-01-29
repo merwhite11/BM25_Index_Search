@@ -1,0 +1,4 @@
+Why do we use solar filters instead of simply reducing aperture of the telescope?
+
+Everywhere I read that to view the Sun in the telescope, one has to use a solar filter. The filter must be handled carefully to avoid any holes in it and even mustn't be stretched so as to avoid reducing its reflectivity in some spots. Otherwise it becomes dangerous due to possibility of overexposing/burning observer's retina.
+But, if all we need is to reduce illuminance, and covering part of the telescope's aperture won't obscure the image (since the aperture is far from being in focus), why not simply reduce the aperture to a very small hole? Photo cameras do this all the time, why wouldn't this work for telescopes? Or does a solar filter block IR/UV light, in addition to reducing visible illuminance?

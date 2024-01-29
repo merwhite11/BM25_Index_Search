@@ -1,0 +1,6 @@
+Mass of secondary normalized to 1 au
+
+What does Mass of secondary normalized to 1 au in this catalogue https://vizier.cfa.harvard.edu/viz-bin/VizieR?-source=J/A+A/623/A72 mean, please? I tried to multiply that by Jupyter mass and the resulting masses are extremely low. Thank you
+After advice:
+I read the section from the paper Kervella, 2019. Do I understand that correctly, that $M_2(\mathrm{Msun}) = \frac{\mathrm{M2n}(\mathrm{Mjup})}{\mathrm{OrbG2(au)}^{1/2} } \cdot \frac{1.89813 \cdot 10^{27}}{1.9891 \cdot 10^{30}}$,
+where $\frac{1.89813 \cdot 10^{27}}{1.9891 \cdot 10^{30}}$ is the conversion between solar and jupiter masses?

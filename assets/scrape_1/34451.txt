@@ -1,0 +1,4 @@
+Correlation between stellar mass and galactocentric distance
+
+As we move away from the centre of, say, a spiral galaxy, is there a relation between the stellar mass and distance?
+I know the how the stellar abundance number and density varies with the distance but does stellar mass also follow a pattern?

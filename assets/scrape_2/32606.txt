@@ -1,0 +1,6 @@
+How far have individual stars been seen by radio telescopes?
+
+Writing this answer got me thinking.
+As far as I understand it, stars themselves radiate most of their energy at optical wavelengths (near-IR through near-UV).
+Various types of stellar objects may flare in various ways when in-falling matter from an accretion disk or companion is heated in magnetic fields or undergoes transient nucleosynthesis, but I'm excluding these types of processes and asking only about radiation from the stellar object itself, in steady-state.
+Question: How far have individual stars been seen by radio telescopes?

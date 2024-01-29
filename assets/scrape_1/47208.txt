@@ -1,0 +1,10 @@
+What exactly causes very bright sources, such as supernovae, to appear as large circles in photographs?
+
+Consider images such as those in https://hubblesite.org/contents/news-releases/2021/news-2021-007, which show bright supernovae embedded in their host galaxies. No matter which telescope and which detector were used to capture the image, the supernova invariably appears as a comparatively large bright disk. Foreground stars also form disks if they are bright enough, but very much smaller ones.
+Which effects exactly cause this effect? Is charge bleed-over between pixels really still an issue with modern detectors? Or is this due to imperfections in the optical components?
+And, a related question, is the apparent size of the bright object's disk strictly proportional to brightness?
+
+
+AUTHOR: NASA, ESA, Ryan Foley (UC Santa Cruz)
+IMAGE PROCESSING: Joseph DePasquale (STScI)
+Public domain

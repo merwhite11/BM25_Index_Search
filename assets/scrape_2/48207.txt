@@ -1,0 +1,3 @@
+what is the difference between Composite Stellar Population and Galaxy Spectral Energy Distribution?
+
+I am reading Conroy et al. (2013), an extensive review on Stellar Population Synthesis technique, and I really can't get the difference between Composite Stellar Population and Spectral Energy Distribution of a galaxy. The first seems to be luminosity per unit wavelength resulting from the sum of all simple stellar population, considering the effect of dust and a star formation history, the second is the luminosity or the flux per unit wavelength coming from a galaxy.

@@ -1,0 +1,9 @@
+More recent data and simulations of "Milkomeda", the collision of the Milky Way and Andromeda galaxies?
+
+The Space.com headline Hubble Telescope Spots Two Galaxies in a Doomed (but Dazzling) Dance; The galaxies will ultimately crash into each other was probably overstated as seems to be policy in some popular press sites. The galaxies are not "doomed". However the paragraph below is interesting:
+
+Our Milky Way, for example, is on an inevitable collision course with the neighboring behemoth galaxy — Andromeda. Individual star systems like ours will likely be largely undisrupted, but distant observers will see the two galaxies gradually become one in some four billion years. ESA nicknames this new merged galaxy "Milkomeda."
+
+Question: How much more is predicted now about the "upcoming" collision and possible merger of the Milky Way and Andromeda galaxies than has already been described in this answer's citation of a 2012 Astrobites review The Fate of the Milky Way? What measurements (if any) have contributed to this additional level of prediction?
+
+The current data could be improved by future additional HST observations. Also, soon it will be possible to compare them with independent water maser measurements for individual sources in M31 (see this Letter), which might allow measurement of other cool effects, such as the M31 proper motion rotation, and the increase in Andromeda’s apparent size due to its motion towards us.

@@ -1,0 +1,15 @@
+Can time variations in gravitational lens paths be observed & is this useful?
+
+When strong gravitational lensing causes multiple images such as an "Einstein Cross", I understand there is difference in the time it takes the light to reach us along each path.
+I was curious how accurately such time difference can be measured. I imagined that provided there is some kind of temporally varying observable in each duplicate image, and if that process varies quite rapidly, it seemed it might be plausible to obtain extremely accurate timings of path differences. Potentially even down to microseconds or nanoseconds?
+Assuming any of this is possible at all, I was then curious if this would actually be useful for something!
+If path differences can be accurately measured, we could then observe how path differences vary over time, perhaps with great precision? This seems like it ought to yield information about how huge regions of space are being stretched or contracted. If such measurements could be obtained, would they give insight in to interesting processes happening in those regions?
+Or not?
+So, the question is:
+
+Could we plausibly measure this accurately?
+Has this been done, in practice?
+Do the path lengths vary over time?
+Do changes in the path lengths tell us anything interesting?
+
+Thank you!

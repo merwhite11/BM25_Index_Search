@@ -1,0 +1,6 @@
+Strength of core-envelope coupling in stars
+
+For a star with a given Zero-Age Main Sequence (ZAMS) mass, as a function of metallicity how strongly is the star's core coupled to its envelope?
+I understand that the core-envelope boundary is only (semi-) well defined for Main Sequence stars that do have a core, and that in principle the final spin (angular velocity) of the core should depend on the spin of the star prior to losing its envelope in a mass transfer event. I've read, here for instance, that the core should be nearly completely uncoupled from the envelope, however in this recent paper they assume that the coupling is sufficient enough to determine the natal spin of the stellar core (see figure 1).
+Is there a simple way to understand the strength of core-envelope coupling in terms of the ZAMS quantities of the star, without performing full stellar population synthesis?
+I asked this question at the Physics SE but it has received very little interest.

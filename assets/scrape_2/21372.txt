@@ -1,0 +1,3 @@
+is there any mathematical formula, paper or anything that shows the probability of a meteor hitting a particular spot of moon's surface?
+
+According to this article http://news.nationalgeographic.com/2016/02/160209-meteorite-death-india-probability-odds/ a science professor at Tulane University made a paper to calculate the probability of a person being hit by a meteor on Earth . And also an astronomer made a calculation (not mentioning the procedure) with a similar figure. My question is, since the moon has no atmosphere and more meteors reach the surface, is there any mathematical formula, paper, etc. to calculate how likely a spot in moon's surface it's likely to be hit by a meteor?

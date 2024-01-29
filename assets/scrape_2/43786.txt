@@ -1,0 +1,4 @@
+Mass of the stellar cluster (not the whole galaxy)
+
+Is there any general formula to determine the total mass of a cluster of stars?
+I have searched for one in Google, but most of them are for calculating mass of binary stars or single stars using Kepler's law. If the total mass can be found by multiplying the mass of a star by total number of stars, then how can the average mass of an individual star and the total number of stars in a cluster system be calculated? Will the equation vary for cluster system? Assume that the cluster is observable and  spectra are also attainable for the cluster.

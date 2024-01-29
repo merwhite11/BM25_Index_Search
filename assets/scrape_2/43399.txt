@@ -1,0 +1,11 @@
+Is there a formula to calculate any star mass from Luminosity, Radius, and/or Temperature (K)?
+
+I know there is the Mass-Luminosity relationship, but I am wondering if there is a more accurate formula I can use based on the data points I have generated:
+
+Absolute Magnitude (based on class and type of star in relation to H.R. diagram)
+Temperature (same as above; in Kelvins)
+Luminosity (calculated from Absolute Magnitude)
+Radius (calculated from Temperature and Luminosity)
+
+Basically the last 2 pieces I need to calculate are Gravity and Mass which is a pain because the one formula I have requires one of them to find the other. So far everything is calculated from another piece and so all of my values are in line with each other.
+I could use the Mass-Luminosity relationship if I must, but are there any other formulas? I couldn't find anything that didn't require gravity. I doubt it, but there isn't by chance something to calculate gravity from my data points is there?

@@ -1,0 +1,5 @@
+Is a General Relativity approximation available in Universe Sandbox (1 or 2)?
+
+This answer points out that including General Relativity in a simulation can be computationally intensive and may not be present in Universe Sandbox.
+However, answers to How to calculate the planets and moons beyond Newtons's gravitational force? discuss approximations that go most of the way toward including main GR effects in a typical solar system simulation where the effects are small.
+Are there any options to "turn on" an approximation to GR in Universe Sandbox and/or Universe Sandbox 2? Or plans to add it later? And to double check, is it absolutely certain that only Newtonian mechanics is used currently for propagating orbits?

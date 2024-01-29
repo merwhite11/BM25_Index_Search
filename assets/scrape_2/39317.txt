@@ -1,0 +1,3 @@
+What are hot and cold stellar systems?
+
+My idea of the matter is: hot stellar systems are which form of objects which have a velocity standard deviation comparable to their mean velocity. Is this correct? If it is, is there a $\frac{\sigma_v}{<v>}$ boundary, which draws a line between hot and cold stellar systems?

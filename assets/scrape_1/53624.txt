@@ -1,0 +1,19 @@
+Questions about the Cocconi Morrison paper on interstellar communication
+
+I have been reading the paper by Cocconi and Morrison on interstellar communication and I have trouble understanding their formulas.
+The paper begins by stating, that a star similar to the quiet sun will emit power, which produces at a distance $R$ a flux of
+$$
+10^{-15} \frac{f^2}{R^2}.
+$$
+I think that the $f$ should be in the denominator, since the unit is given to be $\frac{W}{m^2 Hz}$. Actually they use $\frac{c.}{s.}$ instead of $Hz$.
+They continue with the statement, that the galactic background yields received power:
+$$
+\frac{10^{-12.5} }{f} \left(\frac{\lambda}{l_d}\right)^2 (l_d)^2
+$$
+where $l_d$ is the diameter of the radio telescope. The above formula yields a value, having the units $\frac{W}{Hz}$ They explain, that the $\left(\frac{\lambda}{l_d}\right)^2 (l_d)^2$ part, as being resolution times the area of the mirror (actually, shouldn't it be the radius, since the area is given by $\pi \left(\frac{l_d}{2}\right)^2$). However why the resolution is squared?
+They continue to say, that if at the source a mirror with diameter $l_s$ is used (I guess that says that the source's radiation is collimated), then the source power required for to generate in the detector a signal, as strong as the galactic background, at distance $R$ is:
+$$
+\frac{d W_b}{d Sd\Omega d f} \left(\frac{\lambda}{l_s}\right)^2 \left(\frac{\lambda}{l_d}\right) R^2 =10^{-24.2} \frac{R^2}{l_s^2} l_d^2
+$$
+Above again the same factors representing the angular resolution (the second is linear) and a magic constant. I guess that the numeric constant is just some measurement value.
+I shall really appreciate if someone would explain the above formulas.

@@ -1,0 +1,5 @@
+We are making a 5 meter diameter radio telescope dish by using metal mesh and need some advice and/or reference designs
+
+We are making a 5 meter diameter radio telescope dish.
+What metal should we use and what must be the size of the mesh if the targeted frequency is 1430 Hz?
+Also what might a simple but stable structure for support look like if it has to be kept on elevation?

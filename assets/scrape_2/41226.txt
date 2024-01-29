@@ -1,0 +1,3 @@
+Formula to calculate the apparent magnitude of Earth from arbitrary distances
+
+I would like to calculate the apparent magnitude of Earth from various distances, say from the Voyager probe at this moment or from various stars in the sky. I know there must be a formula that I can enter in the distance from Earth (or the Sun) and get out the apparent magnitude. However, I am failing to find it as everything I can find assumes that I am on Earth and want to calculate the brightness of other things.

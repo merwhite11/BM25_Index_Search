@@ -1,0 +1,15 @@
+Why is the Warm-Hot Intergalactic Medium (WHIM) so hot, and what is "collisionless shock heating"?
+
+The Phys.org article Researchers find last of universe's missing ordinary matter says:
+
+Ordinary matter, or "baryons," make up all physical objects in existence, from stars to the cores of black holes. But until now, astrophysicists had only been able to locate about two-thirds of the matter that theorists predict was created by the Big Bang.
+In the new research, an international team pinned down the missing third, finding it in the space between galaxies. That lost matter exists as filaments of oxygen gas at temperatures of around 1 million degrees Celsius, said CU Boulder's Michael Shull, a co-author of the study.
+
+and refers to F. Nicastro et al, Observations of the missing baryons in the warm–hot intergalactic medium, Nature (2018). DOI: 10.1038/s41586-018-0204-1
+The Wikipedia page Warm–hot intergalactic medium says:
+
+Part of the gravitational energy supplied by these effects is converted into thermal emissions of the matter by collisionless shock heating
+
+but the link to "collisionless" is ambiguous and I haven't a clue how a shock wave can get hot without collisions.
+Is there a way to understand why is the Warm-Hot Intergalactic Medium (WHIM) is so hot, and what the "collisionless shock heating" process is that appears to be heating it?
+Are the temperatures associated with the motion of the atoms and with the excited states of the atoms similar? With only of order 1 atom per cubic meter, collisions must be so infrequent that it seems to me that it might not be so hard for these two temperatures to diverge.

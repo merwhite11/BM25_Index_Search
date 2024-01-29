@@ -1,0 +1,11 @@
+Does the density of a black hole decrease after releasing a large amount of Hawking radiation?
+
+Is is true that the smaller a 'regular', stellar-mass black hole is, the denser it is inside of its event horizon? After all, if you look up (or calculate) the Schwarzschild radii of the Sun and the Earth, the Earth's resulting (theoretical) black hole is much denser than the Sun's.
+I have also read that if you cross the event horizon of a supermassive black hole, you would not be immediately 'spaghettified', because of the low densities on the outskirts of those black holes.
+In New Scientist magazine, on page 49 of the new Oct. 2 issue, 'Curious craters' by Jonathan O'Callaghan, it says:
+
+"This is a result of the (primordial, Hawking-radiation-reduced) black
+hole being a million times denser than the moon and passing clean
+through without slowing down."
+
+Unless Hawking radiation lowers the density, not just the mass, a tiny black hole with an event horizon less (far less) than a millimeter is going to be a septillion times or more denser than the moon, not just a million?

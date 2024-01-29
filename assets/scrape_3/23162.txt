@@ -1,0 +1,10 @@
+Are binary neutron star mergers needed to explain the abundance of gold?
+
+The NPR News item Astronomers Strike Gravitational Gold In Colliding Neutron Stars mentions and quotes "Daniel Kasen, a theoretical astrophysicist at the University of California, Berkeley:"
+
+He spent late nights watching the data come in and says the colliding stars spewed out a big cloud of debris.
+"That debris is strange stuff. It's gold and platinum, but it's mixed in with what you'd call just regular radioactive waste, and there's this big radioactive waste cloud that just starts mushrooming out from the merger site," Kasen says. "It starts out small, about the size of a small city, but it's moving so fast — a few tenths of the speed of light — that after a day it's a cloud the size of the solar system."
+According to his estimates, this neutron star collision produced around 200 Earth masses of pure gold, and maybe 500 Earth masses of platinum. "It's a ridiculously huge amount on human scales," Kasen says. He personally has a platinum wedding ring and notes that "it's crazy to think that these things that seem very far out and kind of exotic actually impact the world and us in kind of intimate ways."
+
+Has the merger of neutron star binaries been necessary to explain abundances of the heavy elements such as gold and platinum, or is this just an anecdotal item? How important are binary neutron stars for the abundances of heavy elements such as gold? Is there a particular or notable paper I can read on this?
+I have already read this answer but I'm looking for a better explanation of the need for this kind of merger to explain abundances. I'm pretty sure there is nothing in any observed gamma ray events that shows spectral lines of gold or any identifiable heavy element (due to the incredible doppler broadening), so the connection must actually come from simulations.

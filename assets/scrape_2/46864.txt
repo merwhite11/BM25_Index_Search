@@ -1,0 +1,29 @@
+Are all the steps below leading this approximation for a zero-shadow latitude correct?
+
+Here we calculate an approximation of the latitude which experiences zero shadow on (at the start of) a given day of a year.
+Assumptions:
+
+The Earth is spherical
+Its orbit is circular and the eccentricity is zero (the actual value of eccentricity  is $0.0167$).
+Revolution of the Earth around the Sun occurs with a period of exactly 1 year which is $365.25$ days and we disregard any the changes in axial tilt.
+Our aim will be to calculate the latitude which experiences zero shadow at the start of any given day of a year. To this end we may temporarily disregard the Earth's rotational motion to simplify calculation.
+
+The Earth's axis of rotation is inclined (with respect to its orbit) by about $23.5°$. As the Earth revolves around the sun, the latitude which experiences zero shadow ranges between $23.5°$N and $23.5°$S.
+If we assume absence of rotation, it implies that there will be one spot on the Earth at any given time of the year which experiences zero shadow.
+For initial conditions: assume that the starting time is the day of Spring equinox (which is roughly on March $20$) and the point experiencing zero shadow at the start of the zeroth day is P. Therefore P lies on the equator.
+As the Earth revolves, the zero shadow spot traces out a circle on the Earth's surface. The circle has exactly one point on the Tropic of Cancer and exactly one point on the Tropic of Capricorn, and it passes through the point P.
+Please refer to the figure for further calculations.
+
+The zero shadow spot moves along its circular path on the Earth (shown in red color in the figure) in uniform circular motion, with period equal to 1 year. It's projection along the diameter MR in the figure is a SHM with frequency $\frac {1}{365.25}$. per day.
+The projection of this SHM onto the segment LM (which is also an SHM) has the same frequency $\frac {1}{365.25}$.
+The value of x can be used to calculate the angle with the equator, $θ$. This is the required latitude.
+Thus we have:
+$\tan θ = \frac {x}{a}$
+$x=\frac {b}{r} r\sin(\frac {360t}{365.25})° km$
+$=b\sin(\frac{360t}{365.25})°km$
+$\therefore \tan θ=\frac {b}{a}\sin(\frac{360 t}{365.25})°$
+and hence,
+$θ=(\tan^{-1}(\frac {b}{a}\sin(\frac {360t}{365.25})°))°$
+where $a=5848.72 km,
+b=2543.27 km, 
+t$ is in days and $12$ p.m. on March $20$ is the zeroth day.

@@ -1,0 +1,5 @@
+How far can a gravitational-wave pass through space?
+
+Is there any equation which shows how far a train of gravitational waves will travel from a source until it loses its ripples and amplitude?
+The wave train will lose energy as it travels.  It has a large strain in the beginning at its source and then when it reaches our Earth It has lost its ripple power. Then after passing through our Earth, it will continue losing energy until it has no energy left for rippling in space-time.
+For example, for a strain of $h=10^{-20}$, how far away can these waves travel from their radiation source until they vanish in space-time?

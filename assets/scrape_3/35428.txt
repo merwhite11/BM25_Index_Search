@@ -1,0 +1,8 @@
+Slope of log plot of luminosity-velocity in Tulley Fisher relation
+
+My partner and I did some computation on the Tully Fisher relation at uni.
+In that, the slope of the logarithm plot between the luminosity and rotational velocity, was 2.6.
+Now, that slope corresponds to the exponent to which $v_{rotation}$ is raised to. i.e.
+$$L=Av_{rotation}^b$$
+where $b$ is the exponent.
+So, $b$ officially is close to 4. And I have used up a sample size of over 10 galaxies. And the plot looked pretty shabby honestly. Is our result poor?

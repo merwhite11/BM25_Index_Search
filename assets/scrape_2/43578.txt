@@ -1,0 +1,5 @@
+Coordinates in the Night Sky
+
+I've learned about Orbits recently, and there are 6 orbital elements. Now, I've heard of three coordinate systems whereas, they can help you measure positions of stars in the night sky. The Altazimuth, the Equatorial, and the Ecliptic coordinate systems. Now, I can't quite grasp what they mean, and how to use them. This is what I am asking for from an answer to this question.
+From night to night, I know that star and planet positions may vary, because we're rotating, and the start move due to it, and even in the day, we're still spinning, and the star positions keep changing, whether or not we can see them, or they're blocked by the sun's brightness, so the next night, they'll be in a new place. That being said, I don't want an answer that says there can't be a coordinate system that doesn't relate to my position on Earth, because I want an explanation for those three coordinate systems that includes my position (preferably using latitude and longitude).
+Assuming this can be feasibly explained in a post, thanks in advance!

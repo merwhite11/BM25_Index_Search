@@ -1,0 +1,7 @@
+How to get SOHO Satellite images' coordinates?
+
+I'm working with images from LASCO C3 coronagraph
+I'm able to download pictures from LASCO C3 using this form
+https://sohodata.nascom.nasa.gov/cgi-bin/data_query
+Then, I want to do some analysis of CMEs on this pictures and determine some of their parameters, such as direction and speed (i know that is better to use STEREO A\B for that purposes), but also I need exact coordinates of SOHO station to determine the direction of the ejection in space
+How can I get the coordinates of the station for these pictures?

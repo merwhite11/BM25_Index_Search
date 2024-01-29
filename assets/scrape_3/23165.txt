@@ -1,0 +1,8 @@
+Viewing "Diamond Fuji"
+
+Diamond Fuji is a phenomenon in which the (typically) setting sun is positioned directly atop Mt Fuji. Some relatively detailed predictions for viewing times at a nearby park are available here.
+
+I will be traveling to Tokyo in early December, and would like to observe Diamond Fuji to the extent possible (if at all). I can rely somewhat on tourist-friendly websites, but information is sparse and imprecise.
+Intuitively, one should be able to compute the time and viewing locations of Diamond Fuji for any day of the year: the summit of Mt Fuji lies on the line connecting the viewer to the sun. What is the best way to work out this sort of calendar/map?
+
+As a non-expert I suspect this question is relevant but I am not certain.

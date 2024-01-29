@@ -1,0 +1,8 @@
+How to calculate the time of Ekadashi days?
+
+Is there an official reference algorithm for calculating the Ekadashi days?
+I found the textual description of Ekadashi calculation on wikipedia but can't really make sense of it in order to write the code.
+I already have the (java) code for calculating the new/full moon phases, and originally assumed that Ekadashi would be as easy as appending 11 days to the time of new and full moon but apparently this approach is not providing correct results.
+Update:
+Based on James's answer the answer is 11 lunar days and 26 lunar days after new moon (not gregorian days).
+The required conditional adjustments are described in chapter 1.4 of Vaisnava Events Calculation which don't match the ones described in the wikipedia article.

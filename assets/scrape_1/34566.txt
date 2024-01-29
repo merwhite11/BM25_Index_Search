@@ -1,0 +1,7 @@
+Would "layered" radio interferometry work?
+
+tl;dr - Is splitting up the process of interferometry as shown in the diagram possible, and if so, is it more efficient and/or easier than traditional methods?
+I have been doing some research into radio interferometry, and I had a question about it - I know that we can combine the signals from multiple telescopes into one "image" using interferometry, but what if I was able to do that multiple times?
+Let me describe this a bit better. Say I have nine dishes. I arrange three of them in an equilateral triangle, and then I do the same with the other 6, and then, I arrange those three groups of three into a larger equilateral triangle. Then, I combine the signals from each three of the telescopes, and then I combine the three resulting signals. Here's a diagram that might help - the blue dishes are the "telescopes", and the red and green boxes are the "processors" or where the signals would be interfered.
+
+In principle, would this work? And, in the context of radio astronomy, would it be easier to combine or interfere only three signals rather than nine?

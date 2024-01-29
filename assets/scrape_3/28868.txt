@@ -1,0 +1,15 @@
+Extract anomalies from two-line element set (TLE) on ISS (International Space Station)
+
+I am faced to a problem of interpretation illustrated on figure below :
+
+From wikipedia : Two-line element definition, I can extract the 
+following meaning anomaly  : 308.7017 ° (in degrees)
+But in the 2 questions, I am asked to find : 
+1) at which anomaly is the ISS at the two lines epcoh 
+2) at wchich anomaly is the ISS on December 1st 2018.
+I think the answer to question 1) is maybe what I have extracted above (308.7017 °)
+But how to compute the anomaly of ISS on December 1st 2018 ?
+I don't undertand very well the difference between these two anomalies requested.
+If someone could help me, this would be nice.
+Regards
+UPDATE 1: Sorry, I must precise that I talk about mean anomaly.

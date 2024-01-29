@@ -1,0 +1,6 @@
+Strange asymptotic behavior on the Kozai-Lidov cycles
+
+So, in Naoz et al. (2013) is described the Kozai mechanism on three-body systems. I've tried to solve the equations (B1) - (B17) for the example described in the Figure 3 and I got something like this:
+
+
+Note that I got the exact same result until $\sim$ 33 Myr (black arrow), then the cycles change radically. Is this usual?. Do Kodai cycles tend to change over time like this or they actually remain with the same "shape" as time goes by? If the latter, isn't a way to predict the behavior of Kodai cycles as t tends to infinity?

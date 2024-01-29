@@ -1,0 +1,13 @@
+Why does Hubble's F850LP filter have a different shape than all the others shown in Dr. Becky's video "ALL THE DETAILS on Earendel..."?
+
+It will take some time to read through @Pela's excellent answer to Is there a better explanation of this picture showing the very distant star "Earendel"? and to slowly ease myself into it I've just watched the new Dr. Becky video ALL THE DETAILS on Earendel: a star 12.9 billion light years away seen by the Hubble Space Telescope.
+She explains that WHL0137-LS is pretty dim and so attempts to determine if it is as red-shifted (and therefore old) as the rest of the lensed bits using Hubble's spectroscopy would be challenging, so instead images through a variety of filters can be used to at least try to rule out the possibility of it being a foreground start rather than a distant star lensed and magnified in brightness by a factor of at least thousands.
+I noticed in the graphic (shown in the screenshot below) which illustrates all the filters used in this study, that while all but one have conventional square-ish bandpass shapes with fairly straight sides and roughly flat tops (except for the inevitable little wiggles across the top in the transmission region). The exception is the filter F850LP, which has a very differently-shaped transmission function. It has a narrower peak bandpas and a much more gradual fall-off on the long-wavelength side, sort-of a rounded sawtooth shape.
+Question: Why does Hubble's F850LP filter have a different shape than all the others shown in Dr. Becky's video "ALL THE DETAILS on Earendel..."?
+I think an answer can address both
+
+Why this filter F850LP has a different shape than all the rest (e.g. technical limitations, legacy (consistency with historical data), something else)?
+Why was it included in this study? This likely took quite a lot of observing time, and since each filter requires a new exposure filter choices would have had some careful consideration.
+
+
+Screenshot from Dr. Becky video ALL THE DETAILS on Earendel: a star 12.9 billion light years away seen by the Hubble Space Telescope showing the transmission response of all the HST filters used in the study:

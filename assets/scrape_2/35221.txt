@@ -1,0 +1,3 @@
+Is this render of a ringed planet's shadow accurate?
+
+I've noticed that when it's the equinox on this planet I'm making, the sun seems to cast a double shadow on the planet. How come the planet's ring seems to make two shadows with a space in between, instead of one "line" shadow. Is this accurate to real life, or a quirk of the rendering engine I'm using?

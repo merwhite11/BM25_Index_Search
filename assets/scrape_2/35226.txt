@@ -1,0 +1,8 @@
+Convolve a SED with a filter. Is convoluting the mathematical operation?
+
+I know that in order to get the Flux of a star (or something else) in a particular filter from its SED (luminosity per unit wavelength), I need to convolve the spectrum (SED) with the filter response. Most of the formulas I see to do this are 
+$$F_{b}=\dfrac{\int f(\lambda) T_{b}(\lambda)d\lambda}{\int T_{b}(\lambda)d\lambda}\,,$$ 
+where $f(\lambda)$ is the SED, and $T_b$ is the filter response in band $b$.
+This formula seems very different from a mathematical convolution that I would write as 
+$$f*g(\lambda)=\int_{-\infty}^{\infty} f(x) g(\lambda-x)dx\,.$$
+Are these two convolutions the same thing? Or is the "astronomy convolution" a different thing (e.g. SED Fitter python package)?

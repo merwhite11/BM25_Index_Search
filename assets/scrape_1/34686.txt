@@ -1,0 +1,4 @@
+Does the orbits of stars in a binary system have a common focus, which is the center of mass of the stars?
+
+I know that when a planet orbits a star (and assume the star is stationary because its mass is >> the mass of the planet), the orbit is an ellipse, and the star sits at one of the foci of the ellipse. What I am wondering is if instead of a planet surrounding a star but a binary system where the two stars's mass are of the same order of magnitude, are their orbits ellipses and share a common focus at the center of mass? 
+Intuitively I think it is true because this is a result generalized from the planet surrounding the star case but strictly speaking I have a hard time to mathematically prove it.

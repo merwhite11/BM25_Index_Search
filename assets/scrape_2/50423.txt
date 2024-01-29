@@ -1,0 +1,11 @@
+How often does a full moon happen on the weekend?
+
+Wikipedia says that a synodic month has a length 29 d 12 h 44 min and 2.9 s.
+I'm interested to find out how often a full moon (but actually, it's the same for any phase) happens during a weekend.
+I thought:
+
+a weekend lasts 48 h
+a week has 168 h
+a synodic month has 708.75 h
+
+But I'm not able to calculate when the full moon happens inside the window of the 48 h we call "weekend".

@@ -1,0 +1,13 @@
+Is this object an asteroid or comet, and how can it produce so many tails?
+
+The NASA Hubble Space Telescope Science Release HEIC 1320 - When is a Comet not a Comet? - Hubble astronomers observe bizarre six-tailed asteroid is self-explanatory, but it doesn't explain what actually happening.
+Sometimes comets will show two tails, but one is usually identified with the path of the comet's orbit, and the other with the direction away from the sun. But this is an asteroid (or so it seems) and there are many tails with complex behavior.
+edit: I've found this ArXiv preprint: The Extraordinary Multi-Tailed Main-Belt Comet P/2013 P5 where "main belt" refers to the main belt of asteroids, and yet the object is now called a comet.  Wikipedia lists both names and suggests both designations - asteroid or comet:
+
+311P/PANSTARRS also known as P/2013 P5 (PANSTARRS) is an asteroid (or main-belt comet) discovered by the Pan-STARRS telescope on 27 August 2013.(4) Observations made by the Hubble Space Telescope revealed that it had six comet-like tails.(5) The tails are suspected to be streams of material ejected by the asteroid as a result of a rubble pile asteroid spinning fast enough to remove material from it.(2)
+
+It's been three point five years now - has this been figured out yet? Is it an asteroid or comet (or both), and how can it produce so many tails?
+
+above: HST image of comet P/2013 P5 from here.
+
+above: HST image (annotated) of comet P/2013 P5 from here.

@@ -1,0 +1,5 @@
+Samples from the double Schechter luminosity funcion
+
+I want to produce samples from a double Schechter luminosity function.
+Ideally, I am looking for a python implementation of this problem but am open to other tools if necessary.
+Do you know of any such package that will facilitate this?

@@ -1,0 +1,9 @@
+How can I know the names of the stars in the Hipparcos Catalogue?
+
+Yes, I know that not all the stars in the Hipparcos catalogue has a name.
+I have found that, the following catalogue has some stars' names:
+
+(HR)  Bright Star Catalogue, 5th Revised Ed. (Hoffleit+, 1991) (V/50)
+
+But, do you know where I can find the Greek letters of the stars?
+Maybe, there is a catalogue in which I can use the HIP number to get the star's Greek letter.

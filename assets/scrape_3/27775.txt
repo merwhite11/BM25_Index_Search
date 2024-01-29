@@ -1,0 +1,5 @@
+Is the acceleration of the expansion of the universe a direct observation or an interpretation?
+
+Is the acceleration of expansion we observe with supernovae direct or is this an interpretation according $\Lambda$CDM model ?
+I mean what we observe is luminosity distance versus redshift, so to see acceleration we should have scale factor vs time, which need a model, right (assuming Friendmann-Lemaître equations in which we need to consider homogenous universe for example) ?
+Is it possible to say "our universe is in accelerated expansion" without any  interpretation with a model ?

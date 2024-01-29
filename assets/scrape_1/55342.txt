@@ -1,0 +1,7 @@
+Would a planet's tidal forces really push away a moon out of its Hill Sphere?
+
+If a moon orbits in the same direction as its planet's rotation (i.e. a prograde orbit), and its orbital period is longer than its planet's rotational period, then tidal forces would cause the moon to slowly drift away. This is true for the vast majority of moons in the Solar System, and for every large round moon bar Triton.
+The moon's orbit would continue expanding, and the planet's rotation would continue slowing down, until both bodies are tidally locked to each other. This is what's expected to happen to the Earth-Moon system if it is not engulfed by the Sun as a red giant.
+However, what if the moon just can't tidally lock its primary? Whether that's because the planet is hundreds of thousands of times more massive than the moon, or because its rotation is too fast to be slowed down in time.
+Would the planet's tidal forces seriously cause its moon's orbit to expand so much that it's outside its Hill Sphere? That seems counterintuitive to me. Tidal forces drop by the distance cubed, and as the moon got farther away, the tidal forces that caused it to drift away in the first place would get exponentially weaker.
+I've heard the titular claim multiple times, but to me it seems more likely that a moon would asymptotically approach a distance within the Hill Sphere that it can't be pushed farther out of, as the tidal forces would become negligible.

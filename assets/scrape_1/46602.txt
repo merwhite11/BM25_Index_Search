@@ -1,0 +1,24 @@
+In what year (2014?) the gravitational wave triggered by this merger was possibly generated?
+
+Re: "A transient radio source consistent with a merger-triggered core collapse supernova"
+https://www.science.org/doi/10.1126/science.abg6037
+Actually the described merger consisted of two events:
+https://scitechdaily.com/stellar-collision-triggers-supernova-explosion-this-is-the-first-time-weve-actually-seen-such-an-event/
+
+One of the two orbiting each other stars consumed it's partner, which prior to merge exploded as supernova and collapsed into a black hole or possibly a neutron star.
+
+The consumed object (most likely a black hole) caused further effect of the core collapse within the consuming star. This process of core collapse resulted in an explosion that left the consuming star obliterated and the black hole standing alone.
+
+
+Could events like these produce captureable by LIGO gravitational waves?
+If "yes", in what year and at what of the described above two stages the gravitational wave, triggered by this merger, was possibly generated (2014?)
+and why this gravitational wave wasn't captured by LIGO?
+In Quora I found (as it appears to be) similar question: "
+Do core collapse supernovas produce gravitational waves? How close would the supernova have to be for LIGO to detect them?"
+https://www.quora.com/Do-core-collapse-supernovas-produce-gravitational-waves-How-close-would-the-supernova-have-to-be-for-LIGO-to-detect-them
+The answer there by Stephen Selipsky was:
+"Literally every physical process produces trivially tiny gravitational waves, but the question is whether core collapses can produce waves intense enough for us to measure.
+Core collapses usually start out pretty close to spherically symmetric, at least until their very late stages; but gravitational waves are generated only by changes in quadrupole and higher asymmetries. So most collapses wouldn’t generate much gravitational wave energy, though a rapidly spinning star might do a little. Toward the end of a collapse, a shock wave is produced by the neutron star core bouncing and stopping its collapse. That shock wave can be asymmetric, as can its magnetohydrodynamic interaction with the outer layers of the star; this can cause asymmetries in the explosive ejection of debris, and a compensating reaction which occasionally sends newly created neutron stars zooming out of their formative explosions at speeds up to 1% of light’s. Linearly accelerating 1.5 to 2.5 solar masses to those speeds would certainly produce gravitational waves.
+However, a stronger and more common source of gravitational waves is instabilities in rapidly rotating, newly formed neutron stars. Objects that rotate slowly have a centripetal thickening of their equators, circularly symmetric. Objects that rotate quickly enough go beyond that, with oblate bulges (elongated “cigar” shapes and/or more complicated bulges). Such quadrupole and higher rotating bulges will radiate a lot of gravitational waves, enough to currently be detectable within a few thousand light years (in exceptional cases, up to halfway across our galaxy). With the coming generation of new detectors, the observable distance may increase to 3 million light years, that is across the Local Group of galaxies including Andromeda.
+Here is a recent review article abstract, and a more journalistic summary of that article:
+We summarize our current understanding of gravitational wave emission from core-collapse supernovae. We review the established results from multi-dimensional simulations and, wherever possible, provide back-of-the-envelope calculations to highlight the underlying physical principles. The gravitational waves are predominantly emitted by protoneutron star oscillations. In slowly rotating cases, which represent the most common type of the supernovae, the oscillations are excited by multi-dimensional hydrodynamic instabilities, while in rare rapidly rotating cases, the protoneutron star is born with an oblate deformation due to the centrifugal force. The gravitational wave signal may be marginally visible with current detectors for a source within our galaxy, while future third-generation instruments will enable more robust and detailed observations. The rapidly rotating models that develop non-axisymmetric instabilities may be visible up to a megaparsec distance with the third-generation detectors. Finally, we discuss strategies for multi-messenger observations of supernovae."

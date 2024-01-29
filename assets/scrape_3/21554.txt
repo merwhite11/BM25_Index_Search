@@ -1,0 +1,9 @@
+Nodes and declinations of Moon
+
+This nice page from NASA has the possibility to create an astronomical events calendar for a certain period. I tried to do that for the year 2017 for Central Europe. What comes out puzzles me:
+On July 8th the Moon is at it's south Declination. On July 12th the Moon goes through the descending node. On July 22nd it finds itself at the north Declination.
+
+I had always though the south Declination means the southernmost point of the Moon on its orbit. Furthermore I had always thought the descending node is the point the Moon passes by going "down" in its motion. How can it reach a southernmost point and later go even further downwards?
+I had been inclined to think that the north and south Declinations would be about half way between nodes (give or take due to slight changes during the motion). How can the Moon be in one of these south or north points and only 4 days later pass a node? And take again 9 more days to reach a south/north Declination again?
+
+It would be nice if the answer could, besides clarifying these concepts (ascending and descending node, south and north Declination), point me to a reading where they as well as other Moon orbital points and parameters are clearly defined and explained.

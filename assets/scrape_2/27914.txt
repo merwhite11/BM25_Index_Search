@@ -1,0 +1,7 @@
+Tables of aphelion/perihelion dates for other planets?
+
+It's relatively easy to find tables for Earth aphelion and perihelion dates and times, such as this one:
+http://www.astropixels.com/ephemeris/perap2001.html
+But what about the other planets in the solar system? Are there tables or lists of aphelion and perihelion dates for them too? I checked Wikipedia, but it only lists perihelion distances and not dates, so it is insufficient.
+Update:
+This is the error I get on the SPICE web interface.

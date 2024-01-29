@@ -1,0 +1,4 @@
+What is mass-weighted age?
+
+This seems to be a common term used in the field of stellar populations and galaxy evolution, but I can't find a good definition besides the fact that it is different from light-weighted age (a term I also don't understand). Does "weighted" just mean measured, e.g age estimated from mass measurements vs estimated from light measurements?
+An example of the usage can be found here: ned.ipac.caltech.edu/level5/Sept14/Conroy/Conroy4.html

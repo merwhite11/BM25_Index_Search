@@ -1,0 +1,11 @@
+Pulsar rotation linear velocity
+
+I recently came upon millisecond pulsars. I knew of pulsars, I had never guessed though that they can spin so fast.
+I believe I had read about a pulsar rotating at about 10-15Hz.
+But I just read about J1748-2446ad, which rotates at the astonishing 716Hz.
+Brief research and I find its radius is about 16km, making its rotation circumference:
+$c = 2πr ≈ 100.5km$
+Given that the pulsar rotates at 716Hz, its linear velocity at the surface should be:
+$v = 716c/s ≈ 71900km/s$
+Assuming these calculations are nearly correct, could it be that any point on the rotation circumference moves at about 24% of the speed of light? Can this be possible?
+Thanks for any answers that will satisfy my curiosity.

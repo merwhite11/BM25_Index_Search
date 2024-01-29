@@ -1,0 +1,4 @@
+Batteries for a StarNavigator 90 motorized mount?
+
+I was given a StarNavigator 90 (DS-2090) with a motorized mount (Single-arm, motorized Alt-Az) which works with 8 AA batteries. Only issue is that it eats the batteries, so I am wondering what kind of batteries are recommended for motorized mounts?
+Also, can I use a 12V battery (such as those gel batteries, or even car battery) to power the mount?

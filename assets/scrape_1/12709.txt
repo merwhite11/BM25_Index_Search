@@ -1,0 +1,11 @@
+Ambiguity in Earth's "Tilt"
+
+It’s well-known that the axial tilt of the Earth (with respect to the ecliptic) is about 23.4 degrees. However, two angles is needed to specify the orientation of any rigid body, so it’s unclear to me exactly how Earth is oriented with respect to its orbital plane.
+To be more precise, consider the plane that satisfies these two conditions:
+1. Perpendicular to the ecliptic plane
+2. Contains the line connecting the Sun and the Earth when Earth is at perihelion (Jan. 2).
+(Basically, this plane cuts through the orbit of the Earth such that for half the year Earth is one side and for the other half Earth is on the other side.)
+Questions:
+1. When the Earth is at perihelion, what is the angle between its rotational axis and the plane described above? I would guess this angle is very small from the images of Earth’s orbit. Is there a technical term for this angle?
+2. Does the direction of the axis remain approximately the same throughout its entire orbit?
+Please ignore precession for this question.

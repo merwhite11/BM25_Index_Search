@@ -1,0 +1,28 @@
+Relationship between metallicity and color? Should Pop. I stars be blue?
+
+I have found in numerous places such as this website: http://burro.astr.cwru.edu/Academics/Astr222/Galaxy/Structure/metals.html or in "Introduction to Stellar Astrophysics" by B. Carroll, that state:
+
+Population I: 
+  metal rich [Fe/H] > -1 
+  disk stars 
+  open clusters 
+  metal rich makes stars redder
+Population II
+  metal poor [Fe/H] < -1  
+  halo stars
+  globular clusters 
+  metal poor makes stars bluer
+
+And I also found (from: http://hyperphysics.phy-astr.gsu.edu/hbase/Starlog/pop12.html): 
+
+Population I stars include the sun and tend to be luminous, hot and young, concentrated in the disks of spiral galaxies. They are particularly found in the spiral arms. With the model of heavy element formation in supernovae, this suggests that the gas from which they formed had been seeded with the heavy elements formed from previous giant stars. About 2% of the total belong to Population I.
+Population II stars tend to be found in globular clusters and the nucleus of a galaxy. They tend to be older, less luminous and cooler than Population I stars. They have fewer heavy elements, either by being older or being in regions where no heavy-element producing predecessors would be found. Astronomers often describe this condition by saying that they are "metal poor", and the "metallicity" is used as an indication of age.
+
+If Population I stars are metal rich and therefore appear red, how can they be luminous, hot, and young, and concentrated in disk (the region of star formation)? Shouldn't they appear blue? How does color relate to metallicity?
+Hot stars should be blue, shouldn't they? As stated here for example:
+
+A star’s color is critical in identifying the star, because it tells us the star’s surface temperature in the black body radiation scale. The sun has a surface temperature of 5,500 K, typical for a yellow star. Red stars are cooler than the sun, with surface temperatures of 3,500 K for a bright red star and 2,500 K for a dark red star. The hottest stars are blue, with their surface temperatures falling anywhere between 10,000 K and 50,000 K. (http://www.webexhibits.org/causesofcolor/18B.html)
+
+Also, this question is a little similar but not quite: Metal rich or metal poor?
+There is a graph: http://science.psu.edu/alert/images/SDSSmetals.jpg/image_view_fullscreen
+I'm not sure if the colors there correspond to the colors of the stars, but they used blue to refer to old stars. Why?

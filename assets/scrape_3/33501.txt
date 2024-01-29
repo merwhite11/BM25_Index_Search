@@ -1,0 +1,3 @@
+Night-Day Cycles in S-Type Planetary Systems
+
+I am a writer and space enthusiast. For a story I am currently writing I would like to have a planet which orbits a star which resembles the sun, which in turn orbits another star. In this situation there would be multiple types of "days" including "bright day," when both suns are visible, "dim day," when only the further sun is visible, and "day," where only the nearer sun is visible. Is there any way to determine how this cycle would work? Any formulas or papers done? If so, what information would I need to have to figure it out? Thank you.

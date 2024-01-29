@@ -1,0 +1,4 @@
+is there any direct method to calculate gravitational wave frequency if the source mass is known?
+
+Suppose we have neutron stars of 8 and 9 solar masses, they both merge and produce a GW. How does one find the frequency of the GW? Is there any specific formulae to compute it?
+What I want to know is the relation between the mass and frequency of GW? How is the frequency calculated numerically?

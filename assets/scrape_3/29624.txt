@@ -1,0 +1,10 @@
+Motivation for using $\sigma_{8}$?
+
+Press-Schechter formalism allows one to universally quantify the number of massive dark matter halos in a given volume -- The Halo Mass Function. The density contrast is given by the rms mass variance in Fourier space, which is the dependent on the linear power spectrum $P_{\rm lin}(k,z)$ in a smooth window $\widetilde{W}(R;k)$
+\begin{align}
+\sigma^{2}(R,z) 
+= \frac{1}{2\pi^{2}} 
+\int_{0}^{\infty} dk\ k^{2} P_{\rm lin}(k,z) \left| \widetilde{W}(k;R)\right|^{2}
+\end{align}
+The halo count can be scaled via observations in a defined window region of $R = 8\ h^{-1}\rm Mpc$. We can solve for this analytical/numerically and measure it from CMB fluctuations, given by the parameter $\sigma_{8}$. The power spectrum, as well as the halo mass function, is then scaled through the normalization of the analytical variance and the observed variance.
+My question is then, why do we choose a smoothing radius of $R = 8\ h^{-1}\rm Mpc$? Is it arbitrarily chosen to compute the number variance in a cluster, or is their more too that? What prevents me from defining the window radius of $R = 6\ h^{-1}\rm Mpc$ (just ignore the fact that the  WMAP and PLANCK results give $\sigma_{8}$ in the radius of $8$)?

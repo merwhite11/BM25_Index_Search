@@ -1,0 +1,4 @@
+Do the orbits of satellite galaxies show the influence of dark matter?
+
+I understand how galaxy rotation curves show the influence of dark matter, or something else that would produce similar behaviour, such as Modified Newtonian Dynamics (MOND). Do the orbits of satellite galaxies show the same influence? 
+In MOND terminology, the internal gravity of the satellite galaxy is not relevant to this question. The question would be if the gravitational effect of the host galaxy on the satellite was Newtonian or MOND?

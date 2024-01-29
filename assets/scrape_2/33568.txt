@@ -1,0 +1,8 @@
+Astronomy detective question: what part of the sky are these photos of? What are a few of the stars?
+
+The 9to5Google article Exclusive: Official Pixel 4 camera samples show astrophotography, selfies, more [Gallery] shows some surprisingly nice (at least to me) photos of the Milky Way.
+I've asked Milky Way with a cell phone, how is this possible? in Photography SE, but here I'd like to double check the scale and FOV of these images. 
+I'd like to establish the FOV and scale in pixels per degree for these images, so I need to know what part of the sky are these photos of and what are a few of the stars? I understand that a wide field view with a cell phone camera may have some distortion so I'll do the corners separately from the center.
+I wanted to ask for an estimate of the latitude. I guess that's only possible if we assume the bottom edge is parallel to the horizon.
+
+click for full size:

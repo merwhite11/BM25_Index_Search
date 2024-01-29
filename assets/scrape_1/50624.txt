@@ -1,0 +1,4 @@
+Why, since Earth is in free fall towards Sun, are tides affected by Sun's gravity? Why aren't the oceans "weightless" like astronauts?
+
+Astronauts on the space station do not feel the Earth's gravity at all; they are in free fall.
+Since the Earth and all that's on it is in free fall toward the Sun, why would the oceans "feel" the Sun's gravity; i.e., why would the Sun affect the tides at all?  It occurs to me (1) it's the center of gravity of the Earth that is in free fall; and (2) points on the surface facing the sun are ~7000 miles closer to the sun than points on the far side; and (3) points on the surface of the Earth at dawn or at dusk experience (due to the Earth's rotation) an acceleration toward or away from the Sun. Are "minor effects" such as these the explanation for why tides are affected?

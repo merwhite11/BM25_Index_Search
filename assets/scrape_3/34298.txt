@@ -1,0 +1,5 @@
+What are the smallest star clusters affected by Galaxy Rotation Curve?
+
+We all know that Milky Way exhibits Galaxy Rotation Curve which makes it rotate very differently that Newtonian mechanics would expect. But Milky Way is a pretty large galaxy, and the one we only see inside, so maybe it's not that good of an research object.
+
+What are the smallest galaxies or star clusters whose rotation is clearly non-Newtonian? Are dwarf galaxies' rotation curves affected? Are globular clusters inside galaxies such as ours affected, or is their movement decisively Newtonian?

@@ -1,0 +1,8 @@
+Orbital resonances - expansion of disturbing function
+
+I want to study the orbital resonance type 3:1 between an asteroid and Jupiter. For this purpose, I found the expansion of the disturbing function, $R$, in Celletti A., Stability and Chaos in Celestial Mechanics (Springer-Praxis, 2010), but I do not understand how I could determine the expression of the factor $R_{13}$. I mention that, below, $L$, $G$, $l$ and $g$ are the Delaunay variables:
+
+$$\begin{aligned} R &=R_{00}(L, G)+R_{10}(L, G) \cos \ell+R_{11}(L, G) \cos (\ell+g) \\ &+R_{12}(L, G) \cos (\ell+2 g)+R_{22}(L, G) \cos (2 \ell+2 g) \\ &+R_{32}(L, G) \cos (3 \ell+2 g)+R_{33}(L, G) \cos (3 \ell+3 g) \\ &+R_{44}(L, G) \cos (4 \ell+4 g)+R_{55}(L, G) \cos (5 \ell+5 g)+\ldots \end{aligned} $$ where the coefficients $R_{i j}$ are given by the following expressions: $$\begin{array}{ll} R_{00}=-\frac{L^{4}}{4}\left(1+\frac{9}{16} L^{4}+\frac{3}{2} \mathrm{e}^{2}\right)+\ldots, & R_{10}=\frac{L^{4} \mathrm{e}}{2}\left(1+\frac{9}{8} L^{4}\right)+\ldots \\ R_{11}=-\frac{3}{8} L^{6}\left(1+\frac{5}{8} L^{4}\right)+\ldots, & R_{12}=\frac{L^{4} \mathrm{e}}{4}\left(9+5 L^{4}\right)+\ldots \\ R_{22}=-\frac{L^{4}}{4}\left(3+\frac{5}{4} L^{4}\right)+\ldots, & R_{32}=-\frac{3}{4} L^{4} \mathrm{e}+\ldots \\ R_{33}=-\frac{5}{8} L^{6}\left(1+\frac{7}{16} L^{4}\right)+\ldots, & R_{44}=-\frac{35}{64} L^{8}+\ldots \\ R_{55}=-\frac{63}{128} L^{10}+\ldots \end{array} $$
+
+Please, could anyone to help me with an answer?
+If none is forthcoming, are there alternative texts or papers that might shed more light on this?

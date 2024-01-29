@@ -1,0 +1,3 @@
+Equations for coordinates of solar system objects
+
+I would like to write a program that visualizes the solar system. To do this, I would need equations for calculating the coordinates of each solar system object at a given time. Where could I obtain such equations? I hope they would be as accurate as possible. If there are such equations, it would be also nice to see the raw data they are based on and a description how they were computed. I would be grateful for all help.

@@ -1,0 +1,7 @@
+Why would a freezing liquid layer accelerate a rocky body's rotation?
+
+Titan, whose orbital period is 382 hours, is tidally locked, like all round moons in the Solar System. But Jonathan I. Lunine said of Titan:
+
+One thing that Titan could not have done during its history is to have a liquid layer that then froze over, because during the freezing process, Titan’s rotation rate would have gone way, way up.
+
+This hypothetical escape from tidal locking implies thermal energy lost from a liquid layer would be converted into rotational kinetic energy, and not just for the liquid in the form of currents (in analogy with e.g. the super-rotation of Venus's atmosphere), but of the solid majority of Titan's mass. What mechanism is Lunine alluding to?

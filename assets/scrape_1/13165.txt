@@ -1,0 +1,21 @@
+What is the frequency distribution for luminosity classes in the Milky Way Galaxy?
+
+I'm working on a game concept that does some mild simulation of realistic stellar classes and luminosities. In particular, I'd like to roughly model the general frequencies of the classes and luminosities of the stars in the Milky Way.
+Several sources, including Wikipedia's entry on stellar classifications, show a chart that includes the frequency distribution for spectral classification: the OBAFGKM categorization. So that's fine.
+What I'm having trouble finding is any frequency distribution chart similar to that one but for the Yerkes luminosity categories: Ia+, Ia, Iab, Ib, II, III, IV, V, sub-dwarf and dwarf. I have a copy of the Hipparcos database, which contains a "Spectral Types" field, but it's highly incoherent text. Still, I could write some code to parse the values in that field to try to get a rough count of luminosity categories in those roughly 116,000 stars... but I'm a little perplexed that no such chart appears to exist already somewhere in Internetland. (Either that or my search-fu is weaker than usual.)
+If anyone can point me to a chart of the frequency distribution for the luminosity categories noted above, or suggest a reasonably simple way for me to calculate those values myself, I'd appreciate it.
+EDIT: Out of curiosity, I went ahead and did my own simple parsing of the spectrum fields from the Hipparcos dataset.
+Out of 116472 rows, only 56284 (fewer than half) provided luminosity class data in the Spectrum field. Those 56284 rows broke down this way:
+Ia0     16     0.03%
+Ia     241     0.43%
+Iab    191     0.34%
+Ib     694     1.23%
+I       17     0.03%
+II    1627     2.89%
+III  22026    39.13%
+IV    6418    11.40%
+V    24873    44.19%
+VI      92     0.16%
+VII     89     0.16%
+Note: Around 1000+ rows gave an either/or value for luminosity class (e.g., "M1Ib/II"). In these cases, I counted only the first value provided. This probably skewed the results slightly compared to counting both luminosity classes.
+I'm still very curious to know whether anyone else has produced or located a similar table of frequencies for the luminosity classes, if only to see how my very trivial analysis compares.

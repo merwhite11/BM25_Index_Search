@@ -1,0 +1,25 @@
+Why does "longitude by chronometer" require first calculating latitude?
+
+I'm studying the history of longitude and Greenwich Time, and I'm currently confused about the "longitude by chronometer" technique.
+Conceptually, the method seems extremely simple.  With a chronometer (ie. an accurate clock) set to the time of your home port, compare to your local time.  Multiply the difference by $\frac{15°}{hour}$ and that will give you the degrees of longitude you have traveled.
+According to Derek Howse's Greenwich Time and the Longitude and Dava Sobel's Longitude, this method was first published by Gemma Frisius in 1530, then described again by Richard Eden in 1555.  Both of these authors say that you must first find your latitude.  Here is Frisius in 1530 (emphasis mine):
+
+We must wait until the hand of our clock exactly touches the point of an hour and at the same moment by means of an astrolabe or by means of our globe, we must find out the time of the place at which we now find ourselves.  If this time agrees to the minute with the time shown on our watch, it is certain that we are still on the same meridian or in the same longitude, and our journey has been made towards the south.  But if it differs by one hour or by a number of minutes, then these should be turned into degrees, or minutes of degrees, by the method I set out in the previous chapter, and in this way the longitude is discovered.  In this way I would be able to find the longitude of places, even if I was dragged off unawares across a thousand miles, and even though the distance of my journey was unknown. But then first of all, as always, the latitude must be learnt.  I have already explained this before and also that it can be found out by various methods of finding out the tirne.
+
+Here is Eden in 1555:
+And so shall the longitude bee found.  And by
+   this arte can I fynde the longitude of
+       regions althowgh I were a thou-
+        sand myles owt of my attempt- 
+         ted course & in an unkno-
+           wen distance, but the
+            latitude must fyrst
+               bee perfectly
+                  knowen.
+
+I can't figure out why knowing the latitude would be necessary for calculating longitude by chronometer, unless you need it to calculate the local time.  But it seems to be well established that local time can be easily calculated with a noon sighting of the Sun, corrected for the equation of time.  This method is described here.
+Most of the Wikipedia page for Longitude by Chronometer seems to describe a more complicated method that involves finding the intersection of a position line with an assumed latitude.  It also describes solving the navigational triangle.  I'm having trouble following the method described there.  I can't tell whether this is the same method described by Frisius or something else entirely.
+So overall my questions are:
+
+Why do Frisius and Eden say that you need to calculate latitude before you can do longitude by chronometer?  Is it just a step in calculating the local time?
+What is the method described in the "Longitude by Chronometer" Wikipedia page, and the navigational triangle stuff?  How does it work, and what benefit does it have over the simple $(t_{home} - t_{local})\frac{15°}{hour}$ method?

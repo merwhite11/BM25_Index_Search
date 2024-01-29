@@ -1,0 +1,17 @@
+How will microshutter arrays be used in the James Webb and future space telescopes?
+
+Question: How will microshutter arrays be used in the James Webb and future space telescopes? Are they acting as a sort of moving pinhole or slit, or is the pattern more complicated, like a coded aperture telescope? I can't imagine that would work though, as the application seems to include spectroscopy rather than just image reconstruction.
+
+The NASA Goddard news item NASA to Demonstrate New Star-Watching Technology with Thousands of Tiny Shutters says:
+
+The technology, called the Next-Generation Microshutter Array (NGMSA), will fly for the first time on the Far-ultraviolet Off Rowland-circle Telescope for Imaging and Spectroscopy, or FORTIS, mission on October 27. The array includes 8,125 tiny shutters, each about the width of a human hair, that open and close as needed to focus on specific celestial objects.
+
+and
+
+The microshutter technology gives scientists the ability to produce multiple spectra at once. This capability improves productivity on both sounding rocket missions, which offer only six minutes of observing time, or large space-based observatories, which can take up to a week to observe faint, far-away objects and gather enough light to obtain good spectra. With observing time at a premium, the ability to gather light from multiple objects at once is paramount.
+Webb, scheduled to launch in 2021, will carry NASA's first-generation microshutter technology — four 365-by-172 microshutter arrays that together total 250,000 shutters. They will allow Webb to obtain spectra of hundreds of objects simultaneously.
+What distinguishes the next-generation array on FORTIS from the one flying on Webb is how the shutters are opened and closed. Webb’s arrays employ a large magnet that sweeps over the shutters to activate them. However, as with all mechanical parts, the magnet takes up space and adds weight. Furthermore, magnetically activated arrays can’t be easily scaled up in size. As a result, this older technology is at a disadvantage for supporting future space telescopes larger than Webb.
+Magnet Eliminated
+To accommodate future missions, Goddard’s microshutter-development team eliminated the magnet. The shutters in the pilot 128-by-64 array that will fly on FORTIS open and close through electrostatic interactions. By applying an alternating-current voltage to electrodes placed on the frontside of the microshutters, the shutters swing open. To latch the desired shutters, a direct current voltage is applied to electrodes on the backside.
+Without a magnet, the next-generation array can be dramatically scaled up in size — and that’s precisely what the team is attempting to accomplish. Particularly, Greenhouse and Li are using advanced manufacturing techniques to create a much larger, 840-by-420 array equipped with 352,800 microshutters, dramatically increasing an instrument’s field of view.
+“The array that is flying on FORTIS is a technology development prototype for the big one,” Greenhouse said.

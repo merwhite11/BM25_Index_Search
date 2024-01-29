@@ -1,0 +1,8 @@
+Methods for testing a refracting telescope lens
+
+I have an old (nearly 50 years old)alt-azimuth three-inch (7.6cm) refracting telescope that someone else made. They ground the lens, created the cylindrical body and added a rack and pinion style focusing slider. It is mounted on a homemade tripod.
+This has been poorly stored for several years in damp conditions and has developed mould on the main lens elements. The main lens elements comprise a convex and concave combination (presumably to reduce achromatic aberration?)
+Question:
+I've cleaned the main lens elements in soapy water and removed the mould using a soft cloth. 
+How would you now test this lens? 
+Would you reassemble the telescope and check resolution against known double stars or are their tests I can apply to the lens before reassembling the telescope?

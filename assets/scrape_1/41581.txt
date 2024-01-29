@@ -1,0 +1,3 @@
+Pulsar signal periodicity detection algorithms?
+
+I am currently working on pulsar signal periodicity detection. Most of the algorithm or paper which i read they use FFT (Fast Fourier Transform) and FFA (Fast Folding Algorithm ). Do we have any other algorithm that we can use to find the periodicity of pulsar signal because pulsar signal is highly noisy so as per my knowledge the LSTM can't be used to find the periodicity of pulsar signal? So if we have any alternative method please suggest me.

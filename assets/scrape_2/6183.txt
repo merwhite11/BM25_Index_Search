@@ -1,0 +1,10 @@
+Why do (most of) the planets rotate counterclockwise, i.e. the same way the Sun does?
+
+Referring to the mechanisms explaining the solar system formation and to the initial rotation of the gaseous cloud that collapsed, I understand easily why the planets orbit the Sun the same way this one rotate (say counterclockwise) but I can't figure out why this apply to planets rotation too. Thinking about that from Kepler's laws and angular momentum conservation point of view, I might conclude that the planets should rotate clockwise because the velocity of the particles that aggregated during the planets formation was higher closer to the Sun...
+Apart from a short explanation, I would like to have a good reference from the literature if possible.
+Edit, to make my reasoning more explicit: following Kepler's laws, the particles that aggregate on the "day side" of the proto-planets in the east-west direction relative to the ground are faster than the ones hitting on the "night side" in the west-east direction. If we add all of these contributions, the planets should rotate in the opposite direction relative to the initial cloud (i.e. relative to the actual Sun rotation). I guess something is wrong or missing there (to counterbalance the phenomenon I just described) but I can't see what it is...
+New edit: References I found some published articles dealing with this kind of question but I don't have the time right now to read them carefully. If someone is motivated to do so, do not hesitate ;-) If I find the answer to my question amongst these papers, I will post it there later. Of course, you may need to use the network of an institution with a subscription to these editors to access them:
+R.T. Giuli (1968a) in Icarus: http://www.sciencedirect.com/science/article/pii/0019103568900821
+R.T. Giuli (1968b) in Icarus: http://www.sciencedirect.com/science/article/pii/0019103568900122
+A.W. Harris (1977) in Icarus: http://www.sciencedirect.com/science/article/pii/0019103577900793
+J.J. Lissauer, D.M. Kary (1991) in Icarus: http://www.sciencedirect.com/science/article/pii/001910359190145J

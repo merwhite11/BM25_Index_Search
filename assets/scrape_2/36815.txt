@@ -1,0 +1,3 @@
+Day,Night, and Year in the Ptolemaic Model
+
+As far as I understand, the Ptolemaic model explains day and night by postulating that the whole celestial system revolves around the Earth once every day. Since we observe the sun to move from East to West over a day, the whole system would have to move in an East to West direction once a day. But over the year, the planets move (usually) towards the East and the constellations towards the West. So in this model, the planets on their different move opposite to the daily motion of the whole system? Whereas the sphere of stars moves in the same direction as the daily motion of the whole system? I ask since I just found this odd for some reason.

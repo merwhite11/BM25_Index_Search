@@ -1,0 +1,7 @@
+Where do Astronomers usually get their wavelengths? Where do they turn to look up standard, accepted values for spectral features?
+
+When identifying isolated observed spectral features or fitting complex observed spectra or even running complex numerical simulations, one needs a reliable, standard table of known wavelengths and other parameters like splitting, intensity relationships, etc.
+Question: Where do Astronomers usually get their wavelengths?  Are there a few favorite references where astronomers turn to look up standard, accepted values for spectral features?
+Somewhat related:
+
+Vacuum and air wavelengths in spectroscopy

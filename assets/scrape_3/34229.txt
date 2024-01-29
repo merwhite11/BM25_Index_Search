@@ -1,0 +1,5 @@
+Relationship between IMF and time spent during an evolutionary phase
+
+I was reading a little about stellar evolution and was wondering whether there was any relationship between the lifetime of an evolutionary phase and the IMF, I searched on google but all I found were claims that there is a relationship, but I couldn't find any numerical formula which explains this. Does there exist such a formula that relates the lifetime of an evolutionary phase with the IMF and other properties?
+For example, given the luminosities, IMF, number of stars, can we determine the lifetime in,say the RGB or the subgiant branch? 
+I know that main sequence lifetime is proportional to $M/L$, was hoping to get such a relation for other branches

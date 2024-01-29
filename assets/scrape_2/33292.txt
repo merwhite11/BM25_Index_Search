@@ -1,0 +1,4 @@
+Is there a star over my head?
+
+Say I'm standing up straight, and I draw a straight line from my core through the top of my head (perpendicular to the ground). What is the probability that that line intersects with a star?
+EDIT: I'm not trying to exclude any stars. This should include stars which we've observed and stars which we haven't yet observed but can predict due to other things we've determined (like the overall star density of the universe). Also it should include all stars regardless of naked eye magnitude limit.

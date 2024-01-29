@@ -1,0 +1,7 @@
+Strange plot in Max Tegmark book, Our Mathematical Universe
+
+In Max Tegmark's book, Our Mathematical Universe, we can find (in chapter 5, figure 5.3) the following (horrible and poor quality) plot that is supposed to highlight the extreme sensitivity of the Friedman equations.
+
+"Mort thermique" means "Heat death".
+But I'm not able to find any textbook that provides a detailed mathematical justification of such a sensitivity (assuming known all the Friedman equations).
+Any help, idea or advice?

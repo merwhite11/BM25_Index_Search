@@ -1,0 +1,3 @@
+how to calculate the star formation rate (simplified) for a galactic model
+
+we are (programming summer project Y10-11) making a very simplified model of a disk galaxy. would love to know if there's a simplified equation for the average star formation rate of the stellar disk based on the stellar mass and radius of a given circular disk galaxy.

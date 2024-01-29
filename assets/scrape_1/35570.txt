@@ -1,0 +1,4 @@
+how to calculate distance between galaxies in the distant past
+
+for example, assume there is a high redshift galaxy called "A" with z=6, so how to calculate the distance between us and another galaxy B when the light left the galaxy A?
+For example, say B has a redshift of 0.5, and let's assume when the light emitted from A, us and B both exist.

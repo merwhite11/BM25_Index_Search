@@ -1,0 +1,13 @@
+Plot of best available resolution vs wavelength - radio through gamma rays?
+
+What I'm looking for is a graphic that shows in a general way the best available telescope resolution vs wavelength throughout the entire wavelength spectrum. So for example, there might be two very high resolution peaks aroud 
+
+millimeter wavelengths (ALMA) 
+visible wavelengths (HST and many ground telescopes with Adaptive Optics)
+
+The beautiful image below from this great answer got me thinking. I have reposted it from there.
+
+
+
+Image courtesy of Wikipedia user Hunster under the Creative Commons Attribution-Share Alike 3.0 Unported license.
+The infrared, ultraviolet, and x-ray images come from the Spitzer Space Telescope, the SWIFT observatory, and the Chandra observatory, respectively.

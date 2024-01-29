@@ -1,0 +1,5 @@
+Moon's negative greenhouse effect?
+
+Using the standard formula for effective temperature of a planet, Venus has T(eff)=220K, Earth has T(eff)=255K and Mars has T(eff)=212K (using albedo for Venus a=0.7, Earth a=0.367, Mars a=0.25). Average surface temperatures of 730K, 288K and 218K respectively are easily explained by differences in greenhouse effect. The moon however with an albedo of a=0.1 should have a T(eff) of about 270K, but the average surface temperature is about 250K. 
+Here is where I got the T(eff) formula and here is where i got the average temperature of the moon. (the latter is a new citing and I have edited the mean temperature value) I have revised my planet temperatures using this reference.
+What explains this negative difference?

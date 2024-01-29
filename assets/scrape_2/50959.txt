@@ -1,0 +1,14 @@
+"Opacity" in red dwarfs
+
+One day, while researching on blue dwarfs in Wikipedia, I stumbled across something that I cannot understand:
+
+Rather than expanding, however, red dwarfs with less than 0.25 solar
+masses are predicted to increase their radiative rate by increasing
+their surface temperatures and becoming "bluer". This is because the
+surface layers of red dwarfs do not become significantly more opaque
+with increasing temperature.
+
+But I could not find more data on this topic.
+However, this also means that the Sun and massive stars expand into red giants and supergiants, as the star becomes "opaque" with increasing temperature and cannot radiate heat fast enough to cool itself down. So it swells up in size to increase the surface area to radiate excess heat away.
+However, red dwarfs are many, many times more dense than the Sun. This should mean that a red dwarf would be incredibly opaque, so it blocks heat and light from the core. This should mean that a red dwarf should theoretically swell up to radiate heat away. But, a red dwarf does none of these. It simply gets hotter.
+Why do red dwarfs remain "transparent" to internal heat, whereas the Sun and other stars remain "opaque" despite them being many times lighter than red dwarfs?

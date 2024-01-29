@@ -1,0 +1,13 @@
+Why do all the stars near this comet show up as four separate dots in a row?
+
+After seeing this tweet about our not-so-new but at least newly-discovered "mini-moon" I scrolled down and saw the tweeted image below. 
+Since the object is the known short-period comet 114P/Wiseman–Skiff I'm guessing that the telescope guiding could have been pre-calculated and continuous, and yet the stars appear as four discrete and equally-spaced compact spots instead of continuous streaks.
+Writing in the image says 2020 Jan 18.22 and 4x30s
+What might be the explanation and reason for this?
+Could these be stacked images resulting from a clever night of observing, perhaps bouncing back and forth between multiple objects so that each can be observed over an extended period of time?
+Or do the four discrete spots per star allow for better astrometry than one long streak?
+Or both? Or neither?
+
+tweet
+
+Comet 114P/Wiseman-Skiff tonight at the Catalina Sky Survey 0.68m Schmidt.

@@ -1,0 +1,8 @@
+Looking for a Solar System Simulator including the smaller celestial body, for macOS
+
+I am researching for a sci-fi novel that will happen in 2136. For this I would like to know specific positions of "smaller" celestial bodies in our Solar System.
+An example can be the dwarf planet Ceres and other big rocks in the Main Asteroid Belt. 
+There will be a lot of traveling in the Inner Solar System and I need to know the relative distances between two objects.
+If possible, I would like the tool to be open-source.
+Edit: I am looking for a tool like NASA's Eyes. That tool can give a detailed and global view on the Solar System. It has the orbits of different bodies. It also lets me play with time and distance. And most importantly, it can give me the distance between two bodies (https://eyes.nasa.gov/).
+The main problem with NASA's app is that it only let me travel to until 2050 :/

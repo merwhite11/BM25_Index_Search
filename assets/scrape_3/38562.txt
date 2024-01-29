@@ -1,0 +1,3 @@
+Do main sequence stars in binaries transfer mass by Roche lobe overflow?
+
+It is known that binary star components containing red giant can under go mass transfer when their radii exceeds the Roche limt. Do main sequence binary stars also undergo mass transfer by this mechanism?

@@ -1,0 +1,15 @@
+Initial state for a 3-body problem to create Figure 8 [ restricted to 2D ]
+
+I've made an n-body simulation solution using the naive algorithm of O(n^2) in my library ChelseaaJS.
+I was trying to make some pleasing 3 Body simulations.
+I wanna do the 8 figure thing.
+I know it's a 3D simulation restricted to 2D to create 8-figure as given in the famous research paper on the same.
+I wanted to know if there is any particular initial state of the system in 2d i.e. given position and speed of masses.
+Example of the n-body simulation:
+This is just a basic solar system, nothing fancy.
+I will put it live if anyone wants to use it, tweak it.
+
+EDIT :
+Here is the paper: https://arxiv.org/abs/math/0511219 [thanks to
+@PM 2Ring]
+and I want to make something like :

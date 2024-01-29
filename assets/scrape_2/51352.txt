@@ -1,0 +1,6 @@
+What would be the effect of WR104 if it was at the distance of Alpha Centauri and pointed at us?
+
+If WR104 was at the distance of Alpha Centauri and its pole pointed at us when it went off what effect would it have? How badly would Earth be scorched?
+If we were sitting right on the cannon’s mouth, placed artificially, and we got hit with its full $10^{44}$ J at the source https://en.wikipedia.org/wiki/Gamma-ray_burst, it might do it, as to vaporize a planet we'd need $2 \cdot 10^{32}$ https://www.forbes.com/sites/alexknapp/2011/09/14/the-physics-and-economics-of-blowing-up-a-planet/
+But at 4 Ly?
+How does the inverse square law apply to jets?.

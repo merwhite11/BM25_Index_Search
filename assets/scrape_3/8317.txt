@@ -1,0 +1,7 @@
+Is CMB Polarization simply the temperature gradient of the CMB?
+
+Firstly, I have to admit that I don't fully comprehend the concept of "CMB Polarization". When I think of "Polarization", I normally think of the optical definition of polarization, as defined by the electric field. What I currently think is that CMB Polarization is simply the temperature gradient of the CMB. The Wikipedia page also said that:
+
+The cosmic microwave background is polarized at the level of a few microkelvin.
+
+Since microkelvin is a unit of temperature, CMB Polarization must be somehow related to temperature. Is CMB Polarization simply the temperature gradient of the CMB?

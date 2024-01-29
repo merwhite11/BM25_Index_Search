@@ -1,0 +1,4 @@
+What is Charon's ascending node in reference to?
+
+NASA's orbital elements given for Charon's orbit are given at https://ssd.jpl.nasa.gov/?sat_elem. The ascending node is defined as being "measured from the node of the reference plane on the ICRF equator". For Charon, the plane being used is given as the "Mean equatorial (IAU equator)". I'm assuming this is Pluto's equatorial plane. What then is Charon's ascending node in reference to? Normally this would be ecliptic vernal equinox, however this obviously cannot be it.
+Some sources have the ascending node as undefined, but that then begs the question, what is the argument of perihelion in reference to if the ascending node is undefined?

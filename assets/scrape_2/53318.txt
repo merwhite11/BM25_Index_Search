@@ -1,0 +1,4 @@
+Non-homogeneous and anisotropic metric and laws of physics...?
+
+In this popular science article, they say that if our universe resulted to be non-uniform (that is highly anisotropic and inhomogeneous) then the fundamental laws of physics could change from place to place in the entire universe. And according to this paper anisotropy in spacetime could break the Lorentz invariance.
+I know that there are metrics and spacetimes which are non-homogeneous and anisotropic. If our spacetime was highly anisotropic and inhomogeneous would this be possible? Can there be some types of spacetimes or metrics where this could happen? Any examples that you can think of?

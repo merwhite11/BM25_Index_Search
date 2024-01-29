@@ -1,0 +1,3 @@
+Liberator 3 for fits format
+
+How to set in Liberator 3 the reverse color scale? I would like to have stars black and the surroundings white. Or could you recommend me another program that has this ability?

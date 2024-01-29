@@ -1,0 +1,27 @@
+Type Error： WCS.slice() takes from 2 to 3 positional arguments but 4 were given
+
+My code：
+import os
+import numpy as np
+import matplotlib.pyplot as plt
+from astropy.io import fits
+from reproject import reproject_interp
+from reproject.mosaicking import reproject_and_coadd
+from astropy.wcs import WCS
+from spectral_cube import SpectralCube as sc
+hdu = fits.open('/media/ljy/PS2000/TEST/GALFA_HI_RA+DEC_004.00+10.35_N.fits')[0]
+wcs1 = WCS(hdu.header)
+wcs2d = wcs1.slice(slice(None), slice(None), 0)
+wcs2d
+
+The Error:---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+Cell In[6], line 3
+      1 hdu = fits.open('/media/ljy/PS2000/TEST/GALFA_HI_RA+DEC_004.00+10.35_N.fits')[0]
+      2 wcs1 = WCS(hdu.header)
+----> 3 wcs2d = wcs1.slice(slice(None), slice(None), 0)
+      4 wcs2d
+
+TypeError: WCS.slice() takes from 2 to 3 positional arguments but 4 were given
+
+about the wcs.slice function,i try again and again.But it does not work.

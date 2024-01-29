@@ -1,0 +1,7 @@
+Astronomical databases for machine learning?
+
+I was reading this question about open problems in astronomy. The bounty-receiving answer says that 
+
+I have just left the field where some colleagues are trying to develop some software to use image subtraction techniques to isolate individual stars in the centre of clusters.
+
+I find this problem interesting. Where could I find databases of astronomical images for testing different kind of ML techniques to solve such problems?

@@ -1,0 +1,11 @@
+Can black holes even exist [if mass cannot be retained near the collapse threshold]?
+
+A black hole happens because enough material mass exists in an area to create a gravitational field strong enough that nothing escapes (including light). This gravity also exceeds the strength of atoms to hold their structure intact, which then collapse and release their subatomic composition to be further consolidated into a smaller point still, which happens to be infinitesimal (AKA a singularity). This is the most straightforward way I know of to explain a black hole.
+Based on what I observe, I don't think this can happen. The energy needed to break the structure of an atom (fission) may not be the same as the energy needed to hold all its released pieces within the same relative vicinity. That is, if the gravity well can only break atoms, but not hold the collapsed atoms' material inside itself, it will lose mass with each broken atom, and never be able to cause a singularity (and thus a black hole).
+Also, such singularity-denying atomic breakage (fission) may be made to happen from several sources of energy being released within same general vicinity:
+
+The intense friction of atoms pressing against each other under high temperature and gravitational pull.
+The release of energy from adjacent natural fission and fusion of atoms.
+Fluctuations of the above 2 factors due to the tumultuous nature of hot things in general (think boiling kettle). There wouldn't be a nice uniform gravitational pressure environment to allow everything to collapse to singularity all at once.
+
+To my mind, without bringing complex quantum or astro-physics concepts to bear, this seems too simple and sensical an explanation to ignore. Would I be misunderstanding anything important to have arrived at this conclusion?

@@ -1,0 +1,3 @@
+Why are larger hex mirrors round and the smaller aren't?
+
+Per this diagram why are the larger (30 meter and European) mirrors filled out to nearly a full circle, while the smaller mirrors composed of hexagons retain a hexagonal border limit instead of filling out and approximating a full circle?

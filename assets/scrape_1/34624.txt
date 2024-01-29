@@ -1,0 +1,12 @@
+Why is constant velocity drift not an accepted explanation of Hubble expansion?
+
+
+Edward A Milne at the Oxford University proposed that what Hubble was
+  observing was simply a natural sorting of random galactic motions. If
+  a group of galaxies formed together moving at various speeds, it was
+  natural that the fastest ones would now be the most distant, while the
+  slow-moving ones would remain nearby.
+
+Source: https://aeon.co/essays/how-they-pinned-a-single-momentous-number-on-the-universe
+Why is this incorrect?
+I understand that gravity wouldn't normally allow expansion at constant velocity, but we have already conjectured dark energy to account for that.

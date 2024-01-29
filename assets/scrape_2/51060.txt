@@ -1,0 +1,4 @@
+Natural line width from absorption lines
+
+Emission lines have a certain natural width. Due to the uncertainty principle systems that spontaneously decay or produce radiation have a fundamental energy blur, and their radiation has a corresponding natural line width.
+I am wondering how that phenomenon translates to absorption lines?

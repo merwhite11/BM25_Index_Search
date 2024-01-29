@@ -1,0 +1,4 @@
+What is the difference between a moon and a random chunk in the rings
+
+Jupiter has 79 (known) moons, Saturn 82, Uranus 27 and Neptune 14 (numbers come from Wikipedia). These planets also all have rings. The rings are made up of chunks of rock and ice. There also are satellites in between the rings. What distinguishes a moon from any other chunk in orbit around a planet? 
+If a body is in orbit around a planet, how do you know if it's a moon or if it's part of the ring? Are there orbital characteristics that differ between the two? Is there a lower bound on size or mass for something to be a moon? Is it the density of surrounding bodies? Is there no formal (e.g from the IAU) definition?

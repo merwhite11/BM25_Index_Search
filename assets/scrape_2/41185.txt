@@ -1,0 +1,104 @@
+Using the 'exoplanet' module to fit a radial velocity curve for a binary star system
+
+As part of a project, I am trying to fit a radial velocity curve using the tutorial for the binary star system (EBLM J0608-59) My code is quite similar to the tutorial, but as it is only one body orbiting the main star, I have not used the shape arguments in the Model section. I have the time measurements and corresponding radial velocities:
+bjd_arr = [2458549.66666822, 2458488.75868917, 2458721.8842678, 2458216.52944096, 2458777.86519712, 2458730.87419918, 2458503.73189952, 2458740.81585069, 2458717.86935648, 2458566.60445361, 2458708.90058602, 2458698.93553665, 2458556.64600867, 2458537.693232, 2458553.66510611, 2458436.82194322, 2458726.88080012, 2458516.71230084]
+RVarr = [40.4432860896165, 23.5780860488492, 19.1436760180712, 50.786661126373, 7.57399767050893, 33.7977531116774, 26.2274095792521, 46.7356539726255, 14.8623891652762, 50.1464417200217, 30.9220153319253, 50.7551660448898, 20.5739440645183, 50.6114884906977, 49.0286951865467, 48.9542544284423, 49.1472667204292, 14.7099410033466] 
+RVerr_arr = [0.00746727240668619, 0.0071426759147196405, 0.007709525952827119, 0.00749855434080898, 0.00811465321639329, 0.00802464048008298, 0.00773122855735923, 0.00789124901574783, 0.007773933655270579, 0.00753401931897191, 0.00822360876229237, 0.00741660549431721, 0.0079125927446526, 0.007308327482575159, 0.00868241919549683, 0.00794049877685647, 0.00781335663783952, 0.0076679825576695] 
+periods = 14.608810
+
+import numpy as np
+import matplotlib.pyplot as plt
+import pymc3 as pm
+import exoplanet as xo
+import theano.tensor as tt
+
+x = np.array(bjd_arr)
+y = np.array(RVarr)
+yerr = np.array(RVerr_arr)
+
+
+period_errs = 0.011184
+t0s = (min(bjd_arr)+max(bjd_arr))/2 # transit time (rough estimate)
+t0_errs = 0.011184
+Ks = xo.estimate_semi_amplitude(periods, x, y, yerr, t0s=t0s)
+print(Ks, "km/s")
+print(type(Ks))
+
+print(float(Ks))
+x_ref = 0.5 * (x.min() + x.max())
+t = np.linspace(x.min() - 5, x.max() + 5, 1000)
+
+'''Making RV model'''
+with pm.Model() as model:
+
+    # Gaussian priors based on transit data (from Petigura et al.)
+    t0 = pm.Normal("t0", mu=(t0s), sd=(t0_errs))
+    P = pm.Bound(pm.Normal, lower=0)(
+        "P",
+        mu=(periods),
+        sd=(period_errs),
+        testval=(periods),
+    )
+
+    # Wide log-normal prior for semi-amplitude
+    logK = pm.Bound(pm.Normal, lower=0)(
+        "logK", mu=float(np.log(Ks)), sd=10.0, testval=float(np.log(Ks))
+    )
+
+    # Eccentricity & argument of periasteron
+    ecc = xo.distributions.UnitUniform(
+        "ecc", testval=0.1
+    )
+    omega = xo.distributions.Angle("omega")
+
+    # Jitter & a quadratic RV trend
+    logs = pm.Normal("logs", mu=np.log(np.median(yerr)), sd=5.0)
+    trend = pm.Normal("trend", mu=0, sd=10.0 ** -np.arange(2)[::-1], shape=2)
+
+    # Then we define the orbit
+    orbit = xo.orbits.KeplerianOrbit(period=P, t0=t0, ecc=ecc, omega=omega)
+
+    # And a function for computing the full RV model
+    def get_rv_model(t, name=""):
+        # First the RVs induced by the planets
+        vrad = orbit.get_radial_velocity(t, K=tt.exp(logK))
+        pm.Deterministic("vrad" + name, vrad)
+
+        # Define the background model
+        A = np.vander(t - x_ref, 2)
+        bkg = pm.Deterministic("bkg" + name, tt.dot(A, trend))
+
+        # Sum over planets and add the background to get the full model
+        return pm.Deterministic("rv_model" + name, tt.sum(vrad, axis=-1) + bkg)
+
+    # Define the RVs at the observed times
+    rv_model = get_rv_model(x)
+
+    # Also define the model on a fine grid as computed above (for plotting)
+    rv_model_pred = get_rv_model(t, name="_pred")
+
+    # Finally add in the observation model. This next line adds a new contribution
+    # to the log probability of the PyMC3 model
+    err = tt.sqrt(yerr ** 2 + tt.exp(2 * logs))
+    pm.Normal("obs", mu=rv_model, sd=err, observed=y)
+
+'''Initial model'''
+
+plt.figure(figsize=(10,10))
+plt.errorbar(x, y, yerr=yerr, fmt=".k")
+
+with model:
+    plt.plot(t, xo.eval_in_model(model.vrad_pred), "--k", alpha=0.5,label='star')
+    plt.plot(t, xo.eval_in_model(model.bkg_pred), ":k", alpha=0.5,label='bkg')
+    plt.plot(t, xo.eval_in_model(model.rv_model_pred), label="model")
+
+plt.legend(fontsize=10)
+plt.xlim(t.min(), t.max())
+
+plt.xlabel("time [days]")
+plt.ylabel("radial velocity [km/s]")
+_ = plt.title("initial model")
+
+This codes produces the following graph:
+
+I thought this would work but I am getting the wrong model curve, where the model curve is just a straight line and was wondering if I was missing something obvious? I suspect there is something wrong in maybe the def get_rv_model function but I am not sure (I'm still a bit inexperienced with coding), so any guidance would be appreciated. This code works fine when I use it for K2-24 like they do in the example.

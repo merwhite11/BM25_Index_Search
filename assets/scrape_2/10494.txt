@@ -1,0 +1,3 @@
+Variable and Multiple Stars in Hipparcos
+
+Is there any way I can tell from Hipparcos catalog which stars are Binary/Multiple Stars and which are Variable stars?

@@ -1,0 +1,6 @@
+Unsure how to obtain galactic roll?
+
+I am having some issues with understanding what my adviser means by galactic roll, but I have not been able to find anything online regarding this.
+My project involves generating an array of az/el coordinates, converting them to ra/dec, then converting them to galactic lon/lat. I then use these coordinates to scan a Healpy map (all in Python).
+She did mention starting off by setting horizontal roll = 0, and then converting horizontal coordinates to galactic coordinates. The galactic roll should then take on nonzero values, which is important to the data I am analyzing.
+I've read about Euler angles and quaternions and I think I'm on the right path. She provided some code for me to reference, and that uses quaternions and Euler angles. Does galactic roll refer to one of the Euler angles, perhaps $\theta$? Another reference code she provided mentions parallactic angle; could that be it?

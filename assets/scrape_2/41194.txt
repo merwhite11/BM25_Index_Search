@@ -1,0 +1,39 @@
+How to Interpret Lomb Scargle periodogram
+
+lomb scargle periodogram:
+
+import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt
+from scipy import signal
+from astropy.time import Time
+from astropy.timeseries import LombScargle
+
+m5_data = pd.read_csv('tmp')
+m5_data.head()
+
+     date    sales
+0  2011-01-29  32631.0
+1  2011-01-30  31749.0
+2  2011-01-31  23783.0
+3  2011-02-01  25412.0
+4  2011-02-02  19146.0
+
+"""Converting dates to MJD """
+tmp_str = m5_data.iloc[:,0].astype(pd.StringDtype())
+t_date = np.array(tmp_str.values,dtype = 'str')
+t_date = Time(t_date, format='isot', scale='utc')
+t_date.format = 'mjd'
+
+y = m5_data.iloc[:,1]
+m5_ls = LombScargle(t_date, y)
+m5_frequency, m5_power = m5_ls.autopower()
+plt.plot(m5_frequency,m5_power)
+plt.show()
+
+
+What does the x axis represent? Is it frequencies in days or is it frequencies in 1/day?
+So the spike at 2 does that mean there is a period of every two days or does it mean there is a period 1/2 days, which is a fractional day and I do not understand how I could get fractional days when I only have 1 observation per day.
+
+The overall goal is to find if the data is periodic. Given this data is sales of a product from a store I would expect that if the data is periodic that the periods would be 7days(weekly), 30days(monthly), 182days(semi annually)
+So the spike at 2 does not make sense to me.

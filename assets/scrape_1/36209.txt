@@ -1,0 +1,8 @@
+Why does the latitude of an observer affect the hour angle of a body in Stellarium?
+
+I am using Stellarium for astronomical data to help in studying celestial navigation.
+While trying to track down a source of errors in my sextant reading or sight reductions I noticed that the local hour angle (shown HA on Stellarium's ephemera) of Venus varied if I changed the latitude of my location whilst keeping time constant.
+Can anyone explain this. I thought the HA would only be a function of time, longitude, and the position of Venus (RA, Dec). Why would my moving north along my meridian affect the HA of a body? Aren't both my meridian and Venus' fixed (time is stopped), so the angle between them wouldn't change?
+I noticed that it changed systematically. For the date and meridian in  question (16/5/2020; 21:30:00 0° Long.) it varied from 6h 47m 41.86s at both the N and S poles, to 6h 47m 43.78s at the Equator. delta=1.92s
+I know it's only a tiny amount, but I would like to understand what the principle behind it is. Everything I found on Google seemed to suggest it shouldn't change. I wondered if it was something to do with parallax changing as I changed position.
+Thanks for any help.

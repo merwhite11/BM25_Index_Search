@@ -1,0 +1,13 @@
+How does one use SPICE to calculate sunrise and sunset?
+
+I've seen it mentioned here that SPICE can be used to calculate sunrise and sunset. How?
+According to the official documentation, SPICE is used to calculate:
+
+Time system conversions
+Positions of spacecraft and natural bodies
+Orientation of spacecraft and instruments
+Reference frame transformations
+Illumination angles
+
+I know sunrise and sunset can be calculated from the Sun's coordinates and the sunrise equation.
+I was wondering if SPICE had a specific algorithm for this purpose?

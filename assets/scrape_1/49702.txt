@@ -1,0 +1,7 @@
+Reason for different surface temperatures of Tau Ceti and Epsilon Indi at similar properties
+
+While looking at a list of nearby stars, I noticed that the spectral classes were not always consistent compared to the masses (and radii) of the main sequence stars. Especially the comparison between Tau Ceti and Epsilon Indi A was striking for me. The mass of the two stars is almost the same (0.783±0.012 and 0,778 ± 0,039) and the radius only slightly different (0.793±0.004 and 0,707 ± 0,035), but there is a concise difference in their temperature (~700+ K) and therefore their spectral class (G8V and K5V).
+After an extensive search on the internet I could not find a satisfying answer, as to what, apart from the mass and the radius, can influence the temperature of a star so strongly.
+To be sure, I looked up the properties of the stars in other sources and the values remained the same. What could be responsible for this difference, if one does not assume that it is about measuring errors.
+https://en.wikipedia.org/wiki/Tau_Ceti,
+https://en.wikipedia.org/wiki/Epsilon_Indi

@@ -1,0 +1,4 @@
+Calculating effective SSN (sunspot number)
+
+I am doing research on SSN-like parameters. As I can see, effective SSN is a parameter that is derived from SSN or other parameters. Do anyone know how to calculate effective SSN?
+For example, this file has some parameters. See also this page.

@@ -1,0 +1,3 @@
+Not finding some FITS Spectra files in SDSS
+
+I'm trying to automate downloading FITS files from SDSS. Currently, I'm getting information on the plate, mjd, and fiberID of certain objects from an SQL query on SpecObj, which I'm using in an url like https://dr18.sdss.org/sas/dr18/spectro/sdss/redux/26/spectra/PLATE/spec-PLATE-MJD-FIBERID.fits to download the .fits files. However, some of the plates I got are not present in SDSS SAS, namely ones past 3006. Does anybody know an automatable way to get SDSS spectra for all the plates?

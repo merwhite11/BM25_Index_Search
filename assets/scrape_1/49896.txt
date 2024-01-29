@@ -1,0 +1,3 @@
+How did astronomers get rid of microwave radiation from stars and galaxies in picures of the CMB?
+
+Images of the CMB show no sign of stars or galaxies. If they did, shouldn't the Milky Way be a bright band dividing the CMB into hemispheres? Black body radiation in a given wavelength/frequency range gets more intense as the object in question gets hotter, so we can't say stars are too hot to glow in the microwave range. Are they just too few and far between to have a noticeable effect?

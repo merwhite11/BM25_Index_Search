@@ -1,0 +1,4 @@
+Calculating the parameters of binary systems?
+
+
+If I know the masses of the two bodies (they have equal mass), how do I calculate the two ellipse eccentricities, length of the apoapsis and speed at the apoapsis, that make stable system, as in this picture.

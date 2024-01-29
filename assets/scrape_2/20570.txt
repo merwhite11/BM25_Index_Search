@@ -1,0 +1,3 @@
+Why do we define the Milky Way's rotation in a left-hand coordinate system?
+
+When we talk about Milky Way kinematics, we define it as rotating clockwise from top.  In the rest of physics, rotating objects are defined as rotating counterclockwise from top (following the right-hand rule).  Why do we do the opposite when talking about the Milky Way?

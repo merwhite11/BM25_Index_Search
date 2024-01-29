@@ -1,0 +1,3 @@
+If a satelite is in orbit around a two body system what is it's shape?
+
+For example if something was orbiting the sun only slightly further out than the earth, it would risk capture by the earth when the earth caught up to it in it's orbit.  If it was orbiting at a great distance, then it would have an almost circular orbit around the barycenter of the sun-earth system (ignoring other planets for now).  I understand the Lagrange points, but I'm wondering what happens when things are orbiting slightly further out.

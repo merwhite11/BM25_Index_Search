@@ -1,0 +1,6 @@
+How can I retro search for time periods with specific planetary alignments?
+
+Let's say we have a planetary ecliptic longitudes of an unknown period.
+What program or software or procedure can one use to arrive at the range of time periods where the planets were in those ecliptic longitudes?
+
+Basically I'm mainly looking for a time period for conjunction of Sun, Moon, Mercury, Venus , Mars, Jupiter and Saturn around 22 Deg from of J2000 vernal equniox, with a range of 8 Deg on either side. So all the planets must be within 14 Deg to 30 Deg from J2000 equinox. If 8 Deg is too narrow, we can at maximum try for 14 Deg range, so from 8Deg to 36 Deg.

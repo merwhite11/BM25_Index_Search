@@ -1,0 +1,6 @@
+Why are CMB peak heights sensitive to the physical densities
+
+A very simple question: why should it be that the CMB power spectrum allows constraints to be placed on the combination of parameters
+$$\omega_c = \Omega_c h^2$$
+$$\omega_b = \Omega_b h^2$$
+as opposed to $\Omega_b$ and $\Omega_c$? I understand roughly where the constraints come from in terms of matter-radiation equality determining the scale at which modes have some extra radiation driving determining the total matter density in the early Universe and the Baryon density determining the ratio in peak heights but my question is why is it the physical densities that are constrained- why should the $h^2$ factor need to be included here?

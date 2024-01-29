@@ -1,0 +1,5 @@
+Why are radio telescopes shaped so differently than optical telescopes?
+
+Why are radio telescopes typically only a dish with a receiver above it, while optical telescopes have a primary, plus secondary and sometimes even a tertiary mirror?
+In other words, why do radio telescopes have only one reflector, while optical telescopes have up to three or more?
+The same wave phenomena, such as focusing, should apply in both cases. So I don't understand why the geometry would be radically different. You could just replace actual mirrors with a convenient solid, such as plastic, that reflects radio waves just as wells as mirrors reflect optical waves.

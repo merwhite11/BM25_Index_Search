@@ -1,0 +1,11 @@
+How to calculate apparent brightness in relation to the sun
+
+I know that we can determine the apparent brightness of an object in our solar system using the following formula:
+$$B=\frac{A\cdot L_S\cdot R^2}{D^2\cdot d^2}$$
+$B$ = Brightness of observed object in watts
+$A$ = Albedo of observed object
+$L_S$ = Luminosity of the Sun in watts
+$R$ = Radius of the observed object in meters
+$D$ = Distance between the Sun and the observed object in meters
+$d$ = Distance between the Earth and the observed object in meters
+However, I find this isn't helpful in visualizing the brightness in your mind. I was wondering what modifications would be needed to this formula to make the result relative to the sun.

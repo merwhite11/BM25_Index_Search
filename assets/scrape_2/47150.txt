@@ -1,0 +1,3 @@
+defining the period of an year on earth
+
+While it is much simpler to define the duration (time) of ONE complete day (for earth), by simply calling it to be the period between sunrise to next sunrise (which we have currently divided into 24 hours), how is the period of an earth year defined? I.e. how do we know that we have come to the same position after completing one revolution around the sun? If it is with respect to other stars / celestial bodies, can we consider that to be realistic / accurate? - because the other bodies are also changing their position continuously.

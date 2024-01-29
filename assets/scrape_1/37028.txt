@@ -1,0 +1,9 @@
+What does "the depth of the 13.0 Å feature differs by 7 sigma from zero" mean?
+
+In a paper I've read, I have seen the following:
+
+In view of the noise levels, it is difficult to perform such a search effectively using statistical significance criteria only. We will therefore appeal to spectroscopic consistency arguments when assessing apparent absorption features in the spectrum. As a guide, however, we estimated the significance of the features by fitting each with a simple gaussian profile, optimizing the continuum, and evaluating their significance in terms of the amplitude of the gaussian. In the early-phase spectrum, the depth of the 13.0 Å  feature differs by 7 sigma from zero, whereas those of the 25.3, 26.3 and 26.9 Å features differ by 3–4 sigma.
+
+What does "the depth of the 13.0 Å  feature differs by 7 sigma from zero" mean?
+How these  significance level calculate? The line seems weak and could not fit with normal fitting method. So use chi-squared method seems do not work.
+And another way to calculate such weak line significance level is to use equivalent width divide the uncertainty, but to the so narrow absorption line, how to calculate or get the uncertainty of the equivalent width?

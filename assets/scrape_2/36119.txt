@@ -1,0 +1,4 @@
+How to convert from Black body intensity to MJy/sr?
+
+How does one convert from  ${\rm ergs\cdot cm^{-2}\cdot s^{-1} \cdot sr^{-1}\cdot Hz^{-1}}$ to ${\rm MJy \cdot sr^{-1}}$
+and from ${\rm ergs\cdot cm^{-2}\cdot s^{-1} \cdot sr^{-1}\cdot cm^{-1}}$ to ${\rm MJy \cdot sr^{-1}}$

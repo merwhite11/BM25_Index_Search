@@ -1,0 +1,8 @@
+What was the field of view of the Ohio State University Radio Observatory of Wow! signal fame?
+
+This answer to Did comets 266P/Christensen or P/2008 Y2 (Gibbs) cause the Wow! signal? points out that the comets in question were nowhere near where the radio telescope was pointed.
+Wikipedia says that the Ohio State University Radio Observatory (or Big Ear) was a Kraus-type radio telescope but doesn't provide enough information to deduce a field of view.
+Questions: 
+
+What was the field of view of the Ohio State University Radio Observatory of Wow! signal fame?
+What would be the typical rise and fall times of a steady source passing through the fixed telescope's field of view as the Earth rotated?

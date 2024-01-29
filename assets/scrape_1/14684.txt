@@ -1,0 +1,5 @@
+What does the Sun's orbit within the Solar System look like?
+
+Everything in the Solar System revolves around the "barycenter": the overall center of mass. This barycenter is not in the center of the Sun. Some articles and essays I've read go so far as to suggest that the position of the barycenter does not have a set of fixed coordinates within the System: it fluctuates. 
+Well. Since everything, including the Sun, revolves around this barycenter, the Sun must have its own orbit around it. What does it look like? How large is it? How elliptic?
+(In my research, I have tried and failed to establish whether the barycenter is within the Sun or outside it. Either way, an orbit is an orbit).

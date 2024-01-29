@@ -1,0 +1,3 @@
+Which static spherically symmetric perfect fluid solutions of Einstein field equations are known to be suitable for stellar models?
+
+Wikipedia's (Static spherically symmetric perfect fluid) short list ends in 2005 and lists only in total 5 such solutions. Does somebody know more?

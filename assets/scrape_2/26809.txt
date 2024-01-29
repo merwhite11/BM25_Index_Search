@@ -1,0 +1,3 @@
+Heliocentric distance from galactic x y and z coordinates
+
+How can I get heliocentric distance to a star when I have galactic x y and z coordinates known ?

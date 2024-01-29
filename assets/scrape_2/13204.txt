@@ -1,0 +1,8 @@
+Stability of orbital resonance
+
+Recently I've become more interested in the topic of the stability of planetary systems. I have been reading about it and it seems that orbital resonances play an important role in the stability of Solar System (as well as in the moons of Jupiter and other planets).
+I first thought that the orbital resonance is somehow more stable and thus we have several cases in the Solar System.
+But as I kept reading, I found out that in the asteroid belt there were some gaps precisely where the resonances happen, so the resonances are actually instable for asteroids.
+I then thought that some resonances are stable while others are instable, but some of the resonances that makes gaps in the asteroid belt are actually present in the Solar System between planets, so I am completely lost.
+Why resonances are sometimes stable and sometimes instable? What am I missing?
+Maybe I am misunderstanding something because it doesn't make sense to me. Any help will be welcome.

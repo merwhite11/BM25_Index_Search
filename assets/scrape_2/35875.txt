@@ -1,0 +1,5 @@
+How do focal length, angular magnification and field of view relate?
+
+The larger the focal length the larger the angular magnification The smaller the focal length the larger the field of view.
+I don't understand why this applies. I'm talking specifically about telescopes.
+Wouldn't a greater angular magnification imply a greater field of view too?

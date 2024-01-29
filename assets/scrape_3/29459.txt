@@ -1,0 +1,7 @@
+Is albedo ever greater than unity? How is it calculated for various surface diffusivities and specular reflection?
+
+I'm trying to understand how albedo would be calculated for a body with well-characterized surface reflectance properties, so that it's absolute magnitude could be defined. One could argue that this is going backwards (one should measure apparent magnitude, correct for distances and phase angle to extract absolute magnitude, correct for radius to extract albedo) but consider if the body were not smooth and diffusely reflecting.
+Imagine two identically sized spherical bodies; one diffuse or matte white and the other somehow covered in liquid mercury and exhibiting specular rather than diffuse reflectivity, with no wind or waves.
+Would they both have albedo of unity?
+If these two reflective bodies were very irregularly-shaped and had an extremely large, flattened (much larger radius of curvature) face, would its albedo be larger than unity at times?
+Here I'm looking for how astronomers and planetary scientists use the term albedo and not just a mathematical hypothesis. There may be ways this is dealt with practically.

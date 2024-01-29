@@ -1,0 +1,16 @@
+Are Dwarf Galaxies a Subset of Galaxies?
+
+The question is a rather obvious one.
+In normal English a word like "dwarf" used as an adjective is assumed to modify the following word.  Thus a "dwarf galaxy" would be assumed to be a galaxy of a type which is noticably smaller than galaxies of at least one other type.
+And in science there might possibly be an established dividing line between dwarf galaxies and ordinary sized galaxies, just as there might possibly be a diving line between ordinary sized galaxies and giant galaxies.
+But in 2006 the International Astronomical Union created new definitions, in which a dwarf planet is not a subcatebory of planet, but a member of a totally separate class of astronomical solar system object.  Dwarf planets are not included in planets, and planets do not include dwarf planets.
+That is ungrammatical in English, but it follows a pattern.
+A minor planet is mostly equivalent to what is usually called an asteroid.
+
+A minor planet is an astronomical object in direct orbit around the Sun (or more broadly, any star with a planetary system) that is neither a planet nor exclusively classified as a comet.[a] Before 2006, the International Astronomical Union (IAU) officially used the term minor planet, but during that year's meeting it reclassified minor planets and comets into dwarf planets and small Solar System bodies (SSSBs).1
+
+https://en.wikipedia.org/wiki/Minor_planet[1]
+So in astronomy a minor planet is not a planet, and a dwarf planet is not a planet. The category of planets does not include minor planets or dwarf planets.
+And thus it seems possible to me that perhaps in astronomy a dwarf galaxy might not be a galaxy.
+If dwarf galaxies are a subcategory of galaxies, it would correct to call a dwarf galaxy a "galaxy" for short.  But if dwarf galaxies are a category of astronomical object separate from galaxies, it would not be correct to call a dwarf galaxy a "galaxy" for short.
+So are dwarf galaxies a subcategory of galaxies, or are they considered to be a separate category from galaxies?

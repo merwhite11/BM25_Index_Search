@@ -1,0 +1,5 @@
+Does the ratio of daylight change from year to year?
+
+Over a year, the ratio of daylight changes, e.g. in Montreal there is more daylight in the summer than in the winter.
+I want to know if, given a bad data sample, e.g. five years, one might notice a trend of increasing or decreasing daylight ratios.
+Here's why I ask. I'm doing research on the Dead Sea scrolls, and some of the fragments contain ratios that a scholar has argued represent daylight. What I'd like to know is a trend that the community of Qumran might have noticed in their dataset. They had a theory that darkness was increasing. I doubt their data was exhaustive, but I wonder if around Jerusalem there might have been a period of decreasing daylight ratios over a period of a few years roughly around 100 B.C.E.

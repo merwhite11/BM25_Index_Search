@@ -1,0 +1,7 @@
+ECEF to ECI conversion
+
+How to perform the conversion of (r,v) vector from ECEF to ECI (J2000) coordinate frame?
+What I tried
+I multiplied the matrix ([cosA -sinA 0] [sinA cosA 0] [0 0 1]) by the state vector, where A is Greenwitch mean sidereal time.
+This equation shows that the Z axis doesn't change. However, I have the ephemeris of a real satellite in both coordinate frames, and there Z axis differs! 
+Where is the issue?

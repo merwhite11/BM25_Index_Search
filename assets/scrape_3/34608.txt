@@ -1,0 +1,10 @@
+Calculating angle between the sun and a perpendicular to earth given lon/lat & time
+
+If you had your longitude/latitude, and the time/date, how could I go about working out the angle between your normal and the sun?
+At first I was doing a simplistic approach of assuming elliptical orbit in only two dimensions and that the earth is a perfect sphere,
+Can I get a more accurate method /formula than this that can be evaluated in one step without any iterative methods?
+
+Here is rough example of what I mean, say the green plane is the point on the surface of the earth I want.
+The angle I seek is between the black line perpendicular to the green plane and the black line between the plane and the sun.
+There are 2 problems involved here, knowing how the normal changes as the non spherical earth rotates and knowing the relative position between the earth and the sun.
+Any help appreciated.

@@ -1,0 +1,13 @@
+Pulling spectral data from Hubble Telescope automatically
+
+Libraries currently I am using: Astropy, Numpy, Matplotlib
+I am looking to create a python script that pulls spectral data (wavelength vs flux chart) from the Hubble Telescope, specifically for Be Stars. Currently, I am looking at the Hubble Telescope Archive but I am stuck on what to do. 
+My questions are:
+
+How do I isolate for spectral data only (on https://hla.stsci.edu/hlaview.html)? Or is there a way to pull fits files from https://www.stsci.edu/hst/instrumentation/cos (Cosmic Origin Spectrograph)
+
+Is there any other databases that I can look at for pulling spectral data for be stars?
+
+
+The final product would be a script where I enter the Be Star name into the script - ex. "Phi Per" and the spectral graph is displayed (so the fits data would be automatically downloaded, processed and visualized through a graph).
+Smit

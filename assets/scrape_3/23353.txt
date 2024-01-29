@@ -1,0 +1,11 @@
+Assume that a star has a uniform mass density. Then how does the temperature scale as a function of the distance to the center?
+
+Assume that a star has a uniform mass density. Then how does the temperature
+scale as a function of the distance to the center?
+Note: I am not looking for an answer that involves derivations or integrations.
+Here is what I did:
+The star is in equilibrium so the pressure at distance $r$ must equal the gravity force at distance $r$. Pressure is given by $P=nKT$, and so $P\times Area=F_g$.
+Then $nKT \times 4\pi r^2=F_G$. The mass of the part of the star contained within radius $r$ from the center is $\frac{4}{3}\pi r^3\times m_sn$ where $m_s$ is the mass of each particle and $n$ is the number of particles per volume.
+Then we can rewrite $nKT \times 4\pi r^2=m(\frac{G\frac{4}{3}\pi r^3\times m_snF}{r^2})$ and simplify to $KTr=\frac{m}{3}Gm_s$. Isolating $T$ we get that $T=\frac{mGm_s}{3Kr}$.
+This seems to imply that the temperature decreases the further we are from the core, however I am not sure what $m$ should stand for in $F_g=mg$, should $m=m_s$, i.e be the mass of a single particle? Or does $m$ itself depend on the radius in which case the answer I got is invalid.
+Can someone verify that the answer I got is right?

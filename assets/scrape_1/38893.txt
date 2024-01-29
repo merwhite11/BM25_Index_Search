@@ -1,0 +1,16 @@
+Is there a useful measure of how "life-dominated" a planet is?
+
+If life exists on Mars or Venus, then in contrast to life on Earth, it must be "just scraping by". I can imagine a few ways to quantify this:
+
+Life on Mars or Venus is hard to detect -- any biosignatures are extremely faint (life doesn't seem to appreciably affect the chemical composition of these planets).
+
+Life on Mars or Venus doesn't seem to play a major role in the important geochemical cycles on those planets.
+
+Life on Mars or Venus doesn't seem to "use" much of the available energy in the environment, or to affect flow of energy from the sun to the planet and then back out into space.
+
+
+By contrast, life on Earth has had dramatic effects on the chemical composition of the atmosphere and surface of the planet, plays a major role in many of the geochemical cycles on the planet, and an appreciable fraction of incident sunlight is siphoned into the food web by photosynthesizers before being radiated back into space.
+One could imagine planets even more life-dominated than Earth -- harnessing more of the sun's energy, controlling cycles like plate tectonics, ocean currents, and wind patterns, affecting the magnetic field or orbital parameters of the planet, controlling the cratering rate or chemical composition by diverting nearby asteroids or asteroid mining, ...
+But in any event, it's not clear to me whether there is a single good quantitative measure which might reflect many of these sorts of ways that life could affect its planet, such that Mars and Venus (if they have life) score low, Earth scores higher, and a hypothetical planet (or future Earth) might score higher still.
+Question: Is there such a measure?
+P.S. I could probably use some help choosing appropriate tags.

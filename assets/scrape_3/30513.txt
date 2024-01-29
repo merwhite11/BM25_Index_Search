@@ -1,0 +1,3 @@
+How to determine the eccentricity, knowing the orbital speed and distance
+
+How to determine the orbital eccentricity of a planet, knowing the instantaneous orbital speed of it and the distance from the Sun to the planet at that moment?

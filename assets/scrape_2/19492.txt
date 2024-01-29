@@ -1,0 +1,5 @@
+Compton scattering of high energy radiation
+
+I was reading up on Compton radiation, and a question came up which I could not quite answer.
+Compton scattering is known to be less efficient at high energies, due to the fact that the Klein-Nishina cross-section falls off at the high energy end. This means that the Universe is more transparent to Compton radiation at high energies.
+What other processes could stop high energy photons from propagating through the Universe (i.e., a process that preferentially stops high-energy photons)?

@@ -1,0 +1,5 @@
+Why does Nancy Grace Roman = 100 × Hubble? Why is the new space telescopes wide field camera so much wider than the old one's?
+
+The title of the WFIRST project description (before it was named the Nancy Grace Roman Space Telescope) is The Wide Field Infrared Survey Telescope: 100 Hubbles for the 2020s.
+Question: Why does Nancy Grace Roman = 100 × Hubble? Why does the new space telescopes wide field camera so much wider than the old one's?
+The telescopes have very roughly the same wavelengths and apertures, so does the new one have one hundred times more pixels at the same resolution, or 100 times larger pixels? Is there better correction optics that allows for a flatter field for a flat array, or a curved focal plane array, or other optical correction?

@@ -1,0 +1,10 @@
+Mass required for a certain fusion process
+
+Suppose we have a density model
+$$ρ = ρ_c (1-r/R)$$
+where $ρ$ is density, ${}_c$ means central, and $R$ is the stellar radius.
+Let's call the temperature for that fusion process to begin, $T_f$.
+I want to know the minimal stellar mass for a certain fusion to begin.
+I made some assumptions, for example the values of X, Y, and μ. So if the gas is non degenerative and non relativistic, we have
+$$P = \dfrac{ρκΤ}{μm_h}$$
+But im not sure what to do with the pressure. I have $T,μ$, can obtain $ρ(M,R)$. Maybe I can use virial?

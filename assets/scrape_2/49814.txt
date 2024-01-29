@@ -1,0 +1,5 @@
+Why does sychrotron radiation only involve relativistic electrons?
+
+I'm reading this chapter of Essential Radio Astronomy.
+It says that we can divide bremsstrahlung into electric or magnetic breaking radiation, depending on which field is the source of the acceleration of electrons. Synchrotron radiation is another name for magnetic breaking radiation, and it is usually non-thermal, because the relativistic electrons creating the emissions tend to have a power-law distribution.
+My question would be: why does synchrotron radiation only occur in the case of relativistic electrons? Why cannot any non-relativistic electron that is moving in the presence of a magnetic field emit synchtron radiation?

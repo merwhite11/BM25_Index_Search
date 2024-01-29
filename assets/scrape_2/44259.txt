@@ -1,0 +1,5 @@
+Frequency vs Flux data for Gamma Ray Bursts (GRB190114C)
+
+I am working on a research project to prove Synchrotron-Self-Compton radiation through the case study of GRB190114C and am not able to find data for the frequency spectrum even though all telescoped capture frequency data. I need it to plot a flux density vs frequency graph.
+I have looked through many public telescope databases such as https://www.swift.ac.uk/analysis/xrt/
+Does anyone have any idea where I could maybe get this data from? Any help would be really appreciated!

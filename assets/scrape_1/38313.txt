@@ -1,0 +1,14 @@
+Angular diameter result confirmation
+
+Not being a math-minded person at all, however basic it might appear to be to all of you in this particular question, I would like to get the following calculation confirmed.
+I'm trying to calculate the angular diameter of two natural satellites orbiting a planet, as seen from the planet.
+
+Satellite A is located 568350 km from the planet and has a diameter of 4400 km.
+Satellite B is located 357094 km from the planet and has a diameter of 1900 km.
+
+For Satellite A, we would therefore get:
+$$\arctan\left(\frac{4400}{568350}\right)=0.44^\text{o}$$
+For Satellite B, we would therefore get :
+$$\arctan\left(\frac{1900}{357094}\right)=0.3^\text{o}$$
+Similarly, for our moon, the same calculation goes as follows:
+$$\arctan\left(\frac{3476}{384402}\right)=0.51^\text{o}$$

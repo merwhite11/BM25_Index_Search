@@ -1,0 +1,7 @@
+How do a planet's moons and a planet's rings interact?
+
+I am making a video game which features a planet and its moon. And I thought I would add rings too.
+But that got me wondering... how do a planet's moon and a planet's ring influence each other?
+Does a moon clear out all the debris in its orbit? In other words: does it make a gap in the ring? If so, how large is the gap in relation to the moon's radius?
+If not, does the moon travel along as all the other matter in the ring? Would it not make the debris fall to the moon, thereby growing the moon?
+Lastly, are both the rings and moons typically in the same plane?

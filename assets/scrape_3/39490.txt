@@ -1,0 +1,10 @@
+Why does the Simbad page "A.A. Michelson's Jovian Galilean-satellite interferometer" show data for Betelgeuse?
+
+When searching for things related to How did Michelson measure the diameters of jupiter's moons using optical interferometry? I came across the ui.adsabs.harvard.edu entry A. A. Michelson's Jovian Galilean-Satellite Interferometer at Lick Observatory in 1891 which links to this Simbad page.
+But I don't understand what I'm looking at. The title of the Simbad page is
+
+A.A. Michelson's Jovian Galilean-satellite interferometer at Lick Observatory in 1891.
+
+but the date directly below it seems to be Betelgeuse.
+I don't use Simbad so I'm not sure exactly how to understand the juxtaposition of the title's
+Jovian Galilean-satellite interferometer" with data about Betelgeuse. Is it possible to explain the page's purpose?

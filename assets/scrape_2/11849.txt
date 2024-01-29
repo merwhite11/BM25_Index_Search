@@ -1,0 +1,4 @@
+What is the angle between the equator of the sun, and the plane of the Earth's orbit
+
+I want to know the angle between the plane that passes through the centre of sun and is perpendicular to its spin axis, and the plane that contains the orbit of earth around sun?
+Is this a fixed value or it is variable over time (and if so, how does it vary) !

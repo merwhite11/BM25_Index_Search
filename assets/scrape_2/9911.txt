@@ -1,0 +1,6 @@
+What is the typical resolving power of the largest optical telescopes?
+
+I'd like to estimate the typical resolving power of the largest optical telescopes. 
+I've calculated the theoretical resolving power of the VLA for 21 cm light, $$R=\frac{\lambda}{B}=\frac{2.1 \times 10^{-1} m}{2.7 \times 10^4 m}=1.6 ''$$
+And I know that the largest optical telescopes on Earth are GTC, Keck 1 & 2, SALT, VLT, etc. 
+But I don't know how to calculate a typical resolving power in practice. How can I make this estimate taking into account astronomical seeing and other effects?

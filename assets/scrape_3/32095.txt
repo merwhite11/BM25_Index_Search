@@ -1,0 +1,11 @@
+How to calculate planetary positions hundreds or thousands of years ago
+
+Wondering how to calculate the following in a general way:
+
+Sunrise/sunset
+Equinoxes/solstices
+Moon phases
+Planetary positions
+
+For hundreds to thousands of years ago. Wondering what the calculation is, or where I go about figuring it out.
+I would like to be able to say, in 1541 on Jan 1 the sun rose at x time, Jupiter was in y position, etc.

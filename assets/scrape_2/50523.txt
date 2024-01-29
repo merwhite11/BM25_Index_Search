@@ -1,0 +1,19 @@
+The Relationship between Surface Temperature and Mass of MS and Red Giant
+
+The assumptions about the problem situation are as follows :
+
+The red giant is in the HB  at HR disgram, and it's a helium fusion situation. And in this situation, the mass of the red giant is the same as the mass of the sun.
+
+The main sequence stars with the same mass as the Sun are presented.  Compare the strength of the hydrogen absorption line measured by the main series and the red giant.
+
+
+My question is as follows.
+
+Does the red giant always have a lower surface temperature than all main-sequence stars, regardless of what mass the red giant has?
+For example, does a red giant always have a lower surface temperature than the Sun, regardless of whether its mass is greater or less than the Sun's mass?
+
+It makes sense that in the evolution of a single star, the envelope grows and the surface temperature changes. However, what factors should be considered when comparing random red giants with random main-sequence stars?  Based on which of these factors can you compare, such as radius, luminosity, and mass?
+
+If the red giant is currently in phase HB and its mass is solar, is it losing its mass until it reaches the current stage or should it be assumed to be constant? Can I assume that there is no loss of mass?
+
+When comparing hydrogen absorption lines in the previous question, should we consider only the surface temperature of the red giant and the main series? According to the Saha Boltzmann equation.

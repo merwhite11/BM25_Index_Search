@@ -1,0 +1,5 @@
+how to assess a periodical signal?
+
+After folding a light curve, we may  get some kind of shape.
+How to tell whether there is a real periodical signal quantifiably?
+The fluctuation may be small, and the folded shape may not be perfect.

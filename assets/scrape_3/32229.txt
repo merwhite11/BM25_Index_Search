@@ -1,0 +1,13 @@
+Using emission lines to determine redshift of a quasar
+
+I am attempting this past paper question and am not sure how to tackle this, this is not homework! :)
+
+The spectrum of a distant quasar shows two broad emission lines with observed
+  wavelengths of 317.7nm and 404.7nm. The strongest lines are most likely to be either Lyman-α with a rest wavelength 121.6nm, CIV with a rest wavelength of 154.9nm or MgII with a rest wavelength of 280.0nm.
+(a) What is the redshift of the quasar? Please show your working.
+(b) What two lines have been detected?
+(c) The two lines have widths of 10nm and 20nm respectively. If I have measured
+  the mass of the black hole in the quasar to be 10^9Msun, how far from the centre of the quasar are the regions of ionised gas responsible for the emission lines?
+  Please specify any assumptions that you make to obtain your result.
+
+I am assuming I must find z to be the ratio of the change in wavelength to the rest wavelength. However I'm unsure of how to identify these in the question.

@@ -1,0 +1,25 @@
+Method to determine the amount of reflected starlight necessary for an exoplanet to be visible from a given distance/angle?
+
+What is the method to determine the amount of reflected starlight necessary for an exoplanet to be visible from a given distance/angle? (Not from occlusion but actually visible on its own.) Further, how can you quantify this and calculate/predict/measure natural and artificial variations in the amount of reflected light?
+I would like to see equations that take into account/assume the following things:
+
+the properties of the detection equipment, such as telescope mirror diameter, optical resolving power, digital resolution and sensitivity (I'm a newbie to astronomy so I don't know the proper terms or units for these things; I come from the world of photography with ISO, pixel count, noise levels, etc.). 
+the properties of the exoplanet such as diameter, distance from host star, surface reflectance coefficient on a hypothetical maximally "clear day", atmospheric thickness and reflected light absorption due to gasses, angles of a triangle drawn between the host star, exoplanet, and Earth.
+assume a space-based telescope on Earth and assume no interstellar dust of significance.
+assume no significant warping of spacetime by intense gravitational fields (i.e. we are looking at something in our stellar neighborhood, no further than, say, 50-100 LY)
+
+Based on my nooblet research so far this equation should result in a figure expressed in Janksy units, I think? But I should like to know the average (RMS) photons per second that come from the exoplanet into the telescope, along with the peak value, during the periods of maximum and minimum intensity (i.e. when the planet is brightest and dimmest).
+Please give an example using figures for the best equipment we currently have available for this purpose and provide links if you can to the website for that project. Please in the example, just for the sake of argument, use a planet and star exactly like Earth and the Sun. If a planet like Earth would not be detectable at these parameters, assume more powerful detection equipment (just scale up the telescope's properties until it would work at a 10 LY distance and say how much you had to scale it up, and feel free to opine on how unrealistic such a device is).
+Lastly, and here's the kicker: now assume an artificial object with a perfectly flat reflecting surface exists upon one side of this exoplanet. How would you incorporate the precise amount of extra light added by such a surface to the above equation as a separate part of the equation? Assume that you know the following properties of the reflecting surface in advance:
+
+area of the flat reflecting surface
+reflectance coefficient of the material used for constructing the surface 
+geometric shape (assume a contiguous primitive geometric shape like a disc or square or triangle, or disregard if this property is irrelevant. If it's not irrelevant, then why is it not? What difference would the shape make on what gets detected?)
+angle between the reflecting surface plane and a plane tangent to the average sphere of the planet.
+
+For an example lets assume a disc of polished white stone (0.8 reflectance) 20,000 sq. m. in size, positioned on at the part of the planet with the brightest insolation, at a 45-degree angle from the tangent plane. It's polished to a degree, but not a mirror. When the planet rotates, at some point, this surface reflects the host star's light directly towards Earth and would cause a glint of light for a small amount of time. How do we calculate the glint's duration? How would we mathematically distinguish such a glint? How could you tell if such a glint was reflected starlight as opposed to a laser pulse or other artificial light source?
+What size would such an artificial reflecting surface (0.8 reflectance) need to be in order to make a planet visible with today's best telescopes from various distances up to 10 LY, where under current technology, the planet is not visible? 
+UPDATE:
+I realized that in the case of flat reflecting surfaces then the inverse square law would not apply from the distance of the exoplanet to Earth, due to Hero's rule (aka the law of reflection aka specular reflection). That means a totally still, large, flat body of water reflecting starlight, or a highly polished surface (like that of the Great Pyramid after its construction) would reflect a signal into space from the host star that would be detectable from a much greater distance away than the diffuse, incident light being reflected off of the planetary surface (which light would be subject to the inverse square law from the point of incidence).
+Variables that would come into play would be the reflectance of the surface, the absorption of the atmosphere, flatness of the surface, and the level of insolation provided by the star. 
+By my preliminary calculations the reflections off of the Great Pyramid would be visible from 20 LY.

@@ -1,0 +1,6 @@
+What effects does the motion of the Sun have on the perihelion precession of Mercury?
+
+According to the wikipedia page, there are multiple effects contributing to the perihelion precession of Mercury.
+Of course, according to this link and this link we know that the Sun is itself orbiting around a barycenter that sometimes crosses its own surface. Are there any calculations that tell us what effects this has on the perihelion precession of mercury?
+Edit: I see now that you can do calculations in a barycentric reference frame or in a heliocentric reference frame. If one chooses to use the heliocentric frame (which is an accelerating frame), one would have to take into account "third body effects" on Mercury.
+My question now comes down to the following: do we know whether or not these third body effects were taken into account in the calculation for the 532 arcsec/century value listed in the wiki link?

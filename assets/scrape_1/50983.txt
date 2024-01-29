@@ -1,0 +1,23 @@
+Has "crescent-twinkling" even been demonstrated or at least calculated/predicted? Any "twinkleometer" data for Venus out there?
+
+My new answer to Why does Venus flicker? addresses something that I find particularly interesting; Venus can be an incredibly thin crescent at times, and even a 1 arcminute large thin ring with an edge width of only one or two arcseconds (see below).
+This suggests to me that Venus can twinkle much more like a star than a filled-disk planet at certain times. So for example in a comment there I wrote:
+
+I have a strong hunch that if Jupiter were sitting right next to Venus on 12 April 2015 it would not have twinkled to the same extent.
+
+@ProfRob notes that it turns out that Venus was a large-ish 15 arcecond disk 75% illuminated on 12 April 2015 so "crescent-twinkling" wasn't the reason that Venus twinkled for the OP on that day.
+But I'm still convinced that it's gotta be a real, measurable phenomenon if there is such a thing as a planet "twinkleometer" and it's been applied systematically to Venus.
+So I'd like to ask:
+Question: Has "crescent-twinkling" even been demonstrated or at least calculated/predicted? Any "twinkleometer" data out there?
+
+For more on how Venus's dance changes distance from Earth and illuminated fraction in such a way that it's almost always between -3.8 and -4.8 magnitude, see answers to
+
+Venus' magnitude during inferior conjunction
+
+
+From the linked answer:
+
+
+above: Phases of Venus, originally from Wikimedia but annotated.
+For three times in 2004 (Feb 27, May 7, and June 8) I've taken the angular diameters of Venus from JPL's Horizons and using the largest (June 8) as a calibration for the image shown the full diameter of Venus.
+Then I've drawn a thin rectangle to eyeball the width of the bright part of the limb that would contribute most of the light. The annotated numbers (15/5, 40/3, 58/1) are the apparent diameters of the full disk and the width of the bright limb in arcseconds.

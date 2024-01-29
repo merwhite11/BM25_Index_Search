@@ -1,0 +1,4 @@
+If the Universe is infinite, why isn't it of infinite density?
+
+If we make the assumption that the Universe is infinite, and has an infinite number of hydrogen atoms, then why is it not of infinite density - because, under Schrodinger's wave equation the probability of an electron being at any given point is non-zero and any non-zero number multiplied by infinity is itself infinity?
+Is the answer (a) I have made some basic error in physics, (b) the Universe is provably not infinite because of this - effectively a version of Obler's Paradox or (c) the Pauli exclusion principle means that electrons just cannot be anywhere?

@@ -1,0 +1,5 @@
+Why do white dwarfs cool down so slowly?
+
+I read that when white dwarfs do not proceed with nuclear fusion, the heat radiation from it is solely based on heat it retained in the past
+But then, it floats in an almost 0 K empty space. So, why does it take a million (or many many more) years to cool down (to a black dwarf?)?
+Shouldn't this temperature difference between them and the environment (space) cool them down much faster?  Or maybe the emptiness of the space causes this very slow temperature outflow?

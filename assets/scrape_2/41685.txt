@@ -1,0 +1,12 @@
+What exactly was the Moon's "Evection Resonance"?
+
+Ward et. al define the evection resonance of the Moon with the Earth and Sun as:
+
+occurring when the lunar perigee precession period equals one year.
+
+Does this simply mean that the angle formed by the Sun-Earth-Moon when the Moon was at perigee was the same every month?
+I tried looking at the wikipedia definition of Evection but just found it more confusing.
+If it helps, I am curious about the lunar evection resonance because it is often cited as a mechanism to explain Moon/Earth angular momentum shedding necessary if one assumes the Giant Impact Hypothesis of Moon formation.  See Ward and Canup:
+
+The resonance can exchange angular momentum between the Earth-Moon
+system and the Earth's orbit.

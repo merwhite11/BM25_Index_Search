@@ -1,0 +1,17 @@
+Constructing a periscope/telescope - trouble with lenses
+
+Not sure if this is the best place for this, maybe physics would be a better fit, but I'm trying to build a periscope and am running into an issue. 
+Traditional mirror periscopes work well, but when I look into the one end of the periscope, I see the reflected image at the end of a long tube. I figure that using some combination of lenses, you should be able to make it look as if the position of your eye/head was actually at the top of the tube looking out at the world rather than looking through a tube. 
+My thinking here is that when you look through binoculars or a telescope, you don't see the inside of the tube, just the enlarged image. So shouldn't you be able to do the same thing but without the magnification?
+I purchased some lenses from Amazon with focal lengths of 200mm and -100mm and based on some optics simulators assumed(incorrectly apparently) that I could arrange them 10cm apart and then another set reversed on the other side like so:
+`````()````````````````)(```````````)(``````````````()
+200mm````````-100mm``-100mm```````200mm
+() = convex lens
+)( = concave lens
+The thinking here was that one set would condense the image down so that the walls of the tube were no longer visible within that viewing angle, and then the other reversed set would reverse that and the image would be back at normal size to my eye, it would just look as though my eye were actually at the opposite end of the tube. 
+This didn't work. The image is close to life size, but the tube looks even longer: a foot long tube has turned into a 3 foot long tube, and the circle I can see the world through is very small.
+Is this a pipe dream? I feel like it must be possible if they used periscope in military applications for years before electronics and fiber-optic cables were invented. 
+Where did I go wrong? Any guidance would be hugely appreciated.
+Edit: some follow up questions
+Am I stuck having a small field of view out of the end? Or would using a lower focal point(wide angle) lens allow me to see a wider angle?
+Also, is there any way to have a variable length tube? For instance if I'm looking around a wall, is there a way to install the lenses so that the tube could be "telescoped" out to look around a thicker wall?

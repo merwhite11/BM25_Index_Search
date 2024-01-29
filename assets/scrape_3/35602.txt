@@ -1,0 +1,5 @@
+How does the Sky in Google Earth Pro work?
+
+For those who don't know, Google Earth Pro has a feature where you can see what the sky should look like based on the time and geographical location. 
+I know Google Sky says that Google Earth uses their information, is there any way that I could access this through an API?
+If that isn't possible, do y'all know of any related databases that reveal how the sky would look at night? (Emphasis on how the sky would look here, I know there are things like the Yale Bright Star Catalouge, but it doesn't tell me where the milky way would appear in the sky).
