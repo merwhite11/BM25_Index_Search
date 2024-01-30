@@ -1,3 +1,4 @@
+
 **PRE-REQUISITES**
 1. Mongodb installed and running
 2. Create a db called bm25 in your mongo cli or change the name of the path to connect to the db in index.py lines 13 and 17
@@ -14,3 +15,4 @@
 2. run the search_service, passing in the index you'd like to search and the search query
     `python3 search_service.py --phrase='what is gravity' --index='index_0'`
 3. this will return an object with a key "documents" and a value that is an array of objects. Each object in the array has an "id" which references a the txt filename in the original scrape file and "text" which is the text from that file that most closely matches your search query.
+4. 
